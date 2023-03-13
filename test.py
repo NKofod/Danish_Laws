@@ -9,7 +9,7 @@ with open("log.json","r") as infile:
     checked = json.load(infile)
 with open("active.json","r") as infile: 
     active = json.load(infile)
-    
+count = 0
 
 try: 
     for level in ["A","B","C"]:
@@ -18,6 +18,7 @@ try:
                     tmp_url = f"{base_url}{level}{year}{num:07d}/xml"
                     if tmp_url in checked:
                         continue 
+                    count += 1
                     if num % 10 == 0: 
                         print(f"{year} - {num}")
                     tmp_req = requests.get(tmp_url)
@@ -26,7 +27,14 @@ try:
                         active.append(tmp_url)
                         print("FOUND ONE!!!")
                     checked.append(tmp_url)
+                    if count == 1000000:
+                        raise GeneratorExit
 except KeyboardInterrupt:
+    with open("log.json","w") as outfile: 
+        json.dump(checked,outfile,indent=4,ensure_ascii=False)
+    with open("active.json","w") as outfile: 
+        json.dump(active,outfile,indent=4,ensure_ascii=False)
+except GeneratorExit: 
     with open("log.json","w") as outfile: 
         json.dump(checked,outfile,indent=4,ensure_ascii=False)
     with open("active.json","w") as outfile: 
