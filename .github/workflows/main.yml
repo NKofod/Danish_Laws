@@ -1,10 +1,9 @@
 name: python_get_active
 on:
   schedule:
-    - cron: "30 00,02,04,06,08,10,12,14,16,18,20,22 * * *" #runs at 00:00 UTC everyday
+    - cron: "33 00,02,04,06,08,10,12,14,16,18,20,22 * * *" #runs at 00:00 UTC everyday
 
-
-jobs:0
+jobs:
   build:
     runs-on: ubuntu-latest
 
