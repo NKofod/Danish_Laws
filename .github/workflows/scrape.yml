@@ -1,7 +1,7 @@
 name: scrape
 on:
   schedule:
-    - cron: "47 * * * *" #runs at 00:00 UTC everyday
+    - cron: "05 * * * *" #runs at 00:00 UTC everyday
 
 jobs:
   build:

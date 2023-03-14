@@ -16,7 +16,7 @@ count = 0
 try: 
     for level in ["A","B","C"]:
         for year in range(1900,2024):
-            if checked_combos[level][year]:
+            if checked_combos[level][str(year)]:
                 continue 
             for num in range(0,10000000):
                     tmp_url = f"{base_url}{level}{year}{num:07d}/xml"
@@ -33,7 +33,7 @@ try:
                     checked.append(tmp_url)
                     if count == 1000000:
                         raise GeneratorExit
-            checked_combos[level][year] = True 
+            checked_combos[level][str(year)] = True 
             checked = []
 except KeyboardInterrupt:
     with open("log.json","w") as outfile: 
