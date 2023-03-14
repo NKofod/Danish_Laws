@@ -34,6 +34,7 @@ try:
                     if count == 1000000:
                         raise GeneratorExit
             checked_combos[level][year] = True 
+            checked = []
 except KeyboardInterrupt:
     with open("log.json","w") as outfile: 
         json.dump(checked,outfile,indent=4,ensure_ascii=False)
