@@ -1,0 +1,75 @@
+{
+    "id": 25875,
+    "title": "Vejledning om vigtige meddelelser (OXXO) via Inmarsat-C",
+    "documentTypeId": "180",
+    "isSagsforlobPeriodValid": true,
+    "shortName": "VEJ nr 9174 af 25/04/2002",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<FONT SIZE=5><P ALIGN=\"CENTER\">Vejledning om vigtige meddelelser (OXXO) via  \r\n\r\n Inmarsat-C</P>  \r\n\r\n</FONT>  \r\n\r\n<P>&nbsp;</P>  \r\n\r\n<FONT SIZE=5><P ALIGN=\"CENTER\">&nbsp;</P>  \r\n\r\n</FONT>  \r\n\r\n<P ALIGN=\"JUSTIFY\">OXXO er et f&aelig;lles kaldesignal for samtlige danske  \r\n\r\n skibe. Et OXXO telegram er en meddelelse af vigtig karakter til alle danske  \r\n\r\n skibe fra dansk myndighed. Meddelelsen kan v&aelig;re en advarsel i en krise-  \r\n\r\n eller krigssituation om fare for sejladsen i bestemte omr&aring;der med  \r\n\r\n vejledning om forholdsregler, der skal tages i den anledning. Eller den kan  \r\n\r\n v&aelig;re en vigtig meddelelse til alle danske skibe om f.eks. afgivelse af  \r\n\r\n brevstemmer ved valg i Danmark. </P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">F&oslash;r i tiden blev OXXO meddelelser udsendt fra de  \r\n\r\n danske kystradiostationer via MF og HF telefoni og radiotelex. Efter  \r\n\r\n indf&oslash;relsen af GMDSS er disse muligheder blevet indskr&aelig;nket, og  \r\n\r\n det har derfor v&aelig;ret n&aelig;rliggende at s&oslash;ge at kompensere  \r\n\r\n herfor ved at udsende meddelelsen via Inmarsat-C.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">I det s&aring;kaldte FLEET NET, der er en del af Inmarsat  \r\n\r\n s EGC-tjeneste (Enhanced Group Call) kan der med <U>et</U> opkald sendes den  \r\n\r\n samme meddelelse til alle Inmarsat-C terminaler med et f&aelig;lles ENID  \r\n\r\n nummer (EGC Network IDentity). </P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Danske skibe med Inmarsat-C terminal og kaldenummer med  \r\n\r\n endetallet 10 (prim&aelig;rstationen) er tildelt ENID 28941.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Indkodningen af ENID forest&aring;s af Tele Danmark, der  \r\n\r\n via jordstationen EIK i Norge afsender signal til skibets Inmarsat-C terminal  \r\n\r\n med automatisk indkodning af nummeret. Kun hvis terminalen er &aring;ben, og  \r\n\r\n der ikke har foreg&aring;et anden trafik i udsendelses&oslash;jeblikket,  \r\n\r\n bliver ENID nummeret indkodet. Derfor udsendes kodesignalet to gange. Tele  \r\n\r\n Danmark modtager ikke nogen kvittering for, at ENID nummeret er blevet  \r\n\r\n indkodet i skibsterminalen.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">P&aring; skibets printer vil, hvis den er sl&aring;et til,  \r\n\r\n fremkomme f&oslash;lgende besked, n&aring;r ENID nummeret er blevet  \r\n\r\n indkodet:</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<FONT FACE=\"Arial\"><P ALIGN=\"JUSTIFY\">REPORT (nummer) &#9;Page (nummer)  \r\n\r\n &#9;UTC Time: (dato) &#9;(klokkesl&aelig;t)</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">ENID 28941 added</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">EGC Network ID list </P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Soefartsstyrelsen &#9;&#9;28941</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">1 ENID(s) stored</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">REPORT (nummer)</P>  \r\n\r\n</FONT>  \r\n\r\n<P ALIGN=\"JUSTIFY\"></P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Gruppen af eksisterende skibe er blevet indkodet ad to  \r\n\r\n gange, henholdsvis i december 1999 og senest den 20. december 2000.  \r\n\r\n Efterf&oslash;lgende er nyoprettede Inmarsat-C terminaler blevet indkodet  \r\n\r\n l&oslash;bende.</P>  \r\n\r\n<I><P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n</I>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Det er muligt, at ENID 28941 i nogle tilf&aelig;lde ikke  \r\n\r\n er blevet indkodet i skibets Inmarsat-C terminal p&aring; grund af  \r\n\r\n d&aring;rlige modtageforhold, eller at man i skibet ved en fejltagelse har  \r\n\r\n sp&aelig;rret nummeret eller p&aring; anden m&aring;de &aelig;ndret p&aring;  \r\n\r\n konfigurationen.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Desuden er det forekommet, at nummeret er blevet slettet  \r\n\r\n ved service/reparation, og at prim&aelig;r-stationen (10) og  \r\n\r\n sekund&aelig;rstationen (11) er blevet byttet om.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">For at kontrollere, om ENID 28941 er indkodet/aktiv i  \r\n\r\n prim&aelig;rstationen (den med INM-C nr., der ender p&aring; 10), foretages  \r\n\r\n f&oslash;lgende:</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\"></P><DIR>  \r\n\r\n<P ALIGN=\"JUSTIFY\">1)&#9;I menuen under OPTIONS-CONFIGURATIONS-ENID kan man  \r\n\r\n se, hvilke ENID numre der er indkodet og om de er ENABLED eller DISABLED.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&#9;<U>ENID 28941 skal v&aelig;re ENABLED.</U> </P>  \r\n\r\n<P ALIGN=\"JUSTIFY\"></P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">2)&#9;Under ROUTING kan man se, om EGC meldinger gemmes  \r\n\r\n p&aring; diskette eller printes ud.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&#9;<U>Der skal st&aring; X ud for PRINTER.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P></DIR>  \r\n\r\n</U><P ALIGN=\"JUSTIFY\">Er ENID 28941 ikke p&aring; listen skal, der foretages  \r\n\r\n en ny kodning af Tele Danmark. Dette kan ske ved henvendelse til (helst via  \r\n\r\n e-post):</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Tele Danmark Erhverv</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Telefon + 45 44 80 46 40</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Telefax + 45 44 64 93 41</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">E-post tdksat@tdc.dk </P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&nbsp;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Derefter vil en ny indkodning direkte til det  \r\n\r\n p&aring;g&aelig;ldende skib via EIK blive foretaget.</P>  \r\n\r\n<U><P ALIGN=\"JUSTIFY\"></P></U>  \r\n\r\n<DIV CLASS=GIVET ID=\"GIVET\">  \r\n\r\n<FONT SIZE=\"3\">  \r\n\r\n<P CLASS=GIVET ALIGN=\"CENTER\"><I>Søfartsstyrelsen, den 25. april 2002</I></P>  \r\n\r\n<P CLASS=SIGN1 ALIGN=\"CENTER\"></P>  \r\n\r\n</FONT>  \r\n\r\n</DIV><!-- End of \"GIVET\" -->  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Erhvervsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "14/05/2002"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C20020917460"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "AU000560"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "14/05/2002"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "19/07/2007"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Vejledning"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "9174"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "2002"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "25/04/2002"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Søfartsstyrelsen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Center for Søfarende og Fiskere (SOFUS)"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

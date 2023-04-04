@@ -1,0 +1,75 @@
+{
+    "id": 45334,
+    "title": "Cirkulære nr. 27A. Tillæg. Tekniske krav til særudstyr tilsluttet det offentlige telefonnet ",
+    "documentTypeId": "140",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "CIR nr 26050 af 01/04/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Cirkulære nr. 27A. Tillæg. Tekniske krav til  \r\n\r\n særudstyr tilsluttet det offentlige telefonnet </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Ved dette tillæg foretages nedenstående ændringer og tilføjelser i </P>  \r\n\r\n<P>cirkulære nr. 27A af december 1981: </P>  \r\n\r\n<P> <B>2.4. Sløjfestrømmens indsvingningsforløb</B>  </P>  \r\n\r\n<P>I pkt. 2.4.1., side 6, erstattes stk. 2 af: </P>  \r\n\r\n<P>I et særudstyr, som overtager sløjfetilstand fra et andet udstyr i en  \r\n\r\n abonnentinstallation, skal sløjfetilstanden dog etableres således, at  \r\n\r\n sløjfestrømmen senest 5 ms efter, at omkoblingen er påbegyndt, er mindst 15  \r\n\r\n mA, når særudstyrets linieklemmer er påtrykt en spænding på 48 V gennem  \r\n\r\n 2x1200 ohm. </P>  \r\n\r\n<P> <B>3.1. Indgangsimpedans</B>  </P>  \r\n\r\n<P>I pkt. 3.1. nummereres den nuværende tekst med tilhørende figur 3.1.1., og  \r\n\r\n der tilføjes en ny figur og et nyt pkt. 3.1.2. med følgende tekst: </P>  \r\n\r\n<P>3.1.2. I et særudstyr, hvor et ringesignal ved ringemodtagning direkte  \r\n\r\n omsættes til et akustisk signal, kan det dog tillades, at særudstyret i  \r\n\r\n rotilstand har en indgangsimpedans, hvis reelle komposant ved en 50 Hz  \r\n\r\n vekselspænding på 45 V er mindst 4 kohm, og hvis  \r\n\r\n spændings-strømkarakterististik ved 25 Hz ligger under den i fig. 3.1.2.  \r\n\r\n angivne grænse. </P>  \r\n\r\n<P><IMG SRC=\"/image.aspx?id=45334&img=CR3916_1.gif\" ALIGN=\"middle\" WIDTH=\"235\" HEIGHT=\"85 BORDER=\"no\" ALT=\"DUMMY.GIF billedet er ikke indlagt onMouseOver=\"self.status='DUMMY.GIF billedet er ikke indlagt'; return true\"\"> </P>  \r\n\r\n<P> <B>5.4. Nummervalg med toneimpulser</B>  </P>  \r\n\r\n<P>I pkt. 5.4.2., side 12, erstattes stk. 1, 2 og 3 af: </P>  \r\n\r\n<P>5.4.2. Ved nummervalg med toneimpuls skal der for hvert ciffer eller tegn  \r\n\r\n sendes et kodesignal i form af en vekselspændingsimpuls, som indeholder en  \r\n\r\n frekvens i lavt bånd (under 1000 Hz) og en frekvens i højt bånd (over 1000  \r\n\r\n Hz). </P>  \r\n\r\n<P>Sammenhængen mellem cifferværdi/tegn og frekvenskombinationen i  \r\n\r\n kodesignalerne fremgår for hver cifferværdi/tegn af Fig. 5.4.2. </P>  \r\n\r\n<P>Anvendelse af kodesignalerne, som i Fig. 5.4.2. er symboliseret, med A, B,  \r\n\r\n C, og D, er endnu ikke fastlagt, og disse kodesignaler må indtil videre ikke  \r\n\r\n anvendes i forbindelse med et nummervalg. </P>  \r\n\r\n<P> <B>5.6. Identifikationssignal</B>  </P>  \r\n\r\n<P>Teksten i pkt. 5.6.2., side 13, erstattes af: </P>  \r\n\r\n<P>5.6.2. Et identifikationssignal i form af et kodesignal skal være  \r\n\r\n sammensat af een eller flere frekvenser i frekvensområdet 300-2200 Hz og  \r\n\r\n sendes vedvarende eller intermitterende, indtil korrekt identifikationssignal  \r\n\r\n er modtaget fra den kaldte abonnent, eller indtil sløjfetilstanden er afløst  \r\n\r\n af rotilstand. Desuden tillades det, at MFT-signaler i overensstemmelse med  \r\n\r\n pkt. 5.4.2., 5.4.3. og 5.4.6. benyttes som identifikationssignal. </P>  \r\n\r\n<P> <B>5.8. gentagelse af opkald</B>  </P>  \r\n\r\n<P>I pkt. 5.8.2., side 13, erstattes stk. 2 og 3 af: </P>  \r\n\r\n<P>Et sådant særudstyr må endvidere ved opkald til flere forskellige numre i  \r\n\r\n en vilkårlig tilbagevendende rækkefølge højst foretage 10 på hinanden  \r\n\r\n følgende mislykkede opkald til samme nummer, før særudstyret automatisk  \r\n\r\n blokerer sig selv for yderligere opkald til det opgældende nummer og giver  \r\n\r\n alarm for dette. Er særudstyret indrettet for tilslutning af en datamaskine,  \r\n\r\n tillades det dog, at den tilsluttede datamaskine styrer opkald i  \r\n\r\n overensstemmelse med forannævnte krav. </P>  \r\n\r\n<P>Hvis et særudstyr på grund af mislykkede opkald er blokeret for yderligere  \r\n\r\n opkald til eet eller flere numre, må denne blokering først ophæves efter en  \r\n\r\n omhyggelig kontrol og eventuel fejlretning af særudstyret. </P>  \r\n\r\n<P> <B>6.4. Identifikationssignal</B>  </P>  \r\n\r\n<P>I pkt. 6.4.3., side 14, tilføjes: </P>  \r\n\r\n<P>Som en undtagelse fra dette krav tillades det, at toneimpulser  \r\n\r\n (MFT-signaler) i overensstemmelse med pkt. 5.4.2., 5.4.3. og 5.4.6. benyttes  \r\n\r\n som identifikationssignal. </P>  \r\n\r\n<P>Mellem afsnit 6 og 7 indføjes et nyt afsnit X: </P>  \r\n\r\n<P> <B>X. Signalering og transmission mod abonnentinstallation</B>  </P>  \r\n\r\n<P> <B>X.1. Almindeligt.</B>  </P>  \r\n\r\n<P>Et særudstyr kan være indrettet til gennemstilling af en etableret  \r\n\r\n telefonforbindelse til den efterfølgende abonnentsinstallation. Ved en sådan  \r\n\r\n gennemstilling gælder følgende krav til signalering og transmission mod  \r\n\r\n abonnentinstallationen forud for gennemstillingen. </P>  \r\n\r\n<P> <B>X.2. Jævnstrømssignalering.</B>  </P>  \r\n\r\n<P>Den efterfølgende abonnentinstallation må påtrykkes en jævnspænding </P>  \r\n\r\n<P>på højst 56 volt fra en strømkilde med en kortslutningsstrøm på højst </P>  \r\n\r\n<P>70 mA. </P>  \r\n\r\n<P>For så vidt angår jævnstrømssignalering i abonnentnettet, se pkt. </P>  \r\n\r\n<P>7.6. </P>  \r\n\r\n<P> <B>X.3. Ringesignalering.</B>  </P>  \r\n\r\n<P>X.3.1. Sending af ringesignaler fra særudstyr mod den efterfølgende </P>  \r\n\r\n<P>abonnentinstallation må ske i form af en vekselspænding kendetegnet </P>  \r\n\r\n<P>ved: </P>  \r\n\r\n<PRE>  \r\n\r\n    - ringefrekvens                5 Hz +/- 2,5 Hz  \r\n\r\n    eller                          50 Hz +/- 5,0 Hz  \r\n\r\n    - tomgangsspænding             max. 120 volt  \r\n\r\n    - kortslutningsstrøm           max. 60 mA  \r\n\r\n    - harmonisk forvrængning       mindre end 10%  \r\n\r\n    - signalprogram  \r\n\r\n           ringning                max. 1 s  \r\n\r\n           pause                   min. 4 s  \r\n\r\n</PRE>  \r\n\r\n<P>Det er tilladt, at vekselspændingen overlejres jævnspændingen, som er </P>  \r\n\r\n<P>specificeret i pkt. X.2. </P>  \r\n\r\n<P>X.3.2. Bortkobling af ringesignalet skal ske senest i første </P>  \r\n\r\n<P>ringepause, efter at der i efterfølgende installation er etableret </P>  \r\n\r\n<P>sløjfetilstand. </P>  \r\n\r\n<P>Af hensyn til mulige gener (ringning i øret) anbefales det at bortkoble  \r\n\r\n ringesignalet senest 150 ms efter, at der er etableret sløjfetilstand i den  \r\n\r\n efterfølgende installation. </P>  \r\n\r\n<P>X.3.3. I tilfælde, hvor der ikke er etableret sløjfetilstand i den  \r\n\r\n efterfølgende abonnentinstallation senest 60 s efter, at særudstyret har  \r\n\r\n etableret telefonforbindelsen, skal udstyret snarest bortkoble ringesignalet  \r\n\r\n og etablere rotilstand mod abonnentledningen. </P>  \r\n\r\n<P>X.3.4. Nedkobles telefonforbindelsen af den anden abonnent, inden der er  \r\n\r\n etableret sløjfetilstand i den efterfølgende abonnentsinstallation og inden  \r\n\r\n udløbet af tidsfristen jf. pkt. X.3.3., bør særudstyret kunne detektere  \r\n\r\n optagettonen fra centralen og etablere rotilstand mod abonnentledningen  \r\n\r\n snarest muligt, jf. pkt. 6.5.4. </P>  \r\n\r\n<P> <B>X.4. Transmission ved telefrekvenser.</B>  </P>  \r\n\r\n<P>For transmission ved talefrekvenser mod den efterfølgende  \r\n\r\n abonnentinstallation gælder de samme krav til sendeniveauer, som er anført i  \r\n\r\n pkt. 4.4. og 5.4. </P>  \r\n\r\n<P> <B>X.5. Gennemstilling.</B>  </P>  \r\n\r\n<P>X.5.1. De i pkt. X.2. og X.3.1. nævnte jævn- og vekselspændinger skal  \r\n\r\n under alle forhold være adskilte fra abonnentledningen, og de i Fig. 1.6.1.c.  \r\n\r\n eller 1.6.2.c. viste tilslutningsmetoder med skiftekontakter i begge ledere  \r\n\r\n skal benyttes. </P>  \r\n\r\n<P>X.5.2. Der må ved gennemstillingen ikke forekomme afbrydelser, prel eller  \r\n\r\n lignende fænomener i tidsrum af længere varighed, end at sløjfestrømmen fra  \r\n\r\n offentlig central er mindst 15 mA senest 5 ms efter, at gennemstillingen er  \r\n\r\n påbegyndt, jf. pkt. 2.4.1. og 2.4.2. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Klima-, Energi- og Forsyningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862605009"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM003916"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "16/03/2007"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Cirkulære (1 sp)"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "26050"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/04/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "P&T, Teleinspekti"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Ingen"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

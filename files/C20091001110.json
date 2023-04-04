@@ -1,0 +1,75 @@
+{
+    "id": 129635,
+    "title": "Denne cirkulæreskrivelse supplerer cirkulæreskrivelse nr. 9923 af 24. november 2009 om A-kassernes leverance af oplysninger til brug for beregning af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse\\nTil De anerkendte a-kasser og deres statsautoriserede revisorer, Arbejdsløshedskassernes Samvirke, Medialogic, KMD, SKS Applikation Service og Holstebro Kommune",
+    "documentTypeId": "210",
+    "isSagsforlobPeriodValid": true,
+    "shortName": "CIS nr 10011 af 18/12/2009",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><p class=\"Titel2\">Denne cirkulæreskrivelse supplerer cirkulæreskrivelse nr. 9923 af 24. november 2009 om A-kassernes leverance af oplysninger til brug for beregning af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse</p>\r\n      <p class=\"UnderTitel2\">Til De anerkendte a-kasser og deres statsautoriserede revisorer, Arbejdsløshedskassernes Samvirke, Medialogic, KMD, SKS Applikation Service og Holstebro Kommune</p>\r\n      <p class=\"TekstV\">Kommunerne skal i medfør af § 82 a i <span class=\"Italic\">lov om arbejdsløshedsforsikring m.v.</span> og § 109, stk. 2 og 3, i <span class=\"Italic\">lov om en aktiv beskæftigelsesindsats</span> fra 1. januar 2010 medfinansiere statens udgifter til a-dagpenge og befordringsgodtgørelse.</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">1.</span> <span class=\"Bold\">Bekendtgørelse og vejledning</span></p>\r\n      <p class=\"TekstV\">A-kassernes og kommunernes opgaver m.v. i relation til kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse, herunder i forhold til hvilke data som skal indgå i beregningerne, er fastsat i <span class=\"Italic\">bekendtgørelse om kommunernes medfinansiering af arbejdsløshedsdagpenge og befordringsgodtgørelse til de forsikrede ledige</span>. Der er udarbejdet en vejledning til bekendtgørelsen.</p>\r\n      <p class=\"TekstV\">Bekendtgørelsen og vejledningen vedlægges i korrekturtryk. Bekendtgørelsen træder i kraft 1. januar 2010.</p>\r\n      <p class=\"TekstV\">Bekendtgørelsen optages i Lovtidende (www.lovtidende.dk) før nytår og bekendtgørelsen og vejledningen vil parallelt hermed blive tilgængelige i Retsinformation (www.retsinformation.dk).</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">2.</span> <span class=\"Bold\">A-kassernes leverance af oplysninger på individniveau</span></p>\r\n      <p class=\"TekstV\">Til brug for beregningen af kommunernes medfinansiering skal a-kasser og kommuner levere en række oplysninger på individniveau.</p>\r\n      <p class=\"TekstV\">Det konkrete tekniske indhold af - og format på - på de data, som a-kasserne skal aflevere til brug for beregning af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse fremgår af en snitfladebeskrivelse udarbejdet af KMD.</p>\r\n      <p class=\"TekstV\">Med cirkulæreskrivelse nr. 9923 af 24. november 2009 udsendte Arbejdsmarkedsstyrelsen ”KMD A-Refusion Snitfladebeskrivelse for ” (24.11.2009).</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">2.1.</span> <span class=\"Bold\">Ajourført snitfladebeskrivelse</span></p>\r\n      <p class=\"TekstV\">KMD har efterfølgende udarbejdet en ajourført udgave af snitfladebeskrivelsen, hvor der i relation til a-kassernes dataleverancer er foretaget ajourføringer af <span class=\"Italic\">navngivning af datasæt</span> for produktion (snitfladebeskrivelsens afsnit 7.1.3) og <span class=\"Italic\">identer</span> på a-kassernes dataleverandører (i snitfladebeskrivelsens bilag 1).</p>\r\n      <p class=\"TekstV\">I bilag 1 er der ændringer fsva. ARKE, Modulus (fremgår nu alene med én ident) og Winnie (hvor D53 er tilføjet).</p>\r\n      <p class=\"TekstV\">Der er bortset fra dette ikke aktuelle ændringer i snitfladebeskrivelsen i forhold til <span class=\"Italic\">a-kassernes</span> dataleverancer.</p>\r\n      <p class=\"TekstV\">Der er herudover foretaget ændringer i relation til Arbejdsdirektoratets leverance af individoplysninger (snitfladebeskrivelsens afsnit 7.1.6 og 7.1.13) og fejlkoder i bilag 2 ved leverancer fra Arbejdsdirektoratet.</p>\r\n      <p class=\"TekstV\">Der vedlægges derfor en ajourført udgave af snitfladebeskrivelsen: KMD A-Refusion Snitfladebeskrivelse for ” (18.12.2009).</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">2.2 Ændring i snitfladen fra 1. juli 2010 - befordringsgodtgørelse</span></p>\r\n      <p class=\"TekstV\">Snitfladebeskrivelsen ændres for så vidt angår befordringsgodtgørelse med virkning fra senest 1. juli 2010.</p>\r\n      <p class=\"TekstV\">Befordringsgodtgørelse skal senest med virkning fra 1. juli 2010 leveres med en ny transaktionstype (type 21). Denne transaktionstype er beskrevet i snitflade­beskrivelsens afsnit 7.3.4.</p>\r\n      <p class=\"TekstV\">Frem til og med 30. juni 2010 er der en overgangsordning, hvor type 20 kan anvendes vedrørende befordringsgodtgørelse.</p>\r\n      <p class=\"TekstV\">Type 21 kan anvendes allerede nu af de a-kasser, som ønsker dette.</p>\r\n      <p class=\"TekstV\">A-kassen skal <span class=\"Italic\">ved de enkelte leverancer</span> af oplysninger om befordringsgodtgørelse alene anvende én af typerne 20 og 21 i overgangsperioden, jf. beskrivelsen af felt nr. ”03 Transaktionstype” i snitfladebeskrivelsen (side 21).</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">2.3 Første indberetning af produktionsdata</span></p>\r\n      <p class=\"TekstV\">Vedrørende de særlige forhold og tidsfrister for a-kassernes første indberetning af produktionsdata for de to første a-dagpengemåneder i 2010 henvises til afsnit 2.2 i cirkulæreskrivelse nr. 9923 af 24. november 2009.</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">2.4 Ophavsret</span></p>\r\n      <p class=\"TekstV\">For en god ordens skyld skal opmærksomheden henledes på, at det i snitfladebeskrivelsen fremgår:</p>\r\n      <p class=\"TekstV\">”Nærværende materiale er beskyttet i henhold til ophavretsloven. Alle rettigheder tilhører KMD a/s.</p>\r\n      <p class=\"TekstV\">Den må dog gerne udlånes til soft­wareleve­randører i forbindelse med etablering af snitfla­den samt ved frem­tidige ændringer af denne.”</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">3.</span> <span class=\"Bold\">Distribuering af a-kasseoplysninger via KMD EDI Service</span></p>\r\n      <p class=\"TekstV\">KMD har udarbejdet en beskrivelse af, hvorledes oplysningerne fra a-kasserne via KMD EDI Service distribueres til KMD, Medialogic og øvrige databehandlere, der forestår opgørelsen af kommunernes finansieringsbidrag til a-dagpenge og befordringsgodtgørelse.</p>\r\n      <p class=\"TekstV\">Beskrivelsen vedlægges.</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">4.</span> <span class=\"Bold\">Spørgsmål vedr. snitfladebeskrivelsen</span></p>\r\n      <p class=\"TekstV\">Kontaktoplysninger vedrørende snitfladebeskrivelsen fremgår af afsnit 1, side 5, i snitfladebeskrivelsen.</p><DIV CLASS=GIVET ID=\"GIVET\"><FONT SIZE=\"3\"><P CLASS=GIVET ALIGN=\"CENTER\">Arbejdsmarkedsstyrelsen, den 18. december 2009</P><P CLASS=SIGN1 ALIGN=\"CENTER\">Knud de Place</P><P CLASS=SIGN2 ALIGN=\"RIGHT\"></P></FONT></DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Beskæftigelsesministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "05/01/2010"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C20091001110"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "BE003915"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "05/01/2010"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "06/01/2010"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Cirkulæreskrivelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "10011"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "2009"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "18/12/2009"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Arbejdsmarkedsstyrelsen (AMS)"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Beskæftigelsesmin.,<br />Arbejdsmarkedsstyrelsen, j. nr. 2009-0012480"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": true
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

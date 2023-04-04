@@ -1,0 +1,75 @@
+{
+    "id": 65799,
+    "title": "Måleteknisk direktiv. Ikke-automatiske vægte. Bestemmelse af nulstillingsindretningernes nøjagtighed. Vejledning (MDIR 04.11-15) ",
+    "documentTypeId": "600",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "DIR nr 10051 af 26/07/1990",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Måleteknisk direktiv. Ikke-automatiske vægte.  \r\n\r\n Bestemmelse af nulstillingsindretningernes nøjagtighed. Vejledning </H1>  \r\n\r\n<P></P>  \r\n\r\n<P CLASS=TITEL-KOMMENTAR ALIGN=CENTER>(MDIR 04.11-15) </P>  \r\n\r\n<BR>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> FORMÅL </P>  \r\n\r\n<P>Denne prøvningsmetode kan benyttes til at bestemme nøjagtigheden af  \r\n\r\n vægtens nulindstillingsindretninger. </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> HENVISNING TIL MÅLETEKNISKE BESTEMMELSER </P>  \r\n\r\n<P>TDIR 24.11.1-01, udg. 1 af 15.10.1978, bilag 2 </P>  \r\n\r\n<P>MDIR 34.11-01, udg. 3 af 26.01.1987, pkt. 10.7.3 </P>  \r\n\r\n<P>OIML R76 af 1988, pkt. 4.6.2 </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> FORUDSÆTNINGER </P>  \r\n\r\n<P>Generelt vedrørende måleudstyr, prøvningsbetingelser, prøvningsmiljø,  \r\n\r\n forkonditionering m.v. henvises til MDIR 04.-11-10. </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> PRØVNING </P>  \r\n\r\n<P>4.1 Vægte med ikke-automatisk eller halvautomatisk nulstilling </P>  \r\n\r\n<P>Vægten nulstilles. </P>  \r\n\r\n<PRE>  \r\n\r\n der udføres vippepunktsbestemmelse, og tillægget (a), der netop  \r\n\r\n    forsøger visningen med 1 d , bestemmes. Nulstillingsfejlen (F)  \r\n\r\n                              d  \r\n\r\n bestemmes da ved formlen:  \r\n\r\n                      F = 1/2 * d - a  \r\n\r\n                                 d  \r\n\r\n 4.2 Vægten med automatisk nulstilling eller med  \r\n\r\n    nulindtrækningsmekanisme.  \r\n\r\n Vægten belastes med en last (L) på 10 e for at bringe den uden for  \r\n\r\n    den automatiske nulstillingsindretnings virkeområde. Visningen (I)  \r\n\r\n    noteres.  \r\n\r\n Der udføres vippepunktsbestemmelse, og tillægget (a), der netop  \r\n\r\n    forøger visningen med 1 d , bestemmes.  \r\n\r\n                             d  \r\n\r\n Nulstillingsfejlen (F) bestemmes da ved formlen:  \r\n\r\n F = I + 1/2 * d  - a - L.  \r\n\r\n                d  \r\n\r\n</PRE>  \r\n\r\n<P CLASS=PUNKT> <B>5.</B> KRAV </P>  \r\n\r\n<P>Indstillingsfejlen (F) må højest være 0,25 * e. </P>  \r\n\r\n<P>P. Claudi Johansen </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Erhvervsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "24/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "B19901005112"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM024910"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "24/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "18/10/2006"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Direktiv"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "B "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "10051"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1990"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "26/07/1990"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsfremme Styrelsen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Ingen"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

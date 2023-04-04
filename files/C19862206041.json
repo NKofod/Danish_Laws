@@ -1,0 +1,75 @@
+{
+    "id": 75106,
+    "title": "Studieplan for kurset 2.10. Oversætterteknik ved Datanomkurset ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22060 af 04/04/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 2.10. Oversætterteknik ved  \r\n\r\n Datanomkurset </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra den 1. august 1986. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P> 1. Modulets formål </P>  \r\n\r\n<P>Valget af navnet &#187;oversætterteknik&#171; siger noget om intentionen  \r\n\r\n med kurset: </P>  \r\n\r\n<P>- kurset kunne ikke hedde &#187;oversættere&#171;, da dets hovedanliggende  \r\n\r\n ikke er at informere om eksisterende oversættere </P>  \r\n\r\n<P>- kurset kunne ikke hedde &#187;oversætterkonstruktion&#171;, da det ikke  \r\n\r\n giver en sammenhængende opskrift på denne proces </P>  \r\n\r\n<P>- kurset kunne ikke hedde &#187;basisprogrammel&#171;, da det ikke i  \r\n\r\n særlig høj grad beskæftiger sig med de ydre betingelser, oversættere er  \r\n\r\n underkastet </P>  \r\n\r\n<P>Kurset hedder &#187;oversætterteknik&#171; fordi det focuserer på nogle  \r\n\r\n karakteristiske teknikker og principper , man ofte benytter sig af i  \r\n\r\n oversættere. </P>  \r\n\r\n<P>Det er jo nok de færreste, der aktivt kommer til at beskæftige sig med at  \r\n\r\n konstruere oversættere i ordets traditionelle betydning. Begrundelsen for at  \r\n\r\n se på disse principper er derfor ikke så meget, at de findes i oversættere,  \r\n\r\n men mere at de også er interessante i andre og mere generelle sammenhænge.  \r\n\r\n</P>  \r\n\r\n<P>Her tænkes specielt på flg.: </P>  \r\n\r\n<P>- udviklingen tyder på, at der fremover på mange områder vil blive stillet  \r\n\r\n stadigt større krav til dialogkvalitet i retning af mere eller mindre  \r\n\r\n &#187;naturligt sprog&#171; </P>  \r\n\r\n<P>- der er tendens til en udbredelse af formelle værktøjer, der i større  \r\n\r\n grad muliggør en præcis beskrivelse af data og databehandling </P>  \r\n\r\n<P>Formålet med kurset er derfor primært at se på en række teknikker og  \r\n\r\n principper, som har generelle anvendelsesmuligheder, og sekundært at se på,  \r\n\r\n hvordan en oversætter fungerer. </P>  \r\n\r\n<P> 2. Hovedemner </P>  \r\n\r\n<P>Kurset omfatter flg. hovedemner: </P>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> Sprog </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> Grammatik </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> Leksikalsk analyse </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> Syntaksananlyse </P>  \r\n\r\n<P CLASS=PUNKT> <B>5.</B> Semantisk analyse </P>  \r\n\r\n<P CLASS=PUNKT> <B>6.</B> Fejlbehandling </P>  \r\n\r\n<P>I det følgende beskrives disse hovedemner kort: </P>  \r\n\r\n<P> 2.1 Sprog </P>  \r\n\r\n<P>Programmeringssprog kan designes efter mange og ofte indbyrdes  \r\n\r\n modstridende kriterier, f.eks.: generalitet, effektivitet, læselighed,  \r\n\r\n enkelhed o.s.v. </P>  \r\n\r\n<P>Den studerende skal sættes i stand til at forstå disse sammenhænge så  \r\n\r\n vidt, at de vigtigste konsekvenser af et bestemt designvalg kan overskues.  \r\n\r\n</P>  \r\n\r\n<P> 2.2 Grammatik </P>  \r\n\r\n<P>Det vigtigste redskab til beskrivelse af et programmeringssprogs syntaks  \r\n\r\n er grammatikken. Grammatikker kan inddeles i forskellige typer efter præcise  \r\n\r\n kriterier, typen er afgørende for kompleksiteten af sproggenkendelsen. </P>  \r\n\r\n<P>Den studerende skal gøres fortrolig med grammatik-begrebet og sættes i  \r\n\r\n stand til at typebestemme konkrete regulære, kontekstfri og kontekstfølsomme  \r\n\r\n grammatikker. </P>  \r\n\r\n<P> 2.3 Leksikalsk analyse </P>  \r\n\r\n<P>Et program består af en række &#187;ord&#171;, hvert af disse består igen  \r\n\r\n af en række tegn. Den leksikalske analyse går ud på at genkende  \r\n\r\n sammensætningen af tegn til ord. </P>  \r\n\r\n<P>Den studerende skal forstå og indøve de vigtigste metoder til leksikalsk  \r\n\r\n analyse: deterministiske/nondeterministiske tilstandsautomater. </P>  \r\n\r\n<P> 2.4 Syntaksanalyse </P>  \r\n\r\n<P>Den syntaktiske analyse går ud på at genkende ordenes sammensætning til et  \r\n\r\n program. Der findes mange metoder til realisering af den syntaktiske analyse,  \r\n\r\n disse kan groft inddeles i top-down- og bottom-up-metoder. </P>  \r\n\r\n<P>Den studerende skal forstå mindst en top-down- og en bottom-up-metode, og  \r\n\r\n indøve mindst en af disse. </P>  \r\n\r\n<P> 2.5 Semantisk analyse </P>  \r\n\r\n<P>Den semantiske analyse er genkendelsen af programmets betydning og  \r\n\r\n realiseringen af denne betydning ved en oversættelse til noget kendt. </P>  \r\n\r\n<P>Den studerende skal sættes i stand til at integrere semantiske aktioner i  \r\n\r\n grammatikken og til at vælge disse både med henblik på fortolkning og  \r\n\r\n oversættelse. </P>  \r\n\r\n<P> 2.6 Fejlbehandling </P>  \r\n\r\n<P>De tre nævnte analyser kan afsløre fejl, og herudover kan afsløres fejl  \r\n\r\n når det oversatte program udføres. Problemet er at reagere hensigtsmæssigt på  \r\n\r\n disse fejl, da de sjældent er entydige. </P>  \r\n\r\n<P>Den studerende skal forstå mindst 2 metoder til fejlbehandling. </P>  \r\n\r\n<P> 3. Adgangsbetingelser </P>  \r\n\r\n<P>Symbolsk maskinsprog </P>  \r\n\r\n<P>Drift </P>  \r\n\r\n<P>Problemorienteret sprog </P>  \r\n\r\n<P>Planlægning </P>  \r\n\r\n<P>Projektgennemførelse </P>  \r\n\r\n<P> 4. Anbefalede forudsætninger </P>  \r\n\r\n<P>2.1 Sproglære </P>  \r\n\r\n<P>2.2 Programkonstruktion </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862206041"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034311"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22060"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "04/04/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1985-510.612-1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

@@ -1,0 +1,75 @@
+{
+    "id": 75153,
+    "title": "Studieplan for kurset 1.2. Operativsystemer ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22089 af 01/09/1985",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 1.2. Operativsystemer ved  \r\n\r\n Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra august 1985. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P> 1. Formål </P>  \r\n\r\n<P>Afvikling af programmer i et datamatisk system foregår under overvågning  \r\n\r\n af og i interaktion med et større programkompleks, nemlig operativsystemet  \r\n\r\n eller driftssystemet. </P>  \r\n\r\n<P>Aplikationsprogrammer afvikles altså i et miljø (run-time miljø), som er  \r\n\r\n defineret af operativsystemet eller rettere af operativsystemets run-time  \r\n\r\n funktioner - ofte benævnt kernel, monitor, executive eller supervisor. </P>  \r\n\r\n<P>For personer, som arbejder med udvikling/vedligeholdelse af  \r\n\r\n operativsystemer og driftsprogrammel er en forståelse af strukturen og  \r\n\r\n principperne i operativsystemets komponenter essentiel. </P>  \r\n\r\n<P>I den traditionelle opfattelse af operativsystemet udgør run-time  \r\n\r\n funktionerne dog kun en lille - omend væsentlig - del af operativsystemets  \r\n\r\n samlede mængde af funktioner. I den daglige drift udføres en lang række  \r\n\r\n opgaver: filhåndtering, servicefunktioner, oversættelse af kildeprogrammer,  \r\n\r\n administration af opgave-afvikling, job-accounting etc., som varetages af  \r\n\r\n programmer, som normalt også henregnes til operativsystemet. </P>  \r\n\r\n<P>I den almindelige anvendelse af det datamatiske system er et kendskab til  \r\n\r\n disse funktioner og deres grænseflade til brugere og operativsystemets  \r\n\r\n run-time komponenter nødvendigt. </P>  \r\n\r\n<P>Dette modul skal give den nødvendige baggrundsviden for at udnytte  \r\n\r\n operativsystemets faciliteter i forbindelse med udvikling og vedligeholdelse  \r\n\r\n af applikations-, og driftsprogrammel samt for at kunne arbejde med  \r\n\r\n effektivisering af driftssystemer og deres anvendelse. </P>  \r\n\r\n<P>Gennem modulet vil operativsystemet blive anskuet fra forskellige  \r\n\r\n synsvinkler: </P>  \r\n\r\n<P>- som et stykke mekanik set inde fra , hvor opbygning og intern  \r\n\r\n administration samt afhængighed af materiellets struktur og interaktion med  \r\n\r\n materiel belyses. </P>  \r\n\r\n<P>- som en funktionel enhed set fra brugeren (først og fremmest programmøren  \r\n\r\n og operatøren), hvor funktioner, anvendelses- og kontaktmuligheder samt  \r\n\r\n kommunikation belyses. </P>  \r\n\r\n<P>- som et produktionsapparat set fra &#187;datamat-ejeren&#171;, hvor  \r\n\r\n anvendelsesmuligheder og begrænsninger, ønsker om sikkerhed og effektiv  \r\n\r\n udnyttelse belyses. </P>  \r\n\r\n<P> 2. Indhold </P>  \r\n\r\n<P>De emner, som modulet omhandler, kan opsummeres i nedenstående  \r\n\r\n hovedpunkter med angivelse af den omtrentlige tidsmæssige fordeling, hvormed  \r\n\r\n de indgår i forelæsningstimerne </P>  \r\n\r\n<P>punkt timer </P>  \r\n\r\n<P>--------------------------------------------------------------------- </P>  \r\n\r\n<P>a. Introduktion 3 </P>  \r\n\r\n<P>b. Operativsystemets materielmæssige forudsætninger 3 </P>  \r\n\r\n<P>c. Procesbegrebet 5 </P>  \r\n\r\n<P>d. Operativsystemets opbygning og struktur 16 </P>  \r\n\r\n<P>e. Driftsrapport 3 </P>  \r\n\r\n<P>f. Systemeffektivisering 3 </P>  \r\n\r\n<P>g. Distribuerede systemer 6 </P>  \r\n\r\n<P>h. Data- og programsikkerhed 3 </P>  \r\n\r\n<P> a. INTRODUKTION </P>  \r\n\r\n<P> Formål </P>  \r\n\r\n<P>Dette emne tager sigte på at foretage en afgrænsning af modulet, dels  \r\n\r\n gennem en definition af begrebet operativsystem og dels gennem en overordnet  \r\n\r\n redegørelse for formålet med og behovet for operativsystemer. Endvidere  \r\n\r\n præsenteres gængse begreber og terminologi. </P>  \r\n\r\n<P> Mål </P>  \r\n\r\n<P>Den studerende skal kunne redegøre for operativsystemets hovedopgaver samt  \r\n\r\n udviklingen indenfor operativsystemer. </P>  \r\n\r\n<P> Emner </P>  \r\n\r\n<P>Definition af og formål med operativsystemer. </P>  \r\n\r\n<P>Hvorfor man studerer operativsystemer. </P>  \r\n\r\n<P>Operativsystemets hovedopgaver. </P>  \r\n\r\n<P>Den historiske udvikling. </P>  \r\n\r\n<P>Fremtidens operativsystemer. </P>  \r\n\r\n<P> b. OPERATIVSYSTEMETS MATERIELMÆSSIGE FORUDSÆTNINGER </P>  \r\n\r\n<P> Formål </P>  \r\n\r\n<P>Behandlingen af dette emne sigter på at redegøre for de konsekvenser for  \r\n\r\n udformning af operativsystemets run-time og øvrige maskinnære funktioner, som  \r\n\r\n materiellets virkemåde og strukturen i materiel-opbygningen har. </P>  \r\n\r\n<P> Mål </P>  \r\n\r\n<P>Den studerende skal kunne klassificere forskellige karakteristiske  \r\n\r\n egenskaber ved aktivt arbejdende og passivt benyttede komponenter i  \r\n\r\n materiellet samt redegøre for sammenkoblingsmuligheder og de deraf følgende  \r\n\r\n grænseflader og anvendelsesmuligheder/restriktioner. </P>  \r\n\r\n<P> Emner </P>  \r\n\r\n<P>Det datamatiske systems komponenter og deres karakteristika. </P>  \r\n\r\n<P>Distribuering af komponenter: processorer, perifere enheder, lager. </P>  \r\n\r\n<P>Sammenholdningsarkitekturer og grænseflader: centraliseret arkitektur,  \r\n\r\n shared bus, ringe, ethernets etc. </P>  \r\n\r\n<P>Diskussion af arkitekturens konsekvenser for udformning af  \r\n\r\n operativsystemets funktioner. </P>  \r\n\r\n<P>Interrupt begrebet. </P>  \r\n\r\n<P> c. PROCESBEGREBET </P>  \r\n\r\n<P> Formål </P>  \r\n\r\n<P>Ved afvikling af en pålagt opgave påhviler det operativsystemet at  \r\n\r\n overvåge og medvirke ved udførelse af de arbejdsprocesser, som indgår i  \r\n\r\n opgaven samt at tilvejebringe det nødvendige grundlag for disse processers  \r\n\r\n udførelse. </P>  \r\n\r\n<P>Dette emne tager sigte på at indføre begreber og formelle  \r\n\r\n beskrivelsesværktøjer, som kan benyttes ved beskrivelse og diskussion af  \r\n\r\n operativsystemets run-time funktioner. </P>  \r\n\r\n<P> Mål </P>  \r\n\r\n<P>Den studerende skal kunne redegøre for væsentlige problemstillinger med  \r\n\r\n relation til procesudførelse i et datamatisk system samt kunne diskutere og  \r\n\r\n demonstrere forskellige løsninger på disse problemstillinger. </P>  \r\n\r\n<P> Emner </P>  \r\n\r\n<P>Processer og procesbeskrivelser. </P>  \r\n\r\n<P>Sekventielle og parallelle processer. </P>  \r\n\r\n<P>Ægte og simuleret parallellitet. </P>  \r\n\r\n<P>Interaktion og kommunikation mellem processer. </P>  \r\n\r\n<P>Synkronisering: monitorer, semaforer, co-rutiner. </P>  \r\n\r\n<P> d. OPERATIVSYSTEMETS OPBYGNING OG STRUKTUR: </P>  \r\n\r\n<P> Formål </P>  \r\n\r\n<P>Dette emne tager sigte på at gennemgå principperne i den interne styring i  \r\n\r\n operativsystemet samt at klarlægge sammenhængen mellem proces-udførelse og  \r\n\r\n materiel-anvendelse. Endvidere diskuteres: materiel-arkitekturens betydning  \r\n\r\n for udformningen af operativsystemets interne styring og materielanvendelse.  \r\n\r\n</P>  \r\n\r\n<P> Mål </P>  \r\n\r\n<P>Den studerende skal kunne identificere og beskrive operativsystemets  \r\n\r\n komponenter, samt kunne illustrere strukturen i den interne styring af  \r\n\r\n operativsystemet. </P>  \r\n\r\n<P>Den studerende skal kunne redegøre for operativsystemets behov for adgang  \r\n\r\n til perifere enheder, systemets interaktion med disse og materielstrukturens  \r\n\r\n betydning set i relation hertil. </P>  \r\n\r\n<P> Emner </P>  \r\n\r\n<P>Ressourcer og ressourceallokering. </P>  \r\n\r\n<P>Deadlock. </P>  \r\n\r\n<P>Processor-allokering. </P>  \r\n\r\n<P>Administration af lager. </P>  \r\n\r\n<P>Filadministration. </P>  \r\n\r\n<P>Enhedsadministration. </P>  \r\n\r\n<P> e. DRIFTSRAPPORTERING </P>  \r\n\r\n<P> Formål </P>  \r\n\r\n<P>Emnet skal belyse det behov, der er for at måle et anlægs faktiske forbrug  \r\n\r\n til en enkelt opgave og dets samlede ydeevne samt give en indsigt i de  \r\n\r\n muligheder og begrænsninger, der er til stede for målinger i et anlæg. </P>  \r\n\r\n<P> Mål </P>  \r\n\r\n<P>Den studerende skal kunne vælge metoder til at registrere bestemte typer  \r\n\r\n af et datamatisk systems aktiviteter ud fra givne kriterier. </P>  \r\n\r\n<P>Den studerende skal kunne analysere operativsystemets faciliteter til  \r\n\r\n driftsrapportering samt kunne forestå ændringer og udvidelser til denne  \r\n\r\n rapportering i et givent system. </P>  \r\n\r\n<P> Emner </P>  \r\n\r\n<P>Accountingsystemer. </P>  \r\n\r\n<P>Hardware- og software monitorer. </P>  \r\n\r\n<P>Målinger på materiel. </P>  \r\n\r\n<P> f. SYSTEMEFFEKTIVISERING. </P>  \r\n\r\n<P> Formål </P>  \r\n\r\n<P>Undervisningen skal vise hvordan resultatet fra målinger på et datamatisk  \r\n\r\n system kombineret med afprøvningsmetoder kan anvendes til effektivisering af  \r\n\r\n systemet. </P>  \r\n\r\n<P> Mål </P>  \r\n\r\n<P>Den studerende skal kunne analysere et driftssystem, for med passende  \r\n\r\n målemetoder, at kunne påvise flaskehalse. </P>  \r\n\r\n<P>Den studerende skal kunne forestå ændringer i driftssystemet, dvs.  \r\n\r\n materiel og programmel, således at udnyttelsen optimeres ved en bestemt  \r\n\r\n driftsstrategi. </P>  \r\n\r\n<P> Emner </P>  \r\n\r\n<P>Modeller. </P>  \r\n\r\n<P>Standardopgaver. </P>  \r\n\r\n<P>Benchmark. </P>  \r\n\r\n<P> g. DISTRIBUEREDE SYSTEMER. </P>  \r\n\r\n<P> Formål </P>  \r\n\r\n<P>At diskutere de materielle og programelle forudsætninger for  \r\n\r\n distribuering. Specielt vil nogle mulige konsekvenser af den igangværende  \r\n\r\n distribueringstendens for udformning af operativsystemets funktioner blive  \r\n\r\n behandlet. </P>  \r\n\r\n<P> Mål </P>  \r\n\r\n<P>Den studerende skal kunne vurdere, hvilke konsekvenser en distribuering af  \r\n\r\n datakræfter har for udformningen af et operativsystem. </P>  \r\n\r\n<P> Emner </P>  \r\n\r\n<P>Distribuerede systemers grundelementer </P>  \r\n\r\n<P>Datanet </P>  \r\n\r\n<P>Netværksoperativsystemer </P>  \r\n\r\n<P> h. DATA- OG PROGRAMSIKKERHED. </P>  \r\n\r\n<P> Formål </P>  \r\n\r\n<P>Undervisningen skal anskueliggøre de mulige fejlkilder i materiel og  \r\n\r\n driftsprogrammel samt vise de fejlprocedurer, man kan vente i  \r\n\r\n operativsystemer. </P>  \r\n\r\n<P> Mål </P>  \r\n\r\n<P>Den studerende skal kunne formulere kravspecifikationer til  \r\n\r\n sikkerhedsfunktioner i et driftssystem. </P>  \r\n\r\n<P>Den studerende skal kunne analysere sikkerhedsgraden i et givet  \r\n\r\n driftssystem. </P>  \r\n\r\n<P> Emner </P>  \r\n\r\n<P>Fejltyper. </P>  \r\n\r\n<P>Fejldiktering. </P>  \r\n\r\n<P>Fejlbehandling. </P>  \r\n\r\n<P>Sikkerhedsprocedure. </P>  \r\n\r\n<P>MTBF. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19852208941"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034358"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22089"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1985"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/09/1985"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1985-510.612-1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

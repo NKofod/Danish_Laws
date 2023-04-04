@@ -1,0 +1,75 @@
+{
+    "id": 65759,
+    "title": "Måleteknisk direktiv. Prøvning af kroneforvalg (MDIR 02.46-19) ",
+    "documentTypeId": "600",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "DIR nr 10019 af 07/10/1992",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Måleteknisk direktiv. Prøvning af kroneforvalg  \r\n\r\n</H1>  \r\n\r\n<P></P>  \r\n\r\n<P CLASS=TITEL-KOMMENTAR ALIGN=CENTER>(MDIR 02.46-19) </P>  \r\n\r\n<BR>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> FORMÅL </P>  \r\n\r\n<P>Denne prøvningsmetode kan benyttes til at bestemme, om måleanlæg  \r\n\r\n overholder gældende tolerancer, når en indbygget/tilsluttet  \r\n\r\n kronevalg-funktion benyttes. </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> HENVISNING TIL MÅLETEKNISKE BESTEMMELSER </P>  \r\n\r\n<P>MDIR 32.91.1-01, udg. 1 af 01.10.1976, kap. VI </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> FORUDSÆTNINGER </P>  \r\n\r\n<P>Generelt vedrørende måleudstyr, prøvningsbetingelser, prøvningsmiljø,  \r\n\r\n forkonditionering m.v. henvises til MDIR 02.46-10. </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> PRØVNING </P>  \r\n\r\n<P>Kroneforvalgsfunktionen aktiveres ved at foretage et kroneforvalg, der er  \r\n\r\n større end eller lig den aktuelle pris for mindste verificerede volumen. </P>  \r\n\r\n<P>Udløbsslangen anbringes i en beholder med tilstrækkeligt stort volumen til  \r\n\r\n at rumme den udmålte mængde eller føres retur til tank. Udmåling gennemføres  \r\n\r\n med maximal udløbshastighed (* 1) indtil den automatiske lukkeanordning har  \r\n\r\n standset væskestrømmen. </P>  \r\n\r\n<P>Følgende registreres efter udmålingen: </P>  \r\n\r\n<PRE>  \r\n\r\n - målerens indikerede pris    : P  \r\n\r\n                                  I  \r\n\r\n - Målerens indikerede volumen : V  \r\n\r\n                                  I  \r\n\r\n - dagspris                    : P  \r\n\r\n                                  u  \r\n\r\n - forvalgt kronebeløb         : P  \r\n\r\n                                  F  \r\n\r\n Følgende beregnes:  \r\n\r\n - afvigelse fra beregnet pris : FD = V  .  P  -  P  \r\n\r\n                                       I     u     F  \r\n\r\n - afvigelse fra indikeret pris: FP = P  - P  \r\n\r\n                                       I    F  \r\n\r\n</PRE>  \r\n\r\n<P>Hvis kroneforvalget er indbygget i en automat, som er tilsluttet flere  \r\n\r\n måleanlæg, udføres prøvningen for hvert måleanlæg. Hvis et måleanlæg kan  \r\n\r\n betjenes fra flere automater med kroneforvalg, udføres prøvningen for hvert  \r\n\r\n betjeningssted. </P>  \r\n\r\n<P CLASS=PUNKT> <B>5.</B> KRAV </P>  \r\n\r\n<PRE>  \r\n\r\n |FD|  &lt;/- P  . MVD                 (dog behøver |FD| ikke at være  \r\n\r\n            u                        mindre end 2 øre)  \r\n\r\n |FP| &lt;/- 0,5 . P  . MVD            (dog behøver |FP| ikke at være  \r\n\r\n                  u                  mindre end 1 øre)  \r\n\r\n</PRE>  \r\n\r\n<P>hvor MVD = tolerancen for mindste verificerede volumen. </P>  \r\n\r\n<P>P. Claudi Johansen </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>(* 1) Hvis et måleanlæg har flere funktioner, udføres prøvningen for den  \r\n\r\n funktion, der har størst kapacitet. For blendstandere udføres prøvningen i  \r\n\r\n blend-funktionen. </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Erhvervsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "24/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "B19921001912"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM024870"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "24/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "30/11/2001"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Direktiv"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "B "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "10019"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1992"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "07/10/1992"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Industri- og Handelsstyrelsen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Ingen"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

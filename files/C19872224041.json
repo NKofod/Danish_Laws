@@ -1,0 +1,75 @@
+{
+    "id": 75240,
+    "title": "Studieplan for kurset 5.10. Sproglig Databehandling ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22240 af 08/10/1987",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 5.10. Sproglig  \r\n\r\n Databehandling ved Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> Studieplanen har virkning fra den 1. januar 1988. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> AFGRÆNSNING </P>  \r\n\r\n<P>Sproglig databehandling er betegnelsen for datamatisk behandling af  \r\n\r\n sproglige størrelser fra et naturligt sprog. Sidstnævnte betegnelse skal  \r\n\r\n forstås som modsætning til konstruerede sprog, f.eks. programmeringssprog.  \r\n\r\n</P>  \r\n\r\n<P>Modulet grænser op til flere andre kursus i datanomuddannelsen, men  \r\n\r\n adskiller sig fra disse på følgende områder: Fra modul 2.1 Sproglære ved at  \r\n\r\n beskæftige sig med naturlige og ikke konstruerede sprog. Fra modul 3.9  \r\n\r\n Simuleret Intelligens og Ekspertsystemer ved hovedsaglig at beskæftige sig  \r\n\r\n med de sproglige udtryk (morfologi og syntaks) og mindre med deres indhold  \r\n\r\n (semantik). Fra modul 2.10 Oversætterteknik derved, at naturlige sprog giver  \r\n\r\n anledning til brug af mere komplekse datastrukturer og analysealgoritmer.  \r\n\r\n</P>  \r\n\r\n<P> 2. FORMÅL </P>  \r\n\r\n<P>Kurset skal give den studerende forståelse for de specielle funktionskrav  \r\n\r\n og designproblemer der gør sig gældende for sproglig databehandling, og det  \r\n\r\n skal give den studerende viden om de datastrukturer og konstruktionsteknikker  \r\n\r\n der benyttes på området. Specielt skal den studerende kunne anvende  \r\n\r\n logikprogrammeringssprog til sproglige opgaver. </P>  \r\n\r\n<P> 3. FORKUNDSKABER </P>  \r\n\r\n<P> 3.1. Adgangsbetingelser . </P>  \r\n\r\n<P>Kurset forudsætter viden om programmering i højniveausprog og om  \r\n\r\n dataorganisation, svarende til edb-assistent-uddannelsens fag  \r\n\r\n Problemorienteret Sprog. </P>  \r\n\r\n<P> 3.2. Anbefalede forudsætninger </P>  \r\n\r\n<P>Kurset forudsætter, at den studerende har viden svarende til  \r\n\r\n datanomuddannelsens moduler 2.1 Sproglære og 2.5 Datastrukturer. </P>  \r\n\r\n<P> 4. INDHOLD </P>  \r\n\r\n<P>Kurset er placeret i modulklyngen ANVENDELSER og indledes derfor med en  \r\n\r\n orientering om de begrebsdannelser der er nødvendige for at beskrive opgaver  \r\n\r\n på anvendelsesområdet: sproglige problemstillinger. Desuden indeholder kurset  \r\n\r\n to redskabsfag, formel grammatik og logikprogrammering, som benyttes i  \r\n\r\n kursets centrale del der beskæftiger sig med datamatisk behandling af tre  \r\n\r\n sproglige udtryksniveauer: tegn, ord og sætning. Kurset afrundes med en  \r\n\r\n introduktion til sprogbehandling på indholdsniveau, herunder maskinel  \r\n\r\n oversættelse. </P>  \r\n\r\n<P> 4.1. Lingvistiske og datalingvistiske grundbegreber </P>  \r\n\r\n<P> Sproglige grundbegreber : De væsentligste lingvistiske  \r\n\r\n (sprogvidenskabelige) grundbegreber gennemgås, idet der bl.a. orienteres om  \r\n\r\n den anvendte terminologi inden for området. Den studerende skal kunne  \r\n\r\n foretage grammatisk beskrivelse af en dansk tekst. </P>  \r\n\r\n<P> Logikprogrammering : Der gives en uformel introduktion til  \r\n\r\n logikprogrammering (deklarativ programmering), herunder relatering til  \r\n\r\n sædvanlig imperativ programmering. Den studerende skal være i stand til at  \r\n\r\n redegøre for centrale grundbegreber inden for logikprogrammering samt til at  \r\n\r\n løse simple sproglige opgaver ved hjælp af logikprogrammering. </P>  \r\n\r\n<P> Formel grammatik : Grundelementerne repeteres med særlig henblik på deres  \r\n\r\n relevans for naturlige sprog. Den studerende skal kunne skelne imellem  \r\n\r\n kontekstsensitive, kontekstfri og regulære grammatikker og skal kunne  \r\n\r\n redegøre for deres respektive krav til analysealgoritmerne. </P>  \r\n\r\n<P> 4.2. Tegnrepræsentation og alfabetisering </P>  \r\n\r\n<P> Tegnrepræsentation : Der redegøres for repræsentation af tegn og ord  \r\n\r\n således at lagerkrav og/eller tidskrav for nogle centrale  \r\n\r\n ordbehandlingsopgaver minimeres. Den studerende skal kunne anvende de  \r\n\r\n gennemgåede lagringsteknikker samt vurdere gevinsten ved de mere komplekse  \r\n\r\n datastrukturer i konkrete sammenhænge. </P>  \r\n\r\n<P> Alfabetisering : Der orienteres og gældende principper og standarder for  \r\n\r\n alfabetisering af sproglige data. </P>  \r\n\r\n<P> 4.3. Ordbehandling </P>  \r\n\r\n<P>Der redegøres for hovedområderne inden for morfologien, og almindelige  \r\n\r\n morfologiske mekanismer og ledsagefænomener omtales, alt med henblik på  \r\n\r\n konsekvenser for opbygningen af maskintilgængelige ordbøger. Der udvælges en  \r\n\r\n anvendelse hvis funktionskrav og mulige implementering diskuteres. Den  \r\n\r\n studerende skal kunne foretage morfologisk beskrivelse af et dansk materiale  \r\n\r\n og skal kunne redegøre for mindst en organisationsmetode for datamatordbøger  \r\n\r\n og et anvendelsesområde herfor. </P>  \r\n\r\n<P> 4.4. Sætningsbehandling </P>  \r\n\r\n<P> Syntaktisk analyse : Der redegøres for brugen af logikprogrammering til  \r\n\r\n syntaktisk analyse af naturligt sprog, specielt med henblik på benyttelse af  \r\n\r\n differensparmetoden. Der udvælges et konkret syntaktisk analysesystem hvis  \r\n\r\n design og implementering diskuteres. Den studerende skal kunne redegøre for  \r\n\r\n hovedlinierne i et forelagt analyseprogram og skal kunne foretage mindre  \r\n\r\n ændringer i et sådant. </P>  \r\n\r\n<P> Natursproglig brugergrænseflade : Der orienteres om principper for design  \r\n\r\n af en naturligtsprogs-grænseflade, specielt med henblik på problematikken  \r\n\r\n omkring afgrænsningen af grænseflade(del)sproget fra dagligsproget. Den  \r\n\r\n studerende skal være bekendt med de omtalte principper og skal derudover have  \r\n\r\n kendskab til alternative former for brugergrænseflader samt kunne skitsere  \r\n\r\n disses fordele og ulemper i forhold til naturligtsprogs-grænseflader. </P>  \r\n\r\n<P> 4.5. Indholdsbehandling </P>  \r\n\r\n<P> Semantiske sprogstrukturer : Der gives en introduktion til semantik </P>  \r\n\r\n<P>og datamatisk semantik, navnlig sammenhængen mellem (datamatisk) semantik  \r\n\r\n og de øvrige (data)lingvistiske discipliner, specielt syntaks. Den studerende  \r\n\r\n skal være orienteret om &#187;state of the art&#171; inden for den sproglige  \r\n\r\n beskrivelse af semantiske forhold, begrænsningerne i de semantiske  \r\n\r\n beskrivelsesværktøjer og de principieller problemer ved maskinel behandling  \r\n\r\n af semantiske sprogstrukturer. </P>  \r\n\r\n<P> Maskinel oversættelse : Der gives en oversigt over udviklingen af dette  \r\n\r\n anvendelsesområde, med vægt på de nyere systemer, og der redegøres nærmere  \r\n\r\n for et enkelt sådant. Den studerende skal være bekendt med klassifikationen  \r\n\r\n af oversættelsessystemer som hhv. maskinstøttede og fuldautomatiske og skal  \r\n\r\n kunne redegøre for de tre hovedtrin i oversættelsesprocessen: analyse,  \r\n\r\n overførsel og generering. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19872224041"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034445"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22240"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1987"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "08/10/1987"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1987-52.612-1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

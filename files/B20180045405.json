@@ -1,0 +1,75 @@
+{
+    "id": 200954,
+    "title": "Bekendtgørelse om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter",
+    "documentTypeId": "60",
+    "isSagsforlobPeriodValid": true,
+    "shortName": "BEK nr 454 af 08/05/2018",
+    "documentHtml": "<div class=\"bjelke\">Oversigt (indholdsfortegnelse)</div><table class=\"Indholdsfortegnelse\">\r\n   <tr>\r\n      <td class=\"IndholdsfortegnelseId\">\r\n         <a href=\"#id20f30901-e448-4ed4-975f-f35ed3ebbf07\">Kapitel 1</a>\r\n      </td>\r\n      <td class=\"IndholdsfortegnelseTekst\">Definition og anvendelsesområde</td>\r\n   </tr>\r\n   <tr>\r\n      <td class=\"IndholdsfortegnelseId\">\r\n         <a href=\"#id0fd1b84d-9789-490e-b9c5-240cbca677c3\">Kapitel 2</a>\r\n      </td>\r\n      <td class=\"IndholdsfortegnelseTekst\">Krav til sikkerheden i net- og informationssystemer</td>\r\n   </tr>\r\n   <tr>\r\n      <td class=\"IndholdsfortegnelseId\">\r\n         <a href=\"#id6e4aa640-0ae7-4bad-89ef-d69264999702\">Kapitel 3</a>\r\n      </td>\r\n      <td class=\"IndholdsfortegnelseTekst\">Underretningspligt</td>\r\n   </tr>\r\n   <tr>\r\n      <td class=\"IndholdsfortegnelseId\">\r\n         <a href=\"#id8ed2e373-4656-46c7-8acf-ebe20b8fe922\">Kapitel 4</a>\r\n      </td>\r\n      <td class=\"IndholdsfortegnelseTekst\">Straffebestemmelser og ikrafttrædelse</td>\r\n   </tr>\r\n</table><div class=\"bjelke\">Den fulde tekst</div><p class=\"Titel2\">Bekendtgørelse om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter<a class=\"FodnoteHenvisning\" name=\"Henvisning_ided6964e3-0c14-4c89-bf35-2805ded29de1\" href=\"#ided6964e3-0c14-4c89-bf35-2805ded29de1\">1)</a></p>\r\n<p class=\"Indledning2\">I medfør af § 3, stk. 1, § 4 og § 9, stk. 2, i lov nr. 437 af 8. maj 2018 om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v. fastsættes:</p>\r\n<p class=\"Kapitel\" id=\"id20f30901-e448-4ed4-975f-f35ed3ebbf07\">\r\n   <span id=\"K1\">\r\n   </span>\r\n   <span id=\"Kap1\">Kapitel 1</span>\r\n</p>\r\n<p class=\"KapitelOverskrift2\">Definition og anvendelsesområde</p>\r\n<p class=\"Paragraf\" id=\"idee8601a8-256a-4514-b711-4ef4869ec38b\">\r\n   <span id=\"P1\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par1\">§ 1.</span> Ved vurderingen af, om en operatør af et internetudvekslingspunkt kan anses for en væsentlig operatør, jf. § 2, nr. 5, i lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v., vil der blive lagt vægt på, om operatøren driver et internetudvekslingspunkt, der håndterer en gennemsnitlig daglig datamængde på mere end 200 gigabit pr. sekund.</p>\r\n<p class=\"Paragraf\" id=\"idfdd417a2-7625-4e3d-bf28-33bc19a4a09e\">\r\n   <span id=\"P2\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par2\">§ 2.</span> Reglerne i denne bekendtgørelse finder ikke anvendelse på operatører af væsentlige internetudvekslingspunkter, der er omfattet af lov om net- og informationssikkerhed, jf. herved § 1 i lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v.</p>\r\n<p class=\"Kapitel\" id=\"id0fd1b84d-9789-490e-b9c5-240cbca677c3\">\r\n   <span id=\"K2\">\r\n   </span>\r\n   <span id=\"Kap2\">Kapitel 2</span>\r\n</p>\r\n<p class=\"KapitelOverskrift2\">Krav til sikkerheden i net- og informationssystemer</p>\r\n<p class=\"Paragraf\" id=\"ide48d1567-7a2f-465c-b6c0-a26af7798b17\">\r\n   <span id=\"P3\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par3\">§ 3.</span> Operatører af væsentlige internetudvekslingspunkter skal gennemføre en risikovurdering, der skal tage stilling til risikoen for tab af tilgængelighed, autenticitet, integritet og fortrolighed i de tjenester, der udbydes.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id1280bdfb-9c07-4b23-a2fa-028ef64a36bb\">Stk. 2.</span> Såfremt operatørens tjenester helt eller delvist drives af en tredjepart, skal eventuelle risici forbundet hermed medtages i risikovurderingen efter stk. 1.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id62ec21fa-1569-414d-83ba-52eba99a66c4\">Stk. 3.</span> På baggrund af risikovurderingen efter stk. 1 og 2 skal operatørerne implementere passende foranstaltninger til sikring af tilgængelighed, autenticitet, integritet og fortrolighed i tjenester samt sikre, at tredjepart opretholder en tilsvarende sikkerhed i forhold til driftsleverancer til operatørerne efter stk. 2.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"idaef3079f-66bd-45db-b4cb-728c45c5ee8c\">Stk. 4.</span> Risikovurderinger efter stk. 1 og 2 samt foranstaltninger efter stk. 3 skal løbende tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet.</p>\r\n<p class=\"Paragraf\" id=\"id2fae85f0-afae-4407-a493-5cbad75cbb17\">\r\n   <span id=\"P4\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par4\">§ 4.</span> Operatører af væsentlige internetudvekslingspunkter skal udarbejde og gennemføre en ledelsesgodkendt net- og informationssikkerhedspolitik med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende. Informationssikkerhedspolitikken skal herunder beskrive de processuelle og organisatoriske rammer for arbejdet med informationssikkerheden og operatørens politik for håndtering af beredskabssituationer og andre ekstraordinære situationer med henblik på at sikre, at net og tjenester i videst muligt omfang kan opretholdes i sådanne situationer.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id9c02ab58-9ec3-41eb-9128-a165be41cfe7\">Stk. 2.</span> Operatørerne skal sikre, at informationssikkerhedspolitikken er kommunikeret til alle relevante medarbejdere.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id61f1f4d3-6511-49d9-a02d-d9308037a48d\">Stk. 3.</span> Operatørerne skal løbende tilpasse informationssikkerhedspolitikken, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet. Der skal dog mindst én gang om året foretages en vurdering af behovet for at tilpasse informationssikkerhedspolitikken.</p>\r\n<p class=\"Paragraf\" id=\"id2ce7a007-abd2-41a9-89e2-0d43c8790674\">\r\n   <span id=\"P5\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par5\">§ 5.</span> Operatører af væsentlige internetudvekslingspunkter skal på baggrund af informationssikkerhedspolitikken efter § 4 sikre, at der er etableret en informationssikkerhedsorganisation. Varetagelsen af relevante sikkerhedsopgaver, herunder roller og ansvar, skal i den forbindelse være beskrevet og i fornødent omfang være kommunikeret til operatørernes medarbejdere.</p>\r\n<p class=\"Paragraf\" id=\"id94518130-da17-4085-863a-416dce1d632e\">\r\n   <span id=\"P6\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par6\">§ 6.</span> Operatører af væsentlige internetudvekslingspunkter skal foretage risikostyring med udgangspunkt i en anerkendt international standard, eksempelvis DS/ISO/IEC 27001 eller tilsvarende.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"idd1497a5e-78e5-4599-84b4-0e1d5ccd958c\">Stk. 2.</span> Som led i risikostyringen skal operatørerne fastsætte en samlet risikostyringsproces, der omfatter risikovurdering og håndtering af informationssikkerhedsrisici. Der skal i den forbindelse tages stilling til kriterier for operatørernes risikovillighed.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id11a5d004-943a-4bf6-8a66-0c95acbe8b34\">Stk. 3.</span> Ved fastlæggelsen af risikovillighed efter stk. 2 skal der tages højde for, at operatørerne i videst muligt omfang skal opretholde udbuddet af deres væsentlige tjenester i beredskabssituationer og i andre ekstraordinære situationer med henblik på at sikre samfundets internettrafik.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id576e1fc7-32f5-406e-9982-561276f5c2ff\">Stk. 4.</span> Risikostyringsprocessen skal i fornødent omfang dokumenteres og tilpasses, herunder ved væsentlige ændringer af operatørernes virksomhed og i trusselsbilledet.</p>\r\n<p class=\"Kapitel\" id=\"id6e4aa640-0ae7-4bad-89ef-d69264999702\">\r\n   <span id=\"K3\">\r\n   </span>\r\n   <span id=\"Kap3\">Kapitel 3</span>\r\n</p>\r\n<p class=\"KapitelOverskrift2\">Underretningspligt</p>\r\n<p class=\"Paragraf\" id=\"id58da0749-3365-4187-8737-682839da43b1\">\r\n   <span id=\"P7\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par7\">§ 7.</span> Operatører af væsentlige internetudvekslingspunkter skal underrette Center for Cybersikkerhed om hændelser, der har væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som operatørerne leverer, jf. § 8.</p>\r\n<p class=\"Paragraf\" id=\"id0073b7ae-7eb0-4d2e-9d38-91df929d917f\">\r\n   <span id=\"P8\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par8\">§ 8.</span> En hændelse har væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som en operatør af et væsentligt internetudvekslingspunkt leverer, når hændelsen i den væsentlige tjeneste medfører</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id1357b5f4-f3b3-440c-831d-24d4264676bc\">1)</span> nedgang i operatørens kapacitet i forhold til at håndtere data på mindst 50 procent i mindst en time, eller</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id72526b85-e8ac-484f-9637-88bd120324eb\">2)</span> tab af autenticitet, integritet eller fortrolighed.</p>\r\n<p class=\"Paragraf\" id=\"id0b762751-5909-49a5-a536-facebd58dbe8\">\r\n   <span id=\"P9\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par9\">§ 9.</span> Underretning i medfør af § 7 skal ske hurtigst muligt og senest inden udgangen af den førstkommende hverdag efter, at operatøren har konstateret, at hændelsen har fået væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som operatøren leverer, jf. § 8.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id3fef1048-1065-496f-9699-6e976f4809a9\">Stk. 2.</span> Underretningen af hændelser skal ske gennem den fælles digitale løsning for indberetning til offentlige myndigheder på www.virk.dk, jf. dog stk. 3.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id28c981c6-82e8-4fda-90dc-010b478ac57e\">Stk. 3.</span> Såfremt alle oplysninger til brug for underretningen ikke er tilgængelig for operatøren på tidspunktet, hvor underretning foretages, jf. stk. 1, afgiver operatøren en delvis underretning med de tilgængelige oplysninger. En delvis underretning skal snarest muligt følges op af en komplet underretning.</p>\r\n<p class=\"Kapitel\" id=\"id8ed2e373-4656-46c7-8acf-ebe20b8fe922\">\r\n   <span id=\"K4\">\r\n   </span>\r\n   <span id=\"Kap4\">Kapitel 4</span>\r\n</p>\r\n<p class=\"KapitelOverskrift2\">Straffebestemmelser og ikrafttrædelse</p>\r\n<p class=\"Paragraf\" id=\"id946ed03e-4791-4258-85b2-8cdb147233ed\">\r\n   <span id=\"P10\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par10\">§ 10.</span> Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der overtræder §§ 3-7 og § 9.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"idc0f62a87-5276-4dda-8dd9-95126064503b\">Stk. 2.</span> Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</p>\r\n<p class=\"Paragraf\" id=\"iddfa8912e-f00f-4eda-90db-7c8b1d38e520\">\r\n   <span id=\"P11\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par11\">§ 11.</span> Bekendtgørelsen træder i kraft den 10. maj 2018.</p><div class=\"Givet\" id=\"Givet\"><p class=\"Givet\" align=\"center\">Center for Cybersikkerhed, den 8. maj 2018</p><p class=\"Sign1\" align=\"center\">Thomas Lund-Sørensen</p><p class=\"Sign2\" align=\"right\">/ Jørgen Breddam</p></div><div class=\"bjelke\">Officielle noter</div><p class=\"Fodnote\">\r\n   <a class=\"FodnoteNr\" name=\"ided6964e3-0c14-4c89-bf35-2805ded29de1\" href=\"#Henvisning_ided6964e3-0c14-4c89-bf35-2805ded29de1\">1)</a> Bekendtgørelsen indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2016/1148/EU af 6. juli 2016 om foranstaltninger, der skal sikre et højt fælles sikkerhedsniveau for net- og informationssystemer i hele Unionen, EU-tidende 2016, nr. L194, side 1.</p>",
+    "isHistorical": false,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Forsvarsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "09/05/2018"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "B20180045405"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "AG000840"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "09/05/2018"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "09/05/2018"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Bekendtgørelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "B "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "454"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "2018"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "08/05/2018"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Lovtidende A"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Center for Cybersikkerhed"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Forsvarsmin.,<br />Center for Cybersikkerhed, j.nr. 2017/002575"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": true
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

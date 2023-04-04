@@ -1,0 +1,75 @@
+{
+    "id": 87308,
+    "title": "Tekniske bestemmelser for LMES satellitjordstationer TB 97 089 Oktober 1997 ",
+    "documentTypeId": "60",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "BEK nr 28231 af 01/10/1997",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Tekniske bestemmelser for LMES  \r\n\r\n satellitjordstationer TB 97 089 Oktober 1997 </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> Gyldighedsområde </P>  \r\n\r\n<P>Disse tekniske bestemmelser fastsætter de krav og tilhørende  \r\n\r\n prøvningsforskrifter, der skal overholdes af LMES (Land Mobile Earth  \r\n\r\n Stations) satellitjordstationer i frekvensbåndene 1625.5 - 1645.5 MHz, 1656.5  \r\n\r\n - 1660.5 MHz og 14.0 - 14.25 GHz (uplink) og 1525.0 - 1544.0 MHz, 1555.0 -  \r\n\r\n 1559.0 MHz og 10.7 - 11.7 GHz eller 12.5 - 12.75 GHz (downlink) </P>  \r\n\r\n<P>Hjemmelsgrundlaget for disse tekniske bestemmelser fremgår af  \r\n\r\n forskningsministerens bekendtgørelse nr. 663 af 3. august 1995  \r\n\r\n &#187;Bekendtgørelse om Satellit jordstationsudstyr&#171;(* 1),  Ikrafttræden  \r\n\r\n</P>  \r\n\r\n<P>Disse tekniske bestemmelser træder i kraft oktober 1997. </P>  \r\n\r\n<P> Typegodkendelse </P>  \r\n\r\n<P>Fremgangsmåden for opnåelse af typegodkendelse fremgår af ovennævnte  \r\n\r\n bekendtgørelse § 11. </P>  \r\n\r\n<P> Tekniske krav og prøvningsforskrifter </P>  \r\n\r\n<P>De tekniske krav og tilhørende prøvningsforskrifter, som udstyret skal  \r\n\r\n opfylde, fremgår af bilag 1, &#187;Tekniske krav for LMES  \r\n\r\n satellitjordstationer maj 1997&#171;, der indeholder referencer til følgende  \r\n\r\n ETSI standarder: </P>  \r\n\r\n<P>* ETS 300 254 maj 1994 &#187;Satellite Earth Stations and systems (SES):  \r\n\r\n Land Mobile Earth Stations (LMESs) operating in the 1.5/1.6 GHz bands  \r\n\r\n providing Low Bit Rate Data Communications (LBRDCs) </P>  \r\n\r\n<P>* ETS 300 255 maj 1994 &#187;Satellite Earth Stations and systems (SES):  \r\n\r\n Land Mobile Earth Stations (LMESs) operating in the 11/12/14 GHz bands  \r\n\r\n providing Low Bit Rate Data Communications (LBRDCs) </P>  \r\n\r\n<P>* ETS 300 423 august 1995 &#187;Satellite Earth Stations and systems  \r\n\r\n (SES): Land Mobile Earth Stations (LMESs) operating in the 1.5/1.6 GHz bands  \r\n\r\n providing voice and/or data communications. </P>  \r\n\r\n<P> Rekvirering af love, bekendtgørelser, standarder m.v. </P>  \r\n\r\n<P>Tekniske bestemmelser samt relevante love og bekendtgørelser kan fås/købes  \r\n\r\n ved henvendelse til Telestyrelsen, Holsteinsgade 63, 2100 København Ø, tlf:  \r\n\r\n 35430333, fax: 35431434. </P>  \r\n\r\n<P>ETSI dokumenter ((I-)ETS'er og TBR'er samt NET-standarder) kan købes hos  \r\n\r\n Telestyrelsen. </P>  \r\n\r\n<P>ITU rekommandationer m.v. kan købes direkte hos ITU, Place des Nations,  \r\n\r\n CH- 1211 Geneve 20, tlf.: +41 22 730 5111, fax: +41 22 730 5194 eller +41 22  \r\n\r\n 733 7256 eller eventuelt gennem Telestyrelsen. </P>  \r\n\r\n<P>Radiorelaterede rekommandationer herunder, ERC Decisons,  \r\n\r\n Radiocommunication Reports, Report Forms og Application Forms,  \r\n\r\n Recommendations on Radiocommunications kan købes hos: ERO, European  \r\n\r\n Radiocommunications Office, Midtermolen 1, 2100 København Ø, tlf: 35250300,  \r\n\r\n fax: 35250330. For yderligere information henvises til ERO's hjemmeside på  \r\n\r\n internettet (www.ero.dk). </P>  \r\n\r\n<P>ISO/CEN/CENELEC/IEC/DS standarder kan købes hos Dansk Standard,  \r\n\r\n Kollegievej 6, 2920 Charlottenlund, tlf: 39966101, fax: 39966102. </P>  \r\n\r\n<P>Maj 1997 </P>  \r\n\r\n<P>Bilag 1 </P>  \r\n\r\n<PRE>  \r\n\r\n Tekniske krav for LMES satellitjordstationer.  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n ETS 300    ETS 300    ETS 300  \r\n\r\n   254        423       255  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n 4.2.1        6.1       4.2.1    Unwanted emission outside band  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n 4.2.2        6.2       4.2.2    Unwanted emission in- band (on-axis)  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n Ingen        Ingen     4.2.3    Off-axis e.i.r.p in-band  \r\n\r\n  krav         krav  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n 4.3.1.1      7.1.1     4.3.1.1  Processor monitoring  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n 4.3.1.2      7.1.2     4.3.1.2  Transmitter subsystem monitoring  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n 4.3.3.1      7.3.1     4.3.3.1  Network control authorisation  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n 4.3.3.2      7.3.2     4.3.3.2  Network control reception  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n   4.4          8         4.4    Initial burst rate transmission  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n</PRE>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>(* 1) Bekendtgørelsen indeholder bestemmelser, der gennemfører Rådets  \r\n\r\n direktiv 93/97/EØF, De Europæiske Fællesskabers Tidende (EF-Tidende 1993 L  \r\n\r\n 290s.1(slut på note). </P>  \r\n\r\n<P>ETS 300 254, maj 1994 </P>  \r\n\r\n<P>ETS 300 255, maj 1994 </P>  \r\n\r\n<P>ETS 300 423, august 1995 </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Klima-, Energi- og Forsyningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "27/05/1998"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "B19972823105"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM047121"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "27/05/1998"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "30/11/2001"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Bekendtgørelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "B "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "28231"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1997"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Telestyrelsen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Ingen"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

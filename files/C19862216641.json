@@ -1,0 +1,75 @@
+{
+    "id": 75208,
+    "title": "Studieplan for kurset 4.2. Dokumentation ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22166 af 01/08/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 4.2. Dokumentation ved  \r\n\r\n Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra august 1984 (genoptryk). </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P> 1. Baggrund </P>  \r\n\r\n<P>Dokumentation af edb-systemer har aldrig været populært. Men i  \r\n\r\n almindelighed erkender man nødvendigheden, af hensyn til både udvikling og  \r\n\r\n vedligehold. Vi vil her se på mulighederne i nutidens og fremtidens  \r\n\r\n systemudvikling. </P>  \r\n\r\n<P>Der findes mange standardmodeller for systemudvikling med forskellige  \r\n\r\n faser og forskellige værktøjer, men ellers i filosofien ens. I de seneste år  \r\n\r\n er mange automatiske metoder og værktøjer kommet frem. </P>  \r\n\r\n<P>Vores angrebsvinkel vil være, baseret på en generel referenceramme, at  \r\n\r\n opstille en dokumentationsplan. Dokumentationsplanen benytter en fasemodel  \r\n\r\n som skelet, den overordnede dokumentation som systemmodel og databasemodel  \r\n\r\n laves eksplicit, mens den detaljerede dokumentation i princippet kan laves på  \r\n\r\n tre måder, evt. i kombination: </P>  \r\n\r\n<P>- manuel dokumentation </P>  \r\n\r\n<P>- systemkomponenterne (filer og programmer) er &#187;gratis&#171;  \r\n\r\n dokumentation </P>  \r\n\r\n<P>- automatisk dokumentation (Data Dictionary og Systemudviklingsværktøjer).  \r\n\r\n</P>  \r\n\r\n<P> 2. Formål </P>  \r\n\r\n<P>Formålet med kurset er, baseret på en generel referenceramme, at opstille  \r\n\r\n en dokumentationsplan, som kan indrettes på både nutidens og fremtidens  \r\n\r\n systemudvikling. </P>  \r\n\r\n<P>Dokumentationsplanen forankres i en fasemodel, men det vil være et vigtigt  \r\n\r\n aspekt at begrænse den manuelle indsats til den overordnede dokumentation  \r\n\r\n samt til organisering af den detaljerede dokumentation, så enten  \r\n\r\n systemkomponenterne selv udgør dokumentationen, eller så dokumentationen  \r\n\r\n produceres automatisk. </P>  \r\n\r\n<P>Der lægges vægt på at relatere dokumentationsplanen til de studerendes  \r\n\r\n egen hverdag. </P>  \r\n\r\n<P> 3. Indhold og niveau (antal lektioner) Vejledende timetal </P>  \r\n\r\n<P> 1. Indledning 2 </P>  \r\n\r\n<P>Oversigt over kursets indhold og gennemførelse. </P>  \r\n\r\n<P> 2. Edb-afdeling og dokumentation 4 </P>  \r\n\r\n<P>Vi opstiller en generel referenceramme, som er en model af edb- afdelingen  \r\n\r\n og en strukturering af dokumentationen i &#187;dokumentationsmængder&#171;,  \r\n\r\n &#187;-enheder&#171; og &#187;-elementer&#171;. </P>  \r\n\r\n<P>Vi gennemgår principper for en edb-afdelings organisation, derefter  \r\n\r\n analyserer vi edb-afdelingen ved hjælp af generel systemteori, hvorved  \r\n\r\n edb-afdelingen fremtræder som objektsystemet og den indlejrede dokumentation  \r\n\r\n som databehandlingssystemet, og endelig strukturerer vi dokumentationen. </P>  \r\n\r\n<P> 3. Edb-håndbogen 3 </P>  \r\n\r\n<P>Vi gennemgår nogle standardforslag fra litteraturen samt et normativt  \r\n\r\n forslag. </P>  \r\n\r\n<P>I tiden er medregnet E1. </P>  \r\n\r\n<P> 4. Metodikker for Dokumentation af Systemudvikling 12 </P>  \r\n\r\n<P>Vi gennemgår to standardmetodikker med hovedvægten på den ene. </P>  \r\n\r\n<P>Emneområderne er: </P>  \r\n\r\n<P>- Systemudviklingsmodellen </P>  \r\n\r\n<P>- Projektstyring </P>  \r\n\r\n<P>- Analysedokumentation </P>  \r\n\r\n<P>- Systemdokumentation </P>  \r\n\r\n<P>- Datadokumentation </P>  \r\n\r\n<P>- Driftsdokumentation </P>  \r\n\r\n<P>I tiden er medregnet E2. </P>  \r\n\r\n<P> 5. Datamatbaseret systemdokumentation 12 </P>  \r\n\r\n<P>Vi gennemgår forskellige automatiske værktøjer og metoder til  \r\n\r\n systemudvikling og dokumentation, idet det understreges, at de skal passes  \r\n\r\n ind i en overordnet udviklingsmodel. </P>  \r\n\r\n<P>De gennemgåede metoder og værktøjer er: </P>  \r\n\r\n<P>- Rapportgenerator </P>  \r\n\r\n<P>- Data Dictionary/System Dictionary </P>  \r\n\r\n<P>- Eksperimentel Systemudviklings værktøjer </P>  \r\n\r\n<P>- Systemudviklingsværktøjer. </P>  \r\n\r\n<P>I tiden er medregnet E3. </P>  \r\n\r\n<P> 6. Organisation, identifikation, arkivering af  dokumentation 6 </P>  \r\n\r\n<P>Vi formulerer en model af dokumentationens organisering og arkivering i  \r\n\r\n edb-afdelingen, idet vi inddrager de egentlige systemkomponenter, dvs.  \r\n\r\n programmer og filer, i modellen. </P>  \r\n\r\n<P>Regler for identifikationssystemer belyses gennem et eksempel. </P>  \r\n\r\n<P>Oprettelse af en særlig dokumentationsfunktion diskuteres kort. </P>  \r\n\r\n<P>I tiden er medregnet E4. </P>  \r\n\r\n<P> 7. Generelle dokumentationsteknikker 6 </P>  \r\n\r\n<P>Da dokumentation fremtræder som rapporter, diskuterer vi kort  \r\n\r\n rapportbegrebet. </P>  \r\n\r\n<P>Vi skelner mellem tre klasser af dokumentationsteknikker: </P>  \r\n\r\n<P>verbalt / grafisk / skematisk </P>  \r\n\r\n<P>og vi sætter disse klasser i relation til: </P>  \r\n\r\n<P>systembeskrivelse / procesbeskrivelse / databeskrivelse. </P>  \r\n\r\n<P>Vi gennemgår en interessant grafteknik, kaldet No-chart. </P>  \r\n\r\n<P>Endelig indeholder kapitlet, delvis af historiske grunde,  \r\n\r\n grundprincipperne for konstruktion af blanketter. </P>  \r\n\r\n<P> 8. Afslutning 3 </P>  \r\n\r\n<P>Kursusafslutning og forberedelse til prøve. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862216641"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034413"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22166"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/08/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1986-510.612-4"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

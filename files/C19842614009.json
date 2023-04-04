@@ -1,0 +1,75 @@
+{
+    "id": 45347,
+    "title": "Cirkulære nr. 29G. Tilslutning af fjernovervågningsudstyr til det offentlige alarmsystem via 8 kHz tilslutningsled (TA) til alarmterminalexpander ATEX",
+    "documentTypeId": "140",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "CIR nr 26140 af 01/10/1984",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Cirkulære nr. 29G. Tilslutning af  \r\n\r\n fjernovervågningsudstyr til det offentlige alarmsystem via 8 kHz  \r\n\r\n tilslutningsled (TA) til alarmterminalexpander ATEX </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<BR>  \r\n\r\n<PRE>  \r\n\r\n 0. Indholdsfortegnelse                         side  \r\n\r\n 1.Almindeligt....................................1  \r\n\r\n 2.Funktionsbeskrivelse...........................2  \r\n\r\n 3.Protokol.......................................2  \r\n\r\n 4.Parametre......................................2  \r\n\r\n 5.Tilslutning....................................2  \r\n\r\n</PRE>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> Almindeligt </P>  \r\n\r\n<P>En skematisk fremstilling af en abonnentinstallation omfattende 8 kHz  \r\n\r\n tilslutningsled (TA) med tilsluttet fjernovervågningsudstyr (i det følgende  \r\n\r\n betegnet AU) og med forbindelse over telefonlinien til en  \r\n\r\n alarmterminalexpander ATEX er givet i fig. 1. </P>  \r\n\r\n<P>Mellem det privatejede abonnentudstyr AU og den del af installationen, der  \r\n\r\n leveres og vedligeholdes af teleadministrationen, er der en grænseflade som  \r\n\r\n vist på figuren. </P>  \r\n\r\n<P>Fysisk er denne grænseflade 2 terminaler på 8 kHz tilslutningsleddet. </P>  \r\n\r\n<P><IMG SRC=\"/image.aspx?id=45347&img=CR3929_1.gif\" ALIGN=\"middle\" WIDTH=\"235\" HEIGHT=\"85 BORDER=\"no\" ALT=\"DUMMY.GIF billedet er ikke indlagt onMouseOver=\"self.status='DUMMY.GIF billedet er ikke indlagt'; return true\"\"> </P>  \r\n\r\n<P>Fig. 1: Abonnentinstallation, skematisk </P>  \r\n\r\n<P>Til AU stilles det generelle krav, at udstyret er konstrueret til at  \r\n\r\n kommunikere med ATEX over grænsefladen, dvs. kan udføre de for kommunikation  \r\n\r\n nødvendige funktioner, der er beskrevet i det følgende, og da med  \r\n\r\n overholdelse af de parameterværdier, som er angivet i denne specifikation.  \r\n\r\n</P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> Funktionsbeskivelse </P>  \r\n\r\n<P>Grænsefladen består af 2 ledere (se fig. 1), der benyttes til  \r\n\r\n signaloverføring fra AU til 8 kHz tilslutningsled. </P>  \r\n\r\n<P>Informationen kan være normaltilstand, alarm A eller alarm B. En afbrudt  \r\n\r\n forbindelse detekteres af alarmterminalexpander. </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> Protokol </P>  \r\n\r\n<P>Signal med frekvensen 8005 Hz +/- 10 Hz og sendeniveau -5 dB/1 mW +/- 2 dB  \r\n\r\n i 300 ohm detekteres som normaltilstand. </P>  \r\n\r\n<P>En anden tilstand (alarm A: 8060 Hz +/- 10 Hz eller alarm B: 7950 Hz +/-  \r\n\r\n 10 Hz) med samme niveau og af større varighed end 2 sekunder vil blive  \r\n\r\n registreret som en ændring, der videresendes til vagtcentralen. </P>  \r\n\r\n<P>En afvigelse i sendefrekvens f.eks. som følge af fejl til over 8200 Hz  \r\n\r\n eller under 7800 Hz detekteres som en afbrudt forbindelse. </P>  \r\n\r\n<P>Et fald i niveau på modtagersiden til under -41 dB/1 mW i 300 ohm medfører  \r\n\r\n indikering &#187;afbrudt forbindelse&#171;. </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> Parametre </P>  \r\n\r\n<P>4.1 Elektriske parametre </P>  \r\n\r\n<PRE>  \r\n\r\n           Frekvens                      Niveau på grænseflade  \r\n\r\n Normaltilstand 8005 Hz +/- 10 Hz  -5 dB/1mW +/- 2 dB i 300 ohm  \r\n\r\n Alarm A        8060 Hz +/- 10 Hz  -5 dB/1mW +/- 2 dB i 300 ohm  \r\n\r\n Alarm B        7950 Hz +/- 10 Hz  -5 dB/1mW +/- 2 dB i 300 ohm  \r\n\r\n</PRE>  \r\n\r\n<P>Niveauet hidrørende fra enhver frekvens uden for området 7800 Hz til 8200  \r\n\r\n Hz må ikke på grænsefladen overstige -60 dBm. </P>  \r\n\r\n<P>Niveaumæssigt kan der i specielle tilfælde tillades op til + 5 dB/1mW i  \r\n\r\n 300 ohm ved 8 kHz på grænsefladen. </P>  \r\n\r\n<P>4.2 Impedansforhold for 8 kHz tilslutningsled </P>  \r\n\r\n<P>Tilslutningsleddets ind- og udgangsimpedans ved 8 kHz set fra AU og </P>  \r\n\r\n<P>mod telefonlinien er definitionsmæssigt 300 ohm. </P>  \r\n\r\n<P CLASS=PUNKT> <B>5.</B> Tilslutning </P>  \r\n\r\n<P>Tilslutningsleddet (TA) leveres og opsættes af teleadministrationerne.  \r\n\r\n</P>  \r\n\r\n<P>AU tilsluttes i henhold til fig. 2. </P>  \r\n\r\n<P><IMG SRC=\"/image.aspx?id=45347&img=1.gif\" ALIGN=\"middle\" WIDTH=\"235\" HEIGHT=\"85 BORDER=\"no\" ALT=\"DUMMY.GIF billedet er ikke indlagt onMouseOver=\"self.status='DUMMY.GIF billedet er ikke indlagt'; return true\"\"> </P>  \r\n\r\n<P>Fig. 2: 8 kHz tilslutningsled (TA), skematisk. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Klima-, Energi- og Forsyningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19842614009"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM003929"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "30/11/2001"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Cirkulære (1 sp)"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "26140"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1984"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/10/1984"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Telestyrelsen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Ingen"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

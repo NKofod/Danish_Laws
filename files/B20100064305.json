@@ -1,0 +1,75 @@
+{
+    "id": 132398,
+    "title": "Bekendtgørelse om digital kommunikation m.v. i sager om sygedagpenge og dagpenge efter barselloven",
+    "documentTypeId": "60",
+    "isSagsforlobPeriodValid": true,
+    "shortName": "BEK nr 643 af 11/06/2010",
+    "documentHtml": "<div class=\"bjelke\">Oversigt (indholdsfortegnelse)</div><p class=\"Indholdsfortegnelse\"><a href=\"#K1\">Kapitel 1</a>   Digital kommunikation mellem den digitale indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven (SDPI-løsningen) og arbejdsgiver, selvstændige erhvervsdrivende og arbejdsløshedskassen</p>\n      <p class=\"Indholdsfortegnelse\"><a href=\"#K2\">Kapitel 2</a>   Digital kommunikation mellem SDPI-løsningen og kommunen</p>\n      <p class=\"Indholdsfortegnelse\"><a href=\"#K3\">Kapitel 3</a>   Tekniske krav til kommunikation til SDPI-løsningen og til systemet for Validering af Atypisk Sygefravær (VAS)</p>\n      <p class=\"Indholdsfortegnelse\"><a href=\"#K4\">Kapitel 4</a>   Dokumentation, opbevaring og kontrol</p><div class=\"bjelke\">Den fulde tekst</div><p class=\"Titel2\">Bekendtgørelse om digital kommunikation m.v. i sager om sygedagpenge og dagpenge efter barselloven</p>\n      <p class=\"Indledning2\">I medfør af § 32 a i forvaltningsloven, jf. lovbekendtgørelse nr. 1365 af 7. december 2007, § 69 i lov nr. 563 af 9. juni 2006 om sygedagpenge, som ændret ved lov nr. 247 af 23. marts 2010, og § 3, stk. 3, § 5, stk. 2, og § 17 stk. 2, i lov nr. 283 af 15. april 2009 om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven, fastsættes efter forhandling med KL:</p>\n      <p class=\"Kapitel\" id=\"K1\"><span id=\"Kap1\">Kapitel 1</span></p>\n      <p class=\"KapitelOverskrift2\">Digital kommunikation mellem den digitale indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven (SDPI-løsningen) og arbejdsgiver, selvstændige erhvervsdrivende og arbejdsløshedskassen</p>\n      <p class=\"Paragraf\" id=\"P1\"><span class=\"ParagrafNr\" id=\"Par1_Stk1\">§ 1.</span> Arbejdsgivere kan anmelde sygefravær, afgive oplysninger om afholdt sygefraværssamtale samt anmode om refusion af sygedagpenge eller dagpenge efter barselloven via SDPI-løsningen.</p>\n      <p class=\"Stk2\"><span class=\"StkNr\" id=\"Par1_Stk2\">Stk. 2.</span> Selvstændige erhvervsdrivende kan anmelde sygefravær samt anmode om sygedagpenge eller dagpenge efter barselloven via SDPI-løsningen.</p>\n      <p class=\"Stk2\"><span class=\"StkNr\" id=\"Par1_Stk3\">Stk. 3.</span> Arbejdsløshedskassen kan afgive oplysninger til brug for kommunens behandling af den lediges sag om sygedagpenge eller dagpenge efter barselloven via SDPI-løsningen.</p>\n      <p class=\"Stk2\"><span class=\"StkNr\" id=\"Par1_Stk4\">Stk. 4.</span> Tidspunktet for anmeldelsen af sygefraværet, afgivelse af oplysningerne om afholdt sygefraværssamtale eller anmodningen om sygedagpenge eller dagpenge efter barselloven, er det tidspunkt, hvor arbejdsgiveren, den selvstændige erhvervsdrivende eller arbejdsløshedskassen har signeret indberetningen i SDPI-løsningen.</p>\n      <p class=\"Kapitel\" id=\"K2\"><span id=\"Kap2\">Kapitel 2</span></p>\n      <p class=\"KapitelOverskrift2\">Digital kommunikation mellem SDPI-løsningen og kommunen</p>\n      <p class=\"Paragraf\" id=\"P2\"><span class=\"ParagrafNr\" id=\"Par2_Stk1\">§ 2.</span> Kommunen skal afhente indberetning og dokumentation fra SDPI-løsningen i OIOXML-meddelelsesformat til automatisk indlægning i kommunens egne systemer.</p>\n      <p class=\"Stk2\"><span class=\"StkNr\" id=\"Par2_Stk2\">Stk. 2.</span> Kommunen skal kvittere til SDPI-løsningen ved afhentelse af indberetning og dokumentation.</p>\n      <p class=\"Stk2\"><span class=\"StkNr\" id=\"Par2_Stk3\">Stk. 3.</span> Data i OIOXML-meddelelsesformat skal til enhver tid overholde de krav og standarder, der er publiceret i Digitaliser.dk.</p>\n      <p class=\"Paragraf\" id=\"P3\"><span class=\"ParagrafNr\" id=\"Par3_Stk1\">§ 3.</span> Kommunen skal aflevere sagsbehandlingsresultatet, herunder det udbetalte beløb eller afslagsårsagen, til SDPI-løsningen. Dette skal ske i OIOXML-meddelelsesformat.</p>\n      <p class=\"Kapitel\" id=\"K3\"><span id=\"Kap3\">Kapitel 3</span></p>\n      <p class=\"KapitelOverskrift2\">Tekniske krav til kommunikation til SDPI-løsningen og til systemet for Validering af Atypisk Sygefravær (VAS)</p>\n      <p class=\"Paragraf\" id=\"P4\"><span class=\"ParagrafNr\" id=\"Par4_Stk1\">§ 4.</span> Arbejdsgiveren, den selvstændige erhvervsdrivende, arbejdsløshedskassen og kommunen skal anvende OCES digital signatur ved indberetning og afhentning af oplysninger fra SDPI-løsningen.</p>\n      <p class=\"Paragraf\" id=\"P5\"><span class=\"ParagrafNr\" id=\"Par5_Stk1\">§ 5.</span> Der skal bruges stærk kryptering og autentificering, når der kommunikeres med SDPI-løsning.</p>\n      <p class=\"Stk2\"><span class=\"StkNr\" id=\"Par5_Stk2\">Stk. 2.</span> Det er ikke et krav, at der skal ske kryptering, hvis kommunikationen ikke omfatter personoplysninger af fortrolig karakter.</p>\n      <p class=\"Paragraf\" id=\"P6\"><span class=\"ParagrafNr\" id=\"Par6_Stk1\">§ 6.</span> Arbejdsdirektoratet er ansvarligt for, at</p>\n      <p class=\"Liste1\"><span class=\"Liste1Nr\" id=\"Par6_Stk1_Num1\">1)</span> VAS er tilstrækkelig sikker og indeholder nødvendige og tilstrækkelige sikkerhedsprocedurer til at afhente, modtage, behandle og videresende elektroniske meddelelser,</p>\n      <p class=\"Liste1\"><span class=\"Liste1Nr\" id=\"Par6_Stk1_Num2\">2)</span> VAS i øvrigt følger denne bekendtgørelses regler til behandling af elektroniske meddelelser,</p>\n      <p class=\"Liste1\"><span class=\"Liste1Nr\" id=\"Par6_Stk1_Num3\">3)</span> Arbejdsdirektoratets forretningsgange på dette område sker under iagttagelse af persondataloven,</p>\n      <p class=\"Liste1\"><span class=\"Liste1Nr\" id=\"Par6_Stk1_Num4\">4)</span> borgerne og virksomhederne er oplyst om VAS, herunder om konkrete registreringer i VAS i fornødent omfang, og</p>\n      <p class=\"Liste1\"><span class=\"Liste1Nr\" id=\"Par6_Stk1_Num5\">5)</span> der er sket anmeldelse til Datatilsynet i det omfang det er påkrævet.</p>\n      <p class=\"Kapitel\" id=\"K4\"><span id=\"Kap4\">Kapitel 4</span></p>\n      <p class=\"KapitelOverskrift2\">Dokumentation, opbevaring og kontrol</p>\n      <p class=\"Paragraf\" id=\"P7\"><span class=\"ParagrafNr\" id=\"Par7_Stk1\">§ 7.</span> Kommunerne skal opbevare den elektroniske indberetning og dokumentation i samme periode som i dag, svarende til gældende kassationsregler.</p>\n      <p class=\"Paragraf\" id=\"P8\"><span class=\"ParagrafNr\" id=\"Par8_Stk1\">§ 8.</span> Kommunen skal hver måned udtage 10 indberetninger, der foretages igennem SDPI-løsningen til stikprøvekontrol. Stikprøverne kan alene foretages på sager, som ikke er udpeget til skærpet kontrol af VAS.</p>\n      <p class=\"Stk2\"><span class=\"StkNr\" id=\"Par8_Stk2\">Stk. 2.</span> Kommunen skal sende oplysning til VAS om hvilke sager der er udtaget til stikprøvekontrol.</p>\n      <p class=\"ParagrafGruppeOverskrift\"><span id=\"Kap4_X2\">Ikrafttræden mv.</span></p>\n      <p class=\"Paragraf\" id=\"P9\"><span class=\"ParagrafNr\" id=\"Par9_Stk1\">§ 9.</span> Bekendtgørelsen træder i kraft den 23. august 2010.</p>\n      <p class=\"Stk2\"><span class=\"StkNr\" id=\"Par9_Stk2\">Stk. 2.</span> Bekendtgørelse nr. 677 af 22. juni 2006 om digital kommunikation mv. i sager om syge- og barseldagpenge ophæves.</p><DIV CLASS=GIVET ID=\"GIVET\"><P CLASS=GIVET ALIGN=\"CENTER\">Arbejdsmarkedsstyrelsen, den 11. juni 2010</P><P CLASS=SIGN1 ALIGN=\"CENTER\">Marie Hansen</P><P CLASS=SIGN2 ALIGN=\"RIGHT\">/ Torben D. Jensen</P></DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Beskæftigelsesministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "15/06/2010"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "B20100064305"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "BE004211"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "15/06/2010"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "15/06/2010"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Bekendtgørelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "B "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "643"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "2010"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "11/06/2010"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Lovtidende A"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Arbejdsmarkedsstyrelsen (AMS)"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Beskæftigelsesmin.,<br />Arbejdsmarkedsstyrelsen, j.nr. 2009-0013940"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": true
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

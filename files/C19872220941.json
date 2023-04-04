@@ -1,0 +1,75 @@
+{
+    "id": 75230,
+    "title": "Læreplan for faget PROGRAMMERING AF STØRRE SYSTEMER, HERUNDER HÅNDTERING AF STORE DATAMÆNGDER ved edb-assistentuddannelsen ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22209 af 01/09/1987",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Læreplan for faget PROGRAMMERING AF STØRRE  \r\n\r\n SYSTEMER, HERUNDER HÅNDTERING AF STORE DATAMÆNGDER ved  \r\n\r\n edb-assistentuddannelsen </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> FORMÅL </P>  \r\n\r\n<P>Faget skal sætte eleven i stand til at udarbejde programmer, der udnytter  \r\n\r\n de faciliteter og teknikker, der er udviklet til behandling af store  \r\n\r\n datamængder i et flerbrugermiljø. </P>  \r\n\r\n<P>Centrale emner i faget er fundamentale data- og filstrukturer og  \r\n\r\n databaseprogrammering. </P>  \r\n\r\n<P>Eleven skal kunne programmere brugerdialoger ved anvendelse af den  \r\n\r\n anvendte datamats hjælpeværktøjer. </P>  \r\n\r\n<P> MÅL </P>  \r\n\r\n<P>Eleven skal have kendskab til den aktuelle datamats forekomne  \r\n\r\n hjælpeværktøjer </P>  \r\n\r\n<P>Eleven skal kunne anvende et højniveausprog til udarbejdelse af programmer  \r\n\r\n i et flerbrugermiljø. </P>  \r\n\r\n<P>Eleven skal kunne realisere en datamodel ved hjælp af almindelige anvendte  \r\n\r\n filorganisationsformer i det valgte programmeringssprog. </P>  \r\n\r\n<P>Eleven skal kunne realisere en datamodel ved hjælp af et databasesystem.  \r\n\r\n Endvidere skal eleven kunne udarbejde programmer, der kan bearbejde  \r\n\r\n databasens data. </P>  \r\n\r\n<P>Eleven skal kunne programmere brugerdialoger ved anvendelse af den  \r\n\r\n aktuelle datamats hjælpeværktøjer. </P>  \r\n\r\n<P> INDLÆRINGSDYBDE </P>  \r\n\r\n<P> A. Eleven skal være orienteret om emnet. </P>  \r\n\r\n<P> B. Eleven skal have opnået forståelse af og kendskab til emnet. </P>  \r\n\r\n<P> C. Eleven skal have opnået indsigt i og dybere kendskab til emnet og  \r\n\r\n kunne anvende sin viden i afvigende kombinationer. </P>  \r\n\r\n<P> INDHOLD OG DELMÅL </P>  \r\n\r\n<P> Programmeringssprog og værktøjer </P>  \r\n\r\n<PRE>  \r\n\r\n Eleven skal have kendskab til sammenhængen mellem               B  \r\n\r\n    programmeringssprog og hjælpeværktøjer, som  \r\n\r\n    udgangspunkt for opbygning af systemer.  \r\n\r\n Eleven skal have kendskab til forskellige hjælpe-               B  \r\n\r\n    værktøjer, såsom TP-monitorer, databasesystemer,  \r\n\r\n    spørgesystemer, rapportgeneratorer, programbiblioteker,...  \r\n\r\n  Det aktuelle programmeringssprog  \r\n\r\n Eleven skal være orienteret om det aktuelle sprogs              A  \r\n\r\n    tilblivelse, anvendelse og særlige karakteristika.  \r\n\r\n Eleven skal beherske sprogets                                   C  \r\n\r\n -  syntaks og semantik  \r\n\r\n -  kontrolstrukturer  \r\n\r\n -  datatyper  \r\n\r\n -  faciliteter til opdeling i underprogrammer  \r\n\r\n -  faciliteter til filbehandling, herunder håndtering  \r\n\r\n    af de almindeligste organisationsformer og deres  \r\n\r\n    anvendelse  \r\n\r\n -  faciliteter til læsning fra og skrivning på ydre  \r\n\r\n    enheder  \r\n\r\n -  faciliteter til anvendelse af programbibliotek.  \r\n\r\n Eleven skal kunne anvende sprogets faciliteter til              C  \r\n\r\n    håndtering af flerbrugerproblematikken.  \r\n\r\n  Filorganisation  \r\n\r\n Eleven skal have kendskab til traditionelle filor-              B  \r\n\r\n    ganisationsformer, såsom sekventiel organisation,  \r\n\r\n    indekseret organisation og random organisation.  \r\n\r\n Eleven skal kunne anvende det udvalgte sprogs                   C  \r\n\r\n    faciliteter til at implementere en given datamodel.  \r\n\r\n D atabasesystemer  \r\n\r\n Eleven skal have kendskab til, hvad der karakteriserer          B  \r\n\r\n    et databasesystem i forhold til traditionelle  \r\n\r\n    filsystemer.  \r\n\r\n Eleven skal orienteres om forskellige datastruktu-              A  \r\n\r\n    reringsprincipper, såsom hierarkiske databaser,  \r\n\r\n    netværksdatabaser og relationsdatabaser.  \r\n\r\n Eleven skal have kendskab til et databasesystems                B  \r\n\r\n    opbygning, såsom data-definitionssprog, data-mani-  \r\n\r\n    pulationssprog, datadictionary, forespørgselssprog,  \r\n\r\n    rapportgeneratorer, ...  \r\n\r\n Eleven skal kunne definere en database i et datade-             C  \r\n\r\n    finitionssprog på grundlag af en given datamodel.  \r\n\r\n Eleven skal kunne opdatere og ændre en database                 C  \r\n\r\n    fra et program.  \r\n\r\n  Brugerdialoger  \r\n\r\n Eleven skal kunne anvende den aktuelle datamats                 C  \r\n\r\n    hjælpeværktøjer til implementering af en fastlagt  \r\n\r\n    brugerdialog. Ved udviklingen skal eleven kunne  \r\n\r\n    anvende skærmbilledgenerator eller tilsvarende  \r\n\r\n    højniveau værktøjer.  \r\n\r\n  SAMMENHÆNGE TIL ANDRE FAG  \r\n\r\n Grundlaget for implementering af datamodeller og  \r\n\r\n    brugerdialoger i dette fag er de i faget  \r\n\r\n    &#187;Systemarbejde&#171; indlærte måder at beskrive  \r\n\r\n    datamodeller og brugerdialoger på.  \r\n\r\n De i dette fag anvendte hjælpeværktøjer ved  \r\n\r\n    programudvikling skal være de samme, som  \r\n\r\n    anvendes i faget &#187;Materiel og basisprogrammel,  \r\n\r\n    større datamater&#171;.  \r\n\r\n</PRE>  \r\n\r\n<P>Læreplanen har virkning fra 1. januar 1988. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>undervisningsinspektør </P>  \r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Børne- og Undervisningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19872220941"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034435"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "08/09/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22209"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1987"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/09/1987"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Direktoratet for Erhvervsuddannelserne"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1987-52.21410-1 Læg II"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

@@ -1,0 +1,75 @@
+{
+    "id": 75205,
+    "title": "Studieplan for kurset 2.1. Sproglære ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22160 af 01/08/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 2.1. Sproglære ved  \r\n\r\n Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra august 1982 (genoptryk). </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P> FORMÅL. </P>  \r\n\r\n<P>Kurset skal give den studerende en generel viden om programmeringssprog  \r\n\r\n som et grundlag for </P>  \r\n\r\n<P>- lettere at kunne sætte sig ind i et &#187;nyt&#171; programmeringssprog  \r\n\r\n og vurdere dets anvendelighed til løsning af et givet problem, </P>  \r\n\r\n<P>- en bedre forståelse for og udnyttelse af allerede kendte  \r\n\r\n programmeringssprog. </P>  \r\n\r\n<P>Dette dobbelte formål søges tilgodeset gennem en generel gennemgang af de  \r\n\r\n sædvanlige programmeringssprogs konstruktioner sideløbende med en række  \r\n\r\n opgaver, der </P>  \r\n\r\n<P>- tvinger den studerende til at anvende et &#187;nyt&#171;  \r\n\r\n programmeringssprog, </P>  \r\n\r\n<P>- indeholder en grundig undersøgelse af en eller flere oversætteres  \r\n\r\n håndtering af forskellige konstruktioner i et på forhånd kendt sprog. </P>  \r\n\r\n<P> ADGANGSBETINGELSER </P>  \r\n\r\n<P>For studerende uden edb-assistenteksamen kræves beståelse af/dispensation  \r\n\r\n for efa-modulerne drift, symbolsk maskinsprog samt problemorienteret sprog.  \r\n\r\n</P>  \r\n\r\n<P> INDHOLD. </P>  \r\n\r\n<P> 1. Introduktion. </P>  \r\n\r\n<P>Formål: </P>  \r\n\r\n<P>At give en oversigt over modulets indhold og en begrundelse for  \r\n\r\n emnevalget. </P>  \r\n\r\n<P> 2. Syntaks og semantik. </P>  \r\n\r\n<P>Mål: </P>  \r\n\r\n<P>At kunne &#187;læse&#171; en formel syntaks med henblik på at undgå/rette  \r\n\r\n fejl. </P>  \r\n\r\n<P>At forstå meningen bag en række syntaktiske begreber. </P>  \r\n\r\n<P>At forstå sammenhængen mellem syntaks og semantik. </P>  \r\n\r\n<P>Emner: </P>  \r\n\r\n<P>Metasprog (BNF, syntaksdiagrammer, Cobol-lignende grammatikker,  \r\n\r\n produktioner). </P>  \r\n\r\n<P>Polsk og omvendt polsk notation. </P>  \r\n\r\n<P>Operator-præcedens. </P>  \r\n\r\n<P>Beskrivelse af semantik. </P>  \r\n\r\n<P> 3. Dataelementer. </P>  \r\n\r\n<P>Mål: </P>  \r\n\r\n<P>At forstå et sprogs udbud af datatyper og dets muligheder for  \r\n\r\n strukturering heraf. </P>  \r\n\r\n<P>Emner: </P>  \r\n\r\n<P>Simple datatyper. </P>  \r\n\r\n<P>Sammensatte datatyper (talsæt, poster, stakke, køer, mængder, m.v.). </P>  \r\n\r\n<P>Brugerdefinerede datatyper. </P>  \r\n\r\n<P>Sammenhængen mellem datatyper og operationer. </P>  \r\n\r\n<P>Erklæring af dataelementer. </P>  \r\n\r\n<P> 4. Programstyring. </P>  \r\n\r\n<P>Mål: </P>  \r\n\r\n<P>At kunne udvælge de styringsmekanismer, der i et givet sprog bedst løser  \r\n\r\n en givet opgave. </P>  \r\n\r\n<P>Emner: </P>  \r\n\r\n<P>Beregning af udtryk, sideeffekter. </P>  \r\n\r\n<P>Iteration, selektion, goto. </P>  \r\n\r\n<P>Underprogrammer, co-rutiner, reskursivitet. </P>  \r\n\r\n<P>Parallelle processer. </P>  \r\n\r\n<P> 5. Datastyring. </P>  \r\n\r\n<P>Mål: </P>  \r\n\r\n<P>At kunne udpege, hvilke variable, der er &#187;aktive&#171; på et givet  \r\n\r\n sted i et program. </P>  \r\n\r\n<P>Emner: </P>  \r\n\r\n<P>Bindingstid, virkefelt. </P>  \r\n\r\n<P>Lokale, ikke-lokale og globale variable. </P>  \r\n\r\n<P>Underprogrammer og parameteroverførsel. </P>  \r\n\r\n<P> 6. Lagertildeling. </P>  \r\n\r\n<P>Mål: </P>  \r\n\r\n<P>At forstå, hvilke krav til lagerplads et program kan stille før og under  \r\n\r\n kørslen. </P>  \r\n\r\n<P>Emner: </P>  \r\n\r\n<P>Statisk/dynamisk lagertildeling. </P>  \r\n\r\n<P>Garbage collection. </P>  \r\n\r\n<P> 7. Sprogprocessorer </P>  \r\n\r\n<P>Mål: </P>  \r\n\r\n<P>At få overblik over, hvad der sker under oversættelse af et program. </P>  \r\n\r\n<P>At få indblik i standardiseringsbestræbelserne. </P>  \r\n\r\n<P>Emner: </P>  \r\n\r\n<P>Standardisering og sprogversioner. </P>  \r\n\r\n<P>Oversættelse/fortolkning. </P>  \r\n\r\n<P>Fejlhåndtering. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862216041"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034410"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "08/09/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22160"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/08/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1986-510.612-4"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

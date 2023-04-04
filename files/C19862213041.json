@@ -1,0 +1,75 @@
+{
+    "id": 75194,
+    "title": "Studieplan for 2.7. Databasedesign ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22130 af 23/06/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for 2.7. Databasedesign ved  \r\n\r\n Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra den 1. august 1986. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P> Kursets formål: </P>  \r\n\r\n<P>Kurset skal sætte den studerende i stand til at foretage de vurderinger og  \r\n\r\n valg, som er nødvendige ved den fysiske konstruktion af en given database.  \r\n\r\n Til dette hører en tilstrækkelig viden om egenskaberne ved forskellige  \r\n\r\n lagringsstrukturer til at udnytte alternativerne i et givet operativ- eller  \r\n\r\n databasesystem på en fornuftig måde samt påpege evt. svagheder eller mangler  \r\n\r\n i et sådant system. </P>  \r\n\r\n<P> Formelle adgangsbetingelser: </P>  \r\n\r\n<P>Drift </P>  \r\n\r\n<P>Problemorienteret sprog </P>  \r\n\r\n<P>Planlægning </P>  \r\n\r\n<P>Projektgennemførelse </P>  \r\n\r\n<P> Anbefalede forudsætninger: </P>  \r\n\r\n<P>2.6 Databasesystemer, 5.4 Statistik og 5.5 Operationsanalyser. </P>  \r\n\r\n<P> Hovedemner og undervisningsformål med disse: </P>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> Registerorganisation og tilgangsmetoder. </P>  \r\n\r\n<P>Den studerende skal kunne estimere søgetid, lagerpladsforbrug samt  \r\n\r\n mulighederne for at implementere den logiske databases relationer ved hjælp  \r\n\r\n af følgende former for registerorganisation: </P>  \r\n\r\n<P>- Random organisation. </P>  \r\n\r\n<P>- Indeks organisation. </P>  \r\n\r\n<P>- Liste organisation. </P>  \r\n\r\n<P>- Sekventiel organisation. </P>  \r\n\r\n<P>(Herunder behandles også ekstern sortering og fletning, der kan opfattes  \r\n\r\n som en tilgangsmetode for batch kørsler) </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> Databasesystemers lagringsstrukturer. </P>  \r\n\r\n<P>Den studerende skal for forskellige typer databasesystemer kunne  \r\n\r\n konstruere en &#187;optimal&#171; database til et givet formål. </P>  \r\n\r\n<P>Herved skal den studerende vise, hvordan man kan kombinere forskellige  \r\n\r\n typer registerorganisation og optimere, ved at vælge mellem primære og  \r\n\r\n sekundære organisationsformer samt evt. clustering. </P>  \r\n\r\n<P>Den studerende skal også kunne redegøre for den valgte løsnings  \r\n\r\n fleksibilitet overfor nye uforudsete opgaver. </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> Distribuerede databaser. </P>  \r\n\r\n<P>Den studerende skal kunne redegøre for fordele og ulemper ved fysisk  \r\n\r\n distribuering af data samt de særlige tekniske problemer, der knytter sig  \r\n\r\n hertil. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862213041"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034399"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22130"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "23/06/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1986-52.612-1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

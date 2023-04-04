@@ -1,0 +1,75 @@
+{
+    "id": 75019,
+    "title": "Studieplan for kurset 2.9. Multiprogrammering ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22015 af 24/02/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 2.9. Multiprogrammering  \r\n\r\n ved Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra den 1. januar 1986. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P>Modulets formål: </P>  \r\n\r\n<P>Formålet med kurset er at give deltagerne et grundigt kendskab til design-  \r\n\r\n og implementeringsteknikker i multiprogrammerede systemer. Eleverne skal opnå  \r\n\r\n et grundigt kendskab til konstruktion af formålsbundne systemer. Eleverne  \r\n\r\n skal opnå færdighed i anvendelse af et højniveau sprog til implementering af  \r\n\r\n mindre multiprogrammeringsopgaver. Eleverne skal kunne gennemføre design og  \r\n\r\n implementering af et mindre formålsbundet system. </P>  \r\n\r\n<P>Adgangsbetingelser: </P>  \r\n\r\n<P>Symbolsk maskinsprog. </P>  \r\n\r\n<P>Edb-drift. </P>  \r\n\r\n<P>Problemorienteret programmeringsprog. </P>  \r\n\r\n<P>Anbefalede forudsætninger: </P>  \r\n\r\n<P>1.2 Operativsystemer. </P>  \r\n\r\n<P>2.1 Sproglære. </P>  \r\n\r\n<P>Specielt kræver modulet et grundigt kendskab og erfaring i anvendelse af  \r\n\r\n programmeringssproget PASCAL eller lignende sprog. </P>  \r\n\r\n<P>Hovedemner og undervisningsmål for disse: </P>  \r\n\r\n<P>Afgrænsning af og eksempler på anvendelse af multiprogrammer. </P>  \r\n\r\n<P>Målet med emnet er at give den studerende kendskab til nogle typiske  \r\n\r\n anvendelsesområder for multiprogrammering. Eleverne skal opnå kendskab til  \r\n\r\n nogle typiske formålsbundne systemer, realtidssystemer samt mindre  \r\n\r\n specialiserede operativsystemer. </P>  \r\n\r\n<P>Processynkronisering og -kommunikation. </P>  \r\n\r\n<P>Målet hermed er at give deltagerne et grundigt kendskab til teknikker til  \r\n\r\n synkronisering af parallelle processer samt til proceskommunikation.  \r\n\r\n Deltagerne skal opnå færdighed i anvendelse af semaforer, monitorer og evt  \r\n\r\n andre teknikker til processynkronisering og proceskommunikation. </P>  \r\n\r\n<P>Abstrakte maskiner og datatyper. </P>  \r\n\r\n<P>Deltagerne skal opnå et grundigt kendskab til begreberne: abstrakt maskine  \r\n\r\n og abstrakt datatype. Deltagerne skal specielt være fortrolig med begreberne  \r\n\r\n klasse og monitor. Deltagerne skal opnå kendskab til mindst et  \r\n\r\n højniveausprog, hvor disse begreber anvendes. </P>  \r\n\r\n<P>Procesafvikling. </P>  \r\n\r\n<P>Deltagerne skal opnå kendskab til principperne i dispatching, tvungen og  \r\n\r\n frivillig tidsdeling, samt til afviklingsstrategier herunder til kort- og  \r\n\r\n langtidsschedulering. </P>  \r\n\r\n<P>Implementering. </P>  \r\n\r\n<P>Deltagerne skal opnå kendskab til og færdighed i at implementere mindre  \r\n\r\n multiprogrammerede systemer ved anvendelse dels af assembler dels  \r\n\r\n højniveausprog. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862201541"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034224"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22015"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "24/02/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1985-510.612-1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

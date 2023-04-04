@@ -1,0 +1,75 @@
+{
+    "id": 75221,
+    "title": "Læreplan for faget materiel og basisprogrammel større datamater ved edb-assistentuddannelsen ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22204 af 01/09/1987",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Læreplan for faget materiel og basisprogrammel  \r\n\r\n større datamater ved edb-assistentuddannelsen </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> FORMÅL: </P>  \r\n\r\n<P>Faget skal give et indgående, praktisk orienteret kendskab til  \r\n\r\n maskinarkitekturen i større datamater. </P>  \r\n\r\n<P>Centrale emner i faget er operativsystemets funktioner, specielt  \r\n\r\n håndteringen af flerbrugerproblematikken, sikkerhedsforhold og drift af  \r\n\r\n større datamater. </P>  \r\n\r\n<P> MÅL </P>  \r\n\r\n<P>Eleven skal opnå kendskab til de større datamaters (flerbrugeranlægs)  \r\n\r\n maskinelle opbygning og funktion. </P>  \r\n\r\n<P>Eleven skal opnå kendskab til principperne i basisprogrammel til større  \r\n\r\n datamater (flerbrugeranlæg). </P>  \r\n\r\n<P>Eleven skal opnå kendskab til styresystemets håndtering af  \r\n\r\n flerbrugerproblematikken. </P>  \r\n\r\n<P>Eleven skal opnå kendskab til principperne for drift af større datamater  \r\n\r\n (flerbrugeranlæg). </P>  \r\n\r\n<P> INDLÆRINGSDYBDE </P>  \r\n\r\n<P> A. Eleven skal være orienteret om emnet. </P>  \r\n\r\n<P> B. Eleven skal have opnået forståelse af og kendskab til emnet. </P>  \r\n\r\n<P> C. Eleven skal have opnået indsigt i og dybere kendskab til emnet og  \r\n\r\n kunne anvende sin viden i afvigende kombinationer. </P>  \r\n\r\n<P> INDHOLD OG DELMÅL </P>  \r\n\r\n<P> Brug af datamaten </P>  \r\n\r\n<P>Eleven skal kunne anvende de basale kommandoer i et C styresystem til en  \r\n\r\n større datamat (flerbrugeranlæg). </P>  \r\n\r\n<P>Eleven skal kunne anvende typiske hjælpeværktøjer C ved programudvikling,  \r\n\r\n såsom editorer, oversættere, linkere og debuggere. </P>  \r\n\r\n<P>Eleven skal kunne udarbejde og afvikle rutiner i et C styresprog til en  \r\n\r\n større datamat (flerbrugeranlæg). </P>  \r\n\r\n<P> Maskinarkitektur </P>  \r\n\r\n<P>Eleven skal opnå kendskab til lagerhierarkiet i en B større datamat. </P>  \r\n\r\n<P>Eleven skal være orienteret om hovedlageradministra- A tion på en større  \r\n\r\n datamat (flerbrugeranlæg), herun- der om principperne i lagerallokering,  \r\n\r\n lagerudnyt- telse og lagerbeskyttelse. </P>  \r\n\r\n<P>Eleven skal opnå kendskab til væsentligt udstyr og B væsentlige enheder,  \r\n\r\n som er specielle for større da- tamater (flerbrugeranlæg). </P>  \r\n\r\n<P>Eleven skal være orienteret om multiprocessorsystem- A er. </P>  \r\n\r\n<P> Basisprogrammel </P>  \r\n\r\n<P>Eleven skal opnå kendskab til opbygning og funktion B af et styresystem  \r\n\r\n til flerbrugeranlæg. </P>  \r\n\r\n<P>Eleven skal være orienteret om principperne i pro- A cesadministration og  \r\n\r\n jobadministration i en større datamat (flerbrugeranlæg). </P>  \r\n\r\n<P>Eleven skal opnå kendskab til principperne i for- B skellige  \r\n\r\n afviklingsformer, såsom batch, interaktiv og transaktionsorienteret  \r\n\r\n afvikling. </P>  \r\n\r\n<P> Flerbrugerproblematikken </P>  \r\n\r\n<P>Eleven skal opnå kendskab til principperne i res- B sourcedelingen på en  \r\n\r\n større datamat (flerbrugeran- læg), såsom spool-system, deling af data på  \r\n\r\n fil-ni- veau og deling af data på post-niveau. </P>  \r\n\r\n<P> Drift af større datamater </P>  \r\n\r\n<P>Eleven skal opnå kendskab til væsentlige, sikker- B hedsmæssige problemer  \r\n\r\n knyttet til driften af større datamater (flerbrugeranlæg og distribuerede  \r\n\r\n anlæg), såsom kontrol med datatilgang og med fysisk adgang til anlægget. </P>  \r\n\r\n<P>Eleven skal opnå kendskab til, hvorledes væsentlige B sikkerhedsmæssige  \r\n\r\n problemer kan håndteres, som f.eks. registrering og sporing. </P>  \r\n\r\n<P> SAMMENHÆNGEN TIL ANDRE FAG </P>  \r\n\r\n<P>De i dette fag anvendte hjælpeværktøjer ved program- udvikling skal være  \r\n\r\n de samme, som anvendes i faget &#187;Programmering af større systemer&#171;.  \r\n\r\n</P>  \r\n\r\n<P>Undervisningen i drift af større datamater skal ko- ordineres med  \r\n\r\n undervisningen i sikkerhed og de driftsmæssige problemer i faget  \r\n\r\n &#187;Distribuerede sy- stemer og datanet&#171;. </P>  \r\n\r\n<P>Læreplanen har virkning fra 1. januar 1988. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>undervisningsinspektør </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Børne- og Undervisningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19872220441"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034426"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "08/09/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22204"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1987"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/09/1987"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Direktoratet for Erhvervsuddannelserne"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1987-52.21410-1 Læg II"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

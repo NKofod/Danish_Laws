@@ -1,0 +1,75 @@
+{
+    "id": 75217,
+    "title": "Læreplan for faget DISTRIBUEREDE SYSTEMER OG DATANET ved edb-assistentuddannelsen ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22200 af 01/09/1987",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Læreplan for faget DISTRIBUEREDE SYSTEMER OG  \r\n\r\n DATANET ved edb-assistentuddannelsen </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Læreplan for faget DISTRIBUEREDE SYSTEMER OG DATANET </P>  \r\n\r\n<P>  <B>FORMÅL</B>  </P>  \r\n\r\n<P>Faget skal give eleven et indgående, praktisk orienteret kendskab til de  \r\n\r\n tekniske problemer, der er knyttet til kommunikation mellem datamater. </P>  \r\n\r\n<P>Endvidere skal de sikkerhedsmæssige, organisatoriske og arbejdsmæssige  \r\n\r\n konsekvenser være belyst. </P>  \r\n\r\n<P>  <B>MÅL</B>  </P>  \r\n\r\n<P>Eleven skal være orienteret om datakommunikationssystemers opbygning og  \r\n\r\n funktion. </P>  \r\n\r\n<P>Eleven skal være orienteret om markedsrelevante standarder for  \r\n\r\n datakommunikation. </P>  \r\n\r\n<P>Eleven skal kunne anvende programmel til løsning af  \r\n\r\n datakommunikationsopgaver. </P>  \r\n\r\n<P>Eleven skal kunne anvende de offentlige datatjenester. </P>  \r\n\r\n<P>Eleven skal være orienteret om de sikkerhedsmæssige aspekter ved  \r\n\r\n datakommunikation. </P>  \r\n\r\n<P>Eleven skal være orienteret om distribuerede systemers opbygning og  \r\n\r\n funktion. </P>  \r\n\r\n<P> <B> INDLÆRINGSDYBDE </B>  </P>  \r\n\r\n<P> A. Eleven skal være orienteret om emnet. </P>  \r\n\r\n<P> B. Eleven skal have opnået forståelse af og kendskab til emnet. </P>  \r\n\r\n<P> C. Eleven skal have opnået indsigt i og dybere kendskab til emnet og  \r\n\r\n kunne anvende sin viden i afvigende kombinationer. </P>  \r\n\r\n<P>  <B>INDHOLD OG DELMÅL</B>  </P>  \r\n\r\n<P> Datakommunikationssystemers arkitektur B </P>  \r\n\r\n<P>Eleven skal opnå kendskab til de grundlæggende begreber indenfor  \r\n\r\n datatransmission, såsom asynkron og synkron transmission, simpleks og dupleks  \r\n\r\n transmission samt synkronisering af sender og modtager. A </P>  \r\n\r\n<P>Eleven skal være orienteret om principperne i analog og digital  \r\n\r\n transmission, samt principper for og udstyr til konvertering mellem disse  \r\n\r\n former. A </P>  \r\n\r\n<P>Eleven skal være orienteret om det maskinel og programmel, der er  \r\n\r\n nødvendigt for overførsel af data mellem to datamater eller mellem en datamat  \r\n\r\n og andet udstyr. B </P>  \r\n\r\n<P>Eleven skal opnå kendskab til principperne i transmissionsprotokoller,  \r\n\r\n samt til udbredte standarder for disse, som f.eks. BSC-protokoller, HDLC og  \r\n\r\n X.25. A </P>  \r\n\r\n<P>Eleven skal være orienteret om en udbredt arkitektur for  \r\n\r\n datakommunikationssystemer, såsom ISO's syvlags-model for sammenkobling af  \r\n\r\n åbne systemer. </P>  \r\n\r\n<P> Standarder A </P>  \r\n\r\n<P>Eleven skal være orienteret om væsentlige standardiseringsorganer, deres  \r\n\r\n arbejdsområder og indbyrdes relationer. A </P>  \r\n\r\n<P>Eleven skal være orienteret om adgangene til oplysninger om  \r\n\r\n markedsrelevante standarder. A </P>  \r\n\r\n<P>Eleven skal være orienteret om markedsrelevante standarder for fysisk  \r\n\r\n sammenkobling af datamatisk udstyr. </P>  \r\n\r\n<P> Brug af kommunikationsprogrammel C </P>  \r\n\r\n<P>Eleven skal kunne anvende standardprogrammel til overførsel af data mellem  \r\n\r\n to datamater. </P>  \r\n\r\n<P> Distribuerede systemers arkitektur A </P>  \r\n\r\n<P>Eleven skal orienteres om væsentlige problemer knyttet til distribuerede  \r\n\r\n systemer, såsom problemer ved distribution af funktioner samt problemer ved  \r\n\r\n distribution af data. B </P>  \r\n\r\n<P>Eleven skal opnå kendskab til de driftsmæssige problemer knyttet til  \r\n\r\n distribuerede systemer; specielt de sikkerhedsmæssige problemer er  \r\n\r\n væsentlige. A </P>  \r\n\r\n<P>Eleven skal være orienteret om opbygning og funktioner i et typisk  \r\n\r\n distribueret system, f.eks. et distribueret filsystem. A </P>  \r\n\r\n<P>Eleven skal være orienteret om standardiseringer vedrørende anvendelse af  \r\n\r\n datanet, såsom FTAM, CASE, SASE og virtuelle terminaler. </P>  \r\n\r\n<P> Offentlige datatjenester B </P>  \r\n\r\n<P>Eleven skal opnå kendskab til opbygning af og funktioner i de offentlige  \r\n\r\n datatjenester, såsom Datel, Datex og Datapak. C </P>  \r\n\r\n<P>Eleven skal kunne vælge og anvende en offentlig datatjeneste til løsning  \r\n\r\n af en given datakommunikationsopgave. </P>  \r\n\r\n<P> Private net A </P>  \r\n\r\n<P>Eleven skal være orienteret om eksempler (industristandarder, de fakto) på  \r\n\r\n markedsrelevante standarder for private datanet. A </P>  \r\n\r\n<P>Eleven skal være orienteret om opbygning og funktion af forskellige typer  \r\n\r\n af lokalnet. </P>  \r\n\r\n<P> Sikkerhed A </P>  \r\n\r\n<P>Eleven skal være orienteret om de sikkerhedsmæssige, organisatoriske og  \r\n\r\n arbejdsmæssige konsekvenser ved datakommunikation: A </P>  \r\n\r\n<P>Eleven skal være orienteret om principperne i kryptering og dets  \r\n\r\n anvendelse. </P>  \r\n\r\n<P>  <B>SAMMENHÆNGEN TIL ANDRE FAG</B>  </P>  \r\n\r\n<P>Undervisningen skal koordineres med undervisningen i lokalnet og  \r\n\r\n sammenkobling af datamater i faget &#187;Materiel og basisprogrammel, mindre  \r\n\r\n datamater&#171;. </P>  \r\n\r\n<P>Undervisningen vedrørende drift af distribuerede systemer og sikkerhed  \r\n\r\n skal koordineres med undervisningen i drift af større systemer i faget  \r\n\r\n &#187;Materiel og basisprogrammel, større datamater&#171;. </P>  \r\n\r\n<P>Læreplanen har virkning fra 1. januar 1988. P.d.v. e.b. Erik Nexelmann  \r\n\r\n undervisningsinspektør </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Børne- og Undervisningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19872220041"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034422"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "08/09/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22200"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1987"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/09/1987"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Direktoratet for Erhvervsuddannelserne"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1987-52.21410-1 LÆG II"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

@@ -1,0 +1,79 @@
+{
+    "id": 76646,
+    "title": "Undervisningsvejledning i datalære på HF ",
+    "documentTypeId": "180",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "VEJ nr 22046 af 12/06/1984",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Undervisningsvejledning i datalære på HF </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> UNDERVISNINGSVEJLEDNlNG I DATALÆRE PÅ HF. </P>  \r\n\r\n<P> Indledning. </P>  \r\n\r\n<P>Undervisningen i datalære skal give eleverne indtryk af den teknologiske  \r\n\r\n udvikling der tog sin begyndelse i 70'erne. Der tænkes dels på udviklingen  \r\n\r\n henimod mindre maskiner med større lagerkapacitet og hurtigere  \r\n\r\n datatransmission, dels på udviklingen af programmellet henimod simplere  \r\n\r\n programmeringssprog og bedre kommercielle standardprogrammer. Samtidig er der  \r\n\r\n sket en markant udvidelse i forbruget af edb: mens der i begyndelsen især var  \r\n\r\n tale om rene forskeranvendelser i fx fysik og ingeniørvidenskab benyttes edb  \r\n\r\n nu i stigende omfang administrativt. Endelig har mikroprocessoren muliggjort  \r\n\r\n en automatisering af en lang række arbejds- og overvågningsprocesser: </P>  \r\n\r\n<P>Hele denne udvikling medfører at der i undervisningen skal lægges vægt på  \r\n\r\n at eleverne får lejlighed til at arbejde med edb-systemer af administrativ  \r\n\r\n karakter og at de får et indblik i den teknologiske udvikling på hele  \r\n\r\n edb-området. Det vil i den forbindelse være naturligt at komme ind på  \r\n\r\n teknologiaftaler. </P>  \r\n\r\n<P>Faget har såvel en teknisk som en samfundsrettet side. Begge sider skal i  \r\n\r\n de senere undervisningsforløb fremtræde klart, og den enkelte elev skal  \r\n\r\n gennem analyser og diskussioner have lejlighed til at udvikle sit syn på  \r\n\r\n edb's anvendelser i samfundet. </P>  \r\n\r\n<P>Undervisningen har både et brugerorienteret og et skabende aspekt. Det  \r\n\r\n første aspekt tilgodeses ved at eleverne lærer at anvende færdige programmer  \r\n\r\n med tilhørende dokumentation. Her kan andre former for datasystemer også  \r\n\r\n inddrages, fx teledata. Den skabende side af undervisningen tilgodeses ved at  \r\n\r\n eleverne lærer at opstille simple modeller, at konstruere tilhørende  \r\n\r\n algoritmer samt at programmere disse og dokumentere programmet. Den  \r\n\r\n nødvendige individuelle vejledning på disse områder sikres ved at hver elev i  \r\n\r\n kursets indledende del afleverer et sæt hjemmeopgaver om ugen. Opgaverne  \r\n\r\n rettes og kommenteres af læreren. </P>  \r\n\r\n<P>Der skal i undervisningen lægges særligt vægt på betydningen af en godt  \r\n\r\n gennemarbejdet dokumentation, både af elevernes egne produkter og af andres.  \r\n\r\n Dokumentationen bør foretages sideløbende med problemløsningen, og den bør  \r\n\r\n altid indeholde prøvekørsler af programmet. </P>  \r\n\r\n<P> Indhold. </P>  \r\n\r\n<P>For at medvirke til en progression i kurset, opdeles dette i tre faser: En  \r\n\r\n grundlæggende del, en projektdel og en dataopgave. </P>  \r\n\r\n<P>A. Grundlæggende del: </P>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> Databegrebet. </P>  \r\n\r\n<P>Data og information, datarepræsentation, dataorganisation,  \r\n\r\n datakommunikation og datatransformation. </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> Algoritmebegrebet. </P>  \r\n\r\n<P>Beskrivelse af algoritmer, konstruktion af algoritmer og eksempler på  \r\n\r\n algoritmer. </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> Programmering. </P>  \r\n\r\n<P>Udarbejdelse af programmer til datamaskine, herunder problemformulering,  \r\n\r\n modelopstilling, programskrivning, afprøvning og dokumentation. </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> Datasystemers virkemåde og anvendelse. </P>  \r\n\r\n<P>Orientering om skolens eget anlæg, samt om professionelle anlæg og deres  \r\n\r\n anvendelse til såvel centraliseret som distribueret løsning af  \r\n\r\n beregningsopgaver, registeropgaver og styringsopgaver. Der bør i  \r\n\r\n undervisningen lægges vægt på den teknologiske og systemmæssige udvikling af  \r\n\r\n datamaskinerne. </P>  \r\n\r\n<P CLASS=PUNKT> <B>5.</B> Registre. </P>  \r\n\r\n<P>Herunder registerlovgivningen, databaser og sikkerhedssystemer, samt  \r\n\r\n filhåndteringssystemet på skolens eget anlæg. </P>  \r\n\r\n<P>Der afleveres i denne del af kurset hver uge et sæt hjemmeopgaver fra hver  \r\n\r\n elev. Opgaverne rettes og kommenteres af læreren. </P>  \r\n\r\n<P>B. Projektdel. </P>  \r\n\r\n<P>Under denne del af kurset vælger holdet sammen med læreren et eller flere  \r\n\r\n emner til dyberegående behandling. Centralt i projektet bør stå det  \r\n\r\n datalogiske modelbegreb - gerne belyst gennem konkrete eksempler. Der bør  \r\n\r\n typisk tages udgangspunkt i problemstillinger, hvor besøg på offentlige eller  \r\n\r\n private virksomheder eller institutioner kan indgå som et væsentligt led i  \r\n\r\n undervisningen. Der bør indgå eksempler på administrativ databehandling og på  \r\n\r\n automatisering af overvågnings- eller arbejdsprocesser. </P>  \r\n\r\n<P>Som eksempler kan nævnes: </P>  \r\n\r\n<P>&#187;Bankarbejdet i informationsalderen&#171; </P>  \r\n\r\n<P>&#187;En virksomhed og dens datamat&#171; </P>  \r\n\r\n<P>&#187;Edb-behandlet indkomstskat&#171; </P>  \r\n\r\n<P>&#187;Datamatiske modeller i økonomi, fx SMEK og KLASK&#171; </P>  \r\n\r\n<P>&#187;Datamatiske modeller i biologi, fx fiskerimodeller&#171; </P>  \r\n\r\n<P>&#187;Datamaskinen i undervisningen&#171; </P>  \r\n\r\n<P>&#187;Databeskyttelse i datamatiske systemer&#171; </P>  \r\n\r\n<P>&#187;Edb-registreret bogudlån&#171; </P>  \r\n\r\n<P>&#187;Bredbåndsnettet - hvad kan det bruges til?&#187; </P>  \r\n\r\n<P>&#187;Kunstig intelligens&#171; </P>  \r\n\r\n<P>&#187;Mikroprocesoren i dagligdagen&#171; </P>  \r\n\r\n<P>&#187;Hospitals-informationssystemet &#187;det røde system.&#171;&#187;  \r\n\r\n</P>  \r\n\r\n<P>Eleverne udarbejder sammen med læreren en samlet beskrivelse af  \r\n\r\n projektforløbet. Denne beskrivelse har som primært formål at støtte elevernes  \r\n\r\n hukommenlse til eksamen. Den kommenteres af læreren, og den indgår i pensum.  \r\n\r\n</P>  \r\n\r\n<P>C. Dataopgaven. </P>  \r\n\r\n<P>I kursets sidste tredjedel udarbejder grupper på normalt højst tre elever  \r\n\r\n hver sin større opgave under lærerens vejledning. </P>  \r\n\r\n<P>I opgaven bør indgå elementer af såvel fagets tekniske som fagets  \r\n\r\n samfundsrettede side. Dataopgaverne for grupperne skal være forskellige, men  \r\n\r\n kan godt ved sammenkædning udgøre et større hele. De kan være uddybning af et  \r\n\r\n af emnerne fra den grundlæggende del eller fra et af projekterne, men  \r\n\r\n opgaveformuleringen bør være mere detaljeret. </P>  \r\n\r\n<P>Som eksempler kan nævnes: </P>  \r\n\r\n<P>&#187;Elevforsømmelsesregister. Registret bør kunne registrere fravær i de  \r\n\r\n enkelte fag og på enkelte dage i timer, hele dage og procenter. Endvidere bør  \r\n\r\n nye elever kunne indføjes, ligesom udgåede elever bør kunne slettes.&#171;  \r\n\r\n</P>  \r\n\r\n<P>&#187;Programmeret undervisning. Du skal fremstille et  \r\n\r\n undervisningsprogram der henvender sig til en folkeskoleelev i 6. klasse.  \r\n\r\n Programmet skal fx lære eleven simpel brøkregning og procentregning.  \r\n\r\n Kommenter hvilke fordele og ulemper dette og lignende programmer har.&#171;  \r\n\r\n</P>  \r\n\r\n<P>&#187;Konstruer et edb-system der hjælper en grosserer med at registrere  \r\n\r\n varelageret og indtjeningen. Systemet skal selv kunne bestille varer hjem.  \r\n\r\n Formuler selv input og output. Hvorledes skal systemet ændres for at blive  \r\n\r\n anvendeligt for fx en grønthandler eller en blikkenslager? Kommenter de  \r\n\r\n ændringer edbsystemet medfører i det daglige arbejde.&#171; </P>  \r\n\r\n<P>D. Kommentarer: </P>  \r\n\r\n<P>Kurset er basseret på anvendelse af et konverserende problemorienteret  \r\n\r\n programmeringssprog. Udviklingen inden for dette område er imidlertid så  \r\n\r\n stærk at der ikke kan peges på et enkelt sprog. </P>  \r\n\r\n<P>Det anbefales at medtage eksempler på kommunikation imellem menneske og  \r\n\r\n maskine hvor tastaturet ikke anvendes, fx kommunikation ved direkte grafisk  \r\n\r\n kontakt med skærmen. </P>  \r\n\r\n<P>Under diskussionen af de samfundsmæssige konsekvenser af edb og analysen  \r\n\r\n af disse anbefales det at man benytter gæstelærere fra arbejdsmarkedets  \r\n\r\n organisationer, fra offentlige institutioner eller fra politiske partier.  \r\n\r\n Besøg på virksomheder eller institutioner kan også bidrage til at  \r\n\r\n perspektivere denne del af undervisningen. </P>  \r\n\r\n<P>E. Eksamen: </P>  \r\n\r\n<P>Prøven er mundtlig med forberedelsestid. </P>  \r\n\r\n<P>Der stilles to spørgsmål, hvoraf det ene tager sit udgangspunkt i  \r\n\r\n dataopgaven der fremlægges til eksamen. </P>  \r\n\r\n<P>Eleven må i forberedelsestiden benytte sig af undervisningsmateriale og  \r\n\r\n noter fremstillet i forbindelse med undervisningen. </P>  \r\n\r\n<P>Datamaskinen kan være til rådighed under eksaminationen til demonstration  \r\n\r\n af visse simple færdigheder. Selve brugen af maskinen må kun udgøre en mindre  \r\n\r\n del af den samlede eksamination. </P>  \r\n\r\n<P>F. Selvstuderende: </P>  \r\n\r\n<P>Selvstuderende opgiver til eksamen hele det læste pensum samt dataopgaven.  \r\n\r\n</P>  \r\n\r\n<P>C. Den større skriftlige opgave i datalære: </P>  \r\n\r\n<P>Der kan stilles større skriftlig opgave i datalære jfr. hfbekendtgørelsen  \r\n\r\n af 24. april 1974 § 10. Læreren skal dog sikre at eleverne ikke får en  \r\n\r\n opgavetitel, der overlapper emnet for dataopgaven. </P>  \r\n\r\n<P>Med hensyn til eksempler på titler henvises til afsnittet om dataopgaven.  \r\n\r\n</P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>Ib Fischer Hansen </P>  \r\n\r\n<P>undervisningsinspektør </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [
+        "studieforberedende enkeltfagsundervisning (hf-bekendtgørelsen)",
+        "1991 om kursus til højere forberedelseseksamen og om",
+        "(* 1) Vejledningen er bortfaldet ved bekendtgørelse nr. 296 af 7. maj"
+    ],
+    "alternativeMedia": [],
+    "ressort": "Børne- og Undervisningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19842204660"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM035853"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "11/10/1999"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Vejledning"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22046"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1984"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "12/06/1984"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Direktoratet for Gymmasieskolerne og Højere Forberedelseseksamen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Undervisningsmin. DGHF j. nr. 10-31-01-19/84"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

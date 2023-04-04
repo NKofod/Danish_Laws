@@ -1,0 +1,75 @@
+{
+    "id": 75211,
+    "title": "Studieplan for kurset 3.2. Systemdesign ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22169 af 01/08/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 3.2. Systemdesign ved  \r\n\r\n Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra august 1983 (genoptryk). </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P> 1. Formål. </P>  \r\n\r\n<P>Systemdesign opfattes her som informationsanalyse, dvs. analyse af data og  \r\n\r\n processer, som afsluttes med en begrebsmæssig, brugervendt beskrivelse af  \r\n\r\n informationssystemet. </P>  \r\n\r\n<P>Beskrivelsen er normalt implementeringsuafhængig og kan bestå af modeller  \r\n\r\n af </P>  \r\n\r\n<P>- data-strukturen </P>  \r\n\r\n<P>- data-strøm-strukturen </P>  \r\n\r\n<P>- procesbeskrivelse. </P>  \r\n\r\n<P>Dette design vil således være grundlaget for det efterfølgende  \r\n\r\n konstruktionsarbejde: </P>  \r\n\r\n<P>- teknologi-valg </P>  \r\n\r\n<P>- programafgrænsning/konstruktion </P>  \r\n\r\n<P>- filkonstruktion. </P>  \r\n\r\n<P>Kurset har til formål at give den studerende viden om begreber, problemer,  \r\n\r\n metoder og værktøjer indenfor systemdesign, samt at sætte den studerende i  \r\n\r\n stand til at vælge og anvende en eller flere passende metoder til brug i egne  \r\n\r\n omgivelser. </P>  \r\n\r\n<P> 2. Indhold. </P>  \r\n\r\n<P> 2.1 Systemudvikling. </P>  \r\n\r\n<P>Her diskuteres forskellige systemudviklingsmodeller samt forskellen mellem  \r\n\r\n traditionel og experimentel systemudvikling. </P>  \r\n\r\n<P>Endvidere behandles begreber som MODELLER, ABSTRAKTION, STRUKTURERING og  \r\n\r\n FORMALITET, idet disse er af central betydning i al systemudvikling. </P>  \r\n\r\n<P>Professor Børje Langefors's princip for arbejde med uoverskuelige systemer  \r\n\r\n diskuteres og belyses v.h.a. eksempler. </P>  \r\n\r\n<P> 2.2 Design-metoder. </P>  \r\n\r\n<P>Systemdesign-metoder kan bl.a. deles op efter deres orientering mod  \r\n\r\n processer eller data. </P>  \r\n\r\n<P> 2.2.1. Procesorienteret systemdesign. </P>  \r\n\r\n<P>Som et eksempel på en procesorienteret metode gennemgås ISAC. Denne metode  \r\n\r\n er en svensk systemeringsmetode udviklet af Mats Lundeberg og Gøran Goldkuhl  \r\n\r\n m.fl., Stockholm Universitet. </P>  \r\n\r\n<P>Specielt fokuseres på de problemorienterede metodetrin  \r\n\r\n Forandringsanalysen, virksomhedsstudier og ikke mindst informationsanalyse  \r\n\r\n samt de tilhørende værktøjer. </P>  \r\n\r\n<P> 2.2.2. Dataorienteret systemdesign. </P>  \r\n\r\n<P>Professor G.M. Nijssen har ledet udviklingen af en  \r\n\r\n informationsanalyse-metode som bærer navnet NIAM (=Nijssen Information  \r\n\r\n Analysis Method). Metoden koncentrerer sig primært om dataanalysen og  \r\n\r\n opstilling af en begrebsmæssig datamodel (ISD). Hovedvægten lægges på  \r\n\r\n opstilling af informationsstrukturdiagram- merne. </P>  \r\n\r\n<P>Endvidere orienteres om de automatiske hjælpemidler, der understøtter  \r\n\r\n metoden i såvel analysefasen som verifikationsfasen under brug af prototyper.  \r\n\r\n</P>  \r\n\r\n<P>Metoden er udviklet i et kommercielt miljø (Control Data A/S). </P>  \r\n\r\n<P> 2.3 Databasedesign. </P>  \r\n\r\n<P>Databasedesign kan opfattes som en systemuafhængig metode, der  \r\n\r\n koncentrerer sig om at opstille en begrebsmæssig model, som kan afbilde  \r\n\r\n virksomhedens totale behov for data. </P>  \r\n\r\n<P>Inspireret af ANSI/SPARC arbejdes der i tre niveauer: </P>  \r\n\r\n<UL CLASS=PLAIN-LIST>  \r\n\r\n<LI>1) Begrebsmæssig datamodel </LI>  \r\n\r\n<LI>2) Logisk datamodel </LI>  \r\n\r\n<LI>3) fysisk datamodel </LI>  \r\n\r\n</UL>  \r\n\r\n<P>På kurset vil vi koncentrere os om den begrebsmæssige datamodel, idet de  \r\n\r\n to andre niveauer bliver naturligt behandlet på 2.6 databasesystemer. </P>  \r\n\r\n<P>Således vil vi anvende Chen's entitets-relations-diagram til at afbilde  \r\n\r\n den generelle data-struktur i virksomheden. </P>  \r\n\r\n<P>Modellen, som er implementeringsuafhængig, kan siden omdannes til en  \r\n\r\n logisk model, netværks-relation-hierarkisk model, som svarer til  \r\n\r\n datastrukturen i det valgte data base management system. </P>  \r\n\r\n<P> 2.4 Konsekvensvurdering. </P>  \r\n\r\n<P>Indføring af et nyt edb-system er et eksempel på påvirkning af  \r\n\r\n organisationens teknologi-niveau. </P>  \r\n\r\n<P>Når man skal vurdere de positive og negative konsekvenser ved indføring af  \r\n\r\n et nyt edb-system vil man ofte dele ind i det, som kan værdisættes, f.eks.  \r\n\r\n</P>  \r\n\r\n<P>lønsomhed, betalingsevne, servicegrad (også kaldet de hårde værdier) </P>  \r\n\r\n<P>og forhold, som ikke kan værdisættes, f.eks. </P>  \r\n\r\n<P>arbejdsmiljø, de enkelte arbejdspladser og job (også kaldet de bløde  \r\n\r\n værdier). </P>  \r\n\r\n<P>Både de hårde og bløde værdier bliver diskuteret. Endvidere fokuseres på  \r\n\r\n begrebet brugerindflydelse: hvorfor, hvordan, om hvad? </P>  \r\n\r\n<P> 2.5 Projektarbejde omkring en udvalgt design-metode. </P>  \r\n\r\n<P>Som et alternativ til de under afsn. 2.2 omtalte design-metoder vil der  \r\n\r\n blive mulighed for at arbejde med een af de andre metoder som behandles i  \r\n\r\n litt. 1. </P>  \r\n\r\n<P>Resultatet af dette gruppearbejde dokumenteres i en rapport, som er  \r\n\r\n grundlaget for en forelæggelse for resten af klassen. </P>  \r\n\r\n<P>Rapporten bygges op omkring beskrivelsesrammen, som er omtalt i  \r\n\r\n systemdesign-noterne, afsnit 1.3. </P>  \r\n\r\n<P> 3. Forkundskaber. </P>  \r\n\r\n<P>Kurset bygger specielt på den viden, som kan erhverves på organisation og  \r\n\r\n 3.1 virksomhedsanalyse. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862216941"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034416"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "08/09/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22169"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/08/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1986-510.612-4"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

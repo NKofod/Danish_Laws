@@ -1,0 +1,75 @@
+{
+    "id": 75209,
+    "title": "Studieplan for kurset 3.8. Eksperimentiel systemudvikling ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22167 af 01/08/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 3.8. Eksperimentiel  \r\n\r\n systemudvikling ved Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra august 1984 (genoptryk). </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P> 1.Formål. </P>  \r\n\r\n<P>Eksperimentel systemudvikling vil på dette kursus blive opfattet som: </P>  \r\n\r\n<P>Systemudvikling hvor udførelse af eksperimenter med edb-modeller indgår  \r\n\r\n som en central aktivitet. </P>  \r\n\r\n<P>Nogle edb-model-værktøjer lægger op til, at man anvender edb-modellen som  \r\n\r\n driftssystem. Andre værktøjer kræver en implementering i et konventionelt  \r\n\r\n miljø. </P>  \r\n\r\n<P>Fælles for alle værktøjer er dog at man arbejder med konkrete modeller,  \r\n\r\n som erstatter en del af de traditionelle abstrakte model- tegninger. </P>  \r\n\r\n<P>Endvidere kræver værktøjerne en ændring af de traditionelle  \r\n\r\n systemudviklingsmetoder. </P>  \r\n\r\n<P>Kurset har til formål at give den studerende viden om begreber, metoder og  \r\n\r\n værktøjer indenfor eksperimentel systemudvikling (ESU). Endvidere får den  \r\n\r\n studerende mulighed for at indhøste praktiske erfaringer ved anvendelse af  \r\n\r\n noget konkret ESU-programmel og en foreslået arbejdsmetode. </P>  \r\n\r\n<P>Endelig skal kurset sætte den studerende i stand til at deltage i valg af  \r\n\r\n ESU-programmel idet der orienteres om generelle værktøjsbegreber samt en  \r\n\r\n række nuværende markedsførte produkter. </P>  \r\n\r\n<P> 2. Indhold. </P>  \r\n\r\n<P> 2.1 Systemudvikling. </P>  \r\n\r\n<P>Her diskuteres væsentlige egenskaber ved en traditionel  \r\n\r\n systemudviklingsmodel (faser, metoder, værktøjer.) Endvidere peges på det  \r\n\r\n klassiske dilemma, som består i problemet med at oversætte brugerens  \r\n\r\n kravbeskrivelse til et programmeringssprog. </P>  \r\n\r\n<P>I diskussionen vil der blive inddraget nogle fra litteraturen kendte  \r\n\r\n metoder og værktøjer (ISAC, HIAM, YOURDON,...) samt de studerendes praktiske  \r\n\r\n baggrund i systemarbejde. </P>  \r\n\r\n<P> 2.2 ESU-metoder og Værktøjs-egenskaber. </P>  \r\n\r\n<P>Man kan inddele funktionerne i et fuldt udbygget ESU-system i følgende  \r\n\r\n hovedgrupper: </P>  \r\n\r\n<P>- Data-dictionary/bibliotekssystem som udgør kernen i systemet og hvor  \r\n\r\n alle beskrivelser af data og programmer samles. </P>  \r\n\r\n<P>- Applikationsudviklingssystemet som omfatter fuldstændige funktioner for  \r\n\r\n at udvikle et applikationssystem. </P>  \r\n\r\n<P>- Grænseflade til omgivende programvarer såsom databasesystem, TP- system,  \r\n\r\n operativsystem og traditionelle programmeringssprog. </P>  \r\n\r\n<P>- Slut-bruger-funktioner såsom rapportgenerator,spørgesprog, grafiske  \r\n\r\n funktioner og tekstbehandling. </P>  \r\n\r\n<P>For et bestemt produkt kan man ikke altid drage en klar grænse mellem de  \r\n\r\n enkelte funktioner. Det vigtigste ved anvendelsen af et fuldt udbygget  \r\n\r\n ESU-system er at man arbejder med et integreret system og ikke sammenkoblede  \r\n\r\n komponenter. </P>  \r\n\r\n<P>Men når man skal studere de enkelte egenskaber må man betragte  \r\n\r\n funktionerne hver for sig. </P>  \r\n\r\n<P>For de fleste udbyggede ESU-systemer er applikationssystemet det vigtigste  \r\n\r\n fremskridt i forhold til de traditionelle værktøjer. Derfor vil vi  \r\n\r\n koncentrerer os om disse egenskaber: termbeskrivelsesfunktioner,  \r\n\r\n datastruktureringsfunktioner, views, behandlingssprog,  \r\n\r\n rapportbeskrivelsesfunktioner, dialogbeskrivelsesfunktioner. </P>  \r\n\r\n<P>Hvis man vil have en god udnyttelse af ESU-værktøjerne er det nødvendigt  \r\n\r\n at omvurdere de systemudviklingsmetoder som hidtil er brugt og forsøge at  \r\n\r\n tilpasse disse til de nye muligheder. På kurset opstilles en model for  \r\n\r\n systemudviklingsarbejdet hvori ESU-værktøjerne indgår. Herunder gennemgås  \r\n\r\n datamodellering som en central aktivitet i den grove kravspecifikationsfase.  \r\n\r\n</P>  \r\n\r\n<P> 2.3 Praktisk afprøvning af ESU-værktøj. </P>  \r\n\r\n<P>Formålet er at give de studerende praktisk erfaring i systemarbejde med  \r\n\r\n ESU-værktøjer. </P>  \r\n\r\n<UL CLASS=PLAIN-LIST>  \r\n\r\n<LI>a) værktøj: Til opgaven anvendes CS4 udviklet af forskningsgruppen CADIS  \r\n\r\n (Computer Aided Design of Information System) ved Stockholms Universitet og  \r\n\r\n Databaskonsult AB i Stockholm. </LI>  \r\n\r\n</UL>  \r\n\r\n<P>CS4 er et terminalorienteret system med et generelt programmeringssprog  \r\n\r\n CSL til håndtering af en relationsdatabase. Det er meget fleksibelt med  \r\n\r\n hensyn til ændring af database og programmer og har været anvendt i en række  \r\n\r\n projekter til udvikling at edb- modeller. </P>  \r\n\r\n<UL CLASS=PLAIN-LIST>  \r\n\r\n<LI>b) case : Opgaven tilstræber at afspejle en realistisk  \r\n\r\n systemudviklingsproces hvor ESU-værktøjer kan tænkes anvendt. I casen  \r\n\r\n fungerer kursets lærere som brugere. Grundlaget er en grov kravspecifikation.  \r\n\r\n Undervejs i udviklingsforløbet vil brugerne justere denne kravspecifikation  \r\n\r\n på grundlag af erfaringer fra de første modeller samt nye og ændrede krav.  \r\n\r\n</LI>  \r\n\r\n<LI>c) afvikling : Opgaven løses i grupper på 3-4 studerende. Det vil være  \r\n\r\n nødvendigt med en arbejdsdeling i gruppen for at kunne løse opgaven. </LI>  \r\n\r\n</UL>  \r\n\r\n<P> 2.4 Studie af leverandørværktøjer. </P>  \r\n\r\n<P>I de seneste år er der kommet en række produkter på markedet som opfylder  \r\n\r\n en del af de kriterier man kan stille til ESU-systemer. Nogle af disse  \r\n\r\n værktøjer studeres nærmere, idet </P>  \r\n\r\n<P>-kriterier for valg af værktøjer opstilles (systemfilosofi,  \r\n\r\n funktionsdækning, integrering, dictionary, dialogudformning,  \r\n\r\n prototyping/systemskitser, maskin-og miljøafhængighed) </P>  \r\n\r\n<P>-der udvælges et leverandørværktøj pr.arbejdsgruppe. </P>  \r\n\r\n<P>-arbejdsgruppen foreligger resultatet for resten af klassen. </P>  \r\n\r\n<P> 3. Forkundskaber . </P>  \r\n\r\n<P>Kendskab til systemanalyser f.eks. via 3.2 Systemdesign. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862216741"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034414"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "08/09/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22167"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/08/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Direktoratet for Erhvervsuddannelserne"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1987-52.612-2"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

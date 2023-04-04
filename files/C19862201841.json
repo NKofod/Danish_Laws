@@ -1,0 +1,75 @@
+{
+    "id": 75027,
+    "title": "Studieplan for kurset Simuleret intelligens og ekspertsystemer ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22018 af 24/02/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset Simuleret intelligens og  \r\n\r\n ekspertsystemer ved Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra den 1. januar 1986. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P> MODULBESKRIVELSE </P>  \r\n\r\n<P> Simuleret intelligens (AI) beskæftiger sig med problemløsning og  \r\n\r\n problemløsningsparadigmer implementeret på datamater. Den praktiske  \r\n\r\n anvendelse af AI har indtil videre koncentreret sig om videnbaserede  \r\n\r\n systemer, de såkaldte ekspertsystemer . </P>  \r\n\r\n<P>For at opbygge sådanne systemer er det praktisk at anvende højniveausprog  \r\n\r\n og redskaber, der specielt gør viden- og regelrepræsentation nemt. Disse  \r\n\r\n sprog afviger væsentligt fra de gængse imperative sprog, bl.a. fordi de har  \r\n\r\n specielle faciliteter til håndtering af symbolske udtryk. </P>  \r\n\r\n<P>Inden for AI har programellet derfor en speciel struktur, idet videnbasen  \r\n\r\n i modsætning til en traditionel database indeholder procedural viden, så at  \r\n\r\n ikke kun programmets data, men også dets procedurer og algoritmer kan ændres  \r\n\r\n dynamisk. </P>  \r\n\r\n<P>Kurset beskæftiger sig med den teoretiske baggrund for AI, specielt  \r\n\r\n metoder til videnrepræsentation, samt redskaber til implementering af  \r\n\r\n AI-baserede systemer. </P>  \r\n\r\n<P> 1. Kursets formål. </P>  \r\n\r\n<P>Kurset skal sætte den studerende i stand til at vurdere mindre  \r\n\r\n ekspertsystemer, være med til implementering af ekspertsystemer samt kunne  \r\n\r\n anvende f.eks. PROLOG. Herudover skal den studerende i hovedtræk kunne  \r\n\r\n redegøre for de væsentligste AI-områder. </P>  \r\n\r\n<P> 2. Formelle adgangsbetingelser. </P>  \r\n\r\n<P>Kurset er avanceret, hvorfor den studerende som baggrund minimum skal have  \r\n\r\n en baggrund svarende til EDB-assistentuddannelsens niveau for alle fag  \r\n\r\n undtagen ASSEMBLER. </P>  \r\n\r\n<P> 3. Anbefalede forudsætninger. </P>  \r\n\r\n<P>Det anbefales, at den studerende har datanomuddannelsens moduler  \r\n\r\n Sproglære, Programkonstruktion I, Materiellære og evt. Operationsanalyse.  \r\n\r\n</P>  \r\n\r\n<P> 4. Hovedemner. </P>  \r\n\r\n<P>4.1 Videnrepræsentation: </P>  \r\n\r\n<P>Videnrepræsentation omfatter metoder til at repræsentere viden, dvs.  \r\n\r\n regler, relationer og procedural viden i datamaten. Metoder, der kan  \r\n\r\n diskuteres, er </P>  \r\n\r\n<P>- fuzzy logic </P>  \r\n\r\n<P>- formel logik, prædikatkalkyle </P>  \r\n\r\n<P>- rammer </P>  \r\n\r\n<P>- semantiske net </P>  \r\n\r\n<P>- produktionssystemer </P>  \r\n\r\n<P>Den studerende skal have et overblik over hele området, et mere detaljeret  \r\n\r\n kendskab til en enkelt af metoderne, f.eks. semantiske net. </P>  \r\n\r\n<P>4.2 Sprogforståelse (naturligt og formelt sprog) </P>  \r\n\r\n<P>Emnet omfatter metoder til beskrivelse, analyse og syntese af naturligt og  \r\n\r\n formelt sprog. Herunder diskuteres bl.a. grammatikker, scanners og parsers.  \r\n\r\n</P>  \r\n\r\n<P>Den studerende skal kunne redegøre for forskellige typer af grammatikker  \r\n\r\n samt for enkelte metoder til parsers. </P>  \r\n\r\n<P>4.2 Billedforståelse (datamatsyn og mønstergenkendelse). Herunder kan  \r\n\r\n behandles metoder til at forbehandle, segmentere og fortolke billeder/scener.  \r\n\r\n</P>  \r\n\r\n<P>Den studerende skal kunne redegøre for hovedelementerne i et  \r\n\r\n billedanalyse-system. </P>  \r\n\r\n<P>4.3 Robotik. </P>  \r\n\r\n<P>I robotikken behandles de tre robot-subsystemer, dvs. det mekaniske, det  \r\n\r\n sensoriske og kontrolsubsystemet. Den studerende skal kunne diskutere de tre  \r\n\r\n subsystemer, specielt kontrolsystemet, dvs, hvordan robotten lærer  \r\n\r\n (programmeres), og hvordan andre AI-discipliner kommer ind i billedet. </P>  \r\n\r\n<P>4.4 Problemløsning. </P>  \r\n\r\n<P>Herunder diskuteres formelle og pragmatiske metoder til maskinløsning af  \r\n\r\n problemer, bl.a. hvordan en stor mængde af problemer kan vises at være  \r\n\r\n søgninger i tilstandsrum. Den studerende skal kunne redegøre nogle  \r\n\r\n heuristiske søgealgoritmer samt nogle andre problemløsningsparadigmer. </P>  \r\n\r\n<P>4.5 Videnbaserede systemer (ekspertsystemer) </P>  \r\n\r\n<P>Herunder behandles generelt arkitekturen i et videnbaseret system samt  \r\n\r\n eksempler på redskaber til udvikling af regelbaserede systemer. Endvidere  \r\n\r\n diskuteres nogle få vigtige eksempler på ekspertsystemer, som f.eks. Mycin,  \r\n\r\n Emycin, Dipmeter, Dendral og Hearsay II. </P>  \r\n\r\n<P>Den studerende skal kunne redegøre for den principielle opbygning af  \r\n\r\n ekspertsystemer. </P>  \r\n\r\n<P>4.6 Logik </P>  \r\n\r\n<P>Den formelle logik skal her bruges dels til videnrepræsentation, dels som  \r\n\r\n grundlag for PROLOG. Herunder behandles prædikatkalkylen, resolution og modus  \r\n\r\n ponens samt den almindelige propositionsalgebra. </P>  \r\n\r\n<P>Den studerende skal kunne redegøre for de almindelig-logik-termer </P>  \r\n\r\n<P>samt f.eks. resolution. </P>  \r\n\r\n<P>4.7 PROLOG eller LISP </P>  \r\n\r\n<P>Gennemgangen af et af de meget anvendte AI-sprog bør understøttes så meget  \r\n\r\n af øvelser, at den studerende kan anvende sproget til mindre opgaver. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862201841"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034232"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22018"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "24/02/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1985-510.612-1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

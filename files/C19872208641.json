@@ -1,0 +1,75 @@
+{
+    "id": 75143,
+    "title": "Studieplan for kurset 1.4. Distribuerede systemer ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22086 af 04/05/1987",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 1.4. Distribuerede  \r\n\r\n systemer ved Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra 1. august 1987. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>Underv.insp. </P>  \r\n\r\n<P> Kursets formål </P>  \r\n\r\n<P>Kurset har til formål at give deltagerne en gennemarbejdet forståelse af  \r\n\r\n tekniske og teoretiske aspekter, der indgår i design, implementation og drift  \r\n\r\n af distribuerede systemer. </P>  \r\n\r\n<P>Deltagerne skal specielt bibringes en grundlæggende forståelse for  \r\n\r\n begrebet, services og funktioner i ISO OSI modellens øvre lag, dvs.  \r\n\r\n sessionslaget, præsentationslaget og applikationslaget, således som disse er  \r\n\r\n defineret som standarder eller som forslag til sådanne. Kurset skal derudover  \r\n\r\n give deltagerne et generelt kendskab til, hvordan distribuerede applikationer  \r\n\r\n i almindelighed kan opbygges over dette fundament i særlig grand til, hvordan  \r\n\r\n funktioner i distribuerede operativ systemer og distribuerede  \r\n\r\n databasesystemer opbygges som applikationsentiteter ovenpå OSI modellens øvre  \r\n\r\n lag. </P>  \r\n\r\n<P> Adgangsbetingelser </P>  \r\n\r\n<P>Symbolsk maskinsprog. </P>  \r\n\r\n<P>Drift. </P>  \r\n\r\n<P>Problemorienteret sprog. </P>  \r\n\r\n<P>Planlægning. </P>  \r\n\r\n<P> Anbefalede forudsætninger </P>  \r\n\r\n<P>1.2 Operativsystemer. </P>  \r\n\r\n<P>1.5 Datatransmission og datakommunikation. </P>  \r\n\r\n<P>2.6 Databasesystemer. </P>  \r\n\r\n<P>Desuden kan det anbefales efterfølgende eller forudgående at tage modulet  \r\n\r\n omhandlende Distribuerede databaser. </P>  \r\n\r\n<P> Hovedemner og undervisningsformål for disse </P>  \r\n\r\n<P> Generelt om distribuerede systemer. </P>  \r\n\r\n<P>Målet med dette emne er at give de studerende et generelt overblik over  \r\n\r\n distribuerede systemer, strukturen i disse samt fordele og ulemper ved  \r\n\r\n distribuerede systemer sammenholdt med centraliserede eller decentraliserede  \r\n\r\n systemer. </P>  \r\n\r\n<P>Da emnet er meget bredt, er det endvidere målet at etablere en fælles  \r\n\r\n referenceramme til brug i resten af kurset ved på overordnet niveau at  \r\n\r\n gennemgå de vigtigste emner, der ligger til grund for kurset. Specielt bør  \r\n\r\n der etableres en ensartet viden vedrørende operativsystemer.  \r\n\r\n datakommunikation herunder OSI modellens lag 1-4, dvs. det fysiske lag,  \r\n\r\n datakædelaget, netværkslaget og transportlaget, samt databaser. </P>  \r\n\r\n<P> OSI modellens øvre lag. </P>  \r\n\r\n<P>Målet med emnet er, at de studerende opnår et grundigt kendskab til sættet  \r\n\r\n af protokoller og tjenester i OSI modellens lag for behandling af session,  \r\n\r\n præsentation og applikation (OSI lag 5-7). </P>  \r\n\r\n<P>De studerende skal herunder gøres fortroligt med funktion og indhold af  \r\n\r\n begreberne Abstract Syntax Notation (ASN.1), Common Application Service  \r\n\r\n Elements (CASE) og Special Application Service Elements (SASE) samt kunne  \r\n\r\n anvende præsentationslags-services og serviceelementerne fra CASE og SASE ved  \r\n\r\n implementering af applikationsentiteter. </P>  \r\n\r\n<P> Operativ systemer i distribuerede systemer. </P>  \r\n\r\n<P>Målet er at give de studerende et grundigt kendskab til design af, og til  \r\n\r\n teknikker, der ligger til grund for distribuerede operativ systemer og  \r\n\r\n netværksoperativ systemer samt til brugermæssige faciliteter, sådanne  \r\n\r\n systemer stiller til rådighed. </P>  \r\n\r\n<P>Følgende disignkriterier for distribuerede operativ systemer tillægges  \r\n\r\n speciel vægt: Kommunikationsprimitiver, navngivning, beskyttelse, ressource  \r\n\r\n administration, fejltolerance/ -behandling samt øvrige serverbasderede  \r\n\r\n tjenester. </P>  \r\n\r\n<P>De studerende skal opnå kendskab til nogle eksempler på realiserede  \r\n\r\n distribuerede operativ systemer samt kunne vurdere disse ud fra det indlærte  \r\n\r\n stof. </P>  \r\n\r\n<P> Distribuerede databaser. </P>  \r\n\r\n<P>De studerende skal have kendskab til reference- og systemarkitekturer for  \r\n\r\n distribuerede databaser samt til særlige problemstillinger vedrørende  \r\n\r\n distribuering af data, processer og katalog, som stiller krav om udvidede  \r\n\r\n løsninger i forhold til centraliserede databaser. </P>  \r\n\r\n<P>Endvidere skal de studerende opnå et nøjere kendskab til de driftsmæssige  \r\n\r\n aspekter i distribuerede databaser og løsningsmodeller for håndtering af  \r\n\r\n disse. </P>  \r\n\r\n<P>Målet med emnet er, at de studerende opnår en forståelse for eksisterende  \r\n\r\n tiltag indenfor databaseverdenen med hensyn til realisering af distribuerede  \r\n\r\n databaser, og at de sættes i stand til at vurdere disse og relatere sådanne  \r\n\r\n løsningsmodeller til lignende services i OSI modellens øvre lag. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19872208641"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034348"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "08/09/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22086"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1987"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "04/05/1987"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Direktoratet for Erhvervsuddannelserne"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1986-52.612-2"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

@@ -1,0 +1,75 @@
+{
+    "id": 75204,
+    "title": "Studieplan for kurset 2.3 Nye programmeringsformer ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22159 af 01/08/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 2.3 Nye  \r\n\r\n programmeringsformer ved Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra august 1985 (genoptryk) </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv. insp. </P>  \r\n\r\n<P> 1. Indledning. </P>  \r\n\r\n<P>Der er indenfor EDB-verdenen udbredt enighed om, at man i de sidste ca. 10  \r\n\r\n år har kunnet tale om en softwarekrise. Denne giver sig udslag på forskellig  \r\n\r\n vis, f.eks.: programmer færdiggøres ofte med betydelig forsinkelse, sprænger  \r\n\r\n de økonomiske rammer, opfylder ikke de oprindelige mål, er ikke pålidelige i  \r\n\r\n drift, er vanskelige at vedligeholde o.s.v. </P>  \r\n\r\n<P>Meget tyder på, at årsagen til krisen skal søges i de stadigt større og  \r\n\r\n mere sammensatte problemkomplekser, der søges løst med stort set de samme  \r\n\r\n værktøjer som for 10 og 20 år siden. </P>  \r\n\r\n<P>Problemet kunne altså simpelthen være, at grænsen for de &#187;gamle&#171;  \r\n\r\n programmeringssprogs ydeevne/brugbarhed er overskredet for længe siden. </P>  \r\n\r\n<P>Som nævnt er softwarekrisen almindeligt erkendt indenfor området. Dette  \r\n\r\n har ført til en omfattende søgning efter nye veje at gå. Nye ideer er  \r\n\r\n udforsket gennemgribende og har ført til nye programmeringssprog, og gamle  \r\n\r\n mere eller mindre forkastede ideer er blevet genstand for fornyet interesse.  \r\n\r\n Der er således ideer nok, når det gælder om at bringe programmeringssprogene  \r\n\r\n op på niveau med de problemer, der skal løses. </P>  \r\n\r\n<P>Det er imidlertid vanskeligt at omsætte disse ideer i praksis.  \r\n\r\n Programmeringssproget er en så vital del af en EDB-organisme, at det kræver  \r\n\r\n store og smertefulde omkostninger at udskifte det. Det er derfor nærmest  \r\n\r\n blevet til lappeløsninger hen ad vejen. Softwarekrisen kan altså siges at  \r\n\r\n skyldes gabet mellem det, man ved og det, man gør. </P>  \r\n\r\n<P>Blandt de bemærkelsesværdige undtagelser må nævnes ADA-projektet. Her er  \r\n\r\n et eksempel på et stort foretagende, der målbevidst har søgt at finde frem  \r\n\r\n til et nyt programmeringssprog, der tilgodeså alle behov. </P>  \r\n\r\n<P>Formålet med dette kursus er at orientere kursisterne om de nævnte ideer,  \r\n\r\n og at sætte dem i stand til at forstå disses vigtigste og mest gennemgående  \r\n\r\n principper. Det kan derfor ikke undgås, at kurset kommer til at omhandle en  \r\n\r\n række mere eller mindre selvstændige emner, som for et par stykkers  \r\n\r\n vedkommende kun hænger sammen gennem den røde tråd: nye principper. </P>  \r\n\r\n<P> 2. Kursusindhold. </P>  \r\n\r\n<P>Grundstammen i kurset udgøres af følgende 6 hovedemner: 1.  \r\n\r\n objektorienteret programmering </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> multiprogrammering </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> modulprogrammering </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> dataabstraktion </P>  \r\n\r\n<P CLASS=PUNKT> <B>5.</B> logikprogrammering </P>  \r\n\r\n<P CLASS=PUNKT> <B>6.</B> funktionsprogrammering </P>  \r\n\r\n<P>I det følgende omtales de 6 hovedemner kort: </P>  \r\n\r\n<P> 2.1 Objektorienteret programmering. </P>  \r\n\r\n<P>De mest udbredte programkonstruktionsmetoder (f.eks. JSP, SD, LCP, IPT)  \r\n\r\n tager alle udgangspunkt i enten datastrukturen eller datastrømme. En tredje  \r\n\r\n mulighed er at tage udgangspunkt i objekter. </P>  \r\n\r\n<P>Simula er et sprog, der understøtter denne indfaldsvinkel. Undervisningen  \r\n\r\n i emnet baseres derfor på eksempler i Simula. </P>  \r\n\r\n<P> 2.2 Multiprogrammering. </P>  \r\n\r\n<P>Et multiprogram består af en række uafhængige programdele, der udføres  \r\n\r\n sideløbende. Indenfor områder som f.eks. operativsystemer og processtyring er  \r\n\r\n anvendelsen af multiprogrammering oplagt. Men også indenfor administrativ  \r\n\r\n databehandling kan begreberne fra multiprogrammering med fordel benyttes.  \r\n\r\n</P>  \r\n\r\n<P>Til illustration af emnet vil der i undervisningen blive benyttet  \r\n\r\n eksempler i Concurrent Pascal. </P>  \r\n\r\n<P> 2.3. Modulprogrammering. </P>  \r\n\r\n<P>Objektorienteret programmering og multiprogrammering er særtilfælde af det  \r\n\r\n mere generelle udtryk &#187;modulprogrammering&#171;. Med modulprogrammering  \r\n\r\n menes programmering i mere eller mindre uafhængige programmoduler, der  \r\n\r\n tilsammen udgør et program. Især problematikken omkring graden af  \r\n\r\n uafhængighed modulerne imellem er interessant. Et vigtigt begreb i denne  \r\n\r\n forbindelse er &#187;information hiding&#171;. </P>  \r\n\r\n<P>Sproget Modula-2 er eet af de sprog, der understøtter modulær  \r\n\r\n programmering, hvorfor dette sprog vil blive berørt i undervisningen. </P>  \r\n\r\n<P> 2.4 Dataabstraktion. </P>  \r\n\r\n<P>Abstraktion er almindeligt erkendt som værende et vigtigt begreb i  \r\n\r\n forbindelse med al programmering. De fleste programmeringssprog muliggør i  \r\n\r\n større eller mindre grad abstraktion i een eller anden forstand. Det  \r\n\r\n kendteste eksempel på dette er nok procedurebegrebet. </P>  \r\n\r\n<P>Det er dog mest den rene handlingsabstraktion, de fleste sprog tillader.  \r\n\r\n Dataabstraktion er lige så vigtigt, men for det meste dårligt understøttet.  \r\n\r\n</P>  \r\n\r\n<P>Først med sproget Pascal kan man tale om en egentlig dataabstraktion,  \r\n\r\n senere har sproget ADA taget ideen op og videreudviklet den. </P>  \r\n\r\n<P>Eksempler i disse 2 sprog vil blive udnyttet i undervisningen. </P>  \r\n\r\n<P> 2.5 Funktionsprogrammering. </P>  \r\n\r\n<P>Traditionel programmering bygger på variable og tildeling af værdier til  \r\n\r\n disse. Dette fører ofte til at man som programmør må &#187;genopfinde  \r\n\r\n hjulet&#171; og iøvrigt beskæftige sig med detaljer der er uden principiel  \r\n\r\n interesse for programmets funktion. </P>  \r\n\r\n<P>I rendyrket funktionsprogrammering eksisterer variablebegrebet ikke, man  \r\n\r\n beskæftiger sig kun med de funktioner programmet skal udføre. Det mest  \r\n\r\n udbredte funktionsprogrammeringssprog er LISP, hvorfor dette vil blive  \r\n\r\n benyttet i undervisningen. </P>  \r\n\r\n<P> 2.6 Logikprogrammering. </P>  \r\n\r\n<P>Logikprogrammering består af en række logiske udsagn, mens traditionelle  \r\n\r\n programmer består af en række ordrer. Udførelsen af et logikprogram kan  \r\n\r\n derfor opfattes som en logisk slutningsproces. </P>  \r\n\r\n<P>Interessen for logikprogrammering skyldes ikke mindst det japanske  \r\n\r\n såkaldte 5.te generations datamaskine-projekt, der forventes at føre  \r\n\r\n datamaskiner, der er særligt egnede til logiske slutninger. Et kendt  \r\n\r\n logikprogrammeringssprog er Prolog, dette sprog vil i et vist omfang blive  \r\n\r\n benyttet i undervisningen. </P>  \r\n\r\n<P> 3. Evalueringsopgaver. </P>  \r\n\r\n<P>Der stilles een opgave indenfor hvert af følgende 3 hovedemner: E-1  \r\n\r\n Objektorienteret programmering E-2 Multiprogrammering E-3 Logikprogrammering  \r\n\r\n</P>  \r\n\r\n<P>Opgaverne drejer sig alle om at belyse nogle principielle aspekter  \r\n\r\n vedrørende det pågældende hovedemne - bl.a. ud fra aktuelle  \r\n\r\n anvendelseseksempler. </P>  \r\n\r\n<P>Opgaverne anbefales alle løst i grupper på indtil 3 medlemmer. </P>  \r\n\r\n<P> 4. Undervisningsform . </P>  \r\n\r\n<P>Undervisningen vil benytte sig dels af lærergennemgang, dels af  \r\n\r\n seminarform. </P>  \r\n\r\n<P>Til hvert hovedemne er afsat 2 undervisningsgange. Den første gang  \r\n\r\n gennemgår læreren emnet, den anden gang belyses eksemplet ved hjælp af  \r\n\r\n opgaver. </P>  \r\n\r\n<P>De sidste 3 gange er afsat til seminarer (elevfremstilling). Disse  \r\n\r\n seminarer går ud på, at kursisterne indenfor de 6 hovedemner udvælger et  \r\n\r\n aspekt, der studeres mere detaljeret og fremlægges. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862215941"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034409"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "08/09/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22159"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/08/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1986-510.612-4"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

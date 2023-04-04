@@ -1,0 +1,75 @@
+{
+    "id": 45354,
+    "title": "Cirkulære nr. 1A, Transmissionsmæssige dimensioneringsregler for abonnentledninger ",
+    "documentTypeId": "140",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "CIR nr 26265 af 01/08/1977",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Cirkulære nr. 1A, Transmissionsmæssige  \r\n\r\n dimensioneringsregler for abonnentledninger </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> Gyldighedsområde </P>  \r\n\r\n<P>Cirkulæret giver - ud fra bestemmelserne i Cirkulære nr. 1  \r\n\r\n (Landstransmissionsplanen) og Cirkulære nr. 21 (Trafikdirigering) -  \r\n\r\n forskrifter for den transmissionsmæssige dimensionering af  \r\n\r\n abonnentledningsnettet i det offentlige danske telefonnet. </P>  \r\n\r\n<P>Det eksisterende abonnentledningsnet skal i den udstrækning, de praktiske  \r\n\r\n muligheder tillader det, bringes i overensstemmelse med cirkulærets  \r\n\r\n bestemmelser. </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> Dimensioneringsgrundlag </P>  \r\n\r\n<P>Cirkulæret er baseret på, at det maksimalt tilladelige referenceækvivalent  \r\n\r\n for en international telefonforbindelse er fordelt som vist i bilag 4, hvor  \r\n\r\n der tillige er angivet betegnelser for de nationale delstrækningers dæmpning.  \r\n\r\n</P>  \r\n\r\n<P>Cirkulæret er endvidere baseret på de af teleadministrationerne godkendte  \r\n\r\n materialetyper og normalt anvendte metoder. </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> Definitioner og betegnelser </P>  \r\n\r\n<P>De i Cirkulærerne nr. 1 og nr. 21 angivne definitioner og betegnelser  \r\n\r\n benyttes i nærværende cirkulære og er anført i de afsnit af cirkulæret, hvor  \r\n\r\n de anvendes. </P>  \r\n\r\n<P>De i nærværende cirkulære anførte bilagsnumre henviser til en fælles  \r\n\r\n bilagssamling for Cirkulære nr. 1 med tilhørende undercirkulærer. </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> Dimensionering af abonnentledninger </P>  \r\n\r\n<P>4.0. <I>Abonnentledning</I>  </P>  \r\n\r\n<P>En abonnentledning omfatter - foruden ledningen - alt til denne knyttet  \r\n\r\n udstyr, som måtte være indskudt mellem abonnentinstallationen og den central,  \r\n\r\n under hvilken den pågældende abonnent hører. En abonnentledning forudsættes  \r\n\r\n således at have sit ene afgrænsningspunkt i en centrals krydsfelt - normalt  \r\n\r\n på dettes kabelside, men i givet fald dog på centralsiden af udstyr, som er  \r\n\r\n anbragt i krydsfeltet, og som er nødvendig for tilpasning af  \r\n\r\n abonnentledningens transmissionsmæssige egenskaber - og sit andet  \r\n\r\n afgrænsningspunkt i første koblingspunkt hos abonnenten i den bygning, hvor  \r\n\r\n hovedapparatet befinder sig. </P>  \r\n\r\n<P>Eksempelvis hører såvel en i en abonnentledning indskudt ledningsbegrænser  \r\n\r\n (til besparelse i ledningsantallet) som de herved opståede ledningsafsnit med  \r\n\r\n til abonnentledningen. </P>  \r\n\r\n<P>For en given central er rækkevidden af de forskellige  \r\n\r\n abonnentledningstyper afhængig af disses dæmpning og sløjfemodstand. </P>  \r\n\r\n<P>4.1. <I>Dæmpningen,dA dB</I>  </P>  \r\n\r\n<P>Dæmpningen af en abonnentledning, dA dB bestemmes ved: </P>  \r\n\r\n<P>dA = <I>a</I> x <I>l</I> (dB), </P>  \r\n\r\n<P>hvor <I>a</I> dB/km er regneværdien for dæmpningskonstanten, se bilag 2,  \r\n\r\n og <I>l</I> km er ledningens længde. </P>  \r\n\r\n<P>Er abonnentledningen sammensat af dellængder med forskellige lederdiametre  \r\n\r\n og/eller -materialer, beregnes dæmpningen som summen af dellængdernes  \r\n\r\n dæmpning: </P>  \r\n\r\n<P>dA = a1 x l1 + a2 x l2 + ... (dB). </P>  \r\n\r\n<P>Såfremt der i abonnentledningen er indskudt en ledningsbegrænser, skal  \r\n\r\n dennes dæmpning medtages. </P>  \r\n\r\n<P>dAdB må ikke overkride den for en given central fastsatte værdi, </P>  \r\n\r\n<P>dAmaxdB. </P>  \r\n\r\n<P>dAmaxdB bestemmes af: </P>  \r\n\r\n<P>dAmax = Ammaxlok - t - M (dB) </P>  \r\n\r\n<P>eller </P>  \r\n\r\n<P>dAmax = Asmaxlok - t - S (dB), </P>  \r\n\r\n<P>hvor </P>  \r\n\r\n<P>Ammaxlok dB </P>  \r\n\r\n<P>er den maksimalt tilladelige værdi for det lokale modtageækvivalent, der  \r\n\r\n er til rådighed for abonnentledningsnettet under den pågældende central. Se  \r\n\r\n punkt 5. </P>  \r\n\r\n<P>Asmaxlok dB </P>  \r\n\r\n<P>er den maksimalt tilladelige værdi for det lokale sendeækvivalent, der er  \r\n\r\n til rådighed for abonnentledningsnettet under den pågældende central. </P>  \r\n\r\n<P>t dB </P>  \r\n\r\n<P>er den nominelle dæmpning af abonnentinstallationen, der beregnes som  \r\n\r\n summen af dæmpningerne af ledningerne mellem abonnentledningens  \r\n\r\n afgrænsningspunkt i abonnentinstallationen og telefonapparatets linieklemmer  \r\n\r\n samt dæmpningen af eventuelle ekstrainstallationer og dertil hørende  \r\n\r\n abonnenthjælpeudstyr. </P>  \r\n\r\n<P>M dB </P>  \r\n\r\n<P>er telefonapparatets modtageækvivalent. </P>  \r\n\r\n<P>S dB </P>  \r\n\r\n<P>er telefonapparatets sendeækvivalent. </P>  \r\n\r\n<P>Ved dimensionering af abonnentledninger sættes: </P>  \r\n\r\n<P>t = 1,5 (dB), M = - 2,5 (dB) og </P>  \r\n\r\n<P>S = 6,5 (dB). </P>  \r\n\r\n<P>Heraf fås: </P>  \r\n\r\n<P>dAmax = Ammaxlok + 1 (dB) </P>  \r\n\r\n<P>eller </P>  \r\n\r\n<P>dAmax = Asmaxlok - 8 (dB). </P>  \r\n\r\n<P>Da de nationale delstrækningers dæmpning for hver enkelt central har samme  \r\n\r\n værdi for sende- og modtageretning, se bilag 4, og da t, M og S ansættes som  \r\n\r\n ovenfor anført, er S - M = 9 (dB). </P>  \r\n\r\n<P>Derfor er dAmax i det følgende alene bestemt ud fra Ammaxlok. </P>  \r\n\r\n<P>En abonnentinstallation, for hvilken forudsætningerne for ansættelsen af  \r\n\r\n de foran anvendte værdier for S, M og t ikke er til stede, må kun etableres,  \r\n\r\n dersom en særlig undersøgelse med anvendelse af de </P>  \r\n\r\n<P>foreliggende værdier for S, M og t viser, at betingelserne for dA er </P>  \r\n\r\n<P>opfyldt. </P>  \r\n\r\n<P>4.2. <I>Sløjfemodstanden,</I> ( <I>R</I> x <I>l</I> + <I>r</I> )  \r\n\r\n<I>ohm</I>  </P>  \r\n\r\n<P>( <I>R</I> x <I>l</I> ) ohm er sløjfemodstanden af abonnentledningen og  \r\n\r\n bestemmes af dennes ledningslængde <I>l</I> km og regneværdien for  \r\n\r\n modstandskonstanten <I>R</I> ohm/km, som for de forskellige ledningstyper  \r\n\r\n findes på bilag 2. </P>  \r\n\r\n<P>Er abonnentledningen sammensat af dellængder med forskellige lederdiametre  \r\n\r\n og/eller -materialer, beregnes sløjfemodstanden som summen af dellængdernes  \r\n\r\n sløjfemodstand: </P>  \r\n\r\n<P>R x <I>l</I> = R1 x <I>l</I> 1 + R2 x l2 + ...(ohm) </P>  \r\n\r\n<P>r ohm er sløjfemodstanden af alt, hvad der ud over (R x <I>l</I> ) ohm  \r\n\r\n forekommer af seriemodstand i abonnentledningen, f.eks. i en  \r\n\r\n ledningsbegrænser samt i givet fald sløjfemodstanden af ekstraapparatledning  \r\n\r\n til et apparat uden for den bygning, i hvilken hovedapparatet befinder sig,  \r\n\r\n såfremt apparatet benyttes uden lokal strømfødning. </P>  \r\n\r\n<P>Normalt dimensioneres abonnentledningsnettet under anvendelse af r = 0  \r\n\r\n under forudsætning af, at hele abonnentinstallationen inklusive eventuelle  \r\n\r\n ekstraapparater befinder sig i samme bygning, samt at ledningsbegrænser ikke  \r\n\r\n foreligger. </P>  \r\n\r\n<P>(R x <I>l</I> + r) må ikke overskride den for en given centraltype </P>  \r\n\r\n<P>fastsatte værdi (R x <I>l</I> + r)max. Se bilag 1. </P>  \r\n\r\n<P CLASS=PUNKT> <B>5.</B> Centralernes maksimale modtageækvivalent </P>  \r\n\r\n<P>Den maksimalt tilladelige værdi for det lokale modtageækvivalent, </P>  \r\n\r\n<P>Ammaxlok dB for en given lokalcentral fastsættes på grundlag af: </P>  \r\n\r\n<UL CLASS=PLAIN-LIST>  \r\n\r\n<LI>1) centralens trafikdirigeringsmæssige placering i telefonnettet </LI>  \r\n\r\n<LI>2) centraltype og -fabrikat </LI>  \r\n\r\n<LI>3) dæmpningen i eventuelle totråds centralledninger. </LI>  \r\n\r\n</UL>  \r\n\r\n<P>Beregningerne gennemføres som anført i punkterne 5.1 og 5.2. </P>  \r\n\r\n<P>5.l. <I>Forbindelse med firtrådsnettet opnås i centralen selv</I>  </P>  \r\n\r\n<P>Der forekommer ikke totråds centralledninger på vejen mod N-centralen i  \r\n\r\n København. Se bilag 4 fig. 1. </P>  \r\n\r\n<P>Man har: </P>  \r\n\r\n<P>Ammaxlok = 10 - n x 0.5 - c(4-A)2 (dB), </P>  \r\n\r\n<P>hvor </P>  \r\n\r\n<P>Ammaxlok dB </P>  \r\n\r\n<P>er den maksimalt tilladelige værdi for det lokale modtageækvivalent, der  \r\n\r\n er til rådighed for abonnentledningsnettet under den pågældende central. Se  \r\n\r\n bilag 5. </P>  \r\n\r\n<P>n </P>  \r\n\r\n<P>er det største antal sammenstillinger på talefrekvensbasis af  \r\n\r\n firtrådsledninger, som kan forekomme mellem centralen og det internationale  \r\n\r\n ledningsnet. </P>  \r\n\r\n<P>n-værdier for transitcentralerne, fremgår af bilag 5. </P>  \r\n\r\n<P>Såfremt centralen er en U-central, er n-værdien een større end n- værdien  \r\n\r\n for den transitcentral, hvortil U-centralen er knyttet. </P>  \r\n\r\n<P>c(4-A)2 dB </P>  \r\n\r\n<P>er den del af centraltabet, som ved sammenstilling af en firtråds ledning  \r\n\r\n med en abonnentledning forekommer i en centrals totråds kredsløb. Se bilag 1.  \r\n\r\n</P>  \r\n\r\n<P>5.2. <I>Forbindelse med firtrådsnettet opnås ikke i centralen selv</I>  \r\n\r\n</P>  \r\n\r\n<P>Der vil på vejen mod N-centralen i København forekomme en totråds  \r\n\r\n centralledning. Se bilag 4, fig. 2. </P>  \r\n\r\n<P>Man har for transitcentralen:. </P>  \r\n\r\n<P>Ammax = 10 - n x 0.5 - c(4-2C)2 (dB) </P>  \r\n\r\n<P>og for den underordnede central:. </P>  \r\n\r\n<P>Ammaxlok = Ammax - (d - k) - c(2C-A)2 (dB), </P>  \r\n\r\n<P>hvor </P>  \r\n\r\n<P>Ammax dB </P>  \r\n\r\n<P>er den maksimalt tilladelige værdi for det modtageækvivalent, der i  \r\n\r\n transitcentralen er til rådighed for det underliggende totrådsnet, bestående  \r\n\r\n af totråds centralledninger, undercentraler og de til disse knyttede  \r\n\r\n abonnentledningsnet. Se bilag 5. </P>  \r\n\r\n<P>n </P>  \r\n\r\n<P>er det største antal sammenstillinger på talefrekvensbasis af firtråds  \r\n\r\n ledninger, som kan forekomme mellem centralen og det internationale  \r\n\r\n ledningsnet. Se bilag 5. </P>  \r\n\r\n<P>c(4-2C)2 dB </P>  \r\n\r\n<P>er den del af centraltabet, som ved sammenstilling af en firtrådsledning  \r\n\r\n med en totråds centralledning forekommer i transitcentralens totråds  \r\n\r\n kredsløb. Se bilag 1. </P>  \r\n\r\n<P>d dB </P>  \r\n\r\n<P>er dæmpningen af totråds centralledningen inklusive eventuelle  \r\n\r\n transformatortab. Se bilag 2. </P>  \r\n\r\n<P>k dB </P>  \r\n\r\n<P>er den eventuelle dæmpningskompensation af totråds centralledningen. Se  \r\n\r\n cirkulære nr. 1C. </P>  \r\n\r\n<P>c(2C-A)2 dB </P>  \r\n\r\n<P>er det centraltab, som ved sammenstilling af en totråds centralledning med  \r\n\r\n en abonnentledning forekommer i centralens totråds kredsløb. Se bilag 1. </P>  \r\n\r\n<P>5.3. <I>Specielle forhold</I>  </P>  \r\n\r\n<P>Såfremt økonomiske og/eller praktiske grunde taler derfor, f.eks. hensynet  \r\n\r\n til benyttelse af eksisterende totråds centralledninger (tværledninger) i  \r\n\r\n nettet, jf. Cirkulære nr. 1B, kan værdien Ammaxlok for en central ansættes  \r\n\r\n til en lavere værdi, end ovenstående beregning fører til. </P>  \r\n\r\n<P CLASS=PUNKT> <B>6.</B> Pupinisering af abonnentledninger </P>  \r\n\r\n<P>Abonnentledninger må kun undtagelsesvis pupiniseres. </P>  \r\n\r\n<P CLASS=PUNKT> <B>7.</B> Dæmpningsforvrængning </P>  \r\n\r\n<P>Dæmpningsforvrængningen i en abonnentledning er begrænset tilstrækkeligt,  \r\n\r\n dersom ledningsnettet er dimensioneret i overensstemmelse med nærværende krav  \r\n\r\n til de maksimalt tilladelige dæmpninger samt anvendelse af godkendt materiel.  \r\n\r\n</P>  \r\n\r\n<P CLASS=PUNKT> <B>8.</B> Særtilfælde </P>  \r\n\r\n<P>Foranstående regler for dimensionering af abonnentledninger vil kunne  \r\n\r\n benyttes i praktisk talt alle forekommende tilfælde. Ved eventuelle  \r\n\r\n særtilfælde henvises til Cirkulære nr. 1 (Landstransmissionsplanen). </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>(* 1) I konsekvens af ændret arbejdsdeling på telekommunikationsområdet  \r\n\r\n pr. 1.1.1991 ophæves cirkulæret som statslig forskrift, idet ansvaret for  \r\n\r\n disse bestemmelser, der vedrører interne forhold i Tele Danmark A/S, er  \r\n\r\n overgået til dette selskab. </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Klima-, Energi- og Forsyningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19772626509"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM003936"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "16/03/2007"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Cirkulære (1 sp)"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "26265"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1977"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/08/1977"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "P&T, Teleinspekti"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Ingen"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

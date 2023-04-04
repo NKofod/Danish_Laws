@@ -1,0 +1,75 @@
+{
+    "id": 3841,
+    "title": "Vejledning om kvitteringer og XML-filer mv. ved udveksling af elektroniske oplysninger",
+    "documentTypeId": "180",
+    "isSagsforlobPeriodValid": true,
+    "shortName": "VEJ nr 197 af 29/11/2001",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<FONT SIZE=5><P ALIGN=\"CENTER\">Vejledning om kvitteringer og XML-filer  \r\n\r\n mv.<BR>  \r\n\r\n ved udveksling af elektroniske oplysninger</P>  \r\n\r\n</FONT>  \r\n\r\n<P>&nbsp;</P>  \r\n\r\n<P>A-kasserne skal pr. 1. oktober 2001 iv&aelig;rks&aelig;tte en &aelig;ndret  \r\n\r\n procedure vedr&oslash;rende registrering og opsamling af oplysninger om  \r\n\r\n medlems- og efterl&oslash;nsbidragsperioder mv. Projektet skal v&aelig;re  \r\n\r\n gennemf&oslash;rt den 30. september 2002.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Dette indeb&aelig;rer, at a-kasserne skal kunne udveksle  \r\n\r\n efterl&oslash;nsoplysninger mv. i elektronisk form pr. 1. oktober 2001.  \r\n\r\n Udvekslingen skal ske i XML-format.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Til brug for den praktiske h&aring;ndtering af a-kassernes  \r\n\r\n elektroniske udveksling af efterl&oslash;nsoplysningerne i XML-formatet er  \r\n\r\n disse retningslinier udarbejdet.</P>  \r\n\r\n<B><P>1. XML-filen som vedh&aelig;ftet fil</P>  \r\n\r\n</B>  \r\n\r\n<P ALIGN=\"JUSTIFY\">N&aring;r en a-kasse sender medlemsoplysningerne i  \r\n\r\n XML-format, skal dette ske som en vedh&aelig;ftet fil til en e-mail. Denne  \r\n\r\n e-mail skal sendes til modtageren via a-kassens Sikre Internet Kommunikation  \r\n\r\n (SIK).</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Transportlaget er dermed adskilt fra indholdet i  \r\n\r\n XML-delen.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Det er i den forbindelse ikke n&oslash;dvendigt at stille  \r\n\r\n strenge krav til indholdet af selve e-mailen, da de personf&oslash;lsomme  \r\n\r\n oplysninger ligger i XML-delen i signeret og krypteret form.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Det er ved arkiveringen af efterl&oslash;nsoplysningerne  \r\n\r\n mv. en fordel, at hvert XML-dokument ligger i en selvst&aelig;ndig fil, som  \r\n\r\n kan overf&oslash;res til arkivsystemet.</P>  \r\n\r\n<B><P>2. Et eller flere medlemmer i samme e-mail</P>  \r\n\r\n</B>  \r\n\r\n<P ALIGN=\"JUSTIFY\">A-kassen m&aring; kun sende &eacute;n vedh&aelig;ftet  \r\n\r\n XML-fil pr. e-mail. To a-kasser kan dog indg&aring; en aftale om indbyrdes at  \r\n\r\n udveksle et st&oslash;rre antal XML-filer pr. e-mail.</P>  \r\n\r\n<B><P>3. XML-filens navn</P>  \r\n\r\n</B>  \r\n\r\n<P ALIGN=\"JUSTIFY\">XML-filen skal navngives som f&oslash;lger:</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">EEEEEEEEEEEEEE-AAA-BBB-CCCCC(CC)DDDDDDDDDD.XML</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">(20011001113400-D17-D24-AR287R1-050443xxxx.XML),  \r\n\r\n hvor</P><DIR>  \r\n\r\n<DIR>  \r\n\r\n<P>&#9;EEEE &#9;er en entydig n&oslash;gle for udvekslingen af data. Her  \r\n\r\n foresl&aring;es &aring;&aring;&aring;&aring;mmdd (&aring;r, m&aring;ned, dag)  \r\n\r\n efterfulgt af 6 tal (0-9), som bestemmes individuelt af hver a-kasse. Ved  \r\n\r\n hj&aelig;lp af identifikationen kan a-kassen skelne denne udveksling fra en  \r\n\r\n eventuel senere udveksling mellem de samme to a-kasser.</P>  \r\n\r\n<P>&#9;AAA&#9;angiver afsender a-kasse ved Dnn (D17 for FOA)</P>  \r\n\r\n<P>&#9;BBB&#9;angiver modtager a-kasse ved Dnn (D24 for Metal)</P>  \r\n\r\n<P>&#9;CCC &#9;angiver blanketid: AR260, AR260R, AR2870, AR2871, AR2872,  \r\n\r\n AR287R1, AR287R2.</P>  \r\n\r\n<P>&#9;&#9;Hvis der er tale om en AR 287 eller en AR 287R angives tillige  \r\n\r\n blanket&aring;rsag, dvs. AR 2870, AR 2871, AR 2872, AR 287R1 eller AR  \r\n\r\n 287R2.</P>  \r\n\r\n<P>&#9;DDD &#9;angiver medlemmets CPR-nr.</P></DIR>  \r\n\r\n</DIR>  \r\n\r\n<I><P>Eksempel:</P>  \r\n\r\n</I>  \r\n\r\n<P ALIGN=\"JUSTIFY\">D17 sender en AR 287R til D24 med blanketform&aring;let 1.  \r\n\r\n D17 &oslash;nsker oplysninger om medlemmet 050443-xxxx. Foresp&oslash;rgslen  \r\n\r\n er dannet den 1. oktober 2001 kl. 11.34, og D17 har valgt at anvende  \r\n\r\n klokkesl&aelig;ttet ved udfyldelse af den entydige n&oslash;gle.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">XML-filen hedder herefter:  \r\n\r\n 20011001113400-D17-D24-AR287R1-050443xxxx.xml</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Hvis man anvender Arbejdsdirektoratets XML-blanketter  \r\n\r\n (elektroniske blanketter) til at danne XML-filerne, kan der automatisk blive  \r\n\r\n dannet et filnavn, som f&oslash;lger ovenn&aelig;vnte standard. Dette  \r\n\r\n foruds&aelig;tter, at man i feltet af afsenderreference som det f&oslash;rste  \r\n\r\n indtaster seks cifre, som bruges som det individuelt bestemte  \r\n\r\n l&oslash;benummer. Skrives i stedet bogstaver, vil filnavnet blive dannet med  \r\n\r\n seks nuller (000000) som l&oslash;benummer. Herefter skal a-kassen blot sende  \r\n\r\n filen vedh&aelig;ftet en e-mail til modtager-a-kassen, samtidig med at  \r\n\r\n a-kassen gemmer filen i eget edb-system til brug for statistik.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Hvis a-kassen modtager en XML-fil, som a-kassen ud fra  \r\n\r\n filens navn kan se allerede er modtaget, kan a-kassen se bort fra denne, med  \r\n\r\n mindre andet er aftalt mellem afsender-a-kassen og modtager-a-kassen.</P>  \r\n\r\n<B><P>4. Kontaktoplysninger i afsenderreferencen</P>  \r\n\r\n</B>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Det vil   udover l&oslash;benummeret   v&aelig;re  \r\n\r\n hensigtsm&aelig;ssigt i feltet afsenderreference at angive navn/initialer,  \r\n\r\n eventuelt afdelingsnummer og telefonnummer p&aring; den sagsbehandler, der  \r\n\r\n har givet oplysningerne om medlemmet. Dette vil lette modtager-a-kassen i  \r\n\r\n tilf&aelig;lde af en eventuel fejlsituation.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">L&aelig;ngden af feltet afsenderreference er defineret som  \r\n\r\n max 70 tegn. Det bem&aelig;rkes, at der i Arbejdsdirektoratets XML-blanket  \r\n\r\n kun vil v&aelig;re mulighed for at skrive op til 30 tegn.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Feltet afsenderreference kan for eksempel indeholde  \r\n\r\n v&aelig;rdien: 123456afd138PJP38101234</P>  \r\n\r\n<B><P>5. Indholdet i e-mailens emnefelt</P>  \r\n\r\n</B>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Et emnefelt starter altid med:</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Att:XML=&lt;EEEEEEEEEEEEEE&gt;-&lt;AAA-BBB-CCCCC(CC)</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">(Att:XML=20011001113400-D17-D24-AR287R1), hvor</P><DIR>  \r\n\r\n<P>&#9;&lt;EEEEEE &gt; er den entydige n&oslash;gle for dannelsen af den  \r\n\r\n vedh&aelig;ftede fil</P>  \r\n\r\n<P>&#9;&lt;AAA-BBB-CCCCC(CC) er typen fra den vedh&aelig;ftede fil, nemlig  \r\n\r\n afsender-a-kasse, modtager-a-kasse og blanket-id (inkl. eventuelt  \r\n\r\n blanketform&aring;l).</P></DIR>  \r\n\r\n<I><P>Eksempel:</P>  \r\n\r\n</I>  \r\n\r\n<P ALIGN=\"JUSTIFY\">D17 sender en AR 287R til D24 med blanketform&aring;let 1.  \r\n\r\n D17 &oslash;nsker oplysninger om medlemmet 050443-xxxx. Foresp&oslash;rgslen  \r\n\r\n er dannet den 1. oktober 2001 kl. 11.34, og D17 har valgt at anvende  \r\n\r\n klokkesl&aelig;ttet ved udfyldelse af den entydige n&oslash;gle.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Indholdet i e-mailens emnefelt bliver herefter:  \r\n\r\n Att:XML=20011001113400-D17-D24-AR287R1</P>  \r\n\r\n<B><P>6. Kvitteringer p&aring; modtagne e-mails via SIK</P>  \r\n\r\n</B>  \r\n\r\n<P ALIGN=\"JUSTIFY\">A-kassens kvittering drejer sig p&aring; nuv&aelig;rende  \r\n\r\n tidspunkt kun om transportlaget. Der skal dog v&aelig;re mulighed for en  \r\n\r\n senere udvidelse af a-kassens kvitteringssystem. Kvitteringssystemet skal  \r\n\r\n s&aring;ledes indeholde b&aring;de en kvitteringsdel til transportlaget og en  \r\n\r\n kvitteringsdel til indholdet i XML-filen. Der stilles endnu ingen  \r\n\r\n n&aelig;rmere indholdsm&aelig;ssige krav til XML-filen.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Kvitteringsdelen i a-kassens mail-system skal kunne  \r\n\r\n kvittere for en modtaget e-mail. Samtidig skal det fremg&aring; af  \r\n\r\n kvitteringen, af det ikke er uvedkommende, der har modtaget og l&aelig;st  \r\n\r\n e-mailen.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Dette g&oslash;res ved, at a-kassens mail-system svarer  \r\n\r\n med tilf&oslash;jelse af &quot;-kvittering&quot; til e-mailens emnefelt og  \r\n\r\n vedh&aelig;ftet en &quot;tom&quot; XML-kvitteringsfil. Denne afsendelse skal  \r\n\r\n ogs&aring; ske via SIK, dvs. signeret og krypteret.</P>  \r\n\r\n<I><P>Eksempel:</P>  \r\n\r\n</I>  \r\n\r\n<P ALIGN=\"JUSTIFY\">D17 sender en AR 287R til D24 med blanketform&aring;let 1.  \r\n\r\n D17 &oslash;nsker oplysninger om medlemmet 050443-xxxx. Foresp&oslash;rgslen  \r\n\r\n er dannet den 1. oktober 2001 kl. 11.34, og D17 har valgt at anvende  \r\n\r\n klokkesl&aelig;ttet ved udfyldelse af den entydige n&oslash;gle.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Emnefeltet i en kvittering til D17 fra D24 bliver  \r\n\r\n herefter: Att:XML=20011001113400-D17-D24-AR287R1-kvittering</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Vedh&aelig;ftet skal der sendes en XML-fil med  \r\n\r\n f&oslash;lgende indhold:</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&lt;kvittering&gt;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">*tilladt indhold: intet, eller reference, blanketdato,  \r\n\r\n blankettype og cpr.nr. fra oprindelig fil, formatteret som  \r\n\r\n &lt;reference&gt;ref&lt;/reference&gt; etc.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">&lt;/kvittering&gt;</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Herudover skal filen v&aelig;re tom. </P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Kvitteringen skal v&aelig;re rekvisitions-a-kassen i  \r\n\r\n h&aelig;nde inden en uge fra a-kassens afsendelse af AR 287R.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">N&aring;r rekvisitions-a-kassen har modtaget kvitteringen,  \r\n\r\n kan a-kassen v&aelig;re sikker p&aring;, at modtageren af AR 287R har  \r\n\r\n modtaget en blanketoverf&oslash;rsel, og at e-mailen opfylder kravene til  \r\n\r\n SIK, dvs. at signaturen ikke har v&aelig;ret brudt, og at mailen er sendt til  \r\n\r\n rette vedkommende (krypteringen). Rekvisitions-a-kassen kan desuden  \r\n\r\n identificere hvilken udveksling, der er tale om ud fra indholdet i  \r\n\r\n emnefeltet.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Det bem&aelig;rkes, at XML-kvitteringen p&aring; dette  \r\n\r\n stade ikke siger noget om, hvorvidt indholdet i XML-filen er l&aelig;st og  \r\n\r\n forst&aring;et.</P>  \r\n\r\n<B><P>7. H&aring;ndtering af fejl mv.</P>  \r\n\r\n</B>  \r\n\r\n<P ALIGN=\"JUSTIFY\">For s&aring; vidt ang&aring;r korrektioner generelt  \r\n\r\n henvises til B-vejledning nr. 152 af 17. august 2001 om efterl&oslash;ns- og  \r\n\r\n medlemsbidragsregistrering m.v.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">Det fremg&aring;r blandt andet heraf, at en eventuel  \r\n\r\n rettelse skal foretages af den a-kasse, der har sendt det fejlbeh&aelig;ftede  \r\n\r\n materiale. Dette sker ved at sende rettelsen med almindelig post til  \r\n\r\n a-kassen, der har modtaget det fejlbeh&aelig;ftede materiale. Korrektionen  \r\n\r\n foretages herefter manuelt.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">De fejlsituationer, der kan opst&aring; i forbindelse med  \r\n\r\n udvekslingen af efterl&oslash;nsoplysninger, vil variere, ligesom  \r\n\r\n fejlsituationerne kan opst&aring; p&aring; forskellige tidspunkter i  \r\n\r\n processen. A-kassen, der konstaterer en fejl, kontakter den relevante a-kasse  \r\n\r\n enten ved at sende et brev eller telefonisk.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">En modtager-a-kasse, der konstaterer en fejl, kan  \r\n\r\n s&aring;ledes have brug for telefonnummeret til sagsbehandleren i  \r\n\r\n afsender-a-kassen. Det er derfor hensigtsm&aelig;ssigt, at dette  \r\n\r\n telefonnummer fremg&aring;r af XML-filen, som det er foresl&aring;et under  \r\n\r\n pkt. 4.</P>  \r\n\r\n<P ALIGN=\"JUSTIFY\">A-kassen, der har afsendt det fejlbeh&aelig;ftede  \r\n\r\n materiale, skal under alle omst&aelig;ndigheder reagere ved at sende et brev,  \r\n\r\n der indeholder rettelserne, n&aring;r der er tale om fejl i oplysningerne i  \r\n\r\n AR 287 eller AR 260.</P>  \r\n\r\n<DIV CLASS=GIVET ID=\"GIVET\">  \r\n\r\n<FONT SIZE=\"3\">  \r\n\r\n<P CLASS=GIVET ALIGN=\"CENTER\"><I>Arbejdsdirektoratet, den 29. november  \r\n\r\n 2001</I></P>  \r\n\r\n<P CLASS=SIGN1 ALIGN=\"CENTER\">Birgitte Kjelgaard Andersen</P>  \r\n\r\n<P CLASS=SIGN2 ALIGN=\"RIGHT\">/Edith Berggren Nielsen</P>  \r\n\r\n</FONT>  \r\n\r\n</DIV><!-- End of \"GIVET\" -->  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Beskæftigelsesministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "06/12/2001"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C20010019760"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "AB001254"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "06/12/2001"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "01/03/2004"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Vejledning"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "197"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "2001"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "29/11/2001"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Ministerialtidende"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Arbejdsdirektoratet"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Beskæftigelsesmin.,<br />Arbejdsdirektoratet, j.nr. 01-22-0006"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

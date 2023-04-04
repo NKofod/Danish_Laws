@@ -1,0 +1,75 @@
+{
+    "id": 75154,
+    "title": "Læreplan for faget INDUSTRIEL EDB på teknonomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22089 af 02/05/1986",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Læreplan for faget INDUSTRIEL EDB på  \r\n\r\n teknonomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> TIMETAL: 60 timer. </P>  \r\n\r\n<P> ADGANGSBETINGELSER: Ingen ud over de generelle. </P>  \r\n\r\n<P> FORMÅL: </P>  \r\n\r\n<P>Kursets formål er at sætte deltagerne i stand til at deltage i arbejdet  \r\n\r\n med udvikling og drift af edb-baserede systemer inden for den tekniske  \r\n\r\n sektor. </P>  \r\n\r\n<P>For at opfylde formålet er kurset opbygget af elementer, der tilsigter at  \r\n\r\n give deltagerne: </P>  \r\n\r\n<P>- Viden og forståelse for edb-udstyrs funktionsmuligheder og  \r\n\r\n anvendelsesområder med hovedvægten lagt på tekniske anvendelser. </P>  \r\n\r\n<P>- Viden og forståelse for edb-baserede systemers udvikling og drift,  \r\n\r\n herunder principper for og elementer fra systemudviklingens organisation og  \r\n\r\n værktøjer samt principper for implementering og drift af systemerne. </P>  \r\n\r\n<P>- Kendskab til standardprogrammer/systemer og alternative  \r\n\r\n systemudviklings- og driftsmuligheder. </P>  \r\n\r\n<P>- Forståelse af integration mellem tekniske og administrative systemer.  \r\n\r\n</P>  \r\n\r\n<P>- Orientering om datamatisk samfundslære (herunder datalovgivning og  \r\n\r\n uddannelser) og om den forventede udvikling inden for området. </P>  \r\n\r\n<P> VÆGTNING: </P>  \r\n\r\n<P>A. Eleven skal være orienteret om emnet. </P>  \r\n\r\n<P>B. Eleven skal have opnået forståelse af og kendskab til emnet. </P>  \r\n\r\n<P>C. Eleven skal have opnået indsigt i og dybere kendskab til emnet og kunne  \r\n\r\n anvende sin viden i afvigende kombinationer. </P>  \r\n\r\n<P> VEJLEDENDE UNDERVISNINGSTIMETAL: </P>  \r\n\r\n<P>Klassificeringen af vægtningen vil være efterfulgt af en talværdi, der  \r\n\r\n angiver det vejledende undervisningstimetal. </P>  \r\n\r\n<PRE>  \r\n\r\n  INDHOLD                                  VÆGTNING    VEJL.TIMETAL  \r\n\r\n --------------------------------------------------------------------  \r\n\r\n  1. Indledning                               A            2  \r\n\r\n Formål og historie.  \r\n\r\n - Orientering om teknonomkursets formål  \r\n\r\n   således som det er beskrevet i læreplanen, herunder  \r\n\r\n   sammenhængen med andre kurser.  \r\n\r\n - Edb-systemers udvikling op igennem historien  \r\n\r\n   fra radiorør til mikrochips.  \r\n\r\n  Afsnit I: Datamater og deres anvendelsesmuligheder  \r\n\r\n Dette afsnit indeholder grundlæggende datateknik og praktisk  \r\n\r\n    anvendelse af brugerprogrammer samt orientering om deres  \r\n\r\n    muligheder.  \r\n\r\n  2. Grundlæggende datateknik.                B            10  \r\n\r\n Maskinel, arkitektur, konfiguration.  \r\n\r\n Hvad er en datamat?  \r\n\r\n    - Orientering om beskrivelse af edb-udstyr,  \r\n\r\n    - centralenhed, RAM og ROM m.m.  \r\n\r\n    - datalagring  \r\n\r\n    - terminaler, intelligente og uintelligente  \r\n\r\n    - andre ydre enheder  \r\n\r\n    - personlige datamater (PC'ere).  \r\n\r\n Databehandlingsformer.  \r\n\r\n    - Bundtvis (batch), direkte styret  \r\n\r\n      (on-line), tidstro (real-time).  \r\n\r\n Datatransmission.  \r\n\r\n    - Distribuerede systemer/databehandling  \r\n\r\n    - Eksterne datatransmissionsmuligheder.  \r\n\r\n    - teknik  \r\n\r\n    - udstyr  \r\n\r\n    - netværker (hybrid-, bredbånd-).  \r\n\r\n Programmel, operativ systemer.  \r\n\r\n   Opbygning af programmel.  \r\n\r\n    - Binær og hex tal-systemer  \r\n\r\n    - ASCII - koden  \r\n\r\n    - Bits og bytes  \r\n\r\n    - Lavniveausprog, maskinsprog  \r\n\r\n    - Højniveausprog, modulprogrammering  \r\n\r\n Programmeltyper  \r\n\r\n    - Beskrivelse/evt. demonstration af forskellige  \r\n\r\n      typer af programmel.  \r\n\r\n    - Orientering om operativ systemer og deres formål.  \r\n\r\n Eksempler på anvendelsesområder.  \r\n\r\n    - Tekniske  \r\n\r\n    - administrative.  \r\n\r\n  3. Praktisk programmering og applikationskørsel.  \r\n\r\n Teknisk administrative  \r\n\r\n    applikationsprogrammer til:               B              12  \r\n\r\n    - planlægniig  \r\n\r\n    - kalkulationsark (spreadsheets)  \r\n\r\n    - programpakker/standardsystemer  \r\n\r\n Anvendelse af systemer og datamater i lettere  \r\n\r\n øvelser, der giver indblik i systemer og deres virkemåde.  \r\n\r\n Teknisk industrielle applikationsprogrammer: A               2  \r\n\r\n    - beregninger, styrke m.m. (CAE.CAD-type)  \r\n\r\n    - simuleringer (CAD/CAM type)  \r\n\r\n    - styringsopgaver (PLC-systemer NC/CNC m.m.)  \r\n\r\n Om muligt selvstændig løsning, men ellers en  \r\n\r\n    grundig orientering om disse systemer og deres muligheder.  \r\n\r\n  4.Udviklingstendenser inden for modul 1.     A               2  \r\n\r\n Udviklingstendenser for datamater og deres  \r\n\r\n    anvendelsesmuligheder, dvs.:  \r\n\r\n    - datamatudvikling, -typer, -områder  \r\n\r\n    - periferiudstyr m.m.  \r\n\r\n    - programudvikling, generelle systemer,  \r\n\r\n      dedikerede systemer m.m.  \r\n\r\n                                        -------------------------  \r\n\r\n                                        TOTAL AFSNIT I:      26  \r\n\r\n                                        -------------------------  \r\n\r\n  Afsnit II: Metoder.  \r\n\r\n Dette afsnit indeholder beskrivelse af, hvorledes systemer skabes på  \r\n\r\n    basis af behovsanalyser og ved hjælp af kravspecifikationer.  \r\n\r\n    Ligeledes om valg og evt. udvikling af systemløsninger,  \r\n\r\n    købsforhold og lignende. Endelig indeholder afsnittet forskellige  \r\n\r\n    metoder til beskrivelse af systemer både programmer og  \r\n\r\n    datamatudstyr.  \r\n\r\n                                          INDLÆRING       TIMER  \r\n\r\n  5. Indførelse af edb                          B               6  \r\n\r\n Totalsystemer og standardsystemer  \r\n\r\n    - Nu situationen på programmelmarkedet  \r\n\r\n    - Forholdet bruger/leverandør  \r\n\r\n    - Køb, tipasning, selvudvikling  \r\n\r\n    - Kompatibilitet.  \r\n\r\n Fasemodel for indførelse efter anerkendt standard, f.eks.:  \r\n\r\n    - Forundersøgelse  \r\n\r\n    - Situationsanalyse  \r\n\r\n    - Konsekvensanalyse  \r\n\r\n    - Fastlæggelse af edb-løsning  \r\n\r\n    - Igangsætning  \r\n\r\n    - Vurdering.  \r\n\r\n  6. Standardiserede beskrivelsesmetoder        B               8  \r\n\r\n Systembeskrivelsesmetoder  \r\n\r\n    - Databeskrivelse  \r\n\r\n    - Systemdiagrammer  \r\n\r\n    - Procesdiagrammer  \r\n\r\n    - Tidsplandiagrammer  \r\n\r\n                                            ---------------------  \r\n\r\n                                            TOTAL AFSNIT II:  14  \r\n\r\n                                            ---------------------  \r\n\r\n Afsnit III. Virksomhedens datasystemer.  \r\n\r\n Dette afsnit beskriver hvorledes en moderne virksomhed anvender  \r\n\r\n    edb-systemer, hvordan selve systemorganisationen kan være  \r\n\r\n    opbygget, og hvilke systemer/funktioner der anvender edb (det  \r\n\r\n    integrerede automatiske produktionssystem). Endvidere eksempler på  \r\n\r\n    sammenkædning af systemer/funktioner ledende hen imod  \r\n\r\n    CIM-konceptet.  \r\n\r\n  7. Edb-organisation.                          B               4  \r\n\r\n Teknisk og administrativ edb-organisation i  \r\n\r\n virksomheden, omfattende bl.a.:  \r\n\r\n    - behov  \r\n\r\n    - placering (organisatorisk tilhørsforhold)  \r\n\r\n    - fælles databaser, lokalnet.  \r\n\r\n Informationsorganisation.  \r\n\r\n Datamatisk samfundslære  \r\n\r\n    - love  \r\n\r\n    - uddannelser  \r\n\r\n    - aftaler (f.eks. mellem arbejdsmarkeds parter)  \r\n\r\n  8. Datadisciplin og datasikkerhed             B               4  \r\n\r\n Datadisciplin  \r\n\r\n    - krav om nøjagtighed  \r\n\r\n    - kontrol af data  \r\n\r\n    - kontrolfinding og -rettelse  \r\n\r\n Programmel problemstillinger vedr.  \r\n\r\n nøjagtighed, sikkerhed/adgang m.m.  \r\n\r\n    - hvem må hvad? (passwords)  \r\n\r\n    - systemsikkerhed, kopier, opbevaring  \r\n\r\n      og lignende.  \r\n\r\n Datamaskine problematik  \r\n\r\n    - fysisk sikkerhed  \r\n\r\n    - drift- og servicesystemer  \r\n\r\n Det er et primært problem at redegøre for den betydning  \r\n\r\n    edb-systemer (både programmer og maskiner) har for virksomheder i  \r\n\r\n    dag og dermed hvilken katastrofe det kan være, hvis programmer går  \r\n\r\n    tabt, anlæg bryder ned osv.  \r\n\r\n  9. Industrielle systemer.                     A               8  \r\n\r\n Orientering om delsystemer i CIM-konceptet  \r\n\r\n og dermed indhold i den produktionstekniske  \r\n\r\n edb-linje (teknonomkurser,  \r\n\r\n    - ledelses informationssystemer (MISm MRP)  \r\n\r\n    - udviklings- og konstruktionssystemer  \r\n\r\n      (CAD/CAE)  \r\n\r\n    - produktionsmodnings- og fabrikssystemer  \r\n\r\n     (CAM, NC/CNC/DNC, FMS, robotter m.m.)  \r\n\r\n    - lokale datanet/datatransmissionssystemer  \r\n\r\n    - integration  \r\n\r\n    - protokol og grænseflade (interface-)  \r\n\r\n      problematik  \r\n\r\n    - netværksteknologi og -systemer.  \r\n\r\n  10. Udviklingstendenser.                      A               2  \r\n\r\n Udviklingstendenser inden for  \r\n\r\n virksomhedsanvendelser af edb-systemer,  \r\n\r\n styring af administration, processer og  \r\n\r\n produktion.  \r\n\r\n                                            ------------------------  \r\n\r\n                                            TOTAL AFSNIT III 18  \r\n\r\n                                            ------------------------  \r\n\r\n                                            I ALT            60  \r\n\r\n</PRE>  \r\n\r\n<P> HJEMMEOPGAVER: </P>  \r\n\r\n<P>Der stilles 12 hjemmeopgaver hver af et omfang som et halvt eksamenssæt.  \r\n\r\n</P>  \r\n\r\n<P> IKRAFTTRÆDELSE: </P>  \r\n\r\n<P>Læreplanen har virkning fra den 1. august 1986. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19862208941"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034359"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "15/09/1999"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22089"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1986"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "02/05/1986"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Direktoratet for Erhvervsuddannelserne"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1985-6111.6210-1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

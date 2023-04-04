@@ -1,0 +1,75 @@
+{
+    "id": 45335,
+    "title": "Cirkulære nr. 1D. Transmissionsmæssige dimensioneringsregler for dæmpningsled i centralers taleveje ",
+    "documentTypeId": "140",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "CIR nr 26060 af 01/09/1982",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Cirkulære nr. 1D. Transmissionsmæssige  \r\n\r\n dimensioneringsregler for dæmpningsled i centralers taleveje </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>1. <B>GYLDIGHEDSOMRÅDE</B>  </P>  \r\n\r\n<P>1.1. Nærværende cirkulære giver forskrifter for den transmissionsmæssige  \r\n\r\n dimensionering og placering af dæmpningsled i de offentlige danske centralers  \r\n\r\n taleveje. </P>  \r\n\r\n<P>Cirkulæret indeholder dog ikke forskrifter for dimensionering og placering  \r\n\r\n af de specielle dæmpningsled (og forstærkere), som er nødvendige ved  \r\n\r\n anvendelse af firtråds kompensation af dæmpning i totråds centralledninger  \r\n\r\n eller i forbindelse med udstyr i telefonistekspedition af  \r\n\r\n samtaleforbindelser. </P>  \r\n\r\n<P>1.2. Cirkulærets bestemmelser er udarbejdet i overensstemmelse med  \r\n\r\n forskrifterne i Cirkulære nr. 1 og skal følges i overensstemmelse med dette  \r\n\r\n cirkulæres gyldighedsområde. </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> Definitioner </P>  \r\n\r\n<P>2.1. I nærværende cirkulære er benyttet de i Cirkulære nr. 1 indførte  \r\n\r\n definitioner, begreber, benævnelser og betegnelser. </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> Dæmpningsleds elektriske egenskaber </P>  \r\n\r\n<P>3.1. Dæmpningsled i centralers taleveje skal være analoge, idet digitale  \r\n\r\n dæmpningsled ikke opfylder et krav om bitintegritet. </P>  \r\n\r\n<P>3.2 Dæmpningsled i centralers taleveje skal være balancerede, dvs. enten  \r\n\r\n H-led eller 0-led (i figurerne er kun vist H-led). </P>  \r\n\r\n<P>3.3. Dæmpningsled skal have nominelle dæmpningsværdier i hele eller halve  \r\n\r\n dB. </P>  \r\n\r\n<P>Omstrappelige eller variable dæmpningsled skal være regulerbare til  \r\n\r\n nominelle dæmpningsværdier i hele og halve dB. </P>  \r\n\r\n<P>3.4. Et dæmpningsleds driftsdæmpning mellem 600 ohm og ved et sendeniveau  \r\n\r\n på 0 dB (1 m VA) skal ved enhver frekvens afvige mindst muligt fra den  \r\n\r\n (indregulerede) nominelle dæmpningsværdi og i frekvensområdet 300-4000 Hz må  \r\n\r\n afvigelsen i hvert fald højst være 0,2 dB. </P>  \r\n\r\n<P>3.5. Et dæmpningsled, som ved den ene firpolport er belastet med 600 ohm,  \r\n\r\n skal ved den anden firpolport udvise en impedans, hvis tilpasningsdæmpning  \r\n\r\n over for 600 ohm er mindst 26 dB i frekvensområdet 300-4000 Hz. </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> Placering og værdier af dæmpningsled i analoge  \r\n\r\n centralers taleveje </P>  \r\n\r\n<P>4.1. I firtrådscentraler og kombineret to- og firtråds centraler skal  \r\n\r\n dæmpningsled være indskudt som vist i fig. 1 og have de i figuren angivne  \r\n\r\n værdier, når der kan regnes med en gaffeldæmpning g dB på 3,5 dB og  \r\n\r\n centraltab c(4-4)4 dB og c(4-2)4 på 0,5 dB. </P>  \r\n\r\n<P>For andre værdier af g, c(4-4)4 og c(4-2)4 dB bestemmes dæmpningsværdierne  \r\n\r\n som angivet i figuren. </P>  \r\n\r\n<P>Dersom en firtråds ledning undtagelsesvis indgår direkte til totråds  \r\n\r\n vælgertrin i en firtrådscentral eller kombineret to- og firtrådscentral, skal  \r\n\r\n dæmpningsled være indskudt og have værdier som anført for totrådscentraler og  \r\n\r\n lokalcentraler, jf. pkt. 4.3. og fig. 3 i nærværende cirkulære. </P>  \r\n\r\n<P>4.2. I dobbelttotrådscentraler skal dæmpningsled være indskudt som vist i  \r\n\r\n fig. 2 og have de i figuren angivne værdier, når der kan regnes med en  \r\n\r\n gaffeldæmpning g dB på 3,5 dB. </P>  \r\n\r\n<P>For andre værdier af g dB bestemmes dæmpningsværdierne som angivet i  \r\n\r\n figuren. </P>  \r\n\r\n<P>4.3. I totrådscentraler og lokalcentraler skal dæmpningsled være indskudt  \r\n\r\n som vist i fig. 3 og have de i figuren angivne værdier, når der kan regnes  \r\n\r\n med en gaffeldæmpning g dB på 3,5 dB. </P>  \r\n\r\n<P>For andre værdier af g dB bestemmes dæmpningsværdierne som angivet i  \r\n\r\n figuren. </P>  \r\n\r\n<P>4.4 Ved fast sammenstilling af to firtråds ledninger skal dæmpningsled  \r\n\r\n være indskudt som vist i fig. 4 og have de i figuren angivne værdier. </P>  \r\n\r\n<P>4.5 Ved fast sammenstilling af en firtråds og en totråds centralledning  \r\n\r\n skal dæmpningsled være indskudt som vist i fig. 5 og have de i figuren  \r\n\r\n angivne værdier, når der kan regnes med en gaffeldæmpning g dB og på 3,5 dB.  \r\n\r\n</P>  \r\n\r\n<P>For andre værdier af g dB bestemmes dæmpningsværdierne som angivet i  \r\n\r\n figuren. </P>  \r\n\r\n<P CLASS=PUNKT> <B>5.</B> Placering og værdier af dæmpningsled i digitale  \r\n\r\n centralers taleveje. </P>  \r\n\r\n<P>5.1. I digitale centraler skal de analoge ind- og udgange ved henholdsvis  \r\n\r\n analog-digital (A/D) og digital-analog (D/A) overgange mod analogt  \r\n\r\n tilsluttede ledninger have nominelle relative niveauer i hele eller halve  \r\n\r\n dBr-værdier. </P>  \r\n\r\n<P>Endvidere skal det nominelle relative niveau, p dBr, ved de analoge  \r\n\r\n indgange af A/D overgangene være -14 dBr eller større og det nominelle  \r\n\r\n relative niveau, q dBr, ved de analoge udgange af D/A overgangene være 4 dBr  \r\n\r\n eller mindre. </P>  \r\n\r\n<P>De her anførte relative niveauer er refereret til de digitale firtråds  \r\n\r\n kredsløb i centralen. </P>  \r\n\r\n<P>5.2. Ved sammenstilling af firtråds ledninger i en digital central skal  \r\n\r\n dæmpningsled være indskudt som vist i fig. 6 og have de i figuren angivne  \r\n\r\n værdier, når de relative niveauer ved A/D og D/A overgangenes analoge  \r\n\r\n indgange respektive udgange mod analogt tilsluttede firtråds ledninger er  \r\n\r\n henholdsvis p4 dBr og q4 dBr. Er p4 dBr = 4 dBr og q4 dBr = -8,5 dBr, udgår  \r\n\r\n dæmpningsleddene som vist i fig. 7. </P>  \r\n\r\n<P>5.3. Ved sammenstilling af totråds ledninger med andre totråds eller  \r\n\r\n firtråds ledninger skal dæmpningsled være indskudt som vist i fig. 8 og have  \r\n\r\n de i figuren angivne værdier, når der kan regnes med en gaffeldæmpning på g  \r\n\r\n dB, og når de relative niveauer ved A/D og D/A overgangenes analoge indgange  \r\n\r\n respektive udgange mod totråds ledningerne er henholdsvis p2 og q2 dBr. Er p2  \r\n\r\n dBr = -g dBr og q2 dBr = (g-6) dBr, udgår dæmpningsleddene som vist i fig. 9.  \r\n\r\n</P>  \r\n\r\n<P CLASS=PUNKT> <B>6.</B> Oversigt over de i figurerne benyttede betegnelser.  \r\n\r\n</P>  \r\n\r\n<P>Afgrænsningspunkter </P>  \r\n\r\n<P>A/D: Analog-digital overgang i transmissionsretningen. </P>  \r\n\r\n<P>D/A: Digital-analog overgang i transmissionsretningen. </P>  \r\n\r\n<P>xf: Krydsfelt eller totrådsfordeler ved afgrænsningen mellem totråds  \r\n\r\n ledninger og central. </P>  \r\n\r\n<P>FX: Firtrådsfordeler ved afgrænsning mellem analogt afsluttede  \r\n\r\n firtrådsledninger og centraler. </P>  \r\n\r\n<P>X2: 2Mbit/s fordeler mellem digitale ledninger og digital central. </P>  \r\n\r\n<P>Balancer og gafler </P>  \r\n\r\n<P>B: Generel betegnelse for en balanceimpedans. </P>  \r\n\r\n<P>FB: Fællesbalance, d.v.s. en balanceimpedans til balancering af flere  \r\n\r\n forskellige totråds ledninger. </P>  \r\n\r\n<P>IB: Individuel balance, d.v.s. en balanceimpedans til balancering af en  \r\n\r\n bestemt totråds ledning. </P>  \r\n\r\n<P>G: Generel betegnelse for en totråds-firtråds overgang (gaffel). </P>  \r\n\r\n<P>Centraltab </P>  \r\n\r\n<P>c2 : Generel betegnelse for centraltab i en centrals totråds kredsløb.  \r\n\r\n</P>  \r\n\r\n<P>c(4-A)2 : Centraltab i en centrals totråds kredsløb ved sammenstilling af  \r\n\r\n en firtråds ledning og en abonnentledning. </P>  \r\n\r\n<P>c(4-2C)2 : Centraltab i en centrals totråds kredsløb ved sammenstilling af  \r\n\r\n en flertråds ledning og en totråds centralledning. </P>  \r\n\r\n<P>c(4-2)4 : Centraltab i en centrals firtråds kredsløb ved sammenstilling af  \r\n\r\n en firtråds ledning og en totråds ledning. </P>  \r\n\r\n<P>c(4-4)4 : Centraltab i en centrals firtråds kredsløb ved sammenstilling af  \r\n\r\n to firtråds ledninger. </P>  \r\n\r\n<P>Dæmpninger </P>  \r\n\r\n<P>g: Den fysiske gaffeldæmpning (dB) i en totråds-firtråds overgang. </P>  \r\n\r\n<P>X: Dæmpningen (dB) i et dæmpningsled i ankommende firtråds  \r\n\r\n transmissionsretning i en centrals firtråds kredsløb. </P>  \r\n\r\n<P>Y: Dæmpningen (dB) i et dæmpningsled i afgående firtråds  \r\n\r\n transmissionsretning i en centrals firtråds kredsløb. </P>  \r\n\r\n<P>Z: Dæmpningen (dB) i et indskydeligt dæmpningsled i en analog centrals  \r\n\r\n firtråds kredsløb. </P>  \r\n\r\n<P>Zp : Dæmpningen (dB) i et dæmpningsled i ankommende analog firtråds  \r\n\r\n transmissionsretning i en digital centrals firtråds kredsløb. </P>  \r\n\r\n<P>Zq : Dæmpningen (dB) i et dæmpningsled i afgående analog firtråds  \r\n\r\n transmissionsretning i en digital centrals firtråds kredsløb. </P>  \r\n\r\n<P>Relative niveauer </P>  \r\n\r\n<P>p2 : Relativt niveau (dBr) ved indgangen af en A/D overgang ved  \r\n\r\n transmission fra en totråds ledning i en digital central. </P>  \r\n\r\n<P>p4 : Relativt niveau (dBr) ved indgangen af en A/D overgang ved  \r\n\r\n transmission fra en analogt tilsluttet firtråds ledning i en digital central.  \r\n\r\n</P>  \r\n\r\n<P>q2 : Relativt niveau (dBr) ved udgangen af en D/A overgang ved  \r\n\r\n transmission mod en totråds ledning i en digital central. </P>  \r\n\r\n<P>q4 : Relativt niveau (dBr) ved udgangen af en D/A overgang ved  \r\n\r\n transmission mod en analogt tilsluttet firtråds ledning i en digital central.  \r\n\r\n</P>  \r\n\r\n<P><IMG SRC=\"/image.aspx?id=45335&img=CR3917_1.gif\" ALIGN=\"middle\" WIDTH=\"235\" HEIGHT=\"85 BORDER=\"no\" ALT=\"DUMMY.GIF billedet er ikke indlagt onMouseOver=\"self.status='DUMMY.GIF billedet er ikke indlagt'; return true\"\"> </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>(* 1) I konsekvens af ændret arbejdsdeling på </P>  \r\n\r\n<P>telekommunikationsområdet pr. 1.1.1991 ophæves cirkulæret som </P>  \r\n\r\n<P>statslig forskrift, idet ansvaret for disse bestemmelser, der </P>  \r\n\r\n<P>vedrører interne forhold i Tele Danmark A/S, er overgået til dette </P>  \r\n\r\n<P>selskab. </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Klima-, Energi- og Forsyningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19822606009"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM003917"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "16/03/2007"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Cirkulære (1 sp)"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "26060"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1982"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/09/1982"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "P&T, Teleinspekti"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Ingen"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

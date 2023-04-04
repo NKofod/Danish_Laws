@@ -1,0 +1,75 @@
+{
+    "id": 45325,
+    "title": "Cirkulære nr. 2. Tillæg. Betingelser og specifikationer for abonnentlinienettets signaleringsmæssige egenskaber og liniesignalering på abonnentledninger ",
+    "documentTypeId": "140",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "CIR nr 26000 af 01/01/1982",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Cirkulære nr. 2. Tillæg. Betingelser og  \r\n\r\n specifikationer for abonnentlinienettets signaleringsmæssige egenskaber og  \r\n\r\n liniesignalering på abonnentledninger </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Ved dette tillæg ændres teksten til nedenstående afsnit i cirkulære nr. 2  \r\n\r\n af oktober 1978: </P>  \r\n\r\n<P>Del V: </P>  \r\n\r\n<PRE>  \r\n\r\n Driftsspecifikation for ringesignaler fra offentlige automatiske  \r\n\r\n    centraler ................................................ Side 29  \r\n\r\n og  \r\n\r\n Del VI:  \r\n\r\n Driftsspecifikation for tonesignaler pkt. VI.4. Ringetone ... Side 30  \r\n\r\n</PRE>  \r\n\r\n<P> <B>Del V: DRIFTSSPECIFIKATION FOR RINGESIGNALER FRA OFFENTLIGE  \r\n\r\n AUTOMATISKE CENTRALER</B>  </P>  \r\n\r\n<P>Definition: </P>  \r\n\r\n<P>Ved ringesignaler fra offentlige automatiske centraler forstås  \r\n\r\n ringespændinger, der sendes fra den offentlige central mod telefonapparat  \r\n\r\n eller PBC. </P>  \r\n\r\n<P>Signalkode: </P>  \r\n\r\n<PRE>  \r\n\r\n Ringefrekvens:                                       25 Hz +/- 2,5 Hz  \r\n\r\n Ringespænding målt over ubelastet abonnentledning  \r\n\r\n    og med ringegeneratoren belastet fra tomgang til  \r\n\r\n    fuld last:                                         max. 120 V eff  \r\n\r\n Ringespænding målt over abonnentledning med  \r\n\r\n    længde 0 og afsluttet med 4000 ohm i serie  \r\n\r\n    med 20 myF og med ringegeneratoren belastet  \r\n\r\n    fra fuld tomgang til fuld last:                    min 80 V eff  \r\n\r\n Psofometrisk værdi af ringespænding målt over  \r\n\r\n    abonnentledning med længde 0 og afsluttet  \r\n\r\n    med 4000 ohm i serie med 20 myF og med  \r\n\r\n    ringegeneratoren belastet fra tomgang til  \r\n\r\n    fuld last:                                          max. 1 volt  \r\n\r\n</PRE>  \r\n\r\n<P>Målt over abonnentledning med længde 0 og afsluttet med 4000 ohm i serie  \r\n\r\n med 20 myF og med ringegeneratoren belastet fra tomgang til fuld last, må en  \r\n\r\n enkelt overtones amplitude ikke udgøre mere end 10% af grundtonens amplitude.  \r\n\r\n</P>  \r\n\r\n<P> <I>Følgende signalprogram bør tilstræbes:</I>  </P>  \r\n\r\n<PRE>  \r\n\r\n Straksringning:                          750 ms +/- 150 ms  \r\n\r\n 1. pause:                               7500 ms +/- 1500 ms  \r\n\r\n Periodisk ringning:                      750 ms +/-  150 ms  \r\n\r\n 2. og følgende pauser:                  7500 ms +/- 1500 ms  \r\n\r\n Ringning: 750 ms                   750 ms            750 ms  \r\n\r\n Pause:            7500 ms                 7500 ms  \r\n\r\n Tidligere anvendte programmer, fx:  \r\n\r\n                                                    + 150 ms  \r\n\r\n Straksringning:                             250 ms  \r\n\r\n                                                    -  50 ms  \r\n\r\n 1. pause:                                         0-9000 ms  \r\n\r\n Periodisk ringning:                      750 ms +/-  150 ms  \r\n\r\n 2. følgende pauser:                     7500 ms +/- 1500 ms  \r\n\r\n Ringning: 250 ms                 750 ms              750 ms  \r\n\r\n Pause:         0-9000 ms                7500 ms  \r\n\r\n kan fortsat anvendes.  \r\n\r\n</PRE>  \r\n\r\n<P> <B>Del VI: DRIFTSSPECIFIKATION FOR TONESIGNALER</B>  </P>  \r\n\r\n<P> <B>VI.4. Ringetone</B>  </P>  \r\n\r\n<P> <I>Definition:</I>  </P>  \r\n\r\n<P>Ringetone angiver, at der er sket indstilling til den kaldte abonnent, og  \r\n\r\n at der udsendes ringning. </P>  \r\n\r\n<P>bkSignalkode: </P>  \r\n\r\n<P>Som under afsnit VI.2. </P>  \r\n\r\n<P> <I>Signalprogram:</I>  </P>  \r\n\r\n<P>Straksringetonen, der normalt afsendes fra afgangscentralens register,  \r\n\r\n skal udsendes snarest muligt efter, at der er sket indstilling til den kaldte  \r\n\r\n abonnent. </P>  \r\n\r\n<P> <I>Følgende signalprogram bør tilstræbes:</I>  </P>  \r\n\r\n<PRE>  \r\n\r\n Straksringetone:                         1000 ms +/- 100 ms  \r\n\r\n 1. pause:                                4000 ms +/- 400 ms  \r\n\r\n Periodisk ringning:                      1000 ms +/- 100 ms  \r\n\r\n 2. og følgende pauser:                   4000 ms +/- 400 ms  \r\n\r\n Tone: 1000 ms              1000 ms                  1000 ms  \r\n\r\n Pause:            4000 ms             4000 ms  \r\n\r\n  Følgende signalprogram kan fortsat anvendes:  \r\n\r\n Straksringetone:                             150 -  5000 ms  \r\n\r\n 1. pause:                                       0 - 4400 ms  \r\n\r\n Periodisk ringetone:                     1000 ms +/- 100 ms  \r\n\r\n 2. og følgende pauser:                   4000 ms +/- 400 ms  \r\n\r\n Tone: 150 - 500 ms         1000 ms                  1000 ms  \r\n\r\n Pause:            0-4400 ms            4000 ms  \r\n\r\n</PRE>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>(* 1) I konsekvens af ændret arbejdsdeling på </P>  \r\n\r\n<P>telekommunikationsområdet pr. 1.1.1991 ophæves cirkulæret som </P>  \r\n\r\n<P>statslig forskrift, idet ansvaret for disse bestemmelser, der </P>  \r\n\r\n<P>vedrører interne forhold i Tele Danmark A/S, er overgået til dette </P>  \r\n\r\n<P>selskab. </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Klima-, Energi- og Forsyningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19822600009"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM003907"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "16/03/2007"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Cirkulære (1 sp)"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "26000"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1982"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/01/1982"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "P&T, Teleinspekti"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Ingen"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

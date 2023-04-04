@@ -1,0 +1,75 @@
+{
+    "id": 75224,
+    "title": "Læreplan for faget MATEMATIK i edb-assistentuddannelsen ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22206 af 01/09/1987",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Læreplan for faget MATEMATIK i  \r\n\r\n edb-assistentuddannelsen </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> FORMÅL </P>  \r\n\r\n<P>Formålet med undervisningen er at give eleverne en indføring i matematisk  \r\n\r\n tankegang og metode. Der lægges vægt på, at de matematiske kundskaber skal  \r\n\r\n kunne anvendes i de edb-faglige discipliner. </P>  \r\n\r\n<P> MÅL </P>  \r\n\r\n<P>Målet med undervisningen er, at eleverne kan anvende væsentlige  \r\n\r\n matematiske begreber og metoder, der har særlig betydning for andre fag i  \r\n\r\n uddannelsen. Det er hensigten - gennem disse retningsfaglige anvendelser af  \r\n\r\n matematik - at give eleven forståelse af matematikkens betydning for  \r\n\r\n konstruktion af såvel edb-maskinel som edb-programmel. </P>  \r\n\r\n<P>Det er endvidere målet at styrke elevens fantasi og kreativitet samt evne  \r\n\r\n til at abstrahere. </P>  \r\n\r\n<P>Endelig tilsigtes det, at eleven får forståelse af ræsonnementets særlige  \r\n\r\n stilling i matematik (at matematiske tankegang er en følge af logiske  \r\n\r\n følgeslutninger) og i betydningen af at kunne dokumentere en sådan tankegang.  \r\n\r\n</P>  \r\n\r\n<P> 1. TALTEORI </P>  \r\n\r\n<P>Med henblik på at give eleverne indsigt i datamatens virkemåde skal  \r\n\r\n eleverne have kendskab til talteori af betydning for repræsentation og  \r\n\r\n behandling af data. </P>  \r\n\r\n<P>Eleverne skal have kendskab til de grundlæggende talmængder (N, Z, Q og R)  \r\n\r\n og til regneregler for reelle tal (herunder sædvanlig aritmetisk notation,  \r\n\r\n eksponentiel notation samt operatorprioriteter). </P>  \r\n\r\n<P>Endvidere skal eleverne have kendskab til det binære, oktale og  \r\n\r\n hexadecimale talsystem samt konvertering imellem disse indbyrdes og til og  \r\n\r\n fra det decimale talsystem. Desuden skal eleverne kunne foretage simple  \r\n\r\n aritmetiske operationer indenfor disse talsystemer, herunder kunne regne med  \r\n\r\n komplementer. </P>  \r\n\r\n<P>Endelig skal eleverne have kendskab til regning med tilnærmede værdier og  \r\n\r\n kunne foretage simple fejlanalyser (absolut og relativ fejl). </P>  \r\n\r\n<P> 2. FUNKTIONER </P>  \r\n\r\n<P>Det er hensigten at give eleverne en forståelse af funktioner og grafisk  \r\n\r\n fremstilling som et middel til at beskrive en sammenhæng mellem variable  \r\n\r\n størrelser samt til løsning af simple åbne udsagn, hvori funktionsudtryk  \r\n\r\n indgår. Indfaldsvinklen til undervisningen er funktionernes anvendelse i  \r\n\r\n edb-programmer og i vurdering af edb-programmer. </P>  \r\n\r\n<P>Eleverne skal have kendskab til regneforskrift for og grafisk fremstilling  \r\n\r\n af lineære funktioner, potensfunktioner, eksponentialfunktioner,  \r\n\r\n logaritmefunktioner, trigonometriske funktioner og de særlige funktioner med  \r\n\r\n relation til datamater (absolut værdi, heltalsværdi og fortegn) samt enkle  \r\n\r\n kompositioner af disse funktioner. Der forventes ikke nogen systematisk og  \r\n\r\n dybtgående behandling af alle disse funktionstyper. </P>  \r\n\r\n<P>Eleverne skal kunne løse ukomplicerede ligninger og uligheder, hvori disse  \r\n\r\n funktionsudtryk indgår, herunder kunne anvende de nødvendige regneregler.  \r\n\r\n</P>  \r\n\r\n<P>I forbindelse med funktioner og løsning af ligninger og uligheder  \r\n\r\n gennemgås mængdelære og logik i nødvendigt omfang. </P>  \r\n\r\n<P>Eleverne skal kunne anvende eksponentialfunktioner i forbindelse med  \r\n\r\n sammensat rentesregning. </P>  \r\n\r\n<P> 3. STATISTIK </P>  \r\n\r\n<P>Det er hensigten, at eleverne kan anvende grundlæggende metoder til  \r\n\r\n beskrivelse af en empirisk fordeling (en stikprøve). I forbindelse hermed  \r\n\r\n skal eleverne have kendskab til grupperede/ikke-grupperede fordelinger,  \r\n\r\n grafiske beskrivelser i form af pindediagram/søjlediagram og  \r\n\r\n trappediagram/sumkurve samt deskriptorerne middeltal, varians, spredning og  \r\n\r\n fraktiler. </P>  \r\n\r\n<P>Endvidere skal eleverne have kendskab til normalfordelingen, grafiske  \r\n\r\n fremstillinger af tæthedsfunktion og sumfunktion (på sandsynlighedspapir)  \r\n\r\n samt sandsynlighedsbegrebet i relation til en normalfordeling. </P>  \r\n\r\n<P>I forbindelse med stikprøver skal eleverne have kendskab til  \r\n\r\n normalfordelingsapproximation samt skøn af middelværdi og spredning (de  \r\n\r\n ukendte parametre i en model). </P>  \r\n\r\n<P> 4. ALGORITMER </P>  \r\n\r\n<P>Det overordnede mål med undervisningen i algoritmer er at give eleverne  \r\n\r\n forståelse af betydningen af at kunne dokumentere en metode til løsning af et  \r\n\r\n veldefineret problem, idet algoritmer skal ses som bindeleddet mellem problem  \r\n\r\n og løsning. </P>  \r\n\r\n<P>Målet med undervisningen er, at eleverne kan foretage strukturerede  \r\n\r\n algoritmebeskrivelser ved brug af de tre grundlæggende strukturer: lineær  \r\n\r\n struktur (sekvens), forgrening (selektion) og gentagelse (iteration).  \r\n\r\n Algoritmebeskrivelserne skal kunne udformes ved hjælp af pseudokoder, og i  \r\n\r\n vurderingen af algoritmerne lægges der vægt på, at beskrivelsen er logisk  \r\n\r\n korrekt, velstruktureret og rimelig detaljeret. </P>  \r\n\r\n<P>Algoritmerne bør anvendes i forbindelse med læreplanens øvrige emner,  \r\n\r\n bl.a. konverteringsalgoritmer i forbindelse med talsystemer, numerisk analyse  \r\n\r\n (bestemmelse af irrationale tal, nulpunktsbestemmelse og arealbestemmelse)  \r\n\r\n samt algoritmer til udskrivning af opsparingsplaner og amortisationsplaner i  \r\n\r\n tilknytning til rentesregning. Desuden bør der arbejdes med forskellige  \r\n\r\n sorterings- og søgningsalgoritmer samt vurderinger af effektiviteten af  \r\n\r\n alternative algoritmer. </P>  \r\n\r\n<P> 5. VALGFRIE EMNER </P>  \r\n\r\n<P>Der anvendes et antal timer til en uddybning af et af de øvrige emner i  \r\n\r\n læreplanen (talteori, funktioner, statistik eller algoritmer) eller til et  \r\n\r\n emne, som grænser op til et af disse emner. Som eksempel på tilgrænsende  \r\n\r\n emner kan nævnes annuitetsregning, lineær programmering og  \r\n\r\n simplex-algoritmen, infinitesimalregning og kombinatorik. </P>  \r\n\r\n<P>Læreplanen har virkning fra den 1. januar 1988. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Børne- og Undervisningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19872220641"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034429"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "08/09/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22206"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1987"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/09/1987"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Direktoratet for Erhvervsuddannelserne"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1987-52.21410-1 II"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

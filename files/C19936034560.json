@@ -1,0 +1,77 @@
+{
+    "id": 66688,
+    "title": "Vejledning om standardiseret rapportformat i forbindelse med piratoverfald (* 1) ",
+    "documentTypeId": "180",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "VEJ nr 60345 af 02/04/1993",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Vejledning om standardiseret rapportformat i  \r\n\r\n forbindelse med piratoverfald (* 1) </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>IMO's radiounderkomitee har på sit 38. møde i januar 1993 udarbejdet  \r\n\r\n standardiserede formater for rapportering af piratoverfald. </P>  \r\n\r\n<P>Der er dels tale om formatet for en indledende meddelelse (Annex 1), dels  \r\n\r\n om formatet for en mere detaljeret rapport (Annex 2). Begge annexer er bilagt  \r\n\r\n denne vejledning. </P>  \r\n\r\n<P>Opmærksomheden skal henledes på, at INMARSAT er ved at undersøge  \r\n\r\n muligheden af at indlægge meddelelser om piratoverfald som standard i menuen  \r\n\r\n på INMARSAT-C terminaler for i fremtiden at gøre det hurtigere og nemmere at  \r\n\r\n sende sådanne meddelelser. Indtil resultatet af INMARSAT's arbejde  \r\n\r\n foreligger, skal det anbefales, at man anvender de standardiserede formater,  \r\n\r\n uanset hvilken form for radiokommunikationsudstyr, der bruges ved  \r\n\r\n rapporteringer i forbindelse med piratoverfald eller mistænkelige forhold i  \r\n\r\n denne forbindelse. </P>  \r\n\r\n<P>(Reference: IMO COM/Circ. 111) </P>  \r\n\r\n<P> <B>Annex 1</B>  </P>  \r\n\r\n<P> <B>INITIAL MESSAGE - PIRACY ATTACK ALERT</B>  </P>  \r\n\r\n<P>1 Vessel's name and call sign/INMARSAT ID (plus ocean region code) MAYDAY  \r\n\r\n PIRACY ATTACK </P>  \r\n\r\n<P>2 Vessel's position and time (UTC) </P>  \r\n\r\n<P>3 Nature of event </P>  \r\n\r\n<P>Notes </P>  \r\n\r\n<P>1 MAYDAY to be included only in cases when the piracy attack leads to the  \r\n\r\n vessel or persons being in grave or imminent danger and requests immediate  \r\n\r\n assistance. </P>  \r\n\r\n<P>2 Use of distress priority (3) in the INMARSAT system will not require  \r\n\r\n MAYDAY to be included. </P>  \r\n\r\n<P>Annex 2 </P>  \r\n\r\n<P> <B>PIRACY ATTACK/SIGHTING/SUSPICIOUS ACT REPORT</B>  </P>  \r\n\r\n<P>1 Vessel's name and call sign </P>  \r\n\r\n<P>2 Reference initial Piracy Alert </P>  \r\n\r\n<P>3 Position of incident </P>  \r\n\r\n<P>4 Date/time of incident (UTC) </P>  \r\n\r\n<P>5 Details of incident </P>  \r\n\r\n<PRE>  \r\n\r\n    e.g. method of attack  \r\n\r\n         description of suspect craft  \r\n\r\n         No. and brief description of pirates  \r\n\r\n         injuries to crew  \r\n\r\n         damage to ship  \r\n\r\n         brief details of stolen property/cargo  \r\n\r\n 6  Last observed movements of pirate/suspect vessel  \r\n\r\n         e.g. Date/time/course/position/speed  \r\n\r\n 7  Assistance required  \r\n\r\n 8  Preferred communications with reporting vessel  \r\n\r\n         e.g. Appropriate Coast Radio Station  \r\n\r\n              HF/MF/VHF  \r\n\r\n              INMARSAT ID (plus ocean region code)  \r\n\r\n</PRE>  \r\n\r\n<P>9 Date/time of report (UTC) </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [
+        "(* 1) Bkg. i Meddelelser fra Søfartsstyrelsen 4/1993"
+    ],
+    "alternativeMedia": [],
+    "ressort": "Erhvervsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "24/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19936034560"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM025840"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "24/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "27/10/2010"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Vejledning"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "60345"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1993"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "02/04/1993"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Søfartsstyrelsen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "8301.6966-1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

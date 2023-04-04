@@ -1,0 +1,123 @@
+{
+    "id": 201010,
+    "title": "Forslag til Lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v.",
+    "documentTypeId": "410",
+    "isSagsforlobPeriodValid": true,
+    "shortName": "2017/1 LSV 139",
+    "documentHtml": "<div class=\"bjelke\">Oversigt (indholdsfortegnelse)</div><table class=\"Indholdsfortegnelse\">\r\n   <tr>\r\n      <td class=\"IndholdsfortegnelseId\">\r\n         <a href=\"#idc7cce6cb-cf5d-489b-97fa-8592e7b2aa12\">Kapitel 1</a>\r\n      </td>\r\n      <td class=\"IndholdsfortegnelseTekst\">Anvendelsesområde og definitioner</td>\r\n   </tr>\r\n   <tr>\r\n      <td class=\"IndholdsfortegnelseId\">\r\n         <a href=\"#id1869df9e-584a-46f8-9396-e2345a2ab463\">Kapitel 2</a>\r\n      </td>\r\n      <td class=\"IndholdsfortegnelseTekst\">Sikkerhed i net- og informationssystemer</td>\r\n   </tr>\r\n   <tr>\r\n      <td class=\"IndholdsfortegnelseId\">\r\n         <a href=\"#id1b205759-d921-41f3-a4b6-70117cfd3fa2\">Kapitel 3</a>\r\n      </td>\r\n      <td class=\"IndholdsfortegnelseTekst\">Tilsyn, orientering, underretning og kommunikation</td>\r\n   </tr>\r\n   <tr>\r\n      <td class=\"IndholdsfortegnelseId\">\r\n         <a href=\"#id9773e608-9010-491e-8d64-e70e70db36a5\">Kapitel 4</a>\r\n      </td>\r\n      <td class=\"IndholdsfortegnelseTekst\">Straf</td>\r\n   </tr>\r\n   <tr>\r\n      <td class=\"IndholdsfortegnelseId\">\r\n         <a href=\"#id071d7ea3-9102-412e-9cf4-82b1a7bac032\">Kapitel 5</a>\r\n      </td>\r\n      <td class=\"IndholdsfortegnelseTekst\">Ikrafttræden m.v.</td>\r\n   </tr>\r\n</table><div class=\"bjelke\">Den fulde tekst</div><p class=\"DokumentHoved\">Vedtaget af Folketinget ved 3. behandling den 3. maj 2018</p>\r\n<p class=\"TitelPrefiks1\">Forslag</p>\r\n<p class=\"TitelPrefiks2\">til</p>\r\n<p class=\"Titel2\">Lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v.<a class=\"FodnoteHenvisning\" name=\"Henvisning_id5a029cea-2864-4f77-961e-937b71277a96\" href=\"#id5a029cea-2864-4f77-961e-937b71277a96\">1)</a></p>\r\n<p class=\"Kapitel\" id=\"idc7cce6cb-cf5d-489b-97fa-8592e7b2aa12\">\r\n   <span id=\"K1\">\r\n   </span>\r\n   <span id=\"Kap1\">Kapitel 1</span>\r\n</p>\r\n<p class=\"KapitelOverskrift2\">Anvendelsesområde og definitioner</p>\r\n<p class=\"Paragraf\" id=\"id502b46db-b1ef-40b9-b67b-a57fd26f3da9\">\r\n   <span id=\"P1\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par1\">§ 1.</span> Loven finder ikke anvendelse på operatører af væsentlige internetudvekslingspunkter, der er omfattet af lov om net- og informationssikkerhed.</p>\r\n<p class=\"Paragraf\" id=\"id6c545224-b977-4de4-b1cd-8c1f7f8de349\">\r\n   <span id=\"P2\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par2\">§ 2.</span> I denne lov forstås ved:</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id37286b6f-13a0-4167-b208-3f8fb304bc13\">1)</span> Internetudvekslingspunkt: En netfacilitet, der muliggør sammenkobling af mere end to uafhængige autonome systemer, hovedsagelig med henblik på at lette udvekslingen af internettrafik.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"ide8d530bd-6859-45b4-925b-41afc0373295\">2)</span> Net- og informationssystem:</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"idc65e8849-fd7d-4f20-a130-c1a29393a137\">a)</span> Et elektronisk kommunikationsnet i form af radiofrekvens- eller kabelbaseret teleinfrastruktur, der anvendes til formidling af tjenester,</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"id0edb5b5e-5c52-44aa-9c62-7bacf700be24\">b)</span> enhver anordning eller gruppe af indbyrdes forbundne eller beslægtede anordninger, hvoraf en eller flere ved hjælp af et program udfører automatisk behandling af digitale data, eller</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"id03db33db-da02-4d0c-9640-390bf77613c0\">c)</span> digitale data, som lagres, behandles, fremfindes eller overføres af elementer i litra a og b med henblik på deres drift, brug, beskyttelse og vedligeholdelse.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id2d2519d6-1d2f-4218-9523-739fd6be6981\">3)</span> Sikkerhed i net- og informationssystemer: Evnen for net- og informationssystemer til på et givet sikkerhedsniveau at modstå handlinger, der er til skade for tilgængeligheden, autenticiteten, integriteten eller fortroligheden i forbindelse med lagrede eller overførte eller behandlede data eller de dermed forbundne tjenester, der tilbydes af eller er tilgængelige via disse net- og informationssystemer.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"ide0c05d95-656a-438b-aa48-abbb38947758\">4)</span> Hændelse: Enhver begivenhed, der har en egentlig negativ indvirkning på sikkerheden i net- og informationssystemer.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id999abd72-2e84-4fdc-b3e1-4375fc6d3046\">5)</span> Operatør af væsentligt internetudvekslingspunkt: En enhed, der leverer tjenester i form af internetudvekslingspunkter, hvor</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"id37706a8a-1f24-4c8d-8f38-80f0c560c36e\">a)</span> tjenesten er væsentlig for opretholdelsen af kritiske samfundsmæssige eller økonomiske aktiviteter,</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"idedafcb43-64b0-482d-aed8-98f0fc2b5c9d\">b)</span> leveringen af denne tjeneste afhænger af net- og informationssystemer og</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"id0b12ff88-e3b4-46fc-b224-43eb4cd01ff2\">c)</span> en hændelse ville få væsentlige forstyrrende virkninger for leveringen af den nævnte tjeneste.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"iddb61de94-5dbc-41ef-86de-b9d3c9537cd6\">6)</span> Digital tjeneste: Enhver tjeneste, der normalt ydes mod betaling, og som teleformidles ad elektronisk vej på individuel anmodning fra en tjenestemodtager og er af typen onlinemarkedsplads, onlinesøgemaskine eller cloud computing-tjeneste.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id344097da-fc1b-4e29-96c1-7eea6193fda0\">7)</span> Udbyder af digital tjeneste: Enhver juridisk person, som udbyder en digital tjeneste, og som har hovedsæde eller en repræsentant i Danmark.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"idb9ffa9f3-299b-466a-85a2-49983b7c0206\">8)</span> Nationalt centralt kontaktpunkt: En national kompetent enhed med ansvar for at koordinere spørgsmål vedrørende sikkerheden i net- og informationssystemer samt grænseoverskridende samarbejde i EU herom.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id4549680d-2bf1-4adf-bb99-a310145ca73a\">9)</span> CSIRT: En national it-beredskabsenhed, der håndterer hændelser, og som har ansvar for at sikre samarbejdet om sikkerheden i net- og informationssystemer i EU.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id152297a6-6bed-4146-b7d5-69193da3d6e6\">10)</span> CSIRT-netværket: Et netværk bestående af repræsentanter fra EU-medlemsstaternes CSIRT’er, som har ansvar for at sikre samarbejdet om sikkerheden i net- og informationssystemer i EU.</p>\r\n<p class=\"Kapitel\" id=\"id1869df9e-584a-46f8-9396-e2345a2ab463\">\r\n   <span id=\"K2\">\r\n   </span>\r\n   <span id=\"Kap2\">Kapitel 2</span>\r\n</p>\r\n<p class=\"KapitelOverskrift2\">Sikkerhed i net- og informationssystemer</p>\r\n<p class=\"Paragraf\" id=\"id6f973c17-c542-4bea-baac-af85bfbc9d8d\">\r\n   <span id=\"P3\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par3\">§ 3.</span> Center for Cybersikkerhed fastsætter regler om minimumskrav til sikkerheden i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter. Reglerne kan omfatte krav om passende og forholdsmæssige tekniske og organisatoriske foranstaltninger for at styre risiciene for sikkerheden i net- og informationssystemer, som operatører af væsentlige internetudvekslingspunkter anvender til deres aktiviteter. Reglerne kan endvidere omfatte krav om passende foranstaltninger for at forebygge og minimere konsekvensen af hændelser, der berører sikkerheden i net- og informationssystemer, som operatører af væsentlige internetudvekslingspunkter anvender til levering af væsentlige tjenester, med henblik på at sikre kontinuiteten i disse tjenester. Der kan fastsættes krav om, at sådanne foranstaltninger gennemføres på baggrund af dokumenterede og ledelsesforankrede processer.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id77bfb924-0824-4459-a362-3c2e6f2461f8\">Stk. 2.</span> Center for Cybersikkerhed kan påbyde operatører af væsentlige internetudvekslingspunkter at inddrage nærmere angivne områder af deres virksomhed og nærmere angivne trusler mod sikkerheden i net- og informationssystemer i deres processer efter stk. 1.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"ida72c38d5-71ab-4f01-8636-50b7c006539a\">Stk. 3.</span> Center for Cybersikkerhed kan påbyde operatører af væsentlige internetudvekslingspunkter at afhjælpe nærmere påviste mangler i relation til sikkerheden i deres net- og informationssystemer.</p>\r\n<p class=\"Paragraf\" id=\"id7d83ecc1-ecb9-441c-9c12-4ee20cbb93b9\">\r\n   <span id=\"P4\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par4\">§ 4.</span> Center for Cybersikkerhed fastsætter regler om, at operatører af væsentlige internetudvekslingspunkter hurtigst muligt skal underrette Center for Cybersikkerhed om hændelser, der har væsentlige konsekvenser for kontinuiteten af de væsentlige tjenester, som operatørerne leverer. Center for Cybersikkerhed kan i den forbindelse fastsætte krav om, hvordan og i hvilken form oplysningerne skal afgives.</p>\r\n<p class=\"Kapitel\" id=\"id1b205759-d921-41f3-a4b6-70117cfd3fa2\">\r\n   <span id=\"K3\">\r\n   </span>\r\n   <span id=\"Kap3\">Kapitel 3</span>\r\n</p>\r\n<p class=\"KapitelOverskrift2\">Tilsyn, orientering, underretning og kommunikation</p>\r\n<p class=\"Paragraf\" id=\"id264a902c-a02b-4698-bb30-452bb96d1f39\">\r\n   <span id=\"P5\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par5\">§ 5.</span> Center for Cybersikkerhed fører tilsyn med overholdelsen af denne lov og regler, der er udstedt i medfør af loven.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"ide1e430f4-da92-4805-9a69-c603dad92860\">Stk. 2.</span> Center for Cybersikkerhed kan som led i sit tilsyn kræve, at operatører af væsentlige internetudvekslingspunkter fremlægger oplysninger og materiale, der er nødvendigt for centerets tilsynsvirksomhed, herunder til afgørelse af, om et forhold er omfattet af denne lov eller regler, der er udstedt i medfør af loven.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id5d0b881b-6aaa-45e2-9ecf-abbff4da6cbf\">Stk. 3.</span> Center for Cybersikkerhed kan stille krav om, hvordan og i hvilken form oplysninger og materiale efter stk. 2 skal afgives.</p>\r\n<p class=\"Paragraf\" id=\"id502f4816-1c7c-4139-aa5e-048da66805a8\">\r\n   <span id=\"P6\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par6\">§ 6.</span> Center for Cybersikkerhed kan orientere offentligheden om en hændelse, som centeret har modtaget underretning om efter § 4, hvis offentlighedens kendskab til hændelsen er nødvendigt for at forebygge en hændelse eller håndtere en igangværende hændelse. Forud for orientering af offentligheden hører Center for Cybersikkerhed den operatør af et væsentligt internetudvekslingspunkt, der har underrettet om hændelsen.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id966c5259-6696-445f-908f-71be811ae8cf\">Stk. 2.</span> Center for Cybersikkerhed kan i koordination med de relevante tilsynsmyndigheder i andre sektorer og efter forudgående høring af de operatører af væsentlige tjenester, der har underrettet om en hændelse, orientere offentligheden om hændelser, der berører flere samfundsvigtige sektorer, hvis offentlighedens kendskab hertil er nødvendigt for at forebygge en hændelse eller håndtere en igangværende hændelse.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id93cdfdfe-d00d-499f-8b9b-668622b0e151\">Stk. 3.</span> Center for Cybersikkerhed kan i koordination med de relevante tilsynsmyndigheder i andre sektorer og efter forudgående høring af de udbydere af digitale tjenester, der har underrettet om en hændelse, orientere offentligheden om hændelser, der berører flere samfundsvigtige sektorer, hvis offentlighedens kendskab hertil er nødvendigt for at forebygge en hændelse eller håndtere en igangværende hændelse, eller hvis offentliggørelse af hændelsen i øvrigt er i offentlighedens interesse.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id24796656-54d9-451b-983e-9fcffb6c49ea\">Stk. 4.</span> Center for Cybersikkerheds orientering af offentligheden efter stk. 1-3 må ikke indeholde</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id91aa28be-b70c-46fe-aa4b-3db12e2656b3\">1)</span> oplysninger om tekniske indretninger eller fremgangsmåder eller om drifts- eller forretningsforhold el.lign., for så vidt det er af væsentlig betydning for den operatør af væsentlige tjenester eller udbyder af digitale tjenester, som oplysningerne angår,</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"ide9495cf9-7075-46e8-9900-9ee358de820a\">2)</span> oplysninger, der er af væsentlig betydning for statens sikkerhed eller rigets forsvar,</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id717409ee-5b0b-401d-9f1c-2860a2a1599d\">3)</span> klassificerede informationer eller</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id5112d372-a334-4cea-a9c1-ed0f6930c742\">4)</span> oplysninger om enkeltpersoners forhold.</p>\r\n<p class=\"Paragraf\" id=\"ida8cfc784-0827-4579-b442-f5921f0ea871\">\r\n   <span id=\"P7\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par7\">§ 7.</span> Center for Cybersikkerhed kan i forbindelse med modtagelse af underretninger om hændelser af grænseoverskridende karakter fra tilsynsmyndigheder i andre sektorer, operatører af tjenester og udbydere af digitale tjenester videregive oplysninger om disse hændelser til nationale tilsynsmyndigheder, CSIRT’er og nationale centrale kontaktpunkter i andre EU-medlemsstater samt CSIRT-netværket.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id9abacb8c-ccc7-4eea-ab96-122ac21f45f3\">Stk. 2.</span> Center for Cybersikkerhed orienterer de operatører af tjenester samt udbydere af digitale tjenester, som underretningerne hidrører fra, om videregivelse efter stk. 1.</p>\r\n<p class=\"Paragraf\" id=\"idc73bd601-cafd-4f18-9547-6dd5b24bd4f6\">\r\n   <span id=\"P8\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par8\">§ 8.</span> Center for Cybersikkerhed kan fastsætte regler om, at skriftlig kommunikation til og fra centeret om nærmere bestemte forhold, som er omfattet af denne lov eller af regler udstedt i medfør af loven, skal foregå digitalt.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id6ea1083a-2331-4d49-a189-0cba7c5264c9\">Stk. 2.</span> Center for Cybersikkerhed kan fastsætte regler om digital kommunikation, herunder om anvendelsen af bestemte it-systemer og særlige digitale formater samt digital signatur el.lign.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"idb6bb81e2-9404-4636-b58c-a3d102c9644e\">Stk. 3.</span> En digital meddelelse anses for at være kommet frem, når den er tilgængelig for adressaten for meddelelsen.</p>\r\n<p class=\"Kapitel\" id=\"id9773e608-9010-491e-8d64-e70e70db36a5\">\r\n   <span id=\"K4\">\r\n   </span>\r\n   <span id=\"Kap4\">Kapitel 4</span>\r\n</p>\r\n<p class=\"KapitelOverskrift2\">Straf</p>\r\n<p class=\"Paragraf\" id=\"id53a3f1f6-3637-4264-87e8-88642c509afd\">\r\n   <span id=\"P9\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par9\">§ 9.</span> Medmindre højere straf er forskyldt efter den øvrige lovgivning, straffes med bøde den, der</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id146b59b7-ad07-4e44-9c75-b8ff7cb92353\">1)</span> undlader at efterkomme Center for Cybersikkerheds påbud efter § 3, stk. 2 og 3, eller</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id7509459b-217b-4b1c-9742-ec80cdff001e\">2)</span> undlader at efterkomme Center for Cybersikkerheds krav efter § 5, stk. 2.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"idd805781e-52e8-4521-9f05-1575fcfb9505\">Stk. 2.</span> I regler, der udstedes i medfør af § 3, stk. 1, og § 4, kan der fastsættes straf af bøde.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"idf8a078d3-2f5e-4802-9078-e60f1916af24\">Stk. 3.</span> Der kan pålægges selskaber m.v. (juridiske personer) strafansvar efter reglerne i straffelovens 5. kapitel.</p>\r\n<p class=\"Kapitel\" id=\"id071d7ea3-9102-412e-9cf4-82b1a7bac032\">\r\n   <span id=\"K5\">\r\n   </span>\r\n   <span id=\"Kap5\">Kapitel 5</span>\r\n</p>\r\n<p class=\"KapitelOverskrift2\">Ikrafttræden m.v.</p>\r\n<p class=\"Paragraf\" id=\"ide6e71f7c-5fcf-47fb-bc5d-e51ad4f8d825\">\r\n   <span id=\"P10\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par10\">§ 10.</span> Loven træder i kraft den 10. maj 2018.</p>\r\n<p class=\"Paragraf\" id=\"id11ceb26e-e500-4906-a387-3d915ca0ee34\">\r\n   <span id=\"P11\">\r\n   </span>\r\n   <span class=\"ParagrafNr\" id=\"Par11\">§ 11.</span> Loven gælder ikke for Færøerne og Grønland.</p><div class=\"Givet\" id=\"Givet\"><p class=\"Givet\" align=\"center\">Folketinget, den 3. maj 2018</p><p class=\"Sign1\" align=\"center\">Pia Kjærsgaard</p><p class=\"Sign2\" align=\"right\">/ Erling Bonnesen</p></div><div class=\"bjelke\">Officielle noter</div><p class=\"Fodnote\">\r\n   <a class=\"FodnoteNr\" name=\"id5a029cea-2864-4f77-961e-937b71277a96\" href=\"#Henvisning_id5a029cea-2864-4f77-961e-937b71277a96\">1)</a> Loven indeholder bestemmelser, der gennemfører dele af Europa-Parlamentets og Rådets direktiv 2016/1148/EU af 6. juli 2016 om foranstaltninger, der skal sikre et højt fælles sikkerhedsniveau for net- og informationssystemer i hele Unionen, EU-Tidende 2016, nr. L 194, side 1.</p>",
+    "isHistorical": false,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Folketinget",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 50,
+    "caseHistoryReferenceGroup": [
+        {
+            "heading": "Sagsforløb 2017/1 LF 139",
+            "stateLabel": "Vedtaget",
+            "references": [
+                {
+                    "shortName": "2017/1 SF.L L 139",
+                    "title": "Skriftlig fremsættelse (7. februar 2018) - L 139",
+                    "presentationName": "Skriftlig fremsættelse af lovforslag",
+                    "documentTypeId": 380,
+                    "documentId": 197173,
+                    "eliUri": "/eli/ft/20171XX00558",
+                    "externalLink": ""
+                },
+                {
+                    "shortName": "2017/1 LSF 139",
+                    "title": "Forslag til Lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v.",
+                    "presentationName": "Lovforslag som fremsat",
+                    "documentTypeId": 400,
+                    "documentId": 197172,
+                    "eliUri": "/eli/ft/201712L00139",
+                    "externalLink": ""
+                },
+                {
+                    "shortName": "Udvalgsarbejde",
+                    "title": "Udvalgsarbejde",
+                    "presentationName": "Udvalgsarbejde",
+                    "documentTypeId": -10,
+                    "eliUri": "",
+                    "externalLink": "http://www.ft.dk/samling/20171/lovforslag/l139/index.htm"
+                },
+                {
+                    "shortName": "2017/1 BTL 139",
+                    "title": "Betænkning over Forslag til lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v.",
+                    "presentationName": "Betænkning  over lovforslag",
+                    "documentTypeId": 420,
+                    "documentId": 200874,
+                    "eliUri": "/eli/ft/201714L00844",
+                    "externalLink": ""
+                },
+                {
+                    "shortName": "2017/1 LSV 139",
+                    "title": "Forslag til Lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v.",
+                    "presentationName": "Lovforslag som vedtaget",
+                    "documentTypeId": 410,
+                    "documentId": 201010,
+                    "eliUri": "/eli/ft/201713L00139",
+                    "externalLink": ""
+                },
+                {
+                    "shortName": "LOV nr 437 af 08/05/2018",
+                    "title": "Lov om sikkerhed i net- og informationssystemer for operatører af væsentlige internetudvekslingspunkter m.v.",
+                    "presentationName": "Lov",
+                    "documentTypeId": 10,
+                    "documentId": 201052,
+                    "eliUri": "/eli/lta/2018/437",
+                    "externalLink": ""
+                }
+            ]
+        }
+    ],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "04/05/2018"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "201713L00139"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "AX021418"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "04/05/2018"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "04/05/2018"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Lovforslag som vedtaget"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "A "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "139"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "2017"
+        },
+        {
+            "displayName": "Folketingssamling",
+            "displayValue": "1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": true
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

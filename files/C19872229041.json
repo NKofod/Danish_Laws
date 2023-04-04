@@ -1,0 +1,75 @@
+{
+    "id": 75256,
+    "title": "Studieplan for kurset 2.12. Praktiske programudviklingsmiljøer ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22290 af 10/12/1987",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 2.12. Praktiske  \r\n\r\n programudviklingsmiljøer ved Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra den 1. januar 1988. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Søren Lauridsen </P>  \r\n\r\n<P>Studielektor </P>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> FORMÅL </P>  \r\n\r\n<P>Modulet skal give den studerende en forståelse for principperne bag  \r\n\r\n interaktive og integrerede praktiske programudviklingsmiljøer. Den studerende  \r\n\r\n skal endvidere sættes i stand til at vurdere kvaliteten af  \r\n\r\n programudviklingsmiljøer. </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> MÅL </P>  \r\n\r\n<P>* De studerende skal have en forståelse for de grundlæggende begreber og  \r\n\r\n metoder inden for system- og programudvikling </P>  \r\n\r\n<P>* De studerende skal være bekendt med programudviklingsmiljøers  \r\n\r\n grundlæggende bestanddele </P>  \r\n\r\n<P>* De studrende skal have kendskab til et eller flere integrerede praktiske  \r\n\r\n programudviklingsmiljøer </P>  \r\n\r\n<P>* De studerende skal kunne vurdere kvaliteten af givne  \r\n\r\n programudviklingsmiljøer </P>  \r\n\r\n<P>* De studerende skal have kendskab til de grundlæggende principper for  \r\n\r\n opbygningen af de enkelte elementer i et programudviklingsmiljø </P>  \r\n\r\n<P>* De studerende skal have kendskab til principperne for moderne  \r\n\r\n brugergrænseflader </P>  \r\n\r\n<P>* De studerende skal kunne gøre rede for udviklingstendenser inden for  \r\n\r\n dette område, og skal sættes i stand til selv at tilegne sig yderligere viden  \r\n\r\n</P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> INDHOLD </P>  \r\n\r\n<P>* System- og programudvikling </P>  \r\n\r\n<P>De studerende skal bibringes en grundlæggende forståelse for begreber og  \r\n\r\n metoder indenfor system- og programudvikling. De skal have kendskab til  \r\n\r\n aktiviteterne i forbindelse med systemudvikling: projektstyring,  \r\n\r\n kravspecifikationer, strukturdesign, detaildesign. kodning, verifikation,  \r\n\r\n validering, afprøvning, kvalitetssikring og konfigurationsstyring. </P>  \r\n\r\n<P>* Udviklingsmiljøer </P>  \r\n\r\n<P>De studerende skal gøres bekendt med programudviklingsmiljøers  \r\n\r\n grundlæggende bestanddele. Den tidlige fase i systemudviklingen er præget af  \r\n\r\n værktøjer til støtte af specifikations-, design- og dokumentationsarbejdet. I  \r\n\r\n den følgende fase ligger programmeringsværktøjer og i den sidste fase ligger  \r\n\r\n afprøvnings- og vedligeholdelsesværktøjer. Hovedvægten lægges på  \r\n\r\n programmeringsværktøjerne. </P>  \r\n\r\n<P>De studerende skal endvidere gøres bekendt med de væsentligste  \r\n\r\n integrations modeller: den værktøjsorienterede hvor grænsefladerne mellem de  \r\n\r\n enkelte værktøjer er bevaret, og den sprogbaserede hvor hele miljøet fremstår  \r\n\r\n som et enkeltstående værktøj baseret på et bestemt sprog. </P>  \r\n\r\n<P>* Konkrete programudviklingsmiljøer </P>  \r\n\r\n<P>De studerende skal bibringes kendskab til et eller flere integrerede  \r\n\r\n praktiske programudviklingsmiljøer. Der kan for eksempel være tale om de  \r\n\r\n sprogbaserede Pascal systemer: Turbo Pascal og Alice. Af de  \r\n\r\n værktøjsorienterede miljøer kan UNIX nævnes. </P>  \r\n\r\n<P>* Kvalitetsvurdering </P>  \r\n\r\n<P>De studerende skal lære at vurdere kvaliteten af givne  \r\n\r\n programudviklingsmiljøer. Herunder behandles problemer i forhold til en  \r\n\r\n organisation ved indførelse af et nyt miljø. </P>  \r\n\r\n<P>* Opbygning </P>  \r\n\r\n<P>De studerende skal gøres bekendt med principperne for opbygningen af  \r\n\r\n enkelte værktøjer: f.eks. editor, oversætter, linker, fortolker og debugger.  \r\n\r\n De skal endvidere forstå den underliggende implementation bag integreringen  \r\n\r\n af de forskellige elementer: inkremental oversættelse og linkning, symbolsk  \r\n\r\n debugging og databasestrukturer. </P>  \r\n\r\n<P>* Brugergrænseflader </P>  \r\n\r\n<P>De studerende skal bibringes kendskab til principperne for  \r\n\r\n brugergrænseflader. De skal orienteres om elementerne til opbygningen af  \r\n\r\n moderne brugervenlige grænseflader: vinduer, pop-up menuer, mus og grafik.  \r\n\r\n</P>  \r\n\r\n<P>* Udviklingstendenser </P>  \r\n\r\n<P>De studerende skal lære at kunne gøre rede for udviklingstendenser  \r\n\r\n indenfor dette område, og skal sættes i stand til selv at tilegne sig  \r\n\r\n yderligere viden. De skal være bekendt med mulighederne for at udnytte  \r\n\r\n formelle specifikationer, program generatorer og større integrering mellem  \r\n\r\n udviklingsmiljøet og projektforløbet. </P>  \r\n\r\n<PRE>  \r\n\r\n 4. ADGANGSBETINGELSER  \r\n\r\n  enten * Drift                   eller    * Materiel og basisprogram-  \r\n\r\n                                            mel, større datamater  \r\n\r\n       * Problemorienterede sprog         * Systemarbejde  \r\n\r\n       * Projekt gennemførelse            * Projektarbejde  \r\n\r\n 5. ANBEFALEDE FORUDSÆTNINGER  \r\n\r\n * 2.1  Sproglære  \r\n\r\n * 2.2  Programkonstruktion  \r\n\r\n * 2.10 oversætterteknik  \r\n\r\n</PRE>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19872229041"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034461"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22290"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1987"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "10/12/1987"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1987-52.612-2"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

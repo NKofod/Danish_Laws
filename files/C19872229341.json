@@ -1,0 +1,75 @@
+{
+    "id": 75259,
+    "title": "Studieplan for kurset 2.6 Databasesystemer for Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22293 af 10/12/1987",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 2.6 Databasesystemer for  \r\n\r\n Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> <B>Modulets formål</B>  </P>  \r\n\r\n<P>Det er modulets formål at sætte deltagerne i stand til at kunne designe og  \r\n\r\n evaluere en begrebsmæssig database, der opfylder et sæt givne krav.  \r\n\r\n Deltagerne skal desuden kunne beskrive den begrebsmæssige database i en  \r\n\r\n almindelig udbredt datamodel, samt kunne overføre designet til et  \r\n\r\n databasesystem. </P>  \r\n\r\n<P>Modulet har desuden til formål at give de studerende kendskab til  \r\n\r\n væsentlige problemer vedrørende indførelse og drift af databasesystemer, samt  \r\n\r\n at give de studerende kendskab til løsninger på disse problemer. </P>  \r\n\r\n<P> <B>Adgangsbetingelser</B>  </P>  \r\n\r\n<PRE>  \r\n\r\n  Gl. edb-assistent-udd. :      Ny edb-assistent-udd. :  \r\n\r\n Probl.orient. sprog            Programmering af mindre systemer  \r\n\r\n Planlægning                    Beskrivelsesværktøjer  \r\n\r\n Matematik                      Matematik  \r\n\r\n</PRE>  \r\n\r\n<P> <B>Anbefalede forudsætninger</B>  </P>  \r\n\r\n<P>2.2. Programkonstruktion </P>  \r\n\r\n<P>3.3 Systemkonstruktion </P>  \r\n\r\n<P> <B>Hovedemner og undervisningsmål for disse</B>  </P>  \r\n\r\n<P> <B>Data-systemarkitektur</B>  </P>  \r\n\r\n<P>Den studerende skal opnå fortrolighed med de former for dataabstraktion,  \r\n\r\n som er relevante for databaseteorien. </P>  \r\n\r\n<P>Den studerende skal opnå et grundigt kendskab til principperne i en  \r\n\r\n hensigtsmæssig arkitektur for databasesystemer, såsom ANSI/SPARC  \r\n\r\n arkitekturen. </P>  \r\n\r\n<P> <B>Databasemodeller og databasesystemer</B>  </P>  \r\n\r\n<P>Den studerende skal kunne udforme et givet databasedesign i de  \r\n\r\n væsentligste datamodeller, såsom relationsmodellen, den hierarkiske datamodel  \r\n\r\n og netværkmodellen, samt kunne transformere et design mellem modellerne. </P>  \r\n\r\n<P>Den studerende skal kunne anvende et givet databasesystem til  \r\n\r\n implementering af et databasedesign. </P>  \r\n\r\n<P>Den studerende skal orienteres om den udvikling, der finder sted  \r\n\r\n vedrørende nye datamodeller og databasestrukturer, samt indenfor  \r\n\r\n databaseteorien generelt. </P>  \r\n\r\n<P> <B>Databasedesign</B>  </P>  \r\n\r\n<P>Den studerende skal kunne anvende en begrebsmæssig informationsmodel,  \r\n\r\n såsom E/R-modellen eller RM/T-modellen, ved design af en database. </P>  \r\n\r\n<P>Den studerende skal kunne normalisere en given database, samt kunne  \r\n\r\n evaluere et design på grundlag af normaliseringsteorien. </P>  \r\n\r\n<P> <B>Databasesprog</B>  </P>  \r\n\r\n<P>Den studerende skal kunne anvende relationel algebra og relationel kalkule  \r\n\r\n til udtræk af data fra en relationsdatabase, samt kunne anvende disse sprog  \r\n\r\n ved vurdering af andre databasesprog. </P>  \r\n\r\n<P>Den studerende skal kunne anvende et udbredt databasesprog, f.eks. SQL  \r\n\r\n eller QUEL, til manipulation af en relationsdatabase. </P>  \r\n\r\n<P>Den studerende skal opnå kendskab til principperne i de databasesprog, der  \r\n\r\n anvendes i hierarkiske databaser og i netværksdatabaser, specielt CODASYL  \r\n\r\n DBTG databaser. </P>  \r\n\r\n<P>Den studerende skal opnå kendskab til principperne i anvendelsen af  \r\n\r\n indlejrede sprog til manipulation med databaser. </P>  \r\n\r\n<P> <B>Indførelse og drift af databaser</B>  </P>  \r\n\r\n<P>Den studerende skal være orienteret om de væsentligste funktioner knyttet  \r\n\r\n til databaseadministration. </P>  \r\n\r\n<P>Den studerende skal opnå kendskab til de grundlæggende principper i,  \r\n\r\n problemer med og løsninger til samtidighedskontrol, kontrol med  \r\n\r\n datasikkerhed, sikring af dataintegritet og genetablering af databaser. </P>  \r\n\r\n<P>Den studerende skal være orienteret om de faciliteter, der findes på  \r\n\r\n typiske kommercielle databasesystemer. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19872229341"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034464"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22293"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1987"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "10/12/1987"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1987-52.612-2"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

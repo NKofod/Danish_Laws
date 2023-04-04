@@ -1,0 +1,71 @@
+{
+    "id": 55420,
+    "title": "BBR-MEDDELELSE 1985 NO.3 Indførelse af kode for bygningsreglement ",
+    "documentTypeId": "720",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "MED nr 4019 af 18/12/1985",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>BBR-MEDDELELSE 1985 NO.3 Indførelse af kode for  \r\n\r\n bygningsreglement </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> INDFØRELSE AF KODE FOR BYGNINGSREGLEMENT </P>  \r\n\r\n<P> 1. Baggrund </P>  \r\n\r\n<P>I forbindelse med en revision af boligministerietscirkulære af 31.3.1977  \r\n\r\n om ajourføring af BBR (som udsendes i slutningen af december) har det vist  \r\n\r\n sig nødvendigt for at kunne gennemføre indførelsen af Bygningereglement for  \r\n\r\n småhuse (BR-S), at der foretages en tilretning af BBR. </P>  \r\n\r\n<P>Dette bevirker, at der indføres et nyt datafelt i BBR-ændringsregistret,  \r\n\r\n som skal angive efter hvilket Bygningsreglement de enkelte byggesager skal  \r\n\r\n administreres. </P>  \r\n\r\n<P> 2. Nyt datafelt i BBR-ændringsregister (CS) </P>  \r\n\r\n<P>For at kunne kende forskel på, hvordan den enkelte byggesag skal  \r\n\r\n behandles, vil der blive oprettet et nyt krævet datafelt (BBR-felt 292) hvor  \r\n\r\n kommunen skal angive om byggesagen skal administreres efter bygningsreglement  \r\n\r\n 1982 (BR-82) eller bygningsreglement for småhuse (BR-S). </P>  \r\n\r\n<P>Der kan indberettes følgende kodeværdier i feltet: </P>  \r\n\r\n<P> felt 292 = Kode for bygningsreglement (byggesagskode) </P>  \r\n\r\n<P> <B>Kode 1 = BR-S - tilladelsessager</B>  </P>  \r\n\r\n<P> <B>Kode 2 = BR-S - anmeldelsessager</B>  </P>  \r\n\r\n<P> <B>Kode 3 = BR-82 - sager </B></P>  \r\n\r\n<P> 3. Behandling af verserende byggesager i BBR-ændringsregister </P>  \r\n\r\n<P>For at også verserende byggesager i BBR-ændringsregister (CS) kan få  \r\n\r\n angivet en byggesagskode, vil Kommunedata indsætte en beregnet kode  \r\n\r\n maskinelt, efter omstående kombination af sagstyper, anvendelseskoder og  \r\n\r\n areal. </P>  \r\n\r\n<PRE>  \r\n\r\n                    F292 =           F290 =       F203 =  \r\n\r\n                    Bygnings-        sagstype     anvendelse  \r\n\r\n                    reglementkode  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n BR-S-T             1                1 + 2        110 + 120 +130 +  \r\n\r\n                                                  510 samt 910 - 930  \r\n\r\n over 50 kvm. ialt  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n BR-S-A             2                3            110 + 120 + 130  \r\n\r\n                                     1 + 2        - 910 under 50 kvm.  \r\n\r\n                                                  ialt  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n BR-82              3                1 + 2 + 3    Erhverv (alle  \r\n\r\n koder) + 140 +  \r\n\r\n                                                  150 + 160 + 190  \r\n\r\n ---------------------------------------------------------------------  \r\n\r\n</PRE>  \r\n\r\n<P>Inden Kommunedata indsætter koden maskinelt, vil kommunerne af Kommunedata  \r\n\r\n få tilsendt en liste over alle verserende byggesager i BBR-ændringsregister,  \r\n\r\n med angivelse af den beregnede byggesagskode. Listerne skal bruges til en  \r\n\r\n &#187;oprydning&#171; af registret og vil blive udsendt i uge 50. </P>  \r\n\r\n<P>For en række byggesager kan byggesagskoden ikke dannes maskinelt og felt  \r\n\r\n 292 vil derfor være blankt på listen. </P>  \r\n\r\n<P> <B>For disse byggesager, må det af kommunen undersøges om byggesagen skal  \r\n\r\n have en kode eller ikke.</B>  </P>  \r\n\r\n<P>En række af byggesager med felt 292 = blankt, kan være sager, som ikke  \r\n\r\n længere kræver byggesagsbehandling. </P>  \r\n\r\n<P>Disse sager skal overføres til BBR-stamregister (CR). Selv om byggesagerne  \r\n\r\n ikke længere kræver en ibrugtagningstilladelse, skal der indberettes en af  \r\n\r\n følgende datoer, som bevirker overførsel. </P>  \r\n\r\n<P>- dato for ibrugtagningstilladelse </P>  \r\n\r\n<P>- dato for gennemført nedrivning </P>  \r\n\r\n<P>- eller evt. dato for henlagt </P>  \r\n\r\n<P> Ovennævnte skal være afsluttet til januar-ajourføringen 1986. </P>  \r\n\r\n<P>Som eksempel på sager som ikke længere kræver byggesagsbehandling kan  \r\n\r\n nævnes følgende byggearbejder i forbindelse med småhuse (bygninger til  \r\n\r\n helårsbeboelse): </P>  \r\n\r\n<P>- Nedrivning af garager, carporte og udhuse - Ombygning (uden arealer),  \r\n\r\n fx. ændret værelsesantal </P>  \r\n\r\n<P>- Indretning af ekstra toilet og baderum. </P>  \r\n\r\n<P>- Modernisering i øvrigt samt: </P>  \r\n\r\n<P>- opførelse af kolonihavehus </P>  \r\n\r\n<P>- Indretning af køkken </P>  \r\n\r\n<P>I øvrigt henvises til bygningsreglement for småhuse. </P>  \r\n\r\n<P>For byggesager, der skal have en byggesagskode, skal der indberettes til  \r\n\r\n det nyopretttede datafelt (felt 292) når Kommunedata har konverteret  \r\n\r\n registret. (se afsnit 4). </P>  \r\n\r\n<P> 4. Indberetning af nye koder. </P>  \r\n\r\n<P>Efter Kommunedatas konvertering af registret udskrives en kvitteringsliste  \r\n\r\n til kommunerne over, hvad der er indsat i koden for bygningsreglement (felt  \r\n\r\n 292). </P>  \r\n\r\n<P>For de byggesager, hvor der er udskrevet et tomt felt eller hvor koden er  \r\n\r\n forkert dannet, kan den korrekte kodeværdi indeberettes til februar-  \r\n\r\n ajourføringen. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Skatteministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "24/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19850401932"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM014309"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "24/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "03/12/2001"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Meddelelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "4019"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1985"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "18/12/1985"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Boligmin. Dep. 4 Jnr. 4.1050"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

@@ -1,0 +1,75 @@
+{
+    "id": 45278,
+    "title": "Tekniske bestemmelser for tilslutning af PABC'er til de offentlige telenet. Generelt. TI-publikation nr. 15.2/90",
+    "documentTypeId": "60",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "BEK nr 26105 af 01/11/1990",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Tekniske bestemmelser for tilslutning af PABC'er  \r\n\r\n til de offentlige telenet. Generelt. TI-publikation nr. 15.2/90 </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> Indledning </P>  \r\n\r\n<P>Nærværende samlede tekniske bestemmelser for PABC'er er, jf. oversigten,  \r\n\r\n opdelt i ialt 11 dele, der kan opdeles i følgende hovedgrupper: </P>  \r\n\r\n<P> <I>Generelle dele</I>  </P>  \r\n\r\n<P>Dele hvis bestemmelser skal opfyldes af alle PABC'er. </P>  \r\n\r\n<P>Denne gruppe omfatter del 1 og del 2. </P>  \r\n\r\n<P> <I>Snitflader mod det offentlige telefonnet</I>  </P>  \r\n\r\n<P>Dele der beskriver de tekniske bestemmelser for tilslutning af PABC'er til  \r\n\r\n det offentlige telefonnet via forskellige ledningstyper. De enkelte dele kan  \r\n\r\n indeholde en yderligere underdeling af den pågældende ledningstype. </P>  \r\n\r\n<P>Denne gruppe omfatter delene 3, 4, 8 og 9. </P>  \r\n\r\n<P>Snitfladen for enhver ledningstype hvorover tilslutning til det offentlige  \r\n\r\n telefonnet ønskes skal opfylde bestemmelserne i henhold til den aktuelle del  \r\n\r\n i denne gruppe. </P>  \r\n\r\n<P>Bestemmelserne skal opfyldes uanset hvilken type telefonapparat, der  \r\n\r\n tilsluttes lokallinieinstallationerne. </P>  \r\n\r\n<P>For at opnå typegodkendelse skal en PABC mindst opfylde bestemmelserne i  \r\n\r\n een af delene 3 eller 8. </P>  \r\n\r\n<P>Der stilles ikke krav om at en PABC skal kunne tilsluttes det offentlige  \r\n\r\n telefonnet via en bestemt af ledningstyperne i del 3 og 8 eller via flere  \r\n\r\n forskellige ledningstyper. </P>  \r\n\r\n<P> <I>Transmissionsbetingelser</I>  </P>  \r\n\r\n<P>Dele der beskriver de tekniske bestemmelser for transmission i teknologisk  \r\n\r\n forskellige PABC typer. </P>  \r\n\r\n<P>Denne gruppe omfatter delene 10 og 12. </P>  \r\n\r\n<P>For at opnå typegodkendelse skal en PABC opfylde bestemmelserne i een af  \r\n\r\n delene i denne gruppe. </P>  \r\n\r\n<P> <I>Diverse udstyrstyper</I>  </P>  \r\n\r\n<P>Dele der beskriver de tekniske bestemmelser for tilslutning af diverse  \r\n\r\n udstyrstyper til PABC'er. </P>  \r\n\r\n<P>Denne gruppe omfatter delene 5, 6 og 7. </P>  \r\n\r\n<P>Der stilles ikke krav om at de udstyrstyper, der er beskrevet i de enkelte  \r\n\r\n dele i denne gruppe skal kunne tilsluttes en PABC, men omvendt må ingen af de  \r\n\r\n omhandlede udstyrstyper tilkobles en PABC uden at bestemmelserne i den  \r\n\r\n aktuelle del er opfyldte. </P>  \r\n\r\n<P>For oversigt over hvilke bestemmelser der skal være opfyldt for en PABC's  \r\n\r\n forskellige snitflader og diverse tilsluttede udstyrstyper henvises til fig.  \r\n\r\n 1. </P>  \r\n\r\n<P>I de dele der indeholder tekniske oplysninger om det offentlige telefonnet  \r\n\r\n repræsenterer oplysningerne så vidt muligt den samlede mængde relevante  \r\n\r\n oplysninger. </P>  \r\n\r\n<P>Oplysningerne må principielt betragtes som vejledende retningslinier. </P>  \r\n\r\n<P>Da det offentlige telefonnet er opbygget over en lang årrække er der i  \r\n\r\n nettet tekniske forskelle der afspejler sig i visse tekniske oplysninger som  \r\n\r\n angivet i de enkelte dele ikke er gældende overalt eller at tekniske  \r\n\r\n parametre ikke er ens overalt. Tekniske forskelle kan forekomme såvel fra  \r\n\r\n teleadministration til teleadministration som fra telefoncentral til  \r\n\r\n telefoncentral. Yderligere oplysninger om sådanne tekniske forskelle kan  \r\n\r\n indhentes hos de enkelte teleadministrationer. </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> Generelle definitioner </P>  \r\n\r\n<P> <I>2-tråds transmissionsvej</I>  </P>  \r\n\r\n<P>Transmissionsvej hvori energien i de 2 transmissionsretninger kun kan  \r\n\r\n adskilles på grundlag af informationsindholdet. </P>  \r\n\r\n<P>En 2-tråds transmissionsvej kan uden videre etableres via et enkelt  \r\n\r\n trådpar. </P>  \r\n\r\n<P> <I>4-tråds transmissionsvej</I>  </P>  \r\n\r\n<P>Transmissionsvej hvori energien overføres adskilt i de 2  \r\n\r\n transmissionsretninger. Adskillelsen af de 2 transmissionsretninger sker  \r\n\r\n enten rumligt, frekvensmæssigt, tidsmæssigt eller ved hjælp af adaptiv  \r\n\r\n ekkoundertrykkelse (echo cancelling). </P>  \r\n\r\n<P>En 4-tråds transmissionsvej kan således etableres via 2 trådpar uden  \r\n\r\n videre eller via 1 trådpar med enten multipleksning (frekvens eller  \r\n\r\n tidsopdelt) eller adaptiv ekkoundertrykkelse. </P>  \r\n\r\n<P> <I>2-tråds/4-tråds overgang (gaffelkobling)</I>  </P>  \r\n\r\n<P>Sammenkobling af en 2-tråds og en 4-tråds transmissionsvej. Overgangen  \r\n\r\n etableres ved hjælp af en gaffelkobling, der overfører en del af energien fra  \r\n\r\n 2-tråds transmissionsvejen til 4-tråds transmissionsvejens senderetning  \r\n\r\n henholdsvis overfører en del af energien fra 4-tråds transmissionsvejens  \r\n\r\n modtagerretning til 2-tråds transmissionsvejen. </P>  \r\n\r\n<P> <I>Analog transmissionsvej</I>  </P>  \r\n\r\n<P>Transmissionsvej hvori den transmitterede energi repræsenterer  \r\n\r\n øjebliksværdier af den transmitterede information i kontinuert eller  \r\n\r\n diskontinuert, analog form. </P>  \r\n\r\n<P>En analog transmissionsvej kan være udformet som enten en 2-tråds eller en  \r\n\r\n 4-tråds transmissionsvej. </P>  \r\n\r\n<P> <I>Digital transmissionsvej</I>  </P>  \r\n\r\n<P>Transmissionsvej hvori den transmitterede energi repræsenterer  \r\n\r\n kodesignaler for diskrete øjebliksværdier af den transmitterede information i  \r\n\r\n diskontinuert, digital form. </P>  \r\n\r\n<P>En digital transmissionsvej er altid udformet som en 4-tråds  \r\n\r\n transmissionsvej. </P>  \r\n\r\n<P> <I>2-tråds PABC</I>  </P>  \r\n\r\n<P>PABC, hvori alle transmissionsveje, der indgår i sammenstilling af 2 PABC  \r\n\r\n snitflader, er udformet som 2-tråds analoge transmissionsveje. </P>  \r\n\r\n<P>Der indgår således ingen gaffelkoblinger i den samlede transmissionsvej  \r\n\r\n mellem de 2 snitflader. </P>  \r\n\r\n<P> <I>4-tråds PABC</I>  </P>  \r\n\r\n<P>PABC, hvori mindst een af de transmissionsveje, der indgår i  \r\n\r\n sammenstilling af 2 PABC snitflader, er udformet som en 4-tråds analog eller  \r\n\r\n digital transmissionsvej. </P>  \r\n\r\n<P>Der indgår således en eller flere gaffelkoblinger i den samlede  \r\n\r\n transmissionsvej mellem de 2 snitflader, forudsat at der overhovedet findes  \r\n\r\n 2-tråds snitflader på PABC'en. </P>  \r\n\r\n<P>Såfremt transmissionsvejene mellem snitfladerne er digitale kaldes PABC'en  \r\n\r\n en digital PABC. </P>  \r\n\r\n<P> <I>PABC systemapparat</I>  </P>  \r\n\r\n<P>Et PABC systemapparat er et telefonapparat, der typegodkendes i sammenhæng  \r\n\r\n med en specifik PABC eller PABC familie fremfor at blive typegodkendt som et  \r\n\r\n selvstændigt telefonapparat. </P>  \r\n\r\n<P>PABC systemapparater er beregnet for tilslutning til en eller flere  \r\n\r\n lokalledningskredse på en specifik PABC eller PABC familie. Tilslutningen til  \r\n\r\n hver lokalledningskreds sker over et eller flere trådpar eller tilsvarende.  \r\n\r\n Apparater, der tilsluttes specielle kredse, herunder kredse for  \r\n\r\n omstillingsapparater, regnes ligeledes som PABC-systemapparater.  \r\n\r\n Systemapparater kan være indrettet for en eller flere former for  \r\n\r\n telekommunikation f.eks. tale- og/eller datakommunikation. Transmissionen  \r\n\r\n over tilslutningen kan foregå på analog og/eller digital form. </P>  \r\n\r\n<P>Typegodkendelse af systemapparater må kun ske i sammenhæng med den  \r\n\r\n specifikke PABC eller PABC familie, hvortil apparaterne hører. </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> Generelle bestemmelser </P>  \r\n\r\n<P> <I>3.1. Sikkerhed overfor stærkstrøm</I>  </P>  \r\n\r\n<P>En PABC der strømforsynes fra stærkstrømsnettet, skal være udført i  \r\n\r\n overensstemmelse med stærkstrømsreglementets forskrifter. </P>  \r\n\r\n<P>Det samme gælder tilhørende udstyrstyper, der strømforsynes fra  \r\n\r\n stærkstrømsnettet og ønskes typegodkendte i henhold til nærværende tekniske  \r\n\r\n bestemmelser. </P>  \r\n\r\n<P>I det omfang danske love og bestemmelser kræver det, skal PABC'en og de  \r\n\r\n forannævnte udstyrstyper være D-mærkede eller registrerede hos DEMKO. </P>  \r\n\r\n<P> <I>3.2. Gennemslagsspænding</I>  </P>  \r\n\r\n<P>Der må ikke gennem en PABC eller hertil sluttede udstyrstyper være  \r\n\r\n jævnstrømsforbindelse fra nogen ledning mod det offentlige telefonnet til  \r\n\r\n stærkstrømsnettet. Enhver komponent, gennem hvilken der ved fejl vil kunne  \r\n\r\n opstå en sådan forbindelse, skal være afprøvet med en 50 Hz vekselspænding på  \r\n\r\n 2000 V (effektivværdi) i mindst 1 min. </P>  \r\n\r\n<P>Ovennævnte krav betragtes som værende opfyldt, såfremt benyttede  \r\n\r\n strømsforsyninger tilkoblet stærkstrømsnettet er D-mærkede. </P>  \r\n\r\n<P> <I>3.3. Nødgennemstilling</I>  </P>  \r\n\r\n<P>Såfremt en PABC til hel eller delvis sikring af telefontrafikken ved  \r\n\r\n strømsvigt eller andre typer driftsforstyrrelser i PABC'en, er indrettet med  \r\n\r\n indbygget nødgennemstilling af en eller flere af de analoge ledninger mod det  \r\n\r\n koblede telefonnet, må nødgennemstilling af hver enkelt af disse ledninger  \r\n\r\n kun finde sted til et telefonapparat godkendt for tilslutning til det koblede  \r\n\r\n offentlige telefonnet. Kravet skal kunne dokumenteres eller afprøves i  \r\n\r\n forbindelse med typegodkendelsen. </P>  \r\n\r\n<P>Kravet om at nødgennemstilling kun må finde sted til et telefonapparat  \r\n\r\n godkendt for tilslutning til det koblede offentlige telefonnet er ligeledes  \r\n\r\n gældende såfremt nødgennemstillingen realiseres ved hjælp af eksternt udstyr.  \r\n\r\n</P>  \r\n\r\n<P> <I>3.4. Overholdelse af tekniske bestemmelser under drift</I>  </P>  \r\n\r\n<P>Under drift skal nærværende tekniske bestemmelser overholdes. </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> Sikkerhed på højspændingsanlæg </P>  \r\n\r\n<P>Skal en PABC installation eller dele heraf anvendes indenfor et  \r\n\r\n højspændingsanlægs sikkerhedsafstand jf. Statens Teleråds cirkulære nr. 14  \r\n\r\n &#187;Sikring af teleanlæg mod overspændinger&#171; skal der i hvert enkelt  \r\n\r\n tilfælde træffes aftale med teleadministrationen om eventuelle særlige  \r\n\r\n sikkerhedsforanstaltninger til sikring af ledninger mod det offentlige  \r\n\r\n telefonnet. </P>  \r\n\r\n<P>+<IMG SRC=\"/image.aspx?id=45278&img=CR3860_1.gif\" ALIGN=\"middle\" WIDTH=\"235\" HEIGHT=\"85 BORDER=\"no\" ALT=\"DUMMY.GIF billedet er ikke indlagt onMouseOver=\"self.status='DUMMY.GIF billedet er ikke indlagt'; return true\"\">+ </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Klima-, Energi- og Forsyningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "B19902610505"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM003860"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "17/12/2009"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Bekendtgørelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "B "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "26105"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1990"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/11/1990"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Telestyrelsen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Ingen"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

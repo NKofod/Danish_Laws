@@ -1,0 +1,75 @@
+{
+    "id": 75242,
+    "title": "Studieplan for kurset 2.11. Distribuerede databaser ved Datanomkursus ",
+    "documentTypeId": "810",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "PLN nr 22243 af 08/10/1987",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Studieplan for kurset 2.11. Distribuerede  \r\n\r\n databaser ved Datanomkursus </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Studieplanen har virkning fra den 1. januar 1988. </P>  \r\n\r\n<P>P.d.v. </P>  \r\n\r\n<P>e.b. </P>  \r\n\r\n<P>Erik Nexelmann </P>  \r\n\r\n<P>underv.insp. </P>  \r\n\r\n<P> Formål </P>  \r\n\r\n<P>Kommercielle databasesystemer er endnu utilstrækkelige i understøtningen  \r\n\r\n af ægte database distribuering. Kursets overordnede mål er derfor at formidle  \r\n\r\n en konkret viden om, hvad/hvordan en given applikation skal/kan udbygges med  \r\n\r\n af eventuelt manglende funktioner i det forhåndenværende database produkt for  \r\n\r\n at tilgodese et ægte distribueret databasesyn. </P>  \r\n\r\n<P>Det er endvidere kursets mål at give deltagerne en dybtgående forståelse  \r\n\r\n af de tekniske og teoretiske aspekter, der indgår i design, implementation og  \r\n\r\n drift af distribuerede databaser. </P>  \r\n\r\n<P>I kurset indlæres et begrebsapparat til klassifikation og vurdering af  \r\n\r\n distribuerede databasearkitekturer, og deltagerne bibringes en bred, og på  \r\n\r\n visse områder, detaljeret forståelse af de problemstillinger i et  \r\n\r\n distribueret database-koncept, der stiller krav om udvidede løsninger i  \r\n\r\n forhold til centrale databaser, samt til løsningsmetoder herfor. </P>  \r\n\r\n<P>Endvidere gives der en orientering om konkrete løsninger eller tiltag til  \r\n\r\n løsninger i kommercielle leverandørsystemer samt forsknings- og  \r\n\r\n udviklingssystemer. </P>  \r\n\r\n<P> Adgangsbetingelser </P>  \r\n\r\n<P>Drift. </P>  \r\n\r\n<P>Problemorienteret sprog. </P>  \r\n\r\n<P>Planlægning. </P>  \r\n\r\n<P>Projektgennemførelse. </P>  \r\n\r\n<P> Anbefalede forudsætninger </P>  \r\n\r\n<P>2.6 Databasesystemer, specielt er et godt kendskab til relationsdatabaser  \r\n\r\n en nødvendig forudsætning. </P>  \r\n\r\n<P>Generelt gælder, at praktisk erfaring er meget anbefalelsesværdigt. </P>  \r\n\r\n<P>Følgende moduler grænser op til den behandlede problematik i kurset: </P>  \r\n\r\n<P>- 1.4 Distribuerede systemer </P>  \r\n\r\n<P>- 1.5 Datatransmission og datakommunikation </P>  \r\n\r\n<P>- 2.7 Database design og filstrukturer </P>  \r\n\r\n<P> Hovedemner og undervisningsmål for disse </P>  \r\n\r\n<P> Generelt om distribuerede databaser </P>  \r\n\r\n<P>Målet med dette emne er at give de studerende et kendskab til  \r\n\r\n distribuerede databaser, strukturer for opbygning af disse samt fordele og  \r\n\r\n ulemper ved distribuering af databasen sammenholdt med central eller  \r\n\r\n decentral databaselagring. </P>  \r\n\r\n<P>Endvidere skal eleverne have kendskab til principperne for datanet  \r\n\r\n arkitekturer, herunder distribuerede databasesystemers placering i ISO-OSI  \r\n\r\n reference modellen. </P>  \r\n\r\n<P>Indhold: </P>  \r\n\r\n<P>Fordele og ulemper ved distribuerede databaser. </P>  \r\n\r\n<P>Reference-arkitekturer for distribuerede databaser. </P>  \r\n\r\n<P>Distribuerede systemarkitekturer. </P>  \r\n\r\n<P>Datanet og ISO-OSI modellen. </P>  \r\n\r\n<P> Distribuering af data, processer og katalog </P>  \r\n\r\n<P>Målet er at give de studerende et grundigt kendskab til design og  \r\n\r\n implementering af distribuerede databaser samt til de særlige  \r\n\r\n problemstillinger, der knytter sig hertil. </P>  \r\n\r\n<P>Indhold: </P>  \r\n\r\n<P>Data fragmentering, data allokering, transparens. </P>  \r\n\r\n<P>Proces distribuering (read only-/updatetransaktioner). </P>  \r\n\r\n<P>Katalog distribuering. </P>  \r\n\r\n<P>Distribueret design. </P>  \r\n\r\n<P>Transaktionsbegrebet. </P>  \r\n\r\n<P> Driftsmæssige aspekter ved distribuerede databaser </P>  \r\n\r\n<P>Målet er at bibringe deltagerne et grundlæggende kendskab til de  \r\n\r\n driftsmæssige problemstillinger og til løsningsmodeller for håndtering af  \r\n\r\n disse i et distribueret databasemiljø. </P>  \r\n\r\n<P>Indhold: </P>  \r\n\r\n<P>Transaktionsbegrebet. </P>  \r\n\r\n<P>Sikkerhed og integritet, herunder </P>  \r\n\r\n<P>- samtidighedskontrol. </P>  \r\n\r\n<P>- baglås-håndtering. </P>  \r\n\r\n<P>- commitment &amp; reetablering. </P>  \r\n\r\n<P>- semantisk integritet, fuldstændighed og konsistens. </P>  \r\n\r\n<P>Distribuerede forespørgsler. </P>  \r\n\r\n<P> Udvalgte systemer </P>  \r\n\r\n<P>Målet med emnet er, at de studerende opnår en god forståelse af  \r\n\r\n eksisterende tiltag indenfor databaseverdenen med hensyn til realisering af  \r\n\r\n distribuerede databaser, og at de sættes i stand til at vurdere samt genbruge  \r\n\r\n sådanne løsningsmodeller i det daglige arbejde. </P>  \r\n\r\n<P>Indhold: </P>  \r\n\r\n<P>Udviklings- og prototypesystemer. </P>  \r\n\r\n<P>Tiltag i kommercielle databasesystemer. </P>  \r\n\r\n<P>Implementering i praksis. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>Ingen </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Uddannelses- og Forskningsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C19872224341"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM034447"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "01/10/1997"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/01/2000"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Undervisningsplan"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "22243"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1987"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "08/10/1987"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Erhvervsskoleafdelingen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "1987-52.612-1"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

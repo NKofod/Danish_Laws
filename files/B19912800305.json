@@ -1,0 +1,69 @@
+{
+    "id": 86185,
+    "title": "Tekniske Bestemmelser Transmissionsbetingelser for 4-tråds PABC'er TB 91 015-12, september 1991 ",
+    "documentTypeId": "60",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "BEK nr 28003 af 01/09/1991",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Tekniske Bestemmelser Transmissionsbetingelser  \r\n\r\n for 4-tråds PABC'er TB 91 015-12, september 1991 </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P> <B>INDHOLDSFORTEGNELSE</B>  </P>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> INDLEDNING </P>  \r\n\r\n<P CLASS=PUNKT> <B>2.</B> DEFINITIONER </P>  \r\n\r\n<P CLASS=PUNKT> <B>3.</B> TEKNISKE OPLYSNINGER </P>  \r\n\r\n<P CLASS=PUNKT> <B>4.</B> TEKNISKE KRAV Incl. bilag 1: Danske afvigelser fra  \r\n\r\n ETS 300 004 </P>  \r\n\r\n<P CLASS=PUNKT> <B>5.</B> MÅLEOPSTILLINGER </P>  \r\n\r\n<P CLASS=PUNKT> <B>1.</B> INDLEDNING </P>  \r\n\r\n<P>Nærværende tekniske bestemmelser, omhandler transmissionbetingelser for  \r\n\r\n 4-tråds PABC'er, der af hensyn til talekvaliteten i den internationale  \r\n\r\n telefonitjeneste skal opfylde visse transmissionskrav, når de tilsluttes det  \r\n\r\n offentlige telefonnet. </P>  \r\n\r\n<P>Transmissionskravene er i videst mulig omfang baseret på ETSI's standarder  \r\n\r\n ET300 003 til 300 006 vedrørende transmissionskarakteristika for digitale  \r\n\r\n PABC'er (TE10-01 til 10-04). Hvor det er muligt, er der henvist direkte til  \r\n\r\n standardernes krav. I de tilfælde hvor standarderne angiver nationale krav i  \r\n\r\n annexer, følges de for Danmark angivne krav. </P>  \r\n\r\n<P>Anvendelse af ETSI's standarder er dog begrænset af følgende forhold: </P>  \r\n\r\n<P>- standarderne specificerer kun digitale PABC'er, hvori analoge signaler  \r\n\r\n kodes iflg. A-lov kodningsskema. </P>  \r\n\r\n<P>- standarderne specificerer udelukkende transmissionskarakteristika på  \r\n\r\n basis af halvforbindelser, hvilket forudsætter, at digitale testpunkter er  \r\n\r\n tilgængelige. </P>  \r\n\r\n<P>For at muliggøre typegodkendelse af digitale PABC'er, der anvender andre  \r\n\r\n kodningsformer og/eller ikke har digitale testpunkter tilgængelige, er  \r\n\r\n nærværende bestemmelser suppleret med afsnit, der specificerer  \r\n\r\n transmissionskarakteristika på basis af helforbindelser. Ved anvendelse af  \r\n\r\n disse afsnit muliggøres endvidere typegodkendelse af 4-tråds analoge PABC'er.  \r\n\r\n For digitale PABC'er vælger rekvirenten selv, om typegodkendelse skal ske på  \r\n\r\n grundlag af specifikationere for halvforbindelser eller for helforbindelser.  \r\n\r\n</P>  \r\n\r\n<P>ETSI's standarder omfatter endvidere ikke transmissionskrav overfor  \r\n\r\n systemapparater, hverken af analog eller digital (non-ISDN) natur. Da sådanne  \r\n\r\n apparattilslutninger er alminelige, er nærværende bestemmelser ligeledes  \r\n\r\n suppleret med afsnit, der muliggør typegodkendelse af sådanne apparattyper,  \r\n\r\n når dette sker i sammenhæng med den PABC eller PABC familie, hvortil  \r\n\r\n apparatet hører. </P>  \r\n\r\n<P>Nærværende tekniske bestemmelser indeholder følgende: </P>  \r\n\r\n<P>- Kapitel 2 indeholder definitioner af anvendte udtryk og begreber, der  \r\n\r\n ikke forudsættes almindelig kendte. Definition af visse begreber er  \r\n\r\n yderligere anskueliggjorte i en definitionsskitse. </P>  \r\n\r\n<P>- Kapitel 3 indeholder tekniske oplysninger om det offentlige telefonnets  \r\n\r\n transmissionsmæssige egenskaber. </P>  \r\n\r\n<P>- Kapitel 4 beskriver de transmissionsmæssige krav, der skal være opfyldt  \r\n\r\n af en 4-tråds PABC, der ønskes typegodkendt for tilslutning til det  \r\n\r\n offentlige telefonnet. Generelt gælder, at der i en given PABC kun kræves  \r\n\r\n opfyldelse af de krav, der er relevante for den specifikke PABC </P>  \r\n\r\n<P>- Kapitel 5 indeholder generelle retningslinier for  \r\n\r\n typegodkendelsesmålinger samt detailmåleopstillinger til verifikation af de i  \r\n\r\n kapitel 4 specificerede krav. </P>  \r\n\r\n<P>Nærværende tekniske bestemmelser suppleres senere med tekniske  \r\n\r\n bestemmelser for tværledninger og digitale abonnentledninger. </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [
+        "Bilag"
+    ],
+    "alternativeMedia": [],
+    "ressort": "Erhvervsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "15/03/1998"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "B19912800305"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CM045910"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "15/03/1998"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "17/12/2009"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Bekendtgørelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "B "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "28003"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1991"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "01/09/1991"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

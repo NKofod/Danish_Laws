@@ -1,0 +1,79 @@
+{
+    "id": 128340,
+    "title": "Cirkulæreskrivelse om a-kassernes leverance af oplysninger til brug for beregningen af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse\\nTil De anerkendte a-kasser og deres statsautoriserede revisorer Arbejdsløshedskassernes Samvirke",
+    "documentTypeId": "210",
+    "isSagsforlobPeriodValid": true,
+    "shortName": "CIS nr 9896 af 06/11/2009",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><p class=\"Titel2\">Cirkulæreskrivelse om a-kassernes leverance af oplysninger til brug for beregningen af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse</p>\r\n      <p class=\"UnderTitel2\">Til De anerkendte a-kasser og deres statsautoriserede revisorer Arbejdsløshedskassernes Samvirke</p>\r\n      <p class=\"TekstV\">Som led i udmøntningen af det politiske forlig i november 2008 om etablering af et enstrenget kommunalt beskæftigelsessystem indføres fra januar 2010 en ordning med en kommunal medfinansiering af statens udgifter til arbejdsløshedsdagpenge og befordringsgodtgørelse til forsikrede ledige.</p>\r\n      <p class=\"TekstV\">Lovgivningen herom er vedtaget af Folketinget i maj 2009, jf. lov nr. 482 og 483 af 12. juni d.å.</p>\r\n      <p class=\"TekstV\">Såvel KMD som Medialogic har oplyst til KL og Arbejdmarkedsstyrelsen, at de hver især vil udvikle et system til beregning af kommunernes finansieringsbidrag samt at systemerne forventes idriftsat januar 2010.</p>\r\n      <p class=\"TekstV\">Opgørelsen af kommunernes medfinansiering forudsætter en it-løsning, som kan kombinere data på individniveau, dels om a-kassernes udbetalinger af arbejdsløshedsdagpenge (a-dagpenge) og befordringsgodtgørelse, dels om jobcentrenes aktive indsats for forsikrede ledige.</p>\r\n      <p class=\"TekstV\">Arbejdsmarkedsstyrelsen er ved at udarbejde en bekendtgørelse om kommunernes medfinansiering af arbejdsløshedsdagpenge og befordringsgodtgørelse (herefter medfinansieringsbekendtgørelsen).</p>\r\n      <p class=\"TekstV\">Medfinansieringsbekendtgørelsen forventes - efter forudgående høring af KL, Ydelsesudvalget m.fl. - udstedt primo december 2009.</p>\r\n      <p class=\"TekstV\">Bekendtgørelsesudkastet forventes sendt i ekstern høring primo november. Styrelsen vil, når bekendtgørelsen sendes i ekstern høring, samtidig sende den til a-kasserne og til Arbejdsløshedskassernes Samvirke.</p>\r\n      <p class=\"TekstV\">Arbejdsløshedskassernes Samvirke har i en tidligere fase af arbejdet med bekendtgørelsen afgivet bemærkninger hertil. Der er i videst muligt omfang taget højde disse bemærkninger i det bekendtgørelsesudkast som sendes i høring primo november.</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">1.</span> <span class=\"Bold\">Oplysninger fra A-kasserne</span></p>\r\n      <p class=\"TekstV\">Det følger af (det foreliggende udkast til) den kommende <span class=\"Italic\">medfinansieringsbekendtgørelse</span> hvilke oplysninger a-kasserne skal aflevere - samt på hvilket detailniveau - der skal afleveres oplysninger til brug for beregningen af kommunernes medfinansiering.</p>\r\n      <p class=\"TekstV\">Oplysningerne skal afleveres på individniveau. Dataindholdet i de enkelte individer (”rækker” i de datasæt, der skal afleveres til brug for beregningen af kommunernes medfinansiering) fremgår overordnet set af også af bekendtgørelsen.</p>\r\n      <p class=\"TekstV\">Der skal afleveres individdata for:</p>\r\n      <p>\r\n        <p class=\"Liste1\"><span class=\"Liste1Nr\" id=\"\">1)</span> A-dagpenge for perioder fra og med 4. januar 2010.</p>\r\n        <p class=\"Liste2\"><span class=\"Liste2Nr\" id=\"\">2)</span> Befordringsgodtgørelse, der udbetales efter 1. januar 2010, i forbindelse med lediges deltagelse eller ansættelse i:</p>\r\n        <p class=\"Tekst2\">\r\n          <div>a) 6 ugers selvvalgt uddannelse (LAB kap. 8a),</div>\r\n        </p>\r\n        <p class=\"Liste2\"><span class=\"Liste2Nr\" id=\"\">b)</span> Vejledning og opkvalificering (LAB kap. 10),</p>\r\n        <p class=\"Liste2\"><span class=\"Liste2Nr\" id=\"\">c)</span> Virksomhedspraktik (LAB kap. 11) og</p>\r\n        <p class=\"Liste2\"><span class=\"Liste2Nr\" id=\"\">d)</span> Offentlig ansættelse med løntilskud (LAB kap. 12).</p>\r\n      </p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">2.</span> <span class=\"Bold\">Aflevering af data til KMD EDI-service</span></p>\r\n      <p class=\"TekstV\">Det følger af (det foreliggende udkast til) den kommende <span class=\"Italic\">medfinansieringsbekendtgørelse</span>, at a-kasserne skal aflevere de pågældende individoplysninger til KMD EDI-service (tidligere kaldet AT&amp;T-postkasseserveren). KMD drifter på vegne af beskæftigelsesmyndighederne og a-kasserne denne postkasseserver.</p>\r\n      <p class=\"TekstV\">A-kassen skal således alene aflevere oplysningerne ét sted - uanset, at der er flere kommunale IT-leverandører, der forestår beregningen af kommunernes medfinansieringsbidrag.</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">2.1 Aftalegrundlag</span></p>\r\n      <p class=\"TekstV\">Forinden a-kassen kan aflevere ovennævnte individdata til postkasseserveren skal a-kassen indgå en (standard)aftale med KMD om aflevering af data.</p>\r\n      <p class=\"TekstV\">Snitfladebeskrivelsen <span class=\"Italic\">”KMD A-Refusion Snitfladebeskrivelse for A-kas­se­oplysninger”</span> udgør sammen med KMD’s standardaftale ”KMD A-Refusion / A-kasser” grundlaget for udveksling af data med KMD A-Refusion.</p>\r\n      <p class=\"TekstV\">Det er også via denne postkasse, at a-kassen vil modtage evt. fejlmeddelelser fra de kommunale IT-leverandører.</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">2.2 Specifikation af individoplysningerne</span></p>\r\n      <p class=\"TekstV\">Det nærmere tekniske indhold af - og format på - på de data, der skal afleveres, fremgår af vedlagte <span class=\"Italic\">tekniske</span> beskrivelse som er udarbejdet af KMD og som fremsendes efter aftale med KMD: ”KMD A-Refusion Snitfladebeskrivelse for ” (29.10.2009).</p>\r\n      <p class=\"TekstV\">Arbejdsløshedskassernes Samvirke har givet bemærkninger til tidligere udgaver af snitfladebeskrivelsen. Der er i videst muligt omfang taget højde for disse bemærkninger i den vedlagte snitfladebeskrivelse.</p>\r\n      <p class=\"TekstV\">For en god ordens skyld skal opmærksomheden henledes på, at det i snitfladebeskrivelsen fremgår ”© KMD 2009. Alle rettigheder tilhører KMD a/s. Dette materiale er ophavsretligt beskyttet og må ikke kopieres i videre omfang end forudsat i ophavsretsloven.”</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">2.3 Test</span></p>\r\n      <p class=\"TekstV\">KMD har oplyst til Arbejdsmarkedsstyrelsen, at KMD forventer at A-kasserne leverer et ”testdatasæt” senest mandag i uge 49 2009 (ASE undtaget).</p>\r\n      <p class=\"TekstV\">KMD vil løbende enten personligt eller via retur postkassen informere A-kassen, om det tilsendte datasæt overholder snitfladebeskrivelsen.</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">3.</span> <span class=\"Bold\">Tilretning i a-kassernes systemer</span></p>\r\n      <p class=\"TekstV\">Arbejdsmarkedsstyrelsen skal henstille, at a-kasserne på baggrund af den vedlagte snitfladebeskrivelse påbegynder arbejdet med ændringer i IT-systemerne således, at der kan leveres individoplysninger til brug for beregningen af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse fra og med uge 01 2010.</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">3.1 Første indberetning af produktionsdata</span></p>\r\n      <p class=\"TekstV\">Oplysningerne skal indberettes digitalt til KMD EDI-service efter a-dagpengemånedens udløb og skal senest være indberettet til postkassen den <span class=\"Italic\">næstsidste bankdag</span> i måneden kl. 16.00. Oplysningerne kan indberettes løbende.</p>\r\n      <p class=\"TekstV\"><span class=\"Italic\">Første gang</span> a-kasserne skal indberette data vedr. a-dagpenge og befordringsgodtgørelse skal det dog ske (senest) <span class=\"Italic\">torsdag den 25. februar 2010</span>, kl. 16. Denne leverance af data skal omfatte dels a-dagpenge vedr. de to første a-dagpengemåneder i 2010 (uge 01/2010 - 07/2010) og dels befordringsgodtgørelse udbetalt efter 1. januar 2010.</p>\r\n      <p class=\"TekstV\">I snitfladebeskrivelsen er beskrevet feltet <span class=\"Bold\">” 05  DAGPENGEMÅNED”</span>.</p>\r\n      <p class=\"TekstV\">Dagpengemåned indikerer hvilken måned som indberetningen hører til. A-kassen kan vælge at indberette pr. måned (to filer), eller for de to første a-dagpengemåneder på en gang (en fil).</p>\r\n      <p class=\"TekstV\">Vælger a-kassen at indberette pr. måned, skal feltet udfyldes på følgende måde:</p>\r\n      <p>\r\n        <p class=\"Liste1\"><span class=\"Liste1Nr\" id=\"\">–</span> Dagpengemåned 201001 (hhååmm) med mulige leverancer 1, 2, 3 osv.</p>\r\n        <p class=\"Liste1\"><span class=\"Liste1Nr\" id=\"\">–</span> Dagpengemåned 201002 (hhååmm) med mulige leverancer 1, 2, 3 osv.</p>\r\n      </p>\r\n      <p class=\"TekstV\">Vælger a-kassen at indberette for begge måneder på en gang ved udgangen af februar, skal feltet udfyldes på følgende måde:</p>\r\n      <p>\r\n        <p class=\"Liste1\"><span class=\"Liste1Nr\" id=\"\">–</span> Dagpengemåned 201002 (hhååmm) med mulige leverancer 1, 2, 3 osv.</p>\r\n      </p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">3.2 Fejludbetalinger, der ikke skal tilbagebetales af medlemmet, m.v.</span></p>\r\n      <p class=\"TekstV\">Opmærksomheden skal særskilt henledes på, at det i enkelte situationer kan være behov for, at a-kassen sender efterreguleringstransaktioner også i tilfælde, hvor der ikke sker rettelser i a-kassens udbetalingssystemer.</p>\r\n      <p class=\"TekstV\">Arbejdsmarkedsstyrelsen drøfter aktuelt tekniske løsningsmuligheder med Arbejdsløshedskassernes Samvirke om håndteringen af disse situationer.</p>\r\n      <p class=\"TekstV\"><span class=\"Bold\">4.</span> <span class=\"Bold\">Møde om snitfladebeskrivelsen</span></p>\r\n      <p class=\"TekstV\">Det kan i øvrigt oplyses, at der snarest vil blive arrangeret møde for teknikere om snitfladebeskrivelsen m.v.</p>\r\n      <p class=\"TekstV\">Arbejdsmarkedsstyrelsen vender tilbage med nærmere information om mødedato m.v.</p><DIV CLASS=GIVET ID=\"GIVET\"><FONT SIZE=\"3\"><P CLASS=GIVET ALIGN=\"CENTER\">Arbejdsmarkedsstyrelsen, den 6. november 2009</P><P CLASS=SIGN1 ALIGN=\"CENTER\">Birte Iversen<BR>kontorchef</P><P CLASS=SIGN2 ALIGN=\"RIGHT\"></P></FONT></DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Beskæftigelsesministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "14/11/2009"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C20090989610"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "BE003803"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "14/11/2009"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "14/11/2009"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Cirkulæreskrivelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "9896"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "2009"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "06/11/2009"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Arbejdsmarkedsstyrelsen (AMS)"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Beskæftigelsesmin.,<br />Arbejdsmarkedsstyrelsen, j.nr. "
+        },
+        {
+            "displayName": "Stikord",
+            "displayValue": "Arbejdsløshedsforsikring, Medfinansiering"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": true
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

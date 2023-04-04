@@ -1,0 +1,75 @@
+{
+    "id": 130169,
+    "title": "Skrivelse om A-kassernes leverance af oplysninger til brug for beregning af kommunernes medfinansiering af arbejdsløshedsdagpenge og befordringsgodtgørelse\\nTil De anerkendte a-kasser og deres statsautoriserede revisorer, Arbejdsløshedskassernes Samvirke og kommunernes databehandlere",
+    "documentTypeId": "200",
+    "isSagsforlobPeriodValid": true,
+    "shortName": "SKR nr 9055 af 28/01/2010",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><p class=\"Titel2\">Skrivelse om A-kassernes leverance af oplysninger til brug for beregning af kommunernes medfinansiering af arbejdsløshedsdagpenge og befordringsgodtgørelse</p>\n      <p class=\"UnderTitel2\">Til De anerkendte a-kasser og deres statsautoriserede revisorer, Arbejdsløshedskassernes Samvirke og kommunernes databehandlere</p>\n      <p class=\"TekstV\">I medfør af § 82 a i <span class=\"Italic\">lov om arbejdsløshedsforsikring m.v</span>. og § 109, stk. 2 og 3, i <span class=\"Italic\">lov om en aktiv beskæftigelsesindsats</span> skal kommunerne fra 1. januar 2010 medfinansiere statens udgifter til arbejdsløshedsdagpenge og befordringsgodtgørelse.</p>\n      <p class=\"TekstV\">Kommunerne skal dog ikke bidrage til finansieringen af arbejdsløshedsdagpenge til personer, som får udbetalt arbejdsløshedsdagpenge efter forordning 1408/71, der erstattes af en ny forordning 883/04, der træder i kraft 1. maj 2010.</p>\n      <p class=\"TekstV\"><span class=\"Bold\">1.</span> <span class=\"Bold\">Bekendtgørelse og vejledning</span></p>\n      <p class=\"TekstV\">A-kassernes og kommunernes opgaver m.v. i relation til kommunernes medfinansiering af arbejdsløshedsdagpenge og befordringsgodtgørelse er fastsat i bekendtgørelse om kommunernes medfinansiering af arbejdsløshedsdagpenge og befordringsgodtgørelse til de forsikrede ledige, jf. bkg. nr. 1350 af 14. december 2009.</p>\n      <p class=\"TekstV\">Der er udarbejdet en vejledning til bekendtgørelsen, jf. vejledning nr. 125 af 14. december 2009. Af bekendtgørelsen og vejledningen fremgår blandt andet hvilke data, som skal indgå i beregningerne.</p>\n      <p class=\"TekstV\"><span class=\"Bold\">2.</span> <span class=\"Bold\">EØS-dagpenge</span></p>\n      <p class=\"TekstV\"><span class=\"Bold\">2.1 Den gældende forordning - forordning (EØF) 1408/71</span></p>\n      <p class=\"TekstV\">Det er i bekendtgørelsens § 2, stk. 3, fastsat, at kommunerne ikke skal bidrage til finansieringen af arbejdsløshedsdagpenge til personer, der er omfattet af artikel 69 og artikel 71 i forordning (EØF) 1408/71. Det vil sige arbejdsløshedsdagpenge, der udbetales af en dansk a-kasse til en person, der bor i et andet EØS-land, eller arbejdsløshedsdagpenge, der udbetales til en person, der søger arbejde i et andet medlemsland med eksport af arbejdsløshedsdagpenge i op til 3 måneder med blanket E303.</p>\n      <p class=\"TekstV\"><span class=\"Italic\">Dagpenge til blanket E303 personer</span></p>\n      <p class=\"TekstV\">Arbejdsløshedsdagpenge til blanket E303 personer indgår derfor ikke i de oplysninger som a-kassen, jf. bekendtgørelsens § 13, skal sende til a-kassens EDI-postkasse til brug for opgørelsen af kommunernes medfinansiering.</p>\n      <p class=\"TekstV\"><span class=\"Italic\">Dagpenge til en person, der bor i et andet EØS-land</span></p>\n      <p class=\"TekstV\">Arbejdsløshedsdagpenge, der udbetales af en dansk a-kasse til en person, der bor i et andet EØS-land, indgår i udgangspunktet i de oplysninger som a-kassen sender til a-kassens EDI-postkasse, men frasorteres af de kommunale databehandlere<a class=\"FodnoteHenvisning\" name=\"Henvisning_Not1\" href=\"#Not1\">1)</a> på grundlag af CPR-registeret således, at kommunerne ikke medfinansierer denne type arbejdsløshedsdagpenge.</p>\n      <p class=\"TekstV\"><span class=\"Bold\">2.2 Ny forordning 883/04</span></p>\n      <p class=\"TekstV\">Forordning 883/04 træder i kraft 1. maj 2010. Forordningen betyder, at den danske a-kasse som noget nyt skal udbetale arbejdsløshedsdagpenge direkte til en person, der søger arbejde i et andet EØS-land (personer med blanket U2 - tidligere blanket E303).</p>\n      <p class=\"TekstV\">Kommunerne skal ikke bidrage til finansieringen af arbejdsløshedsdagpenge til personer, som får udbetalt arbejdsløshedsdagpenge efter forordning 883/04. Dette vil blive indarbejdet i ovennævnte bekendtgørelse.</p>\n      <p class=\"TekstV\"><span class=\"Italic\">Arbejdsløshedsdagpenge til personer, der søger arbejde i et andet medlemsland</span></p>\n      <p class=\"TekstV\">Arbejdsløshedsdagpenge efter forordning 883/04, der udbetales til personer, der søger arbejde i et andet medlemsland (personer med blanket U2), skal derfor ikke indgå i de data som a-kassen, jf. bekendtgørelsens § 13, skal sende til a-kassens EDI-postkasse med henblik på beregning af kommunernes medfinansieringsbidrag.</p>\n      <p class=\"TekstV\"><span class=\"Italic\">Arbejdsløshedsdagpenge til en person, der bor i et andet EØS-land</span></p>\n      <p class=\"TekstV\">Arbejdsløshedsdagpenge, der udbetales af en dansk a-kasse til en person, der bor i et andet EØS-land, vil fortsat indgå i de oplysninger som a-kassen sender til a-kassens EDI-postkasse og skal som hidtil frasorteres af de kommunale databehandlere på grundlag af CPR-registeret således, at kommunerne ikke medfinansierer denne type arbejdsløshedsdagpenge.</p>\n      <p class=\"TekstV\"><span class=\"Bold\">2.3 Yderligere information</span></p>\n      <p class=\"TekstV\">Udbetaling af arbejdsløshedsdagpenge fra Danmark til et andet EØS-land vil ske ved brug af et særligt EØS-dagpengekort.</p>\n      <p class=\"TekstV\">Der vil til disse EØS arbejdsløshedsdagpenge endvidere skulle anvendes en ny posteringstype i SKB.</p>\n      <p class=\"TekstV\">A-kasserne vil senere få yderligere information om det nye EØS-dagpengekort og om anvendelse af en ny posteringstype.</p>\n      <p class=\"TekstV\"><span class=\"Bold\">3.</span> <span class=\"Bold\">A-kassernes leverance af oplysninger på individniveau</span></p>\n      <p class=\"TekstV\">Til brug for beregningen af kommunernes medfinansiering skal a-kasser og kommuner levere en række oplysninger på individniveau.</p>\n      <p class=\"TekstV\">Det konkrete tekniske indhold af - og format på - på de data, som a-kasserne skal aflevere til brug for beregning af kommunernes medfinansiering af arbejdsløshedsdagpenge og befordringsgodtgørelse fremgår af en snitfladebeskrivelse udarbejdet af KMD.</p>\n      <p class=\"TekstV\">Med cirkulæreskrivelse nr. 10011 af 18. december 2009 udsendte Arbejdsmarkedsstyrelsen den aktuelt gældende udgave af snitfladebeskrivelsen - ”KMD A-Refusion Snitfladebeskrivelse for ” (18.12.2009) - til a-kasserne og de kommunale databehandlere.</p>\n      <p class=\"TekstV\">Der sker ikke som led i implementeringen af arbejdsløshedsdagpenge udbetalt efter forordning 883/04 ændringer i denne snitfladebeskrivelse.</p>\n      <p class=\"TekstV\">A-kasserne skal vedrørende arbejdsløshedsdagpenge således fortsat indberette oplysninger på individniveau for dagpenge, der udbetales på baggrund af AR 272 (Dagpengekort - Månedskort) og AR 235 (Erklæring til udbetaling af dagpenge under aktivering på 4 uger eller derover (Månedskort)) eller a-kassernes tilsvarende elektroniske blanketter.</p>\n      <p class=\"TekstV\"><span class=\"Bold\">3.1 Dagpenge udbetalt efter det særlige EØS-dagpengekort</span></p>\n      <p class=\"TekstV\">Det er dog vigtigt, at a-kassen sikrer, at udbetaling arbejdsløshedsdagpenge fra Danmark ved brug af det særlige EØS-dagpengekort ikke indgår i de oplysninger som a-kassen, jf. bekendtgørelsens § 13, sender til a-kassens EDI-postkasse til brug for opgørelsen af kommunernes medfinansiering.</p>\n      <p class=\"TekstV\"><span class=\"Bold\">4.</span> <span class=\"Bold\">Spørgsmål vedr. implementeringen er EØS-dagpenge</span></p>\n      <p class=\"TekstV\">Spørgsmål vedrørende implementeringen af udbetaling af arbejdsløshedsdagpenge efter forordning 883/04 bedes rettet til Arbejdsmarkedsstyrelsens 1. kontor eller Arbejdsdirektoratets 3. kontor.</p><DIV CLASS=GIVET ID=\"GIVET\"><P CLASS=GIVET ALIGN=\"CENTER\">Arbejdsmarkedsstyrelsen, den 28. januar 2010</P><P CLASS=SIGN1 ALIGN=\"CENTER\">Knud de Place</P><P CLASS=SIGN2 ALIGN=\"RIGHT\"></P></DIV><div class=\"bjelke\">Officielle noter</div><p class=\"Fodnote\"><a class=\"FodnoteNr\" name=\"Not1\" href=\"#Henvisning_Not1\">1)</a> Medialogic, KMD, SKS Applikation Service, Holstebro Kommune</p>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Beskæftigelsesministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "16/02/2010"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "C20100905554"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "BE003980"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "16/02/2010"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "16/02/2010"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Skrivelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "C "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "9055"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "2010"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "28/01/2010"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Retsinformation"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Arbejdsmarkedsstyrelsen (AMS)"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Beskæftigelsesmin.,<br />Arbejdsmarkedsstyrelsen, j.nr. 2009-0012480"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": true
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

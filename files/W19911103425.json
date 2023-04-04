@@ -1,0 +1,67 @@
+{
+    "id": 35687,
+    "title": "Hacking, straffesag, indberetning, adgangskontrol, password, opkaldslinier (* 1) ",
+    "documentTypeId": "240",
+    "isSagsforlobPeriodValid": false,
+    "shortName": "KEN nr 11034 af 15/04/1991",
+    "documentHtml": "<div class=\"bjelke\">Resume</div><DIV CLASS=PARA ID=\"RESUME\"> \r\n\r\n\r\n<P> <I>Gennem en artikel i dagspressen den 1. september 1991 blev  \r\n\r\n Registertilsynet bekendt med, at retten i Lyngby den 21. juni 1991 havde  \r\n\r\n afsagt dom over to hackere, som havde skaffet sig uautoriseret adgang til en  \r\n\r\n række edb-registre i danske virksomheder og offentlige institutioner. </I>  \r\n\r\n</P>  \r\n\r\n</DIV><div class=\"bjelke\">Den fulde tekst</div><DIV CLASS=PARA ID=\"INDHOLD\"> \r\n\r\n\r\n\r\n<H1 CLASS=TITLE ALIGN=CENTER>Hacking, straffesag, indberetning,  \r\n\r\n adgangskontrol, password, opkaldslinier (* 1) </H1>  \r\n\r\n<P></P>  \r\n\r\n<BR>  \r\n\r\n<P>Med henvisning til retsplejelovens § 41, stk. 2, anmodede Registertilsynet  \r\n\r\n retten i Lyngby om en udskrift af dommen. </P>  \r\n\r\n<P>Det fremgik af domsudskriften, at retten havde fundet hackerne skyldige i  \r\n\r\n overtrædelse af straffelovens § 263, stk. 2, ved uberettiget at have skaffet  \r\n\r\n sig adgang til flere dataanlægs oplysninger og programmer hos en række  \r\n\r\n nærmere angivne offentlige institutioner og private virksomheder. (Efter den  \r\n\r\n nævnte bestemmelse i straffeloven straffes den, som uberettiget skaffer sig  \r\n\r\n adgang til en andens oplysninger eller programmer, der er bestemt til at  \r\n\r\n bruges i et anlæg til elektronisk databehandling.) </P>  \r\n\r\n<P>Registertilsynet anmodede de pågældende offentlige institutioner og  \r\n\r\n private virksomheder om en redegørelse, herunder specielt en beskrivelse af,  \r\n\r\n hvilke oplysninger der havde været etableret adgang til, og af den anvendte  \r\n\r\n fremgangsmåde. </P>  \r\n\r\n<P>Registertilsynet deltog endvidere i en konference om hacking, som  \r\n\r\n  Dansk Dataforening afholdt i oktober 1991. Her redegjorde en medarbejder  \r\n\r\n fra UNI-C for det opklaringsarbejde, som førte til afsløring af hackerne, og  \r\n\r\n om de fremgangsmåder, de havde betjent sig af. Registertilsynet har  \r\n\r\n yderligere drøftet sagen med repræsentanter fra UNI-C. </P>  \r\n\r\n<P>I det følgende er det kort opsummeret, hvad de forhold, som hackerne blev  \r\n\r\n dømt for, omfattede. </P>  \r\n\r\n<P>På  UNI-C,  Danmarks  edb-center  for  forskning  og  uddannelse, skaffede  \r\n\r\n hackerne sig adgang til UNI-C's net ved opkald til en pulje af modemer. Disse  \r\n\r\n opkaldsmodemer var tilsluttet terminalservere direkte på nettet, hvorfra  \r\n\r\n hackerne havde forbindelse til edb-anlæg i både indland og udland. </P>  \r\n\r\n<P>Hackerne anvendte endvidere en legal autorisation som bruger af flere  \r\n\r\n af UNI-C's systemer til at læse brugerregistreringsfiler i de pågældende  \r\n\r\n systemer og i andre systemer på UNI-C's net. Det lykkedes hackerne herved af  \r\n\r\n finde frem til et antal brugeridentifikationer med tilhørende let  \r\n\r\n gennemskuelige adgangskoder (password). </P>  \r\n\r\n<P>I en uddannelsesinstitution skaffede hackerne sig adgang via et  \r\n\r\n opkaldsmodem til institutionens uddannelsesanlæg, der indeholder oplysninger  \r\n\r\n til brug i forbindelse med afvikling af undervisning, men ikke til  \r\n\r\n institutionens administrative systemer. Adgangen etableredes ved brug af  \r\n\r\n brugeridentifikationer, der ikke var beskyttede med password. Det oplystes i  \r\n\r\n denne sammenhæng, at kun få brugere havde etableret adgangskontrol med  \r\n\r\n password. </P>  \r\n\r\n<P>I et ingeniørfirma skaffede hackerne sig ved opkald til firmaets edb-net  \r\n\r\n adgang til en tilsluttet arbejdsstation, der alene indeholdt ingeniørteknisk  \r\n\r\n programmel og projektdata. Den pågældende arbejdsstation var fejlagtigt ikke  \r\n\r\n sikret med password for systemadgang. </P>  \r\n\r\n<P>I en kommune skaffede hackerne sig ved opkald til et tilsluttet modem  \r\n\r\n adgang til kommunens leverandørregisters oplysninger om check- og  \r\n\r\n giroindbetalinger, der var registreret den foregående dag. Det nævnte modem  \r\n\r\n var tændt, idet edb-leverandøren i den pågældende periode foretog  \r\n\r\n omprogrammering i det edb-anlæg, hvorpå registeret føres, og den anvendte  \r\n\r\n brugeridentifikation til systemet var beskyttet med et let gennemskueligt  \r\n\r\n password. </P>  \r\n\r\n<P>Sidstnævnte forhold indebar efter Registertilsynets opfattelse en  \r\n\r\n overtrædelse af lov om offentlige myndigheders registre, og Registertilsynet  \r\n\r\n har foretaget indberetning af forholdet til kommunalbestyrelsen i  \r\n\r\n Lyngby-Taarbæk Kommune. Der henvises til omtale heraf i afsnit 3.1.1. </P>  \r\n\r\n<P>De omhandlede offentlige institutioner og private virksomheder har i deres  \r\n\r\n redegørelser og efterfølgende redegjort for, hvad man har gjort i anledning  \r\n\r\n af sagen. </P>  \r\n\r\n<P>Det skal bemærkes, at der i ingen tilfælde er konstateret sletning eller  \r\n\r\n ændring i indholdet af de systemer, som hackerne har skaffet sig adgang til.  \r\n\r\n</P>  \r\n\r\n<P>Sagen giver efter Registertilsynets opfattelse anledning til overvejelser  \r\n\r\n af flere forhold. Her skal særligt fremhæves det forhold, at hackernes  \r\n\r\n indtrængen i de omhandlede edb-systemer i langt overvejende grad har været  \r\n\r\n muliggjort af de pågældende virksomheders og myndigheders manglende eller  \r\n\r\n utilstrækkelige adgangskontrol til systemerne. Hackerne har anvendt indgange  \r\n\r\n til systemerne, som har været uden nogen som helst form for adgangskontrol,  \r\n\r\n og indgange, der har været beskyttet med password, som det har været muligt  \r\n\r\n for hackerne at gætte. Hackerne har herved endvidere kunnet finde frem til  \r\n\r\n eksisterende brugeridentifikationer med tilhørende password og har på den  \r\n\r\n måde skaffet sig adgang til systemer under foregivelse af at være legale  \r\n\r\n brugere. </P>  \r\n\r\n<P>Registertilsynet finder det bemærkelsesværdigt, at manglende eller  \r\n\r\n uhensigtsmæssige (let gennemskuelige) password i den grad har været - og er -  \r\n\r\n en meget væsentlig del af grundlaget for hackernes indtrængen, idet netop  \r\n\r\n password generelt må anses for at være et af de mest fundamentale  \r\n\r\n sikkerhedselementer, og vigtigheden af at konstruere gode - ikke  \r\n\r\n gennemskuelige - password et af de mest omtalte emner i denne sammenhæng.  \r\n\r\n</P>  \r\n\r\n<P>Det er i denne forbindelse karakteristisk, at det i yderligere et forhold,  \r\n\r\n omfattet af dommen, ikke lykkedes hackerne at komme længere end til det  \r\n\r\n pågældende systems adgangsbillede. Et effektivt og vel gennemtænkt  \r\n\r\n sikkerhedssystem afviste hackernes forsøg på at skaffe sig adgang til  \r\n\r\n oplysninger i systemet, samtidig med at det løbende foretog registrering  \r\n\r\n heraf. </P>  \r\n\r\n<P>Uanset hackerne i dette tilfælde således ikke skaffede sig adgang til  \r\n\r\n oplysninger i systemet, fandt retten, at der ved forsøget herpå var sket  \r\n\r\n overtrædelse af straffelovens § 263, stk. 2. Efter kommentarerne til denne  \r\n\r\n bestemmelse er forbrydelsen fuldbyrdet, når man har skaffet sig adgang, dvs.  \r\n\r\n når der ved tilkobling og betjening af anlægget er opnået forbindelse til  \r\n\r\n dettes indhold. Det kræves ikke, at man faktisk har fået kendskab til  \r\n\r\n oplysninger eller andet i systemet. </P>  \r\n\r\n<P>For så vidt angår det ovenfor anførte om anvendelse af password bemærkes  \r\n\r\n det, at forskrifterne for offentlige myndigheders registre standardmæssigt  \r\n\r\n indeholder bestemmelser om, at der skal etableres adgangkontrol til  \r\n\r\n registrene ved tildeling af password. Det er Registertilsynets opfattelse, at  \r\n\r\n der ikke i registerforskrifterne bør angives detaljer om konstruktion af  \r\n\r\n password, hvorimod retningslinier herfor bør være indeholdt i de enkelte  \r\n\r\n uddybende sikkerhedsregler. Ved inspektioner hos offentlige myndigheder tager  \r\n\r\n Registertilsynet ofte dette spørgsmål op og må jævnligt påpege vigtigheden  \r\n\r\n af, at sådanne retningslinier fastlægges. </P>  \r\n\r\n<P>Et andet væsentligt forhold, som påkalder sig særlig opmærksomhed, er  \r\n\r\n anvendelsen af opkaldslinier. </P>  \r\n\r\n<P>For at finde frem til telefonnumre for de anvendte opkaldslinier anvendte  \r\n\r\n hackerne et i hackerkredse almindeligt kendt program, der kan afsøge hele  \r\n\r\n nummerområder i telefonnettet for numre, hvortil der er sluttet  \r\n\r\n opkaldsmodemer, og producere en fortegnelse over sådanne numre. Det indebærer  \r\n\r\n således ingen sikkerhed mod uautoriserede opkald at hemmeligholde  \r\n\r\n opkaldsnummeret, i hvert fald ikke mod opkald fra personer, som vil anvende  \r\n\r\n det omtalte program. </P>  \r\n\r\n<P>Dette bør føre til overvejelser om, hvorvidt anvendelse af opkaldslinier  \r\n\r\n uden særlige sikkerhedsforanstaltninger medfører risici, som ikke kan  \r\n\r\n accepteres. Heri bør indgå en vurdering af risikoen for forstyrrelser eller  \r\n\r\n blokeringer i net og edb-anlæg, som kan opstå, når et adgangskontrolsystem  \r\n\r\n udsættes for intense adgangsforsøg, f.eks. fra pc-programmer, der automatisk  \r\n\r\n afprøver mulige password. (Der henvises i øvrigt til pkt. 1 (KMD-sagen om  \r\n\r\n opkaldsforbindelser.)) </P>  \r\n\r\n<P>Registerrådet har fået en orientering om sagen og tilkendegav, at man  \r\n\r\n fandt det væsentligt, at der skabes opmærksomhed om de sikkerhedsspørgsmål,  \r\n\r\n som indgår deri. </P>  \r\n\r\n<P>Sagen er desuden nærmere omtalt i afsnit 3.1.2. </P>  \r\n\r\n</DIV><div class=\"bjelke\">Officielle noter</div><DIV CLASS=PARA ID=\"NOTER\"> \r\n\r\n\r\n<P>(* 1) Registertilsynets Årsberetning 1991 side 143. </P>  \r\n\r\n</DIV>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Justitsministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 20,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "25/09/1997"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "W19911103425"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "CA003622"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "07/05/2002"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Endelig adm. afgørelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "W "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "11034"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "1991"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "15/04/1991"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Datatilsynet"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Registertilsynet 1991-107-002"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": false
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}

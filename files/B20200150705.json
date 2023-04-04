@@ -1,0 +1,75 @@
+{
+    "id": 216576,
+    "title": "Bekendtgørelse om ændring af momsbekendtgørelsen",
+    "documentTypeId": "80",
+    "isSagsforlobPeriodValid": true,
+    "shortName": "BEK nr 1507 af 19/10/2020",
+    "documentHtml": "<div class=\"bjelke\">Den fulde tekst</div><p class=\"Titel2\">Bekendtgørelse om ændring af momsbekendtgørelsen</p>\r\n<p class=\"CentreretParagraf\">§ 1</p>\r\n<p class=\"Paragraf\">I momsbekendtgørelsen, bekendtgørelse nr. 808 af 30. juni 2015, som ændret senest ved bekendtgørelse nr. 1340 af 9. december 2019, foretages følgende ændringer:</p>\r\n<p class=\"AendringMedNummer\">\r\n   <span class=\"AendringNr\">1.</span> <span class=\"Italic\">Indledningen</span> affattes således:</p>\r\n<p class=\"TekstGenerel\">»I medfør af § 13, stk. 1, nr. 17, og stk. 3, § 29, stk. 4, § 34, stk. 1, nr. 5, og stk. 4, 5 og 9, § 35, stk. 1, nr. 2, § 36, stk. 1, nr. 2 og 3, og stk. 5, § 37, stk. 4, § 38, stk. 4, § 42, stk. 5, § 43, stk. 4, § 45, stk. 15, § 46, stk. 15, § 46 b, stk. 2, § 51, stk. 3, § 51 b, stk. 2, § 52 a, stk. 9 og 11, § 52 c, stk. 6, § 53, stk. 1, § 54, stk. 1 og 2, § 55, § 55 c, stk. 2, § 57, stk. 1, § 62 a, stk. 6, § 64, stk. 1, § 66 k, § 68 a, stk. 2, § 70, stk. 4 og 5, § 72, stk. 5, § 73 a, stk. 3, § 78, stk. 2, og § 81, stk. 2, i momsloven, jf. lovbekendtgørelse nr. 1021 af 26. september 2019, som ændret ved lov nr. 1295 af 5. december 2019 og lov nr. 810 af 9. juni 2020, og i medfør af § 35, stk. 1-4, i skatteforvaltningsloven, jf. lovbekendtgørelse nr. 635 af 13. maj 2020, og efter forhandling med udenrigsministeren og forsvarsministeren, fastsættes:«</p>\r\n<p class=\"AendringMedNummer\">\r\n   <span class=\"AendringNr\">2.</span> Efter § 62 indsættes før overskriften før § 63:</p>\r\n<p class=\"ParagrafGruppeOverskrift\">\r\n   <span>\r\n      <span class=\"Italic\">»Digitale salgsregistreringssystemer</span>\r\n   </span>\r\n</p>\r\n<p class=\"Paragraf\" id=\"id3b6de8ab-df66-4a28-92d2-2689b571d8fe\">\r\n   <span class=\"ParagrafNr\">§ 62 a.</span> Digitale salgsregistreringssystemer skal opfylde følgende krav:</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"idb0f3d04f-b9fc-4a79-b542-89b217e689bd\">1)</span> Alle handlinger via salgsregistreringssystemer skal registreres i systemets elektroniske journal (logges). Transaktionsdata i den elektroniske journal skal signeres digitalt med et dansk OCES-certifikat, udstedt til den erhvervsdrivende, så integriteten af data i den elektroniske journal kan verificeres i forbindelse med kontrol.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id91ec952d-1351-4221-a0fd-06fb362453c3\">2)</span> Den elektroniske journal skal indeholde de oplysninger, som også skal indeholdes på en forenklet faktura eller en kassebon til kunden, jf. § 63. For hver transaktion skal den elektroniske journal desuden indeholde:</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"idcb736c8a-b4ef-4729-a506-541fa8508492\">a)</span> Tidspunktet for købets start og afslutning/afbrydelse.</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"idfbfe1a9f-f52c-414b-afe2-ed410c3deaaf\">b)</span> Et fortløbende transaktionsnummer, som skal være unikt for den erhvervsdrivende (pr. cvr-nummer).</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"iddc87d078-7ed8-40ec-87a3-b74a495071c3\">c)</span> Den anvendte betalingsmetode.</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"idb04f6852-0a1c-44ea-bb9b-d54c3fc1260a\">d)</span> Serienummeret på det digitale salgsregistreringssystem.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"ide1f0e43b-1fe5-4768-9b68-e842d072f1d6\">3)</span> Salgsregistreringssystemet skal kunne producere en fil direkte fra den elektroniske journal i SAF-T format. Skatteforvaltningen udarbejder en dansk vejledning i brugen af SAF-T formatet.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id72ac7e89-a772-41f6-8101-47ccac7f2411\">4)</span> Filen fra den elektroniske journal skal kunne udlæses på almindeligt tilgængelige elektroniske medier eller på anden vis kunne overføres digitalt til myndighederne på forlangende.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id8d11fa6e-108c-45f0-9263-3c2816a77e93\">5)</span> Salgsregistreringssystemet skal kunne danne en rapport med dagens omsætning der, efter registrering i den elektroniske journal, nulstiller salgstællerne m.v. (en Z-rapport).</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"idbf7d2e83-a8e0-4464-b385-bfc9c432b776\">6)</span> Salgsregistreringssystemet skal kunne danne en rapport med omsætning indtil dannelse uden nulstilling af salgstællere m.v. (en X-rapport).</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id4c3718a4-4cdd-4680-8396-cb512201cec3\">7)</span> Digitale betalingsmidler som betalingskort, mobilbetaling m.v. skal være koblet til salgsregistreringssystemet på en sådan måde, at betaling med digitale betalingsmidler automatisk registreres i det digitale salgsregistreringssystem.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"idd9e0452e-9cab-4be7-a39e-a0c9c008e80a\">8)</span> Salgsregistreringssystemet skal kunne registrere særskilte totaler for de anvendte betalingsmidler, dvs. totaler for henholdsvis kontantbetaling, betaling med kort og mobilbetaling m.v.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id106799fb-aff0-44df-b409-8bc4f5ac293c\">9)</span> Der skal være indbygget ur og dato, der er justeret i forhold til dansk normaltid. Alle justeringer af tidsangivelse i systemet skal registreres i den elektroniske journal.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id4035b297-4304-4f94-9278-f8e76a43c718\">10)</span> Der skal være tilknyttet en printerfunktion, bl.a. til udskrivninger af forenklede fakturaer eller kasseboner, jf. § 63, hvis den erhvervsdrivende ikke kan sende kassebonen digitalt til et system, som kunden på forhånd har accepteret.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id9e076bd5-5725-4206-ac3a-08b1fe2f21df\">11)</span> Der skal kunne udskrives en kassebon på forlangende, hvorpå der klart skelnes mellem positive og negative beløb. Kravet anses også for opfyldt, hvis salgsregistreringssystemet kan sende kassebonen digitalt til et system, som kunden på forhånd har accepteret.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id887f9c3e-743d-402e-bcdb-2470c952535d\">12)</span> Salgsregistreringssystemer, der er beregnet til at blive benyttet af flere sælgere, skal kunne registrere transaktioner og totaler separat for hver sælger, herunder salgets størrelse samt type betalingsmiddel.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"idd551cecd-bf3b-4bdd-b9f7-3f95c92bafb1\">13)</span> Undervisning og lignende registreringer uden salg skal medføre kasseboner, der er tydeligt mærket med f.eks. <span class=\"Bold\">»</span>test ikke gyldig« eller <span class=\"Bold\">»</span>undervisning – ikke gyldig«, og sådanne kasseboner må ikke kunne forveksles med ordinære kasseboner.</p>\r\n<p class=\"Liste1\">\r\n   <span class=\"Liste1Nr\" id=\"id013f6a7f-c35a-4790-9f89-57ea8574e980\">14)</span> Når en virksomhed modtager kontanter, jf. § 81, stk. 1, i lov om betalinger, skal salgsregistreringssystemet være udstyret med:</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"id3e7c237c-d753-47e3-9a63-698b2f2855d8\">a)</span> En kasseskuffe til opbevaring af kontanter.</p>\r\n<p class=\"Liste2\">\r\n   <span class=\"Liste2Nr\" id=\"id30c6e123-e9bc-4952-8d96-2baa44f8a138\">b)</span> Mulighed for vekselkasse (opgørelse over mønt- og seddeltyper).</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"id045448b7-577c-4e75-9213-372f68f3c96c\">Stk. 2.</span> Det digitale salgsregistreringssystem må ikke indeholde funktioner, der gør det muligt at tilføje, redigere eller slette oplysninger.</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\" id=\"idcea3074e-5ec0-4710-b987-afca76efdfbb\">Stk. 3.</span> Det digitale salgsregistreringssystem må ikke kunne sammenkobles eller integreres med software eller hardware, der gør det muligt at tilføje, redigere eller slette oplysninger i den elektroniske journal.«</p>\r\n<p class=\"AendringMedNummer\">\r\n   <span class=\"AendringNr\">3.</span> I <span class=\"Italic\">§ 133, stk. 1, nr. 2, </span>indsættes efter »§ 62,«: »§ 62 a,«.</p>\r\n<p class=\"CentreretParagraf\">§ 2</p>\r\n<p class=\"Stk2\">\r\n   <span class=\"StkNr\">\r\n   </span> Bekendtgørelsen træder i kraft den 1. juli 2021.</p><div class=\"Givet\" id=\"Givet\"><p class=\"Givet\" align=\"center\">Skatteministeriet, den 19. oktober 2020</p><p class=\"Sign1\" align=\"center\">Morten Bødskov</p><p class=\"Sign2\" align=\"right\">/ Per Hvas</p></div>",
+    "isHistorical": true,
+    "editorialNotes": [],
+    "alternativeMedia": [],
+    "ressort": "Skatteministeriet",
+    "isReprint": false,
+    "geografiskDaekningId": 0,
+    "retsinfoKlassifikationId": 10,
+    "caseHistoryReferenceGroup": [],
+    "metadata": [
+        {
+            "displayName": "Offentliggørelsesdato",
+            "displayValue": "24/10/2020"
+        },
+        {
+            "displayName": "Accession",
+            "displayValue": "B20200150705"
+        },
+        {
+            "displayName": "Entydig dokumentidentifikation",
+            "displayValue": "AN014576"
+        },
+        {
+            "displayName": "Dato for førstegangsindlæggelse",
+            "displayValue": "24/10/2020"
+        },
+        {
+            "displayName": "Dato for indlæggelse",
+            "displayValue": "24/10/2020"
+        },
+        {
+            "displayName": "Dokumenttype",
+            "displayValue": "Ændringsbekendtgørelse"
+        },
+        {
+            "displayName": "Dokumentets rangering",
+            "displayValue": "B "
+        },
+        {
+            "displayName": "Forskriftens nummer",
+            "displayValue": "1507"
+        },
+        {
+            "displayName": "År for udstedelse",
+            "displayValue": "2020"
+        },
+        {
+            "displayName": "Dato for underskrift",
+            "displayValue": "19/10/2020"
+        },
+        {
+            "displayName": "Offentliggjort i (publiceringsmedie)",
+            "displayValue": "Lovtidende A"
+        },
+        {
+            "displayName": "Administrerende myndighed",
+            "displayValue": "Skatteforvaltningen"
+        },
+        {
+            "displayName": "Ressortministeriets journalnummer",
+            "displayValue": "Skattemin., j.nr. 2020-5185"
+        }
+    ],
+    "pdfLink": {
+        "isPdfAvailable": true
+    },
+    "documentFobTagGroup": [],
+    "hasFobTags": false
+}
