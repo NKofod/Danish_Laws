@@ -1,0 +1,64 @@
+ Studieplanen har virkning fra den 1. januar 1986.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv. insp.
+ 2.8 Grafikprogrammering.
+Computergrafik omhandler oprettelse, lagring og manipulation af modeller  
+
+ af objekter og de tilhørende billeder ved hjælp af en computer.
+Med  
+
+ interaktiv computergrafik kan brugeren dynamisk kontrollere billedets  
+
+ indhold,, format, størrelse og farve.
+Kurset fokuserer på systemer og  
+
+ teknikker, som er relevante til begge dele.
+ Kurset formål.
+ Kurset skal give den studerende indsigt i principperne for  
+
+ grafik-systemers opbygning, samt teknikker for programmering med disse,  
+
+ således at den studerende bliver i stand til at vurdere forskellige systemers  
+
+ anvendelighed til bestemte formål, samt i stand til at designe og konstruere  
+
+ mindre systemer baseret herpå.
+ Formelle adgangsbetingelser.
+Symbolsk maskinsprog Problemorienteret sprog Drift Anbefalede forudsætninger.
+Kendskab til Pascal eller C, f.eks. ved at følge 2.1 Sproglære eller.
+2.2 Programkonstruktion Hovedemner.
+ Systemarkitektur.
+ Den studerende skal kende grafik-systemers opbygning, samt bibringes en  
+
+ viden om karakteristika for grafisk udstyr, således at han kan vælge en  
+
+ relevant konfiguration til et givet formål.
+Grafiksystemers opbygning omhandler elementerne i CORE eller GKS-baserede  
+
+ systemer, som er de mest udbredte profesionelle systemer på centrale  
+
+ datamater.
+Grafiske arbejdsstationer i et lokalt net er den anden yderlighed,  
+
+ som vinder større og større udbredelse.
+Tendensen går imod mere avanceret  
+
+ hardware, med indbyggede funktioner til billedbehandling.
+ Programkonstruktion.
+ Den studerende skal kende principperne for brugervenlig dialog design og  
+
+ kunne konstruere strukturerede programmer, som opfylder disse krav.
+ Grundlæggende geometri.
+ Den studerende skal kende den grundlæggende geometri, som grafiksystemerne  
+
+ bygger på, samt de standardalgoritmer, som bruges til clipping , window to  
+
+ viewport mapping og transformation.
+ Anvendelser.
+Den studerende skal orienteres om forskellige anvendelses-områder, hvor  
+
+ udviklingen indenfor grafik har haft en stor indflydelse, f.eks.
+CAD/CAM,  
+
+ korttegning, business graphics, kontorautomation.

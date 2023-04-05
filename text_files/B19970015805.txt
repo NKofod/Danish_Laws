@@ -1,0 +1,97 @@
+ I medfør af § 11, stk. 1, nr. 6, § 58, stk. 4, og § 72, stk. 2, i lov om  
+
+ apoteksvirksomhed, jf. lovbekendtgørelse nr. 657 af 28. juli 1995, og § 9,  
+
+ stk. 3, og § 44, stk. 2, i lov om lægemidler, jf. lovbekendtgørelse nr. 656  
+
+ af 28. juli 1995, fastsættes efter bemyndigelse i henhold til § 1, stk. 2, i  
+
+ bekendtgørelse nr. 198 af 24. marts 1995 om indberetning af oplysninger om  
+
+ omsætning mv. af lægemidler mv.:
+ § 1.  Indberetning af omsætningsoplysninger til  
+
+ lægemiddelstatistikregistret i henhold til bekendtgørelse om indberetning af  
+
+ oplysninger om omsætning mv. af lægemidler mv. skal foretages som anført i  
+
+ bilag 1 og 2 til denne bekendtgørelse.
+ § 2.  Følgende personer, virksomheder m.m. skal  
+
+ indberette omsætningsoplysninger til Lægemiddelstyrelsen:
+ § 3.  Lægemiddelstyrelsen kan herudover i medfør af  
+
+ lægemiddellovens § 9, stk. 4, kræve, at virksomheder, der fremstiller,  
+
+ indfører, udfører, oplagrer, forhandler, udleverer, fordeler eller emballerer  
+
+ lægemidler, og disse virksomheders foreninger og brancheorganisationer  
+
+ indsender oplysninger i maskinlæsbar form om omsætning mv. af lægemidler.
+ § 4.  Med bøde straffes den, der overtræder § 1 eller  
+
+ § 2.
+ Stk. 2.  Der kan pålægges selskaber mv. (juridiske  
+
+ personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+ § 5.  Bekendtgørelsen træder i kraft den 1. marts  
+
+ 1997.
+ Stk. 2.  Bekendtgørelse nr. 877 af 20. november 1995 om  
+
+ indberetning af oplysninger til Sundhedsstyrelsens lægemiddelstatistik  
+
+ ophæves.
+Lægemiddelstyrelsen, den 19. februar  
+
+ 1997 Mogens Bjørnbak Hansen / Lasse Larsen Bilag 1 Beskrivelse af de oplysninger, der månedsvis skal indsendes til  
+
+ Lægemiddelstyrelsen i maskinlæsbar form.
+1. Generelle bemærkninger 1.1 På grundlag af oplysninger indsamlet fra apoteker, sygehusapoteker,  
+
+ serumlaboratorier og medicinalfirmaer mv., etableres en  
+
+ lægemiddelstatistikdatabase til brug for udarbejdelse af statistik, analyser,  
+
+ prisindeks og overvågning af lægemiddelforbruget.
+Formålet er at styrke  
+
+ myndighedernes beslutningsgrundlag.
+ Afsnit 2 angiver de tekniske og indholdsmæssige krav til disketter og  
+
+ filer.
+ Afsnit 3 er en beskrivelse af oplysningerne, der skal indberettes.
+Afsnit 4 er en samlet oversigt over oplysninger, der skal indberettes,  
+
+ herunder hvilke oplysninger, der skal indsendes af apotekere og af øvrige  
+
+ indberetningspligtige.
+Af afsnittet fremgår de enkelte felters placering i  
+
+ filen, længde og type mv.
+ Afsnit 5 indeholder en oversigt over koder og tabeller.
+2. Krav til disketter og filer 2.1 Indberetning skal ske på disketter til Lægemiddelstyrelsens Lægemiddelafdeling Lægemiddeldata Frederikssundsvej 378 2700 Brønshøj.
+ 2.2 Følgende disketteformater kan anvendes: 3.5 »»(1,44  
+
+ Mb, HD) og 5 1/4«» (1,2 Mb). Anvendelse af andre formater eller  
+
+ medier forudsætter Lægemiddelstyrelsens tilladelse.
+ 2.3 Hver diskette skal udvendigt, på en label, påføres følgende  
+
+ oplysninger:
+ - Den indberetningspligtiges navn og nummer.
+ - Oplysning om, hvilken måned og år indberetningerne vedrører.
+ - Diskettens nummer og månedens samlede antal disketter.
+ - Navn på en kontaktperson.
+ Hver diskette må kun indeholde en fil.
+ 2.4 Filnavnet skal være i overensstemmelse med de oplysninger, der  
+
+ fremgår af diskettens label og af 1. linie i filen på disketten (jf.  
+
+ nedenfor):
+NUMFIXY.MM hvor NUM er den indberetningspligtiges nummer (3 cifre, evt. med foranstillet  
+
+ nuller), FI er enhedsnummer for underenheder, fx. filial eller apoteksudsalg (2  
+
+ cifre), X er diskettens nummer ud af en sekvens på Y disketter og MM er månedens nummer (op til 2 cifre).
+ 2.5 Den første linie i filen skal have følgende indhold:

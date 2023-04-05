@@ -1,0 +1,83 @@
+Gyldighedsområde Disse tekniske bestemmelser specificerer de tekniske krav og tilhørende  
+
+ prøvningsforskrifter som radiosendeanlæg med meget lav sendeeffekt til  
+
+ anvendelse på frekvenser under 30 MHz skal overholde.
+ Hjemmelsgrundlaget for disse tekniske bestemmelser fremgår af § 7 i  
+
+ Ministeriet for Kommunikation og Turismes bekendtgørelse nr. 738 af 13.  
+
+ august 1994 om oprettelse og drift af visse radioanlæg.
+Ikrafttræden Disse tekniske bestemmelser træder i kraft 1. juni 1995.
+Overholdelse af bestemmelserne Forinden markedsføring påbegyndes skal der, med hjemmel i § 9 i ovennævnte  
+
+ bekendtgørelse, til Telestyrelsen indsendes en erklæring, om at samtlige krav  
+
+ i denne tekniske bestemmelse er overholdt.
+Tekniske krav De tekniske krav med tilhørende prøvningsforskrifter, som anlægget skal  
+
+ opfylde, fremgår af bilag 1 til disse tekniske bestemmelser.
+ Rekvirering af love, bekendtgørelser, standarder m.v.
+ Love, bekendtgørelser og tekniske bestemmelser som er nævnt i denne TB kan  
+
+ fås uden beregning, (hvis ikke andet er angivet ved TB'en i oversigten), ved  
+
+ henvendelse til Telestyrelsen, Holsteinsgade 63, 2100 København Ø, tlf:  
+
+ 35430333, fax: 35431434.
+ETSI dokumenter ((I-)ETS'er og TBR'er samt NET-standarder) kan købes hos  
+
+ Telestyrelsen, ITU rekommandationer m.v. kan købes direkte hos ITU, Place des Nations,  
+
+ CH-1211 Geneve 20, tlf.: +41 22 730 5111, fax: +41 22 730 5194 eller +41 22  
+
+ 733 7256 eller eventuelt gennem Telestyrelsen.
+ Radiorelaterede rekommandationer herunder, ERC Decisons,  
+
+ Radiocommunication Reports, Report Forms og Application Forms,  
+
+ Recommendations on Radiocommunications kan købes hos: ERO, European  
+
+ Radiocommunications Office, Midtermolen 1, 2100 København Ø, tlf: 35250300,  
+
+ fax: 35250330. For yderligere infor-mation henvises til ERO's hjemmeside på  
+
+ internettet (www.ero.dk).
+ ISO/CEN/CENELEC/IEC/DS standarder kan købes hos Dansk Standard,  
+
+ Kollegievej 6, 2920 Charlottenlund, tlf: 39966101, fax: 39966102.
+Bilag 1 til TB 95 058 Tekniske bestemmelser for radiosendeanlæg med meget lav sendeeffekt 1. PRØVNINGSBETINGELSER 1.1 Strømforsyning.
+Såfremt sendeanlægget kraftforsynes fra et indbygget batteri, skal dette anvendes som energikilde under prøvningen.
+For sendeanlæg, som ikke karftforsynes fra et indbygget batteri, anvendes en udvendig strømforsyning.
+ 1.2 Prøvningstemperatur.
+Prøvningen foretages ved en omgivelsestemperatur mellem 15 grader C og 30 grader C og med en relativ luftfugtighed mellem 5 % og 75 %.
+2. NOMINEL SENDEFREKVENS 2.1 Definition.
+Sendeanlæggets nominelle sendefrekvens er den frekvens, hvor anlægget har sin største udstråling af elektromagnetisk energi.
+ 2.2 Målemetode.
+ Sendeanlæggets magnetiske feltstyrke måles efter metoden i afsnit 4.
+2.3 Krav Den nominelle sendefrekvens skal ligge mellem 9 kHz og 30 MHz.
+3. MAXIMAL FELTSTYRKE 3.1 Definition Sendeanlæggets maximale feltstyrke er den magnetiske feltstyrke 3.2 Målemetode Den maximale feltstyrke måles efter metoden i afsnit 4.
+3.3 Krav I frekvensområdet 9 kHz til 4,78 MHz:
+4,3 dBmicroA/m ved 9 kHz faldende med 3,5 dB pr. dekade til -27,5 dBmicroA/m ved 4, 78 MHz, se figur 1.
+ I frekvensområdet 4,78 Mhz til 1000 MHz:
+Maximalt -27,5 dBmicroA/m 4. MÅLEMETODE 4.1 Måleplads og måleopstilling.
+Målepladsen skal være beliggende på et rimeligt plant areal.
+På målepladsen skal der findes et ledende jordnet med en diameter på mindst 5 meter, i hvis midt punkt der anbringes en understøtning med en højde på 1 meter, hvorpå sendeanlægget placeres.
+Målepladsen skal være så stor, at det er muligt at anbringe en måleantenne i en afstand på 10 meter fra centeret af jordnettet.
+Det skal sikres, at refleksioner fra uvedkommende genstande på målepladsen ikke generer målingerne.
+Sendeanlægget anbringes på understøtningen med en orientering svarende til anlæggets normale orientering under brug.
+I en afstand af 10 meter fra sendeanlægget anbringes en kalibreret måleantenne som måler den magnetiske feltstyrkes vertikale komposant.
+Ved frekvenser over 30 MHz kan, i stedet for at måle den magnetiske feltstyrke, måles den elektriske feltstyrke efter følgende formel:
+For fastholdt målefrekvens roteres sendeanlægget i det horisontale plan og der måles i den retning hvor anlægget har den største udstråling.
+Målingen gentages, men med måleantennen orienteret således, at den måler det magnetiske felts horisontale komposant.
+ 4.2 Båndbredder for målemodtageren.
+ Ved målingerne anvendes en målemodtager med følgende båndbredder:
+ 4.3 Målinger.
+Ved enhver frekvens mellem 9 kHz og 1000 MHz, hvor der forekommer udstråling fra sendeanlægget, noteres frekvensen og den målte feltstyrke.
+Signaler som er mindre end 6 dB over målemodtagerens egenstøj noteres ikke.
+Feltstyrker 10 dB eller mere under grænserne i pkt. 3.3 noteres ikke.
+Figur 1. Maximal magnetisk feltstyrke for frekvenser under 4,78 MHz (* 1) I disse tekniske bestemmelser fastsættes af hensyn til den effektive  
+
+ udnyttelse af radiofrekvensspektret visse krav med relation til anlæggenes  
+
+ elektromagnetiske kompatibilitet.

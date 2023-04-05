@@ -1,0 +1,367 @@
+ I medfør af § 11, stk. 1, nr. 6, § 58, stk. 4, og § 72, stk. 2, i lov om  
+
+ apoteksvirksomhed, jf. lovbekendtgørelse nr. 657 af 28. juli 1995, og § 9,  
+
+ stk. 3, og § 44, stk. 2, i lov om lægemidler, jf. lovbekendtgørelse nr. 656  
+
+ af 28. juli 1995, fastsættes efter bemyndigelse i henhold til § 1, stk. 2, i  
+
+ bekendtgørelse nr. 198 af 24. marts 1995 om indberetning af oplysninger om  
+
+ omsætning mv. af lægemidler mv.:
+ § 1.  Indberetning af omsætningsoplysninger til  
+
+ Sundhedsstyrelsens lægemiddelstatistik i henhold til bekendtgørelse om  
+
+ indberetning af oplysninger om omsætning mv. af lægemidler mv. skal foretages  
+
+ som anført i bilaget til denne bekendtgørelse.
+ § 2.  Følgende personer, virksomheder m.m. skal  
+
+ indberette omsætningsoplysninger til Sundhedsstyrelsen:
+ § 3.  Sundhedsstyrelsen kan herudover i medfør af  
+
+ lægemiddellovens § 9, stk. 4, kræve, at virksomheder, der fremstiller,  
+
+ indfører, udfører, oplagrer, forhandler, udleverer, fordeler eller emballerer  
+
+ lægemidler, og disse virksomheders foreninger og brancheorganisationer  
+
+ indsender oplysninger i maskinlæsbar form om omsætning mv. af lægemidler.
+ § 4.  Med bøde straffes den, der overtræder § 1 eller  
+
+ § 2.
+Stk. 2.  For overtrædelser, der begås af aktieselskaber,  
+
+ andelsselskaber eller lignende, kan der efter apotekerlovens § 72, stk. 3, og  
+
+ lægemiddellovens § 44, stk. 3, pålægges selskabet som sådant bødeansvar.
+Hvis  
+
+ overtrædelsen begås af staten, en kommune eller et kommunalt fælleskab, jf. §  
+
+ 60 i lov om kommunernes styrelse, kan der efter samme bestemmelser pålægges  
+
+ staten, kommunen eller det kommunale fælleskab bødeansvar.
+ § 5.  Bekendtgørelsen træder i kraft den 1. januar  
+
+ 1996.
+ Stk. 2.  Bekendtgørelse nr. 1010 af 14. december 1993 om  
+
+ indberetning af oplysninger til Sundhedsstyrelsens lægemiddelstatistik  
+
+ ophæves.
+Sundhedsstyrelsen, den 20. november 1995 Knud Kristensen / Lasse Larsen Bilag Beskrivelse af de oplysninger, der månedsvis skal indsendes til  
+
+ Sundhedsstyrelsen i maskinlæsbar form.
+1. Generelle bemærkninger 1.1 På grundlag af oplysninger indsamlet fra apoteker, sygehusapoteker,  
+
+ serumlaboratorier og medicinalfirmaer mv., etableres en  
+
+ lægemiddelstatistikdatabase til brug for udarbejdelse af statistik, analyser,  
+
+ prisindeks og overvågning af lægemiddelforbruget.
+Formålet er at styrke  
+
+ myndighedernes beslutningsgrundlag.
+ Afsnit 2 angiver de tekniske og indholdsmæssige krav til disketter og  
+
+ filer.
+ Afsnit 3 er en beskrivelse af oplysningerne, der skal indberettes.
+Afsnit 4 er en samlet oversigt over oplysninger, der skal indberettes,  
+
+ herunder hvilke oplysninger, der skal indsendes af apotekere og af øvrige  
+
+ indberetningspligtige.
+Af afsnittet fremgår de enkelte felters placering i  
+
+ filen, længde og type mv.
+ Afsnit 5 indeholder en oversigt over koder og tabeller.
+2. Krav til disketter og filer 2.1 Indberetning skal ske på disketter til Sundhedsstyrelsens  
+
+ Lægemiddelafdeling Lægemiddeldata Frederikssundsvej 378 2700 Brønshøj.
+ 2.2 Følgende disketteformater kan anvendes: 3.5 »»(1,44  
+
+ Mb, HD) og 5 1/4«» (1,2 Mb). Anvendelse af andre formater eller  
+
+ medier forudsætter Sundhedsstyrelsens tilladelse.
+ 2.3 Hver diskette skal udvendigt, på en label, påføres følgende  
+
+ oplysninger:
+ - Den indberetningspligtiges navn og nummer.
+ - Oplysning om, hvilken måned og år indberetningerne vedrører.
+ - Diskettens nummer og månedens samlede antal disketter.
+- Navn på en kontaktperson.
+Hver diskette må kun indeholde en fil.
+ 2.4 Filnavnet skal være i overensstemmelse med de oplysninger, der  
+
+ fremgår af diskettens label og af 1. linie i filen på disketten (jf.  
+
+ nedenfor):
+NUMFIXY.MM hvor NUM er den indberetningspligtiges nummer (3 cifre, evt. med foranstillet  
+
+ nuller), FI er enhedsnummer for underenheder, fx. filial eller apoteksudsalg (2  
+
+ cifre), X er diskettens nummer ud af en sekvens på Y disketter og MM er månedens nummer (op til 2 cifre).
+ 2.5 Den første linie i filen skal have følgende indhold:
+ 2.6 I filen følger herefter linievis de i afsnit 3 specificerede  
+
+ oplysninger pr. ekspederet varenummer.
+Alle linier i filen skal have samme længde, jf. afsnit 4 nedenfor.
+Hver  
+
+ linie i filen afsluttes med CR og LF (ASCII 13 og ASCII 10).
+ 2.7 Felterne F1, F2 og F3 i første linie i filen udfyldes efter  
+
+ følgende retningslinier:
+Feltet skal altid udfyldes, når der til enkeltpersoner ekspederes de i  
+
+ Sundhedsstyrelsens bekendtgørelse nr. 294 af 9. maj 1995, § 4, nævnte  
+
+ lægemidler.
+Må gerne udfyldes ved andre ekspeditioner.
+--------------------------------------------------------------------- 3.3 Ekspeditionstype 3.4 Den indberetningspligtiges nummer Feltet udfyldes med patientens CPR-nummer ved receptsalg til  
+
+ enkeltpersoner på apoteker.
+ Hvis CPR-nummeret ikke er korrekt, anvendes for danske statsborgere  
+
+ bosiddende i Danmark erstatningskoden 4000000995. For andre anvendes følgende  
+
+ erstatningskoder:
+ Feltet udfyldes med 3200000000 ved udlevering af medicin til læge til brug  
+
+ i egen praksis.
+ Feltet udfyldes med 3300000000 ved udlevering af medicin til dyrlæge til  
+
+ brug i egen praksis.Feltet udfyldes med 40000 efterfulgt af apotekets nummer  
+
+ og enhedsnummmer ved leverance af lægemidler til andre apoteker, herunder  
+
+ sygehusapoteker.
+Feltet udfyldes med 450 efterfulgt af sygehus/afdelingskode ved levering  
+
+ af lægemidler til sygehusafdelinger, jf.
+Sundhedsstyrelsens  
+
+ sygehusklassifikation (7 cifre uden punktum). Ved leverance til  
+
+ fællesafdelinger, medicindepoter o.lign., som ikke er anført i  
+
+ sygehusklassifikationen anvendes 450 efterfulgt af sygehusets 4-cifrede  
+
+ nummer efterfulgt af 999. Ved manglende afdelingskode udfyldes feltet med 450  
+
+ efterfulgt af sygehuskoden efterfulgt af 000. Ved manglende sygehus- og  
+
+ afdelingskode anvendes erstatningskoden 4500000000.
+ Feltet udfyldes med 4600000000 ved leverance til fælles lægemiddellagre på  
+
+ plejehjem og andre lignende institutioner.
+--------------------------------------------------------------------- 3.7 Barnets alder --------------------------------------------------------------------- FELT07 --------------------------------------------------------------------- Feltet udfyldes med barnets alder, hvis ordinationen er til en person  
+
+ under 16 år, som ikke har eget sygesikringsbevis.
+ For børn under 2 år anføres alder i måneder (00M-23M). Hvis barnet er 2 år  
+
+ eller derover, anføres alder i år (02Y-15Y).
+--------------------------------------------------------------------- 3.8 Identifikation af receptudsteder Feltet skal udfyldes, uanset om ordinationen er tilskudsberettiget eller  
+
+ ej.
+For alment praktiserende læger, vagtlæger, tandlæger og speciallæger  
+
+ indberettes ydernummer.
+Hvis ydernummeret ikke er modulus-11-korrekt anvendes  
+
+ erstatningskoden 0990019. Hvis ydernummeret ikke kan fremskaffes, eller  
+
+ receptudstederen ikke har et ydernummer, anvendes erstatningskoden 0990027.
+For sygehuslæger indberettes sygehus/afdelingskode, jf.
+Sundhedsstyrelsens  
+
+ sygehusklassifikation.
+Ved manglende sygehus/afdelingskode anvendes  
+
+ erstatningskoden 0990027.
+For dyrlæger anvendes Veterinærdirektoratets autorisationsnummer.
+For at  
+
+ undgå sammenfald mellem ydernummer og autorisationsnummer, indberettes  
+
+ autorisationsnummer med V som 1. karakter i feltet, efterfulgt af det  
+
+ 6-cifrede autorisationsnummer med foranstillede nuller.
+Ved uoplyst  
+
+ autorisationsnummer benyttes erstatningskoden V000000.
+Ved leverance til sygehusafdelinger udfyldes feltet med  
+
+ sygehus/afdelingskode, jf.
+Sundhedsstyrelsens sygehusklassifikation.
+Ved  
+
+ leverance til fællesafdelinger, medicindepoter o.lign., som ikke er anført i  
+
+ sygehusklassifikationen anvendes sygehusets 4-cifrede nummer efterfulgt af  
+
+ 999. Ved manglende sygehus/afdelingskode anvendes erstatningskoden 0990027.
+Ved leverance til fælles lægemiddellagre på plejehjem og lignende  
+
+ institutioner udfyldes feltet med den ordinerende læges ydernummer.
+Ved  
+
+ manglende oplysning om ydernummeret anvendes erstatningskoden 4600000.
+ Lægens CPR-nummer skal indberettes, når der til enkeltpersoner ekspederes  
+
+ de i Sundhedsstyrelsens bekendtgørelse nr. 294 af 9. maj 1995, § 4, nævnte  
+
+ lægemidler på recepter, der er modtaget elektronisk, via telefax eller  
+
+ telefonisk.
+ Ved ordinationer foretaget af læger med dansk autorisation uden dansk  
+
+ CPR-nummer udfyldes feltet med de under punkt 3.6 ovenfor nævnte  
+
+ landeafhængige erstatningskoder.
+ Ved rekvisitioner foretaget af skibsførere udfyldes feltet med  
+
+ erstatningskoden 4000000103.
+--------------------------------------------------------------------- 3.10 Receptens dato Receptens løbenummer skal indberettes, når der til enkeltpersoner  
+
+ ekspederes de i Sundhedsstyrelsens bekendtgørelse nr. 294 af 9. maj 1995, §  
+
+ 4, nævnte lægemidler på særligt udformede receptblanketter.
+ Varenumrene på farmaceutiske specialiteter følger pakningernes varenumre.  
+
+ Øvrige varenumre følger apotekeres og grossisters fælles varenumre.
+ Ved ekspeditioner, hvor varenummer er uoplyst, anvendes følgende  
+
+ varenumre:
+ Recepturgebyr indgår i ekspeditionens pris, jf. punkt 3.15 nedenfor.
+ Færdigbehandlingsgebyr og fremstillingsgebyr indgår i AUP.
+--------------------------------------------------------------------- 3.13 Antal pakninger Der indberettes et »»G«» for generisk substitution,  
+
+ hvis der er en G-markering på recepten og præparatet er omfattet af  
+
+ G-ordningen.
+--------------------------------------------------------------------- 3.16 Ekspeditionens samlede pris For receptekspeditioner til enkeltpersoner på apoteker beregnes  
+
+ ekspeditionens samlede pris som:
+ Ved AUP forstås lægemidlets pris inkl. moms, ekskl. recepturgebyr (dvs.  
+
+ prisen i Specialitetstaksten).
+ I de tilfælde, hvor der ikke udløses recepturgebyr, medregnes  
+
+ recepturgebyr ikke.
+ For sygehusapoteker mv. anføres afregningspris i ører inkl. moms.
+--------------------------------------------------------------------- 3.17 Patientens betaling Ved receptekspeditioner til enkeltpersoner defineres amtskommunens nummer  
+
+ ud fra den sikredes adresse.
+Ved ekspedition af lægemidler til brug i praksis  
+
+ defineres amtskommunens nummer ud fra praksisadressen.
+ Følgende amtskommunekoder skal anvendes:
+ Er den sikrede fra Norden eller EU, anføres 041.
+--------------------------------------------------------------------- 3.19 Amtskommunalt regelnummer 3.20 Amtskommunalt tilskud Gyldige kommunale regelnumre:
+3.23 1. kommunale tilskud Korrektionskoden angiver, om en post er en annullering af en tidligere  
+
+ indberettet post.
+ Kodeværdier:
+ Hvis korrektionskoden er 1 betragtes beløb og varemængde som negative.
+--------------------------------------------------------------------- 4. Oversigt over oplysninger, der skal indberettes, og  
+
+ felternes placering 4.1. Nedenfor gives en samlet oversigt over oplysninger, der indberettes.  
+
+ Positionen angiver felternes placering i filen.
+ Der anvendes samme snitflade for alle indberetningspligtige og for alle  
+
+ typer indberetninger.
+ Der skelnes mellem to typer felter: N, der er numeriske felter  
+
+ (udelukkende tal) og A, der er alfanumeriske felter (tekst, eventuelt  
+
+ bogstaver og tal i kombination). Feltets længde (antal karakterer) følger  
+
+ umiddelbart efter feltets type (fx N4 eller A6). Med mindre andet er angivet,  
+
+ skal der indberettes foranstillede nuller i alle felter, der udfyldes.
+ Felterne er som udgangspunkt blanke.
+4.2 Feltoversigt 4.3 Den følgende tabel (4.4 Feltudfyldelse) viser, hvilke felter  
+
+ der - såfremt oplysninger foreligger - skal udfyldes ved henholdsvis:
+ 1. Apotekeres salg af receptpligtige lægemidler og  
+
+ receptordinerede håndkøbslægemidler ordineret af alment praktiserende læger,  
+
+ vagtlæger, speciallæger, tandlæger og sygehuslæger til enkeltpersoner og til  
+
+ brug i egen praksis (ekspeditionstyperne EI og EM).
+ 2. Apotekeres salg af dyrlægeordinerede lægemidler  
+
+ (ekspeditionstyperne DI, ID, DM og MD).
+ 3. Apotekeres salg af håndkøbslægemidler og  
+
+ frihandelsvarer mv. (ekspeditionstyperne HA, HF og SA).
+ 4. Apotekeres leverancer af lægemidler til  
+
+ sygehusafdelinger, plejehjem m.m. (ekspeditionstyperne LI og LM).
+ 5. Apotekeres salg af lægemidler til andre apoteker  
+
+ (ekspeditionstype SL).
+ 6. Apotekeres ekspedition af gebyrer (ekspeditionstype  
+
+ AD). Administrationsgebyrerne kan dog indberettes på en samlet linie pr.  
+
+ måned.
+ 7. Øvrige indberetningspligtiges salg af lægemidler  
+
+ (ekspeditionstyperne AI, AM, SI, SM, PI, PM, LL, LD og LA).
+Ved ekspedition af de i Sundhedsstyrelsens bekendtgørelse nr. 294 af 9.  
+
+ maj 1995, § 4, nævnte lægemidler til enkeltpersoner skal samtlige mulige  
+
+ felter udfyldes.
+Dog indberettes kun enten receptens løbenummer eller lægens  
+
+ CPR-nummer.
+Priser skal anføres i ører inkl. moms.
+Ved momsfrit salg skal det  
+
+ indberettede beløb være tillagt moms.
+4.4 Feltudfyldelse 5. Koder og tabeller 5.1 Sundhedsstyrelsens Lægemiddelafdeling koordinerer og fastlægger gennem  
+
+ denne bekendtgørelse anvendelsen af koder og tabeller.
+ En række tabeller af mindre omfang er angivet i feltbeskrivelserne i  
+
+ afsnit 3 ovenfor.
+ 5.2 Øvrige tabeller:
+a.
+For apotekeres vedkommende anvendes de gældende apoteksnumre.  
+
+ Enhedsnumre til apoteker, filialer og apoteksudsalg skal meddeles til  
+
+ Sundhedsstyrelsens Lægemiddelafdeling.
+b.
+Numre på øvrige indberetningspligtige (sygehusapoteker,  
+
+ serumlaboratorier mv.) vil blive fastlagt af Sundhedsstyrelsens  
+
+ Lægemiddelafdeling.
+c.
+Sundhedsstyrelsens sygehusklassifikation anvendes til identifikation af  
+
+ sygehuse og sygehusafdelinger.
+d.
+Indenrigsministeriets tabel over kommune- og amtskoder anvendes, hvor  
+
+ kommune skal indberettes.
+e.
+Til identifikation af receptudsteder anvendes Sygesikringens  
+
+ identifikation.
+For dyrlæger anvendes Veterinærdirektoratets  
+
+ autorisationskoder.
+f.
+Til identifikation af farmaceutiske specialiteter på pakningsniveau  
+
+ anvendes varenumre.
+Lægemidler uden varenummer tildeles et varenummer.

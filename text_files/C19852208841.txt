@@ -1,0 +1,136 @@
+UNDERVISNINGSMINISTERIET Direktoratet for erhvervsuddannelserne Studieplanen har virkning fra august 1985.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv. insp.
+1.3 DRIFTSADMINISTRATION Formål Driftsadministration dækker en række emner af både administrativ og  
+
+ datamatisk karakter.
+Det er modulets formål at give deltagerne et overblik og  
+
+ en baggrundsviden, der sætter dem i stand til at arbejde med disse emner på  
+
+ en rationel måde.
+Mål Den studerende skal kunne planlægge og afvikle driften af en  
+
+ EDB-installation omfattende personel, data, programmel og materiel.
+Indhold Modulet er inddelt i følgende punkter med angivelse af forelæsningernes  
+
+ omtrentlige fordeling.
+1. Introduktion Formål Introduktionen har til formål at give eleven indblik i den historiske  
+
+ udvikling inden for området driftsadministration, ligesom modulets indhold og  
+
+ forventede forløb præsenteres.
+2. Driftsafdelingens opbygning og funktion Formål Driftsafdelingens placering i en organisation samt afdelingens mål og og  
+
+ struktur skal belyses.
+Den ansvars- og arbejdsmæssige grænseflade til brugere  
+
+ og eventuelt øvrige EDB-afdelinger skal belyses i grove træk.
+Underemner 1. Organisationsstrukturer 2. Målsætning 3. Bemandingsplaner og ansvarsfordeling Mål Den studerende skal udfra givne ydre rammer for en EDB-driftsafdeling  
+
+ kunne opstille:
+1. organisationsplan, 2. målsætning og 3. bemandingsplaner og stillingsbeskrivelser 3. Driftsafvikling og systemimplementering Formål De forskellige driftsformer og ploblemer omkring systemtilpasning og  
+
+ systemimplementering belyses.
+Mål Den studerende skal kunne redegøre for de faktorer, der er afgørende for  
+
+ valg af systemimplementersmetode.
+Underemner Driftsformer - batchkørsler - fjerndatabehandling -  
+
+ datamatnetværk Systemtilpasning - konfigurering - systemgenerering - tuning  
+
+ af systemet Systemimplementering - samlet implementering - stykvis  
+
+ implementering - parallelinstallation - pilotinstallation Sikkerhed - fysisk  
+
+ backup - logisk backup - generationer 4. Driftsdokumentation Formål Formålet er at give den studerende indblik i udformningen af  
+
+ driftsdokumentation.
+Mål Den studerende skal kunne opstille indholdet af den nødvendige  
+
+ driftsdokumentation for en given opgave.
+Underemner Terminer og frister Kørselsforberedelse Operatørvejledning  
+
+ Efterbehandling Forbehandling Resourceforbrug 5. Driftsplanlægning Formål Dette emne har til formål at gøre den studerende bekendt med såvel  
+
+ planlægningsmetoder som planlægningsværktøjer.
+Mål Den studerende skal kunne opstille de nødvendigeprocedurer for  
+
+ driftsplanlægningen ved et givet driftsmiljø.
+Underemner Planlægningsniveauer Planlægningsmodel Ressourceanalyse  
+
+ Belastningsanalyse Revision af planlægningen Beregning af kritisk vej  
+
+ Prioritering Manuelle planlægningsmetoder Halv- og helautomatiske  
+
+ planlægningsmetoder Driftsstatistikker 6. Driftsovervågning Formål Det belyses hvordan overvågningen etableres således, at produktionen  
+
+ overholder normer og krav om sikkerhed og effektivitet samt overholder  
+
+ driftsplanen.
+Mål Den studerende skal kunne opstille de nødvendige  
+
+ driftsovervågningsprocedurer for et givet driftsmiljø.
+Underemner Driftsforstyrrelser for maskinel (Batch/on-line)  
+
+ Driftsafviklingsforstyrrelser Driftsdokumentation Kontrol af kvalitet  
+
+ Sikkerhed Driftseffektivitet Måleteknik Strategi for målinger Måleværktøjer 7. Anskaffelse og udskiftning af udstyr Formål Ud fra aktuelle behov skal det belyses hvilke kriterier, der danner  
+
+ grundlag for beslutning om ændring i udstyr og konfiguration.
+Ligeledes  
+
+ belyses de kontraktmæssige forhold.
+Mål Den studerende skal kunne opstille de nødvendige konfigurationer til  
+
+ løsning af en given opgavemængde.
+Ligeledes skal den studerende kunne  
+
+ opstille de relevante kontraktudkast.
+Underemner Behovsanalyse Markedsundersøgelse Udbydelse Tilbud Vurdering  
+
+ og valg af leverandør Købs- og lejekontrakter Udstyrsvedligeholdelse 8. Maskinrummenes indretning Formål De begrænsninger, som sættes af EDB-udstyrets fysiske krav til miljø og  
+
+ tilgængelighed, samt myndighedernes krav til bygninger og materiel skal  
+
+ belyses med henblik på at kunne dimentionere og udlægge alle lokaler med  
+
+ udstyr på en rationel måde.
+Mål Den studerende skal kunne dimentionere og indrette de nødvendige lokaler  
+
+ for en given installation.
+Underemner Materieltyper Fysiske data om EDB-udstyret EDB-udstyrets krav  
+
+ til miljø Sikkerhedskrav Driftspersonalets krav 9. Driftspersonale Formål Dette emne har til formål at belyse de personalemæssige problemer der er  
+
+ forbundet med administrationen af en driftsafdeling.
+Mål Den studerende skal kunne foretage ansættelse, uddannelse og  
+
+ efteruddannelse af det nødvendige personale til en given driftsafdeling i  
+
+ overensstemmelse med den gældende lovgivning.
+Underemner Personalepolitik Rekrutering Arbejdsmiljø Uddannelse  
+
+ Lovgivning om miljø- og ansættelsesforhold 10. Vedligeholdelse af EDB-udstyr og installationer Formål Vedligeholdelse foretages i et samarbejde mellem driftspersonalet og  
+
+ udstyrsleverandørernes teknikere.
+Det belyses hvilke procedurer, der skal  
+
+ følges ved detektering, diagnostisering og fejlretning.
+Mål Eleven skal kunne opstille rammer for teknisk vedligeholdelse i form af  
+
+ procedurer og vedligeholdelseskontrakter.
+Underemner Betjening af udstyret Fejlrapportering Forebyggende  
+
+ vedligeholdelse MTBF/MTTR Ansvarsfordeling mellem flere udstyrsleverandører  
+
+ Vedligeholdelseskontrakter 11. Debitering af driftsafdelingens ydelser Formål Afhængig af driftsafdelingens mål skal brugerne debiteres for forbrug af  
+
+ ydelser.
+Det skal belyses hvorledes dette er muligt under forskellige  
+
+ driftsformer.
+Mål Den studerende skal kunne opstille retningslinier for debitering af  
+
+ brugerne ved en given driftsafdeling.

@@ -1,0 +1,284 @@
+OKTOBER 1984 Trykt oktober 1985 ORDLISTE Abonnentudstyr : Den del af abonnentens fjernovervågningsudstyr, som  
+
+ vedrører signaludvekslingen over det offentlige alarmsystem.
+ ACK : ACK nowledgement - Positivt kvitteringssignal.
+ ACO : Terminalen ACO benyttes for signalering om AU's primærforsyning fra  
+
+ stærkstrømsnettet (leder i DCIF).
+ADDR : Adresseinformation.
+Data på DPI0 7 opfattes som adresseinformation  
+
+ (leder i PARIF).
+ Adresse 1 eller 2 : Adressefelt i INFO.
+ Alarmterminal : Forbinder abonnentens alarmudstyr med  
+
+ alarmtransmissionssystemet.
+ ALC-protokol : Asynkron linie kontrol protokol til kommunikation mellem  
+
+ vagtcentral og alarmsystem.
+ ALC/FD : ALC-protokol til fuld duplex dataoverførsel mellem vagtcentral og  
+
+ alarmsystem.
+ ALC/HD : ALC-protokol til halv duplex dataoverførsel mellem vagtcentral og  
+
+ alarmsystem.
+ ALK : ALarmKanaler i ATIA bestående af 8 ledere ALK0 7.
+ AMUX : Alarmmultiplexer, hvortil vagtcentraler eller alarmterminaler kan  
+
+ tilsluttes.
+ AS : Grænsesnit AS består af 3 ledere i ATS og ATP til brug for  
+
+ antisabotagekredsløb.
+ASIF : Et grænsesnit, hvor data overføres i parallel form.
+Snittet, der  
+
+ befinder sig i ATIA, består af 21 ledere, som benævnes ved det signal, der  
+
+ overføres.
+ AT : AlarmTerminal.
+ATBU : ATP BUsy dvs.
+ATP er optaget (leder i PARIF).
+ATDA : ATIA DAta er ready.
+Data på STK er gyldige (leder i ASIF).
+ATDR : ATP-Data Ready.
+Angiver gyldighed af DPO0 7 (leder i PARIF).
+ATEX : AT- EXpander.
+Udstyr, der tilsluttet en AT giver mulighed for  
+
+ overførsel af simple alarmer fra 64 abonnenter.
+ ATIA : Alarmterminal med asynkront parallelt interface og for indbygning.
+ ATIS : Alarmterminal med serielt interface og for indbygning.
+ ATIP : Alarmterminal med parallelt interface og for indbygning.
+ ATKAB : Et kabinet med 220 volt strømforsyning, akkumulator og med plads  
+
+ til ATIS + ATPAM.
+ATOK : ATP er OK.
+Alarmterminalens kommunikation med alarmsystemet er i  
+
+ orden (leder i PARIF).
+ ATP : Alarmterminal med parallelt interface.
+ ATPAM : Udstyr mellem ATIS og alarmudstyr, der omdanner interfacet SERIF  
+
+ til PARIF.
+ ATS : Alarmterminal med serielt interface.
+ ATSE : ATIA SEnder en alarmmelding (leder i ASIF).
+ AU : AbonnentUdstyr.
+ AUDR : AU Data Ready: DPI0...7 data kan anvendes (leder i PARIF).
+AUOK : AU er OK, dvs.
+AU er i orden (leder i PARIF og ASIF).
+AVC : Alternativ VagtCentral.
+Hvis AU er tilknyttet to eller flere  
+
+ vagtcentraler, betegnes een vagtcentral som PVC og de øvrige som AVC.
+ Alarmabonnentnummer : 9-cifret nummer, der kendetegner en alarmabonnent.
+ BAO : Terminalen BAO benyttes for signalering om den i AU indbyggede  
+
+ akkumulators tilstand (leder i DCIF).
+ BBL : Angiver længden af INFO minus 1 i vagtcentralens blokformat.
+ Blokformat : En sammensætning af STX, OPK, BBL, INFO, ETX, CHS.
+ CH : CHassis (forbindelse af signallederskærm til chassis i AU).
+ CHS : Checkbyte for transmissionsfejl mellem vagtcentral og alarmsystem.
+ CO : COmmon dvs. fælles (leder i grænsesnit AS i ATS eller ATP).
+ COB : Kommandobyte i ATS på 8 bit.
+ CR : Common Return (fælles returleder i PARIF, SERIF eller ASIF).
+ CSB : Kommandosvarbyte i ATS på 8 bit.
+ DAB : Databyte i ATS på 8 bit.
+Databyte : Del af INFO.
+Indeholder den information, der overføres mellem  
+
+ vagtcentral og alarmsystem.
+ DC : DistriktsCenter.
+ DCIF : Alarmterminalens strømforsyningsinterface i ATIS, ATIP eller ATIA.
+ Distriktscenter : Center for overvågning af alarmsystem og alarmer.  
+
+ Centeret styrer til- og afgange af enheder i systemet.
+DPI0...7 : Data Parallel In består af 8 ledere i grænsefladen PARIF.
+Der  
+
+ påtrykkes lederne den 8 bit information, der ønskes afsendt til  
+
+ alarmsystemet.
+DPO0...7 : Data Parallel Out består af 8 ledere i grænsefladen PARIF.
+På  
+
+ lederne befinder sig den 8 bit information, der sidst er modtaget fra  
+
+ alarmsystemet.
+ DACOM : DAta COMmand skelner mellem data eller kommando (leder i SERIF).
+ DSB : Datasvarbyte i ATS.
+ Dummybyte : 8 bit indholdet er 00000000 og anvendes af ATS ved opsamling  
+
+ af datasvarbyte fra AU.
+ Duplex : Halv duplex: Mulighed for transmission skiftevis (ej samtidig) i  
+
+ begge retninger. : Fuld duplex: Mulighed for transmission samtidig i begge  
+
+ retninger.
+Ekstern test : Fjernovervågningsudstyrstest, som initieres af  
+
+ vagtcentralen i forbindelse med ATS og ATP.
+I ATIA kontrolleres kun  
+
+ tilstanden på ALK og STK.
+ ENQ : ENQuire benyttes af den primære station til afhentning af sidst  
+
+ afgivne kvittering fra den sekundære station.
+ETX : End of TeXt.
+Markerer sammen med CHS afslutning på blokken mellem VC  
+
+ og alarmsystem (værdi lig med 03H).
+ EXTT : DPI0...7 data fra ATP skal betragtes som svar på ExTern Test (leder  
+
+ i PARIF).
+ Fjernovervågningsudstyr : Udstyr, der udfører en eller flere funktioner af  
+
+ følgende arter:
+ 1. Alarm.
+ 2. Fjernstyring.
+ 3. Fjernkontrol.
+ Grænseflade : Et begreb, der generelt omfatter alle forhold i forbindelsen  
+
+ mellem to udstyr med forskellig funktion.
+ I cirkulære nr. 29 angiver ordet grænseflade specielt den ansvarsmæssige  
+
+ afgrænsning mellem abonnentens udstyr og teleadministrationernes udstyr.
+ Grænsesnit : En grænseflade kan opdeles i flere grænsesnit.
+ Handshake : Kvitteringsprocedure.
+Hexadecimalsystem : 16 tals system.
+Et tal, der afsluttes med betegnelsen  
+
+ H, er angivet i dette system.
+INFO : INFOrmation.
+Betegnelse for et antal informationsoktetter i  
+
+ vagtcentralens blokformat bestående af meddelelsestype, adresse 1 og 2 samt  
+
+ et antal databyte.
+ Informationsoktet : 8 bit, som afhængigt af operationskoden bestemmer det  
+
+ arbejde, der skal udføres, eller den information, der skal overføres.
+ INST 1,2 : Abonnentinstallationens tilslutninger (ledere i LINIF).
+ Interface : Grænsesnit.
+ Knudetest : En test, der kontrollerer, at vagtcentralen har forbindelse  
+
+ med alarmsystemet.
+ LIN 1,2 : Telefonliniens tilslutninger (ledere i LlNIF).
+ LINIF : Linieinterface mod det offentlige telefonnet (i ATIS, ATIP og  
+
+ ATIA).
+ LSB : Least Significant Bit - mindst betydende bit.
+ Makroadresse : En adresse, der udpeger f.eks. en terminalstation i  
+
+ alarmsystemet.
+ MB : ModtageBuffer.
+Meddelelse : Kommunikationen i alarmsystemet foregår ved sending af  
+
+ meddelelser.
+Meddelelserne er bygget op i et særligt format og indeholder  
+
+ bl.a. adresser, fortolkningskoder, selve informationen, check-element samt  
+
+ dato og klokkeslæt for afsendelsen.
+ Meddelelsestype : Meddelelsestype kan grupperes i 16 funktionsgrupper:
+0 Logning på DC 1 Returneret meddelelse 2 Broadcast af alarmtilstand 3 Alarmer 4 Styringer 5 Vagtflytning 6 Oprettelse/nedlæggelse af AT 7 Oprettelse/nedlæggelse af VC 8 Test af AT 9 DC- og VC-operationer 10 Opdatering af tabeller 11 Opdatering og aflæsning af variable 12 Overvågning og buffer-allokering 13 Ej defineret 14 Ej defineret 15 Ej defineret Hver funktionsgruppe kan atter underdeles i 16 meddelelsestyper.
+ Mikroadresse : En adresse, der angiver alarmterminalens eller  
+
+ vagtcentralens placering i terminalstation.
+ Modtagebuffer : En buffer, hvori en modtaget blok skal placeres.
+ MSB : Most Significant Bit - mest betydende bit.
+NAK : Not AcKnowledgement.
+Negativt kvitteringssignal, der benyttes som  
+
+ svar, såfremt der forekommer fejl.
+ NC : NetgruppeCenter.
+ NC : Normally Closed (leder i grænsesnittet AS i ATS eller ATP).
+ Netgruppecenter : Et knudepunkt i alarmsystemet, der forbinder  
+
+ terminalstationer med distriktscenter eller andre terminalstationer.
+ NO : Normally Open (leder i grænsesnittet AS i ATS eller ATP).
+ OPK : OPerationsKode, der angiver, om blokken mellem VC og alarmsystem  
+
+ skal opfattes som kommando eller kvittering.
+ Opdateringskode : En kode, der for tabeller angiver, om der skal udføres  
+
+ læsning, indsætning, modificering eller fjernelse, og der for POLL angiver  
+
+ start eller stop.
+PARIF : Et grænsesnit, hvor data overføres i parallel form.
+Snittet, der  
+
+ befinder sig i ATP, består af 24 ledere, som benævnes ved det signal, der  
+
+ overføres.
+POLL : Forespørgsel, som alarmsystemet sender med mellemrum til ATS, ATP  
+
+ eller halv duplex VC.
+Forespørgslen benyttes til overvågning af forbindelsen  
+
+ samt til forespørgsel, om data skal overføres.
+ Primær station : En station, der tager initiativ til en samtale.
+ Protokol : Beskrivelse af arter og sekvenser af en ført samtale.
+PVC : Primær VagtCentral.
+En AT kan været tilknyttet flere vagtcentraler  
+
+ (forskellige typer af alarmer). En af disse betegnes primær vagtcentral PVC  
+
+ og de øvrige alternative vagtcentraler AVC.
+ RDY : ReaDY.
+ RESET : Operationskode, der benyttes som svar på en ENQ efter en restart.
+ Result : Resultatkode.
+ Resultatkode : En kode, der angiver, hvorledes en meddelelsestype er  
+
+ blevet modtaget og fortolket.
+ RET : Terminalen RET er fælles retur for ACO og BAO (leder i DCIF).
+ Samtale : Udveksling af forespørgsler og svar.
+ SB : SendeBuffer.
+ Sekundær station : En station, som tager imod kommandoer, og som sender  
+
+ kvitteringer.
+ Sendebuffer : En buffer, hvori der står en blok, som skal sendes.
+SERIF : Et grænsesnit, hvor data overføres i seriel form.
+Snittet, der  
+
+ befinder sig i ATS, består af 5 ledere, som benævnes ved det signal, der  
+
+ overføres.
+SI : Serial data In.
+Information fra AU til AT i seriel form (leder i  
+
+ SERIF).
+SO : Serial data Out.
+Information fra AT til AU i seriel form (leder i  
+
+ SERIF).
+ STK : Styrekanaler i ATIA bestående af 8 ledere STK0 7.
+STX : Start of TeXt.
+Markerer indledning på en meddelelse mellem VC og  
+
+ alarmsystem (værdi lig med O2H).
+ TA : Tilslutningsled for 8 kHz til alarmsystemet.
+ Tegnformat : Et format, der består af 1 startbit, 8 informationsbit, 1  
+
+ paritetsbit og 2 stopbit.
+ Terminalstation : En knude i alarmsystemet.
+ Testdata : Data, der sendes ud over AT'ens udgange og returneres via  
+
+ AT'ens indgange.
+ Timeout : Tidsudløsning.
+Transmissionsformat : Et format, der er karakteriseret ved et blokformat  
+
+ og et tegnformat.
+Det anvendes i kommunikationen mellem vagtcentral og  
+
+ alarmsystem.
+ TS : TerminalStation.
+ Update : Opdateringskode.
+Vagtcentral : Udstyr, hvortil abonnentalarmer overføres.
+Det kan enten  
+
+ udføres i en version, hvor det tilsluttes alarmsystemet via abonnentens  
+
+ telefonledning og med halv duplex og 150 bit/s eller i en version med fuld  
+
+ duplex og 1200 bit/s direkte tilsluttet en terminalstation.
+ VC : Vagtcentral.

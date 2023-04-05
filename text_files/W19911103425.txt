@@ -1,0 +1,230 @@
+ Gennem en artikel i dagspressen den 1. september 1991 blev  
+
+ Registertilsynet bekendt med, at retten i Lyngby den 21. juni 1991 havde  
+
+ afsagt dom over to hackere, som havde skaffet sig uautoriseret adgang til en  
+
+ række edb-registre i danske virksomheder og offentlige institutioner.
+ Med henvisning til retsplejelovens § 41, stk. 2, anmodede Registertilsynet  
+
+ retten i Lyngby om en udskrift af dommen.
+Det fremgik af domsudskriften, at retten havde fundet hackerne skyldige i  
+
+ overtrædelse af straffelovens § 263, stk. 2, ved uberettiget at have skaffet  
+
+ sig adgang til flere dataanlægs oplysninger og programmer hos en række  
+
+ nærmere angivne offentlige institutioner og private virksomheder. (Efter den  
+
+ nævnte bestemmelse i straffeloven straffes den, som uberettiget skaffer sig  
+
+ adgang til en andens oplysninger eller programmer, der er bestemt til at  
+
+ bruges i et anlæg til elektronisk databehandling.) Registertilsynet anmodede de pågældende offentlige institutioner og  
+
+ private virksomheder om en redegørelse, herunder specielt en beskrivelse af,  
+
+ hvilke oplysninger der havde været etableret adgang til, og af den anvendte  
+
+ fremgangsmåde.
+Registertilsynet deltog endvidere i en konference om hacking, som  
+
+  Dansk Dataforening afholdt i oktober 1991. Her redegjorde en medarbejder  
+
+ fra UNI-C for det opklaringsarbejde, som førte til afsløring af hackerne, og  
+
+ om de fremgangsmåder, de havde betjent sig af.
+Registertilsynet har  
+
+ yderligere drøftet sagen med repræsentanter fra UNI-C.
+ I det følgende er det kort opsummeret, hvad de forhold, som hackerne blev  
+
+ dømt for, omfattede.
+På  UNI-C,  Danmarks  edb-center  for  forskning  og  uddannelse, skaffede  
+
+ hackerne sig adgang til UNI-C's net ved opkald til en pulje af modemer.
+Disse  
+
+ opkaldsmodemer var tilsluttet terminalservere direkte på nettet, hvorfra  
+
+ hackerne havde forbindelse til edb-anlæg i både indland og udland.
+Hackerne anvendte endvidere en legal autorisation som bruger af flere  
+
+ af UNI-C's systemer til at læse brugerregistreringsfiler i de pågældende  
+
+ systemer og i andre systemer på UNI-C's net.
+Det lykkedes hackerne herved af  
+
+ finde frem til et antal brugeridentifikationer med tilhørende let  
+
+ gennemskuelige adgangskoder (password).
+I en uddannelsesinstitution skaffede hackerne sig adgang via et  
+
+ opkaldsmodem til institutionens uddannelsesanlæg, der indeholder oplysninger  
+
+ til brug i forbindelse med afvikling af undervisning, men ikke til  
+
+ institutionens administrative systemer.
+Adgangen etableredes ved brug af  
+
+ brugeridentifikationer, der ikke var beskyttede med password.
+Det oplystes i  
+
+ denne sammenhæng, at kun få brugere havde etableret adgangskontrol med  
+
+ password.
+I et ingeniørfirma skaffede hackerne sig ved opkald til firmaets edb-net  
+
+ adgang til en tilsluttet arbejdsstation, der alene indeholdt ingeniørteknisk  
+
+ programmel og projektdata.
+Den pågældende arbejdsstation var fejlagtigt ikke  
+
+ sikret med password for systemadgang.
+I en kommune skaffede hackerne sig ved opkald til et tilsluttet modem  
+
+ adgang til kommunens leverandørregisters oplysninger om check- og  
+
+ giroindbetalinger, der var registreret den foregående dag.
+Det nævnte modem  
+
+ var tændt, idet edb-leverandøren i den pågældende periode foretog  
+
+ omprogrammering i det edb-anlæg, hvorpå registeret føres, og den anvendte  
+
+ brugeridentifikation til systemet var beskyttet med et let gennemskueligt  
+
+ password.
+Sidstnævnte forhold indebar efter Registertilsynets opfattelse en  
+
+ overtrædelse af lov om offentlige myndigheders registre, og Registertilsynet  
+
+ har foretaget indberetning af forholdet til kommunalbestyrelsen i  
+
+ Lyngby-Taarbæk Kommune.
+Der henvises til omtale heraf i afsnit 3.1.1.
+ De omhandlede offentlige institutioner og private virksomheder har i deres  
+
+ redegørelser og efterfølgende redegjort for, hvad man har gjort i anledning  
+
+ af sagen.
+ Det skal bemærkes, at der i ingen tilfælde er konstateret sletning eller  
+
+ ændring i indholdet af de systemer, som hackerne har skaffet sig adgang til.
+Sagen giver efter Registertilsynets opfattelse anledning til overvejelser  
+
+ af flere forhold.
+Her skal særligt fremhæves det forhold, at hackernes  
+
+ indtrængen i de omhandlede edb-systemer i langt overvejende grad har været  
+
+ muliggjort af de pågældende virksomheders og myndigheders manglende eller  
+
+ utilstrækkelige adgangskontrol til systemerne.
+Hackerne har anvendt indgange  
+
+ til systemerne, som har været uden nogen som helst form for adgangskontrol,  
+
+ og indgange, der har været beskyttet med password, som det har været muligt  
+
+ for hackerne at gætte.
+Hackerne har herved endvidere kunnet finde frem til  
+
+ eksisterende brugeridentifikationer med tilhørende password og har på den  
+
+ måde skaffet sig adgang til systemer under foregivelse af at være legale  
+
+ brugere.
+ Registertilsynet finder det bemærkelsesværdigt, at manglende eller  
+
+ uhensigtsmæssige (let gennemskuelige) password i den grad har været - og er -  
+
+ en meget væsentlig del af grundlaget for hackernes indtrængen, idet netop  
+
+ password generelt må anses for at være et af de mest fundamentale  
+
+ sikkerhedselementer, og vigtigheden af at konstruere gode - ikke  
+
+ gennemskuelige - password et af de mest omtalte emner i denne sammenhæng.
+Det er i denne forbindelse karakteristisk, at det i yderligere et forhold,  
+
+ omfattet af dommen, ikke lykkedes hackerne at komme længere end til det  
+
+ pågældende systems adgangsbillede.
+Et effektivt og vel gennemtænkt  
+
+ sikkerhedssystem afviste hackernes forsøg på at skaffe sig adgang til  
+
+ oplysninger i systemet, samtidig med at det løbende foretog registrering  
+
+ heraf.
+Uanset hackerne i dette tilfælde således ikke skaffede sig adgang til  
+
+ oplysninger i systemet, fandt retten, at der ved forsøget herpå var sket  
+
+ overtrædelse af straffelovens § 263, stk. 2. Efter kommentarerne til denne  
+
+ bestemmelse er forbrydelsen fuldbyrdet, når man har skaffet sig adgang, dvs.  
+
+ når der ved tilkobling og betjening af anlægget er opnået forbindelse til  
+
+ dettes indhold.
+Det kræves ikke, at man faktisk har fået kendskab til  
+
+ oplysninger eller andet i systemet.
+For så vidt angår det ovenfor anførte om anvendelse af password bemærkes  
+
+ det, at forskrifterne for offentlige myndigheders registre standardmæssigt  
+
+ indeholder bestemmelser om, at der skal etableres adgangkontrol til  
+
+ registrene ved tildeling af password.
+Det er Registertilsynets opfattelse, at  
+
+ der ikke i registerforskrifterne bør angives detaljer om konstruktion af  
+
+ password, hvorimod retningslinier herfor bør være indeholdt i de enkelte  
+
+ uddybende sikkerhedsregler.
+Ved inspektioner hos offentlige myndigheder tager  
+
+ Registertilsynet ofte dette spørgsmål op og må jævnligt påpege vigtigheden  
+
+ af, at sådanne retningslinier fastlægges.
+ Et andet væsentligt forhold, som påkalder sig særlig opmærksomhed, er  
+
+ anvendelsen af opkaldslinier.
+For at finde frem til telefonnumre for de anvendte opkaldslinier anvendte  
+
+ hackerne et i hackerkredse almindeligt kendt program, der kan afsøge hele  
+
+ nummerområder i telefonnettet for numre, hvortil der er sluttet  
+
+ opkaldsmodemer, og producere en fortegnelse over sådanne numre.
+Det indebærer  
+
+ således ingen sikkerhed mod uautoriserede opkald at hemmeligholde  
+
+ opkaldsnummeret, i hvert fald ikke mod opkald fra personer, som vil anvende  
+
+ det omtalte program.
+Dette bør føre til overvejelser om, hvorvidt anvendelse af opkaldslinier  
+
+ uden særlige sikkerhedsforanstaltninger medfører risici, som ikke kan  
+
+ accepteres.
+Heri bør indgå en vurdering af risikoen for forstyrrelser eller  
+
+ blokeringer i net og edb-anlæg, som kan opstå, når et adgangskontrolsystem  
+
+ udsættes for intense adgangsforsøg, f.eks. fra pc-programmer, der automatisk  
+
+ afprøver mulige password. (Der henvises i øvrigt til pkt. 1 (KMD-sagen om  
+
+ opkaldsforbindelser.)) Registerrådet har fået en orientering om sagen og tilkendegav, at man  
+
+ fandt det væsentligt, at der skabes opmærksomhed om de sikkerhedsspørgsmål,  
+
+ som indgår deri.
+ Sagen er desuden nærmere omtalt i afsnit 3.1.2.
+ (* 1) Registertilsynets Årsberetning 1991 side 143.

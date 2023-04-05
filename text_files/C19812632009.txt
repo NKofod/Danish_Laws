@@ -1,0 +1,1483 @@
+INDHOLDSFORTEGNELSE Side 0. Ordforklaringer Abonnentledning En abonnentledning er ledningsforbindelsen - normalt to metaltråde i et  
+
+ jordkabel - mellem abonnentadressen og en central i det offentlige  
+
+ telefonnet.
+Abonnentinstallation En abonnentinstallation omfatter de apparater, udstyr og ledninger, som på  
+
+ abonnentadressen er tilsluttet abonnentledningen.
+Rotilstand Rotilstand i et telefonapparat eller andet udstyr i en  
+
+ abonnentinstallation svarer til pålagt mikrotelefon.
+Sløjfetilstand Sløjfetilstand i et telefonapparat eller andet udstyr i en  
+
+ abonnentinstallation svarer til afløftet mikrotelefon.
+Særudstyr Ved et særudstyr forstås et udstyr, som ikke leveres og fejlrettes af  
+
+ teleadministrationerne, men som på de af teleadministrationerne angivne  
+
+ vilkår kan tilsluttes en abonnentinstallation i det offentlige telefonnet.  
+
+ Tilslutning er kun tilladt, hvis udstyret er godkendt af  
+
+ teleadministrationerne som særudstyr.
+Linieklemmer Linieklemmerne i et særudstyr er særudstyrets tilslutningspunkter for  
+
+ forbindelse mod abonnentledningen, eventuel propsnor ikke medregnet.
+Transmissionsudstyr Transmissionsudstyret er den del af et særudstyr eller af den øvrige  
+
+ abonnentinstallation, som formidler udveksling af informationer over en  
+
+ etableret telefonforbindelse.
+1. Almindeligt 1.1. Gyldighedsområde 1.1.1. Nærværende tekniske krav til særudstyr skal være opfyldt af ethvert  
+
+ særudstyr, som ved hjælp af elektriske forbindelser er tilsluttet eller  
+
+ indgår i en abonnentinstallation med sædvanlig analog, totråds tilslutning  
+
+ til abonnentledningen.
+Opmærksomheden henledes på, at eventuelle ændringer af telefonanlæggene  
+
+ eller driften af disse kan medføre ændringer eller nye tekniske krav til  
+
+ særudstyr.
+Teleadministrationerne påtager sig intet ansvar for følgerne  
+
+ heraf, og før anvendelse af nærværende udgave af tekniske krav til særudstyr  
+
+ bør der derfor hos teleadministrationerne indhentes oplysninger om eventuelle  
+
+ ændringer efter udgivelsen.
+1.1.2. For særudstyr med opkalds- og/eller svarefunktion er opfyldelse af  
+
+ nærværende tekniske krav ikke altid tilstrækkelig for rigtig funktion, når et  
+
+ særudstyr er tilsluttet en PACB(privat automatisk bi-central) eller lignende  
+
+ abonnentinstallation.
+Påtænkes et særudstyr anvendt i forbindelse med en  
+
+ sådan abonnentinstallation, må der i hvert enkelt tilfælde indhentes  
+
+ oplysning hos teleadministrationerne om særlige forhold og nødvendige  
+
+ tekniske foranstaltninger.
+ 1.1.3. De i pkt. 7 givne tekniske oplysninger om telefonnetter er beregnet  
+
+ til brug som vejledende retningslinier ved udformning af særudstyrs  
+
+ egenskaber og funktioner.
+De for telefonnettet anførte egenskaber og værdiangivelserne for disse  
+
+ indebære ikke garantier af nogen art og kan når som helst ændres af  
+
+ teleadministrationerne 1.2. Miljøbetingelser 1.2.1. Nærværende tekniske krav til særudstyr skal være opfyldt for  
+
+ omgivelsestemperaturer og relativ fugtighed, der for særudstyr til indendørs  
+
+ brug er angivet på Fig. 1.2.1.a. og for særudstyr til udendørs brug på Fig.  
+
+ 1.2.1.b.
+Kravene skal være opfyldt i hele særudstyrets levetid inden for  
+
+ område A og i mindst 10% af denne levetid inden for område B.
+ 1.2.2. For særudstyr, som strømforsynes fra stærkstrømsnettet, skal  
+
+ nærværende tekniske krav være opfyldt ved netspændinger, der afviger indtil  
+
+ +/- 10% fra den nominelle værdi.
+1.3. Sikkerhed over for stærkstrøm 1.3.1. Særudstyr skal være udført i overensstemmelse med  
+
+ stærkstrømsreglementets forskrifter og skal være D-mærket eller registreret  
+
+ hos DEMKO for så vidt dette kræves ifølge danske love og bestemmelser.
+Registreringspligten gælder for en række arter af elektrisk materiel, som  
+
+ er bestemt til brug ved en nominel tilslutningsspænding mellem 50 og 1000 V  
+
+ vekselspænding.
+Undtaget fra registreringspligten er bl.a. motordrevne  
+
+ kontormaskiner, fremkalde- og fotokopieringsmaskiner samt  
+
+ strømforsyningsenheder og ladeapparater til kontormaskiner.
+ D-mærkning kræves for bl.a. stikkontakter, stikpropper og forlængerled til  
+
+ brug i boliger o.lign. ved en nominel tilslutningsspænding mellem 50 og 1000  
+
+ V.
+ 1.3.2. Der må ikke gennem et særudstyr være jævnstrømsforbindelse fra  
+
+ abonnentledningen eller den øvrige abonnentinstallation til  
+
+ stærkstrømsnettet.
+ Enhver komponent, gennem hvilken der ved fejl vil kunne opstå en sådan  
+
+ forbindelse, skal være afprøvet med en 50 Hz vekselspænding på mindst 2000 V  
+
+ (effektivværdi) i mindst 1 minut.
+ Det sidstnævnte krav betragtes som opfyldt for særudstyr, som fra  
+
+ stærkstrømsnettet udelukkende strømforsynes via en nettransformator  
+
+ (sikkerhedstransformer) med højst 50 V på sekundærsiden, hvis der mellem de  
+
+ elektriske kredsløb, som er i forbindelse med henholdsvis primærsiden og  
+
+ sekundærsiden af nettransformatoren, ikke forekommer gennemslag ved en  
+
+ prøvespænding på mindst 2000 V (effektivværdi) ved 50 Hz.
+1.3.3. For særudstyr, som skal anvendes inden for højspændingsanlægs  
+
+ sikkerhedsafstand, jf.
+Telefontilsynetscirkulære nr. 14, »Sikring af  
+
+ teleanlæg mod overspændinger«, skal der i hvert enkelt tilfælde træffes  
+
+ aftale med teleadministrationen om eventuelle særlige  
+
+ sikkerhedsforanstaltninger.
+1.4. Radiostøj Særudstyr er underkastet bestemmelserne i den danske lovgivning vedrørende  
+
+ radiostøjdæmpning.
+1.5. Mekanisk udførelse Særudstyr skal være af en pålidelig og robust udførelse og en  
+
+ fabrikationsmæssig god kvalitet.
+1.6. Tilslutning til telefonnettet 1.6.1. Særudstyr skal sædvanligvis - som vist i Fig. 1.6.1.a. - afsluttes  
+
+ med en speciel trepolet stikprop (gennemgangsstik) for tilslutning til en  
+
+ stikkontakt i en abonnentinstallation.
+Ved indskydning af den specielle stikprop mellem stikkontakt og  
+
+ telefonstikprop (se Fig. 1.6.1.a.) afbrydes den direkte forbindelse mellem  
+
+ abonnentledning og telefonapparat.
+En eventuel forbindelse mellem  
+
+ abonnentledning og telefonapparat må i så fald etableres i særudstyret.  
+
+ Særudstyret kan herved være indrettet således, at forbindelse er fast etableret mellem abonnentledning og telefonapparat,  
+
+ som vist i Fig. 1.6.1.b. (særudstyret er i dette tilfælde altid koblet  
+
+ parallelt med telefonapparatet, når dette er tilsluttet), eller at forbindelse er etableret mellem abonnentledning og telefonapparat,  
+
+ f.eks. via skiftekontakt(er) som vist i Fig. 1.6.1.c. (skiftekontakterne kan  
+
+ være automatisk og/eller manuelt styret, således at forbindelsen til  
+
+ telefonapparatet kan afbrydes, når særudstyret træder i funktion), eller at forbindelsen ikke er etableret mellem abonnentledning og  
+
+ telefonapparat, som vist i Fig. 1.6.1.d. (særudstyret erstatter i dette  
+
+ tilfælde telefonapparatet, og det er uden betydning for funktionen, om dette  
+
+ er tilsluttet).
+ 1.6.2. Et særudstyr kan også afsluttes i en fempolet stikprop for  
+
+ tilslutning til en fempolet stikkontakt med brydekontakter, som skematisk  
+
+ vist i Fig. 1.6.2.a., b., c. og d.
+Ved isætning af stikproppen i stikkontakten afbrydes den direkte  
+
+ forbindelse mellem abonnentledningen og den efterfølgende  
+
+ abonnentinstallation ved hjælp af brydekontakterne i stikkontakten.
+En  
+
+ eventuel forbindelse mellem abonnentledning og efterfølgende  
+
+ abonnentinstallation må i så fald etableres i særudstyret.
+Særudstyret kan  
+
+ herved være indrettet således, at forbindelse er fast etableret mellem abonnentledning og efterfølgende  
+
+ abonnentinstallation, som vist i Fig. 1.6.2.b. (særudstyret er i dette  
+
+ tilfælde altid koblet parallelt med den øvrige abonnentinstallation, når den  
+
+ fempolede stikprop er isat), eller at forbindelse er etableret mellem abonnentledning og efterfølgende  
+
+ abonnentinstallation, f.eks. via skiftekontakt(er), som vist i Fig. 1.6.2.c.  
+
+ (skiftekontakterne kan være automatisk og/eller manuelt styret, således at  
+
+ forbindelsen til den efterfølgende abonnentinstallation kan afbrydes, når  
+
+ særudstyret træder i funktion), eller at forbindelse ikke er etableret mellem abonnentledning og efterfølgende  
+
+ abonnentinstallation, som vist i Fig. 1.6.2.d. (særudstyret erstatter i dette  
+
+ tilfælde den efterfølgende abonnentinstallation, når den fempolede stikprop  
+
+ er isat).
+2. Egenskaber over for jævnspænding 2.1. Polaritet De efterfølgende krav til særudstyrs jævnspændingsegenskaber skal være  
+
+ opfyldt for vilkårlig polaritet af den spænding, der påtrykkes et særudstyrs  
+
+ linieklemmer.
+2.2. Isolationsmodstand 2.2.1. I et særudstyr i rotilstand skal isolationsmodstanden mellem  
+
+ linieklemmerne være mindst 3 Mohm og mellem de kortsluttede linieklemmer og  
+
+ jord/stel mindst 100 Mohm ved jævnspændinger op til 500 V, se dog pkt. 2.2.3.
+ 2.2.2. I et særudstyr i sløjfetilstand skal isolationsmodstanden mellem  
+
+ enhver af linieklemmerne og jord/stel være mindst 100 Mohm ved jævnspændinger  
+
+ op til 500 V, se dog pkt, 2.2.3.
+ 2.2.3. Dersom et særudstyr er sikret mod overspændinger ved hjælp af  
+
+ overspændingsafledere mellem linieklemmerne indbyrdes og mellem hver af disse  
+
+ og jord/stel, skal kravene i pkt, 2.2.1. og 2.2.2. til isolationsmodstandene  
+
+ dog kun være opfyldt, når overspændingsaflederne er slukket.  
+
+ Overspændingsaflederne skal have en tændspænding på mindst 250 V og en  
+
+ slukkespænding på mindst 60 V.
+ Med tændspænding menes her den spænding, ved hvilken  
+
+ overspændingsaflederens isolationsmodstand bliver mindre end kravene i pkt.  
+
+ 2.2.1. og 2.2.2. Slukkespænding er tilsvarende den værdi, hvor  
+
+ isolationsmodstanden bliver større end krævet i pkt. 2.2.1. og 2.2.2.
+2.3. Sløjfemodstand 2.3.1. I sløjfetilstand skal der mellem et særudstyrs linieklemmer være en  
+
+ jævnstrømssløjfe med en ækvivalent sløjfemodstand på højst 400 ohm, når  
+
+ linieklemmerne påtrykkes jævnspændinger mellem 44 og 56 V gennem modstande i  
+
+ området 2 x 250 ohm til 2 x 1200 ohm.
+Når der fra et særudstyr foretages nummervalg med jævnstrømsimpulser, jf.  
+
+ pkt. 5.3., gælder dette krav dog ikke i tidsrummene fra første brydeimpuls  
+
+ til 5 ms efter sidste brydeimpuls for hvert ciffer.
+I disse tidsrum gælder  
+
+ kravene i pkt. 2.3.2. og 2.3.3.
+ 2.3.2. I tidsrummene mellem brydeimpulserne og 5 ms efter sidste  
+
+ brydeimpuls for hvert ciffer skal der mellem et særudstyrs linieklemmer være  
+
+ en jævnstrømssløjfe med en akvivalent sløjfemodstand på højst 100 ohm, når  
+
+ linieklemmerne påtrykkes jævnspændinger mellem 44 og 56 V gennem modstande i  
+
+ området 2 x 400 ohm til 2 x 1200 ohm.
+ 2.3.3. I tidsrummene under brydeimpulserne skal modstanden mellem et  
+
+ særudstyrs linieklemmer være mindst 100 kohm, når linieklemmerne påtrykkes  
+
+ jævnspænding op til 500 V.
+Dersom et særudstyr i tidsrummene under brydeimpulserne er sikret mod  
+
+ overspændinger ved hjælp af en overspændingsafleder mellem linieklemmerne,  
+
+ skal ovennævnte krav til modstanden dog kun være opfyldt, når  
+
+ overspændingsaflederen er slukket.
+Overspændingsaflederens tændspænding må  
+
+ højst være 450 V, og dens slukkespænding skal være mindst 60 V.
+ 2.3.4. Ved kontrol af de foran i pkt. 2.3.1. og 2.3.2. omtalte  
+
+ sløjfemodstande anvendes måleopstillingen i Fig. 2.3.4., og sløjfemodstanden  
+
+ bestemmes af (U/I - 2 R) ohm.
+2.4. Sløjfestrømmens indsvingningsforløb 2.4.1. I et særudstyr skal en tilstandsændring fra rotilstand til  
+
+ sløjfetilstand etableres således, at sløjfestrømmen senest 100 ms efter, at  
+
+ tilstandsændringen er påbegyndt, afviger mindre end 1 mA fra sin stationære  
+
+ værdi, når særudstyrets linieklemmer er påtrykt en spænding på 48 V gennem 2  
+
+ x 400 ohm.
+ I et særudstyr, som overtager sløjfetilstand fra et andet udstyr i en  
+
+ abonnentinstallation, skal sløjfetilstanden dog etableres således, at  
+
+ sløjfestrømmen senest 5 ms efter, at omkoblingen er påbegyndt, afviger mindre  
+
+ end 1 mA fra sin stationære værdi.
+ 2.4.2. I et særudstyr i sløjfetilstand skal den i pkt.
+ 2.3.1. omtalte jævnstrømssløjfe opretholdes således, at der ikke ved  
+
+ omkoblinger i særudstyret forekommer afbrydelser, prel eller lignende  
+
+ fænomener i tidsrum af længere varighed, end at sløjfestrømmen er genoprettet  
+
+ i løbet af højst 5 ms.
+2.4.3. I et særudstyr med opkaldsfunktion skal jævnstrømssløjfen, indtil  
+
+ nummervalget er afsluttet, udvise sådanne egenskaber, at øjebliksværdien af  
+
+ sløjfestrømmen, Is mA, til ethvert tidspunkt, t ms, i de første 10 ms efter  
+
+ et skift til modsat polaritet på linieklemmerne ligger inden for det  
+
+ skraverede område på Fig. 2.4.3.a. og derefter højst afviger 1 mA fra sin  
+
+ stationære værdi, når særudstyrets linieklemmer er påtrykt en spænding på 48  
+
+ V gennem 2 x 400 ohm, som vist i Fig. 2.4.3.b.
+Polaritetsskiftet bør  
+
+ gennemføres i løbet af højst 0,2 ms.
+ 2.4.4. Når der fra et særudstyr foretages nummervalg med  
+
+ jævnstrømsimpulser, skal brydeimpulserne etableres således, at der ikke  
+
+ forekommer prel og lignende fænomener i tidsrum af længere varighed, end at  
+
+ afbrydelsen af jævnstrømssløjfen er stabil i løbet af højst 1,5 ms.
+ I tidsrummene under brydeimpulserne skal et særudstyr være beskyttet mod  
+
+ overspændinger mellem linieklemmerne enten ved hjælp af en  
+
+ overspændingsafleder, jf. pkt. 2.3.3., eller ved hjælp af en kapacitiv  
+
+ belastning, som svarer til en modstand på højst 1000 ohm i serie med en  
+
+ kondensator på mindst 0,09 pF (prøvespænding: 500 V), som vist i Fig. 2.4.4.  
+
+ Bortset fra virkningen af en eventuel overspændingsafleder må belastningen  
+
+ mellem et særudstyrs linieklemmer i tidsrummene under brydeimpulserne under  
+
+ ingen omstændigheder være større end svarende til en modstand på mindst 300  
+
+ ohm i serie med en kondensator på højst 0,55 microF, se Fig. 2.4.4.
+ Opmærksomheden henledes på, at telefonapparater og klokker afprøves for  
+
+ medklemt ved nummervalg med jævnstrømsimpulser fra et parallelapparat, i  
+
+ hvilket den foran nævnte belastning er 620 ohm +/- 10% i serie med 0,47  
+
+ microF +/- 10%. Afviger belastningen i et særudstyr herfra, foreligger der  
+
+ risiko for medklemt af parallelkoblede telefonapparater og klokker, når der  
+
+ foretages nummervalg med jævnstrømsimpulser fra særudstyret.
+ 2.4.5. Når der fra et særudstyr foretages nummervalg med  
+
+ jævnstrømsimpulser, skal den i pkt. 2.3.2. omtalte jævnstrømssløjfe efter  
+
+ hver brydeimpuls etableres således, at der ikke forekommer prle og lignende  
+
+ fænomener i tidsrum af længere varighed, end at jævnstrømssløjfen er stabil i  
+
+ løbet af højst 1,5 ms.
+ Jævnstrømssløjfen skal endvidere udvise sådanne egenskaber, at  
+
+ øjebliksværdien af sløjfestrømmen Is mA, til ethvert tidspunkt, t ms, i det  
+
+ første millisekund efter en stabil sløjfedannelse ligger inden for det  
+
+ skraverede område på Fig. 2.4.5.a., og derefter højst afviger 1 mA fra en  
+
+ stationære værdi, når særudstyrets linieklemmer er påtrykt en spænding på 48  
+
+ V gennem 2 x 400 ohm som vist i Fig. 2.4.5.b.
+ 2.4.6. Når der fra et særudstyr foretages nummervalg med  
+
+ jævnstrømsimpulser, skal den i pkt. 2.3.1. omtalte jævnstrømssløjfe  
+
+ genindkobles således, at øjebliksværdien af sløjfestrømmen, Is til ethvert  
+
+ tidspunkt, t ms, i de første 10 ms ligger inden for det skraverede område på  
+
+ Fig. 2.4.6.a., og derefter højst afviger 1 mA fra sin stationære værdi, når  
+
+ særudstyrets linieklemmer er påtrykt en spænding på 48 V gennem 2 X 400 ohm,  
+
+ som vist i Fig. 2.4.6.b.
+2.5. Seriemodstand Et særudstyr, i hvilket en forbindelse er gennemstillet til en anden del  
+
+ af abonnentinstallationen, må højst bidrage med 36 ohm til  
+
+ abonnentinstallationens samlede sløjfemodstand, jf. dog pkt. 4.3.
+ Ved kontrol af seriemodstanden anvendes i princippet måleopstillingen i  
+
+ Fig. 2.5., og seriemodstanden bestemmes af (U/I - (2R + Ra)) ohm.
+2.6. Elektrisk belastning Et særudstyr i sløjfetilstand skal vedvarende kunne tåle den effekt, som  
+
+ det tilføres, når linieklemmerne er påtrykt en jævnspænding på 56 V gennem en  
+
+ modstand på 220 ohm.
+3. Egenskaber over for ringefrekvenser 3.1. Indgangsimpedans Et særudstyr i rotilstand skal ved frekvenser i frekvensområderne 25 +/- 5  
+
+ Hz og 50 +/- 5 Hz have en indgangsimpedans, som svarer til, at strømmen som  
+
+ funktion af spændingen er mindre end den i Fig. 3.1. viste grænse.
+3.2. Impedans mod jord Et særudstyr - såvel i rotilstand som i sløjfetilstand - skal mellem de  
+
+ kortsluttede linieklemmer og jord/stel have en impedans med en numerisk værdi  
+
+ på mindst 1 Mohm ved vekselspændinger med effektivværdi op til 120 V og  
+
+ frekvenser og til 55 Hz.
+3.3. Elektrisk belastning Et særudstyr skal kunne tåle den energi, som det tilføres, når der i 1300  
+
+ ms efter en ændring fra rotilstand til sløjfetilstand er påtrykt  
+
+ linieklemmerne en jævnspænding på 56 V overlejret med en 50 Hz vekselspænding  
+
+ på 120 V gennem en modstand på 500 ohm.
+4. Egenskaber over for talefrekvenser 4.1. Indgangsimpedans 4.1.1. Et særudstyr skal i rotilstand have en indgangsimpedans med en  
+
+ numerisk værdi på mindst 30 kohm ved vekselspændinger med effektivværdi op  
+
+ til 2,5 V og frekvenser fra 50 Hz til 15 kHz.
+ 4.1.2. Et særudstyr skal i sløjfetilstand have en indgangsimpedans, hvis  
+
+ tilpasningsdæmpning over for en modstand på 600 ohm er mindst 10 dB i  
+
+ frekvensområdet fra 300 til 3400 Hz.
+ Dette kræves dog ikke opfyldt:
+- i tidsrummet fra klartone er modtaget, til transmissionsudstyr er  
+
+ indkoblet efter nummervalg med jævnstrømsimpulser - i tidsrummet fra jævnstrømssløjfe er etableret, til transmissionsudstyr  
+
+ er indkoblet efter besvarelse af et opkald.
+ Kravet til tilpasningsdæmpningen skal være opfyldt ved vekselspændinger  
+
+ med effektivværdi op til 2,5 V, når jævnstrømssløjfen i særudstyret er  
+
+ påtrykt en jævnspænding på 56 V gennem 2 x250 ohm, som vist i FGig. 4.1.2.
+ Indgangsimpedansens tilpasningsdæmpning over for en modstand på 600 ohm  
+
+ er: 20 log10 ((Z + 600)/Z - 600)) dB, hvor Z er indgangsimpedansen (kompleks  
+
+ værdi).
+Ved kontrol af tilpasningsdæmpningen anvendes den i fig. 4.1.2. viste  
+
+ måleopstilling.
+Tilpasningsdæmpningen er her bestemt af 20 log10 (2,5/u) dB.
+ 4.1.3. Et særudstyr skal i sløjfetilstand have en indgangsimpedans, hvis  
+
+ numeriske værdi er mindst 300 ohm i frekvensområdet fra 3400 Hz til 15 kHz.
+ Dette kræves dog ikke opfyldt:
+- i tidsrummet fra klartone er modtaget, til transmissionsudstyr er  
+
+ indkoblet efter nummervalg med jævnstrømsimpulser, - i tidsrummet fra jævnstrømssløjfe er etableret, til transmissionsudstyr  
+
+ er indkoblet efter besvarelse af et opkald.
+ Kravet til indgangsimpedansen skal være opfyldt ved vekselspændinger med  
+
+ effektivværdi op til 2,5 V, når jævnstrømssløjfen i særudstyret er påtrykt en  
+
+ jævnspænding på 56 V gennem 2 x 250 ohm, som vist i Fig. 4.1.3.
+4.2. Impedansbalance mod jord Et særudstyr skal såvel i rotilstand som i sløjfetilstand være  
+
+ impedansmæssigt balanceret mod jord med en jordbalancedæmpning på mindst 50  
+
+ dB ved frekvenser fra 50 til 600 Hz og på mindst 56 dB ved frekvenser fra 600  
+
+ til 3400 Hz.
+Over 3400 Hz må jordbalancedæmpningen højst falde med 6  
+
+ dB/oktav.
+Ved kontrol af jordbalancedæmpningen anvendes den i Fig. 4.2. viste  
+
+ måleopstilling.
+Jordbalancedæmpningen er her bestemt af: 20 log10 (7,75/u)  
+
+ dB.
+Måling af u V foretages med afbryderen S såvel åben som lukket og med  
+
+ omkobleren K i begge stillinger.
+Alle terminaler, som er eller kan være vekselstrømsmæssigt jordforbundne  
+
+ under normal drift, skal være forbundet til stel eller udvendigt tilgængelige  
+
+ metaldele under målingen.
+Hvis der ikke findes stel eller udvandigt  
+
+ tilgængelige metaldele, anbringes særudstyret på en metalplade af mindst  
+
+ samme størrelse som udstyrets grundflade.
+Eventuelle jordforbundne terminaler  
+
+ og kontakten S forbindes til metalpladen.
+4.3. Indskydningsdæmpning Et særudstyr, i hvilket en forbindelse er gennemstillet til en anden del  
+
+ af abonnentinstallationen, må i frekvensområdet 0,3-15 kHz højst bidrage med  
+
+ en indskydningsdæmpning på 0.25 dB til dæmpningen af den samlede forbindelse.
+ Dette krav kan ikke umiddelbart forventes opfyldt, hvis der i særudstyret  
+
+ ved gennemstillingen samtidig forekommer seriemodstand, jf. pkt. 2.5. og  
+
+ parallel impedans, jf. pkt. 4.1.1.
+ Kontrol af, om kravet er opfyldt, foretages ved måling af særudstyrets  
+
+ indskydningsdæmpning mellem modstande på 600 ohm ved målespændinger med  
+
+ effektivværdi op til 2,5 V, som vist i Fig. 4.3.
+4.4. Sendeniveauer 4.4.1. Fra et særudstyr må der ikke afgives vekselspændinger med  
+
+ øjebliksværdier, som overstiger 3,5 V mellem linieklemmerne.
+ 4.4.2. Fra et særudstyr i sløjfetilstand må der ved sending af  
+
+ vekselstrømme hidrørende fra tale og musik ikke afgives effekter, som i  
+
+ middel i noget tidsrum af 3 s varighed overstiger 100 micro W ( 10 dBm), når  
+
+ særudstyrets linieklemmer er belastet mod en modstand på 600 ohm.
+ Dette krav svarer til, at spændingen over en modstand på 600 ohm på  
+
+ linieklemmerne ikke på noget tidspunkt må overstige 245 mV, når måling  
+
+ foretages med et instrument, som med en integrationstid på højst 3 s måler  
+
+ effektivværdien af vekselspændingen.
+Et særudstyr, som er indrettet til sending af vekselstrømme hidrørende fra  
+
+ tale og musik, bør af hensyn til en tilfredsstillende modtagning, f.eks. ved  
+
+ hjælp af et almindeligt telefonapparat, have et referenceækvivalent for  
+
+ sending på 4,0 +/- 2,5 dB/NOSFER.
+Dette kan som regel opnås ved, at  
+
+ sendeniveauet ved normal brug af særudstyret holdes så nær som muligt ved det  
+
+ maksimalt tilladte niveau.
+ 4.4.3. Fra et særudstyr i sløjfetilstand må der ved sending af  
+
+ kodesigneler i form af vekselstrømme ikke afgives effekter, som i middel i  
+
+ noget tidsrum af 0,2 s varighed overstiger 100 microW (- 10 dBm) for  
+
+ frekvenskomponenter under 3400 Hz og 0,1 microW (-40 dBm) for eventuelt  
+
+ forekommende frekvenskomponenter over 3400 Hz, når særudstyrets linieklemmer  
+
+ er belastet med en modstand på 600 ohm.
+ Dette krav til middeleffekten skal være opfyldt, hvad enten et kodesignal  
+
+ indeholder een eller flere frekvenser, og hvad enten det sendes vedvarende  
+
+ eller intermitterende med konstant eller varierende amplitude og/eller  
+
+ frekvens.
+ Kravet svarer til, at spændingen over en modstand på 600 ohm på et  
+
+ særudstyrs linieklemmer ikke på noget tidspunkt må overstige 245 m V,  
+
+ henholdsvis 7,75 mV, når måling foretages med et instrument, som med en  
+
+ integrationstik på højst 0,2 s måler effektivværdien af vekselspændinger i  
+
+ frekvensområdet hhv. under og over 3400 Hz.
+ Hvis der eksempelvis i et kodesignal samtidig forekommer n forskellige  
+
+ frekvenser med samme middeleffektniveau, må dette ikke ved hver enkelt  
+
+ frekvens overstige (- 10 -10 log10 n) dBm, dvs. at effektivværdien af  
+
+ spændingen ved hver enkelt frekvens højst må være (245 /Vn) m V ved en  
+
+ integrationstid på højst 0,2 s.
+ Opmærksomheden henledes på, at der på grund af den interne signalering i  
+
+ telefonnettet er en risiko for utilsigtet nedkobling af en forbindelse, over  
+
+ hvilken der sendes kodesignaler om frekvenser over 2000 Hz.  
+
+ Enkeltfrekvenskoder i området 2800-3400 Hz bør under alle omstændigheder  
+
+ undgås på forbindelser mellem abonnenter her i landet, og på forbindelser til  
+
+ udlandet bør frekvensområdet 2200-2500 Hz ligeledes lades ude af betragtning  
+
+ i enkeltfrekvenskoder.
+ 4.4.4. Såfremt der fra et særudstyr i sløjfetilstand samtidigt sendes  
+
+ vekselstrømme hidrørende fra tale og musik og fra kodesignaler, må de afgivne  
+
+ middeleffekter ikke sammenlagt overstige 100 microW (-10 dBm), når  
+
+ særudstyrets linieklemmer er belastet med en modstand på 600 ohm.  
+
+ Middeleffekterne bestemmes herved som anført henholdsvis i pkt. 4.4.2. og  
+
+ 4.4.3.
+5. Særudstyr med opkaldsfunktion 5.1. Almindeligt 5.1.1. Et særudstyr kan være indrettet til efter manuel eller automatisk  
+
+ start helt eller delvist at udføre en eller flere opkaldsfunktioner  
+
+ automatisk, f.eks. starte opkald, modtage klartone, foretage nummervalg,  
+
+ indkoble transmissionsudstyr eller gennemstille en etableret forbindelse til  
+
+ en anden del af abonnentinstallationen, jf. pkt. 2.5. og 4.3.
+ Gennemstilling fra en abonnentledning til en anden abonnentledning må dog  
+
+ aldrig finde sted.
+ 5.1.2. Hvert enkelt opkald skal indledes med, at der etableres  
+
+ sløjfetilstand enten i særudstyret eller i den øvrige del af  
+
+ abonnentinstallationen.
+ 5.1.3. I et særudstyr må et nummervalg først påbegyndes, efter at der er  
+
+ modtaget klartone fra det offentlige telefonnet.
+ Et særudstyr med automatisk start af nummervalg skal være udstyret med en  
+
+ klartonemodtager.
+5.2. Klartonemodtagning 5.2.1. Et særudstyr med klartonemodtager skal - i tidsrummet fra et opkald  
+
+ er indledt til klartone er modtaget - opfylde de krav til jævnstrømssløjfe og  
+
+ indgangsimpedans, som er anført i pkt. 2.1., 2.3.1., 2.4.2., 2.4.3., 4.1.2.  
+
+ samt 4.1.3.
+ 5.2.2. I et særudstyr med automatisk start af nummervalg skal  
+
+ klartonemodtageren være aktiveret og derved have startet nummervalg senest 4  
+
+ s efter, at der i sløjfetilstand er påtrykt særudstyrets linieklemmer en  
+
+ klartone i form af vedvarende vekselspænding med en effektivværdi på 50 til  
+
+ 1000 m V (- 23,8 dBm til + 2,2 dBm) ved enhver frekvens i området 350-500 Hz.
+ 5.2.3. I et særudstyr med automatisk start af nummervalg må  
+
+ klartonemodtageren ikke aktiveres, når der i sløjfetilstand påtrykkes  
+
+ særudstyrets linieklemmer:
+- vekselspændinger i tidsrum af kortere varighed end 1,2 s og med  
+
+ effektivværdi op til 1000 m V, som påtrykkes med pauser på 0,2 s, - vedvarende vekselspændinger med effektivværdi op til 10 m V, - vedvarende vekselspændinger med frekvenser op til 110 Hz og med  
+
+ effektivværdi op til 1000 mV, - enkelte, tilfældige, kortvarige støjimpulser med spidsspændinger op til  
+
+ 500 V.
+ Ved kontrol af, om sidstnævnte krav er opfyldt, anvendes den i Fig 5.2.3.  
+
+ viste måleopstilling.
+5.3. Nummervalg med jævnstrømsimpulser 5.3.1. Nummervalg med jævnstrømimpulser skal foretages som en række  
+
+ afbrydelser (brydeimpulser) af jævnstrømssløjfen.
+ Under nummervalg med jævnstrømsimpulser fra et særudstyr skal  
+
+ jævnstrømssløjfen mellem linieklemmerne opfylde de krav, der er anført i pkt.  
+
+ 2.1., 2.3. og 2.4.
+ Fra et opkald er indledt, til der efter et nummervalg med  
+
+ jævnstrømsimpulser er indkoblet transmissionsudstyr, må der ikke fra et  
+
+ særudstyr afgives vekselspændinger - ud over de, der skyldes brydeimpulserne  
+
+ - som over særudstyrets linieklemmer belastet med en modstand på 600 ohm har  
+
+ en effektivværdi større en d 77,5micro V (-80 dBm).
+ 5.3.2. Ved nummervalg med jævnstrømsimpulser skal antallet af  
+
+ brydeimpulser for hvert ciffer svare til cifferværdien, idet dog  
+
+ cifferværdien 0 skal svare t il 10 brydeimpulser.
+ Brydeimpulserne skal for hvert ciffer afgives med en nominel frekvens på  
+
+ enten 10 eller 16 Hz og med et nominelt forhold mellem slutte- og brydetider  
+
+ på 1:2.
+ Ved en nominel frekvens på 10 Hz skal brydetiden være 56-80 ms og  
+
+ sluttetiden mellem to brydeimpulser 27-41 ms.
+ Ved en nominel frekvens på 16 Hz skal brydetiden være 35-50 ms og  
+
+ sluttetiden mellem to brydeimpulser 17-26 ms.
+ 5.3.3. Ved nummervalg med jævnstrømsimpulser skal mellemcifferperioden,  
+
+ dvs. tidsrummet fra bagkant af sidste brydeimpuls for et ciffer til forkant  
+
+ af første brydeimpuls for det følgende ciffer, være mindst 450 ms og højst 8  
+
+ s.
+ 5.3.4. Nummervalg med jævnstrømsimpulser af et nummer med højst 9 cifre  
+
+ skal være fuldført i løbet af højst 16 s, dvs. at tidsrummet fra forkant af  
+
+ første brydeimpuls for første ciffer til bagkant af sidste brydeimpuls for  
+
+ sidste ciffer højst må have en varighed af 16 s - som vist skematisk i Fig.  
+
+ 5.3.4.
+5.3.5. Ved nummervalg med jævnstrømsimpulser af et nummer med flere end 9  
+
+ cifre skal mellemcifferperioderne,jf. pkt. 5.3.3., være afpasset således -  
+
+ som skematisk vist i Fig. 5.3.5., - at tidsrummet fra forkant af første brydeimpuls for første ciffer til  
+
+ forkant af første brydeimpuls for 10. ciffer er højst 16 s, - at tidsrummet fra forkant af første brydeimpuls for 10. ciffer til  
+
+ forkant af første brydeimpuls for 16. ciffer er højst 20 s, - at nummervalg af et nummer med fra 10 til 15 cifre er fuldført senest 20  
+
+ s efter forkant af første brydeimpuls for 10. ciffer.
+ - at nummervalg af et nummer med fra 16 til 21 cifre er fuldført senest 20  
+
+ s efter forkant af første brydeimpuls for 16. ciffer.
+5.4. Nummervalg med toneimpulser 5.4.1. nummervalg med toneimpulser foretages ved sending af kodesignaler i  
+
+ et flerfrekvenssystem.
+ Under nummervalg med toneimpulser fra et særudstyr skal dette opfylde de  
+
+ krav til jævnstrømssløjfe og indgangsimpedans, som er anført i pkt. 2.1,  
+
+ 2.3.1., 2.4.2., 2.4.3. samt 4.1.2. og 4.1.3.
+ Fra et opkald er indledt, til der efter et nummervalg med toneimpulser er  
+
+ indkoblet transmissionsudstyr, må der ikke fra et særudstyr afgives  
+
+ vekselspændinger - ud over de, der skyldes kodesignalerne - som over  
+
+ særudstyrets linieklemmer belastet med en modstand på 600 ohm har en  
+
+ effektivværdi større end 77,5 micro V (- 80 dBm).
+ Opmærksomheden henledes på, at der indtil 1985 er nogle få fuldautomatiske  
+
+ centraler i Sønderjylland (04-området) og på Møn, hvorfra der ikke er  
+
+ mulighed for nummervalg med toneimpulser.
+ 5.4.2. Ved nummervalg med toneimpulser skal der for hvert ciffer sendes et  
+
+ kodesignal i form af en vekselspændingsimpuls, som indeholder en frekvens i  
+
+ lavt bånd (under 1000 Hz) og en frekvens i højt bånd (over 1000 Hz).
+ Sammenhængen mellem cifferværdi og frekvenskombinationen i kodesignalerne  
+
+ fremgår for hver cifferværdi af Fig. 5.4.2.
+ Anvendelse af kodesignalerne, som i fig. 5.4.2. er symboliseret med * og ì  
+
+ samt A, B, C og D, er endnu ikke fastlagt, og disse kodesignaler må indtil  
+
+ videre ikke anvendes i forbindelse med et nummervalg.
+ I et kodesignal må frekvenserne højst afvige 1,5% fra de nominelle  
+
+ værdier, som er anført i Fig. 5.4.2.
+ 5.4.3. Ved nummervalg med toneimpulser fra et særudstyr skal de to  
+
+ frekvenser i kodesignalet for et ciffer hver for sig sendes med et niveau,  
+
+ som med en modstand på 600 ohm over særudstyrets linieklemmer skal være:
+ - 11 dBm+/- 2 dB (275 til 173 m V) for frekvensen i det lave bånd (under  
+
+ 1000 Hz).
+ - 9 dBm +/- 2 dB (346 til 218 mV) for frekvensen i de høje bånd (ver 1000  
+
+ Hz).
+ For hver frekvenskombination skal niveauet af frekvensen i det høje bånd  
+
+ endvidere altid være 2 dB +/- dB højere end niveauet af frekvensen i det lave  
+
+ bånd.
+ 5.4.4. Ved nummervalg med toneimpulser skal niveauet af det totale  
+
+ forvrængningsprodukt hidrørende fra harmoniske frekvenser og intermodulation  
+
+ være mindst 20 dB lavere end kodesignalernes niveau ved frekvensen i det lave  
+
+ bånd.
+ Niveauet hidrørende fra enhver uønsket frekvens må ikke overstige følgende  
+
+ værdier:
+300 mindre/= f mindre end 4300 Hz: - 33 dBm 4300 mindre/= f mindre end 28000 Hz: - 37 dBm ved 4300 Hz faldende med 12  
+
+ dB pr. oktav til 28000 Hz.
+28000 mindre/= f mindre end 70000 Hz: - 70 dBm 70000 mindre/= f mindre end 200000 Hz: - 80 dBm f større/= 200000 Hz: - 70 dBm.
+5.4.5. Ved nummervalg med toneimpulser og manuel sending af hvert ciffer  
+
+ skal sending af et kodesignals to frekvenser påbegyndes samtidigt.
+Niveauet  
+
+ ved hver af de to frekvenser må 7 ms efter starten højst afvige 1 dB fra den  
+
+ endelige værdi.
+ 5.4.6. Ved nummervalg med toneimpulser og automatisk sending af hvert  
+
+ ciffer skal sending af et kodesignals to frekvenser påbegyndes samtidigt, og  
+
+ følgende tidskrav, se Fig. 5.4.6., skal være opfyldt:
+Stigetid T1: mindre/= 5 ms Signaltid T2: 65 til 105 ms Faldetid T3: mindre/= 5 ms Pausetid T4: større/0 200 ms - (T1 + T2 + T3) Tiden, fra et signals start til udgangsniveauet er inden for den  
+
+ specificerede værdi, benævnes stigetid T1. Tiden, fra et signals ophør til  
+
+ pauseniveauet er inden for den specificerede værdi, benævnes faldetid T3.
+5.5. Indkobling af transmissionsudstyr Et særudstyr med opkaldefunktion skal indkoble transmissionsudstyr senest  
+
+ 2 s efter, at et nummervalg er afsluttet.
+5.6. Identifikationssignal 5.6.1. Et særudstyr med automatisk opkaldsfunktion skal senest 5 s efter,  
+
+ at et nummervalg er afsluttet, udsende et identifikationssignal i form af et  
+
+ kodesignal eller en meddelelse i klart sprog.
+ 5.6.2. Et identifikationssignal i form af et kodesignal skal være  
+
+ sammensat af een eller flere frekvenser i frekvensområdet 800-2200 Hz og  
+
+ sendes vedvarende eller intermitterende, indtil korrekt identifikationssignal  
+
+ er modtaget fra de kaldte abonnent, eller indtil sløjfetilstandenen er afløst  
+
+ af rotilstand.
+ 5.6.3. Et identifikationssignal i klart sprog skal gentages eller sendes  
+
+ vedvarende, indtil korrekt identifikationssignal er modtaget fra den kaldte  
+
+ abonnent, eller indtil sløjfetilstand er afløst af rotilstand.
+5.7. Varighed af sløjfetilstand 5.7.1. I et særudstyr med automatisk opkaldsfunktion og udveksling af  
+
+ informationer over en etableret forbindelse skal sløjfetilstanden ved hvert  
+
+ opkald være afløst af rotilstand senest 1 minut efter afslutning af  
+
+ nummervalget, medmindre opretholdelse af sløjfetilstand ud over 1 minut er  
+
+ styret af modtagne informationer.
+ 5.7.2. Hvis der i et særudstyr med automatisk opkaldsfunktion og  
+
+ udveksling af informationer over en etableret forbindelse opretholdes  
+
+ sløjfetilstand ud over 1 minut, skal sløjfetilstand være afløst af rotilstand  
+
+ senest 15 s efter sidst modtagne information, som har været tilstrækkelig til  
+
+ fortsættelse af sløjfetilstand.
+ Som en undtagelse fra denne regel kan det dog tillades, at sløjfetilstand  
+
+ afløses af rotilstand senest 20 minutter efter modtagelse af et kodesignal  
+
+ med en information, der entydigt betyder fortsættelse af sløjfetilstand, og  
+
+ opfattes som sådan.
+ 5.7.3. I et særudstyr, hvor sløjfetilstandens varighed ud over 1 minut er  
+
+ styret alene af den elektriske effekt af modtagne informationer, skal  
+
+ sløjfetilstand altid være afløst af rotilstand senest 20 minutter efter  
+
+ etablering af en forbindelse.
+5.8. Gentagelse af opkald 5.8.1. Et særudstyr kan være indrettet til automatisk start og  
+
+ gennemførelse af flere på hinanden følgende opkald til samme eller  
+
+ forskellige numre i vilkårlig rækkefølge.
+Der skal dog have været etableret  
+
+ rotilstand i mindst 1 s mellem hvert opkald.
+ 5.8.2. Et særudstyr, der er indrettet til automatisk start og  
+
+ gennemførelse af opkald samt til at detektere, om korrekt forbindelse er  
+
+ opnået, må højst foretage 10 på hinanden følgende mislykkede opkald, før  
+
+ særudstyret automatisk blokerer sig selv for yderligere opkald og giver alarm  
+
+ for dette.
+ Et sådant særudstyr må endvidere ved opkald til flere forskellige numre i  
+
+ en vilkårlig tilbagevendende rækkefølge højst foretage 10 på hinanden  
+
+ følgende mislykkede opkald til samme nummer, før særudstyret automatisk  
+
+ blokerer sig selv for yderligere opkald til det pågældende nummer og giver  
+
+ alarm for dette.
+ Hvis et særudstyr på grund af mislykkede opkald har blokeret sig selv for  
+
+ yderligere opkald til eet eller flere numre, må denne blokering først ophæves  
+
+ efter en omhyggelig kontrol og eventuel fejlretning af særudstyret.
+ 5.8.3. Et særudstyr, der er indrettet til automatisk start og  
+
+ gennemførelse af opkald, men ikke til at detektere om korrekt forbindelse er  
+
+ opnået, må højst foretage 10 automatiske opkald mellem hvert manuelt  
+
+ betjeningsindgreb.
+6. Særudstyr med svarefunktion 6.1. Almindeligt 6.1.1. Et særudstyr med svarefunktion er indrettet således, at det efter  
+
+ manuel eller automatisk start som følge af et ringesignal fra det offentlige  
+
+ telefonnet foranlediger besvarelse af et opkald.
+Svarefunktionen kan omfatte  
+
+ manuel eller automatisk gennemstilling af en forbindelse til en anden del af  
+
+ abonnentinstallationen, jf. pkt. 2.5. og 4.3.
+ Gennemstilling fra een abonnentledning til en anden abonnentledning må dog  
+
+ aldrig finde sted.
+ 6.1.2. Et særudstyr med automatisk start af svarefunktionen skal være  
+
+ udstyret med en ringemodtager.
+6.2. Ringemodtagning 6.2.1. Et særudstyr med ringemodtager skal i rotilstand opfylde de særlige  
+
+ krav til impulsforvrængninger og indgangsimpedans, som er anført i pkt. 2.5.,  
+
+ 3.1. samt 4.1.1.
+ 6.2.2. I et særudstyr med automatisk start af svarefunktion skal  
+
+ ringemodtageren ved aktivering som følge af et ringesignal etablere  
+
+ sløjfetilstand i særudstyret.
+ Denne tilstandsændring kan enten ske umiddelbart eller være betinget af  
+
+ andre forhold i særudstyret f.eks. af, om dette er klar til besvarelse af et  
+
+ opkald.
+ 6.2.3. En ringemodtager i et særudstyr skal være aktiveret senest 500 ms  
+
+ efter, at der i rotilstand er påtrykt særudstyrets linieklemmer et  
+
+ ringesignal sammensat af en jævnspænding på 44 til 56 V overlejret med en  
+
+ vekselspænding med effektivværdi på 40 til 120 V og en frekvens i  
+
+ frekvensområderne 25 +/- 2,5 Hz og 50 +/- 5 Hz.
+ Såfremt aktivering ønskes ved modtagelse af straksringesignal, skal  
+
+ ringemodtageren aktiveres senest 180 ms efter påtrykning af et ringesignal.
+ 6.2.4. I et særudstyr med automatisk start af svarefunktion må  
+
+ ringemodtageren ikke aktiveres, når der i rotilstand påtrykkes særudstyrets  
+
+ linieklemmer:
+ - ringesignaler, som specificeret foran i pkt. 6.2.3., men i tidsrum af  
+
+ kortere varighed end 90 ms, der gentages med mellemrum på 1 s.
+ - vedvarende signaler sammensat af en jævnspænding på 44 til 56 V  
+
+ overlejret med en vekselspænding med effektivværdi op til 10 V.
+ - enkelte, tilfældige, kortvarige støjimpulser med spidsspændinger op til  
+
+ 500 V.
+ Ved kontrol af, om sidstnævnte krav er opfyldt, anvendes den i Fig. 6.2.4.  
+
+ Viste måleopstilling.
+ 6.2.5. Hvis et særudstyr med automatisk start af svarefunktion kan eller  
+
+ skal anvendes parallelt med et telefonapparat eller andet udstyr, fra hvilket  
+
+ der kan foretages nummervalg med jævnstrømsimpulser, bør et sådant nummervalg  
+
+ ikke kunne aktivere særudstyrets ringemodtager og i hvert fald ikke kunne  
+
+ aktivere særudstyrets ringemodtager og i hvert fald ikke kunne starte  
+
+ svarefunktionen.
+ Et særudstyrs egenskaber i den henseende kan med rimelig sikkerhed  
+
+ kontrolleres ved hjælp af den i Fig. 6.2.5. viste måleopstilling, hvor  
+
+ kontakten K sluttes og brydes med frekvenser fra 8 til 22 Hz og et forhold  
+
+ mellem slutte- og brydetider på 1:2.
+6.3. Indkobling af transmissionsudstyr Et særudstyr med svarefunktion skal indkoble transmissionsudstyr senest 2  
+
+ s efter etablering af sløjfetilstand som følge af et ringesignal fra det  
+
+ offentlige telefonnet.
+ Hvis indkoblingen forsinkes mindst 1300 ms efter etablering af  
+
+ sløjfetilstand, er transmissionsudstyret under normale forhold beskyttet imod  
+
+ ringesignalspændinger.
+6.4. Identifikationssignal 6.4.1. I et særudstyr med automatisk besvarelse af et opkald skal  
+
+ besvarelsen indledes med udsendelse af et identifikationssignal i form af et  
+
+ kodesignal eller en meddelse i klart sprog.
+ 6.4.2. Udsendelse af identifikationssignal skal være påbegyndt senest 5 s  
+
+ efter etablering af sløjfetilstand i et særudstyr.
+ 6.4.3. Et identifikationssignal i form af et kodesignal skal være  
+
+ sammensat af een eller flere frekvenser i frekvensområdet 800-2200 Hz og skal  
+
+ sendes vedvarende eller intermitterende i et tidsrum af varighed 3 til 4 S.
+6.5. Varighed af sløjfetilstand 6.5.1. I et særudstyr med automatisk svarefunktion og udveksling af  
+
+ informationer over en etableret forbindelse skal sløjfetilstanden ved hver  
+
+ forbindelse være afløst af rotilstand senest 1 minut efter etableringen,  
+
+ medmindre opretholdelse af sløjfetilstand ud over 1 minut er styret af  
+
+ modtagne informationer.
+ Som en undtagelse fra denne regel kan det dog under afsendelse af  
+
+ information fra en automatisk telefonsvarer tillades, at sløjfetilstand  
+
+ opretholdes i op til 5 minutter ved hver forbindelse, selv om der ikke  
+
+ modtages information over forbindelsen.
+ 6.5.2. Hvis der i et særudstyr med automatisk svarefunktion og udveksling  
+
+ af informationer over en etableret forbindelse opretholdes sløjfetilstand ud  
+
+ over 1 minut på grundlag af modtagne informationer, skal sløjfetilstand være  
+
+ afløst af rotilstand senest 15 s efter sidst modtagne information, som har  
+
+ være tilstrækkelig til fortsættelse af sløjfetilstand.
+ Som en undtagelse fra denne regel kan det dog tillades, at sløjfetilstand  
+
+ afløses af rotilstand senest 20 minutter efter modtagelse af et kodesignal  
+
+ med en information, der entydigt betyder fortsættelse af sløjfetilstand, og  
+
+ opfattes som sådan.
+ 6.5.3. I et særudstyr, hvor sløjfetilstandens varighed ud over 1 minut er  
+
+ styret alene af den elektriske effekt af modtagne informationer, skal  
+
+ sløjfetilstand altid være afløst af rotilstand senest 20 minutter efter  
+
+ etablering af en forbindelse. 6.5.4. I et særudstyr med automatisk  
+
+ svarefunktion og udveksling af informationer over en etableret forbindelse  
+
+ bør det sikres, at sløjfetilstand snarest muligt afløses af rotilstand,  
+
+ dersom den kaldende (A-abonnenten) afbryder en etableret forbindelse og  
+
+ derved kan foranledige udsendelse af optagettone mod særudstyret  
+
+ (B-abonnenten), jf. pkt. 7.4.2. Hvis sløjfetilstandens varighed ud over 1  
+
+ minut er styret af den elektriske effekt af modtagne informationer, kan det  
+
+ af denne grund være nødvendigt af forsyne særudstyret med udstyr til selektiv  
+
+ detektering af optagettone.
+7. Tekniske oplysninger om telefonnettet 7.1. Telefonnettets opbygning 7.1.1. Det offentlige danske telefonnet er opbygget omkring et hierarkisk  
+
+ system, i hvilket abonnentinstallationerne (ca. 2. millioner) udgør det  
+
+ nederste lag.
+Abonnentinstallationerne i et centralområde med en største geografisk  
+
+ udstrækning på op til ca. 20 km er via abonnentledninger tilknyttet en  
+
+ (under)central, i hvilken telefonforbindelser mellem abonnentinstallationer  
+
+ inden for centralområdet sammenstilles.
+Undercentralerne i de ca. 1200  
+
+ centralområder udgør det andet lag i det hierarkiske system.
+ I hver egn af landet er op til ca. 25 centralområder sammenknyttet i en  
+
+ netgruppe, i hvilken en af centralerne, hovedcentralen, virker som  
+
+ transitcentral for telefonforbindelser mellem undercentralerne i netgruppen  
+
+ samt ud over netgruppegrænserne.
+Landets ca. 100 netgrupper er opdelt i 9 interurbaneområder.
+I hver af  
+
+ disse virker en af hovedcentralerne, interurbancentralen, som transitcentral  
+
+ for telefonforbindelser mellem hovedcentralerne i interurbanområdet samt til  
+
+ andre interurbancentraler og udlandscentralen.
+ Interurbancentralen i København virker tillige som udlandscentral, dvs.  
+
+ som transitcentral for telefonforbindelser til og fra udlandet.
+Det foran beskrevne hierarkiske system udgør grundlaget for opbygningen af  
+
+ telefonnettet.
+I praksis har telefonnettet imidlertid i høj grad karakter af  
+
+ et maskenet, idet der, uanset placeringen i hierakiet, er etableret direkte  
+
+ ledninger (tværledninger) mellem to centraler, hvis telefontrafikken mellem  
+
+ dem er tilstrækkelig stor, og det i øvrigt er teknisk forsvarligt og  
+
+ økonomisk fordelagtigt.
+7.1.2. Abonnentledninger er normalt fremført som metaltrådsledninger (kobber eller aluminium) i jordkabel, men i nogle tilfælde dog som pupiniserede ledninger, som bronzetråds luftledninger eller via multiplekssystemer.
+ Abonnentledningerne er dimensioneret således, at deres jævnstrømsmodstand  
+
+ (sløjfemodstanden) ikke overstiger 1400 ohm, og at deres nominelle dæmpning  
+
+ (firpoldæmpningen omkring 800 Hz) ikke overstiger 9,5 dB.
+7.1.3. En del af forbindelserne mellem centralerne er fremført som tåtråds  
+
+ centralledninger.
+Dette gælder for mange af forbindelserne mellem  
+
+ undercentralerne og disses overordnede hovedcentraler samt for de fleste af  
+
+ tværledningerne mellem undercentralerne.
+Totråds centralledninger er udført enten som upupiniserede eller som pupiniserede kabelledninger.
+ For sidstnævnte er grænsefrekvensen som regel ca. 5000 Hz. således at  
+
+ frekvensområdet op til 3400 Hz kan påregnes overført, men i ganske enkelte  
+
+ tilfælde er grænsefrekvensen lavere, og kun frekvensområdet op til 2400 Hz  
+
+ kan her påregnes overført.
+ Den nominelle dæmpning af en enkelt totråds centralledning vil normalt  
+
+ ikke overstige 5-6 dB.
+ Telefonnettet er endvidere dimensioneret således, at den nominelle  
+
+ dæmpning af totråds ledninger (abonnentledninger og totråds centralledninger)  
+
+ i den danske del af en telefonforbindelse til udlandet ikke overstiger 9,5  
+
+ db, og at dæmpningsbidraget fra totråds ledninger i telefonforbindelser melle  
+
+ to abonnentinstallationer her i landet ikke overstiger ca. 20 dB.
+7.1.4. Den øvrige del af forbindelserne mellem centralerne er fremført som  
+
+ firtråds ledninger, dvs., at de to transmissionsretninger i den enkelte  
+
+ forbindelse er fremført i hver sin (enkeltrettede) talekanal i et  
+
+ bærefrekvens- eller PCM-system.
+Dette gælder alle ledninger mellem  
+
+ interurbancentralerne og mellem disse og hovedcentralerne samt de fleste  
+
+ tværledninger mellem hovedcentralerne.
+ Som følge af kanaladskillelse i transmissionssystemerne er det effektivt  
+
+ overførte frekvensområde på talekanaler i firtråds ledninger begrænset til  
+
+ 300-3400 Hz.
+ Telefonnettet er dimensioneret således, at den samlede nominelle dæmpning  
+
+ af n firtråds ledninger sammenstillet i forlængelse af hinanden er (4,0 + n x  
+
+ 0,5) dB.
+ 7.1.5. Telefonnettets centraler og centralledninger er i trafikmæssig  
+
+ henseende udbygget i et sådant omfang, at trafikvejene mellem to vilkårlige  
+
+ abonnentinstallationer her i landet i de fleste af døgnets timer normalt ikke  
+
+ alle er optaget.
+ På tidspunkter med stor trafiktæthed, f.eks, i travl time, dvs. en af  
+
+ formiddagstimerne på hverdage, må der dog på grund af optagne trafikveje  
+
+ påregnes, at opkald til abonnentinstallationer inden for egen netgruppe  
+
+ afvises i op til ca. 2% af tilfældene, og at opkald til  
+
+ abonnentinstallationer uden for egen netgruppe afvises i op til 5-10% af  
+
+ tilfældene for de telefonforbindelser, der kræver flest centralledninger i  
+
+ trafikvejen.
+7.1.6. Hver abonnentinstallation i et interurbanområde er tildelt (mindst)  
+
+ et sekscifret telefonnummer.
+Ved opkald til en abonnentinstallation i eget  
+
+ interurbanområde skal det sekscifrede telefonnummer benyttes ved  
+
+ nummervalget.
+ Hvert interurbanområde er tildelt et områdenummer (fra 01 til 09), og ved  
+
+ opkald til en abonnentinstallation i et andet interurbanområde skal der ved  
+
+ nummervalget benyttes landsnummeret, dvs. vedkommende områdenummer efterfulgt  
+
+ af det sekscifrede telefonnummer.
+ Ved selvvalg til en abonnentinstallation i udlandet skal der ved  
+
+ nummervalget benyttes 009 + det internationale retningsnummer for vedkommende  
+
+ land + vedkommende landsnummer normalt uden det indledende 0 (eller  
+
+ undtagelsesvis 9).
+7.2. Telefonforbindelsers transmissionskvalitet 7.2.1. Ved en telefonforbindelses afgrænsningspunkter mod  
+
+ abonnentinstallationen er dens ind- og udgangsimpedans hovedsageligt bestemt  
+
+ af abonnentledningens længde og tråddiameter samt af, at abonnentledningen i  
+
+ centralen er sammenstillet med en anden abonnentledning eller en  
+
+ centralledning med ca. 600 ohm impedans.
+Ind- og udgangsimpedanser er som regel kapacitiv med en vinkel på op til  
+
+ ca. 45 grader og en numerisk værdi, som aftager med stigende frekvens.
+Ved  
+
+ 300 Hz kan der regnes med en størsteværdi på ca. 1400 ohm og ved 3400 Hz med  
+
+ en mindsteværdi på ca. 300 ohm, medens den numeriske værdi ved 800 Hz normalt  
+
+ er ca. 600-900 ohm.
+ 7.2.2. Den nominelle dæmpning af en telefonforbindelse mellem to  
+
+ vilkårlige abonnentinstallationer her i landet overstiger ikke 26 dB, dvs. at  
+
+ dæmpningen ved 800 Hz normalt er mindre en d26 dB.
+ For den nationale del af en udlandsforbindelse, dvs. mellem en vilkårlig  
+
+ abonnentinstallation her i landet og international ledning i  
+
+ udlandscentralen, er den nominelle dæmpning højst 13 dB.
+ Den nominelle dæmpning af internationale ledninger i en udlandsforbindelse  
+
+ er højst 3 dB.
+ Den maksimale nominelle dæmpning af den nationale del i udlandet kan  
+
+ oplyses i det pågældende land, men vil normalt højst afvige nogle få dB fra  
+
+ de 13 dB, der gælder for den danske del.
+ 7.2.3. For den enkelte telefonforbindelse er dæmpningens  
+
+ frekvensafgængighed hovedsageligt bestemt af de upupiniserede ledninger i  
+
+ forbindelsen.
+ For en indenlands telefonforbindelse kan der normalt regnes med, at  
+
+ dæmpningen ved frekvensen f Hz i frekvensområdet 400-3200 Hz kun i få  
+
+ tilfælde overstiger (10 + 16 kvadratroden af f/800)dB, og for den danske del  
+
+ af en udlandsforbindelse det halve heraf.
+På grund af kanalafgrænsningerne i firtråds ledninger er  
+
+ dæmpningsforholdene i frekvensområderne 300-400 Hz og 3200-3400 Hz noget  
+
+ usikre.
+Normalt må der regnes med nogle få dB større dæmpning i disse  
+
+ frekvensområder end ved henholdsvis 400 og 3200 Hz.
+7.2.4. Anvendelsen i telefonnettet af pupiniserede ledninger og firtråds  
+
+ ledninger i multiplekssystemer medfører, at gruppeløbetiden for signaler i  
+
+ frekvensområdet 300-3400 Hz kan være op til ca. 24 ms i en indenlands  
+
+ telefonforbindelse og ca. 12 ms i hver af de nationale dele af en  
+
+ udlandsforbindelse.
+Gruppeløbetiden i de internationale ledninger i en  
+
+ udlandsforbindelse kan i forbindelser vis satellit blive flere hundrede ms,  
+
+ men er normalt af samme størrelsesorden som i de nationale dele.
+ Løbetidsforvrængningen er som regel mindst ved frekvenser mellem 800 og  
+
+ 2000 Hz,og dette frekvensområde er derfor bedst egnet til kodesignalering med  
+
+ vekselstrømme.
+ 7.2.5. På telefonforbindelser via firtråds ledninger i  
+
+ bærefrekvenssystemer kan der forekomme frekvensforskydninger af de  
+
+ transmitterede signaler.
+ Frekvensforskydningen overstiger normalt ikke 2-3 Hz, men kan undertiden  
+
+ være noget større.
+ 7.2.6. mellem to vilkårlige telefonforbindelser via det danske telefonnet  
+
+ kan der normalt regnes med en mindste krydstaleafstand på ca. 60 dB.
+ 7.2.7. Ved en abonnentlednings afgrænsningspunkter mod  
+
+ abonnentinstallationen overstiger den elektromotoriske kraft af elektrisk  
+
+ støj normalt ikke ca. 100 m V i frevensområdet op til 150 Hz og normalt ikke  
+
+ 1 m V psofometrisk vejet i frekvensområdet op til 5 kHz.
+ Den elektriske støj kan indeholde støjimpulser med spidsspændinger op til  
+
+ ca. 500 V, undertiden dog på grund af elektriske udladninger i atmosfæren på  
+
+ 1000 V eller mere.
+7.3. Liniesignalering mellem centralerne Ved bl.a. op- og nedkobling af en telefonforbindelse udveksles der  
+
+ oplysninger mellem centralerne via centralledningerne i forbindelsen.
+ Er centralledningerne fremført firtråds i bærefrekvenssystemer, foretages  
+
+ denne signalering ofte ved hjælp af vekselstrømme i frekvensområdet 2000-3400  
+
+ Hz.
+7.4. Tonesignaler i abonnentnettet 7.4.1. Klartone angiver, at abonnentledningen er tilsluttet centralens  
+
+ register, og nummervalg kan påbegyndes.
+ I centralerne påtrykkes abonnentledningen klartonen med en frekvens på 425  
+
+ Hz +/- 25 Hz og med et niveau svarende til -9 dBm +/- 2,5 dB over 600 ohm.
+ Klartonen sendes vedvarende i tidsrummet, fra register er tilsluttet  
+
+ abonnentledningen, til nummervalg er påbegyndt, dog højst 30-45 s.
+ 7.4.2. Optagettone angiver, at det kaldte telefonnummer eller trafikvejene  
+
+ til det er optaget.
+ I centralen påtrykkes abonnentledningen optagettonen med en frekvens på  
+
+ 425 Hz +/- 25 Hz og med et niveau svarende til -9 dBm +/- 2,5 dB over 600  
+
+ ohm.
+ Optagettonen sendes periodisk enten som toneimpulser på 250 ms +/- 25 ms  
+
+ adskilt af pauser på 250 ms +/- 25 ms eller som toneimpulser på 175 ms +/- 25  
+
+ ms adskilt af pauser på 470 ms +/- 70 ms.
+ Optagettonen sendes i tidsrummet, fra centralens register har modtaget  
+
+ signal om, at det kaldte telefonnummer eller trafikvejene til det er optaget,  
+
+ til sløjfetilstand over abonnentledningen er afbrudt.
+Optagettone udsendes endvidere som regel fra en central mod en  
+
+ abonnentinstallation, i hvilken rotilstand ikke er etableret efter afbrydelse  
+
+ af en etableret forbindelse.
+Har den afbrudte forbindelse været etableret ved  
+
+ opkald fra abonnentinstallationen (A-abonnent), påbegyndes udsendelse af  
+
+ optagertone ca. 90 s (i nogle centraler dog op til 20 minutter) efter  
+
+ afbrydelsen af forbindelsen og sendes vedvarende, indtil rotilstand er  
+
+ etableret i abonnentinstallationen.
+Har den afbrudte forbindelse været  
+
+ etableret ved besvarelse af et opkald til abonnentinstallationen  
+
+ (B-abonnent), påbegyndes udsendelse af optagetone ca. 1 s efter afbrydelsen  
+
+ af forbindelsen og sendes vedvarende, indtil rotilstand er etableret i  
+
+ abonnentinstallationen.
+ 7.4.3. Ringetone angiver, at forbindelse til det kaldte telefonnummer er  
+
+ etableret, og der udsendes ringesignal mod abonnentinstallationen med det  
+
+ kaldte telefonnummer.
+ Ringetonen sendes med en frekvens på 425 Hz +/- 25 Hz og med et niveau,  
+
+ der på abonnentledningen svarer til -9 dBm +/- 2,5 dB over 600 ohm.
+ Ringetonen sendes enten som en straksringetone på 150-500 ms efterfulgt af  
+
+ en pause på 0-4400 ms og derefter en periodisk ringetone med toneimpulser på  
+
+ 1000 ms +/- 100 ms adskilt af pauser på 4000 ms +/- 400 ms eller som en  
+
+ straksringetone på 200-400 ms efterfulft af en pause på 0-9000 ms og derefter  
+
+ en periodisk ringetone med toneimpulser på 750 ms +/- 250 ms adskilt af  
+
+ pauser på 7500 +/- 1500 ms.
+ Straksringetonen sendes umiddelbart efter, at forbindelse til det kaldte  
+
+ telefonnummer er etableret, og den periodiske ringetone sendes, til  
+
+ sløjfetilstand er etableret i abonnentinstallationen med det kaldte  
+
+ telefonnummer, dog højst ca. 90s.
+ 7.4.4. Henvisningstone angiver, at der ved et nummervalg er valgt et ikke  
+
+ anvendt telefonnummer.
+ Henvisningstonen sendes periodisk som toneimpulser adskilt af pauser på  
+
+ 1000 ms +/- 250 ms.
+ Hver toneimpuls er sammensat af tre delimpulser på hver 330 ms +/- 70 ms  
+
+ adskilt af pauser på højst 30 ms.
+ De tre delimpulser sendes i rækkefølge med frekvenserne henholdsvis 950 Hz  
+
+ +/- 50 Hz, 1400 Hz +/- 50 Hz og 1800 Hz +/- Hz.
+ De tre toner sendes hver for sig med et niveau, som på abonnentledningen  
+
+ svarer til -9 dBm +/- 2,5 dB og en niveauforskel på højst 3 dB.
+ 7.4.5. I abonnentinstallationer med parallelapparater anvendes  
+
+ advarselstone til angivelse af, at mere end et af parallelapparaterne indgår  
+
+ i en forbindelse til en anden abonnentinstallation, således at der er  
+
+ mulighed for medhør.
+ Advarselstonens frekvens, niveau og karakter er endnu ikke standardiseret,  
+
+ men hyppigt sendes den vedvarende med en frekvens omkring 150 Hz, 450 Hz  
+
+ eller 900 Hz.
+7.5. Ringesignaler i abonnentnettet Ved opkald til et telefonnummer sendes der fra den lokale central et  
+
+ ringesignal ud på abonnentledningen til vedkommende abonnentinstallation.
+ Ringesignalet påtrykkes abonnentledningen som en jævnspænding på 44-56 V  
+
+ overlejret en vekselspænding med effektværdi op til 120 V og med en frekvens  
+
+ i frekvensområdet 25 Hz +/- 2,5 Hz.
+ Ringesignalet sendes som en straksringning på 200-400 ms efterfulgt af en  
+
+ pause på 0-9000 ms og derefter en periodisk ringning med ringesignaler på 750  
+
+ ms +/- 150 ms adskilt af pauser på 7500 ms +/- 1500 ms.
+ Straksringningen sendes umiddelbart efter, at forbindelse til det kaldte  
+
+ telefonnummer er etableret, og forbliver opkaldet ubesvaret, fortsætter den  
+
+ periodiske ringning i ca. 90 s.
+ Besvares et opkald ved etablering af sløjfetilstand i vedkommende  
+
+ abonnentinstallation, afbrydes tilringningen senest i førstkommende  
+
+ ringepause.
+7.6. Jævnstrømssignalering i abonnentnettet 7.6.1. I en central er alle abonnentledninger påtrykt en jævnspænding på  
+
+ nominelt 48 V (44-56 V).
+ Jævnspændingskildens pluspol er i centralen altid forbundet til jord.
+ I rotilstand er abonnentledningen i de fleste centraler tilsluttet  
+
+ pluspolen direkte og minuspolen gennem en relæspole med en jævnstrømsmodstand  
+
+ på op til ca. 1400 ohm, men i enkelte centraltyper er begge poler tilsluttet  
+
+ gennem relæspoler med jævnstrømsmodstande på 2 x 500 ohm.
+ I sløjfetilstand er abonnentledningen (efter den nødvendige omkoblingstid  
+
+ i centralen) tilsluttet jævnspændingskildens to poler gennem relæspoler med  
+
+ jævnstrømsmodstande på ca. 2 x 250 ohm eller 2 x 400 ohm.
+ 7.6.2. I en abonnentinstallation kan der ikke forud påregnes en bestemt  
+
+ polaritet af jævnspændingen på abonnentledningen, og polariteten kan på grund  
+
+ af fejl blive ombyttet på et vilkårligt tidspunkt.
+ I nogle abonnentinstallationer anvendes endvidere strømvending, således at  
+
+ polariteten under sløjfetilstand er modsat polariteten i rotilstand.
+ 7.6.3. Den påtrykte jævnspænding afbrydes i nogle centraler i 80-200 ms  
+
+ umiddelbart inden udsendeslse af klartone.
+ 7.6.4. I centraler, som udelukkende er indrettet til nummervalg med  
+
+ jævnstrømsimpulser, foretages der i en af de fire første mellemcifferperioder  
+
+ en kortvarig polvending af jævnspændingen, som i centralen påtrykkes  
+
+ abonnentledningen.
+I centraler, som er forberedt for eller indrettet til nummervalg med  
+
+ toneimpulser, kan polvendingen foretages umiddelbart inden udsendelse af  
+
+ klartone.
+Har en abonnentinstallation mulighed for nummervalg med  
+
+ toneimpulser, foretages polvendingen på dette tidspunkt.
+Polvendingen har en varighed af 35-120 ms, og i dette tidsrum er polariteten modsat den normale i sløjfetilstand.
+7.6.5. Efter et nummervalg er afsluttet og umiddelbart før ringetone udsendes, afbrydes abonnentledningens jævnstrømssløjfe kortvarigt i de fleste centraler.
+ Dette valgslutsignal har en varighed af 125-250 ms.

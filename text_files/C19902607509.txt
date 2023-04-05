@@ -1,0 +1,297 @@
+ Ved dette tillæg foretages nedenstående ændringer og tilføjelser i  
+
+ cirkulære nr. 27A af december 1981:
+1.1. Gyldighedsområde Efter pkt. 1.1.3. tilføjes:
+1.1.4. De angivne principper for målingerne er vejledende.
+Andre  
+
+ måleprincipper kan anvendes for så vidt kravene kan verificeres.
+De angivne  
+
+ værdier for uafhængige variable (fx. strøm og frekvens) er minimumskrav til  
+
+ antal målepunkter.
+2.2. Isolations modstand Efter afsnit 2.2.1. tilføjes et nyt stk.:
+ Dersom særudstyret indeholder transmissionsudstyr for telefoni, skal den  
+
+ nævnte isolationsmodstand (3 Mohm) dog kun være mindst 1 Mohm.
+2.3. Sløjfemodstand I punkt 2.3.1. erstattes stk. 1 af:
+ I sløjfetilstand skal jævnstrømssløjfen mellem linieklemmerne have en  
+
+ strøm-spændingskarakteristik, som er stadig stigende inden for de i Fig.  
+
+ 2.3.1 viste grænser.
+Princip for måling er vist i Fig.
+M.2.3.1 Sløjfemodstanden måles med I = 8, 16, 20, 24, og 50 mA samt Imax (Ub = 56  
+
+ V) med begge polariteter af jævnspændingen ved disse strømme.
+Efter afsnit  
+
+ 2.3.2 tilføjes et nyt stk.: Princip for måling er vist i Fig.
+M.2.3.2  Sløjfemodstanden bestemmes ved Ub = 48 V og Rf = 1200 ohm  
+
+2.4. Sløjfestrømmens indsvingningsforløb  I pkt. 2.4.1., side 6,  
+
+ erstattes stk. 2 af: I et særudstyr, som overtager sløjfetilstand fra et  
+
+ andet udstyr i en abonnentsinstallation, skal sløjfetilstanden dog etableres  
+
+ således, at sløjfestrømmen senest 5 ms efter, at omkoblinger er påbegyndt, er  
+
+ mindst 15 mA, når særudstyrets linieklemmer er påtrykt en spænding på 48 V  
+
+ gennem 2x1200 Ohm.
+2.6. Elektrisk belastning Teksten erstattes af:
+ Et særudstyr skal i sløjfetilstand uden at foranledige sekundære skader  
+
+ vedvarende kunne tåle den effekt, som det tilføres, når linieklemmerne er  
+
+ påtrykt en jævnspænding på 56 V gennem en modstand på 220 Ohm.
+ Spændingen påtrykkes i 30 minutter og der kontrolleres under eksponeringen  
+
+ for farlig varmeafgivelse.
+3.1. Indgangsimpedans Teksten i pkt. 3.1 samt fig. 3.1 erstattes af følgende:
+ 3.1.1. I rotilstand skal et særudstyr mellem linieklemmerne have en  
+
+ strøm-spændingskarakteristik, som ved 25 Hz ikke må overskride grænsen A i  
+
+ Fig. 3.1.1., jf. dog pkt. 3.1.2.
+Princip for målingen er vist i Fig.
+M.3.1.1 Strøm-spændingskarakteristikken måles med f = 25 Hz og U = 45 V og 120 V  
+
+ med effektivt målende voltmeter og amperemeter.
+ 3.1.2. For et særudstyr, hvor et ringesignal direkte kan omsættes til et  
+
+ akustisk signal, kræves dog kun, at ovennævnte strøm-spændingskarakteristik  
+
+ ikke overskrider grænsen B i Fig. 3.1.1., jf. dog pkt. 3.1.3.
+Princip for målingen er vist i Fig.
+M.3.1.1.
+ Strøm-spændingskarakteristikken måles med f = 25 Hz og U = 45 V og 120 V  
+
+ med effektivt målende voltmeter og amperemeter.
+ 3.1.3. Dersom et særudstyrs strøm-spændingskarakteristik i  
+
+ overensstemmelse med pkt. 3.1.2. overskrider grænsen A, skal det i rotilstand  
+
+ mellem linieklemmerne have en impedans, hvis reelle komposant er mindst 4 k  
+
+ Ohm ved en 50 Hz vekselspænding på 45 V.
+Princip for målingen er vist i Fig.
+M.3.1.3.
+ Indgangsimpedansens reelle komposant bestemmes af rz = 5 x (I epsilon  
+
+ exp2 - IR exp2 - Iz exp2)/Iz exp2  kOhm.
+3.3. Elektrisk belastning Teksten erstattes af:
+ Et særudstyr skal uden at foranledige sekundære skader kunne tåle den  
+
+ energi, som det tilføres, når der i 1300 ms i sløjfetilstand påtrykkes  
+
+ linieklemmerne en jævnspænding på 56 V overlejret med en 50 Hz vekselspænding  
+
+ på 130 V gennem en modstand på 150 Ohm.
+Princip for opstillingen er vist i Fig.
+M.3.3.
+ Kontakterne sluttes i 1300 ms, og der kontrolleres under og efter  
+
+ eksponering for farlig varmeafgivelse.
+4.1. Indgangsimpedans 4.1.1. Erstattes af følgende tekst:
+ I rotilstand skal et særudstyr mellem linieklemmerne have en impedans med  
+
+ en numerisk værdi, som ved vekselspændinger op til 1.5 V er mindst 30 kOhm i  
+
+ frekvensområdet fra 55 Hz til 4000 Hz og ved højere frekvenser højst aftager  
+
+ 6 dB/oktav.
+Princip for målingen er vist i Fig.
+M.3.1.1.
+ Impedansen måles med f = 55 Hz og 300 Hz samt 1, 4, 16 og 64 kHz ved U =  
+
+ 1.5 V.
+ 4.1.2. samt Fig. 4.1.2. erstattes af følgende:
+ Et særudstyr skal ved sløjfestrømme fra 8 mA til Imax have en  
+
+ indgangsimpedans, hvis tilpasningsdæmpning over for en modstand på 600 Ohm er  
+
+ mindst 10 dB i frekvensområdet fra 300 til 3400 Hz.
+ Det kræves dog ikke opfyldt:
+ - i tidsrummet fra klartone er modtaget, til transmissionsudstyr er  
+
+ indkoblet efter nummervalg med jævnstrømsimpulser.
+ - i tidsrummet fra jævnstrømssløjfe er etableret, til transmissionsudstyr  
+
+ er indkoblet efter besvarelse af et opkald.
+Princip for måling er vist i Fig.
+M.4.1.2.
+ Tilpasningsdæmpningen bestemmes af 20 log10(U1/U2) dB.
+ Der måles ved sløjfestrømme på 8 mA med E=0.775 V og ved 16 mA, 32 mA og  
+
+ Imax med E=1.5 V ved frekvenserne f=0.3, 0.5, 1.0, 2.5 og 3.4 kHz.
+ Imax er sløjfestrømmen, når udstyret fødes med 56 V gennem 500 Ohm.
+ Indgangsimpedansen Zi's tilpasningsdæmpning over for referencenetværkets  
+
+ impedans, Zref er 20 log10 ( Zi + Zref )/( Zi - Zref )dB, hvor begge  
+
+ impedancer er komplexe værdier.
+ I pkt. 4.1.3. side 9 ændres 2.5 V til 1.5 V.
+ 5.3. Nummervalg med jævnstrømsimpulser.
+5.3.1.tredie stykke.
+Teksten erstattes af:
+ Fra et opkald er indledt, til der efter et nummervalg med  
+
+ jævnstrømsimpulser er indkoblet transmissionsudstyr, må der ikke fra et  
+
+ særudstyr afgives vekselspændinger, der ved nogen enkelt frekvens - ud over  
+
+ de, der skyldes brydeimpulserne - som over særudstyrets linieklemmer belastet  
+
+ med en modstand på 600 Ohm overstiger følgende værdier:
+-33 dBm for 0.3 kHz <= f < 4.3 kHz, -37 dBm ved 4.3 kHz faldende med 12 dB/oktav for 4.3 kHz < f < 16.2  
+
+ kHz, -60 dBm for 16.2 kHz <= f <= 150 kHz.
+5.4. Nummervalg ved toneimpulser I pkt. 5.4.1. fjernes 3. og 4. stykke.
+ I pkt. 5.4.2., side 12, erstattes stk. 1, 2 og 3 af:
+ 5.4.2 Ved nummervalg med toneimpulser skal der for hvert ciffer eller tegn  
+
+ sendes et kodesignal i form af en vekselspændingsimpuls, som indeholder en  
+
+ frekvens i lavt bånd (under 1000 Hz) og en frekvens i højt bånd (over 1000  
+
+ Hz).
+ Sammenhængen mellem cifferværdi/tegn og frekvenskombination i  
+
+ kodesignalerne fremgår for hver cifferværdi/tegn af Fig. 5.4.2.
+ Anvendelsen af kodesignalerne, som i Fig. 5.4.2. er symboliseret med A, B,  
+
+ C og D, er endnu ikke fastlagt, og disse kodesignaler må indtil videre ikke  
+
+ anvendes i forbindelse med et nummervalg.
+ 5.4.4. erstattes af følgende 2 punkter:
+ 5.4.4.1. Under udsendelse af et MFT kodesignal skal den samlede  
+
+ udgangseffekt af alle uønskede frekvenskomponenter være mindst 20 dB mindre  
+
+ end udgangseffekten ved den laveste frekvens i kodesignalet.
+ Dette krav kontrolleres opfyldt ved måling i.h.t. pkt. 5.4.4.2. og  
+
+ effektaddition af de frekvenskomponenter, hvis niveau overstiger -37 dBm.
+ 5.4.4.2. Under MFT signalering (både under udsendelse af kodesignaler og i  
+
+ pauserne mellem disse) må udgangseffekten ved enhver uønsket frekvens, f,  
+
+ ikke overstige følgende værdier:
+-33 dBm for 0.3 kHz <= f < 4.3 kHz, -37 Dbm ved 4.3 kHz faldende med 12 dB/oktav for 4.3 kHz < f <16.2  
+
+ kHz, -60 dBm for 16.2 kHz <= f <= 150 kHz.
+ Målingen foretages medens ciffer 1 hhv. 9 udsendes kontinuerligt ved  
+
+ sløjfestrømme på 16mA og Imax.
+ Imax er sløjfestrømmen, når udstyret fødes med 56 V gennem 500 Ohm.
+ 5.4.6. Erstattes af følgende tekst (fig. 5.4.6. bevares):
+ Ved nummervalg med toneimpulser og automatisk sending af hvert ciffer skal  
+
+ sending af et kodesignals to frekvenser påbegyndes samtidigt, og følgende  
+
+ tidskrav, se Fig. 5.4.6., skal være opfyldt:
+Stigetid: 0 <= T1 <= 7 ms Signaltid: 65 ms <= T2 <= 130 ms Faldetid: 0 <= T3 <= 7 ms Pausetid 65 ms <= T4 Periodetid: 130 ms <= T1 + T2 + T3 + T4 Endvidere skal pausetid + 10 ms >= signaltid Tiden, fra et signal påbegyndes, til sendeniveauet er inden for den  
+
+ specificerede værdi, benævnes stigetiden.
+ Tiden, fra et signal ophører, til pauseniveauet er inden for den  
+
+ specificerede værdi, benævnes faldetiden.
+ Kravet kontrolleres ved sending af forskellige cifre efter hinanden.  
+
+ Tiderne måles med oscilloskop med sløjfestrømme på 16 mA og Imax, og  
+
+ målingerne dokumenteres med oscilloskopbilleder e.l.
+5.6. Identifikationssignal Teksten i pkt. 5.6.2., side 13, erstattes af:
+5.6.2. Et identifikationssignal i form af et kodesignal skal være  
+
+ sammensat af en eller flere frekvenser i frekvensområdet 300-2200 Hz og  
+
+ sendes vedvarende eller intermitterende, indtil korrekt identifikationssignal  
+
+ er modtaget fra den kaldte abonnent, eller indtil sløjfetilstanden er afløst  
+
+ af rotilstand.
+Desuden tillades det, at MFT-signaler i overensstemmelse med  
+
+ pkt. 5.4.2., 5.4.3 og 5.4.6. benyttes som identifikationssignal.
+5.8. Gentagelse af opkald I pkt. 5.8.2., side 13, indsættes mellem stk. 2 og 3:
+ Er særudstyret indrettet for tilslutning af en datamaskine, tillades det  
+
+ dog, at den tilsluttede datamaskine styrer opkald i overensstemmelse med  
+
+ foran nævnte krav.
+6.4. Identifikationssignal I pkt. 6.4.3., side 14 tilføjes:
+ Som en undtagelse fra dette krav tillades det, at toneimpulser  
+
+ (MFT-signaler) i overensstemmelse med pkt. 5.4.2., 5.4.3. og 5.4.6. benyttes  
+
+ som identifikationssignal.
+ Mellem afsnit 6 og 7 indføjes et nyt afsnit X:
+X.1. Almindeligt Et særudstyr kan være indrettet til gennemstilling af en etableret  
+
+ telefonforbindelse til den efterfølgende abonnentinstallation.
+Ved en sådan  
+
+ gennemstilling gælder følgende krav til signalering og transmission mod  
+
+ abonnentinstallationen forud for gennemstillingen.  X.2.  
+
+ Jævnstrømssignalering Den efterfølgende abonnentinstallation må påtrykkes en jævnspænding på  
+
+ højst 56 volt fra en strømkilde med en kortslutningsstrøm på højst 70 mA.
+ For så vidt angår jævnstrømssignalering i abonnentnettet, se pkt. 7.6.
+X.3. Ringesignalering X.3.1. Sending af ringesignaler fra særudstyr mod den efterfølgende  
+
+ abonnentinstallation må ske i form af en vekselspænding kendetegnet ved:
+Det er tilladt, at vekselspændingen overlejres jævnspændingen, som er  
+
+ specificeret i pkt.
+X.2.
+ X.3.2. Bortkobling af ringesignalet skal ske senest i første ringepause,  
+
+ efter at der i efterfølgende installation er etableret sløjfetilstand.
+ Af hensyn til mulige gener (ringning i øret) anbefales det at bortkoble  
+
+ ringesignalet senest 150 ms efter, at der er etableret sløjfetilstand i den  
+
+ efterfølgende installation.
+ X.3.3 I tilfælde, hvor der ikke er etableret sløjfetilstand i den  
+
+ efterfølgende abonnentinstallation senest 60s efter, at særudstyret har  
+
+ etableret telefonforbindelsen, skal udstyret snarest bortkoble ringesignalet  
+
+ og etablere rotilstand mod abonnentledningen.
+X.3.4. Nedkobles telefonforbindelsen af den anden abonnent, inden der er  
+
+ etableret sløjfetilstand i den efterfølgende abonnentinstallation og inden  
+
+ udløbet af tidsfristen jf. pkt.
+X.3.3., bør særudstyret kunne detektere  
+
+ optagettonen fra centralen og etablere rotilstand mod abonnentledningen  
+
+ snarest muligt, jf. pkt. 6.5.4.
+X.4. Transmission ved talefrekvenser For transmission ved talefrekvenser mod den efterfølgende  
+
+ abonnentinstallation gælder de samme krav til sendeniveauer, som er anført i  
+
+ pkt. 4.4. og 5.4.
+X.5. Gennemstilling X.5.1. De i pkt.
+X.2. og X.3.1. nævnte jævn- og vekselspændinger skal  
+
+ under alle forhold være adskilte fra abonnentledningen, og de i Fig. 1.6.1.c.  
+
+ eller 1.6.2.c. viste tilslutningsmetoder med skiftekontakter i begge ledere  
+
+ skal benyttes.
+ X.5.2. Der må ved gennemstillingen ikke forekomme afbrydelser, prel eller  
+
+ lignende fænomener i tidsrum af længere varighed, end at sløjfestrømmen fra  
+
+ offentlig central er mindst 15 mA senest 5 ms efter, at gennemstillingen er  
+
+ påbegyndt, jf. pkt. 2.4.1. og 2.4.2.

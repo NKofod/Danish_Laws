@@ -1,0 +1,357 @@
+ Gyldighedsområde.
+ Disse tekniske bestemmelser specificerer de tekniske krav og de tilhørende  
+
+ prøvningsforskrifter, som et telefonapparat skal overholde for at kunne  
+
+ godkendes for tilslutning til det offentlige danske telefonnet.
+ Hjemmelsgrundlaget for disse tekniske bestemmelser fremgår af Ministeriet  
+
+ for Kommunikation og Turismes bekendtgørelse nr. 737 af 13. august 1994,  
+
+ »Bekendtgørelse om teleterminaludstyr« (* 1), § 5.
+ Ikrafttræden.
+ Disse tekniske bestemmelser træder i kraft 10. maj 1996 og erstatter TB 95  
+
+ 004, rev.B, august 1993.
+ Overgangsbestemmelse.
+Indtil 31. december 1996 vil telefonapparater også kunne godkendes efter  
+
+ »Tekniske Bestemmelser for Telefonapparater, TB 95 004, rev.
+B august  
+
+ 1993«.
+ Typegodkendelse.
+ Fremgangsmåden for opnåelse af typegodkendelse fremgår af førnævnte  
+
+ be-kendtgørelse § 11.
+ Tekniske krav.
+ De tekniske krav og de tilhørende prøvningsforskrifter, som udstyret skal  
+
+ opfylde, fremgår af Bilag 1.
+ Rekvirering af love, bekendtgørelser, standarder m.v.
+ Love, bekendtgørelser og tekniske bestemmelser som er nævnt i denne TB kan  
+
+ fås uden beregning, (hvis ikke andet er angivet ved TB'en i oversigten), ved  
+
+ henvendelse til Telestyrelsen, Holsteinsgade 63, 2100 København Ø, tlf:  
+
+ 35430333, fax: 35431434.
+ETSI dokumenter ((I-)ETS'er og TBR'er samt NET-standarder) kan købes hos  
+
+ Telestyrelsen, ITU rekommandationer m.v. kan købes direkte hos ITU, Place des Nations,  
+
+ CH-1211 Geneve 20, tlf.: +41 22 730 5111, fax: +41 22 730 5194 eller +41 22  
+
+ 733 7256 eller eventuelt gennem Telestyrelsen.
+ Radiorelaterede rekommandationer herunder, ERC Decisons,  
+
+ Radiocommunication Reports, Report Forms og Application Forms,  
+
+ Recommendations on Radiocommunications kan købes hos: ERO, European  
+
+ Radiocommunications Office, Midtermolen 1, 2100 København Ø, tlf: 35250300,  
+
+ fax: 35250330. For yderligere information henvises til ERO's hjemmeside på  
+
+ internettet (www.ero.dk).
+ ISO/CEN/CENELEC/IEC/DS standarder kan købes hos Dansk Standard,  
+
+ Kollegievej 6, 2920 Charlottenlund, tlf: 39966101, fax: 39966102.
+Bilag 1 til Tekniske bestemmelser for håndsættelefoner Tekniske krav og prøvningsforskrifter for håndsættelefoner maj 1996 Indholdsfortegnelse.
+ 1 Indledning.
+ Dette dokument refererer til TB 94-052, hvor dette dokuments generelle del  
+
+ bygger på ETS 300 001 (NET 4) kapitel 1 og dette dokuments tekniske  
+
+ specifikationer bygger på ETS 300 001 (NET 4) kapitel 4, Transmission  
+
+ characteristics.
+ 2 Anvendelsesområde.
+ Dette dokument specificerer de tekniske krav med tilhørende  
+
+ prøvningsforskrifter, som en terminal - for håndsættelefonifunktion - skal  
+
+ overholde udover kravene i TB 94 052 for at den må tilsluttes det danske  
+
+ analoge PSTN-net (PSTN = Public Switched Telephone Network).
+ 3 Forhold ved prøvning.
+ 3.1 Generelt.
+De, i figurerne, angivne principper for målingerne er vejledende.
+Andre  
+
+ måleprincipper kan anvendes, for så vidt kravene kan verificeres.
+De angivne  
+
+ diskrete værdier for uafhængige variable (f. eks. strøm og frekvens) er  
+
+ minimumskrav til antal målepunkter.
+ 3.2 Måleusikkerhed.
+ Måleprincipper og måleusikkerheder skal kunne verificeres overfor 3. part.
+ 4 Definitioner og forkortelser.
+ Betalingstelefon .
+ Ved en betalingstelefon forstås en håndsættelefon, som kan benyttes til  
+
+ opkald og samtale via det offentlige telefonnet, efter at en bruger har  
+
+ indskudt betaling herfor i form af mønter eller andet brugbart  
+
+ betalingsmiddel, og denne betaling er accepteret af det tilhørende  
+
+ debiteringsudstyr.
+ Håndsættelefoni .
+ Håndsættelefoni er to-vejs analog tale i dialog og som transmitteres over  
+
+ en håndsættelefon, der er en integreret del af et terminaludstyr, som kan  
+
+ have ekstra telefonifaciliteter udover den definerede håndsættelefoni.
+ Håndsættelefon .
+En håndsættelefon er specificeret som et akustisk interface med et MRP og  
+
+ et ERP, defineret i ITU T Rec.
+P35 Handset Telephones.
+ Imax definition for en håndsættelefon.
+ Fra ETS 300 001 er her angivet definition af Imax for en håndsættelefon:
+Imax er skæringspunktet mellem den målte strøm/spændingskarakteristik og  
+
+ linien Vt/V = 56 - 0,5I/mA.
+Se figur 4.1 og 4.2.
+Figur 4.1 Håndsættelefonen forbindes som vist i figur 4.2 (TEUT).
+Figur 4.2 CCITT International Telegraph and Telephone Consultative Committee (nu  
+
+ ITU).
+ EEC European Economic Community (også kaldet EU, den Europæiske Union).
+ ERP Ear Reference Point.
+ ETSI European Telecommunications Standardisations Institute.
+ ETS European Telecommunications Standard (udarbejdet af ETSI).
+ IEC International Electrotechnical Commission.
+ ITU-T International Telecommunication Union - Telecommunication (før  
+
+ CCITT).
+ MRP Mouth Reference Point.
+ NET Norme Europeenne de Telecommunication (Europæisk Telekommunikations  
+
+ Standard udarbejdet af CEPT (Conference Europeenne des Administration des  
+
+ Postes et des Telecommunications)).
+ PSTN Public Switched Telephone Network.
+ RLR Receiving Loudness Rating.
+ SLR Sending Loudness Rating.
+ STMR SideTone Masking Rating.
+ TB... Teknisk Bestemmelse (Telestyrelsen).
+ TEUT Terminal Equipment under Test.
+ 5 Normative referencer.
+Dette dokument inkluderer referencer til andre standarder og  
+
+ rekommendationer i dateret og udateret form.
+Disse normative referencer er  
+
+ anvendt passende steder i teksten og er alle listede senere i dette afsnit.
+ Senere tilføjelser og/eller revisioner af disse dokumenter kan der alene  
+
+ refereres til, hvis dette dokument revideres eller der foretages en  
+
+ tilføjelse til det.
+ Telestyrelsen.
+TB 94 052 rev.
+A marts 1995.
+ ETSI.
+ETS 300 001 (NET 4) second edition, med danske revisioner, udgivet af  
+
+ Telestyrelsen august 1995 prTBR 38, Analogue Handset Telephony.
+ ITU-T Rec.
+ P35, Handset Telephones.
+ P48, Specification for an intermediate reference system, Blue Book Volume.  
+
+ V 1988.
+ P51, Artificial Mouth, Rev. 1 1993.
+ P57, Artificial Ears, ny 1993.
+ P64, Determination of sensitivity/frequency characteristics of local  
+
+ telephone system, Rev. 1 1993.
+P76, Determination of loudness ratings: fundamental principles, Blue Book  
+
+ Volume.
+V 1988.
+ P79, Calculation of loudness ratings for telephone sets, Rev. 1 1993.
+ IEC.
+ 225. First edition 1966. Octave, half-octave and  
+
+ third-octave band filters intended for the analysis of sounds and vibrations.
+ 6 Sending.
+ 6.1 SLR (Sending Loudness Rating).
+ 6.1.1 En håndsættelefon skal i sløjfetilstand ved sløjfestrømme  
+
+ større end eller lig 16 mA have en SLR på 2 dB +/- 3 dB.
+ 6.1.2 Endvidere skal en håndsættelefon ved sløjfestrømme ned til 8  
+
+ mA have en SLR på 2 dB +7dB/-3 dB.
+ Prøvning.
+ Princip for måleopstilling er vist i figur M.6.1.2.a og M.6.1.2.b.
+Figur M.6.1.2.a Figur M.6.1.2.b SLR bestemmes ved sløjfestrømme på 8, 16 og 32 mA samt Imax.
+ 6.2 Frekvenskarakteristik ved sending.
+ En håndsættelefons frekvenskarakteristik for sending skal - under  
+
+ målebetingelser som ved måling af SLR - ligge inden for de i figur 6.2  
+
+ angivne relative grænser ved sløjfestrømme større end eller lig 16 mA.
+Figur 6.2 Figur 6.2. Relative grænser for frekvenskarakteristik for sending fra en  
+
+ håndsættelefon.
+ Prøvning.
+ Princip for måleopstilling er vist i figur M.6.1.2.a og M.6.1.2.b.  
+
+ Frekvensafhængigheden af sendeevnen, SMJ, måles ved sløjfestrømme på 16 mA og  
+
+ Imax i frekvensområdet fra 100 Hz til 8 kHz i spring på 1/12 oktav.
+ 6.3 Minimum sendespænding (udstyring).
+ Såvel den positive som den negative spidsværdi skal ved sløjfestrømme  
+
+ større end eller lig 16 mA kunne blive mindst 1,6 Vp med en harmonisk  
+
+ forvrængning på højst 10%, når håndsættelefonens mikrofon påtrykkes  
+
+ enkelttoner i frekvensområdet fra 500 Hz til 2500 Hz.
+ Prøvning.
+Princip for måleopstilling er vist i figur M.6.3 Figur M.6.3 Spidsværdien måles ved sløjfestrømme på 16 mA og Imax.
+Ved frekvenserne 500, 1000 og 2500 Hz reguleres lydtrykket Pm således, at  
+
+ oscilloskopet viser, at såvel den positive som den negative halvperiode af  
+
+ udgangssignalet netop overstiger 1,6 VP.
+Det kontrolleres, at den harmoniske  
+
+ forvrængning ikke overstiger 10%.
+ 6.4 Harmonisk forvrængning.
+ Den harmoniske forvrængning af en håndsættelefons udgangsspænding må ikke,  
+
+ ved sløjfestrømme større end eller lig 16 mA, overstige 5%, når mikrofonen -  
+
+ under målebetingelser som ved måling af SLR - påtrykkes enkelttoner i  
+
+ frekvensområdet fra 300 Hz til 3400 Hz.
+ Prøvning.
+Princip for måleopstilling er vist i figur M.6.3 Den harmoniske forvrængning måles ved sløjfestrømme på 16 mA og Imax ved  
+
+ frekvenserne 315, 1000 og 3150 Hz og et lydtryk Pm = -4,7 dBPa i MRP.
+ 6.5 Egenstøj.
+ En håndsættelefons egenstøj må ikke, hverken i rotilstand eller i  
+
+ sløjfetilstand ved sløjfestrømme større end eller lig 8 mA i 600 ohm mellem  
+
+ linieklemmerne, medføre en uvejet udgangseffekt, som overstiger 10nW (-50  
+
+ dBm), målt i frekvensområdet fra 30 Hz til 150 kHz.
+ Prøvning.
+ Princip for måleopstilling er vist i figur M.6.1.2.b.
+ Egenstøjen måles i rotilstand ved 48 V samt i sløjfetilstand ved  
+
+ sløjfestrømme på 8 mA, 16 mA og Imax.
+ 7 Modtagning.
+ 7.1 RLR (Receiving Loudness Rating).
+ 7.1.1 En håndsættelefon skal i sløjfetilstand ved sløjfestrømme  
+
+ større end eller lig 16 mA have en RLR på -8 dB +/- 3 dB.
+ Note: Er håndsættelefonen udstyret med en volumenkontrol, indstilles  
+
+ modtagefølsomheden til den nominelle RLR værdi ved målingerne.
+ 7.1.2 Endvidere skal en håndsættelefon ved sløjfestrømme ned til 8  
+
+ mA have en RLR på -8 dB +7dB/-3 dB.
+ Prøvning.
+Princip for målopstilling er vist i figur M.7.1.2 Figur M.7.1.2 Er håndsættelefonens LE-værdier bestemt separat ved hjælp af en angivet og  
+
+ anerkendt metode, kan disse LE-værdier benyttes til beregning af RLR i stedet  
+
+ for tabellens LE-værdier.
+ RLR bestemmes ved sløjfestrømme på 8, 16 og 32 mA samt Imax.
+ 7.2 Frekvenskarakteristik ved modtagning.
+ En håndsættelefons frekvenskarakteristik for modtagning skal - under  
+
+ målebetingelser som ved måling af RLR - ligge inden for de i figur 7.2  
+
+ angivne relative grænser ved sløjfestrømme større end eller lig 16 mA.
+Figur 7.2 Figur 7.2. Relative grænser for frekvenskarakteristik for modtagning fra  
+
+ en håndsættelefon.
+ Prøvning.
+ Princip for måleopstilling er vist i figur M.7.1.2.
+ Frekvensafhængigheden af modtagefølsomheden, SJe, måles ved sløjfestrømme  
+
+ på 16 mA og Imax i frekvensområdet fra 100 Hz til 8 kHz i spring på 1/12  
+
+ oktav.
+ 7.3 Maksimalt lydtryk fra telefonkapslen.
+ For telefonkapslen i et håndsæt gælder, at den aldrig må kunne udsende et  
+
+ lydtryk på mere end 118 dBspl og med en spidsværdi på mere end 130 dBspl.
+ Note: Disse nye specifikationer for »maksimalt lydtryk« er  
+
+ hentet fra den første version af prTBR 38, selvom denne formodentlig endnu  
+
+ ikke er stabil.
+ 7.4 Ringemodtager.
+ En ringemodtager i en håndsættelefon er normalt indrettet til udsendelse  
+
+ af et akustisk signal, når den aktiveres som følge af tilringning.
+ Grundet personsikkerhed, i tilfælde af en fejlsituation ved tilringning,  
+
+ ønskes en håndsættelefons telefonkapsel ikke anvendt som lydkilde.
+ 7.5 Egenstøj.
+En håndsættelefons egenstøj må ikke, ved modtagning ved hjælp af et  
+
+ kunstigt øre, ITU Rec.
+P57 type 1 (IEC 318), medføre et lydtryk, som  
+
+ overstiger 45 dB(A), når belastningen over linieklemmerne er 600 ohm.
+Kravet  
+
+ skal være opfyldt i sløjfetilstand ved sløjfestrømme større end eller lig 8  
+
+ mA.
+ Prøvning.
+ Princip for måleopstilling er vist i figur M.7.5.
+Figur M.7.5 Egenstøjen måles ved Imax.
+ 8 Sidetoneforhold.
+ 8.1 STMR (SideTone Masking Rating).
+ En håndsættelefons STMR skal være bedre (mere positiv) end 13 dB, når SLR  
+
+ og RLR er korrigerede til de nominelle værdier.
+ Korrektion fra målt STMR (STMRmålt) til korrigeret værdi (STMRkorr.) kan  
+
+ udledes af formlen:
+STMRkorr.= STMRmålt - (SLRmålt - SLRnom. + RLRmålt - RLRnom.) Prøvning.
+En håndsættelefons STMR måles med linieklemmerne afsluttet med  
+
+ referencenetværket vist i figur 8.1 Figur 8.1 Princip for måleopstilling er vist i figur M.8.1 Figur M.8.1 Håndsættet anbringes på det kunstige hoved.
+ Lydtrykket Pm indreguleres til -4,7 dBPa i MRP og PS måles ved frekvenser  
+
+ fra 100 Hz til 8 kHz i spring på 1/3 oktav ved sløjfestrømme på 16 mA, 32mA  
+
+ og Imax.
+LmeST beregnes for hver målefrekvens som 20 og (Ps/Pm).
+ 9 Betalingstelefoner.
+ 9.1 Krav.
+ Betalingstelefoner skal overholde kravene i dette dokument.
+ 9.2 Alarmopkald.
+ For betalingstelefoner gælder specielt, at der altid - også selvom en  
+
+ eventuel ekstern strømforsyning svigter - uden brug af betalingsmiddel, skal  
+
+ kunne foretages opkald til og føres samtale med den offentlige alarmtjeneste  
+
+ (112).
+ Opkald skal kunne foretages til alarmnummer ved anvendelse af telefonens  
+
+ tastatur.
+ Prøvning.
+ Uden ekstern strømforsyning foretages opkald til 112.
+ Alle krav i dette dokument skal opfyldes: ved prøvning af DTMF anvendes  
+
+ dog kun tasterne 1 og 2.
+ (* 1) Bekendtgørelsen indeholder bestemmelser, der gennemfører Rådets  
+
+ direktiv nr. 91/263/EØF, De Europæiske Fællesskabers Tidende (EF-Tidende)  
+
+ 1991 L 128 s. 1, og Rådets direktiv nr. 93/68/EØF, De Europæiske  
+
+ Fællesskabers Tidende (EF-Tidende) 1993 L 220 s.l.

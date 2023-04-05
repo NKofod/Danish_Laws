@@ -1,0 +1,214 @@
+ (jfr. bekendtgørelse nr. 174 af 21. maj 1965 om  
+
+ radiostationer og radiotjeneste i skibe, §§ 15 og 16). I medfør af § 2, stk.  
+
+ 5, § 11, stk. 2 og § 28 i lov nr. 98 af 12. marts 1980 om skibes sikkerhed  
+
+ m.v. med senere ændringer, jfr. bekendtgørelse nr. 299 af 9. juni 1988,  
+
+ fastsættes:
+I.
+Almindelige bestemmelser 1. Modtageren skal være i fast forbindelse med  
+
+ vælgeanordningen.
+ 2. Alle indstillingsorganer, der har indvirkning på  
+
+ afstemning, følsomhed, selektivitet og tolerance, skal være anbragt inden i  
+
+ apparatet således, at de ikke kan bringes ud af indstilling ved manuelt  
+
+ indgreb på apparatets yderside eller ved fejltagelse.
+ 3. Modtageren skal være sådan indrettet, at den ved  
+
+ forekomst af atmosfæriske forstyrrelser eller forstyrrende signaler i løbet  
+
+ af rimelig kort tid automatisk indstiller følsomheden således, at apparatet  
+
+ er bedst i stand til at opfange alarmsignalet.
+ 4. Modtageren skal være forsynet med et måleinstrument  
+
+ i anodekredsen for det sidste trin, der påvirker vælgeanordningen, og  
+
+ instrumentet skal være mærket svarende til en signalstyrke på 100 mikrovolt  
+
+ over modtagerens indgangsklemmer.
+ 5. Vælgeanordningen skal - afhængig af apparatets  
+
+ konstruktion - virke for de første 3 eller 4 streger af alarmsignalet, når  
+
+ dette modtages uden forstyrrelser, og når signalets streger og mellemrum  
+
+ falder indenfor de foreskrevne tolerancer.
+ 6. Vælgeanordningen må ikke kunne sættes i virksomhed  
+
+ af atmosfæriske forstyrrelser eller noget andet signal end alarmsignalet  
+
+ forudsat, at de modtagne signaler ikke i virkeligheden udgør et signal, som  
+
+ falder indenfor de foreskrevne tolerancer.
+ 7. Vækkeanordningen skal bestå af tre vækkeapparater  
+
+ anbragt som foreskrevet i bekendtgørelsen, og den strømkilde skal være  
+
+ uafhængig af autoalarmapparatets strømkilde.
+ 8. Vækkeanordningen skal frembringe et vedvarende  
+
+ akustisk signal af tilstrækkelig styrke, når vælgeanordningen virker.  
+
+ Signalet må kun kunne afbrydes ved en i radiorummet anbragt afbryder.
+ 9. Vækkeanordningen skal endvidere virke, dels når  
+
+ strømforsyningen eller en glødestrømkreds afbrydes, og dels når antennen ikke  
+
+ er tilsluttet gennem antenneomskifteren for så vidt en sådan benyttes.
+ 10. Vækkeapparatet på broen skal kunne sættes ud af  
+
+ funktion under de daglige prøver, og den dertil tjenende nøgle eller afbryder  
+
+ skal automatisk genindkoble vækkeapparatet, når den ikke aktiveres.
+ 11. Prøveanordningen skal være således koblet til  
+
+ modtageren, at prøvesignalerne har en styrke svarende til 100 mikrovolt over  
+
+ modtagerens indgangsklemmer.
+ 12. Der skal endvidere findes en testanordning for  
+
+ kontrol og afprøvning af selektorenheden.
+ 13. Der skal forefindes midler for tilslutning af  
+
+ hovedtelefoner med henblik på aflytning af de på apparatet modtagne signaler.
+II.
+Laboratorieprøver Hvor ikke andet er anført, kontrolleres opfyldelsen af efterfølgende  
+
+ betingelser ved et signal på 3 henholdsvis 4 streger moduleret 70% med  
+
+ tonefrekvenserne 450, 900 og 1350 Hz ved en kunstig antenne på 10 ohm i serie  
+
+ med en kondensator på 400 pF.
+ 1. Modtageren skal være fast afstemt til frekvensen  
+
+ 500 kHz, og følsomheden må højst variere 3 db indenfor et område, der ikke er  
+
+ mindre end 4 kHz og ikke større end 8 kHz på hver side af 500 kHz, og skal  
+
+ være mindst 40 db lavere ved 484 kHz og 516 kHz samt mindst 60 db lavere ved  
+
+ 476 kHz og 524 kHz end ved 500 kHz.
+2. Apparatet skal virke tilfredsstillende ved enhver  
+
+ indgangsspænding mellem 100 og 1.000.000 mikrovolt.
+Prøver foretages ved 100,  
+
+ 10.000 og 1.000.000 mikrovolt, 500 kHz, 900 Hz.
+ 3. Ved:
+ a. et signal på den nedre grænsefrekvens, 900 Hz, 100 mikrovolt samtidig  
+
+ med et unøglet signal, hvis frekvens er 8 kHz lavere end den nedre  
+
+ grænsefrekvens, 900 Hz.
+ b. et signal på den øvre grænsefrekvens, 900 Hz, 100 mikrovolt samtidig  
+
+ med et unøglet signal, hvis frekvens er 8 kHz højere end den øvre  
+
+ grænsefrekvens, 900 Hz.
+ Skal apparatet virke tilfredsstillende ved et forhold på mindst 30 db  
+
+ mellem det uønskede og det ønskede signal.
+ Ved ned nedre og øvre grænsefrekvens skal i denne forbindelse forstås den  
+
+ frekvens inden for området 492-496 kHz hhv. 504 - 508 kHz, ved hvilken  
+
+ selektivitetskurven netop afviger mere end 3 db, jfr. pkt. 1.
+ 4. Apparatet skal kunne virke for streger varierende  
+
+ mellem 3,5 sekunder og så nær 6 sekunder som muligt og mellemrum varierende  
+
+ mellem 1,5 og 0,01 sekund og må ikke virke for streger mindre end 3,4  
+
+ sekunder og større end 6,2 sekunder samt ved mellemrum over 1,6 sekunder.
+ Prøver med 500 hZ, 900 Hz, 100 mikrovolt:
+ a. 10 prøver med streger på 4,0 sekunder, mellemrum 0,01 sekund.
+ b. 10 prøver med streger på 4,0 sekunder, mellemrum 1,00 sekund.
+ c. 10 prøver med streger på 4,0 sekunder, mellemrum 1,50 sekund.
+ d. 10 prøver med streger på 3,6 sekunder, mellemrum 0,01 sekund.
+ e. 10 prøver med streger på 3,6 sekunder, mellemrum 1,00 sekund.
+ f. 10 prøver med streger på 3,6 sekunder, mellemrum 1,50 sekund.
+ g. 10 prøver med streger på 6*) sekunder, mellemrum 0,01 sekund.
+ h. 10 prøver med streger på 6*) sekunder, mellemrum 1,00 sekund.
+ i. 10 prøver med streger på 6*) sekunder, mellemrum 1,50 sekund.
+5. Apparatet skal kunne virke ved krængninger på  
+
+ indtil 25 grader.
+Kontrolprøver foretages ved anvendelse af signaler som  
+
+ foreskrevet under pkt. 4 under krængninger af apparatet på 5 grader, 15  
+
+ grader og 25 grader til alle fire sider.
+ 6. Apparatet udsættes for rystelser af en sådan art,  
+
+ som kan forekomme ombord i skibe under vanskelige forhold, og skal kunne  
+
+ virke under påvirkning af disse rystelser.
+ 7. Apparatet skal kunne virke under variationer på +/-  
+
+ 10% i driftsspændingen.
+ 8. Apparatet skal kunne virke under  
+
+ temperaturforandringer som nedenfor anført:
+a.
+Det anbringes i drift i en temperatur på + 30C i 2 timer; dernæst hæves  
+
+ temperaturen til 40C, og apparatet henstår i denne temperatur i 2 timer;  
+
+ sluttelig hæves temperaturen til 55C, hvori apparatet henstår i 2 timer.
+Efter hver periode foretages kontrolmålinger til konstatering af, hvorvidt  
+
+ de ved prøverne 1-4 kontrollerede data har ændret sig.
+Det undersøges, om der  
+
+ findes udflod eller varig forandringer ved komponenter.
+b.
+Apparatet anbringes der næst i drift i mindst 6 timer i en temperatur  
+
+ på + 40C og en luftfugtighedsgrad på 95%.
+I de sidste 30 minutter foretages kontrolmålinger som nævnt under punkt a.  
+
+ Forinden målingerne foretages, aftørres alle overflader og udvendige  
+
+ komponenter.
+For så vidt apparatet måtte være forsynet med ventilatorer eller  
+
+ tørreanordninger, er det tilladt at have sådanne i drift i disse 30 minutter.
+c.
+Sluttelig anbringes apparatet 6 timer i en temperatur på 0C, og  
+
+ underkastes de sidste 30 minutter kontrolmålinger som nævnt under punkt a.
+III.
+Praktiske prøver 1. Apparatet tilsluttes en efter firmaets opgivelse  
+
+ passende modtageantenne og holdes i kontinuerlig drift i mindst 30 døgn i et  
+
+ område med intens trafik på 500 kHz.
+Apparatet må højst justeres een gang i  
+
+ døgnet.
+2. Der foretages ca. 8 gange i døgnet prøver med et  
+
+ lokalt frembragt alarmsignal med modulationsfrekvens 900 Hz og af en sådan  
+
+ styrke, at apparatet netop træder i funktion.
+Prøverne fordeles ligeligt på  
+
+ den nedre grænsefrekvens, 500 kHz og den øvre grænsefrekvens og spredes så  
+
+ vidt muligt ligeligt over hele døgnet.
+ Ved den nedre og øvre grænsefrekvens skal forstås det i afsnit II under  
+
+ pkt. 3 anførte.
+3. I prøvetiden føres en journal, hvoraf må fremgå a. tidspunkt og frekvens for de lokale prøver, b. mindste antal streger, der er sendt for at få apparatet til at virke, c. den nødvendige signalstyrke af det lokale signal, d. omfanget af tilstedeværende forstyrrelser ved prøvernes afholdelse, e. observerede alarmsignaler med oplysninger om, hvorvidt apparatet er  
+
+ trådt i funktion samt omfanget af tilstedeværende forstyrrelser, f. falske alarmer, samt oplysning om karakteren af tilstedeværende  
+
+ forstyrrelser.
+ Overtrædelse af denne forskrift medfører bøde eller hæfte.
+ Forskriften træder i kraft den 15. september 1988.

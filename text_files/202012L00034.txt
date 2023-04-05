@@ -1,0 +1,198 @@
+Fremsat den 7. oktober 2020 af forsvarsministeren (Trine Bramsen) Forslag til Lov om ændring af lov om elektroniske kommunikationsnet og -tjenester1) (Etablering af mobilbaseret varslingssystem) § 1 I lov om elektroniske kommunikationsnet og -tjenester, jf. lovbekendtgørelse nr. 128 af 7. februar 2014, som ændret bl.a. ved § 16 i lov nr. 1567 af 15. december 2015 og senest ved lov nr. 1531 af 18. december 2018, foretages følgende ændringer:
+ 1. Efter § 61 indsættes:
+»§ 62. Udbydere af elektroniske kommunikationstjenester i mobilnet og udbydere af mobilnet skal på vegne af beredskabsaktører udsende offentlige advarsler om overhængende eller truende alvorlige nødsituationer og katastrofer til berørte slutbrugere.
+Udbyderne skal udsende offentlige advarsler til de slutbrugere, der i varslingsperioden opholder sig i nærmere angivne geografiske områder, straks efter modtagelse af anmodning herom.
+De berørte slutbrugere må ikke pålægges udgifter i forbindelse med modtagelse af advarslerne.
+ Stk. 2. Forsvarsministeriet refunderer nødvendige, dokumenterede udgifter, som udbyderne har afholdt i forbindelse med udvikling, etablering og drift af den tekniske løsning, der anvendes til udsendelse af offentlige advarsler.
+ Stk. 3. Den tekniske løsning, der etableres med henblik på udsendelse af offentlige advarsler, må ikke anvendes til andre formål.
+Stk. 4. Forsvarsministeren kan fastsætte nærmere regler om udsendelsen af offentlige advarsler efter stk. 1. Der kan i den forbindelse blandt andet fastsættes krav til den tekniske løsning, der anvendes til udsendelse af offentlige advarsler, og regler om, på hvilke beredskabsaktørers vegne der skal udsendes offentlige advarsler, hvornår udbyderne skal have etableret den tekniske løsning, proceduren for udsendelsen af offentlige advarsler, varslingsperiodens længde samt udbydernes medvirken til at udvikle, etablere og drive den tekniske løsning.« 2. I § 81, stk. 1, nr. 1, ændres »eller § 51 a, stk. 1 og 4« til: », § 51 a, stk. 1 og 4, eller § 62, stk. 1 og 3«.
+ 3. I § 81, stk. 2, ændres »og §§ 9 og 61« til: »§§ 9 og 61 og § 62, stk. 4,«.
+§ 2 Loven træder i kraft den 21. december 2020.
+§ 3 Loven gælder ikke for Færøerne og Grønland.
+Bemærkninger til lovforslaget 1. Indledning I dag har Danmark et sirenevarslingssystem, der sammen med udsendelsen af beredskabsmeddelelser fra public service-stationerne DR og TV 2 og suppleret af beredskabsmyndighedernes egne kommunikationskanaler udgør de centrale dele af den landsdækkende infrastruktur for varsling i forbindelse med ulykker og katastrofer.
+ Europa-Parlamentet og Rådet vedtog den 11. december 2018 direktiv 2018/1972/EU om oprettelse af en fælleseuropæisk kodeks for elektronisk kommunikation, der blandt andet pålægger medlemsstaterne at indføre mobilbaserede varslingssystemer.
+Det følger således af direktivets artikel 110, at udbydere af mobile nummerbaserede interpersonelle kommunikationstjenester skal udsende offentlige advarsler til berørte slutbrugere i tilfælde af overhængende eller truende alvorlige nødsituationer og katastrofer.
+Et sådant mobilbaseret varslingssystem skal være implementeret senest den 21. juni 2022, og senest den 21. december 2020 skal de love og administrative bestemmelser, der gør implementeringen af mobilbaseret varsling mulig, være vedtaget og offentliggjort i national lovgivning.
+ Formålet med dette lovforslag er at skabe grundlaget for etablering af et mobilbaseret varslingssystem i Danmark og dermed implementere den del af direktivet, der vedrører mobilbaseret varsling.
+2. Lovforslagets baggrund Med direktiv 2018/1972/EU om oprettelse af en fælleseuropæisk kodeks for elektronisk kommunikation pålægges medlemsstaterne at indføre mobilbaseret varsling senest den 21. juni 2022.
+ Baggrunden herfor er et ønske om at ensarte måden, hvorpå der sker offentlig varsling i medlemsstaterne, samt at tilnærme en ensartet lovgivning på varslingsområdet.
+ Direktivets artikel 110 opstiller krav om, at udbydere af mobile nummerbaserede interpersonelle kommunikationstjenester skal udsende offentlige advarsler, når offentlige varslingssystemer om overhængende eller truende alvorlige nødsituationer og katastrofer i et nærmere afgrænset område allerede er etableret.
+Med offentlige advarsler forstås advarsler, der udsendes via offentligt tilgængelige elektroniske kommunikationstjenester.
+De offentlige advarsler kan eksempelvis udsendes som sms, via radio- og tv-transmissionstjenester eller via en mobilapplikation, der anvender en internetadgangstjeneste til berørte slutbrugere, forudsat at det offentlige varslingssystem har tilstrækkelig dækning og kapacitet til at nå ud til de berørte slutbrugere, herunder dem, som kun midlertidigt opholder sig i det pågældende område.
+Det fremgår af direktivets præambelbetragtning nr. 293-295, at offentlige advarsler skal udsendes af udbydere af mobile nummerbaserede interpersonelle kommunikationstjenester til alle slutbrugere i det geografiske område, der af myndighederne fastlægges som potentielt berørt af overhængende eller truende alvorlige nødsituationer og katastrofer.
+De offentlige advarsler forudsættes udsendt gratis til alle berørte slutbrugere, herunder til slutbrugere, der ikke er hjemmehørende i Danmark, men alene har midlertidigt ophold i landet.
+3. Etablering af mobilbaseret varslingssystem 3.1. Gældende ret Varsling af befolkningen ved ulykker og katastrofer foregår i dag ved hjælp af beredskabsmeddelelser fra myndighederne, som udsendes via DR og TV 2, og sirenevarsling.
+Denne varsling suppleres med information via beredskabsmyndighedernes egne kommunikationskanaler.
+Når der opstår en akut situation af livstruende karakter for et større antal mennesker, kan den ansvarlige myndighed således anmode Rigspolitiet om at udsende en beredskabsmeddelelse herom, eventuelt kombineret med sirenevarsling.
+Det er som udgangspunkt politiets, brandmyndighedernes eller sundhedsmyndighedernes indsatsleder på et skadested, som afgør, om der skal udsendes en beredskabsmeddelelse og eventuelt varsles med sirener.
+En beredskabsmeddelelse er dog ikke nødvendigvis knyttet til et specifikt skadested.
+Beredskabsmeddelelser kan udsendes uden sirenevarsling, mens sirenevarsling altid skal følges op af en beredskabsmeddelelse.
+En indsats, der udløser en beredskabsmeddelelse, skal endvidere altid afsluttes med en afvarslende beredskabsmeddelelse.
+Ved langvarige indsatser kan der udsendes opfølgende beredskabsmeddelelser med yderligere information.
+ Der udsendes ca. 10 beredskabsmeddelelser om året, hvoraf hovedparten vedrører brande.
+ Sirenevarslingen er reguleret i § 17, stk. 2, i beredskabsloven, jf. lovbekendtgørelse nr. 314 af 3. april 2017, hvorefter politidirektøren i forbindelse med indsættelsen af redningsberedskabet bl.a. i fornødent omfang skal sørge for varsling af befolkningen.
+ Varslingssystemet drives og udvikles af Forsvarsministeriets underliggende myndigheder, mens det betjenes af Rigspolitiet.
+Opbygningen af det nuværende sirenevarslingssystem blev iværksat i 1989, og frem til 1994 blev der opsat godt 1.000 elektroniske og nødstrømforsynede sirener, der dækkede byområder med over 1.000 indbyggere, svarende til en potentiel dækning af ca. 80 pct. af befolkningen på tidspunktet for opsætning af sirenerne.
+Den reelle dækningsprocent vurderes dog at være lavere, da trafikstøj mv. samt indendørs aktiviteter som madlavning, musik og tv/radio kan overdøve sirenesignalet.
+Endvidere er der siden årtusindskiftet ikke opsat yderligere sirener, selv om der er sket udvidelser af boligmassen og er opstået nye byområder.
+I områder uden for sirenernes rækkevidde kan politiet dog varsle med mobile sirener.
+Beredskabsstyrelsen og Rigspolitiet har desuden etableret en sms-varslingsordning for døve og hørehæmmede.
+Ordningen trådte i kraft ved årsskiftet 2007/08. Døve og hørehæmmede kan tilmelde sig ordningen, hvorefter de modtager en sms, når der udsendes beredskabsmeddelelser.
+ Herudover har Beredskabsstyrelsen, Rigspolitiet, Vejdirektoratet og Danmarks Meteorologiske Institut i fællesskab udviklet appen Mobilvarsling, hvor borgere, der har downloadet appen, kan modtage en advarsel på deres smartphone ved udsendelse af beredskabsmeddelelser, samt når DMI udsender varsler om storm, orkan, kraftig regn, skybrud, alvorligt forhøjet vandstand og snestorm, og når Vejdirektoratet udsender særmeldinger om akutte motorvejs- og brospærringer af længere varighed.
+Efter § 88 i lov om radio- og fjernsynsvirksomhed, jf. lovbekendtgørelse nr. 248 af 16. marts 2019 med senere ændringer, er radio- og fjernsynsforetagender, der er omfattet af loven, forpligtede til efter regler, der kan fastsættes af kulturministeren, at udsende meddelelser af beredskabsmæssig betydning til befolkningen.
+I medfør af bestemmelsen har kulturministeren udstedt bekendtgørelse nr. 975 af 18. juni 2020 om DR's, TV 2 DANMARK A/S' og de regionale TV 2-virksomheders forpligtelse til at udsende meddelelser af beredskabsmæssig betydning (Beredskabsmeddelelser).
+Det følger af bekendtgørelsens § 2, at aftale om fremgangsmåden for udsendelse af beredskabsmeddelelser indgås mellem DR, TV 2 DANMARK A/S, de regionale TV 2-virksomheder, Rigspolitichefen og Beredskabsstyrelsen.
+En sådan aftale er senest indgået den 15. november 2014.
+3.2. Forsvarsministeriets overvejelser Der er i dag ikke et mobilbaseret varslingssystem i Danmark, som kan nå ud til alle slutbrugere i et nærmere bestemt geografisk område.
+Der er heller ikke hjemmel til at pålægge udbydere af mobile nummerbaserede interpersonelle kommunikationstjenester  der i lovforslaget betegnes som udbydere af elektroniske kommunikationstjenester i mobilnet og udbydere af mobilnet (eller blot mobiloperatører)  at udsende beredskabsmeddelelser og lignende til deres kunder.
+Implementering af direktivet om oprettelse af en fælleseuropæisk kodeks for elektronisk kommunikation forudsætter således, at der dels skabes den fornødne hjemmel, dels etableres den tekniske infrastruktur til udsendelse af offentlige advarsler.
+Et mobilbaseret varslingssystem vil kunne gøre brug af eksisterende teknologi i form af en lokationsbaseret sms-løsning.
+En sådan løsning vil være understøttet af både nye og ældre mobiltelefoner, men løsningen vil også indebære en række ulemper.
+Mobiloperatørerne vil således skulle etablere en særlig logning af, hvilke mobilenheder, der er tilsluttet hvilke telemaster, således at der kan udsendes advarsler til alle mobiltelefoner i et givent område.
+Ved større hændelser vil udsendelse af et stort antal sms-beskeder endvidere give kapacitetsmæssige udfordringer i telenettet, ikke mindst fordi hændelserne i sig selv ofte vil medføre en stor belastning, når borgere i det berørte område søger at kontakte familie og venner.
+Erfaringerne viser, at der i disse situationer kan opstå timelange forsinkelser på sms-beskeder, og en sådan forsinkelse af offentlige advarsler vil være uacceptabel.
+Dertil kommer, at der vurderes at være sikkerhedsmæssige risici forbundet med en lokationsbaseret sms-løsning, idet der er mulighed for at manipulere med almindelige sms-beskeder, så det fremstår som om, at de kommer fra politiet eller andre beredskabsmyndigheder.
+Det er derfor Forsvarsministeriets vurdering, at et mobilbaseret varslingssystem bør baseres på cell broadcast-teknologi, da den forventede teknologiske udvikling inden for cell broadcast vurderes at understøtte formålet med et landsdækkende varslingssystem mest hensigtsmæssigt.
+Med et cell broadcast-system udsendes beskeder til alle mobiltelefoner indenfor en given celles (telemasts) dækningsområde.
+Også mobiltelefoner, der senere kommer indenfor telemastens dækningsområde, vil modtage beskeden i den periode, hvor beskeden fortsat udsendes via telemasten.
+Modtagelse af en cell broadcast-besked kræver blot, at den modtagende mobiltelefon er tændt.
+Det er således ikke en forudsætning for at modtage en cell broadcast-besked, at der er indsat et SIM-kort i telefonen, eller at telefonen har adgang til internettet.
+Der afsendes ingen kvittering fra mobiltelefonerne tilbage til telemasten, og derfor sker der ikke dataindsamling ved udsendelse eller modtagelse af beskederne.
+Dermed vil hverken beredskabsmyndighederne eller mobiloperatørerne blive bekendt med, hvem eller hvor mange, der befinder sig i det pågældende område og modtager beskeden.
+Beredskabsmyndighederne og mobiloperatørerne vil alene kunne konstatere, at beskeden er udsendt i et nærmere afgrænset område.
+Anvendelse af cell broadcasting vil således ikke indebære øget logning eller behandling af personoplysninger, f.eks. vil anvendelsen af cell broadcasting ikke indebære registrering af telefonnumre.
+Alle nyere mobiltelefoner har en modtager, der kan opfange det udsendte cell broadcast-radiosignal.
+Cell broadcast-beskeder understøttes i både 2G-, 3G-, 4G- og 5G-netværk.
+ Systemet anvender en række komponenter.
+Hos beredskabsmyndighederne skal der opsættes en eller flere CBE (Cell Broadcast Entity). Det er den komponent eller applikation, hvorfra selve beskeden udsendes.
+Heri defineres beskedteksten, hvilket område den skal udsendes til, og hvornår den udsendes.
+Hos mobiloperatørerne består systemet først og fremmest af et CBC (Cell Broadcast Center), som er modtageren hos mobiloperatøren.
+Den fordeler beskeden gennem RAN-controllerne og etablerer forbindelserne til de forskellige RAN-controllere.
+RAN (Radio Access Network) controllere er komponenter i mobiloperatørernes netværk, som håndterer grupper af master.
+RAN-controllerne distribuerer cell broadcast-beskeden til de udvalgte master.
+RAN-controllerne er forskellige alt efter, om de skal ramme 2G-, 3G-, 4G- eller 5G-netværk.
+Til GSM-netværk (2G) er CBCen forbundet med en Base Station Controller.
+Til UMTS-netværk (3G) er CBCen forbundet til en Radio Network Controller.
+Til LTE-netværk (4G) er CBCen forbundet til en Mobility Management Entity.
+Til 5G-netværk er CBCen forbundet til en Access and Mobility Management Function.
+Herfra går beskeden til masteantennerne, der er de komponenter, som trådløst udsender beskeden.
+Teleindustrien, der er teleselskabernes branchesamarbejde, har oplyst, at ingen af de danske mobiloperatører i dag har et CBC.
+Mobiloperatørerne er derfor ikke i stand til hverken at modtage beskeder fra en beredskabsmyndighed eller at distribuere sådanne beskeder til relevante telemaster.
+Cell broadcast er imidlertid understøttet af mobiloperatørernes radionetværk på alle de teknologier, der er i drift, omend aktivering kan være forbundet med omkostninger til licenser  alt efter de individuelle leverandøraftaler hos de enkelte mobiloperatører.
+En forudsætning for at etablere et mobilbaseret varslingssystem vil være, at de danske mobiloperatører pålægges at anskaffe og drive det nødvendige tekniske udstyr til udsendelse af varslinger via cell broadcast, ligesom mobiloperatørerne vil skulle pålægges at udsende beskeder, når beredskabsaktørerne anmoder herom.
+Reguleringen heraf bør ske i lov om elektroniske kommunikationsnet og -tjenester, der i forvejen bl.a. regulerer kravene til samfundsvigtig elektronisk kommunikation i beredskabssituationer og andre ekstraordinære situationer.
+ Henset til, at der vil være tale om en særlig forpligtelse for mobiloperatørerne, som ikke ligger i naturlig forlængelse af mobiloperatørernes produkter, anser Forsvarsministeriet det for hensigtsmæssigt, at der etableres en ordning, hvorefter ministeriet som udgangspunkt refunderer de udgifter, som indførelsen af et mobilbaseret varslingssystem vil påføre mobiloperatørerne.
+Dette skal også ses i lyset af, at det mobilbaserede varslingssystem ikke vil kunne anvendes kommercielt, da lovgivningen ikke tillader markedsføring uden samtykke.
+Mobiloperatørerne har derfor ikke nogen selvstændige anvendelsesmuligheder for systemet.
+3.3. Den foreslåede ordning Det foreslås, at udbydere af elektroniske kommunikationstjenester i mobilnet og udbydere af mobilnet (mobiloperatører) forpligtes til  på vegne af beredskabsaktører  at udsende offentlige advarsler om overhængende eller truende alvorlige nødsituationer og katastrofer til berørte slutbrugere.
+Offentlige advarsler forudsættes primært udsendt i de situationer, hvor der i dag udsendes beredskabsmeddelelser, d.v.s. ved hændelser, der medfører eller kan medføre akut fare for et større antal mennesker.
+Det vil eksempelvis kunne være ved giftig røg fra brande, i forbindelse med epidemier, kemikalieudslip, naturkatastrofer eller farligt vejr.
+Offentlige advarsler vil f.eks. også kunne anvendes i forbindelse med angreb eller trusler herom, såsom bombetrusler og skyderier, hvis angrebet medfører eller potentielt kan medføre akut fare for et større antal mennesker.
+Der vil normalt også skulle udsendes en offentlig advarsel, når faren er overstået, svarende til den afvarsling, der sker i sirenevarslingssystemet, ligesom der inden afvarsling vil kunne være behov for at udsende opfølgende meddelelser.
+Det foreslås endvidere, at udsendelsen vil skulle ske straks efter, at beredskabsaktørerne har anmodet herom.
+Dermed skal mobiloperatørerne udsende advarslerne så snart, de modtager meddelelse herom.
+Endvidere foreslås det, at forsvarsministeren bemyndiges til ved bekendtgørelse at fastsætte nærmere regler om udsendelsen af de offentlige advarsler.
+Bemyndigheden forventes særligt anvendt til at fastsætte krav til den tekniske løsning, der anvendes til udsendelse af offentlige advarsler, og regler om på hvilke beredskabsaktørers vegne, der skal udsendes offentlige advarsler, regler om, hvornår mobiloperatørerne skal have etableret den tekniske løsning, proceduren for udsendelsen af offentlige advarsler, varslingsperiodens længde samt mobiloperatørernes medvirken til at udvikle, etablere og drive den tekniske løsning.
+Det foreslås, at der etableres en ordning, hvorefter Forsvarsministeriet refunderer nødvendige, dokumenterede udgifter, som mobiloperatørerne har afholdt i forbindelse med udvikling, etablering eller drift af den tekniske løsning, der anvendes til formidling af offentlige advarsler.
+Da en sådan ordning vil indebære, at mobiloperatørerne har et begrænset incitament til at holde etablerings- og driftsudgifterne nede, forudsættes det dog også, at såfremt Forsvarsministeriet vurderer, at en mobiloperatør ikke har valgt den for staten økonomisk mest fordelagtige løsning, kan Forsvarsministeriet træffe afgørelse om, at der alene refunderes en del af de dokumenterede udgifter.
+Endelig foreslåes det, at mobiloperatører, der overtræder de nævnte forpligtelser, kan straffes med bøde, og at der kan fastsættes straf af bøde for overtrædelse af bestemmelser i den bekendtgørelse, der ventes udstedt i medfør af bemyndigheden.
+Eksempelvis vil der i bekendtgørelsen kunne fastsættes straf for mobiloperatører, der ikke lever op til kravene til den tekniske løsning eller undlader at efterleve fastsatte regler om, hvornår den tekniske løsning skal være etableret, proceduren for udsendelsen af offentlige advarsler og varslingsperiodens længde samt undlader at efterleve regler om, at de skal medvirke til at udvikle, etablere og drive den tekniske løsning.
+4. Økonomiske konsekvenser og implementeringskonsekvenser for det offentlige På baggrund af erfaringer fra bl.a.
+Holland og Rumænien samt mobiloperatørernes egne estimater vurderes det, at implementeringen af et mobilbaseret varslingssystem vil medføre etableringsomkostninger på ca. 140 mio. kr. og årlige driftsomkostninger på ca. 10 mio. kr.
+Omkostningerne til de statslige beredskabsmyndigheders del af det mobilbaserede varslingssystem vurderes at udgøre ca. 65 mio. kr. til etablering og ca. 5 mio. kr. årligt til drift.
+For mobiloperatørerne vurderes etablerings- og driftsomkostninger at udgøre hhv. ca. 75 mio. kr. og ca. 5 mio. kr. årligt.
+Disse omkostninger vil blive refundet af Forsvarsministeriet.
+ Da der endnu ikke er udarbejdet en kravspecifikation for den tekniske løsning, er der tale om estimater, der er behæftet med en betydelig usikkerhed.
+ De samlede omkostninger afholdes indenfor Forsvarsministeriets eksisterende ramme.
+Det bemærkes, at Forsvarsministeriet i dag har udgifter på ca. 2,2-2,4 mio. kr. årligt til drift og vedligeholdelse af det nuværende sirenevarslingssystem.
+Udgifterne dækker blandt andet over telefonabonnementer, teknisk vedligeholdelsesarbejde, information og kommunikation vedrørende den årlige sirenetest i maj og besvarelse af henvendelser relateret til sirenevarslingssystemet.
+Det vurderes, at det mobilbaserede varslingssystem på længere sigt potentielt vil kunne overflødiggøre sirenevarslingssystemet, hvilket i så fald vil kunne have en positiv økonomisk konsekvens for det offentlige.
+ Lovforslaget vurderes i relevant omfang at være i overensstemmelse med principperne for digitaliseringsklar lovgivning.
+Det vurderes således, at lovforslaget understøtter, at der kan kommunikeres digitalt.
+Det har desuden været overvejet, hvorvidt eksisterende systemer kunne benyttes til etablering af et mobilbaseret varslingssystem.
+De eksisterende systemer understøtter imidlertid ikke varsling med cell broadcast.
+Indførelsen af et cell broadcast-baseret varslingssystem indebærer, at både beredskabsmyndighederne og mobiloperatørerne skal anskaffe systemer, som er baseret på cell broadcast-baseret teknologi.
+Det er i forbindelse med overvejelserne om valg af en teknologisk løsning indgået som et væsentligt moment, at et cell broadcast-baseret varslingssystem, i modsætning til andre varslingssystemer, ikke forudsætter øget logning og behandling af slutbrugernes personoplysninger.
+Det har i relation til indførelsen af et cell broadcast-baseret varslingssystem været overvejet, om de eksisterende systemer, der anvendes til varsling ved Beredskabsstyrelsen og Rigspolitiet i dag, kunne anvendes.
+Det er imidlertid vurderet, at der er behov for at udvikle en selvstændig platform til varsling, da de kendte systemer ikke kan anvendes til varsling med cell broadcast.
+ 5. Økonomiske og administrative konsekvenser for erhvervslivet mv.
+Det foreslås, at Forsvarsministeriet refunderer mobiloperatørernes udgifter til udvikling, etablering og drift af det mobilbaserede varslingssystem, så længe mobiloperatørerne vælger den for staten økonomisk mest fordelagtige løsning.
+Derfor forventes det ikke, at lovforslaget vil have væsentlige økonomiske eller administrative konsekvenser for erhvervslivet mv.
+Det vurderes således samlet, at lovforslaget har administrative konsekvenser for erhvervslivet på mindre end 4 mio. kr.
+ Forsvarsministeriet har vurderet, at visse af principperne for agil erhvervsrettet regulering er relevante for lovforslaget, og at lovforslaget er i overensstemmelse med principperne.
+ Der vurderes således at være tale om enkel og formålsbestemt reguleringen, idet der i lovforslaget anvendes bemyndigelser for at sikre, at kravene, herunder krav til den tekniske løsning, løbende kan tilpasses.
+ Princippet om en teknologineutral regulering fraviges, idet der i Danmark søges indført et cell broadcast-baseret varslingssystem, hvilket indebærer, at både beredskabsmyndighederne og mobiloperatørerne skal anskaffe enheder, som er baseret på netop denne teknologi.
+6. Administrative konsekvenser for borgerne Lovforslaget vurderes ikke at have administrative konsekvenser for borgerne.
+7. Klima- og miljømæssige konsekvenser Lovforslaget vurderes ikke at have klima- og miljømæssige konsekvenser.
+8. Forholdet til EU-retten Lovforslaget implementerer Europa-Parlamentet og Rådet direktiv 2018/1972/EU af 11. december 2018 om oprettelse af en fælleseuropæisk kodeks for elektronisk kommunikation, for så vidt angår mobilbaseret varsling.
+ Der henvises til beskrivelsen af direktivet i afsnit 2 ovenfor.
+ 9. Hørte myndigheder og organisationer mv.
+ Et udkast til lovforslag har i perioden fra den 3. august 2020 til den 31. august 2020 været sendt i høring hos følgende myndigheder og organisationer mv.:
+ Advokatrådet, Akademikerne (AC), Akutberedskabet i Region Hovedstaden, Akutberedskabet i Region Midtjylland, Akutberedskabet i Region Nordjylland, Akutberedskabet i Region Sjælland, Akutberedskabet i Region Syddanmark, Amnesty International, Arbejderbevægelsens Erhvervsråd, Banedanmark, Beredskab Fyn, Beredskab Øst, Beredskab 4K, Beredskab & Sikkerhed, Bornholms Brandvæsen, Brand & Redning Midtvest, Brand & Redning Solrød/Køge/Stevns, Brand & Redning Sønderjylland, Danmarks Meteorologiske Institut, Danmarks Radio, Dansk Energi, Dansk Erhverv, Dansk Industri, Danske Advokater, Danske Beredskaber, Danske Handicaporganisationer, Danske Regioner, Datatilsynet, Den Danske Dommerforening, Det Centrale Handicapråd, DI Digital, Domstolsstyrelsen, Energi Danmark, Energi Fyn, Energi Nord, Energi Viborg, FH (Fagbevægelsens Hovedorganisation), Forbrugerombudsmanden, Frederiksborg Brand & Redning, Helsingør Kommunes Beredskab, Hi3G Denmark, HOFOR, Hovedstadens Beredskab, Hurup Elværk Net, Institut for Menneskerettigheder, IT-Branchen, IT-Politisk Forening, Justitia, KL (Kommunernes Landsforening), Landsdistrikternes Fællesråd, Landsforeningen Landsbyerne i Danmark, Lolland-Falster Brandvæsen, Midtfyns Elforsyning, Midtjysk Brand & Redning, Midt- og Sydsjællands Brand & Redning, NKE Elnet, NM Net, NOE Net, Nord Energi Net, Nordjyllands Beredskab, Nordsjællands Brandvæsen, Nordvestjyllands Brandvæsen, Norlys, Præsidenten for Vestre Landsret, Præsidenten for Østre Landsret, RAH, Retspolitisk Forening, Rigsrevisionen, Roskilde Brandvæsen, Rådet for Digital Sikkerhed, Sammenslutningen af Danske Småøer, Sammenslutningen af Lokale Radio- og TV-stationer, samtlige byretspræsidenter, Slagelse Brand og Redning, Sydvestjysk Brandvæsen, Sydøstjyllands Brandvæsen, Sønderjylland Brand & Redning, TDC, Teleankenævnet, TeleDCIS, Teleklagenævnet, Teleindustrien, Telenor, Telia Danmark, Trekantsområdets Brandvæsen, TV 2 Danmark, TV 2 Regionerne, TV GLAD, Tårnby Brandvæsen, Vestforsyning Net, Vestsjællands Brandvæsen og Østjyllands Brandvæsen.
+Bemærkninger til lovforslagets enkelte bestemmelser Til § 1 Til nr. 1 Varsling af befolkning ved ulykker og katastrofer foregår i dag ved hjælp af beredskabsmeddelelser, som udsendes via DR og TV 2, samt ved sirenevarsling.
+Denne varsling suppleres med information, som udsendes via beredskabsmyndighedernes egne kommunikationskanaler.
+ Det foreslås med bestemmelsen, at der indsættes en ny § 62 i lov om elektroniske kommunikationsnet og -tjenester.
+Det foreslås i § 62, stk. 1, at udbydere af elektroniske kommunikationstjenester i mobilnet og udbydere af mobilnet på vegne af beredskabsaktører skal udsende offentlige advarsler om overhængende eller truende alvorlige nødsituationer og katastrofer til berørte slutbrugere.
+Udbyderne skal udsende offentlige advarsler til de slutbrugere, der i varslingsperioden opholder sig i nærmere angivne geografiske områder, straks efter modtagelse af anmodning herom.
+De berørte slutbrugere må ikke pålægges udgifter i forbindelse med modtagelse af advarslerne.
+ Udbydere af elektroniske kommunikationstjenester i mobilnet og udbydere af mobilnet skal forstås i overensstemmelse med begrebet udbydere af mobile nummerbaserede interpersonelle kommunikationstjenester, som anvendes i artikel 110 i Europa-Parlamentet og Rådets direktiv 2018/1972/EU om oprettelse af en fælleseuropæisk kodeks for elektronisk kommunikation.
+ Det bemærkes, at beredskabsaktører, på vegne af hvilke der skal kunne udsendes advarsler, vil omfatte beredskabsmyndigheder, institutioner og virksomheder, som skal bidrage til opretholdelse af samfundets funktioner i beredskabssituationer og i andre ekstraordinære situationer.
+Bestemmelsen indebærer, at mobiloperatørerne vil være forpligtede til at indrette deres netværk således, at der kan ske udsendelse af offentlige advarsler via den tekniske løsning, som etableres.
+Det mobilbaserede varslingssystem skal i tilfælde af overhængende eller truende alvorlige nødsituationer kunne anvendes til at varsle relevante berørte slutbrugere, herunder slutbrugere fra andre lande, der alene har midlertidigt ophold i det berørte område.
+Mobiloperatørerne vil således skulle sikre, at netværket rent teknisk har den fornødne funktionalitet, samt at der  i det omfang det måtte være nødvendigt  er det fornødne personale til rådighed til at sikre, at de offentlige advarsler kan udsendes i overensstemmelse med den foreslåede bestemmelse.
+De berørte slutbrugere må ikke pålægges udgifter i den forbindelse, ligesom mobilbaseret varsling ikke må forudsætte en aktiv tilmelding ved mobiloperatøren fra slutbrugernes side.
+Bestemmelsen indbærer desuden, at mobiloperatørerne straks efter modtagelsen af en anmodning herom skal udsende advarslen.
+Dermed skal mobiloperatørerne udsende advarslerne så snart, de modtager meddelelse herom.
+Det vil være beredskabsaktørernes ansvar at sikre, at mobiloperatørerne modtager de oplysninger, der er nødvendige for at udsende de offentlige advarsler, herunder en angivelse af det geografiske område, hvor meddelelsen skal udsendes, og varigheden af varslingsperioden.
+Det vil således også være beredskabsaktørerne, som fastsætter indholdet, herunder ordlyden, af de offentlige advarsler, som mobiloperatørerne skal udsende.
+Offentlige advarsler forudsættes primært udsendt i de situationer, hvor der i dag udsendes beredskabsmeddelelser, d.v.s. ved hændelser, der medfører eller kan medføre akut fare for et større antal mennesker.
+Det vil eksempelvis kunne være ved giftig røg fra brande, i forbindelse med epidemier, kemikalieudslip, naturkatastrofer eller farligt vejr.
+Offentlige advarsler vil f.eks. også kunne anvendes i forbindelse med angreb eller trusler herom, såsom bombetrusler og skyderier, hvis angrebet medfører eller potentielt kan medføre akut fare for et større antal mennesker.
+Der vil normalt også skulle udsendes en offentlig advarsel, når faren er overstået, svarende til den afvarsling, der sker i sirenevarslingssystemet, ligesom der inden afvarsling vil kunne være behov for at udsende opfølgende meddelelser.
+ Der henvises i øvrigt til afsnit 3 i de almindelige bemærkninger.
+ Det foreslås i § 62, stk. 2, at Forsvarsministeriet refunderer nødvendige, dokumenterede udgifter, som udbyderne har afholdt i forbindelse med udvikling, etablering og drift af den tekniske løsning, der anvendes til udsendelse af offentlige advarsler.
+ Kerneområdet for den foreslåede ordning er dækning af mobiloperatørernes udgifter til anskaffelse af en geografisk redundant CBC-installation og integration mod alle netværksteknologier, sikring af grænseflade mod CBE hos beredskabsmyndighederne samt årlige driftsomkostninger i form af leverandørsupport, drift og afprøvning med myndighederne.
+Bestemmelsen indebærer, at det alene er nødvendige udgifter, som refunderes.
+En udgift vurderes at være nødvendig, når en udbyder har valgt den for staten økonomisk mest fordelagtige løsning.
+Vurderer Forsvarsministeriet, at udgifterne ikke er udtryk for, at der er valgt den økonomisk mest fordelagtige løsning, vil Forsvarsministeriet træffe afgørelse om, at refusionen reduceres til et niveau svarende til den økonomisk mest fordelagtige løsning.
+Det forudsættes, at mobiloperatørerne forud for større økonomiske dispositioner kan have en dialog med de relevante beredskabsmyndigheder med henblik på at afklare, om dispositionerne har en karakter, hvor der kan ydes refusion.
+Der vil ikke med ordningen ske dækning af udgifter, som ikke er direkte knyttet til det mobilbaserede varslingssystem, f.eks. en forholdsmæssig andel af udgifter til husleje, rengøring, sikkerhed og lignende samt mobiloperatørernes administrative udgifter.
+I det omfang mobiloperatørerne afholder udgifter til løsninger, der også kan anvendes til andre af operatørernes aktiviteter, refunderes alene den forholdsmæssige andel, der er knyttet til det mobilbaserede varslingssystem.
+ Det vil være en forudsætning for, at udgifter refunderes, at mobiloperatørerne fremsender dokumentation for, at udgifterne er knyttet til  og nødvendige for  det mobilbaserede varslingssystem.
+ Det foreslås i § 62, stk. 3, at den tekniske løsning, der etableres med henblik på udsendelse af offentlige advarsler, ikke må anvendes til andre formål.
+Bestemmelsen indebærer, at den tekniske løsning, som skal etableres efter det foreslåede stk. 1, vil skulle være dedikeret til udsendelsen af offentlige advarsler.
+Mobiloperatørerne vil således ikke kunne anvende den tekniske løsning til udsendelse af beskeder fra andre aktører.
+Bestemmelsen omfatter i praksis CBCen og tilsvarende komponenter.
+De dele af udbydernes netværk, som i forvejen anvendes til andre formål, f.eks.
+RAN-controllere og master, vil ikke være omfattet af bestemmelsen, uanset om de måtte blive ændret med henblik på at understøtte udsendelsen af offentlige advarsler.
+ Der henvises i øvrigt til afsnit 3 i de almindelige bemærkninger.
+ Det foreslås i § 62, stk. 4, at forsvarsministeren kan fastsætte nærmere regler om udsendelsen af offentlige advarsler efter stk. 1. Der kan i den forbindelse blandt andet fastsættes krav til den tekniske løsning, der anvendes til udsendelse af offentlige advarsler, og regler om på hvilke beredskabsaktørers vegne, der skal udsendes offentlige advarsler, hvornår udbyderne skal have etableret den tekniske løsning, proceduren for udsendelsen af offentlige advarsler, varslingsperiodens længde samt udbydernes medvirken til arbejdet med udvikling, etablering og drift af den tekniske løsning.
+ Med bestemmelsen bemyndiges forsvarsministeren til at udstede en bekendtgørelse, som fastsætter de mere detaljerede  og mere tekniske  regler om udviklingen, etableringen og driften af det mobilbaserede varslingssystem.
+Der vil i den forbindelse bl.a. kunne fastsættes nærmere regler om specifikationer for den tekniske løsning.
+Endvidere vil der kunne fastsættes frister for, hvornår mobiloperatørerne skal være i stand til at udsende offentlige advarsler.
+Det bemærkes i den forbindelse, at det følger af direktivet, at det mobilbaserede varslingssystem senest skal være sat i drift den 21. juni 2022.
+Udviklingen af den tekniske løsning vil være teknisk kompliceret og med høje krav til driftssikkerheden.
+Det forudsættes derfor, at der også fastsættes regler om, at mobiloperatørerne skal indgå i et samarbejde med beredskabsmyndighederne om udviklingen, etableringen og driften af systemet.
+Det forudsættes, at der etableres et samarbejde mellem beredskabsmyndighederne og de berørte mobiloperatører eller disses brancheorgansiationer med henblik på at gennemføre en behovsanalyse og fastlægge det overordnede design af det mobile varslingssystem.
+Der vil herefter skulle ske en parallel anskaffelsesproces hos de enkelte teleoperatører, installation og integration mod radioteknologierne, integration mod myndighedernes varslingssystem (CBE) og derefter test af integrationer og afprøvning.
+ Der vil desuden i bekendtgørelsen kunne fastsættes regler om den nærmere procedure, der vil gælde, når beredskabsaktørerne udsender offentlige advarsler, herunder f.eks. hvor længe advarslen skal udsendes, hvilke beredskabsaktører, der kan udsende advarsler, og hvilke beredskabsmyndigheder, der skal inddrages i forbindelse med udsendelse af advarsler.
+ Der henvises i øvrigt til afsnit 3 i de almindelige bemærkninger.
+Til nr. 2 Efter § 81, stk. 1, nr. 1, i lov om elektroniske kommunikationsnet og -tjenester kan der straffes med bøde for overtrædelse af nærmere angivne bestemmelser i loven.
+Der kan desuden pålægges selskaber mv. (juridiske personer) strafansvar efter § 81, stk. 1, nr. 1, jf. § 81, stk. 4.
+ Det foreslås, at bestemmelsen ændres, således at mobiloperatører, der overtræder forpligtelserne i de foreslåede § 62, stk. 1 og 3, også kan straffes med bøde.
+Med bestemmelsen vil der være hjemmel til at straffe mobiloperatører, der ikke er i stand til at udsende offentlige advarsler, eksempelvis hvis de ikke har etableret den nødvendige tekniske løsning.
+Tilsvarende vil mobiloperatører kunne straffes, såfremt advarslerne ikke udsendes straks efter modtagelsen fra beredskabsaktørerne.
+Dermed vil mobiloperatørerne kunne straffes, såfremt de ikke udsender advarslerne så snart, de har modtaget dem.
+Mobiloperatørerne vil også kunne straffes, såfremt advarslerne ikke bliver udsendt til slutbrugerne i det nærmere angivne geografiske område.
+ Desuden vil der være mulighed for at straffe mobiloperatører, der anvender den tekniske løsning, som etableres med henblik på udsendelse af offentlige advarsler, til andre formål.
+ Ved udmåling af bøder som følge af mobiloperatørernes overtrædelse af forpligtelserne i de foreslåede § 62, stk. 1 og 3, bør der tages særligt hensyn til den økonomiske fordel, den pågældende part enten har opnået eller har tilsigtet at opnå, eller den interesse vedkommende har haft ved overtrædelsen.
+Til nr. 3 Efter § 81, stk. 2, i lov om elektroniske kommunikationsnet og -tjenester kan der fastsættes straf af bøde for overtrædelse af regler fastsat efter nærmere angivne bestemmelser i loven.
+ Det foreslås, at bestemmelsen ændres, således at der også kan fastsættes straf af bøde for mobiloperatører, der overtræder de nærmere regler fastsat efter den foreslåede § 62, stk. 4.
+ Med bestemmelsen vil der bl.a. være mulighed for at straffe mobiloperatører, som ikke medvirker til udvikling, etablering og drift af den tekniske løsning.
+ Ved udmåling af bøder som følge af mobiloperatørernes overtrædelse af forpligtelserne i regler fastsat efter bemyndigelsen i den foreslåede § 62, stk. 4, bør der tages særligt hensyn til den økonomiske fordel, den pågældende part enten har opnået eller har tilsigtet at opnå, eller den interesse vedkommende har haft ved overtrædelsen.
+Til § 2 Det foreslås, at loven træder i kraft den 21. december 2020, som er implementeringsfristen for direktivet om oprettelse af en fælleseuropæisk kodeks for elektronisk kommunikation.
+Til § 3 Bestemmelsen vedrører lovens territorielle gyldighed og indebærer, at loven ikke gælder for Færøerne og Grønland.
+Det bemærkes, at kapitel 4 og 5 og afsnit XI i lov om elektroniske kommunikationsnet og -tjenester helt eller delvist kan sættes i kraft for Grønland.
+ Ændringsloven vil med bestemmelsen ikke være gældende for Færøerne og Grønland.
+Bilag 1 Lovforslaget sammenholdt med gældende lov 1) Loven gennemfører dele af Europa-Parlamentets og Rådets direktiv 2018/1972/EU af 11. december 2018 om oprettelse af en europæisk kodeks for elektronisk kommunikation (omarbejdning), EU-Tidende 2018, nr.
+L 321, side 36.

@@ -1,0 +1,1505 @@
+Indholdsfortegnelse 1. Indledning Nærværende forskrifter er et afsnit af »Tekniske bestemmelser for  
+
+ fællesantenneanlæg«, der er udfærdiget i henhold til ministeriet for  
+
+ offentlige arbejders bekendtgørelse om fællesantenneanlæg m. v.
+Fællesantenneanlæg, der er omfattet af »Bekendtgørelse om  
+
+ fællesantenneanlæg m. v.«, skal overholde nærværende forskrifter for  
+
+ systemopbygning og systemværdier.
+Fællesantenneanlægget skal opbygges af  
+
+ materiel, der er typegodkendt efter afsnit A og i den specifikke  
+
+ sammenstilling i h.t. nærværende bestemmelser.
+ Ændringer i denne udgave af forskrifterne i forhold til 1. udgave træder i  
+
+ kraft den 1. januar 1982. Det er dog allerede nu tilladt at etablere anlæg  
+
+ efter nærværende forskrifter.
+2. Generelt Nærværende forskrifter fastsætter minimumskrav til ialt 4 kategorier af  
+
+ komplette fællesantennesystemer, der indbyrdes adskiller sig ved størrelsen.  
+
+ De er i det følgende benævnt F1, F2, F3 og F4.
+ Såfremt den teknologiske udvikling medfører fremkomst af systemer, der  
+
+ ikke hensigtsmæssigt lader sig tilpasse de i nærværende bestemmelser stillede  
+
+ krav, vil der, indtil nye bestemmelser er fastsat, kunne opnås foreløbig  
+
+ tilladelse til benyttelse af systemerne under følgende forudsætninger:
+ Anvendelsen af systemet må ikke stille brugerne ringere med hensyn til  
+
+ modtagekvalitet, økonomi, kapacitet, udbygnings- eller  
+
+ sammenslutningsmulighed.
+ Post- og Telegrafvæsenet er berettiget til at nægte godkendelse af et  
+
+ system, der er opbygget på en måde der strider mod god ingeniørmæssig praksis  
+
+ eller som ikke er på højde med teknikkens stade.
+Under særlige omstændigheder, f. eks. ved modtagning af svage udenlandske  
+
+ signaler, er der åbnet adgang til på forsøgsbasis at benytte tekniske  
+
+ løsninger baseret på materiel, der ikke er typegodkendt.
+Post- og  
+
+ Telegrafvæsenet skal holdes underrettet om sådanne forsøg og kan afgrænse  
+
+ forsøgene til et nærmere angivet tidsrum, eller udstede varig  
+
+ brugstilladelse.
+3. Fællesantennesystemer Nærværende forskrifter fastsætter systemværdier og bestemmelser for  
+
+ opbygning af fællesantennesystemer.
+Et system muliggør etablering af et komplet fællesantenneanlæg.
+Et  
+
+ fællesantennesystem kan opdeles i en hovedstation og et distributionsnet.
+ Fig. 3.1 Principdiagram af et fællesantennesystem.
+I hovedstationen modtages TV- og radiofonisignalerne ved hjælp af et  
+
+ antennesystem.
+I hovedstationens forstærkerstation foretages en selektering,  
+
+ forstærkning, frekvensomsætning og regulering, der gør signalerne egnede til  
+
+ fordeling i distributionsnettet.
+ Distributionsnettets opgave er at distribuere TV- og radiofonisignalerne  
+
+ fra hovedstationen ud til abonnenterne.
+ Fællesantennesystemerne er opdelt i 4 kategorier F1, F2, F3 og F4. De 4  
+
+ systemer og deres anvendelsesområder karakteriseres som følger.
+3.1 Fællesantennesystemet F1 F1 kan forsyne et større geografisk område.
+For eksempel en større by.
+ Hovedstationen i F1 betegnes H1. Forskrifter for H1 er fastsat i afsnit 5.
+ Fig. 3.2 Principdiagram for F1.
+ Distributionsnettet i F1 opdeles i 3 selvstændige distributionsnet D1, D2  
+
+ og D3. Forskrifterne for D1, D2 og D3 er fastsat i afsnit 6. D1 er det  
+
+ primære net i F1, og har til opgave at distribuere TV- og radiofonisignaler  
+
+ fra hovedstationen H1 med god kvalitet over store afstande ud til de lokale  
+
+ distributionsnet D2 og D3.
+ D2 er det sekundære net i F1. D2-nettets opgave i F1 er at distribuere TV-  
+
+ og radiofonisignalerne fra D1 over mindre afstande ud til  
+
+ distributionsnettene D3.
+ D3 er et lokalt net, der er den yderste del af distributionsnettet i F1.
+ D3-nettets opgave er at distribuere TV- og radiofonisignalerne fra  
+
+ D2-nettet til abonnenternes tilslutningsdåser.
+3.2 Fællesantennesystemet F2 F2 kan forsyne et mindre geografisk område.
+For eksempel et bykvarter  
+
+ eller en mindre by.
+ Fig. 3.3 Principdiagram for F2.
+ Hovedstationen i F2 er betegnet H2. Forskrifterne for H2 er fastsat i  
+
+ afsnit 5.
+ Distributionsnettet i F2 opdeles i 2 selvstændige distributionsnet D2 og  
+
+ D3. Forskrifterne for D2 og D3 er fastsat i afsnit 6.
+ D2 er det primære net i F2, og har til opgave at distribuere TV- og  
+
+ radiofonisignaler fra hovedstationen H2 over mindre afstande ud til  
+
+ distributionsnettene D3.
+ D3 er et lokalt net, der er den yderste del af distributionsnettet i F2.
+ D3-nettets opgave er at distribuere TV- og radiofonisignalerne fra  
+
+ D2-nettet til abonnenternes tilslutningsdåser.
+3.3 Fællesantennesystemet F3 F3 kan forsyne små geografiske områder.
+For eksempel en etageejendom eller  
+
+ et mindre antal parcelhuse.
+F3 består af en hovedstation tilsluttet et lille distributionsnet, hvori  
+
+ der ikke indgår forstærkere.
+Forskrifterne for F3 er fastsat i afsnit 7.
+ F3 kan ikke umiddelbart tilsluttes F1 eller F2. Systemet kan imidlertid  
+
+ ombygges (evt. ved opdeling af fordelingsnettet) således, at det kan indgå i  
+
+ et D3-net, der indgår i et F1- eller F2-system.
+3.4 Fællesantennesystemet F4 F4 må maksimalt have 24 tilslutningsdåser.
+F4 består af en hovedstation tilsluttet et lille distributionsnet, hvori  
+
+ der ikke indgår forstærkere.
+Forskrifterne for F4 er fastsat i afsnit 7.
+ F4-systemet kan ikke umiddelbart tilsluttes F1 eller F2. Systemet kan  
+
+ imidlertid ombygges således, at det kan indgå i et D3-net, der indgår i et  
+
+ F1- eller F2-system.
+4. Etablering af fællesantenneanlæg Et fællesantenneanlæg kan etableres enten ved hjælp af et typegodkendt  
+
+ system af typerne F1, F2, F3 eller F4 eller ved sammenkobling af dele  
+
+ (hovedstation, distributionsnet) fra de forskellige systemtyper.
+ Et F3- eller F4-system kan ikke umiddelbart indgå i andre systemer.
+ På fig. 4.1 er vist et eksempel på sammenkobling af et F1-system med 2  
+
+ F2-systemer, benævnt henholdsvis F2 og F'2.
+ Eksemplet viser:
+3 ) En sammenkobling af et bestående fællesantenneanlæg af typen F2  
+
+ (benævnt F'2) med det store fællesantenneanlæg.
+Distributionsnettene D2 og D3  
+
+ fra F'2 er tilsluttet D1-nettet fra F1-systemet, hvor dette passerer  
+
+ F'2-systemets forsyningsområde.
+ Fig. 4.1 Eksempel på sammenkobling af  
+
+ fællesantennesystemer.
+5. Hovedstationerne H1 og H2 i F1- og F2-systemerne Hovedstationen i F1-systemet benævnes H1.
+ Hovedstationen i F2-systemet benævnes H2.
+5.1 Hovedstationernes opbygning En hovedstation består af et antennesystem, nedføringskabler og en  
+
+ forstærkerstation.
+ Udgangene fra hovedstationen findes i forstærkerstationen og er D1- hhv.  
+
+ D2-nettets tilslutningspunkter.
+5.1.1 Antennesystemet Antennesystemet består af antenner til modtagning af TV- og  
+
+ radiofonisignaler.
+Disse antenner kan hver for sig være indrettet for  
+
+ modtagning af et eller flere signaler.
+Flere antenner kan være sammenkoblet  
+
+ (stakket m. v.).
+ I antennesystemet kan der indgå transformatorer, symmetreringsled, filtre,  
+
+ forforstærkere, fordelere m. m.
+5.1.1.1 Modtagning af danske TV- og FM-radiofonisignaler Antennesystemet skal udformes således, at der opnås forstyrrelsesfri  
+
+ modtagning af de danske TV- og FM-radiofoniprogrammer.
+De danske programmer skal modtages fra den mest hensigtsmæssige  
+
+ sendestation.
+For FM-radiofoni gælder, at såvel lands- som regionalprogrammet  
+
+ skal modtages.
+5.1.2 Nedføringskablerne Antennerne og forstærkerstationen er forbundet ved hjælp af  
+
+ nedføringskabler, der overfører TV. og radiofoni-signalerne fra  
+
+ modtageantennerne til forstærkerstationen, hvor signalbehandlingen foregår.
+ Nedføringskablerne skal være koaksialkabler.
+ Ved udvendig montage skal nedføringskabler med plastkappe have kappe af  
+
+ sort polyethylen (PE).
+5.1.3 Forstærkerstationen Til overførsel af TV-signaler skal der anvendes kanalforstærkere eller  
+
+ kanalomsættere samt automatisk signalniveauregulering til imødegåelse af  
+
+ variationerne i de modtagne signaler.
+Til overførsel af FM-radiofonisignaler skal der anvendes kanalomsættere  
+
+ samt automatisk signalniveauregulering til imødegåelse af variationer i de  
+
+ modtagne signaler.
+Hvis anlægget kun indrettes for modtagning af de danske  
+
+ FM-programmer, kan der anvendes kanalforstærkere med automatisk  
+
+ signalniveauregulering.
+Til overførsel af TV kan der anvendes en båndforstærker eller en  
+
+ bredbåndsforstærker dækkende UHF-båndene IV og V som første forstærker indsat  
+
+ før forannævnte kanaludstyr, hvis den har en maksimal  
+
+ intermodulationsbegrænset udgangsspænding på mindst 80 dB/uV + forstærkningen  
+
+ (i dB) målt efter afsnit A, 2 kanaler, 66 dB IMA.
+Ved overførsel af  
+
+ FM-radiofoni kan der anvendes en båndforstærker som første forstærker indsat  
+
+ før forannævnte kanaludstyr, hvis den har en maksimal  
+
+ intermodulationsbegrænset udgangsspænding på mindst 90 dB/uV + forstærkningen  
+
+ (i dB) målt efter afsnit A, 2 kanaler, 50 dB IMA.
+ Efter kanalforstærkerne og kanalomsætterne kan der anvendes bånd- eller  
+
+ bredbåndsforstærkere.
+Forstærkerstationen skal indeholde målepunkter, d.v.s. signaludgange der  
+
+ udelukkende anvendes til kontrol, og som muliggør målinger til bestemmelse af  
+
+ signalspændingerne på forstærkernes ind og udgange.
+Kontrolmålingerne skal  
+
+ kunne udføres, uden at driften af hovedstationen afbrydes eller påvirkes.
+Målingen skal kunne foretages med 75 ohms måleudstyr.
+Prober eller løse  
+
+ tilslutninger kan kun benyttes, hvis der ved målepunktet er anført typer.
+ Hvis målepunktets udkoblingsdæmpning ikke direkte kan anvendes til  
+
+ fastlæggelse af forstærkerens ind- eller udgangsspænding, fordi målepunktet  
+
+ ikke findes i forbindelse med eller lige efter forstærkerens ind- eller  
+
+ udgang, skal der være opsat en beskrivelse af, hvorledes den i målepunktet  
+
+ målte spænding har relation til spændingen på forstærkerens ind- eller  
+
+ udgang.
+Forstærkerstationen kan indeholde pilotsignalgeneratorer til anvendelse i  
+
+ forbindelse med et pilotreguleret distributionsnet.
+Pilotsignalgeneratorer i  
+
+ forstærkerstationen skal være forsynet med målepunkter, der muliggør  
+
+ bestemmelse af pilotspændingerne.
+5.2 Systemværdier 5.2.1 Dimensioneringsgrundlag 5.2.1.1 Indgangs-signaler På indgangen af hovedstationen kan der foreligge FM-radiofonisignaler i  
+
+ bånd II og et eller flere TV-signaler i VHF-båndene I og III samt UHF-båndene  
+
+ IV og V.
+ Der skal regnes med at indgangs-signalspændingerne kan variere mindst +/-  
+
+ 10 dB.
+5.2.1.2 Sikkerhedsmargin For hver af de benyttede forstærkere og omsættere skal der ved bestemmelse  
+
+ af signal/støj forhold og intermodulation regnes med en tolerance på  
+
+ udgangsspændingen på +/- 1,0 dB (for måleusikkerhed og ældning).
+5.2.2 Amplitude-frekvenskarakteristik 5.2.2.1 Amplitudevariation, TV Amplitudevariationen i frekvenskarakteristikken målt mellem indgangen på  
+
+ hovedstationen (udgangen af antennen) og en vilkårlig udgang til  
+
+ distributionsnettene må højst være 2,0 dB indenfor en TV-kanal.
+Ved en  
+
+ TV-kanal forstås et frekvensområde bestemt som det overførte TV- signals  
+
+ billedbærebølgefrekvens ---1,25 MHz og +5,75 MHz.
+5.2.2.2 Amplitudevariation, FM-radiofoni Amplitudevariationen i frekvenskarakteristikken målt mellem indgangen på  
+
+ hovedstationen (udgangen af antennen) og en vilkårlig udgang til  
+
+ distributionsnettene må højst være 3,0 dB indenfor en FM-kanal.
+Ved en  
+
+ FM-kanal forstås et frekvensområde bestemt som det overførte FM-  
+
+ radiofonisignals bærebølgefrekvens +/- 170 KHz.
+ Såfremt der benyttes FM-kanalforstærkere eller FM-kanalomsættere, skal  
+
+ kravet være overholdt, hvis udstyret erstattes med et  
+
+ koaksialforbindelsesled.
+5.2.3 Signalspændinger på udgange Ved signalspændinger for et TV-signal forstås effektivværdien af signalet  
+
+ i synkroniseringsperioden målt over en impedans på 75 ohm.
+ Ved signalspændingen for et FM-radiofonisignal forstås effektivværdien af  
+
+ bærebølgen målt over en impedans på 75 ohm.
+ Signalspændingen måles i dB i forhold til 1uV.
+TV-signalspændingerne skal have samme nominelle værdi.
+FM-  
+
+ signalspændingerne skal have samme nominelle værdi, der skal være 10 dB  
+
+ lavere end TV-signalspændingernes nominelle værdi.
+TV- signalspændingerne  
+
+ skal være større end eller lig med 74 dB/myV.
+ Signalspændingsvariationen på grund af varierende feltstyrke må højst være  
+
+ +/- 0,5 dB for H1, og +/- 1,5 dB for H2.
+ Såfremt feltstyrken falder mere end 10 dB i forhold til middelværdien  
+
+ bortfalder ovenstående krav for det pågældende signal.
+ Hvis feltstyrken stiger mere end 20 dB i forhold til middelværdien,  
+
+ tillades en signalspændingsvariation på +/- 1,0 dB for H1 og +/- 1,5 dB for  
+
+ H2.
+5.2.4 Kanalvalg Der skal benyttes normerede kanaler i VHF-båndene l og III og i UHF-  
+
+ båndene IV og V.
+ TV-mellembåndskanaler kan benyttes jf. bilag 1-1.5.
+FM-signalerne fra danske sendestationer skal ved omsætning placeres i  
+
+ frekvensområdet 87,5 - 102 MHz.
+De udenlandske FM-signaler skal placeres i  
+
+ frekvensområdet 87,5 - 104 MHz.
+ Det endelige valg af kanaler for et fællesantenneanlæg kan kun træffes  
+
+ efter en nøje vurdering af de lokale modtageforhold. 1 bilag 1 er beskrevet  
+
+ nogle tekniske forhold, der må indgå i vurderingen.
+5.2.5 Signal/støjforhold Ved signal/støj forholdet forstås forholdet i dB mellem signalspændingen  
+
+ og effektivværdien af støjen med en støjbåndbredde på 4,75 MHz for TV og 340  
+
+ KHz for FM-radiofoni.
+Ved beregning skal der mindst regnes med en temperatur  
+
+ på 290 grader K.
+5.2.5.1 TV-signaler I hovedstationen H1 skal ethvert TV-signals signal/støj forhold være  
+
+ større end eller lig med 52 dB.
+ I hovedstationen H2 skal ethvert TV-signals signal/støj forhold være  
+
+ større end eller lig med 46 dB.
+For det danske TV-signal skal ovennævnte krav altid være opfyldt.
+For  
+
+ TV-signaler, der modtages fra udenlandske stationer, skal det for H1 være  
+
+ opfyldt, når klemspændingen på antenneudgangen er mindst 62 dB/my V svarende  
+
+ til et resulterende H1 støjtal på 8,5 dB, og for H2 skal det være opfyldt,  
+
+ hvis klemspændingen på antenneudgangen er mindst 58 dB/my V svarende til et  
+
+ resulterende H2 støjtal på 10,5 dB.
+5.2.5.2 FM-radiofoni-signaler I hovedstationen skal ethvert FM-radiofonisignals signal/støj forhold være  
+
+ større end eller lig med 54 dB for H1 og 48 dB for H2. For de danske  
+
+ FM-radiofonisignaler skal disse krav altid være opfyldt.
+For  
+
+ FM-radiofonisignaler, der modtages fra udenlandske stationer, skal det for H1  
+
+ være opfyldt, hvis klemspændingen på antenneudgangen er mindst 54 dB/micro V  
+
+ svarende til et resulterende H1 støjtal på 10 dB, og for H2 skal det være  
+
+ opfyldt, hvis klemspændingen på antenneudgangen er mindst 50 dB/micro V  
+
+ svarende til et resulterende H2 støjtal på 12 dB.
+5.2.6 Intermodulationsafstand, TV-kanaludstyr Intermodulationsafstanden er forholdet i dB mellem signalspænding og  
+
+ intermodulationsprodukt bestemt ved målemetode 2.1.1 eller 5.1.1 i afsnit A,  
+
+ Tekniske bestemmelser for fællesantenneanlæg.
+ Intermodulationsafstanden skal i hovedstationen være mindst 60 dB.
+5.2.7 Intermodulationsafstand, bånd- og bredbåndsudstyr Intermodulationsafstanden er forholdet i dB mellem signal-spænding og  
+
+ intermodulationsprodukt bestemt ved målemetode 3.1.1 i afsnit A.
+Tekniske  
+
+ bestemmelser for fællesantenneanlæg.
+5.2.7.1 TV-signaler I hovedstationen H1 skal intermodulationsafstanden være mindst IMA = 100  
+
+ dB + 15 log10(N - 1) dB.
+ I hovedstationen H2 skal intermodulationsafstanden være mindst IMA = 80 dB  
+
+ + 15 log10(N - 1) dB.
+ N er antal overførte TV-kanaler.
+5.2.7.2 FM-radiofonisignaler Såfremt der benyttes båndforstærker for bånd II efter kanaludstyr skal  
+
+ intermodulationsafstanden for hovedstationen være mindst IMA = 56 dB + 15  
+
+ log10(N - 1) dB.
+N er antal FM-kanaler.
+N skal dog sættes til mindst 6 ved beregningen.
+5.2.8 Brummodulationsafstand Ved brummodulationsafstanden forstås forholdet i dB mellem spids- spids  
+
+ værdien af TV-signalet (i synkroniseringsperioden) og spids- spids værdien af  
+
+ det indmodulerede brumsignal.
+ Brummodulationsafstanden for TV-signaler skal i hovedstationen være mindst  
+
+ 46 dB.
+5.2.9 Undertrykkelse af uønskede signaler på udgangen hidrørende fra  
+
+ systemet Uønskede signaler i en TV-kanal skal være dæmpet mindst 60 dB i forhold  
+
+ til det overførte signal.
+ Uønskede signaler i en FM-kanal skal være dæmpet mindst 50 dB i forhold  
+
+ til det overførte signal.
+5.2.10 Refleksionsdæmpning Alle udgange i hovedstationen skal have en nominel impedans på 75 ohm.  
+
+ Refleksionsdæmpningen skal mindst være 17 dB indenfor en TV- og FM-kanal.  
+
+ Reflekterede signaler, der opstår i hovedstationen, skal på alle udgange være  
+
+ dæmpet mindst med de værdier, der fremgår af bilag II, kurve II-1. Kurven  
+
+ viser sammenhængen mellem den krævede dæmpning og tidsforsinkelsen mellem  
+
+ signal og reflekteret signal.
+5.2.11 Isolation mellem udgange Fra en vilkårlig udgang (betegnet n) til øvrige udgange fra hovedstationen  
+
+ (betegnet m) skal der være en isolationsdæmpning på ved 40 MHz faldende med 1,5 dB pr. oktav.
+ Un er signalniveauet på udgang n og Um er signalniveauet på udgang m.
+6. Distributionsnettene D1, D2 og D3 Distributionsnet opdeles i 3 kategorier D1, D2 og D3.
+ D1 er det primære net i distributionsnettet i fællesantennesystemet F1. D1  
+
+ efterfølges af distributionsnettene D2 og D3.
+ D2 indgår som en del af distributionsnettet i fællesantennesystemerne F1  
+
+ og F2.
+ D3 er det lokale distributionsnet, der indgår som den yderste del af  
+
+ distributionsnettet i fællesantennesystemerne F1 og F2.
+6.1 Distributionsnettenes opbygning Fig. 6.1 Principdiagram af D1-net.
+ Indgangen til D1 er tilsluttet udgangen af hovedstationen H1. Kablet, der  
+
+ forbinder hovedstationen med den første forstærkerstation i D1- nettet,  
+
+ indgår i D1-nettet.
+ D1-nettets udgange til D2-nettet og D3-nettet er placeret i D1- nettets  
+
+ forstærkerstationer.
+ Kablerne i D1-nettet forbinder dels hovedstationens udgang med første  
+
+ forstærkerstation i D1 og dels samtlige forstærkerstationer i D1.
+ Fig. 6.2 Principdiagram af D2-net.
+ D2-nettets udgange til D3-nettet er placeret i D3-nettets  
+
+ forstærkerstationer.
+ Kablerne i D2-nettet forbinder dels udgangen af D1 eller H2 med indgangen  
+
+ til den første forstærkerstation eller fordeler i D2, dels forstærkerstation  
+
+ og fordeler i D2 samt udgangen af en forstærkerstation eller fordeler i D2  
+
+ med indgangen til D3-nettet.
+ D3-nettet består af en forstærkerstation efterfulgt af et fordelingsnet.  
+
+ Fordelingsnettet er et passivt net for så vidt angår fordeling af  
+
+ VHF-kanaler, men kan indeholde forstærkerstationer for fordeling af  
+
+ UHF-kanaler.
+ D3-nettet skal enten være forberedt for distribution af UHF-kanaler, jr.  
+
+ 6.2.2.2, eller være etableret til overførsel af UHF-kanaler.
+ Fordelingsnettet består af et signalfordelingsnet og et antal afgreninger  
+
+ til stigledningssystemer og/eller afgreninger til tilslutningsdåser i  
+
+ sløjfesystemer.
+D3 Fig. 6.3a Principdiagram af D3-net forberedt for distribution af UHF-kanaler D3 Fig. 6.3b Principdiagram af D3-net etableret til overførsel af UHF-kanaler  
+
+ med UHF-forstærkere i fordelingsnettet.
+ Mellem 2 forstærkerstationer må der ikke monteres tilslutningsdåser i  
+
+ sløjfesystem.
+ D3-nettets udgange er tilslutningsdåserne.
+ Omsættere fra VHF til UHF skal placeres i forstærkerstationerne i D1, D2  
+
+ eller i første forstærkerstation i D3-nettet.
+6.1.1 kabler Kablerne skal så vidt muligt nedlægges i jorden.
+ I D1-nettets kabler mellem forstærkerstationerne må der ikke være indskudt  
+
+ enheder, såsom fordelere.
+6.1.2 Distributionsnettenes forstærkerstationer 6.1.2.1 D1- og D2-net I netdele, der ikke overfører normerede UHF-kanaler, skal  
+
+ forstærkerstationen være opbygget af enheder, der mindst kan overføre  
+
+ frekvensområdet 47 - 300 MHz.
+I netdele, der overfører TV-kanaler i UHF-båndene, skal  
+
+ forstærkerstationerne kunne overføre en vilkårlig valgt TV-kanal i bånd IV og  
+
+ V.
+Forstærkerstationerne skal være opbygget enten med en  
+
+ VHF-bredbåndsforstærker kombineret med en bredbåndsforstærker for bånd IV og  
+
+ V eller med en bredbåndsforstærker for I, II, III, IV og V.  
+
+ VHF-bredbåndsforstærkeren skal mindst kunne overføre frekvensområdet 47 - 230  
+
+ MHz.
+Der kan foretages omsætning fra VHF til UHF ved anvendelse af  
+
+ kanalomsætterudstyr.
+Under overholdelse af systemværdierne skal der kunne  
+
+ fremføres mindst 12 vilkårlig valgte UHF-kanaler i bånd IV og V.
+Forøgelse af  
+
+ kanalantallet i UHF skal kunne foretages ved anvendelse af typegodkendte  
+
+ kanalomsættere og filtre.
+D1-nettets udgange til D2-nettet skal være placeret i D1-nettets  
+
+ forstærkerstationer, der alle skal have mindst 1 udgang til D2. Yderligere  
+
+ udgange skal kunne etableres uden at det påvirker D1- nettets  
+
+ overføringsegenskaber.
+Forstærkernes udgangsspændinger skal fastlægges  
+
+ således, at der opnås størst mulig rækkevidde af D1- nettet.
+ D2-nettets udgange til D3-nettet skal være placeret i D3-nettets  
+
+ forstærkerstation.
+6.1.2.2 D3-net 6.1.2.2.1 Forstærkerstationen i indgangen VHF Forstærkerstationen skal kunne overføre og forstærke en vilkårlig valgt  
+
+ TV-kanal i bånd I og III og en vilkårlig valgt FM-kanal i bånd II og skal  
+
+ indeholde båndforstærkere for bånd I, II og III eller en bredbåndsforstærker  
+
+ for mindst disse bånd.
+UHF Hvis D3-nettet overfører TV-kanaler i UHF-båndene, skal  
+
+ forstærkerstationen kunne overføre og forstærke en vilkårlig valgt TV-kanal i  
+
+ båndene IV og V (470-860 MHz).
+Der kan anvendes en bredbåndsforstærker for bånd IV og V eller en  
+
+ bredbåndsforstærker for bånd I, II, III, IV og V.
+Der kan foretages omsætning  
+
+ fra VHF til UHF ved anvendelse af kanalomsætterudstyr.
+Under overholdelse af  
+
+ systemværdierne skal der kunne fremføres mindst 6 vilkårlig valgte  
+
+ UHF-kanaler i bånd IV og V.
+ Forøgelse af kanalantallet i UHF-båndene skal kunne foretages ved  
+
+ anvendelse af typegodkendte kanalomsættere og filtre.
+6.1.2.2.2 Forstærkerstationer i fordelingsnettet Hvis D3-nettet overfører TV-kanaler i UHF-båndene, skal  
+
+ forstærkerstationen kunne overføre og forstærke mindst 6 vilkårlig valgte  
+
+ TV-kanaler i båndene IV og V ved anvendelse af en bredbåndsforstærker for  
+
+ bånd IV og V.
+6.1.2.3 Målepunkter Forstærkerstationerne skal være forsynet med målepunkter, d.v.s.  
+
+ signaludgange, der udelukkende anvendes til kontrol, og som muliggør  
+
+ kontrolmålinger af signalspændinger på forstærkernes udgange.  
+
+ Kontrolmålingerne skal kunne udføres uden at driften afbrydes eller påvirkes.
+Målingen skal kunne foretages med 75 ohms måleudstyr.
+Prober eller løse  
+
+ tilslutninger kan kun benyttes, hvis der ved målepunktet er anført typer.  
+
+ Hvis målepunktets udkoblingsdæmpning ikke direkte kan anvendes til  
+
+ fastlæggelse af forstærkerens udgangsspænding, fordi målepunktet ikke findes  
+
+ i forbindelse med eller lige efter forstærkenens udgang, skal der være opsat  
+
+ en beskrivelse af, hvorledes den i målepunktet målte spænding har relation  
+
+ til spændingen på forstærkerens udgang.
+6.1.3 D1-nettets rækkevidde Ved D1-nettets rækkevidde i dB forstås den største kabeldæmpning (ved 300  
+
+ MHz), som D1-nettet kan udbygges til, målt mellem indgangen af D1-nettet og  
+
+ til den fjerneste udgang til D2.
+Rækkevidden i km er ovennævnte rækkevidde i dB omsat til kabellængde i km.
+D1-nettet skal have en rækkevidde i dB på mindst 120 dB.
+Rækkevidden  
+
+ behøver ikke at være udnyttet ved etableringen af D1, men skal indgå i  
+
+ dimensioneringen.
+ D1-systemer med uregulerede forstærkere med mindre rækkevidde end 120 dB  
+
+ kan etableres, hvis det kan eftervises, at det er teknisk muligt at øge  
+
+ rækkevidden til mindst 120 dB ved hjælp af typegodkendt udstyr.
+6.2 Systemværdier 6.2.1 Dimensioneringsgrundlag 6.2.1.1 Indgangssignaler For indgangssignalerne skal der regnes med følgende:
+ TV-spændingerne i VHF-båndene har samme nominelle værdi.
+ TV-spændingerne i UHF-båndene har samme nominelle værdi.
+ TV-spændingerne i VHF-båndene behøver ikke at have samme værdi som  
+
+ TV-signalspændingerne i UHF-båndene.
+ FM-signalspændingerne har samme nominelle værdi, der er 10 dB lavere end  
+
+ TV-signalspændingernes nominelle værdi i VHF-båndene.
+ TV-signalspændingerne på indgangene til D1- og D2-nettene er større end  
+
+ eller lig med 74 dB/my V.
+ For D1-net skal der regnes med en variation af indgangs-  
+
+ signalspændingerne på +/- 0,5 dB, og for D2-net +/- 1,5 dB.
+For at opnå, at signalerne får samme nominelle værdi i D3-nettet, kan det  
+
+ være nødvendigt at anvende en lineær modforvrænger.
+Modforvrængeren kan enten  
+
+ være en del af D2 eller D3.
+TV-signalspændinger på indgangen til D3-nettet er større end eller lig med  
+
+ 65 dB/my V.
+D3 har en variation af indgangssignalspændingerne på +/- 3,0 dB.
+6.2.1.2 Signalspændingsvariation i distributionsnettet Der skal regnes med signalspændingsvariation i distributionsnettene på  
+
+ grund af kablernes temperaturafhængighed og reguleringstolerancerne i de  
+
+ regulerede forstærkere i nettenes forstærkerstationer.
+6.2.1.3 Sikkerhedsmargin For hver forstærker skal der ved bestemmelse af signal/støj forhold og  
+
+ intermodulation regnes med en tolerance på forstærkerens udgangsspænding på  
+
+ +/- 1,0 dB (for måleusikkerhed og ældning).
+6.2.2 Amplitude-frekvenskarakteristik 6.2.2.1 D1- og D2-net Dele af D1- og D2-net, der ikke overfører normerede UHF-kanaler, skal  
+
+ mindst kunne overføre signaler i frekvensområdet 47-300 MHz.
+ Dele af D1- og D2-net, der overfører normerede UHF-kanaler, skal mindst  
+
+ kunne overføre signaler i frekvensområderne 47-230 MHz og 470-860 MHz.
+ I dele af D1-net, der ikke overfører normerede UHF-kanaler, må  
+
+ amplitudevariationen højst være 2 dB i frekvensområdet 47-300 MHz.
+ I dele af D1-net, der overfører normerede UHF-kanaler, må  
+
+ amplitudevariationen højst være 2 dB i hvert af frekvensområderne 47- -230  
+
+ MHz og 470-860 MHz.
+ I dele af D2-net, der ikke overfører normerede UHF-kanaler, må  
+
+ amplitudevariationen højst være 3 dB i frekvensområdet 47-300 MHz.
+ I dele af D2-net, der overfører normerede UHF-kanaler, må  
+
+ amplitudevariationen højst være 3 dB i hvert af frekvensområderne 47- -230  
+
+ MHz og 470-860 MHz.
+6.2.2.2 D3-net D3-nettet skal kunne overføre signaler i et frekvensområde, der mindst  
+
+ skal omfatte bånd I, II, IIl, IV og V.
+ D3-nettet skal enten være forberedt eller være etableret til overførsel af  
+
+ UHF-kanaler.
+ Hvis D3-nettet ikke overfører TV-kanaler i UHF-båndene, må den maximale  
+
+ dæmpning mellem indgangen til fordelingsnettet og en vilkårlig valgt  
+
+ TV-tilslutning i bånd IV og V ikke overstige 70 dB.
+Fordelingsnettet begynder ved udgangen af forstærkeren for VHF og kan  
+
+ indeholde fordelere m.m., der er tilsluttet forstærkerens udgang.
+Hvis  
+
+ VHF-forstærkeren har mere end 1 udgang, gælder følgende værdier:
+ Forstærkere med 2 udgange; maximal dæmpning 66 dB.
+ Forstærkene med 3 udgange; maximal dæmpning 63 dB.
+ Forstærkere med 4 udgange; maximal dæmpning 60 dB.
+ Amplitudevariationen hen over frekvensområdet målt mellem indgangen til  
+
+ D3-nettet og en vilkårlig valgt TV-tilslutning må højst være 2,0 dB indenfor  
+
+ en TV-kanal og højst 6 dB indenfor hvert af båndene I og III.
+ Amplitudevariationen hen over frekvensområdet målt mellem indgangen til  
+
+ fordelingsnettet og en vilkårlig valgt TV-tilslutning må højst være 2,0 dB  
+
+ indenfor en TV-kanal.
+ Amplitudevariationen hen over frekvensområdet målt mellem indgangen til  
+
+ fordelingsnettet og en vilkårlig valgt TV-tilslutning må højst være 10 dB  
+
+ indenfor bånd IV og højst 12 dB indenfor bånd V.
+ Amplitudevariationen hen over frekvensområdet målt mellem indgangen til D3  
+
+ og en vilkårlig valgt FM-radiofonitilslutning, må højst være 6,0 dB indenfor  
+
+ bånd II.
+6.2.3 Signalspændinger på udgange 6.2.3.1 D1- og D2-net Signalspændingerne for TV-kanalerne i VHF-båndene skal have samme  
+
+ nominelle værdi på en vilkårlig valgt udgang.
+ Hvis der på udgangen er normerede UHF-kanaler, skal disse have samme  
+
+ nominelle værdi.
+ FM-signalspændingerne skal have samme nominelle værdi, der skal være 10 dB  
+
+ lavere end TV-signalspændingernes nominelle værdi i VHF- båndene.
+For at opnå, at signalerne får samme nominelle værdi i D3-nettet, kan det  
+
+ være nødvendigt at anvende en lineær modforvrænger.
+Modforvrængeren kan enten  
+
+ være en del af D2 eller D3.
+ Signalspændingsvariationen fra nominel værdi må højst være +/- 1,0 dB for  
+
+ D1-nettet alene, og højst +/- 1,5 dB for D1-nettet inklusive hovedstationen  
+
+ H1 eller for D2-nettet alene, og højst +/- 3,0 dB for D2-nettet inklusive  
+
+ foranliggende systemer (H1 + D1 eller H2).
+ TV-signalspændingerne på udgangen af D1-nettet skal være større end eller  
+
+ lig med 74 dB/my V og på udgangen af D2-nettet større end eller lig med 65  
+
+ dB/my V.
+6.2.3.2 Signalspænding på TV-tilslutning i D3-net TV-signalspændingen på TV-tilslutningen i en vilkårlig valgt tilslutningsdåse skal være mindst  
+
+ 60 dB/myV og højst være 84 dB/myV D3-nettet skal udføres således, at  
+
+ ovenstående krav er opfyldt uanset hvilken kanal der overføres i bånd I, III,  
+
+ IV og V.
+ Den nominelle niveauforskel mellem 2 kanaler må højst være 6 dB inden for  
+
+ bånd I og III, og højst 6 dB pr. 200 MHz i bånd IV og V.
+6.2.3.3 Signalspænding på FM-radiofonitilslutning i D3-net FM-signalspændingen på en FM-radiofonitilslutning i en vilkårlig valgt  
+
+ tilslutningsdåse skal være mindst 52 dB/my V og må højst være 80 dB/my V.
+6.2.4 Kanalantal D1- og D2-nettene skal kunne overføre mindst 18 FM-kanaler i bånd II og  
+
+ mindst 18 TV-kanaler. 1 VHF-området skal mindst 6 TV-kanaler kunne overføres  
+
+ i båndene I og III.
+ D3-nettet skal mindst kunne overføre 6 TV-kanaler i båndene I og III og  
+
+ mindst 18 FM-kanaler i bånd II.
+6.2.5 Signal/støj forhold For D1-nettet alene skal ethvert TV-signals signal/støj forhold være  
+
+ større end eller lig med 46,5 dB.
+ For D2-nettet alene skal ethvert TV-signals signal/støj forhold være  
+
+ større end eller lig med 50 dB.
+ For D3-nettet alene skal ethvert TV-signals signal/støj forhold være  
+
+ større end eller lig med 50 dB, og ethvert FM-signals signal/støj forhold  
+
+ skal være større end eller lig med 51 dB.
+6.2.6 Intermodulationsafstand 6.2.6.1 D1- og D2-net.
+VHF.
+Forstærkerstationer i bredbåndsteknik For  
+
+ D1-nettet alene skal intermodulationsafstanden være mindst IMA = 74 dB + 15  
+
+ log10(N - 1) dB.
+ N er antallet af overførte TV-kanaler dog mindst 18.
+ For D2-nettet alene skal intermodulationsafstanden være mindst IMA = 81 dB  
+
+ + 15 log10(N - 1) dB.
+ N er antallet af overførte TV-kanalen dog mindst 18.
+Hvis nettet overfører UHF-kanaler, skal N mindst være 6 for VHF.
+For UHF  
+
+ se pkt. 6.2.6.2. (Se fig. 6.4a).
+6.2.6.2 D1- og D2-net.
+UHF.
+Forstærkerstationer i bredbåndsteknik Hvis  
+
+ nettet er opbygget med bredbåndsforstærker for UHF kombineret med  
+
+ bredbåndsforstærker for VHF, skal intermodulationsafstanden for D1-nettet  
+
+ mindst være IMA = 74 dB + 15 log10(N - 1) dB.
+ N er antallet af overførte TV-kanaler dog mindst 12.
+ For D2-nettet skal intermodulationsafstanden mindst være IMA = 81 dB + 15  
+
+ log10(N - 1) dB.
+ N er antallet af overførte TV-kanaler dog mindst 12.
+6.2.6.3 D1- og D2-net.
+VHF-UHF.
+Forstærkerstationer i bredbåndsteknik Hvis  
+
+ D1-nettet er opbygget med bredbåndsforstærkere for bånd I, Il, III, IV og V,  
+
+ (se fig. 6.4b), skal intermodulationsafstanden mindst være IMA = 74 dB + 15 log10(N - 1) dB.
+ N er antallet af overførte TV-kanaler dog mindst 18, heraf 6 VHF- kanaler.
+Hvis D2-nettet er opbygget med bredbåndsforstærkere for bånd I, II, III,  
+
+ IV og V, skal intermodulationsafstanden mindst være IMA = 81 dB + 15 log10(N - 1) dB.
+ N er antallet af overførte TV-kanaler dog mindst 18, heraf 6 VHF- kanaler.
+6.2.6.4 D3-net.
+VHF.
+Forstærkerstation i bredbåndsteknik Hvis forstærkerstationen i D3 er opbygget med bredbåndsforstærker, der  
+
+ overfører båndene I, II og III, skal intermodulationsafstanden for D3-nettet  
+
+ alene mindst være IMA = 74 dB + 15 log10(N-1) dB.
+ N er antallet af TV-kanaler; N skal mindst være 6.
+ FM-signalernes nominelle niveau skal ligge 10 dB under TV-signalernes  
+
+ nominelle niveau på udgangen af bredbåndsforstærkeren.
+6.2.6.5 D3-net.
+VHF.
+Forstærkerstation i båndteknik Hvis forstærkerstationen i D3 er opbygget med båndforstærkere for bånd I,  
+
+ II og III, skal intermodulationsafstanden for D3-nettet mindst være:
+ Bånd I:
+ IMA = 74 dB + 15 log10(N - 1) dB.
+N er antallet af TV-kanaler i bånd I; N skal mindst være 2.
+ Bånd II:
+ IMA = 56 dB + 15 log10(N - 1) dB.
+N er antallet af FM-kanaler i bånd II; N skal mindst være 18.
+ Bånd III:
+ IMA = 74 dB + 15 log10 (N - 1) dB.
+N er antallet af TV-kanaler i bånd III; N skal mindst være 4.
+6.2.6.6 D3-net.
+UHF.
+Forstærkerstation i bredbåndsteknik Hvis D3-nettet er opbygget med bredbåndsforstærkere for bånd IV og V, skal  
+
+ intermodulationsafstanden for D3 mindst være IMA = 70 dB + 15 log10(N - 1) dB.
+ N er antallet af TV-kanaler.
+ N skal mindst være 6.
+6.2.6.7 D3-net.
+VHF-UHF.
+Forstærkerslation i bredbåndsteknik Hvis D3-nettet er opbygget med bredbåndsforstærkere for bånd I, II, III,  
+
+ IV og V i den første forstærkerstation, skal intermodulationsafstanden for  
+
+ D3-nettet mindst være IMA = 72 dB + 15 log10(N - 1) dB.
+ N er antallet af TV-kanaler i VHF og UHF.
+ N skal være mindst 12 for bredbåndsforstærker for bånd I, II, III, IV og V  
+
+ placeret i den første forstærkerstation og mindst 6 for bredbåndsforstærker  
+
+ for bånd IV og V placeret i fordelingsnet.
+6.2.6.8 Kanaludstyr til omsætning fra VHF til UHF Intermodulationsafstanden skal mindst være 60 dB.
+6.2.7 Brummodulationsafstand Brummodulationsafstanden for TV-signalerne skal være mindst 46 dB.
+6.2.8 Undertrykkelse af uønskede signaler på udgangen hidrørende fra  
+
+ systemet Uønskede signaler i en TV-kanal skal være dæmpet mindst 60 dB i forhold  
+
+ til det overførte signal.
+ Uønskede signaler i en FM-kanal skal være dæmpet mindst 50 dB i forhold  
+
+ til det overførte signal.
+6.2.9 Refleksionsdæmpning Alle udgange i D1- og D2-nettene skal have en nominel impedans på 75 ohm.  
+
+ Hvis der ikke overføres normerede UHF-kanaler, skal refleksionsdæmpningen  
+
+ mindst være 17 dB i frekvensområdet 47-300 MHz.
+ Hvis der overføres normerede UHF-kanaler, skal refleksionsdæmpningen  
+
+ mindst være 17 dB i frekvensområdet 47-230 MHz og mindst 15 dB i  
+
+ frekvensområdet 470-860 MHz.
+ Reflekterede signaler, der opstår i et net, skal på alle udgange være  
+
+ dæmpet mindst med de værdier, der fremgår af bilag II, kurve II-1. Kurven  
+
+ viser sammenhængen mellem den krævede dæmpning og tidsforsinkelse mellem  
+
+ signal og reflekteret signal.
+6.2.10 Isolation mellem udgange fra D1- hhv.
+D2-net Fra en vilkårlig udgang (betegnet n) til en anden vilkårlig udgang  
+
+ (betegnet m) skal der være en isolationsdæmpning på ved 40 MHz, faldende med 1,5 dB pr. oktav.
+Un er signalniveauet på udgang  
+
+ n og Um er signalniveauet på udgang m.
+6.2.11 Isolation mellem afgreninger i D3 Fra en vilkårlig afgrening (betegnet n) til en anden vilkårlig afgrening  
+
+ (betegnet m) skal der være isolationdæmpning, som anført under 6.2.10.
+6.2.12 Dæmpning af TV-mellembåndskanaler I net, hvor fordelingen sker efter omsætning til UHF-kanaler, skal  
+
+ signalniveauet for TV-mellembåndskanalerne være mindre end 85 dB/my V på  
+
+ udgangen af forstærkerne i forstærkerstationerne, og det skal ligge mindst 30  
+
+ dB under signalniveauet for de i fordelingsnettene distribuerede TV-kanaler.
+7. Fællesantennesystemerne F3 og F4 7.1 F3- og F4-systemernes opbygning F3- og F4-systemerne består af et antennesystem, nedføringskabler og en  
+
+ forstærkerstation samt et fordelingsnet.
+ F4-systemet må maksimalt have 24 tilslutningsdåser.
+ Udgangene fra F3 og F4 er TV- og radiofoni-tilslutningerne i de til  
+
+ systemerne hørende tilslutningsdåser.
+7.1.1 Antennesystemet Antennesystemet består af antenner for modtagning af TV- og  
+
+ radiofoni-signaler.
+Disse antenner kan hver for sig være indrettet for  
+
+ modtagning af et eller flere signaler.
+Flere antenner kan være sammenkoblet  
+
+ (stakket m.v.).
+ I antennerne kan der indgå transformatorer, symmetreringsled, filtre,  
+
+ forforstærkere, fordelere m.m.
+7.1.1.1 Modtagning at danske TV- og FM-radiofoni signaler Antennesystemet skal udformes således, at der opnås forstyrrelsesfri  
+
+ modtagning af de danske TV- og FM-radiofoniprogrammer.
+De danske programmer skal modtages fra den mest hensigtsmæssige  
+
+ sendestation.
+For FM-radiofoni gælder, at såvel lands- som regionalprogrammet  
+
+ skal modtages.
+7.1.2 Nedføringskablerne Antennerne er forbundet til forstærkerstationen ved hjælp af  
+
+ nedføringskabler, der overfører TV- og radiofoni-signalerne fra  
+
+ modtageantennerne til forstærkerstationen, hvor signalbehandlingerne foregår.
+ Nedføringskablerne skal være koaksialkabler.
+ Ved udvendig montage skal nedføringskabler med plastkappe have kappe af  
+
+ sort polyethylen (PE).
+7.1.3 Forstærkerstationen Ved overførsel af TV-signaler skal der i F3 anvendes TV- kanalforstærkere  
+
+ eller TV-kanalomsættere.
+Før TV-kanaludstyret kan der anvendes  
+
+ båndforstærkere eller bredbåndsforstærkere for bånd IV og V og efter  
+
+ TV-kanaludstyret kan der anvendes bånd- eller bredbåndsforstærkere.
+ Ved overførsel af FM-radiofonisignaler i F3 skal der som første forstærker  
+
+ anvendes enten en FM-kanalforstærker eller en FM- kanalomsætter eller en  
+
+ båndforstærker for bånd II.
+ Anvendes en båndforstærker for bånd II skal FM-antennen være rettet mod  
+
+ den danske FM-station, og der må ikke anvendes frekvensselektive komponenter  
+
+ (filtre eller lignende), som dæmper de ønskede danske FM- signaler.
+I F4 kan der som første forstærker anvendes forstærkere som for F3 eller  
+
+ en forstærker, der er indrettet til samtidig forstærkning af mere end eet af  
+
+ båndene I-V (båndselektiv). Forstærkeren kan også være indrettet til at  
+
+ overføre bånd IV og V sammenhængende.
+Forstærkerstationen kan være forsynet  
+
+ med automatisk signalspændingsregulering til imødegåelse af variationerne i  
+
+ de modtagne signaler.
+Hvis der ikke anvendes automatisk  
+
+ signalspændingsregulering (AGC), skal forstærkernes og omsætternes  
+
+ udgangsspændinger reduceres for at undgå overstyring.
+Brugstilladelsen for F3 eller F4 anlæg, indrettet for FM, vil komme til at  
+
+ omfatte de danske FM-radiofoniprogrammer.
+Endvidere vil den kunne omfatte de  
+
+ udenlandske FM-radiofoniprogrammer, som anlægget er beregnet til at modtage.  
+
+ Det er dog en forudsætning, at de normerede krav til signalkvalitet er  
+
+ opfyldt.
+Forstærkerstationen skal indeholde målepunkter, d.v.s. signaludgange der  
+
+ udelukkende anvendes til kontrol, og som muliggør målinger til bestemmelse af  
+
+ signalspændingerne på forstærkernes udgange.
+Kontrolmålingerne skal kunne  
+
+ udføres uden at driften af systemet afbrydes eller påvirkes.
+Målingen skal kunne foretages med 75 ohms måleudstyr.
+Prober eller løse  
+
+ tilslutninger kan kun benyttes, hvis der ved målepunktet er anført typer.
+ Hvis målepunktets udkoblingsdæmpning ikke direkte kan anvendes til  
+
+ fastlæggelse af forstærkerens udgangsspænding, fordi målepunktet ikke findes  
+
+ i forbindelse med eller lige efter forstærkerens udgang, skal der være opsat  
+
+ en beskrivelse af, hvorledes den i målepunktet målte spænding har relation  
+
+ til spændingen på forstærkerens udgang.
+7.1.4 Fordelingsnettet Ved fordelingsnettene i F3 og F4 forstås de fordelingsnet, der forbinder  
+
+ udgangen af forstærkerne i forstærkerstationen med tilslutningsdåserne.
+ Fordelingsnettene skal kunne overføre VHF-båndene I, II og III samt  
+
+ UHF-båndene IV og V.
+7.2 Systemværdier 7.2.1 Dimensioneringsgrundlag 7.2.1.1 Indgangssignaler På indgangen af F3 og F4 kan der foreligge FM-radiofonisignaler i bånd II  
+
+ og et eller flere TV-signaler i VHF-båndene I og III samt UHF-båndene IV og  
+
+ V.
+ For F3 skal der regnes med en variation af indgangssignalspændingerne på  
+
+ mindst +/- 6 dB.
+ For F4 skal der regnes med en variation af indgangssignalspændingerne på  
+
+ mindst - 6 dB.
+7.2.1.2 Sikkerhedsmargin For hver af de benyttede forstærkere og omsættere skal der ved bestemmelse  
+
+ af signal/støj forhold og intermodulation regnes med en tolerance på  
+
+ udgangsspændingen på +/- 1,0 dB (for måleusikkerhed og ældning).
+7.2.2 Amplitude-frekvenskarakteristik 7.2.2.1 Amplitudevariation, TV Amplitudevariationen i frekvenskarakteristikken målt mellem indgangen af  
+
+ F3 hhv.
+F4 (udgangen af antennen) og en vilkårlig TV-radiofonitilslutning må  
+
+ højst være 3,0 dB indenfor en TV-kanal.
+7.2.2.2 Amplitudevariation, FM-radiofoni Amplitudevariationen i frekvenskarakteristikken målt mellem indgangen af  
+
+ F3 hhv.
+F4 (udgangen af antennen) og en vilkårlig FM-radiofonitilslutning må  
+
+ højst være 3,0 dB indenfor en FM-kanal.
+ Såfremt der benyttes FM-kanalforstærkere eller FM-kanalomsættere, skal  
+
+ kravet være overholdt, hvis udstyret erstattes med et  
+
+ koaksialforbindelsesled.
+7.2.2.3 Amplitude-frekvenskarakteristik for fordelingsnettet alene Fordelingsnettene i F3 og F4 skal kunne overføre signaler i et  
+
+ frekvensområde, der mindst skal omfatte båndene I, II, III, IV og V.
+ Den maksimale dæmpning mellem indgangen til fordelingsnettet og en  
+
+ vilkårlig valgt TV-tilslutning må ikke overstige 70 dB.
+Fordelingsnettet begynder ved udgangen af forstærkeren for VHF og kan  
+
+ indeholde fordelere m.m., der er tilsluttet forstærkerens udgang.
+Hvis  
+
+ VHF-forstærkeren har mere end 1 udgang, gælder følgende værdier:
+ Forstærkere med 2 udgange; maximal dæmpning 66 dB.
+ Forstærkere med 3 udgange; maximal dæmpning 63 dB.
+ Forstærkere med 4 udgange; maximal dæmpning 60 dB.
+ Amplitudevariationen hen over frekvensområdet målt mellem indgangen til  
+
+ fordelingsnettet og en vilkårlig valgt TV-tilslutning må højst være 2,0 dB  
+
+ indenfor en TV-kanal og 6 dB indenfor hvert af båndene I og III.
+ Amplitudevariationen hen over frekvensområdet målt mellem indgangen til  
+
+ fordelingsnettet og en vilkårlig valgt TV-tilslutning må højst være 10 dB  
+
+ indenfor bånd IV og højst 12 dB indenfor bånd V.
+ Amplitudevariationen hen over frekvensområdet, målt mellem indgangen til  
+
+ fordelingsnettet og en vilkårlig valgt FM-radiofonitilslutning, må højst være  
+
+ 6,0 dB indenfor bånd II.
+7.2.3 Signalspænding på udgange 7.2.3.1 Signalspænding på TV-tilslutning TV-signalspændingen på TV-tilslutningen i en vilkårlig tilslutningsdåse  
+
+ skal være mindst 60 dB/my V og må højst være 84 dB/my V.
+ Den nominelle niveauforskel mellem TV-kanaler i henholdsvis bånd I og III  
+
+ må højst være 6 dB, og højst 6 dB indenfor et vilkårlig valgt 200 MHz-område  
+
+ i bånd IV og V.
+7.2.3.2 Signalspænding på FM-radiofonitilslutning FM-signalspændingen på en FM-radiofonitilslutning i en vilkårlig  
+
+ tilslutningsdåse skal være mindst 52 dB/my V og må højst være 80 dB/my V.
+7.2.4 Kanalvalg TV-signalerne skal placeres i de normerede kanaler i VHF-båndene I og III  
+
+ eller UHF-båndene IV og V.
+FM-signalerne fra danske sendestationer skal ved omsætning placeres i  
+
+ frekvensområdet 87,5-102 MHz.
+De udenlandske FM-signaler skal placeres i  
+
+ frekvensområdet 87,5-104 MHz.
+Det endelige valg af kanaler for et fællesantenneanlæg kan kun træffes  
+
+ efter en vurdering af de lokale modtageforhold.
+I bilag I er beskrevet nogle  
+
+ tekniske forhold, der må indgå i vurderingen.
+7.2.5 Signal/støj forhold 7.2.5.1 TV-signaler Ethvert TV-signals signal/støj forhold skal være større end eller lig med  
+
+ 43 dB.
+For det danske TV-signal skal dette krav altid være opfyldt.
+For TV-  
+
+ signaler, der modtages fra udenlandske stationer, skal kravet være opfyldt,  
+
+ hvis klemspændingen på antenneudgangen er mindst 58 dB/my V.
+7.2.5.2 FM-radiofonisignaler Ethvert FM-radiofonisignals signal/støj forhold skal være større end eller  
+
+ lig med 45 dB.
+For de danske FM-radiofonisignaler skal dette krav altid være opfyldt.
+For  
+
+ FM-radiofonisignaler, der modtages fra udenlandske stationer, skal kravet  
+
+ være opfyldt, hvis klemspændingen på antenneudgangen er mindst 50 dB/my V.
+7.2.6 Intermodulationsafstand.
+TV-kanaludstyr Intermodulationsafstanden skal mindst være 54 dB.
+7.2.7 Intermodulationsafstand.
+Bånd- og bredbåndsudstyr 7.2.7.1 TV-signaler Intermodulationsafstanden skal mindst være IMA = 66 dB + 15 log10(N - 1) dB.
+ N er antallet af overførte TV-kanaler.
+7.2.7.2 FM-radiofonisignaler Såfremt der benyttes båndforstærker for bånd II, skal  
+
+ intermodulationsafstanden være mindst IMA = 50 dB + 15 log10(N - 1) dB.
+ N er antallet af FM-kanaler; N skal være mindst 9.
+7.2.8 Brummodulationsafstand Brummodulationsafstanden for TV-signaler skal være mindst 46 dB.
+7.2.9 Undertrykkelse af uønskede signaler på udgangen hidrørende fra  
+
+ systemet Uønskede signaler i en TV-kanal skal være dæmpet mindst 60 dB i forhold  
+
+ til det overførte signal.
+ Uønskede signaler i en FM-kanal skal være dæmpet mindst 50 dB i forhold  
+
+ til det overførte signal.
+7.2.10 Refleksionsdæmpning Reflekterede signaler, der opstår i F3 hhv.
+F4, skal på alle udgange være  
+
+ dæmpet mindst med de værdier, der fremgår af bilag II, kurve II- 1. Kurven  
+
+ viser sammenhængen mellem den krævede dæmpning og tidsforsinkelsen mellem  
+
+ signal og reflekteret signal.
+7.3 Isolation mellem afgreninger i F3 Fra en vilkårlig afgrening (afgrening n) til øvrige afgreninger (afgrening  
+
+ m) skal der være en isolationsdæmpning på ved 40 MHz, faldende med 1,5 dB pr. oktav.
+Un er signalniveauet på  
+
+ afgrening n, og Um er signalniveauet på afgrening m.
+8. AM-radiofoni i fællesantennesystemer Ved AM-radiofonifrekvensområderne forstås følgende:
+I F1- og F2-systemer kan hovedstationerne H1 og H2 godkendes til  
+
+ modtagning af AM-radiofoni.
+Distributionsnettet D1 kan ikke godkendes til  
+
+ distribution af AM-radiofonifrekvensområderne, medmindre de er omsat til  
+
+ FM-radiofoniområdet, og D2 kan kun godkendes til distribution af  
+
+ AM-radiofonifrekvensområderne uden omsætning, hvis nettet ikke indeholder  
+
+ forstærkerstationer.
+ D3-nettet kan godkendes til distribution af AM-  
+
+ radiofonifrekvensområderne.
+ Fællesantennesystemerne F3 og F4 kan godkendes til modtagning og  
+
+ distribution af AM-radiofoni.
+8.1 Amplitude.frekvenskarakteristik Amplitude-frekvenskarakteristikken må højst variere 6 dB indenfor  
+
+ langbølgeområdet hhv. mellembølgeområdet, målt mellem antenneudgangen og en  
+
+ vilkårlig valgt modtagertilslutning (modtagerimpedans 75 ohm ubalanceret).
+ I kortbølgeområdet må dæmpningen målt mellem antenneudgangen og en  
+
+ vilkårlig valgt modtagertilslutning højst være 30 dB.
+8.2 Signalspænding på modtagertilslutning For de danske lang- og mellembølgeprogrammer skal der på  
+
+ modtagertilslutningerne enten være en signalspænding på mindst 56 dB/my V  
+
+ eller en signalspænding (i dB/my V), svarende til 1/10 af den feltstyrke (i  
+
+ dB/my V/m), der ifølge feltstyrkekortene er på modtagestedet.
+ I AM-frekvensområderne må signalspændingen på modtagertilslutningerne  
+
+ højst være 80 dB/my V.
+ Målingen af AM-signalspændinger skal udføres med en målemodtager med en  
+
+ impedans på 75 ohm.
+9. Nabokanalanlæg Ved et nabokanalanlæg forstås i disse bestemmelser et fællesantenneanlæg,  
+
+ hvor mindst 2 kanaler indenfor samme bånd har fortløbende kanalnumre.
+Der må højst etableres 8 TV-kanaler i VHF-båndene.
+Indtil videre må der i  
+
+ nabokanalanlæg foretages en frekvensmæssig forskydning af enkelte af  
+
+ TV-kanalerne i bånd III på 1,0 MHz, således at frekvensafstanden mellem to  
+
+ nabokanalers billedbærebølger ændres til 8 MHz.
+BILAG I Kanalvalg Ved kanalvalg til et fællesantenneanlæg skal der altid tages hensyn til  
+
+ følgende:.
+I-1.1 Oscillatodorstyrrelser En TV-modtagers oscillator kan afgive et forstyrrende signal til andre  
+
+ TV-modtagere gennem fællesantenneanlægget eller ved direkte udstråling.
+ Af nedenstående tabel fremgår, i hvilke kanaler oscillatorforstyrrelserne  
+
+ fra TV-modtagere normalt falder.
+ Det danske TV-program skal placeres i en kanal, hvor der, jævnfør  
+
+ tabellen, ikke er forstyrrelsesrisiko.
+ Modtagning af kanal 5 samtidig med kanal 10, kanal 6 samtidig med kanal 11  
+
+ og kanal 7 samtidig med kanal 12 er kun tilladt, hvis der foretages en  
+
+ omsætning til forstyrrelsesfrie kanaler før modtagerne, eller hvis  
+
+ overhøringsdæmpningen mellem tilslutningsdåserne er mindst 60 dB.
+I.1.2 Ind- og udstrålingsproblemer Indstråling Risikoen for indstråling i fællesantenneanlægget og de tilsluttede  
+
+ modtagere skal vurderes.
+En kraftig lokalstation kan give direkte indstråling  
+
+ i modtagere, der er indstillet på lokalstationens kanal eller på en  
+
+ nabokanal.
+ Gener fra direkte indstråling i fællesantenneanlægget må ikke fjernes ved  
+
+ kanalomsætninger, med mindre mulighederne for at reducere anlæggets følsomhed  
+
+ for indstråling er prøvet (skærmning, filtrering, udbedring af  
+
+ kabelforbindelser m. v.).
+ Anvendes kanal 5 i et fællesantenneanlæg, der etableres i umiddelbar  
+
+ nærhed af en basisstation for den landmobile tjeneste (i 160 MHz området),  
+
+ skal der træffes særlige foranstaltninger mod indstråling.
+Udstråling Kanaler der fordeles vil uundgåeligt give en restudstråling.  
+
+ Restudstrålingen kan forstyrre andre i området.
+Kanalomsætning med henblik på  
+
+ at fjerne udstrålingsforstyrrelser må ikke bringes i anvendelse, med mindre  
+
+ mulighederne for at reducere fællesantenneanlæggets udstråling er  
+
+ efterprøvet.
+I.1.3 Benyttelse af kanal 12 TV-kanal 12 er ikke internationalt normeret som TV-kanal.
+I Danmark er det  
+
+ frekvensområde, kanalen dækker, tildelt andre teletjenester.
+ Da mange TV-modtagere kan modtage kanal 12, vil brugen af kanal 12 dog  
+
+ indtil videre kunne tillades som den sidste kanalmulighed.
+Kanalen er ikke beskyttet mod forstyrrelser fra de teletjenester, der er  
+
+ tildelt frekvenser i kanalens frekvensområde.
+Giver brugen af kanal 12  
+
+ anledning til forstyrrelser af andre teletjenester, vil dette, såfremt  
+
+ forstyrrelserne ikke straks bliver bragt til ophør, medføre at brugen af  
+
+ kanalen må indstilles.
+I-1.4 Dobbelt omsætning af TV-kanaler Ved dobbelt omsætning skal den normerede TV-mellemfrekvens benyttes.
+ Indtil videre vil post- og telegrafvæsenet i særlige tilfælde kunne  
+
+ fravige dette krav.
+I-1.5 Benyttelse af TV-mellembåndskanaler Mellembåndskanaler, jfr. oversigten Bilag V, må kun anvendes i  
+
+ fællesantenneanlægs hovedfordelingsnet, jfr. afsnit 5.2.4 og Bilag VI, pkt.  
+
+ 2, stk. 6, og kun efter særlig tilladelse fra Post- og Telegrafvæsenet.
+Der  
+
+ vil efter bedømmelse af forstyrrelsesrisikoen i det pågældende geografiske  
+
+ område blive anvist kanaler.
+Der vil indtil videre alene kunne benyttes  
+
+ kanaler udvalgt mellem mellembåndskanalerne nr.
+S-6 til S-20.
+Da mellembåndskanalerne frekvensmæssigt er placeret i frekvensbånd for  
+
+ andre radiotjenester end fjernsyn, må der påregnes en vis risiko for, at  
+
+ TV-programmer, der fordeles på mellembåndskanaler, kan blive udsat for  
+
+ forstyrrelser fra lovligt bestående eller fremtidige radiotjenester på grund  
+
+ af indstråling i fællesantenneanlægget.
+Udstråling fra fællesantenneanlægget  
+
+ på mellembåndskanaler kan medføre forstyrrelser af de nævnte radiotjenester,  
+
+ og vil i henhold til bekendtgørelsen om fællesantenneanlæg kunne medføre krav  
+
+ om lukning af vedkommende mellembåndskanal, indtil der er truffet  
+
+ foranstaltninger til afhjælpning af forstyrrelserne.
+ Post- og Telegrafvæsenets anvisning af mellembåndskanaler har alene til  
+
+ hensigt at undgå den mest åbenbare forstyrrelsesrisiko.
+I-2 FM-kanalvalg I-2.1 Omsætning af FM-kanal Et behov for omsætning af en FM-kanal kan være begrundet af direkte  
+
+ indstråling i modtagerne fra en kraftig lokalstation, eller af et ønske om at  
+
+ modtage et maksimalt antal forstyrrelsesfrie kanaler.
+I-2.2 Kanalafstand FM-kanalerne skal placeres med så store frekvensafstande, at en  
+
+ almindeligt anvendt FM-radiofonimodtager kan adskille kanalerne, det vil sige  
+
+ en kanalafstand af størrelsesordenen mindst 0,5 MHz.
+ Kanalerne skal frekvensmæssigt placeres således, at forstyrrelser på grund  
+
+ af intermodulation i modtagerne begrænses i størst muligt omfang.
+BILAG II Refleksionsdæmpning II-1 Refleksionsdæmpning for en enhed Ved refleksionsdæmpningen for en enheds signalindgange hhv. -udgange  
+
+ forstås forholdet udtrykt i dB mellem fremadgående og reflekteret signal.
+Refleksionsdæmpningen bestemmes ved hjælp af nedenstående måleopstilling Målemetoder og krav for enheder findes i afsnit A, typegodkendelse af  
+
+ materiel.
+Fig.
+II-1 Refleksionsdæmpningen for en enhed.
+II-2 Refleksionsdæmpning for et signal i et system Ved refleksionsdæmpningen for et signal i et system forstås forholdet  
+
+ udtrykt i dB mellem signalet og et i systemet reflekteret og tidsforsinket  
+
+ signal med samme udbredelsesretning.
+ Refleksionsdæmpningen bestemmes ved hjælp af nedenstående måleopstilling.
+Ars: Refleksionsdæmpning U : Signalspænding Ur: Reflekteret og tidsforsinket signalspænding med samme retning som U R : Afslutningsmodstand på 75 ohm.
+Fig.
+II-2 Refleksionsdæmpning for et system.
+ Kravene til refleksionsdæmpningen for reflekterede signaler opstået i  
+
+ systemet fremgår af kurve II-1.
+ Kurve II-1 Krav til refleksionsdæmpning i relation  
+
+ til tidsforsinkelsen af det reflekterede signal.
+BILAG III Uddrag af systemværdier BILAG IV Grundlag for beregning af bredbåndsdistributionssystemer (D1 - D2- D3) Forudsætninger Vo1 Maksimal intermodulationsbegrænsede udgangsspænding i dB/my V for  
+
+ pilottonereguleret forstærkerstation.
+ Vo2 Maksimal intermodulationsbegrænsede udgangsspænding i dB/my V for  
+
+ ureguleret forstærkerstation.
+ Vo3 Maksimal intermodulationsbegrænsede udgangsspænding i dB/my V for  
+
+ ureguleret afgreningsforstærkerenhed.
+ Den maksimale intermodulationsbegrænsede udgangsspænding bestemmes ved  
+
+ målemetode som angivet i afsnit A pkt. 3.1 (66 dB IMA; 2 kanaler).
+ S1 Støjtal i dB for pilottonereguleret forstærkerstation.
+ S2 Støjtal i dB for ureguleret forstærkerstation.
+ S3 Støjtal i dB for ureguleret afgreningsforstærkerenhed.
+ Støjtallet bestemmes ud fra målemetode angivet i afsnit A pkt. 3.3, og der  
+
+ skal regnes med den højeste værdi inden for forstærkerens frekvensområde.
+ G1 Maksimal forstærkning i dB for pilottonereguleret forstærkerstation.
+ G2 Maksimal forstærkning i dB for ureguleret forstærkerstation.
+ G3 Maksimal forstærkning i dB for ureguleret afgreningsforstærkerenhed.
+ I stedet for maksimal forstærkning kan der regnes med maksimal  
+
+ driftsforstærkning, hvis forstærkningsreduktionen kan ske uden ændring i  
+
+ støjtallet, eller hvis støjtallet er målt ved driftsforstærkningen.
+For kabler i jord regnes med en middeltemperatur på +10 grader C og en  
+
+ temperaturvariation på +/- 10 grader C.
+For kabler i luft regnes med en  
+
+ middeltemperatur på +20 grader C og en temperaturvariation på +/- 30 grader  
+
+ C.
+ Niveauvariationer, der har tilfældig eller ikke systematisk karakter,  
+
+ sammenregnes efter statistiske sandsynlighedsprincipper, dvs.
+Tolres = kvadratroden af Tolaexp2 + Tolbexp2 ..... + Tolxexp2 Variationer på grund af kabeldæmpningen temperaturafhængighed har derimod  
+
+ systematisk karakter, hvorfor Tolres = kvadratroden af Tolaexp2 + Tolbexp2 ..... + Tolxexp2 +sigma alpha  
+
+ x delta t x k hvor sigma alpha x delta t x k er summation af kabeldæmpningsvariationen efter sidste regulerede  
+
+ forstærker.
+Ved beregning af IMAmin og S/Nmin for den enkelte forstærker indføjes  
+
+ desuden sikkerhedsmarginen A.
+Da den har tilfældig karakter, indregnes den  
+
+ under kvadratrodstegnet.
+Tol2 = kvadratroden af (Tolaexp2 + Tolbexp2 ... + Aexp2)+ sigma alfa x  
+
+ delta t x k Beregningsmetode D1 - D2 systemer IV-1 Bestemmelse af minimumsværdier for de enkelte forstærkerstationer Pilottonereguleret forstærkerstation Tol = kvadratroden af (Toliexp2 + delta v0exp2 + delta vpexp2) Tol0 = Tol IMAforst min = 66 + 2(v01 - (vn1 + kvadratroden af(Tolexp2 + Aexp2))) - 15  
+
+ log (N-1) S/Nforst min = Vn1 - kvadratroden af(Tolexp2 + Aexp2) - G1 - S1 - Us Ureguleret forstærkerstation Før første pilottoneregulerede forstærkerstation er:
+Tol = Toli Tol0 = Toli + sigma alfa x delta t x k Når første pilottoneregulerede forstærkerstation er passeret, bliver Tol = kvadratroden af (Toliexp2 + delta v0exp2 + delta vpexp2) Tol0 = Tol + sigma alfa x delta t x k IMAforst min = 66 + 2(v02 -(Vn2 + kvadratroden af(Tolexp2 + Aexp2) + sigma  
+
+ alfa x delta t x k)) - 15 log (N - 1) S/Nforst min = Vn2 - kvadratroden af(Tolexp2 + Aexp2) - sigma alfa x delta  
+
+ t x k - G2 - S2 - Us Afgreningsforstærkerenhed Tol = Tol0 for foranliggende forst.
+Tol0 = Tol IMAforst min = 66 + 2(v03 - (vn3 + kvadratroden af(Tolexp2 + Aexp2))) - 15  
+
+ lov (N - 1) S/Nforst min = vn3 - kvadratroden af(Tolexp2 + Aexp2) - G3 - S3 - Us Afgreningsforstærkerenheden forudsættes tilsluttet udgangen af den  
+
+ pågældende forstærkerstation uden mellemliggende kabelstrækning.
+IV-2 Bestemmelse af resulterende systemværdier Sammenlægning af S/N hhv.
+IMA foretages successivt efter følgende formler:
+Intermodulationsafstand IMAmin = - 20 lov (10exp-a + 10exp-b) hvor IMAI er resulterende værdi fra samtlige foranliggende forstærkerstationer  
+
+ i samme system (D1 eller D2).
+ IMAmin bliver IMAI for næste forstærkerstation.
+Signal/støj forhold S/Nmin = -10 log (10exp-c + 10exp-d) hvor S/NI er resulterende værdi fra samtlige foranliggende forstærkderstationer  
+
+ i samme system (D1 eller D2).
+ S/Nmin bliver S/NI for næste forstærkerstation.
+Fælles: For første forstærkerstation i et system (D1 eller D2) sættes IMAI  
+
+ og S/NI til uendelig.
+Alternativt til ovennævnte formler for sammenligning af  
+
+ IMA og S/N kan anvendes kurvebladene på de næste sider.
+D3 system Ureguleret forstærkerstation IMAmin = 66 + 2(v02 - (Vn2 + kvadratroden af (Tolexp2 + Aexp2))) - 15 log  
+
+ (N - 1) S/Nforst min = vn2 - kvadratroden af(Tolexp2 - Aexp2) - G2 - S2 - Us Intermodulationsafstand Kurve til bestemmelse af resulerende IMA ved addition af to kendte IMA  
+
+ værdier.
+Signal/støj-forhold Kurve til bestemmelse af resulterende signal/støj-forhold ved addition af  
+
+ to kendte signal/støj-forhold.
+BILAG V Oversigt over frekvensgrænserne for de i afsnit B benyttede  
+
+ båndbetegnelser I-V normerede TV-kanaler og andre TV-kanaler De normerede kanaler er kanal nr. 2 - 11 og 21 - 60.
+ De med X mærkede kanaler er frekvensmæssigt placeret i frekvensbånd for  
+
+ andre radiotjenester.
+ Om benyttelse i fællesantenneanlæg af kanalerne 12 og S-6 til S-20  
+
+ henvises til bilag I, afsnit I-1.3 og 1.5.
+BILAG VI Retningslinier for udvidelse og ombygning af anlæg VI-1 Anlæg godkendt efter 1. udgave afsnit B Ombyggede anlæg skal opfylde kravene i afsnit B, 2. udgave.
+ VI-2 Anlæg godkendt efter bestemmelserne gældende før afsnit B, 1. udgave  
+
+ For gamle anlæg, d.v.s. anlæg godkendt efter bestemmelserne gældende før 1.  
+
+ juni 1978, er installationsbestemmelserne i afsnit C, kabelbestemmelserne i  
+
+ afsnit A og D samt følgende gældende for de udførte udvidelser, ombygninger  
+
+ og moderniseringer:
+Udvidelse med TV- og/eller FM-programmer Bestemmelserne gældende før 1. juni 1978 kan følges.
+Geografiske udvidelser med passivt materiel Bestemmelserne gældende før 1. juni 1978 kan følges.
+Geografiske udvidelser med aktivt materiel De gældende bestemmelser (A, B, C og D) skal følges.
+Tilkobling til  
+
+ bestående anlæg skal følge bestemmelserne i afsnit C punkt 3.2.1.
+Ombygning og modernisering Bestemmelserne gældende før 1. juni 1978 kan følges.
+Materiel skal være  
+
+ godkendt i henhold til afsnit A.
+ Bortset fra hovednet (bredbåndsnet) kan ombygning ske med materiel af  
+
+ andet fabrikat.
+Anvendelse af TV-mellembåndskanaler Ved anvendelse af TV-mellembåndskanaler skal afsnit B, 2. udgave, bilag  
+
+ I-1.5 være overholdt.
+ Distributionsnet med bredbåndsforstærkere kan godkendes til overføring af  
+
+ mellembåndskanaler, hvis materiellet overholder udstrålingskravene for udstyr  
+
+ til H1, D1 og D2.
+ Mellembåndskanalerne skal omsættes til UHF-kanaler før  
+
+ abonnentfordelingsnettet.
+ I net, hvor fordelingen sker efter omsætning til UHF-kanaler, skal  
+
+ signalniveauet for TV-mellembåndskanalerne være mindre end 75 dB/micro V på  
+
+ udgangen af forstærkerne i forstærkerstationerne, og det skal ligge mindst 30  
+
+ dB under signalniveauet for de i fordelingsnettene distribuerede TV-kanaler.
+Anvendelse af nabokanaler, forstyrrelser For at undgå forstyrrelser skal der i nødvendigt omfang anvendes  
+
+ mellemfrekvensudstyr i hovedstationen Anvendelse af forstærkere i abonnentfordelingsnettet Der kan anvendes VHF/UHF bånd- eller bredbåndsforstærkere i det passive  
+
+ abonnentfordelingsnet for at gøre nettet UHF-dygtigt i et frekvensområde som  
+
+ minimum omfatter bånd IV.
+TV-signaler, der forstærkes, skal være  
+
+ AGC-reguleret i hovedstationen.
+ UHF-signalerne på tilslutningsdåsen skal under alle forhold opfylde de i  
+
+ afsnit B, 2. udgave, gældende systemværdier for signalspænding (min. 60  
+
+ dB/microV, max. 84 dB/microV), signal/støj forhold (43 dB) samt  
+
+ intermodulationsafstand (66 dB).

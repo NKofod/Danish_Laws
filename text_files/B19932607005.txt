@@ -1,0 +1,1051 @@
+GYLDIGHEDSOMRÅDE Disse tekniske bestemmelser specificerer de tekniske krav og de tilhørende  
+
+ prøvningsforskrifter, som et telefonapparat skal overholde for at kunne  
+
+ godkendes for tilslutning til det offentlige danske telefonnet.
+ Bestemmelserne gælder også for telefonifunktionen i kombineret  
+
+ terminaludstyr, f.eks. faksimileapparater med indbygget telefon.
+ Indeholder apparatet ekstra faciliteter, som ikke er beskrevet i  
+
+ nærværende bestemmelser, f.eks. nummersender, højttalende medhør, automatisk  
+
+ telefonsvarer m.v., skal apparatet for disse funktioners vedkommende opfylde  
+
+ bestemmelserne i Publikation 11/89, »Tekniske bestemmelser for  
+
+ tilslutning af stikkontaktbaseret terminaludstyr til det offentlige  
+
+ telefonnet«.
+ Hjemmelsgrundlaget for disse tekniske bestemmelser fremgår af  
+
+ Kommunikationsministerens bekendtgørelse nr. 882 af 29. november 1992,  
+
+ »Bekendtgørelse om teleterminaludstyr«*), § 4, stk. 3.
+IKRAFTTRÆDEN Disse tekniske bestemmelser er allerede gældende, idet de er en ny, let  
+
+ revideret udgave af de tekniske bestemmelser fastsat af generaldirektoratet  
+
+ for P&T i september 1989.
+TYPEGODKENDELSE Fremgangsmåden for opnålse af typegodkendelse fremgår af  
+
+ »Bekendtgørelse om teleterminaludstyr« §5, stk. 2.
+TEKNISKE KRAV De tekniske krav og de tilhørende prøvningsforskrifter, som udstyret skal  
+
+ opfylde, fremgår af Bilag 1 »Tekniske krav og prøvningsforskrifter for  
+
+ telefonapparater, Januar 1993«.
+ELEKTRISK SIKKERHED Telefonapparater, der er konstrueret i overensstemmelse med relevante  
+
+ tekniske standarder, jf. »Bekendtgørelse om teleterminaludstyr«, §  
+
+ 4, stk. 2, formodes at overholde de elektriske sikkerhedskrav.
+ De relevante standarder for elektrisk sikkerhed er:
+- EN 60950: »Safety of information technology equipment including  
+
+ electrically operated business equipment« og - EN 41003: »Particular safety requirements for equipment to be  
+
+ connected to telecommunication networks« For udstyr, der ikke er konstrueret i overensstemmelse med relevante  
+
+ tekniske standarder, forelægges dokumentation for overholdelse af  
+
+ sikkerhedskrav.
+ REKVIRERING AF LOVE, BEKENDTGØRELSER, STANDARDER M.V.
+ Love og Bekendtgørelser kan fås ved henvendelse til Telestyrelsen.
+ ETSI standarder kan købes hos Telestyrelsen.
+ CCITT/CCIR rekommandationer kan købes hos TELECOM A/S, Telegade 2, 2630  
+
+ Taastrup, Tlf.: 42 52 91 11.
+ ISO/CEN/CENELEC/IEC/DS standarder kan købes hos Dansk Standard,  
+
+ Baunegårdsvej 73, 2900 Hellerup, Tlf.: 39 77 01 01.
+CEPT rekommandationer kan købes hos Office de liaison CEPT, Case postale, CH-3001 Berne, Schweiz, Telefax: 009  
+
+ 41 31 62 20 78.
+Bilag 1 til Tekniske bestemmelser for telefonapparater Tekniske krav og prøvningsforskrifter for telefonapparater Januar 1993 Udgivet af:
+Telestyrelsen Danmark Indhold 1 Forhold vedrørende prøvningen 1.1 Generelt I det følgnde er de tekniske bestemmelser (krav) trykt med fed skrift  
+
+  , medens måleforskrifter m.v. er trykt med normal skrift.
+De i figurerne angivne principper for målingerne er vejledende.
+Andre  
+
+ måleprincipper kan anvendes for så vidt kravene kan verificeres.
+De angivne  
+
+ diskrete værdier for uafhængige variable (fx. strøm og frekvens) er  
+
+ minimumskrav til antal målepunkter.
+1.2. Konditionering Inden målingerne påbegyndes skal telefonapparatet, hvis intet andet er  
+
+ angivet, konditioneres under normale driftsbetingelser på en af følgende 3  
+
+ måder - pålagt i 30 minutter, - afløftet i 1 minut, eller - tilringet i 2 sekunder En sådan konditionering skal om nødvendigt foretages, hvis apparatet har  
+
+ været frakoblet jævnstrømsfødningen i mere end 15 minutter.
+ Telefonapparatet skal før målinger, som vedrører statiske forhold i  
+
+ afløftet eller pålagt tilstand, være bragt i den pågældende tilstand i så god  
+
+ tid før målingen, at tilstanden er stabil.
+Producentens/leverandørens vejledning i konditionering følges.
+Hvis intet  
+
+ er angivet, benyttes en tid på 1 minut mellem hver tilstand/måling.
+Hvis telefonapparatet leveres med snor og stik, skal alle målinger  
+
+ foretages på stikproppen.
+Hvis telefonapparatet er uden fast snor, skal alle  
+
+ målinger foretages på en af producenten monteret udvendig forbindelse  
+
+ tilsluttet telefonapparatets linieklemmer.
+1.3. Funktionsprøve En funktionsprøve benyttes som en simpel kontrol af telefonapparatet inden  
+
+ den egentlige prøvning og som kontrol før, under og efter belastnings- og  
+
+ miljøprøver.
+ En funktionsprøve omfatter et afgående og et ankommende kald mod hhv. fra  
+
+ en offentlig central med apparatet tilsluttet en almindelig analog  
+
+ abonnentinstallation.
+ Et afgående opkald omfatter afløftning, nummervalg, samtale og pålægning.  
+
+ Et ankommende kald omfatter tilringning, afløftning, samtale og pålægning.  
+
+ Prøverne gennemføres dog kun for så vidt de pågældende funktioner findes i  
+
+ apparatet.
+1.4 Jævnstrømsfødning Jævnstrømsfødning med samtidig påtrykning af vekselspænding kan foregå på  
+
+ flere måder, fx. ved hjælp af de i fig.
+M. 1 viste opstillinger.
+I de viste  
+
+ måleopstillinger er den mumeriske værdi af jævnstrømsforsyningens impedans  
+
+ principielt 0 ohm.
+Fig.
+M.1 1.5 Maksimal sløjfestrøm Den maksimale sløjfestrøm Imax bestemmes for det aktuelle apparat som  
+
+ sløjfestrømmen, når telefonapparatet fødes med 56 V gennem 500 ohm.
+1.6 Måleusikkerhed Det forudsættes, at målingerne sker med den nødvendige nøjagtighed.
+I  
+
+ tilfælde af tvivl om kravenes opfyldelse er det pålagt den prøvende instans  
+
+ at gøre rede for målingens nøjagtighed.
+1.7 Anvendte symboler Jævnspændingskilde Jævnspændingskilde, regulerbar Lavfrekvensgenerator Jævnspændingsmåler Jævnstrømsmåler Vekselspændingsmåler Vekselstrømsmåler Vekselspændingsmåler, selektiv Frekvensmåler, evt. selektiv Oscilloskop Telefonapparat i sløjfe- eller rotilstand Telefonapparat i sløjfe- eller rotilstand på/over jordplan Telefonapparat i sløjfetilstand md akustisk kobling til telefon og/eller mikrofon Polvender Kunstig mund med lavfrekvensgenerator Kunstigt øre med lydtrykmåler Målemikrofon med lydtrykmåler 2 ELEKTRISKE OG AKUSTISKE EGENSKABER 2.1 Jævnstrømsforhold 2.1.1 Strømforsyning Ved anvendelse af et telefonapparat i en abonnentinstallation i det  
+
+ offentlige danske telefonnet skal det under driftsbetingelserne i  
+
+ abonnentlinienettet, opfylde nærværende krav til elektriske og akustiske  
+
+ egenskaber og uden anden strømforsyning sikre korrekt taletransmission samt  
+
+ korrekt funktion af ringemodtagning, direkte nummervalg og tilbagekald  
+
+ (register recall), for så vidt sidstnævnte funktioner forefindes i  
+
+ telefonapparatet .
+ Kravene kontrolleres opfyldt ved gennemgang af dokumentation og  
+
+ måleresultater.
+2.1.2 Polaritetsuafhængighedd Et telefonapparats funktion skal være uafhængig af polariteten af  
+
+ jævnspændingen på linieklemmerne .
+Kontrol af polaritetsuafhængighed (krav opfyldt for begge polariteter)  
+
+ gennemføres under punkterne - 2.1.3 Isolation mod jord - 2.1.5 Sløjfemodstand - 2.6.3.1 Maksimal sendespænding.
+2.1.3 Isolation mod jord I såvel rotilstand som sløjfetilstand skal isolationsmodstanden mellem  
+
+ linieklemmerne og jord være mindst 100 Mohm ved jævnspændinger op til 250  
+
+ V .
+Princip for målingen er vist i fig.
+M2.1.3 Fig.
+M.2.1.3 Isolationsmodstanden måles med telefonapparatet anbragt i normal stilling  
+
+ (stående eller hængende) på en metalplade, som er mindst 5 cm større end  
+
+ apparatet på alle sider.
+Der måles i forhold til metalpladen forbundet sammen  
+
+ med evt. tilgængelige elektrisk ledende dele på telefonapparatet og evt. 3.  
+
+ leder.
+Der måles med begge polariteter af jævnspændingen.
+2.1.4 Isolation mellem linieklemmerne 2.1.4.1 I rotilstand skal et telefonapparat ved jævnspændinger fra 45  
+
+ V til 250 V mellem linieklemmerne have en isolationsmodstand på mindst 1  
+
+ Mohm, når en eventuel overspændingsbeskyttelse mellem linieklemmerne ikke er  
+
+ i funktion .
+Princip for målingen er vist i fig.
+M.2.1.4.1.
+Fig.
+M.2.1.4.1 Isolationsmodstanden måles med U = 45 V og 250 V.
+ 2.1.4.2 En overspændingsbeskyttelse mellem linieklemmerne må træde i  
+
+ funktion, dvs. isolationsmodstanden bliver mindre end 1 Mohm, når den  
+
+ påtrykkes en elektromotorisk kraft større end 250 V .
+ 2.1.4.3  Overspændingsbeskyttelsen skal efter at have været aktiveret  
+
+ gå ud af funktion, dvs. isolationsmodstanden blive større end 1 Mohm, hvis  
+
+ den påtrykte elektromotoriske kraft bliver mindre end 60 V og strømmen mindre  
+
+ end 250 mA .
+Princip for måling til kontrol af kravene i 2.1.4.2 og 2.1.4.3 er vist i  
+
+ fig.
+M.2.1.4.2.
+Fig.
+M.2.1.4.2 E forøges (dog højst til 500 V) indtil U/I < 1 Mohm, hvor U =  
+
+ tændspændingen.
+Herefter afbrydes E inden 0,5 s og det kontrolleres, at U/I  
+
+ > 1 Mohm.
+ 2.1.4.4 Ved jævnspændinger op til 45 V må en afledning mellem  
+
+ linieklemmerne af et telefonapparat i rotilstand medføre strømme op til den i  
+
+ fig. 2.1.4 angivne øvre grænse .
+Princip for målingen er vist i fig.
+M.2.1.4.1.
+ Afledningen måles med U = 2 V og 15 V.
+2.1.5 Sløjfemodstand I sløjfemodstand skal jævnstrømssløjfen mellem linieklemmerne have en  
+
+ strøm-spændingskarakteristik, som er stadig stigende inden for de i fig.  
+
+ 2.1.5 viste grænser .
+Princip for målingen er vist i fig.
+M.2.1.5.
+ Fig. 2.1.4: Grænse for maksimal strøm mellem linieklemmerne af et  
+
+ telefonapparat i rotilstand.
+Fig.
+M.2.1.5 Sløjfemodstanden måles med I = 8, 16, 20, 24 og 50 mA samt ved Imax (UB =  
+
+ 56 V) med begge polariteter af jævnspændingen ved disse strømme.
+2.1.6 Afløftning 2.1.6.1 Ved afløftning, dvs. ved overgang fra rotilstand til  
+
+ sløjfetilstand i et telefonapparat, skal jævnstrømssløjfe mellem  
+
+ linieklemmerne etableres på en sådan måde, at prel og lignende fænomener ikke  
+
+ varer længere end 5 ms .
+Princip for målingen er vist i fig.
+M.2.1.6.
+Fig.
+M.2.1.6 Strømmens kurveform i forbindelse med afløftning af telefonapparatet  
+
+ dokumenteres med oscilloskopbilleder e.l.
+ Preltiden måles fra det tidspunkt, hvor strømmen ved overgangen fra  
+
+ rotilstand til sløjfetilstand første gang passerer 45 microA i opadgående  
+
+ retning til det tidspunkt, hvor strømmen til stadighed er større end 45  
+
+ microA.
+ Fig. 2.1.5: Grænser for strøm-spændingskarakteristik af jævnstrømssløjfe i  
+
+ et telefonapparat.
+ 2.1.6.2 Senest 100 ms efter, at prel og lignende fænomener ved  
+
+ afløftning er ophørt, skal jævnstrømmen mellem linieklemmerne vedvarende  
+
+ enten afvige mindre end 10% fra sin stationære værdi i sløjfetilstand, jf.  
+
+ pkt. 2.1.5, eller være større end 24 mA og i øvrigt være inden for grænserne  
+
+ af strøm-spændingskarakteristikken, jf. fig. 2.1.5 .
+Princip for målingen er vist i fig.
+M.2.1.6 og forklaret under pkt.  
+
+ 2.1.6.1.
+2.1.7 Pålægning 2.1.7.1 Ved pålægning, dvs. overgang fra sløjfetilstand til rotilstand  
+
+ i et telefonapparat, skal afbrydelse af jævnstrømssløjfe mellem  
+
+ linieklemmerne etableres på en sådan måde, at prel og lignende fænomener ikke  
+
+ varer længere end 5 ms .
+Princip for målingen er vist i fig.
+M.2.1.6.
+ Strømmens kurveform i forbindelse med pålægning af telefonapparatet  
+
+ dokumenteres med oscilloskopbilleder e.l.
+ Preltiden måles fra det tidspunkt, hvor strømmen ved overgangen fra  
+
+ sløjfetilstand til rotilstand passerer 90 % af den stationære værdi i  
+
+ sløjfetilstand i nedadgående retning til det tidspunkt, hvor strømmen for  
+
+ sidste gang passerer 45 microA i opadgående retning.
+2.1.7.2 Senest 100 ms efter, at prel og lignende fænomener ved  
+
+ pålægning er ophørt, skal jævnstrømmen mellem linieklemmerne vedvarende være  
+
+ mindre end 100 microA og 1 s senere vedvarende være mindre end grænseværdien  
+
+ angivet i fig. 2.1.4 Princip for målingen er vist i fig.
+M.2.1.6 og forklaret under pkt.  
+
+ 2.1.7.1 2.1.8 Elektrisk belastning Et telefonapparat skal i sløjfetilstand uden at foranledige sekundære  
+
+ skader vedvarende kunne tåle den effekt, som det tilføres, når linieklemmerne  
+
+ er påtrykt en jævnspænding på 56 V gennem en modstand på 220 ohm .
+Princip for målingen er vist i fig.
+M.2.1.8.
+Fig.
+M.2.1.8 Spændingen påtrykkes i 1/2 time, og der kontrolleres under eksponering for  
+
+ farlig varmeafgivelse.
+2.2 Vekselstrømsforhold 2.2.1 Impedans mod jord I såvel rotilstand som sløjfetilstand skal et telefonapparat ved  
+
+ vekselspændinger op til 120 V i frekvensområdet op til 55 Hz have en impedans  
+
+ med en nummerisk værdi på minst 1 Mohm mellem linieklemmerne og jord .
+Princip for målingen er vist i fig.
+M.2.2.1 Fig.
+M.2.2.1 Impedansen måles med telefonapparatet anbragt i normal stilling (stående  
+
+ eller hængende) på en metalplade som er mindst 5 cm større end apparatet på  
+
+ alle sider.
+Der måles i forhold til metalpladen forbundet sammen med evt.  
+
+ tilgængelige elektrisk ledende dele på telefonapparatet og evt. 3. leder, ved  
+
+ U = 120 V og f = 50 Hz.
+2.2.2 Impedansbalance mod jord I såvel rotilstand som i sløjfetilstand ved sløjfestrømme større end  
+
+ eller lig 8 mA skal et telefonapparat mellem linieklemmerne have en  
+
+ jordbalancedæmpning, som ved frekvensen f er mindst:
+50 dB for 40 Hz <= f < 600 Hz og 55 dB for 600 Hz <= f <= 3400 Hz, og som ved frekvenser større end 3400 Hz højst falder med 6 dB/oktav.
+ Målespændingen skal være:
+Princip for måling af jordbalancedæmpning er vist i fig.
+M.2.2.2.1 Fig.
+M.2.2.2.1 Jordbalancedæmpningen er her bestemt af 20 log10 (E/U) dB.
+U måles med  
+
+ omkoblern i begge stillinger.
+Jordbalancedæmpningen måles med telefonapparatet anbragt i normal stilling  
+
+ (stående eller hængende) på et 10 cm tykt isolerende underlag placeret på en  
+
+ metalplade, som er mindst 5 cm større end apparatet på alle sider.
+Evt. 3.  
+
+ leder forbindes til metalpladen.
+Der måles i forhold til metalpladen  
+
+ forbundet med en kunstig hånd lagt om mikrotelefonen og en kunstig hånd lagt  
+
+ over mest muligt af tastaturet.
+Udformningen af den kunstige hånd er vist i  
+
+ fig.
+M.2.2.2.2.
+Fig.
+M.2.2.2.2 Jordbalancedæmpningen måles ved følgende frekvenser og målespændinger:
+2.2.3 Indgangsimpedans i rotilstand 2.2.3.1 I rotilstand skal et telefonapparat mellem linieklemmerne have  
+
+ en strøm-spændingskarakteristik, som ved 25 Hz ikke må overskride grænsen A i  
+
+ fig. 2.2.3, jf. dog pkt. 2.2.3.2 .
+Princip for målingen er vist i fig.
+M.2.2.3.1.
+Fig.
+M.2.2.3.1 Fig. 2.2.3: Grænser for strøm-spændingskarakteristik ved 25 Hz  
+
+ vekselspænding mellem linieklemmerne af et telefonapparat i rotilstand.
+ Strøm-spændingskarakteristikken måles med f = 25 Hz og U = 45 V og 120 V  
+
+ med et effektivt målende voltmeter og amperemeter.
+ 2.2.3.2 For et telefonapparat, hvor et ringesignal direkte kan  
+
+ omsættes til et akustisk signal, jf. pkt. 2.3.2, kræves dog kun, at  
+
+ ovennævnte strøm-spændingskarakteristik ikke overskrider grænsen B i fig.  
+
+ 2.2.3, jf. dog pkt. 2.2.3.3 .
+Princip for målingen er vist i fig.
+M.2.2.3.1.
+ Strøm-spændingskarakteristikken måles med f = 25 Hz og U = 45 V og 120 V  
+
+ med effektivt målende voltmeter og amperemeter.
+ 2.2.3.3 Dersom et telefonapparats strøm-spændingskarakteristik i  
+
+ overensstemmelse med pkt. 2.2.3.2 overskrider grænsen A, skal det i  
+
+ rotilstand mellem linieklemmerne have en impedans, hvis reelle komposant er  
+
+ mindst 4 kohm ved en 50 Hz vekselspænding på 45 V .
+Princip for målingen er vist i fig.
+M.2.2.3.3.
+Fig.
+M.2.2.3.3 Indgangsinpedansens reelle komposant bestemmes af rz = 5((IEexp2 - IRexp2 - IZexp2 )/IZexp2) kohm 2.2.3.4 I rotilstand skal et telefonapparat mellem linieklemmerne have  
+
+ en impedans med en numerisk værdi, som ved vekselspændinger op til 1,5 V er  
+
+ mindst 30 kohm i frekvensområdet fra 55 Hz til 4000 Hz og ved højere  
+
+ frekvenser højst aftager med 6 dB/oktav .
+Princip for målingen er vist i fig.
+M.2.2.3.1.
+ Impedansen måles med f = 55 Hz og 300 Hz samt 1, 4, 16 og 64 kHz ved U =  
+
+ 1,5 V.
+2.2.4 Indgangsimnpedans i sløjfetilstand I sløjfetilstand ved sløjfestrømme større end eller lig 8 mA skal et  
+
+ telefonapparat mellem linieklemmerne have en impedans, som i frekvensområdet  
+
+ fra 0,5 kHz til 3,4 kHz over for et referencenetværk - som vist i fig. 2.2.4a  
+
+ - har en tilpasningsdæmpning, der ligger over den i fig. 2.2.4b viste grænse.  
+
+ Ved sløjfestrømme under 16 mA skal kravet være opfyldt for vekselspændinger  
+
+ op til 0,775 V og ved sløjfestrømme på 16 mA eller derover for  
+
+ vekselspændinger op til 1,5 V.
+Fig. 2.2.4a Fig. 2.2.4b Princip for målingen er vist i fig.
+M.2.2.4 Fig.
+M.2.2.4 Tilpasningsdæmpningen bestemmes af 20 log 10(U1/U2) dB.
+ Der måles ved sløjfestrømme på 8 mA med E = 0,775 V og ved sløjfestrømme  
+
+ på 16 og 32 mA med E = 1,5 V ved frekvenserne f = 0,5, 1,0, 2,5 og 3,4 kHz.
+ Under målingen skal den akustiske tilbagekobling mellem mikrofon og  
+
+ telefon være afbrudt eller passende dæmpet.
+Indgangsinpedansen Zi's tilpasningsdæmpning over for referenceværkets  
+
+ impedans, Zref, er 201og10 (Zi + Zref/Zi - Zref) dB hvor begge impedanser er komplekse værdier.
+2.2.5 Elektrisk belastning Et telefonapparat skal uden at foranledige sekundære skader kunne tåle  
+
+ den energi, som det tilføres, når der i 1300 ms efter etablering af  
+
+ sløjfetilstand påtrykkes linieklemmerne en jævnspænding på 56 V overlejret  
+
+ med en 50 Hz vekselspænding på 130 V gennem en modstand på 150 ohm .
+Princip for opstillingen er vist i fig.
+M.2.2.5.
+Princip for målingen er vist i fig.
+M.2.2.3.1.
+ Impedansen måles med f = 55 Hz og 300 Hz samt 1, 4, 16 og 64 kHz ved U =  
+
+ 1,5 V.
+2. 2. Indgangsimpedans i sløjfetilstand I sløjfetilstand ved sløjfestrømme større end eller lig 8 mA skal et  
+
+ telefonapparat mellem linieklemmerne have en impedans, som i frekvensområdet  
+
+ fra 0,5 kHz til 3,4 kHz over for et referencenetværk - som vist i fig. 2.2.4a  
+
+ - har en tilpasningsdæmpning, der ligger over den i fig. 2.2.4b viste grænse.  
+
+ Ved sløjfestrømme under 16 mA skal kravet være opfyldt for vekselspændinger  
+
+ op til 0,775 V og ved sløjfestrømme på 16 mA eller derover for  
+
+ vekselspændinger op til 1,5 V .
+Princip for målingen er vist i fig.
+M.2.2.4 Tilpasningsdæmpningen bestemmes af 201og10(U1/U2) dB.
+ Der måles ved sløjfestrømme på 8 mA med E = 0,775 V og ved sløjfestrømme  
+
+ på 16 og 32 mA med E = 1,5 V ved frekvenserne f = 0,5, 1,0, 2,5 og 3,4 kHz.
+ Under målingen skal den akustiske tilbagekobling mellem mikrofon og  
+
+ telefon være afbrudt eller passende dæmpet.
+Indgangsimpedansen Zi's tilpasningsdæmpning over for referencenetværkets  
+
+ impedans, Zref, er 201og10(Zi + Zref/Zi - Zref)dB hvor begge impedanser er komplekse værdier.
+2-2-5 Elektrisk belastning Et telefonapparat skal uden at foranledige sekundære skader kunne tåle  
+
+ den energi, som det tilføres, når der i 1300 ms efter etablering af  
+
+ sløjfetilstand påtrykkes linieklemmerne en jævnspænding på 56 V overlejret  
+
+ med en 50 Hz vekselspænding på 130 V gennem en modstand på 150 ohm .
+Princip for opstillingen er vist i fig.
+M.2.2.5.
+ Kontakten sluttes i 1300 ms, og der kontrolleres under og efter  
+
+ eksponering for farlig varmeafgivelse.
+2.2.6 Gennemslagsspænding Mellem linieklemmerne og alle umiddelbart tilgængelige dele af et  
+
+ telefonapparat skal gennemslagsspændingen ved 50 Hz være mindst 2000 V .
+Prøvespændingen påtrykkes i mindst 1 minut mellem de kortsluttede  
+
+ linieklemmer og tilgængelige steder på apparatet såvel i rotilstand som i  
+
+ sløjfetilstand uden fødespænding.
+Der benyttes en prøvefinger som vist i fig.  
+
+ M.2.2.6.
+Fig.
+M.2.2.6 2.3 Ringemodtagning 2.3.1 Modtagefølsomhed 2.3.1.1 En ringemodtager i et telefonapparat skal aktiveres, når der i  
+
+ rotilstand i mindst 180 ms påtrykkes linieklemmerne en vilkårlig  
+
+ vekselspænding mellem 40 V og 120 V med en vilkårlig frekvens i  
+
+ frekvensområderne fra 22,5 Hz til 27,5 Hz og fra 47,5 Hz til 52,5 Hz .
+Princip for målingen er vist i fig.
+M.2.3.1 Fig.
+M.2.3.1 Modtagefølsomheden prøves med U, f og t indstillet efter følgende skema 2.3.1.2 En ringemodtager i et telefonapparat må ikke aktiveres, når  
+
+ linieklemmerne påtrykkes en vilkårlig vekselspænding op til 17 V med en  
+
+ vilkårlig frekvens i frekvensområdet op til 55 Hz.
+Princip for målingen er vist i fig.
+M.2.3.1 Modtagefølsomheden prøves med U = 17 V, f = 50 Hz og t = 10 s.
+2.3.2 Akustisk signal 2.3.2.2 En ringemodtager i et telefonapparat kan være og er normalt  
+
+ indrettet til udsendelse af et akustisk signal, når den aktiveres som følge  
+
+ af en tilringning.
+ 2.3.2.2 Et telefonapparats telefon må ikke anvendes som lydgiver for  
+
+ det akustiske signal.
+ Hvis telefonapparatet er indrettet for udsendelse af akustisk signal,  
+
+ kontrolleres ved praktisk prøve eller analyse af strømskema, at telefonen  
+
+ (hørekapselen) ikke bruges som lydgiver.
+ 2.3.2.3 Et akustisk signal må ikke medføre et lydtryk større end 110  
+
+ dB(A) i 1 meters afstand fra lydgiveren.
+Opstillingen vist i fig.
+M.2.3.1 benyttes til påtrykning af ringesignal  
+
+ med U = 120 V og f = 50 Hz.
+Telefonapparatet anbringes på en bordplade med areal større end eller lig  
+
+ 1 kvadratmeter og med mindste dimension 1 m, således at alarmgiveren befinder  
+
+ sig midt på bordet.
+En frifeltsmikrofon ophænges således, at afstanden mellem  
+
+ mikrofonen og lydgiveren er 1 m, med mikrofonen pegende imod lydgiveren, og  
+
+ således at en ret linie mellem mikrofon og lydgiver danner en vinkel på 45  
+
+ grader med bordpladen.
+2.4 Direkte nummervalg 2.4.1 Signaleringsprincip Direkte nummervalg skal, hvis nummervalg fra apparatet er muligt,  
+
+ kunne foretages som MFT (Multi Frekvens Tastatur) signalering ved sending af  
+
+ kodesignaler i et flerfrekvenssystem.
+Kravene ved MFT signaleringen kræves  
+
+ opfyldt i sløjfetilstand ved sløjfestrømme på 16 mA eller derover.
+ Kontrol foretages ved funktionsprøve og gennemgang af apparatbeskrivelse.
+2.4.2 Signalfrekvenser og -program 2.4.2.1 Ved MFT signalering sendes for hvert ciffer eller symbol et  
+
+ kodesignal i form af en vekselspændingsimpuls, som indeholder en frekvens  
+
+ under og en frekvens over 1000 Hz.
+Sammenhængen mellem  
+
+ frekvenskombinationerne i kodesignalerne og cifferværdi eller symbol fremgår  
+
+ af følgende tabel:
+Princip for målingen er vist i fig.
+M.2.4.2.
+Fig.
+M.2.4.2 2.4.2.2 I et kodesignal må frekvenserne højst afvige 1,5% fra de  
+
+ nominelle værdier, som er anført i tabellen.
+Ved hjælp af opstillingen vist i fig.
+M.2.4.2 kontrolleres frekvenserne  
+
+ for hver totonekombination, der kan udsendes.
+ Frekvenserne måles med sløjfestrømme på 16 mA og Imax.
+ 2.4.2.3 Kodesignalerne svarende til cifrene 0 til 9 samt til  
+
+ symbolerne * og = skal kunne sendes fra et telefonapparat, som er indrettet  
+
+ til MFT signalering.
+ Kravet kontrolleres opfyldt v.h.a. målingerne foretaget under pkt.  
+
+ 2.4.2.1.
+2.4.3 Signalniveauer 2.4.3.1 Ved MFT signalering skal de to frekvenser i et koesignal hver  
+
+ for sig sendes med et niveau, som med 600 ohm mellem linieklemmerne skal  
+
+ være:
+Princip for målingen er vist i fig.
+M.2.4.2.
+Signalniveauerne måles med sløjfestrømme på 16 mA og Imax.
+Kravet  
+
+ kontrolleres for hver totonekombination.
+ 2.4.3.2 For hvert kodesignal skal niveauet ved den højeste frekvens  
+
+ endvidere altid være 2 dB +/- 1 dB større end niveauet ved den laveste  
+
+ frekvens.
+Princip for måleopstillingen er vist i fig.
+M.2.4.2.
+Signalniveauerne måles med sløjfestrømme på 16 mA og Imax.
+Kravet  
+
+ kontrolleres for hver totonekombination.
+2.4.4 Uønskede frekvenskomponenter De følgende målinger kan kun gennemføres på simpel måde, hvis kontinuerlig  
+
+ sending af totonesignalerne er mulig.
+Det forudsættes, at dette kan ske,  
+
+ enten ved udvendig betjening af apparatet eller ved et anvist indgreb i  
+
+ apparatets funktion.
+Iøvrigt vil denne metode også lette målingerne ifølge  
+
+ pkt. 2.4.2 og 2.4.3.
+ 2.4.4.1 Under udsendelse af et MFT kodesignal skal den samlede  
+
+ udgangseffekt af alle uønskede frekvenskomponenter være mindst 20 dB mindre  
+
+ end udgangseffekten ved den laveste frekvens i kodesignalet.
+ Dette krav kontrolleres opfyldt ved målign i.h.t. pkt. 2.4.4.3 og  
+
+ effektaddition af de frekvenskomponenter, hvis niveau overstiger -37 dBm.
+ 2.4.4.2 Når der under MFT signalering ikke udsendes kodesignaler, må  
+
+ den samlede udgangseffekt ikke overstige -50 dBm målt i frekvensområdet fra  
+
+ 500 Hz til 20 kHz.
+Kravet kontrolleres v.h.a. opstillingen i fig.
+M.2.4.2, og målingen  
+
+ dokumenteres med oscilloskopbilleder e.l.
+Kodesignalerne måles med  
+
+ sløjfestrømme på 16 mA og Imax inden for tidsrummet fra 7 ms efter toneophør  
+
+ indtil 50 ms efter toneophør.
+ 2.4.4.3 Under MFT signalering (både under udsendelse af kodesignaler  
+
+ og i pauserne mellem disse) må udgangseffekten ved enhver uønsket frekvens,  
+
+ f, ikke overstige følgende værdier:
+Princip for målingen er vist i fig.
+M.2.4.2 Målingen foretages, medens ciffer 1 hhv. 9 udsendes kontinuerligt ved  
+
+ sløjfestrømme på 16 mA og Imax.
+2.4.5 Signaleringshastighed MFT signalering fra et telefonapparat skal foretages på en af følgende  
+
+ tre måder:
+2.4.5.1  1. Ved direkte styring af MFT signalering fra et  
+
+ telefonapparat skal sendingen af kodesignalerne nøje følge betjeningen af  
+
+ tastaturet.
+Sendingen af de to frekvenser skal påbegyndes samtidigt, og  
+
+ senest 7 ms efter, at en tast er nedtrykket og derved har forårsaget  
+
+ kontantdannelse, skal niveauer og frekvenser opfylde kravene i pkt. 2.4.2 og  
+
+ pkt. 2.4.3. Princip for målingen er vist i fig.
+M.2.4.2 Tasterne for ciffer 1 hhv. 9 nedtrykkes.
+Kodesignalerne måles med  
+
+ oscilloskop ved sløjfestrømme på 16 mA og Imax og målingen dokumenteres med  
+
+ oscilloskopbilleder e.l.
+2.4.5.2  2. Ved indirekte styring af MFT signalering fra et  
+
+ telefonapparat følger sendingen ikke umiddelbart betjeningen af tastaturet,  
+
+ men tastningen lagres i en bufferhukommelse, så der f.eks. kan foretages  
+
+ prelundertrykkelse inden sending af kodesignalerne.
+Sendingen af de to  
+
+ frekvenser i et kodesignal skal påbegyndes samtidigt og følgende tidskrav  
+
+ skal være overholdt:
+ Endvidere skal pausetid + 10 ms >= signaltid.
+ Tiden, fra et signal påbegyndes, til sendeniveauet er inden for den  
+
+ specificerede værdi, benævnes stigetiden. tiden, fra et signal ophører, til  
+
+ pauseniveauet er inden for den specificerede værdi, benævnes faldetiden.
+Fig. 2.4.5 Princip for målingen er vist i fig.
+M.2.4.2.
+ Kravet kontrolleres ved sending af forskellige cifre efter hinanden.  
+
+ Tiderne måles med oscilloskop med sløjfestrømme på 16 mA og Imax og målingen  
+
+ dokumenteres med oscilloskopbilleder e.l.
+2.4.5.3  3. Ved kombination af direkte og indirekte styring  
+
+ af MFT signalering fra et telefonapparat kræves, - at sendingen af kodesignalerne følger tastningen, når denne er  
+
+ langsommere end angivet ved tidskravene til indirekte styring, og - at sendingen af kodesignalerne følger tidskravene til indirekte styring,  
+
+ når tastningen er hurtigere end angivet ved disse tidskrav.
+Princip for målingen er vist i fig.
+M. 2.4.2.
+Kravet kontrolleres ved sending af forskellige cifre efter hinanden.
+Der  
+
+ måles med oscilloskop med en sløjfestrøm på 32 mA og målingen dokumenteres  
+
+ med oscilloskopbilleder e.l.
+2.4.6 Dæmpning af transmission 2.4.6.1 Hvis et telefonapparats elektro-akustiske transducere under  
+
+ MFT signalering påtrykkes et akustisk signal, skal den heraf følgende  
+
+ elektriske effekt i 600 ohm over linieklemmerne være mindst 50 dB mindre end  
+
+ den elektriske effekt, som samme akustiske signal på mikrofonen vil medføre,  
+
+ når der ikke foretages MFT signalering.
+Princip for målingen er vist i fig.
+M.2.4.6.1 Fig.
+M.2.4.6.1 Lydtrykket i 25 mm's afstand fra den kunstige mund justeres til -4,7 dB  
+
+ rel. 1 Pa ved 1 kHz.
+Den kunstige mund anbringes successivt med læberingen  
+
+ mod de elektroakustiske transducere.
+Uf måles vd sløjfestrømme på 16 mA og Imax såvel uden som med  
+
+ MFT-signalering ved en enkelt totonekombination.
+Dæmpningen bestemmes ud fra  
+
+ 201og10 til forholdet mellem de to spændinger ved hver af de to strømme.
+ 2.4.6.2 Under MFT-signalering fra et telefonapparat må kodesignalerne  
+
+ højst medføre et lydtryk fra telefonen på 110 dB SPL.
+Princip for målingen er vist i fig.
+M.2.4.6.2 Fig.
+M.2.4.6.2 Lydtrykket måles ved Imax.
+2.5 Tilbagekald 2.5.1 Tilbagekald (register recall) fra et telefonapparat skal  
+
+ foretages i sløjfetilstand ved tryk på en speciel taste (R-tasten), så  
+
+ telefonapparatets jævnstrømssløjfe kortvarigt afbrydes, som specificeret  
+
+ herunde, når apparatet påtrykkes en jævnspænding på 44 V til 56 V gennem  
+
+ 2.250 ohm til 2.1200 ohm.
+ 2-5-2 Et tryk på R-tasten i 50 ms eller længere tid skal medføre en  
+
+ afbrydelse af telefonapparatets jævnstrømssløjfe af en varighed på 90 ms +/-  
+
+ 40 ms.
+Princip for målingen er vist i fig.
+M.2.1.6. Afbrydelsen måles ved tryk på  
+
+ R-tasten i mindst 500 ms.
+Målingen dokumenteres med oscilloskopbilleder e.l.
+ 2.5.3 Under afbrydelsen af jævnstrømssløjfen skal jævnstrømsmodstanden  
+
+ mellem telefonapparatets linieklemmer være mindst 100 kohm ved jævnspændinger  
+
+ op til 150 V.
+Princip for målingen er vist i fig.
+M.2.5.3.
+Fig.
+M.2.5.3 Målingen dokumenteres med oscilloskopbilleder e.l.
+ 2.5.4 Ved tryk på R-tasten skal kontaktfunktionerne mod linieklemmerne  
+
+ virke, så prel og lignende fænomener ikke varer længere end 5 ms.
+Princip for målingen er vist i fig.
+M.2.1.6. Målingen dokumenteres med  
+
+ oscilloskopbilleder e.l.
+2.6 Sending De i det følgende omtalte loudness ratings hviler principielt på CCITT's  
+
+ anbefalinger i Red Book, Vol V, Geneva 1985, hvor især følgende anbefalinger  
+
+ bør bemærkes 2.6.1 SLR (sending loudness rating) 2.6.1.1 Et telefonapparats SLR beregnes efter forskrifterne i  
+
+ Recommendation P.79, CCITT Red Book, Volume V, Geneva 1985. Beregningen af  
+
+ SLR skal udføres over reduceret båndbredde, bånd 6 (315 Hz) til bånd 16 (3150  
+
+ Hz) inklusive.
+ 2.6.1.2 Et telefonapparat skal i sløjfetilstand ved sløjfestrømme  
+
+ større end eller lig 16 mA have en SLR mellem 5 dB og -1 dB.
+ 2.6.1.3 Endvidere må et telefonapparats SLR ikke overstige 9 dB ved  
+
+ sløjfestrømme ned til 8 mA.
+Princip for målingen er vist i fig.
+M.2.6.1.a og M.2.6.1.b.
+Fig.
+M.2.6.1.a Fig.
+M.2.6.1.b Til beregning af SLR måles telefonapparatets sendeevne ved frekvenser fra  
+
+ 315 Hz til 3150 Hz i spring på 1/3 oktav.
+Med måleopstillingen fig. 2.6.1.a  
+
+ indreguleres lydtrykket, Pm = -4,7 dB rel. 1 Pa, og md måleopstillingen fig.  
+
+ M.2.6.1.b bestemmes sendeevnen SMJ = 201og10 (Vj/Pm) dB rel. 1 V/Pa ved hver  
+
+ frekvens.
+SLR beregnes herefter af:
+ og følgende tabel over værdier for WS:
+--------------------------------------------------------------------- f/Hz 315 400 500 630 800 1000 1250 1600 2000 2500 3150 --------------------------------------------------------------------- WS/dB 62,3 45,0 53,4 48,8 47,9 50,4 59,4 57,0 72,5 72,9 89,5 --------------------------------------------------------------------- SLR bestemmes ved sløjfestrømme på 8, 16 og 32 mA samt Imax.
+2.6.2 Frekvensafhængighed Et telefonapparats frekvenskarakteristik for sending skal - under  
+
+ målebetingelser som ved måling af SLR - ligge inden for de i fig. 2.6.2  
+
+ angivne relative grænser ved sløjfestrømme større end eller lig 16 mA.
+ 2.6.2. Relative grænser for frekvenskarakteristik for sending fra et  
+
+ telefonapparat.
+Princip for måleopstillingen er vist i fig.
+M.2.6.1.a og M.2.6.1.b.  
+
+ Frekvensafhængigheden af sendeevnen, SMJ, måles ved sløjfestrømme på 16 mA og  
+
+ Imax i frekvensområdet fra 100 Hz til 8 kHz i spring på 1/12 oktav.
+2.6.3 Maksimal sendespænding 2.6.3.1 Ved sending til 600 ohm mellem linieklemmerne må spids til  
+
+ spids værdi af et telefonapparats udgangsspænding ikke kunne overstige 7,0  
+
+ V.
+Princip for målingen er vist i fig.
+M.2.6.3.1 Fig.
+M.2.6.3.1 Den maksimale sendespænding måles ved sløjfestrømme på 16 mA og Imax med  
+
+ begge polariteter af jævnspændingen.
+Ved frekvenserne 500, 1000 og 2500 Hz reguleres lydtrykket så meget op,  
+
+ dog højst 120 dB SPL, at oscilloskopet viser tydelig begrænsning (amplituden  
+
+ vokser ikke ved forøget lydtryk) af signalet.
+Det kontrolleres, at spids til  
+
+ spids spændingen ikke overstiger 7.0 V.
+ 2.6.3.2 Såvel den positive som den negative spidsværdi skal ved  
+
+ sløjfestrømme større end eller lig 16 mA kunne blive mindst 1,8 V med en  
+
+ klirfaktor på højst 10%, når telefonapparatets mikrofon påtrykkes enkelttoner  
+
+ i frekvensområdet fra 50 Hz til 2500 Hz.
+Princip for målingen er vist i fig.
+M.2.6.3.2 Fig.
+M.2.6.3.2 Spidsværdien måles ved en sløjfestrøm på 16 mA. og Imax Ved frekvenserne 500, 1000 og 2500 Hz reguleres lydtrykket Pm således, at  
+
+ oscilloskopet viser, at såvel den positive som den negative halvperiode af  
+
+ udgangssignalet netop overstiger 1,8 V spidsværdi.
+Det kontrolleres, at  
+
+ klirfaktoren ikke overstiger 10%.
+2.6.4 Harmonisk forvrængning Den harmoniske forvrængning af et telefonapparats udgangsspænding må  
+
+ ikke ved sløjfestrømme større end eller lig 16 mA overstige 5%, når  
+
+ mikrofonen - under målebetingelser som ved måling af SLR - påtrykkes  
+
+ enkelttoner i frekvensområdet fra 300 Hz til 3400 Hz.
+Princip for målingen er vist i fig.
+M.2.6.3.2.
+ Den harmoniske forvrængning måles ved sløjfestrømme på 16 mA og Imax ved  
+
+ frekvenserne 315, 1000 og 3150 Hz og et lydtryk Pm = -4,7 dB rel. 1 Pa.
+2.6.5 Egenstøj Et telefonapparats egenstøj må ikke hverken i rotilstand eller i  
+
+ sløjfetilstand ved sløjfestrømme større end eller lig 8 mA i 600 ohm mellem  
+
+ linieklemmerne medføre en uvejet udgangseffekt, som overstiger 10nW (-50  
+
+ dBm), målt i frekvensområdet fra 30 Hz til 150 kHz.
+Princip for målingen er vist i fig.
+M.2.6.1.b Egenstøjen måles i rotilstand ved 48 V samt i sløjfetilstand ved  
+
+ sløjfestrømme på 8 mA, 16 mA og Imax.
+2.7 Modtagning De i det følgende omtalte loudnes ratings hviler principielt på CCITT's  
+
+ anbefalinger i Red Book, Vol V, Geneva 1985, hvor især følgende anbefalinger  
+
+ bør bemærkes 2.7.1 RLR (receiving loudness rating) 2.7.1.1 Et telefonapparats RLR beregnes efter forskrifterne i  
+
+ Recommendation P.79, CCITT Red Book, Volume V, Geneva 1985. Beregningen af  
+
+ RLR udføres over reduceret båndbredde, bånd 6 (315 Hz) til bånd 16 (3150 Hz)  
+
+ inklusive.
+ 2.7.1.2 Et telefonapparat skal i sløjfetilstand ved sløjfestrømme  
+
+ større end eller lig 16 mA have en RLR mellem -5 dB og -11 dB.
+ 2.7.1.3 Endvidere må et telefonapparats RLR ikke overstige -1 dB ved  
+
+ sløjfestrømme ned til 8 mA.
+Princip for målingen er vist i fig M.2.7.1 Fig.
+M.2.7.1 Til beregning af RLR måles telefonapparatets modtagefølsomhed, SJe =  
+
+ 201og10 Pe/ (Ej/2) dB rel. 1 Pa/V, med Ej = 0,252 V ved frekvenser fra 315 Hz  
+
+ til 3150 Hz i spring på 1/3 oktav v.h.a. måleopstillingen i fig.
+M.2.7.1.
+ RLR beregnes herefter af:
+LE korrigerer for forskellen mellem kunstigt og rigtigt øre.
+CCITT  
+
+ anbefaler brug af tabellens LE-værdier, når LE ikke er bestemt for det  
+
+ aktuelle telefonapparat.
+Er telefonapparatets LE-værdier bestemt separat ved  
+
+ hjælp af en angivet og anerkendt metode, kan disse LE-værdier benyttes til  
+
+ beregning af RLR i stedet for tabellens LE-værdier.
+ RLR bestemmes ved sløjfestrømme på 8, 16 og 32 mA samt Imax.
+2.7.2 Frekvensafhængighed Et telefonapparats frekvenskarakteristik for modtagning skal - under  
+
+ målebetingelser som ved måling af RLR - ligge inden for de i fig. 2.7.2  
+
+ angivne relative grænser ved sløjfestrømme større end eller lig 16 mA.
+ Fig. 2.7.2. Relative grænser for frekvenskarakteristik for modtagning  
+
+ fra et telefonapparat.
+Princip for målingen er vist i fig.
+M.2.7.1 Frekvensafhængigheden af modtagefølsomheden, SJe, måles ved sløjfestrømme  
+
+ på 16 mA og Imax i frekvensområdet fra 100 Hz til 8 kHz i spring på 1/12  
+
+ oktav.
+2.7.3 Maksimalt lydtryk Ved modtagning ved hjælp af et kunstigt øre, IEC 318, må det maksimale  
+
+ lydtryk aldrig kunne overstige 120 dB SPL.
+Princip for målingen er vist i fig.
+M.2.7.1.
+Lydtrykket måles ved sløjfestrømme på 16 mA og Imax ved frekvenserne 315,  
+
+ 1000 og 3150 Hz.
+Generatorspændingen øges ved hver frekvens op til 5 V, og  
+
+ det kontrolleres, om det maksimale lydtryk overskrides.
+2.7.4 Egenstøj Et telefonapparats egenstøj må ikke ved modtagning ved hjælp af et  
+
+ kunstigt øre, IEC 318, medføre et lydtryk, som overstiger 45 dB(A), når  
+
+ belastningen over linieklemmerne er 600 ohm.
+Kravet skal være opfyldt i  
+
+ sløjfetilstand ved sløjfestrømme større end eller lig 8 mA.
+Princip for målingen er vist i fig.
+M.2.7.4.
+Fig.
+M.2.7.4 Egenstøjen måles ved Imax.
+ Eventuel volumenkontrol indstilles til en RLR-værdi inden for  
+
+ toleranceområdet, jf. pkt. 2.7.1.2.
+2.8 Sidetoneforhold Et telefonapparat skal indrettes med et sidetonenetværk, der med  
+
+ linieklemmerne belastet med en inpedans, som vist i fig. 2.8, medfører en  
+
+ dæmpning fra mikrofon til telefon (sidetonedæmpningen), som i frekvensområdet  
+
+ fra 500 Hz til 2500 Hz er mindst 18 dB større end summen af dæmpningerne fra  
+
+ mikrofon til linieklemmer og fra linieklemmer til telefon.
+Kravet skal være  
+
+ opfyldt i sløjfetilstand ved sløjfestrømme større end eller lig 16 mA.
+Fig. 2.8 Princip for målingen er vist i fig.
+M.2.8.1 og M.2.8.2.
+Fig.
+M.2.8.1 Fig.
+M.2.8.2 Sidetonedæmpningen måles ved sløjfestrømme på 16 og 32 mA samt Imax i  
+
+ frekvensområdet 500 hZ til 2500 Hz i spring på 1/3 oktab.
+Med  
+
+ måleopstillingen i fig.
+M.2.6.1.a indreguleres lydtrykket Pm = -4,7 dB rel. 1  
+
+ Pa.
+Telefonapparatets mikrofon påtrykkes et lydtryk, Pm.
+Herefter måles dels  
+
+ den resulterende spænding, Vs, over linieklemmerne og dels det resulterende  
+
+ lydtryk, Ps, i samme apparats telefon (hørekapsel). Telefonapparatets  
+
+ linieklemmer er under denne måling belastet med netværket vist i fig. 2.8.
+Herefter påtrykkes telefonapparatets linieklemmer, samme spænding, Vs, som  
+
+ netop målt ved hver frekvens og lydtrykket, Qs, i apparatets telefon  
+
+ (hørekapsel) måles.
+Sidetonedæmpningen beregnes derefter som 201og10(Qs/Ps)  
+
+ dB.
+ Eventuel volumenkontrol indstilles til en RLR-værdi inden for  
+
+ toleranceområdet, jf. pkt. 2.7.1.2.
+3 MEKANISK KONSTRUKTION 3.1 Mikrofon og telefon Mikrofon og telefon skal være stabile, lineære transducere.
+3.2 Tastatur 3.2.1 Tastaturets taster for MFT signalering skal mærkes med cifre og  
+
+ symboler i overensstemmelse med kodesignalerne angivet i pkt. 2.4.2.
+ 3.2.2 Tastaturet skal have taster for cifrene 0 til 9 samt for * og  
+
+ =.
+ Kravene kontrolleres opfyldt i forbindelse med målingerne vedr. pkt.  
+
+ 2.4.2.1.
+3.3 Gaffelkontakt I et telefonapparat skal overgang fra rotilstand til sløjfetilstand og  
+
+ omvendt ske ved påvirkning af en gaffelkontakt, som slutter henholdsvis  
+
+ bryder jævnstrømssløjfe i telefonapparatet, jf. i øvrigt pkt. 2.1.6 og  
+
+ 2.1.7.
+ Kravet kontrolleres opfyldt i forbindelse med målingerne vedr. pkt. 2.1.6  
+
+ og 2.1.7.
+4 MILJØFORHOLD 4.1 Elektrisk emission Et telefonapparat skal i ro- og i sløjfetilstand, opfylde kravene om  
+
+ maksimal emission svarende til miljøklasse M2 i DS 5101.
+4.1.1 Støjstrømmen målt som smalbåndsstøj (båndbredde <= 9 kHz) med  
+
+ quasi peak detektor på apparatledning og eventuelle forbindelsesledninger  
+
+ mellem apparatets dele må maksimalt være 23 dB(microA) ved 150 kHz lineært  
+
+ aftagende med logaritmen af frekvensen til 6 dB (microA) ved 1 MHz og  
+
+ 10dB(microA) i frekvensområdet 5 MHz til 30MHz.
+Reference DS 5101.
+Apparatet strømfødes med 48 V gennem 600 ohm.
+Der måles i sløjfetilstand  
+
+ (samtaletilstand). Mikrotelefonen HF-belastes med kunstig hånd ifølge fig.  
+
+ M.2.2.2.2. Apparatledningen termineres med 100 ohm i serie med 10 nF fra hver  
+
+ leder til fælles 50 ohm forbundet til jordplanet.
+4.1.2 Støjfeltet målt som smalbåndsstøj (båndbredde <= 9 kHz) med  
+
+ quasi peak detektor i 10 m's afstand (10 m måleplads) fra apparatet må  
+
+ maksimalt være 15 dB (microV/m) i frekvensområdet 30 MHz til 88 MHz, 20  
+
+ dB(microV/m) i frekvensområdet 88 MHz til 230 MHz og 30 dB(microV/m) i  
+
+ frekvensområdet 230 MHz til 1000 MHz.
+Reference DS 5101.
+ Strømfødning, måling og terminering som i 4.1.1.
+ Hvis udstrålingen i 3 m's afstand, målt med apparatet anbragt 50 cm over  
+
+ jordplan, er mindre end grænserne i frekvensområdet 30 til 230 MHz kan  
+
+ yderligere måling udelades.

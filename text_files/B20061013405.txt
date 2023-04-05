@@ -1,0 +1,907 @@
+Bestemmelser  
+
+ om  
+
+ etablering, ændring, drift og  
+
+ vedligeholdelse  
+
+ af  
+
+  
+
+ luftfartstjenestesystemer (BL 3-42, 1. udgave) I medfør af § 52 og § 149, stk. 10, i lov om luftfart, jf.  
+
+ lovbekendtgørelse nr. 1484 af 19. december 2005,  
+
+ fastsætter Statens Luftfartsvæsen herved efter bemyndigelse fra  
+
+ Transport- og Energiministeriet, jf. bekendtgørelse nr. 795 af 3.  
+
+ september 2001 om henlæggelse af opgaver til Statens Luftfartsvæsen og om  
+
+ kundgørelse af de af luftfartsvæsenet udfærdigede forskrifter, følgende:
+1.  
+
+ 	  
+
+ 	  
+
+ Referencedokumenter 1.1  
+
+ 	  
+
+ BL 3-3, Bestemmelser om radionavigations-  
+
+ og radiolandingsanlæg på jorden, seneste udgave.
+ 1.2  
+
+ 	  
+
+ BL 3-18, Bestemmelser om etablering af  
+
+ flyvepladsledelse på godkendte flyvepladser, seneste udgave.
+ 1.3  
+
+ 		  
+
+ BL 7-8, Bestemmelser om drift af lufttrafiktjenesteenheder,  
+
+ seneste udgave.
+ 1.4  
+
+ 	  
+
+ 	  
+
+ BL 7-21, Bestemmelser om  
+
+ etablering af lufttrafiktjeneste, seneste udgave.
+ 1.5  
+
+ 	  
+
+ 	  
+
+ BL 7-23, Bestemmelser om  
+
+ automatisk rekordering af talekommunikation og data, seneste udgave.
+ 1.6  
+
+ 		  
+
+ BL 7-27, Bestemmelser om software i ATM systemer, seneste  
+
+ udgave.
+ 1.7  
+
+ 	  
+
+ Kommissionens forordning (EF) Nr.  
+
+ 2096/2005 af 20. december 2005 om fælles krav til udøvelse af  
+
+ luftfartstjenester.
+ 1.8  
+
+ 	  
+
+ Europa-Parlamentets og Rådets forordning  
+
+ (EF) nr. 550/2004 af 10. marts 2004 om udøvelse af luftfartstjenester i det  
+
+ fælles europæiske luftrum (luftfartstjenesteforordningen).
+ 1.9  
+
+ 	  
+
+ Europa-Parlamentets og Rådets forordning  
+
+ (EF) nr. 552/2004 af 10. marts 2004 om interoperabilitet i det europæiske  
+
+ lufttrafikstyringsnet.
+ 1.10  
+
+ 	  
+
+ ICAO Annex 10, Aeronautical Telecommunications, seneste udgave.
+1.11  
+
+ 	  
+
+ De dokumenter, der er nævnt i pkt. 1.1 - 1.9,  
+
+ findes på Statens Luftfartsvæsens hjemmeside  
+
+
+  
+
+ www.slv.dk  
+
+. De dokumenter, der er nævnt  
+
+ i pkt. 1.1 - 1.6 kan endvidere fås ved henvendelse til Statens Luftfartsvæsen Servicecentret Postboks 744 Ellebjergvej 50 2450 København SV Tel.:
+3618  
+
+ 6000 Fax:
+3618  
+
+ 6001 E-post:
+ais@slv.dk 1.12  
+
+ 	  
+
+ Det dokument, der er nævnt i pkt. 1.10,  
+
+ findes på Statens Luftfartsvæsens hjemmeside  
+
+  
+
+ www.slv.dk  
+
+  
+
+ og kan erhverves ved henvendelse til ICAO Headquarters Attn.: Document Sales Unit 999 University Street Montréal, Quebec Canada H3C 5H7 Tel.:
++1  
+
+ 514 954-8022 Fax:
++1  
+
+ 514 954-6769 Sitatex:
+YULDYA E-post:
+Sales_unit@icao.int Web:
+www.icao.int 2.  
+
+ 	  
+
+ Definitioner ATM (Air Traffic Management):
+ Se  
+
+ lufttrafikstyring.
+ Flyvesikkerhedsstyringssystem (Safety Management System  
+
+ (SMS)):
+ I denne BL forstås  
+
+ ved et flyvesikkerhedsstyringssystem et system til at styre flyvesikkerhed,  
+
+ og  
+
+ som indeholder den nødvendige organisatoriske struktur, ansvarsforhold,  
+
+ flyvesikkerhedspolitik og procedurer.
+ Komponenter (Components):
+ Materielle  
+
+ genstande såsom hardware og immaterielle genstande såsom software, som det  
+
+ europæiske  
+
+ lufttrafikstyringsnets interoperabilitet bygger på.
+ Konfigurationsstyringssystem (Configuration Management  
+
+ System):
+ Et system, der til  
+
+ enhver tid kan angive den gældende version af hardware, software og relateret  
+
+ dokumentation samt relationer disse i mellem.
+ Kvalitetsstyringssystem (Quality Management System):
+ Et system, som  
+
+ gennem et samspil mellem ansvar, beføjelser, processer og ressourcer,  
+
+ fastlægger  
+
+ og forbedrer kvaliteten, der er defineret i virksomhedens kvalitetspolitik og  
+
+ kvalitetsmål.
+ Luftfartstjenester (Air Navigation Services):
+ Lufttrafiktjeneste,  
+
+ kommunikations-, navigations- og overvågningstjeneste, vejrtjeneste til  
+
+ luftfartsformål  
+
+ og luftfartsinformationstjeneste.
+ Luftfartstjenestesystem (Air Navigation Service System):
+ Samlingen af  
+
+ jordbaserede og luftbårne komponenter samt luftrumsbaseret udstyr, der  
+
+ understøtter  
+
+ luftfartstjenesterne i alle faser af en flyvning.
+ Lufttrafikstyring (Air Traffic Management):
+ De samlede  
+
+ luftbårne og jordbaserede funktioner (lufttrafiktjenester, luftrumsstyring og  
+
+ lufttrafikregulering), der kræves for at sikre, at luftfartøjer kan operere  
+
+ sikkert og effektivt i alle faser af en flyvning.
+3.  
+
+ 	  
+
+ Anvendelsesområde 3.1  
+
+ 	  
+
+ Denne BL indeholder  
+
+ bestemmelser om etablering, ændring, drift og vedligeholdelse af  
+
+ luftfartstjenestesystemer  
+
+ til a.  
+
+ 	  
+
+ luftrumsstyring, b.  
+
+ 	  
+
+ lufttrafikregulering, c.  
+
+ 	  
+
+ lufttrafiktjenester,  
+
+ navnlig systemer til behandling af flyvedata, overvågningsdata og  
+
+ menneske/maskinegrænseflader, d.  
+
+ 	  
+
+ jord til jord-, luft  
+
+ til jord- og luft til luft-kommunikation, e.  
+
+ 	  
+
+ navigation, f.  
+
+ 	  
+
+ overvågning, g.  
+
+ 	  
+
+ luftfartsinformationstjenester  
+
+ (AIS) og h.  
+
+ 	  
+
+ meteorologiske oplysninger  
+
+ (DMI).
+ 3.2  
+
+ 	  
+
+ Denne BL gælder for  
+
+ dansk område og områder, hvor Danmark i henhold til internationale aftaler er  
+
+ forpligtet til at udøve luftfartstjeneste, jf. dog afsnit 19.
+4.  
+
+ 	  
+
+ Ansvar Det påhviler den, der  
+
+ etablerer, ændrer, driver og vedligeholder de luftfartstjenestesystemer, der  
+
+ er  
+
+ nævnt i pkt. 3.1, at følge bestemmelserne i denne BL.
+5.  
+
+ 	  
+
+ Projektgodkendelse og projektbeskrivelse 5.1  
+
+ 	  
+
+ Etablering eller  
+
+ ændring af luftfartstjenestesystemer kræver Statens Luftfartsvæsens  
+
+ godkendelse  
+
+ (projektgodkendelse).
+ 5.2  
+
+ 	  
+
+ Ansøgning om projektgodkendelse  
+
+ skal ledsages af en projektbeskrivelse, der omfatter følgende forhold, jf.  
+
+ dog  
+
+ pkt. 5.3:
+ a.  
+
+ 	  
+
+ Anvendelsesområde  
+
+ jf. pkt. 3.1.
+ b.  
+
+ 	  
+
+ Regelgrundlag.
+ c.  
+
+ 	  
+
+ Anlægstype.
+ d.  
+
+ 	  
+
+ Funktionalitet.
+ e.  
+
+ 	  
+
+ Flyvesikkerhedsmæssige  
+
+ mål/-krav (Safety objectives).
+ f.  
+
+ 	  
+
+ Leverandør.
+ g.  
+
+ 	  
+
+ Implementeringsplan.
+ h.  
+
+ 	  
+
+ Risikovurdering.
+ i.  
+
+ 	  
+
+ Driftsansvar.
+ j.  
+
+ 	  
+
+ Driftsorganisation.
+ k.  
+
+ 	  
+
+ Konfigurationsstyring.
+ l.  
+
+ 	  
+
+ Kvalitetsplan.
+ m.  
+
+ 	  
+
+ Overvågning.
+ n.  
+
+ 	  
+
+ Systemarkitektur(blokdiagram).
+ o.  
+
+ 	  
+
+ Grænseflader til  
+
+ andre systemer (jf. pkt. 3.1).
+ p.  
+
+ 	  
+
+ Signalveje.
+ q.  
+
+ 	  
+
+ Diagrammer.
+ r.  
+
+ 	  
+
+ Hardware.
+ s.  
+
+ 	  
+
+ Software.
+ t.  
+
+ 	  
+
+ Softwaresikring.
+ u.  
+
+ 	  
+
+ Frekvenser.
+ v.  
+
+ 	  
+
+ Elektromagnetisk  
+
+ kompatibilitet.
+ x.  
+
+ 	  
+
+ EMC-standarder  
+
+ (immunitet/emission).
+ 5.2.1  
+
+ 	  
+
+ I det omfang det er begrundet, kan Statens  
+
+ Luftfartsvæsen beslutte, at en projektbeskrivelse ikke behøver at indeholde  
+
+ visse af de oplysninger, der er fastsat i pkt. 5.2.
+ 5.3  
+
+ 	  
+
+ 	  
+
+ I  
+
+ projektbeskrivelsen skal det dokumenteres, at leverandøren og/eller  
+
+ producenten  
+
+ af systemet er omfattet af et kvalitetsstyringssystem.
+ 5.4  
+
+ 		  
+
+ Projektgodkendelsen skal foreligge,  
+
+ inden udbud offentliggøres, eller hvis udbud ikke offentliggøres, inden  
+
+ udbudsmateriale eller lignende fremsendes til leverandører.
+ 5.5  
+
+ 		  
+
+ Statens Luftfartsvæsen skal under  
+
+ normale omstændigheder og under forudsætning af, at alle relevante  
+
+ oplysninger  
+
+ foreligger, jf. pkt. 5.2, behandle ansøgningen inden 1 måned fra modtagelsen.
+ 5.6  
+
+ 	  
+
+ 	  
+
+ Projektgodkendelsen  
+
+ bortfalder, hvis der ikke er taget skridt til etablering af systemet inden  
+
+ for  
+
+ 1 år efter, at projektgodkendelsen er givet.
+6.  
+
+ 		  
+
+ Teknisk godkendelse 6.1  
+
+ 	  
+
+ 	  
+
+ Ibrugtagning kræver Statens  
+
+ Luftfartsvæsens tekniske godkendelse.
+6.2  
+
+ 	  
+
+ 	  
+
+ Ansøgningen  
+
+ om teknisk godkendelse skal ledsages af en opdateret projektbeskrivelse, jf.  
+
+ pkt. 5.2. Der skal endvidere vedlægges særskilt dokumentation for, at a.  
+
+ 		  
+
+ luftfartstjenestesystemet opfylder de stillede  
+
+ flyvesikkerhedsmæssige mål og flyvesikkerhedsmæssige krav, b.  
+
+ 		  
+
+ fabriksafprøvninger (fx Factory Acceptance Test, FAT) er  
+
+ gennemført, inklusive beskrivelse af testomfang og anvendte test metoder, c.  
+
+ 		  
+
+ slutafprøvninger (fx Site Acceptance Test, SAT) er gennemført,  
+
+ inklusive beskrivelse af testomfang og anvendte testmetoder, d.  
+
+ 		  
+
+ risikovurderinger og risikoreduktion gennemføres, e.  
+
+ 		  
+
+ der foreligger beskrivelser og brugermanualer med angivelse af  
+
+ version samt drifts- og vedligeholdelsesforskrifter for systemet, f.  
+
+ 		  
+
+ den tekniske organisation, som driver og vedligeholder  
+
+ systemet, er etableret og godkendt, jf. afsnit 14, g.  
+
+ 		  
+
+ den tekniske organisation har fornødne  
+
+ kvalifikationer og vedligeholdelsesværktøjer, jf. afsnit 14, og h.  
+
+ 		  
+
+ systemet er underlagt konfigurationsstyring.
+6.3  
+
+ 		  
+
+ Statens Luftfartsvæsen skal under normale  
+
+ omstændigheder og under forudsætning af, at alle relevante oplysninger  
+
+ foreligger, behandle ansøgningen inden 3 måneder fra modtagelsen.
+Denne frist  
+
+ kan dog nedsættes til 1 måned, hvis der er tale om mindre projekter.
+ Anm.:  
+
+ Ibrugtagning kræver desuden, at lufttrafiktjenesteenheder og deres  
+
+ arbejdspositioner er operationelt godkendt af Statens Luftfartsvæsen i  
+
+ overensstemmelse med bestemmelserne i BL 7-21, pkt. 5.3.
+7.  
+
+ 		  
+
+ Oplysningspligt Statens Luftfartsvæsen skal løbende  
+
+ holdes orienteret om ændringer, der har betydning for projektgodkendelsen,  
+
+ jf.  
+
+ afsnit 5 og/eller den tekniske godkendelse, jf. afsnit 6.
+8.  
+
+ 		  
+
+ Standarder Luftfartstjenestesystemer skal opfylde  
+
+ standarder i ICAO Annex 10, Aeronautical Telecommunications.
+ Anm.:  
+
+ Luftfartstjenestesystemer skal desuden opfylde gældende fællesskabsregler,  
+
+ jf.  
+
+ Europa-Parlamentets og Rådets forordning (EF) nr. 549/2004 af 10. marts 2004  
+
+ om  
+
+ rammerne for oprettelse af et fælles europæisk luftrum, Kommissionens  
+
+ forordning (EF) Nr. 2096/2005 af 20. december 2005 om fælles krav til  
+
+ udøvelse  
+
+ af luftfartstjenester, og Europa-Parlamentets og Rådets forordning (EF) nr.  
+
+ 552/2004 af 10. marts 2004 om interoperabilitet i det europæiske  
+
+ lufttrafikstyringsnet.
+9.  
+
+ 		  
+
+ Flyvesikkerhedsstyring  
+
+ og kvalitetsstyringssystem Etablering, ændring, drift og  
+
+ vedligeholdelse af alle luftfartstjenestesystemer skal underlægges  
+
+ flyvesikkerhedsstyring og et kvalitetsstyringssystem, der opfylder  
+
+ bestemmelserne i Kommissionens forordning (EF) nr. 2096/ 2005 af 20. december  
+
+ 2005 om fælles krav til udøvelse af luftfartstjenester, jf. bilag I til  
+
+ forordningen.
+10.  
+
+ 		  
+
+ Flyvesikkerhedsstyringssystem  
+
+ og risikovurdering samt risikoreduktion Etablering, ændring, drift og  
+
+ vedligeholdelse af luftfartstjenestesystemer til udøvelse af lufttrafik-,  
+
+ kommunikations-, navigations- eller overvågningstjenester skal underlægges et  
+
+ flyvesikkerhedsstyringssystem og risikovurdering samt risikoreduktion, der  
+
+ opfylder bestemmelserne i Kommissionens forordning (EF) nr. 2096/2005 af 20.  
+
+ december 2005 om fælles krav til udøvelse af luftfartstjenester, jf. bilag II  
+
+ og V til forordningen.
+11.  
+
+ 		  
+
+ Driftsovervågning 11.1  
+
+ 	  
+
+ Luftfartstjenestesystemer skal overvåges af et  
+
+ overvågningsudstyr, der er uafhængigt af det luftfartstjenestesystem, der  
+
+ overvåges.
+ 11.2  
+
+ 	  
+
+ I tilfælde af fejl i systemet eller i  
+
+ overvågningsudstyret skal det give en fejlmelding til et centralt sted, der  
+
+ er  
+
+ under kontinuerlig manuel overvågning.
+12.  
+
+ 	  
+
+ 	  
+
+ Rekordering 12.1  
+
+ 	  
+
+ Der skal foretages rekordering i henhold til  
+
+ gældende bestemmelser, jf.
+BL 7-23.
+ 12.2  
+
+ 	  
+
+ De rekorderede data skal kunne genskabes og  
+
+ præsentere trafiksituationen i en struktureret og forståelig form, således at  
+
+ disse data kan indgå i udredningen af havarier og hændelser mv. samt danne  
+
+ baggrund for rettelse af eventuelle systemfejl.
+13.  
+
+ 		  
+
+ Konfigurationsstyring 13.1  
+
+ 	  
+
+ Der skal etableres konfigurationsstyring med  
+
+ henblik på at a.  
+
+ 		  
+
+ fastholde og kontinuerligt dokumentere  
+
+ status af hardware, software og dokumenter samt relationerne disse imellem, b.  
+
+ 		  
+
+ sikre, at enhver ændring af oprindeligt  
+
+ godkendt system udføres i overensstemmelse med gældende krav, c.  
+
+ 		  
+
+ sikre, at sikkerhedsfremmende  
+
+ opdateringer af systemet gennemføres, og d.  
+
+ 		  
+
+ sikre, at ændringer, der er gennemført i  
+
+ forbindelse med vedligeholdelse eller udbedring af fejl, dokumenteres.
+ 13.2  
+
+ 	  
+
+ 	  
+
+ Der skal  
+
+ udpeges en person, som er ansvarlig for konfigurationsstyringen.
+ 13.2.1  
+
+ 	  
+
+ Den ansvarlige person skal over for ledelsen  
+
+ kunne angive, om udbedringerne/ændringerne har indflydelse på eksisterende  
+
+ tekniske godkendelser, samt hvilke ændringer der må udføres i forbindelse med  
+
+ vedligeholdelse.
+ 13.3  
+
+ 	  
+
+ Konfigurationsstyringen skal omfatte  
+
+ procedurer for backup og genetablering af tidligere godkendte  
+
+ systemkonfigurationer.
+Anm.: Der skal etableres softwaresikring i  
+
+ henhold til gældende bestemmelser, jf.
+BL 7-27.
+14.  
+
+ 		  
+
+ Drift  
+
+ og vedligeholdelse 14.1  
+
+ 	  
+
+ Luftfartstjenestesystemer må kun drives og  
+
+ vedligeholdes af en teknisk organisation og personer, der er godkendte af  
+
+ Statens Luftfartsvæsen efter gældende regler.
+ Anm.: Luftfartstjenesteforordningen  
+
+ indeholder bestemmelser om certificering af luftfartstjenesteudøvere og BL  
+
+ 3-3  
+
+ indeholder bestemmelser om godkendelse af teknisk organisation/tekniker.
+ 14.2  
+
+ 	  
+
+ Der skal etableres procedurer for  
+
+ vedligeholdelsespersonalet, der hindrer uautoriserede ændringer af systemet.
+15.  
+
+ 		  
+
+ Tilbagekaldelse Statens Luftfartsvæsen kan  
+
+ tilbagekalde en projektgodkendelse og/eller en teknisk godkendelse, hvis  
+
+ betingelserne for opnåelse af projektgodkendelse og/eller teknisk godkendelse  
+
+ ikke  
+
+ længere er opfyldt, og forholdet ikke bliver rettet inden for en frist, der  
+
+ fastsættes af Statens Luftfartsvæsen.
+16.  
+
+ 		  
+
+ Dispensation Statens Luftfartsvæsen kan i ganske  
+
+ særlige tilfælde dispensere fra bestemmelserne i denne BL, når dette skønnes  
+
+ foreneligt med de hensyn, der ligger til grund for de pågældende  
+
+ bestemmelser.
+17.  
+
+ 		  
+
+ Straf 17.1  
+
+ 	  
+
+ Den, der overtræder pkt. 5.1, 5.4 og 6.1,  
+
+ samt afsnit 7-14, straffes med bøde.
+ 17.2  
+
+ 	  
+
+ For overtrædelser begået af selskaber mv.  
+
+ (juridiske personer) kan der pålægges strafansvar efter reglerne i  
+
+ straffelovens 5. kapitel, jf. luftfartslovens § 149, stk. 14.
+18.  
+
+ 	  
+
+ 	  
+
+ Ikrafttræden 18.1  
+
+ 	  
+
+ Denne BL træder i kraft den 1. april  
+
+ 2007, jf. dog pkt. 18.2.
+ 18.2  
+
+ 	  
+
+ For luftfartstjenestesystemer, der er i  
+
+ operationel drift eller er omfattet af en projektgodkendelse udstedt inden  
+
+ tidspunktet for denne BLs ikrafttræden, gælder bestemmelserne først fra  
+
+ det  
+
+ tidspunkt, hvor der skal foretages en ændring af systemet, som ud fra en  
+
+ risikovurdering  
+
+ har indflydelse på flyvesikkerheden, jf. afsnit 10.
+19.  
+
+ 	  
+
+ 	  
+
+ Grønland og Færøerne Bestemmelserne i afsnit 9 og 10,  
+
+ gælder ikke for luftfartstjenesteudøvere i Grønland og på Færøerne.
+ Anm.: For Grønland og Færøerne gælder BL  
+
+ 7-25, Bestemmelser om risikovurdering og risikoreduktion i lufttrafikstyring  
+
+ og  
+
+ BL 7-26, Bestemmelser om flyvesikkerhedsstyring i forbindelse med udøvelse af  
+
+ lufttrafikstyring.

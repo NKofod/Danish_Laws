@@ -1,0 +1,106 @@
+ 1. Baggrund.
+Siden oprettelsen af BBR i 1977 har det været muligt af foretage  
+
+ registreringer på 4 forskellige »niveauer«, nemlig - ejendomsniveau - bygningsniveau - opgangsniveau - enhedsniveau (boliger og erhvervsenheder) Indberetning til ejendoms- og bygningsniveau er obligatorisk for bebyggede  
+
+ ejendomme, og enhedsniveauet er obligatorisk for bygninger med mere end 5  
+
+ pct. beboelse.
+Derimod er benyttelse af opgangsniveauet frivillig.  
+
+ Opgangsniveauet, der blev indført efter kommunalt ønske, skulle kunne  
+
+ anvendes i de tilfælde, hvor der inden for samme bygning var forskel mellem  
+
+ f.eks. antal etager, ydervægsmaterialer mv. i bygningens forskellige opgange.
+ Det har imidlertid vist sig, at kun omkring 20 kommuner har oplysninger  
+
+ registreret på opgangsniveau i dag, og at hovedparten af disse kun har  
+
+ registreret ganske få opgange.
+ Samtidig har Kommunedata I/S oplyst, at opretholdelse af opgangsniveauet  
+
+ indebærer en økonomisk belastning af det samlede BBR-system.
+For at belyse problemerne ved en evt. sletning af opgangsniveauet har  
+
+ Kommunernes Landsforening derfor rettet henvendelse til de kommuner, der  
+
+ benytter opgangsniveauet.
+Konklusionen af denne henvendelse var, at fordelen  
+
+ ved en opretholdelse af opgangsniveauet ikke kan opveje de omkostninger, som  
+
+ niveauet medfører.
+ På denne baggrund er det besluttet, at opgangsniveauet skal  afvikles i  
+
+ foråret 1984.
+2. procedure for afvikling af opgangsniveauet Alle oplysninger på opgangsniveau vil maskinelt blive slettet af  
+
+ kommunedata efter den ordinære ajourføring af BBR i maj 1984. Dette  
+
+ gælder såvel oplysninger i stamregister som ændringsregister.
+Der vil  
+
+ herefter ikke kunne indberettes oplysninger på opgangsniveau til BBR.
+I almindelighed vil det ikke være nødvendigt for kommunen at foretage  
+
+ indberetninger eller rettelser i forbindelse med sletningen af  
+
+ opgangsniveauet.
+I visse situationer, hvor boliger m.v. er oprettet i  
+
+ registret med fejlagtig adresse, vil der imidlertid ske maskinel sletning af  
+
+ disse boliger.
+Nedenfor er beskrevet, hvornår sådanne sletninger vil  
+
+ forekomme, og hvordan de kan undgås.
+ 3. Maskinel sletning af enheder med fejlagtig adresse.
+ I forbindelse med sletning af opgangsniveauet vil der som nævnt kunne  
+
+ forekomme sletning af boliger (med dataindhold). Dette vil ske, hvis to eller  
+
+ flere boliger i en bygning fejlagtigt er indberettet til registret med samme  
+
+ adresse (vejkode, husnr., etage, side), men med hver sit opgangsnummer.
+Der vil kunne forekomme 2 eller flere enheder med samme adresse i en  
+
+ bygning fordi opgangsnummeret er en del af den samlede identifikation i  
+
+ registret.
+Det er derfor i dag muligt at oprette 2 eller flere enheder med  
+
+ samme adresse i en bygning, blot enhederne har forskelligt opgangsnummer.
+Når  
+
+ opgangsnummeret forsvinder som en del af identifikationen, vil enhederne  
+
+ derefter få samme registeridentifikation.
+Det er derfor nødvendigt at slette  
+
+ de »overskydende« enheder.
+ Kommunedata udskriver efter sletningen i maj en liste med adressen på  
+
+ slettede enheder, således at kommunen efterfølgende kan rette de fejlagtige  
+
+ identer og genindberette de slettede enheder.
+For at undgå problemer med efterfølgende genindberetning af slettede  
+
+ enheder, kan kommunen imidlertid allerede nu hos Kommunedata bestille en  
+
+ liste over adresser på boliger og erhvervsenheder, der optræder med samme  
+
+ adresse (bortset fra opgangsnr.) Listen bestilles hos den regionale  
+
+ Kommunadatacentral.
+Listen bestilles hos den regionale Kommunedatacentral.  
+
+ Listen koster ca. 66 kr. pr. 1000 ejendomme i kommunen.
+På basis af denne liste kan kommunen undersøge hvilke enheder, der har  
+
+ fejlagtig adresse - samt årsagen hertil.
+Herefter vil en identændring  
+
+ (rettelseskode 5) af de pågældende adresser sikre, at der ikke sker sletning  
+
+ af enhede i forbindelse med sletning af opgangsniveauet i maj 1984.

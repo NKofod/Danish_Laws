@@ -1,0 +1,763 @@
+Indledning.
+Ikrafttrædelse A: Almindelige bestemmelser § 1  Gyldighedsområde § 2  Definitioner § 3  Mærkning § 4  Klassifikation af eksplosionsfarlige områder § 5  Materiel § 6  Almindelige bestemmelser § 7  Egensikre strømkredse § 8  Andre forhold B: Bestemmelser for de enkelte områder § 9  Zone 0 § 10  Zone 1 § 11  Zone 2 § 12  Zone 10 § 13  Zone 11 Bilag 1. Brandtekniske data for luftarter, væsker og  
+
+ brændbart støv 2. Sammenhæng mellem tidligere og nuværende  
+
+ betegnelser Stikordsregister Stikordsregister Indledning Afsnit 7 A. 2. udgave, er udgivet af Elektricitetsrådet med gyldighed fra  
+
+ 1. juli 1986 og afløser 1. udgave.
+ Eventuelle fremtidige ændringer og nye bestemmelser vil, indtil en ny  
+
+ udgave udgives, fremkomme på erstatningsblade, hvorpå de vil blive markeret i  
+
+ margenen med angivelse af ikrafttrædelsesdato.
+ Udsendelse af erstatningsblade vil blive offentliggjort i  
+
+ ELRÅD-meddelelser og i de tekniske blade.
+ Forklaringer og henvisninger er sat med skrifttypen »petit«.
+Installationer i eksplosionsfarlige områder A: Almindelige bestemmelser § 1 Gyldighedsområde 1.1 Afsnit 7 A gælder for installationer i områder, der er klassificeret  
+
+ som eksplosionsfarlige.
+ Klassificering af eksplosionsfarlige områder henhører under  
+
+ brandmyndigheden.
+ Dansk Brandværns-Komite har udsendt Brandteknisk vejledning nr. 19 om  
+
+ klassificering af brand- og eksplosionsfarlige områder.
+§ 2 Definitioner 2.1 Eksplosionsfarligt område:
+ Område, hvor eksplosiv atmosfære forekommer eller kan forventes at  
+
+ forekomme i sådant omfang, at der kan opstå eksplosionsfare.
+ 2.2 Eksplosiv atmosfære:
+ Blanding af luft under atmosfæriske forhold med brændbare stoffer i form  
+
+ af luftarter, dampe, tåger eller støv i et sådant forhold, at blandingen kan  
+
+ bringes til at eksplodere ved høj temperatur, lysbuer eller gnister.
+ 2.3 Flammepunkt:
+ Den laveste temperatur, ved hvilken en væske ved en barometerstand på  
+
+ 101,3 kPa (1013 millibar) afgiver antændelige dampe.
+ Flammepunktet for forskellige luftarter og væsker er angivet i bilag 1.
+ 2.4 Tændtemperatur:
+ Tændtemperaturen for forskellige luftarter, væsker og stoffer er angivet i  
+
+ bilag 1.
+ 2.4.1 Tændtemperatur for en luftart eller damp:
+ Den temperatur, som en luftart eller damp skal opvarmes til for i blanding  
+
+ med atmosfærisk luft at antændes uden ydre tændkilder.
+ Vedrørende bestemmelse af tændtemperatur, se IEC 79-4. Method of test for  
+
+ ignition temperature.
+ 2.4.2 Tændtemperatur for ophvirvlet støv i kontakt med varm flade: Den  
+
+ laveste overfladetemperatur, der kan antænde en støvsky.
+ 2.4.3 Tændtemperatur for aflejret støv (selvantændelsestemperatur):
+ Den laveste overfladetemperatur, der kan antænde et 5 mm tykt støvlag.
+ 2.5 Maksimal overfladetemperatur:
+ Højeste temperatur, som forekommer i drift under de mest ugunstige  
+
+ forhold, på en hvilken som helst del eller overflade af elektrisk materiel,  
+
+ og som vil kunne antænde den omgivende atmosfære.
+ De mest ugunstige forhold omfatter overbelastninger og fejlforhold, som er  
+
+ angivet i bestemmelserne for den pågældende beskyttelsesmåde.
+ 2.6 Beskyttelsesmåder:
+ Konstruktionsmæssige forholdsregler ved elektrisk materiel, som skal  
+
+ forhindre, at materiellet antænder den omgivende eksplosive atmosfære.
+ 2.7 Oliekapsling »o«:
+ Beskyttelsesmåde, ved hvilken det elektriske materiel eller dele af dette  
+
+ er nedsænket i olie på en sådan måde, at en eksplosiv atmosfære, som kan  
+
+ forekomme over olien eller uden for kapslingen, ikke kan antændes.
+ 2.8 Overtrykskapsling »p«:
+Beskyttelsesmåde, ved hvilken den omgivende atmosfære er forhindret i at  
+
+ trænge ind i kapslingen for det elektriske materiel ved, at der inde i  
+
+ kapslingen opretholdes en beskyttelsesluft med et højere tryk end den  
+
+ omgivende atmosfære.
+Overtrykket opretholdes enten med eller uden en konstant  
+
+ strøm af beskyttelsesluft.
+ 2.9 Sandkapsling »q«:
+Beskyttelsesmåde, ved hvilken kapslingen for det elektriske materiel er  
+
+ fyldt med et fint granuleret materiale således, at enhver lysbue inde i  
+
+ kapslingen under alle forudsete driftsforhold ikke kan antænde den omgivende  
+
+ atmosfære.
+Der må heller ikke kunne ske antændelse ved, at flammer trænger ud  
+
+ gennem kapslingen eller ved overophedning af kapslingen.
+ 2.10 Tryksikker kapsling »d«:
+Beskyttelsesmåde, ved hvilken dele, som kan antænde en eksplosiv  
+
+ atmosfære, er anbragt i en kapsling, som kan modstå det tryk, der udvikles  
+
+ ved en indre eksplosion.
+Desuden skal kapslingen forhindre, at en indre  
+
+ eksplosion forplanter sig til den omgivende eksplosive atmosfære.
+ 2.11 Forhøjet sikkerhed »e«:
+ Beskyttelsesmåde, ved hvilken der er truffet foranstaltninger til at opnå  
+
+ en øget sikkerhed mod muligheden for overophedning, og for fremkomsten af  
+
+ lysbuer eller gnister i det indre eller på ydre dele af det elektriske  
+
+ materiel, som under normal drift ikke selv frembringer lysbuer eller gnister.
+ 2.12 Egensikkerhed »i«:
+ 2.12.1 Egensikker strømkreds:
+ Strømkreds, som under foreskrevne prøvebetingelser både under normal drift  
+
+ og under fejlforhold, ikke kan frembringe gnister eller opvarmning af en  
+
+ sådan art, at en given eksplosiv atmosfære kan antændes.
+ 2.12.2 Egensikkert materiel »i«:
+ Materiel, hvori alle strømkredse er egensikre.
+ 2.12.3 Tilhørende materiel:
+ Materiel, hvor ikke alle strømkredse er egensikre, men som indeholder  
+
+ strømkredse, der kan påvirke sikkerheden af de tilkoblede egensikre  
+
+ strømkredse.
+Tilhørende materiel kan være - enten elektrisk materiel, som har en anden beskyttelsesmåde til brug i  
+
+ den pågældende eksplosionsfarlige atmosfære.
+ - eller elektrisk materiel, som ikke er tilstrækkeligt beskyttet, og  
+
+ derfor ikke må anvendes i en eksplosionsfarlig atmosfære.
+ Eksempel:
+ Et registrerende instrument, som ikke befinder sig i en eksplosionsfarlig  
+
+ atmosfære, men som er tilsluttet et termoelement i en eksplosionsfarlig  
+
+ atmosfære, og hvor kun termoelementets strømkreds er egensikker.
+ 2.12.4 Egensikkert materiel og egensikre dele af tilhørende materiel  
+
+ inddeles i to kategorier:
+ Kategori ia.
+ Elektrisk materiel i kategori ia må ikke kunne forårsage antændelse under  
+
+ normal drift eller ved en enkelt fejl eller ved enhver kombination af to  
+
+ fejl.
+ Kategori ib.
+ Elektrisk materiel i kategori ib må ikke kunne forårsage antændelse under  
+
+ normal drift eller ved en enkelt fejl.
+ 2.13 Særlig beskyttelsesmåde »s«:
+ Anden beskyttelsesmåde end anført i §§ 2.7 til 2.12. hvormed der er taget  
+
+ særlige konstruktive forholdsregler for at give materiellet en tilsvarende  
+
+ sikkerhed.
+§ 3 Mærkning 3.1 Eksplosionsbeskyttet materiel skal være mærket i overensstemmelse med  
+
+ konstruktionsbestemmelserne.
+ Mærkningøn kan f.eks. indeholde følgende:
+ o: Oliekapsling.
+ p: Overtrykskapsling.
+ q: Sandkapsling.
+ d: Tryksikker kapsling.
+ e: Forhøjet sikkerhed.
+ ia: Egensikkerhed, kategori ia.
+ ib: Egensikkerhed, kategori ib.
+ I for materiel til anvendelse i miner, hvor der kan forekomme grubegas.
+ II IIA, IIB eller IIC for materiel til anvendelse på alle andre steder end  
+
+ i miner med grubegas.
+ Bogstaverne A, B og C anvendes, når beskyttelsesmåden kræver det.
+ Materiel i gruppe II, som har en maksimal overfladetemperatur, der er  
+
+ højere end 450 graderC, er kun mærket med temperaturen.
+ Materiel i gruppe II, der er certificeret og mærket for en særlig luftart,  
+
+ behøver ikke at have temperaturmærkning.
+ Hvor mere end een beskyttelsesmåde er anvendt, angives  
+
+ hovedbeskyttelsesmåden først, efterfulgt af symbolet for de andre  
+
+ beskyttelsesmåder.
+Mærkningen 3) til 6) udføres i den angivne rækkefølge.
+Eksempler:
+ - Materiel i tryksikker kapsling i gruppe I:
+EEx d I - Materiel i tryksikker kapsling i gruppe I og II B, temperaturklasse T3:
+EEx d I/IIB T3 - Materiel med forhøjet sikkerhed og overtrykskapsling i gruppe II med  
+
+ maksimal overfladetemperatur på 125 graderC:
+EEx ep II 125 graderC (T4) eller EEx ep II 125 graderC - Tryksikker kapsling for ammoniak:
+EEx d II (NH3) § 4 Klassifikation af eksplotionsfarlige områder 4.1 Inddeling i zoner.
+ 4 1.1 Eksplosionsfarlige områder med brændbare luftarter, dampe eller  
+
+ tåger.
+ Zone 0: Områder, hvor der uafbrudt eller i lange perioder forekommer  
+
+ eksplosiv atmosfære.
+ Zone 1: Områder, hvor der lejlighedsvis under normale driftsforhold  
+
+ forekommer eksplosiv atmosfære.
+ Zone 2: Områder, hvor der kun undtagelsesvis og da kun i korte perioder  
+
+ forekommer eksplosiv atmosfære.
+ 4.1.2 Eksplosionsfarlige områder med brændbart støv.
+ Zone 10: Områder, hvor der ofte eller i lange perioder forekommer  
+
+ eksplosiv atmosfære i form af brændbart støv.
+ Zone 11: Områder, hvor der kortvarigt forekommer eksplosiv atmosfære, især  
+
+ ved ophvirvling af brændbart støv.
+ 4.2 Almindeligt.
+ 4.2.1 Skal et område henregnes under mere end een kategori, skal  
+
+ installationen tilfredsstille bestemmelserne for alle de kategorier, der  
+
+ kommer i betragtning.
+Et område kan f.eks. være både eksplosionsfarligt og fugtigt.
+I dette  
+
+ tilfælde skal installationen udføres sådan, at den opfylder bestemmelserne  
+
+ både for eksplosionsfarlige og fugtige områder.
+ 4.2.2 Hvis et område skifter anvendelse eller beskaffenhed, skal  
+
+ forhåndenværende installationer bringes i overensstemmelse med bestemmelserne  
+
+ svarende til den nye klassificering.
+ Skifter et område anvendelse eller beskaffenhed i forbindelse med  
+
+ tilslutning af en brugsgenstand, må tilslutning ikke foretages, før alle  
+
+ installationer i området er bragt i overensstemmelse med bestemmelserne  
+
+ svarende til den nye klassificering.
+§ 5 Materiel 5.1 Gruppeinddeling af materiel.
+ 5.1.1 Materiel til anvendelse i eksplosionsfarlige områder inddeles i  
+
+ følgende grupper:
+ Gruppe I: Materiel til anvendelse i miner, hvor der kan forekomme  
+
+ grubegas.
+ Gruppe II: Materiel til anvendelse alle andre steder end i miner, hvor der  
+
+ kan forekomme grubegas.
+ For nogle beskyttelsesmåder er gruppe II underopdelt i A, B og C.  
+
+ Inddelingen er for tryksikker kapsling baseret på den maksimale  
+
+ eksperimentelle sikkerhedsspalte (MESG)1) og for egensikkert materiel baseret  
+
+ på den minimale tændstrøm (MIC)2).
+ Vedrørende sammenhængen mellem MESG eller MIC og underopdelingen af gruppe  
+
+ II i A, B eller C, se afsnit 50.
+ 5.2 Temperaturklasse.
+ 5.2.1 Materiel i gruppe II inddeles i seks temperaturklasser, T1 til T6  
+
+ afhængig af den maksimale overfladetemperatur, som er angivet i følgende  
+
+ tabel:
+§ 6 Almindelige bestemmelser 6.1 Valg af materiel.
+ 6.1.1 I eksplosionsfarlige områder i miner, hvor der kan forekomme  
+
+ grubegas, skal der anvendes elektrisk materiel i gruppe I.
+ 6.1.2 I andre eksplosionsfarlige områder end miner, hvor der kan forekomme  
+
+ grubegas, skal der anvendes elektrisk materiel i gruppe II.
+ Undtagelse:
+ Materiel i gruppe I kan anvendes, når eksplosionsfaren skyldes kulstøv  
+
+ og/eller grubegas.
+ 6.1.3 Materiel med egensikkerhed »i« eller tryksikker kapsling  
+
+ »d« i gruppe II skal anvendes i overensstemmelse med følgende  
+
+ tabel:
+ Angående gruppeinddeling af eksplosionsfarlige luftarter og dampe, se  
+
+ bilag 1.
+ 6.1.4 Materiellet skal kunne modstå de mekaniske, kemiske og termiske  
+
+ påvirkninger, som det kan blive udsat for.
+ F.eks. er bly, men ikke PVC, modstandsdygtigt over for benzin, fortynder  
+
+ o.l.
+ 6.1.5 Eksplosionsbeskyttet materiel må ikke anvendes på steder, hvor  
+
+ omgivelsestemperaturen kan blive højere end 40 graderC.
+ Undtagelse:
+ Hvis materiellet er specielt mærket med en anden maksimal  
+
+ omgivelsestemperatur, er det denne, der ikke må overskrides.
+ 6.1.6 Eksplosionsbeskyttet materiel skal vælges i den temperaturklasse,  
+
+ hvor den maksimale overfladetemperatur er mindre end tændtemperaturen for de  
+
+ omgivende luftarter.
+ Tændtemperaturen for forskellige luftarter er angivet i bilag 1.
+ 6.2 Ledninger.
+ 6.2.1 Ledninger og kabler skal kunne modstå de mekaniske, kemiske og  
+
+ termiske påvirkninger som de kan blive udsat for.
+ 6.2.2 Kabelgennemføringer fra en zone til en anden zone eller fra et  
+
+ eksplosionsfarligt område til et ikke eksplosionsfarligt område skal være  
+
+ lukket tæt, f.eks. ved forsegling eller sandfyldning.
+ 6.2.3 Ubenyttede indføringer i elektrisk materiel skal være lukket med  
+
+ blindpropper, der er beregnet til den pågældende beskyttelsesmåde.
+ 6.2.4 Til fast installation skal der anvendes kabler, der har en ydre  
+
+ kappe af isolerende materiale.
+6.2.5 1 strømkredse, hvor den maksimale spænding ikke overstiger 50 V  
+
+ vekselstrøm eller 120 V jævnstrøm og med meget lavt effektforbrug (f.eks.  
+
+ signalkredse og elektroniske logikudrustninger), kan der anvendes kabler med  
+
+ et mindste ledertværsnit på 0,5 mm2 ledertværsnit (diameter 0,8 mm) i toleder kabler og 0,25 mm2 ledertværsnit (diameter 0,6 mm) i toleder kabler med skærm og i tre- og flerleder kabler.
+ Kablerne anses for at være overstrømsbeskyttet, hvis de forsynes fra en  
+
+ strømkilde, som ikke kan afgive en strøm, der overstiger kablernes  
+
+ strømværdi.
+ 6.2.6 Tilledninger til transportabelt materiel skal være svær  
+
+ polychloroprene-kappeledning type H07RN-F eller af tilsvarende robust  
+
+ konstruktion.
+ Undtagelse:
+Tilledninger til transportabelt materiel med en mærkestrøm på højst 6 A  
+
+ kan være type H05RN-F, H05RR-F eller H05VV-F.
+Disse ledninger er ikke tilladt  
+
+ til transportabelt materiel, der udsættes for kraftige mekaniske  
+
+ påvirkninger, f.eks. håndlamper, fodkontakter eller dykpumper.
+ 6.2.7 Tilledninger til stationært materiel skal være almindelig  
+
+ kappeledning type H05RN-F, H05RR-F eller H05VV-F eller af tilsvarende robust  
+
+ konstruktion.
+ 6.2.8 Der må ikke anvendes forlængerledning.
+ 6.2.9 Ledninger i egensikre strømkredse behøver ikke at opfylde  
+
+ bestemmelserne i § 6.2.4 til § 6.2.8.
+§ 7 Egensikre strømkredse 7.1 Udførelse.
+ 7.1.1 Strømforsyningen til den egensikre strømkreds skal være anbragt i et  
+
+ ikke eksplosionsfarligt område eller have samme beskyttelsesmåde, som kræves  
+
+ for det pågældende område.
+7.1.2 Egensikre strømkredse skal - enten være isoleret fra jord, - eller i eet punkt være tilsluttet et potentialudligningssystem, der  
+
+ omfatter hele det område, hvor de egensikre kredse er installeret, - eller i eet punkt være tilsluttet jord, hvis jordforbindelse er krævet  
+
+ af driftsmæssige årsager.
+ 7.1.3 Ved anvendelse af sikkerhedsbarriere uden galvanisk adskillelse må  
+
+ en eventuel fejlspænding på sikkerhedsbarrierens ikke egensikre side ikke  
+
+ kunne overstige mærkespændingen for den sikring, der er indbygget i  
+
+ sikkerhedsbarrieren.
+Ledningen, der forbinder jordklemmen på sikkerhedsbarrieren med  
+
+ potentialudligningssystemet, skal være så kort som mulig og skal være således  
+
+ dimensioneret, at den mindst kan føre forekommende fejlstrømme, indtil  
+
+ afbrydelse finder sted.
+Ledningen skal være af kobber og have et  
+
+ ledertværsnit på mindst 15 mm2.
+ 7.1.4 Ledere for egensikre strømkredse og ledere for ikke egensikre  
+
+ installationer må ikke føres i samme kabel, ledningsbundt eller rør osv. i  
+
+ eller uden for det eksplosionsfarlige område.
+ 7.1.5 1 installationer med både egensikre og ikke egensikre strømkredse  
+
+ skal tilslutningsklemmer for egensikkert materiel på betryggende måde være  
+
+ adskilt fra klemmerne for ikke egensikkert materiel enten ved skilleplader af  
+
+ isolermateriale eller ved en afstand på mindst 50 mm mellem klemmerne.
+ 7.1.6 Ledningerne i egensikre strømkredse skal være isolerede.  
+
+ Prøvespændingen mellem lederne indbyrdes og mellem en leder og jord skal  
+
+ mindst være 500 V vekselstrøm.
+ 7.1.7 Egensikre strømkredse, der er udsat for magnetiske eller elektriske  
+
+ felter, skal beskyttes således, at egensikkerheden ikke forringes.
+Beskyttelsen kan f.eks. foretages ved anvendelse af sammensnoede  
+
+ enkeltledninger eller kabler med flere sammensnoede ledere eller skærmede ledninger, hvor skærmen forbindes til  
+
+ jord.
+ 7.1.8 Flere egensikre strømkredse må kun føres i samme bøjelige kabel, når  
+
+ der anvendes en ledning, som mindst svarer til almindelig kappeledning type  
+
+ H05VV-F eller type H05RR-F.
+ 7.1.9 Ledninger i egensikre strømkredse skal være særskilt mærket med en  
+
+ tydelig og holdbar mærkning, så de kan skelnes fra ikke egensikre  
+
+ strømkredse.
+ Anvendes farvemærkning bør den være lyseblå.
+ 7.1.10 I egensikre strømkredse må de højst tilladte værdier for  
+
+ kapacitans, induktans eller temperaturer ikke overskrides ved tilslutning af  
+
+ materiel eller ledninger.
+ De højst tilladte værdier for kapacitans, induktans m.v. er angivet på  
+
+ strømforsyningen eller i godkendelsescertifikatet.
+7.1.11 Sammenkobling af flere egensikre strømkredse eller tilslutning til  
+
+ mere end een strømforsyning er kun tilladt. hvis det er i overensstemmelse  
+
+ med en medfølgende vejledning.
+Det skal ved beregning eller måling af den  
+
+ resulterende kombination af de elektriske parametre (f.eks. spænding,  
+
+ kortslutningsstrøm, kapacitanser, induktanser) kontrolleres, at  
+
+ egensikkerheden bibeholdes.
+ Beregningerne eller måleresultaterne skal på forlangende fremlægges for  
+
+ Elektricitetsrådet.
+7.1.12 Materiel i egensikre strømkredse må ikke antage for høje  
+
+ temperaturer.
+Grænsetemperaturen for den pågældende temperaturklasse må ikke  
+
+ overskrides.
+ 7.1.13 Ukomplicerede komponenter (f.eks. termoelementer, fotoceller,  
+
+ dåser, afbrydere, modstande og halvledere). som under normal drift ikke selv  
+
+ genererer eller lagrer mere end 1.2 V. 0.1 A, 25 mW eller 20 QJ, kræves ikke  
+
+ certificeret og behøver ikke at opfylde mærkningskravet, men skal opfylde de  
+
+ andre bestemmelser, som egensikkerheden afhænger af.
+§ 8 Andre forhold 8.1 Åbning af kapslinger.
+ 8.1.1 Ved åbning af kapslinger for eksplosionsbeskyttet materiel skal  
+
+ strømforsyningen til materiellet være afbrudt.
+ Kapslinger, der kan åbnes hurtigere end den tid, der er nødvendig for  
+
+ afladning af indbyggede kondensatorer eller afkøling af indkapslede  
+
+ komponenter, er mærket med den nødvendige forsinkelsestid for åbning af  
+
+ kapslingen.
+B: Bestemmelser for de enkelte områder § 9 Zone 0 9.1 Almindeligt.
+ 9.1.1 Zone 0 er områder, hvor der uafbrudt eller i lange perioder  
+
+ forekommer eksplosiv atmosfære.
+ 9.2 Valg af materiel.
+ 9.2.1 I zone 0 skal der anvendes materiel i egensikker udførelse i  
+
+ kategori ia eller materiel, der specielt er tilladt til anvendelse i zone 0,  
+
+ og materiellet skal installeres i overensstemmelse med dets certifikat.
+§ 10 Zone 1 10.1 Almindeligt.
+ 10.1.1 Zone 1 er områder, hvor der lejlighedsvis under normale  
+
+ driftsforhold forekommer eksplosiv atmosfære.
+ 10.2 Valg af materiel.
+ 10.2.1 I zone 1 skal der enten anvendes materiel, der er for zone 0, eller  
+
+ materiel i en af følgende beskyttelsesmåder:
+Oliekapsling o Overtrykskapsling p Sandkapsling q Tryksikker kapsling d  
+
+ Forhøjet sikkerhed e Egensikkerhed i Særlig beskyttelsesmåde s 10.3 Særlige bestemmelser for visse beskyttelsesmåder.
+ 10.3.1 Oliekapslet materiel skal være fast monteret i den stilling, det er  
+
+ beregnet til, og må ikke anvendes, hvor det kan bevæges under drift.
+ 10.3.2 Overtrykskaplet materiel skal være forsynet med en automatik  
+
+ afbryder der udkobler materiellet eller giver alarm, hvis trykket falder  
+
+ under den foreskrevne minimumsgrænse.
+ 10.3.3 Udblæsningskanaler fra overtrykskapslet materiel skal føres ud til  
+
+ ikke eksplosionsfarlige områder.
+ 10.4 Motorer.
+ 10.4.1 Motorer skal overbelastningsbeskyttes, Automatiske  
+
+ overstrømsafbrydere til overbelastningsbeskyttelse må højst indstilles på  
+
+ motorens fuldlaststrøm.
+ 10.4.2 Brydeevnen for afbrydere i en motors hovedstrømkreds skal mindst  
+
+ være lig med motorens startstrøm.
+ 10.5 Motorer med forhøjet sikkerhed.
+ 10.5.1 Overbelastningsbeskyttelse af motorer med indbyggede  
+
+ temperaturfølere må kun ske med det tilhørende certificerede udstyr.
+10.5.2 Udløsekurverne for automatiske overstrømsafbrydere skal være  
+
+ tilgængelige på stedet.
+Udløsekurven skal angive værdierne for  
+
+ tidsforsinkelsen fra kold tilstand, ved en omgivelsestemperatur på 20  
+
+ graderC, for en række startstrømforhold IA IN fra mindst 3 til 8. Beskyttelsesindretningen skal overholde de  
+
+ fastlagte værdier af tidsforsinkelsen inden for grænserne +/-20 pct.
+ 10.5.3 Automatiske overstrømsafbrydere for motorer skal ud fra  
+
+ udløsekurven indstilles således, at afbryderen udløser ved startstrømmen IA,  
+
+ inden opvarmningstiden tE for motoren.
+ Motorer med forhøjet sikkerhed er mærket med IA og tE, se afsnit 50-5.
+ 10.5.4 Ved overbelastningsbeskyttelse med termiske relæer af motorer med  
+
+ trekantkoblede viklinger gælder følgende:
+ - Anbringes relæerne i serie med motorens faseviklinger, skal de  
+
+ indstilles på maksimalt 0,58 gange motorens fuldlaststrøm.
+ - Anbringes relæerne i netledningen, skal der træffes særlige  
+
+ forholdsregler for at yde beskyttelse ved fasebrud, f.eks. et fasebrudsrelæ.
+ 10.6 Potentialudligning.
+ 10.5.1 For at undgå gnistdannelser mellem kapslinger indbyrdes eller i  
+
+ forhold til fremmede ledende dele skal der foretages potentialudligning.  
+
+ Ledningsevnen af udligningsforbindelsen skal mindst svare til 10 mm2 Cu.
+ Vedrørende ekstrabeskyttelse, se afsnit 10, § 17.9.
+ 10.7 Overbelastningsbeskyttelse.
+ 10.7.1 Automatiske overstrømsafbrydere, der anvendes til beskyttelse af  
+
+ brugsgenstande og hjælpeapparater placeret i zone 1, må ikke have automatisk  
+
+ genindkobling.
+ 10.8 Nødafbrydere.
+ 10.8.1 Elektriske apparater i zone 1 skal kunne afbrydes med nødafbrydere  
+
+ anbragt uden for området, hvis fortsat drift efter et uheld kan medføre fare.  
+
+ Nødafbryderne kan erstatte de afbrydere. der normalt kræves for  
+
+ brugsgenstande.
+ 10.8.2 Elektriske apparater, som i tilfælde af uheld skal være i drift for  
+
+ at undgå forøget fare, skal forsynes fra selvstændig gruppe, som ikke er  
+
+ omfattet af nødafbryderen.
+§ 11 Zone 2 11.1 Almindeligt.
+ 11.1.2 Zone 2 er områder, hvor der kun undtagelsesvis og da kun i korte  
+
+ perioder, forekommer eksplosiv atmosfære.
+ 11.2 Ledninger i fast installation.
+ 11.2.1 Til synlig installation kan endvidere anvendes kanalskinnesystemer  
+
+ i kapslingsklasse IP 44.
+ 11.3 Valg af materiel.
+11.3.1 I zone 2 skal anvendes - materiel, for zone 0 eller zone 1, - materiel, der er specielt tilladt til anvendelse i zone 2, eller - materiel, som mindst er i kapslingsklasse IP 44, og hvor bestemmelserne  
+
+ i §§ 11.4 og 11.5 er opfyldt.
+ 11.4 Monteringsmateriel.
+ 11.4.1 Stikkontakter med mærkestrøm 6 og 10 A skal være med låg.  
+
+ Stikkontakter med mærkestrøm større end 10 A skal være med blokering og have  
+
+ låg.
+ 11.5 Brugsgenstande.
+ 11.5.1 Belysningsgenstande skal omslutte lyskilden helt eller være  
+
+ forsynet med beskyttelsesgitter.
+ 11.5.2 Kapslingen for kontaktringene i kontaktringsmotorer og kommutatoren  
+
+ i kommutatormotorer skal være i kapslingsklasse IP 54.
+11.5.3 Motorer skal overbelastningsbeskyttes.
+Automatiske  
+
+ overstrømsafbrydere må højst indstilles på motorens fuldlaststrøm.
+ Ved en fasekompenseret motor kan fuldlaststrømmen være mindre end den  
+
+ påstemplede værdi.
+11.5.4 Termiske apparaters udførelse eller anbringelse skal være således,  
+
+ at de ikke giver anledning til større støvaflejring.
+Varmeovne til  
+
+ rumopvarmning skal være fast tilsluttet og anbringes stationært i mindst 200  
+
+ mm højde over gulv.
+Overfladetemperaturen må ikke kunne overstige 100  
+
+ graderC.
+ Undtagelse:
+ Ved tørreaggregater tillades dog termiske apparater med en  
+
+ overfladetemperatur på indtil 300 graderC.
+§ 12 Zone 10 12.1 Almindeligt.
+ 12.1.1 Zone 10 er områder, hvor der ofte eller i lange perioder forekommer  
+
+ eksplosiv atmosfære i form af brændbart støv.
+ 12.2 Valg af materiel.
+12.2.1 I zone 10 skal anvendes - enten materiel, som mindst er i kapslingsklasse IP 64, - eller eksplosionsbeskyttet materiel med overtrykskapsling.
+12.2.2 Materiellets overfladetemperatur skal, for at undgå antændelse af  
+
+ ophvirvlet støv eller af støv, som aflejres på materiellet være - både lavere end 2/3 af tændtemperaturen for støv/luftblandingen, - og 75 graderC lavere end tændtemperaturen for støvlaget.
+ For overflader, hvor der kan aflejres støvlag, som er tykkere end 5 mm,  
+
+ skal den tilladelige overfladetemperatur formindskes yderligere.
+ 12.3 Potentialudligning.
+ 12.3.1 For at undgå gnistdannelser mellem kapslinger indbyrdes eller i  
+
+ forhold til fremmede ledende dele skal der foretages potentialudligning.  
+
+ Ledningsevnen af udligningsforbindelsen skal mindst svare til 10 mm2 Cu.
+ Vedrørende ekstrabeskyttelse, se afsnit 10. § 17.9.
+ 12.4 Overbelastningsbeskyttelse.
+ 12.4.1 Automatiske overstrømsafbrydere, der anvendes til beskyttelse af  
+
+ brugsgenstande og hjælpeapparater placeret i zone 10, må ikke have automatisk  
+
+ genindkobling.
+ 12.4.2 Motorer skal overbelastningsbeskyttes efter bestemmelserne i §§  
+
+ 10.4 og 10.5.
+ 12.5 Nødafbrydere.
+ 12.5.1 Elektriske apparater i zone 10 skal kunne afbrydes med nødafbrydere  
+
+ anbragt uden for området, hvis fortsat drift efter et uheld kan medføre fare.  
+
+ Nødafbryderne kan erstatte de afbrydere, der normalt kræves for  
+
+ brugsgenstande.
+ 12.5.2 Elektriske apparater, som i tilfælde af uheld skal være i drift for  
+
+ at undgå forøget fare, skal forsynes fra selvstændig gruppe, som ikke er  
+
+ omfattet af nødafbryderen.
+§ 13 Zone 11 13.1 Almindeligt.
+ 13.1.1 Zone 11 er områder, hvor der kortvarigt forekommer eksplosiv  
+
+ atmosfære, især ved ophvirvling af brændbart støv.
+ 13.2 Ledninger i fast installation.
+ 13.2.1 I synlig installation kan der endvidere anvendes  
+
+ kanalskinnesystemer i kapslingsklasse IP 54.
+ 13.3 Valg af materiel.
+13.3.1 I zone 11 skal anvendes - enten materiel, som mindst er i kapslingsklasse IP 54, dog kan  
+
+ kortslutningsmotorer, bortset fra tilslutningsklemmerne, være i  
+
+ kapslingsklasse IP 44, - eller eksplosionsbeskyttet materiel med egensikkerhed eller med  
+
+ overtrykskapsling.
+13.3.2 Materiellets overfaldetemperatur skal, for at undgå antændelse af  
+
+ ophvirvlet støv eller af støv, som aflejres på materiellet være - både lavere end 2/3 af tændtemperaturen for støv/luftblandingen, - og 75 graderC lavere end tændtemperaturen for støvlaget.
+ For overflader, hvor der kan aflejres støvlag, som er tykkere end 5 mm,  
+
+ skal den tilladelige overfladetemperatur formindskes yderligere.
+ 13.4 Motorer.
+ 13.4.1 Motorer skal overbelastningsbeskyttes efter bestemmelserne i §§  
+
+ 10.4 og 10.5.
+ 13.5 Belysningsgenstande.
+ 13.5.1 Belysningsgenstande skal beskyttes eller anbringes på en sådan  
+
+ måde, at de ikke er udsat for mekanisk overlast.
+ Endvidere skal der omkring lyskilden være en tætsluttende beskyttelse af  
+
+ glas eller et tilsvarende materiale.
+ 13.6 Stikkontakter.
+ 13.6.1 Stikkontakter skal være med blokering og have låg samt være i  
+
+ kapslingsklasse IP 54.
+Bilag 1 Brandtekniske data for luftarter, væsker og brændbart støv (i relation til  
+
+ normal atmosfærisk luft) Bilag 2 Sammenhæng mellem tidligere og nuværende betegnelser § 1 Indledning Indførelsen af internationale standarder i bestemmelserne for  
+
+ installationer i eksplosionsfarlige områder, afsnit 7 A, og  
+
+ konstruktionsbestemmelserne for eksplosionsbeskyttet materiel, afsnit 50,  
+
+ samt afsnit 50-1 til 50-6, der omhandler hver sin beskyttelsesmåde, har  
+
+ medført nye betegnelser og mærkninger for områder og materiel, Da der fortsat vil kunne forekomme materiel efter hidtil gældende  
+
+ bestemmelser, hvor mærkningen ikke er i overensstemmelse med afsnit 50, og da  
+
+ klassificeringen af eksplosionsfarlige områder fortsat kan forekomme efter de  
+
+ tidligere betegnelser, er der her angivet nogle retningslinier for, hvorledes  
+
+ tidligere mærkninger og betegnelser kan anvendes i forbindelse med de nye  
+
+ bestemmelser.
+§ 2 Eksplosionsfarlige områder Eksplosionsfarlige områder inddeles nu i zoner i stedet for som tidligere  
+
+ i mere eller mindre eksplosionsfarlige lokaliteter.
+I tabel 1 er angivet  
+
+ sammenhængen mellem zoner og mere eller mindre eksplosionsfarlige  
+
+ lokaliteter.
+Tabel 1 Klassifikation af områder Tidligere betegnelse Nuværende betegnelse Mere eksplosionsfarlige lokaliteter Zone 1 Mindre eksplosionsfarlige lokaliteter Zone 2 § 3 Eksplosionsbeskyttet materiel Eksplosionsbeskyttet materiel har ved indførelsen af afsnit 50 fået nye  
+
+ betegnelser.
+I tabel 2 er angivet sammenhængen mellem nye og tidligere  
+
+ betegnelser.
+ Det eksplosionsbeskyttede materiel inddeles i to grupper afhængig af, i  
+
+ hvilket anvendelsesområde det skal benyttes.
+ Gruppe I: Materiel til anvendelse i miner, hvor der kan forekomme  
+
+ grubegas.
+ Gruppe II: Materiel til anvendelse alle andre steder end i miner, hvor der  
+
+ kan forekomme grubegas.
+Gruppe II er for materiel med tryksikker kapsling og materiel med  
+
+ egensikkerhed underopdelt i A, B og C.
+Inddelingen er for tryksikker kapsling  
+
+ baseret på den maksimale sikkerhedsspalte og for egensikkert materiel baseret  
+
+ på den minimale tændstrøm.
+ En del af det forekommende eksplosionsbeskyttede materiel er mærket i  
+
+ overensstemmelse med tyske bestemmelser (VDE), og i tabel 3 er angivet, hvad  
+
+ mærkningen efter VDE svarer til.
+Tabel 3 Yderligere inddeles eksplosionsbeskyttet materiel i gruppe II i seks  
+
+ temperaturklasser T1 til T6, således at man kan sikre sig mod antændelse fra  
+
+ overophedede overflader.
+Temperaturmærkningen kan være angivet på forskellig  
+
+ måde.
+I tabel 4 er for nogle mærkninger angivet, hvilken temperaturklasse de  
+
+ pågældende mærkninger svarer til.
+Tabel 4 Er materiellet udført efter afsnit 33 og mærket Ex uden  
+
+ temperaturangivelse eller tændgruppemærkning, kan materiellet placeres i  
+
+ temperaturklasse T3. Materiel, som ikke udvikler varme, som f.eks.  
+
+ samledåser, kan dog placeres i temperaturklasse T6.

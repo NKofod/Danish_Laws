@@ -1,0 +1,6089 @@
+Bekendtgørelse  
+
+ om information i  
+
+  
+
+ OIOXML elektronisk regning til brug for  
+
+  
+
+ elektronisk afregning med offentlige myndigheder I medfør af § 7 i lov nr. 1203 af 27. december 2003  
+
+ om offentlige betalinger m.v. og kongelig resolution af 8. oktober 2004,  
+
+ fastsættes:
+ § 1.  
+
+  
+
+ Offentlige myndigheder skal kunne modtage regninger udarbejdet i OIOXML  
+
+ elektronisk regning, som er den fælles offentlige standard for modtagelse af  
+
+ elektroniske regninger.
+ Stk. 2.  
+
+  
+
+ Reglerne  
+
+ for udformningen af en elektronisk regning udarbejdet i OIOXML, der sendes  
+
+ direkte  
+
+ til en offentlig myndighed, fremgår af bilag 1.
+ Stk. 3.  
+
+  
+
+ Reglerne  
+
+ for udformningen af en elektronisk regning udarbejdet i OIOXML, der sendes  
+
+ gennem et Læs Ind-bureau, jf. bekendtgørelse nr. 992 af 7.  
+
+ oktober 2004 om  
+
+ Læs Ind-service, fremgår af bilag 1.
+ § 2.  
+
+  
+
+ Bekendtgørelsen gælder for de offentlige myndigheder, selvejende  
+
+ institutioner  
+
+ m.v., institutioner foreninger, fonde m.v., som er omfattet af bekendtgørelse  
+
+ nr. 991 af 7. oktober 2004 om elektronisk afregning med offentlige  
+
+ myndigheder,  
+
+ jf. bekendtgørelsens § 13, og bekendtgørelse om Læs  
+
+ Ind-service, jf.  
+
+ bekendtgørelsens § 5, stk. 2.
+ § 3.  
+
+  
+
+ Bekendtgørelsen træder i kraft eDag2 den 1. februar 2005.
+Ministeriet for Videnskab, Teknologi og  
+
+ Udvikling, den 11. november 2004 Helge Sander /Anne Skov Bilag 1 Udformning af en elektronisk regning (OIOXML  
+
+ elektronisk regning)  til brug for afregning med offentlige myndigheder 1 Bilagets opbygning Bilaget viser indhold (herunder blandt  
+
+ andet syntaks og semantik) for en OIOXML elektronisk regning.
+Der skelnes i  
+
+ bilaget  
+
+ mellem 4 typer af OIOXML elektronisk regning: en elektronisk regning, en  
+
+ elektronisk kreditnota, en Læs Ind regning og en Læs  
+
+ Ind kreditnota.
+Hver  
+
+ af de 4 meddelelser opmærkes med eXtensible Markup Language, som defineret af  
+
+ World Wide Web konsortiet (W3C). En OIOXML elektronisk regning skal overholde  
+
+ specifikationerne i nærværende bilag og samtidig kunne valideres med et W3C  
+
+ XML  
+
+ Schema, som stilles til rådighed af IT & Telestyrelsen.
+ I en OIOXML elektronisk regning til en offentlig myndighed  
+
+ skelnes der mellem obligatorisk, betinget, frivillig og aftalt information.
+ Obligatorisk  
+
+ information
+  
+
+ skal være tilstede i en elektronisk regning, for at  
+
+ modtageren kan anvende meddelelsen.
+ Betinget  
+
+ information
+  
+
+ skal - såfremt de betingelser, der betinger den er opfyldt  
+
+ - være tilstede i en meddelelse.
+ Frivillig  
+
+ information
+  
+
+ kan være tilstede i en elektronisk regning - og modtageren  
+
+ har pligt til at checke om informationen er tilstede, samt til at lade  
+
+ informationer indgå i sagsbehandlingen.
+ Aftalt  
+
+ information
+  
+
+ kan være tilstede i en meddelelse - men modtageren har kun  
+
+ pligt til at checke om informationen er tilstede, samt til at lade  
+
+ informationen indgå i sagsbehandlingen, såfremt modtageren på forhånd har  
+
+ erklæret  
+
+ sig indforstået hermed.
+ Elektroniske  
+
+ "Læs Ind" meddelelser
+  
+
+ kan kun indeholde  
+
+
+  
+
+ obligatorisk
+  
+
+ og  
+
+
+  
+
+ betinget
+  
+
+ information.
+Beskrivelsen i nærværende bilag er mere  
+
+ restriktiv end kardinaliteten (antal forekomster af en klasse) i  
+
+ klassediagrammerne afspejler.
+Det er beskrivelsen der er gældende.
+Eksempler er ikke normative.
+Ved  
+
+ uoverensstemmelse mellem eksempler og beskrivelser er beskrivelsen gældende.
+1.1 Namespace for meddelelser Hver meddelelsestype kan identificeres  
+
+ ved hjælp af en namespace-erklæring.
+Namespace-erklæringen benyttes til at  
+
+ identificere  
+
+ meddelelsestype og version.
+Der er er erklæret følgende namespaces.
+Det er  
+
+ frivilligt at implementere Test-namespaces.
+Meddelelse Namespace URI Note Elektronisk regning http://rep.oio.dk/ubl/xml/schemas/0p71/pie Elektronisk kreditnota http://rep.oio.dk/ubl/xml/schemas/0p71/pcm En positiv fakturatotal mindsker saldo i fakturaudsteders  
+
+ favør.
+Læs Ind faktura http://rep.oio.dk/ubl/xml/schemas/0p71/pip Læs Ind kreditnota http://rep.oio.dk/ubl/xml/schemas/0p71/pcp En positiv fakturatotal mindsker saldo i fakturaudsteders  
+
+ favør.
+Test elektronisk regning http://rep.oio.dk/ubl/xml/schemas/0p71/testpie Test meddelelse, som ikke må bogføres.
+Test elektronisk kreditnota http://rep.oio.dk/ubl/xml/schemas/0p71/testpcm Test meddelelse, som ikke må bogføres.
+Test Læs Ind regning http://rep.oio.dk/ubl/xml/schemas/0p71/testpip Test meddelelse, som ikke må bogføres.
+Test Læs Ind kreditnota http://rep.oio.dk/ubl/xml/schemas/0p71/testpcp Test meddelelse, som ikke må bogføres.
+2 Indholdsfortegnelse 1 Bilagets opbygning 1.1 Namespace for  
+
+ meddelelser 2 Indholdsfortegnelse 3 OIOXML elektronisk »Læs Ind« meddelelse 4 OIOXML elektronisk regning/kreditnota 5 Invoice opbygning 5.1 Invoice 5.2 Invoice  
+
+à  
+
+  
+
+ ReferencedOrder 5.3 Invoice  
+
+à  
+
+  
+
+ BuyerParty 5.4 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ PartyName 5.5 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ Address 5.6 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ Address  
+
+à  
+
+  
+
+ Country 5.7 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ BuyerContact 5.8 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ ExtensibleContent 5.9 Invoice  
+
+à  
+
+  
+
+ DestinationParty 5.10 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ PartyName 5.11 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Contact 5.12 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Language 5.13 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Address 5.14 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Address  
+
+à  
+
+  
+
+ Country 5.15 Invoice  
+
+à  
+
+  
+
+ SellerParty 5.16 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ PartyName 5.17 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ Address 5.18 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ Address  
+
+à  
+
+  
+
+ Country 5.19 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ PartyTaxScheme 5.21 Invoice  
+
+à  
+
+  
+
+ Sellerparty  
+
+à  
+
+  
+
+ OrderContact 5.22 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ ExtensibleContent 5.23 Invoice  
+
+à  
+
+  
+
+ PaymentMeans 5.24 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PayeeFinancialAccount 5.25 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PayeeFinancialAccount  
+
+à  
+
+  
+
+ FiBranch 5.26 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PayeeFinancialAccount  
+
+à  
+
+  
+
+ FiBranch  
+
+à  
+
+  
+
+ FinancialInstitution 5.27 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PaymentAdvice 5.28 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PaymentAdvice  
+
+à  
+
+  
+
+ AccountToAccount 5.29 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ ExtensibleContent 5.30 Invoice  
+
+à  
+
+  
+
+ PaymentTerms 5.31 Invoice  
+
+à  
+
+  
+
+ PaymentTerms  
+
+à  
+
+  
+
+ SettlementPeriod 5.32 Invoice  
+
+à  
+
+  
+
+ PaymentTerms  
+
+à  
+
+  
+
+ PenaltyPeriod 5.33 Invoice  
+
+à  
+
+  
+
+ AllowanceCharge 5.34 Invoice  
+
+à  
+
+  
+
+ TaxTotal 5.35 Invoice  
+
+à  
+
+  
+
+ TaxTotal  
+
+à  
+
+  
+
+ TaxAmounts 5.36 Invoice  
+
+à  
+
+  
+
+ TaxTotal  
+
+à  
+
+  
+
+ CategoryTotal 5.37 Invoice  
+
+à  
+
+  
+
+ TaxTotal  
+
+à  
+
+  
+
+ CategoryTotal  
+
+à  
+
+  
+
+ TaxAmounts 5.38 Invoice  
+
+à  
+
+  
+
+ LegalTotals 5.39 Invoice  
+
+à  
+
+  
+
+ InvoiceLine 5.40 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine 5.41 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty 5.42 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ PartyName 5.43 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Contact 5.44 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Language 5.45 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Address 5.46 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Address  
+
+à  
+
+  
+
+ Country 5.47 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item 5.48 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ BuyersItemIdentification 5.49 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ SellersItemIdentification 5.50 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ ManufacturersItemIdentification 5.51 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ StandardItemIdentification 5.52 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ CatalogueItemIdentification 5.53 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ ReferencedCatalogue 5.54 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ CommodityClassification 5.55 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ Tax 5.57 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ BasePrice 5.58 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DeliveryRequirement 5.59 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DeliveryRequirement  
+
+à  
+
+  
+
+ DeliverySchedule 5.60 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ AllowanceCharge 5.61 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ AllowanceCharge 5.62 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item 5.63 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ BuyersItemIdentification 5.64 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ SellersItemIdentification 5.65 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ ManufacturersItemIdentification 5.66 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ StandardItemIdentification 5.67 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ CatalogueItemIdentification 5.68 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ ReferencedCatalogue 5.69 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ CommodityClassification 5.70 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ Tax 5.71 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ BasePrice 5.72 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ BasePrice 5.73 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ExtensibleContent 5.74 Invoice  
+
+à  
+
+  
+
+ ValidatedSignature 5.75 Invoice  
+
+à  
+
+  
+
+ ExtensibleContent 3  
+
+ OIOXML elektronisk "Læs Ind" meddelelse De  
+
+ 2 Læs Ind meddelelser indeholder forskellige  
+
+ namespace-erklæringer, men er  
+
+ ellers strukturelt identiske.
+Nedenstående tabel illustrerer opbygningen af  
+
+ en  
+
+ Læs Ind regning.
+<?xml  
+
+ version="1.0" encoding="utf-8"?> <Invoice  
+
+ xmlns="http://rep.oio.dk/ubl/xml/schemas/0p71/pip/"  
+
+ xmlns:com="http://rep.oio.dk/ubl/xml/schemas/0p71/common/"  
+
+ xmlns:main="http://rep.oio.dk/ubl/xml/schemas/0p71/maindoc/"  
+
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+
+ xsi:schemaLocation="http://rep.oio.dk/ubl/xml/schemas/0p71/pip/  
+
+ http://rep.oio.dk/ubl/xml/schemas/0p71/pip/piplax.xsd"> Namespace erklæringer skal inkluderes i en meddelelse  
+
+ for at modtageren kan identificere  
+
+ meddelelsestype og version. schemaLocation er ikke obligatorisk og kan  
+
+ fjernes / ændres.
+eller <Invoice  
+
+ xmlns="http://rep.oio.dk/ubl/xml/schemas/0p71/pcp/"  
+
+ xmlns:com="http://rep.oio.dk/ubl/xml/schemas/0p71/common/"  
+
+ xmlns:main="http://rep.oio.dk/ubl/xml/schemas/0p71/maindoc/"  
+
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+
+ xsi:schemaLocation="http://rep.oio.dk/ubl/xml/schemas/0p71/pcp/  
+
+ http://rep.oio.dk/ubl/xml/schemas/0p71/pcp/pcplax.xsd"> <com:ID>200500001</com:ID> <com:IssueDate>2005-01-01</com:IssueDate> <com:TypeCode>PIP</com:TypeCode> = PIP  
+
+ eller PCP <main:EncodedDocument  
+
+ agencyID="xxx">R0lGODlhBwADA</main:EncodedDocument> <com:BuyersReferenceID  
+
+ schemeID="EAN">5790987654321</com:BuyersReferenceID> <com:ReferencedOrder> <com:BuyersOrderID>M-147-B</com:BuyersOrderID> <com:SellersOrderID>null</com:SellersOrderID> DEFAULT: null <com:IssueDate>0001-01-01</com:IssueDate> DEFAULT:  
+
+ 0001-01-01 </com:ReferencedOrder> <com:BuyerParty> <com:ID  
+
+ schemeID="n/a">0</com:ID> DEFAULT: 0 <com:AccountCode>45654455</com:AccountCode> DimensionsKontoStreng <com:BuyerContact> <com:ID>hj@itst.dk</com:ID> </com:BuyerContact> </com:BuyerParty> <com:SellerParty> <com:ID  
+
+ schemeID="CVR">56668519</com:ID> Identifikation <com:PartyTaxScheme> <com:CompanyTaxID  
+
+ schemeID="CVR">56668519</com:CompanyTaxID> FakturaUdstederCVRNummer <com:PartyTaxScheme> </com:SellerParty> <com:PaymentMeans> <com:TypeCodeID>71</com:TypeCodeID> <com:PaymentDueDate>2004-09-01</com:PaymentDueDate> <com:PaymentChannelCode>INDBETALINGSKORT</com:PaymentChannelCode&gt  
+
+ ; <com:PaymentID>345543212345434</com:PaymentID> <com:JointPaymentID>83686896</com:JointPaymentID> <com:PayeeFinancialAccount> <com:ID>65366333</com:ID> <com:TypeCode>null</com:TypeCode> <com:FiBranch> <com:ID>null</com:ID> <com:FinancialInstitution> <com:ID>null</com:ID> </com:FinancialInstitution> </com:FiBranch> </com:PayeeFinancialAccount> </com:PaymentMeans> <com:TaxTotal> <com:TaxTypeCode>VAT</com:TaxTypeCode> AfgiftsKategoriKode <com:TaxAmounts> <com:TaxableAmount  
+
+ currencyID="DKK">1000.00</com:TaxableAmount> AfgiftsKategoriMomsGrundlag <com:TaxAmount  
+
+ currencyID="DKK">250.00</com:TaxAmount> AfgiftsKategoriMomsBeløb </com:TaxAmounts> <com:CategoryTotal> <com:RateCategoryCodeID>VAT</com:RateCategoryCodeID> AfgiftsKategori <com:RatePercentNumeric>25</com:RatePercentNumeric> AfgiftsKategoriProcent <com:TaxAmounts> <com:TaxableAmount  
+
+ currencyID="DKK">1000.00</com:TaxableAmount> AfgiftsKategoriMomsGrundlag <com:TaxAmount  
+
+ currencyID="DKK">250.00</com:TaxAmount> AfgiftsKategoriMomsBeløb </com:TaxAmounts> </com:CategoryTotal> </com:TaxTotal> <com:LegalTotals> <com:LineExtensionTotalAmount  
+
+ currencyID="DKK">0</com:LineExtensionTotalAmount> DEFAULT: 0 <com:ToBePaidTotalAmount  
+
+ currencyID="DKK">300.00</com:ToBePaidTotalAmount> </com:LegalTotals> <com:InvoiceLine> <com:ID>0</com:ID> DEFAULT: 0 <com:InvoicedQuantity  
+
+ unitCode="PC">0</com:InvoicedQuantity> DEFAULT: 0 <com:LineExtensionAmount  
+
+ currencyID="DKK">0</com:LineExtensionAmount> DEFAULT: 0 <com:Item> <com:ID>null</com:ID> DEFAULT: null <com:BasePrice> <com:PriceAmount currencyID="DKK">0</com:PriceAmount> DEFAULT: 0 </com:BasePrice> </com:Item> <com:BasePrice> <com:PriceAmount  
+
+ currencyID="DKK">0</com:PriceAmount> DEFAULT: 0 </com:BasePrice> </com:InvoiceLine> </Invoice> 4 OIOXML elektronisk  
+
+ regning/kreditnota En  
+
+ OIOXML elektronisk regning og en OIOXML elektronisk kreditnota indeholder  
+
+ forskellige namespace-erklæringer, men er ellers strukturelt identiske.  
+
+ Nedenstående tabel illustrerer opbygningen af en elektronisk regning.
+<?xml  
+
+ version="1.0" encoding="utf-8"?> <Invoice  
+
+ xmlns="http://rep.oio.dk/ubl/xml/schemas/0p71/pie/"  
+
+ xmlns:com="http://rep.oio.dk/ubl/xml/schemas/0p71/common/"  
+
+ xmlns:main="http://rep.oio.dk/ubl/xml/schemas/0p71/maindoc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+
+ xsi:schemaLocation="http://rep.oio.dk/ubl/xml/schemas/0p71/pie/  
+
+ http://rep.oio.dk/ubl/xml/schemas/0p71/pie/pielax.xsd"> Namespace erklæringer skal inkluderes i en meddelelse  
+
+ for at modtageren kan identificere  
+
+ meddelelsestype og version. schemaLocation er ikke obligatorisk og kan  
+
+ fjernes / ændres.
+eller <Invoice  
+
+ xmlns="http://rep.oio.dk/ubl/xml/schemas/0p71/pcm/"  
+
+ xmlns:com="http://rep.oio.dk/ubl/xml/schemas/0p71/common/"  
+
+ xmlns:main="http://rep.oio.dk/ubl/xml/schemas/0p71/maindoc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+
+ xsi:schemaLocation="http://rep.oio.dk/ubl/xml/schemas/0p71/pcm/ http://rep.oio.dk/ubl/xml/schemas/0p71/pcm/pcmlax.xsd"> <com:ID>200500001</com:ID> <com:IssueDate>2005-01-01</com:IssueDate> <com:TypeCode>PIE</com:TypeCode> =  
+
+ "PIE" eller PCM <main:InvoiceCurrencyCode>DKK</main:InvoiceCurrencyCode> <com:BuyersReferenceID  
+
+ schemeID="EAN">5790987654321</com:BuyersReferenceID> <com:ReferencedOrder> <com:BuyersOrderID>M-147-B</com:BuyersOrderID> <com:SellersOrderID>765476</com:SellersOrderID> <com:IssueDate>2003-07-02</com:IssueDate> </com:ReferencedOrder> <com:BuyerParty> <com:ID  
+
+ schemeID="CVR">26769388</com:ID> <com:AccountCode>45654455</com:AccountCode> <com:PartyName> <com:Name>IT-  
+
+ og Telestyrelsen</com:Name> </com:PartyName> <com:Address> <com:ID>Faktura</com:ID> <com:Street>Holsteinsgade</com:Street> <com:HouseNumber>63</com:HouseNumber> <com:CityName>København  
+
+ Ø</com:CityName> <com:PostalZone>1260</com:PostalZone> <com:Country> <com:Code  
+
+ listID="ISO 3166-1">DK</com:Code> </com:Country> </com:Address> <com:BuyerContact> <com:ID>hj@itst.dk</com:ID> </com:BuyerContact> </com:BuyerParty> <com:SellerParty> <com:ID  
+
+ schemeID="CVR">26666668</com:ID> <com:PartyName> <com:Name>PJ  
+
+ Unconstruction A/S</com:Name> </com:PartyName> <com:Address> <com:ID>Vareafsendelse</com:ID> <com:Street>Jernbanegade</com:Street> <com:HouseNumber>875</com:HouseNumber> <com:CityName>Roskilde</com:CityName> <com:PostalZone>4000</com:PostalZone> <com:Country> <com:Code  
+
+ listID="ISO 3166-2">DK-025</com:Code> </com:Country> </com:Address> <com:PartyTaxScheme> <com:CompanyTaxID  
+
+ schemeID="CVR">56668519</com:CompanyTaxID> FakturaUdstederCVRNummer <com:PartyTaxScheme> </com:SellerParty> <com:PaymentTerms> <com:ID>CONTRACT</com:ID> <com:RateAmount  
+
+ currencyID="DKK">743.33</com:RateAmount> <com:SettlementDiscountRateNumeric>40</com  
+
+ :SettlementDiscountRateNumeric> <com:PenaltySurchargeRateNumeric>40</com  
+
+ :PenaltySurchargeRateNumeric> <com:SettlementPeriod> <com:EndDateTimeDate>2003-07-02</com:EndDateTimeDate> </com:SettlementPeriod> <com:PenaltyPeriod> <com:StartDateTime>2003-07-02T12:13:14+01:00</com:StartDateTime> StrafRenteDato </com:PenaltyPeriod> </com:PaymentTerms> <com:AllowanceCharge> <com:ID>Afgift</com:ID> <com:ChargeIndicator>true</com:ChargeIndicator> <com:MultiplierReasonCode>343</com:MultiplierReasonCode> <com:MultiplierFactorQuantity  
+
+ unitCode="stk" unitCodeListAgencyID="n/a">40</com  
+
+ :MultiplierFactorQuantity> <com:AllowanceChargeAmount  
+
+ currencyID="DKK">400.00</com:AllowanceChargeAmount> <com:BuyersReferenceID>7110-4545333544</com:BuyersReferenceID> GebyrKategoriFinansKonto </com:AllowanceCharge> <com:AllowanceCharge> <com:ID>Gebyr</com:ID> <com:ChargeIndicator>true</com:ChargeIndicator> <com:MultiplierReasonCode>343</com:MultiplierReasonCode> <com:MultiplierFactorQuantity  
+
+ unitCode="stk" unitCodeListAgencyID="n/a">40</com  
+
+ :MultiplierFactorQuantity> <com:AllowanceChargeAmount  
+
+ currencyID="DKK">400</com:AllowanceChargeAmount> </com:AllowanceCharge> <com:TaxTotal> <com:TaxTypeCode>VAT</com:TaxTypeCode> <com:TaxAmounts> <com:TaxableAmount  
+
+ currencyID="DKK">1000.00</com:TaxableAmount> <com:TaxAmount  
+
+ currencyID="DKK">250.00</com:TaxAmount> </com:TaxAmounts> <com:CategoryTotal> <com:RateCategoryCodeID>VAT</com:RateCategoryCodeID> <com:RatePercentNumeric>25</com:RatePercentNumeric> <com:TaxAmounts> <com:TaxableAmount  
+
+ currencyID="DKK">1000.00</com:TaxableAmount> <com:TaxAmount  
+
+ currencyID="DKK">250.00</com:TaxAmount> </com:TaxAmounts> </com:CategoryTotal> </com:TaxTotal> <com:LegalTotals> <com:LineExtensionTotalAmount  
+
+ currencyID="DKK">24000</com:LineExtensionTotalAmount> <com:ToBePaidTotalAmount  
+
+ currencyID="DKK">30000</com:ToBePaidTotalAmount> </com:LegalTotals> <com:InvoiceLine> <com:ID>45</com:ID> <com:InvoicedQuantity  
+
+ unitCode="Stk"  
+
+ unitCodeListAgencyID="n/a">1000</com:InvoicedQuantity> <com:LineExtensionAmount  
+
+ currencyID="DKK">560.00</com:LineExtensionAmount> <com:ReferencedOrderLine> <com:BuyersID>656544</com:BuyersID> KøbsOrdreNummer <com:SellersID>4223222</com:SellersID> SalgsOrdreNummer <com:Item> <com:ID>434333</com:ID> KundeVareNummer <com:Description>Blyanter  
+
+ - kasse m. 10 stk</com:Description> KundeVareNavn <com:BasePrice> <com:PriceAmount  
+
+ currencyID="DKK">100</com:PriceAmount> </com:BasePrice> </com:Item> <com:DeliveryRequirement> <com:ID>Deliverydate</com:ID> LeveranceKrav <com:DeliverySchedule> <com:ID>2</com:ID> <com:RequestedDeliveryDateTime>2003-07-07T13:24:55+01:00</com  
+
+ :RequestedDeliveryDateTime> LeveringsDato </com:DeliverySchedule> </com:DeliveryRequirement> <com:AllowanceCharge> <com:ID>Afgift</com:ID> <com:ChargeIndicator>true</com:ChargeIndicator> Kunde <com:MultiplierReasonCode>234</com:MultiplierReasonCode> Kunde <com:MultiplierFactorQuantity  
+
+ unitCode="promille"  
+
+ unitCodeListAgencyID="n/a">5</com:MultiplierFactorQuantity&gt  
+
+ ; Kunde <com:AllowanceChargeAmount  
+
+ currencyID="DKK">300</com:AllowanceChargeAmount> Kunde <com:BuyersReferenceID>4544-6655</com:BuyersReferenceID> KundeGebyrKategoriFinanskonto </com:AllowanceCharge> </com:ReferencedOrderLine> <com:AllowanceCharge> <com:ID>Gebyr</com:ID> FakturaUdstederGebyrKategori <com:ChargeIndicator>true</com:ChargeIndicator> FakturaUdstederGebyrKategoriIndikering <com:MultiplierReasonCode>456</com:MultiplierReasonCode> FakturaUdstederGebyrKategoriÅrsag <com:MultiplierFactorQuantity  
+
+ unitCode="promille"  
+
+ unitCodeListAgencyID="n/a">34</com  
+
+ :MultiplierFactorQuantity> FakturaUdstederGebyrKategoriKvantitet <com:AllowanceChargeAmount  
+
+ currencyID="DKK">300</com:AllowanceChargeAmount> FakturaUdstederGebyrKategoriBeløb <com:BuyersReferenceID>4354-77666</com:BuyersReferenceID> </com:AllowanceCharge> <com:Item> <com:ID  
+
+ schemeID="n/a">434333</com:ID> <com:Description>Blyanter  
+
+ - kasse m. 10 stk</com:Description> <com:BasePrice> <com:PriceAmount  
+
+ currencyID="DKK">100</com:PriceAmount> </com:BasePrice> </com:Item> <com:BasePrice> <com:PriceAmount  
+
+ currencyID="DKK">100</com:PriceAmount> </com:BasePrice> </com:InvoiceLine> </Invoice> 5 Invoice  
+
+ opbygning 5.1 Invoice Kodeeksempel I kodeeksempler anvendes et foranstillet  
+
+ + til at indikere, at elementet er en kompleks type (klasse), som  
+
+ selv indeholder  
+
+ elementer.
+<Invoice  
+
+{namespace-erklæringer her} <com:ID>200500001</com:ID> <com:IssueDate>2005-01-01</com:IssueDate> <com:TypeCode>PIP</com:TypeCode> <main:InvoiceCurrencyCode>DKK</main:InvoiceCurrencyCode> <com:Note>I forbindelse med  
+
+ status  på alle ordrer.</com:Note> <main:EncodedDocument  
+
+ agencyID="xxx">R0lGODlhBwADA</main:Encoded  
+
+  
+
+ Document> <com:BuyersReferenceID  
+
+ schemeID="EAN">5790987654321</com:BuyersReferenceID> +<com:ReferencedOrder> +<com:BuyerParty> +<com:DestinationParty> +<com:SellerParty> +<com:PaymentMeans> +<com:PaymentTerms> +<com:AllowanceCharge> +<com:TaxTotal> +<com:LegalTotals> +<com:InvoiceLine> +<com:ValidatedSignature> +<com:ExtensibleContent> </Invoice> Klasser i klassen  
+
+ Invoice ReferencedOrder BuyerParty DestinationParty SellerParty PaymentMeans PaymentTerms AllowanceChange TaxTotal LegalTotals InvoiceLine ValidatedSignature Extensible Content Felter i klassen  
+
+ Invoice UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FakturaNr Identifier Frit format Obligatorisk  
+
+ /Læs Ind  
+
+ Obligatorisk IssueDate FakturaDato Date DS/ISO8601:2001 Obligatorisk/Læs IndObligatorisk TypeCode FakturaType Code Se udfaldsrum Obligatorisk/Læs IndObligatorisk InvoiceCurrencyCode FakturaValutaKode Code DS/ISO4217:2002 Obligatorisk Note FakturaNote Text Se udfaldsrum Frivillig EncodedDocument FakturaTIFF base64Binary Se udfaldsrum Aftalt/Læs IndObligatorisk BuyersReferenceID RegningsModtagerI  
+
+ D Identifier EAN-lokationsnummer Obligatorisk/Læs Ind  
+
+   Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaNr Fakturaudsteders faktura eller kreditnota nummer Frit format FakturaDato Fakturaudsteders datering af fakturaen.
+ F.eks. vil datoen: den 1. februar 2005 skrives:  
+
+ 2005-02-01.
+YYYY-MM-DD FakturaType "PIE" angiver en elektronisk regning (PI Elektronisk) "PCM" angiver en elektronisk kreditnota.
+Når  
+
+ fakturatype = PCM, vil en positiv fakturatotal mindske saldo i  
+
+ fakturaudsteders  
+
+ favør.
+ "PIP" angiver en papirbaseret regning (PI  
+
+ Papirbaseret).
+PCP angiver en papirbaseret kreditnota.
+Når fakturatype  
+
+ = PCP, vil en positiv fakturatotal mindske saldo i fakturaudsteders favør.
+PIE, PCM, PIP, PCP I forbindelse med test, som IKKE må bogføres, kan følgende  
+
+ værdier anvendes:
+PIETEST, PCMTEST, PIPTEST og PCPTEST Når fakturatype = PIP eller PCP er OIOXML-meddelelsen  
+
+ ikke en elektronisk regning, men en elektronisk meddelelse som, sammen med en  
+
+ TIFF-fil, beskriver en papirbaseret regning.
+En PIP eller en PCP meddelelse  
+
+ skal indeholde en fakturalinje med indholdet null eller  
+
+ 0 i henholdsvis  
+
+ alle obligatoriske tekst- og numeriske felter.
+FakturaValutaKode Angiver hvilken valuta fakturabeløb er angivet i.
+ F.eks. DKK for danske kroner eller EUR for Euro.
+FakturaNote Fritekst felt fra leverandøren på fakturaniveau.
+For at  
+
+ bevare linjeskift og formatering bør CDATA-konstruktionen anvendes Frit format FakturaTIFF Base64 kodet TIFF-billede af den fysiske  
+
+ regning/kreditnota.
+Attributten agencyID udfyldes med det ID som Læs  
+
+ Ind bureauet  
+
+ har fået tildelt.
+Base64Binary RegningsModtagerID EAN-lokationsnummer som entydigt identificerer købers  
+
+ faktureringsadresse.
+13 cifre.
+I DK er de tre første cifre "579".
+ Den offentlige myndighed skal ved afgivelse af ordre  
+
+ eller rekvisition oplyse et EAN-lokationsnummer, som entydigt identificerer  
+
+ købers faktureringsadresse (RegningsModtagerIdentifikation).
+ Jævnfør Lov om Offentlige Betalinger og tilhørende  
+
+ bekendtgørelse er køber berettiget til at tilbageholde betaling, indtil den  
+
+ oplyste RegningsModtagerIdentifikation fremgår af fakturaen.
+5.2 Invoice  
+
+à  
+
+  
+
+ ReferencedOrder Ved fakturering af en offentlig  
+
+ myndighed skal ReferencedOrder klassen forekomme  
+
+  
+
+ netop én gang.
+Kodeeksempel <com:ReferencedOrder> <com:BuyersOrderID>M-147-B</com:BuyersOrderID> <com:SellersOrderID>765476</com:SellersOrderID> <com:IssueDate>2003-07-02</com:IssueDate> </com:ReferencedOrder> Klasser i klassen  
+
+ ReferencedOrder Ingen Felter i klassen  
+
+ ReferencedOrder UK-feltnavn DK-feltnavn Felttype Feltformat Kategori BuyersOrderID KøbsOrdreNummer Identifier Se udfaldsrum Obligatorisk/Læs IndObligatorisk SellersOrderID SalgsOrdreNummer Identifier Se udfaldsrum Frivillig IssueDate OrdreDato Date DS/ISO8601:2001 Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KøbsOrdreNummer Købers ordre- eller rekvisitionsnummer.
+ Den offentlige myndighed skal, ved afgivelse af ordre  
+
+ eller rekvisition oplyse et ordre eller rekvisitionsnummer (KøbsOrdreNummer).
+Frit format eller "Linjespecificeret" eller  
+
+ "n/a" hvis værdien ikke eksisterer Jævnfør Lov om Offentlige Betalinger og tilhørende  
+
+ bekendtgørelse, er køber berettiget til at tilbageholde betaling indtil det  
+
+ oplyste KøbsOrdreNummer fremgår af fakturaen.
+Håndtering af samlefaktura er frivillig, men kan aftales  
+
+ parterne imellem.
+Såfremt fakturaen opkræver betaling for flere rekvisitions-  
+
+ og/eller ordrenumre, skal dette ved "PIE" angives på  
+
+ fakturalinjeniveau.  
+
+ I dette tilfælde er udfaldsrummet på fakturahovedniveau konstant:  
+
+ "Linjespecificeret" Evt. flere ordre- og/eller rekvisitionsnumre ved  
+
+ "PIP" samlefaktura.
+SalgsOrdreNummer Fakturaudsteders ordre- eller ordrebekræftelsesnummer.
+Håndtering af samlefaktura er frivillig, men kan aftales  
+
+ parter imellem.
+Såfremt fakturaen opkræver betaling for flere ordre- og/eller  
+
+ ordrebekræftelsesnumre, skal dette ved "PIE" angives på  
+
+ fakturalinjeniveau.  
+
+ I dette tilfælde er udfaldsrummet på fakturahovedniveau konstant:  
+
+ "Linjespecificeret" Frit format eller "Linjespecificeret".
+OrdreDato Angiver efter aftale mellem parterne datering af enten  
+
+ købs- eller salgsordren.
+ F.eks. vil datoen: den 1. februar 2005 skrives:  
+
+ 2005-02-01.
+ YYYY-MM-DD eller 0001-01-01 ved PIP eller  
+
+ PCP.
+5.3 Invoice  
+
+à  
+
+  
+
+ BuyerParty Ved fakturering af en offentlig  
+
+ myndighed skal BuyerParty klassen forekomme  
+
+  
+
+ 1 gang  
+
+  
+
+ og kan maksimalt forekomme  
+
+  
+
+ 2  
+
+ gange.
+Formålet med at lade klassen forekomme 2 gange er at give mulighed  
+
+ for at angive en juridisk adresse og kontaktperson som supplement til  
+
+ faktureringsadressen.
+Om BuyerParty er juridisk eller  
+
+ fakturering styres  
+
+ med AdresseTypeID på adressen.
+Kodeeksempel <com:BuyerParty> <com:ID  
+
+ schemeID="CVR">56668519</com:ID> <com:AccountCode>45654455</com:AccountCode> +<com:PartyName> +<com:Address> +<com:BuyerContact> +<com:ExtensibleContent> </com:BuyerParty> Klasser i klassen  
+
+ BuyerParty PartyName Address BuyerContact ExtensibleContent Felter i klassen  
+
+ BuyerParty UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeIdentifikation Identifier Se udfaldsrum Betinget AccountCode DimensionsKontoStreng Identifier Se udfaldsrum Betinget Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeIdentifikation Entydig identifikation af kunden i form af CVR-nummer,  
+
+ SE-nummer eller anden identifikation.
+ Ved salg til et andet EU-land skal købers CVR-nummer  
+
+ angives.
+Attributten schemeID benyttes til at angive typen af  
+
+ indhold i elementet.
+Attributten skal antage værdierne henholdsvis  
+
+ CVR for  
+
+ et CVR-nummer og SE for et SE-nummer, P for P-nummer,  
+
+ EAN for  
+
+ EAN-lokationsnummer, DUNS for DUNS-nummer, Telefon  
+
+ for telefonnummer.
+Ved  
+
+ lokale (systemafhængige nøgler) kan ejeren af nøglen identificeres med et  
+
+ domænenavn  
+
+ (f.eks. itst.dk/xx) eller anden entydig identifikation.
+Ved Læs  
+
+ Ind  
+
+ meddelelser skal feltet indeholde 0 og schemeID attributten sættes til n/a.
+ En entydig identifikation eller 0 ved PIP eller  
+
+ PCP..
+DimensionsKontoStreng DimensionsKontoStreng Såfremt køber har opgivet en DimensionsKontoStreng i  
+
+ forbindelse med afgivelse af rekvisition eller ordre, er køber, jævnfør Lov  
+
+ om Offentlige Betalinger og tilhørende bekendtgørelse, berettiget til at  
+
+ tilbageholde betaling, indtil den oplyste DimensionsKontoStreng fremgår af  
+
+ fakturaen.
+Frit format eller "Linjespecificeret" Anvendelse af dette felt er betinget af, at køber har  
+
+ opgivet en DimensionsKontoStreng.
+Såfremt de enkelte fakturalinjer skal bogføres med  
+
+ forskellige DimensionsKontoStrenge, skal dette ved "PIE" angives på  
+
+ fakturalinjeniveau.
+I dette tilfælde er udfaldsrummet på fakturahovedniveau  
+
+ konstant: "Linjespecificeret" 5.4 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ PartyName Ved fakturering af en offentlig  
+
+ myndighed kan klassen PartyName forekomme  
+
+  
+
+ netop én gang.
+Kodeeksempel <com:PartyName> <com:Name>IT- og  
+
+ Telestyrelsen</com:Name> </com:PartyName> Klasser i klassen  
+
+ PartyName Ingen Felter i klassen  
+
+ PartyName UK-feltnavn DK-feltnavn Felttype Feltformat Kategori Name KundeNavn Name Frit format Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeNavn Købers firmanavn i fakturaudsteders kunderegister Frit format 5.5 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ Address Ved fakturering af en offentlig  
+
+ myndighed kan klassen Address forekomme  
+
+  
+
+ netop én gang.
+Kodeeksempel <com:Address> <com:ID>Fakturering</com:ID> <com:Street>Bredgade</com:Street> <com:AdditionalStreet></com:AdditionalStreet> <com:HouseNumber>40</com:HouseNumber> <com:InhouseMail>3.  
+
+ sal</com:InhouseMail> <com:CityName>København  
+
+ K.</com:CityName> <com:PostalZone>1260</com:PostalZone> +<com:Country> </com:Address> Klasser i klassen  
+
+ Address Country Felter i klassen Address UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeAdresseType  
+
+ ID Identifier Frit format Obligatorisk Street KundeVejNavn Text Frit format Obligatorisk AdditionalStreet KundeEkstraVejNavn Text Frit format Aftales HouseNumber KundeHusNr Text Frit format Obligatorisk InHouseMail KundeDueslag Name Frit format Aftales CityName KundeByNavn Name Frit format Obligatorisk PostalZone KundePostNr Text Se udfaldsrum Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeAdresseTypeID Identifikation af typen af adresse.
+Kan antage værdierne  
+
+ Fakturering og Juridisk Fakturering og Juridisk KundeVejNavn Købers vejnavn af typen KundeAdresseTypeID i  
+
+ fakturaudsteders kunderegister Alle danske vejnavne KundeEkstraVejNavn Ekstra linje i købers vejnavn af typen KundeAdresseTypeID  
+
+ i fakturaudsteders kunderegister Alle danske vejnavne KundeHusNr Købers husnummer af typen KundeAdresseTypeID i  
+
+ fakturaudsteders kunderegister Frit format KundeDueslag Købers etage-, afdelingsangivelse e.lign. i  
+
+ fakturaudsteders kunderegister Frit format KundeByNavn Købers bynavn af typen KundeAdresseTypeID i  
+
+ fakturaudsteders kunderegister.
+Alle danske bynavne KundePostNr Købers postnummer af typen KundeAdresseTypeID i  
+
+ fakturaudsteders kunderegister Alle danske postnumre 5.6 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ Address  
+
+à  
+
+  
+
+ Country Ved fakturering af en offentlig  
+
+ myndighed skal klassen Country forekomme  
+
+  
+
+ netop én gang,  
+
+  
+
+ i klassen  
+
+ BuyerParty  
+
+à  
+
+  
+
+ Address.
+Kodeeksempel <com:Country> <com:Code>DK</com:Code> </com:Country> Klasser i klassen  
+
+ Country Ingen Felter i klassen Country UK-feltnavn DK-feltnavn Felttype Feltformat Kategori Code KundeLandeKode Code ISO 3166-1 Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeLandeKode Adressens  
+
+ landekode  
+
+ i fakturaudsteders kunderegister 2 alphanumeriske tegn, f.eks. DK for Danmark 5.7 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ BuyerContact Ved fakturering af en offentlig  
+
+ myndighed skal BuyerContact klassen forekomme  
+
+  
+
+ 1 gang  
+
+  
+
+ , og kan forekomme op til  
+
+
+
+  
+
+ 4 gange
+
+  
+
+ , i  
+
+ klassen Invoice/BuyerParty.
+ Værdien - "  
+
+ Indkøbsansvarlig  
+
+ ", "  
+
+ Bogholder  
+
+ ", "  
+
+ Budgetansvarlig  
+
+ " eller "  
+
+ Rekvirent  
+
+ " af elementet/feltet  
+
+ "Role"/"KundeReferenceRolle" vil være bestemmende for, om  
+
+ den enkelte kontaktperson/forekomst af klassen BuyerContact er en  
+
+ indkøbsansvarlig, bogholder, disponent/budgetansvarlig eller en rekvirent.
+Kodeeksempel <com:BuyerContact> <com:ID>  
+
+ hj@itst.dk</com:ID> <com:Name>Hans  
+
+ Jensen</com:Name> <com:Phone>33456545</com:Phone> <com:Fax>33456550</com:Fax> <com:E-Mail>hj@itst.dk</com:E-Mail> <com:Role>Rekvirent</com:Role> </com:BuyerContact> Klasser i klassen  
+
+ BuyerContact Ingen Felter i klassen  
+
+ BuyerContact UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeReferenceID Identifier Frit format Obligatorisk/Læs  
+
+ Ind Obligatorisk Name KundeReferenceNavn Name Frit format Aftales Phone KundeReferenceTelefonNr Text Frit format Aftales Fax KundeReferenceFaxNr Text Frit format Aftales E-Mail KundeReferenceE-Mail Text SMTP-adresse Aftales Role KundeReferenceRolle Code Se udfaldsrum Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeReferenceID Identifikation af kundens referenceperson.
+ Den offentlige myndighed skal ved afgivelse af ordre  
+
+ eller rekvisition oplyse en kundereference (KundeReferenceIdentifikation).
+ Jævnfør Lov om Offentlige Betalinger og tilhørende  
+
+ bekendtgørelse er køber beretttiget til at tilbageholde betaling, indtil den  
+
+ oplyste KundeReferenceIdentifikation fremgår af fakturaen.
+Frit format eller n/a hvis andet ikke eksisterer KundeReferenceNavn Navn på kundens referenceperson Frit format KundeReferenceTelefonNr Direkte telefonnummer til kundens referenceperson Telefonnr. prefikset med +{landekode}{mellemrum}.  
+
+ F.eks. +45 83432838 KundeReferenceFaxNr Direkte fax-nummer til kundens referenceperson Faxnumre prefikset med +{landekode}{mellemrum}.
+F.eks.  
+
+ +45 83432838 KundeReferenceE-Mail SMTP-adresse på kundens referenceperson.
+Format eksempel  
+
+ ("gåseøjne" udelades): "hj@itst.dk" Alle SMTP-adresser KundeReferenceRolle Identifikation af kundereferencens rolle.
+ Værdien Budgetansvarlig er synonymt med Disponent.  
+
+ Værdien Rekvirent er synonymt med Den ansatte med  
+
+ behovet.
+"Indkøbsansvarlig", "Bogholder", "Budgetansvarlig" eller "Rekvirent" 5.8 Invoice  
+
+à  
+
+  
+
+ BuyerParty  
+
+à  
+
+  
+
+ ExtensibleContent Klassen ExtensibleContent kan optræde  
+
+
+
+  
+
+ maksimalt  
+
+ 1 gang
+  
+
+ . Klassen bruges til at lave udvidelser til OIOXML elektronisk  
+
+ regning, som kan aftales mellem 2 eller flere parter.
+Klassen skal, hvis den  
+
+ anvendes, indeholde mindst et element men må ikke indeholde elementer, der  
+
+ indgår i com-namespacet.
+Indholdet i ExtensibleContent vil blive ignoreret af  
+
+ en validator, der understøtter W3C XML-Schema.
+Kodeeksempel <com:ExtensibleContent> <h:p>Her er tilføjet xhtml  
+
+ opmærkning.
+Når ExtensibleContent elementet benyttes, skal det indeholde  
+
+ mindst et element udenfor com namespacet.</h:p> </com:ExtensibleContent> Klasser i klassen  
+
+ ExtensibleContent Aftales 5.9 Invoice  
+
+à  
+
+  
+
+ DestinationParty Ved fakturering af en offentlig  
+
+ myndighed kan klassen DestinationParty optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice.
+Den angive DestinationParty gælder hele  
+
+ regningen.
+Såfremt individuelle fakturaliner leveres til andre destinationer,  
+
+ angives dette i DestinationParty under ReferencedOrderLine.
+Kodeeksempel <com:DestinationParty> <com:ID  
+
+ schemeID="CVR">56668519</com:ID> +<com:PartyName> +<com:Contact> +<com:Language> +<com:Address> </com:DestinationParty> Klasser i klassen  
+
+ DestinationParty PartyName Contact Language Address Felter i klassen  
+
+ DestinationParty UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeLeveringsIdentifikation Identifier Se udfaldsrum Aftales AccountCode Identifier Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeLeveringsIdentifikation Entydig identifikation af kunden i form af CVR-nummer,  
+
+ SE-nummer eller anden identifikation.
+ Ved salg til et andet EU-land skal købers CVR-nummer  
+
+ angives.
+Attributten schemeID benyttes til at angive typen af  
+
+ indhold i elementet.
+Attributten skal antage værdierne henholdsvis  
+
+ CVR for  
+
+ et CVR-nummer og SE for et SE-nummer, P for P-nummer,  
+
+ EAN for  
+
+ EAN-lokationsnummer, DUNS for DUNS-nummer, Telefon  
+
+ for telefonnummer,  
+
+ CPR for CPR-nummer.
+Ved lokale (systemafhængige nøgler) kan  
+
+ ejeren af  
+
+ nøglen identificeres med et domænenavn (f.eks. itst.dk/xx) eller anden  
+
+ entydig identifikation.
+Ved Læs Ind meddelelser skal feltet  
+
+ indeholde 0  
+
+ og schemeID attributten sættes til n/a.
+En entydig identifikation AccountCode Redundant kontostreng, som allerede findes på BuyerParty.  
+
+ Element behøver ikke at optræde.
+Frit format 5.10 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ PartyName Ved fakturering af en offentlig  
+
+ myndighed kan klassen PartyName optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice /DestinationParty.
+Kodeeksempel <com:PartyName> <com:Name>ITST</com:Name> </com:PartyName> Klasser i klassen  
+
+ PartyName Ingen Felter i klassen  
+
+ PartyName UK-feltnavn DK-feltnavn Felttype Feltformat Kategori Name KundeNavn Name Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeNavn Leverancemodtagers  
+
+ firmanavn i fakturaudsteders kunderegister Frit format 5.11 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Contact Ved fakturering af en offentlig  
+
+ myndighed kan klassen Contact optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr.  
+
+ forekomst af klassen Invoice /DestinationParty.
+Kodeeksempel <com:Contact> <com:ID>hj@itst.dk</com:ID> <com:Name>Hans  
+
+ Jensen</com:Name> <com:Phone>33456545</com:Phone> <com:Fax>33456550</com:Fax> <com:E-Mail>hj@itst.dk</com:E-Mail> </com:Contact> Klasser i klassen  
+
+ Contact Ingen Felter i klassen  
+
+ Contact UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeReferenceIdentifikation Identifier Frit format Aftales Name KundeReferenceNavn Name Frit format Aftales Phone KundeReferenceTelefonNr Text Frit format Aftales Fax KundeReferenceFaxNr Text Frit format Aftales E-Mail KundeReferenceEMail Text SMTP-adresse Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeReferenceIdentifikation Identifikation af  
+
+ leverancemodtagers referenceperson Frit format KundeReferenceNavn Navn på  
+
+ leverancemodtagers referenceperson Frit format KundeReferenceTelefonNr Direkte  
+
+ telefonnummer til leverancemodtagers referenceperson Telefonnr. prefikset med +{telefon-landekode}{mellemrum}.  
+
+ F.eks. +45 83432838 KundeReferenceFaxNr Direkte fax-nummer  
+
+ til leverancemodtagers referenceperson Faxnumre prefikset med +{telefon-landekode}{mellemrum}.  
+
+ F.eks. +45 83432838 KundeReferenceEMail SMTP-adresse på  
+
+ leverancemodtagers referenceperson.
+Format eksempel ("gåseøjne"  
+
+ udelades): "nn@itst.dk" Alle SMTP-adresser 5.12 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Language Ved fakturering af en offentlig  
+
+ myndighed kan klassen Language optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/DestinationParty.
+Kodeeksempel <com:Language> <com:ID>da</com:ID> </com:Language> Klasser i klassen  
+
+ Language Ingen Felter i klassen  
+
+ Language UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeSprog Identifier DS/ISO  
+
+ 639-1:2002 Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeSprog Leverancemodtagers  
+
+ foretrukne sprog F.eks.
+en for engelsk, eller da for dansk.
+5.13 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Address Ved fakturering af en offentlig  
+
+ myndighed kan klassen Address optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr.  
+
+ forekomst af klassen Invoice/DestinationParty.
+Kodeeksempel <com:Address> <com:ID>454333</com:ID> <com:Street>Bredgade</com:Street> <com:AdditionalStreet/> <com:HouseNumber>40</com:HouseNumber> <com:InhouseMail>3.  
+
+ sal</com:InhouseMail> <com:CityName>København  
+
+ K</com:CityName> <com:PostalZone>1260</com:PostalZone> +<com:Country> </com:Address> Klasser i klassen  
+
+ Address Country Felter i klassen  
+
+ Address UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeLeveringsAdresseID Identifier Frit format Aftales Street KundeLeveringsVejNavn Text Frit format Aftales AdditionalStreet KundeLeveringsEkstraVejNavn Text Frit format Aftales HouseNumber KundeLeveringsHusNr Text Frit format Aftales InHouseMail KundeLeveringsDueslag Text Frit format Aftales CityName KundeLeveringsByNavn Name Frit format Aftales PostalZone KundeLeveringsPostNr Text Se udfaldsrum Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeLeveringsAdresseID Identifikation af  
+
+ leverancemodtagers leveringsadresse i fakturaudsteders kunderegister Frit format KundeLeveringsVejNavn Leverancemodtagers  
+
+ leveringsvejnavn i fakturaudsteders kunderegister Frit format KundeLeveringsEkstraVejNavn Ekstra linje i  
+
+ leverancemodtagers leveringsvejnavn i fakturaudsteders kunderegister Frit format KundeLeveringsHusNr Leverancemodtagers  
+
+ leveringshusnummer i fakturaudsteders kunderegister Frit format KundeLeveringsDueslag Leverancemodtagers  
+
+ etage-, afdelingsangivelse e.lign.
+Frit format KundeLeveringsByNavn Leverancemodtagers  
+
+ leveringsbynavn i fakturaudsteders kunderegister Frit format KundeLeveringsPostNr Leverancemodtagers  
+
+ leveringspostnummer i fakturaudsteders kunderegister 4 numeriske cifre ved danske postnumre, ellers frit  
+
+ format 5.14 Invoice  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Address  
+
+à  
+
+  
+
+ Country Ved fakturering af en offentlig  
+
+ myndighed kan klassen Country optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr.  
+
+ forekomst af klassen Invoice/DestinationParty/Address.
+Kodeeksempel <com:Country> <com:Code>DK</com:Code> </com:Country> Klasser i klassen  
+
+ Country Ingen Felter i klassen  
+
+ Country UK-feltnavn DK-feltnavn Felttype Feltformat Kategori Code KundeLeveringsLandeKode Code ISO 3166-1 Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeLeveringsLandeKode Leverancemodtagers  
+
+ leveringslandekode i fakturaudsteders kunderegister 2 alphanumeriske tegn, f.eks. DK for Danmark 5.15 Invoice  
+
+à  
+
+  
+
+ SellerParty Ved fakturering af en offentlig  
+
+ myndighed skal klassen SellerParty optræde  
+
+
+
+  
+
+ netop 1 gang
+
+  
+
+ i  
+
+ klassen Invoice.
+Kodeeksempel <com:SellerParty> <com:ID  
+
+ schemeID="CVR">26666668</com:ID> <com:BuyersID>5453345444</com:BuyersID> +  
+
+ <com:PartyName> +  
+
+ <com:Address> +  
+
+ <com:PartyTaxScheme> +  
+
+ <com:OrderContact> +  
+
+ <com:ExtensibleContent> </com:SellerParty> Klasser i klassen  
+
+ SellerParty PartyName Address PartyTaxScheme OrderContact Felter i klassen  
+
+ SellerParty UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FakturaUdsteder  
+
+ Identifikation Identifier 8 numeriske  
+
+ cifre Obligatorisk/Læs Ind Obligatorisk BuyersID KreditorIdentifikation Identifier Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaUdstederIdentifikation Entydig identifikation af FakturaUdsteder i form af  
+
+ CVR-nummer, SE-nummer eller anden identifikation.
+ Ved salg til et andet EU-land skal købers CVR-nummer  
+
+ angives.
+Attributten schemeID benyttes til at angive typen af  
+
+ indhold i elementet.
+Attributten skal antage værdierne henholdsvis  
+
+ CVR for  
+
+ et CVR-nummer og SE for et SE-nummer, P for P-nummer,  
+
+ EAN for  
+
+ EAN-lokationsnummer, DUNS for DUNS-nummer, Telefon  
+
+ for telefonnummer.
+Ved  
+
+ lokale (systemafhængige nøgler) kan ejeren af nøglen identificeres med et  
+
+ domænenavn (f.eks. itst.dk/xx) eller anden entydig identifikation.
+En entydig identifikation KreditorIdentifikation Fakturaudsteders kreditornummer i købers kreditorarkiv.
+Frit format 5.16 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ PartyName Ved fakturering af en offentlig  
+
+ myndighed kan klassen PartyName optræde  
+
+
+
+  
+
+ maksimalt  
+
+ 1 gang
+
+  
+
+ i klassen Invoice/SellerParty.
+Kodeeksempel <com:PartyName> <com:Name>PJ Unconstruction  
+
+ A/S</com:Name> </com:PartyName> Klasser i klassen  
+
+ PartyName Ingen Felter i klassen  
+
+ PartyName UK-feltnavn DK-feltnavn Felttype Feltformat Kategori Name FakturaUdstederNavn Name Frit format Obligatorisk Forklaring af felter DK-feltnavn Beskrivelse Udfaldsrum FakturaUdstederNavn Fakturaudsteders firmanavn Frit format 5.17 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ Address Ved fakturering af en offentlig  
+
+ myndighed kan Addressklassen optræde  
+
+
+
+  
+
+ maksimalt 2 gange
+
+  
+
+ i  
+
+ klassen Invoice/SellerParty.
+ Værdien  
+
+ "  
+
+ Vareafsendelse  
+
+ "  
+
+ eller "  
+
+ Betaling  
+
+ " af  
+
+ elementet/feltet  
+
+ "ID"/"FakturaUdstederAdresseIdentifikation"  
+
+ vil være bestemmende for, om den enkelte adresse/forekomst af klassen Address  
+
+ er en vareafsendelsesadresse eller en betalingsadresse.
+Kodeeksempel <com:Address> <com:ID>Vareafsendelse</com:ID> <com:Street>Jernbanegade</com:Street> <com:HouseNumber>875</com:HouseNumber> <com:CityName>Roskilde</com:CityName> <com:PostalZone>4000</com:PostalZone> +<com:Country> </com:Address> Klasser i klassen  
+
+ Address Country Felter i klassen  
+
+ Address UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FakturaUdstederAdresseI  
+
+ D Identifier Se udfaldsrum Obligatorisk Street FakturaUdstederVejNavn Text Frit format Obligatorisk AdditionalStreet FakturaUdstederEkstraVejNavn Text Frit format Aftales HouseNumber FakturaUdstederHusNr Text Frit format Obligatorisk InHouseMail FakturaUdstederDueslag Name Frit format Aftales CityName FakturaUdstederByNavn Name Frit format Obligatorisk PostalZone FakturaUdstederPostNr Text Frit format Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaUdstederAdresseID Identifikation  
+
+ af fakturaudsteders adressetype.
+"Vareafsendelse"  
+
+ eller "Betaling" FakturaUdstederVejNavn Fakturaudsteders  
+
+ vareafsendelsesvejnavn eller betalingsvejnavn  
+
+ afhængig af værdien i  
+
+ FakturaUdstederAdresseID Frit format FakturaUdsteder EkstraVejNavn Ekstra linje i  
+
+ fakturaudsteders  
+
+ vareafsendelsesvejnavn  
+
+ eller betalingsvejnavn  
+
+ afhængig af værdien i  
+
+ FakturaUdstederAdresseID Frit format FakturaUdstederHusNr Fakturaudsteders  
+
+ vareafsendelseshusnummer eller betalingshusnummer afhængig af værdien i  
+
+ FakturaUdstederAdresseID Frit format FakturaUdstederDueslag Fakturaudsteders  
+
+ vareafsendelses- eller betalingsetage-,  
+
+ afdelingsangivelse e.lign. afhængig af værdien i  
+
+ FakturaUdstederAdresseID Frit format FakturaUdstederByNavn Fakturaudsteders  
+
+ vareafsendelsesbynavn eller betalingsbynavn  
+
+ afhængig af værdien i  
+
+ FakturaUdstederAdresseID Frit format FakturaUdstederPostNr Fakturaudsteders  
+
+ vareafsendelsespostnummer eller betalingspostnr  
+
+ afhængig af værdien i  
+
+ FakturaUdstederAdresseID Frit format 5.18 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ Address  
+
+à  
+
+  
+
+ Country Ved fakturering af en offentlig  
+
+ myndighed kan klassen Country optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr.  
+
+ forekomst af klassen Invoice/SellerParty/Address.
+ Værdien  
+
+ "  
+
+ Vareafsendelse  
+
+ "  
+
+ eller "  
+
+ Betaling  
+
+ " af  
+
+ elementet/feltet  
+
+ "ID"/"FakturaUdstederAdresseIdentifikation"  
+
+ i klassen Invoice/SellerParty/Address vil være bestemmende for, om den  
+
+ enkelte  
+
+ landekode/forekomst af klassen Country er en vareafsendelseslandekode eller  
+
+ en  
+
+ betalingslandekode.
+Kodeeksempel <com:Country> <com:Code>DK-025</com:Code> </com:Country> Klasser i klassen Country Country Felter i klassen Country UK-feltnavn DK-feltnavn Felttype Feltformat Kategori Code FakturaUdstederLandeKode Code ISO 3166-2 Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaUdstederLandeKode Fakturaudsteders (1) vareafsendelses lande- og områdekode eller (2) betalings lande- og områdekode F.eks. DK-025 for et bestemt område i Danmark.
+5.19 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ PartyTaxScheme Ved fakturering af en offentlig  
+
+ myndighed skal klassen PartyTaxScheme optræde  
+
+
+
+  
+
+ netop 1 gang
+
+  
+
+ i klassen Invoice/SellerParty.
+Kodeeksempel <com:PartyTaxScheme> <com:CompanyTaxID  
+
+ schemeID=CVR>56668519</com:CompanyTaxID> </com:PartyTaxScheme> Klasser i klassen  
+
+ PartyTaxScheme Ingen Felter i klassen  
+
+ PartyTaxScheme UK-feltnavn DK-feltnavn Felttype Feltformat Kategori CompanyTaxID FakturaUdstederCVRNummer Identifier Se udfaldsrum Obligatorisk/Læs Ind  
+
+ Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaUdstederCVRNummer Enten fakturaudsteders CVR-nummer, SE-nummer eller anden  
+
+ kode som kan bruges til opslag i NemKontoregistret.
+Attributten schemeID  
+
+ benyttes til at angive typen af indhold i elementet.
+Attributten skal antage  
+
+ værdierne henholdsvis CVR for et CVR-nummer og SE for  
+
+ et SE-nummer.
+Alle danske SE- og CVR-numre 5.21 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ OrderContact Ved fakturering af en offentlig  
+
+ myndighed kan klassen OrderContact optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ i klassen Invoice/SellerParty.
+Kodeeksempel <com:OrderContact> <com:ID>ppt@pj-unconstruction.dk</com:ID> <com:Name>Peter  
+
+ Petersen</com:Name> <com:Phone>34546787</com:Phone> <com:Fax>23456566</com:Fax> <com:E-Mail>ppt@pj-unconstruction.dk</com:E-Mail> </com:OrderContact> Klasser i klassen  
+
+ OrderContact Ingen Felter i klassen  
+
+ OrderContact UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FakturaUdstederReferenceIdentifikation Identifier Frit format Aftales Name FakturaUdstederReferenceNavn Name Frit format Aftales Phone FakturaUdstederReferenceTelefonNr Text Frit format Aftales Fax FakturaUdstederReferenceFaxNr Text Frit format Aftales E-Mail FakturaUdstederReferenceEMail Text SMTP-adresse Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaUdstederReferenceIdentifikation Identifikation af fakturaudsteders referenceperson Frit format FakturaUdstederReferenceNavn Navn på fakturaudsteders referenceperson Frit format FakturaUdstederReferenceTelefonNr Direkte telefonnummer til fakturaudsteders referenceperson Telefonnr. prefikset med +{landekode}{mellemrum}.  
+
+ F.eks. +45 83432838 FakturaUdstederReferenceFaxNr Direkte faxnummer til fakturaudsteders referenceperson Faxnumre prefikset med +{landekode}{mellemrum}.
+F.eks.  
+
+ +45 83432838 FakturaUdstederReferenceEMail SMTP-adresse på fakturaudsteders referenceperson.
+ Format eksempel ("gåseøjne" udelades):
+"ppt@pj-unconstruction.dk" Alle SMTP-adresser 5.22 Invoice  
+
+à  
+
+  
+
+ SellerParty  
+
+à  
+
+  
+
+ ExtensibleContent Klassen ExtensibleContent kan optræde  
+
+
+
+  
+
+ maksimalt  
+
+ 1 gang
+  
+
+ . Klassen bruges til at lave udvidelser til OIOXML elektronisk  
+
+ regning, som kan aftales mellem 2 eller flere parter.
+Klassen skal, hvis den  
+
+ anvendes, indeholde mindst et element men må ikke indeholde elementer, der  
+
+ indgår i com-namespacet.
+Indholdet i ExtensibleContent vil blive ignoreret af  
+
+ en validator, der understøtter W3C XML-Schema.
+Kodeeksempel <com:ExtensibleContent> <h:p>Her er tilføjet xhtml  
+
+ opmærkning.
+Når ExtensibleContent elementet benyttes, skal det indeholde  
+
+ mindst et element udenfor com namespacet.</h:p> </com:ExtensibleContent> Klasser i klassen  
+
+ ExtensibleContent Aftales 5.23 Invoice  
+
+à  
+
+  
+
+ PaymentMeans Ved fakturering af en offentlig  
+
+ myndighed kan klassen PaymentMeans optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ i  
+
+ klassen Invoice.
+Kodeeksempel <com:PaymentMeans> <com:TypeCodeID>71</com:TypeCodeID> <com:PaymentDueDate>2004-09-01</com:PaymentDueDate> <com:PaymentChannelCode>INDBETALINGSKORT</com:PaymentChannelCode&gt  
+
+ ; <com:PaymentID>345543212345434</com:PaymentID> <com:JointPaymentID>64394569</com:JointPaymentID> +<com:PayeeFinancialAccount> +  
+
+ <oio:PaymentAdvice> +  
+
+ <oio:ExtensibleContent> </com:PaymentMeans> Klasser i klassen  
+
+ PaymentMeans PayeeFinancialAccount PaymentAdvice ExtensibleContent Felter i klassen  
+
+ PaymentMeans UK-feltnavn DK-feltnavn Felttype Feltformat Kategori TypeCodeID KortArtsKode Identifier Se udfaldsrum Frivillig/Læs Ind Obligatorisk PaymentDueDate BetalingsDato Date DS/ISO8601:2001 Frivillig/Læs Ind Obligatorisk PaymentChannelCode BetalingsType Code Se udfaldsrum Frivillig/Læs Ind Obligatorisk PaymentID BetalingsID Identifier Se udfaldsrum Frivillig/Læs Ind Obligatorisk JointPaymentID Kreditornummer Identifier Se udfaldsrum Frivillig/Læs Ind Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KortArtsKode Kortart på indbetalingskort.
+Hvis Betalingstype er  
+
+ "KONTOOVERFØRSEL" eller "DIRECT DEBET" er udfaldsrummet  
+
+ null.
+Hvis BetalingsType er "INDBETALINGSKORT" skrives  
+
+ kortartkoden  
+
+ som specificeret i udfaldsrum.
+null, "04", "71", "73", eller "75" BetalingsDato Seneste rettidige dato for betaling af fakturaen.
+F.eks.  
+
+ vil datoen: den 1. februar 2005 skrives: 2005-02-01.
+YYYY-MM-DD BetalingsType "KONTOOVERFØRSEL", "INDBETALINGSKORT", "NATIONAL CLEARING",  
+
+ eller "DIRECT DEBET" (Betalingsservice/Leverandørservice) "KONTOOVERFØRSEL", "INDBETALINGSKORT",  
+
+ "NATIONAL CLEARING", eller "DIRECT DEBET" BetalingsID OCR-reference fra indbetalingskort o.lign. kan også  
+
+ anvendes ved kontooverførsel 0, 15 eller 16 numeriske cifre, afhængig af kortartskoden Kreditornummer Kreditornummer.
+Reference til kreditorkartotek hos PBS.
+ 8 cifre.
+5.24 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PayeeFinancialAccount Ved fakturering af en offentlig  
+
+ myndighed kan klassen PayeeFinancialAccount optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ i klassen Invoice/PaymentMeans.
+Kodeeksempel <com:PayeeFinancialAccount> <com:ID>65366333</com:ID> <com:TypeCode>FIK</com:TypeCode> +<com:FiBranch> </com:PayeeFinancialAccount> Klasser i klassen  
+
+ PayeeFinancialAccount FiBranch Felter i klassen  
+
+ PayeeFinancialAccount UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID Kontonummer Identifier Se udfaldsrum Frivillig/Læs Ind Obligatorisk TypeCode Kontotype Code Se udfaldsrum Frivillig Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum Kontonummer Sælgers kontonummer.
+Evt. registreringsnummer ved kontotype  
+
+ lig BANK hentes fra AfdelingsID under FiBranch.
+ Hvis kontotype er BANK, anvendes dansk bankkontonummer  
+
+ der er 10 numeriske cifre.
+Internationalt kontonummer: Frit format Kontotype Hvilken kontotype har sælger opgivet "BANK", "GIRO", "FIK", "BANKGIROT", "POSTGIROT", "IBAN", eller "null" 5.25 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PayeeFinancialAccount  
+
+à  
+
+  
+
+ FiBranch Ved fakturering af en offentlig  
+
+ myndighed skal klassen FiBranch optræde  
+
+
+
+  
+
+ netop 1 gang
+
+  
+
+ i  
+
+ klassen Invoice/PaymentMeans/PayeeFinancialAccount.
+Kodeeksempel <com:FiBranch> <com:ID>6666</com:ID> +<com:FinancialInstitution> </com:FiBranch> Klasser i klassen  
+
+ FiBranch FinancialInstitution Felter i klassen  
+
+ FiBranch UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID AfdelingsID Identifier Se udfaldsrum Betinget Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum AfdelingsID I Danmark: bankfilialens registreringsnummer, i Østrig og Tyskland: Bankleitzahl, i Canada: Payment ass., i USA: Chipscode, CHIPS participant id eller FedWire routing  
+
+ no, i England: Sortcode, og i Irland: Sort-code.
+ Dansk registreringsnr:
+4 numeriske cifre International identifikation: Frit format eller "null" 5.26 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PayeeFinancialAccount  
+
+à  
+
+  
+
+ FiBranch  
+
+à  
+
+  
+
+ FinancialInstitution Ved fakturering af en offentlig  
+
+ myndighed skal klassen FinancialInstitution optræde  
+
+
+
+  
+
+ netop 1 gang
+
+  
+
+ i  
+
+ klassen Invoice/PaymentMeans/PayeeFinancialAccount/FiBranch.
+Kodeeksempel <com:FinancialInstitution> <com:ID>DABADKKK</com:ID> <com:Name>Andelsbanken</com:Name> </com:FinancialInstitution> Klasser i klassen  
+
+ FinancialInstitution Ingen Felter i klassen  
+
+ FinancialInstitution UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID BankID Identifier Frit format Frivillig Name BankNavn Name Frit format Frivillig Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum BankID BIC = Bank identification code.
+Sælgers banks SWIFT adresse "null" eller 8 (11) alphanumeriske tegn NB - Enkelte lande anvender 11 alphanumeriske tegn.
+BankNavn Navn på sælgers  
+
+ bank Frit format 5.27 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PaymentAdvice Ved fakturering af en offentlig  
+
+ myndighed kan klassen PaymentAdvice optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ i klassen Invoice/PaymentMeans.
+Kodeeksempel <com:PaymentAdvice> <com:LongAdvice><![CDATA[Lang  
+
+ advisering for kortart 75 Linjeskift bevares vha.  
+
+ CDATA]]></com:LongAdvice> +  
+
+ <com:AccountToAccount> </com:PaymentAdvice> Klasser i klassen  
+
+ PaymentAdvice AccountToAccount Felter i klassen  
+
+ PaymentAdvice UK-feltnavn DK-feltnavn Felttype Feltformat Attributter Kategori LongAdvice LangAdvisering Text Se udfaldsrum language Frivillig Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum LangAdvisering Lang advisering til brug for kortart 73 og 75.
+ Mulighed for at angive en lang advisering.  
+
+ For at bevare linjeskift og formatering  
+
+ bør CDATA-konstruktionen anvendes.
+41 linjer á 35 positioner 5.28 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ PaymentAdvice  
+
+à  
+
+  
+
+ AccountToAccount Ved fakturering af en offentlig  
+
+ myndighed kan klassen AccountToAccount optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ i klassen Invoice/PaymentMeans/PaymentAdvice.
+Kodeeksempel <com:AccountToAccount> <com:PayerNote>Oplysning  
+
+ til modtager</com:PayerNote> <com:PayeeNote>Oplysning  
+
+ til egen konto</com:PayeeNote> </  
+
+ com:AccountToAccount> Klasser i klassen  
+
+ AccountToAccount Ingen Felter i klassen  
+
+ AccountToAccount UK-feltnavn DK-feltnavn Felttype Feltformat Attributter Kategori PayerNote BetalingAdvisModtager Text Se udfaldsrum language Frivillig PayeeNote BetalingAdvisAfsender Text Se udfaldsrum language Frivillig Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum BetalingAdvisModtager Oplysninger til  
+
+ modtager Tekstfelt af 20 positioner BetalingAdvisAfsender Oplysninger til  
+
+ egen konto Tekstfelt af 20 positioner 5.29 Invoice  
+
+à  
+
+  
+
+ PaymentMeans  
+
+à  
+
+  
+
+ ExtensibleContent Klassen ExtensibleContent kan optræde  
+
+
+
+  
+
+ maksimalt  
+
+ 1 gang
+  
+
+ . Klassen bruges til at lave udvidelser til OIOXML elektronisk  
+
+ regning, som kan aftales mellem 2 eller flere parter.
+Klassen skal, hvis den  
+
+ anvendes, indeholde mindst et element men må ikke indeholde elementer, der  
+
+ indgår i com-namespacet.
+Indholdet i ExtensibleContent vil blive ignoreret af  
+
+ en validator, der understøtter W3C XML-Schema.
+Kodeeksempel <com:ExtensibleContent> <h:p>Her er tilføjet xhtml  
+
+ opmærkning.
+Når ExtensibleContent elementet benyttes, skal det indeholde  
+
+ mindst et element udenfor com namespacet.</h:p> </com:ExtensibleContent> Klasser i klassen  
+
+ ExtensibleContent Aftales 5.30 Invoice  
+
+à  
+
+  
+
+ PaymentTerms Ved fakturering af en offentlig  
+
+ myndighed kan klassen PaymentTerms optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ i klassen Invoice.
+Kodeeksempel <com:PaymentTerms> <com:ID>CONTRACT</com:ID> <com:RateAmount  
+
+ currencyID="DKK">743.33</com:RateAmount> <com:SettlementDiscountRateNumeric>40</com  
+
+ :SettlementDiscountRateNumeric> <com:PenaltySurchargeRateNumeric>40</com  
+
+ :PenaltySurchargeRateNumeric> +<com:SettlementPeriod> +<com:PenaltyPeriod> </com:PaymentTerms> Klasser i klassen  
+
+ PaymentTerms PenaltyPeriod SettlementPeriod Felter i klassen  
+
+ PaymentTerms UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID Betalingsbetingelser Identifier Se udfaldsrum.
+Obligatorisk RateAmount ToldKurs Amount numerisk Obligatorisk SettlementDiscountRateNumeric Kontantrabatsats Numeric 4 numeriske  
+
+ cifre Frivillig PenaltySurchargeRateNumeric Strafrentesats Numeric 4 numeriske  
+
+ cifre Frivillig Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum Betalingsbetingelser Betaling jfr.(CONTRACT) rammekontrakt eller betaling  
+
+ jfr.(SPECIFIC) betalingsdato, strafrentesats, kontantrabatdato samt  
+
+ kontantrabatsats "CONTRACT", "SPECIFIC" null ved PIP eller PCP.
+ToldKurs Toldkursen i den valgte valuta.
+Valuta angives med  
+
+ attributten currencyID.
+ F.eks.: "743,33 " med currencyID sat til EUR.
+ 0 ved PIP eller PCP.
+Kontantrabatsats Rabat-  (heltal), der fratrækkes ved betaling inden  
+
+ kontantrabatdato "0000"-"1000" Strafrentesats Rente-  (heltal), pr. påbegyndt måned v. betaling efter  
+
+ betalingsdato "0000"-"1000" 5.31 Invoice  
+
+à  
+
+  
+
+ PaymentTerms  
+
+à  
+
+  
+
+ SettlementPeriod Ved fakturering af en offentlig  
+
+ myndighed kan klassen SettlementPeriod optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ i klassen Invoice/PaymentTerms.
+Kodeeksempel <com:SettlementPeriod> <com:EndDateTimeDate>2003-07-02</com:EndDateTimeDate> </com:SettlementPeriod> Klasser i klassen  
+
+ SettlementPeriod Ingen Felter i klassen  
+
+ SettlementPeriod UK-feltnavn DK-feltnavn Felttype Feltformat Kategori EndDateTimeDate KontantRabatDato Date DS/ISO8601:2001 Frivillig Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KontantRabatDato Betales fakturaen inden denne dato fratrækkes  
+
+ kontantrabat.
+ F.eks. vil datoen: den 1. februar 2005 skrives:  
+
+ 2005-02-01.
+YYYY-MM-DD 5.32 Invoice  
+
+à  
+
+  
+
+ PaymentTerms  
+
+à  
+
+  
+
+ PenaltyPeriod Ved fakturering af en offentlig  
+
+ myndighed kan klassen PenaltyPeriod optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ i klassen Invoice/PaymentTerms.
+Kodeeksempel <com:PenaltyPeriod> <com:StartDateTime>2003-07-02T12:13:14+1.00</com:StartDateTime> </com:PenaltyPeriod> Klasser i klassen  
+
+ PenaltyPeriod Ingen Felter i klassen  
+
+ PenaltyPeriod UK-feltnavn DK-feltnavn Felttype Feltformat Kategori StartDateTime StrafRenteDato DateTime DS/ISO8601:2001 Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum StrafRenteDato Dato efter hvilken det skyldige beløb pålægges  
+
+ strafrente.
+YYYY-MM-DDThh:mm:ss 5.33 Invoice  
+
+à  
+
+  
+
+ AllowanceCharge Ved fakturering af en offentlig  
+
+ myndighed kan AllowanceCharge klassen optræde  
+
+
+
+  
+
+ uendeligt mange gange
+
+  
+
+ i klassen Invoice.
+ Værdien -  
+
+ "Rabat", "  
+
+ Gebyr  
+
+ ",  
+
+ "  
+
+ Fragt  
+
+ ", "  
+
+ Afgift  
+
+ " eller "  
+
+ Told  
+
+ " af elementet/feltet  
+
+ "ID"/"GebyrKategori" vil være bestemmende for, om den  
+
+ enkelte forekomst af klassen AllowanceCharge er en generel rabat eller et  
+
+ generelt gebyr,  
+
+ fragt, en afgift eller  
+
+ told.
+Kodeeksempel <com:AllowanceCharge> <com:ID>Gebyr</com:ID> <com:ChargeIndicator>true</com:ChargeIndicator> <com:MultiplierReasonCode>343</com:MultiplierReasonCode> <com:MultiplierFactorQuantity  
+
+ unitCode="stk" unitCodeListAgencyID="n/a">40</com  
+
+ :MultiplierFactorQuantity> <com:AllowanceChargeAmount>400.00</com:AllowanceChargeAmount> <com:BuyersReferenceID>7110-4545333544</com:BuyersReferenceID> </com:AllowanceCharge> Klasser i klassen  
+
+ AllowanceCharge Ingen Felter i klassen  
+
+ AllowanceCharge UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID GebyrKategori Identifier Se udfaldsrum Obligatorisk ChargeIndicator GebyrKategoriIndikering Indicator Se udfaldsrum Obligatorisk MulitiplierReasonCode GebyrKategoriÅrsag Code Frit format Frivillig MultiplierFactorQuantity GebyrKategoriKvantitet Quantity 4 numeriske  
+
+ cifre Frivillig AllowanceChargeAmount GebyrKategoriTotal Amount Se udfaldsrum Obligatorisk BuyersReferenceI  
+
+ D GebyrKategoriFinanskonto Identifier Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum GebyrKategori Angiver gebyrkategori.
+Hvis kategorien er lig  
+
+ "Rabat" skal beløbet fratrækkes FakturaLinietotal.
+For andre  
+
+ værdier skal beløbet tillægges FakturaLinietotal.
+"Rabat" "Gebyr", "Fragt", "Afgift", eller "Told" GebyrKategori Indikering "true"  
+
+ medfører at beløbet er momspligtigt "false"  
+
+ medfører at beløbet ikke er momspligtigt "true", eller "false" GebyrKategori Årsag Kode der angiver  
+
+ årsagen til gebyret.
+Frit format GebyrKategori Kvantitet Opgørelse af  
+
+ gebyret i den valgte enhed.
+F.eks. heltal, der angiver den   af  
+
+ beregningsgrundlaget,  
+
+ der bestemmer gebyrkategoritotalen.  
+
+ Attributten unitCode skal  
+
+ udfyldes.
+Som standard anvendes Unit Of Measure koder fra UN/CEFACT  
+
+ Recommendation 20 af 2002, og unitCodeListAgencyID sættes til  
+
+ UN/UOM.  
+
+ Ønskes frit format sættes attributten unitCodeListAgencyID til  
+
+ n/a F.eks. "0000"-1000 ved unitCode=promille og  
+
+ unitCodeListAgencyID =n/a GebyrKategori Total Det totale beløb  
+
+ der opkræves for gebyrkategorien Beløb:
+  
+
+ 	  
+
+ 2 cifre efter decimalskilletegn  
+
+ (".")   
+
+ 	  
+
+ Ingen tusindtalsseparator GebyrKategori Finanskonto Den til  
+
+ gebyrkategorien svarende finanskonto i købers økonomisystem Frit format 5.34 Invoice  
+
+à  
+
+  
+
+ TaxTotal Ved fakturering af en offentlig  
+
+ myndighed skal TaxTotal klassen optræde  
+
+
+
+  
+
+ 1-2 gange
+
+  
+
+ i  
+
+ klassen Invoice.
+ Værdien - "  
+
+ Momspligtig  
+
+ " eller "  
+
+ Momsfritaget  
+
+ " af  
+
+ elementet/feltet "TaxTypeCode"/"AfgiftsKategoriKode"  
+
+ vil være bestemmende for, om der er tale om momstal for  
+
+ momspligtige varer/tjenesteydelser  
+
+ eller  
+
+ momsfritagne  
+
+ varer/tjenesteydelser.
+Kodeeksempel <com:TaxTotal> <com:TaxTypeCode>VAT</com:TaxTypeCode> +<com:TaxAmounts> +<com:CategoryTotal> </com:TaxTotal> Klasser i klassen  
+
+ TaxTotal CategoryTotal Felter i klassen  
+
+ TaxTotal UK-feltnavn DK-feltnavn Felttype Feltformat Kategori TaxTypeCode AfgiftsKategoriKode Code Se udfaldsrum Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum AfgiftsKategoriKode Angiver om der i denne forekomst af TaxTotal er tale om  
+
+ momstal for:
+"VAT" momspligtige varer/tjenesteydelser eller "ZERO-RATED" momsfritagne varer/tjenesteydelser VAT, eller ZERO-RATED 5.35 Invoice  
+
+à  
+
+  
+
+ TaxTotal  
+
+à  
+
+  
+
+ TaxAmounts Ved fakturering af en offentlig  
+
+ myndighed skal klassen TaxAmounts optræde  
+
+
+
+  
+
+ netop 1 gang
+
+  
+
+ pr.  
+
+ forekomst af klassen Invoice/TaxTotal.
+Denne information optræder redundant i  
+
+ Invoice/TaxTotal/CategoryTotal/TaxAmounts.
+ Værdien - "  
+
+ Momspligtig  
+
+ " eller "  
+
+ Momsfritaget  
+
+ " af  
+
+ elementet/feltet "TaxTypeCode"/"AfgiftsKategoriKode" i  
+
+ klassen Invoice/TaxTotal vil være bestemmende for, om der er tale om momstal  
+
+ for  
+
+ momspligtige varer/tjenesteydelser  
+
+ eller  
+
+ momsfritagne  
+
+ varer/tjenesteydelser.
+Kodeeksempel <com:TaxAmounts> <com:TaxableAmount  
+
+ currencyID="DKK">1000.00</com:TaxableAmount> <com:TaxAmount  
+
+ currencyID="DKK">250.00</com:TaxAmount> </com:TaxAmounts> Klasser i klassen  
+
+ TaxAmounts Ingen Felter i klassen  
+
+ TaxAmounts UK-feltnavn DK-feltnavn Felttype Feltformat Kategori TaxableAmount AfgiftsKategoriMomsGrundlag Amount Se udfaldsrum Obligatorisk TaxAmount AfgiftsKategoriMomsBeløb Amount Se udfaldsrum Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum AfgiftsKategoriMomsGrundlag Momsgrundlaget er beregningsgrundlaget, som ganget med  
+
+ momssatsen giver momsbeløbet.
+ Beløb:
+  
+
+ 	  
+
+ 2 cifre efter decimalskilletegn  
+
+ (".")   
+
+ 	  
+
+ Ingen tusindtalsseparator AfgiftsKategoriMomsBeløb Momsbeløbet fremkommer ved at gange momsgrundlaget med  
+
+ momssatsen Beløb:
+  
+
+ 	  
+
+ 2 cifre efter decimalskilletegn  
+
+ (".")   
+
+ 	  
+
+ Ingen tusindtalsseparator 5.36  
+
+ Invoice  
+
+à  
+
+  
+
+ TaxTotal  
+
+à  
+
+  
+
+ CategoryTotal Ved fakturering af en offentlig  
+
+ myndighed skal klassen CategoryTotal optræde  
+
+
+
+  
+
+ netop 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/TaxTotal.
+ Værdien - "  
+
+ Momspligtig  
+
+ " eller "  
+
+ Momsfritaget  
+
+ " af  
+
+ elementet/feltet "TaxTypeCode"/"AfgiftsKategoriKode"  
+
+ i klassen Invoice/TaxTotal vil være bestemmende for, om der er tale om  
+
+ momstal  
+
+ for  
+
+ momspligtige varer/tjenesteydelser  
+
+ eller  
+
+ momsfritagne  
+
+ varer/tjenesteydelser.
+Kodeeksempel <com:CategoryTotal> <com:RateCategoryCodeID>VAT</com:RateCategoryCodeID> <com:RatePercentNumeric>25</com:RatePercentNumeric> +<com:TaxAmounts> </com:CategoryTotal> Klasser i klassen  
+
+ CategoryTotal TaxAmounts Felter i klassen  
+
+ CategoryTotal UK-feltnavn DK-feltnavn Felttype Feltformat Kategori RateCategoryCodeID AfgiftsKategori Identifier Se udfaldsrum Obligatorisk RatePercentNumeric AfgiftsKategoriProcent Numeric 2 numeriske  
+
+ cifre Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum Afgifts Kategori Angiver om der i denne forekomst af CategoryTotal er tale  
+
+ om momstal for:
+"VAT" momspligtige varer/tjenesteydelser eller "ZERO-RATED" momsfritagne varer/tjenesteydelser VAT, eller ZERO-RATED Afgifts Kategori Procent Gældende moms-% Pt. "25" eller "00" 5.37 Invoice  
+
+à  
+
+  
+
+ TaxTotal  
+
+à  
+
+  
+
+ CategoryTotal  
+
+à  
+
+  
+
+ TaxAmounts Ved fakturering af en offentlig  
+
+ myndighed skal klassen TaxAmounts optræde  
+
+
+
+  
+
+ netop 1 gang
+
+  
+
+ pr.  
+
+ forekomst af klassen Invoice/TaxTotal/CategoryTotal.
+ Værdien -  
+
+ "Momspligtig" eller "Momsfritaget" af elementet/feltet  
+
+ "TaxTypeCode"/"AfgiftsKategoriKode" i klassen  
+
+ Invoice/TaxTotal  
+
+ vil være bestemmende for, om der er tale om momstal for  
+
+ momspligtige varer/tjenesteydelser  
+
+ eller  
+
+ momsfritagne varer/tjenesteydelser.
+Kodeeksempel <com:TaxAmounts> <com:TaxableAmount  
+
+ currencyID="DKK">1000.00</com:TaxableAmount> <com:TaxAmount  
+
+ currencyID="DKK">250.00</com:TaxAmount> </com:TaxAmounts> Klasser i klassen  
+
+ TaxAmounts Ingen Felter i klassen  
+
+ TaxAmounts UK-feltnavn DK-feltnavn Felttype Feltformat Kategori TaxableAmount AfgiftsKategoriMomsGrundlag Amount Se udfaldsrum Obligatorisk TaxAmount AfgiftsKategoriMomsBeløb Amount Se udfaldsrum Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum AfgiftsKategoriMomsGrundlag Momsgrundlaget er beregningsgrundlaget, som ganget med  
+
+ momssatsen giver momsbeløbet.
+ Beløb:
+  
+
+ 	  
+
+ 2 cifre efter decimalskilletegn  
+
+ (".")   
+
+ 	  
+
+ Ingen tusindtalsseparator AfgiftsKategoriMomsBeløb Momsbeløbet fremkommer ved at gange momsgrundlaget med  
+
+ momssatsen Beløb:
+  
+
+ 	  
+
+ 2 cifre efter decimalskilletegn  
+
+ (".")   
+
+ 	  
+
+ Ingen tusindtalsseparator 5.38 Invoice  
+
+à  
+
+  
+
+ LegalTotals Ved fakturering af en offentlig  
+
+ myndighed skal klassen LegalTotals optræde  
+
+
+
+  
+
+ netop 1 gang
+
+  
+
+ i  
+
+ klassen Invoice.
+Kodeeksempel <com:LegalTotals> <com:LineExtensionTotalAmount  
+
+ currencyID="DKK">24000</com:LineExtensionTotalAmount> <com:ToBePaidTotalAmount  
+
+ currencyID="DKK">30000</com:ToBePaidTotalAmount> </com:LegalTotals> Klasser i klassen  
+
+ LegalTotals Ingen Felter i klassen  
+
+ LegalTotals UK-feltnavn DK-feltnavn Felttype Feltformat Kategori LineExtensionTotalAmount FakturaLinjeTotal Amount Se udfaldsrum Obligatorisk ToBePaidTotalAmount FakturaTotal Amount Se udfaldsrum Obligatorisk/Læs Ind Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaLinjeTotal Summen af alle  
+
+ linjebeløb men excl.
+Moms.
+Valuta angives med attributten currencyID.
+ Beløb:
+  
+
+ 	  
+
+ 2 cifre efter decimalskilletegn  
+
+ (".")   
+
+ 	  
+
+ Ingen tusindtalsseparator 0 ved PIP  
+
+ eller PCP.
+FakturaTotal Fakturabeløbet er  
+
+ FakturaLinjeTotal, incl. faktura tillæg/fradrag og incl.
+Moms.
+Valuta angives  
+
+ med attributten currencyID.
+ Beløb:
+  
+
+ 	  
+
+ 2 cifre efter decimalskilletegn  
+
+ (".")   
+
+ 	  
+
+ Ingen tusindtalsseparator 5.39 Invoice  
+
+à  
+
+  
+
+ InvoiceLine Ved fakturering af en offentlig  
+
+ myndighed skal InvoiceLine klassen optræde mindst  
+
+
+
+  
+
+ 1 gang,
+
+  
+
+ men kan  
+
+ optræde  
+
+
+
+  
+
+ uendeligt mange gange
+
+  
+
+ i klassen Invoice.
+Kodeeksempel <com:InvoiceLine> <com:ID>45</com:ID> <com:InvoicedQuantity  
+
+ unitCode="Stk"  
+
+ unitCodeListAgencyID="n/a">1000</com:InvoicedQuantity> <com:LineExtensionAmount  
+
+ currencyID="DKK">560.00</com:LineExtensionAmount> <com:Note>RØD</com:Note> +<com:ReferencedOrderLine> +<com:AllowanceCharge> +<com:Item> +<com:BasePrice> +<com:ExtensibleContent> </com:InvoiceLine> Klasser i klassen  
+
+ InvoiceLine ReferencedOrderLine AllowanceCharge Item BasePrice ExtensibleContent Felter i klassen  
+
+ InvoiceLine UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FakturaLinjeNr Identifier Frit format Aftales InvoicedQuantity AntalEnhederFaktureret Quantity Frit format Obligatorisk LineExtensionAmount LinjeBeløb Amount Se udfaldsrum Obligatorisk Note FakturaLinjeNote Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaLinjeNr Fakturalinjens linienummer, specifikt angivet.
+Kan bruges  
+
+ f.eks. til bevidst gruppering af fakturalinjer.
+Frit format 0 ved PIP eller PCP.
+AntalEnhederFaktureret Det antal varer af en given type som faktureres i den  
+
+ givne fakturalinje.
+Attributten unitCode skal udfyldes.
+Som standard anvendes  
+
+ Unit Of Measure koder fra UN/CEFACT Recommendation 20 af 2002, og  
+
+ unitCodeListAgencyID  
+
+ sættes til UN/UOM. Ønskes frit format sættes attributten  
+
+ UnitCodeListAgencyID  
+
+ til n/a Format bestemt af UN/CEFACT eller frit format.
+ 0 ved PIP eller PCP.
+LinjeBeløb Linjens fakturabeløb incl. linjens tillæg/fradrag men  
+
+ excl. moms.
+Valuta angives med attributten currencyID.
+ Beløb:
+  
+
+ 	  
+
+ 2 cifre efter decimalskilletegn  
+
+ (".")   
+
+ 	  
+
+ Ingen tusindtalsseparator.
+ 0 ved PIP eller PCP.
+FakturaLinjeNote Note fra sælger til køber vedrørende fakturalinjen.
+Frit format 5.40 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine Ved fakturering af en offentlig  
+
+ myndighed kan klassen ReferencedOrderLine optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine.
+Kodeeksempel <com:ReferencedOrderLine> <com:BuyersID>656544</com:BuyersID> <com:SellersID>4223222</com:SellersID> +<com:DestinationParty> +<com:Item> +<com:DeliveryRequirement> </com:ReferencedOrderLine> Klasser i klassen  
+
+ ReferencedOrderLine DestinationParty Item DeliveryRequirement AllowanceCharge Felter i klassen  
+
+ ReferencedOrderLine UK-feltnavn DK-feltnavn Felttype Feltformat Kategori BuyersID KøbsOrdreNummer Identifier Frit format Betinget SellersID SalgsOrdreNummer Identifier Frit format Betinget Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KøbsOrdreNummer Angiver at fakturalinjen  
+
+ modsvarer varer bestilt i købers her angivne ordre eller rekvisition.
+ Anvendelse af dette felt  
+
+ er betinget af værdien af elementet:
+Invoice/ReferencedOrder/BuyersOrderID  
+
+ er "Linjespecificeret" Frit format SalgsOrdreNummer Angiver at fakturalinjen  
+
+ modsvarer varer bestilt i fakturaudsteders her angivne ordre eller  
+
+ ordrebekræftelse.
+ Anvendelse af dette felt  
+
+ er betinget af værdien af elementet:
+Invoice/ReferencedOrder/SellersOrderID  
+
+ er "Linjespecificeret" Frit format 5.41 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty Ved fakturering af en offentlig  
+
+ myndighed kan klassen DestinationParty optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/ReferencedOrderLine.
+Kodeeksempel <com:DestinationParty> <com:ID  
+
+ schemeID="CVR">56668519</com:ID> <com:AccountCode>889876</com:AccountCode> +<com:PartyName> +<com:Contact> +<com:Language> +<com:Address> </com:DestinationParty> Klasser i klassen  
+
+ DestinationParty PartyName Contact Language Address Felter i klassen  
+
+ DestinationParty UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID Kunde  
+
+ LeveringsIdentifikation Identifier Se udfaldsrum Aftales AccountCode DimensionsKontoStreng Identifier Frit format Betinget Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeLeveringsIdentifikation Entydig identifikation af kunden i form af CVR-nummer,  
+
+ SE-nummer eller anden identifikation.
+ Ved salg til et andet EU-land skal købers CVR-nummer  
+
+ angives.
+Attributten schemeID benyttes til at angive typen af  
+
+ indhold i elementet.
+Attributten skal antage værdierne henholdsvis  
+
+ CVR for  
+
+ et CVR-nummer og SE for et SE-nummer, P for P-nummer,  
+
+ EAN for  
+
+ EAN-lokationsnummer, DUNS for DUNS-nummer, Telefon  
+
+ for telefonnummer,  
+
+ CPR for CPR-nummer.
+Ved lokale (systemafhængige nøgler) kan  
+
+ ejeren af  
+
+ nøglen identificeres med et domænenavn (f.eks. itst.dk/xx) eller anden  
+
+ entydig identifikation.
+Ved Læs Ind meddelelser skal feltet  
+
+ indeholde 0  
+
+ og schemeID attributten sættes til n/a.
+En entydig identifikation DimensionsKontoStreng DimensionsKontoStreng.
+ Såfremt køber har  
+
+ angivet DimensionsKontoStrenge i forbindelse med afgivelse af rekvisition  
+
+ eller ordre, er køber, jævnfør Lov om Offentlige Betalinger og tilhørende  
+
+ bekendtgørelse, berettiget til at tilbageholde betaling, indtil de oplyste  
+
+ DimensionsKontoStrenge fremgår af fakturaen.
+ Anvendelse af  
+
+ dette felt er betinget af værdien af elementet:
+Invoice/BuyerParty/DimensionsKontoStreng  
+
+ er "Linjespecificeret" Frit format 5.42 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ PartyName Ved fakturering af en offentlig  
+
+ myndighed kan klassen PartyName optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen  
+
+ Invoice/InvoiceLine/ReferencedOrderLine/DestinationParty.
+Kodeeksempel <com:PartyName> <com:Name>ITST</com:Name> </com:PartyName> Klasser i klassen  
+
+ PartyName Ingen Felter i klassen  
+
+ PartyName UK-feltnavn DK-feltnavn Felttype Feltformat Kategori Name KundeNavn Name Frit format Aftales Forklaring af felter DK-feltnavn Beskrivelse Udfaldsrum KundeNavn Leverancemodtagers firmanavn i fakturaudsteders kunderegister Frit format 5.43 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Contact Ved fakturering af en offentlig  
+
+ myndighed kan klassen Contact optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr.  
+
+ forekomst af klassen  
+
+ Invoice/InvoiceLine/ReferencedOrderLine/DestinationParty.
+Kodeeksempel <com:Contact> <com:ID>hj@itst.dk</com:ID> <com:Name>Hans  
+
+ Jensen</com:Name> <com:Phone>33456545</com:Phone> <com:Fax>33456550</com:Fax> <com:E-Mail>hj@itst.dk</com:E-Mail> </com:Contact> Klasser i klassen  
+
+ Contact Ingen Felter i klassen  
+
+ Contact UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeReferenceIdentifikation Identifier Frit format Aftales Name KundeReferenceNavn Name Frit format Aftales Phone KundeReferenceTelefonNr Text Frit format Aftales Fax KundeReferenceFaxNr Text Frit format Aftales E-Mail KundeReferenceEMail Text SMTP-adresse Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeReferenceIdentifikation Identifikation af  
+
+ leverancemodtagers referenceperson Frit format KundeReferenceNavn Navn på  
+
+ leverancemodtagers referenceperson Frit format KundeReferenceTelefonNr Direkte  
+
+ telefonnummer til leverancemodtagers referenceperson Telefonnr. prefikset med +{telefon-landekode}{mellemrum}.  
+
+ F.eks. +45 83432838 KundeReferenceFaxNr Direkte fax-nummer  
+
+ til leverancemodtagers referenceperson Faxnumre prefikset med +{telefon-landekode}{mellemrum}.  
+
+ F.eks. +45 83432838 KundeReferenceEMail SMTP-adresse på  
+
+ leverancemodtagers referenceperson.
+Format eksempel ("gåseøjne"  
+
+ udelades): "nn@itst.dk" Alle SMTP-adresser 5.44 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Language Ved fakturering af en offentlig  
+
+ myndighed kan klassen Language optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen  
+
+ Invoice/InvoiceLine/ReferencedOrderLine/DestinationParty.
+Kodeeksempel <com:Language> <com:ID>da</com:ID> </com:Language> Klasser i klassen  
+
+ Language Ingen Felter i klassen  
+
+ Language UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeSprog Identifier DS/ISO  
+
+ 639-1:2002 Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeSprog Leverancemodtagers  
+
+ foretrukne sprog F.eks.
+en for engelsk, eller da for dansk.
+5.45 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Address Ved fakturering af en offentlig  
+
+ myndighed kan klassen Address optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr.  
+
+ forekomst af klassen  
+
+ Invoice/InvoiceLine/ReferencedOrderLine/DestinationParty.
+Kodeeksempel <com:Address> <com:ID>454333</com:ID> <com:Street>Bredgade</com:Street> <com:AdditionalStreet/> <com:HouseNumber>40</com:HouseNumber> <com:InhouseMail>3.  
+
+ sal</com:InhouseMail> <com:CityName>København  
+
+ K</com:CityName> <com:PostalZone>1260</com:PostalZone> +<com:Country> </com:Address> Klasser i klassen  
+
+ Address Country Felter i klassen  
+
+ Address UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeLeveringsAdresseI  
+
+ D Identifier Frit format Aftales Street KundeLeveringsVejNavn Text Frit format Aftales AdditionalStreet KundeLeveringsEkstraVejNavn Text Frit format Aftales HouseNumber KundeLeveringsHusNr Text Frit format Aftales InHouseMail KundeLeveringsDueslag Text Frit format Aftales CityName KundeLeveringsByNavn Name Frit format Aftales PostalZone KundeLeveringsPostNr Text Se udfaldsrum Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeLeveringsAdresseID Identifikation af  
+
+ leverancemodtagers leveringsadresse i fakturaudsteders kunderegister Frit format KundeLeveringsVejNavn Leverancemodtagers  
+
+ leveringsvejnavn i fakturaudsteders kunderegister Frit format KundeLeveringsEkstraVejNavn Ekstra linje i  
+
+ leverancemodtagers leveringsvejnavn i fakturaudsteders kunderegister Frit format KundeLeveringsHusNr Leverancemodtagers  
+
+ leveringshusnummer i fakturaudsteders kunderegister Frit format KundeLeveringsDueslag Leverancemodtagers  
+
+ etage-, afdelingsangivelse e.lign.
+Frit format KundeLeveringsByNavn Leverancemodtagers  
+
+ leveringsbynavn i fakturaudsteders kunderegister Frit format KundeLeveringsPostNr Leverancemodtagers  
+
+ leveringspostnummer i fakturaudsteders kunderegister 4 numeriske cifre ved danske postnumre, ellers frit  
+
+ format 5.46 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DestinationParty  
+
+à  
+
+  
+
+ Address  
+
+à  
+
+  
+
+ Country Ved fakturering af en offentlig  
+
+ myndighed kan klassen Country optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr.  
+
+ forekomst af klassen  
+
+ Invoice/InvoiceLine/ReferencedOrderLine/DestinationParty/Address.
+Kodeeksempel <com:Country> <com:Code>DK</com:Code> </com:Country> Klasser i klassen  
+
+ Country Ingen Felter i klassen  
+
+ Country UK-feltnavn DK-feltnavn Felttype Feltformat Kategori Code KundeLeveringsLandeKode Code ISO 3166-1 Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeLeveringsLandeKode Leverancemodtagers  
+
+ leveringslandekode i fakturaudsteders kunderegister 2 alphanumeriske tegn, f.eks. DK for Danmark 5.47 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item Ved fakturering af en offentlig  
+
+ myndighed kan klassen Item optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst  
+
+ af klassen Invoice/InvoiceLine/ReferencedOrderLine.
+Kodeeksempel <com:Item> <com:ID>434333</com:ID> <com:Description>Blyanter - kasse  
+
+ m. 10 stk</com:Description> +<com:BuyersItemIdentification> +<com:SellersItemIdentification> +<com:ManufacturersItemIdentification> +<com:StandardItemIdentification> +<com:CatalogueItemIdentification> +<com:ReferencedCatalogue> +<com:CommodityClassification> +<com:Tax> +<com:BasePrice> </com:Item> Klasser i klassen  
+
+ Item BuyersItemIdentification SellersItemIdentification ManufacturersItemIdentification StandardItemIdentification CatalogueItemIdentification ReferencedCatalogue CommodityClassification Tax BasePrice Felter i klassen  
+
+ Item UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeVareNr Identifier Frit format Aftales Description KundeVareNavn Text Varenavnet  
+
+ indeholder:
+"Varens  
+
+ art", f.eks. "Blyant", "Sukker" "Sampakningstype",  
+
+ f.eks. "Kasse", "Pose" "Antal  
+
+ enheder pr. sampakning", f.eks. "10" "Enhed",  
+
+ f.eks. "Stk", "Liter", "Meter", "Kg" Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeVareNr Kundens varenummer Frit format KundeVareNavn Kundens  
+
+ beskrivelse af varens navn, pakke, antal enheder og måleenhed, f.eks.  
+
+ "Blyanter - kasse m. 10 stk" Se feltformat 5.48 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ BuyersItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen BuyersItemIdentification optræde  
+
+
+
+  
+
+ maksimalt 1  
+
+ gang
+
+  
+
+ pr. forekomst af klassen  
+
+ Invoice/InvoiceLine/ReferencedOrderLine/Item.
+Kodeeksempel <com:BuyersItemIdentification> <com:ID  
+
+ schemeID="n/a">6565454</com:ID> <com:Description>Rød</com:Description> </com:BuyersItemIdentification> Klasser i klassen  
+
+ BuyersItemIdentification Ingen Felter i klassen  
+
+ BuyersItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundensVareNr Identifier Frit format Aftales Description KundensVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundensVareNr Varenummer som  
+
+ angivet af kunden.
+Attributten schemeID anvendes til at indikere brugen af en  
+
+ evt. varenummerstandard.
+For UCC/EAN/UPC-varenumre anvendes værdierne  
+
+ EAN-8, EAN-13, EAN-14, eller  
+
+ UPC.
+For International Standard Book Number  
+
+ anvendes værdien ISBN.
+For International Standard Serial Number  
+
+ anvendes  
+
+ værdien ISSN. Øvrige værdier aftales.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+KundensVareBeskrivelse Varen som  
+
+ beskrevet af kunden.
+Varebeskrivelsen må ikke forveksles med varenavnet.
+ Varebeskrivelsen  
+
+ for en blyant kunne f.eks. indeholde krav om produktionsforhold,  
+
+ miljømærkning  
+
+ etc.
+Frit format 5.49 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ SellersItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen SellersItemIdentification optræde  
+
+
+
+  
+
+ maksimalt 1  
+
+ gang
+
+  
+
+ pr. forekomst af klassen  
+
+ Invoice/InvoiceLine/ReferencedOrderLine/Item.
+Kodeeksempel <com:SellersItemIdentification> <com:ID  
+
+ schemeID="n/a">454543</com:ID> <com:Description>Blå</com:Description> </com:SellersItemIdentification> Klasser i klassen  
+
+ SellersItemIdentification Ingen Felter i klassen  
+
+ SellersItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FakturaUdstederensVareNr Identifier Frit format Aftales Description FakturaUdstederensVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaUdstederensVareNr Varenummer som  
+
+ angivet af fakturaudsteder.
+Attributten schemeId anvendes til at indikere  
+
+ brugen af en evt. varenummerstandard.
+For UCC/EAN/UPC-varenumre anvendes  
+
+ værdierne EAN-8, EAN-13, EAN-14, eller  
+
+ UPC.
+For International  
+
+ Standard Book Number anvendes værdien ISBN.
+For International  
+
+ Standard  
+
+ Serial Number anvendes værdien ISSN. Øvrige værdier aftales.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+FakturaUdstederensVareBeskrivelse Varen som  
+
+ beskrevet af fakturaudsteder.
+Varebeskrivelsen må ikke forveksles med  
+
+ varenavnet.
+ Varebeskrivelsen  
+
+ for en blyant kunne f.eks. indeholde krav om produktionsforhold,  
+
+ miljømærkning  
+
+ etc.
+Frit format 5.50 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ ManufacturersItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen ManufacturersItemIdentification optræde  
+
+
+
+  
+
+ maksimalt  
+
+ 1 gang
+
+  
+
+ pr. forekomst af klassen  
+
+ Invoice/InvoiceLine/ReferencedOrderLine/Item.
+Kodeeksempel <com:ManufacturersItemIdentification> <com:ID  
+
+ schemeID="EAN-13">5712345780121</com:ID> <com:Description>Gul</com:Description> </com:ManufacturersItemIdentification> Klasser i klassen  
+
+ ManufacturersItemIdentification Ingen Felter i klassen  
+
+ ManufacturersItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FabrikantensVareNr Identifier Frit format Aftales Description FabrikantensVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FabrikantensVareNr Varenummer som  
+
+ angivet af fabrikanten.
+Attributten schemeId anvendes til at indikere brugen  
+
+ af en evt. varenummerstandard.
+For UCC/EAN/UPC-varenumre anvendes værdierne  
+
+ EAN-8, EAN-13, EAN-14, eller  
+
+ UPC.
+For International Standard Book  
+
+ Number anvendes værdien ISBN.
+For International Standard Serial  
+
+ Number anvendes  
+
+ værdien ISSN. Øvrige værdier aftales.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+FabrikantensVareBeskrivelse Varen som  
+
+ beskrevet af fabrikanten.
+ Varebeskrivelsen  
+
+ må ikke forveksles med varenavnet.
+ Varebeskrivelsen  
+
+ for en blyant kunne f.eks. indeholde krav om produktionsforhold,  
+
+ miljømærkning  
+
+ etc.
+Frit format 5.51 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ StandardItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen StandardItemIdentification optræde  
+
+
+
+  
+
+ maksimalt 1  
+
+ gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/ReferencedOrderLine/Item.
+Kodeeksempel <com:StandardItemIdentification> <com:ID  
+
+ schemeID="EAN-13">5712345780121</com:ID> <com:Description>Sort</com:Description> </com:StandardItemIdentification> Klasser i klassen  
+
+ StandardItemIdentification Ingen Felter i klassen  
+
+ StandardItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID StandardiseretVareNr Identifier Frit format Aftales Description StandardiseretVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum StandardiseretVareNr Varenummer, f.eks.
+ISBN-nr., i henhold til  
+
+ brancheforening eller international standardiseringsorganisation.
+Attributten  
+
+ schemeId anvendes til at indikere brugen af en evt. varenummerstandard.
+For  
+
+ UCC/EAN/UPC-varenumre anvendes værdierne EAN-8,  
+
+ EAN-13, EAN-14, eller  
+
+ UPC.
+For International Standard Book Number anvendes værdien  
+
+ ISBN.
+For  
+
+ International Standard Serial Number anvendes værdien ISSN.  
+
+ Øvrige værdier  
+
+ aftales.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+StandardiseretVareBeskrivelse Varen som beskrevet af brancheforening eller  
+
+ international standardiseringsorganisation.
+ Varebeskrivelsen må ikke forveksles med varenavnet.
+ Varebeskrivelsen for en blyant kunne f.eks. indeholde  
+
+ krav om produktionsforhold, miljømærkning etc.
+Frit format 5.52 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ CatalogueItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen CatalogueItemIdentification optræde  
+
+
+
+  
+
+ maksimalt 1  
+
+ gang
+
+  
+
+ pr. forekomst af klassen  
+
+ Invoice/InvoiceLine/ReferencedOrderLine/Item.
+Kodeeksempel <com:CatalogueItemIdentification> <com:ID  
+
+ schemeID="n/a">12123</com:ID> <com:Description>Lilla</com:Description> </com:CatalogueItemIdentification> Klasser i klassen CatalogueItemIdentification Ingen Felter i klassen  
+
+ CatalogueItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KatalogVareNr Identifier Frit format Aftales Description KatalogVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KatalogVareNr Varenummer som  
+
+ angivet i leverandørens katalog.
+Attributten schemeId anvendes til at  
+
+ indikere  
+
+ brugen af en evt. varenummerstandard.
+For UCC/EAN/UPC-varenumre anvendes  
+
+ værdierne EAN-8, EAN-13, EAN-14, eller  
+
+ UPC.
+For International  
+
+ Standard Book Number anvendes værdien ISBN.
+For International  
+
+ Standard  
+
+ Serial Number anvendes værdien ISSN. Øvrige værdier aftales.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+KatalogVareBeskrivelse Varen som  
+
+ beskrevet i leverandørens katalog.
+ Varebeskrivelsen  
+
+ må ikke forveksles med varenavnet.
+ Varebeskrivelsen  
+
+ for en blyant kunne f.eks. indeholde krav om produktionsforhold,  
+
+ miljømærkning  
+
+ etc.
+Frit format 5.53 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ ReferencedCatalogue Ved fakturering af en offentlig  
+
+ myndighed kan klassen ReferencedCatalogue optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/ReferencedOrderLine/Item.
+Kodeeksempel <com:ReferencedCatalogue> <com:CatalogueID>POSTORDRE</com:CatalogueID> </com:ReferencedCatalogue> Klasser i klassen  
+
+ ReferencedCatalogue Ingen Felter i klassen ReferencedCatalogue UK-feltnavn DK-feltnavn Felttype Feltformat Kategori CatalogueID KatalogIdentifikation Identifier Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KatalogIdentifikation Identificerer det  
+
+ katalog, der refereres til Frit format 5.54 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ CommodityClassification Ved fakturering af en offentlig  
+
+ myndighed kan klassen CommodityClassification optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/ReferencedOrderLine/Item.
+Kodeeksempel <com:CommodityClassification> <com:CommodityCode  
+
+ listID="UNSPSC"  
+
+ listVersionID="7.3">43201501</com:CommodityCode> </com:CommodityClassification> Klasser i klassen  
+
+ CommodityClassification Ingen Felter i klassen  
+
+ CommodityClassification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori CommodityCode VareKlassifikation Code UNSPSC Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum VareKlassifikation Benyttes til  
+
+ klassifikation af solgt vare.
+For UNSPSC skal elementet have følgende  
+
+ struktur:
+ Segment,  
+
+ f.eks. 43:
+Information  
+
+ Technology Broadcasting and Telecommunications Communications Devices and  
+
+ Accessories Family, f.eks. 20:
+Components for  
+
+ information technology or broadcasting or telecommunications Computer  
+
+ Equipment and Accessories Class, f.eks. 15:
+Computers Computer  
+
+ accessories Commodity, f.eks. 01:
+Computer switch  
+
+ boxes Docking stations Attributten listID  
+
+ benyttes til at angive, hvilken klassificeringsstandard der benyttes.
+Ved  
+
+ brug af UNSPSC defineres værdien af listID=UNSPSC.
+For Common  
+
+ Procurement  
+
+ Vocabulary anvendes værdien CPV.
+ListVersionID benyttes til at  
+
+ angive,  
+
+ hvilken version af klassificeringsstandarden der benyttes.
+Ved UNSPSC: 8 cifre: UUVVXXYY Segment: UU Family: VV Class: XX Commodity: YY 5.55 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ Tax Ved fakturering af en offentlig  
+
+ myndighed kan klassen Tax optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst  
+
+ af klassen Invoice/InvoiceLine/ReferencedOrderLine/Item.
+Kodeeksempel <com:Tax> <com:RateCategoryCodeID>VAT</com:RateCategoryCodeID> <com:TypeCode>VAT</com:TypeCode> <com:RatePercentNumeric>25</com:RatePercentNumeric> </com:Tax> Klasser i klassen  
+
+ Tax Ingen Felter i klassen  
+
+ Tax UK-feltnavn DK-feltnavn Felttype Feltformat Kategori RateCategoryCodeID AfgiftsKategori Identifier Se udfaldsrum Aftales TypeCode AfgiftsKategoriKode Code Se udfaldsrum Aftales RateProcentNumeric AfgiftsKategoriProcent Numeric 2 numeriske  
+
+ cifre Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum AfgiftsKategori Navn på den afgiftskategori der er specificeret ved  
+
+ værdien af feltet AfgiftsKategoriKode:
+"VAT" momspligtig eller "ZERO-RATED" momsfritaget VAT, eller ZERO-RATED AfgiftsKategoriKode Leverandørens reference til kundens angivelse af om den  
+
+ enkelte vare/tjenesteydelse er:
+momspligtig (VAT) eller momsfritaget (ZERO-RATED) "VAT", eller "ZERO-RATED" AfgiftsKategoriProcent Gældende moms-% Pt. "25"  
+
+ eller "00" 5.57 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ BasePrice Ved fakturering af en offentlig  
+
+ myndighed kan klassen BasePrice optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/ReferencedOrderLine/Item.
+Kodeeksempel <com:BasePrice> <com:PriceAmount  
+
+ currencyID="DKK">100</com:PriceAmount> <com:BaseQuantity  
+
+ unitCode="stk"  
+
+ unitCodeListAgencyID="n/a">5</com:BaseQuantity> </com:BasePrice> Klasser i klassen  
+
+ BasePrice Ingen Felter i klassen  
+
+ BasePrice UK-feltnavn DK-feltnavn Felttype Feltformat Kategori PriceAmount EnhedsPris Amount Se udfaldsrum Aftales BaseQuantity EnhedsStørrelse Quantity Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum EnhedsPris Kundens angivelse  
+
+ af prisen på én enhed af en given vare.
+ Beløb:
+  
+
+ 	  
+
+ 2 cifre efter  
+
+ decimalskilletegn (".")   
+
+ 	  
+
+ Ingen  
+
+ tusindtalsseparator EnhedsStørrelse Kundens angivelse  
+
+ af den enhedsstørrelse som koster enhedsprisen, f.eks.:
+1 kg 20 m 1 stk 30 stk 3 liter Attributten unitCode skal udfyldes.
+Som standard anvendes  
+
+ Unit Of Measure koder fra UN/CEFACT Recommendation 20 af 2002, og  
+
+ unitCodeListAgencyID  
+
+ sættes til UN/UOM. Ønskes frit format sættes attributten  
+
+ UnitCodeListID til  
+
+ n/a Frit format eller format der overholder den angivne  
+
+ UOM-standard.
+5.58 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DeliveryRequirement Ved fakturering af en offentlig  
+
+ myndighed kan klassen DeliveryRequirement optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/ReferencedOrderLine.
+Kodeeksempel <com:DeliveryRequirement> <com:ID>Deliverydate</com:ID> +<com:DeliverySchedule> </com:DeliveryRequirement> Klasser i klassen  
+
+ DeliveryRequirement DeliverySchedule Felter i klassen  
+
+ DeliveryRequirement UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID LeveranceKrav Identifier 12  
+
+ alphanumeriske tegn Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum LeveranceKrav Feltet angiver at  
+
+ leverancekravene i klassen DeliverySchedule er leveringsdatoer "Deliverydate", Period 5.59 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ DeliveryRequirement  
+
+à  
+
+  
+
+ DeliverySchedule Ved fakturering af en offentlig  
+
+ myndighed kan klassen DeliverySchedule optræde  
+
+
+
+  
+
+ maksimalt 4 gange
+
+  
+
+ i klassen Invoice/InvoiceLine/ReferencedOrderLine/DeliveryRequirement.
+ Værdien -  
+
+ "1", "2", 3 eller 4 af  
+
+ elementet/feltet  
+
+ "ID"/"LeveringsDatoTypeIdentifikation" vil være  
+
+ bestemmende  
+
+ for, om den enkelte leveringsdato/forekomst af klassen DeliverySchedule er en  
+
+ (1) leveringsdato specificeret af køber eller den (2) faktiske leveringsdato  
+
+ eller en (3) start-leveringsdato specificeret af køber (hvor  
+
+ slut-leveringsdato  
+
+ skal angives med værdien 1) eller den (4) faktiske start-leveringsdato (hvor  
+
+ slut-leveringsdato skal angives med værdien 2).
+Kodeeksempel <com:DeliverySchedule> <com:ID>2</com:ID> <com:RequestedDeliveryDateTime>2003-07-07</com  
+
+ :RequestedDeliveryDateTime> </com:DeliverySchedule> Klasser i klassen  
+
+ DeliverySchedule Ingen Felter i klassen  
+
+ DeliverySchedule UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID LeveringsDatoTypeIdentifikation Identifier Se udfaldsrum Obligatorisk RequestedDeliveryDateTime LeveringsDato DateTime DS/ISO8601:2001 Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum LeveringsDatoTypeIdentifikation "1"  
+
+ angiver, at den angivne leveringsdato (levering til og med) er den  
+
+ leveringsdato, som blev specificeret af køber.
+ "2"  
+
+ angiver, at den angivne leveringsdato er den leveringsdato, som varen faktisk  
+
+ blev leveret på.
+"3"  
+
+ angiver, at den angivne leveringsdato er den leverancestartdato (levering fra  
+
+ og med), som blev specificeret af køber.
+LeveringsDatoTypeIdentifikation  
+
+ "3" kan ikke stå alene men skal altid kombineres med  
+
+ LeveringsDatoTypeIdentifikation  
+
+ "1", hvor LeveringsDato identificeret ved "1" angiver  
+
+ leveranceperiodens slutning, mens LeveringsDato identificeret ved  
+
+ "3" angiver leveranceperiodens start.
+"4"  
+
+ angiver, at den angivne leveringsdato er den leverancestartdato, hvor  
+
+ leverance af varen blev påbegyndt.
+LeveringsDatoTypeIdentifikation  
+
+ "4" kan ikke stå alene, men skal altid kombineres med  
+
+ LeveringsDatoTypeIdentifikation  
+
+ "2", hvor LeveringsDato identificeret ved "2" angiver  
+
+ leveranceperiodens slutning, mens LeveringsDato identificeret ved  
+
+ "4" angiver leveranceperiodens start.
+ Såfremt det  
+
+ leverede er leveret på en given dato og ikke over en periode, angives kun  
+
+ LeveringsDato(er) specificeret ved LeveringsDatoTypeIdentifikation  
+
+ "2" (og eventuelt "1").
+"1", "2", "3" eller "4" LeveringsDato Leveringsdato.
+ F.eks. vil datoen: den 1. februar 2005 skrives:  
+
+ 2005-02-01.
+YYYY-MM-DD 5.60 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ReferencedOrderLine  
+
+à  
+
+  
+
+ AllowanceCharge Ved fakturering af en offentlig  
+
+ myndighed kan AllowanceCharge klassen optræde  
+
+
+
+  
+
+ uendeligt mange gange
+
+  
+
+ i klassen Invoice/InvoiceLine/ReferencedOrderLine.
+ Værdien -  
+
+ "Rabat", "Gebyr", "Fragt", "Afgift"  
+
+ eller "Told" af elementet/feltet  
+
+ "ID"/"KundeGebyrKategori" vil være bestemmende for, om  
+
+ den  
+
+ enkelte forekomst af klassen AllowanceCharge er en generel rabat eller et  
+
+ generelt  
+
+ gebyr, fragt, en afgift eller told.
+Kodeeksempel <com:AllowanceCharge> <com:ID>Told</com:ID> <com:ChargeIndicator>true</com:ChargeIndicator> <com:MultiplierReasonCode>234</com:MultiplierReasonCode> <com:MultiplierFactorQuantity  
+
+ unitCode="promille"  
+
+ unitCodeListAgencyID="n/a">5</com:MultiplierFactorQuantity&gt  
+
+ ; <com:AllowanceChargeAmount>300</com:AllowanceChargeAmount> <com:BuyersReferenceID>4544-6655</com:BuyersReferenceID> </com:AllowanceCharge> Klasser i klassen  
+
+ AllowanceCharge Ingen Felter i klassen  
+
+ AllowanceCharge UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundeGebyrKategori Identifier Se udfaldsrum Aftales ChargeIndicator KundeGebyrKategoriIndikering Indicator Se udfaldsrum Aftales MultiplierReasonCode KundeGebyrKategoriÅrsag Code Frit format Aftales MultiplierFactorQuantity KundeGebyrKategoriKvantitet Quantity 4 numeriske  
+
+ cifre Aftales AllowanceChargeAmount KundeGebyrKategoriBeløb Amount Se udfaldsrum Aftales BuyersReferenceID KundeGebyrKategoriFinanskonto Identifier Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundeGebyrKategori Angiver gebyrkategori.  
+
+ Hvis kategorien er lig "Rabat" skal beløbet fratrækkes.
+For  
+
+ andre værdier skal beløbet tillægges.
+"Rabat", "Gebyr", "Fragt", "Afgift", eller "Told" KundeGebyrKategori Indikering "true"  
+
+ medfører at beløbet er momspligtigt "false"  
+
+ medfører at beløbet ikke er momspligtigt "true", eller "false" KundeGebyrKategoriÅrsag Kode der angiver  
+
+ årsagen til gebyret.
+Frit format KundeGebyrKategori Kvantitet Opgørelse af  
+
+ gebyret i den valgte enhed.
+F.eks. heltal der angiver den   af  
+
+ beregningsgrundlaget,  
+
+ der bestemmer gebyrkategoritotalen.  
+
+ Attributten unitCode skal  
+
+ udfyldes.
+Som standard anvendes Unit Of Measure koder fra UN/CEFACT  
+
+ Recommendation  
+
+ 20 af 2002, og unitCodeListAgencyID sættes til UN/UOM. Ønskes  
+
+ frit format  
+
+ sættes attributten unitCodeListAgencyID til n/a F.eks. "0000"-1000 ved unitCode=promille og  
+
+ unitCodeListAgencyID =n/a KundeGebyrKategoriBeløb Det  
+
+ kundegebyrkategoribeløb der efter kundens mening, i den givne fakturalinje,  
+
+ skal opkræves for kundegebyrkategorien Beløb:
+  
+
+ 	  
+
+ 2 cifre efter  
+
+ decimalskilletegn (".")   
+
+ 	  
+
+ Ingen  
+
+ tusindtalsseparator KundeGebyrKategori Finanskonto Den til  
+
+ kundegebyrkategorien svarende finanskonto i kundens økonomisystem Frit format 5.61 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ AllowanceCharge Ved fakturering af en offentlig  
+
+ myndighed kan AllowanceCharge klassen optræde  
+
+
+
+  
+
+ uendeligt mange gange
+
+  
+
+ i klassen Invoice/InvoiceLine.
+ Værdien -  
+
+ "Rabat", "Gebyr", "Fragt", "Afgift"  
+
+ eller "Told" af elementet/feltet  
+
+ "ID"/"FakturaUdstederGebyrKategori" vil være bestemmende  
+
+ for, om den enkelte forekomst af klassen AllowanceCharge er en generel rabat  
+
+ eller et generelt gebyr, fragt, en afgift eller told.
+Kodeeksempel <com:AllowanceCharge> <com:ID>Rabat</com:ID> <com:ChargeIndicator>true</com:ChargeIndicator> <com:MultiplierReasonCode>456</com:MultiplierReasonCode> <com:MultiplierFactorQuantity  
+
+ unitCode="promille"  
+
+ unitCodeListAgencyID="n/a">34</com  
+
+ :MultiplierFactorQuantity> <com:AllowanceChargeAmount>300</com:AllowanceChargeAmount> <com:BuyersReferenceID>4354-77666</com:BuyersReferenceID> </com:AllowanceCharge> Klasser i klassen  
+
+ AllowanceCharge Ingen Felter i klassen  
+
+ AllowanceCharge UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FakturaUdstederGebyrKategori Identifier Se udfaldsrum Obligatorisk ChargeIndicator FakturaUdstederGebyrKategoriIndikering Indicator Se udfaldsrum Obligatorisk MultiplierReasonCode FakturaUdstederGebyrKategoriÅrsag Code Frit format Frivillig MultiplierFactorQuantity FakturaUdstederGebyrKategoriKvantitet Quantity 4 numeriske cifre Frivillig AllowanceChargeAmount FakturaUdstederGebyrKategoriBeløb Amount Se udfaldsrum Obligatorisk BuyersReferenceID FakturaUdstederGebyrKategoriFinansKonto Identifier Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum Fakturaudsteder GebyrKategori Angiver gebyrkategori.  
+
+ Hvis kategorien er lig "Rabat" er beløbet fratrukket LinjeBeløb.  
+
+ For andre værdier er beløbet tillagt LinjeBeløb.
+"Rabat", "Gebyr", "Fragt", "Afgift", eller "Told" Fakturaudsteder GebyrKategoriIndikering "true" medfører at beløbet er  
+
+ momspligtigt "false" medfører at beløbet ikke er  
+
+ momspligtigt "true", eller "false" Fakturaudsteder GebyrKategoriÅrsag Kode der angiver årsagen til gebyret.
+Frit format Fakturaudsteder GebyrKategoriKvantitet Opgørelse af gebyret i den valgte enhed.
+F.eks. heltal,  
+
+ der angiver den   af beregningsgrundlaget, der bestemmer  
+
+ gebyrkategoritotalen.  
+
+ Attributten unitCode skal udfyldes.
+Som standard anvendes Unit Of Measure  
+
+ koder fra UN/CEFACT Recommendation 20 af 2002, og unitCodeListAgencyID sættes  
+
+ til UN/UOM. Ønskes frit format sættes attributten  
+
+ unitCodeListAgencyID til  
+
+ n/a F.eks. "0000"-1000 ved unitCode=promille og  
+
+ unitCodeListAgencyID =n/a Fakturaudsteder GebyrKategoriBeløb Det  
+
+ fakturaudstedergebyrkategoribeløb der efter sælgers mening, i den givne  
+
+ fakturalinje, skal opkræves for kundegebyrkategorien Beløb:
+  
+
+ 	  
+
+ 2  
+
+ cifre efter decimalskilletegn (".")   
+
+ 	  
+
+ Ingen  
+
+ tusindtalsseparator FakturaudstederGebyr KategoriFinanskonto Den til  
+
+ fakturaudstedergebyrkategorien svarende finanskonto i kundens økonomisystem Frit format 5.62 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item Ved fakturering af en offentlig  
+
+ myndighed skal klassen Item optræde  
+
+
+
+  
+
+ netop 1 gang
+
+
+  
+
+ pr.
+
+  
+
+ forekomst af klassen Invoice/InvoiceLine.
+Kodeeksempel <com:Item> <com:ID>434333</com:ID> <com:Description>Blyanter - kasse  
+
+ m. 10 stk</com:Description> +<com:BuyersItemIdentification> +<com:SellersItemIdentification> +<com:ManufacturersItemIdentification> +<com:StandardItemIdentification> +<com:CatalogueItemIdentification> +<com:ReferencedCatalogue> +<com:CommodityClassification> +<com:Tax> +<com:BasePrice> </com:Item> Klasser i klassen  
+
+ Item BuyersItemIdentification SellersItemIdentification ManufacturersItemIdentification StandardItemIdentification CatalogueItemIdentification ReferencedCatalogue CommodityClassification Tax BasePrice Felter i klassen  
+
+ Item UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FakturaUdstederVareNr Identifier Frit format Obligatorisk Description FakturaUdstederVareNavn Text Varenavnet  
+
+ indeholder:
+"Varens  
+
+ art", f.eks. "Blyant", "Sukker" "Sampakningstype",  
+
+ f.eks. "Kasse" "Antal  
+
+ enheder pr. sampakning", f.x. "10" "Enhed",  
+
+ f.eks. "stk", "liter", "meter", "kg" Obligatorisk Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaUdstederVareNr Fakturaudsteders  
+
+ varenummer.
+Attributten schemeId anvendes til at indikere brugen af en evt.  
+
+ varenummerstandard.
+For UCC/EAN/UPC-varenumre anvendes værdierne  
+
+ EAN-8, EAN-13,  
+
+ EAN-14, eller UPC.
+For International Standard Book  
+
+ Number anvendes  
+
+ værdien ISBN.
+For International Standard Serial Number anvendes  
+
+ værdien  
+
+ ISSN. Øvrige værdier aftales.
+Eller anvendes værdien  
+
+ n/a.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+ null ved PIP eller PCP.
+FakturaUdstederVareNavn Fakturaudsteders  
+
+ beskrivelse af varens navn, pakke, antal enheder og måleenhed, f.eks.  
+
+ "Blyanter - kasse m. 10 stk" Se feltformatet 5.63 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ BuyersItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen BuyersItemIdentification optræde  
+
+
+
+  
+
+ maksimalt 1  
+
+ gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/Item.
+Kodeeksempel <com:BuyersItemIdentification> <com:ID  
+
+ schemeID="n/a"  
+
+ >454422</com:ID> <com:Description>100  
+
+ stk - blå</com:Description> </com:BuyersItemIdentification> Klasser i klassen  
+
+ BuyersItemIdentification Ingen Felter i klassen  
+
+ BuyersItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KundensVareNr Identifier Frit format Aftales Description KundensVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KundensVareNr Varenummer som  
+
+ angivet af kunden.
+Attributten schemeId anvendes til at indikere brugen af en  
+
+ evt. varenummerstandard.
+For UCC/EAN/UPC-varenumre anvendes værdierne  
+
+ EAN-8, EAN-13, EAN-14, eller  
+
+ UPC.
+For International Standard Book  
+
+ Number anvendes værdien ISBN.
+For International Standard Serial  
+
+ Number  
+
+ anvendes værdien ISSN. Øvrige værdier aftales.
+Ellers anvendes  
+
+ n/a.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+KundensVareBeskrivelse Varen som  
+
+ beskrevet af kunden.
+ Varebeskrivelsen  
+
+ må ikke forveksles med varenavnet.
+ Varebeskrivelsen  
+
+ for en blyant kunne f.eks. indeholde krav om produktionsforhold,  
+
+ miljømærkning  
+
+ etc.
+Frit format 5.64 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ SellersItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen SellersItemIdentification optræde  
+
+
+
+  
+
+ maksimalt 1  
+
+ gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/Item.
+Kodeeksempel <com:SellersItemIdentification> <com:ID  
+
+ schemeID="n/a">12211</com:ID> <com:Description>100 stk -  
+
+ lyseblå</com:Description> </com:SellersItemIdentification> Klasser i klassen  
+
+ SellersItemIdentification Ingen Felter i klassen  
+
+ SellersItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FakturaUdstederensVareNr Identifier Frit format Aftales Description FakturaUdstederensVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FakturaUdstederensVareNr Varenummer som  
+
+ angivet af fakturaudsteder.
+Attributten schemeID anvendes til at indikere  
+
+ brugen af en evt. varenummerstandard.
+For UCC/EAN/UPC-varenumre anvendes  
+
+ værdierne EAN-8, EAN-13, EAN-14, eller  
+
+ UPC.
+For International  
+
+ Standard Book Number anvendes værdien ISBN.
+For International  
+
+ Standard  
+
+ Serial Number anvendes værdien ISSN. Øvrige værdier aftales.  
+
+ Ellers  
+
+ anvendes værdien n/a.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+FakturaUdstederensVareBeskrivelse Varen som  
+
+ beskrevet af fakturaudsteder.
+ Varebeskrivelsen  
+
+ må ikke forveksles med varenavnet.
+ Varebeskrivelsen  
+
+ for en blyant kunne f.eks. indeholde krav om produktionsforhold,  
+
+ miljømærkning etc.
+Frit format 5.65 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ ManufacturersItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen ManufacturersItemIdentification optræde  
+
+
+
+  
+
+ maksimalt  
+
+ 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/Item.
+Kodeeksempel <com:ManufacturersItemIdentification> <com:ID  
+
+ schemeID="n/a">88778</com:ID> <com:Description>10 x 10 stk,  
+
+ blå</com:Description> </com:ManufacturersItemIdentification> Klasser i klassen  
+
+ ManufacturersItemIdentification Ingen Felter i klassen  
+
+ ManufacturersItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID FabrikantensVareNr Identifier Frit format Aftales Description FabrikantensVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum FabrikantensVareNr Varenummer som  
+
+ angivet af fabrikanten.
+Attributten schemeID anvendes til at indikere brugen  
+
+ af en evt. varenummerstandard.
+For UCC/EAN/UPC-varenumre anvendes værdierne  
+
+ EAN-8, EAN-13, EAN-14, eller  
+
+ UPC.
+For International Standard Book  
+
+ Number anvendes værdien ISBN.
+For International Standard Serial  
+
+ Number anvendes  
+
+ værdien ISSN. Øvrige værdier aftales.
+Ellers anvendes værdien  
+
+ n/a.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+FabrikantensVareBeskrivelse Varen som  
+
+ beskrevet af fabrikanten.
+ Varebeskrivelsen  
+
+ må ikke forveksles med varenavnet.
+ Varebeskrivelsen  
+
+ for en blyant kunne f.eks. indeholde krav om produktionsforhold,  
+
+ miljømærkning  
+
+ etc.
+Frit format 5.66 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ StandardItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen StandardItemIdentification optræde  
+
+
+
+  
+
+ maksimalt 1  
+
+ gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/Item.
+Kodeeksempel <com:StandardItemIdentification> <com:ID  
+
+ schemeID="n/a">44555</com:ID> <com:Description>100,  
+
+ blå</com:Description> </com:StandardItemIdentification> Klasser i klassen  
+
+ StandardItemIdentification Ingen Felter i klassen  
+
+ StandardItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID StandardisteretVareNr Identifier Frit format Aftales Description StandardiseretVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum StandardiseretVareNr Varenummer i  
+
+ henhold til brancheforening eller international standardiseringsorganisation.  
+
+ Attributten schemeId anvendes til at indikere brugen af en evt.  
+
+ varenummerstandard.  
+
+ For UCC/EAN/UPC-varenumre anvendes værdierne EAN-8,  
+
+ EAN-13, EAN-14,  
+
+ eller UPC.
+For International Standard Book Number anvendes  
+
+ værdien ISBN.  
+
+ For International Standard Serial Number anvendes værdien ISSN.  
+
+ Øvrige  
+
+ værdier aftales.
+Ellers anvendes værdien n/a.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+StandardiseretVareBeskrivelse Varen som  
+
+ beskrevet af brancheforening eller international  
+
+ standardiseringsorganisation.
+ Varebeskrivelsen  
+
+ må ikke forveksles med varenavnet.
+ Varebeskrivelsen  
+
+ for en blyant kunne f.eks. indeholde krav om produktionsforhold,  
+
+ miljømærkning  
+
+ etc.
+Frit format 5.67 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ CatalogueItemIdentification Ved fakturering af en offentlig  
+
+ myndighed kan klassen CatalogueItemIdentification optræde  
+
+
+
+  
+
+ maksimalt 1  
+
+ gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/Item.
+Kodeeksempel <com:CatalogueItemIdentification> <com:ID schemeID="n/a">7788-dk</com:ID> <com:Description>50+50,  
+
+ blå</com:Description> </com:CatalogueItemIdentification> Klasser i klassen  
+
+ CatalogueItemIdentification Ingen Felter i klassen  
+
+ CatalogueItemIdentification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori ID KatalogVareNr Identifier Frit format Aftales Description KatalogVareBeskrivelse Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KatalogVareNr Varenummer som  
+
+ angivet i leverandørens katalog.
+Attributten schemeID anvendes til at  
+
+ indikere brugen af en evt. varenummerstandard.
+For UCC/EAN/UPC-varenumre  
+
+ anvendes  
+
+ værdierne EAN-8, EAN-13, EAN-14, eller  
+
+ UPC.
+For International  
+
+ Standard Book Number anvendes værdien ISBN.
+For International  
+
+ Standard  
+
+ Serial Number anvendes værdien ISSN. Øvrige værdier aftales.  
+
+ Ellers  
+
+ anvendes værdien n/a.
+ Frit format eller format, der overholder den angivne varenummer-standard.
+KatalogVareBeskrivelse Varen som  
+
+ beskrevet i leverandørens katalog.
+ Varebeskrivelsen  
+
+ må ikke forveksles med varenavnet.
+ Varebeskrivelsen  
+
+ for en blyant kunne f.eks. indeholde krav om produktionsforhold,  
+
+ miljømærkning  
+
+ etc.
+Frit format 5.68 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ ReferencedCatalogue Ved fakturering af en offentlig  
+
+ myndighed kan klassen ReferencedCatalogue optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/Item.
+Kodeeksempel <com:ReferencedCatalogue> <com:CatalogueID>POSTORDRE</com:CatalogueID> </com:ReferencedCatalogue> Klasser i klassen  
+
+ ReferencedCatalogue Ingen Felter i klassen ReferencedCatalogue UK-feltnavn DK-feltnavn Felttype Feltformat Kategori CatalogueID KatalogIdentifikation Identifier Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum KatalogIdentifikation Identificerer det  
+
+ katalog der refereres til Frit format 5.69 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ CommodityClassification Ved fakturering af en offentlig  
+
+ myndighed kan klassen CommodityClassification optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst af klassen Invoice/InvoiceLine/Item.
+Kodeeksempel <com:CommodityClassification> <com:CommodityCode  
+
+ listID="UNSPSC"  
+
+ listVersionID="7.3">43201501</com:CommodityCode> </com:CommodityClassification> Klasser i klassen  
+
+ CommodityClassification Ingen Felter i klassen  
+
+ CommodityClassification UK-feltnavn DK-feltnavn Felttype Feltformat Kategori CommodityCode VareKlassifikation Code UNSPSC Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum VareKlassifikation Benyttes til  
+
+ klassifikation af solgt vare.
+For UNSPSC skal elementet have følgende  
+
+ struktur:
+ Segment,  
+
+ f.eks. 43:
+Information  
+
+ Technology Broadcasting and Telecommunications Communications Devices and  
+
+ Accessories Family, f.eks. 20:
+Components for  
+
+ information technology or broadcasting or telecommunications Computer  
+
+ Equipment and Accessories Class, f.eks. 15:
+Computers Computer  
+
+ accessories Commodity, f.eks. 01:
+Computer switch  
+
+ boxes Docking stations Attributten listID  
+
+ benyttes til at angive hvilken klassificeringsstandard der benyttes.
+Ved brug  
+
+ af UNSPSC defineres værdien af listID=UNSPSC.
+For Common  
+
+ Procurement  
+
+ Vocabulary anvendes værdien CPV.
+ListVersionID benyttes til at  
+
+ angive  
+
+ hvilken version af klassificeringsstandarden der benyttes.
+Ved UNSPSC: 8 cifre: UUVVXXYYZZ Segment: UU Family: VV Class: XX Commodity: YY 5.70 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ Tax Ved fakturering af en offentlig  
+
+ myndighed kan klassen Tax optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ pr. forekomst  
+
+ af klassen Invoice/InvoiceLine/Item.
+Kodeeksempel <com:Tax> <com:RateCategoryCodeID>VAT</com:RateCategoryCodeID> <com:TypeCode>VAT</com:TypeCode> <com:RatePercentNumeric>25</com:RatePercentNumeric> </com:Tax> Klasser i klassen  
+
+ Tax Ingen Felter i klassen  
+
+ Tax UK-feltnavn DK-feltnavn Felttype Feltformat Kategori RateCategoryCodeID AfgiftsKategori Identifier Se udfaldsrum Betinget TypeCode AfgiftsKategoriKode Code Se udfaldsrum Betinget RateProcentNumeric AfgiftsKategoriProcent Numeric 2 numeriske  
+
+ cifre Betinget Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum AfgiftsKategori Navn på den afgiftskategori der er specificeret ved  
+
+ værdien af feltet AfgiftsKategoriKode:
+"VAT" momspligtig eller "ZERO-RATED" momsfritaget VAT, eller ZERO-RATED AfgiftsKategoriKode Leverandørens angivelse af hvis varer tilhører  
+
+ forskellige afgiftskategorier, eller om den enkelte vare/tjenesteydelse er:
+momspligtig (VAT) eller momsfritaget (ZERO-RATED) "VAT", eller " ZERO-RATED" AfgiftsKategoriProcent Gældende moms-% Pt. "25"  
+
+ eller "00" 5.71 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ Item  
+
+à  
+
+  
+
+ BasePrice Ved fakturering af en offentlig  
+
+ myndighed kan klassen BasePrice optræde  
+
+
+
+  
+
+ netop én gang
+
+  
+
+ pr.  
+
+ forekomst af klassen Invoice/InvoiceLine/Item.
+Kodeeksempel <com:BasePrice> <com:PriceAmount>100</com:PriceAmount> <com:BaseQuantity  
+
+ unitCode=Stk  
+
+ unitCodeListAgencyID=n/a>5</com:BaseQuantity> </com:BasePrice> Klasser i klassen  
+
+ BasePrice Ingen Felter i klassen  
+
+ BasePrice UK-feltnavn DK-feltnavn Felttype Feltformat Kategori PriceAmount EnhedsPris Amount Se udfaldsrum Obligatorisk BaseQuantity EnhedsStørrelse Quantity Frit format Aftales Forklaring af felter DK-feltnavn Beskrivelse Udfaldsrum EnhedsPris Prisen på én enhed  
+
+ af en given vare.
+ Ved sampakning er  
+
+ det prisen på den enkelte enhed i pakningen.  
+
+ Valuta angives med attributten currencyID.
+ Beløb:
+- 2 cifre efter decimalskilletegn (".") - Ingen tusindtalsseparator 0 ved PIP eller PCP.
+EnhedsStørrelse Den  
+
+ enhedsstørrelse, som koster enhedsprisen, f.eks.:
+1 kg 20 m 1 stk 30 stk 3 liter Attributten unitCode skal udfyldes.
+Som standard anvendes  
+
+ Unit Of Measure koder fra UN/CEFACT Recommendation 20 af 2002, og  
+
+ unitCodeListAgencyID sættes til UN/UOM. Ønskes frit format sættes  
+
+ attributten  
+
+ UnitCodeListAgencyID til n/a Frit format eller format, der overholder den angivne  
+
+ UOM-standard.
+5.72  
+
+ Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ BasePrice Ved fakturering af en offentlig  
+
+ myndighed skal klassen BasePrice optræde  
+
+
+
+  
+
+ netop én gang
+
+  
+
+ pr.  
+
+ forekomst af klassen Invoice/InvoiceLine.
+Kodeeksempel <com:BasePrice> <com:PriceAmount>100</com:PriceAmount> <com:BaseQuantity unitCode=Stk  
+
+ unitCodeListAgencyID=n/a>5</com:BaseQuantity> </com:BasePrice> Klasser i klassen  
+
+ BasePrice Ingen Felter i klassen  
+
+ BasePrice UK-feltnavn DK-feltnavn Felttype Feltformat Kategori PriceAmount EnhedsPris Amount Se udfaldsrum Obligatorisk BaseQuantity EnhedsStørrelse Quantity Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum EnhedsPris Prisen på én enhed  
+
+ af en given vare.
+ Ved sampakning er  
+
+ det prisen på den enkelte enhed i pakningen.  
+
+ Valuta angives med attributten  
+
+ currencyID.
+ Beløb:
+- 2 cifre efter decimalskilletegn (".") - Ingen tusindtalsseparator 0 ved PIP eller PCP.
+EnhedsStørrelse Den  
+
+ enhedsstørrelse, som koster enhedsprisen, f.eks.:
+1 kg 20 m 1 stk 30 stk 3 liter Attributten unitCode skal udfyldes.
+Som standard anvendes  
+
+ Unit Of Measure koder fra UN/CEFACT Recommendation 20 af 2002, og  
+
+ unitCodeListAgencyID sættes til UN/UOM. Ønskes frit format sættes  
+
+ attributten  
+
+ UnitCodeListAgencyID til n/a Frit format eller format, der overholder den angivne  
+
+ UOM-standard.
+5.73 Invoice  
+
+à  
+
+  
+
+ InvoiceLine  
+
+à  
+
+  
+
+ ExtensibleContent Klassen  
+
+ ExtensibleContent kan optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+  
+
+ . Klassen  
+
+ bruges til at lave udvidelser til OIOXML elektronisk regning, som kan aftales  
+
+ mellem 2 eller flere parter.
+Klassen skal, hvis den anvendes, indeholde  
+
+ mindst  
+
+ et element, men må ikke indeholde elementer, der indgår i com-namespacet.  
+
+ Indholdet i ExtensibleContent vil blive ignoreret af en validator, der  
+
+ understøtter W3C XML-Schema.
+Kodeeksempel <com:ExtensibleContent> <h:p>Her  
+
+ er tilføjet xhtml opmærkning.
+Når ExtensibleContent elementet benyttes, skal  
+
+ det indeholde mindst et element udenfor com namespacet.</h:p> </com:ExtensibleContent> Klasser i klassen ExtensibleContent Aftales 5.74 Invoice  
+
+à  
+
+  
+
+ ValidatedSignature Ved fakturering af en offentlig  
+
+ myndighed kan klassen ValidatedSignature optræde  
+
+
+
+  
+
+ maksimalt 1 gang
+
+  
+
+ ,  
+
+ indeholdt i klassen Invoice.
+Kodeeksempel <com:ValidatedSignature> <com:SignatureID/> <com:ValidatorID/> <com:ValidationDateTime>2003-04-01T13:01:02</com  
+
+ :ValidationDateTime> <com:Signature/> </com:ValidatedSignature> Klasser i klassen  
+
+ ValidatedSignature Ingen Felter i klassen  
+
+ ValidatedSignature UK-feltnavn DK-feltnavn Felttype Feltformat Kategori SignatureID DigitalSignaturCertifikatIndehaverIdentifikation Identifier Frit format Aftales ValidatorID DigitalSignaturCertifikatAutoritetIdentifikation Identifier Frit format Aftales ValidationDateTime DigitalSignaturValideringsTidspunkt DateTime DS/ISO8601:2001 Aftales Signature DigitalSignatur Text Frit format Aftales Forklaring af  
+
+ felter DK-feltnavn Beskrivelse Udfaldsrum DigitalSignatur CertifikatIndehaverIdentifikation Konkatenering:  
+
+[[Certifikat.Serienummer]+"-"+[Certifikat.CommonName]] Frit format DigitalSignatur CertifikatAutoritetIdentifikation Udsteder - entydig identifikation af certifikatudsteder Frit format DigitalSignatur ValideringsTidspunkt CET (UTC + 1 time). Tidspunktet for modtagers validering  
+
+ af den digitale signatur.
+ F.eks. tidspunktet: 2003-04-01T13:01:02.
+ Bemærk "T" indsat imellem dato og klokkeslet.
+YYYY-MM-DDThh:mm:ss DigitalSignatur Digital Signatur Frit format 5.75 Invoice  
+
+à  
+
+  
+
+ ExtensibleContent Klassen ExtensibleContent kan optræde  
+
+
+
+  
+
+ maksimalt  
+
+ 1 gang
+  
+
+ . Klassen bruges til at lave udvidelser til OIOXML elektronisk  
+
+ regning, som kan aftales mellem 2 eller flere parter.
+Klassen skal, hvis den  
+
+ anvendes, indeholde mindst et element, men må ikke indeholde elementer, der  
+
+ indgår i com-namespacet.
+Indholdet i ExtensibleContent vil blive ignoreret af  
+
+ en validator, der understøtter W3C XML-Schema.

@@ -1,0 +1,538 @@
+Bestemmelser  
+
+ om luftfartsinformationstjeneste  
+
+  
+
+ BL 7-2, 1. udgave I medfør af § 54 i lov om luftfart,  
+
+ jf. lovbekendtgørelse nr. 543 af 13. juni 2001,  
+
+ fastsætter Statens Luftfartsvæsen herved efter bemyndigelse fra Transport- og  
+
+ Energiministeriet, jf. bekendtgørelse nr. 795 af 3. september 2001 om  
+
+ henlæggelse af opgaver til Statens Luftfartsvæsen og om kundgørelse af de af  
+
+ luftfartsvæsenet udfærdigede forskrifter, følgende:
+1.  
+
+ 	  
+
+ Referencedokumenter 1.1  
+
+ 	  
+
+ ICAO  
+
+ Annex 4, Aeronautical Charts, seneste udgave.
+ 1.2  
+
+ 	  
+
+ ICAO  
+
+ Annex 15, Aeronautical Information Services, seneste udgave.
+ 1.3  
+
+ 	  
+
+ ICAO  
+
+ DOC 8126, Aeronautical Information Services Manual, seneste udgave.
+ 1.4  
+
+ 	  
+
+ ICAO  
+
+ DOC 8400, ABC - ICAO Abbreviations and Codes, seneste udgave.
+ 1.5  
+
+ 	  
+
+ ICAO  
+
+ DOC 8697, Aeronautical Chart Manual, seneste udgave.
+ 1.6  
+
+ 	  
+
+ European Convergence and Implementation  
+
+ Plan (ECIP) for the years 2005-2009.
+1.7  
+
+ 	  
+
+ De dokumenter, der er nævnt i pkt. 1.1 -  
+
+ 1.5, kan erhverves ved henvendelse til ICAO Headquarters Attn.: Document Sales Unit 999 University Street Montréal,  
+
+ Quebec Canada  
+
+ H3C 5H7 Tel.: +1 514 954-8022 Fax: +1 514 954-6769 Sitatex: YULDYA E-post:  
+
+
+  
+
+ sales_unit@icao.int Web:  
+
+
+  
+
+ www.icao.int 1.8  
+
+ 	  
+
+ De dokumenter, der er nævnt i pkt. 1.1, 1.2  
+
+ og 1.4, findes endvidere på Statens Luftfartsvæsens hjemmeside  
+
+
+  
+
+ www.slv.dk  
+
+.
+ 1.9  
+
+ 	  
+
+ Det dokument, der er nævnt i pkt. 1.6,  
+
+ findes på Eurocontrols hjemmeside  
+
+
+  
+
+ www.eurocontrol.int  
+
+
+.
+2.  
+
+ 	  
+
+ Definitioner AIC (Aeronautical Information  
+
+ Circular):
+ Notits indeholdende  
+
+ information, der ikke er kvalificeret til udsendelse som NOTAM eller som  
+
+ indhold  
+
+ i en AIP, men som relaterer sig til flyvesikkerhedsmæssige,  
+
+ navigationsmæssige,  
+
+ tekniske, administrative eller lovmæssige forhold.
+ AIM (Aeronautical Information  
+
+ Management):
+ Luftfartsinformationsledelse.
+ AIP (Aeronautical Information  
+
+ Publication):
+ Publikation udgivet af en  
+
+ stat eller efter bemyndigelse af en stat og indeholdende sådanne oplysninger  
+
+ af  
+
+ varig natur, som er af væsentlig betydning for luftfarten.
+ AIP AMDT (AIP Amendment):
+ Permanente ændringer til  
+
+ informationer indeholdt i AIP.
+ AIP SUP (AIP Supplement):
+ Midlertidige ændringer til  
+
+ informationer indeholdt i AIP af et omfang, som umuliggør udsendelse via  
+
+ NOTAM.
+ AIRAC (Aeronautical Information Regulation And  
+
+ Control):
+ Betegnelse for et system til  
+
+ forhåndspublicering af vigtige ændringer baseret på forud fastlagte, fælles  
+
+ ikrafttrædelsesdatoer.
+ AIS (Aeronautical Information Service):
+ Luftfartsinformationstjeneste.
+ EAD (European AIS Database):
+ Fælles europæisk database  
+
+ indeholdende metadata, AIP og NOTAM.
+ IAIP (Integrated Aeronautical Information Package):
+ En samling  
+
+ luftfartsinformationer bestående af AIP, AIP SUP, AIC, NOTAM og PIB.
+ INO (International NOTAM Operations):
+ Formidling af NOTAM via EAD.
+ Luftfartsdata (Aeronautical data):
+ En repræsentation af  
+
+ aeronautiske fakta, koncepter eller instruktioner i et formaliseret format,  
+
+ der  
+
+ er velegnet til kommunikation, fortolkning eller behandling.
+ Luftfartsinformation (Aeronautical information)  
+
+  
+
+ :
+ Information, som er  
+
+ resultatet af indsamling, analyse og formatering af luftfartsinformation.
+ Luftfartsinformationstjenesteenhed (Aeronautical  
+
+ Information Service Unit):
+ Den enhed, eventuelt inden  
+
+ for en organisation, som udøver luftftfartsinformationstjeneste, eksempelvis  
+
+ AIM, NOTAM-kontor eller briefingkontor.
+ Metadata:
+ Data, der beskriver og  
+
+ dokumenterer data.
+ NOF (International NOTAM Office):
+ Et kontor udpeget af staten  
+
+ til udveksling af NOTAM internationalt.
+ NOTAM (Notice to Airmen):
+ Luftfartsinformation af  
+
+ midlertidig karakter, distribueret via telekommunikation.
+ PAMS (Published AIP Management System):
+ Formidling af AIP i  
+
+ pdf-format via EAD.
+ PDF (Portable Document Format):
+ Dataformat til læsning af  
+
+ dokumenter.
+ PIB (Pre-flight Information Bulletin):
+ En præsentation af gældende  
+
+ NOTAM information af operationel betydning, forberedt forud for en flyvning.
+ SDO (Static Data Operations):
+ Formidling af AIP data via  
+
+ EAD.
+3.  
+
+ 	  
+
+ Anvendelsesområde Denne BL fastsætter  
+
+ bestemmelser for udøvelse af luftfartsinformationstjeneste inden for dansk  
+
+ område samt inden for områder, hvor Danmark i henhold til internationale  
+
+ aftaler er forpligtet til at udøve luftfartsinformationstjeneste.
+4.  
+
+ 	  
+
+ Generelt 4.1  
+
+ 	  
+
+ Luftfartsinformationstjeneste  
+
+ tilrettelægges i overensstemmelse med bestemmelserne i denne BL og udøves i  
+
+ overensstemmelse med de lokale forskrifter, der er fastsat af den ansvarlige  
+
+ organisation for pågældende luftfartsinformationstjenesteenhed.
+ 4.2  
+
+ 	  
+
+ En luftfartsinformationstjenesteenhed kan  
+
+ drives af Statens Luftfartsvæsen, eller, efter Statens Luftfartsvæsens  
+
+ godkendelse, af en offentlig institution eller af en privat virksomhed.
+5.  
+
+ 	  
+
+ Luftfartsinformationstjenestens  
+
+ formål og omfang 5.1  
+
+ 	  
+
+ Luftfartsinformationstjeneste har til  
+
+ formål at fremme luftfartens sikre og effektive afvikling.  
+
+ Luftfartsinformationstjeneste omfatter tjenesterne:
+-  
+
+ 	  
+
+ Formidling af luftfartsinformation, jf. afsnit  
+
+ 6, -  
+
+ 	  
+
+ Kort og navigationsberegninger (MAP), jf.  
+
+ afsnit 7 samt -  
+
+ 	  
+
+ Briefing, jf. afsnit 8.
+ De elementer, der er nævnt  
+
+ under pkt. 6.2, 7.2 og 8.2, udgør tilsammen den integrerede  
+
+ luftfartsinformationspakke  
+
+ (IAIP).
+6.  
+
+ 	  
+
+ Formidling  
+
+ af luftfartsinformation 6.1  
+
+ 	  
+
+ Anvendelse Formidling af  
+
+ luftfartsinformation ydes til brugere inden for civil og militær luftfart  
+
+ samt  
+
+ andre staters AIS-myndigheder og tjenester.
+Formidlingen af  
+
+ luftfartsinformation skal sikre, at luftfarten modtager de seneste  
+
+ oplysninger  
+
+ og aktuelle informationer, som gør det muligt at planlægge en sikker  
+
+ flyvning.
+6.2  
+
+ 	  
+
+ Opdeling Formidling af  
+
+ luftfartsinformation opdeles i følgende 2 kategorier:
+ a.  
+
+ 	  
+
+ Redigering og publicering af  
+
+ luftfartsinformationspakken (AIP), herunder rettelsestjeneste (AIP AMDT, AIP  
+
+ AIRAC AMDT), informationscirkulærer (AIC), supplementer (AIP SUP) samt  
+
+ opretholdelse  
+
+ af statiske data (SDO) og AIP (PAMS) i den fælles europæiske AIS database  
+
+ (EAD).
+ b.  
+
+ 	  
+
+ Udsendelse af NOTAM (Notice to Airmen), PIB  
+
+ (Pre-flight Information Bulletin) samt opretholdelse af dynamiske data (INO)  
+
+ i  
+
+ den fælles europæiske AIS database (EAD).
+6.3  
+
+ 	  
+
+ Udøvelse Formidling af  
+
+ luftfartsinformation udøves a.  
+
+ 	  
+
+ af AIS-hovedkontor (AIM), for så vidt  
+
+ angår redigering og publicering af luftfartsinformationspakken med dertil  
+
+ hørende elementer, eller b.  
+
+ 	  
+
+ af et antal internationale NOTAM-kontorer  
+
+ (NOF), for så vidt angår udsendelse af NOTAM.
+NOF forefindes i henholdsvis  
+
+ København, Vágar og Kangerlussuaq.
+Tjenesten ydes af lokale  
+
+ lufttrafiktjenesteenheder.
+7.  
+
+ 	  
+
+ Kort  
+
+ og navigationsberegninger (MAP) 7.1  
+
+ 	  
+
+ Anvendelse Kort og  
+
+ navigationsberegninger ydes til brugere inden for civil og militær luftfart,  
+
+ AIS, lokale lufttrafiktjenesteudøvere samt andre staters AIS-myndigheder og  
+
+ tjenester.
+Kort og navigationsberegninger skal sikre, at luftfarten modtager  
+
+ de  
+
+ seneste oplysninger og aktuelle informationer, som gør det muligt at  
+
+ planlægge  
+
+ en sikker flyvning.
+Ligeledes skal det sikres, at AIS modtager de  
+
+ oplysninger,  
+
+ der kan have indflydelse på informationer, som publiceres via AIP og NOTAM.
+7.2  
+
+ 	  
+
+ Opdeling Kort og  
+
+ navigationsberegninger opdeles i følgende 2 kategorier:
+ a.  
+
+ 	  
+
+ Udarbejdelse af flyvekort, kort til  
+
+ luftfartsinformationspakken, f.eks. lufthavnskort, landingskort,  
+
+ procedurekort  
+
+ mv., specialkort til brug ved planlægning samt opretholdelse af kort i den  
+
+ fælles europæiske AIS database (EAD).
+ b.  
+
+ 	  
+
+ Udarbejdelse af navigationsberegninger og  
+
+ beregning af misvisning.
+7.3  
+
+ 	  
+
+ Udøvelse Kort og  
+
+ navigationsberegninger udøves af AIS-hovedkontor (AIM).
+8.  
+
+ 	  
+
+ Briefing 8.1  
+
+ 	  
+
+ Anvendelse Briefing ydes til brugere  
+
+ inden for civil og militær luftfart.
+Briefing skal sikre, at luftfarten  
+
+ modtager  
+
+ de seneste oplysninger og aktuelle informationer, som gør det muligt at  
+
+ planlægge en sikker flyvning.
+8.2  
+
+ 	  
+
+ Opdeling Briefing  
+
+ opdeles i følgende 2 kategorier:
+ a.  
+
+ 	  
+
+ Briefing af piloter vedrørende AIS og MAP  
+
+ informationer.
+ b.  
+
+ 	  
+
+ Briefing af piloter vedrørende meteorologiske  
+
+ informationer.
+8.3  
+
+ 	  
+
+ Udøvelse Briefing udøves gennem  
+
+ briefingkontorer, opretholdt ved de enkelte lufthavnes foranstaltning.  
+
+ Briefing  
+
+ kan også udøves ved oprettelse af selvbetjeningsterminaler med dertil hørende  
+
+ telefoner, således at der altid kan opnås kontakt med et NOTAM kontor.
+9.  
+
+ 	  
+
+ Kvalitetsstyring Luftfartsinformationstjenester  
+
+ skal opfylde de krav til kvalitetsstyring, der fremgår af ICAO Annex 15,  
+
+ kapitel 3, og skal følge ISO 9001:2000 standarden, jf.  
+
+ European  
+
+ Convergence and Implementation Plan (ECIP) for the years 2005-2009, ECIP  
+
+ objective  
+
+ INF02.
+10.  
+
+ 	  
+
+ Dispensation Statens Luftfartsvæsen kan i  
+
+ ganske særlige tilfælde dispensere fra bestemmelserne i denne BL, når dette  
+
+ skønnes foreneligt med de hensyn, der ligger til grund for de pågældende  
+
+ bestemmelser.
+11.  
+
+ 	  
+
+ Ikrafttræden Denne BL træder i kraft den  
+
+ 24. november 2005.

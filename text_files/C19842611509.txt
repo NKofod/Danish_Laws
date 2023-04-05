@@ -1,0 +1,580 @@
+1. Almindeligt Abonnentudstyr (i det følgende betegnet AU) kan være indrettet for  
+
+ tilslutning til det offentlige alarmsystem via alarmterminal med  
+
+ serieinterface på to forskellige måder:
+a.
+Den ene er for tilslutning via en alarmterminal (ATS), der er en  
+
+ selvstændig enhed med egen strømforsyning, således som det er illustreret i  
+
+ fig. 1a.
+b.
+Den anden, som er vist i fig. 1b, er for tilslutning via en i  
+
+ fjernovervågningsudstyret indbygget alarmterminal (ATIS), der består af et  
+
+ enkelt kredsløbskort, der i lighed med øvrige kredsløbskort strømforsynes fra  
+
+ udstyrets almindelige strømforsyningsarrangement.
+ I begge tilfælde er der mellem det privatejede udstyr og den del af  
+
+ installationen/udstyret, der leveres og vedligeholdes af  
+
+ teleadministrationerne, en grænseflade som angivet i figurerne.
+ Fysisk er denne grænseflade et antal terminaler, der i tilfældet i fig. 1a  
+
+ omfatter 7 terminaler pa ATS-enheden.
+Heraf anvendes de 4 i forbindelse med kommunikation mellem ATS og AU og  
+
+ udgør det grænsesnit, der i det følgende betegnes SERIF.
+I fig. 1a er vist en  
+
+ terminal, betegnet med CH (CHassis). Den antyder blot en eventuel forbindelse  
+
+ af signallederskærm til et chassispunkt i AU.
+De resterende 3 terminaler, der  
+
+ udgør grænsesnittet AS, er forbindelse til en i ATS anbragt kontakt, der  
+
+ påvirkes ved åbning af kabinettet.
+Kontakten kan efter behov anvendes for  
+
+ indkobling i et antisabotagekredsløb, hvis AU er forsynet med et sådant.
+ I tilfældet med indbygget alarmterminal (ATIS) omfatter grænsefladen 15  
+
+ terminaler på den konnektor, hvormed kredsløbskortet indkobles i AU.
+I denne grænseflade genfindes grænsesnittet SERIF som vist.
+Desuden  
+
+ forekommer 2 andre grænsesnit, nemlig grænsesnittet LINIF (linieinterface),  
+
+ der omfatter 4 terminaler samt grænsesnittet DClF (strømforsyningsinterface)  
+
+ omfattende 5 terminaler.
+ Til AU stilles det generelle krav, at udstyret er konstrueret til at  
+
+ kommunikere over grænsesnittet SERIF, dvs. kan udføre de for kommunikation  
+
+ nødvendige funktioner, der er beskrevet i det følgende, og da med  
+
+ overholdelse af de parameterværdier, som er angivet i dette delcirkulære.
+ Der stilles endvidere det krav til AU, at det er konstrueret til at  
+
+ overholde de parameterværdier for de øvrige for den konkrete konstruktion  
+
+ relevante grænsesnit, der er angivet i dette delcirkulære.
+ I den følgende funktionsbeskrivelse, som er fælles for både ATS- og  
+
+ ATIS-anvendelsen, vil der i beskrivelsen af samspillet mellem alarmterminal  
+
+ og fjernovervågningsudstyr alene blive anvendt betegnelserne ATS henholdsvis  
+
+ AU.
+2. Funktionsbeskrivelse 2.1 Grænsesnittet SERIF De 4 ledere i grænsesnittet SERIF benyttes således:
+SO (Serial data Out) På denne leder sendes information i seriel form fra ATS til AU i et format  
+
+ som vist i fig. 2.
+SI (Serial data In) Information fra AU til ATS sendes på denne leder i seriel form og i samme  
+
+ format som vist i fig. 2.
+DACOM (DAta/COMmand) Al informationsudveksling over grænsesnittet SERIF sker på initiativ af  
+
+ ATS.
+ En informationsbyte sendt fra ATS til AU kræver en svarbyte fra AU til  
+
+ ATS.
+ En informationsbyte fra ATS kan få en af to mulige betydninger ved, at ATS  
+
+ på lederen DACOM genererer et signal, som enten er logisk 0 eller logisk 1.  
+
+ Signalet er til stede under hele byteudvekslingen mellem ATS og AU.
+CR (Common Return) Denne leder er fælles returleder for signaler på SO, SI og DACOM.
+2.2 Kommunikation over SERIF I udveksling af signaler mellem AU og ATS har ATS som nævnt altid  
+
+ initiativet.
+Et lovligt signal (se senere) fra ATS til AU kræver altid et  
+
+ svarsignal sendt fra AU til ATS.
+ I kommunikationen over SERIF er ATS således master og AU slave.
+ ATS tager initiativ til signaludveksling med AU, når ATS modtager en ordre  
+
+ fra alarmsystemet (i kommunikationen mellem ATS og alarmsystemet er dette  
+
+ således master og ATS slave).
+ De data (input), der af ATS opsamles fra AU, kan henføres til følgende 4  
+
+ typer:
+ - Databyte, der via ATS skal videresendes til alarmsystemet (alarmer  
+
+ o.lign).
+ - Adressebyte, der via ATS skal videresendes til alarmsystemet (for at  
+
+ markere, at alarmen skal sendes til anden vagtcentral end deri primære).
+ - Testsvarbyte, der via ATS skal videresendes til alarmsystemet (under  
+
+ udførelse af funktionen EXT TEST (se senere)).
+ - »Handshake-» og statusinformation fra AU.
+ De data (output), der fra ATS overføres til AU, kan henføres til følgende  
+
+ 3 typer:
+ - Databyte, der fra alarmsystemet via ATS overføres til AU (styring).
+ - Testbyte, der fra alarmsystemet via ATS overføres til AU for at få  
+
+ udført funktionen EXT TEST (se senere).
+ - »Handshake-» og statusinformation fra ATS.
+ Betydningen af et signal, der sendes fra ATS til AU, afhænger af det  
+
+ signal, der under overførsel af signalet på SO-lederen er genereret af ATS på  
+
+ DACOM-lederen.
+ Er dette et logisk 0, skal signalet fra SO-lederen af AU opfattes som en  
+
+ kommandobyte, COB, som derfor af AU skal besvares på SI-lederen med en  
+
+ kommandosvarbyte, CSB.
+ Er signalet på DACOM-lederen derimod et logisk 1, skal signalet på  
+
+ SO-lederen opfattes af AU som en databyte, DAB, og skal besvares af AU på  
+
+ SI-lederen med en datasvarbyte, DSB.
+ De beskrevne sekvensers signal/tids-mæssige forhold er illustreret i fig.  
+
+ 3 (de markerede tider er specificeret i afsnit 4.4).
+ En udveksling af signaler mellem ATS og AU indledes altid med, at ATS  
+
+ sender en COB.
+ Når AU har besvaret denne med en CSB, der indeholder information om, at AU  
+
+ er beredt til at gå videre i den indledte »samtale«, sender ATS en  
+
+ DAB, som skal besvares af AU med en DSB osv.. Den indledende COB kan enten  
+
+ være en COB/ INP, som benyttes, når ATS ønsker at opsamle data fra AU, eller  
+
+ en COB/OUT, som benyttes, når ATS ønsker at overføre data til AU.
+ De forskelllige typer af signaler inden for de 4 grundtyper COB, CSB, DAB  
+
+ og DSB beskrives ved deres format og indhold i følgende afsnit.
+2.3 Dataformater 2.3.1 kommandobyte, COB (fra ATS til AU) De 8 informationsbit i en COB benyttes og benævnes som vist i fig. 4.
+De 4 bit K0.... K3 specificerer to forskellige typer af COB således: K0 K1  
+
+ K2 K3 COB/INP 0 0 1 1 COB/OUT 1 0 0 1 De 4 bit H4.... H7 specificerer handshake-information fra ATS til AU  
+
+ således:
+ Den nærmere brug af handshake-informationen vil fremgå af afsnit 3.
+2.3.2 kommandosvarbyte, CSB (fra AU til ATS) En COB fra ATS besvares af AU  
+
+ med en CSB.
+De 8 informationsbit i en CSB benyttes og benævnes som vist i  
+
+ fig. 5.
+ Den nærmere betydning af de enkelte bit fremgår af tabellen herunder.
+ Den nærmere brug af statusinformationen i de 3 bit C5, C6 og C7 vil fremgå  
+
+ af afsnit 3.
+2.3.3 Databyte, DAB (fra ATS til AU) De 8 informationsbit i en DAB benævnes som vist i fig.6.
++++SKEMA+++ Indholdet i en DAB kan være:
+ - Data fra alarmsystemet, der via ATS skal videresendes til AU.
+- Testbyte fra alarmsystemet, der via ATS skal videresendes til AU. - »Dummybyte« med indholdet 00000000, der anvendes af ATS ved  
+
+ opsamling af datasvarbyte fra AU.
+2.3.4 Datasvarbyte, DSB (fra AU til ATS) En DAB fra ATS besvares af AU med en DSB.
+De 8 informationsbit benævnes  
+
+ som vist i fig. 7.
+ Indholdet i en DSB kan være:
+ - Data, som via ATS skal videresendes til alarmsystemet.
+ - Adressebyte, som via ATS skal videresendes til alarmsystemet.
+ - Testsvarbyte, som via ATS skal videresendes til alarmsystemet.
+3. Protokol Protokollen beskriver arter og sekvenser af de samtaler, der føres mellem  
+
+ ATS og AU over grænsesnittet SERIF.
+ Samtalernes formål er at udveksle information mellem abonnentudstyret AU  
+
+ og alarmsystemet via ATS.
+ Protokollen er baseret på følgende principper:
+ 1. Kun ATS kan tage initiativ til en samtale.
+ 2. En samtale indledes altid med, at ATS sender en  
+
+ kommandobyte, COB, til AU.
+ 3. AU skal besvare en COB med en kommandosvarbyte,  
+
+ CSB.
+ 4. AU skal besvare en databyte, DAB, med en  
+
+ datasvarbyte, DSB.
+ 5. AU må ikke svare eller reagere på andre signaler  
+
+ over grænsesnittet SERIF end gyldige byte af typerne COB/lNP, COB/OUT og DAB.  
+
+ Angivet med deres binære værdi udtrykt i hexadecimalcifre er de gyldige COB/  
+
+ følgende:
+ COB/lNP kun gyldig for XC, hvor X = 0, 1, 2, 4, 5, 8 eller C.
+(For X = 2, hvor ATS FEJL = 1, kan svar fra AU ikke påregnes at blive  
+
+ korrekt behandlet af ATS.
+AU kan imidlertid være konstrueret til at reagere på denne kode, f.eks. ved at lokalalarm udløses, hvis ATS  
+
+ FEJL = 1 ikke er forbigående).
+ COB/OUT kun gyldig for X9, hvor X = 0 eller 4.
+3.1 Beskrivelse af samtaler I det følgende beskrives samtaler mellem ATS og AU ved anvendelse af en  
+
+ grafisk fremstilling, hvis principper fremgår af de to eksempler i fig. 8.
+Signaler mellem ATS og AU repræsenteres af pile, der angiver  
+
+ senderetningen.
+Ved påskrift på venstre halvdel af en pil angives bytens art.  
+
+ Ved påskrift på højre halvdel af en pil angives for COB og CSB de status- og  
+
+ handshake-informationer, som i den pågældende byte er forskellige fra logisk  
+
+ 0, og for DAB og DSB kan dataindholdet anføres.
+Eksempel 1 i fig. 8  
+
+ illustrerer en kort samtale, nemlig den, hvor AU på en COB svarer med en CSB,  
+
+ hvor AU FEJL = 1. Da AU med sit svar markerer, at der er en fejlsituation,  
+
+ som forhindrer korrekt funktion, er en fortsættelse af samtalen uden mening,  
+
+ hvorfor ATS går ind i en fejlrutine, hvorefter information om AU FEJL  
+
+ videresendes via alarmsystemet til vagtcentral (VC).
+ Eksempel 2 i fig. 8 illustrerer det indleden-de forløb af en fejlfri  
+
+ samtale.
+Note Fejl i AU vil, afhængigt af AU's konstruktion og arten af fejl, komme til  
+
+ udtryk ved:
+ 1. AU svarer på en COB med CSB, hvor AU FEJL = 1.
+ 2. AU svarer ikke indenfor for en given tid (tRE,max.  
+
+ eller tVET).
+ 3. AU afgiver svar, der ikke kan godkendes.
+ Fejlsituationen i 1. er entydig, og ATS vil umiddelbart melde herom til  
+
+ alarmsystemet som ovenfor beskrevet.
+ De to andre fejlsituationer kan skyldes fejl i AU, men kan også skyldes  
+
+ transmissionsforstyrrelser f.eks. som følge af støj.
+ De bør derfor ikke umiddelbart opfattes som AU fejl, hvorfor ATS er  
+
+ således konstrueret, at COB'er og DAB'er retransmitteres i en række tilfælde  
+
+ inden for situationerne 2. og 3..
+ Hvis det krævede svar stadig udebliver eller ikke kan godkendes efter 3  
+
+ retransmissioner, går ATS ind i fejlrutine.
+ Da ATS' evne til at foretage retransmissioner ikke kræver andet og mere af  
+
+ AU, end hvad der er anført i det foregående, vil retransmissionsforløb ikke  
+
+ blive medtaget i de følgende samtalebeskrivelser.
+ Disse sammenfatter således de krav, der direkte stilles til AU i relation  
+
+ til ATS og og kommunikationen over grænsesnittet SERIF.
+ De samtaler, der forekommer, er:
+ 1. ATS FEJL-samtale.
+ 2. Data ind-samtale.
+ 3. Adresse ind-samtale.
+ 4. Data ud-samtale.
+ 5. EXT TEST-samtale.
+ som beskrives nærmere i det følgende.
+3.1.1 ATS FEJL-samtale Blandt de 4 handshake-bit i en kommandobyte indtager H5, ATS FEJL, en  
+
+ særstilling, idet den ikke anvendes i dataudveksling mellem ATS og AU, men  
+
+ kun bruges til at meddele AU, når kommunikationen mellem ATS og alarmsystemet  
+
+ er gået i stå, eller at ATS har været stoppet.
+ En ATS FEJL-samtale forløber som vist i fig. 9, hvoraf det fremgår, at ATS  
+
+ sender en kommandobyte, hvor ATS FEJL = 1 og øvrige handshakebit = 0. Herpå  
+
+ svarer AU ved at returnere de 4 handshake-bit i sin kommandosvarbyte, og  
+
+ samtalen er slut.
+ Som bemærket i afsnit 3 kan AU være konstrueret til at reagere, hvis ATS  
+
+ FEJL = 1 ikke er forbigående, f.eks. ved udløsning af lokalalarm.
+3.1.2 Data ind-samtale Formålet med en Data ind-samtale er at undersøge, om AU er i orden og  
+
+ ønsker at aflevere data, og når dette er tilfældet, da at overføre data fra  
+
+ AU til alarmsystemet via ATS.
+ Samtalen starter ved, at ATS sender en COB/INP.
+ Hvis AU svarer herpå med CSB, hvor AU FEJL = 1, slutter samtalen hermed,  
+
+ og ATS sender meddelelsen om fejlen ud i alarmsystemet.
+Svarer AU med en CSB, hvor statusinformationen i alle 3 bit C5, C6 og C7 =  
+
+ 0 (dvs.
+AU i orden, ingen data at aflevere), er samtalen slut, og ny samtale  
+
+ kan indledes.
+ Svarer AU derimod med en CSB, hvor AU DATA RDY = 1, fortsætter samtalen  
+
+ som Data indsamtale som vist i fig. 10, hvoraf det videre forløb ses at være:
+ 3. ATS sender en DAB med dummybyte (00000000).
+ 4. AU svarer med DSB indeholdende data, som skal  
+
+ overføres til alarmsystemet via ATS.
+ 5. ATS kvitterer med COB/INP, hvor ATS BUSY = 1,  
+
+ hvilket betyder, at data er modtaget og sendes ud i alarmsystemet.
+ 6. AU svarer på ATS's kvittering med at sende CSB,  
+
+ hvor AU DATA RDY er gjort = 0.
+ Samtalen er afsluttet, og ny samtale kan indledes (hvis ATS ikke kan  
+
+ aflevere data til alarmsystemet inden den tid, ATS har til rådighed, vil  
+
+ dette senere føre til en ATS FEJL-samtale).
+3.1.3 Adresse ind-samtale En Adresse ind-samtale er en form for Data ind-samtale med det formål at  
+
+ overføre adresse fra AU til alarmsystemet via ATS.
+ Forløbet er som for Data ind-samtale (se fig. 10) med den undtagelse, at  
+
+ der i byte 2 og 6 skal stå ADDR = 1.
+3.1.4 Data ud-samtale Formålet med en Data ud-samtale er at overføre data fra alarmsystemet via  
+
+ ATS til AU.
+En fejlfri Data ud-samtale forløber som vist i fig. 11.
+ 1. Samtalen starter med, at ATS sender en COB/OUT (i  
+
+ dette tilfælde, hvor AU ikke bruger informationen ATS BUSY, kan den være  
+
+ enten 1 eller 0 som antydet).
+ 2. AU svarer med CSB, hvor AU FEJL = 0; dvs., at AU er  
+
+ i orden.
+ 3. ATS sender DAB med de data, der via ATS skal  
+
+ overføres fra alarmsystemet (reelt fra VC).
+ 4. AU svarer med DSB, indeholdende samme data som i 3,  
+
+ for kontrol.
+ 5. Når ATS (eventuelt efter retransmission af 3) har  
+
+ konstateret overensstemmelse mellem sendte og modtagne data, sendes en  
+
+ COB/lNP, hvor ATS DATA RDY = 1, hvilket betyder, at AU må anvende data.
+ 6. AU kvitterer med en CSB, hvor ATS DATA RDY = 1, og  
+
+ samtalen er slut.
+ 7. Ved næste opkald fra alarmsystemet sender ATS en  
+
+ COB/ med ATS DATA RDY = 0 som indledning til ny samtale.
+3.1.5 EXT TEST-samtale Ekstern test-funktionen benyttes til at udveksle data mellem vagtcentral  
+
+ (VC) og AU.
+Det foregår på den måde, at VC via alarmsystemet udsender et spørgsmål,  
+
+ som AU skal besvare.
+Funktionen kan benyttes til forskellige formål bl.a.,  
+
+ som navnet antyder, til at undersøge, om datavejene mellem ATS og AU kan  
+
+ transportere en databyte uden at indføre fejl heri.
+Den kan også anvendes til  
+
+ styringer af en art, som ikke vil ytre sig gennem data, der overføres fra AU  
+
+ til alarmsystemet via ATS på sædvanlig måde.
+En databyte, der under en EXT TEST-samtale overføres til AU, betegnes her  
+
+ kort en testbyte, uanset hvilken anvendelse der gøres af funktionen.
+I lighed  
+
+ hermed betegnes AU's svar testsvarbyte.
+Samtalen kan opfattes som en Data ud-samtale, der efter en kort pause  
+
+ efterfølges af en Data ind-samtale.
+I Data ud-samtalen er ATS DATA RDY  
+
+ erstattet af EXT TEST.
+ Fig. 12 viser forløb i forbindelse med en EXT TEST-samtale.
+ 1. Samtalen indledes med en COB/OUT.
+2a.
+Svarer AU herpå med en CSB, hvor AU DATA RDY = 1, fortsætter samtalen  
+
+ som en Data ind-samtale i stedet for en EXT TEST-samtale.
+2b.
+Er AU DATA RDY derimod = 0 i svaret fra AU, fortsættes i EXT  
+
+ TEST-samtale ved, at:
+ 3. ATS sender DAB med data (testbyte) modtaget fra VC.
+ 4. AU returnerer data med en DSB.
+ 5. ATS sender COB/INP, hvor EXT TEST = 1.
+ 6. Herpå svarer AU med CSB, hvor der ikke tillægges AU  
+
+ DATA RDY betydning, hvorfor den kan være enten 0 eller 1.
+ 7. Efter tiden tVET (ventetid, se afsnit 4.3) sender  
+
+ ATS på ny en COB/INP med EXT TEST = 1. Herefter kan afhængigt af, om AU har  
+
+ nået at behandle data inden for tiden tVET, opstå to situationer.
+ Hvis data er behandlet inden for tiden tVET er det videre forløb:
+8a.
+AU svarer med CSB, hvor AU DATA RDY = 1 og ADDR = 0.
+9a.
+ATS sender herefter en DAB indeholdende 00000000.
+10a.
+AU svarer med DSB indeholdende data (testsvarbyte, der tilsvarer den  
+
+ udsendte testbyte på en måde, der er fastlagt i AU's konstruktion).
+11a.
+ATS sender COB/lNP med EXT TEST = 1 og ATS BUSY = 1, hvorpå 12a.
+AU svarer med CSB, hvor AU DATA RDY = 0, og samtalen er slut.
+ Hvis AU ikke har behandlet data inden for tiden tVET, bliver forløbet  
+
+ følgende:
+8b.
+AU svarer med CSB, hvor AU DATA RDY = 0, eller hvor ADDR = 1.
+9b.
+ATS sender COB/lNP.
+10b.
+AU svarer med CSB.
+4. Parametre for SERIF 4.1 Alment Dataoverførsel over SERIF sker med en signaleringshastighed på 4800 bit/s  
+
+ i halv duplex, asynkront og styret af ATS.
+ Den for dataoverførslen nødvendige energi leveres af AU.
+4.2 Elektriske parametre 4.2.1 Definitioner Strøm og spænding på de 3 ledere SO, SI og DACOM er defineret i forhold  
+
+ til fælleslederen CR som vist i fig. 13.
+ De logiske niveauer er defineret således:
+ Logisk 1 svarer til lille strøm.
+ Logisk 0 svarer til stor strøm.
+4.2.2 Beskrivelse af parametre for SO og DACOM U1, max : Den største spænding, der må forekomme mellem SO henholdsvis  
+
+ DACOM og CR, inklusive ved tomgang, dvs., når forbindelse til ATS er afbrudt.
+ I1, max : Den største strøm, AU må levere til vilkårlig belastning  
+
+ inklusive kortslutning mellem SO henholdsvis DACOM og CR.
+ U1,min : Den spænding mellem SO henholdsvis DACOM og CR, der er nødvendig  
+
+ for, at ATS kan trække en strøm ved logisk 0, som opfylder kravet om I1,0  
+
+ min.
+ deltaU1 : Spændingssvinget over interfacet, når logisk tilstand i ATS  
+
+ ændres fra 0 til 1 eller omvendt.
+ I1,1 : Den strøm, ATS trækker i tilstand logisk 1.
+ I1,0 : Den strøm, ATS trækker i tilstarid logisk 0.
+4.2.3 Beskrivelse af parametre for SI I2,max : Den største strøm, AU må levere til en vilkårlig belastning  
+
+ mellem Sl og CR inklusive kortslutning.
+ U2, max : Det største modspændingsfald mellem SI og CR, der forekommer,  
+
+ når AU er i tilstand logisk 0.
+ I2,1 : Den strøm, AU leverer i tilstand logisk 1.
+ I2,0 : Den strøm, AU leverer i tilstand logisk 0.
+4.3 Tidsparametre De 4 tider, som er angivet i fig. 3, kan beskrives således:
+ tBY : Den tid, det tager at overføre en byte i det format, som er  
+
+ specificeret i fig. 2.
+ tSU : Den tid, et signal på SO forsinkes i forhold til det tilsvarende  
+
+ signal på DACOM.
+ tRE : Den tid, det tager AU at reagere pa en COB eller DAB.
+ tHLD : Den tid, signalet på DACOM fastholdes, efter at en CSB eller DSB er  
+
+ sendt på SI.
+ Desuden haves fra afsnit 3.1.5 og fig. 12:
+ tVET : Den maksimale tid, hvor ATS venter på, at AU har behandlet en  
+
+ testbyte under udførelse af en EXT TEST-samtale.
+4.4 Krav til parametre I tabellen herunder er kravene til de ovenfor beskrevne parametre angivet.
+5. Parametre for AS Grænsesnittet AS består af 3 ledere for eventuel forbindelse af den i ATS  
+
+ anbragte åbningskontakt med et alarmanlægs antisabotagekredsløb.
+Kontakten er en skiftekontakt.
+Mellem lederne NO (Normally Open) og CO  
+
+ (COmmon) haves sluttefunktionen, og mellem NC (Normally Closed) og CO haves  
+
+ brydefunktionen.
+ For begge kontaktfunktioner kræves følgende parametre overholdt:
+Brydespænding: max. 24 V Veksel max. 20 V Jævn Brydestrøm: max. 0,5 A/24V Veksel (ohmsk belastning) max. 0,5 A/20V Jævn (ohmsk belastning) For ikke-ohmske belastninger skal anvendes relevante  
+
+ kontaktbeskyttelsesforanstaltninger.
+ Kontaktbelastninger, hvor spænding over åben kontakt mindre end 0,5V  
+
+ og/eller strøm i sluttet kontakt mindre end 1 mA kan forekomme, bør undgås.
+6. Tilslutning af AU til selvstændig ATS 6.1 Alment De nødvendige stik- og klemmeforbindelser for tilslutning af AU til ATS  
+
+ befinder sig under dækslet på ATS-enheden.
+6.2 SERIF AU-SERIF-lederne forbindes med ATS ved hjælp af en 25-polet konnektor  
+
+ (hunstik) i henhold til US Military Standard, MIL-C-24308, part no.  
+
+ M24308/1-3.
+ Konnektoren skal forsynes med kappe, og de enkelte ledere skal forbindes i  
+
+ konnektoren i henhold til fig. 14.
+6.3 AS AU-AS forbindelse sker på 3-polet klemrække med markeringerne NO, CO og  
+
+ NC.
+7. Indbygning af alarmterminal ATIS i AU 7.1 Alment Alarmterminal ATIS består af et enkelt kredsløbskort med dimensioner som  
+
+ vist i fig. 15.
+ Grænsefladen mellem ATIS og AU henholdsvis telefoninstallationen er fysisk  
+
+ det på kredsløbskortet monterede stik, som er et 64-polet han- stik ifølge  
+
+ DIN 41612, blad 2.
+ De i stikket benyttede forbindelser, som er vist i fig. 16, omfatter de 3  
+
+ grænsesnit SERIF, DCIF og LINIF, således som det fremgår af figuren.
+Kravene for benyttelse af grænsesnittet SERIF er behandlet i det  
+
+ foregående.
+Kravene for benyttelse af de to øvrige grænsesnit følger  
+
+ herunder.
+7.2 Grænsesnittet DCIF DCIF er det grænsesnit, hvorover der føres forsyningsspænding og  
+
+ statussignaler fra AU til ATIS.
+Det omfatter terminalerne 0V, V +, ACO, BAO  
+
+ og RET (jf. fig. 16).
+ Forsyningsspændingen tilsluttes terminalerne 0V og V +, og kravene til  
+
+ strømforsyning er følgende:
+Spænding: min. 9,5 V max. 15,5 V Strømforbrug: max. 100 mA (typisk 50 mA ved 12 V) Terminalen ACO benyttes for signalering om AU's primærforsyning fra  
+
+ stærkstrømsnettet.
+ Ved bortfald af primærforsyningen skal signalet på ACO ændre sig fra  
+
+ logisk 1 til logisk 0, idet den nærmere signalspecifikation er givet i  
+
+ tabellen over parameterværdier herunder.
+ Terminalen BAO benyttes for signalering om den i AU indbyggede  
+
+ akkumulators tilstand.
+ Falder akkumulatorspændingen under specificeret grænseværdi, skal signalet  
+
+ på BAO ændre sig fra logisk 1 til logisk 0.
+For at spare strøm kan BAO i stedet for logisk 1 påtrykkes en impulsfølge  
+
+ hvor BAO er logisk 1 i tiden t1,BAO og logisk 0 i tiden t2,BAO Terminalen RET er fælles retur for ACO og BAO.
+7.2. 1 Parameterværdier for DCIF IACO, indgangsstrøm ved logisk 1: min. 3 mA max. 18 mA IACO, indgangsstrøm ved logisk 0: min. 0 mA max. 0,1 mA IBAO, indgangsstrøm ved logisk 1: min. 3 mA max 18 mA IBAO, indgangsstrøm ved logisk 0 min 0 mA max. 0,1 mA t1,BAO, varighed af BAO = 1 : min. 150 ms t2,BAO, interval mellem BAO = 1: max. 1000 ms 7.3 Grænsesnittet LINIF LINIF er det grænsesnit, hvorover telefonlinien føres ind i og ud af ATIS.
+Det omfatter terminalerne LIN 1 og LIN 2, der skal tilsluttes  
+
+ telefonlinien, som kommer fra centralen, og terminalerne INST 1 og INST 2,  
+
+ som skal tilsluttes telefonapparatet.
+Til benyttelsen af dette grænsesnit  
+
+ stilles det krav, at de 4 modsvarende terminaler på hunstikket i AU bliver  
+
+ direkte forbundet med en 4-leder bevægelig ledning, hvormed AU forbindes til  
+
+ telefoninstallationens 5-polede stikdåse, og at der som ledning vælges en  
+
+ type, der er godkendt af teleadministrationerne til anvendelse for  
+
+ telefonapparater.

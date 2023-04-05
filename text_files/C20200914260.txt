@@ -1,0 +1,575 @@
+Vejledning om pipelines til olieprodukter Indholdfortegnelse 1 Indledning 1.1 Vejledningens baggrund og anvendelse 1.2 Ordliste 1.3 Definition af pipelines 1.3.1 En typisk pipeline 1.4 Anvendelse af pipelines til andre produkter 2 Lovgivning 2.1 Olietankbekendtgørelsen 2.2 Arbejdstilsynets regler 2.3 Anden relevant miljølovgivning 2.3.1 Risikobekendtgørelsen 2.3.2 Godkendelsesbekendtgørelsen 2.3.3 Jordforureningsloven og miljøbeskyttelsesloven 3 Etablering af pipelines 3.1 Tilsynsmyndighedens tilladelse 3.1.1 Hvornår er der tale om etablering 3.1.2 Samarbejde med andre parter 3.1.3 Det landsdækkende ledningsregister (LER) 3.1.4 Forslag til opbygning af en § 19-tilladelse 3.2 VVM-reglerne omfatter alle etableringer og ændringer 3.3 Konstruktion 3.4 Korrosionsbeskyttelse 3.4.1 Forebyggelse af udvendig korrosion ved belægninger 3.4.2 Katodisk beskyttelse 3.4.3 Forebyggelse af indvendig korrosion 3.5 Kontrol af tæthed ved etablering 3.5.1 Kortvarig trykprøve med vand 3.5.2 Langvarig trykprøve med vand 4 Eksisterende Pipelines 4.1 Tilsyn, egenkontrol, omfang og hyppighed 4.1.1 Eksempel på egenkontrol 4.2 Krav til kontrol af tæthed ved drift 4.2.1 Trykprøvning med olieprodukt 4.2.2 Computational Pipeline Monitoring, CPM 4.2.3 Intelligent Pigging 4.2.4 Kontrol af indvendig korrosion 4.2.5 Detektorer 4.2.6 Linjevandring 4.2.7 Stedvis frigravning 4.2.8 Overvågning af katodisk beskyttelse 4.2.9 Vandanalyser 4.2.10 Forebyggelse af skader påført af tredjepart 4.3 Sløjfning af pipelines 5 Beredskab ved uheld 5.1 Lovgivningskrav ved lækager 5.2 Beredskabsplan for pipelines 5.3 Risiko for lækager eller brand på pumpestationer 6 Referencer Bilag A - Konstruktionskrav Bilag B - Metoder til kontrol af pipelines tæthed 1 Indledning 1.1 Vejledningens baggrund og anvendelse Pipelines til transport af olieprodukter er i dag reguleret i olietankbekendtgørelsen /1/, der har hjemmel i miljøbeskyttelsesloven /4/. Reguleringen består i, at der i olietankbekendtgørelsen er udstukket nogle få overordnede krav vedr. etablering og drift af pipelines (se også afsnit 2.1). Selve detailreguleringen, herunder f.eks. tilsyn med pipelines og vilkår i tilladelser til etablering og drift, har de relevante tilsynsmyndigheder hidtil vurderet uden vejledning fra Miljøstyrelsen.
+Formålet med denne vejledning er at udfylde dette tomrum.
+ I forbindelse med kommunalreformen trådte en ny olietankbekendtgørelse/2/ i kraft den 1. januar 2007. Tilsynet med de større pipelines blev således lagt over til Miljøstyrelsen imens de mindre pipelines fortsat er underlagt kommunalt tilsyn.
+Der har generelt været en efterspørgsel efter en vejledning i de mere tekniske forhold omkring etablering og drift af pipelines, herunder egenkontrol af tæthed.
+Dette søges opfyldt ved denne vejledning.
+Yderligere er formålet med vejledningen, at tilsynsmyndigheden herigennem kan få indsigt i de væsentligste regler, der kan være relevante for pipelines.
+I vejledningen lægges der primært vægt på eksisterende pipelines og tilsynet med disse.
+Vejledningen kan herved være en hjælp i forhold til en vurdering af eventuelle eksisterende (drifts)vilkår for pipelines.
+Det er ikke hensigten, at en eksisterende pipeline skal opfylde samme krav, som man ville stille til en ny pipeline.
+ Endelig er det hensigten, at vejledningen også kan tjene til inspiration i tilfælde, hvor tilsynsmyndigheden skal udstede en tilladelse til etablering af pipelines (se afsnit 1.3).
+ Vejledningen henvender sig primært til myndigheder, der har tilsynet med pipelines men kan også bruges af ejere og brugere af disse anlæg.
+ Udarbejdelsen af vejledningen er sket i samarbejde med: Arbejdstilsynet, Skov & Naturstyrelsen, Beredskabsstyrelsen, Kommunernes Landsforening (KL), Københavns Kommune, Ørsted; Danish Oil Pipe A/S, Foreningen Danske Olieberedskabslagre (FDO), Forsvarets Bygnings- og Etablissementstjeneste (FBE) og Forsvarets Depot og Distribution (FDD).
+Vejledningen omfatter kun pipelines til transport af olieprodukter på land.
+Vejledningen omfatter således ikke pipelines til transport af gas eller pipelines til transport af olieprodukter i havet (se afsnit 1.3).
+1.2 Ordliste 1.3 Definition af pipelines En pipeline defineres i olietankbekendtgørelsens § 5, nr. 16 /1/ som en rørledning til transport af olieprodukter over tredjemands ejendom.
+Dertil kommer, at følgende pipelines, jf. § 1, stk. 2, også er omfattet:
+1) pipelines, der har en længde på mere end 70 km, eller 2) pipelines, der består af flere stykker rørledninger, der anvendes til samme formål, som tilsammen har en længde på mere end 70 km og ejes af samme ejer.
+ Følgende pipelines er omfattet af ovenstående punkt 1) og 2):
+ Danish Oil Pipe's olierørledning (fra vesterhavskysten til Fredericia)  Forsvarets North European Pipeline System; NEPS  Pipelines ejet af Foreningen Danske Olieberedskabslagre (FDO).
+ Disse 3 systemer udgør langt hovedparten af pipelines i Danmark.
+Tilsynet m.v. med de 3 nævnte pipeline-systemer omfatter alle strækninger af disse, også de dele der løber igennem f.eks. fjorde og bælter.
+Endvidere omfattes de forgreninger af ledningerne, der måtte ende på f.eks. en pier (mole) for tilslutning til tankskibe.
+ Olietankbekendtgørelsen omfatter kun pipelines, der anvendes, eller påtænkes anvendt, til transport af olieprodukter samt dampe af disse (for anvendelse af pipelines til andre produkter, se afsnit 1.5). Olieprodukter defineres i olietankbekendtgørelsens § 5, nr. 13 som: Råolie, GTL (Gas-To-Liquids) samt alle ikke-vandopløselige mineralske olieprodukter, som eksempelvis fyringsolie, dieselolie, benzin, petroleum og smøreolie.
+ I tilfælde hvor en pipeline løber til eller fra f.eks. et brændstoflager (godkendelsespligtigt efter godkendelsesbekendtgørelsen /3/), er der ingen klare regler for, hvor et brændstoflager slutter, og pipelinen begynder, hvorfor grænsen typisk sættes ved de første ventiler, på det areal hvor brændstoflagret ligger (se afsnit 2.3).
+ Pumper, de tilhørende ventiler, instrumentering og andet armatur, som sidder mellem et tankanlæg og en pipeline, vil normalt blive betragtet som en del af tankanlæggets rørsystem.
+En pumpestation i tilknytning til en pipeline betragtes som værende en del af pipelinen.
+En pumpestation skal derfor indgå i en pipelines tilladelse og tilsyn.
+1.3.1 En typisk pipeline En pipeline består af et langt stålrør sammensat af mange mindre segmenter på imellem ca. 6 til 12 meter.
+Rørets diameter varierer alt efter, hvor store mængder røret er beregnet til at skulle transportere.
+Typisk opereres der med størrelser imellem ca. 4 og ca. 20 tommer (en tomme svarer til ca. 2,54 cm). Godstykkelsen varierer også, typisk imellem ca. 4-19 mm.
+For at skabe et tryk på pipelinen, så der kan transporteres olieprodukter igennem, er der en eller flere pumpestationer tilknyttet.
+Trykket i en pipeline vil afhænge af dimensioneringen og anvendelsen, og varierer således fra få bar til f.eks. 80 bar på udvalgte steder i forsvarets NEPS-system.
+En pipeline kan både være nedgravet eller overjordisk eller vekselvis begge dele.
+Nedgravede pipelines ligger oftest med en jorddækning på ca. en halv meter eller mere, og er markeret i terrænet med markeringspæle.
+Placeringen af en pipeline på en ejendom er typisk tinglyst således, at ejeren eller brugeren af pipelinen har ret til at tilse ledningen m.v.
+Dette også for at sætte restriktioner i forhold til arealanvendelsen, der hvor pipelinen er placeret.
+Omvendt har tinglysningen også til formål at sikre, at fremtidige ejere har kendskab til ledningen og de restriktioner, den indebærer for arealanvendelsen.
+ På figur 1 ses et eksempel på en nedgravet pipeline.
+Figur 1. Nedgravet pipeline.
+Det lodrette rør er en del af en (kugle)ventil (Danish Oil Pipe A/S).
+1.4 Anvendelse af pipelines til andre produkter Brug af en pipeline til flere forskellige produkter, som hver især har forskellige egenskaber, bør medføre, at ejer eller bruger overvejer, om dette kan føre til forværrede korrosionsforhold på indersiden.
+Mht. brug af pipelines til biobrændsel skal man være opmærksom på, at ethanol er blandbar med vand.
+Dertil kommer, at ethanol også ofte indeholder vand.
+Dette kan have både positive og negative konsekvenser.
+ Den positive konsekvens består i, at eventuelle vandsøer i lavpunkter i pipelinen vil blive udtørret, hvis der i en periode transporteres ethanol der er blandbar med vand.
+Den negative konsekvens kan opstå, når der efterfølgende transporteres olieprodukter.
+Rester af ethanol vil blive blandet op med olieproduktet.
+Et eventuelt vandindhold i ethanolen kommer ikke med i olie/ethanol-blandingen.
+Vandet vil enten blive efterladt i en sø eller blive mekanisk revet med.
+Hvis det efterlades, er der risiko for korrosion.
+Hvor meget, der evt. efterlades, afhænger af rørets geometri, strømningshastighed og evt. anvendelse af adskillelses-grise.
+Biobrændsel er anderledes.
+De er ikke blandbare med vand, men de kan til gengæld godt have et relativt stort indhold af dispergeret vand.
+En lang pipeline med moderat strømningshastighed er en meget effektiv separator, så dette kan i sig selv give anledning til bundfældning af vandet.
+Der er for tiden ikke brugbar erfaring med transport af biobrændsel i pipelines, endnu mindre med forhold i eventuelle blandingszoner ved vekslen mellem forskellige produkter, herunder mineralolie og biobrændsel.
+Såfremt sådanne skiftende driftsforhold skulle blive aktuelle for en pipeline, skal ejer eller bruger redegøre for de foranstaltninger, som påtænkes iværksat for at sikre pipelinen mod en højere hastighed af nedbrydning, herunder mod mulig højere korrosionshastighed på indersiden.
+Brugeren eller ejeren skal tillige sikre sig, at brugen af de forskellige stoffer er omfattet af den pågældende pipelines tilladelse.
+ Det ligger uden for denne vejlednings rammer at gå nærmere ind i anvendelser af pipelines til andet end mineralolieprodukter.
+2. Lovgivning Etablering af pipelines imellem tanke på land har siden 1970 krævet tilsynsmyndighedens godkendelse.
+Der har altid været sammenfald mellem tilsyns- og godkendelsesmyndighed (herefter benævnt tilsynsmyndighed). I 1970 var Indenrigsministeriet tilsynsmyndighed.
+I perioden fra 1974 og frem til vedtagelsen af olietankbekendtgørelsen i 1999 var Miljøstyrelsen tilsynsmyndighed.
+Herefter og frem til bekendtgørelsen fra 2005 var det kommunen, der skulle give tilladelser og føre tilsyn, dog med undtagelse af pipelines der krydsede kommunegrænser, hvor amtet var tilsynsmyndighed.
+2.1 Olietankbekendtgørelsen Efter kommunalreformen og ikrafttrædelse af olietankbekendtgørelsen den 1. januar 2007  er det Miljøstyrelsen der fører tilsyn med pipelines der har en længde på mere end 70 km, eller pipelines der består af flere stykker rørledninger, der anvendes til samme formål, som tilsammen har en længde på mere end 70 km og ejes af samme ejer.
+Dette betyder at Miljøstyrelsen fører tilsyn med følgende pipelines: Forsvarets NEPS-system, Danish Oil Pipes pipeline og FDOs pipelines.
+ Kommunerne fører tilsyn med de resterende (mindre) pipelines.
+ Det fremgår af § 22 i olietankbekendtgørelsen /1/, at etablering af pipelines kræver en tilladelse efter § 19 i miljøbeskyttelsesloven /4/. Det er således fortsat et krav, at den kommende ejer eller bruger af en pipeline, skal indhente en tilladelse fra tilsynsmyndigheden.
+ Hvis en pipeline løber gennem flere kommuner, er der flere kommunale tilsynsmyndigheder om én pipeline (se 3.1.2.).
+I olietankbekendtgørelsen er det ikke præciseret, hvilke vilkår tilsynsmyndigheden skal, eller kan, sætte i en tilladelse.
+Dette har affødt behovet for nærværende vejledning.
+Udover tilladelse til etablering af pipelines, jf. § 22, er der også andre steder i olietankbekendtgørelsen nævnt krav m.v. til pipelines.
+Følgende emner berøres:
+ krav i forhold til sløjfning, når en pipeline tages varigt ud af brug (§ 23)  krav om kontrol af tæthed (§ 35)  krav om indberetning af evt. utætheder til myndigheder m.v. (§ 37)  præcisering af tilsynsmyndighed (§ 50, stk. 1 og 2)  krav om straks at forhindre yderligere udslip, hvis en pipeline er utæt (§ 37, stk. 1)  evt. skærpelse af krav til en pipeline hvis tilsynsmyndigheden vurderer, at der er risiko for forurening (§ 51) 2.2 Arbejdstilsynets regler Pipelines er underlagt Arbejdstilsynets regler, som fremgår af bl.a. bekendtgørelse om anvendelse af trykbærende udstyr /17/ og bekendtgørelse om indretning, ombygning og reparation af trykbærende udstyr /5/. Dette gælder dog kun, hvis den pågældende pipeline indeholder en væske, hvis damptryk ved den højeste driftstemperatur har mere end 0,5 bar overtryk i forhold til det atmosfæriske tryk.
+Dette kan være tilfældet for f.eks. benzin.
+Produkter som fyringspetroleum, jet fuel, fyringsgasolie, diesel eller tungere produkter vil ikke være omfattet.
+ En tredje af Arbejdstilsynets bekendtgørelser; Bekendtgørelse om indretning af trykbærende udstyr /6/ indeholder også relevante tekniske krav til konstruktion af en pipeline.
+Trykudstyrsdirektivet /7/ er implementeret ved denne bekendtgørelse.
+Helt generelt gælder reglerne (direktivet) som udgangspunkt ikke for pipelines, idet direktivet og bekendtgørelse kun omfatter anlæg, som befinder sig inden for ejerens matrikel.
+Man skal være opmærksom på, at f.eks. en pumpestation typisk er placeret på en konkret matrikel, hvorfor disse er underlagt Arbejdstilsynets regler.
+Her skal man endvidere være opmærksom på Arbejdstilsynets bekendtgørelser om indretning henholdsvis anvendelse af tekniske hjælpemidler /18/ og /19/.
+Af § 6 i bekendtgørelse om indretning, ombygning og reparation af trykbærende udstyr fremgår det, at trykbærende udstyr og enheder skal konstrueres og fremstilles i overensstemmelse med tilsvarende krav, som de væsentlige sikkerhedskrav anført i bilag I til Europa-Parlamentets og Rådets direktiv 97/23EF, jf. bilag 1 til bekendtgørelse om indretning af trykbærende udstyr.
+Dette krav svarer til kravet i § 4 i bekendtgørelse om indretning af trykbærende udstyr jf. ovenfor, hvor der tillige henvises til direktivets bilag 1 for visse anvendelser af trykbærende udstyr.
+Dog gælder det at bestemmelserne om CE-mærkning ikke finder anvendelse.
+Som nævnt indledningsvis i dette afsnit gælder disse regler dog kun for væsker, hvis tryk ved drift overstiger 0,5 bar overtryk.
+Reglerne kan dog bruges som inspiration i forhold til krav til rør med væsker, hvis tryk både er over eller under 0,5 bar overtryk ved drift, idet der i forhold til det miljømæssige ikke er forskel på disse væsketyper.
+2.3 Anden relevant miljølovgivning Af anden lovgivning, der er relevant i forhold til pipelines, kan nævnes risikobekendtgørelsen /8/, godkendelsesbekendtgørelsen /3/ i medfør af miljøbeskyttelsesloven /4/ og jordforureningsloven /9/.
+2.3.1 Risikobekendtgørelsen Risikobekendtgørelsen regulerer de lagre, der typisk bliver forbundet af pipelines.
+Pipelines til transport af olieprodukter er ikke omfattet af risikobekendtgørelsen.
+Lagre med tanke til opbevaring af olieprodukter benævnes i risikobekendtgørelsen som hhv. kolonne 2- og kolonne 3-virksomheder afhængig af lagrenes størrelse.
+Lagre på 2.500 ton og op til 25.000 ton olieprodukter benævnes kolonne 2-virksomheder, imens lagre på 25.000 ton og derover benævnes kolonne 3-virksomheder.
+Derudover reguleres raffinaderier også af risikobekendtgørelsen.
+Helt generelt er risikobekendtgørelsen kun gældende for det areal, den pågældende omfattede virksomhed har rådighed over.
+I tilfælde hvor pipelines går til og fra virksomheder, der er omfattet af risikobekendtgørelsen, vil det dog efter en konkret teknisk vurdering ofte vise sig at være hensigtsmæssigt at trække grænsen ved den første ventil, hvor ledningen føres ind/ud af brændstoflageret.
+Dette uanset om ventilen er placeret inden for virksomhedens matrikel eller på f.eks. tredje mands ejendom.
+Den konkrete grænse for tilsynet kan aftales mellem tilsynsmyndighederne (f.eks. kommunen der har tilsynet med en virksomhed og Miljøstyrelsen, der har tilsynet med en pipeline).
+ Forsvaret er generelt undtaget risikobekendtgørelsen jf. § 3, stk. 1, nr. 1. Lagre der er tilknyttet NEPS-systemet er således undtaget.
+2.3.2 Godkendelsesbekendtgørelsen Afgrænsningen til godkendelsesbekendtgørelsen er sammenfaldende med ovenstående afgrænsning til risikobekendtgørelsen.
+Godkendelsesbekendtgørelsen omfatter heller ikke pipelines, men omfatter de lagre, der typisk forbindes med pipelines.
+De omfattede olielagre er beskrevet i godkendelsesbekendtgørelsens bilag 1 og 2.
+ I tilfælde hvor pipelines går til og fra virksomheder, der er omfattet af godkendelsesbekendtgørelsen, vil det (ligesom for risikobekendtgørelsen) ofte vise sig at være hensigtsmæssigt, at myndighederne laver en aftale om, at grænsen for tilsynet eksempelvis går ved den første ventil, hvor ledningen føres ind/ud af virksomheden.
+2.3.3 Jordforureningsloven og miljøbeskyttelsesloven Som udgangspunkt skal jordforureningslovens bestemmelser bruges, hvis der er tale om en olieforurening i jorden, der skal undersøges eller oprenses.
+Herudover vil miljøbeskyttelseslovens bestemmelser om påbud ved ulovlige forhold kunne anvendes, hvis en pipeline konstateres at være i strid med gældende regler.
+Omvendt bruges bestemmelserne i olietankbekendtgørelsen, hvis tilsynsmyndigheden har behov for at håndhæve krav om forhindring af yderligere udslip pga. utætte pipelines (jf. § 37, stk. 1) eller behov for skærpelse af krav til en pipeline, hvis der er risiko for forurening (jf. § 51).
+ Endelig er der i olietankbekendtgørelsen et særskilt krav om indberetning af utætheder til myndighederne i § 37, stk. 1.
+3. Etablering af pipelines 3.1 Tilsynsmyndighedens tilladelse Ifølge § 22 i olietankbekendtgørelsen skal den ejer eller bruger, der vil etablere en pipeline, forinden arbejdet påbegyndes, sikre, at der foreligger tilladelse hertil, jf. miljøbeskyttelseslovens § 19.
+3.1.1 Hvornår er der tale om etablering Spørgsmålet om, hvorvidt en pipeline etableres eller blot repareres, opstår oftest i forhold til projekter, hvor gamle pipelines eller dele af disse udskiftes over større eller mindre strækninger.
+I nogle tilfælde kan det være uhensigtsmæssigt at tage en pipeline ud af drift under reparation, både af hensyn til afsender og modtager af produktet.
+Mere omfattende reparationer kan derfor indebære, at man bygger en ny rørledningsstrækning parallelt med den eksisterende.
+Den nye rørledning kan evt. være af noget mindre kapacitet, så man kan opretholde en minimal transport, mens man reparerer hovedledningen.
+En alternativ løsning kunne være at etablere en ny ledning med samme eller større transportkapacitet end den gamle hovedledning med det formål efterfølgende at sløjfe den eksisterende pipeline.
+ I olietankbekendtgørelsens § 5, nr. 6, defineres etablering som:
+Nyanlæggelse, udskiftning, og flytning af tanke eller anlæg.
+Endvidere omfattes ibrugtagning til opbevaring af olieprodukter af:
+a) anlæg, der har været anvendt til opbevaring eller opsamling af andet end olieprodukter, eksempelvis husspildevand og ajle, b) anlæg, der har været anvendt til opbevaring af olieprodukter, som kræver opvarmning for at kunne transporteres, og som skal anvendes til opbevaring af lettere olieprodukter, og c) anlæg, der er sløjfet." Ovenstående definition er lavet med henblik på olietanke.
+ For pipelines dækker etablering alene følgende situationer:
+ nye strækninger af pipeline, herunder midlertidige strækninger af væsentlig længde  udskiftning af væsentlige dele af eksisterende pipelines  flytning af væsentlige dele af pipelines  væsentlige renoveringsarbejder Omvendt bør følgende tiltag som udgangspunkt ikke betragtes som etablering men som reparationer:
+ mindre omlægninger eksempelvis i størrelsesordenen som der ville forekomme som følge af anlæggelse af veje (< ca. 250 meter)  sænkning af pipelines f.eks. med det formål at opnå et tykkere jorddække og dermed bedre beskyttelse mod beskadigelse  udskiftning eller forbedring af en pipelines katodiske beskyttelse  reparation af den udvendige beskyttende belægning  sløjfning af ventilbrønde  udskiftning af ventiler eller mindre rørstykker (< ca. 20 meter) Ovenstående længdeangivelser (i første og sidste punkt) skal ikke betragtes som eksakte mål men blot som en omtrentlig angivelse af niveauet.
+Det vil her være relevant at vurdere, om det givne tiltag medfører nyt i forhold til miljøet, eller om tiltaget blot er mere af det samme (samme beliggenhed, materialer, konstruktion m.v. som eksisterende pipeline).
+Ejer eller bruger af en pipeline bør i forbindelse med reparationer orientere tilsynsmyndigheden, så denne har opdateret viden om pipelinen.
+Det kan også være relevant at videregive oplysninger, der vedrører den generelle tilstand af pipelinen til tilsynsmyndigheden.
+Dette kunne f.eks. også være viden, ejer eller bruger får i forbindelse med det generelle vedligehold.
+Etablering af tanke omfatter også situationer, hvor tanke, der anvendes til andre produkter f.eks. biobrændsel, tages i brug til mineralolie igen.
+For pipelines gælder det, at brugen af andre stoffer end mineralolie, f.eks. biobrændsel, skal være omfattet af den givne tilladelse efter § 19 i miljøbeskyttelsesloven.
+Hvis dette ikke er tilfældet, skal dette indføjes i tilladelsen, og i den forbindelse skal tilsynsmyndigheden overveje, om dette giver anledning til ændrede vilkår (se afsnit 1.4 og 3.4.1).
+3.1.2 Samarbejde med andre parter Tilsynsmyndigheden bør inddrage andre relevante samarbejdspartere f.eks. grundejere og naboer, der kunne blive udsat for ulemper og risiko både i forbindelse med konstruktion og drift af den pågældende pipeline.
+Ved inddragelse tidligt i forløbet er det muligt for tilsynsmyndigheden at få afspejlet disse forhold i tilladelsen.
+Inddragelsen kunne f.eks. ske ved afholdelse af et informationsmøde eller ved skriftlig information.
+Såfremt en pipeline (undtagen pipelines omfattet af § 1, stk. 2, i olietankbekendtgørelsen) løber igennem flere kommuner, bør de pågældende tilsynsmyndigheder tage kontakt til hinanden for om muligt at få etableret et samarbejde, evt. ved at nedsætte en fælles arbejdsgruppe.
+Det vil i denne situation være hensigtsmæssigt, at én kommune koordinerer samarbejdet f.eks. den kommune med den længste strækning af pipeline.
+ Endeligt kan det også være relevant at tage kontakt til den myndighed, der arbejder med VVM-vurdering/screening (se afsnit 3.2).
+3.1.3 Det landsdækkende ledningsregister (LER) Alle, som påtænker at foretage et gravearbejde, har pligt til at forespørge i Erhvers- og Byggestyrelsens landsdækkende ledningsregister (LER).
+Her findes oplysninger om de personer og virksomheder, som ejer ledninger, der ligger i offentlig eller privat fællesvej f.eks. elforsyninger, telefonselskaber og fjernvarmeselskaber.
+Det kan være relevant for både ansøger og myndigheden at søge oplysninger her.
+Forsvaret er undtaget indberetningspligten jf. § 4 i lov om registrering af ledningsejere /10/, så deres pipelines kan ikke ses i systemet.
+Dog er der mulighed for at indberette forsvarets ledninger som særlige områder.
+Hvis andre graveaktører udfører gravearbejde i et særligt område, vil forsvaret få besked.
+Forsvaret arbejder på at få NEPS-systemet lagt ind i LER på denne måde.
+3.1.4 Forslag til opbygning af en § 19-tilladelse Umiddelbart retter dette afsnit sig til tilsynsmyndigheden, men kan også med fordel anvendes af bruger eller ejer af en pipeline eller den, der på deres vegne ansøger om en tilladelse.
+Afsnittet kan give indblik i, hvilke oplysninger tilsynsmyndigheden vil efterspørge.
+En afgørelse om en tilladelse til etablering af en pipeline skal altid laves på baggrund af en vurdering af de konkrete forhold.
+Dvs. tilsynsmyndigheden skal ved afgørelsen tage stilling til den pågældende pipeline i forhold til risikoen for miljøpåvirkning i det pågældende lokalområde.
+Tilsynsmyndigheden skal således vurdere, om der er risiko for forurening af grundvand, jord og undergrund ved at tage de konkrete grundvandsforhold, herunder sårbarhed m.v. i betragtning.
+Tilsynsmyndigheden skal i afgørelsen tage stilling til, om der skal gives tilladelse eller afslag.
+Her er resultatet af risikovurderingen, og eventuelle gener af pipelinen i forhold til det aktuelle lokalområde, det afgørende kriterium for afgørelsen.
+ Det kan derfor være en stor fordel, hvis ansøger allerede i ansøgningen udarbejder et forslag til risikovurdering for pipelinen (præcisering af hvilke risici der er ved den pågældende pipeline).
+ Tilsynsmyndighedens afgørelse kunne eksempelvis deles op i to dele: Et miljøteknisk notat og en tilladelse med vilkår (eller et afslag).
+Det miljøtekniske notat er tilsynsmyndighedens baggrundsmateriale og vurdering.
+Heri beskrives de tekniske forhold vedr. pipelinen, herunder linieføring, konstruktion, korrosionsbeskyttelse, tæthedsprøvning før ibrugtagning, kontrol og overvågning og beredskab ved uheld evt. med henvisninger til ansøgers miljøtekniske beskrivelse i ansøgningen.
+I miljømyndighedens miljøtekniske notat vurderes således oplysningerne fra ansøgeren (se afsnit 3. 3  3. 5 og 4.2). Dertil kommer andre relevante forhold som f.eks. planforhold, vurdering efter miljøvurderingsloven (VVM), grundvandsforhold, jordhåndtering og renere teknologi.
+Tilsynsmyndighedens vurdering af pipelineprojektet i forhold til de lokale forhold bør fremgå af det miljøtekniske notat, herunder om pipelineprojektet er miljømæssigt forsvarligt.
+I denne forbindelse er det væsentligt, hvorledes kravet om kontrol af tæthed (jf. § 35 i olietankbekendtgørelsen) belyses af ansøgeren, og hvilken sikkerhed denne kontrol medfører (se mere herom i afsnit 4.2). I det miljøtekniske notat vurderes således, om der skal gives tilladelse eller afslag.
+ Såfremt tilsynsmyndigheden vil udstede en tilladelse, bør den som minimum indeholde følgende punkter:
+ 1: Indledning: En kort beskrivelse af pipelinen f.eks. med henvisning til ansøgningen eller det miljøtekniske notat; linjeføring, fysiske dimensioner, tidsplan for anlægsprojektets start og afslutning m.v.
+2: Afgørelse: Det oplyses her, at der gives tilladelse til pipelinen med den hjemmel der anvendes (§ 19 i miljøbeskyttelsesloven), og det oplyses, hvem der har tilsynet med pipelinen.
+Yderligere bør reglerne for tilbagekaldelse af tilladelsen også fremgå (§ 20 i miljøbeskyttelsesloven).
+3: Etableringsvilkår: Krav til etableringen, f.eks. at etablering er udført som beskrevet.
+Da vilkårene skal være entydige og klare, bør man som hovedregel gengive evt. beskrivelser fra det miljøtekniske notat, der anvendes som vilkår, i tilladelsen.
+Herudover kan nævnes andre krav ved etablering, f.eks. trykprøvning og andre test inden ibrugtagning, inspicering af rørledning inden tildækning, uvildig test af projekteringen af uafhængig tredje part (se afsnit 3.3  3.5).
+ 4. Drifts- og kontrolvilkår: Vilkår knyttet til driften, f.eks. periodiske kontroller af den katodiske beskyttelse, tæthedskontroller, herunder krav til følsomheden af denne, løbende overvågning af tryk og flow, procedure for håndtering af unormale forhold, funktionstest af pumper, ventiler m.v. og evt. en redegørelse for muligheden for at forbedre følsomhed af tæthedskontrol, både når der pumpes, og når der ikke pumpes (se afsnit 4.2).
+ 5: Procedure ved uheld: Krav om indberetning af utætheder m.v. (se afsnit 5.1).
+ 6: Klagevejledning: Her skal miljøbeskyttelseslovens bestemmelser om klage være beskrevet (§§ 91-100), herunder frist for påklage, hvem skal modtage klage, hvem kan påklage, regler for søgsmål, formkrav til klagen m.v.
+Tilladelsen skal ligesom andre afgørelser meddeles skriftligt til adressaten.
+Endvidere kan tilladelsen offentliggøres ved annoncering jf. § 74, stk. 2, i miljøbeskyttelsesloven.
+Alternativt skal enhver, der har en individuel, væsentlig interesse i sagens udfald underrettes særskilt om tilladelsen.
+3.2 Miljøvurderingslovens regler (VVM) omfatter alle etableringer og ændringer Ved enhver etablering eller ændring (herunder som udgangspunkt også reparationer) af pipelines til brug for olie har bygherren pligt til at anmelde dette til VVM-myndigheden med henblik på at få afgjort, om det pågældende anlægsarbejde er VVM-pligtigt (Vurdering af Virkning på Miljøet) i henhold til bekendtgørelse af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM).
+ Obligatorisk VVM-pligt er etablering eller ændringer af:
+  Rørledninger på mere end 1 km til transport af giftige, miljøfarlige eller brandfarlige væsker udenfor den pågældende virksomheds eget område.
+ Rørledninger til transport af gas, olie eller kemikalier med en diameter på over 800 mm og en længde på over 40 km I alle andre tilfælde vil ændringer, der kan være til skade for miljøet, samt nyetablering af alle olie- og gasledninger være VVM-pligtige, hvis VVM-myndigheden skønner, at etableringen eller ændringen vil kunne påvirke miljøet væsentligt.
+ For de ovenfor omtalte anlæg  bortset fra anlæg der obligatorisk er VVM-pligtige - gælder, at bygherren ikke må påbegynde anlægget før VVM-myndighedens afgørelse om, at anlægget ikke er VVM-pligtigt forligger.
+ I tilfælde af at etableringen eller ændringen er VVM-pligtig gælder, at anlægsarbejdet ikke må igangsættes før, der forligger et endeligt vedtaget kommuneplantillæg med tilhørende VVM-redegørelse og bygherren har opnået VVM-myndighedens tilladelse jf. bekendtgørelse om samordning af miljøvurderinger og digital selvbetjening m.v. for planer, programmer og konkrete projekter omfattet af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM) /11/.
+Ved valget af linieføring og udformning skal der tages hensyn til mennesker, fauna og flora, jordbund, vand, luft, klima og landskab.
+Endvidere skal der tages hensyn til materielle goder og kulturarven samt samspillet mellem disse faktorer.
+ Tilsynsmyndigheden kan inddrages i den miljømæssige vurdering af de undersøgte alternativer.
+3.3 Konstruktion Konstruktion og bygning af en pipeline indebærer mange højt specialiserede tekniske funktioner, som man ikke kan forvente, at en tilsynsmyndighed har indsigt i.
+Herunder også stillingtagen til typer af anvendte materialer.
+Hvis tilsynsmyndigheden vurderer, at ansøger ikke har den fornødne ekspertise, og på betryggende vis kan redegøre for at der benyttes anerkendte konstruktionsnormer som grundlag, bør tilsynsmyndigheden stille vilkår i tilladelsen om, at bygherren for den pågældende pipeline skal hyre en uafhængig tredje part.
+Dette såkaldte klassificeringsselskab (med højt fagligt kendskab) skal udstede en erklæring om, at etableringsprojektet opfylder konstruktionskravene listet i bilag A.
+Dette gøres typisk ved større etableringsprojekter.
+Alternativt kan tilsynsmyndigheden overveje, om denne opgave kan varetages af tilsynsmyndigheden selv.
+Her vil det være relevant, at myndigheden stiller krav til ansøger om, at denne udarbejder en underskrevet erklæring fra bygherre og entreprenør om, at konstruktionskrav m.v. (bilag A) er opfyldt.
+ Generelt bør tilsynsmyndigheden kun tillade afvigelser fra normkrav, såfremt det dokumenteres, at afvigelsen er forsvarlig.
+De fleste eksisterende pipelines i Danmark er bygget på grundlag af normen ANSI/ASME B 31.4 Pipeline transportation systems for liquid hydrocarbons and other liquids , som udgives og vedligeholdes i USA.
+I normen henvises til flere standarder.
+Samlet set kan normen og de standarder der henvises til betragtes som et normsæt.
+Men lovgivning i USA er på mange områder anderledes end i Danmark og i EU, og derfor er ældre pipelines i Danmark typisk pålagt yderligere vilkår.
+Disse vilkår er fastsat individuelt for hver enkelt pipeline.
+Vilkårene afspejler således også tidspunktet for tilladelsen til at etablere og benytte den pågældende pipeline.
+Der arbejdes både på europæisk og internationalt plan på at etablere et lignende normsæt.
+Som følge heraf findes den overordnet norm: ISO 13623 / EN 14161, Petroleum and natural gas industries  Pipeline transportation systems.
+Den har den mangel, at den ikke har et fuldt udbygget system af normer og standarder at henvise til.
+Men der arbejdes på at få dette på plads.
+Dertil kommer at normen har en meget overordnet karakter.
+I nogle afsnit er der mest tale om lister over forhold, som der skal tages hensyn til.
+En skrålæsning kan stærkt anbefales som supplement til denne vejledning, derved opnås et godt overblik over alle de delaspekter, som hører til en pipeline.
+Generelt skal siges, at man ved konstruktion af en pipeline bør holde sig til et enkelt normsystem, man bør ikke frit plukke fra de forskellige normsystemer.
+Hvis der er aspekter, som ikke er tilstrækkeligt dækket i et normsystem, skal valget af supplement fra andre normsystemer begrundes.
+3.4 Korrosionsbeskyttelse Da pipelines typisk laves af stål, bør tilsynsmyndigheden altid stille krav om korrosionsbeskyttelse i en tilladelse.
+Herved sikres, at en ny pipeline forbliver tæt og sikker at bruge.
+Graden af beskyttelse kan variere med karakteren af overvågning/beskyttelse.
+Som eksempel kan nævnes, at en overjordisk pipeline eller en pipeline ført i ingeniørgang (f.eks. under en havn), typisk vil blive korrosionsbeskyttet udvendigt med en malebehandling.
+Kvalitetskravene til malebehandlingen vil afhænge af det omgivende miljø, den planlagte mængde af vedligehold og hyppigheden af inspektion.
+Højeste grad af beskyttelse er især relevant for nedgravede pipelines, da disse ikke kan inspiceres direkte.
+Disse pipelines skal have en meget effektiv udvendig korrosionsbeskyttelse, og der skal som udgangspunkt kræves såvel en belægning af ekstremt høj tæthed som katodisk beskyttelse.
+Som udgangspunkt bør der ikke accepteres mindre.
+Der bør altid foreligge en detaljeret beskrivelse af de korrosionsbeskyttende foranstaltninger.
+Denne beskrivelse, som kan indgå i det miljøtekniske notat, kan tilsynsmyndigheden betragte som en forudsætning for selve tilladelsen.
+Konstruktionsnormer er generelt ikke så brugbare i forhold til korrosionsbeskyttelse.
+En normkommité har meget svært ved at forudse og tage forbehold for de meget forskellige korrosive miljøer en pipeline eksempelvis kan blive udsat for.
+EN 14161 har dog et helt kapitel om corrosion management, som omtaler de mest benyttede metoder og acceptkriterier, sidstnævnte i forhold til resultaterne af de målinger, som bør udføres.
+3.4.1 Forebyggelse af udvendig korrosion ved belægninger Bygherren bør særskilt redegøre for korrosionsbeskyttelse i form af belægninger, idet konstruktionsnormerne kun omtaler dette i generelle vendinger.
+Visse typer af belægninger med meget høj grad af tæthed er standardiserede:
+ EN 10288:2002, Udvendig 2-lags ekstruderede polyethylenbaserede belægninger  EN 10289:2002,Udvendige belægninger af epoxy eller epoxy-modificerede materialer  EN 10290:2002,Udvendige belægninger af polyurethan og polyurethan-modificerede materiale  EN 10310:2004, Indvendige og udvendige polyamidbaserede belægninger Disse normer beskriver metoder, der vil yde en tilfredsstillende beskyttelse under normale forhold.
+Ligeledes bør bygherren beskrive, hvorledes samlingerne beskyttes i en grad, der lever op til det der er udført på rørenes løbende længde.
+Her anbefales, at anvende standarden EN 10329:2006, Udvendig belægning efter samling på stedet.
+ Hvis etablering af en ny pipeline medfører, at der skal laves samlinger imellem en ny strækning og en eksisterende strækning, bør det sikres, at belægningen på den nye strækning kan fungere sammen med belægningen på den eksisterende pipeline (se afsnit 4.2.8.).
+3.4.2 Katodisk beskyttelse I tillæg til korrosionsbeskyttelse i form af belægninger benyttes som regel katodisk beskyttelse.
+I forbindelse med nedgravede landledninger benyttes normalt en anode og påtrykt strøm (se figur 2). For undersøiske ledninger benyttes normalt offeranoder.
+For udførelsen af det katodiske beskyttelsessystem bør standarden EN 12954:2001, Katodisk beskyttelse af metalliske konstruktioner i jorden eller under vand - Generelle principper og anvendelse til rørledninger, følges.
+Alternativt henvises til ISO 15589, del 1: 2003.
+Katodisk beskyttelse anvendes til beskyttelse af bl.a. stålkonstruktioner mod korrosion i et korroderende, elektrisk ledende miljø som f.eks. fugtig jord.
+I praksis gøres metalgenstanden (pipelinen) negativ i forhold til omgivelserne med det resultat, at der løber en strøm fra omgivelserne til alle (uisolerede) dele af pipelinens overflade (se figur 2).
+Den opnåede negativitet af pipelinen (negative potentiale) og derved korrosionsbeskyttelse findes ved at måle spændingsforskellen til en referenceelektrode, som anbringes nær det sted, man ønsker at kontrollere.
+Spændingsforskellen måles i volt.
+Acceptværdien afhænger af, hvilken type af referenceelektrode der benyttes.
+Eksempelvis kræves ofte, at pipelinen skal være mere end 0,850 V negativ i forhold til en kobber/mættet kobbersulfat referenceelektrode.
+Mindre negative værdier kan eventuelt accepteres i jordbund med meget stor modstand, idet jordbund med meget stor modstand som regel er meget lidt korrosiv.
+ Figur 2. Principskitse af et katodisk beskyttelsesanlæg til pipelines.
+Typisk er et katodisk beskyttelsesanlæg til pipelines opbygget af en række ensretterstationer, hvor el-nettets vekselstrøm omformes til jævnstrøm.
+Ensretterstationens negative pol forbindes til pipelinen, mens den positive pol føres til en anode (metal i kontakt med jorden). Ensretterstationer er typisk placeret med en afstand på 20 - 40 km, hvorved det sikres, at hele rørledningen er effektivt beskyttet.
+Hvis strømbehovet er stort (den udvendige belægning er dårlig), er det nødvendigt med mindre afstand mellem forbindelser til ensretterstationer.
+Med en meget tæt udvendig belægning kan større afstande accepteres.
+I forbindelse med længere pipelines, hvor ensretterstationerne er spredt over stor afstand, kan der med fordel etableres central automatisk overvågning af samtlige ensretterstationer, så det sikres, at disse fungerer korrekt.
+ Ved idriftsættelse af det katodiske beskyttelsessystem, skal det verificeres, at forudsætningerne (diverse krav i standarder m.v.) er overholdt.
+3.4.3 Forebyggelse af indvendig korrosion Erfaringsmæssigt er lækager på grund af indvendig korrosion meget sjældne i pipelines, som transporterer raffinerede olieprodukter, der typisk indeholder meget lidt vand.
+I råolie er vandindholdet typisk højere.
+For pipelines, der bruges til råolie, forsøger man dog at undgå indvendig korrosion ved at fjerne så meget vand som muligt i produktionsanlægget.
+Desuden kan der evt. tilsættes en korrosionsinhibitor.
+Ved brug af en pipeline til råolie eller i forbindelse med andre forhold, hvor indvendig korrosion på forhånd må forventes, bør der stilles krav om overvågning af den indvendige korrosion (se også afsnit 1.4 og 4.4).
+3.5 Kontrol af tæthed ved etablering Ejeren eller brugeren af en pipeline skal ifølge § 35 i olietankbekendtgørelsen kontrollere, at pipelinen er tæt.
+Tilsynsmyndigheden bør præcisere krav om, at dette sker i en tilladelse til en pipeline.
+Kravene skal dog ikke nødvendigvis stilles i forbindelse med etablering af en pipeline.
+Disse kan stilles efterfølgende f.eks. som opfølgning på et tilsyn (se afsnit. 4. 1).
+Nedenfor beskrives kort de mest oplagte metoder til at kontrollere, at en pipeline er tæt i etableringsfasen.
+Krav til hvordan det fortsat kan kontrolleres, at en pipeline er tæt, er beskrevet i vejledningens kap. 4.
+Man skal være opmærksom på, at det ikke er meningen at ejer eller bruger af pipelinen skal tage samtlige metoder fra vejledningens kap. 4 i brug.
+På et tidspunkt bliver den ekstra miljømæssige sikkerhed ikke proportional med den ekstra omkostning ved gennemførelsen af yderligere foranstaltninger.
+I bilag B findes en samlet oversigt over alle beskrevne metoder til kontrol af tæthed, hvor fordele og ulemper kort er beskrevet.
+3.5.1 Kortvarig trykprøve med vand Umiddelbart før ibrugtagning af en pipeline vil man normalt dokumentere styrke, fravær af grove fejl og evt. også tilstedeværelsen af større utætheder ved at udføre en kortvarig trykprøve med vand.
+Trykprøven har også til formål at dokumentere, at der trods alle forholdsregler i konstruktionsberegning, bygning, svejsekontrol, nedlægning osv., ikke findes eller er opstået mekanisk svage steder.
+En relativ kortvarig trykprøve kan udføres over en periode på ca. 5-10 minutter og op til ca. 1 times varighed.
+For den færdige (men ikke ibrugtagne) pipeline kan det anvendelige trykprøvetryk findes i det detaljerede design.
+Oftest vil det være noget højere end maximum allowable operating pressure (største tilladelige driftstryk), typisk 25 % højere.
+ I normen EN14161 Pressure Test findes mere udførlige beskrivelser af de generelle principper bag trykprøvning.
+3.5.2 Langvarig trykprøve med vand På nye pipelines bør altid udføres langvarig trykprøve med vand ved det prøvetryk, som er fastsat i designberegningerne.
+Ved langvarig forstås i størrelsesordenen op til ca. 24 timer.
+Formålet med en langvarig trykprøve er at dokumentere, at pipelinen er tæt inden ibrugtagning.
+Indledningsvis skaffes en vurdering af, hvor meget luft der er tilbage efter væskefyldning af pipelinen ved at sammenholde indpumpet mængde og den deraf følgende trykstigning.
+Derefter stilles krav om, at der opretholdes konstant tryk med korrektion for temperaturbetingede trykændringer.
+Hvis trykket herefter er konstant, kan det konkluderes, at sandsynligheden for utætheder er tilstrækkelig lille (jf. de kriterier der typisk måtte være sat i konstruktionsnormen), og pipelinen kan betragtes som værende tæt.
+Selv om der opnås en meget stor grad af vandfyldning, vil både ilt opløst i vandet og ilt i den tilbageværende luftmængde gøre vandet korrosivt over for stål.
+For at nedsætte denne skadevirkning anvendes ofte behandlet vand til trykprøvningen.
+Bl.a. følgende behandlinger kan anvendes:
+  Afluftning ved opvarmning eller ved vakuumbehandling for at nedsætte mængden af opløst ilt.
+ Tilsætning af et kemikalie som reagerer med ilt; en oxygen scavenger.
+Som oftest ses en opløsning af sulfit med en smule cobolt-salt som katalysator.
+Andre kemikaliepakker f.eks. baseret på garvesyre kan også bruges.
+Vand, som udelukkende er afluftet ved opvarmning eller vakuumbehandling, og som evt. er blevet ionbyttet, vil i almindelighed kunne udledes til recipient.
+Såfremt trykprøvevandet tilsættes kemikalier, skal vilkår for udledning og evt. behandling inden udledning overvejes nærmere.
+ Det ligger uden for denne vejlednings område at gå yderligere i detaljer mht. udledning af vand-olieblandinger og evt. krav hertil.
+Efter en trykprøvning vil man normalt tilstræbe at fjerne alt vand fra den pågældende pipeline, inden den tages i brug til olieprodukter.
+Dette kan gøres ved en eller flere af følgende metoder:
+  Der blæses en adskillelses-gris (se figur 3) gennem pipelinen med kvælstoftryk for at drive hovedparten af vandindholdet ud.
+ Der drives en prop af alkohol gennem pipelinen, evt. fastholdt mellem to adskillelses-grise.
+Typisk vil drivkraften være kvælstoftryk.
+  Endelig udtørring kan ske ved at få den sidste rest af vand til at fordampe ved at sætte vakuum på ledningen (vakuum-pumpning). Dette kan dog være en meget langvarig proces.
+ Figur 3. Eksempler på adskillelses-grise.
+Trykprøve med vand vil normalt være urealistisk dyrt at gennemføre på en pipeline, som er i brug og fyldt med olie.
+Man vil normalt ikke kunne skaffe lagerplads til olien.
+Dertil kommer, at man ved fyldning med vand vil lave en vand-olie-blanding, som efterfølgende skal bortskaffes og evt. behandles.
+4 Eksisterende Pipelines Der er ikke i gældende lovgivning fastsat krav om, hvordan eller hvor hyppigt tilsyn med pipelines i drift skal foregå.
+I § 50, stk. 1, i olietankbekendtgørelsen står, at kommunalbestyrelsen skal føre tilsyn med, at reglerne i bekendtgørelsen overholdes.
+I § 50, stk. 2, er det dog anført, at Miljøstyrelsen fører tilsyn med større pipelines der 1) har en længde på mere end 70 km eller 2) består af flere stykker rørledninger, der anvendes til samme formål, som tilsammen har en længde på mere end 70 km og ejes af samme ejer.
+Følgende pipelines er omfattet af ovenstående punkt 1 og 2: Forsvarets NEPS-system, FDOs pipelines og Danish Oil Pipes pipeline fra Vesterhavet til Fredericia.
+4.1 Tilsyn, egenkontrol, omfang og hyppighed De overordnede mål for miljøtilsyn kan bl.a. findes i Vejledning om miljøtilsyn med industrivirksomheder /12/. I forhold til drift af pipelines er målet primært at føre tilsyn med, at ejere eller brugere af pipelines ifølge § 35, stk. 1, i olietankbekendtgørelsen kontrollerer, at pipelinen er tæt (egenkontrol). Tilsynsmyndigheden bør også jævnligt vurdere, om vilkår stillet i tilladelsen til den pågældende pipeline er tilstrækkelige og overholdes, så risikoen for forurening minimeres.
+I det følgende giver Miljøstyrelsen et forslag til, hvordan tilsynsmyndigheden kan tilrettelægge tilsynet, så det er mest hensigtsmæssigt for ejeren og brugeren af pipelinen så vel som tilsynsmyndigheden.
+Endvidere præsenteres et forslag om tilbagevendende afrapportering af ejer eller brugeres tiltag for at sikre at pipelinen er tæt jf. kravet i § 35, stk. 1. Herunder specien oversigt over hvilke informationer, der kan indgå i en tilbagevendende afrapportering.
+Tilsyn med pipelines bør ske med udgangspunkt i relevante, dækkende og tidssvarende vilkår.
+Vilkårene for egenkontrol afhænger primært af risikoen for læk, der igen afhænger af den pågældende pipelines alder, konstruktion, korrosionsbeskyttelse, beliggenhed samt af områdets sårbarhed.
+ I nogle tilfælde eksisterer der måske hverken tilladelse eller vilkår, hvorfor det er en oplagt opgave for tilsynsmyndigheden at få dette formaliseret.
+Når arbejdet med vilkårene er på plads, vil et tilsyn derefter primært bestå af tilsynsmyndighedens vurdering af ejer eller brugers redegørelse for kontrol og overvågning suppleret med dokumentation for overholdelse af andre vilkår i tilladelsen.
+Dette kan eksempelvis ske ved en årlig rapportering.
+Såfremt nogle af kontrollerne indebærer en aktivitet, der kunne være interessant at se for tilsynsmyndigheden, kan tilsynsmyndigheden evt. bede om at deltage i aktiviteten.
+ Herved kan tilsynsmyndigheden få indblik i, hvordan kontrollen foregår i praksis.
+ Hvis der ikke opdages problemer i forbindelse med tilsyn, og alle indikationer peger på, at pipelinen er i god stand, kan frekvensen for afrapporteringen evt. nedsættes.
+ Som eksempel kan nævnes, at tilsynet med forsvarets pipeline system (NEPS) i 2005 foregik ved, at de berørte tilsynsmyndigheder afholdt et møde, hvor forsvarets årlige afrapportering af kontrollen og overvågningen af NEPS blev fremlagt og kommenteret.
+4.1.1 Eksempel på egenkontrol Ifølge § 34, stk. 1, skal ejeren eller brugeren af en pipeline sikre at pipelinen er tæt.
+Det er imidlertid ikke præciseret i olietankbekendtgørelsen hvorledes dette krav opfyldes i praksis for pipelines.
+Periodiske afrapporteringer, som det foreslås i det følgende, er således ikke et lovkrav, men blot ét eksempel på en metode hvormed ejeren eller brugeren af en pipeline kan dokumentere at denne sikrer at pipelinen er tæt.
+ Afrapportering af egenkontrollen kan således eksempelvis bestå af en afrapportering med udgangspunkt i nedenstående punkter (nr. 1-6).
+Generelt bør (en periodisk) afrapportering af egenkontrollen kun omfatte hændelser/resultater fra rapporteringsperioden.
+Ejer eller bruger kan vælge at lave en mere generel beskrivelse i deres første afrapportering, som der herefter kan henvises til, såfremt der ikke er sket ændringer i rapporteringsperioden.
+Alternativt kan der henvises til beskrivelser af den pågældende pipeline i tilladelsen.
+1) Opdateret teknisk beskrivelse af pipelinen Det bør her fremgå, hvad pipelinesystemet anvendes til, og hvor store mængder der transporteres i rørledningen samt hyppighed af transporter.
+Endvidere bør det fremgå, hvilke trykforhold pipelinen har været udsat for, både maksimalt tryk og evt. hviletryk.
+Evt. pumpestationer og deres aktuelle driftsforhold i rapporteringsperioden bør også nævnes her.
+ Hvis der ikke i rapporteringsperioden er sket ændringer vedr. en eller flere af ovenstående forhold, kan der ved afrapporteringen blot henvises til tidligere beskrivelser (ved f.eks. tidligere afrapporteringer eller i tilladelsen til pipelinen).
+2) Metoder til overvågning og kontrol I første afrapportering af egenkontrollen bør ejer eller bruger af pipelinen beskrive de metoder til overvågning og kontrol, der anvendes til sikring af pipelinens vedvarende tæthed (se afsnit 4.2). Der kan med fordel henvises til tilladelsen eller ejers beredskabsplan, hvis beskrivelser heri er fyldestgørende.
+Udover en beskrivelse af selve metoderne er det vigtigt at få beskrevet hvilke kriterier, der gælder for den pågældende metode, før ejer og bruger reagerer.
+Dette kunne f.eks. være en beskrivelse af tolerancegrænsen for trykfald og efterfølgende alarm ved elektronisk overvågning af tryk.
+Eller beskrivelse af hvor ofte og hvor (hvilke punkter på ledningen) den katodiske beskyttelse kontrolleres.
+Endvidere bør usikkerheden ved de valgte metoder fremgå, (hvor stor en fejlmargen er der på målingerne og hvad er konsekvensen), ligesom det bør nævnes, hvor tit evt. elektronisk overvågning funktionstestes.
+ I efterfølgende afrapporteringer kan der, i det omfang der ikke er sket ændringer, refereres til tidligere beskrivelser.
+3) Kontrol og overvågning ved pumpning Ejer eller brugers procedure for kontrol af tryk, åbning og lukning af diverse ventiler m.v. ved anvendelse af pipelinen (pumpning af olie igennem systemet) bør være nedskrevet.
+Dette punkt er som de to foregående også et emne, der kan begrænses til kun at være omfattet af første afrapportering eller begrænses til en henvisning til tilladelsen, såfremt der ikke i rapporteringsperioden er sket ændringer.
+4) Egenkontrol Ejer eller bruger af pipelinen laver en sammenfatning af målinger, afprøvningsresultater, regnskab, journaler, eller dokumentation for funktionsafprøvning i den pågældende periode for afrapporteringen.
+En væsentlig del af afrapportering/redegørelse for kontrol og overvågning af pipelines er selve dokumentationen for at dette er sket, som beskrevet under punkt 2. Typisk vil dette være i form af bilag, hvor måleresultater sammenfattes, så tilsynsmyndigheden hurtigt kan danne sig et overblik.
+ 5) Lækager, driftsforstyrrelser m.v.
+Afrapporteringen af egenkontrollen bør også indeholde ejer eller brugers redegørelse for eventuelle lækager og driftsforstyrrelser, der måtte være sket i afrapporteringsperioden, og hvorledes disse er håndteret.
+Desuden kan der herunder beskrives en plan for håndtering af lækager m.v., evt. med henvisning til beredskabsplan eller tilladelsen til pipelinen.
+ 6) Reparationer m.v.
+Der udarbejdes en redegørelse for udførte samt planlagte større reparationer, og i den forbindelse også en tidsplan for udførelse af disse.
+En større reparation kunne eksempelvis være udskiftning af beskadigede rørstykker.
+4.2 Krav til kontrol af tæthed ved drift Opfyldelse af kravet om kontrol af tæthed (jf. § 35 i olietankbekendtgørelsen) kan belyses ved at stille nedenstående spørgsmål til ejeren og brugeren af en pipeline.
+Dette gøres typisk i forbindelse med tilladelse (se afsnit 3.1.4).
+ Hvordan sikres det, at pipelinen vedbliver at være tæt?  Hvor stor er risikoen for, at der opstår en læk inden for et angivet tidsrum ud i fremtiden?  Hvordan opdages det, hvis pipelinen bliver utæt? Egenkontrollen skal overordnet set tilrettelægges med udgangspunkt i disse spørgsmål.
+I denne sammenhæng er det oftest relevant for tilsynsmyndigheden at vurdere ejer eller brugers hidtidige egenkontrol.
+Forløber den upåklageligt, eller er der svigt? Hvilken sikkerhed er der ved den eksisterende kontrol? Er eksisterende tiltag tilstrækkelige, eller er der behov for stramninger? Det er ikke hensigten, at ejeren eller brugeren af pipelinen skal foretage en kvantitativ risikoanalyse med tilbagevendende detaljerede opdateringer i forbindelse med egenkontrollen.
+Hensigten er, at det f.eks. bliver vurderet, om risikoen for læk er uforandret.
+I den forbindelse konstateres det, om der eksempelvis er sket udvendig beskadigelse, eller om overvågning af indvendig korrosion viser, at der ikke foregår noget.
+Hvis tilstanden er uforandret, er risikoen for læk også uforandret.
+Omvendt hvis der er sket en forandring, må ejer eller bruger redegøre nærmere for den forringelse, der måtte være sket, og hvorfor det evt. måtte være acceptabelt.
+Tilsynsmyndigheden skal foretage en konkret afvejning af den helhed af metoder, som bringes i anvendelse på en given pipeline, i forhold til driftsform og sårbarhed.
+Det kan dog være svært for tilsynsmyndigheden at vurdere, om et givent tiltag giver tilstrækkelig sikkerhed for, at der ikke opstår læk.
+Man kan i nogle tilfælde finde angivelser af fejlsandsynligheder, hvis der f.eks. bygges i henhold til en accepteret standard.
+Ofte vil angivelsen for sandsynlighed for udslip være på 10-3 til 10-5 pr. år.
+Disse tal er dog kun brugbare, hvis man laver en kvantitativ risikoanalyse, hvilket ikke er normal praksis i forbindelse med pipelines.
+Her benyttes typisk kvalitative beskrivelser, hvor den samlede risiko for læk vurderes ud fra en konkret vurdering af risikoen for indvendig korrosion (hvilke produkter har der været igennem ledningen), driftserfaringer vedr. den katodiske beskyttelse (f.eks. antal driftsafbrydelser, strømforbrug, tjek af ensretterstationer, resultater af potentialemålinger fra målepunkter, antal skader påført udefra osv.) og andre eventuelle observationer f.eks. fra intelligent pigging.
+Erfaringsmæssigt skyldes langt hovedparten af lækager i pipelines, at nogen ved et uheld kommer til at beskadige pipelinen.
+Derfor er det ekstra relevant, at ejer eller bruger af en pipeline svarer på spørgsmålet om, hvordan en utæthed opdages, selv om pipelinen er relativt ny, eller generelt må anses for at være i god stand.
+Det er i sagens natur ikke uden problemer at inspicere den indvendige (eller den udvendige for nedgravede) overflade af en pipeline.
+Derfor er det nødvendigt med andre metoder end visuel inspektion til at overvåge overfladen.
+Disse beskrives i de følgende afsnit.
+4.2.1 Trykprøvning med olieprodukt Denne form for trykprøvning bør kun udføres som en endelig dokumentation for tæthed, når man i forvejen bedst muligt har overbevist sig om, at den pågældende pipeline faktisk er tæt og kan bære prøvetrykket.
+Ved trykprøvning med olieprodukt er det særlig vigtig at sikre sig disse ting, idet der ellers vil være stor risiko for, at man skaber en større forurening frem for at forebygge.
+Ved trykprøvning af en gammel pipeline findes trykprøvetrykket ved at gange det ønskede driftstryk med en sikkerhedsfaktor.
+Omvendt må man ikke efter nugældende normer benytte driftstryk, som overstiger seneste trykprøve-tryk divideret med sikkerhedsfaktoren (ofte 1,25). Her vil det være nødvendigt at fremskaffe dokumentation fra etableringen af den pågældende pipeline, så man derved får kendskab til, hvilket tryk, den pågældende pipeline er bygget til at kunne klare, og hvilke sikkerhedsfaktorer der blev benyttet ved den oprindelige konstruktion eller ved senere afprøvninger.
+Hvis hensigten alene er en prøvning af en pipelines tæthed, kan trykprøvningen udføres med et lavere tryk, så risikoen for at fremprovokere en utæthed er mindre.
+Men herved nedsættes også muligheden for at opdage svage steder på ledningen (f.eks. forårsaget af korrosion). Disse kan i værste fald forårsage læk efterfølgende, så der er tale om et kompromis.
+Prøvningen skal nødvendigvis foretages i en periode, hvor det ikke er nødvendigt at transportere produkt gennem rørledningen.
+For pipelines i god stand og kun periodisk anvendelse, er det en meget effektiv dokumentation for tæthed.
+Der skal benyttes trykmålere, som har næsten fuldt udslag for det påtænkte prøvetryk.
+Trykprøvningen bør udføres med så lang prøvetid som praktisk muligt, idet trykprøvens følsomhed øges med prøvetiden.
+Varigheden af prøvningen vil dog ofte være begrænset af behovet for at benytte pipelinen.
+Efter længere tids brug vil der normalt kun være meget lidt luft (tilbage) i pipelinen.
+Dette kan vurderes på samme vis som med en ny pipeline (se 3.5.2). For en nedgravet pipeline vil temperatursvingninger normalt være små pga. jordtildækning.
+Begge forhold gør denne tryk-tæthedsprøve enklere og nemmere at vurdere, end det er muligt med en helt ny pipeline (med mere luft og større temperatursvingninger, idet pipelinen ikke vil være dækket af jord). For nedgravede pipelines i brug kan man således acceptere trykprøver med lavere tryk og kortere varighed i forhold til nye pipelines, der endnu ikke er i brug.
+For yderligere informationer henvises til normen EN14161 Pressure Test.
+Her findes mere udførlige beskrivelser af de generelle principper bag trykprøvning (normen omhandler trykprøvning med vand).
+4.2.2 Computational Pipeline Monitoring, CPM Hvis driften af en pipeline ikke tillader stilstandsperioder af så stor længde, at en pålidelig tryk-tæthedsprøve kan udføres, kan det være nødvendigt med et CPM-system (elektronisk overvågningssystem til pipelines). CPM består af to elementer: Elektronisk sammenligning af flow ind/ud samt elektroniske alarmsystemer for trykfald.
+CPM-systemer findes i mere eller mindre omfattende udgaver.
+Flere tekniske detaljer kan findes i American Petroleum Institute (API) publication 1130.
+Ved sammenligning af flow ind og flow ud bør der ikke være stor forskel.
+Den eventuelle lille forskel skal tillige kunne forklares.
+Desværre vil der typisk være tale om en lille forskel mellem to store tal, og dermed er der stor usikkerhed.
+Præcisionen af et kalibreret flowmeter er i nogle tilfælde under 1 %. En mindre forbedring af usikkerheden kan opnås ved sam-kalibrering af flowmetre monteret i de to ender, men i almindelighed kan en lille lækage ikke opdages på denne måde.
+En stor lækage vil medføre et mærkbart trykfald primært i modtagerenden.
+Som en del af CPM er der automatiske alarmsystemer for dette.
+Der kan imidlertid også være andre årsager til trykfald.
+F.eks. kan pumpen være gået i stå, eller der er åbnet for en yderligere aftapning.
+Disse forhold kan føre til, at alarmen ved en fejl går i gang.
+Med et avanceret CPM vil overvågningsystemet efter indkøring kende både system og konsekvenser af dette, så man undgår fejlalarm.
+Principperne bag CPM er at der er en indlæringsperiode, hvor man går ud fra, at den pågældende pipeline er tæt og her finder man en basislinje for karakteristisk støj i den pågældende pipeline.
+Yderligere benyttes statistiske procedurer for at undgå falske alarmer.
+Uanset væsentlige forbedringer i forhold til den enkle sammenligning af to flowmetre, så er der en nedre grænse for, hvor lille en lækrate der kan opdages.
+Det vil være et relevant krav fra tilsynsmyndighedens side at bede ejeren eller brugeren af pipelinen eller bygherrer om at redegøre for størrelsen af denne detektionsgrænse.
+CPM-systemer er typisk meget effektive over for tredjeparts-skader.
+De vil typisk være relativt store og opstå pludseligt.
+Disse forhold gør det nemmere at opdage, at noget er galt.
+4.2.3 Intelligent Pigging En intelligent pig (intelligent gris) er en form for inspektionsudstyr, der anvendes til at undersøge tilstanden af rørvæggen i en pipeline (se figur 4).
+ Figur 4. Eksempel på en intelligent gris.
+ Grisen sendes ind i pipelinen (og tages ud igen) fra en grisesluse (se figur 5) og drives typisk frem af oliestrømmen.
+ Måleudstyret i grisen kan benytte mange forskellige fysiske måleprincipper f.eks. magnetisering med permanentmagneter, ultralyd, lytning efter støj fra lækager osv.
+Figur 5. Grisesluse til modtagelse af grise.
+Danish Oil Pipe's olierørledning (Filsø).
+Ved etablering af en pipeline bør der stilles krav om, at den pågældende pipeline skal kunne inspiceres med intelligente grise.
+Endvidere vil det være relevant at stille krav om en basis-kørsel relativt hurtigt efter ibrugtagning, idet man da kan gå ud fra, at eventuelle registreringer skyldes forhold fra fremstillingen eller nedlægningen.
+I gunstige tilfælde kan sådanne registreringer spores til journalførte inspektionsresultater fra byggeperioden, så man med sikkerhed kan erklære, at den pågældende registrering allerede er kendt og bedømt som acceptabel.
+Ved ældre pipelines, og herved oftest mangel af basiskørsel eller sporbarhed til inspektionsrapport, kan man være nødt til at reagere på alle registreringer fra grisen.
+F.eks. kunne det være nødvendigt at frigrave det pågældende sted for endelig bedømmelse.
+For nye pipelines med meget tæt ydre belægning og med katodisk beskyttelse forventer man ikke korrosion overhovedet.
+Første inspektion med en intelligent gris kunne eksempelvis ligge 15 år ude i fremtiden, hvis ikke der i mellemtiden er sket beskadigelser, som kunne berettige en (omkostningstung) kørsel med intelligent pigging.
+Erfaringer fra forsvarets NEPS-system viser, at der typisk observeres 3 fejl-/skadestyper ved intelligent pigging: Lamineringsfejl (opstået ved lagdeling af metallet under produktionen af stålrøret), korrosion og buler.
+I ældre pipelines må man forvente mange lamineringsfejl.
+Muligheden for at skelne mellem disse og andre mere alvorlige skader bør indgå i grundlaget for valg af inspektionsteknik.
+I forbindelse med egenkontrol både i forhold til nye og eksisterende pipelines, bør operatøren redegøre for detektionsgrænsen som et minimum under ideelle forhold.
+Altså hvor små huller vil grisen være i stand til at opdage.
+Inspektion med intelligente grise er typisk noget der udføres relativt sjældent.
+Afhængig af risikoen for skader under drift, måske efter 10 eller 20 års drift.
+Typisk bruges instrumentet, hvis man har oplevet en skade, og man ønsker at lokalisere eventuelle lignende skader.
+Oftest anvendes metoden ikke med en fast frekvens.
+Undersøgelsesmetoden kan være besværlig eller umulig i ældre pipelines, der ikke er bygget med henblik på at kunne rumme intelligente grise.
+Skarpe bøjninger og simple afgreninger vil typisk gøre det umuligt med sikkerhed at få en relativt lang gris igennem.
+ Hvis det for ældre pipelines ikke er muligt at udføre intelligent pigging, bør ejer eller bruger redegøre for hvordan der så alternativt kan ske overvågning af evt. korrosion.
+4.2.4 Kontrol af indvendig korrosion For at vurdere risikoen for indvendig korrosion må man først og fremmest gøre sig klart, hvor stor risiko for korrosion de transporterede olier frembyder.
+I denne forbindelse er det primært oliens vandindhold og oliens evne til at fastholde vandindholdet som en fint fordelt dispersion, som er afgørende.
+Vand, som er fint dispergeret, er relativt harmløst, mens opsamling af vandsøer i lokale lavpunkter kan være korrosionsmæssigt kritisk.
+Råolie og uraffinerede planteolier har ofte et betydeligt vandindhold, mens raffinerede mineralolier ofte har et helt uvæsentligt vandindhold (se også afsnit 3.4.1 og 1.4).
+Indersidekorrosion kan detekteres ved intelligent pigging.
+På de strækninger, hvor en pipeline ikke kan undersøges med intelligent pigging, kan man overvåge de tilgængelige (overjordiske) dele af en pipeline ved at benytte ultralyd-scanning af selve rørets vægtykkelse eller tangential røntgenfoto.
+For en nedgravet pipeline vil denne overvågning normalt finde sted på tilgængelige dele i forbindelse med start og slut samt ved eventuelle pumpe- eller ventilstationer undervejs.
+Ejeren bør redegøre for, om disse steder kan anses for at give et realistisk indtryk af forholdene på de steder, som er mest udsat for indvendig korrosion, såsom lokale lavpunkter.
+Undersøgelse af tilgængelige dele af pipelinen vil normalt kun give et meget begrænset billede af rørledningens generelle tilstand.
+Den indvendige korrosion kan være lokalt placeret betinget af specifikke forhold eksempelvis turbulens ved svejsning eller top-  eller bundpunkter på ledningen.
+Det vil være meget heldigt, hvis disse forhold er repræsenteret netop, hvor ledningen er tilgængelig.
+Hyppigheden af intelligent pigging, ultralyds- eller røntgenmålingerne skal afpasses efter den værst tænkelige korrosionshastighed.
+Som udgangspunkt kunne det være årligt for råolie-pipelines og evt. hvert 5. eller 10. år for pipelines, der udelukkende transporterer raffinerede produkter.
+Intervallerne bør justeres (op eller ned), efterhånden som man får erfaring med de aktuelle driftsforhold og evt. i forbindelse med ændringer i driftsforholdene.
+Dertil kommer, at man i forbindelse med konstruktionen af en pipeline kan installere særlige prober, som på forskellig vis kan indikere korrosion på indersiden af pipelinen.
+Der findes mange forskellige typer af prober med lige så forskellige fordele og ulemper.
+Fælles for dem alle er dog, at ingen af dem kan give et fuldstændigt billede af eventuel indvendig korrosion.
+Proberne kan udgøre et nyttigt supplement til den ovenfor nævnte tilstandskontrol med ultralyd eller røntgen.
+Prober kan eftermonteres på en pipeline, men det er et temmelig omfattende arbejde at iværksætte på en pipeline, som allerede er taget i brug.
+Det ligger uden for denne vejledningens område at gå mere i dybden med denne metode.
+4.2.5 Detektorer Udlagte detektorer (langs røret) til overvågning af evt. læk kan være indbygget i den udvendige belægning på rørene.
+Alternativt kan de være separat nedlagt ved siden af pipelinen.
+Detektorerne ændrer egenskaber, hvis de kommer i kontakt med olie, og sætter herved gang i en alarm.
+ For eksisterende pipelines er denne metode typisk ikke så oplagt, idet den kræver opgravning langs hele eller store dele af pipelinens længde.
+4.2.6 Linjevandring En anden form for overvågning fås ved at udføre linievandringer.
+Der er tale om visuel inspektion af pipelinens omgivelser.
+Det tilrådes, at der jævnligt udføres linievandringer, f.eks. en gang årligt, så ændringer m.v. på ruten kan opdages.
+ Ved linievandringer noteres:
+ nedvisning af bevoksning  lugt  byggeaktivitet  gravninger eller plantning af træer og buske i og omkring pipelinen  beskadigede markeringspæle (udskiftes) Alternativt kan man benytte inspektion fra tilgængelige udsigtspunkter som vejkrydsninger eller flyvning langs ruten.
+Dette giver dog mindre sikkerhed for, at ovennævnte forhold opdages.
+4.2.7 Stedvis frigravning For ældre pipelines kan det være relevant at foretage stedvis frigravning.
+Stederne bør udvælges på grundlag af driftserfaringer, observationer fra målinger på katodisk beskyttelse, optegnelser fra byggeperioden og evt. tilgængelig viden om topografi, jordbundsforhold osv., så de repræsenterer de steder, der sandsynligvis er værst påvirket.
+Frigravning udføres typisk, hvis der er usikkerhed omkring en pipelines tilstand, og man ønsker at få dette undersøgt nærmere.
+Det er således ikke oplagt at frigrave efter faste intervaller.
+Metoden anvendes efter behov.
+ Inden for hvert frigravet område bør alle relevante inspektioner foretages så som: Grad af katodisk beskyttelse, tilstand af udvendig overfladebehandling, tilstand af stål i forbindelse med evt. skader på overfladebehandling, måling af ståltykkelse med henblik på at udelukke indvendig korrosion, særlige forhold i forbindelse med svejsninger osv.
+I tillæg til, hvad der direkte kan observeres på en frigravet del af en pipeline, kan der suppleres med long range ultrasound undersøgelse af de dele af pipelinen der er dækket af jord op til hver side af udgravningen.
+Udstyret sender en lydpuls, som udfylder hele rørvæggens tværsnit ind i stålrøret.
+Eventuelle ekkoer registreres.
+Tilstedeværelse af ekkoer kan indikere skader på stålrøret.
+Ud fra tidsrummet fra lydpulsens udsendelse til registreringen af et ekko kan afstanden til den pågældende skade (reflektor) beregnes.
+Fuldstændigt fravær af ekkoer er en indikation af, at rørvæggen er intakt så langt detektionsevnen rækker.
+Rækkevidden kan være 10 meter eller mere ind i den tildækkede del.
+4.2.8 Overvågning af katodisk beskyttelse Overvågning af den katodiske beskyttelse skal først og fremmest dokumentere, at stålet er polariseret til et tilstrækkeligt negativt potentiale, således at der opnås den ønskede korrosionsbeskyttelse.
+Overvågning af katodisk beskyttelse kan desuden give værdifuld information om tilstanden af den udvendige beskyttende belægning.
+Især for nyere pipelines med en tæt belægning af god stand, kræver den katodiske beskyttelse kun meget lidt strøm.
+Såfremt man registrerer, at der skal bruges mere og mere strøm fra enretterstationerne for at opretholde den nødvendige polarisation af stålet, så er dette en indikation af, at der er sket skader på belægningen.
+Det kunne eksempelvis være en skade påført af tredjepart (f.eks. ved gravning), som ikke førte til øjeblikkelig læk.
+I en sådan situation vil det være hensigtsmæssigt straks at få foretaget en reparation.
+Ældre pipelines er ofte udført med en mindre tæt belægning, hvormed hele systemet til katodisk beskyttelse tilsvarende er indrettet til at levere mere strøm.
+I den situation kan en mindre skade på belægningen ikke opdages ved hjælp af den katodiske beskyttelse, idet baggrunds-strømmen er for stor.
+I denne forbindelse er det værd at nævne, at det er vigtigt, at der ved reparationer af pipelines eller tilslutning til allerede eksisterende pipelines påføres en belægning, som kan fungere sammen med den der allerede er installeret.
+Dette er særlig vigtigt i forbindelse med ældre pipelines, som ofte er udført med en udvendig bitumenbelægning (som regel med en armering af væv og med en tykkelse på 5 mm eller mere).
+Målinger i marken kan foretages ved en forholdsvis simpel men tidskrævende metode.
+Ved en skade på en katodisk beskyttet pipelines belægning løber der en elektrisk strøm ud i jorden fra det negative rør.
+Man måler da den elektriske spændingsforskel mellem 2 jordspyd anbragt med fast indbyrdes afstand og ensartet dybde vinkelret på pipelinen (spydene holdes i hver sin hånd med udstrakte arme). Den målte spændingsforskel varierer afhængig af placeringen af jordspydene i forhold til belægningsskaden.
+Ved at flytte spyddene langs pipelinen kan man afpatruljere strækningen for evt. spændingsudslag.
+ Andre strømfelter og uensartet jordbund kan forvirre og sløre målingerne.
+Hvis der er tale om længere strækninger af pipelines vil det være hensigtsmæssigt at kontrollere, om ensretterstationerne fungerer efter hensigten.
+Ensretterstationerne kan kontrolleres i forbindelse med f.eks. rutinemæssige linievandringer (se afsnit 4.2.6).
+ Derudover kan man også afsætte målepunkter med nogle kilometers afstand langs pipelinen, hvorved man kan undersøge, om det nødvendige potentiale mellem olieledning og den omgivende jord opretholdes.
+Hvad angår frekvens, anbefales det at normen EN 12954 følges.
+Tilsynsfrekvens i normen er af en størrelsesorden, så tilsynet med ensretterstationer normalt kan udføres i forbindelse med rutine-mæssige linjeinspektioner.
+Normen foreskriver bl.a.:
+  ensretterstationer tilses mindst hver 3. måned.
+  målepunkter: Et udvalg på ca. 1/3 af punkterne udmåles hvert år, således at alle punkter måles i en tre-årig cyklus.
+  eventuelle drænforbindelser for vagabonderende strømme (strøm der kommer fra og løber til andre konstruktioner end pipelinen) tilses mindst hver måned.
+  andre forbindelser tilses mindst hvert år.
+Såfremt disse tilsyn antyder ustabil drift eller varierende forhold, bør tilsynsintervallerne være kortere.
+Interval-længden kan sættes op, hvis det efter et antal tilsyn kan dokumenteres, at der er stabil drift.
+4.2.9 Vandanalyser I områder med veldefineret afstrømning kan forekomst af olie i vandløb nedstrøms indikere en ikke opdaget læk på rørledningen.
+Man skal dog være opmærksom på risikoen for, at kontrollen forstyrres af andre kilder, der kan bidrage med olie til vandløbet.
+Metoden giver desværre en alt for sen melding og indebærer en risiko for betydelig forurening.
+Denne metode bør derfor ikke stå alene.
+Endvidere bør man nøje overveje prisen i forhold til effekten.
+4.2.10 Forebyggelse af skader påført af tredjepart Eftersom tredjeparts-skader udgør så stor en del af de oplevede skader, er det vigtigt at forebygge dem.
+ Dette kan opnås ved kombinationer af:
+ markering af den pågældende pipeline i terrænet,  gentagne orienteringer til grundejerne om pipelinens eksistens og beliggenhed,  opfordringer til grundejere om at anmelde, hvis der tilsyneladende foregår uautoriseret gravning,  sikring af, at oplysninger om beliggenheden af en pipeline fremgår af det centrale ledningsregister, LER (se afsnit 3.1.3),  linjevandringer (se 4.2.6).
+ Ved registrering af en pipelines beliggenhed i LER er der større sandsynlighed for, at der ved kommunens udstedelse af f.eks. byggetilladelser eller gravetilladelser tages hensyn til pipelinen.
+Det vigtige ved at markere en pipeline i terrænet underbygges af forsvarets erfaringer med NEPS-systemet.
+Erfaringerne viser, at efter pipelinen i 1991 er markeret i terrænet med orange markeringspæle, er det meget sjældnere at pipelinen beskadiges i forhold til før /13/.
+4.3 Sløjfning af pipelines I § 23 i olietankbekendtgørelsen, stilles krav om at en pipeline sløjfes, såfremt brugen af denne varigt ophører.
+Tidspunkt og fremgangsmåden for sløjfningen skal meddeles tilsynsmyndigheden senest 4 uger, før arbejdet påbegyndes.
+Omvendt skal tilsynsmyndigheden senest en uge før sløjfningen meddele eventuelle krav hertil.
+Ejer eller bruger kan med fordel fremsende oplysninger om tidspunkt og fremgangsmåde til tilsynsmyndigheden tidligere end 4 uger før sløjfningen.
+Herved kan tilsynsmyndighedens sagsbehandling fremrykkes, så eventuelle myndighedskrav kan stilles tidligere end ugen før sløjfningen.
+ Senest 4 uger efter sløjfningen skal tilsynsmyndigheden have besked om de trufne foranstaltninger.
+En pipeline kan godt være midlertidigt ude af brug, hvis den ikke anvendes til transport at mineralolieprodukter.
+I sådanne tilfælde skal vedligeholdelse, kontrol og overvågning af pipelinene fortsætte i samme omfang, som var den i brug.
+5 Beredskab ved uheld Indledningsvis gennemgås de væsentligste elementer fra lovgivning om beredskab m.v. i relation til pipelines.
+Dernæst gives et forslag til, hvad en beredskabsplan for pipelines kan indeholde.
+Endelig gennemgås de særlige forhold omkring pumpestationer.
+Det ligger uden for denne vejlednings rammer at uddybe dette store emne yderligere.
+For flere detaljer henvises til Vejledning for redningsberedskabets indsats ved akutte uheld med farlige stoffer på landjorden m.v. /14/, beredskabsloven /15/ og bekendtgørelse om risikobaseret kommunalt redningsberedskab /16/.
+5.1 Lovgivningskrav ved lækager Helt generelt skal ejer eller bruger, eller hvem der måtte opdage et læk fra en pipeline, foretage en anmeldelse til alarmcentralen på 112.
+ Ifølge § 12 i beredskabsloven /15/ skal det kommunale redningsberedskab kunne yde en forsvarlig indsats mod skader på bl.a. miljøet ved ulykker og katastrofer.
+Kommunalbestyrelsen skal sørge for varetagelsen af den tekniske ledelse af indsatsen på skadestedet, jf. § 1, stk. 2, i bekendtgørelsen om risikobaseret kommunalt redningsberedskab /16/. Den samlede indsats ved akutte uheld med farlige stoffer, herunder læk fra en pipeline, koordineres af politimesteren ligesom ved andre større skader.
+Af samme bekendtgørelses § 9 fremgår det, at indsatslederen skal tilkalde assistance fra andre beredskaber, f.eks. det statslige regionale redningsberedskab, hvis det skønnes påkrævet på grund af ulykkens karakter og omfang.
+ I olietankbekendtgørelsens § 37 fremgår følgende pligter relateret til lækager:
+ ejer eller bruger skal straks underrette tilsynsmyndigheden, hvis der konstateres en utæthed eller, hvis der er begrundet mistanke om en sådan,  brugeren skal underrette ejeren om ovenstående, såfremt brugeren er en anden end ejeren,  bruger eller ejer skal straks træffe foranstaltninger, der kan bringe en eventuel udstrømning til ophør, f.eks. ved tømning af anlægget.
+I § 37, stk. 1 og 3, er der også et krav relateret til lækager.
+Heraf følger det at:
+ ejer eller bruger straks skal træffe forholdsregler, der forhindrer yderligere udslip fra pipelinen, såfremt det ved en tæthedsprøvning eller på anden måde måtte vise sig, at en pipeline er utæt,  ejer eller bruger skal skaffe dokumentation for, at pipelines der sløjfes, repareres eller renoveres som følge af en konstateret utæthed, ikke har forårsaget forurening.
+Tilsynsmyndigheden skal samtidig underrettes om sløjfningen.
+ Ud over at alarmere det kommunale redningsberedskab har ejer eller bruger således også pligt til at informere tilsynsmyndigheden, hvis der konstateres utætheder eller, hvis der er en begrundet mistanke om en sådan.
+Før eventuelle lækager sker, er det vigtigt, at tilsynsmyndigheden og ejeren eller brugeren af en pipeline sikrer sig, at det kommunale redningsberedskab er klar over, at der er en pipeline på det pågældende sted.
+Det anbefales, at eventuelle uheld med pipelines indgår i den kommunale beredskabsplan.
+Der kan i øvrigt henvises til bekendtgørelse om brandfarlige og brændbare væsker /20/, som har følgende ordlyd: Transport af brandfarlige væsker af klasse I-1, I-2, II-1 og III-1 i rørledninger på offentligt areal må kun ske med kommunalbestyrelsens godkendelse og på de vilkår, som kommunalbestyrelsen fastsætter.
+Sådanne transporter gennem flere kommuner må kun ske på vilkår fastsat af Beredskabsstyrelsen.  Endelig anbefales det, at tilsynsmyndigheden har indsigt i de kommunale beredskabsplaner og gør kommunen opmærksom på, hvis tilsynsmyndigheden mener, at risikovurderingen er alt for optimistisk, eller at beredskabet er utilstrækkeligt til at håndtere en realistisk størrelse af lækage.
+5.2 Beredskabsplan for pipelines For at opfylde ovenstående lovkrav kan det anbefales, at ejeren eller brugeren af en pipeline har deres egen beredskabsplan for uheld.
+Indholdet bør være en praktisk guide til, hvem der skal kontaktes, og hvordan man helt konkret kan mindske evt. forurening.
+Følgende punkter kan indgå:
+1) adresser og telefonnumre på relevante myndigheder, 2) hvordan begrænses og inddæmmes forureningen til det mindst mulige, 3) hvordan fjernes forureningen hurtigst muligt, 4) hvorfra mobiliseres udstyr i omfang, som er passende til skadens størrelse.
+Ad 1. Ejeren eller brugeren af pipelinen bør lave en prioriteret liste over, hvem der straks skal orienteres og hvem, der evt. kan eller skal orienteres senere.
+Første opkald skal altid være til 112.
+Ifølge § 37, stk. 2 i olietankbekendtgørelsen skal også tilsynsmyndigheden kontaktes straks, hvis der konstateres en utæthed, eller hvis der er mistanke om en sådan.
+For pipelines, jf. § 1, stk. 2, i olietankbekendtgørelsen, er Miljøstyrelsen tilsynsmyndighed, mens andre pipelines er underlagt kommunalt tilsyn.
+Telefon nummer og adresse på redningsberedskab og tilsynsmyndighed bør tydeligt fremgå af beredskabsplanen.
+Herudover kan det være relevant at have telefonnummer på embedslæge, almene vandforsyningsanlæg, renseanlæg, konsulentfirmaer (jordforurening) og lokale entreprenører m.v.
+ Endelig bør ejeren eller brugeren af pipelines i situationer, hvor der opstår lækager, også være opmærksom på at orientere eventuelle grundejere.
+Ad. 2. Dette punkt handler om at få stoppet oliestrømmen hurtigst muligt, så forureningen begrænses.
+Herefter skal forureningen begrænses i videst muligt omfang.
+Det er ejer eller brugers ansvar at begrænse et evt. udslip af olie, jf. § 37, stk. 1, i olietankbekendtgørelsen.
+Ejer eller bruger skal, f.eks. i deres egen beredskabsplan, have overvejet de indledende skridt til at bringe en nødsituation under kontrol.
+Dvs., der skal ligge en plan for, hvorledes der rent praktisk skal ageres, hvis der opstår en nødsituation.
+Eksempelvis kan det være en henvisning til, hvor udstyr til at afproppe en pipeline forefindes eller kort over samtlige ventiler og procedurer for, hvornår og hvordan disse ventiler lukkes.
+Når kilden er stoppet, gælder det om at begrænse forureningens omfang.
+Dvs. olieproduktet skal forhindres i at brede sig både horisontalt og vertikalt, f.eks. ved udlægning af barrierer, både på land og ved nærliggende recipienter.
+I praksis vil en hurtig bortgravning af forureningens hot-spot kunne reducere forureningens omfang og omkostningerne til oprydning.
+Ad 3 og 4. Det kan også fremgå af brugers eller ejers beredskabsplan, hvordan forureningen hurtigst muligt fjernes og hvorfra, der kan mobiliseres udstyr i omfang, som er passende til skadens størrelse.
+Typisk kan disse opgaver også ligge i myndighedernes regi.
+F.eks. er det for Danish Oil Pipe pipelinen tidligere aftalt med Vejle Amt og Ribe Amt (nu Region Syddanmark), at de varetager disse opgaver.
+Som minimum bør det fremgå af brugeres eller ejers beredskabsplan, hvem der varetager disse opgaver.
+5.3 Risiko for lækager eller brand på pumpestationer Helt generelt bør man være opmærksom på, at flangesamlinger, pakdåser i pumper og ventiler, hydraulikudstyr til at operere ventiler osv. gør, at en pumpestation frembyder væsentligt større risiko for udslip og dermed forurening end den løbende længde af en pipeline i god stand.
+Forureninger fra pumpestationer kan forebygges ved f.eks. at etablere et tæt betonbassin under pumpestationen med fald og afløb til olieudskiller og, med olieafløb til en tank af passende rumfang.
+Eventuelt kan olieudskilleren undlades, hvis der etableres et halvtag over pumpestationen, så mængden af opsamlet vand i olieafløbet minimeres.
+Alt spild ledes således direkte til tank.
+Til brug ved lækager eller brand på pumpestationer, bør man have en ventil, som kan lukke for indgangen til pumpestationen.
+Herved undgås, at olie fortsat efter et uheld løber til pumpestationen pga. tryk fra opstrøms beliggende pumpestation.
+Ventilen bør være en type, som skal holdes åben med en aktuator, som ved hjælp af en fjeder selv lukker, hvis kraftforsyning til aktuatoren forsvinder (Fail Closed). Ved valg af en automatisk lukkende ventil skal risikoen for, at en ventil lukker utilsigtet under en pumpning med resulterende alvorlig trykstød, vurderes.
+I tilknytning til en lukkeventil kan der etablere et by-pass, der i kritiske situationer kan lede olien uden om pumpestationen, hvis driften ikke tillader lukning for olien.
+Sidstnævnte har f.eks.
+Danish Oil Pipe benyttet sig af.
+Ejeren eller brugeren bør i sådanne tilfælde redegøre for, hvorledes man alternativt vil minimere et evt. læk.
+ Vælges der ikke en ventil bør man alternativt indrette anlægget, så der ikke kan forekomme brand i nærheden af ventilen (intet brændbart materiale til stede, flammeskærm osv.).
+6 Referencer /1/ Bekendtgørelse nr.
+XXX af XX. december 2019 om indretning, etablering og drift af olietanke, rørsystemer og pipelines (olietankbekendtgørelse).
+ /2/ Bekendtgørelse nr. 1641 af 13. december 2006 om indretning, etablering og drift af olietanke, rørsystemer og pipelines.
+ /3/ Bekendtgørelse nr. 1317 af 20. november 2018 om godkendelse af listevirksomhed (godkendelsesbekendtgørelsen).
+/4/ Bekendtgørelse af lov om miljøbeskyttelse, jf. lovbekendtgørelse nr. 241 af 13. marts 2019. (Miljøbeskyttelsesloven) /5/ Bekendtgørelse nr. 99 af 31. januar 2007 om indretning, ombygning og reparation af trykbærende udstyr.
+ /6/ Bekendtgørelse nr. 480 af 25. maj 2016 om indretning m.v. af trykbærende udstyr.
+ /7/ Direktivet om harmonisering af medlemsstaternes lovgivning om tilgængeliggørelse på markedet af trykbærende udstyr. 2014/68/EU  15. maj 2014.
+ /8/ Bekendtgørelse nr. 372 af 25.  april 2016 om kontrol med risikoen for større uheld med farlige stoffer.
+ /9/ Bekendtgørelse af lov om forurenet jord, jf. lovbekendtgørelse nr. 282 af 27. marts 2017.
+ /10/ Bekendtgørelse af lov om registrering af ledningsejere, jf. lovbekendtgørelse nr. 206 af 15. marts 2018.
+ /11/ Bekendtgørelse nr. 121 af 4. februar 2019 om samordning af miljøvurderinger og digital selvbetjening m.v. for planer, programmer og konkrete projekter omfattet af lov om miljøvurdering af planer og programmer og af konkrete projekter (VVM).
+ /12/ Vejledning om miljøtilsyn med industrivirksomheder, vejledning fra Miljøstyrelsen nr. 6, 2006.
+ /13/ Teknisk beskrivelse samt kontrol og overvågning af NEPS, Driftsrapport 2004 og 2005, maj 2006.
+/14/ Vejledning for redningsberedskabets indsats ved akutte uheld med farlige stoffer på landjorden m.v.
+Beredskabsstyrelsens vejledning nr. 35 af 27. marts 2003.
+ /15/ Bekendtgørelse af beredskabsloven, jf. lovbekendtgørelsen nr. 314 af 3. april 2017.
+ /16/ Bekendtgørelse nr. 765 af 3. august 2005 om risikobaseret kommunalt redningsberedskab.
+ /17/ Bekendtgørelse nr. 100 af 31. januar 2007 om anvendelse af trykbærende udstyr.
+ /18/ Bekendtgørelse nr. 612 af 25. juni 2008 om indretning af tekniske hjælpemidler.
+ /19/ Bekendtgørelse nr. 1109 af 15. december 1992 om anvendelse af tekniske hjælpemidler.
+ /20/ Bekendtgørelse nr. 1639 af 6. december 2016 om brandfarlige og brændbare væsker.
+Miljø- og Fødevareministeriet, den 17. marts 2020 Anne Elizabeth Kamstrup / Bilag A Konstruktionskrav En pipeline bør konstrueres og fremstilles i overensstemmelse med de tekniske krav efter bekendtgørelse om indretning m.v. af trykbærende udstyr /5/ (eller tilsvarende krav), dog således at bestemmelserne om CE-mærkning ikke finder anvendelse.
+Konstruktionsmæssige og sikkerhedsmæssige krav samt valg af kontrolklasse skal ske ifølge diagram 6.
+ Endvidere bør normen EN 14161 følges, med mindre virksomheden har et godkendt kvalitetsstyringssystem, der gør det muligt at udføre egenkontrol på dele af arbejdet.
+ Nedenfor ses en liste over foreslåede konstruktionskrav.
+Miljøstyrelsen anbefaler at kravene indgår i en erklæring som en uafhængig tredje part står inde for.
+Erklæringen skal forstås som en overordnet frigørelsesattest, der bekræfter følgende:
+1. Alle dele er udført i overensstemmelse med de overordnede normer og de detaljerede tekniske specifikationer, 2. At design er udført i overensstemmelse med internationalt anerkendte normer og med hensyntagen til DS/CEN/TR 14549:2004, 3. At materialer er i overensstemmelse med det specificerede, 4. At overfladebehandling med meget høj beskyttelsesgrad er specificeret, 5. At overfladebehandlingen er udført og kontrolleret og godkendt, 6. At svejsninger er overfladebehandlet og checket og godkendt, 7. At nedlægning er sket i overensstemmelse med specifikationer, 8. At der er udført tryk-tæthedsprøve og at denne er godkendt, 9. At tildækning er udført med de i normen under punkt 2 nævnte materialer og på den måde der tillige er foreskrevet i normen, 10. At der er specificeret et anlæg til katodisk beskyttelse, som er konstrueret i overensstemmelse med anerkendte principper og som er korrekt installeret.

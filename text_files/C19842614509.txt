@@ -1,0 +1,311 @@
+1. Almindeligt Abonnentudstyret (i det følgende betegnet AU) kan være indrettet for  
+
+ tilslutning til det offentlige alarmsystem via alarmterminal med asynkront  
+
+ parallelinterface.
+Tilslutningen foretages via en i AU indbygget alarmterminal (ATIA), der  
+
+ består af 2 kredsløbskort monteret på en opspændingsplade.
+ATIA strømforsynes  
+
+ fra udstyrets almindelige strømforsyningsarrangement, som forudsættes at  
+
+ indbefatte reservestrømforsyning.
+ATIA har 8 uafhængige alarmindgange og 8 styreudgange.
+Der overføres en  
+
+ melding, hver gang en alarmindgang påvirkes.
+Udvekslingen af alarmer og styringer mellem ATIA og AU foregår asynkront,  
+
+ dvs. der udveksles ikke handshakesignaler.
+ATIA genererer dog  
+
+ kvitteringssignaler, som AU kan anvende.
+Disse signalers funktion indgår i  
+
+ den følgende beskrivelse, men det skal pointeres, at AU ikke behøver at gøre  
+
+ brug af signalerne.
+ Mellem det privatejede udstyr og den del af installationen/udstyret, der  
+
+ leveres og vedligeholdes af teleadministrationerne, er der en grænseflade som  
+
+ angivet i fig. 1.
+ Fysisk består denne grænseflade af en 36 terminals klemrække.
+ Heraf anvendes de 21 i forbindelse med kommunikation mellem ATIA og AU og  
+
+ udgør det grænsesnit, der i det følgende betegnes ASIF.
+ Desuden forekommer to andre grænsesnit, nemlig grænsesnittet LINIF  
+
+ (linieinterface) omfattende 4 terminaler samt grænsesnittet DCIF  
+
+ (strømforsyningsinterface) omfattende 6 terminaler.
+ Til AU stilles det generelle krav, at udstyret er konstrueret til at  
+
+ kommunikere over grænsesnittet ASIF, dvs. kan udføre de for kommunikation  
+
+ nødvendige minimumsfunktioner, der er beskrevet i det følgende, og da med  
+
+ overholdelse af de parameterværdier, som er angivet i dette cirkulære.
+ Der stilles endvidere det krav til AU, at det er konstrueret til at  
+
+ overholde parameterværdierne for DCIF.
+2. Funktionsbeskrivelse 2.1 Grænsesnittet ASIF Grænsesnittet ASIF består af 21 ledere (se fig. 1). Lederne, der benævnes  
+
+ ved det signal, de overfører, benyttes således:
+STK (STyreKanaler) STK består af 8 ledere STK0..7 . På disse ledere står den styring (8 bit  
+
+ information), der sidst er modtaget fra alarmsystemet.
+De opsatte data er  
+
+ gyldige, når ATDA er logisk 1. Efter opstart er STK logisk 0.
+ALK (ALarmKanaler) ALK består af 8 ledere ALK0..7 . På disse ledere påtrykker AU den 8 bit information, der skal sendes til alarmsystemet.
+ATSE (ATIA SEnder) På denne leder genereres et signal af ATIA.
+Signalet fortæller, at ATIA er  
+
+ ved at sende en alarmmeddelelse til alarmsystemet.
+ATDA (ATIA DAta ready) Dette signal genereres af ATIA, og det fortæller AU med logisk 1, at den 8  
+
+ bit information, der findes på STK, kan anvendes.
+ATDA sætter til logisk 0,  
+
+ medens data ændres.
+ Efter start af ATIA, og indtil første styring modtages, er ATDA = 0.
+ATOK (ATIA OK) Signalet genereres af ATIA og anvendes til at fortælle, om kommunikationen  
+
+ med selve alarmsystemet er i orden.
+Signalet har prioritet over de øvrige  
+
+ signaler fra ATIA, og hvis ATOK = 0, må ingen af de andre signaler fra ATIA  
+
+ betragtes som gyldige.
+ Umiddelbart efter opstart af ATIA er ATOK = 0.
+AUOK (AU OK) På denne leder kan AU påtrykke et signal, som viser AU's tilstand.  
+
+ Signalet skal være 1, når AU fungerer korrekt.
+Hvis der i AU optræder en  
+
+ fejl, kan AU sætte AUOK = 0. Signalet har prioritet over de øvrige signaler  
+
+ fra AU, og hvis det indikerer, at AU er fejlbehæftet, vil ingen af de andre  
+
+ signaler fra AU blive betragtet som gyldige.
+ Er AU ikke i stand til at levere signalet, skal terminalen på ATIA  
+
+ forbindes til V+.
+CR (Common Return) Denne leder er fælles returleder for alle signaler.
+ I tabellen herunder er betydningen af de ovennævnte signaler angivet.
+2.2 Kommunikation over AISF De informationsoverførsler, der kan forekomme over ASIF, kan henføres til  
+
+ følgende 3 typer:
+ - Meddelelse om fejlbehæftet udstyr.
+ - Overførsel af styreinformation fra ATIA til AU.
+ - Overførsel af alarminformation fra AU til ATIA.
+2.1.1. Meddelelse om fejlbehæftet udstyr Meddelelse om fejl i AU og ATIA sker ved hjælp af signalerne AUOK og ATOK.
+ Disse signaler, der fungerer uafhængigt af hinanden og af andre signaler,  
+
+ er omtalt i afsnit 2.1. Som nævnt er brug af AUOK ikke obligatorisk.
+2.2.2 Overførsel af styreinformation fra ATIA til AU Overførslen af styreinformation fra ATIA til AU er vist på fig. 2. Der  
+
+ overføres 8 bit ad gangen, og de kredsløb, der er i brug ved overførslen, er  
+
+ STK0..7 og ATDA.
+ De anførte tider er defineret i afsnit 3.2.
+ATIA sætter ATDA = 0, hvorefter ny information opsættes på STK.
+Data  
+
+ kontrolleres, forinden ATDA sættes = 1. Data på STK er gyldige, så længe ATDA  
+
+ = 1, hvilket vil sige, indtil der udlæses ny information.
+ ATIA foretager ingen kontrol af, om AU har været i stand til at opfatte og  
+
+ fastholde de oversendte data.
+2.2.3 Overførsel af alarminformation fra AU til ATIA Ved overføring af alarmer fra AU til ATIA anvendes kredsløbene ALK0..7  
+
+ samt evt.
+ATSE.
+ ATIA foretager løbende en individuel vurdering af signaltilstanden på de 8  
+
+ alarmkanaler ALK0..7 ved at sample med 200 ms interval.
+Der reageres ikke på signaler, som varer kortere end 200 ms, hvorimod  
+
+ signaler længere end 400 ms altid behandles.
+Signaler, som varer mellem 200  
+
+ og 400 ms, behandles måske.
+Skifter en eller flere kanaler tilstand i mere end 400 ms, sættes der en  
+
+ alarmbyte ind i en alarmtransmissionskø i ATIA.
+Alarmbyten består af 8 bit,  
+
+ som afspejler den »stabile« tilstand på ALK0..7 .
+Alarmtransmissionskøen kan indeholde i alt 14 alarmbyte, hvilket betyder,  
+
+ at alarmer i en kortere periode kan afleveres hurtigere til ATIA, end de kan  
+
+ videresendes.
+Overfyldning af køen vil betyde tab af informationer, hvilket  
+
+ indikeres ved afsendelse af en status-meddelelse med bit 5 lig 1 (bemærk, at  
+
+ bit 5 lig 1 i dette tilfælde ikke angiver fejl i handshake mellem AT og AU).  
+
+ Denne fejlmulighed kan helt elimineres, hvis AU anvender kvitteringssignalet  
+
+ ATSE fra ATIA til at holde efterfølgende alarmer tilbage, medens den første  
+
+ sendes.
+Herved opnås, at AU har fuld kontrol over køen, og man får mulighed  
+
+ for at bryde rækkefølgen, hvis det måtte være ønskeligt.
+ ATSE sættes til logisk 1, så længe en alarmbyte transmitteres ind i  
+
+ alarmsystemet, hvorefter ATSE igen sættes til logisk 0.
+ ATSE kan anvendes som en slags klokke til AU'er, som kun kan sætte en  
+
+ alarmkanal op ad gangen.
+ Et eksempel på alarmoverførsel er vist på fig. 3.
+ t = 0 ATIA sampler ALK0...7, der alle er logisk 0.
+ t = 1 AU sætter ALK0 og ALK1 til logisk 1.
+ t = 2 ATIA sampler alarmkanalerne og detekterer, at ALK0 og ALK1 er logisk  
+
+ 1.
+ t = 3 AU sætter ALK1 til logisk 0.
+t = 4 ATIA sampler alarmkanalerne og erkender, at ALK0 stabilt har været  
+
+ logisk 1 i over 200 ms.
+Der sættes en alarmbyte, hvor bit 0 er 1, i kø til  
+
+ transmission.
+ t = 5 Alarmbyten transmitteres, og ATSE sættes til logisk 1.
+ t = 6 AU sætter ALK1 til logisk 1.
+ t = 7 Alarmkanalerne samples, og ATIA detekterer, at ALK1 er ændret til  
+
+ logisk 1.
+t = 8 Alarmkanalerne samples, og ATIA erkender, at ALK1 har været logisk 1  
+
+ i over 200 ms.
+Der sættes en ny alarmbyte i kø til transmission. (ATSE er  
+
+ logisk 1, dvs. foregående byte er ikke afleveret endnu).
+ t = 9 Alarmbyte 1 er afleveret til alarmsystemet, hvorefter ATSE sættes  
+
+ til logisk 0.
+ t = 1O Transmission af næste alarmbyte påbegyndes, og ATSE sættes til  
+
+ logisk 1.
+3. Parametre for ASIF 3.1 Elektriske parametre 3.1.1 Definitioner Spænding på samtlige ledere er defineret i forhold til fælleslederen CR  
+
+ som vist på fig. 4.
+ De logiske niveauer er defineret således:
+Logisk 1 svarer til høj spænding Logisk 0 svarer til lav spænding Den maksimale kabellængde for ASIF er bestemt af de elektromagnetiske  
+
+ støjforhold på installationsstedet, kablets skærmning samt kablets kapacitet.
+3.1.2 Beskrivelse af parametre for STK, ATSE, ATDA og ATOK U1,0 : Spændingen på udgangen ved logisk 0.
+ U1,1 : Spændingen på udgangen ved logisk 1.
+ R1,1 : Den indre modstand i udgangskredsløbene.
+3.1.3 Beskrivelse af parametre for ALK og AUOK U2,1 : Den spænding, der kræves for, at ATIA opfatter signalet som logisk  
+
+ 1.
+ U2,0 : Den spænding, der kræves for, at ATIA opfatter signalet som logisk  
+
+ 0.
+ R2,1 : Den indre modstand i indgangskredsløbene.
+3.2 Tidsparametre tDNV : Den tid, ATDA er logisk 0, og hvorunder data på STK ændres og  
+
+ testes.
+ tDVA : Den tid, AU må betragte data på STK som korrekte, indtil ATDA  
+
+ bliver logisk 0.
+ tREJ : Den tid, et signal højst må vare for med sikkerhed at blive afvist.
+ tACC : Den tid, et signal mindst skal vare for med sikkerhed at blive  
+
+ behandlet.
+ tAFL : Den tid, der går, fra et signal skifter værdi, til en alarmbyte  
+
+ transmitteres.
+ tSE : Tiden, hvor ATSE er logisk 1.
+ tNSE : Tiden, hvor ATSE er logisk 0.
+3.3 Krav til parametre I tabellen herunder er kravene til de ovenfor beskrevne parametre angivet.
+4. Ekstern Test Ekstern Test anvendes af VC til at hente information om tilstanden på ALK  
+
+ og STK.
+Samtalen foregår mellem VC og ATIA uden AU's medvirken.
+Er bit 0 i  
+
+ testbyten lig 0, besvares Ekstern Test ved, at ATIA indlæser øjebliksværdien  
+
+ af ALK og sender denne som svar.
+Er bit 0 i testbyten lig 1, indlæses STK og  
+
+ sendes som svar.
+5. Liniealarm Modtager ATIA ikke brugbare meddelelser fra alarmsystemet inden for  
+
+ timeout-tiden på ca. 9 sek., sættes ATOK til logisk 0 for over for AU at  
+
+ indikere, at forbindelsen til alarmsystemet er væk.
+Fejlen kan skyldes, at  
+
+ telefonlinien er afbrudt f.eks. ved sabotage, eller at  
+
+ transmissionsforholdene er så dårlige, at forbindelsen må betragtes som ikke  
+
+ eksisterende.
+6. Indbygning af alarmterminal ATIA i AU 6.1 Alment Som vist i fig. 5 består ATIA af et kredsløbskort i form af et dobbelt  
+
+ europakort, et konnektorkort og en opspændingsplade.
+ Grænsefladen mellem ATIA og AU henholdsvis telefoninstallationen er fysisk  
+
+ de 3 klemrækker monteret på konnektorkortet.
+ De i klemrækkerne benyttede forbindelser omfatter som vist i fig. 1 de 3  
+
+ grænsesnit ASIF, DCIF og LINIF.
+ Kravene for benyttelse af grænsesnittet ASIF er behandlet i det  
+
+ foregående.
+ Kravene for benyttelsen af de 2 øvrige grænsesnit følger i afsnit 6.2 og  
+
+ 6.3.
+6.2 Grænsesnittet DCIF DCIF er det grænsesnit, hvorover der føres forsyningsspænding og  
+
+ statussignaler herfor fra AU til ATIA.
+ Det omfatter terminalerne OV, V+, ACO og BAO (jf. fig. 1).
+ Forsyningsspændingen tilsluttes terminalerne OV og V+, og kravene til  
+
+ strømforsyning er følgende:
+ Terminalen AC0 benyttes for signalering om AU's primærforsyning fra  
+
+ stærkstrømsnettet.
+ Ved bortfald af primærforsyningen skal signalet på AC0 ændre sig fra  
+
+ logisk 1 til logisk 0, idet den nærmere signalspecifikation er givet i  
+
+ tabellen over parameterværdier herunder.
+ Terminalen BAO benyttes for signalering om den i AU indbyggede  
+
+ akkumulators tilstand.
+Falder akkumulatorspændingen under specificeret grænseværdi, skal signalet  
+
+ på BAO ændre sig fra logisk 1 til logisk 0. For at spare strøm kan BAO i  
+
+ stedet for logisk 1 påtrykkes en impulsfølge, hvor BAO er logisk 1 i tiden t1 BAO og logisk 0 i tiden t2 BAO.
+ Er AU ikke i stand til at levere ACO og/eller BAO, skal den/de pågældende  
+
+ terminaler forbindes til V+.
+6.2.1 Parameterværdier for DCIF 6.3 Grænsesnittet LINIF LINIF er det grænsesnit, hvorover telefonlinien føres ind i og ud af ATIA.
+ Det omfatter terminalerne LIN 1 og LIN 2, der skal tilsluttes  
+
+ telefonlinien, som kommer fra centralen, og terminalerne INST 1 og INST 2,  
+
+ som skal tilsluttes den øvrige telefoninstallation.
+ Til benyttelsen af dette grænsesnit stilles det krav, at de 4 modsvarende  
+
+ klemterminaler på ATIA bliver direkte forbundet med en 4-leder bevægelig  
+
+ ledning med 5-polet stikprop, hvormed ATIA forbindes til  
+
+ telefoninstallationens 5-polede stikdåse, og at der som ledning vælges en  
+
+ type, der er godkendt af teleadministrationerne til anvendelse for  
+
+ telefonapparater.

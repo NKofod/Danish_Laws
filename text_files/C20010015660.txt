@@ -1,0 +1,109 @@
+Vejledning om sikker internet kommunikation  
+
+ i  
+
+ arbejdsløshedsforsikringen Indledning I bekendtgørelse nr. 765 af 28. august 2001 er der fastsat regler  
+
+ om sikker internet kommunikation i arbejdsløshedsforsikringen.
+I det følgende gives enkelte bemærkninger til  
+
+ bekendtgørelsen og vejledning om, hvordan reglerne skal bruges.  
+
+ Elektronisk sagsbehandling kræver både intern og ekstern sikring  
+
+ af informationerne.
+Grundlaget herfor skal derfor være opfyldt efter  
+
+ reglerne i bekendtgørelse om tilsynet med de anerkendte  
+
+ arbejdsløshedskassers administration.
+Reglerne om opbevaring findes i  
+
+ § 5 i denne bekendtgørelse.
+Til § 1 Bekendtgørelsen fastsætter alene bestemmelser om sikker  
+
+ internet kommunikationen mellem a-kasserne og Arbejdsdirektoratet og  
+
+ a-kasserne indbyrdes.
+ Den elektroniske kommunikation mellem medlemmerne og  
+
+ a-kasserne er reguleret i bekendtgørelse om udbetaling af  
+
+ arbejdsløshedsdagpenge mv. på grundlag af elektroniske  
+
+ meddelelser.
+ Ved dokumentation forstås f.eks. dokumentation for  
+
+ medlemsanciennitet, indbetaling af efterlønsbidrag, afgørelser,  
+
+ høringer m.v.
+Til § 2 Projektet om efterlønsbidragsregistrering betyder, at oplysninger  
+
+ om medlemmer skal kunne udveksles elektronisk fra den 1. oktober 2001.  Det  
+
+ er derfor et krav, at alle a-kasser får en sikker internetforbindelse,  
+
+ så kommunikationen mellem a-kasserne kan ske ved hjælp af  
+
+ e-post.
+Til § 3 Med autenticitet menes, at modtageren kan være sikker på, at  
+
+ meddelelsen stammer fra den angivne afsender.
+Dette kan kun opnås, hvis  
+
+ meddelelsen er signeret elektronisk.
+Staten har valgt at bruge Kommunedata og TDC internet som  
+
+ udbydere.
+Arbejdsministeriet og dermed Arbejdsdirektoratet har valgt at bruge  
+
+ Kommunedata som udbyder.
+ Direktoratet vil derfor anbefale, at a-kasserne  
+
+ vælger den samme udbyder af certifikater til elektronisk signatur.  
+
+ Dette vil lette kommunikationen mellem direktoratet og a-kasserne og  
+
+ a-kasserne indbyrdes.
+Til § 4 Kritiske meddelelser Det fremgår af IT-sikkerhedsrådets vejledning fra maj 2000 om  
+
+ praktisk brug af kryptering og digital signatur, at der sondres mellem 3  
+
+ forskellige niveauer for kryptering og digital signatur.
+Niveau I drejer sig  
+
+ om kritiske meddelelser.
+Til denne gruppe regnes meddelelser, der har  
+
+ retsvirkninger, f.eks. udstedelser af afgørelser om forbud eller  
+
+ påbud og afgivelse af meddelelser under strafansvar.
+Til gruppen regnes  
+
+ også meddelelser, der har økonomiske konsekvenser, uanset om de  
+
+ i sig selv har retsvirkninger.
+Ved udveksling af kritiske meddelelser, skal der bruges  
+
+ stærk kryptering.
+Direktoratet har fastsat, at graden af kryptering  
+
+ følger den til enhver tid gældende vurdering.
+Det er for tiden  
+
+ 128 bits-kryptering.
+Til § 5 A-kasserne skal opbevare dokumentationen i 5 år efter afslutningen  
+
+ af det regnskabsår, hvor materialet har dannet grundlag for udbetaling  
+
+ m.v.
+Det fremgår af  B-vejledning om dokumentation for  
+
+ arbejdsløshedskassernes administration af bestemmelserne i  
+
+ arbejdsløshedsforsikringsloven m.v.
+ De særlige regler om opbevaring af dokumentation for  
+
+ ret til efterløn står i bekendtgørelse om dokumentation  
+
+ for medlemsanciennitet og indbetaling af efterlønsbidrag m.v.

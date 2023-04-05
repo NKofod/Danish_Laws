@@ -1,0 +1,71 @@
+Bilag 1 Bilag 2 Cirkulære om indberetning og registrering af oplysninger om forureningskortlagte arealer i matrikelregister og matrikelkort (Til samtlige regionsråd, kommunalbestyrelsen i Bornholms Regionskommune, Kort- og Matrikelstyrelsen, Danmarks Miljøportal) I medfør af § 14, stk. 4, og efter forhandling med matrikelmyndighederne (Kort- og Matrikelstyrelsen) og § 59 i lovbekendtgørelse nr. 1427 af 4. december 2009 om forurenet jord, fastsættes:
+§ 1. Regionsrådet skal indberette oplysninger om kortlagte arealer som nævnt i stk. 2 til DKjord, som derefter umiddelbart overfører oplysningerne til Kort- og Matrikelstyrelsen.
+Oplysninger indberettes, når adressaten for en af de i stk. 2 nævnte afgørelser er underrettet om afgørelsen.
+ Stk. 2. Indberetningen efter stk. 1 omfatter følgende oplysninger:
+ 1) Afgørelser om kortlægning af et areal efter lovens § 3, jf. henholdsvis § 4, om vidensniveau 1, og § 5 om vidensniveau 2.
+ 2) Afgørelser om erklæring efter lovens § 21, stk. 3 og § 30, stk. 6, om at regionsrådet udsteder en erklæring om, at en kortlagt forurening er uden betydning for anvendelsen af grunden til den faktiske anvendelse til helårsbolig.
+ 3) Afgørelser om ændring herunder ophævelse af afgørelser som nævnt under nr. 1 og 2.
+§ 1a.
+Matrikelmyndigheden underretter regionsrådet, når der foretages matrikulære ændringer på matrikelnumre, hvorpå der er registreret kortlægning.
+Stk. 2. Regionsrådet skal sikre, at der ved meddelelse om matrikulære ændringer tages stilling til, om kortlægningen stadigt er registreret på de korrekte matrikelnumre.
+I tilfælde hvor der skal justeres, indberetter regionsrådet oplysningerne til DKjord, jf. § 1. stk. 2, nr. 3.
+ § 2. Regionsrådets indberetninger skal opfylde de i bilag 1 nævnte specifikationer.
+§ 3. Matrikelmyndigheden registrerer i overensstemmelse med de i bilag 1 nævnte specifikationer de indberettede oplysninger i matrikelregisteret på de berørte matrikelnumre.
+Oplysningerne indberettes til notering i tingbogen.
+ § 4. Matrikelmyndigheden underretter regionsrådet om registreringen af de indberettede oplysninger.
+ § 5. Miljøstyrelsen kan ændre de i bilag 1 fastsatte specifikationer efter forhandling med matrikelmyndigheden.
+ § 6. Regionsrådet betaler efter indgået aftale med de respektive matrikelmyndigheder for registrering efter cirkulæret.
+ § 7. Cirkulæret træder i kraft den 23. marts 2011 og gælder herefter for alle indberetninger.
+ Stk. 2. Cirkulære nr. 120 af 13. december 2006 ophæves.
+Miljøministeriet, den 18. marts 2011 Karen Ellemann / Michel Schilling Bilag 1 Specifikation for indberetning og registrering af oplysning om forureningskortlagte arealer i matrikelregister.
+ 1. Generelt om indberetningens form og indhold m.m.
+ 1.1. Forretningsregler for modtagelse af indberetning:
+ 1.1.1. Sagerne indsendes fra DKJord til Kort og Matrikelstyrelsen (KMS), som en xml-fil med de nødvendige informationer via en web-service. (se bilag 1 for eksempel på opbygning og indhold af xml-fil).
+1.1.2. Kun DKjord kan indsende information om registrering af jordforurening til KMS.
+DKjord (Danmarks Miljøportal) er indsender identificeret med et indsenderID.
+Regionerne er rekvirent identificeret med et rekvirentID.
+KMS tildeler disse IDer.
+1.1.3. En indberetning må kun indeholde oplysninger vedr. ét lokalitetsnummer 1.1.4. En indberetning skal indeholde oplysning om matrikelbetegnelsen bestående af en landsejerlavskode og et matrikelnummer for hvert af de jordstykker, der er berørt af kortlægningen.
+Landsejerlavskode og matrikelnummer angiver en entydig matrikelbetegnelse for identificering af det enkelte jordstykke.
+ 1.1.5. Ved modtagelse af indsendte sag hos KMS overføres denne til en intern postkasse (maj@kms.dk) til videre behandling herunder validering og registrering af modtaget indberetningsdata.
+ 1.2. Forretningsregler for registrering af indberetning:
+ 1.2.1. KMS foretager en kontrol for validiteten af modtaget indberetning herunder validiteten af angivet jordstykke(r). Hvis fejl konstateres i indberetning herunder angivelse af jordstykke i en ikke gyldig udgave afvises indberetningen.
+ 1.2.2. KMS registrerer enten V1 eller V2 på jordstykkerne ved angivelse af forandringskommando »indsæt« i indberetning.
+ 1.2.3. KMS sletter registrering af enten V1 eller V2 på jordstykke ved angivelse af forandringskommando »slet« i indberetning.
+1.2.4. KMS registrerer oprettelse og ændring i boligerklæring ved angivelse af forandringskommando »ret« i indberetning.
+Hvis region ønsker at afgive boligerklæring for forurening anføres »ja« som værdi for attributten Boligerklæring.
+Hvis region ønsker at slette en tidligere afgivet erklæring anføres »nej« som værdi for attributten Boligerklæring.
+1.2.5. Skal en eksisterende registrering af V1 eller V2 ændres, skal der foretages en indberetning bestående af 2 sagsoperationer.
+En sagsoperation vedrørende en sletning af eksisterende registrering ved angivelse af forandringskommando »slet« og en sagsoperation vedrørende en oprettelse af ny registrering ved angivelse af forandringskommando »indsaet«.
+1.3. Når indberetning er registreret, sendes der automatisk en registreringsmeddelelse til regionen og tinglysningen.
+Derudover modtager DKJord en meddelelse om, at indberetningen er afsluttet.
+ 1.4. Handling ved konstatering af fejl i modtaget indberetning:
+ 1.4.1. Opdages uoverensstemmelse tages kontakt til regionen med henblik på afklaring af evt. misforhold.
+ 1.4.2. Hvis fejl konstateres i indberetning afvises den aktuelle indberetning.
+ 1.4.3. Regionerne og DKJord modtager en meddelelse, hvis sag afvises på grund af fejl herunder brug af ugyldigt matrikelnummer.
+ 1.4.4. Regionen skal herefter indsende ny indberetning på lokalitetsnummer således at der skabes overensstemmelse mellem DKjord og matrikelregistret.
+ 1.4.5. KMS retter ikke uden på ny indsendt dokumentation.
+2. Indberetningens konkrete indhold 2.1. Indsender vil altid være DKJord med indsender IDet IndsenderID = 100000940 2.2. Rekvirent er den enkelte region/ Bornholms regionskommune med følgende rekvirent ID for de enkelte regioner:
+100000775 Region Hovedstaden 100000768 Region Midtjylland 100000776 Region Nordjylland 100000777 Region Sjælland 100000778 Region Syddanmark 100001021 Bornholms Regionskommune 2.3. Rekvirentreference henviser til regionens sagsbehandling og gør at KMS kan henvise hertil i registreringsmeddelelserne.
+Lokalitetsnummeret [xxx-xxxxx] angives som rekvirentreference.
+Det vil være muligt for region at angive et lokalitetsnummer suppleret med en systemdato, som rekvirentreference.
+Rekvirentreferencen er frivilligt for regionerne at sætte.
+2.4. Rekvirentdato er den dato, hvor regionen har tjekket for aktualiteten af matrikelkortet.
+Det kan være dato for anvendt aktuel version af matrikelkortet, dato for tjek i WEB-matriklen eller dato for leverance af daglige +/- opdateringer vedrørende matrikulære data.
+Dato angives som tekst med syntaksen: [aaaa-mm-dd].
+ 2.5. For en indberetning vedrørende en jordforurening af sagsoperation»v1« og »v2« angives følgende attributværdier:
+ Sagskategori angives som tekst og sættes altid til »jordforurening«  Sagsoperation angives som tekst og sættes til »fug1« for v1-sager og »fug2« for v2-sager  Forandringskommando angives som tekst og sættes til »indsaet« eller »slet«  Landsejerlavskode angives som tekst og sættes til gældende landsejerlavskode for pågældende jordstykke.
+ Matrikelnummer angives som tekst og sættes til gældende matrikelnummer for pågældende jordstykke.
+Litra i matrikelnummer angives med små bogstaver.
+ Forureningsstatus angives som tekst og sættes til »v1« for v1-sager og »v2« for v2-sager  Lokalitetsnummer angives som tekst med syntaksen: [xxx-xxxxx]  Boligerklæring angives som tekst og sættes til »ja« eller »nej« afhængig af aktuel værdi.
+Boligerklæring kan angives for jordforurening med forureningsstatus sat til »v1« eller »v2«  Omfang angives som tekst og sættes til:
+ For v1-sager altid som »ukendt«  For v2-sager altid som »delvis Det forudsættes, at disse værdier er kontrolleret inden indsendelse.
+ 2.6. For en indberetning vedrørende en jordforurening af sagsoperation »boligerklæring« angives følgende attributværdier:
+ Sagskategori angives som tekst og sættes altid til »jordforurening«  Sagsoperation angives som tekst og sættes altid til »fugb«  Forandringskommando angives som tekst og sættes altid til »ret«  Landsejerlavskode angives som tekst og sættes til gældende landsejerlavskode for pågældende jordstykke.
+ Matrikelnummer angives som tekst og sættes til gældende matrikelnummer for pågældende jordstykke.
+Litra i matrikelnummer angives med små bogstaver.
+  Forureningsstatus angives som tekst og sættes til »v1« for v1-sager og »v2« for v2-sager.
+  Lokalitetsnummer angives som tekst med syntaksen: [xxx-xxxxx].
+ Boligerklæring angives som tekst og sættes til »ja« eller »nej« afhængig af aktuel værdi.
+Boligerklæring kan angives for jordforurening med forureningsstatus sat til »v1« eller »v2«  Omfang angives som tekst og sættes til:
+ For v1-sager altid som »ukendt«  For v2-sager altid som »delvis« Det forudsættes, at disse værdier er kontrolleret inden indsendelse.

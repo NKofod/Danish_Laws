@@ -1,0 +1,69 @@
+Modulets formål Det er modulets formål at sætte deltagerne i stand til at kunne designe og  
+
+ evaluere en begrebsmæssig database, der opfylder et sæt givne krav.  
+
+ Deltagerne skal desuden kunne beskrive den begrebsmæssige database i en  
+
+ almindelig udbredt datamodel, samt kunne overføre designet til et  
+
+ databasesystem.
+ Modulet har desuden til formål at give de studerende kendskab til  
+
+ væsentlige problemer vedrørende indførelse og drift af databasesystemer, samt  
+
+ at give de studerende kendskab til løsninger på disse problemer.
+Adgangsbetingelser Anbefalede forudsætninger 2.2. Programkonstruktion 3.3 Systemkonstruktion Hovedemner og undervisningsmål for disse Data-systemarkitektur Den studerende skal opnå fortrolighed med de former for dataabstraktion,  
+
+ som er relevante for databaseteorien.
+ Den studerende skal opnå et grundigt kendskab til principperne i en  
+
+ hensigtsmæssig arkitektur for databasesystemer, såsom ANSI/SPARC  
+
+ arkitekturen.
+Databasemodeller og databasesystemer Den studerende skal kunne udforme et givet databasedesign i de  
+
+ væsentligste datamodeller, såsom relationsmodellen, den hierarkiske datamodel  
+
+ og netværkmodellen, samt kunne transformere et design mellem modellerne.
+ Den studerende skal kunne anvende et givet databasesystem til  
+
+ implementering af et databasedesign.
+ Den studerende skal orienteres om den udvikling, der finder sted  
+
+ vedrørende nye datamodeller og databasestrukturer, samt indenfor  
+
+ databaseteorien generelt.
+Databasedesign Den studerende skal kunne anvende en begrebsmæssig informationsmodel,  
+
+ såsom E/R-modellen eller RM/T-modellen, ved design af en database.
+ Den studerende skal kunne normalisere en given database, samt kunne  
+
+ evaluere et design på grundlag af normaliseringsteorien.
+Databasesprog Den studerende skal kunne anvende relationel algebra og relationel kalkule  
+
+ til udtræk af data fra en relationsdatabase, samt kunne anvende disse sprog  
+
+ ved vurdering af andre databasesprog.
+Den studerende skal kunne anvende et udbredt databasesprog, f.eks.
+SQL  
+
+ eller QUEL, til manipulation af en relationsdatabase.
+ Den studerende skal opnå kendskab til principperne i de databasesprog, der  
+
+ anvendes i hierarkiske databaser og i netværksdatabaser, specielt CODASYL  
+
+ DBTG databaser.
+ Den studerende skal opnå kendskab til principperne i anvendelsen af  
+
+ indlejrede sprog til manipulation med databaser.
+Indførelse og drift af databaser Den studerende skal være orienteret om de væsentligste funktioner knyttet  
+
+ til databaseadministration.
+ Den studerende skal opnå kendskab til de grundlæggende principper i,  
+
+ problemer med og løsninger til samtidighedskontrol, kontrol med  
+
+ datasikkerhed, sikring af dataintegritet og genetablering af databaser.
+ Den studerende skal være orienteret om de faciliteter, der findes på  
+
+ typiske kommercielle databasesystemer.

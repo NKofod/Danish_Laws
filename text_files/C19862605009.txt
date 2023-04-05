@@ -1,0 +1,144 @@
+Ved dette tillæg foretages nedenstående ændringer og tilføjelser i cirkulære nr. 27A af december 1981:
+2.4. Sløjfestrømmens indsvingningsforløb I pkt. 2.4.1., side 6, erstattes stk. 2 af:
+ I et særudstyr, som overtager sløjfetilstand fra et andet udstyr i en  
+
+ abonnentinstallation, skal sløjfetilstanden dog etableres således, at  
+
+ sløjfestrømmen senest 5 ms efter, at omkoblingen er påbegyndt, er mindst 15  
+
+ mA, når særudstyrets linieklemmer er påtrykt en spænding på 48 V gennem  
+
+ 2x1200 ohm.
+3.1. Indgangsimpedans I pkt. 3.1. nummereres den nuværende tekst med tilhørende figur 3.1.1., og  
+
+ der tilføjes en ny figur og et nyt pkt. 3.1.2. med følgende tekst:
+ 3.1.2. I et særudstyr, hvor et ringesignal ved ringemodtagning direkte  
+
+ omsættes til et akustisk signal, kan det dog tillades, at særudstyret i  
+
+ rotilstand har en indgangsimpedans, hvis reelle komposant ved en 50 Hz  
+
+ vekselspænding på 45 V er mindst 4 kohm, og hvis  
+
+ spændings-strømkarakterististik ved 25 Hz ligger under den i fig. 3.1.2.  
+
+ angivne grænse.
+5.4. Nummervalg med toneimpulser I pkt. 5.4.2., side 12, erstattes stk. 1, 2 og 3 af:
+ 5.4.2. Ved nummervalg med toneimpuls skal der for hvert ciffer eller tegn  
+
+ sendes et kodesignal i form af en vekselspændingsimpuls, som indeholder en  
+
+ frekvens i lavt bånd (under 1000 Hz) og en frekvens i højt bånd (over 1000  
+
+ Hz).
+ Sammenhængen mellem cifferværdi/tegn og frekvenskombinationen i  
+
+ kodesignalerne fremgår for hver cifferværdi/tegn af Fig. 5.4.2.
+ Anvendelse af kodesignalerne, som i Fig. 5.4.2. er symboliseret, med A, B,  
+
+ C, og D, er endnu ikke fastlagt, og disse kodesignaler må indtil videre ikke  
+
+ anvendes i forbindelse med et nummervalg.
+5.6. Identifikationssignal Teksten i pkt. 5.6.2., side 13, erstattes af:
+5.6.2. Et identifikationssignal i form af et kodesignal skal være  
+
+ sammensat af een eller flere frekvenser i frekvensområdet 300-2200 Hz og  
+
+ sendes vedvarende eller intermitterende, indtil korrekt identifikationssignal  
+
+ er modtaget fra den kaldte abonnent, eller indtil sløjfetilstanden er afløst  
+
+ af rotilstand.
+Desuden tillades det, at MFT-signaler i overensstemmelse med  
+
+ pkt. 5.4.2., 5.4.3. og 5.4.6. benyttes som identifikationssignal.
+5.8. gentagelse af opkald I pkt. 5.8.2., side 13, erstattes stk. 2 og 3 af:
+Et sådant særudstyr må endvidere ved opkald til flere forskellige numre i  
+
+ en vilkårlig tilbagevendende rækkefølge højst foretage 10 på hinanden  
+
+ følgende mislykkede opkald til samme nummer, før særudstyret automatisk  
+
+ blokerer sig selv for yderligere opkald til det opgældende nummer og giver  
+
+ alarm for dette.
+Er særudstyret indrettet for tilslutning af en datamaskine,  
+
+ tillades det dog, at den tilsluttede datamaskine styrer opkald i  
+
+ overensstemmelse med forannævnte krav.
+ Hvis et særudstyr på grund af mislykkede opkald er blokeret for yderligere  
+
+ opkald til eet eller flere numre, må denne blokering først ophæves efter en  
+
+ omhyggelig kontrol og eventuel fejlretning af særudstyret.
+6.4. Identifikationssignal I pkt. 6.4.3., side 14, tilføjes:
+ Som en undtagelse fra dette krav tillades det, at toneimpulser  
+
+ (MFT-signaler) i overensstemmelse med pkt. 5.4.2., 5.4.3. og 5.4.6. benyttes  
+
+ som identifikationssignal.
+ Mellem afsnit 6 og 7 indføjes et nyt afsnit X:
+X.
+Signalering og transmission mod abonnentinstallation X.1. Almindeligt.
+Et særudstyr kan være indrettet til gennemstilling af en etableret  
+
+ telefonforbindelse til den efterfølgende abonnentsinstallation.
+Ved en sådan  
+
+ gennemstilling gælder følgende krav til signalering og transmission mod  
+
+ abonnentinstallationen forud for gennemstillingen.
+ X.2. Jævnstrømssignalering.
+Den efterfølgende abonnentinstallation må påtrykkes en jævnspænding på højst 56 volt fra en strømkilde med en kortslutningsstrøm på højst 70 mA.
+ For så vidt angår jævnstrømssignalering i abonnentnettet, se pkt.
+ 7.6.
+ X.3. Ringesignalering.
+X.3.1. Sending af ringesignaler fra særudstyr mod den efterfølgende abonnentinstallation må ske i form af en vekselspænding kendetegnet ved:
+Det er tilladt, at vekselspændingen overlejres jævnspændingen, som er specificeret i pkt.
+X.2.
+X.3.2. Bortkobling af ringesignalet skal ske senest i første ringepause, efter at der i efterfølgende installation er etableret sløjfetilstand.
+ Af hensyn til mulige gener (ringning i øret) anbefales det at bortkoble  
+
+ ringesignalet senest 150 ms efter, at der er etableret sløjfetilstand i den  
+
+ efterfølgende installation.
+ X.3.3. I tilfælde, hvor der ikke er etableret sløjfetilstand i den  
+
+ efterfølgende abonnentinstallation senest 60 s efter, at særudstyret har  
+
+ etableret telefonforbindelsen, skal udstyret snarest bortkoble ringesignalet  
+
+ og etablere rotilstand mod abonnentledningen.
+X.3.4. Nedkobles telefonforbindelsen af den anden abonnent, inden der er  
+
+ etableret sløjfetilstand i den efterfølgende abonnentsinstallation og inden  
+
+ udløbet af tidsfristen jf. pkt.
+X.3.3., bør særudstyret kunne detektere  
+
+ optagettonen fra centralen og etablere rotilstand mod abonnentledningen  
+
+ snarest muligt, jf. pkt. 6.5.4.
+ X.4. Transmission ved telefrekvenser.
+ For transmission ved talefrekvenser mod den efterfølgende  
+
+ abonnentinstallation gælder de samme krav til sendeniveauer, som er anført i  
+
+ pkt. 4.4. og 5.4.
+ X.5. Gennemstilling.
+X.5.1. De i pkt.
+X.2. og X.3.1. nævnte jævn- og vekselspændinger skal  
+
+ under alle forhold være adskilte fra abonnentledningen, og de i Fig. 1.6.1.c.  
+
+ eller 1.6.2.c. viste tilslutningsmetoder med skiftekontakter i begge ledere  
+
+ skal benyttes.
+ X.5.2. Der må ved gennemstillingen ikke forekomme afbrydelser, prel eller  
+
+ lignende fænomener i tidsrum af længere varighed, end at sløjfestrømmen fra  
+
+ offentlig central er mindst 15 mA senest 5 ms efter, at gennemstillingen er  
+
+ påbegyndt, jf. pkt. 2.4.1. og 2.4.2.

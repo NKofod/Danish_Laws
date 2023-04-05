@@ -1,0 +1,251 @@
+ I henhold til § 12, stk. 1, i Statens Metrologiråds bekendtgørelse nr. 749  
+
+ af 7. november 1989 om kontrol med måling af fjernvarme i afregningsøjemed  
+
+ skal fjernvarmeleverandøren etablere et kontrolsystem, der er opbygget  
+
+ således, at der gennem dets drift opnås tilstrækkelig sikkerhed for, at de  
+
+ idriftværende målere ikke overskrider det dobbelte af de maksimalt  
+
+ tilladelige fejl ved førstegangsverifikation.
+ Som retningslinie for størrelsen af tilstrækkelig sikkerhed har  
+
+ Metrologirådet vedtaget, at fjernvarmeleverandøren kan anse et  
+
+ kvalitetsniveau på 4% for tilfredsstillende (AQL - acceptable quality level  
+
+ på 4%).
+ Kontrolsystemer, der baseres på stikprøveudtagning, kan opbygges ved hjælp  
+
+ af Dansk Standard - DS 2184 (DS 2184 vil blive afløst af DS/ISO 2859) -  
+
+ »Metoder og tabeller for stikprøveudtagning for inspektion ved  
+
+ alternativ måling«, eller den internationale ISO 3951 »Sampling  
+
+ procedures and charts for inspection by variables for percent defective«  
+
+ (forventes at udkomme som dansk standard). Denne vejledning har taget  
+
+ udgangspunkt i Dansk Standard 2184, AQL 4% og inspektionsniveau II.
+ Efterfølgende er der anført to eksempler på kontrolsystemer, hvor det ene  
+
+ er baseret på inspektion ved alternativ måling og det andet på inspektion ved  
+
+ kontinuert måling.
+ Det sidstnævnte eksempel er ikke udarbejdet med værdier taget fra ISO  
+
+ 3951, men specielt tilpasset således, at der kan skiftes fra denne metode til  
+
+ den alternative måling i det første eksempel, når kontrolsystemet anvendes i  
+
+ praksis.
+ I STIKPRØVEKONTROL - ALTERNATIV MÅLING.
+ Eksemplet har to varianter, hvor det ene er baseret på enkelt  
+
+ stikprøveudtagning og det andet på dobbelt stikprøveudtagning.
+ 1. Partiinddeling.
+ Målerbestanden skal inddeles i partier med ensartede karakteristika  
+
+ således, at strikprøveresultatet kan betragtes som repræsentativt for det  
+
+ målerparti, som målerne er udtaget fra.
+ Eksempelvis:
+ - Målerne skal have samme måleprincip fx. vingehjulsmålere eller magnetisk  
+
+ induktive målere eller ultralydsmålere o.s.v.
+ - Samme målerstørrelse.
+ - Målerne skal have tilnærmelsesvis samme alder fra opsætningstidspunktet.
+ 2. Parti- og stikprøvestørrelser.
+ Parti- og stikprøvestørrelser kan vælges, som anført i punkt 3.1 og 3.2.  
+
+ Større målerantal bør opdeles i flere partier på maksimalt 500 målere eller,  
+
+ der kan anvendes sammenhængen mellem parti- og stikprøvestørrelse i henhold  
+
+ til den danske standard, DS 2184, AQL 4% og inspektionsniveau II.
+ 3. Godkendelses-/forkastelseskriterier.
+ 3.1. Enkelt stikprøve.
+ 4. Procedure for stikprøveudtagning.
+ Målerne i stikprøven skal udtages ved tilfældig udvælgelse fra det parti,  
+
+ de tilhører.
+4.1 Målerne skal nedtages og bringes til målelaboratoriet på betryggende  
+
+ måde.
+Det kan eksempelvis indebære, at målerne proppes ved nedtagning, så de  
+
+ ikke tørrer ind.
+4.2 Af hensyn til det størst udbytte at stikprøveresultatet bør særlige  
+
+ forhold ved installationen og nedtagningen noteres.
+Fx noteres filterets  
+
+ tilstand.
+4.3 Viser en måler tegn på transportskade, skal måleren udgå af  
+
+ stikprøven.
+Det kan derfor være hensigtsmæssigt at nedtage to målere flere  
+
+ end stikprøveplanen foreskriver.
+ 4.4 Anvendes en dobbelt stikprøveplan, skal målerne i anden  
+
+ stikprøveudtagning være udvalgt samtidig med, at målerne til første  
+
+ stikprøveudtagning udvælges.
+ 5. Godkendelse/forkastelse af parti.
+ En måler anses for afvigende, dersom den overskrider grænseværdierne ved  
+
+ en af de prøvede volumenstrømme (flow) eller varmeeffektværdier.
+ Enkelt stikprøveudtagning.
+ 5.1 Partiet godkendes, dersom antallet af afvigende målere i stikprøven er  
+
+ mindre end eller lig med tabellernes godkendelsestal.
+ Dobbelt stikprøveudtagning.
+ 5.2 Ved dobbelt stikprøveudtagning godkendes partiet efter 1. stikprøve,  
+
+ hvis antallet af afvigende målere er mindre end eller lig med  
+
+ godkendelsesantallet for 1. stikprøve.
+ 5.3 Partiet kasseres efter 1. stikprøve, hvis antallet af afvigende målere  
+
+ er større end eller lig med tallet for forkastelse. (2. stikprøve undersøges  
+
+ derfor ikke).
+ 5.4 Er antallet af afvigende målere ved 1. stikprøve større end  
+
+ godkendelsesantallet men mindre end tallet for forkastelse, undersøges 2.  
+
+ stikprøve.
+ Partiet godkendes, dersom det samlede antal afvigende målere for 1. plus  
+
+ 2. stikprøve er mindre end eller lig med godkendelsestallet for 1. plus 2.  
+
+ stikprøve.
+ 6. Eksempel på et specifikt kontrolsystem.
+ Eksemplet er baseret på, at fjernvarmeleverandøren enten turnusudskifter  
+
+ sine målere med et tidsinterval på 6 år eller overvåger målernes nøjagtighed  
+
+ med et tidsinterval på normalt 6 år.
+Eksemplet vedrører rene volumenmålere af typen vingehjulsmåler, men finder  
+
+ også anvendelse for varmeenergimålere med en volumendel af typen  
+
+ vingehjulsmåler og en elektronisk regneenhed, der kan registrere  
+
+ gennemstrømmet volumen.
+Da fejlbidraget fra regneenheden kan anses for  
+
+ underordnet i forhold til fejlbidraget fra volumenenheden, foretages  
+
+ driftskontrollen alene ved kalibrering af volumenregistreringen.  
+
+ Fjernvarmeleverandøren bør med jævne tidsintervaller kontrollere, om denne  
+
+ forudsætning er gældende for de anvendte målere.
+Det kan eksempelvis ske ved  
+
+ hjælp af stikprøver, der foretages med højst 6 års interval.
+ 6.1 Nøjagtighedskrav til volumenregistreringen.
+ 6.2 Kalibreringsvolumenstrømme (kalibreringsflow).
+ Målerne kalibreres ved 2 volumenstrømme, der vælges som fx ca. 0,2 Qn og  
+
+ Qn (henholdsvis 0,2 Qmax og Qmax for varmeenergimålere).
+ 6.3 Afvigende målere.
+ Målere, der overskrider grænsen ved det ene eller begge målepunkter, anses  
+
+ for afvigende.
+ 7. Afviste og godkendte partier.
+ 7.1 Målerpartier, der forkastes ved stikprøvekontrollen, på grund af  
+
+ overskridelse af grænserne for måleunøjagtighed for målere i drift jf. punkt  
+
+ 6.1, skal nedtages for renovering eller udskiftning inden et år fra  
+
+ stikprøvetidspunktet.
+ 7.2 Tidsintervallet til næste stikprøvekontrol eller turnusudskiftning  
+
+ reduceres med 1 år for partier, der genopsættes renoveret og verificeret  
+
+ efter en forkastelse ved stikprøvekontrollen.
+ 7.3 Målerpartier, der godkendes ved stikprøvekontrollen i forhold til  
+
+ driftskontrolgrænserne jf. punkt 6.1 kan forblive opsat hos forbrugerne i  
+
+ endnu 3 år, før der igen udtages en stikprøve.
+ Gælder stikprøvegodkendelsen et nedtaget, turnusudskiftet parti skal næste  
+
+ stikprøvekontrol (turnusudskiftning) først foretages ved det normale  
+
+ tidsinterval (6 år), da hele målerpartiet opsættes i verificeret stand.
+ 7.4 Målerpartier, hvor godkendelseskriterierne for stikprøven kan anvendes  
+
+ på grænseværdierne for måleunøjagtighed for nye og verificerede målere jf.  
+
+ punkt 6.1, kan forblive opsatte hos forbrugerne i endnu 6 år, før der igen  
+
+ udtages en stikprøve.
+ 8. Særlige forhold.
+ 8.1 Har fjernvarmeleverandøren formodning om, at en bestemt type målere  
+
+ eller målere fra et specielt geografisk område eller lignende, overskrider de  
+
+ tilladte grænser for måleunøjagtighed, skal fjernvarmeleverandøren undersøge  
+
+ disse målere uafhængigt af det normale driftskontrolsystem.
+ 8.2 Giver stikprøvens resultater fra er parti, der er forkastet,  
+
+ formodning om, at der er en særlig årsag til forkastelsen, som kan henføres  
+
+ til en afgrænset del af partiet, kan partiet opdeles til mindre partier.  
+
+ Disse partier skal derefter umiddelbart stikprøveundersøges hver for sig,  
+
+ stikprøveresultaterne for hvert af partierne anvendes i overensstemmelse med  
+
+ punkt 7.
+ II STIKPRØVEKONTROL - KONTINUERT MÅLING.
+Denne metode betinger, at måleværdierne kan betragtes som tilhørende en  
+
+ normalfordeling.
+Er dette ikke tilfældet, skal der benyttes stikprøvekontrol  
+
+ baseret på alternativ måling, som anført i I.
+ 1. Partiinddeling.
+ Som under I.1 inddeles målerbestanden i partier med ensartede  
+
+ karakteristika.
+ 2. Parti- og stikprøvestørrelser.
+ For i givet fald at kunne gå tilbage til stikprøvekontrol ved alternativ  
+
+ måling vælges partistørrelser og stikprøvestørrelser som for den alternative  
+
+ måling d.v.s. tabellen i I.3.1.
+ 3. Procedure for stikprøveudtagning.
+ Der benyttes samme procedure som anført ved stikprøvekontrol ved  
+
+ alternativ måling i I punkterne 4., 4.1, 4.2 og 4.3.
+ 4. Nøjagtighedskrav til volumenregistreringen.
+ Der er samme krav til nøjagtigheden af volumenregistreringen som ved  
+
+ stikprøvekontrol ved alternativ måling I punkt 6.1.
+ 5. Kalibreringsvolumenstrømme (kalibreringsflow).
+ Der benyttes samme kalibreringsvolumenstrømme som i I, 6.2.
+ 6. Kontrol for fordelingsafvigere.
+ 6.1 Betingelsen for, at stikprøvernes måleværdier ved hver af de to  
+
+ kalibreringsflow kan betragtes som tilhørende normalfordelinger, er, at der  
+
+ højst er følgende fordelingsafvigere:
+0 ved stikprøve på 13 målere 0 ved stikprøve på 20 målere 1 ved stikprøve på 32 målere 2 ved stikprøve på 50 målere 6.2 For hver af de to kalibreringsflow foretages kontrollen for  
+
+ fordelingsafvigere således:
+ 6.2.1 gennemsnitsværdien for stikprøvens måleværdier beregnes:
+- , Såfremt sidstnævnte er tilfældet behandles stikprøven som alternativ  
+
+ måling i henhold til afsnit I.
+7. Opfylder stikprøven betingelserne i punkt 6.1  
+
+ beregnes gennemsnit placering inden for kurven for +/- 6% eller +/- 3% benyttes som kriterie for vurderingen.

@@ -1,0 +1,38 @@
+Bekendtgørelse om ændring af bekendtgørelse om behandling af personoplysninger i Det Centrale Kriminalregister (Kriminalregisteret) § 1 I bekendtgørelse nr. 881 af 4. juli 2014 om behandling af personoplysninger i Det Centrale Kriminalregister (Kriminalregisteret), som ændret ved bekendtgørelse nr. 1587 af 23. december 2014 og bekendtgørelse nr. 216 af 26. februar 2015, foretages følgende ændring:
+ 1. Bilag 2 affattes som bilag 1 til denne bekendtgørelse.
+§ 2 Bekendtgørelsen træder i kraft den 15. april 2015.
+Justitsministeriet, den 7. april 2015 Mette Frederiksen / Esben Haugland Bilag 1 »Bilag 2 Datatyper i efterforskningsdelen I det følgende er ikke medtaget rent edb-mæssige koder.
+Oplysninger, der forekommer i flere forbindelser, er kun medtaget en gang.
+1. Identifikationsoplysninger Identifikationsnummer: For personer normalt CPR-NR. (personnummer). For juridiske personer (selskaber, foreninger m.v.) SE-NR. (SKATs erhvervsregisternummer) eller CVR-NR. (Centralt Erhvervs Registernummer). I de tilfælde, hvor ingen af de foranstående numre haves, tildeles et individuelt ENR (erstatningsnummer), der opbygges som et personnummer, men hvor de sidste 4 cifre er erstattet af bogstaver.
+ Konverteringskode, der viser, om der er overført oplysninger fra de manuelle registre.
+ Angivelse af, om der er slettet oplysninger inden for de seneste 12 måneder samt typen og datoen herfor.
+ Opholdssted(er), det vil sige, hvor den pågældende kan træffes, når der ikke er tale om en officiel CPR-adresse og med angivelse af arten af den politimæssige relevans, f.eks. institution, beværtning eller orlovsadresse i tilknytning til en udgangstilladelse.
+ Specielle registernumre, der henviser til særlige efterforskningsregistre eller specielle projekter, f.eks. register over fotos optaget af politiet, iværksættelse af særlige hjælpeforanstaltninger eller alternative sanktionsformer.
+ Signalementsoplysninger med signalementsdato.
+2. »Aktualitetsmarkeringer« »Aktualitetsmarkering«, der angiver, at en person er »politimæssig aktuel«, uanset om der er en verserende sag.
+ Der kan registreres følgende typer »aktualitetsmarkeringer«.
+ I tilknytning til aktualiteterne 01, 02, 03, 04 og 05 er der mulighed for registrering af journalnummeret på den konkrete sag, der ligger til grund for markeringen.
+ I tilknytning til aktualiteterne 06, 07 og 08 er en registrering af sagens journalnummer obligatorisk.
+ Det vil kunne fremgå, hvilken myndighed der har foranstaltet registreringen af en aktualitet.
+ De under numrene 07, 08, 13, 14, 15, 18, 20, 22, 23, 27, 30 (indtil den 1. juni 2017), 31, 38, 39, og 40 nævnte »aktualitetsmarkeringer« er tidsbegrænsede og slukkes, når aktualitetsdatoen (udløbsdatoen) er passeret.
+ Aktualitet 32 må kun registreres af Rigspolitiet.
+3. Sager Sagens journalnummer.
+ Oplysning om sagens oversendelse til anden myndighed.
+ Oplysning om hvorvidt en sag er et hovedforhold eller et biforhold.
+4. Eftersøgningsoplysninger Dato for eftersøgningen.
+ Hvad der ønskes foretaget, når den pågældende træffes.
+ Eftersøgende myndighed.
+ Om pågældende er efterlyst i Danmarks Radio.
+ Om der foreligger fængslingskendelse eller anholdelsesbeslutning med angivelse af retskreds og evt. dommerens navn.
+ Aflysningsoplysninger (dato og myndighed).
+5. Oplysninger om sigtelser 6. Oplysninger om frihedsberøvelser 7. Oplysninger om afgørelser m.v.
+8. Særlige typer af indberetninger 9. Mistede legitimationspapirer Der kan registreres bortkomst eller fremlysning af offentligt anerkendte legitimationspapirer, der er forsynet med fotografi, og som indeholder oplysninger om navn og fødselsdato.
+Pas og kørekort registreres dog ikke i registeret.
+ Registreringen sker i tilknytning til den pågældende persons data og altid med angivelse af eventuelt journalnummer.
+10. Oplysninger om udgangstilladelser Det registreres, når en strafafsoner opnår orlov/udgang under afsoning af frihedsstraf.
+11. Børn under 15 år 12. Registrering af særlige markeringer Udover af de ovennævnte grunde kan en person være registreret i efterforskningsdelen med en særlig markering.
+13. Anmærkninger I tilknytning til oplysninger vedrørende eftersøgninger, anholdelser/fængslinger, sigtelser, afgørelser eller personer kan der i et anmærkningsfelt anføres en ustruktureret tekst af variabel længde.
+Det kan eksempelvis være:
+14. Falske generalia Når det konstateres, at en person har misbrugt en anden persons navn og personnummer eller fødedato over for politiet eller i tilknytning til begået kriminalitet, registreres dette som en henvisning til den anden person under »specielle registernumre«, jf. punkt 1.
+15. Andre forhold Andre oplysninger af væsentlig politimæssig interesse, når registreringen er nødvendig for varetagelsen af registerets opgaver.
+Indberetningen påtegnes af en særlig bemyndiget person.

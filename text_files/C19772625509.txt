@@ -1,0 +1,231 @@
+1. Gyldighedsområde Cirkulæret giver, udfra bestemmelserne i Cirkulære nr. 1  
+
+ (Landstransmissionsplanen) og Cirkulære nr. 21 (Trafikdirigering),  
+
+ forskrifter for den transmissionsmæssige dimensionering af centralledninger i  
+
+ det offentlige danske telefonnet.
+ Cirkulærets forskrifter gælder for totråds centralledninger samt for  
+
+ centralledninger sammensat af totråds og firtråds ledningsstrækninger;  
+
+ endvidere er der givet visse regler for benyttelse af firtrådskredsløb.
+ Det eksisterende centralledningsnet skal i den udstrækning, de praktiske  
+
+ muligheder tillader det, bringes i overensstemmelse med nærværende cirkulæres  
+
+ bestemmelser.
+2. Forudsætninger Det er forudsat, at det offentlige telefonnet er opbygget som beskrevet i  
+
+ Cirkulære nr. 21 og nr. 22, d.v.s., at der forefindes et hierarkisk system af  
+
+ centraler forbundet med sidstevejssystemer, der udgør det hierarkiske  
+
+ ledningsnet, og et tværledningsnet bestående af tværledningsbundter, der  
+
+ forbinder de af landets centraler, der har et trafikmæssigt behov herfor.
+3. Dimensioneringsgrundlag For en international telefonforbindelse fordeles det maksimalt tilladelige  
+
+ referenceækvivalent som vist på bilag 4.
+ For en national forbindelse baseres dimensioneringen på et maksimalt  
+
+ tilladeligt referenceækvivalent på 33 dB.
+4. Definitioner og betegnelser De i Cirkulære nr. 1, nr. 1A og nr. 21 angivne definitioner, betegnelser  
+
+ og talværdier (regneværdier) benyttes i nærværende cirkulære.
+ Herudover er indført begreberne sammenstillingsækvivalent og  
+
+ sammenstillingstab, der er knyttet til ledningernes sammenstilling i  
+
+ centralen.
+ Alle betegnelser er anført og defineret i de afsnit af cirkulæret, hvori  
+
+ de forekommer.
+ De i nærværende cirkulære anførte bilagsnumre henviser til en fælles  
+
+ bilagssamling for Cirkulære nr. 1 med tilhørende undercirkulærer.
+5. Regler for benyttelse af totråds og firtråds  
+
+ centralledninger 5.1.
+ En centralledning, der indgår som en del af det hierarkiske ledningsnet,  
+
+ kaldes en hierarkisk ledning.
+ Hierarkiske totråds centralledninger og hierarkiske centralledninger  
+
+ sammensat af totråds og firtråds strækninger, må kun forekomme mellem en  
+
+ U-central og dens direkte overordnede transitcentral.
+ Alle andre hierarkiske centralledninger skal fremføres som  
+
+ firtrådskredsløb.
+ 5.2.
+ En centralledning, der ikke indgår i det hierarkiske ledningsnet, kaldes  
+
+ en tværledning.
+En totråds tværledning må ikke sammenstilles med en anden totråds  
+
+ tværledning medmindre mindst den ene af tværledningerne og det berørte,  
+
+ hierarkiske underordnede telefonnet i transmissionsmæssig henseende er  
+
+ dimensioneret, som om denne tværledning er en hierarkisk ledning under  
+
+ sammenstillingscentralen.
+Denne regel gælder også, hvis den ene eller begge  
+
+ tværledninger delvis er fremført firtråds (sammensat totråds og firtråds  
+
+ ledning).
+ 5.3.
+Der må mellem abonnentledning og firtråds ledning kun forekomme een  
+
+ totråds centralledning med en dæmpning (incl. transformatortab) på højst 8,5  
+
+ dB.
+En eventuel dæmpningskompensation k dB må ikke fradrages ved denne  
+
+ beregning.
+Se endvidere Cirkulære nr. 20 specifikation 7 vedrørende  
+
+ signalering mellem centraler.
+ 5.4.
+ Kompensation af dæmpning i totråds centralledninger kan foretages efter de  
+
+ i Cirkulære nr. 1C angivne metoder.
+ 5.5.
+ Der må maksimalt forekomme to egentlige totråds-firtråds overgange  
+
+ (gafler) i en forbindelse mellem to vilkårlige abonnenter inden for landets  
+
+ grænser og maksimalt en enkelt sådan overgang i en forbindelse mellem  
+
+ abonnent og international ledning.
+ Gafler, som indgår i en ringkobling eller i en firtråds sammenstilling af  
+
+ totrådsledninger, henregnes i denne sammenhæng ikke under kategorien egentlig  
+
+ totråds-firtråds overgang.
+ Som følge af denne regel må en totråds centralledning kun i den ene ende  
+
+ sammenstilles med firtrådsledninger og/eller gaffelforstærkede  
+
+ totrådsledninger.
+ Ligeledes må en centralledning sammensat af een eller to totråds  
+
+ ledningsstrækninger fast sammenkoblet med en firtrådsstrækning, i  
+
+ totrådsenden (enderne) ikke sammenstilles med firtrådsledninger og/eller  
+
+ gaffelforstærkede totrådsledninger.
+ Gaffelforstærkeren i en gaffelforstærket totrådsledning skal placeres i  
+
+ den central, hvor en eventuel sammenstilling med firtrådsledninger og/eller  
+
+ gaffelforstærkede ledninger kan finde sted.
+6. Beregning af den maksimalt tilladelige dæmpning for  
+
+ centralledninger 6.1. Hierarkiske totråds centralledninger Jf. 5.1 må der kun forekomme hierarkiske totråds centralledninger mellem  
+
+ en undercentral og dens direkte overordnede transitcentral, se dog 5.2.
+ I dette tilfælde gælder:
+d-k<=(A mmax) - PB (dB), hvor Er den betragtede totrådsledning fast sammenstillet med en firtrådsledning  
+
+ gælder:
+d-k< 10-(na + l + q) 0,5- PB < (dB), hvor 6.2. Totråds tværledninger For en totråds tværledning mellem central A og central B gælder:
+d-k <= 24 - PA - PB (dB), hvor Er den betragtede totrådsledning fast sammenstillet med en firtrådsledning  
+
+ gælder:
+ d-k = (d'- k') + (d'»- k«») (dB).
+d-k <= 20 - (1 + q) 0,5 - PA - PB (dB) hvor 6.3. Firtrådsledninger En firtrådstværledning kan oprettes mellem to centraler A og B, såfremt q  
+
+ er mindre end eller lig antallet af sammenstillinger på talefrekvensbasis ad  
+
+ den hierarkiske vej mellem A og B.
+7. Sammenstillingsækvivalent P dB Værdien af sammenstillingsækvivalentet P dB for en sammenstilling af  
+
+ ledninger i en central afhænger af:.
+Ammax dB for sammenstilling af centralledninger og Ammaxlok dB for sammenstilling af centralledninger med abonnentledninger.
+7.1. Sammenstilling af centralledninger med abonnentledninger I en U-central er:
+P = Ammaxlok + c(2C-A)2 (dB) eller, idet C(2C-A)2 = 1 (dB) for de lokalcentraltyper, der er anført i  
+
+ bilag 1:
+P = Ammaxlok + 1 (dB), hvor I en transitcentral er værdien af sammenstillingsækvivalentet afhængig af  
+
+ hvilken type vælgertrin centralledningen er indkoblet til.
+I bilag 5 er for  
+
+ transitcentralerne angivet værdier af P for sammenstilling af  
+
+ centralledninger med abonnentledninger.
+7.2. Sammenstilling af centralledninger Ved sammenstilling af centralledninger gælder:
+P = Ammax + b (dB), hvor Ved dimensionering af tværledninger anvendes den størst forekommende  
+
+ aktuelle værdi af P.
+Centralledninger, der sammenstilles med hierarkiske  
+
+ ledninger i opadgående retning, dimensioneres som en hierarkisk ledning, jf.  
+
+ 6.l.
+8. Eksempler på bestemmelse af sammenstillingstabene i  
+
+ bilag 6 8.1. Totråds tværledning sammenstillet med hierarkisk firfrådsledning i  
+
+ nedadgående retning Det samlede referenceækvivalent mellem en vilkårlig abonnent under central  
+
+ A og en vilkårlig abonnent under central C, der sammenstilles via en totråds  
+
+ centralledning mellem central A og central B, må ifølge punkt 3 ikke  
+
+ overstige 33 dB.
+ D.v.s.
+I sammenstillingstabet for central B indgår centraltabet cBC4-2C) 2  
+
+ således to gange.
+Det ene af disse tab er forårsaget af den aktuelle  
+
+ sammenstilling, medens det andet fremkommer ved beregning af PB udtrykt ved  
+
+ (Ammax)B, jf. ovenstående.
+Dette medfører at bB i en kombineret to- og  
+
+ firtrådscentral kan være afhængig af, hvilket vælgertrin den betragtede  
+
+ totrådsledning er indkoblet til.
+Er ledningen eksempelvis indkoblet til et  
+
+ firtråds vælgertrin vil det tab, der er forårsaget af den aktuelle  
+
+ sammenstilling være nul.
+Det tab der indgår i (Ammax)B skal imidlertid stadig  
+
+ indregnes i bB.
+Bilag 6 er udarbejdet under hensyntagen til disse forhold.
+8.2. Sammenstilling af sammensatte tværledninger med hierarkiske  
+
+ totrådsledninger i nedadgående retning Det samlede referenceækvivalent mellem en vilkårlig abonnent under central  
+
+ A og en vilkårlig abonnent under central C, der sammenstilles via en  
+
+ sammensat centralledning mellem central A og central B, må ifølge afsnit 3  
+
+ ikke overstige 33 dB.
+ D.v.s.
++++SKEMA+++ 2. Sløjfemodstand Sløjfemodstanden af en totråds centralledning eller af totrådsdelen af en  
+
+ centralledning sammensat af en totråds- og en firtrådsstrækning må normalt  
+
+ ikke overstige 2000 ohm incl. eventuelle linieautotransformatorer.
+ For en centralledning sammensat af to totrådsstrækninger med en  
+
+ mellemliggende firtrådsstrækning gælder, at sløjfemodstanden i hver af  
+
+ totrådsstrækningerne normalt ikke må overstige 2000 ohm incl. eventuelle  
+
+ linieautotransformatorer.
+ (* 1) I konsekvens af ændret arbejdsdeling på telekommunikationsområdet  
+
+ pr. 1.1.1991 ophæves cirkulæret som statslig forskrift, idet ansvaret for  
+
+ disse bestemmelser, der vedrører interne forhold i Tele Danmark A/S, er  
+
+ overgået til dette selskab.

@@ -1,0 +1,193 @@
+1. Definitioner Fjernovervågningsudstyr:
+ Herved forstås udstyr, der udfører en eller flere funktioner af følgende  
+
+ arter:
+Alarmering Fjernstyring Fjernkontrol Der skelnes mellem udstyr hos abonnenter og udstyr på vagtcentraler, og i  
+
+ nærværende cirkulære med tilhørende delcirkulærer skal begreberne  
+
+ abonnentudstyr (AU) og vagtcentraludstyr (VC) benyttes i følgende betydning:
+ Abonnentudstyr:
+ Den del af abonnentens fjernovervågningsudstyr, som vedrører  
+
+ signaludvekslingen over det offentlige alarmsystem.
+Vagtcentraludstyr Den del af en vagtcentraludrustning, der vedrører signaludvekslingen over  
+
+ det offentlige alarmsystem.
+ Alarmterminal:
+ I almindelighed tilsluttes fjernovervågningsudstyr det offentlige  
+
+ alarmsystem via en af teleadministrationerne leveret terminal betegnet  
+
+ alarmterminal AT, som et modul for indbygning i fjernovervågningsudstyret.
+ Der skelnes mellem følgende 5 former:
+ 1. Alarmterminal med serieinterface ATS.
+ 2. Alarmterminal med parallelinterface ATP.
+ 3. Alarmterminal med serieinterface og for indbygning  
+
+ ATIS.
+ 4. Alarmterminal med parallelinterface og for  
+
+ indbygning ATIP.
+ 5. Alarmterminal med asynkront parallelinterface og  
+
+ for indbygning ATIA.
+ Alarmterminalexpander.
+Flere AU-udstyr kan, når forholdene taler herfor, tilsluttes det  
+
+ offentlige alarmsystem via en fælles alarmterminal I dette tilfælde er alarmterminalen integreret i et udstyr, en såkaldt  
+
+ alarmterminalexpander - ATEX,der opsættes på telefoncentralen,og hvortil de  
+
+ enkelte abonnenter tilsluttes via en på deres telefonlinie arrangeret  
+
+ udenbåndskanal på 8 kHz (kun alarmering er mulig).
+2. Almindelige betingelser 2.1 Generelt Fjernovervågningsudstyr, der tilsluttes det offentlige alarmsystem, skal  
+
+ være tilladt for tilslutning.
+Tilladelse hertil udstedes af  
+
+ teleadministrationerne (jævnfør cirkulære nr. 29).
+ Den del af udstyret, der leveres og vedligeholdes af  
+
+ teleadministrationerne, skal installeres i henhold til givne miljøkrav og  
+
+ skal være tilgængelig for teleadministrationernes personale i tilfælde af  
+
+ fejlretning og tilsyn.
+ De anførte miljøkrav skal endvidere gælde for udstyr, hvori en  
+
+ alarmterminal er indbygget.I tilfælde, hvor en indbygget alarmterminal  
+
+ vedligeholdes af teleadministrationerne, skal kravet om tilgængelighed  
+
+ tillige være opfyldt.
+ Opmærksomheden henledes på, at teleadministrationerne forbeholder sig ret  
+
+ til at ændre den transmissions-, signalerings- og centraltekniske funktion af  
+
+ teleanlæggene med tilknyttede abonnentinstallationer, og de påtager sig ved  
+
+ sådanne ændringer intet ansvar for, at tilsluttet fjernovervågningsudstyr  
+
+ fortsat er anvendeligt.
+2.2 Informationsoverføring i alarmsystemet Kommunikationen i det offentlige alarmsystem sker principielt fra det  
+
+ tilsluttede fjernovervågningsudstyr til en forudbestemt vagtcentral i form af  
+
+ en 8 bit lang information, en byte.
+Desuden har vagtcentralen mulighed for at  
+
+ sende informationer til et antal abonnenter, hvorfor alle meddelelser fra  
+
+ vagtcentralen skal indeholde abonnentens alarmsystemnummer.
+Ønsker man at overføre mere end en byte til vagtcentralen, er det muligt  
+
+ ved oprettelsen at specificere antallet af byte, som alarmsystemet skal  
+
+ opsamle fra abonnenten inden samlet afsendelse til vagtcentralen.
+Bloklængden  
+
+ kan vælges i intervallet 1-16 byte.
+Opsamling til blokke sker i  
+
+ alarmsystemet, hvilket betyder, at blokken hentes i lige så mange  
+
+ »poll« som der er byte i blokken.
+Når første byte i en blok  
+
+ modtages, øges poll-frekvensen til ca. 2 poll pr. sekund, indtil hele blokken  
+
+ er opsamlet.
+ Det er desuden muligt for en abonnent at sende informationer til  
+
+ forskellige vagtcentraler, som dog alle skal være definerede ved oprettelsen.  
+
+ Ved at sende en adressebyte før alarmen opnås, at meddelelsen sendes til den  
+
+ vagtcentral som ifølge en tabel svarer til adressebyten.
+2.3 Miljøkrav Kravene til omgivelsestemperatur og relativ fugtighed er angivet i fig. 1.
+ Område A skal respekteres.
+ Fig. 1: Miljøkrav.
+Det kan tolereres, at området kortvarigt udvides til område B.
+I  
+
+ gennemsnit må dette kun ske i højst 1% af tiden af hensyn til udstyrets  
+
+ funktion.
+ Ud over de på fig. 1 angivne krav skal følgende opfyldes:
+ Temperaturændringshastighed: mindre end 0,5 grader C pr. minut.
+Solstråling: Mindre end 700 watt pr. m2 Kondensation:Område A- må ikke forekomme.
+Område B- kan kortvarigt  
+
+ accepteres.
+2.4 Sikkerhed over for stærkstrøm 2.4.1 Fjernovervågningsudstyr, der tilsluttes stærkstrømsnettet, skal være  
+
+ udført i overensstemmelse med stærkstrømsreglementets forskrifter og skal  
+
+ være D-mærket eller registreret hos DEMKO, for så vidt det kræves ifølge  
+
+ danske love og bestemmelser.
+2.4.2 Der må ikke gennem udstyret være jævnstrømsforbindelse fra  
+
+ alarmterminal til stærkstrømsnettet.
+Enhver komponent, gennem hvilken der ved  
+
+ fejl kan opstå en sådan forbindelse, skal være afprøvet med en 50 Hz  
+
+ vekselspænding på mindst 2000 volt effektiv i mindst 1 minut.
+ Det sidstnævnte krav betragtes som opfyldt for udstyr, som fra  
+
+ stærkstrømsnettet udelukkende strømforsynes via en nettransformator med højst  
+
+ 50 volt på sekundærsiden, hvis der mellem de elektriske kredsløb, som er i  
+
+ forbindelse med henholdsvis primærsiden og sekundærsiden af  
+
+ nettransformatoren, ikke forekommer gennemslag ved en 50 Hz prøvespænding på  
+
+ mindst 2000 volt effektiv i mindst 1 minut.
+2.4.3 For udstyr, som skal anvendes inden for et højspændingsanlægs  
+
+ sikkerhedsafstand, jf.
+Telefontilsynets cirkulære 14 »Sikring af  
+
+ teleanlæg mod overspændinger«, skal der i hvert enkelt tilfælde træffes  
+
+ aftale med teleadministrationen om eventuelle sikkerhedsforanstaltninger.
+2.5 Tilslutning til stærkstrømsnettet Alarmterminaler og fjernovervågningsudstyr tilsluttes 220 volt vekselstrøm  
+
+ fortrinsvis på en sikringsgruppe, hvor der ikke er anden form for belastning.
+ Tilslutning skal ske via en afbryder, der kun kan betjenes ved hjælp af  
+
+ nøgle.
+2.6 Tilslutning til abonnentledningen 1. Alarmterminal i kabinet og med 220 volt  
+
+ vekselstrømsforsyning er forsynet med en klemrække (K 3), der gennem et kabel  
+
+ med 4 ledere termineres i en 5-polet stikprop som vist på fig. 2.  
+
+ Abonnentinstallationen udføres da som vist i fig. 3.
+Installationen kan også udføres ved at kable direkte til klemrække K3.
+ Fig. 2:
+Tilslutning af 5-polet stikprop til alarmterminal af typen ATS eller ATP (stikprop set forfra).
+ 2. Fjernovervågningsudstyr, hvor i en alarmterminal er  
+
+ indbygget, tilsluttes via en 5-polet stikprop til den for tilslutningen  
+
+ udførte abonnentinstallation, der er vist i fig. 3.
+ Fig. 3: Installation (stikkontakter set forfra).
+2.7 Specielle krav til udstyr, hvori alarmterminalen er indbygget Til udstyr, hvori alarmterminalen er indbygget og som primært  
+
+ strømforsynes fra stærkstrømsnettet, stilles det krav, at alarmterminalens  
+
+ drift ikke afbrydes ved netudfald, og at der gennem reservestrømforsyning kan  
+
+ opretholdes drifttilstand ved bortfald af den primære strømforsyning.
+ Hvis teleadministrationerne har reparations- og  
+
+ vedligeholdelsesforpligtelsen over for den indbyggede alarmterminal skal  
+
+ udstyret være konstrueret således, at teleadministrationerne på enkel vis kan  
+
+ få adgang til terminalen.

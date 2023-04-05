@@ -1,0 +1,287 @@
+Rigsadvokatmeddelelsen, afsnittet: Anvendelse af teledata i straffesager 1. Overblik og tjekliste  Indgår der teledata i sagen? Ved behandlingen af en straffesag skal anklageren være opmærksom på, om politiet som led i efterforskningen af sagen har indhentet teledata.
+ Skal teledata fremlægges? Hvis der indgår teledata i sagen, skal anklageren vurdere, om det er nødvendigt, at den indhentede teledata fremlægges som bevis under sagen.
+Det kan i den forbindelse være relevant at afklare med forsvareren, hvad der bestrides i sagen, jf. pkt. 4.3.
+  Er alle relevante dokumenter til stede? I straffesager, hvor teledata fremlægges som bevis, skal sagen som det altovervejende udgangspunkt indeholde rådata, konverterede data, valideringsrapport vedr. historiske teledata jf. pkt 2.4.3, kvalitetskontrolrapport, krydshenvisninger til rådata, når der ikke foreligger en anmærkningsfri valideringsrapport, det uvildige notat vedrørende anvendelse af teledata i straffesager, Vejledning til valideringsrapport vedr. historisk teledata samt eventuelt Rigspolitiets terminologiskemaer, jf. pkt. 3.4. I sager, hvor teledata er indhentet i perioden fra 3. januar 2011 til 27. august 2019, skal datapakkerne fra Deloittes undersøgelse så vidt muligt indgå i sagen, jf. pkt. 2.4.1.
+ Er kvaliteten af teledata efterprøvet? Såfremt der ikke foreligger en anmærkningsfejlfri valideringsrapport skal anklageren efterse, at politiet har foretaget den nødvendige kvalitetskontrol, og bør selv kontrollere de centrale teledata i rådata.
+I den forbindelse kan anklageren anvende de af politiet udarbejdede krydshenvisninger mellem konverteret data og rådata, jf. pkt. 3.4. Anklageren skal endvidere overveje, om der er behov for yderligere efterforskningsskridt end dem, der allerede er iværksat af politiet, for at imødegå potentielle fejlkilder eller usikkerheder i teledata, jf. pkt. 4.1.
+  Bør anvendelsen af teledata drøftes med forsvareren eller retten? I sager, hvor teledata udgør et centralt bevis, bør anklageren forud for hovedforhandlingen overveje skriftligt at høre forsvareren, om eventuelle indsigelser mod den påtænkte dokumentationen af teledata, jf. pkt. 4.3. I sager med omfattende teledata og flere forsvarere bør det alternativt overvejes at anmode retten om et forberedende retsmøde, jf. også pkt. 4.3.
+  Er der behov for supplerende bevisførelse? I sager, hvor der skal fremlægges komplicerede analyser af teledata, eller hvor det på baggrund af dialogen med forsvareren forventes, at der vil blive rejst begrundede indsigelser vedrørende anvendelsen af teledata, bør anklageren overveje, om der skal ske indkaldelse af efterforskeren, en teleanalytiker eller et sagkyndigt vidne fra den relevante teleudbyder, jf. pkt. 4.3 og 5.2.
+2. Generelt om teledata 2.1. Definitioner Teledata er oplysninger, som teleudbyderne indsamler, registrerer og opbevarer (logger) samt bearbejder i forretningsøjemed, bl.a. til brug for taksering af ydelser, fakturering af kunder og fejlretning på netværket.
+Teledata indeholder oplysninger om kommunikation på telenetværket  f.eks. om hvilke telefoner der har været i kontakt med hinanden, og hvilke sendemaster de har været registreret på.
+Teledata indeholder  i modsætning til f.eks. telefonaflytning  ikke  oplysninger om indholdet af kommunikationen.
+ Teledata kan i straffesager bl.a. underbygge, hvilke telefoner der har været i forbindelse med hinanden, og til at underbygge en telefons placering og bevægelse inden for et geografisk område.
+Efter retsplejelovens § 786, stk. 4, påhviler det udbydere af telenet eller teletjenester at foretage registrering og opbevaring (logning) i 1 år af oplysninger om teletrafik til brug for efterforskning og retsforfølgning af strafbare forhold.
+De nærmere regler, for hvilke teledata teleudbyderne skal registrere og opbevare, er fastlagt i logningsbekendtgørelsen.
+Bekendtgørelsen pålægger udbyderne at registrere en række nærmere angivne oplysninger om fastnet- og mobiltelefoni, SMS-, EMS- og MMS-kommunikation samt visse nærmere angivne oplysninger om en brugers adgang til internettet.
+ Betingelserne for at indhente teledata fra teleudbyderne er reguleret i reglerne om indgreb i meddelelseshemmeligheden i retsplejelovens kapitel 71 og reglerne om edition i retsplejelovens kapitel 74.
+ Telefon anvendes i det følgende som samlebegreb for de enheder  mobiltelefoner og andre lignende kommunikationsapparater, som f.eks. tablets  der kommunikerer via telekommunikation på teleudbydernes netværk.
+2.2. Tekniske begreber og fagudtryk Rådata De oplysninger, som teleudbyderne indhenter i deres netværk og leverer til politiet, betegnes som rådata. Én aktivitet i rådata er udtryk for én aktivitet på en telefon eller en telemast, dvs. ét opkald, én sms mv.
+Der er ikke fastsat regler om, at teleudbyderne skal levere teledata til politiet i standardiserede formater, og i praksis kommer data i mange forskellige formater.
+Konverteret data Rigspolitiet konverterer teleudbydernes rådata til et standardiseret format inden levering til politikredse mv.
+Konverteringen indebærer en ensretning af beskrivelsen af de datatyper, der er indeholdt i rådatasættet, således at hver enkelt datatype bliver benævnt på samme måde, uafhængigt af hvilken teleudbyder data kommer fra.
+Formålet med konverteringen er, at oplysningerne fremstår ensartede og genkendelige under efterforskningen og ved fremlæggelse i retten.
+Mobildata Mobildata er mobilt dataforbrug i forbindelse med en mobiltelefons aktiviteter på internettet eksempelvis i forbindelse med e-mails, MMS, internetsurfing, afspilning (streaming) af musik/videoer, brug af sociale medier (f.eks.
+Facebook) og internetbaserede kommunikationstjenester som Skype, Whats App, Messenger mv.
+Sendemast En tændt telefon eller andet tilsvarende kommunikationsapparat vil konstant knytte sig til en konkret sendemast (Base Transciever Station, BTS). Sendemasterne er fysisk placeret rundt om i landet, således at masterne er tættere placeret i bymæssig bebyggelse.
+Masterne er indbyrdes forbundet til en basestation (Base Station Controller, BSC). En sendemast har typisk tre transmissionsceller, der dækker et retningsområde på 120 grader hver, jf. nedenfor.
+Oplysninger om master og celler fremgår typisk i rådata med en adresse, en hovedretning og en angivelse af koordinater.
+Transmissionsceller Kommunikationen mellem en tændt telefon og den konkrete sendemast sker via en specifik transmissionscelle på sendemasten (en antenne). På hver sendemast kan der sidde en eller flere celler.
+Transmissioncellen kan give en indikation af, hvor en tændt telefon har befundet sig på et givent tidspunkt.
+En mast har typisk tre celler, som hver især dækker ca. 120 grader rundt om sendemasten.
+Der findes dog også omni-direktionelle antenner, der dækker 360 grader rundt om telemasten, men på et geografisk mindre afmålt område (f.eks. i en lufthavn eller på en station).
+ Det præcise dækningsområde for en celle afhænger af en lang række faktorer, blandt andet antennens justering, frekvensbånd og sendestyrke.
+A-, B- og C-numre A-nummeret er en betegnelse for det telefonnummer, der har foretaget et opkald, sendt en besked eller tilgået internettet.
+B-nummeret er en betegnelse for det telefonnummer, der har modtaget et opkald eller en besked.
+C-nummeret er en betegnelse for det telefonnummer, der eventuelt er viderestillet til.
+I de tilfælde, hvor der fremgår et C-nummer, er kommunikationen således viderestillet fra B-nummeret til C-nummeret, sådan at kommunikationen foregår mellem A-nummeret og C-nummeret.
+IMEI-nummer IMEI står for International Mobile Equipment Identity.
+Mobiltelefonen er fra fabrikken forsynet med et "IMEI-nummer". Nummeret består af 15-17 cifre og er unikt.
+IMEI-nummeret  identificerer den enkelte mobiltelefon (kabinettet) på samme måde, som f.eks. et stelnummer på en cykel.
+Man kan ud fra IMEI-nummeret blandt andet aflæse mobiltelefonens fabrikat og type.
+SIM-kort og eSIM-kort SIM  står for Subscriber Identity Module.
+SIM-kortet er et lille plastikkort, som isættes en mobiltelefon.
+Ved isætning af kortet etableres forbindelse mellem mobiltelefonen og telefonnettet.
+Det er således SIM-kortet, der er mobiltelefonens "bindeled" til telefonnettet.
+Oplysninger af forskellig karakter kan lagres på et SIM-kort, herunder telefonnumre, sms beskeder, fotos mv.
+Disse oplysninger kan således følge SIM-kortet ved flytning fra en mobiltelefon til en anden.
+Visse nyere apparater (mobiltelefoner og telenetforbundne ure o.l.) indeholder ikke et fysisk SIM-kort, men anvender derimod eSIM-teknologi. eSIM er fællesbetegnelsen for en række digitale tjenester, der erstatter det fysiske SIM-kort. eSIM giver også mulighed for, at der kan knyttes flere numre til samme telefon, fordi man kan anvende et fysisk SIM-kort til det første nummer og et eSIM til det andet nummer.
+SIM-kort nummer SIM-kortet kan af teleselskabet tilknyttes et nummer.
+Ved isætning af SIM-kortet i en mobiltelefon vil dette nummer udgøre mobiltelefonens telefonnummer.
+Det til SIM-kortet tilknyttede telefonnummer kan ændres, således at der skiftes telefonnummer.
+IMSI nummer IMSI står for International Mobile Subscriber Identity.
+Dette nummer anvendes til identifikation af et SIM-kort.
+IMSI nummeret "ligger bagved" SIM-kort nummeret og kan i modsætning til SIM kort nummeret ikke ændres.
+Såfremt en mobiltelefon roamer i udlandet, dvs. er aktiv på et udenlandsk netværk, vil det være IMSI nummeret, der registreres på det netværk, som telefonen anvender.
+2.3. Forskellige typer teledata 2.3.1. Teleoplysning (§ 780, stk. 1, nr. 3) Teleoplysninger er oplysninger om, hvilke telefoner der i et bestemt tidsrum har været sat eller sættes i forbindelse med en bestemt telefon.
+ Fremadrettede teleoplysninger kan indhentes med hjemmel i retsplejelovens § 780, stk. 1, nr. 3, oftest i forbindelse med en telefonaflytning efter § 780, stk. 1, nr. 1. Historiske teleoplysninger er loggede oplysninger, som kan indhentes med hjemmel i retsplejelovens § 780, stk. 1, nr. 3, jf. § 804 a.
+2.3.2. Udvidet teleoplysning (mastesug) (§ 780, stk. 1, nr. 4) Udvidet teleoplysning (mastesug) omfatter oplysninger om, hvilke telefoner der inden for et nærmere angivet område har været sat eller sættes i forbindelse med andre telefoner.
+Telefonerne skal have været i aktiv brug til f.eks. tale, SMS og MMS for at fremgå af et mastesug.
+ Udvidet teleoplysning indhentes med hjemmel i retsplejelovens § 780, stk. 1, nr. 4.
+2.3.3. Teleobservation (§ 791 a, stk. 5) Teleobservation omfatter løbende indhentelse af de teledata, der opdateres på teleudbyderens netværk (nr. 1), eller at politiet ved hjælp af en GPS eller et andet lignende apparat registrerer en persons færden (nr. 2). Teleobservation gør det muligt løbende at lokalisere en telefon eller følge en persons færden via GPS eller et andet lignende apparat.
+ Kendelse om teleobservation kan indhentes med hjemmel i retsplejelovens § 791 a, stk. 5.
+ Teleobservation foretaget af politiet ved brug af GPS-enheder (nr. 2) er ikke baseret på teledata og derfor ikke reguleret af denne meddelelse.
+2.3.4. Historiske masteoplysninger (§ 804, a) Historiske masteoplysninger retter sig mod én bestemt telefon og viser, hvilke sendemaster telefonen har været registreret på i en given periode.
+Historiske masteoplysninger kan dermed vise et bevægelsesmønster for den pågældende telefon.
+ Masteoplysninger indeholder ikke oplysninger om, hvilke andre telefoner der eventuelt har været sat i forbindelse med den specifikke telefon.
+ Masteoplysninger er trafik- og lokaliseringsdata og kan indhentes med hjemmel i retsplejelovens regler om edition, jf. § 804 a.
+ Der henvises i øvrigt til Rigsadvokatmeddelelsens afsnit om anvendelse af trafik- og lokaliseringsdata i straffesager (logning).
+2.3.5. Signaleringsdata (§ 804, a) Allerede registrerede lokaliseringsdata (tidligere også kaldet signaleringsdata) adskiller sig bl.a. fra almindelige masteoplysninger ved, at allerede registrerede lokaliseringsdata viser, når en telefon signalerer til mobilnetværket, selv om telefonen ikke aktivt anvendes på det pågældende tidspunkt.
+Allerede registrerede lokaliseringsdata kan indhentes for en telefon eller for en sendemast.
+Allerede registrerede lokaliseringsdata er ikke logningspligtige.
+Allerede registrerede lokaliseringsdata registreres dog af nogle teleudbydere med henblik på at fejlrette og optimere teleudbyderens ydelser og kan derfor indhentes i medfør af retsplejelovens regler om edition, jf. § 804, stk. 1, i det omfang de er tilgængelige hos teleudbyderne.
+ Der henvises i øvrigt til Rigsadvokatmeddelelsens afsnit om anvendelse af trafik- og lokaliseringsdata i straffesager (logning).
+2.3.6. Mobildata Oplysninger om mobildatasessioner kan både indgå i allerede registrerede oplysninger beskrevet under pkt. 2.3.1-2.3.5 og i fremadrettede teleoplysninger, der modtages i forbindelse med en telefonaflytning, beskrevet under pkt. 2.3.1.
+2.4. Opmærksomhedspunkter ved anvendelse af teledata i straffesager Ved anvendelse af teledata i straffesager er der en række potentielle fejlkilder og usikkerheder, som straffesagens aktører bør være opmærksom på.
+Allerede i den rådata, der leveres fra teleudbyderne, er der en række iboende usikkerheder og fejlkilder.
+Derudover kan der i forbindelse med politiet konvertering og behandling af teledata opstå fejl.
+2.4.1. Deloitte-undersøgelsen Revisions- og konsulenthuset Deloitte gennemførte i efteråret 2019 en ekstern undersøgelse af politiets brug og behandling af historiske teledata i straffesager, der er ajourført i januar 2020 (bilag 8).
+Undersøgelsen belyste potentielle fejlkilder og usikkerheder ved anvendelse af historiske teledata.
+Formålet var at etablere et helhedsbillede over de opmærksomhedspunkter, som skal iagttages ved anvendelse af teledata i forbindelse med straffesager.
+Undersøgelsen påpegede bl.a., at det ved anvendelse af teledata i straffesager er centralt at være opmærksom på, at teledata er oplysninger, som teleudbyderne indsamler i forretningsøjemed, bl.a. med henblik på taksering af ydelser og fakturering af kunder samt optimering af deres netværk.
+Teleudbydernes netværk opgraderes og vedligeholdes løbende med henblik på at levere så god netværksdækning som muligt.
+Opdateringer af mastelister, herunder adresser, koordinater og retning på celler, kan indebære en risiko for registreringsfejl.
+Behandling af teledata hos den enkelte teleudbyder er kompleks, og data trækkes fra et stort antal platforme og systemer.
+Det sker både gennem manuelle og automatiserede processer, som kan være kilde til både fejl og usikkerheder.
+Undersøgelsen påpegede bl.a. også, at en telefons forbindelse til master påvirkes af en række tekniske og fysiske forhold som bl.a. antennens justering, højdemæssige placering og den anvendte transmissionsteknologi og frekvens samt vejrlig, landskab og bygningsmasse.
+Disse forhold kan betyde, at en enhed kan koble på andre master end den, der er nærmest.
+Undersøgelsen afdækkede endvidere, at der i forbindelse med Rigspolitiets konvertering af rådata kan opstå forskellige fejl.
+Disse fejl kan i nogle tilfælde medføre indholdsmæssige ændringer.
+I andre tilfælde kan de medføre, at aktiviteter, der var indholdt i rådata, ikke kommer med i den konverterede data.
+ I forbindelse med undersøgelsen har Deloitte efterprøvet konverteret data i sager, hvor teledata er indhentet i perioden fra 3. januar 2011 til 27. august 2019. Deloitte har på baggrund heraf udarbejdet såkaldte datapakker, som belyser identificerede fejl i de konkrete sager.
+2.4.2. Notat om anvendelse af historiske teledata i straffesager Deloitte har på baggrund af undersøgelsen, jf. pkt. 2.4.1, udarbejdet et notat om anvendelsen af historiske teledata (bilag 1a), der redegør for de særlige opmærksomhedspunkter, der er, når historiske teledata anvendes til efterforskning og som strafferetligt bevis, som politi, anklagere, forsvarere og dommere bør være opmærksomme på.
+Rigsadvokaten og Rigspolitiet har den 22. juni 2020 opdateret Deloittes notat (bilag 1). I forbindelse med opdateringen af notatet har det været sendt i høring hos Teleindustrien, Den uafhængige kontrol- og styregruppe i teledatasagen, Domstolsstyrelsen, Landsforeningen af Forsvarsadvokater, Advokatsamfundet og Danske Advokater.
+ Notatet skal altid bilageres ind i sager med teledata, så det sikres, at både forsvareren og retten er bekendt med de potentielle fejlkilder og usikkerheder, der kan være ved anvendelsen af de pågældende data.
+ I sager, hvor der fremlægges teledata i retten, skal notatet endvidere i fornødent omfang dokumenteres, se pkt. 5.1.
+2.4.3. Ekstern kontrol af Rigspolitiets konvertering af teledata (valideringsrapport) Der er ultimo april 2020 etableret en ekstern kontrol af Rigspolitiets konvertering af historiske teleoplysninger, så Telecenterets konvertering af teledata valideres af en ekstern tredjepart hver anden uge.
+Telecentret vil i den forbindelse modtage valideringsrapporter på alle udførte konverteringer af historiske teledata.
+Et eksempel på en valideringsrapport fremgår af bilag 9.
+Hvis der identificeres afvigelser i en valideringskørsel, vil valideringskørslen gentages, når Rigspolitiet - eventuelt i samarbejde med teleudbyderen - har foretaget den fornødne fejlretning.
+Kørselsnummeret i valideringsrapporten viser, hvor mange valideringskørsler, der er foretaget.
+Valideringsrapporterne viser på udbyderniveau, om der er identificeret uoverensstemmelser mellem rådata og konverterede data i form af rækketab og/eller feltafvigelser (afvigelser mellem felter i rådata og felter i konverteret data). Nedenfor er vist et udsnit af en valideringsrapport, der illusterer dette.
+ Der henvises i øvrigt til Rigspolitiets Vejledning til valideringsrapport vedr. historisk teledata  se bilag 9a.
+Valideringsrapporten og Vejledning til valideringsrapport vedr. historisk teledata skal altid bilageres ind i sager med teledata, så det sikres, at både forsvareren og retten er bekendt med resultatet af den eksterne kontrol.
+I sager, hvor der fremlægges konverteret teledata i retten, skal valideringsrapporten i fornødent omfang dokumenteres, se pkt. 5.1.
+2.5. Fejlkilder og usikkerheder Som belyst i bl.a.
+Deloittes undersøgelse og uvildige notat er der en række potentielle fejlkilder og usikkerheder ved anvendelse af teledata, som man bør være opmærksom på, jf. pkt. 2.4.1 og 2.4.2. Det vil bero på en konkret vurdering, hvilken betydning fejlkilderne og usikkerhederne skal tillægges i den enkelte sag.
+Åbenlyse fejl i teledata vil ofte være uden betydning, da det i disse tilfælde står tydeligt for enhver, at oplysningen er forkert.
+Det gælder f.eks. tilfælde, hvor en dansk sendemast i rådata er registreret med mastekoordinater i Afrika.
+En del fejlkilder og usikkerheder kan imødegås gennem valideringsrapporten, samt kvalitetskontrolrapporten og supplerende efterforskning.
+Det gælder især fejl i konverteringen af rådata, der generelt afdækkes ved valideringsrapporten eller ved at kontrollere konverteret data op imod rådata, hvis der endnu ikke foreligger en anmærkningsfri valideringsrapport.
+ Andre fejlkilder og usikkerheder er iboende i teledata og kan være vanskelige at identificere.
+ Når teledata anvendes til lokalisering og belysning af tilstedeværelse og bevægelsesmønstre, kan flere datapunkter, der understøtter det samme billede (f.eks. et bevægelsesmønster), opveje betydningen af usikkerheder i data.
+ Teledata vil altid indgå som ét blandt flere beviser i en sag, og betydningen af et bevis i form af teledata vil altid bero på en konkret vurdering af dels det enkelte bevis, dels sagens samlede omstændigheder i øvrigt.
+ Det vil i sidste ende være retten som afgør, hvilken bevismæssig vægt et bevis i form af teledata skal tillægges i den enkelte sag, jf. princippet om den fri bevisbedømmelse.
+ Nedenfor gennemgås de væsentligste fejlkilder og usikkerheder.
+2.5.1. Geografisk lokalisering af en telefon En telefons forbindelse til master påvirkes af en række tekniske og fysiske forhold som f.eks. antennens justering, højdemæssige placering og den anvendte transmissionsteknologi og frekvens samt vejrlig, landskab og bygningsmasse.
+Disse forhold betyder bl.a., at en telefon kan koble på andre master end den, der er nærmest.
+Tilsvarende gælder, hvis den nærmeste mast er overbelastet af trafik eller ramt af driftsforstyrrelser.
+Det er derfor heller ikke muligt ud fra masteoplysninger at stedfæste en telefon med samme præcision, som f.eks. en GPS.
+Præcisionen ved lokalitetsdata fra teledata spænder fra ned til få hundrede kvadratmeter i tættere bymæssig bebyggelse til adskillige kvadratkilometer i landområder.
+ Registreringsfejl kan herudover føre til, at en masts placering og celleretning ikke er korrekt angivet i teledata.
+Betydningen af de usikkerheder, der gør sig gældende i forhold til at lokalisere en telefon eller til at kortlægge bevægelsesmønstre på baggrund af masteoplysninger, mindskes, hvis der er flere datapunkter, som understøtter samme billede (f.eks. et bevægelsesmønster). Der henvises desuden til det uvildige notat (bilag 1). Hvis teledata f.eks. viser, at en telefon succesivt er registreret på telemaster langs motorvejen fra København til Århus og derefter fra Århus til København, vil det alt andet lige være en stærk indikation på, at telefonen har bevæget sig fra København og til Århus og retur.
+Det gælder uanset de ovenfor omtalte usikkerheder.
+2.5.1.1. En telefons geografiske lokalisering ved afsendelse af SMS Hvis den geografiske lokalisering ved afsendelse af en SMS er af betydning for en straffesag, er det vigtigt at kontrollere konverteret data op imod rådata for både startpositionen og slutpositionen, da der i meget få tilfælde kan forekomme en difference mellem start- og slutcelle ved afsendelse af en SMS.
+Dette kan eksempelvis skyldes, at telefonen er i bevægelse under afsendelse af en længere SMS og derfor skifter celle eller telemast.
+ Hvis der er en slutmast angivet i rådata (og dermed også i konverteret data fra april 2020 og frem), så er det slutmasten, der kan anvendes som indikation på telefonens geografiske lokalisering ved afsendelsen af SMS-beskeden.
+2.5.1.2. Tidsregistrering af oplysninger om lokalisering Der kan være forskellig praksis for, hvordan teleselskaber tidsregistrerer lokaliseringsoplysninger.
+Et teleselskab leverer af tekniske årsager pt. kun oplysninger om lokaliseringen af en tændt mobiltelefon i hele klokketimer, uanset på hvilket minuttal registreringen er foretaget.
+Ved indhentning af kendelser om udlevering af allerede registrerede teledata (tidligere benævnt signaliseringsdata) i medfør af retsplejelovens § 804, stk. 1, bør det fremgå, hvis udlevering af oplysninger f.eks. kun kan ske i hele klokketimer.
+Det medfører, at anmodningsrapporten bør indeholde oplysninger om dels den relevante periode ifht. efterforskningen, og dels hvilken periode teleselskabet vurderes i stand til at levere, således at dette kan indgå i rettens vurdering af, om editionsbetingelserne er opfyldt.
+2.5.2. Manglende oplysninger om telekommunikation i rådata Det er et generelt opmærksomhedspunkt, at der kan mangle oplysninger om telekommunikation i rådata.
+Det kan bl.a. skyldes forskelligartet praksis hos teleudbyderne vedrørende registrering af ikke-logningspligtig data.
+Anvendelse af nye internetbaserede samtaletjenester mv. kan desuden indebære, at kommunikation mellem enheder ikke registreres fuldstændigt, ligesom der kan være forskel på, hvilke oplysninger teleudbyderne logger.
+ Det vil som udgangspunkt ikke være muligt at afdække, om der har været telekommunikation på en telefon, som ikke fremgår af rådata, idet de pågældende aktiviteter i givet fald ikke er lagret hos teleudbyderen.
+ Der bør derfor generelt udvises forsigtighed med at tillægge manglende data om aktiviteter den betydning, at der ikke har været telekommunikation på en telefon, navnlig når der er tale om ikke-logningspligtige data.
+2.5.3. Rækketab ved konvertering I forbindelse med politiets konvertering af rådata kan der forekomme såkaldte rækketab, hvorved hele rækker med aktiviteter fra rådata ikke kommer med i den konverterede data.
+Rækketab imødegås gennem en anmærkningsfri valideringsrapport se pkt. 2.4.3 eller ved en kvalitetskontrolrapport, hvis der ikke foreligger en anmærkningsfri valideringsrapport.
+Se pkt. 3.4.
+2.5.4. Usikkerheder ved mobildata Mobildata er generelt forbundet med betydelig usikkerhed.
+Det gælder både allerede registrerede oplysninger om (historiske) mobildatasessioner, der er beskrevet under pkt. 2.5.2., og løbende registreringer om mobildatasessioner, herunder tidsstemplingen af mobildatasessionerne, og indholdet af mobildata, der modtages som led i en telefonaflytning fra teleselskaberne.
+Særligt tidspunkter for angivelse af mobildatasessioner kan være forbundet med væsentlig usikkerhed, hvorfor disse ikke kan tillægges samme betydning, som når en mobiltelefon anvendes til kommunikation, som eksempelvis opkald og afsendelse af sms.
+Hertil kommer at tidsstemplingen af mobildata, som politiet modtager fra tre ud af fire teleudbydere, først sker ved modtagelsen i Rigspolitiets aflytningssystem.
+Det indebærer, at der under normale omstændigheder vil være en tidsforskydning på få sekunder.
+I helt særlige situationer kan der imidlertid opstå større tidsforskydninger ved tidsstempling af mobildata i aflytningssystemet, navnlig i forbindelse med service eller ved nedbrud.
+I disse tilfælde bliver mobildata først tidsstemplet, når service er overstået eller ved genetablering efter nedbrud.
+Her vil alle de mobildata, som er modtaget i bufferne under lukningen, få et tidsstempel svarende til det tidspunkt, hvor systemet åbnes igen.
+Bufferen kan maksimalt indeholde data for 24 timer, men typisk vil et servicevindue vare 2-3 timer og dermed medføre en tilsvarende forskydning.
+ Herudover kan der være et betydeligt datatab i indholdet af mobildata i forbindelse med transmissionen mellem teleudbyderne og politiets systemer, når mobildata modtages som led i aflytning af en telefon.
+ Et fravær af registrerede mobildatasessioner og/eller fravær af indhold kan derfor ikke anvendes til at udelukke, at der har været anvendt mobildata på den pågældende telefon eksempelvis på et givet tidspunkt eller i en given anledning.
+2.5.5. Manipulation af teledata I forbindelse med opkald og SMS-beskeder er det ved brug af hjemmesider eller apps bl.a. muligt at ændre visningen af det anvendte telefonnummer (A-nummeret) til et andet telefonnummer, således at det for modtageren (B-nummeret) fremstår som et andet telefonnummer, der står bag opkaldet eller SMS-beskeden.
+ Denne type af manipulation kan afdækkes ved at indhente teledata vedrørende A-nummeret, idet det heraf vil fremgå, at nummeret ikke har været anvendt til den pågældende aktivitet.
+2.5.6. Signaleringsdata Signaleringsdata er forbundet med større usikkerhed end logningspligtige teledata, da registreringen ikke sker kontinuerligt.
+Der kan derfor mangle data.
+Derudover indebærer signaleringsdata den yderligere usikkerhed, at de pågældende teledata ikke registreres på samme måde, som når den mobile enhed er i aktiv brug.
+Endelig konverteres signaleringsdata fra to teleudbydere med anden software end de øvrige teledata, ligesom  det ikke er muligt at kontrollere data modtaget fra disse udbydere ved at sammenholde rådata og konverteret data, da rådata ikke er tilgængelig uden særlige forudsætninger.
+Det indebærer, at signaleringsdata ikke har samme bevisværdi som øvrige teledata, og at oplysninger fra signaleringsdata generelt bør søges underbygget ved foretagelse af øvrige efterforskningsskridt.
+2.5.7. Teleobservation Teleobservation gennem løbende indhentning af teledata har nogle af de samme usikkerheder som signaleringsdata.
+Bl.a. er det ikke muligt at kontrollere teledata fra flere teleudbydere ved at sammenholde rådata og konverteret data.
+Det indebærer, at teleobservation ikke har samme bevisværdi som øvrige teledata, og at oplysninger fra teleobservation generelt bør søges underbygget ved foretagelse af øvrige efterforskningsskridt.
+2.5.8. Udenlandsk teledata Ved anvendelse af teledata indhentet i udlandet bør det ud fra et forsigtighedsprincip som udgangspunkt lægges til grund, at der kan være tilsvarende potentielle usikkerheder og fejlkilder.
+3. Politiets efterforskning og sagsbehandling 3.1. Anvendelse af teledata under efterforskningen Teledata anvendes af politiet som efterforskningsredskab.
+Det gælder navnlig i sager om alvorlig og organiseret kriminalitet samt i terrorsager.
+I de indledende efterforskningsfaser anvendes teledata typisk til at målrette politiets efterforskning.
+Teledata vil eksempelvis kunne lede politiet på sporet af personer og adresser, som er af interesse for efterforskningen, og teleobservation vil kunne anvendes til løbende at følge en persons færden.
+I senere efterforskningsfaser kan teledata eksempelvis bruges til at kortlægge mistænktes færden og kontakten til andre personer i sagen.
+Det kan f.eks. være relevant at belyse, om en mistænkts telefon har været i nærheden af gerningsstedet på gerningstidspunktet.
+ Brugen af teledata under efterforskningen kan både være med til styrke og svække (eller helt udelukke) politiets mistanke mod en bestemt person, og politiet skal påse, at alle relevante oplysninger bliver tilvejebragt.
+3.2. Indhentning af teledata Politiets indhentning af teledata i forbindelse med efterforskning af kriminalitet reguleres af reglerne om indgreb i meddelelseshemmeligheden i retsplejelovens kapitel 71 samt reglerne i kapitel 74 om edition.
+Indgreb i meddelelseshemmeligheden og pålæg om edition kan alene ske efter indhentelse af en retskendelse, medmindre indgrebets øjemed ville forspildes, hvis retskendelse skulle afventes.
+I så fald skal indgrebet forelægges for retten senest 24 timer fra indgrebets iværksættelse.
+ Ved retsmøder under efterforskningen møder anklagemyndigheden, og der skal ved indhentelse af kendelse om indgreb i meddelelseshemmeligheden beskikkes en advokat for den, som indgrebet vedrører, og advokaten skal have lejlighed til at udtale sig.
+ Forud for indhentning af teledata skal politiet vurdere, om retsplejelovens betingelser er opfyldt.
+Hvis politiet vurderer, at retsplejelovens betingelser er opfyldt for det pågældende indgreb, udfærdiger politiet en efterforskningsrapport, der nærmere redegør for sagen, og for at betingelserne for indhentning af den ønskede kendelse er opfyldt.
+Politiet afleverer herefter sagen til anklagemyndigheden, der foretager en selvstændig vurdering af, om betingelserne for indhentning af kendelsen er opfyldt.
+Hvis anklagemyndigheden ikke finder, at betingelserne for indhentning af kendelsen er opfyldt, tilbageleveres sagen til politiet med anmodning om uddybning af materialet, hvis dette er muligt.
+ Hvis anklagemyndigheden er enig i, at betingelserne for indhentning af den pågældende kendelse er opfyldt, fremsættes anmodningen om kendelse for en dommer, der herefter afsiger en kendelse.
+ Se også Rigsadvokatmeddelelsesafsnit om anvendelse af trafik- og lokaliseringsdata i straffesager (logning), pkt. 4.
+3.3. Bestilling og levering af teledata Teledata bestilles hos Rigspolitiets Telecenter.
+I praksis er det sagsbehandleren i politikredsen mv., der håndterer bestillingen.
+Bestillingen indeholder bl.a. angivelse af, hvilke udbydere teledata skal indhentes hos, og hvilken periode bestillingen vedrører.
+Telecentret formidler herefter bestillingen til de relevante teleudbydere med anmodning om levering af teledata.
+ Når en teleudbyder har modtaget bestillingen fra Rigspolitiet, indhenter teleudbyderen de bestilte teledata i sit netværk og leverer herefter teledata som rådata til telecentret.
+Rådata leveres af teleudbyderen i form af et eller flere regneark.
+Hvert regneark indeholder et antal rækker, hvor hver række som udgangspunkt repræsenterer én aktivitet i form af en bestemt datatype. Én aktivitet i rådata er udtryk for én aktivitet på en telefon eller en telemast, dvs. ét opkald, én sms mv.
+Når Telecentret efterfølgende stiller teledata til rådighed for rekvirenten, består dette af en vejledning og to datasæt. Ét datasæt med rådata og ét datasæt med konverteret teledata.
+Efter april 2020 vil Telecenteret tillige levere en valideringsrapport, der indeholder en ekstern tredjeparts kontrol af den konvertering, Telecenteret har foretaget.
+Se pkt. 2.4.3.
+Konverteringen indebærer en ensretning af beskrivelsen af de datatyper, der er indeholdt i rådatasættet, således at hver enkelt datatype bliver benævnt på samme måde, uafhængigt af hvilken teleudbyder data kommer fra.
+Formålet med konverteringen er at sikre, at oplysningerne fremstår ensartede og genkendelige under efterforskningen og ved fremlæggelse i retten.
+ 3.4. Kvalitetskontrolrapport mv.
+Politiet skal udvise særlig opmærksomhed ved gennemgangen, kontrollen og brugen af teledata, herunder i forhold til de potentielle fejlkilder og usikkerheder, der kan være i teledata, jf.
+Rigspolitiets retningslinjer for politiets brug af teledata under efterforskningen af 30. august 2019 (bilag 7) og Rigspolitiets vejledning om håndtering og kvalitetskontrol af teledata under efterforskningen af 25. maj 2020 (bilag 7a). Vejledningen er tilgængelig på POLintra.
+ Inden sagen overdrages til anklagemyndigheden  herunder i forbindelse med retsmøder under efterforskningen  skal politiet udarbejde en rapport om hvilke teledata, der er indhentet i sagen, og om hvordan kvaliteten af teledata er kontrolleret.
+ Kvalitetskontrolrapporten bør bl.a. beskrive:
+ hvilke teledata der er rekvireret og leveret, herunder hvordan de eventuelt er blevet behandlet,  hvilken kvalitetskontrol, der er foretaget af konverteret data (undersøgelse for rækketab, validering op i mod rådata mv.),  om der er usikkerheder og fejlkilder i teledata, som vurderes at være særligt relevante i sagen, og  hvilke efterforskningsmæssige tiltag mv. der eventuelt er foretaget for at imødegå mulige usikkerheder og fejlkilder i teledata.
+ De nødvendige krydshenvisninger til rådata skal endvidere fremgå af sagen.
+Hvis der foreligger en anmærkningsfri valideringsrapport, vil det være tilstrækkeligt at henvise hertil for såvidt angår de to første punkter, ligesom krydshenvisninger til rådata ikke skal fremgå af sagen.
+Hvis der er foretaget en lokal behandling af teledata skal denne fortsat beskrives.
+De to sidste punkter bør fortsat beskrives.
+ I de sager, hvor de konverterede data har været efterprøvet i forbindelse med Deloittes undersøgelse, jf. pkt. 2.4.1, skal politiet rekvirere datapakkerne gennem Rigspolitiets Telecenter, og datapakkerne skal så vidt muligt indgå i sagen.
+ Rådata, konverterede data, valideringsrapporten, Vejledning til valideringrapport af historiske teledata, kvalitetskontrolrapporten, de nødvendige krydshenvisninger til rådata, det uvildige notat, samt Rigspolitiets terminologiskemaer (bilag 2a-2e) skal som altovervejende udgangspunkt bilageres ind i sagen.
+3.4.1. Særligt om behandling af sager i en overgangsperiode I sager, som er afleveret til anklagemyndigheden før udarbejdelsen af disse retningslinjer, skal anklageren sikre, at dokumenterne omtalt under pkt. 3.4 hurtigst muligt  og senest inden hovedforhandlingen  tilvejebringes og bilageres ind i sagen.
+ Hvis det undtagelsesvist ikke er muligt for politiet at udarbejde en kvalitetskontrolrapport eller de nødvendige krydshenvisninger, før hovedforhandlingen påbegyndes, kan anklageren overveje at indkalde en efterforsker med indblik i sagen til at deltage i retsmødet og om nødvendigt at redegøre for den kvalitetskontrolrapport, der er udført, samt for sammenhængen mellem konverteret data og rådata i sagen.
+ Alternativt kan anklageren overveje at drøfte fremgangsmåden for dokumentation af teledata med forsvareren og retten.
+3.5. Retsmøder under efterforskning Anklageren skal forud for retsmødet sikre sig, at kvalitetskontrolrapporten indeholder de nødvendige oplysninger, se pkt. 3.4.
+Såfremt der endnu ikke foreligger en valideringsrapport, skal dokumentation af teledata i vidt omfang basere sig på rådata.
+Det betyder, at der kan dokumenteres direkte fra rådata eller på baggrund af konverteret data som hjælpebilag via de nødvendige krydshenvisninger til rådata.
+ Når der foreligger en valideringsrapport, se pkt. 2.4.3, kan dokumentation af teledata ske direkte fra konverteret data, hvis de konverterede data fra den pågældende teleudbyder er uden anmærkninger.
+ Hvis der helt undtagelsesvist på grund af uopsættelige efterforskningsskridt, der skal indbringes for retten, ikke kan indsættes krydshenvisninger til rådata, skal en efterforsker med indblik i sagen, i stedet som udgangspunkt deltage i retsmødet sammen med anklageren med henblik på om nødvendigt at redegøre for sammenhængen mellem konverteret data og rådata.
+ Rigspolitiets terminologiskemaer (bilag 2a-2e) kan i fornødent omfang anvendes til at oversætte rådata.
+I de sager, hvor de konverterede data har været efterprøvet i forbindelse med Deloittes undersøgelse, vil anklageren kunne anvende Deloittes datapakke til dokumentation af teledata.
+De identificerede fejl skal i den forbindelse dokumenteres i relevant omfang, så straffesagens aktører har mulighed for at forholde sig til fejlene og den eventuelle betydning heraf.
+4. Tiltalerejsning og forberedelse af hovedforhandlingen 4.1. Anvendelse af teledata som grundlag for tiltalerejsning Inden anklageren tager stilling til tiltalespørgsmålet, skal anklageren kontrollere, om der foreligger en anmærkningsfri valideringsrapport, og om politiet har udfærdiget kvalitetskontrolrapporten med de nødvendige oplysninger om usikkerheder og fejlkilder i teledata, som vurderes at være særligt relevante i sagen.
+Herefter kan anklageren tage stilling til tiltalespørgsmålet.
+I den forbindelse skal anklageren forholde sig til de relevante teledata og de opmærksomhedspunkter, der er forbundet med anvendelse af teledata i straffesager.
+Se nærmere herom under pkt. 2.4 og 2.5.
+ I forbindelse med sin stillingtagen til tiltalespørgsmålet skal anklageren også vurdere, om der er foretaget de nødvendige efterforskningsskridt for at imødegå de usikkerheder, der er ved anvendelse af teledata i den konkrete sag, eller om der skal iværksættes yderligere efterforskningsskridt.
+Som omtalt under pkt. 2.5.1 vil den bevismæssige værdi af teledata til geografisk lokalisering af en telefon alt andet lige være højere, hvis der er flere datapunkter, der understøtter samme billede.
+Behovet for at foretage efterforskningsskridt vil i givet fald være tilsvarende mindre.
+Hvis der alene er ét eller enkelte datapunkter, som understøtter samme billede, vil der omvendt være et større behov for at foretage yderligere efterforskningsmæssige skridt.
+Det kan f.eks. ske ved at efterprøve den fysiske placering af én eller flere konkrete sendemaster, hvis masternes placering er af væsentlig bevismæssig betydning.
+Det kan bl.a. ske ved indhentning af supplerende oplysninger om masters placering fra offentlige myndigheders hjemmesider eller fra teleudbyderen eller gennem fysisk besigtigelse.
+ I de tilfælde, hvor teledata er et helt centralt bevis, kan det bl.a. være relevant at indkalde vidner, der kan belyse, hvordan og med hvilken usikkerhed de centrale teledata kan tolkes i den konkrete sag.
+Anklageren skal ved sin vurdering af tiltalespørgsmålet generelt være opmærksom på, at teledata kan være mangelfulde.
+Hvis forklaringer eller andet giver anledning til det, bør der i relevant omfang iværksættes yderligere efterforskning for at afdække, om teledata er mangelfulde.
+ Særligt i sager, hvor teledata udgør et centralt bevis, skal anklageren i forbindelse med udfærdigelse af bevisfortegnelsen og eventuel tidsplan overveje  eventuelt efter forudgående drøftelse med forsvareren, jf. pkt. 4.3    om der skal afsættes yderligere tid til dokumentation af teledata og behandling af indsigelser mv. i den forbindelse.
+4.1.1 Fejlagtigt udleverede oplysninger Retsplejelovens regler om tvangsindgreb indeholder ikke bestemmelser, der særligt regulerer det tilfælde, hvor en teleudbyder fejlagtigt videregiver flere oplysninger til politiet, end en kendelse om eksempelvis edition omfatter.
+Selvom reglerne om tilfældighedsfund ikke finder direkte anvendelse, bør principperne i retsplejelovens § 789 om tilfældighedsfund imidlertid som udgangspunkt følges, herunder for at sikre fuld transparens for rettens aktører.
+ Anklagemyndigheden bør i alle tilfælde sikre, at oplysningernes tilvejebringelse tydeligt fremgår af sagen.
+Hvis anklagemyndigheden ønsker at anvende oplysningerne som bevis, skal det medtages i bevisfortegnelsen under udtrykkelig angivelse af, at der er tale om fejlagtigt udleverede oplysninger.
+Herefter har forsvareren mulighed for at begære spørgsmålet forelagt for retten til afgørelse efter princippet i § 841, stk. 1, inden hovedforhandlingen.
+Det vil i alle tilfælde være op til retten at vurdere hvilken konkret bevismæssig betydning sådanne oplysninger kan tillægges.
+ I det omfang fejlagtig udleverede oplysninger indgår i sagen, er de omfattet af de almindelige regler for straffesagers behandling, herunder reglerne for arkivering, destruktion mv.
+4.2. Analyseprodukter og visualiserende produkter Anklageren skal som led i forberedelsen af hovedforhandlingen gøre sig overvejelser om, hvorvidt der er behov for yderligere analyseprodukter, og hvordan teledata bedst præsenteres for retten.
+ I de fleste sager vil det være tilstrækkeligt at fremlægge de analyser og andet materiale, der er udfærdiget på baggrund af teledata i sagen, i den form, de foreligger.
+I navnlig de større sager vil der kunne være behov for udarbejdelse af yderligere analyser, herunder med inddragelse af teleanalytikere og medarbejdere i EAE mv.
+Analyserne vil bl.a. kunne bestå i konsolidering af datafiler (rådata) fra forskellige teleudbydere samt supplering af data i en Excel-projektmappe, eller i analyser af bevægelsesmønstre eller en enheds placering, der kan visualiseres på et mastekort, jf. pkt. 4.2.2. Det vil typisk også være nødvendigt med vidneførsel af efterforskere eller teleanalytikere vedrørende bearbejdningen af teledata i sagen, og i nogle sager vil der være behov for at indhente sagkyndige udtalelser om komplicerede tekniske forhold vedrørende teledata f.eks. fra en teletekniker fra en teleudbyder.
+Det kan også være relevant at visualisere analyser og kort ved hjælp af PowerPoint på storskærm for retten.
+Hvis præsentationen fremstiller oplysningerne på anden måde end bilagsmaterialet, bør anklageren sende præsentationen til forsvarerne forud for hovedforhandlingen.
+ I meget store sager vil teknisk support i forbindelse med præsentationen af teledata typisk være nødvendig.
+4.2.1. Excel-projektmappe  overblik over alle kaldsdata (bilag 3  3b) Alle kaldsdata, der er rekvireret vedrørende et bestemt fokusnummer eller for en hel sags fokusnumre, kan samles i en Excel-projektmappe.
+Projektmappen udgør datagrundlaget for alle efterfølgende analyser og består af følgende:
+  Pivot/Polta/Pol-tele  (kaldenavn) (bilag 3) viser kaldsdata opstillet på en brugervenlig måde, hvor det ved hjælp af funktionen autofilter er muligt at filtrere sig frem til de ønskede data.
+ Telefontavle/telefonbog (bilag 3a) viser, hvem der anvender et bestemt telefonnummer i det samlede kaldsmateriale.
+I telefontavlen angives, hvordan brugeren af et bestemt telefonnummer er identificeret, f.eks. ved hjælp af 118, efterforskningsskridt eller andet.
+  Dataoversigt (bilag 3b) viser fokusnummeret, rekvisitionsperioden, journalnummer, teleudbyder samt på hvilken måde oplysningerne om fokusnummeret er tilvejebragt (aflytning, historiske teleoplysninger, samtykke).
+  Kopi af kaldsdata indeholder de samlede kaldsdata for sagen, som politikredsen har modtaget fra Rigspolitiets Telecenter, før der er foretaget bearbejdning af data til pivot/Polta/Pol-tele.
+4.2.2. Mastekort vedrørende kaldsdata (bilag 4  4b) Et mastekort vedrørende kaldsdata kan f.eks. bruges til at vise, om en telefon har befundet sig i nærheden af et gerningssted på gerningstidspunktet.
+ Ved brug af mastekortet i forbindelse med præsentation af teledata i retten udfærdiges som regel tre bilag:
+ Kortet (bilag 4) er selve den geografiske visualisering af masternes placering sammenholdt med øvrige relevante lokationer som f.eks. gerningssted, bopæl mv.
+Over kortet anføres typen af data (f.eks. kaldsdata), fokusnummer og tidsrum. Øverst i højre side af kortet anføres det eller de pågældende fokusnumre med hver deres farvebaggrund.
+Teledata og øvrige informationer f.eks. vejnavne, gerningssted mv. angives på kortet.
+Tidspunkter for teledata anføres med samme farve som relevante fokusnumre.
+Der bør anføres en målestok på kortet og oplysninger om, hvilken politikreds eller enhed der har udfærdiget kortet.
+  Datagrundlaget (bilag 4a) indeholder data fra pivot/Polta/Pol-tele i bilag 3. Disse data udgør selve grundlaget for visualiseringen på kortet (bilag 4). Gerningstidspunktet kan med fordel markeres, sådan at brugeren nemt kan forholde sig til data i forhold til et gerningstidspunkt.
+ Den forklarende rapport (bilag 4b) beskriver objektivt de resultater, som kortet visualiserer, og som data danner grundlag for.
+Rapporten er som udgangspunkt struktureret med følgende indhold: dato for udfærdigelse af rapporten, sagens journalnummer, overskrift, beskrivelse af opgaven, oplysninger om datagrundlaget for kortets udfærdigelse, vejledning om, hvordan kortet skal læses og en konklusion.
+4.3. Dialog med forsvareren og retten I sager, hvor teledata udgør et centralt bevis, bør anklageren overveje  forud for sagens hovedforhandling  skriftligt at høre forsvareren om eventuelle indsigelser mod den påtænkte anvendelse af teledata.
+Et sådan brev vil bl.a. være med til at afklare behovet for bevisførelse om teledatas validitet og bidrage til udfærdigelsen tidsplanen.
+ I sager med omfattende teledata og flere forsvarere bør anklageren overveje, om det vil være mere hensigtsmæssigt at anmode retten om et forberedende retsmøde, med henblik på at få afklaret om der er indsigelser mod den påtænkte anvendelse af teledata, ligesom sagens nærmere tilrettelæggelse vil kunne drøftes mellem alle aktører.
+ Anklageren vil herefter på den baggrund kunne tage stilling til, om der er behov for yderligere bevisførelse i sagen, herunder eksempelvis indkaldelse af efterforskeren, en teleanalytiker eller et sagkyndigt vidne fra den relevante teleudbyder.
+5. Hovedforhandlingen 5.1. Dokumentation af teledata under hovedforhandlingen I alle straffesager, hvor teledata fremlægges som bevis under sagen, vil de relevante dele af det uvildige notat (bilag 1) i fornødent omfang skulle dokumenteres.
+Det samme gælder valideringsrapporter udarbejdet fra ultimo april 2020.
+Når der foreligger en valideringsrapport, se pkt. 2.4.3, kan dokumentation af teledata under hovedforhandlingen ske direkte fra konverteret data, hvis de konverterede data fra den pågældende teleudbyder er uden anmærkninger.
+Såfremt konverteringen fra en eller flere teleudbydere ikke er anmærkningsfri skal teledata i stedet i vidt omfang basere sig på rådata som hidtil.
+Såfremt der undtagelsesvis ikke foreligger en valideringsrapport skal dokumentation af teledata under hovedforhandlingen skal i vidt omfang basere sig på rådata.
+Det betyder, at der  i det omfang det er muligt  bør dokumenteres direkte fra rådata, eller på baggrund af konverteret data som hjælpebilag, når sagen samtidig indeholder de nødvendige krydshenvisninger til rådata.
+ Rigspolitiets terminologiskemaer (bilag 2a-2e) kan i fornødent omfang anvendes af anklageren til at oversætte rådata.
+I de sager, hvor de konverterede data har været efterprøvet i forbindelse med Deloittes undersøgelse, vil anklageren kunne anvende Deloittes datapakke til dokumentation af teledata.
+De identificerede fejl skal i den forbindelse dokumenteres i relevant omfang, så straffesagens aktører har mulighed for at forholde sig til fejlene og den eventuelle betydning heraf.
+5.2. Supplerende bevisførelse Hvor der er tale om komplicerede analyser af bevægelsesmønstre e.l., vil anklageren typisk afhøre den efterforsker eller teleanalytiker, der har udarbejdet analysen, som vidne under hovedforhandlingen.
+Anklageren skal endvidere  hvor det er relevant  afhøre andre relevante vidner og præsentere den yderligere efterforskning, der kan understøtte eller supplere den foreliggende teledata i sagen.
+Se i øvrigt pkt. 4.3.
+ Hvis der under hovedforhandlingen rejses begrundede spørgsmål vedrørende validiteten af teledata, som ikke tidligere har været fremme, må anklageren overveje, om der undtagelsesvist er behov for at begære sagen udsat med henblik på yderligere efterforskning eller indkaldelse af yderligere vidner, der nærmere kan belyse de rejste spørgsmål.
+ 5.3. Anvendelse af PowerPoint mv.
+Ved anvendelse af PowerPoint i forbindelse med præsentationen vil anklageren kunne indlede med en dokumentation af de underliggende pivottabeller til den pågældende PowerPoint.
+I pivottabellen vil det  udover hvor telefonen geografisk har befundet sig  tillige kunne ses, hvilke telefoner den har været i kontakt med i et bestemt tidsrum.
+Dermed foreligger de relevante oplysninger i en enkel form med henblik på en efterfølgende afhøring af den tiltalte om dennes færden.
+Det er vigtigt, at det samtidig dokumenteres, hvor oplysningerne om brugerne af de øvrige telefoner stammer fra, herunder om oplysningerne er hentet fra 118, efterforskning eller på anden vis.
+Dette kan gøres ved hjælp af telefontavlen i bilag 3a.
+ Yderligere teledata, som skal dokumenteres, herunder eventuelt i forbindelse med afhøringen, kan ske fra den samlede pivottabel eller eventuelt udskilles i særskilte bilag på samme måde som datagrundlaget til mastekort i bilag 4a.
+PowerPoint-præsentationen kan herefter vises på en storskærm.
+I sager med mange PowerPoint-slides er det hensigtsmæssigt at udfærdige og udlevere en mappe med hele PowerPoint-præsentationen til rettens medlemmer.
+I sager med færre PowerPoint-slides kan disse bilageres ind i sagen, så rettens medlemmer ligeledes har et eksemplar, som de kan genopfriske oplysningerne ud fra eller notere på.
+ I større sager vil anklageren typisk som illustration dokumentere udvalgte oplysninger fra pivottabellen, hvorefter det i almindelighed vil være tilstrækkeligt at vise PowerPoint-præsentationen og blot fremhæve de nødvendige oplysninger i de underliggende pivottabeller, som eventuel skal bruges i forbindelse med den efterfølgende afhøring af den/de tiltalte.
+I sager, hvor der præsenteres teledata som led i bevisførelsen, må anklageren være forberedt på, at der vil kunne blive rejst spørgsmål af straffeprocessuel karakter.
+Det kan f.eks. være spørgsmål om, hvorvidt der under bevisførelsen kan henvises til politiets kaldenavne for de anvendte telefoner, eller om navne og benævnelser fra f.eks. ransagning af andre telefoner i sagen kan anvendes i forbindelse med bevisførelsen, herunder i pivottabeller og PowerPoint-præsentationer.
+Der kan i den forbindelse henvises til Østre Landsrets kendelse af 19. september 2011 (bilag 5) og Retten i Glostrups kendelse af 18. april 2012 (bilag 6).

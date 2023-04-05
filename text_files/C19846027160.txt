@@ -1,0 +1,3616 @@
+Vejledning om måling af ekstern  
+
+ støj fra virksomheder FORORD I forbindelse med miljøbeskyttelseslovens  
+
+ ikrafttræden den 1. oktober 1974 udsendte Miljøstyrelsen i  
+
+ begyndelsen af 1974 en række vejledninger, heriblandt  
+
+ Miljøstyrelsens vejledning nr. 3/1974 om ekstern støj fra  
+
+ virksomheder.
+Vejledningen har siden miljøbeskyttelseslovens  
+
+ ikrafttræden været anvendt som administrationsgrundlag for  
+
+ såvel centrale som decentrale myndigheder.
+Vejledningen har endvidere  
+
+ været anvendt af rådgivende ingeniører og virksomheder i  
+
+ forbindelse med etablering af nye virksomheder og ved udvidelse eller  
+
+ ændring af eksisterende virksomheder.
+På grundlag af de i den forløbne tid  
+
+ indhøstede erfaringer og som følge af den udvikling, der er  
+
+ sket på det måletekniske område, har Miljøstyrelsen  
+
+ nu fundet det hensigtsmæssigt at revidere vejledningen fra 1974. Man  
+
+ har samtidig fundet det hensigtsmæssigt at opdele vejledningen i to  
+
+ dele.
+Dette skyldes ikke mindst den udvikling, der er sket på det  
+
+ måletekniske område.
+ For at sikre den nødvendige kvalitet af  
+
+ støjmålinger og for at være i stand til at yde vejledning  
+
+ til miljø- og levnedsmiddellaboratorier og til andre, der  
+
+ beskæftiger sig med støjmålinger, har  
+
+ Miljøstyrelsen 1. januar 1977 truffet aftale med Lydteknisk Institut  
+
+ under ATV om at varetage opgaven som Miljøstyrelsens  
+
+ Referencelaboratorium for Støjmålinger.
+Det har på denne baggrund været naturligt at  
+
+ lade Referencelaboratoriet1)  
+
+  udarbejde den her foreliggende måletekniske vejledning, der er et  
+
+ supplement til den samtidigt udsendte vejledning nr. 5/1984 fra  
+
+ Miljøstyrelsen: Ekstern støj fra virksomheder.
+Den her  
+
+ foreliggende vejledning er især henvendt til de teknikere, som skal  
+
+ varetage støjmålinger, hvis resultater skal danne grundlag for  
+
+ afgørelser i henhold til miljøbeskyttelsesloven.
+Indhold 1.
+MÅLEINSTRUMENTER 1.1 Generelt 1.2 Specifikationer 1.3 Kalibrering 1.4 Instrumentkontrol 1.5 Overvågning 2.
+MÅLETIDSRUM OG MÅLEPROCEDURE 2.1 Betegnelser for tidsrum 2.2 Stationær støj 2.3 Intermitterende støj 2.4 Fluktuerende støj 3.
+MÅLEBETINGELSER 3.1 Baggrundsstøj generelt 3.2 Støj genereret af vind 3.3 Korrektion for baggrundsstøjens indflydelse 3.3.1 LAeq 3.3.2 LpAmax 3.3.3 Eksempel 3.4 Meteorologiske forhold 3.5 Meteorologisk ramme 3.6 Måling af meteorologiske parametre 3.6.1 Vindhastighed 3.6.2 Vindretning 3.6.3 Temperaturgradient 4.
+MÅLERESULTATERS NØJAGTIGHED 4.1 Generelt 4.2 Instrumenter, kalibrering m.v.
+4.3 Varierende støjudsendelse 4.4 Varierende dæmpning under lydens udbredelse 4.5 Vurdering af måleresultaters nøjagtighed 4.5.1 Én måling af LAeq 4.5.2 Flere målinger af LAeq 4.5.3 LAeq for flere driftstilstande 4.5.4 LpAmax 5.
+MÅLEPOSITIONER UDENDØRS 5.1 Valg af målepositioner generelt 5.2 Bidrag fra refleksioner generelt 5.3 Fritfeltsmåling 5.4 "+3 dB måling" 5.5 "+6 dB måling" 5.6 Komplekse refleksionsforhold 6.
+MÅLEPOSITIONER INDENDØRS 7.
+KORREKTION FOR INDHOLD AF TONER 7.1 Generelt 7.2 Objektiv målemetode for toner i støj 7.3 Ikke-stationære forhold 8.
+KORREKTION FOR STØJENS VARIGHED 9.
+Korrektion for efterklangstid 9.1 Generelt 9.2 Måling af efterklangstid 9.3 Korrektionsprocedure 10.
+ADDITION AF STØJBIDRAG 11.
+RAPPORTERING   HUSKELISTE 12.
+SYMBOLLISTE 13.
+REFERENCER Afsnit 1.1 1. MÅLEINSTRUMENTER 1.1 Generelt Det skal altid angives i målerapporten, hvilke  
+
+ instrumenter der har været i brug ved dataindsamling og databehandling.  
+
+ Instrumenterne beskrives ved fabrikat, type nr. og identifikationsnr.
+Det  
+
+ angives, hvornår instrumentet senest er kontrolleret og/eller  
+
+ rekalibreret.
+ Instrumentindstillinger, som har særlig betydning  
+
+ for måleresultaterne, skal beskrives i målerapporten, f.eks.  
+
+ tidsvægtning, samplingprocedure og programmering af digitalt udstyr  
+
+ etc.
+ Alle instrumenter skal betjenes efter de retningslinier,  
+
+ som er givet af fabrikanten.
+1.2 Specifikationer Lydtrykmålere skal opfylde kravene i  
+
+ IEC-publikation 179 eller IEC-651 (type 1 eller lI). Det samme gælder  
+
+ eventuelle alternative systemers mikrofon, forstærker, filter og  
+
+ vægtningskredsløb.
+ Ved måling af maksimalværdien,  
+
+ LpAmax, af det A-vægtede lydtrykniveau anvendes  
+
+ tidsvægtning FAST (F).
+ I tilfælde, hvor der foretages  
+
+ niveauskriverregistrering (jf. afsnit 2.4), er det hensigtsmæssigt at  
+
+ anvende tidsvægtning FAST (F) for den samlede måleopstilling.
+ Ved skønsmæssig bestemmelse af det  
+
+ energiækvivalente, A-vægtede lydtrykniveau, LAeq  
+
+ anvendes normalt tidsvægtning SLOW (S) (jf. afsnit 2).
+Der findes endnu ingen internationale standarder for  
+
+ integrerende måleinstrumenter.
+Indtil sådanne standarder  
+
+ foreligger, anerkendes resultater af målinger udført med  
+
+ kommercielt tilgængelige instrumenter under forudsætning af,  
+
+ at LAeq bestemmes ud fra definitionen udtrykt ved LAeq = 10 log [1.1] idet pA(t) er øjebliksværdien af  
+
+ det A-vægtede lydtryk på tidspunktet t [  
+
+ Pa] po er referencelydtrykket = 20 m  
+
+ Pa t1 og t2 er henholdsvis start- og  
+
+ sluttidspunktet for måletidsrummet eller ud fra eventuelle instrumentmæssige  
+
+ tilnærmelser til denne formel.
+ Visningen af LAeq under referencebetingelser som defineret  
+
+ i IEC-651, afsnit 9.1 og 9.2.1, skal være korrekt med en tolerance  
+
+ på ±0,7 dB.
+ A-vægtning og niveauområdeskift, følsomhed over  
+
+ for forskellige miljøpåvirkninger samt retningskarakteristik  
+
+ opfylder kravene opstillet herom i IEC-651 for type 1 instrumenter.
+ Andet måleudstyr, som f.eks. statistisk  
+
+ fordelingsanalysator, niveauskriver, båndoptager mv., kan anvendes i  
+
+ den udstrækning, signalbehandlingen foregår i overensstemmelse  
+
+ med de relevante afsnit i IEC-651 for lydtrykmålere af type 1 eller  
+
+ lI.
+Anvendes båndoptagelse som led i  
+
+ måleproceduren, bør frekvenslineariteten med indstillingen  
+
+ "lineær", et eventuelt A-vægtningsfilter samt eventuelle  
+
+ attenuatorer overholde samme tolerancer som gældende for IEC-651 type 1  
+
+ lydtrykmålere.
+Hvis dette ikke kan opnås, må der tages  
+
+ hensyn til de derved opståede øgede tolerancer ved vurderingen  
+
+ af måleresultaterne, jf. afsnit 4.
+ Mikrofonen bør under måling altid være  
+
+ forsynet med vindskærm.
+Det anbefales at anvende vindretnings- og  
+
+ vindhastighedsfølere koblet til en registrerende enhed, der  
+
+ muliggør bestemmelse af såvel middelvindretning som  
+
+ middelvindhastighed over på hinanden følgende 10 min. perioder.  
+
+ Den foretrukne placering af følerne er 10 m over terræn.
+Andre  
+
+ højder kan eventuelt anvendes, jf. afsnit 3.6.
+1.3 Kalibrering Måleopstillingen skal kalibreres af brugeren i  
+
+ overensstemmelse med fabrikantens anvisninger i betjeningsvejledningen for  
+
+ hvert enkelt instrument.
+ Hele det akustiske målesystem skal kalibreres ved  
+
+ mindst én frekvens med passende mellemrum, som minimum ved begyndelse  
+
+ og afslutning af en måling.
+1.4 Instrumentkontrol Instrumenterne skal kontrolleres jævnligt efter  
+
+ de til enhver tid gældende retningslinier.
+Kontrollen skal give sporbar  
+
+ dokumentation for instrumenternes tilstand på tidspunktet for  
+
+ kontrollens udførelse.
+Nærmere oplysninger kan fås hos  
+
+ Miljøstyrelsen eller Referencelaboratoriet.
+Lydtrykmålere og mikrofoner bør kontrolleres  
+
+ mindst én gang hvert andet år.
+Akustiske kalibratorer bør  
+
+ kontrolleres mindst én gang årligt.
+1.5 Overvågning Under målingerne bør det sikres, at  
+
+ signalernes vej gennem måleopstillingen er stabil samt fri for  
+
+ forvrængning og elektrisk støj.
+I tilfælde, hvor ikke alle instrumenter i en  
+
+ måleopstilling er udstyret med overstyringsindikatorer, er det  
+
+ hensigtsmæssigt at anvende spidsværdivisende instrumenter eller  
+
+ en anden form for indikation af overstyring af instrumenterne.
+Medhør  
+
+ - eventuelt ved hjælp af hovedtelefoner - vil på enkel vis kunne  
+
+ afsløre ustabile forbindelser, forvrængning samt elektrisk  
+
+ støj i måleopstillingen.
+ Hvis det er muligt at foretage båndoptagelse, er  
+
+ dette ønskeligt af dokumentationshensyn, også i tilfælde  
+
+ hvor båndoptagelsen ikke er nødvendig for den videre  
+
+ databehandling.
+ Anvendes undtagelsesvis en uovervåget, automatiseret  
+
+ måleopstilling, er en båndoptagelse nødvendig for  
+
+ identifikation af støjkilderne.
+2. MÅLETIDSRUM OG MÅLEPROCEDURE 2.1 Betegnelser for tidsrum Med henblik på at opnå en ensartet  
+
+ sprogbrug introduceres i dette afsnit nogle betegnelser for forskellige  
+
+ tidsrum.
+Betegnelserne er anvendt i overensstemmelse med principperne i [ISO  
+
+ 1996].
+ Der anvendes følgende hovedbegreber:
+ Referencetidsrum: Det/de tidsrum, for hvilke(t) LAeq skal  
+
+ bestemmes i henhold til afsnit 2.2 i Miljøstyrelsens vejledning nr.  
+
+ 5/1984. For dagperioden drejer det sig om det mest støjbelastede 8  
+
+ timer lange tidsrum mellem kl. 07 og kl. 18, for aftenperioden den mest  
+
+ støjbelastede time i tiden kl. 18-22, og for natperioden den mest  
+
+ støjbelastede halve time i tiden kl. 22-07.
+ Observationstidsrum: Det/de tidsrum, i hvilke(t) støjen fra  
+
+ virksomheden overvåges.
+ Måletidsrum: Det/de tidsrum, hvori dataindsamling (integration)  
+
+ foregår.
+Såvel observationstidsrum som måletidsrum  
+
+ må ved enhver måleopgave vælges under hensyntagen til den  
+
+ konkrete situation.
+Dette behandles nærmere i afsnit 3 og 4.
+ I figur 2.1 er til illustration af betydningen af de  
+
+ omtalte begreber vist to (konstruerede) eksempler på det  
+
+ A-vægtede lydtrykniveau LpA(t) som funktion af tiden t.
+I figur 2.1.a betragtes LpA(t) i  
+
+ observationstidsrummet kl. 18-22. Referencetidsrummet er som nævnt 1  
+
+ time.
+Det antages, at det i det konkrete tilfælde ikke på  
+
+ forhånd er klart, hvornår den mest støjbelastede time  
+
+ forekommer.
+Derfor foretages båndoptagelse af støjen i  
+
+ målepositionen i hele tidsrumrnet kl. 18-22. Figuren viser en  
+
+ niveauskriverregistrering af LpA(t) udskrevet enten direkte  
+
+ på målestedet eller i laboratoriet.
+På basis af denne  
+
+ registrering, eventuelt suppleret med målte værdier af  
+
+ LAeq pr. 10 min., udvælges timen kl. 19.55-20.55 som  
+
+ repræsenterende den mest støjbelastede time.
+LAeq for referencetidsrummet kan bestemmes ved  
+
+ måling (integration) over hele tidsrummet kl. 19.55-20.55. Eventuelt  
+
+ kan LAeq bestemmes som vist på basis af stikprøver  
+
+ udtaget ved en såkaldt samplingprocedure, hvorved der f.eks. integreres  
+
+ over de viste tre 10 min. lange måletidsrum adskilt af 10 min. tidsrum,  
+
+ hvori der ikke måles.
+Sampling (stikprøveudtagning) er mest  
+
+ relevant ved måling over lange tidsrum samt i tilfælde, hvor man  
+
+ med samme udstyr ønsker at måle i flere målepositioner  
+
+ inden for samme observationstidsrum.
+Dette skal ikke omtales nærmere  
+
+ her, hvor formålet blot er at illustrere begrebernes principielle  
+
+ betydning.
+I figur 2.1.b er tilsvarende vist LpA(t)  
+
+ tæt ved en virksomhed med næsten konstant støjudsendelse i  
+
+ tidsrummet kl. 07-16, kun afbrudt af frokost- og middagspause.  
+
+ Referencetidsrummet er de mest støjbelastede 8 timer.
+Da det på  
+
+ forhånd vides, at LpA(t) er nogenlunde konstant, kan  
+
+ observationstidsrummet begrænses til f.eks. ca. 3 timer placeret kl.  
+
+ 09-12. Inden for denne tid måles LAeq over 3  
+
+ måletidsrum, hver af 10 min. varighed, adskilt af pauser på ca.  
+
+ 60 min., hvor der ikke måles i den betragtede måleposition.  
+
+ På basis af disse få og kortvarige observationer og med kendskab  
+
+ til driftstilstandens tidsmæssige variation kan LAeq for  
+
+ referencetidsrummet på 8 timer beregnes.
+Dette behandles mere  
+
+ indgående i afsnit 8 og 10.
+ Det ses af eksemplerne, at observationstidsrummet kan  
+
+ være såvel kortere som længere end referencetidsrummet.
+ Afhængigt af virksomhedens driftsforhold kan det  
+
+ være relevant at registrere støjudsendelsen over flere  
+
+ observationstidsrum, f.eks. på forskellige dage.
+Figur 2.1 Illustration af betydningen af forskellige betegnelser for tidsrum, jfr.  
+
+ teksten.
+ I visse tilfælde anvendes betegnelsen (jf. i  
+
+ øvrigt afsnit 8):
+ Driftstidsrum: Den/de del(e) af et referencetidsrum, i hvilke(n) en  
+
+ given driftstilstand forekommer.
+2.2 Stationær støj Ved stationær støj forstås her  
+
+ støj, hvis A- vægtede lydtrykniveau kun varierer lidt som  
+
+ funktion af tiden.
+Det kan eksempelvis være støjen i et punkt i  
+
+ nærheden af et ventilationsanlæg, der kører konstant.
+Et  
+
+ eksempel på registrering af det A-vægtede lydtrykniveau  
+
+ LpA(t) som funktion af tiden for en stationær støj er  
+
+ givet i figur 2.2.
+ Konstateres det ved aflæsning af viserudslaget  
+
+ på en lydtrykmåler (tidsvægtning SLOW (S)), at  
+
+ fluktuationerne af det A-vægtede lydtrykniveau er mindre end ±2  
+
+ à 3 dB omkring en middelværdi, kan LAeq med rimelig  
+
+ nøjagtighed skønnes som denne middelværdi af  
+
+ viserudslaget.
+Viserudslagets variation må iagttages i  
+
+ tilstrækkeligt lang tid i hver måleposition.
+Normalt bør  
+
+ måletidsrummet være på ca. 10 min, jf. afsnit 4.3-4.4.
+2.3 Intermitterende støj Ved intermitterende støj forstås her  
+
+ støj, hvis A-vægtede lydtrykniveau med regelmæssige  
+
+ mellemrum antager forskellige, hver for sig stationære værdier  
+
+ svarende til forskellige driftstilstande for virksomheden.
+Som eksempel  
+
+ herpå kan nævnes støjen i nærheden af en kompressor,  
+
+ hvis drift styres af luftbehovet.
+For intermitterende støj bestemmes LAeq  
+
+ som for stationær støj (afsnit 2.2) for hver driftstilstand,  
+
+ idet der anvendes et måletidsrum på ca. 10 min. for hver  
+
+ driftstilstand.
+I figur 2.3 er vist et (konstrueret) eksempel til  
+
+ illustration.
+En virksomheds støj udsendes af en kompressor samt et  
+
+ ventilationsanlæg.
+Kompressoren kører i 2 min. ca. hvert 10.  
+
+ min.
+LAeq af støjen fra kompressor og  
+
+ ventilationsanlæg, LAeq, 1, bestemmes ved måling i de  
+
+ viste fem måletidsrum à 2 min.: LAeq,1 =  
+
+ 53 dB re 20 m  
+
+ Pa.
+LAeq af støjen fra ventilationsanlægget alene  
+
+ bestemmes ved måling i de viste to måletidsrum à 5 min.:  
+
+ LAeq,2 = 44,5 dB re 20 m  
+
+ Pa.
+Figur 2.2 Illustration af stationær støj.
+Figur 2.3 Illustration af intermitterende støj.
+2.4 Fluktuerende støj Ved fluktuerende støj forstås her  
+
+ støj, hvis A-vægtede lydtrykniveau varierer med mere end ±2  
+
+ à 3 dB (tidsvægtnig SLOW (S)) samt tidsmæssigt på  
+
+ tilfældig måde.
+Fluktuationerne kan dels skyldes variationer i  
+
+ virksomhedens driftstilstand, og dels variationer i reduktionen af  
+
+ lydtrykniveauet under lydens udbredelse forårsaget af varierende  
+
+ meteorologiske forhold.
+Som et almindeligt forekommende eksempel på  
+
+ fluktuerende støj kan nævnes støjen fra trafik på  
+
+ en virksomheds areal.
+ Da det A-vægtede lydtrykniveau varierer mere end ±2  
+
+ à 3 dB (SLOW (S)), og da dets tidsmæssige variation er  
+
+ uregelmæssig, er det nødvendigt at bruge integrerende  
+
+ måleudstyr for at bestemme L Aeq med rimelig  
+
+ nøjagtighed.
+Når man skal beskrive støjen fra en  
+
+ virksomhed, er det hensigtsmæssigt at opdele virksomhedens  
+
+ driftsforhold i forskellige "tilstande". Opdelingen bør foretages,  
+
+ så virksomhedens støjudsendelse ved hver driftstilstand er  
+
+ konstant.
+Den nødvendige længde af måletidsrummet  
+
+ afhænger hovedsageligt af, hvor kompliceret virksomhedens  
+
+ driftstilstand er.
+Som omtalt i afsnit 4.4 vil der i løbet af ca. 10  
+
+ min. være midlet over de hurtige, meteorologisk betingede fluktuationer  
+
+ af lydtrykniveauet.
+Forudsætningen om "konstant støjudsendelse"  
+
+ indebærer, at eventuelle variationer af driftsforholdene må ske  
+
+ med periodetider af størrelsesordenen 1 min. eller mindre.
+Langsommere  
+
+ variationer bør i princippet behandles ved, at man beskriver flere  
+
+ forskellige driftstilstande, sådan at støjudsendelsen ved hver  
+
+ driftstilstand er rimeligt konstant.
+På basis af driftsstatistiske  
+
+ oplysninger og resultater af målinger af støjen fra hver  
+
+ driftstilstand kan man beregningsmæssigt fastlægge  
+
+ LAeq i hver måleposition på et forsvarligt grundlag.  
+
+ Forekommer i specielle tilfælde periodisk varierende driftsforhold,  
+
+ bør man måle LAeq over eksakt én eller over  
+
+ flere end tre perioder.
+ I praksis er man ofte henvist til blot at gentage  
+
+ målingen over flere af de i afsnit 4.4 anbefalede 10 min. lange  
+
+ måletidsrum.
+Store variationer (i forhold til standardafvigelserne  
+
+ angivet i afsnit 4.4) i de således målte værdier af  
+
+ LAeq, 10 min. indikerer, at opdelingen i driftstilstande er  
+
+ utilstrækkelig.
+Målingerne bør gentages mindst 3 à  
+
+ 5 gange, hver med 1-½ times mellemrum, inden for hvert observationstidsrum.
+I  
+
+ enkelte tilfælde vil en virksomheds driftsforhold være så  
+
+ komplicerede, at man på forhånd må opgive at definere et  
+
+ rimeligt antal driftstilstande med konstant støjudsendelse (f.eks. ved  
+
+ busterminaler, rangerbanegarde og lignende). I så fald er man henvist  
+
+ til at foretage kontinuert registrering af støjen over  
+
+ observationstidsrum af længden dage (hhv. aftener eller nætter)  
+
+ og i ekstreme tilfælde endog over flere sådanne  
+
+ observationstidsrum adskilt af mellemrum på mindst et døgn.
+I situationer, hvor måleresultatet ikke  
+
+ påvirkes uacceptabelt af baggrundsstøj, kan  
+
+ LAeq-bestemmelsen (integrationen) uden problemer udføres  
+
+ direkte på målestedet.
+Eventuelt kan dataindsamlingen afbrydes i  
+
+ tidsrum med for kraftig baggrundsstøj, jf. også afsnit 3.
+I mere komplicerede tilfælde anbefales det at  
+
+ foretage en separat dataindsamling - ved registrering af støjsignalet  
+
+ på magnetbånd - og foretage databehandlingen (dvs. integrationen)  
+
+ i laboratoriet.
+Under dataindsamlingen observeres på målestedet,  
+
+ hvilke støjkilder der bidrager væsentligt til det  
+
+ A-vægtede lydtrykniveau i målepositionen.
+Disse informationer kan  
+
+ eksempelvis indtales på et særligt kommentarspor på  
+
+ magnetbåndet eller noteres på en niveauskriverregistrering, som  
+
+ foretages under dataindsamlingen.
+Ved databehandlingen kan integrationen  
+
+ foretages for tidsrum, hvor baggrundsstøjen ikke har været  
+
+ uacceptabelt kraftig, jf. illustrationen i figur 2.4.
+Figur 2.4 Illustration af fluktuerende støj.
+Ønskes ud over LAeq også den  
+
+ maksimale værdi, LpAmax, af det A-vægtede  
+
+ lydtrykniveau bestemt, kan en niveauskriverregistrering eventuelt udnyttes  
+
+ direkte.
+Det må da nøje sikres, at hele måleopstillingens  
+
+ dynamiske karakteristik svarer til tidsvægtningen FAST (F).  
+
+ Bestemmelsen af LpAmax sker sikrest ved aflæsning af et  
+
+ meter med tidsvægtning FAST (F).
+ Ved at foretage observationer under dataindsamlingen kan  
+
+ man sikre, at kun maksimalværdier, som forekommer som følge af  
+
+ aktiviteter på virksomheden, indgår i måleresultatet.  bør normalt bestemmes som den  
+
+ aritmetiske middelværdi LpAmax af LpAmax  
+
+ observeret ved mindst 5 forskellige forekomster af den driftstilstand, der  
+
+ giver anledning til L pAmax' jf. også afsnit 4.5.4.
+3. MÅLEBETINGELSER 3.1 Baggrundsstøj generelt Ved måling af ekstern støj fra en  
+
+ virksomhed registrerer mikrofonen samtidig støjen fra virksomheden og  
+
+ støjen fra andre, uvedkommende støjkilder.
+Det  
+
+ måleresultat, man opnår, repræsenterer summen af  
+
+ støjen fra virksomheden og baggrundsstøjen.
+Denne sum kaldes  
+
+ her totalstøjen i målepositionen.
+De vejledende  
+
+ grænseværdier i Miljøstyrelsens vejledning nr. 5/1984  
+
+ omhandler udelukkende den pågældende virksomheds bidrag til  
+
+ totalstøjen.
+For at opnå et måleresultat, der kan  
+
+ sammenlignes med grænseværdierne, må resultatet af  
+
+ målingen (af totalstøjen) korrigeres for eventuel indflydelse  
+
+ fra baggrundsstøjen.
+Dette forudsætter, at bidraget fra  
+
+ baggrundsstøjen kan måles eller bestemmes på anden  
+
+ måde.
+ Målinger bør udføres, sådan at  
+
+ baggrundsstøjens indflydelse på måleresultatet bliver  
+
+ mindst mulig, jf. afsnit 3.3.
+Baggrundsstøjen er i almindelighed fluktuerende.  
+
+ Fluktuerende støj kan beskrives ved forskellige karakteristiske  
+
+ størrelser.
+Her vil blive anvendt dels det energiækvivalente, A-  
+
+ vægtede lydtrykniveau, LAeq,b, af baggrundsstøjen.  
+
+ Endvidere benyttes den værdi, LpA,95,b som  
+
+ baggrundsstøjens A-vægtede lydtrykniveau overskrider i 95 % af  
+
+ det betragtede tidsrum.
+LpA,95,b benyttes som mål for de  
+
+ lavest forekommende A-vægtede lydtrykniveauer i målepositionen,  
+
+ som de ville være, hvis virksomheden ikke var i drift.
+I mange tilfælde kan baggrundsstøjen  
+
+ registreres, mens den betragtede virksomhed er standset.
+Kan dette ikke lade  
+
+ sig gøre, må man forsøge at fremskaffe et skøn  
+
+ over baggrundsstøjen i målepositionen på anden vis.
+I  
+
+ visse tilfælde kan man måle i et andet, repræsentativt  
+
+ punkt i nabolaget, hvor lydtrykniveauet af støjen fra virksomheden er  
+
+ væsentligt mindre end lydtrykniveauet af baggrundsstøjen.
+Valget  
+
+ af et sådant punkt er vanskeligt.
+For at sikre, at  
+
+ baggrundsstøjen er den samme i de to punkter, må der nemlig  
+
+ tages hensyn til en lang række forhold, f.eks. afstandene til  
+
+ baggrundsstøjens kilder, den skærmende virkning af bygninger og  
+
+ lignende, samt indflydelsen fra øvrige topografiske og meteorologiske  
+
+ forhold.
+I særlige tilfælde kan man være henvist  
+
+ til at vurdere baggrundsstøjens indflydelse ud fra resultatet af en  
+
+ beregning, f. eks. af LAeq fra vejtrafikstøj [Nordisk,  
+
+ 1978].
+Baggrundsstøj fra en anden virksomhed kan eventuelt vurderes  
+
+ på basis af resultatet af måling nær ved denne anden  
+
+ virksomhed, kombineret med en beregnet reduktion af lydtrykniveauet i  
+
+ større afstand [Kragh et al., 1982].
+I situationer, hvor det ikke er  
+
+ muligt at korrigere for baggrundsstøjens indflydelse på  
+
+ måleresultatet, er man henvist til at beregne virksomhedens bidrag til  
+
+ totalstøjen.
+Støjen fra virksomheden måles da nær  
+
+ virksomheden, og beregningsmetoden i [Kragh et al., 1982] benyttes til at  
+
+ beregne støjen i de aktuelle punkter længere fra  
+
+ virksomheden.
+3.2 Støj genereret af vind En speciel og meget vigtig kilde til  
+
+ baggrundsstøj er vinden.
+Dels skabes omkring selve mikrofonen og  
+
+ vindskærmen en vis støj, og dels giver vinden anledning til  
+
+ støj i form af raslen og susen i blade og anden vegetation mv.
+Denne  
+
+ støj er vanskelig at vurdere ved selve målingen.
+Medhør  
+
+ som nævnt i afsnit 1.5 er en hjælp til at konstatere, om der  
+
+ eventuelt er problemer med støj genereret af vind.
+Lydteknisk Institut har gennemført en række  
+
+ målinger af vindstøjen [Jakobsen, 1983a] (såvel  
+
+ støjen fra vindens påvirkning af mikrofon og vindskærm som  
+
+ støjen fra raslende blade og lignende) i fire forskelligt bevoksede  
+
+ områder, fjernt fra andre kilder til baggrundsstøj.  
+
+ Vindstøjen blev målt med en mikrofon forsynet med standard  
+
+ vindskærm (skumkugle, 95 mm diameter) og anbragt 1,5 m over  
+
+ terræn.
+Samtidig blev middelvindhastigheden 10 m over terræn  
+
+ målt i nærheden i et frit beliggende punkt.
+Vindstøjen  
+
+ blev integreret i 5 minutter og vindhastigheden midlet over samme  
+
+ tidsrum.
+ Resultatet af en statistisk behandling af måleresultaterne ses  
+
+ på figur 3.1. De fire områder var:
+ 1)	En åben og frit beliggende golfbane med tætklippet  
+
+ græs og langt til den nærmeste højere vegetation.
+ 2)	Et ca. 5 år gammelt villaområde med åben struktur.  
+
+ Spredt og sparsom bevoksning, ingen træer over ca. 4 m  
+
+ højde.
+ 3)	Et ca. 15 år gammelt villaområde med mange hække.  
+
+ Tæt og velholdt bevoksning, flere træer op til ca. 8 m  
+
+ højde.
+Figur 3.1 LAeq, 5 min. af vindstøj målt 1,5 m over  
+
+ terræn som funktion af middelvindhastigheden 10 m over terræn i  
+
+ fire forskelligt bevoksede områder. (Områdebeskrivelser: se  
+
+ teksten)  [  
+
+ Jakobsen, 1983a] Villaområderne var udvalgt som repræsentative  
+
+ for forskellige, typiske grader af bevoksning.
+Mens område 2 vurderes  
+
+ som repræsentativt for nytilplantede områder, udstykninger og  
+
+ lignende, vil der utvivlsomt kunne findes kvarterer med tættere  
+
+ og/eller højere vegetation end område 3. Det kan derfor  
+
+ forventes, at lydtrykniveauet af vindstøjen i sådanne kvarterer  
+
+ vil være højere, end hvad der er fundet for område 3, men  
+
+ næppe højere end resultaterne fra område 4, skoven.
+Figur 3.1 viser, at lydtrykniveauet af vindstøjen  
+
+ ved vindhastigheder under 2 m/s er af samme størrelse som  
+
+ egenstøjen i almindeligt anvendte mikrofonsystemer, på nær  
+
+ i områdermed meget høj og tæt bevoksning.  
+
+ Vindstøjen tiltager jævnt med vindhastigheden.
+Stigningen er  
+
+ omkring 6 dB pr. m/s.
+Den tidsmæssige variation og den  
+
+ frekvensmæssige sammensætning af vindstøjen er yderst  
+
+ forskellig i de fire typer af områder.
+I åbne, ubevoksede  
+
+ områder, hvor støjen fra vegetationen er ubetydelig, er  
+
+ vindstøjen meget lavfrekvent og udviser store, pludselige variationer  
+
+ fremkaldt af de enkelte vindstød.
+I bevoksede villaområder er  
+
+ støjen mere højfrekvent og har et noget jævnere  
+
+ tidsmæssigt forløb.
+I skov er vindstøj omtrent lige  
+
+ kraftig i hvert 1/1 oktavbånd ("pink noise") og varierer kun lidt og  
+
+ yderst jævnt med tiden.
+Oplysningerne i figur 3.1 bør ikke anvendes til at  
+
+ vurdere LAeq af vindstøjen med henblik på at korrigere for dens indflydelse på  
+
+ måleresultater.
+Derimod kan figuren anvendes til at afgøre,  
+
+ under hvilke vindforhold det er muligt at gennemføre  
+
+ støjmålinger.
+Således vil det eksempelvis være  
+
+ forbundet med vanskeligheder at kontrollere, hvorvidt et krav på  
+
+ LAeq ≤ 35 dB re 20  
+
+m  
+
+ Pa er overholdt i grænsen til et villaområde, hvis det  
+
+ blæser med en middelvindhastighed på 4 m/s.
+3.3 Korrektion for baggrundsstøjens indflydelse Det er hensigtsmæssigt at måle  
+
+ støjen fra en virksomhed i tidsrum, hvor baggrundsstøjens  
+
+ indflydelse på måleresultatet er lille.
+Denne situation  
+
+ forekommer oftest om natten, hvor trafikken generelt er mindre, og hvor  
+
+ vindhastigheden som regel er mindre end om dagen.
+ Ofte stammer en del af baggrundsstøjen fra enkelte,  
+
+ særligt støjende begivenheder (f.eks. passage af fly, tog,  
+
+ lastbiler etc.). I sådanne tilfælde kan man eventuelt afbryde  
+
+ målingen, så længe baggrundsstøjen giver et  
+
+ utilladeligt stort bidrag til totalstøjen, jf. også afsnit  
+
+ 2.4.
+3.3.1 LAeq Det forudsættes her, at følgende  
+
+ størrelser er bestemt:
+LAeq,t = LAeq af  
+
+ totalstøjen LAeq,b = LAeq af  
+
+ baggrundsstøjen LAeq af støjen fra virksomheden,  
+
+ LAeq,v bestemmes som følger:
+LAeq,t - LAeq,b > 10 dB: LAeq,v
+~ LAeq,t Den fejl, der begås ved at antage, at LAeq,v =  
+
+ LAeq,t er mindre end 0,5 dB.
+LAeq,t   LAeq,b < 3 dB: Ny måling LAeq,v kan ikke bestemmes med rimelig nøjagtighed.  
+
+ Målingen må gentages i et tidsrum med mindre  
+
+ baggrundsstøj.
+Eventuelt må avancerede målemetoder eller  
+
+ kombineret måling og beregning tages i brug.
+ Er den målte værdi af LAeq,t betydeligt mindre end  
+
+ en støjgrænse, hvis overholdelse skal kontrolleres, er det  
+
+ selvsagt oftest unødvendigt at gentage målingen.
+ 3 dB ≤ LAeq,t - LAeq,b < 10 dB:
+LAeq,v = 10 log [3.1] Eventuelt kan diagrammet i figur 3.2 bruges til  
+
+ bestemmelse af LAeq,v.
+Som indgangsparameter anvendes differensen  
+
+ LAeq,t -  LAeq,b.
+Ved hjælp af diagrammet  
+
+ bestemmes en korrektion, som skal adderes til LAeq,t, hvorefter  
+
+ LAeq,v er bestemt.
+3.3.2 LpAmax Korrektion af resultater af måling af  
+
+ maksimalværdien LpAmax af det A-vægtede lydtrykniveau  
+
+ sker principielt på samme måde som korrektion af  
+
+ LAeq.
+En sådan korrektion er i praksis kun mulig at  
+
+ gennemføre på et sikkert grundlag i situationer, hvor  
+
+ baggrundsstøjen er stationær.
+Er baggrundsstøjen  
+
+ fluktuerende, kan man ofte gennemføre målingen af  
+
+ LpAmax på et tidspunkt, hvor det vides, at  
+
+ baggrundsstøjens indflydelse på totalstøjen er så  
+
+ ringe, at der kan ses bort fra den.
+ Det antages, at følgende størrelser er  
+
+ bestemt:
+LpAmax,t = LpAmax af  
+
+ totalstøjen LpA,b = A-vægtet lydtrykniveau af  
+
+ baggrundsstøjen på det tidspunkt, hvor LpAmax,t  
+
+ forekommer.
+Den søgte værdi af LpAmax af  
+
+ støjen fra virksomheden bestemmes af udtrykket LpAmax, v  = 10 log [3.2] idet der tages de ovenfor under LAeq  
+
+ nævnte hensyn til forskellen mellem LpAmax,t og  
+
+ LpA,b.
+Eventuelt kan diagrammet i figur 3.2 anvendes.
+I tilfælde, hvor baggrundsstøjen er  
+
+ stationær, anvendes udtrykket eller diagrammet umiddelbart.
+Er  
+
+ baggrundsstøjen fluktuerende, hvilket ofte er tilfældet,  
+
+ må det sikres, at LpAmax,t  rent faktisk skyldes  
+
+ støjen fra virksomheden og ikke baggrundsstøj (en  
+
+ forbikørsel, hundegøen eller lignende). Dette kan som regel  
+
+ sikres ved observationer foretaget under målingernes  
+
+ gennemførelse.
+Ved fluktuerende baggrundsstøj er det et problem at  
+
+ få bestemt LpA,b på netop det tidspunkt, hvor  
+
+ LpAmax,t forekommer.
+En sådan bestemmelse, der kun kan blive  
+
+ skønsmæssig, må baseres på observationer foretaget  
+
+ under målingen, eventuelt suppleret med iagttagelser og målinger  
+
+ i punkter i nabolaget.
+3.3 Eksempel I figur 3.3 er vist et konstrueret eksempel.
+Der er i figurens del a)  
+
+ vist det A-vægtede lydtrykniveau (bestemt med en integrationstid  
+
+ svarende til tidsvægtning FAST (F)) LpA,v(t) af  
+
+ støjen fra en virksomhed, som funktion af tiden t.
+Støjen  
+
+ stammer blandt andet fra et ventilationsanlæg, som udsender en  
+
+ stationær støj.
+I målepositionen er LpA fra  
+
+ ventilatoren 58-59 dB re 20 m  
+
+ Pa.
+I en del af det betragtede tidsrum kører en kompressor på  
+
+ virksomheden.
+I dette tidsrum øges LpA,v til ca. 64 dB re  
+
+ 20 m  
+
+ Pa.
+Henimod slutningen af det betragtede tidsrum foregår der  
+
+ materialetransport på virksomhedens areal.
+På det tidspunkt, hvor  
+
+ køretøjet er nærmest målepositionen, registreres  
+
+ den højeste værdi af LpA,v(t), som forekommer inden  
+
+ for det betragtede tidsrum, LpAmax,v = ca. 68 dB re 20 m  
+
+ Pa.
+Figur 3.3 Eksempel til illustration af begreberne støj fra virksomheden,  
+
+ baggrundsstøj samt totalstøj.
+I målepositionen forekommer også  
+
+ baggrundsstøj i form af støj fra lokal trafik på en  
+
+ mindre vej samt almindelig uidentificerbar støj fra fjernere  
+
+ støjkilder.
+Baggrundsstøjen kan karakteriseres ved blandt andet  
+
+ LAeq,b som i det viste eksempel er ca. 54 dB re 20 m  
+
+ Pa.
+De lavest forekommende værdier af det A-vægtede lydtrykniveau  
+
+ af baggrundsstøjen karakteriseres ved LpA,95,b som er ca.  
+
+ 40 dB re 20 m  
+
+ Pa.
+ Ved en måling i målepositionen vil man  
+
+ registrere den totale støj, hvis A-vægtede lydtrykniveau  
+
+ LpA,t(t) som funktion af tiden er illustreret i figur 3.3.b.
+ Det er muligt ved iagttagelser foretaget under  
+
+ registreringen af LpA,t(t) at konstatere, at LpAmax,v  
+
+ med rimelig tilnærmelse er lig med LpAmax,t på det  
+
+ tidspunkt, hvor LpAmax,v  forekommer.
+ Virksomhedens bidrag LAeq,v til  
+
+ støjbelastningen bestemmes i følgende 3 trin:
+ 1.	LAeq,t bestemmes i laboratoriet på basis af  
+
+ registreringen af LpA,t(t) . LAeq,t = 61 dB re 20 m  
+
+ Pa.
+2.	Ved måling af baggrundsstøjen i en anden  
+
+ måleposition med tilsvarende beliggenhed i forhold til vejen bestemmes  
+
+ derefter LAeq,b som forudsættes også at  
+
+ repræsentere baggrundsstøjen i målepositionen ved  
+
+ virksomheden.
+Subsidiært beregnes på basis af trafikale og  
+
+ topografiske oplysninger LAeq,b = 54 dB re 20 m  
+
+ Pa.
+Laeq,v =  = 60 dB re 20 m  
+
+ Pa 3.4 Meteorologiske forhold Resultatet af en måling af støjen fra en  
+
+ virksomhed er i almindelighed stærkt påvirket af de  
+
+ meteorologiske forhold, der hersker under målingen.
+Virkningen på  
+
+ måleresultatet er større, jo større afstanden er mellem  
+
+ støjkilde og måleposition.
+Hvis afstanden mellem støjkilde og  
+
+ måleposition er mindre end 25 m, er de meteorologiske forholds  
+
+ indflydelse på måleresultatet så lille, at det ikke er  
+
+ nødvendigt at stille krav til de meteorologiske forhold under  
+
+ målingen.
+Se dog afsnit 3.2 om støj genereret af vind.
+En lidt speciel meteorologisk betingelse er  
+
+ snedækket terrænoverflade.
+Lydudbredelsen påvirkes så  
+
+ stærkt af snelaget, at resultater af målinger udført ved  
+
+ snedækket terrænoverflade normalt ikke bør benyttes ved  
+
+ bedømmelse af ekstern støj fra virksomheder.
+ De vigtigste meteorologiske faktorer er vindens retning  
+
+ samt vindhastighedens og temperaturens variation med højden over  
+
+ terræn (vindhastigheds- og temperaturgradienten).
+De meteorologiske forholds indflydelse på lyds  
+
+ udbredelsesforhold har været genstand for omfattende  
+
+ undersøgelser i de senere år.
+Derved er der sket en vis  
+
+ afklaring.
+Det følgende repræsenterer de konklusioner, man  
+
+ indtil nu har draget af undersøgelserne.
+Det er nødvendigt kort at ridse de meteorologiske  
+
+ forholds principielle virkemåde op.
+Detaljerede oplysninger kan f.eks.  
+
+ findes i [Israelsson, 1979].
+Her betragtes kun de vigtigste fænomener,  
+
+ som forekommer i lav højde (se principskitserne i figur 3.4).
+Lydhastigheden øges med voksende temperatur.
+Dette  
+
+ bevirker, at lydbølgebanerne krummes opad, når temperaturen  
+
+ aftager med højden z (negativ temperaturgradient, D  
+
+ T / D  
+
+ z < 0). Lydbølgebanerne krummes nedad, når temperaturen  
+
+ øges med voksende højde z over terræn (positiv  
+
+ temperaturgradient, D  
+
+ T / D  
+
+ z > 0 = inversion).
+Vindens hastighed u varierer med højden z.
+Ved  
+
+ terrænoverfladen er vindhastigheden lille.
+Vindhastigheden øges  
+
+ med voksende højde over terræn.
+Vindhastighedsprofilets udseende  
+
+ afhænger af terrænets ruhed.
+Forøgelsen af vindhastigheden  
+
+ bevirker en nedadbøjning af lydbølgerne i medvind samt en  
+
+ opadbøjning af lydbølgerne i modvind.
+Krumningen af lydbølgebanerne påvirker  
+
+ lydtrykniveauet.
+Både terrænoverfladens og eventuelle  
+
+ skærmes virkning afhænger af krumningen.
+Vindhastighedsgradienten  
+
+ og temperaturgradienten optræder i varierende kombinationer.
+Dette  
+
+ komplicerer situationen meget i forhold til de enkle skitser, som er vist i  
+
+ figur 3.4.
+ Man har forsøgt at finde frem til så let  
+
+ observerbare meteorologiske betingelser som overhovedet muligt, som trods den  
+
+ forenklede beskrivelse af virkeligheden alligevel giver sikkerhed for at  
+
+ opnå rimeligt reproducerbare måleresultater.
+Det har vist sig, at det er hensigtsmæssigt at  
+
+ kræve, at der skal være tale om en vis, men ikke for kraftig  
+
+ nedadbøjning af lydbølgebanerne.
+De måleresultater, man  
+
+ opnår under sådanne forhold, repræsenterer hyppigt  
+
+ forekommende, høje værdier af lydtrykniveauet.
+ De betingelser, som må kræves overholdt for at  
+
+ sikre den omtalte nedadbøjning af lydbølgebanerne, er:
+ Middelvindretningen skal være fra støjkilde til  
+
+ måleposition (medvind) med en tilladt afvigelse på ±45°.
+ Middelvindhastigheden målt 10 m over terræn skal  
+
+ være mindre end 5 m/s.
+Figur 3.4 Principskitser, som illustrerer lydbølgernes udbredelse under  
+
+ forskellige meteologiske forhold.
+a) Retlinet udbredelse b) Negativ temperaturgradient c) Positiv temperaturgradient d) Vindhastighededens indflydelse Ved middelvindhastigheder på 2-5 m/s kræves en  
+
+ temperaturgradient, målt mellem 0,5 m og 10 m over terræn, i  
+
+ intervallet ±0,05°C/m.
+ Ved middelvindhastigheder på mindre end 2 m/s (incl.  
+
+ vindstille) skal den tilsvarende temperaturgradient være mellem 0°C/m  
+
+ og +0,05°C/m.
+3.5 Meteorologisk ramme De krav til de meteorologiske forhold, som er  
+
+ opstillet i afsnit 3.4, er resumeret i figur 3.5. Måling kan  
+
+ udføres, når kravene I eller II er opfyldt.
+Er afstanden mellem  
+
+ støjkilde og måleposition mindre end 25 m, stilles dog ingen  
+
+ krav til de meteorologiske forhold.
+3.6 Måling af meteorologiske parametre For at sikre, at en støjmåling  
+
+ udføres under forhold, der er inden for den meteorologiske ramme, er  
+
+ det nødvendigt at registrere de meteorologiske forhold under  
+
+ støjmålingen.
+Der henvises til [Jakobsen, 1981] for oplysninger  
+
+ om måleudstyr mv.
+De meteorologiske parametre bør måles  
+
+ på et repræsentativt sted i åbent terræn mellem  
+
+ støjkilden og målepositionen.
+De opstillede krav gælder  
+
+ middelværdier over 10 min. lange måletidsrum samtidig med  
+
+ støjmålingen.
+3.6.1 Vindhastighed Vindhastigheden måles 10 m over terræn,  
+
+ hvis afstanden mellem støjkilde og måleposition er 200 m eller  
+
+ mere.
+Ved afstande under 200 m kan vindhastigheden 10 m over terræn  
+
+ skønnes på basis af måling af vindhastigheden i lavere  
+
+ højde.
+Hertil kan nomogrammerne i figur 3.6 anvendes.
+Som udgangspunkt for nomogrammerne er valgt  
+
+ vindhastigheden 10 m over terræn.
+Det ses eksempelvis, at  
+
+ vindhastighedsintervallet 2-5 m/s 10 m over terræn svarer til  
+
+ intervallet 1,0 - 2,4 m/s i 1,5 m højde ved terrænoverflade type  
+
+ a) og til intervallet 1,3 - 3,2 m/s ved terrænoverflade type b).  
+
+ Nomogrammerne i figur 3.6 er gyldige for fladt, åbent land ved  
+
+ såkaldt neutral vertikal temperaturgradient, dvs. normalt ved en  
+
+ negativ temperaturgradient på ca. 1°C pr. 100 m.
+Denne situation  
+
+ optræder i overskyet vejr med et tykt lag af skyer.
+Der må  
+
+ advares mod at bruge nomogrammerne for situationer med store  
+
+ temperaturgradienter samt for andre typer af terrænoverflade end  
+
+ angivet i figuren.
+3.6.2 Vindretning Vindretningen bør fortrinsvis måles 10 m  
+
+ over terræn.
+Vindretningen kan med rimelig nøjagtighed vurderes  
+
+ på basis af en registrering i lavere højde, ned til 1,5 m, i  
+
+ tilfælde hvor der ikke findes større bygninger og lignende i  
+
+ nærheden af vindretningsføleren.
+For udstrakte støjkilder må kildens akustiske  
+
+ centrum anvendes ved fastlæggelse af kravet til vindretningen.
+I  
+
+ tilfælde, hvor det er vanskeligt at definere støjkildens  
+
+ akustiske centrum, må der gennemføres en worst case  
+
+ vurdering.
+Figur 3.6 Nomogrammer, som viser sammenhængen mellem vindhastighed og  
+
+ højde over terræn ved forskellige terrænoverflader.  
+
+ På figurerne er med pile illustreret vindhastighedsintervallet 2-5 m/s  
+
+ i 10 m højde og de tilsvarende vindhastighedsintervaller i 1,5 m  
+
+ højde.  
+
+ Efter [  
+
+ Larsson et al., 1980] 3.6.3 Temperaturgradient Den temperaturgradient, som er relevant for  
+
+ udbredelsen af lyden fra en kilde placeret nær terræn, vurderes  
+
+ på basis af forskellen mellem temperaturen henholdsvis 10 m og 0,5 m  
+
+ over terræn.
+Det er forbundet med store måletekniske problemer at  
+
+ udføre en tilstrækkelig præcis måling af  
+
+ temperaturgradienten.
+Derfor er man i mange tilfælde henvist til at  
+
+ nøjes med at foretage en vurdering.
+I det følgende er givet  
+
+ vejledning til støtte for sådanne vurderinger.
+ Temperaturgradienten varierer med solindstrålingen.  
+
+ Denne er en funktion af solhøjden og skydækket.
+ Temperaturgradienten udviser i klart, stille vejr om  
+
+ sommeren en typisk døgnvariation med store negative værdier midt  
+
+ på dagen, meget små værdier omkring 1 ½ time efter  
+
+ solopgang og 1 ½ time før solnedgang og meget store positive  
+
+ værdier om natten.
+Hvis det er tæt skyet, eller der er stærk  
+
+ blæst, er døgnvariationen mindre udpræget.
+De negative  
+
+ værdier midt på dagen og de positive værdier om natten er  
+
+ da numerisk mindre.
+Om vinteren er temperaturgradienten positiv i en  
+
+ større del af døgnet end om sommeren.
+Der kan forekomme  
+
+ ekstremt store positive temperaturgradienter over snedækkede  
+
+ terrænoverflader.
+Dette er af mindre betydning i denne  
+
+ sammenhæng, fordi målinger ikke bør udføres,  
+
+ når terrænoverfladen er snedækket.
+Temperaturgradientens størrelse kan skønnes  
+
+ på grundlag af observeret solhøjde og skydække.
+I figur  
+
+ 3.7 er givet en skematisk afgrænsning, som er gyldig under  
+
+ forudsætning af rimeligt jævnt og åbent terræn og en  
+
+ vindhastighed 10 m over terræn på 3 m/s (svag til let vind).
+D  
+
+ T / D  
+
+ z > -0,05°C/m om dagen1) kræver ved skydække 8/8,  
+
+ at solhøjden < 30°, ved skydække 0-6/8, at solhøjden  
+
+ < 15° D  
+
+ T / D  
+
+ z < 0,05°C/m om natten1) kræver, at skydækket >  
+
+ 4/8 1) Figur 3.7 Skematisk afgrænsning af  
+
+ forudsætninger for moderat temperaturgradient.
+ I figur 3.8 er på grundlag af solhøjdens  
+
+ døgn- og årstidsvariation optegnet de tidsrum, hvori  
+
+ temperaturgradienten kan forventes at være større end -0,05°C/m.  
+
+ Det ses, at næsten hele dagen vil temperaturgradienten være under  
+
+ ("mere negativ end") -0,05°C/m om sommeren, medmindre der er meget  
+
+ tætte skyer.
+Figur 3.8 Sammenhæng mellem årstid, tidspunkt på dagen,  
+
+ skydække og temperaturgradient.
+Om vinteren er temperaturgradienten om dagen næsten  
+
+ altid større end -0,05°C/m.
+I klart vejr kan den endog være  
+
+ positiv, i reglen mindre end 0,05°C/m.
+På vinternætter  
+
+ kræves mere end 4/8 skydække, før temperaturgradienten er  
+
+ mindre end 0,05°C/m.
+ Hvis vindhastigheden 10 m over terræn er over 3 m/s  
+
+ og/eller terrænet er kraftigt kuperet (eller f.eks. bebygget), er  
+
+ temperaturgradientens numeriske værdi mindre end svarende til  
+
+ angivelserne i figur 3.7 og 3.8. Hvis derimod vindhastigheden er meget lav,  
+
+ kan temperaturgradienterne numerisk blive meget store, især om  
+
+ natten.
+ Under regn og efter regn er temperaturgradienten typisk  
+
+ meget lille.
+4. MÅLERESULTATERS NØJAGTIGHED 4.1 Generelt Ethvert måleresultat er behæftet med en  
+
+ vis usikkerhed.
+Det er vigtigt at vurdere, hvor stor denne usikkerhed er ved  
+
+ en konkret måleopgave, og at give oplysning herom i  
+
+ målerapporten.
+De følgende afsnit giver vejledning om denne  
+
+ vurdering.
+Hvis man kunne måle støjen fra en virksomhed  
+
+ ved en given driftstilstand uendeligt mange gange i den samme  
+
+ måleposition, ville man kunne forvente, at måleresultaterne  
+
+ fordelte sig efter en såkaldt normal (Gaussisk) fordeling.
+En  
+
+ sådan fordeling beskrives ved sin middelværdi og  
+
+ standardafvigelse.
+Middelværdien ville være den "sande"  
+
+ værdi af støjen i målepositionen.
+Standardafvigelsen ville  
+
+ være et mål for, hvor store variationer der var fra måling  
+
+ til måling.
+Når man i praksis udfører en  
+
+ støjmåling, tager man en "stikprøve" af støjen ved  
+
+ den aktuelle driftstilstand.
+I målerapporten skal man angive, hvor god  
+
+ overensstemmelse der er mellem måleresultatet og den sande værdi.  
+
+ Man kan forbedre denne overensstemmelse ved at tage flere stikprøver  
+
+ og bruge gennemsnitsværdien af stikprøveresultaterne som estimat  
+
+ af den sande værdi.
+Måleværdien betegner i det følgende  
+
+ resultatet af en enkelt måling eller gennemsnitsværdien af flere  
+
+ måleresultater.
+Omkring måleværdien kan man fastlægge  
+
+ et (konfidens)interval med en vis bredde.
+Den halve bredde af  
+
+ konfidensintervallet kaldes her ubestemtheden, σ. Den sande værdi findes med en vis sandsynlighed  
+
+ (konfidensgrad) inden for konfidensintervallet.
+Ubestemtheden afhænger af standardafvigelsen d, af  
+
+ antallet af måleresultater og af den valgte konfidensgrad.
+I afsnit  
+
+ 4.2-4.4 gives en vurdering af størrelsen af forskellige bidrag til  
+
+σ. Fastsættelsen af ubestemtheden omtales i afsnit  
+
+ 4.5.
+Standardafvigelsen σ betragtes i det følgende som i hovedsagen  
+
+ sammensat af to typer af bidrag, nemlig kildebetingede bidrag, σk, og meteorologisk betingede  
+
+ bidrag, σm.
+Der  
+
+ gælder da følgende sammenhæng:
+σ [4.1] I specielle tilfælde er både σk og σm så små, at  
+
+ måleinstrumenternes bidrag σi til σ bψ r medregnes. [4.1] bliver da:
+σ = [4.1a] 4.2 Instrumenter, kalibrering mv.
+Rent instrumentmæssige forhold, kalibrering mv.  
+
+ giver i sig selv et vist bidrag til usikkerheden på  
+
+ måleresultatet.
+Under forudsætning af, at instrumenterne er  
+
+ behandlet forskriftsmæssigt, herunder kontrolleret og kalibreret, er  
+
+ dette bidrag oftest af mindre betydning.
+Man må generelt aldrig  
+
+ forvente at kunne bestemme den absolutte værdi af det A-vægtede  
+
+ lydtrykniveau mere nøjagtigt end svarende til en standardafvigelse  
+
+σi = 0,25-0,5 dB.
+4.3 Varierende støjudsendelse Som allerede nævnt i afsnit 2.4 bør man  
+
+ karakterisere støjudsendelsen fra en virksomhed ved resultater af  
+
+ målinger ved forskellige driftstilstande, der hver for sig giver  
+
+ anledning til konstant støjudsendelse.
+Ideelt bør bidraget  
+
+ σk - som følge af variationer i kildens  
+
+ støjudsendelse - til den resulterende værdi af σ  
+
+ altså være ubetydeligt.
+I praksis vil der ofte være tale om en vis  
+
+ større eller mindre tidsmæssig variation i  
+
+ støjudsendelsen.
+Undertiden kan  
+
+ σk vurderes på grundlag af kendskab til  
+
+ støjkildernes egenskaber.
+I andre tilfælde må  
+
+ σk vurderes på basis af resultater af mindst 3  
+
+ uafhængige målinger i kort afstand fra virksomheden, hvor de  
+
+ meteorologisk betingede spredningsbidrag er små(σm =  
+
+ 0). Værdien af σk  
+
+ estimeres da ved størrelsen sk:
+sk = [4.2] hvori N er antallet af målinger og LAeq,i  
+
+ er resultatet af måling nr. i.
+Beregning af standardafvigelser og  
+
+ middelværdier udføres med fordel ved brug af en lommeregner med  
+
+ indbyggede standard statistikprogrammer.
+Måleresultater bør for at kunne anses for at  
+
+ være statistisk uafhængige i reglen indsamles med mindst et  
+
+ døgns mellemrum.
+I tilfælde, hvor fluktuationer i  
+
+ støjudsendelsen forekommer mange gange i løbet af en time, kan  
+
+ målingerne gentages med tidsmellemrum ned til en time.  
+
+ Måletidsrummet bør som hovedregel være 10 minutter ved  
+
+ hver måling.
+4.4 Varierende dæmpning under lydens udbredelse Variationer i lydtrykniveauets reduktion under  
+
+ udbredelsen giver et væsentligt bidrag til måleusikkerheden.
+Dette delbidrag til σ som fψlge af  
+
+ meteorologiske forholds indflydelse betegnes σm.
+ Et foreløbigt resultat af de seneste års  
+
+ undersøgelser [Larsson, 1980], [Lindblad, 1979], [Eriksson, 1979] kan  
+
+ konkluderes i følgende:
+Der forekommer fluktuationer i lydtrykniveauet i en  
+
+ måleposition som følge af turbulensfænomener i luften  
+
+ langs lydens transmissionsvej.
+Fluktuationerne forekommer, selv om  
+
+ virksomheden udsender stationær støj.
+Periodetiden for  
+
+ fluktuationerne er typisk af størrelsesordenen 1 min.
+For at minimere  
+
+ spredningsbidraget fra disse hurtige fluktuationer, er det nødvendigt  
+
+ at midle (integrere) over mere end ca. 4 min.
+Det anbefales at midle over  
+
+ måletidsrum af 10 min. varighed.
+Ved opstillingen af den ramme for de meteorologiske  
+
+ forhold, som er gengivet i afsnit 3.5, har man opnået at afgrænse  
+
+ nogle lydudbredelsesmæssigt stabile vejrforhold.
+Herved begrænses  
+
+ måleresultaternes variation.
+I figur 4.1 er givet nogle vejledende værdier af  
+
+σm som funktion af  
+
+ afstanden mellem støjkilde og måleposition.
+Værdien af  
+
+ σm øges med voksende afstand.
+Kurven, som gælder for LAeq,10 min., er  
+
+ fastlagt på grundlag af resultater af 1/1  
+
+ oktavbåndsmålinger af støjen fra en lydkilde 1,25 - 1,5 m  
+
+ over terræn med mikrofonhøjde 1,25 - 1,5 m over terræn  
+
+[Larsson, 1980], [Storeheier, 1981].
+Lydudbredelsen skete over en  
+
+ græsbevokset terrænoverflade.
+Vejrforholdene under målingerne var inden for den  
+
+ meteorologiske ramme fra afsnit 3.5. Ændringer i de meteorologiske  
+
+ forhold giver i en sådan situation store ændringer i  
+
+ terrænets indflydelse på lydudbredelsen.
+De angivne σm-værdier  
+
+ repræsenterer et rimeligt "worst case" med "ugunstige"  
+
+ lydudbredelsesforhold set fra et reproducerbarhedssynspunkt: lav  
+
+ støjkilde, lav måleposition og porøs  
+
+ terrænoverflade.
+I 1/1 oktaven med centerfrekvens 500 Hz konstateredes  
+
+ væsentligt større værdier af σm.
+Dette  
+
+ "worst case" omfatter også situationer med skærmning og med  
+
+ "delvis" skærmning.
+Hermed menes, at en udstrakt støjkilde er  
+
+ delvist skærmet, eller at de krumme lydbølgebaner fra en  
+
+ støjkilde [Kragh, 1982 og 1983] passerer skærmen omkring dens  
+
+ top.
+I så fald vil variationer i de meteorologiske forhold - selv inden  
+
+ for den meteorologiske ramme fra afsnit 3.5 - kunne give store variationer i  
+
+ støjen i målepositionen.
+Figur 4.1 Vejledende angivelse af s  
+
+ m som funktion af afstanden mellem støjkilde og  
+
+ måleposition.
+ Ved måling af LAeq af bredbåndet  
+
+ støj fra højt placerede kilder kan man forvente, at σm er betydeligt mindre end  
+
+ angivet i figur.4.1. Det samme gælder målepositioner i stor  
+
+ højde samt situationer med lydudbredelse over hårdt og  
+
+ kombineret hårdt og porøst terræn.
+ Under sådanne "gunstige" lydudbredelsesforhold, set  
+
+ fra et reproducerbarhedssynspunkt, kan man  
+
+ forvente σm-værdier, som er af  
+
+ størrelsesordenen det halve af værdierne i figur 4.1  
+
+[Storeheier, 1981 og 1982], [Jakobsen et al., 1983b], [Carlsen, 1983].
+De vejledende  
+
+ σ Figur 4.1 er baseret på resultater af målinger  
+
+ af stationær støj.
+Den kan derfor ikke umiddelbart bruges til at  
+
+ vurdere σm for kortvarige  
+
+ støjbegivenheder (slaglyde, støj fra skydevåben).  
+
+ Ubestemtheden på resultater af sådanne målinger må i  
+
+ stedet vurderes som angivet i afsnit 4.5.4.
+4.5 Vurdering af måleresultaters nøjagtighed Der skelnes i det følgende mellem situationer,  
+
+ hvor man på basis af et enkelt måleresultat ønsker at  
+
+ vurdere, om en given støjgrænse er overholdt eller overskredet,  
+
+ samt situationer, hvor vurderingen baseres på resultaterne af flere  
+
+ målinger.
+I afsnittene 4.5.1 og 4.5.2 forudsættes  
+
+ LAeq af støjen fra en virksomhed bestemt af  
+
+ støjudsendelsen ved en enkelt driftstilstand.
+I afsnit 4.5.3 omtales  
+
+ kort fastsættelsen af ubestemtheden på en værdi af  
+
+ LAeq fremkommet ved addition af bidrag fra forskellige  
+
+ driftstilstande.
+ Vurderingen af nøjagtigheden af resultater af  
+
+ måling af LpAmax omtales i afsnit 4.5.4.
+4.5.1 Én måling af LAeq Ønskes på grundlag af resultatet af  
+
+ én enkelt måling af 10 min. varighed under vejrforhold inden for  
+
+ den meteorologiske ramme fra afsnit 3.5 foretaget en vurdering af, om en  
+
+ given støjgrænse er overholdt eller overskredet, kan man  
+
+ gå frem på følgende måde.
+Måleværdien er  
+
+ LAeq,o og ubestemtheden δ =  
+
+ σ · 1,7, hvor σ er standardafvigelsen bestemt pε basis  
+
+ af formel [4.1], afsnit 4.3 og afsnit 4.4.
+ Hvis LAeq,o + σ · 1,7  
+
+≥ støjgrænsen, er støjgrænsen med 95%  
+
+ sandsynlighed eller mere overholdt.
+[4.3] Hvis LAeq,o + σ · 1,7  
+
+≥ støjgrænsen, er støjgrænsen med 95%  
+
+ sandsynlighed eller mere overskredet.
+I tilfælde, hvor σ er for stor til, at en  
+
+ vurdering af denne karakter findes tilstrækkelig, må der  
+
+ foretages gentagne målinger.
+Dette vil forekomme i situationer, hvor  
+
+ der ikke er tale om en meget klar forskel mellem måleværdi og  
+
+ støjgrænse.
+Eksempel a Én 10 min. lang måling af LAeq  
+
+ 200 m fra en lavt placeret støjkilde gav LAeq,o = 45,3 dB  
+
+ re 20 m  
+
+ Pa.
+Det instrumentbetingede  
+
+ spredningsbidrag, σ Kilden vurderes som stationær, σk  
+
+ ≤ 1 dB Af figur 4.1 ses, at  
+
+ σ Resulterende fås af [4.1] Idet LAeq,o +  
+
+ σ · 1,7 = 45,3 + 2,7 · 1,7 = 49,9 < 50 dB re 20 m
+  
+
+ Pa, kan støjgrænsen 50 dB re 20 m  
+
+ Pa med mere end 95% sandsynlighed anses for overholdt.
+ Idet LAeq,o -  
+
+ σ · 1,7 = 45,3 - 2,7 · 1,7 = 40,7 > 40 dB re 20 m  
+
+ Pa, kan støjgrænsen 40 dB re 20 m  
+
+ Pa med mere end 95% sandsynlighed anses for overskredet.
+4.5.2 Flere målinger af LAeq Foreligger resultaterne af N statistisk  
+
+ uafhængige observationer (LAeq,o)i = 1 ... N, af  
+
+ LAeq af støjen fra en virksomhed (ved en given  
+
+ driftstilstand), anvendes den i det følgende skitserede  
+
+ vurderingsmetode.
+For at opnå, at måleresultaterne er statistisk  
+
+ uafhængige, bør de i reglen indsamles med mindst et døgns  
+
+ mellemrum.
+Konstaterer man under overvågning af målingerne, at  
+
+ der inden for observationstidsrummet optræder tydeligt skift i  
+
+ vejrliget (middelvindretning, -hastighed, skydække mv.), kan man  
+
+ undtagelsesvis indsamle mere end ét måleresultat i hver  
+
+ måleposition inden for samme døgn.
+ Middelværdien m (på energibasis) af  
+
+ måleresultaterne beregnes ved hjælp af udtrykket:
+[4.4] Hvis forskellen mellem det største og det mindste  
+
+ måleresultat er mindre end 5 dB, kan m med tilstrækkelig  
+
+ nøjagtighed beregnes som den aritmetiske middelværdi:
+m ~ [4.4a] Standardafvigelsen σ estimeres ved  
+
+ stψ [4.5] Vurderingen gennemføres som angivet i udtrykkene  
+
+[4.7], idet ubestemtheden δ på  
+
+ middelværdien beregnes som:
+[4.6] i Hvis≤  
+
+ støjgrænsen, er støjgrænsen med 95% sandsynlighed  
+
+ eller mere overholdt.
+i Hvis ≥  
+
+ støjgrænsen, er støjgrænsen med 95% sandsynlighed  
+
+ eller mere overskredet.
+Størrelsen tN-1 er gengivet i tabel 4.1 for forskellige  
+
+ værdier af N, sammen med forholdet N 2 3 4 5 6 7 ≤ N ≤ 9 10 ≤ N ≤ 15 ≤ 16 tN-1 6,3 2,9 2,4 2,1 2,0 1,9 1,8 1,7 4,5 1,7 1,2 0,95 0,82 0,73 ≤ ≤ 0,62 0,58 ≤ ≤ 0,45 Tabel 4.1 Udvalgte værdier fra Student's t-fordeling svarende til 90%  
+
+ konfidensinterval.
+Bruges værdierne ved ensidet test opnås 95%  
+
+ konfidensgrad.
+Eksempel b Tænkes i samme situation som i eksempel a  
+
+ udført 3 uafhængige målinger med følgende  
+
+ resultater, LAeq,10 min. = hhv. 45,3, 48,1 og 47,7 dB re 20 m  
+
+ Pa, fås m = 47,2 dB re 20 m  
+
+ Pa og s = 1,51 dB.
+Af tabel 4.1 fås Idet  = 47,2  
+
+ + 1,51 · 1,7 = 49,8 dB re 20 m  
+
+ Pa, kan støjgrænsen 50 dB re 20 m  
+
+ Pa med mere end 95% sandsynlighed anses for overholdt.
+ Idet  = 47,2  
+
+ - 1,51 · 1,7 = 44,6 dB re 20 m  
+
+ Pa, kan støjgrænsen 45 dB re 20 m  
+
+ Pa med lidt mindre end 95% sandsynlighed anses for overskredet.
+4.5.3 LAeq for flere driftstilstande I situationer, hvor LAeq for et  
+
+ referencetidsrum af støjen fra en virksomhed bestemmes ved addition  
+
+ (jf. afsnit 10) af bidrag fra forskellige driftstilstande, er  
+
+ fastsættelsen af værdien af σ mere vanskelig.
+Værdien af σ kan i sådanne tilfælde  
+
+ "meget på den sikre side" sættes lig med σ for den af  
+
+ driftstilstandene, hvis bidrag er mest usikkert bestemt.
+I visse  
+
+ tilfælde vil det være hensigtsmæssigt at gennemføre  
+
+ en vægtning af ubestemthederne på de indgående  
+
+ LAeq-bidrag.
+Ved denne vægtning bør der tages hensyn  
+
+ til såvel varigheden af hver driftstilstand som størrelsen af  
+
+ hvert LAeq-bidrag.
+Dette er detaljeret omtalt i [Eriksson, 1981],  
+
+[SNV, 1984], hvortil der henvises.
+4.5.4 LpAmax LpAmax bør bestemmes som den  
+
+ aritmetiske middelværdi  af  
+
+ resultater af målinger udført ved mindst fem forekomster af den  
+
+ driftstilstand, der giver anledning til LpAmax.
+Disse  
+
+ målinger bør gennemføres med mindst 2 min. mellemrum.  
+
+ Eksempelvis bør tømning af containere på forskellige  
+
+ steder på en virksomheds areal principielt betragtes som forskellige  
+
+ driftstilstande.
+ Nøjagtigheden af LpAmax kan i  
+
+ almindelighed ikke vurderes, hvis man alene måler ved fem forekomster  
+
+ af den betragtede driftstilstand.
+I tilfælde, hvor en sådan vurdering  
+
+ ønskes, kan man gennemføre et antal statistisk uafhængige  
+
+ målinger - i N grupper à 5 målinger.
+En vurdering kan  
+
+ derpå gennemføres på følgende måde.  
+
+ Først bestemmes middelværdien  pr. gruppe nr. k af målinger:
+[4.8] Derpå bestemmes middelværdien og et estimat af  
+
+ standardafvigelsen for de N middelværdier  (k = 1 .... N) under anvendelse af udtryk analogt med  
+
+[4.8] og [4.5].
+Måleresultatet vurderes endelig som angivet ved  
+
+ udtrykkene [4.7].
+5. MÅLEPOSITIONER UDENDØRS 5.1 Valg af målepositioner generelt De forhold, som set fra et administrativt synspunkt  
+
+ bør lægges til grund for valget af målepositioner, er  
+
+ behandlet i afsnit 7.1 i Miljøstyrelsens vejledning nr. 5/1984,  
+
+ hvortil der henvises.
+Der skal måles i de punkter omkring en virksomhed,  
+
+ hvor det er mest sandsynligt, at fastsatte støjgrænser eller  
+
+ vejledende grænseværdier er overskredet.
+Det er  
+
+ måleteknikerens opgave at udvælge disse punkter.
+Det A-vægtede lydtrykniveau øges med voksende  
+
+ højde af målepositionen over terræn.
+Dette er  
+
+ særligt udtalt, når der forekommer skærmning langs  
+
+ støjens transmissionsvej fra kilde til måleposition.
+Målingerne bør i almindelighed udføres  
+
+ 1,5 m over terrænoverfladen.
+Ved kontrolmålinger måles  
+
+ selvsagt i de højder, som er specificeret i de konkrete vilkår  
+
+ eller påbud.
+I klagesager bør mindst én  
+
+ måleposition vælges ved klagerens bolig.
+Dette kan ved  
+
+ etageboliger indebære valg af målepositioner i større  
+
+ højde end 1,5 m over terrænoverfladen.
+ I det følgende gives nogle retningslinier for,  
+
+ hvordan man bør placere målepositionen i forhold til  
+
+ lydreflekterende flader for at opnå veldefinerede  
+
+ måleresultater.
+5.2 Bidrag fra refleksioner generelt Lydtrykket i målepositionen opbygges som summen  
+
+ af lydtrykkene i lydbølger, som ankommer til målepositionen ad  
+
+ forskellige veje.
+Dette er illustreret i figurerne 5.1 og 5.2.
+Figur 5.1 Illustration af transmissionsveje.
+Lodret snit.
+1: Direkte 2: Via refleksion fra terræn 3: Via refleksion fra bygningsfacade 4: Via refleksion fra terræn og bygningfacade I figur 5.1 er dels vist a)	en teoretisk situation: ideelt frit felt.
+Der eksisterer kun  
+
+ én transmissionsvej: direkte fra kilde til  
+
+ måleposition.
+Endvidere er vist b)	det, som i denne vejledning er benævnt "frit felt". Til  
+
+ målepositionen ankommer - ud over den direkte transmitterede lydenergi  
+
+ - et refleksionsbidrag fra terrænoverfladen.
+Transmissionsvej 2 er  
+
+ karakteriseret ved, at vinklen mellem normalen til terrænoverfladen og  
+
+ henholdsvis den indfaldende og den reflekterede lydbølges bane er lige  
+
+ store.
+Bidrag fra refleksioner kan betragtes som bidrag, der kommer fra  
+
+ støjkilden til fiktive målepositioner (M og M"), som  
+
+ er målepositionens spejlbilleder i de reflekterende flader.
+I figur 5.1 er endelig vist c)	de transmissionsveje, 3 og 4, som yderligere findes mellem kilde og  
+
+ måleposition, når der nær målepositionen findes en  
+
+ lodret, lydreflekterende flade, f.eks. en bygningsfacade.
+ Grænseværdierne i Miljøstyrelsens  
+
+ vejledning nr. 5/1984 er opstillet under den forudsætning, at der til  
+
+ bidraget fra den direkte transmitterede lyd alene adderer sig bidrag fra  
+
+ refleksioner fra terrænoverfladen og eventuelt fra flader på  
+
+ bygninger og lignende på virksomhedens areal (disse sidstnævnte  
+
+ er af overskuelighedsgrunde ikke medtaget i figur 5.1).
+Lydenergi, som transmitteres til målepositionen via  
+
+ refleksioner fra bygningsfacader og lignende nær målepositionen,  
+
+ betragtes som uvedkommende i forbindelse med måling af den støj,  
+
+ der udsendes fra kilden.
+Måling af ekstern støj fra virksomheder  
+
+ bør derfor så vidt muligt udføres som  
+
+ fritfeltsmålinger.
+I tilfælde, hvor dette ikke kan lade sig  
+
+ gøre, må målingerne udføres under sådanne  
+
+ omstændigheder, at det er muligt at korrigere for indflydelsen fra  
+
+ uvedkommende refleksionsbidrag.
+I nogle tilfælde er en sådan  
+
+ korrektion ikke mulig, f.eks. ved måling i en måleposition i et  
+
+ gårdrum, hvortil en virksomhed udsender støj, jf. afsnit  
+
+ 5.6.
+Indflydelsen fra refleksionsbidrag er vanskelig at  
+
+ vurdere, idet der er tale om en kompleks samvirken af mange faktorer:  
+
+ støjens frekvens, båndbredde og indfaldsvinkel,  
+
+ størrelsen af og afstanden til reflekterende flader mv.  
+
+ Retningslinierne i det følgende er opstillet med henblik på at  
+
+ sikre, at bidrag fra refleksioner ikke påfører  
+
+ måleresultatet fejl på mere end 1 dB.
+Retningslinierne er givet  
+
+ dels i form af krav udledt ved "teoretiske" analyser af idealiserede  
+
+ situationer, dels i form af praktiske håndregler.
+Der skelnes mellem måling i henholdsvis "frit felt",  
+
+ i "+3 dB området", i "+6 dB området" samt måling ved  
+
+ "komplekse refleksionsforhold". I figur 5.2 er vist eksempler på mulige  
+
+ målepositioner.
+I målepositionen M1 forekommer bidrag  
+
+ fra refleksion fra bygningens facade.
+Det område foran bygningen,  
+
+ hvortil der ankommer lydenergi reflekteret fra facaden er illustreret.  
+
+ Målepositionen M2 er placeret i nærheden af bygningen  
+
+ på en sådan måde, at der ikke ankommer lydenergi til  
+
+ M2 reflekteret fra bygningens facade.
+Illustrationen er forenklet  
+
+ ved, at lydens bølgelængde er forudsat at være lille.
+Der  
+
+ er set bort fra virkningen af diffraktion ved facadens kanter.
+Figur 5.2 Illustration af refleksion fra bygningsfacade.  
+
+ Plan.
+ Ved en generel behandling af problemstillingen må  
+
+ anvendes den komplicerede konfiguration i figur 5.3. Der henvises i  
+
+ øvrigt til [Lindblad, 1977, 1981], [Thomasson, 1979], [Rindel, 1981].  
+
+ I figuren er støjkilden betegnet med K og målepositionen med M.  
+
+ Den reflekterende bygningsfacade har højden h og længden l.  
+
+ Afstanden fra M til facaden er b, målt vinkelret på facaden.
+ Støjkilden K's projektion på den vandrette  
+
+ terrænoverflade er benævnt K1, og dette punkts  
+
+ projektion på en lodret plan gennem M vinkelret på facaden er  
+
+ benævnt K2. K 2's vinkelrette afstand fra facaden  
+
+ er a + b.
+ M's spejlbillede er benævnt M'. Afstanden fra K til  
+
+ M er kaldt R, og afstanden fra K til M' er kaldt R'.
+Linien fra K til M' skærer facadens plan i punktet  
+
+ F.
+Den mindste afstand fra punktet F til facadens afgrænsning er kaldt  
+
+ e. e kan være såvel en lodret som en vandret afstand.
+ Vinklen mellem de indfaldende lydbølgers retning  
+
+ (KM') og normalen til facaden er benævnt q  
+
+ .
+Figur 5.3 Illustration af de geometriske karakteristika, som indgår ved  
+
+ vurderingen af bidrag fra refleksion fra bygningsfacader mv.
+I figuren er støjkilden forudsat at være  
+
+ punktformet.
+Dette kan antages at være tilfældet, når  
+
+ målepositionens afstand R fra støjkildens akustiske centrum er  
+
+ større end støjkildens største udstrækning [Kragh  
+
+ et al., 1982].
+Er støjkilderne på en virksomhed fordelt over et  
+
+ større område, må der foretages en opdeling i  
+
+ delområder.
+Afstanden fra hvert delområdes akustiskecentrum til  
+
+ målepositionen skal være større end delområdets  
+
+ største udstrækning.
+Hvert delområde repræsenteres  
+
+ af en punktkilde.
+Vurderingen af refleksionernes betydning baseres på  
+
+ det delområde, der giver de strengeste krav til målepositionens  
+
+ placering som beskrevet i det følgende.
+De krav, som er formuleret nedenfor, er baseret på  
+
+ analyser af en idealiseret situation, nemlig en uendeligt stor,  
+
+ fuldstændigt lydreflekterende flade placeret i et i øvrigt frit  
+
+ felt.
+Der må derfor ske modifikationer af kravene, når der i  
+
+ virkelighedens ikke ideelle verden er tale om dels facader af endelige  
+
+ dimensioner og dels om tilstedeværelsen af en mere eller mindre  
+
+ porøs terrænoverflade mellem støjkilde og  
+
+ måleposition.
+Terrænets indflydelse synes heldigvis at være  
+
+ ringe [Thomasson, 1979].
+De krav, der er stillet til dimensionerne af de  
+
+ reflekterende flader, har karakter af at være kvalificerede skøn  
+
+ støttet af teoretiske overvejelser, mere end af at være  
+
+ verificerede kendsgerninger.
+Noget tilsvarende gælder kravene til  
+
+ facadernes jævnhed og lydreflekterende egenskaber.
+Derfor er  
+
+ eksempelvis angivelsen af en typisk facadedimension på 4 x 8  
+
+ m2 kun en angivelse af en størrelsesorden.
+Facader på  
+
+ 3 x 8 m2 og 3 x 6 m2 er i denne forbindelse af samme  
+
+ størrelsesorden.
+5.3 Fritfeltsmåling Resultater af fritfeltsmålinger kan sammenlignes  
+
+ med støjgrænser og med de vejledende grænseværdier i  
+
+ Miljøstyrelsens vejledning nr. 5/1984 uden korrektion for  
+
+ refleksionsbidrag.
+Som resultater af måling i frit felt kan regnes  
+
+ resultater opnået i målepositioner, hvortil der ikke ankommer  
+
+ lydenergi reflekteret fra lodrette flader nær målepositionen.
+En  
+
+ sådan måleposition er f.eks. vist i figur 5.2: pos.  
+
+ M2.
+I målepositioner (f.eks. pos.
+M1, figur  
+
+ 5.2), hvortil der ankommer reflekteret lydenergi, kræves det, at  
+
+ bidraget fra spejlkilden er så lille, at det ikke øger  
+
+ lydtrykniveauet af den direkte transmitterede lyd alene med mere end 1 dB.  
+
+ Spejlkildens bidrag skal være ca. 6 dB mindre end bidraget fra den  
+
+ direkte transmitterede lyd, jf. figur 10.1. Idet det forudsættes, at  
+
+ lydtrykniveauet aftager med 6 dB for hver gang afstanden fra  
+
+ støjkilden fordobles, må det kræves, at R' ≥ 2 · R [5.1] for at måleresultatet kan anses for en  
+
+ fritfeltsværdi.
+R' er afstanden fra støjkilden K til  
+
+ målepositionens spejlbillede M', og R er afstanden fra  
+
+ støjkilden K til målepositionen M, figur 5.3. Kravet [5.1] er  
+
+ uafhængigt af frekvensen.
+Når den reflekterende flade ikke er meget stor, er det ikke altid  
+
+ nødvendigt at kræve afstandskravet [5.1] opfyldt.
+Der kan uden  
+
+ videre ses bort fra indflydelsen af facader af parcelhuse og lignende (af  
+
+ størrelsesordenen 4 m x 8 m), når afstanden MF figur 5.3, er  
+
+ større end ca. 50 m.
+5.4 "+3 dB måling" Før resultater af "+3 dB målinger"  
+
+ sammenlignes med støjgrænser eller med de vejledende  
+
+ grænseværdier i Miljøstyrelsens vejledning nr. 5/1984,  
+
+ skal der trækkes 3 dB fra måleresultatet.
+ I et vist område foran, men ikke for tæt  
+
+ på, en reflekterende facade kan bidraget fra den direkte transmitterede  
+
+ lydenergi og den reflekterede lydenergi antages at være lige store,  
+
+ nemlig hvor afstandene R og R' er næsten ens (figur 5.3). Summen af  
+
+ disse bidrag vil derfor være 3 dB højere end bidraget fra den  
+
+ direkte transmitterede lyd alene (jf. afsnit 10).
+For at fejlen ved at antage dette skal være mindre  
+
+ end 1 dB, må vilkåret b ≤ 0,1 · a [5.2] være opfyldt.
+Hvis M placeres meget tæt ved facaden, kan man ikke  
+
+ addere bidragene fra direkte transmitteret og reflekteret lydenergi som  
+
+ angivet i afsnit 10. I så fald skal man nemlig tage hensyn til  
+
+ lydbølgernes indbyrdes faseforhold.
+Der kræves en vis afstand  
+
+ fra facaden, før man kan se bort fra denne virkning.
+Korrelationen  
+
+ mellem trykvariationerne i direkte transmitterede og reflekterede  
+
+ lydbølger skal være ringe.
+Den nødvendige afstand  
+
+ afhænger af støjens frekvens og båndbredde samt af  
+
+ indfaldsvinklen q  
+
+ . Ved måling i 1/1 oktavbånd kræves for fejl ≤ 1 dB,  
+
+ at [5.3] hvor  
+
+ λ Det må sikres, at facaden er stor nok til, at  
+
+ forudsætningerne for udledelsen af vilkårene [5.2-3] er opfyldt.  
+
+ Som håndregel kan angives, at målepositionen skal placeres inden  
+
+ for det trekantede område, som er vist i figur 5.4. Facaden skal mindst  
+
+ være af størrelsesordenen 4 x 8 m2.
+ I figur 5.4 er længden af trekantens grundlinie  
+
+ bestemt af, at afstanden til facadens afgrænsninger skal være  
+
+ mindst 1/cosq  
+
+  [m].
+Det reflekterede lydfelts retning bestemmes som retningen  
+
+ af den lyd, der reflekteres fra facadens midtpunkt.
+Områdets  
+
+ udstrækning er begrænset til afstanden r fra facadens midtpunkt i  
+
+ den reflekterede lyds retning.
+ Afstanden r afhænger af facadens mindste  
+
+ udstrækning, af indfaldsvinklen og af lydens  
+
+ bølgelængde:
+[5.4.a] eller [5.4.b] [5.4.b] anvendes, når l > 2 · h. l  er facadens  
+
+ længde og h dens højde. q  
+
+  er vinklen mellem det indfaldende lydfelts retning og facadens normal i  
+
+ punktet F, figur 5.3. λ er lydens  
+
+ bψlgelængde. r bestemmes af bølgelængden ved  
+
+ de laveste frekvenser, som dominerer måleresultatet. r er størst  
+
+ for q  
+
+  = 0° og aftager med voksende værdi af q  
+
+ , særligt hurtigt ved værdier af q  
+
+  over 45°.
+Støjen må ikke være domineret af  
+
+ tonekomponenter.
+I så fald må målingen udføres som  
+
+ fritfeltsmåling eller eventuelt +6 dB måling.
+ Vilkårene [5.2-3] er også illustreret i figur  
+
+ 5.4.
+Figur 5.4 Planskitse med illustration (skraveret) af område for placering af  
+
+ måleposition ved "+3 dB-måling".
+ Kravene i [5.5] dækker de fleste af de i praksis  
+
+ forekommende situationer ved "+3 dB måling":
+1,5 m ≤ b < 0,1 · a [5.5] [5.5] er opstillet på basis af [5.2-3], idet det er  
+
+ forudsat *	at LAeq er bestemt af hvid støj i et 1/1  
+
+ oktavbånd eller bredere omkring fc ≥ 250 Hz, *	at q  
+
+  ≤ 30°, *	at facadedimensionerne er af størrelsesordenen 4 x 8  
+
+ m2 eller mere, *	at målepositionen placeres inden for et område af typen  
+
+ skraveret i figur 5.4 (l/cos q  
+
+  ≈ 1 m, l  
+
+ c/cosq  
+
+  ≈ 1,5 m, r ≈ 15 m).
+Støjen vil ofte være mere bredbåndet  
+
+ og/eller højfrekvent end forudsat i [5.5].
+I så fald vil kravet  
+
+ b ≥ 1,5 m kunne ændres, sådan at en mindre afstand er  
+
+ tilstrækkelig.
+5.5 "+6 dB måling" Før resultater af "+6 dB målinger"  
+
+ sammenlignes med støjgrænser eller med de vejledende  
+
+ grænseværdier i Miljøstyrelsens vejledning nr. 5/1984,  
+
+ skal der trækkes 6 dB fra måleresultatet.
+I visse tilfælde kan det være  
+
+ hensigtsmæssigt at måle ganske tæt ved en reflekterende  
+
+ flade.
+Her er trykvariationerne i de direkte transmitterede lydbølger  
+
+ og de reflekterede bølger stærkt korrelerede.
+Derved sker der  
+
+ med tilnærmelse en fordobling af lydtrykkets amplitude.
+Dette svarer  
+
+ til, at lydtrykniveauet forøges med 6 dB i forhold til lydtrykniveauet  
+
+ i frit felt.
+Betingelsen for, at dette er tilfældet med en fejl  
+
+ på mindre end 1 dB, er [5.6] l  
+
+  er bølgelængden [m] ved den højeste frekvens, som har  
+
+ betydning for måleresultatet. q  
+
+  er lydens indfaldsvinkel, figur 5.3.
+Hertil kommer, at facaden skal være plan og totalt  
+
+ lydreflekterende ved de betydende frekvenser.
+Disse krav er kritiske ved  
+
+ høje frekvenser, hvor bølgelængden l  
+
+  er lille.
+Facaden skal mindst være af størrelsesordenen  
+
+ 4 x 8 m2, og mikrofonen skal have en vis mindsteafstand, e, fra  
+
+ facadens afgrænsning, for at diffraktion ved kanterne ikke  
+
+ påvirker måleresultatet uacceptabelt.
+Her er de laveste  
+
+ frekvenser kritiske.
+Ved måling af ekstern støj fra virksomheder  
+
+ er det i reglen tilstrækkeligt, at e ≥ 1 m.
+To forslag til mikrofonmontering er vist i figur 5.5.  
+
+ Pladen sikrer, at facaden kan betragtes som plan og totalt reflekterende selv  
+
+ ved høje frekvenser.
+Er facaden i sig selv totalt reflekterende (af  
+
+ beton, sten eller lignende), kan mikrofonen monteres uden plade.
+Figur 5.5 Eksempler på mikrofonmontering ved måling i "+6 dB  
+
+ området".
+ Anvendes trykmikrofon, er systemets frekvenskarakteristik  
+
+ retlinet ved 1/1 oktav højere frekvenser, end hvis man anvender  
+
+ fritfeltsmikrofon.
+ I praksis er kravet [5.7] oftest tilstrækkeligt ved  
+
+ måling af ekstern støj fra virksomheder:
+b ≤ 0,01 m ≈ ½ " [5.7] [5.7] er opstillet på basis af [5.6], idet det er forudsat, at LAeq er bestemt af støj i frekvensområdet  
+
+ under 2 kHz, at facadens afvigelse fra en plan flade er ≤ 25 mm inden for en  
+
+ cirkel med centrum i målepositionen og radius 1 m.
+5.6 Komplekse refleksionsforhold I nogle tilfælde er refleksionsforholdene mere  
+
+ komplicerede end forudsat i de foregående afsnit.
+Et eksempel  
+
+ herpå er den situation, at en virksomhed er placeret i en baggård  
+
+ med beboelse i bygningerne, som afgrænser gårdrummet.
+ Den støj, virksomheden udsender, reflekteres  
+
+ gentagne gange mellem bygningsfacaderne, før den når  
+
+ målepositionen, se illustrationen i figur 5.6. Derved forøges  
+
+ LAeq i målepositionen i forhold til en situation med "frit  
+
+ felt". Det kan ikke på enkel vis afgøres, hvor stor  
+
+ forøgelsen bliver.
+ I sådanne situationer foreslås det at  
+
+ udføre måling efter retningslinierne i afsnit 5.5, dvs. "+6 dB  
+
+ måling". +6 dB refererer her til forøgelsen af lydtrykniveauet  
+
+ som følge af den "sidste" refleksion for hver transmissionsvej med  
+
+ mere end én refleksion.
+Det fremgår umiddelbart af figur 5.6, at der ikke  
+
+ kan gives en entydig definition af afstanden a (jf. figur 5.3). Dette er  
+
+ baggrunden for, at +3 dB måling som specificeret i afsnit 5.4 ikke kan  
+
+ gennemføres.
+Der foreligger muligheden for i analogi med  
+
+ målinger i lukkede rum at måle i flere målepositioner og  
+
+ danne en middelværdi af måleresultatet.
+Denne middelværdi  
+
+ vil repræsentere måling i "+3 dB området".  
+
+ Fremgangsmåden vil formentlig være for kompliceret i praksis.
+Figur 5.6 Illustration af gentagne refleksioner i gårdrum.  
+
+ Transmissionsveje 1: Direkte lyd 2: Via 1 refleksion 3: Via 2 refleksioner etc.
+ Ved at gennemføre en +6 dB måling og  
+
+ trække 6 dB fra måleresultatet opnås et mål for den  
+
+ lydenergi, der rammer boligens facade (den "indfaldende lydenergi", som  
+
+ på grund af de gentagne refleksioner vil være større end  
+
+ den indfaldende lydenergi i et frit felt).
+Skal støjen på udendørs opholdsarealer  
+
+ i gården vurderes, må LAeq måles direkte  
+
+ på sådanne arealer.
+Eventuelt kan LAeq skønnes  
+
+ med tilnærmelse ved at trække 3 dB fra resultatet af +6 dB  
+
+ målingen.
+Mod den foreslåede fremgangsmåde kan  
+
+ indvendes, at virksomheden "straffes" for, at den er beliggende i et lukket  
+
+ gårdrum i forhold til en identisk virksomhed placeret, hvor der ikke  
+
+ finder gentagne lydrefleksioner sted.
+En korrektion til "frit  
+
+ felts"-værdi er imidlertid ikke mulig at foretage med rimelig  
+
+ nøjagtighed, og set fra beboersynspunkt er det mindre interessant, om  
+
+ en eventuelt generende støj kommer direkte fra virksomheden og via en  
+
+ refleksion fra terrænet i gården, eller om støjen ankommer  
+
+ via gentagne refleksioner fra terræn og facader.
+ Tilsvarende forhold findes i punkter inde i bebyggede  
+
+ områder, hvor komplicerede refleksionsforhold vanskeliggør  
+
+ bestemmelsen af "frit felts"-værdien af LAeq.
+6. MÅLEPOSITIONER INDENDØRS Miljøstyrelsens vejledning nr. 5/1984 indeholder  
+
+ vejledende grænseværdier for støj indendørs.
+Disse  
+
+ grænseværdier anvendes som grundlag for vurdering, når  
+
+ støjen fra en virksomhed transmitteres til boliger eller andre  
+
+ støjfølsomme arealer beliggende i samme bygning som  
+
+ virksomheden.
+I sådanne tilfælde kan det være  
+
+ nødvendigt at gennemføre støjmålinger  
+
+ indendørs.
+Måleresultatet vil - som følge af  
+
+ rumakustiske fænomener, som ikke skal omtales her - være  
+
+ afhængigt af, hvor mikrofonen placeres.
+Variationen fra sted til sted i  
+
+ rummet afhænger af mange faktorer.
+Især den kendsgerning, at  
+
+ støj fra virksomheder har meget varierende frekvensmæssig  
+
+ sammensætning, gør det vanskeligt at fastsætte generelle  
+
+ regler for det nødvendige antal målepositioner samt for deres  
+
+ indbyrdes placering i rummet.
+Som håndregel anbefales anvendt mindst 3  
+
+ målepositioner fordelt i rummet.
+Den aritmetiske middelværdi af  
+
+ resultaterne fra de forskellige målepositioner bruges som  
+
+ måleresultat.
+Afstanden mellem målepositionerne bør  
+
+ være større end den halve bølgelængde.
+Derved  
+
+ sikres, at den indbyrdes korrelation mellem måleresultaterne er ringe.  
+
+ Sammenhængen mellem bølgelængde og frekvens er [6.1] hvor l  
+
+  er bølgelængden og f er frekvensen i Hz.
+Målepositionerne bør placeres i større  
+
+ afstand end en kvart bølgelængde fra rummets  
+
+ begrænsningsflader.
+Derved undgår man, at måleresultaterne  
+
+ påvirkes af specielle forhold i lydfeltet ved rummets  
+
+ begrænsningsflader.
+ Det er bølgelængden af de mest lavfrekvente  
+
+ komponenter, som har betydning for måleresultatet, der skal bruges ved  
+
+ fastlæggelse af de nødvendige afstande.
+De nævnte regler kan være svære at  
+
+ overholde i praksis, fordi man ofte skal måle lavfrekvent støj -  
+
+ med stor bølgelængde - i små rum.
+Reglerne bør da  
+
+ følges bedst muligt.
+Afvigelser fra reglerne medfører  
+
+ forøgelse af variationen i måleresultaterne fra  
+
+ måleposition til måleposition.
+I nogle tilfælde er det nødvendigt at  
+
+ korrigere måleresultatet for rummets efterklangstid.
+Dette er omtalt i  
+
+ afsnit 9.
+7. KORREKTION FOR INDHOLD AF TONER 7.1 Generelt Erfaringen viser, at støj med indhold af  
+
+ hørbare tonekomponenter virker mere generende end støj uden et  
+
+ sådant toneindhold.
+Toner kan f.eks. forekomme i støj fra  
+
+ ventilationsanlæg og som hvinen eller brummen fra roterende  
+
+ maskiner.
+ Dette er baggrunden for, at resultatet af den fysiske  
+
+ måling af det A-vægtede lydtrykniveau eventuelt skal korrigeres  
+
+ før sammenligning med en vejledende grænseværdi eller en  
+
+ støjgrænse.
+Under målingen foretages en subjektiv vurdering af,  
+
+ om støjen indeholder tydeligt hørbare toner.
+Er dette ikke  
+
+ tilfældet, anvendes måleresultatet direkte.
+ Hvis det ved den subjektive vurdering konstateres, at der  
+
+ findes en eller flere tydeligt hørbare toner i støjen, gives et  
+
+ tillæg på 5 dB til måleresultatet.
+ Hvis det ved den subjektive vurdering konstateres, at  
+
+ støjen indeholder en eller flere toner, men det ikke med sikkerhed kan  
+
+ afgøres, om tonen (tonerne) kan siges at være tydeligt  
+
+ hørbar, foretages en objektiv måling efter retningslinierne i  
+
+ afsnit 7.2. På basis af resultatet af denne objektive måling  
+
+ afgøres, om der skal gives et tillæg på 5 dB til  
+
+ måleresultatet eller ikke.
+ I situationer, hvor der kun periodevis forekommer toner i  
+
+ støjen, tildeles et eventuelt tillæg alene for de tidsrum, hvor  
+
+ tonen (tonerne) er tydeligt hørbar.
+Som følge af interferens kan lydtrykniveauet af en  
+
+ tone variere temmelig meget ved selv forholdsvis små flytninger af  
+
+ målepositionen.
+De lokale minima i tonens styrke, som skyldes  
+
+ interferens, er uden interesse for den gene, en virksomhed eventuelt  
+
+ påfører de omkringboende.
+Derfor bør man - både ved  
+
+ den subjektive vurdering og ved valg af stedet for en objektiv måling -  
+
+ ved lytning opsøge en position, hvor tonen forekommer kraftig.
+7.2 Objektiv målemetode for toner i støj Den objektive måling gennemføres i tre  
+
+ trin:
+ 1. trin:
+ Der foretages frekvensanalyse af støjen.
+ 2. trin:
+ Lydtrykniveauet af tonen, samt den øvrige støjs  
+
+ lydtrykniveau inden for et kritisk bånd omkring tonen, bestemmes  
+
+ på basis af resultatet af denne frekvensanalyse.
+ 3. trin:
+ Det afgøres, om der skal gives et tillæg på 5 dB.
+Fremgangsmåden i hvert af de tre trin er beskrevet i  
+
+ det følgende.
+Det principielle i fremgangsmåden er omtalt i  
+
+[Holm Pedersen, 1978].
+Det forudsættes her, at såvel toner som  
+
+ støj er stationære.
+I afsnit 7.3 omtales ikke-stationære  
+
+ forhold.
+1. TRIN: Frekvensanalyse Frekvensanalysen gennemføres som  
+
+ smalbåndsanalyse.
+For at sikre, at hørbare toner kan observeres  
+
+ i det resulterende frekvensspektrum, anvendes en effektiv  
+
+ analysebåndbredde, som er mindre end eller svarende til angivelserne i  
+
+ tabel 7.1.
+ Ved analog frekvensanalyse er det ofte  
+
+ hensigtsmæssigt at gennemføre en orienterende frekvensanalyse  
+
+ med større båndbredde før den egentlige analyse.
+Tonens frekvens [Hz] 20-63 63-200 200-630 630-2k 2k-6,3k 6,3k-20k Effektiv analyse-båndbredde absolut 20 Hz 20 Hz 20 Hz 22 Hz 57 Hz 126 Hz relativ 32 % 10 % 3,5 % 2,8 % 2 % 1,6 % Tabel 7.1 Anbefalede største effektive analysebåndbredder ved  
+
+ forskellige placeringer af tone i frekvensspektrum.
+Den objektive vurdering af tonens hørbarhed  
+
+ påvirkes ikke af, om analysen udføres med konstant absolut  
+
+ båndbredde [Hz] eller med konstant relativ båndbredde [%].
+Den  
+
+ benyttede analysebåndbredde har heller ingen indflydelse på  
+
+ vurderingen, når analysen blot gennemføres med  
+
+ tilstrækkeligt lille båndbredde.
+Den effektive båndbredde er ofte større end  
+
+ analysatorens "nominelle" båndbredde.
+Der må tages hensyn til  
+
+ dette ved valget af analysebåndbredde og ved vurdering af analysens  
+
+ resultat.
+Tilsvarende skal der tages hensyn til specielle egenskaber ved den  
+
+ benyttede analysator, som kan have indflydelse på analyseresultatet  
+
+ (f.eks.
+Hanning-vægtning ved FFT-analyse).
+2. Trin: Bestemmelse  af lydtrykniveauet af toner og øvrig  
+
+ støj Resultatet af frekvensanalysen er et frekvensspektrum.  
+
+ Af dette frekvensspektrum skal lydtrykniveauet af tonerne bestemmes.  
+
+ Endvidere skal lydtrykniveauet af den øvrige støj inden for et  
+
+ såkaldt kritisk bånd indeholdende den/de tydeligste tone/toner  
+
+ bestemmes.
+De kritiske bånd defineres i denne forbindelse som  
+
+ frekvensbånd med båndbredder som angivet i tabel 7.2.
+Centerfrekvens, fc,krit 20 - 500 Hz Over 500 Hz Båndbredde, kritisk bånd 100 Hz 20% af fc,krit Tabel 7.2 Definition af bredden af kritiske bånd i forskellige  
+
+ frekvensområder.
+Det kritiske bånd, inden for hvilket lydtrykniveauet  
+
+ af den øvrige støj skal bestemmes, placeres normalt symmetrisk  
+
+ omkring tonens frekvens.
+Forekommer der flere - i frekvens tæt liggende  
+
+ - toner, placeres det kritiske bånd på en sådan måde,  
+
+ at det omfatter så mange toner som muligt.
+Lydtrykniveau af tonerne Lydtrykniveauet af en tone aflæses af  
+
+ frekvensspektret.
+Forekommer der flere toner inden for samme kritiske  
+
+ bånd, skal det samlede lydtrykniveau af alle toner inden for  
+
+ båndet bestemmes.
+ Lydtrykniveauerne af de enkelte toner adderes som  
+
+ beskrevet i afsnit 10.
+Lydtrykniveauet af den øvrige støj Ud fra frekvensspektret skal endvidere bestemmes  
+
+ lydtrykniveauet af den øvrige støj inden for det aktuelle  
+
+ kritiske bånd, som det ville have været, hvis der ikke var toner  
+
+ i støjen.
+Lydtrykniveauet af den øvrige støj varierer  
+
+ normalt med frekvensen.
+Middelværdien af lydtrykniveauet inden for det  
+
+ aktuelle kritiske bånd dannes visuelt ved aflæsning af  
+
+ frekvensspektret, idet der ses bort fra de maksima, som skyldes  
+
+ tilstedeværelsen af toner.
+Den aflæste værdi er lydtrykniveauet.  
+
+ Lp,støj, middel, inden for et frekvensbånd svarende  
+
+ til den anvendte analysebåndbredde.
+Lydtrykniveauet,  
+
+ Lp,krit.bånd, af støjen indeholdt i hele det aktuelle  
+
+ kritiske bånd bestemmes ved hjælp af følgende udtryk:
+Lp,krit.bånd  
+
+ =Lp,støj,middel + 10 log 3. Trin: Tildeling af tillæg Ud fra de fundne lydtrykniveauer af henholdsvis toner  
+
+ og øvrig støj bestemmes en kriteriestørrelse D  
+
+ Lts defineret som D  
+
+ Lts = Lp, tone - Lp,krit.bånd Lp,tone er lydtrykniveauet af  
+
+ tonen/tonerne.
+ Lp,krit.bånd er lydtrykniveauet af den  
+
+ øvrige støj i det aktuelle kritiske bånd med  
+
+ centerfrekvens fc,krit.
+ D  
+
+ Lts er et mål for, hvor kraftig tonen er i forhold til den  
+
+ øvrige støj.
+I diagrammet i figur 7.1 opsøges punktet med  
+
+ abscissen fc,krit. og ordinaten D  
+
+ Lts.
+Er dette punkt beliggende på eller over kriteriekurven  
+
+ i figuren, skal der gives et tillæg på 5 dB til  
+
+ måleresultatet.
+Ligger punktet under kriteriekurven, skal  
+
+ måleresultatet ikke korrigeres.
+Figur 7.1 Kriteriekurve for korrektion for toneindhold i støj.
+Eksempel I figur 7.2 er vist resultatet af en frekvensanalyse  
+
+ af en stationær støj.
+Af figuren fremgår, at Lp,tone = 61 dB re 20 m  
+
+ Pa Lp,støj,middel = 42 dB re 20 m  
+
+ Pa Heraf beregnes:
+Lp,krit.bånd = 42 + 10 log(100/3,75) = 56,3 dB re 20 m  
+
+ Pa og altså D  
+
+ Lts ≈ 5 dB Af figur 7.1 ses at punktet med abscissen  
+
+ fc,krit. = 225 Hz og ordinat D  
+
+ Lts = 5 dB netop ligger over kriteriekurven.
+Måleresultatet  
+
+ skal følgelig tildeles et tillæg på 5 dB.
+7.3 Ikke-stationære forhold I afsnit 7.2 var det forudsat, at såvel toner  
+
+ som støj var stationære.
+Dette er oftest tilfældet,  
+
+ når det er aktuelt at gennemføre analyser for at fastlægge  
+
+ toneindholdet i støj.
+Hvis forholdene undtagelsesvis er  
+
+ ikke-stationære, anvendes følgende retningslinier.
+Hvis lydtrykniveauet af en tone fluktuerer (f.eks. ved  
+
+ forekomst af stødtonefænomener), mens lydtrykniveauet af den øvrige støj i  
+
+ det aktuelle kritiske bånd er konstant, sættes lydtrykniveauet af  
+
+ tonen lig med den størst forekommende værdi.
+Lydtrykniveauet af  
+
+ tonen måles med tidsvægtning FAST (F). Lydtrykniveauet af den  
+
+ øvrige støj bestemmes med en passende lang integrationstid.
+ Hvis lydtrykniveauet af tonen og den øvrige  
+
+ støj i det aktuelle kritiske bånd varierer på samme  
+
+ måde (f.eks. som følge af variationer i udbredelsesforholdene),  
+
+ foretages analysen som beskrevet i afsnit 7.2. Eventuelt vælges en  
+
+ integrationstid, der er lang i forhold til periodetiden for  
+
+ variationerne.
+Figur 7.2 Illustration af fremgangsmåde ved objektiv måling af  
+
+ toneindhold i støj.
+Hvis forholdet mellem lydtrykniveauet af tonen og  
+
+ lydtrykniveauet af den øvrige støj i det aktuelle bånd  
+
+ varierer indbyrdes, gennemføres gentagne analyser til belysning af  
+
+ forholdene.
+Tillæg for tydeligt hørbar tone tildeles herefter  
+
+ alene i de tidsrum, hvor D  
+
+ Lts ligger over kriteriekurven i figur 7.1.
+8. KORREKTION FOR STØJENS VARIGHED Som et vigtigt led i beskrivelsen af støjen fra en  
+
+ virksomhed skal LAeq af støjen fra virksomheden bestemmes  
+
+ for de såkaldte referencetidsrum angivet i afsnit 2.1.
+Der kan forekomme tilfælde, hvor en virksomhed kun  
+
+ er i drift i en begrænset del, driftstidsrum, af et eller flere af  
+
+ disse referencetidsrum.
+LAeq for et referencetidsrum kan i  
+
+ sådanne tilfælde bestemmes ved måling af LAeq  
+
+ inden for driftstidsrummet og efterfølgende korrektion for, at dette  
+
+ tidsrum er kortere end referencetidsrummet.
+ Følgende udtryk benyttes:
+LAeq,ref = LAeq,drift + 10 log(D  
+
+ tdrift/D  
+
+ t ref) [8.1] Heri er LAeq,ref = LAeq for referencetidsrummet LAeq,drift = LAeq målt for driftstidsrummet D  
+
+ tdrift = driftstidsrummets (målingens) varighed D  
+
+ tref = referencetidsrummets varighed Alternativt kan figur 8.1 benyttes, idet varigheden af  
+
+ driftstidsrummet - udtrykt som % af referencetidsrummet - bruges som  
+
+ indgangsparameter.
+I diagrammet kan værdien af korrektionen for den  
+
+ mindre varighed aflæses.
+Diagrammet er opbygget, sådan at samme  
+
+ kurve benyttes i to intervaller: ved varigheder mellem 10% og 100% benyttes  
+
+ ordinataksen nærmest kurven; ved varigheder mellem 1% og 10% benyttes  
+
+ ordinataksen til venstre.
+Figur 8.1 Korrektion for varighed.
+Eksempel: Varighed 7 % Korrektion: -11,5 dB Forekommer der flere driftstilstande, for hver af hvilke såvel  
+
+ LAeq som varigheden er bestemt, kan LAeq for  
+
+ referencetidsrummet af den samlede støj fra virksomheden bestemmes  
+
+ som [8.2] idet bidragene fra hver driftstilstand, markeret ved index  
+
+ i, herved summeres som angivet i afsnit 10. Samtidigt korrigeres for  
+
+ forskelle i driftstilstandenes varigheder.
+Anvendes diagrammet i figur 8.1, bestemmes først en  
+
+ korrektion til LAeq for hver driftstilstand ud fra dens varighed.  
+
+ Derefter korrigeres de målte værdier af LAeq for hver  
+
+ driftstilstand.
+De således korrigerede værdier  
+
+ repræsenterer bidraget fra hver driftstilstand til LAeq for  
+
+ referencetidsrummet.
+Disse "tidsnormerede" bidrag summeres endelig (se afsnit  
+
+ 10), hvorved det samlede LAeq for referencetidsrummet er  
+
+ bestemt.
+Eksempel En virksomheds støjudsendelse består af  
+
+ støjen fra en kompressor samt støjen fra et  
+
+ ventilationsanlæg.
+Det vides, at driften er meget regelmæssig,  
+
+ jf. eventuelt figur 2.3. Ca. hvert 10. min. kører kompressoren i 2  
+
+ min.
+Denne driftstilstand giver anledning til en stationær støj  
+
+ i den betragtede måleposition: LpA = LAeq = 53 dB  
+
+ re 20 m  
+
+ Pa.
+Støjen fra ventilationsanlægget giver konstant  
+
+ LpA = LAeq = 44,5 dB re 20 m  
+
+ Pa over hele arbejdstiden kl. 07-16.
+Driftstilstand Varighed % LAeq, drift dB re 20 m  
+
+ Pa Korrektion dB Bidrag til LAeq, ref dB re 20 m  
+
+ Pa 1.
+Kompr. + vent 20 53 -7 46 2.
+ Vent.
+80 44,5 -1 43,5 Tabel 8.1 Varighedskorrektion af eksemplets delbidrag.
+Forskel mellem varighedskorrigerede delbidrag: 46 - 43,5 = 2,5 dB Tillæg til største delbidrag (figur 10.1) 1,9 dB Resulterende LAeq,ref = 46 + 1,9 . 48 dB re 20 m  
+
+ Pa.
+9. KORREKTION FOR EFTERKLANGSTID 9.1 Generelt De vejledende grænseværdier for  
+
+ støj indendørs i afsnit 2.3 i Miljøstyrelsens vejledning  
+
+ nr. 5/1984 er fastsat under forudsætning af, at efterklangstiden er 0,5  
+
+ sek. i beboelsesrum, 0,8 sek. i kontorer og 1,0 sek. i øvrige rum i  
+
+ virksomheder.
+I rum, hvor efterklangstiden er kortere end anført,  
+
+ vil - alt andet lige - lydenergien udsendt af en virksomhed give anledning  
+
+ til et lavere lydtrykniveau, og i rum med længere efterklangstid til et  
+
+ højere lydtrykniveau end forudsat.
+Vurderingen af den støj,  
+
+ virksomheden påfører omgivelserne, bør være  
+
+ uafhængig af den konkrete udformning, herunder møblering, af det  
+
+ betragtede rum.
+Derfor er det i princippet nødvendigt at normere  
+
+ måleresultatet til standardiserede akustiske forhold, dvs.  
+
+ efterklangstiden i rummet.
+ Efterklangstiden bør derfor principielt  
+
+ måles, og resultatet af støjmålingen korrigeres som omtalt  
+
+ i afsnit 9.3. I reglen kan man med god tilnærmelse korrigere  
+
+ A-vægtede lydtrykniveauer ved brug af efterklangstiden ved 500 Hz.
+I mange tilfælde vil det - i betragtning af  
+
+ størrelsen af de øvrige bidrag til ubestemtheden på  
+
+ måleresultatet - være berettiget at nøjes med et  
+
+ skøn over efterklangstidens størrelse.
+Som grundlag for dette  
+
+ skøn kan nævnes, at efterklangstiden ved 500 Hz typisk varierer  
+
+ fra 0,2 sek. i små, tæt møblerede rum med mange tekstiler  
+
+ til 1 sek. i store, sparsomt møblerede rum.
+Efterklangstiden er normalt forskellig ved forskellige  
+
+ frekvenser.
+Når værdien af LAeq bestemmes af bidrag  
+
+ fra andre frekvenskomponenter i støjen end området omkring 500  
+
+ Hz, bør man måle såvel lydtrykniveau som efterklangstid i  
+
+ forskellige frekvensbånd (f.eks. 1/1 oktav). Derefter korrigeres  
+
+ lydtrykniveauet i hvert frekvensbånd svarende til den relevante  
+
+ efterklangstid.
+Endelig korrigeres svarende til IEC-kurve A, og de  
+
+ korrigerede bidrag pr. 1/1 oktav til LAeq adderes som beskrevet i  
+
+ afsnit 10. Den skitserede fremgangsmåde er i bedste fald meget  
+
+ tidskrævende.
+Proceduren bør derfor alene anvendes i  
+
+ situationer, hvor det skønnes at være af væsentlig  
+
+ betydning for udfaldet af sammenligningen mellem måleresultat og  
+
+ grænseværdi at tage hensyn til efterklangstidens  
+
+ frekvensafhængighed.
+9.2 Måling af efterklangstid Efterklangstiden i et rum er defineret som den tid,  
+
+ det varer, fra en lydkilde afbrydes, til lydtrykniveauet i rummet er aftaget  
+
+ med 60 dB.
+Efterklangstiden bestemmes på basis af en registrering af  
+
+ lydtrykniveauets tidsmæssige forløb efter ophør af  
+
+ lydudsendelse i rummet.
+ Som lydkilde kan benyttes en højttaler, der  
+
+ udsender bredbåndet eller oktavbåndfiltreret støj.  
+
+ Endvidere kan anvendes en impulslydkilde, som f.eks. en signalpistol eller en  
+
+ oppustet papirspose, der "knaldes".
+ Der kan gennemføres båndoptagelse på  
+
+ målestedet med efterfølgende databehandling i laboratoriet,  
+
+ eller man kan foretage registrering af lydtrykniveauets tidsmæssige  
+
+ forløb direkte på målestedet.
+ Benyttes bredbåndet støj eller en  
+
+ impulslydgiver, må der foretages filtrering i forbindelse med  
+
+ registreringen af lydtrykniveauet som funktion af tiden.
+ Der findes kommercielt tilgængelige  
+
+ målesystemer designet direkte til efterklangstidsmåling.  
+
+ Sådanne instrumenter kan naturligvis også anvendes.
+Der henvises til speciallitteraturen, herunder  
+
+ fabrikantanvisninger, om den rette brug af de indgående instrumenter.  
+
+ Specielt må det sikres, at der ikke forekommer overstyring af  
+
+ instrumenterne.
+Endvidere skal signal/støjforholdet være  
+
+ tilstrækkeligt i hele det betydende frekvensområde.
+ Vejledning om principperne for måling af  
+
+ efterklangstid kan fås i f.eks. [DS/ISO 3382], selv om den ikke  
+
+ umiddelbart er tænkt anvendt på den her omhandlede  
+
+ problemstilling.
+Den målte efterklangstid afhænger af  
+
+ såvel lydkilde- som mikrofonplacering.
+Der bør derfor  
+
+ gennemføres flere målinger.
+Middelværdien af  
+
+ måleresultaterne benyttes ved korrektionen.
+9.3 Korrektionsprocedure Lkorrigeret = Lmålt + 10  
+
+ log(tref/tmålt) [9.1] Heri er Lkorrigeret = det korrigerede lydtrykniveau Lmålt = det målte lydtrykniveau  
+
+ (begge enten A-vægtet eller pr. 1/1 oktav)  
+
+[dB re 20 m  
+
+ Pa] tref = { 0,5 sek. i beboelsesrum  
+
+ 0,8 sek. i kontorer  
+
+ 1,0 sek. i øvrige rum i virksomheder tmålt = den målte efterklangstid [  
+
+ sek.]
+  
+
+ (ved 500 Hz eller pr. 1/1 oktav) Eventuelt kan værdien af korrektionsleddet 10  
+
+ log(tref/tmålt) bestemmes ved hjælp af  
+
+ diagrammet i figur 9.1. For værdier af forholdet  
+
+ tref/tmålt mellem 1 og 10 benyttes den nederste  
+
+ abscisseakse og ordinataksen til venstre.
+For værdier mellem 0 og 1  
+
+ benyttes øverste abscisseakse og ordinataksen til højre.
+Der  
+
+ henvises til eksemplerne i figuren.
+10. ADDITION AF STØJBIDRAG Ønskes lydtrykniveauet LAeq(total) af  
+
+ den samlede støj fra flere støjkilder bestemt, anvendes  
+
+ udtrykket hvori LAeq,i er LAeq fra støjkilde nr. i.  
+
+ Bemærk, at det er nødvendigt før addition af  
+
+ LAeq- værdier at "tidsnormere" dem, dvs. at korrigere som  
+
+ angivet i afsnit 8, så alle bidrag har samme varighed.
+Addition af  
+
+ lydtrykniveauerne af flere toner (afsnit 7.2) udføres på samme  
+
+ måde som addition af tidsnormerede LAeq-værdier.
+Figur 9.1 Korrektion for efterklangstid.
+Eksempel 1 LAeq,målt = 28 dB re 20 m  
+
+ Pa i bolig tmålt = 0,83 sek. (middel af 3 målinger) tref/tmålt = 0,5/0,83 = 0,6 [-] korrektion = -2,2 dB LAeq,korr = 28 - 2,2 = 26 dB re 20 m  
+
+ Pa Eksempel 2 LAeq,målt = 38 dB re 20 m  
+
+ Pa i kontor tmålt = 0,4 sek.
+tref/tmålt = 0,8/0,4 = 2,0 [-] korrektion = 3,0 dB LAeq,korr = 38 + 3,0 = 41 dB re 20 m  
+
+ Pa Alternativt kan diagrammet i figur 10.1 bruges:  
+
+ ønskes to værdier adderet, dannes differensen.
+Denne bruges som  
+
+ indgangsparameter.
+Af diagrammet bestemmes et tillæg, som adderes til  
+
+ den største værdi.
+Dermed er summen bestemt. Ønskes flere  
+
+ end to delbidrag adderet, adderes først de to mindste delbidrag, og  
+
+ summen af disse adderes til det tredjemindste delbidrag o.s.v.
+Figur 10.1 Diagram til brug ved addition af bidrag fra to støjkilder.
+ Eksempel:
+LAeq,1 = 46 dB re 20 m  
+
+ Pa LAeq,2 = 43,5 dB re 20 m  
+
+ Pa LAeq,1-LAeq,2 = 2,5 dB Korrektion til LAeq,1 = 1,9 dB LAeq(total) = LAeq,1 + korrektion 46 + 1,9 = 48 dB re 20 m  
+
+ Pa 11. RAPPORTERING - HUSKELISTE Nedenfor er opstillet en huskeliste til brug ved  
+
+ udarbejdelse af rapporter om støjmålinger.
+Der henvises til  
+
+ "Måling af ekstern støj fra virksomheder.  
+
+ Prototypemålinger" (Nyt fra Miljøstyrelsen nr. 3, 1978) for  
+
+ vejledning om udformning af rapporten.
+Rapporten skal beskrive:
+ 1)	Formålet med målingerne.
+ 2)	Måleresultater: LAeq, Lr og eventuelt  
+
+ LpAmax pr. måleposition og pr. referencetidsrum.
+ 3)	Ubestemthed på måleresultaterne: σ pr. måleresultat, jf. afsnit 4.
+ 4)	Målepositioner, herunder kortbilag med målestok og  
+
+ nordpil samt i nødvendigt omfang målsatte skitser,  
+
+ mikrofonhøjde og placering i forhold til reflekterende flader.
+ 5)	Virksomhedens omgivelser (herunder fornødent kortmateriale) i  
+
+ form af indholdet af lokalplaner mv. samt den faktiske arealanvendelse.
+ 6)	Støjkildernes art og placering (herunder ligeledes  
+
+ fornødent kortmateriale) samt driftsbetingelser (herunder f.eks.  
+
+ belastning/effektforbrug o.l. samt varigheder) og omfang af eventuelle  
+
+ støjreducerende foranstaltninger.
+ 7)	Fremgangsmåden ved målingernes gennemførelse,  
+
+ herunder referencetidsrum, observationstidsrum, måletidsrum,  
+
+ overvågning mv.
+ 8)	Instrumenter: type, fabrikat, identifikationsnr.,  
+
+ kalibreringsprocedure, dato for seneste kontrol og/eller rekalibrering.
+ 9)	Målebetingelser, herunder baggrundsstøj (kilders art,  
+
+ placering, støjens karakter og karakteristiske lydtrykniveauer) samt  
+
+ meteorologiske forhold (middelvindretning og -hastighed,  
+
+ temperaturgradient).
+ 10)	Støjens karakter, herunder indhold af tonekomponenter og  
+
+ impulser, eventuelt anvendte korrektioner samt en vurdering af, om  
+
+ støjen er specielt lavfrekvent.
+ 11)	Databehandling i øvrigt, herunder eventuelle korrektioner  
+
+ for indflydelse fra baggrundsstøj, varighed mv.
+ 12)	Rekvirent, herunder kontaktpersons navn, adresse og  
+
+ telefonnummer.
+ 13)	Virksomheden, herunder kontaktpersons navn, adresse og  
+
+ telefonnummer.
+ 14)	Eventuelle klagere, navn, adresse og telefonnummer.
+ 15)	Måleinstitution, herunder sagsbehandlers navn, adresse og  
+
+ telefonnummer.
+Det vil normalt være hensigtsmæssigt, at  
+
+ måleinstitutionen - som supplement til målerapporten - giver en  
+
+ orientering om mulighederne for reduktion af støjen.
+En sådan  
+
+ orientering givet på baggrund af iagttagelser foretaget under  
+
+ rekognosceringer og under gennemførelse af målinger vil ofte  
+
+ være af værdi for den senere sagsbehandling.
+Oplysninger om  
+
+ mulighederne for reduktion af støjen kan gives i et følgebrev  
+
+ til målerapporten.
+Selve rapporten bør være rent teknisk  
+
+ beskrivende.
+12. SYMBOLLISTE Symbol [enhed] F Punkt på facade, hvorfra reflekteret lyd når  
+
+ måleposition K Støjkilde: punktkilde eller akustisk centrum af udstrakt kilde K1, K2 Projektioner af K K' Spejlbillede af K i reflekterende flade L [dB] Niveau (level), f.eks.
+Lp = lydtrykniveau [dB re 20 m  
+
+ Pa] M Måleposition M1, M2 Måleposition nr. 1 og 2 M, M" Spejlbillede af M i reflekterende flade(r) ved én hhv. to  
+
+ refleksioner N [-] Antal måleresultater eller grupper af måleresultater R [m] Afstand fra støjkilde til måleposition R [m] Afstand fra støjkilde til spejlbillede af måleposition T [°C] Lufttemperatur a [m] Afstand vinkelret på reflekterende flade b [m] Afstand fra reflekterende flade til M e [m] Mindste afstand fra F til reflekterende flades afgrænsning f [Hz] Frekvens h [m] Højde af reflekterende flade l [m] Længde af reflekterende flade m [dB re 20 m  
+
+ Pa] Energimiddelværdi af LAeq,o n [-] Totalt antal bidrag, som skal adderes p [Pa] Lydtryk r [m] Udstrækning af område for "+3 dB-måling" s [dB] Estimat af standardafvigelse t { [s] [-] Tid, efterklangstid Testparameter (Student's t) u [m/s] Vindhastighed (u = middelvindhastighed) z [m] Højde over terræn δ [dB] Ubestemthed = halv bredde af 90 % konfidensinterval D [dB] [s] mv.
+Interval, f.eks.
+D  
+
+ L, D  
+
+ t q [°]  
+
+[radianer] Vinkel mellem indfaldende lydbølges retning og normalen til  
+
+ reflekterende flade l [m] Bølgelængde σ [dB] Standardafvigelse Indikerer middelværdi (aritmetisk), streg over f.eks.
+A A-vægtning, f.eks.
+LpA = A-vægtet  
+
+ lydtrykniveau b Baggrundsstøj, f.eks.
+LpA,b = A-vægtet  
+
+ lydtrykniveau af baggrundsstøj c Center, f.eks. fc = centerfrekvens af oktavbånd eq (Energi)ækvivalent, f.eks.
+LAeq = energiækvivalent  
+
+ A-vægtet lydtrykniveau i { Nr., f.eks. nr. på støjkilde, hvis bidrag skal adderes til  
+
+ bidrag fra andre støjkilder Instrument (-betinget bidrag til ubestemthed) k Kilde(-betingede lydtrykniveaufluktuationer), eller nr. på gruppe af  
+
+ LpAmax-målinger krit.
+Kritisk bånd m Meteorologisk (betingede lydtrykniveaufluktuationer) max Maksimalværdi, f.eks.
+LpAmax = maksimal værdi af  
+
+ det A-vægtede lydtrykniveau (FAST(F)) p (Lyd)tryk (pressure), f.eks.
+L = lydtrykniveau r Rating (level), dvs.
+LAeq korrigeret for eventuelt tone-  
+
+ og/eller impulsindhold og/eller informationsindhold s Støj, f.eks.
+D  
+
+ Lts t { Totalstøj, f.eks.
+LAeq,t = energiækvivalent,  
+
+ A-vægtet lydtrykniveau af totalstøjen, dvs. støjen fra  
+
+ virksomheden samt baggrundsstøjen Tone, f.eks.
+D  
+
+ Lts v Virksomhedsstøj, f.eks- LpAmax,v = maksimal værdi  
+
+ af det A-vægtede lydtrykniveau af støjen fra virksomheden o { Referenceværdi  
+
+ Observeret resultat 95 95% fraktil af den kumulative hyppighedsfordeling, f.eks.  
+
+ LpA,95 = den værdi af det A-vægtede lydtrykniveau, som  
+
+ overskrides i 95% af det betragtede tidsrum 13. REFERENCER H.E.A.
+Brackenhoff, P.M.
+Buis, A. von Meier: "Handleiding  
+
+ meten en rekenen industrielawaii". ICG-Rapport nr.
+IL-HR-13-01, Delft,  
+
+ 1981.
+O.
+Carlsen: "2. sammenlignende støjmåling".  
+
+ Redegørelse No. 4, fra Miljøstyrelsens Referencelaboratorium  
+
+ for Støjmålinger.
+Lydteknisk Institut, Lyngby 1983.
+ DS/ISO 3382: "Akustik - Måling af efterklangstid  
+
+ (Acoustics Measurement of reverberation time in auditoria)", 1978.
+P.
+Eriksson, S.
+Lindblad: "Systemvillkor för  
+
+ skattning av industribuller". Rapport TVBA- 3001, Lund, december 1979.
+P.
+Eriksson, S.
+Lindblad: "On Estimation of Environmental  
+
+ Industrial Noise". Lund Institute of Technology, Department of Building  
+
+ Acoustics, Report TVBA-3006, april 1981.
+ IEC-publication 179: "Precision sound level meters".
+ IEC-publication 651: "Sound level meters".
+ ISO 1996: "Acoustics - Description and Measurement of  
+
+ Environmental Noise", Part l: "Basic Quantities and Procedures", Layout for  
+
+ ISO/DIS 1996/1 ISO/TC 43, December 1979. Part 2: "Land Use Planning", ISO/TC  
+
+ 43 SC 1 N415, 1980-03-15.
+S.
+Israelsson: "Ljudutbredning i de marknära  
+
+ luftskikten". Meteorologiska institutionen, Uppsala Universitet, 1979.
+J.
+Jakobsen: "Vindmåling i forbindelse med  
+
+ udendørs støjmåling". Redegørelse No. 3 fra  
+
+ Miljøstyrelsens Referencelaboratorium for Støjmålinger.  
+
+ Lydteknisk Laboratorium, Lyngby 1981.
+J.
+Jakobsen: "Wind Noise.
+Measurements of Wind-Generated  
+
+ Noise from Vegetation and Microphone System". Lydteknisk Institut, rapport  
+
+ nr. 108, Lyngby 1983a.
+J.
+Jakobsen, B.
+Andersen: "Noise Immission from Industry.  
+
+ Measurement and Prediction of Environmental Noise from Industrial Plants."  
+
+ Lydteknisk Institut, rapport nr. 105, Lyngby 1983b.
+J.
+Kragh, B.
+Andersen, J.
+Jakobsen: "Environmental Noise  
+
+ from Industrial Plants.
+General Prediction Method". Lydteknisk Laboratorium,  
+
+ rapport nr. 32, Lyngby 1982.
+J.
+Kragh: "Måling og beregning af ekstern  
+
+ støj fra virksomheder.
+En statusrapport". Lydteknisk Institut, rapport  
+
+ nr. 107, Lyngby 1983.
+C.
+Larsson, S.
+Israelsson: "Beskrivning och krav på  
+
+ meteorologiska parametrar vid ljudnivåmätningar". Statens  
+
+ Naturvårdsverk, SNV PM 1388, Stockholm 1980.
+C.
+Larsson, S.
+Israelsson: "Meteorologiska parametrars  
+
+ inverkan på ljudutbredningen från en punktkälla", Del 2.  
+
+ Meteorologiska institutionen, Uppsala Universitet, 1980.
+S.
+Lindblad, P.
+Eriksson: "Förslag till  
+
+ immissionsmätmetod för externt industribuller.
+Mark I". Rapport  
+
+ TVBA-7009, Lund, udateret (1980).
+S.
+Lindblad et al.: "Rekommendationer för  
+
+ mikrofonplacering vid mätning av bullerimmission från  
+
+ vägtrafik". Med bilag.
+Lund 1977. Publiceret af Statens  
+
+ Naturvårdsverk, SNV PM 1063, Stockholm 1978.
+S.
+Lindblad: "Statusrapport oktober 1979, Externt  
+
+ industribuller, delprojekt A.1". Universitetet i Lund, Avdelningen för  
+
+ byggnadsakustik.
+S.
+Lindblad: "Okorreleret nivåtillskott för  
+
+ plan våg framför ändlig facad.
+Underlag för  
+
+ bedömning av område för +3 dB-mätning". Rapport  
+
+ TVBA-3009, Lund 1981.
+ Nordisk Beregningsmodel for Vejtrafikstøj.  
+
+ Vejdatalaboratoriet, Rapport 23, København 1978, 2. udgave 1981.
+T.
+Holm Pedersen: "Forslag til objektiv målemetode  
+
+ for hørbare toner i støj". Proceedings, Nordisk Akustisk  
+
+ Selskabs Møde, NAM-78, p. 145-148, Odense 1978.
+J.H.
+Rindel: "Lydrefleksion og -absorption". Noter til  
+
+ kursus 5142, Bygnings- og rumakustik, Notat P.
+Laboratoriet for Akustik,  
+
+ Lyngby 1981.
+ SNV, 1984: "Metod för immissionsmätning av  
+
+ externt industribuller" (endnu upubliceret anvisning fra Statens  
+
+ Naturvårdsverk, Stockholm).
+S.Å.
+Storeheier: "Lydutbredelse utendørs.  
+
+ Høyt plassert lydkilde over porøs mark". ELAB rapport STF44  
+
+ A79017, Trondheim 1979.
+S.Å.
+Storeheier: "Outdoor Sound Propagation above  
+
+ Soft Ground.
+Some Results from Field Measurements". ELAB rapport STF44  
+
+ A81055, Trondheim 1981.
+S.Å.
+Storeheier, K.H.
+Liasjø: "Måling  
+
+ og beregning av ekstern industristøy" ELAB-rapport STF44 A82091,  
+
+ Trondheim 1982.
+S.-I.
+Thomasson: "Inverkan av reflexion från  
+
+ ändlig fasad". Rapport TVBA-3002, Lund 1979.
+ VDI 2714: "Schallausbreitung im Freien". VDI Richtlinie  
+
+ VDI2714 Entwurf, Düsseldorf 1976.
+ 1)   DELTA  
+
+ Vibration & Akustik (Tidligere Lydteknisk Institut), bygning 356,  
+
+ Akademivej, 2800 Lyngby, tlf. (45) 93 12 11, Fax 45 93 19 90.

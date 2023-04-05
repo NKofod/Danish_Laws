@@ -1,0 +1,550 @@
+0. Indhold 1. Gyldighedsområde a . Nærværende cirkulære giver forskrifter for den  
+
+ transmissionsmæssige dimensionering af kompensation af dæmpning i totråds  
+
+ centralledninger i det offentlige danske telefonnet.
+ b . Cirkulærets bestemmelser er udarbejdet på grundlag af  
+
+ forskrifterne i Cirkulære nr. 1 og skal i overensstemmelse med dette  
+
+ cirkulæres gyldighedsområde følges i alle tilfælde, hvor kompensation af  
+
+ dæmpning i totråds centralledninger anvendes.
+2. Definitioner a.
+Ved kompensation af dæmpning i en totråds centralledning  
+
+  forstås indsætning af forstærkning på en sådan måde i det kredsløb, i  
+
+ hvilket totråds ledningen indgår, at den ved forstærkningen opnåede reduktion  
+
+ af dæmpningen i det samlede kredsløb kan betragtes som en reduktion k dB af  
+
+ den pågældende totråds centrallednings nominelle dæmpning.
+ Ved firtråds kompensation indsættes lige stor forstærkning i hver  
+
+ transmissionsretning i et til totråds ledningen knyttet firtråds kredsløb,  
+
+ jf. fig. 1.
+ Ved totråds kompensation indsættes en dobbeltrettet forstærkning i  
+
+ selve totråds centralledningen, jf. fig. 2 og 3.
+b.
+I tilknytning til de i cirkulæret anførte beregninger og  
+
+ forskrifter er indført begreber, benævnelser og betegnelser, som er defineret  
+
+ i den sammenhæng, i hvilken de forekommer.
+c.
+I cirkulæret er i øvrigt benyttet de i Cirkulære nr. 1 anvendte  
+
+ definitioner, benævnelser og betegnelser.
+3. Kompensationsmetoder a.
+En firtråds kompensation k4 dB kan etableres ved hjælp af:
+reducerede dæmpningsled, dvs. ved reduktion af den normale dæmpning i  
+
+ dæmpningsleddene i en fast sammenstilling af en firtråds og en totråds  
+
+ centralledning, udskydelige dæmpningsled, dvs. ved udskydning, helt eller delvist,  
+
+ af dæmpningsleddene i en totråds-firtråds sammenstilling, eller forstærket gaffel, dvs. ved indsætning af forstærkere mellem  
+
+ gaffel og firtråds vælgertrin i en totråds-firtråds sammenstilling.
+b.
+En totråds kompensation k2 dB kan etableres ved hjælp af en  
+
+ konventionel totrådsforstærker eller en negistorforstærker.
+4. Kompensationsbetingelser a.
+Delvis kompensation af dæmpningen i en totråds centralledning  
+
+ kan tillades, hvis den for hver enkelt centralledning foretages ved hjælp af  
+
+ en af de foran i pkt. 3. anførte metoder.
+b.
+For en totråds centralledning, som kan indgå i forbindelser,  
+
+ der indeholder et firtråds kredsløb, må kompensation af dæmpning dog kun  
+
+ foretages, når følgende betingelser er opfyldt:
+totråds-firtråds overgangen skal finde sted i tilknytning til den  
+
+ pågældende totråds centralledning, gaflen ved denne totråds-firtråds overgang skal være forsynet med  
+
+ individuel balance, og de i Cirkulære nr. 1 anførte krav til balancedæmpningen i gaflen ved  
+
+ totråds-firtråds overgangen skal være opfyldt.
+c.
+Kompensation af dæmpning i en totråds centralledning skal  
+
+ foretages således, at såvel den pågældende totråds centralledning alene som i  
+
+ sammenstillinger med andre totråds ledninger (med og uden kompensation) har  
+
+ en tomgangsstabilitet på mindst 1,0 dB.
+d.
+Ved kompensation af dæmpning i totråds centralledninger skal  
+
+ der endvidere sørges for, at referenceækvivalenterne for enhver national forbindelse, i hvilken den  
+
+ pågældende totråds centralledning kan indgå, er højst 33,0 dB, og at disse referenceækvivalenter - så vidt praktiske og økonomiske forhold  
+
+ tillader det - er mindst mulige.
+5. Maksimal firtråds kompensation a.
+Ved firtråds kompensation, jf. fig. 1, af dæmpning i totråds  
+
+ centralledninger betinger balancedæmpningskravet i Cirkulære nr. 1, at  
+
+ kompensationen højst antager en værdi k4max dB, som i almindelighed er:
+ men ved forstærket gaffel i dobbelttotrådscentraler er:
+ I disse formler for k4max dB bestemmes restdæmpningen r0 dB af:
+ A0 dB er den mindste balancedæmpning i frekvensområdet 300 -3400 Hz mellem  
+
+ balance og karakteristisk impedans af totråds centralledningen.
+ d dB er den nominelle dæmpning af den foreliggende totråds centralledning.
+For upupiniserede totråds centralledninger i kabel skal der dog regnes med  
+
+ den dæmpningsværdi d dB, som totråds centralledningen udviser ved den højeste  
+
+ frekvens fm Hz i det ved kompensationen eventuelt modforvrængede eller  
+
+ forforvrængede frekvensområde inden for båndet 300-3400 Hz.
+Værdien sættes  
+
+ lig med regneværdien for den nominelle dæmpning multipliceret med  
+
+ kvadratroden af fm/800. I tilfælde af, at kompensationen er  
+
+ frekvensuafhængig, skal dæmpningsværdien ved fm = 300 (Hz) benyttes.
+Alle de i dette cirkulære omtalte dæmpningskompensationer gælder da i  
+
+ overensstemmelse hermed for frekvensen fm Hz.
+Den efter kompensationen  
+
+ resterende dæmpning (d - k) dB, er principielt frekvensuafhængig op til  
+
+ frekvensen fm Hz.
+For fm >= 800 (Hz) skal der derfor ved beregning af  
+
+ nominelle dæmpningsværdier regnes med denne resterende dæmpning, medens der  
+
+ for fm < 800 (Hz) skal regnes med den foreliggende resterende dæmpning ved  
+
+ 800 Hz.
+ Ved modforvrænget eller forforvrænget frekvensområde forstås området fra  
+
+ 300 Hz til den frekvens, ved hvilken skineffektens frekvenskarakteristik er  
+
+ faldet 1 dB i forhold til maksimumsværdien.
+ Fig.4 viser k4max = (d - 1 - r0) (dB) og k4max = (d - 2 - r0) (dB) som  
+
+ funktion af d dB for A0 = 20 (dB).
+b.
+I overensstemmelse med gældende forskrifter for kabelledningers  
+
+ regelmæssighedsdæmpning foretages beregningen af den maksimale firtråds  
+
+ kompensation, som kan tillades af hensyn til kravet til balancedæmpning,  
+
+ normalt under forudsætning af, at balancenetværk og forstærkermateriel  
+
+ etableres således, at A0 dB er mindst 20 dB.
+ Er endvidere totråds centralledningens dæmpning d dB højst 8,5 dB, kan den  
+
+ maksimale firtråds kompensation med tilstrækkelig god tilnærmelse bestemmes  
+
+ af:
+k4max = 0,8 x (d - 2) (dB), eller ved forstærket gaffel i dobbelttotrådscentraler af:
+ k4max = 0,8 x (d - 3) (dB).
+ c . Ud over den foran i pkt. 5.a. og b. af hensyn til  
+
+ balancedæmpningen indførte begrænsning af firtråds kompensationen, er denne  
+
+ ved anvendelse af reducerede og udskydelige dæmpningsled begrænset af  
+
+ dæmpningsværdien for det mindste dæmpningsled i den central, hvor  
+
+ kompensationen foretages.
+ I en fast sammenstilling eller i en dobbelttotrådscentral begrænses k4 dB  
+
+ således til højst (6,5-g) dB, dvs. normalt 3,0 dB, og i en firtrådscentral  
+
+ eller en kombineret to- og firtrådscentral til (6,5- g-c(4 - 2)4) dB, dvs.  
+
+ normalt 2,5 dB.
+d.
+Ved anvendelse af udskydelige dæmpningsled begrænses den  
+
+ maksimale kompensation endvidere af hensyn til kravet i pkt. 4.d. om et  
+
+ referenceækvivalent på højst 33,0 dB for nationale forbindelser, idet  
+
+ udskydning af dæmpningsled ikke kan foretages i rene totråds forbindelser af  
+
+ denne art.
+Kompensationen må derfor højst antage den mindste af værdierne:
+(2,0 + n x 0,5 - 0,5 c(2C - 2C)2) dB og (4,0 + n x 0,5 - c(2C - A)2) dB, dvs. normalt (1,25 + n x 0,5) dB, hvor n er det største antal CC  
+
+ sammenstillinger af firtråds ledninger, som kan forekomme mellem vedkommende  
+
+ central og international ledning.
+6. Reducerede dæmpningsled a.
+Ved firtråds kompensation af dæmpning i en totråds  
+
+ centralledning ved hjælp af reducerede dæmpningsled i en fast sammenstilling  
+
+ er de i pkt. 4. anførte betingelser opfyldt, dersom den indførte kompensation  
+
+ k4 dB højst antager den ifølge pkt. 5.b. og c. (eller pkt. 5.a. og c.)  
+
+ beregnede maksimale værdi, og så vidt praktisk muligt er lig med denne.
+b.
+Kompensationen k4 dB skal ved anvendelse af reducerede  
+
+ dæmpningsled indføres som vist i fig. 5.
+c.
+Ved anvendelse af firtråds kompensation i form af reducerede  
+
+ dæmpningsled i en fast sammenstilling skal det ved målinger inden  
+
+ idriftsættelse kontrolleres:
+at den ønskede restdæmpning (d - k4) dB er opnået, og at den individuelle balance i gaflen er etableret således, at  
+
+ balancedæmpningen er mindst (2k4 + 2) dB, såvel når totråds centralledningens  
+
+ fjerne ende er kortsluttet, som når den er i tomgang.
+++FIGUR+++ 7. Udskydelige dæmpningsled a.
+Ved firtråds kompensation af dæmpning i en totråds  
+
+ centralledning ved hjælp af udskydelige dæmpningsled i en firtrådscentral, en  
+
+ kombineret to- og firtrådscentral eller en dobbelttotrådscentral, i hvilken  
+
+ totråds centralledningen via en fast gaffel er indført til firtråds eller  
+
+ dobbelttotråds vælgertrin, er de i pkt. 4. anførte betingelser opfyldt,  
+
+ dersom den indførte kompensation k4 dB højst antager den ifølge pkt. 5,b., c.  
+
+ og d. (eller pkt. 5.a., c. og d.) beregnede maksimale værdi, og så vidt  
+
+ muligt er lig denne.
+b.
+Kompensationen k4 dB kan ved anvendelse af udskydelige  
+
+ dæmpningsled f.eks. indføres som vist i fig. 6 for firtrådscentraler og  
+
+ kombineret to- og firtrådscentraler og som vist i fig. 7 for  
+
+ dobbelttotrådscentraler.
+c.
+Ved anvendelse af firtråds kompensation i form af udskydelige  
+
+ dæmpningsled skal det ved målinger inden idriftsættelse kontrolleres:
+at den ønskede restdæmpning (d - k4) dB er opnået, og at den individuelle balance i den faste gaffel er etableret således, at  
+
+ balancedæmpningen er mindst (2k4 + 2) dB, såvel når totråds centralledningens  
+
+ fjerne ende er kortsluttet, som når den er i tomgang.
+8. Forstærket gaffel a.
+Ved firtråds kompensation af dæmpning i en totråds  
+
+ centralledning ved hjælp af en forstærket gaffel er de i pkt. 4. anførte  
+
+ betingelser opfyldt, dersom kompensationen foretages i overensstemmelse med  
+
+ følgende forskrifter.
+b.
+En forstærket gaffel skal være fast forbundet til totråds  
+
+ centralledningen og skal via forstærkere være indført til firtråds vælgertrin  
+
+ i en firtrådscentral eller kombineret to- og firtrådscentral eller til  
+
+ dobbelttotråds vælgertrin i en dobbelttotrådscentral.
+c.
+En forstærket gaffel skal være forsynet med individuel balance.  
+
+d .
+ En af en forstærket gaffel indført firtråds kompensation k4 dB må højst  
+
+ antage den ifølge pkt. 5.b. (eller pkt. 5.a.) beregnede maksimale værdi k4max  
+
+ dB.
+e.
+Ved sammenstilling af en forstærket gaffel med en anden  
+
+ forstærket gaffel i en firtrådscentral eller en kombineret to- og  
+
+ firtrådscentral skal summen af forstærkningerne i de to sider af hver gaffel  
+
+ være mellem (2k4 - n + c(4 - 4)4 + 3) og (2k4 + c(4 - 4)4 + 2g - 1) dB, dvs.  
+
+ normalt mellem (2k4 - n + 3,5) og (2k4 + 6,5)dB.
+ Ved den tilsvarende sammenstilling i en dobbelttotrådscentral skal summen  
+
+ af forstærkningerne i de to sider af hver gaffel være mellem (2k4 - n + c(4 -  
+
+ 4)2 x 2 + 3) og (2k4 + c(4 - 4)2x2 + 2g-1) dB, dvs. normalt mellem (2k4 - n +  
+
+ 4,5) og (2k4 + 7,5) dB.
+ Forskellen mellem forstærkningerne i de to sider af hver gaffel skal  
+
+ endvidere ved denne kategori af sammenstillinger være den samme for alle  
+
+ forstærkede gafler i samme central.
+f.
+Ved sammenstilling i en firtrådscentral eller en kombineret to-  
+
+ og firtrådscentral af en forstærket gaffel med en totråds centralledning, der  
+
+ er dæmpningskompenseret ved hjælp af udskydelige dæmpningsled, skal  
+
+ forstærkningen i hver side af den forstærkede gaffel være mellem (k4 - 0,5 x  
+
+ n + c(4 - 2)4 + 5) og (2k4 + c(4 - 4)4 + 2g-1) dB, dvs. normalt mellem (k4 -  
+
+ 0,5 x n + 6) og (k4 + 6,5) dB.
+ Ved den tilsvarende sammenstilling i en dobbelttotrådscentral skal  
+
+ forstærkningen i hver side af den forstærkede gaffel være mellem (k4 - 0,5 x  
+
+ n + c(2C - 2C)2 + 5) og (k4 + 2g - 1) dB, dvs. normalt mellem (k4 - 0,5 x n +  
+
+ 6) og (k4 + 6) dB.
+g.
+Ved sammenstilling i en firtrådscentral eller kombineret to- og  
+
+ firtrådscentral af en forstærket gaffel med en totråds centralledning, der  
+
+ ikke er dæmpningskompenseret ved hjælp af firtråds kompensation, skal  
+
+ forstærkningen i hver side af den forstærkede gaffel være mellem (k4 - n +  
+
+ c(4-2)4 + 3) og (k4 + c(4 - 4)4 + 2g - 1) dB, dvs. normalt mellem (k4 - n +  
+
+ 3,5) og (k4 + 6,5) dB.
+ Ved den tilsvarende sammenstilling i en dobbelttotrådscentral skal  
+
+ forstærkningen i hver side af den forstærkede gaffel være mellem (k4 - n +  
+
+ c(2C - 2C)2 + 3) og (k4 + 2g - 1) dB, dvs. normalt mellem (k4 - n + 4) og (k4  
+
+ + 6) dB.
+h.
+En forstærket gaffel skal udføres således, at een af  
+
+ transmissionsretningerne har båndpasfiltervirkning, 300-3400 Hz.
+i.
+Ved anvendelse af en forstærket gaffel skal kompensationen og  
+
+ de i forbindelse med denne indførte forstærkninger med så god tilnærmelse som  
+
+ praktisk muligt være lig med de foran angivne maksimale værdier, dog uden at  
+
+ overstige disse.
+j.
+Firtråds kompensation af dæmpning i en totråds centralledning  
+
+ ved hjælp af forstærket gaffel kan i firtrådscentraler og kombineret to- og  
+
+ firtrådscentraler etableres som vist i fig. 8.
+Dæmpningsleddet på Z(3,5) dB samt de to dæmpningsled på D1(6,5) og D2(3,0)  
+
+ dB i den forstærkede gaffel er som vist i figuren indskudt, når den  
+
+ forstærkede gaffel er sammenstillet med en firtråds ledning.
+Når den  
+
+ forstærkede gaffel sammenstilles med en anden forstærket gaffel, skal kun  
+
+ dæmpningsleddet på D1 dB være indskudt i hver af de to forstærkede gafler, og  
+
+ når den forstærkede gaffel sammenstilles med en uforstærket gaffel, skal  
+
+ ingen af de to dæmpningsled på D1 og D2 dB være indskudt.
+ Dersom de praktiske og økonomiske forhold ved centralen gør det ønskeligt,  
+
+ kan det tillades, at dæmpningsleddet på D2 dB også er indskudt ved  
+
+ sammenstilling af to forstærkede gafler.
+k.
+Firtråds kompensation af dæmpning i en totråds centralledning  
+
+ ved hjælp af forstærket gaffel kan i dobbelttotrådscentraler etableres som  
+
+ vist i fig. 9.
+Dæmpningsleddet på Z(2,5) dB samt de to dæmpningsled på D1(4,5) og D2(2,0)  
+
+ dB i den forstærkede gaffel er som vist i figuren indskudt, når den  
+
+ forstærkede gaffel er sammenstillet med en firtråds ledning.
+Når den  
+
+ forstærkede gaffel sammenstilles med en anden forstærket gaffel, skal kun  
+
+ dæmpningsleddet på D1 dB være indskudt i hver af de to forstærkede gafler, og  
+
+ når den forstærkede gaffel sammenstilles med en totråds ledning, skal ingen  
+
+ af de to dæmpningsled på D1 og D2 dB være indskudt.
+ Dersom de praktiske og økonomiske forhold ved centralen gør det ønskeligt,  
+
+ kan det tillades, at dæmpningsleddet på D2 dB også er indskudt ved  
+
+ sammenstilling af to forstærkede gafler.
+l.
+Ved anvendelse af firtråds kompensation i form af forstærket  
+
+ gaffel skal det ved målinger inden idriftsættelse kontrolleres.:
+at den ønskede restdæmpning (d - k4) dB er opnået, at de tilstræbte forstærkninger ved de forskellige  
+
+ sammenstillingskategorier er opnået, og at den individuelle balance i den faste gaffel er etableret således, at  
+
+ balancedæmpningen er mindst (2k4 + 2) dB i firtrådscentraler og kombineret  
+
+ to- og firtrådscentraler og mindst (2k4 + 4) dB i dobbelttotrådscentraler,  
+
+ såvel når totråds centralledningens fjerne ende er kortsluttet, som når den  
+
+ er i tomgang.
+9. Totråds kompensation a.
+Ved totråds kompensation af dæmpning i en totråds  
+
+ centralledning, som kan indgå i forbindelser, der indeholder en firtråds  
+
+ ledning, jf. fig. 2, betinger balancedæmpningskravet i Cirkulære nr. 1, at  
+
+ kompensationen højst antager en værdi k2max dB, som er:
+k2max = d - 1 - r1 - r3(dB), for p = 0 k2max = d - 1 - r1 - r2 - r3(dB), for 0 <p <1, og k2max = d - 1 - r1 - r2(dB), for p = 1 I disse formler for k2max dB bestemmes restdæmpningerne r1, r2 og r3 dB  
+
+ af:
+ d dB er den nominelle dæmpning af den foreliggende totråds centralledning.  
+
+ For upupiniserede totråds centralledninger i kabel skal der dog regnes med  
+
+ den dæmpningsværdi d dB for upupiniserede kabelledninger, som fremgår af pkt.  
+
+ 5.a.
+ p angiver den brøkdel af totråds centralledningens dæmpning, som findes  
+
+ mellem gaffel og totråds forstærker.
+ A1 dB er for p ej 0 den mindste balancedæmpning i frekvens-området  
+
+ 300-3400 Hz mellem balance og karakteristisk impedans af ledningen nærmest  
+
+ firtråds gaflen, medens A1 dB for p = 0 er den mindste balancedæmpning inden  
+
+ for samme frekvensområde mellem balance og passiv impedans af forstærkeren i  
+
+ totråds kredsløbet.
+ Ved passiv impedans af forstærkeren i totråds kredsløbet forstås  
+
+ impedansen af undertrykt forstærker (rundløbet afbrudt). Ved  
+
+ negistorforstærkere er denne impedans lig med forstærkerens firpolimpedans.
+ A2 dB er den mindste tilpasningsdæmpning i frekvensområdet 300-3400 Hz  
+
+ mellem karakteristisk impedans af ledningen nærmest firtråds gaflen og passiv  
+
+ impedans af forstærkeren i totråds kredsløbet.
+ A3 dB er den mindste balancedæmpning (ved anvendelse af konventionel  
+
+ totrådsforstærker) eller den mindste tilpasningsdæmpning (ved anvendelse af  
+
+ negistorforstærker) i frekvensområdet 300-3400 Hz mellem karakteristisk  
+
+ impedans af ledningsstrækningen, der udgør brøkdelen (1-p), og henholdsvis  
+
+ balancen i og firpolimpedansen af forstærkeren i totråds centralledningen.
+ Fig. 10 viser k2max dB som funktion af d dB for A1, A2 og A3 dB alle lig  
+
+ med 20 dB, og p lig med 0, 0,5 og 1.
+b.
+Ved totråds kompensation af dæmpning i en totråds  
+
+ centralledning, jf. fig. 2 og 3, er kravet om en tomgangsstabilitet på mindst 1 dB opfyldt, dersom kompensationen k2 dB højst antager en værdi  
+
+ på:
+k2t = d - 1 -r3(dB), for p = 0 k2t = d - 1 - r3 - r4(dB), for 0 < p < 1, og k2t = d - 1 - r4(dB), for p = 1.
+ i disse formler for k2t dB bestemmes restdæmpningerne r3 dB som foran  
+
+ anført og r4 dB af:
+ d dB er den nominelle dæmpning af den foreliggende totråds centralledning.  
+
+ For upupiniserede totråds centralledninger i kabel skal der dog regnes med  
+
+ den dæmpningsværdi d dB for upupiniserede kabelledninger, som fremgår af pkt.  
+
+ 5.a.
+ p angiver den brøkdel af totråds centralledningens dæmpning, som findes  
+
+ mellem ledningens ene afgrænsningspunkt (i fig. 2: gaflen) og  
+
+ totrådsforstærkeren.
+ A4 dB er den mindste balance- eller tilpasningsdæmpning svarende til den  
+
+ foran omtalte A3 dB, men her for karakteristisk impedans af den  
+
+ ledningsstrækning, som udgør brøkdelen p.
+ Fig. 11 viser k2t dB som funktion af d dB for A3 og A4 dB begge lig med 20  
+
+ dB og p lig med 0, 0,5 og 1.
+c.
+I overensstemmelse med gældende forskrifter for kabelledningers  
+
+ regelmæssighedsdæmpning foretages beregningen af den maksimale totråds  
+
+ kompensation, som kan tillades i henhold til kravene foran i pkt. 9.a. og b.  
+
+ til balancedæmpning og tomgangsstabilitet, normalt under forudsætning af, at  
+
+ balancenetværk og forstærkermateriel etableres således, at A1, A2, A3 og A4  
+
+ dB er mindst 20 dB.
+ Er endvidere totråds centralledningens dæmpning d dB højst 8,5 dB, kan den  
+
+ maksimale totråds kompensation med tilstrækkelig god tilnærmelse bestemmes  
+
+ af:
+k2max = 0,8 x (d - 3) (dB), for p = 0, k2max = (0,8 + 0,2 x p) (d - 3,7) (dB), for 0 < p <= 0,5, k2max = (1,0 - 0,2 x p) (d - 3,7) (dB), for 0,5 <= p < 1, og k2max = 0,9 x (d - 3) (dB), for p = 1, når totråds centralledningen kan indgå i forbindelser, som indeholder et  
+
+ firtråds kredsløb, og af:
+k2t = 0,8 x (d - 2) (dB), for p = 0, k2t = (0,8 + 0,2 x p) (d - 3) (dB), for 0 < p <= 0,5, k2t = (1,0 - 0,2 x p) (d - 3) (dB) for 0,5 <= p < 1, og k2t = 0,8 x (d - 2) (dB), for p =1 når totråds centralledningen ikke kan indgå i forbindelser, som indeholder  
+
+ et firtråds kredsløb.
+d.
+Totråds kompensation af dæmpning i en totråds centralledning  
+
+ kan etableres ved hjælp af en konventionel totrådsforstærker eller en  
+
+ negistorforstærker.
+ Kompensationen k2 dB skal med så god tilnærmelse som praktisk muligt være  
+
+ lig med den foran i pkt. 9.c. angivne maksimale værdi (eller den mindste af  
+
+ de foran i pkt. 9.a. og/eller b. angivne maksimale værdier), dog uden at  
+
+ overstige denne.
+e.
+Ved anvendelse af totråds kompensation skal det ved målinger  
+
+ inden idriftsættelse kontrolleres:
+at den ønskede restdæmpning (d-k2) dB er opnået, og at stabiliteten af totråds centralledningen, inklusive totråds  
+
+ forstærkeren, er mindst 1 dB, når centralledningen ved afgrænsningspunkterne  
+
+ er kortsluttet eller i tomgang.
+ Kan totråds centralledningen indgå i forbindelser, som indeholder et  
+
+ firtråds kredsløb, skal det endvidere kontrolleres:
+ at den individuelle balance i den faste gaffel er etableret således, at  
+
+ balancedæmpningen er mindst 2 dB, såvel når totråds centralledningens fjerne  
+
+ ende er kortsluttet, som når den er i tomgang.
+ (* 1) I konsekvens af ændret arbejdsdeling på telekommunikationsområdet  
+
+ pr. 1.1.1991 ophæves cirkulæret som statslig forskrift, idet ansvaret for  
+
+ disse bestemmelser, der vedrører interne forhold i Tele Danmark A/S, er  
+
+ overgået til dette selskab.

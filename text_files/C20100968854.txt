@@ -1,0 +1,26 @@
+Skrivelse om bekendtgørelse om ændring af bekendtgørelse om sikker elektronisk og telefonisk kommunikation m.v. i arbejdsløshedsforsikringen og tilhørende vejledning Vedlagte bekendtgørelse nr. 1438 af 14. december 2010 om sikker elektronisk og telefonisk kommunikation m.v. i arbejdsløshedsforsikringen og tilhørende skrivelse nr. 103 af den 14. december 2010 om ændring af vejledning om sikker elektronisk og telefonisk kommunikation m.v. i arbejdsløshedsforsikringen, træder i kraft den 1. januar 2011.
+ Bekendtgørelsen og skrivelsen kan findes i retsinformation (www.retsinfo.dk) og er endvidere vedlagt som filer.
+ I forbindelse med organisationsændringer i Beskæftigelsesministeriet, er det besluttet, at Arbejdsdirektoratet ophører som selvstændig enhed pr. den 31. december 2010, og at arbejdsopgaverne herfra overflyttes til henholdsvis Pensionsstyrelsen og Arbejdsskadestyrelsen.
+ Der har derfor været et behov for at der foretages konsekvensændringer samt enkelte opdateringer i henholdsvis bekendtgørelsen og vejledningen.
+ Ændringerne til de enkelte bestemmelser i bekendtgørelsen er følgende:
+ I § 1, stk.1, er indledningen opdateret med de korrekte regelhenvisninger.
+ I § 1, stk. 2-5, samt § 1, stk. 7, er der foretaget konsekvensændringer på baggrund af organisationsændringen, hvorefter a-kasserne skal udveksle dokumentation med Pensionsstyrelsen og Arbejdsskadestyrelsen.
+ § 1, stk. 6, er ophævet, således at a-kasserne ikke længere skal anmode om tilladelse til at anvende Pensionsstyrelsens og Arbejdsmarkedsstyrelsens blanketter elektronisk.
+ § 1, stk. 8, er ændret, således at der henvises til gældende bekendtgørelse om dokumentation for anciennitet i en a-kasse.
+Ændringer i sagsudvekslingen A-kasserne skal som følge af organisationsændringen udveksle afgørelser og andre dokumenter med Pensionsstyrelsen og Arbejdsskadestyrelsen fra den 1. januar 2011, dog skal a-kasserne indtil videre sende afgørelser og andre dokumenter til sagsudveksling@adir.dk.
+ Organisationsændringen medfører, at den nuværende tunnelkryptering mellem a-kasserne og Arbejdsdirektoratet skal erstattes af 2 tunneler  én mellem de 27 a-kasser og Pensionsstyrelsen og én mellem de 27 a-kasser og Arbejdsskadestyrelsen.
+ Når de 2 nye tunneler er oprettet i henholdsvis Pensionsstyrelsen og Arbejdsskadestyrelsen, skal alle a-kasser implementere en sikker postløsning (tunnelkryptering) mellem a-kasserne og Pensionsstyrelsen og mellem a-kasserne og Arbejdsskadestyrelsen i lighed med den eksisterende tunnelløsning mellem a-kasserne og Arbejdsdirektoratet.
+ De nye offentlige nøgler er tilgængelige hos DanId senest den 1. januar 2011.
+ Inden den 31. januar 2011 skal alle a-kasser:
+ Melde tilbage, at a-kassen har implementeret en sikker postløsning (tunnelkryptering) mellem a-kasserne og Pensionsstyrelsen og mellem a-kasserne og Arbejdsskadestyrelsen  Oplyse navn, tlf.nr. og e-mailadresse på 2 kontaktpersoner i a-kassen Informationerne sendes til:
+ Peter Grundt Larsen (Statens IT) på Peter.Grundt.Larsen@statens-it.dk, og  Marie-Louise Outzen (Pensionsstyrelsen) på mou@adir.dk Den 1. februar 2011 skal a-kasserne i en overgangsperiode medvirke til test af de nye tunneler til både Pensionsstyrelsen og Arbejdsskadestyrelsen.
+Testfasen forventes at løbe indtil medio marts 2011.
+Når testfasen er afsluttet, orienteres alle a-kasser om fra hvilken dato a-kasserne skal udveksle afgørelser og dokumenter til Pensionsstyrelsens og Arbejdsskadestyrelsens funktionspostkasser: sagsudveksling@penst.dk og sagsudveksling@ask.dk.
+Ikrafttrædelsesdatoen offentliggøres i en skrivelse fra Pensionsstyrelsen ultimo marts 2011.
+Det bemærkes, at a-kasserne fortsat skal sende afgørelser og dokumentation til adressen: sagsudveksling@adir.dk indtil den endelige ikrafttrædelsesdato.
+Herefter spærres sagsudveksling@adir.dk, og det er ikke længere muligt at sende sager til postkassen.
+Tidsplan Skrivelse om ændring af vejledning om sikker elektronisk og telefonisk kommunikation m.v. i arbejdsløshedsforsikringen Pensionsstyrelsen har udarbejdet en skrivelse om ændring af vejledning om sikker elektronisk og telefonisk kommunikation m.v. i arbejdsløshedsforsikringen.
+ Ændringerne i ovennævnte bekendtgørelse er indarbejdet i vejledningen.
+ Henvisninger til øvrige bekendtgørelser og arbejdsløshedsforsikringsloven, ligesom henvisningen til g-dage og ydelsestyper, er blevet opdateret.
+*** Eventuelle spørgsmål til denne skrivelse kan rettes til Marie-Louise Outzen (Pensionsstyrelsen) på mou@adir.dk eller direkte tlf. 38 14 82 51.
+ Eventuelle spørgsmål af teknisk karakter kan rettes til Peter Grundt Larsen (Statens IT) på Peter.Grundt.Larsen@statens-it.dk.

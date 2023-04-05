@@ -1,0 +1,2343 @@
+TELEFONTILSYNET CIRKULÆRE NR. 30 SEPTEMBER 1981 DIGITALT TRANSMISSIONSUDSTYR Specifikation af pcm-multipleksudstyr samt digitalt multipleks- og  
+
+ linieudstyr med primær anvendelse for telefoni Cirkulærets omfang Det planlagte indhold af nærværende cirkulære fremgår af nedenstående  
+
+ tabel.
+Specifikationsnumrene er påtænkt anvendt således: 1-9 Generelt, 10-19  
+
+ Multipleksudstyr, 20-29 Signalomsætterudstyr, 30-39 Linieudstyr.
+Cirkulærets gyldighed Cirkulærets specificationer gælder for nyindkøb af det omhandlede udstyr  
+
+ til brug i det offentlige danske transmissionsnet.
+ Specifikationerne udkommer individuelt.
+ Ny udgave af ovenstående tabel udgives, hver gang en specification  
+
+ udkommer eller revideres.
+TELEFONTILSYNET Specifikation nr. 1 til CIRKULÆRE NR. 30 SEPTEMBER 1981 TERMINOLOGI INDHOLDSFORTEGNELSE side TELEFONTILSYNET Specifikation nr. 10 til CIRKULÆRE NR. 30 SEPTEMBER 1981 DIGITALE GRÆNSEFLADER INDHOLDSFORTEGNELSE  Side 1. Generelt I nærværende cirkulære nr. 30, specifikation nr. 10 er angivet  
+
+ specifikationer for de digitale grænseflader, der skal anvendes på danske  
+
+ multipleksstationer ved sammenkobling af digitale grupper.
+ Der gøres opmærksom på, at sitterspecifikationerne gælder for de værst  
+
+ tilladelige forhold på en sammensat fremføring, og at der normalt stilles  
+
+ strengere krav til de enkelte udstyrstyper.
+ Såfremt et multipleksudstyr er udformet på en sådan måde, at f.eks. 2  
+
+ forskellige multipleksniveauer er såvel elektrisk som mekanisk integrerede,  
+
+ kan det tillades, at nærværende grænsefladespecifikationer ikke anvendes.
+2. Grænseflader ved 64 kbit/s Der er følgende 2 typer grænseflader:
+- kodirektional grænseflade - kontradirektional grænseflade Udtrykket kodirektional anvendes til at betegne en grænseflade,  
+
+ hvorigennem informationen og det tilhørende taktsignal sendes i samme  
+
+ retning, jfr. fig. 1.
+Note: Den kodirektionale grænseflade anvendes ved synkrone og plesiokrone net, som har taktgivere af den krævede stabilitet.
+ FIG. 1: Princip for kodirektional grænseflade.
+ Udtrykket kontradirektional anvendes til at betegne en grænseflade, hvor  
+
+ taktsignalet for både sende- og modtageretningens vedkommende går fra  
+
+ multipleksudstyret til det tilsluttede udstyr, jfr. fig. 2.
+ Fig. 2: Princip for kontradirektional grænseflade.
+2.1. Funktionsmæssige krav 1. Både i senderetning og i modtageretning skal der  
+
+ kunne overføres 3 signaler:
+- 64 kbit/s informationssignal - 64 kHz taktsignal - 8 kHz taktsignal Der genereres et 8 kHz taktsignal i multipleksudstyret, men det er ikke  
+
+ obligatorisk for det tilsluttede udstyr at udnytte 8 kHz taktsignalet fra  
+
+ multipleksudstyret eller at afgive et 8 kHz taktsignal til dette.
+ Alarmindikation fra detektering af fejl på et højere multipleksniveau skal  
+
+ sendes gennem en 64 kbit/s grænseflade ved hjælp af AIS og ved afbrydelse af  
+
+ 8 kHz taktsignalet.
+2. Grænsefladen skal være bitsekvens-uafhængig ved 64  
+
+ kbit/s, hvorved et 64 kbit/s signal uden begrænsninger kan sendes gennem  
+
+ grænsefladen.
+Dette indebærer imidlertid ikke, at 64 kbit/s kredsløb uden  
+
+ begrænsninger altid kan tilvejebringes internationalt.
+ Selv om grænsefladen er bitsekvens-uafhængig, vil anvendelse af AIS  
+
+ resultere i nogle mindre begrænsninger for en 64 kbit/s bruger.
+2.2. Elektriske egenskaber for 64 kbit/s kodirektional grænseflade 2.2.1. Generelle egenskaber 1. Bithyppighed: 64 kbit/s +/- 100 ppm.
+ 2. 64 kHz taktsignal sendes kodirektionalt med  
+
+ informationssignalet.
+ 3. Der anvendes et balanceret par for hver  
+
+ transmissionsretning.
+ 4. Kodekonverteringsregler.
+ Trin 1: Et 64 kbit/s bitinterval deles op i 4 enhedsintervaller.
+ Trin 2: Binært »1« kodes som en blok med følgende 4 bit: 1100.
+ Trin 3: Binært »0« kodes som en blok med følgende 4 bit: 1010.
+ Trin 4: Det binære signal konverteres til et 3-niveausignal ved skift af  
+
+ polaritet efter hver blok.
+ Trin 5: Det blokvise polaritetsskrift brydes for hver 8. blok.  
+
+ Polaritetsgentagelsen markerer den sidste blok i oktetten.
+ Disse kodekonverteringsregler er illustreret i fig. 3.
+0. Terminologi I nærværende specifikation nr. 1 til cirkulære nr. 30 er anført en dansk  
+
+ terminologi vedrørende digital transmission med tilhørende forklaring af de  
+
+ enkelte udtryk.
+Det anvendte nummereringsprincip, de engelske udtryk og  
+
+ ordforklaringerne er i overensstemmelse med de af CCITT, COM XVIII anvendte,  
+
+ dog undtaget 2033 og 9025.
+1. Generelt 1001 Impulskodemodulation (pcm) (Pulse code modulation) En proces, hvor et analogt signal aftastes og størrelsen af hver  
+
+ øjebliksværdi kvantiseres i forhold til en fast reference.  
+
+ Kvantiseringsværdien kodes derefter til et digitalt signal.
+1002 Differentiel impulskodemodulation (dpcm) (Differential pulse  
+
+ code modulation) En proces, hvor et analogt signal aftastes, og hvor forskellen mellem den  
+
+ aktuelle øjebliksværdi og den - ud fra de forudgående øjebliksværdier  
+
+ beregnede - forventede værdi kvantiseres og kodes til et digitalt signal.
+1003 Deltamodulation (Delta modulation) En type differentiel impulskodemodulation, hvor forskellen mellem den  
+
+ forventede og aktuelle øjebliksværdi angives ved hjælp af kun een bit, dvs.  
+
+ hvor kun forskellens fortegn detekteres og transmitteres.
+1004 Øjebliksværdi (sample) Værdien af en vis egenskab for et signal på et valgt tidspunkt.
+1005 Aftastning (Sampling) En proces, hvor der udtages øjebliksværdier, normalt med konstante  
+
+ tidsintervaller.
+1006 Aftastningsfrekvens (Sampling rate) Antallet af udtagne øjebliksværdier pr. tidsenhed.
+1007 Udstyringsområde (Working range) Det tilladte værdiområde for et analogt signal, hvormed et transmissions-  
+
+ eller andet procesudstyr kan arbejde. (Fig. 1).
+1008 Kvantisering (Quantizing) En proces, hvorved øjebliksværdier bliver klassificeret i et antal  
+
+ sammenhængende intervaller og hvor hvert enkelt interval repræsenteres af en  
+
+ enkel værdi kaldet kvantiseringsværdien. (Fig. 1).
+1009 Lineær kvantisering (Uniform quantizing) Kvantisering hvor alle intervaller er lige store.
+1010 Ulineær kvantisering (Non-uniform quantizing) Kvantisering hvor ikke alle intervaller er lige store.
+1011 Rekonstrueret øjebliksværdi (Reconstructed sample) En analog øjebliksværdi, der opstår på udgangen af en dekoder, når der  
+
+ tilføres et specifikt tegnsignal på indgangen.
+Amplituden af denne  
+
+ øjebliksværdi er proportional med kvantiseringsværdien for den tilsvarende  
+
+ kodede øjebliksværdi.
+1012 Kodning (Encoding, coding) Frembringelse af tegnsignaler repræsenterende kvantiserede øjebliksværdier.
+1013 Koder (Encoder, coder) Et udstyr, der kan foretage kodning af øjebliksværdier.
+1014 Lineær kodning (Uniform encodning) Frembringelse af tegnsignaler repræsenterende lineært kvantiserede  
+
+ øjebliksværdier.
+1015 Ulineær kodning (Non-uniform encoding) Frembringelse af tegnsignaler repræsenterende ulineært kvantiserede  
+
+ øjebliksværdier. (Fig. 2).
+1016 Dekodning (Decoding) En proces, hvor der ved hjælp af et tegnsignal frembringes een bestemt ud  
+
+ af en række mulige rekonstruerede øjebliksværdier.
+1017 Dekoder (Decoder) Et udstyr, der kan dekode tegnsignaler.
+1018 kodek (Codec) En sammenbygget enhed indeholdende en koder og en dekoder.
+1019 Tærskelværdi, beslutningsgrænse (Decision value) En referenceværdi, der definerer grænsen mellem to sammenhængende  
+
+ intervaller i forbindelse med kvantisering eller kodning. (Fig. 1 og 3).
+1020 Virtuel tærskelværdi, beslutningsgrænse (Vidual decision To hypotetiske tærskelværdier, der anvendes i forbindelse med kvantisering  
+
+ eller kodning og som markerer de to grænser for det anvendte  
+
+ udstyringsområde.
+De to værdier fremkommer ved ekstrapolation ud fra de  
+
+ reelle tærskelværdier. (Fig. 1).
+1021 kodningskurve (Encoding law) En kurve, der definerer de relative værdier af intervalstørrelserne i  
+
+ forbindelse med kvantisering og kodning. (Fig. 1 og 3).
+1022 Segment-kodningskurve (Segmented encoding law) En kodningskurve, bestående af en række lineære segmenter. (Fig. 2).
+1023 kvantiseringsinterval (Quantizing interval) Intervallet mellem to på hinanden følgende tærskelværdier.
+2. Digitale signaler 2001 Ciffer, digitalt element (Digit) Et enkelt medlem valgt ud fra et endeligt talsæt.
+ Note 1: I digital transmission kan et ciffer være repræsenteret af et  
+
+ signalement, karakteriseret ved elementets dynamiske natur, diskrete tilstand  
+
+ og diskrete varighed, dvs. et ciffer kan være repræsenteret af en impuls af  
+
+ specificeret amplitude og varighed.
+Note 2: I udstyr, der anvendes inden for digital transmission, kan et  
+
+ ciffer være repræsenteret af en lagret tilstand karakteriseret ved en  
+
+ specifik fysisk tilstand.
+F.eks. kan et binært tal være repræsenteret af en  
+
+ binær magnetisk tilstand i en ferritkerne.
+ Note 3: Ved anvendelse af cifferværdier skal det fremgå af sammenhængen,  
+
+ hvilket talsystem der anvendes (binær, decimal, hexadecimal osv.).
+2002 Digitalt signal (Digital signal) Et signal, der er begrænset til at være diskontinuert med hensyn til tiden  
+
+ og som kan antage et antal diskrete værdier.
+2003 Cifferposition (Digit position) Den plads i tid eller rum, hvor et ciffer kan være placeret.
+2004 N-ære digitale signaler (N-ary digital signals) Digitalt signal, hvor et signalelement kan antage n diskrete værdier.
+2005 pseudoternært signal (Pseudo ternary signal) Et redundantternært signal, som afledes af et binært signal uden ændring  
+
+ af symbolhyppigheden.
+2006 Binært tegn (Binary figure) Et af de to tegn »0« eller »1«, der bruges ved  
+
+ repræsentation af tal med binær notation.
+2007 Binært ciffer (Binary digit) Et element valgt ud fra et binært talsæt.
+ Note: BIT er en forkortelse af udtrykket »Binary digit«.
+2008 Ækvivalent bithyppighed (Equivalent bit rate) Antallet af binære cifre, der kan overføres pr. tidsenhed i et liniekodet  
+
+ signal.
+2009 Oktet Octet En gruppe på 8 binære cifre, der behandles som en enhed.
+2010 Tegnsignal (Character signal) Den gruppe signalelementer, der repræsenterer et tegn, eller som i pcm  
+
+ repræsenterer den kvantiserede værdi af en aftastning.
+ Note: I pcm-terminologien kan udtrykket pcm-ord anvendes i stedet for  
+
+ udtrykket tegnsignal.
+2011 Betydende tidspunkter i et digitalt signal (Significant  
+
+ instants of a digital signal) De tidspunkter, hvor modulations-eller regeneratorudstyr detekterer  
+
+ succesive betydende tilstande i et digitalt signal.
+2012 Beslutningstidspunkt i et digitalt signal (Decision instant  
+
+ of a digital signal) Det tidspunkt, hvor et modtagende udstyr træffer beslutning om den  
+
+ sandsynlige værdi af et signalelement.
+2013 Cifferhyppighed (Digit rate) Antallet af cifre pr. tidsenhed.
+ Note 1: Termen cifferhyppighed bør foregås af et passende adjektiv således  
+
+ som angivet i 2004, f.eks. binær cifferhyppighed.
+ Note 2: Af forståelseshensyn bør ovennævnte term ikke anvendes til at  
+
+ angive symbolhyppigheden på linien.
+2014 Cifferfejl (Digital error) Et enkelt ciffers uoverensstemmelse mellem sendte og modtagne signaler.
+2015 Fejlhyppighed (Error rate) Forholdet mellem antallet af fejlagtige cifre og det totale antal cifre.  
+
+ Fejlhyppigheden bør angives som n. 10-p.
+2016 Fejlspredning (Error spread) Det antal enhedsintervaller over hvilke fejl spredes i det ækvivalente  
+
+ binære indhold af udgangssignalet, når en enkelt cifferfejl forekommer i  
+
+ indgangssignalet på et udstyr, som forårsager fejlmultiplikation.
+2017 Fejlmultiplikation (Error multiplication) En karakteristisk egenskab ved et udstyr, hvor en enkelt cifferfejl i  
+
+ indgangssignalet resulterer i mere end een cifferfejl i udgangssignalet.
+ Note: Liniekodeomsættere og descramblere er eksempler på udstyr, som kan  
+
+ forårsage fejlmultiplikation.
+2018 fejlmultiplikationsfaktor (Error multiplication factor) Antallet af cifferfejl i udgangssignalet, når der optræder en enkelt fejl  
+
+ i indgangssignalet på et udstyr, som forårsager fejlmultiplikation.
+ Note: Fejlmultiplikationsfaktoren kan angives enten som en gennemsnits-  
+
+ eller maksimalværdi.
+2019 Styret slip (Controlled slip) Styret, uopretteligt tab eller gentagelse af en række på hinanden følgende  
+
+ cifferpositioner i et digitalt signal med henblik på ændring af det  
+
+ pågældende signals cifferhyppighed.
+ Note: Om fornødent kan udtrykket præciseres, f.eks.: styret oktetslip,  
+
+ styret rammeslip.
+2020 Ikke-styret slip (Uncontrolled slip) Ikke-styret tab eller gentagelse af en cifferposition eller en række på  
+
+ hinandenfølgende cifferpositioner forårsaget af en taktafvigelse i  
+
+ forbindelse med transmissionen eller kobling af et digitalt signal.
+2021 Sitter (Jitter) Korttidsvariationer af de karakteristiske tidspunkter i et digitalt signal  
+
+ i forhold til deres ideelle placering i tid.
+2022 Regenerering (Regeneration) Processen at genkende og genoprette et digitalt signal, således at  
+
+ amplitude, kurveform og tider er i overensstemmelse med fastlagte værdier.
+2023 Regenerator (Regenerator) Et udstyr, der udfører regenerering af et digitalt signal.
+2024 Regenerativ forstærker (Regenerative repeater) Et udstyr, der udfører regenerering af digitale signaler samtidigt med  
+
+ andre funktioner.
+2025 Beslutningskredsløb (Decision circuit) Et kredsløb, som kan træffe beslutning om et signalelements sandsynlige  
+
+ værdi.
+2026 Ækvivalent binært indhold (Equivalent binary content) Informationsindholdet af et signal udsendt fra en digital kilde udtrykt i  
+
+ binære termer.
+2027 Redundant n-ært signal (redundant n-ary signal) Et digitalt signal, hvis elementer kan antage n diskrete tilstande, og  
+
+ hvor den gennemsnitlige informationstransmissionskapacitet er mindre end  
+
+ log2n.
+ Note: Redundansen R af et n-ært digital signal udtrykt i pct. kan fås af  
+
+ følgende formel:
+R = (1-re/rd.log2n)).100% hvor rd er modulationshastigheden af det n-ære signal og re er den  
+
+ ækvivalente bithyppighed.
+Dette kan også udtrykkes ved antallet af binære  
+
+ cifre, som kan overføres af et element i en bestemt liniekode.
+ Eks.:
+AMI(37% redundans) - 1 binært ciffer pr. element 4B3T(16% redundans) - 1,33 binære cifre pr. element.
+2028 Symbolhyppighed (Symbol rate) Den reciprokke værdi af enhedsintervallet i sekunder.
+Symbolhyppigheden  
+
+ udtrykkes i baud.
+2029 Scrambler (Scrambler) I et digitalt system forstås herved et udstyr, som omsætter et digitalt  
+
+ signal til et pseudotilfældigt digitalt signal uden ændring af  
+
+ bithyppigheden.
+2030 Descrambler (Descrambler) Et udstyr, som udfører den omvendte funktion af en scrambler.
+2031 Alarmindikationssignal (AIS) (Alarm indication signal) Et signal, der erstatter det normalt overførte signal, når der optræder en  
+
+ stor fejlalarmindikation.
+2032 UFT (Upstream failure indication) En indikation, som afgives fra et digitalt multipleksudstyr, en  
+
+ liniesektion eller en radiosektion, og som angiver, at et indgangssignal er  
+
+ uden for foreskrevne tolerancer.
+2033 Enhedsinterval (UI) (Unit interval) Den nominelle varighed af tidsrummet pr. symbol i et digitalt signal.
+3. Pcm-multipleksering 3001 Tdm-bus (Highway) En fælles vej eller et antal parallelle veje, hvorover signaler fra et  
+
+ flertal kanaler kan overføres, idet de separeres ved hjælp af tidsmultipleks.
+3002 kanalport (Channel gate) Et udstyr, der kan koble en kanal til en tdm-strækning eller en  
+
+ tdm-strækning til en kanal på specifikke tidspunkter.
+3003 primærgruppe (Primary block) En gruppe pcm-kanaler, der er koblet sammen ved hjælp af tidsmultipleks.
+3004 Ramme (Frame) En række på hinanden følgende cifferintervaller, hvor placeringen af hvert  
+
+ cifferinterval kan identificeres med reference til et rammelåsningsord.  
+
+ Rammelåsningsordet behøver ikke nødvendigvis at optræde helt eller delvis i  
+
+ hver ramme.
+3005 Multiramme (Multiframe) En række på hinanden følgende rammer, hvor placeringen af hver ramme kan  
+
+ identificeres med reference til et multirammelåsningsord.  
+
+ Multirammelåsningsordet behøver ikke nødvendigvis at optræde helt eller  
+
+ delvis i hver multiramme.
+3006 Delramme (Subframe) En række ikke-sammenhørende grupper af cifre samlet inden for en ramme.  
+
+ Hver gruppe cifre gentages n gange rammefrekvensen, hvor n er et heltal  
+
+ større end 1.
+3007 parallel-serie-konverter (Parallel to serial converter) Et udstyr, som konverterer en gruppe af cifre, der optræder samtidigt, til  
+
+ en tilsvarende seriel række af signalelementer.
+3008 Serie-parallel-konverter (Serial to parallel converter) Et udstyr, som konverterer en seriel række af signalelementer til en  
+
+ tilsvarende gruppe af cifre, der optræder samtidigt.
+3009 Pcm-multipleksudstyr (PCM multiplex equipment) Udstyr, der kan frembringe et enkelt digitalt signal med en defineret  
+
+ cifferhyppighed ud fra to eller flere analoge kanaler ved hjælp af en  
+
+ kombination af impulskodemodulation og tidsmultipleks og som ligeledes kan  
+
+ udføre den omvendte funktion.
+ Note: Termen bør foregås af den pågældende akvivalente binære  
+
+ cifferhyppighed, f.eks. 2,048 Mbit/s pcm-multipleksudstyr.
+3010 Tidsdelt multipleksering (tdm) (Time-division multiplexing) Multipleksering, hvor to eller flere signaler tidsmæssigt flettes sammen  
+
+ for transmission over en fælles kanal.
+3011 Digital multiplekser (Digital multiplexer) Udstyr, der - ved tidsdelt multipleksering - sammenfletter to eller flere  
+
+ underordnede digitale signaler til et enkelt overordnet digitalt signal.
+3012 Digital demultiplekser (Digital demultiplexer) Udstyr, der adskiller et overordnet digitalt signal i et antal  
+
+ underordnede digitale signaler.
+3013 Muldex (Muldex) En sammentrækning af ordene multiplekser - demultiplekser.
+Udtrykket kan  
+
+ bruges, når multiplekseren og demultiplekseren er sammenbygget i eet udstyr.
+ Note: Når udtrykket beskriver et udstyr, bør dettes funktion præceseres,  
+
+ f.eks. pcm-muldex, datamuldex, digital muldex.
+3014 Digitalt multipleksudstyr (Digital multiplex equipment) Kombinationen af en digital multiplekser og en digital demultiplekser på  
+
+ samme lokalitet.
+3015 Digitalt multipleks-hierarki (Digital multiplex hierarchy) En række digitale multipleksudstyr opdelt i henhold til ydeevne, således  
+
+ at multipleksudstyr på et niveau med en defineret cifferhyppighed kombinerer  
+
+ et defineret antal digitale signaler, der forekommer på det nærmeste lavere  
+
+ niveau, til et enkelt digitalt signal.
+Dette digitale signal kan derefter  
+
+ kombineres med andre digitale signaler med samme cifferhyppighed i et  
+
+ digitalt multipleksudstyr på næste højere niveau.
+3016 Hjælpecifre (Service digits) Cifre, der tilføjes et digitalt signal, normalt med regelmæssige  
+
+ tidsmellemrum, for at sikre, at et udstyr, der anvender det digitale signal,  
+
+ kan fungere korrekt.
+Cifrene kan samtidigt anvendes til flere funktioner.
+ Note: Styre- og paritetscifre regnes normalt ikke som hjælpecifre.
+3017 Digital udfyldning (Digital filling) Tilføjelse af et bestemt antal cifre til et digitalt signal for at ændre  
+
+ cifferhyppigheden fra den eksisterende værdi til en højere forudbestemt  
+
+ nominel værdi.
+ Note: De tilføjede cifre anvendes ikke til at overføre information.
+3018 Udspærring (Justification) En funktion, hvor man ændrer cifferhyppigheden af et digitalt signal på en  
+
+ sådan måde, at det bringes i overensstemmelse med en cifferhyppighed  
+
+ forskellig fra den oprindelige.
+Normalt sker dette uden tab af information.
+3019 positiv udspærring (Positive justification) Tilvejebringelse af et fast antal bestemte cifferintervaller i det  
+
+ digitale overordnede signal i en digital multiplekser.
+Disse  
+
+ cifferintervaller kan anvendes til enten at overføre information fra  
+
+ underordnede signaler eller til ikke at overføre information afhængigt af den  
+
+ relative cifferhyppighed af de enkelte underordnede signaler og det digitale  
+
+ overordnede signal.
+3020 Negativ udspærring (Negative justification) En styret udeladelse af cifre fra et digitalt underordnet signal på et  
+
+ digitalt multipleksudstyr, således at cifferhyppigheden af de individuelle  
+
+ underordnede signaler svarer til en hyppighed, der fastsættes af  
+
+ multipleksudstyret.
+Den udeladte information overføres dernæst via et separat  
+
+ cifferinterval med lav overføringskapacitet.
+3021 Positiv/nul/negativ udspærring (Positive/ zero/negative  
+
+ justiflcation) En kombination af positiv og negativ udspærring, hvor indsættelse af  
+
+ udspærringscifre eller udeladelse af informationscifre kun finder sted, når  
+
+ det er nødvendigt af hensyn til korrekt informationsoverførsel.
+3022 Udspærringsciffer (Justifying digit) Et ciffer, der indsættes i et udspærbart cifferinterval, når dette  
+
+ cifferinterval ikke indeholder informationscifre.
+3023 Udspærbart cifferinterval (Justifiable digit time slot) Et cifferinterval, som kan indeholde enten et informationsciffer eller et  
+
+ udspærringsciffer.
+3024 Udspærrings-styrecifre (Justification service digits) Cifre, som indeholder information om status af det udspærbare  
+
+ cifferinterval.
+3025 Nominel udspærringshyppighed (Nominal justification rate) Hyppigheden, hvormed udspærringscifre indsættes eller fjernes, når såvel  
+
+ underordnede som overordnede signaler arbejder med nominel cifferhyppighed.
+3026 Maksimal udspærringshyppighed (Maximum justification rate) Den maksimale hyppighed, hvormed udspærringscifre kan indsættes eller  
+
+ fjernes.
+3027 Udspærringsforhold (Justification ratio) Forholdet mellem aktuel udspærringshyppighed og maksimal  
+
+ udspærringshyppighed.
+3028 Transmultiplekser (Transmultiplexer) Et udstyr, der kan omsætte signaler fra bærefrekvensudstyr til tidsdelte  
+
+ multiplekssignaler med samme struktur, som anvendes i pcm-udstyr eller  
+
+ omvendt.
+4. Rammelåsning 4001 Rammelåsning (Frame alignment) Den tilstand, hvor det modtagende udstyrs interne ramme er korrekt i fase  
+
+ med det modtagne signals ramme.
+4002 Rammelåsningsord (Frame alignment signal) Det specielle ord i det digitale signal, der anvendes til at sikre, at  
+
+ rammelåsningen kan opretholdes.
+4003 Koncentreret rammelåsningsord (Bunched frame alignment  
+
+ signal) Et rammelåsningsord, hvor de enkelte signalelementer optræder i på  
+
+ hinanden følgende cifferintervaller.
+4004 Fordelt rammelåsningsord (Distributed frame alignment signal) Et rammelåsningsord, hvor de enkelte signalelementer ikke optræder i på  
+
+ hinanden følgende cifferintervaller.
+4005 Genlåsningstid (Frame alignment recovery time) Den tid, der forløber fra et korrekt rammelåsningsord er tilgængeligt på  
+
+ det modtagende udstyrs indgang, til rammelåsningstilstanden er etableret.
+ Note: Genlåsningstiden inkluderer den tid, der er nødvendig for gentagne  
+
+ verifikationer af det modtagne rammelåsningsords korrekthed.
+4006 Rammetabstid (Out-of-frame alignment time) Den tid, hvorunder rammelåsningen er tabt.
+Rammetabstiden inkluderer den  
+
+ tid, det tager at detektere tab af rammelåsning og genlåsningstiden.
+5. Takt og synkronisering 5001 Taktsignal (Timing signal) Et cyklisk signal, der anvendes til at styre takten på de enkelte  
+
+ operationer.
+5002 Reference-taktgiver (Reference clock) En taktgiver med stor stabilitet og nøjagtighed, der anvendes til at styre  
+
+ frekvensen i et net med gensidigt synkroniserede taktgivere med mindre  
+
+ stabilitet.
+Fejl i en reference-taktgiver medfører ikke tab af synkronisme i  
+
+ nettet.
+5003 Hoved-taktgiver (Master clock) En taktgiver, der frembringer nøjagtige taktsignaler for styring af andre  
+
+ taktgivere og muligvis andre udstyr.
+5004 Tidsinterval (Time slot) Varigheden af ethvert cyklisk forløb, som kan genkendes og defineres  
+
+ entydigt.
+5005 Kanalinterval (Channel time slot) Et tidsinterval begyndende i en bestemt fase i en ramme og tildelt en  
+
+ kanal for overførsel af en information bestående af 8 bit.
+5006 Signalkanalinterval (Signalling time slot) Et tidsinterval begyndende i en bestemt fase i hver ramme og beregnet til  
+
+ overførsel af signaleringsinformation.
+5007 Rammelåsningskanalinterval (Frame alignment time s1ot) Et tidsinterval begyndende i en bestemt fase i hver ramme og beregnet til  
+
+ overførsel af rammelåsningssignalet.
+5008 Cifferinterval (Digit time slot) Et tidsinterval beregnet til et enkelt ciffer.
+5009 Taktjustering (Retiming) Justering af intervallerne mellem tilsvarende betydende tidspunkter i et  
+
+ digitalt signal ved hjælp af et taktsignal.
+5010 Taktuddragning (Timing recovery) Udledning af et taktsignal fra et modtaget signal.
+5011 Isokron (Isochronous) Et signal er isokront, hvis alle tidsintervaller, der adskiller to  
+
+ betydende tidspunkter, er teoretisk lig med enhedsintervallet eller et  
+
+ multiplum af enhedsintervallet.
+ Note: I praksis er variationer i tidsintervallerne holdt inden for  
+
+ specificerede grænser.
+5012 Anisokron (Anisochronous) Et signal er anisokront, hvis tidsintervallet mellem to betydende  
+
+ tidspunkter ikke nødvendigvis er lig med tidsintervallet, der adskiller to  
+
+ andre betydende tidspunkter i signalet.
+5013 Synkron (Synchronous) Signaler er synkrone, hvis de tilsvarende betydende tidspunkter har en  
+
+ ønsket, konstant fasesammenhæng.
+5014 Synkronisering (Synchronization) Den proces at justere tilsvarende betydende tidspunkter i signaler for at  
+
+ opnå den ønskede fasesammenhæng mellem disse tidspunkter.
+5015 Homokron (Homochronous) Signaler er homokrone, hvis deres tilsvarende betydende tidspunkter har en  
+
+ konstant, men ikke styret, fasesammenhæng.
+5016 Mesokron (Mesochronous) Signaler er mesokrone, hvis deres tilsvarende betydende tidspunkter  
+
+ optræder med samme gennemsnitlige hyppighed.
+ Note: Fasesammenhængen mellem tilsvarende betydende tidspunkter varierer  
+
+ normalt mellem specificerede grænser.
+5017 Plesiokron (Plesiochronous) Signaler er plesiokrone, hvis deres tilsvarende betydende tidspunkter  
+
+ optræder med nominelt den samme hyppighed.
+Alle variationer i hyppigheden  
+
+ holdes inden for specificerede grænser.
+ Note 1: To signaler med samme nominelle cifferhyppighed, men ikke styret  
+
+ af samme taktgiver eller to homokrone taktgivere er normalt plesiokrone.
+ Note 2: Der er ingen grænser for faseafvigelse mellem tilsvarende  
+
+ betydende tidspunkter.
+5018 Heterokron (Heterochronous) Signalerne er heterokrone, hvis deres tilsvarende betydende tidspunkter  
+
+ ikke nødvendigvis optræder med samme hyppighed.
+Note: To signaler, der har forskellig nominel cifferhyppighed og ikke styres af samme taktgiver eller fra to homokrone taktgivere, er normalt hetokrone.
+ Note: Termerne 5011 til 5018 er baseret på følgende græske gloser:
+Iso = ens Syn = sammen, følges ad Homo = samme Meso = middel Plesio = nær Hetero = forskellig 6. Signalering i pcm-systemer 6001 Signalering (Signalling) Udveksling af elektrisk information (andet end forårsaget af tale)  
+
+ specielt vedrørende etablering og styring af forbindelser og management i et  
+
+ kommunikationsnet.
+6002 Taleciffersignalering (Speech digit signalling) Signalering hørende til en talekanal, hvor cifferintervaller, der primært  
+
+ anvendes for transmission af kodet tale, periodisk anvendes for signalering.
+6003 Kanalinterval-signalering (In-slot signalling) Signalering hørende til en talekanal og transmitteret i et cifferinterval,  
+
+ der er permanent (eller periodisk) tildelt inden i talekanalen.
+6004 Separat signalering (Out-slot signalling) Signalering hørende til en talekanal og transmitteret i een eller flere  
+
+ separate cifferintervaller, der ikke befinder sig i talekanalen.
+6005 Fælleskanalsignalering (Common-channel signalling) En signaleringsmetode, hvor signalinformation fra flere kredsløb samt  
+
+ anden information, f.eks. i forbindelse med network management, overføres  
+
+ over en enkelt kanal ved hjælp af adresserede meddelelser.
+6006 Kanalbunden signalering (Channel associated signalling) En signaleringsmetode, hvor de signaler, der er nødvendige for trafikken  
+
+ på en enkelt talekanal, bliver transmitteret i talekanalen selv eller i en  
+
+ signalkanal, der permanent er tildelt denne.
+7. Lavfrekvensegenskaber 7001 Overstyringsgrænse (Load capacity) Med overstyringsgrænse i pcm-udstyr menes det niveau udtrykt i dBm0 af et  
+
+ sinusformet signal, hvor de positive og negative maksimalværdier svarer til  
+
+ koderens positive og negative virtuelle tærskelværdier.
+7002 Amplitudebegrænsning (Peak limiting) Med amplitudebegrænsning i pcm-udstyr menes den effekt, der forårsages ved  
+
+ påtrykning af et indgangssignal på en koder med niveauer, der overstiger  
+
+ koderens virtuelle tærskelværdier. (Fig. 1).
+7003 Kvantiseringsforvrængnin (Quantizing distortion) Den forvrængning, der fremkommer ved en kvantiseringsproces.
+7004 Kvantiseringsforvrængningens effekt (Quantizing distortion power) Effekten af de forvrængningsprodukter i et udgangssignal, der fremkommer  
+
+ som følge af en kvantiseringsproces.
+8. Koder 8001 Impulskode (Pulse code) En kode, der giver sammenhængen mellem den kvantiserede værdi af en  
+
+ øjebliksværdi og det tilsvarende tegnsignal.
+8002 Liniekode (Line code) En kode, valgt af hensyn til transmissionsmediet, der angiver sammenhængen  
+
+ mellem en gruppe cifre frembragt i en terminal eller andet procesudstyr og de  
+
+ impulser, der repræsenterer denne gruppe cifre på transmissionslinien.
+8003 Signal med vekslende polaritet (AMI) (Alternate mark inversion signal) Et pseudo-ternært signal, der overfører binære cifre, og hvor successive  
+
+ »1«-er normalt er af vekslende polaritet (positiv og negativ) men  
+
+ ens i amplitude, mens »0«-er har amplituden 0.
+8004 AMI-overtrædelse (polaritetsgentagelse) (AMI violation (Bipolar violation)) En »1«-er, som har den samme polaritet som den foregående  
+
+ »1«-er ved transmission af AMI-signaler.
+8005 Modificeret AMI (Modified AMI) Et AMI-signal, som ikke nøje overholder reglen om vekslende polaritet, men  
+
+ inkluderer overtrædelser i overensstemmelse med definerede regler.
+Eksempler  
+
+ på sådanne signaler er HDB og B6ZS.
+8006 Disparitet (Disparity) Den digitale sum af en gruppe på n signalelementer.
+8007 Digital sum (Digital sum) Summen af impulsamplituder i et flerniveau impulskodesignal fra et  
+
+ arbitrært tidspunkt til den sidst modtagne impuls på det betragtede  
+
+ tidspunkt.
+Enhederne for angivelse af amplituderne skal vælges således, at  
+
+ naboniveauer adskilles med en enhed.
+8008 Variationen af den digitale sum (Digital sum variation) Forskellen mellem den maksimale og den minimale mulige digitale sum i en  
+
+ hvilken som helst kodet sekvens i en givet kode.
+8009 Balanceret kode (Balanced code) En kode, som ikke har nogen DC-komponent i sit frekvensspektrum.
+8010 Disparitetsbegrænsende kode (Paired-disparity code) En kode, hvor nogle eller alle cifre eller tegn kan repræsenteres ved to  
+
+ kombinationer af cifre med modsat disparitet.
+Valg af kombination foregår,  
+
+ således at den totale disparitet i en længere sekvens af cifre minimeres.
+ Note: Et signal med alternerende polaritet er et eksempel på en  
+
+ disparitetsbegrænsende kode.
+8011 Binær pcm-kode (Pcm binary code) En impulskode, hvor de kvantiserede værdier identificeres ved binære tal  
+
+ taget i rækkefølge.
+ Note: Denne term bør ikke anvendes i forbindelse med linietransmission.
+8012 Symmetrisk binær kode (Symmetrical binary code) En impulskode, der er udledt af en binær kode, men hvor fortegnet for den  
+
+ kvantiserede værdi, positiv eller negativ, er repræsenteret af et ciffer og  
+
+ hvor de resterende cifre angiver et binært tal, der repræsenterer størrelsen.
+ Note: I en specifik symmetrisk binær kode skal cifferrækkefølgen og brugen  
+
+ af symbolerne »1« og »0« i de enkelte cifferpositioner  
+
+ være specificeret.
+8013 kodeomsætning (Code conversion) Omsætning af tegnsignaler eller grupper af tegnsignaler i en kode til  
+
+ tilsvarende signaler eller grupper af signaler i en anden kode.
+9. Digitale net 9001 Digital fordeler (Digital distribution frame) En fordeler, i hvilken forbindelser mellem digitale udgange og digitale  
+
+ indgange kan etableres.
+9002 Sektionsterminering (Section termination) Et punkt, som udgør grænsefladen mellem et fysisk transmissionsmedium og  
+
+ dets tilsluttede udstyr.
+ Note: Dette punkt vil normalt være forbindelsesstikkene på indgang og  
+
+ udgang af et udstyr.
+9003 Elementær kabelsektion (Elementary cable section) Hele transmissionsmediet mellem sektionstermineringerne på udgangen af et  
+
+ udstyr og indgangen af det følgende udstyr.
+ Note 1: En elementær kabelsektion vil normalt bestå af adskillige  
+
+ fabrikationslængder kabel og diverse nødvendige forbindelseskabler.
+ Note 2: Eksempler på transmissionsmedier er et koaksialrør, et balanceret  
+
+ par eller en optisk fiber.
+9004 Elementær forstærkersektion (Elementary repeater section) En elementær kabelsektion og den efterfølgende forstærker.
+9005 Elementær regeneratorsektion (Elementary regenerator section) En elementær kabelsektion og den efterfølgende regenerator.
+9006 Digital sektion (Digital section) Alle midler, der er nødvendige for at sende og modtage et digitalt signal  
+
+ med specificeret bithyppighed mellem to på hinanden følgende digitale  
+
+ fordelere.
+ Note 1: En digital sektion danner enten en del af eller hele den digitale  
+
+ fremføring.
+ Note 2: Hvor det er passende, bør bithyppigheden følge benævnelsen.
+ Note 3: Benævnelsen henviser altid til begge transmissionsretninger, med  
+
+ mindre andet er anført.
+9007 Digital fremføring (Digital path) Den samlede mængde udstyr, der er nødvendig for at overføre et digitalt  
+
+ signal med specificeret bithyppighed i begge retninger mellem de to digitale  
+
+ fordelere, hvor det digitale signal terminerer.
+ Note 1: En digital fremføring består af een eller flere digitale  
+
+ sektioner.
+ Note 2: Hvor det er passende, bør bithyppigheden følge benævnelsen.
+ Note 3: Udtrykket henviser altid til begge transmissionsretninger, med  
+
+ mindre andet er anført.
+ Note 4: Digitale fremføringer, der forbindes ved hjælp af digitale  
+
+ centraler, danner en digital forbindelse.
+9008 Bitsekvens-uafhængighed (Bit sequence independence) En digital fremføring eller en digital sektion er bitsekvens-uafhængig ved  
+
+ den specificerede bithyppighed, når konstruktionen tillader en hvilken som  
+
+ helst bitrækkefølge ved denne hyppighed at blive overført.
+Note: Praktiske transmissionssystemer, som ikke er fuldstændige  
+
+ bitsekvens-uafhængige, kan beskrives som kvasi-bitsekvens-uafhængige.
+I  
+
+ sådanne tilfælde skal begrænsningerne nøje angives.
+9009 Ciffersekvens-integritet (Digit sequence integrity) En egenskab, der sikrer, at en vilkårlig sekvens af cifre er den samme i  
+
+ hver ende af en digital forbindelse.
+9010 Digital kobling (Digital switching) En proces, hvor man opsætter forbindelser ved at koble digitale signaler  
+
+ uden at konvertere dem til analoge signaler.
+9011 Integreret digitalt net (Integrated digital network) Et net, hvor transmission af digitale signaler foregår ved hjælp af  
+
+ forbindelser med digital kobling.
+9012 Tjeneste-integreret digitalt net (ISDN) (Integrated services  
+
+ digital network) Et integreret digitalt net, hvor de samme digitale koblingsorganer og  
+
+ digitale kredsløb bruges til at opstille forbindelser for forskellige  
+
+ tjenester, f.eks. telefoni og data.
+9013 Envejs-styring (Unilateral control) Et styresystem for synkronisering af central A og B er envejs, hvis  
+
+ taktgiveren på central A medvirker til styring af taktgiveren på central B,  
+
+ medens B ikke medvirker til styring af A.
+9014 Gensidig styring (Bilateral control) Et styresystem for synkronisering af central A og B er gensidigt, hvis  
+
+ taktgiveren på central A medvirker til styring af taktgiveren på central B,  
+
+ og taktgiveren på central B medvirker til styringen af taktgiveren på central  
+
+ A.
+9015 Lokal synkronisering (Single-ended synchronization) Et styresystem for synkronisering af central A og B kaldes lokalt, hvis  
+
+ det fase-afvigelses-signal, der bruges til styring af taktgiveren på en  
+
+ bestemt central, kun er udledt fra en sammenligning af fasen af det  
+
+ indkommende digitale signal med fasen af den interne taktgiver på centralen.
+9016 Sammenlignings-synkronisering (Double-ended synchronization) Et styresystem for synkronisering af central A og B kaldes  
+
+ sammenligningsstyring, hvis det fase-afvigelses-signal, der bruges til  
+
+ styring af taktgiveren på en bestemt central, er udledt fra en sammenligning  
+
+ på begge centraler af fasen af det indkommende digitale signal med fasen af  
+
+ den interne taktgiver.
+9017 Analog styring (Analogue control) Et styresystem for synkronisering har såkaldt analog styring, hvis  
+
+ forholdet mellem de aktuelle fase-afvigelser mellem taktgivere og de  
+
+ tilsvarende afvigelsessignaler er en kontinueret funktion (i det mindste over  
+
+ et begrænset interval).
+9018 Lineær analog styring (Linear analogue control) Et analogt styresystem, hvor den funktionsmæssige sammenhæng er ligefrem  
+
+ proportional.
+9019 Amplitude-kvantiseret styring (Amplitude quantized control) Et styresystem for synkronisering er karakteriseret ved at have  
+
+ amplitude-kvantiseret styring, hvis den funktionsmæssige sammenhæng mellem  
+
+ aktuel fasefejl og afledt fejlsignal inkluderer diskontinuiteter.
+ Note: I praksis betyder dette, at arbejdsområdet for fasefejlene deles i  
+
+ et endeligt antal underområder og at et bestemt signal bliver udledt for  
+
+ hvert underområde, når fasefejlen falder inden for et underområde.
+9020 Tids-kvantiseret styring (Time quantized control) Et styresystem for synkronisering er karakteriseret ved at have  
+
+ tids-kvantiseret styring, hvis fejlsignalet kun udledes eller anvendes på et  
+
+ antal diskrete tidspunkter med ens eller uens tidsafstande.
+9021 Synkront net (Synchronized network) Et net, hvor taktgivere er styret til at løbe ideelt med identiske  
+
+ hastigheder eller med samme middelhastigheder med begrænsede relative  
+
+ faseforskydninger.
+ Note: Ideelt er taktgivere synkrone, men i praksis kan de være mesokrone.  
+
+ De bliver dog ofte beskrevet som synkrone, selv om de i virkeligheden er  
+
+ mesokrone.
+9022 Ikke-synkront net (Non-synchronized network) Et net, hvor taktgiverne ikke behøver at være synkrone eller mesokrone.
+9023 Gensidigt synkroniseret net (Mutually synchronized network) Et net er gensidigt synkroniseret, når hver taktgiver i nettet udøver en  
+
+ vis grad af styring på alle taktgivere.
+9024 Demokratisk (gensidigt synkroniseret) net (Democratic  
+
+ (mutually synchronized) network) Et gensidigt synkroniseret system er demokratisk, når alle taktgivere i  
+
+ nettet har samme status og udøver samme styring på de andre.
+Nettets  
+
+ arbejdsfrekvens er gennemsnittet af taktgivernes naturlige (uden styring)  
+
+ frekvenser.
+9025 Hierarkisk (gensidigt synkroniseret) net (Hierarchic  
+
+ (mutually synchronized) network) Et gensidigt synkroniseret system er hierarkisk, når nogle taktgivere  
+
+ udøver mere styring end andre.
+Nettets arbejdsfrekvens er en vægtet  
+
+ middelværdi af taktgivernes naturlige (uden styring) frekvenser.
+9026 Despotisk (synkroniseret) net (Despotic (synchronized)  
+
+ network) Et netsynkroniseringssystem er despotisk, når en bestemt hoved-taktgiver  
+
+ optræder med fuld styring af alle andre taktgivere.
+9027 Oligarkisk (synkroniseret) net (Oligarchic (synchronized)  
+
+ network) Et netsynkroniseringssystem er oligarkisk, når styringen foretages af få  
+
+ udvalgte taktgivere, og de resterende taktgivere styres af disse.
+9028 Digital liniesektion (Digital line section) To på hinanden følgende linieterminaludstyr, det forbindende  
+
+ transmissionsmedium og stationskablingen mellem udstyrene og deres tilhørende  
+
+ digitale fordeler.
+Dette udgør tilsammen de nødvendige midler til at sende og  
+
+ modtage et digitalt signal med specificeret bithyppighed mellem to på  
+
+ hinanden følgende digitale fordelere.
+Note 1: Linieterminaludstyr kan bestå af regeneratorer kodeomsættere scramblers liniestrømforsyning fejllokalisering overvågning Note 2: En digital liniesektion er en speciel udgave af en digital  
+
+ sektion.
+9029 Digitalt liniesystem (Digital line system) En bestemt udgave af en digital liniesektion, karakteriseret ved  
+
+ transmissionsmediet.
+9030 Digital gruppe (Digital block) Kombinationen af en digital fremføring og tilhørende digitalt  
+
+ multipleksudstyr.
+ Note: Bithyppigheden af den digitale fremføring bør indgå i benævnelsen.
+9031 Digital liniefremføring (Digital line path) To eller flere digitale liniesektioner forbundet i tandem på en sådan  
+
+ måde, at den specificerede bithyppighed for det digitale signal, der sendes  
+
+ og modtages, er den samme på hele strækningen mellem de to terminerede  
+
+ digitale fordelere.
+ Note: Hvor det er pasende, bør bithyppigheden indgå i benævnelsen.
+9032 Digital radiosektion (digital radio section) To på hinanden følgende radioterminaludstyr og det forbindende  
+
+ transmissionsmedium, som tilsammen udgør de nødvendige midler til sending og  
+
+ modtagning af et digitalt signal mellem to på hinanden følgende digitale  
+
+ fordelere.
+ Note: En digital radiosektion er en speciel udgave af en digital sektion.
+9033 Digitalt radiosystem (Digital radio system) En bestemt udgave af en digital radiosektion.
+9034 Digital radiofremføring (digital radio path) To eller flere digitale radiosektioner forbundet i tandem på en sådan  
+
+ måde, at den specificerede bithyppighed for det digitale signal, der sendes  
+
+ og modtages, er den samme på hele strækningen mellem de to terminerede  
+
+ digitale fordelere.
+9035 Bitintegritet (bit integrity) En egenskab, der sikrer, at en vilkårlig bit har samme binære cifferværdi  
+
+ i hver ende af en digital forbindelse.
+ Stikordsliste Nr.
+TELEFONTILSYNET Specifikation CIRKULÆRE NR. 30 DIGITALE GRÆNSEFLADER INDHOLDSFORTEGNELSE Generelt I nærværende cirkulære nr. 30, specifikation nr. 10 er angivet  
+
+ specifikationer for de digitale grænseflader, der skal anvendes på danske  
+
+ multipleksstationer ved sammenkobling af digitale grupper.
+ Der gøres opmærksom på, at sitterspecifikationerne gælder for de værst  
+
+ tilladelige forhold på en sammensat fremføring, og at der normalt stilles  
+
+ strengere krav til de enkelte udstyrstyper.
+ Såfremt et multipleksudstyr er udformet på en sådan måde, at f.eks. 2  
+
+ forskellige multipleksniveauer er såvel elektrisk som mekanisk integrerede,  
+
+ kan det tillades, at nærværende grænsefladespecifikationer ikke anvendes.
+2. Grænseflader ved 64 kbit/s Der er følgende 2 typer grænseflader:
+- kodirektional grænseflade - kontradirektional grænseflade Udtrykket kodirektional anvendes til at betegne en grænseflade,  
+
+ hvorigennem informationen og det tilhørende taktsignal sendes i samme  
+
+ retning, jfr. fig. 1.
+ Note: Den kodirektionale grænseflade anvendes ved synkrone og pleksiokrone  
+
+ net, som har taktgivere af den krævede stabilitet.
+ Udtrykket kontradirektional anvendes til at betegne en grænseflade, hvor  
+
+ taktsignalet for både sende- og modtageretningens vedkommende går fra  
+
+ multipleksudstyret til det tilsluttede udstyr, jfr. fig. 2.
+2.1. Funktionsmæssige krav 1. Både i senderetning og i modtageretning skal der  
+
+ kunne overføres 3 signaler:
+- 64 kbit/s informationssignal - 64 kHz taktsignal - 8 kHz taktsignal Der genereres et 8 kHz taktsignal i multipleksudstyret, men det er ikke  
+
+ obligatorisk for det tilsluttede udstyr at udnytte 8 kHz taktsignalet fra  
+
+ multipleksudstyret eller at afgive et 8 kHz taktsignal til dette.
+ Alarmindikation fra detektering af fejl på et højere multipleksniveau skal  
+
+ sendes gennem en 64 kbit/s grænseflade ved hjælp af AIS og ved afbrydelse af  
+
+ 8 kHz taktsignalet.
+2. Grænsefladen skal være bitsekvens-uafhængig ved 64  
+
+ kbit/s, hvorved et 64 kbit/s signal uden begrænsninger kan sendes gennem  
+
+ grænsefladen.
+Dette indebærer imidlertid ikke, at 64 kbit/s kredsløb uden  
+
+ begrænsninger altid kan tilvejebringes internationalt.
+ Selv om grænsefladen er bitsekvens-uafhængig, vil anvendelse af AIS  
+
+ resultere i nogle mindre begrænsninger for en 64 kbit/s bruger.
+2.2. Elektriske egenskaber for 64 kbit/s kodirektional grænseflade 2.2.1. Generelle egenskaber 1. Bithyppighed: 64 kbit/s +/- 100 ppm.
+ 2. 64 kHz og 8 kHz taktsignal sendes kodirektionalt  
+
+ med informationssignalet.
+ 3. Der anvendes et balanceret par for hver  
+
+ transmissionsretning.
+ 4. Kodekonverteringsregler.
+ Trin 1: Et 64 kbit/s bitinterval deles op i 4 enhedsintervaller.
+ Trin 2: Binært »1« kodes som en blok med følgende 4 bit: 1100.
+ Trin 3: Binært »0« kodes som en blok med følgende 4 bit: 1010.
+ Trin 4: Det binære signal konverteres til et 3-niveausignal ved skift af  
+
+ polaritet efter hver blok.
+ Trin 5: Det blokvise polaritetsskrift brydes for hver 8. blok.  
+
+ Polaritetsgentagelsen markerer den sidste blok i oktetten.
+ Disse kodekonverteringsregler er illustreret i fig. 3.
+ 2.2.2. Specifikationer for udgangene.
+ Specifikationen er indeholdt i tabel 1 og fig. 4. Grænserne gælder for  
+
+ impulser af begge polariteter, og for impulser med dobbelt bredde  
+
+ multipliceres tidsangivelserne med to.
+ Note: Hvis det balancerede par er skærmet, skal skærmen forbindes til jord  
+
+ ved udgangen, og det skal være muligt at forbinde skærmen for det balancerede  
+
+ par til jord ved indgangen.
+ Tabel 1: Specifikation for 64 kbit/s kodirektional grænseflade på  
+
+ udstyrets udgang.
+ 2.2.3. Specifikationer for indgangene.
+Det digitale signal, som tilføres indgangen skal være som defineret i  
+
+ 2.2.2., men med ændringer i henhold til det ved sammenkoblingen anvendte pars  
+
+ egenskaber.
+Dette pars dæmpning ved en frekvens på 128 kHz skal være inden  
+
+ for området 0 til 3 dB.
+I denne dæmpning skal medregnes eventuelle tab, der  
+
+ er opstået som følge af tilstedeværelsen af en fordeler mellem udstyrene.
+ 2.3. Elektriske egenskaber for 64 kbit/s kontradirektional  
+
+ grænseflade.
+2.3.1. Generelle egenskaber 1. Bithyppighed: 64 kbit/s +/- 100 ppm.
+ 2. For hver transmissionsretning skal der være to  
+
+ balancerede trådpar, et par til overførsel af informationssignalet og et par  
+
+ til overførsel af et sammensat taktsignal (64 kHz og 8 kHz).
+3. Kodekonverteringsregler.
+Informationssignalet er  
+
+ kodet i AMI-kode med et impulsbreddeforhold på 1. De sammensatte taktsignaler  
+
+ overfører 64 kHz bit-taktinformationen ved anvendelse af AMI-kode med et  
+
+ impulsbreddeforhold på 0,5 samt 8 kHz oktet-faseinformationen ved at indføre  
+
+ polaritetsgentagelser.
+Signaler og fasesammenhæng på udstyrets udgange er  
+
+ vist i fig. 5.
+ De informationsimpulser, som modtages af multipleksudstyret vil være noget  
+
+ forsinket i forhold til de tilsvarende taktimpulser.
+ Detekteringsøjeblikket for en modtaget informationsimpuls på  
+
+ multiplekssiden af grænsefladen skal derfor lægges ved forreste kant af næste  
+
+ taktimpuls.
+ 2.3.2. Specifikation for udgangene.
+ Specifikationen er indeholdt i tabel 2 samt fig. 6 og 7.
+ Når en impuls efterfølges umiddelbart af en anden impuls med modsat  
+
+ polaritet, skal tidstolerancerne ved nulovergangen mellem impulserne være +/-  
+
+ 0,8 mys.
+Tidspunktet for overgang fra en tilstand til en anden i  
+
+ informationssignalet bestemmes af taktsignalet.
+På brugersiden af  
+
+ grænsefladen er det vigtigt, at disse overgange ikke påbegyndes før de  
+
+ takttidspunkter, der gives af det modtagne taktsignal.
+ 2.3.3. Specifikationer for indgangene.
+De digitale signaler, som tilføres indgangene, skal være som defineret i  
+
+ pkt. 2.3.2. men med ændringer i henhold til de ved sammenkoblingen anvendte  
+
+ pars egenskaber.
+Disse pars dæmpning ved en frekvens på 32 kHz skal være  
+
+ inden for området 0 til 3 dB.
+I denne dæmpning skal medregnes eventuelle tab,  
+
+ der er opstået som følge af tilstedeværelsen af en fordeler mellem udstyrene.
+ Note: Hvis de balancerede par er skærmet, skal skærmen forbindes til jord  
+
+ ved udgangen, og det skal være muligt at forbinde skærmene for de balancerede  
+
+ par til jord ved indgangen.
+Tabel 2: Specifikation for 64 kbit/s kontradirektional grænseflade på udstyrets udgang.
+3. Grænseflade ved 2,048 Mbit/s 3.1. Generelle egenskaber Den her beskrevne grænseflade anvendes ved sammenkobling af udstyr inden  
+
+ for en station.
+Bithyppighed: 2,048 Mbit/s +/- 50 ppm Kode: HDB 3, jfr. afsnit 7.2.
+ Note: Yderlederen i koaksialparret skal forbindes til jord ved udgangen,  
+
+ og det skal være muligt at forbinde yderlederen i koaksialparret til jord ved  
+
+ indgangen.
+ Tabel 3: Specifikation for 2,048 Mbit/s grænseflade på udstyrets udgang.
+ 3.2. Specifikationer for udgangene.
+ Specifikationen er anført i tabel 3 og fig. 8. Sitter måles med et  
+
+ testsignal, hvis ækvivalente binære indhold er en pseudo-tilfældig bitsekvens  
+
+ som defineret i CCITT-anbefaling 0.151. Denne sekvens skal kodes i HDB  
+
+ 3-koden.
+3.3. Specifikation for indgangene Det digitale signal, som tilføres indgangen, skal være som defineret i  
+
+ 3.2., men med ændringer i henhold til det ved sammenkoblingen anvendte  
+
+ koaksialpars egenskaber.
+Dette pars dæmpning skal antages at følge en  
+
+ kvadratroden af »f«-kurve, og dæmpningen ved en frekvens på 1,024  
+
+ MHz skal være inden for området 0 til 6 dB.
+I denne dæmpning skal medregnes  
+
+ eventuelle tab som følge af tilstedeværelsen af en fordeler mellem udstyrene.
+ Udstyret skal på indgangen acceptere et digitalt signal med disse  
+
+ elektriske egenskaber, men moduleret med sinusformet sitter, der har en  
+
+ amplitude/frekvens-sammenhæng som defineret i fig. 9. Det ækvivalente binære  
+
+ indhold af test-signalet med sittermodulation skal være en pseudotilfældig  
+
+ bitsekvens som defineret i CCITT-anbefaling 0.151.
+4. Grænseflade ved 8,448 Mbit/s 4.1. Generelle egenskaber Den her beskrevne grænseflade anvendes ved sammenkobling af udstyr inden  
+
+ for en station.
+ Bithyppighed: 8,448 Mbit/s +/- 30 ppm.
+ Kode: HDB 3, jfr. afsnit 7.2.
+ 4.2. Specifikationer for udgangene.
+ Specifikationen er anført i tabel 4 og fig. 10. Sitter måles med et  
+
+ testsignal, hvis ækvivalente binære indhold er en pseudo-tilfældig bitsekvens  
+
+ som defineret i CCITT-anbefaling 0.151.
+ Denne sekvens skal kodes i HDB 3-koden.
+ Note: Yderlederen i koaksialparret skal forbindes til jord ved udgangen,  
+
+ og det skal være muligt at forbinde yderlederen i koaksialparret til jord ved  
+
+ indgangen.
+ Tabel 4: Specifikation for 8,448 Mbit/s grænseflade på udstyrets udgang.
+4.3. Specifikationer for indgangene Det digitale signal, som tilføres indgangen, skal være som defineret i  
+
+ 4.2., men med ændringer i henhold til det ved sammenkoblingen anvendte  
+
+ koaksialpars egenskaber.
+Dette pars dæmpning skal antages at følge en  
+
+ kvadratroden af »f«-kurve, og dæmpningen ved en frekvens på 4,224  
+
+ MHz skal være inden for området 0 til 6 dB.
+I denne dæmpning skal medregnes  
+
+ eventuelle tab som følge af tilstedeværelsen af en fordeler mellem udstyrene.
+ Udstyret skal på indgangen acceptere et digitalt signal med disse  
+
+ elektriske egenskaber, men moduleret med sinusformet sitter, der har en  
+
+ amplitude/frekvens-sammenhæng som defineret i fig. 11. Det ækvivalente binære  
+
+ indhold af test-signalet med sittermodulation skal være en pseudotilfældig  
+
+ bitsekvens som defineret i CCITT-anbefaling 0.151.
+5. Grænseflade ved 34,368 Mbit/s 5.1. Generelle egenskaber Den her beskrevne grænseflade anvendes ved sammenkobling af udstyr inden  
+
+ for en station.
+ Note: Yderlederen i koaksialparret skal forbindes til jord ved udgangen,  
+
+ og det skal være muligt at forbinde yderlederen i koaksialparret til jord ved  
+
+ indgangen.
+ Tabel 6: Specifikation for 139,264 Mbit/s grænseflade på udstyrets udgang.
+ 5.3. Specifikationer for indgangene.
+Det digitale signal, som tilføres indgangen, skal være som defineret i  
+
+ 5.2., men med ændringer i henhold til det ved sammenkoblingen anvendte  
+
+ koaksialpars egenskaber.
+Dette pars dæmpning skal antages tilnærmelsesvis at  
+
+ følge en kvadratroden af »f«-kurve og dæmpningen ved en frekvens på  
+
+ 17,184 MHz skal være inden for området 0 til 12 dB.
+ Udstyret skal på indgangen acceptere et digitalt signal med disse  
+
+ elektriske egenskaber, men moduleret med sinusformet sitter, der har en  
+
+ amplitude/frekvens-sammenhæng som defineret i fig. 13. Det ækvivalente binære  
+
+ indhold af test-signalet med sittermodulation skal være en pseudotilfældig  
+
+ bitsekvens med en længde af 2exp(23)-1 som defineret i 5.2. Se i øvrigt  
+
+ CCITT-anbefaling 0.151.
+6. Grænseflade ved 132,264 Mbit/s 6.1. Generelle egenskaber Den her beskrevne grænseflade anvendes ved sammenkobling af udstyr inden  
+
+ for en station.
+ Bithyppighed: 139,264 Mbit/s +/- 15 ppm.
+ Kode: CMI, jfr. afsnit 7.3.
+ 6.2. Specifikationer for udgangene.
+ Specifikationen er anført i tabel 6 og fig. 14 og 15.
+Sitter måles med et test-signal, hvis ækvivalente binære indhold er en  
+
+ pseudotilfældig bitsekvens: 2exp(23)-1. Denne sekvens skal være som genereret  
+
+ af et 23-trins skifteregister, der har tilbagekobling fra det 18. og 23.  
+
+ trin, og skal kodes i CMI-koden.
+Se i øvrigt CCITT-anbefaling 0.151.
+De i fig. 14 og 15 viste masker tjener kun vejledende formål og skal ikke  
+
+ nødvendigvis anvendes ved måling.
+V er den nominelle spids-til-spids  
+
+ amplitude.
+Masken indbefatter ikke tolerancen på oversving, se tabel 6. I  
+
+ fig. 15 vil den modsat rettede impuls have samme egenskaber.
+ 6.3 Specifikationer for indgangene.
+ Det digitale signal, som tilføres indgangen, skal være i overensstemmelse  
+
+ med tabel 6, men med ændringer i henhold til det ved sammenkoblingen anvendte  
+
+ koaksialpars egenskaber.
+ Koaksialparrets indskudsdæmpning skal antages tilnærmelsesvis at følge en  
+
+ kvadratroden af »f«-kurve, og må maksimalt have en indskudsdæmpning  
+
+ på 12 dB ved en frekvens på 70 MHz.
+ Tilpasningsdæmpningen skal være den samme som specificeret for udgangen.
+ Udstyret skal på indgangen acceptere et digitalt signal med disse  
+
+ elektriske egenskaber, men moduleret med sinusformet sitter, der har en  
+
+ amplitude/frekvens-sammenhæng som defineret i fig. 16. Det ækvivalente binære  
+
+ indhold af test-signalet med sitter-modulation skal være en pseudotilfældig  
+
+ bitsekvens med en længde af 2exp(23)-1 som defineret i 6.2. Se i øvrigt  
+
+ CCITT-anbefaling 0.151.
+7. Koder i digitale grænseflader I fig. 17 er vist kodning af binær information i hhv.
+AMI-, HDB 3- og  
+
+ CMI-koden.
+I afsnit 7.1-7.3. er de tre koder nærmere defineret.
+ 7.1. AMI-koden (Alternate Mark Inversion).
+ Kodning af binær information til et AMI-signal sker efter følgende regler:
+ 1. AMI-signalet er et pseudo-ternært signal, hvis tre  
+
+ tilstande betegnes B+ , B- , og 0.
+ 2. 0' i den binære information kodes altid som 0.
+ 3. 1' i den binære information kodes altid skiftevis  
+
+ som B+ og B-. Denne regel sikrer, at AMI-signalet ikke indeholder nogen  
+
+ jævnstrømskomponent.
+ 7.2. HDB 3-koden (High Density Bipolar, 3. order) Kodning af binær  
+
+ information til et HDB 3-signal sker efter følgende regler:
+ 1. HDB 3-signalet er et pseudo-ternært signal, hvis  
+
+ tre tilstande betegnes B+, B- og 0.
+2. 0' i den binære information kodes som 0 i HDB  
+
+ 3-signalet.
+For serier af 4 »0« gælder der imidlertid særlige  
+
+ regler, jfr. pkt. 4 nedenfor.
+3. 1' i den binære information kodes skiftevis som B+  
+
+ og B- i HDB 3-signalet.
+Overtrædelse af denne regel, polaritetsgentagelse,  
+
+ indføres ved kodning af serier på 4 »0«, jfr. pkt. 4 nedenfor.
+ 4. Serier på 4 »0« i den binære information  
+
+ kodes efter følgende regler:
+ Denne regel sikrer, at de på hinanden følgende polaritetsgentagelser er af  
+
+ skiftende polaritet, således at der ikke indføres nogen jævnstrømskomponent.
+ 7.3. CMI-koden (Coded Mark Inversion).
+ Kodning af binær information til et CMI-signal sker efter følgende regler:
+ 1. CMI er en 2-niveau NRZ-kode ( N on R  
+
+ eturn to Z ero), hvis to amplitudeniveauer betegnes A1 og A2.
+ 2. 0' i den binære information kodes således, at A1 og  
+
+ A2 opnås efter hinanden hvert med et halvt bitinterval inden for et helt  
+
+ bitinterval.
+ 3. 1' i den binære information kodes skiftevis som A1  
+
+ og A2 inden for et bitinterval.
+Alle negativt gående overgange forekommer på tidspunkter, der falder  
+
+ sammen med starten af et bitinterval.
+Positivt gående overgange forekommer  
+
+ enten midt i et bitinterval, for et binært »0«, eller ved starten  
+
+ af et bitinterval.
+TELEFONTILSYNET Specifikation nr. 11 til CIRKULÆRE NR. 30 SEPTEMBER 1981 1. ORDENS PCM-MULTIPLEKSUDSTYR INDHOLDSFORTEGNELSE: side 1. Generelt Ved pcm-multipleksudstyr forstås her det udstyr, som er nødvendigt for  
+
+ omformning af analoge talesignaler til tidsmultiplekserede digitale signaler  
+
+ samt omformning af digitale signaler til analoge talesignaler.
+2. Kodning af analoge signaler 2.1. Generelt Kodning af analoge talefrekvenssignaler skal foretages i overensstemmelse  
+
+ med nedenstående betingelser.
+2.2. Aftastningsfrekvens Aftastningsfrekvensen skal være 8000 aftastninger/sekund med en tolerance  
+
+ på +/- 50 ppm (+/- 50 x 10exp(-6)) 2.3. kodning 1. En øjebliksværdi skal omsættes til et binært tal  
+
+ med 8 cifre.
+ 2. Den anvendte kodningskurve er A-kurven, som er  
+
+ defineret i tabel 1a og 1b.
+ 3. Antallet af kvantiserede værdier fremgår af  
+
+ kodningstabellerne.
+ 4. Det udsendte tegnsignal fås ved invertering af bit  
+
+ 2,4,6 og 8 (ADI = Alternate Digit Inversion).
++++SKEMA+++ Tabel 1 a: Kodning efter A-kurven, positive indgangsværdier.
+++FIGUR+++ Tabel 1b: Kodning efter A-kurven, negativ indgangsværdier.
+2.4. Sammenhæng mellem kodningskurve og taleniveau Sammenhængen mellem kodningskurven i tabel 1 a og 1 b og  
+
+ talesignalniveauet er defineret på følgende måde:
+ Når der på en dekoder-indgang påtrykkes et digitalt signal med en  
+
+ periodisk signalrækkefølge som angivet i tabel 2, skal der på dekoderens  
+
+ udgang fremkomme et sinusformet signal med en frekvens på 1 kHz og et niveau  
+
+ på 0 dBm0.
+ Den resulterende teoretiske overbelastningsgrænse bliver derved 3,14 dBm0.
++++SKEMA+++ 3. Specifikation for pcm-kanaler ved talefrekvenser 3. 1. Generelt Mellem analoge ind- og udgange skal pcm-kanaler, kodet i overensstemmelse  
+
+ med afsnit 2, overholde nedenstående specifikationer.
+ De specificerede værdier skal måles på talekanalens 4-tråds ind- og  
+
+ udgange, idet pcm-multipleksudstyrets sende- og modtageside sammenkobles på  
+
+ 2,048 Mbit/s niveau.
+ Talekanalernes ind- og udgangsterminaler skal afsluttes med 600 ohm.
+3.2. Dæmpningsforvrængning Dæmpningen som funktion af frekvensen skal ligge inden for grænserne  
+
+ angivet i fig. 1.
+ Referencefrekvensen er 800 Hz.
+ Effektniveauet på indgangen skal ved måling være 0 dBm0.
+ Sende- hhv. modtagesidens forvrængning må højst udgøre halvdelen af det  
+
+ maksimalt tilladelige.
+ 3.3. Gruppeløbetid og gruppeløbetidsforvrængning  Minimumsværdien  
+
+ for gruppeløbetiden skal være mindre end 600 mikrosekunder.
+ Gruppeløbetidsforvrængningen målt i forhold til ovennævnte minimumsværdi  
+
+ skal ligge inden for grænserne angivet i fig. 2.
+ Effektniveauet på indgangen skal ved måling være 0 dBm0.
+3.4. Lavfrekvensterminalernes impedans 3.4.1. Impedans Den nominelle impedans på 4-tråds kanalindgange og -udgange skal være 600  
+
+ ohm balanceret.
+Tilpasningsdæmpningen:
+ over for 600 ohm L 0 grader skal være større end 20 dB i frekvensområdet  
+
+ 300-3400 Hz.
+3.4.2. Jordbalancedæmpning Jordbalancedæmpningen målt som angivet i TU Cirkulære nr. 1 skal være:
+større/= 40 dB i frekvensområdet 50- 600 Hz større/= 46 dB i frekvensområdet 600-3400 Hz 3.5. Egenstøj 3.5. 1. Vejet støj Med kanalindgange og kanaludgange afsluttet med 600 ohm L 0 grd må  
+
+ støjniveauet ikke være større end -65 dBm0Op.
+3.5.2. Støj fra enkelttoner Med kanalindgange og kanaludgange afsluttet med 600 ohm L 0 grd må  
+
+ niveauet af enkelttoner målt selektivt, ikke overstige -50 dBm0.
+ 3.5.3. Støj fra modtagesiden alene (uden 2,048 Mbit/s sløjfekobling).
+ Støjbidraget fra modtagesiden alene skal være mindre end -75 dBm0p, når  
+
+ den tilføres et pcm-signal svarende til amplitudetrin nr. 1, se tabel 1, på  
+
+ indgangen af dekoderen.
+3.6. Undertrykkelse af udenbåndssignaler på kanalindgangen Når et sinussignal i området 4,6-72 kHz tilføres kanalindgangen med et  
+
+ passende niveau, skal niveauet af enhver spejlfrekvens på kanaludgangen ligge  
+
+ mindst 25 dB under niveauet af testsignalet.
+ I frekvensområdet 3,4-4,6 kHz skal dæmpningsforløbet i fig. 3 være  
+
+ overholdt.
+ Note: Ved overholdelse af ovenstående krav forventes det, at pcm-kanalen  
+
+ ikke bidrager med mere end 100 pW0p ekstra støj i området 0-4 kHz på  
+
+ kanaludgangen som følge af tilstedeværelsen af udenbåndssignaler på  
+
+ kanalindgangen.
+ Den krumme del af kurven svarer til ligningen:
+3.7. Udenbåndssignaler på kanaludgangen Et sinussignal i området 300-3400 Hz med et niveau på 0 dBm0 tilført på  
+
+ kanalindgangen må ikke give anledning til signaler uden for talebåndet, målt  
+
+ selektivt på kanaludgangen, med et niveau, der er større end -25 dBm0.
+3.8. Intermodulation Hvis to sinussignaler med forskellige frekvenser f1 og f2 uden harmonisk  
+
+ forhold samtidig tilføres kanalindgangen med samme niveau i området -4 til  
+
+ -21 dBm0, må det ikke give anledning til intermodulationsprodukter af typen 2  
+
+ f1 - f2 med et niveau større end -35 dB i forhold til niveauet af det ene af  
+
+ de to tilførte signaler.
+ Når et signal med et niveau på -9 dBm0 ved en vilkårlig frekvens i området  
+
+ 300-3400 Hz og et signal på 50 Hz med et niveau på -23 dBmO samtidig tilføres  
+
+ kanalindgangen, må der ikke frembringes noget modulationsprodukt med et  
+
+ niveau større end -49 dBm0.
+ Note: Ovenstående krav vil i praksis altid være opfyldt, hvis kravene  
+
+ under punkterne 3.9. og 3.11. er opfyldt.
+3.9. Total forvrængning inkl. kvantiseringsforvrængning Udstyret skal opfylde mindst eet af nedenstående to krav.
+ Krav 1:
+ Når der til kanalindgangen tilføres et støjsignal som specificeret i  
+
+ CCITT-anbefaling 0.131, skal forholdet mellem signal og den totale  
+
+ forvrængning, målt i kanaludgangen, være større end grænserne, som er angivet  
+
+ i fig. 4.
+ Krav 2:
+ Når et sinussignal i området 700-1100 Hz (med undtagelse af submultipla af  
+
+ 8 kHz) eller i området 350-550 Hz (med preference for 420 +/- 20 Hz, men med  
+
+ undtagelse af submultipla af 8 kHz) bliver tilført kanalindgangen, skal  
+
+ forholdet mellem signalet og den psofometrisk målte støj på kanaludgangen  
+
+ være større end grænserne i fig. 5.
+3.10. Falske indenbåndssignaler på kanaludgangen Med et sinussignal i området 700-1100 Hz (med undtagelse af submultipla af  
+
+ 8 kHz) og med et niveau på 0 dBm0 tilført kanalindgangen, skal niveauet på  
+
+ kanaludgangen ved enhver frekvens forskellig fra frekvensen af det tilførte  
+
+ signal, når der måles selektivt i området 300-3400 Hz, være mindre end -40  
+
+ dBm0.
+3.11. Forstærkningens afhængighed af indgangsniveauet Udstyret skal opfylde mindst eet af nedenstående to krav.
+ Krav 1:
+ Når et hvidstøjsignal med et niveau mellem -60 dBm0 og -10 dBm0 tilføres  
+
+ en kanalindgang, skal variationerne i forstærkningen i forhold til  
+
+ forstærkningen ved - 10 dBm0 ligge inden for grænserne i fig. 6a.
+ Desuden, når et sinussignal i frekvensområdet 700-1100 Hz (med undtagelse  
+
+ af submultipla af 8 kHz) bliver tilført kanalindgangen med et niveau mellem  
+
+ -10 dBm0 og +3 dBm0, skal variationen i forstærkningen i forhold til  
+
+ forstærkningen ved -10 dBm0 ligge inden for grænserne i fig. 6b.
+ Krav 2:
+ Når et sinussignal i frekvensområdet 700-1100 Hz (med undtagelse af  
+
+ submultipla af 8 kHz) bliver tilført kanalindgangen med et niveau mellem -55  
+
+ dBm0 og +3 dBm0, skal variationen i forstærkningen i forhold til  
+
+ forstærkningen ved -10 dBm0 ligge inden for grænserne i fig. 6c.
+3.12. Krydstale mellem kanalerne Når der tilføres et sinussignal i frekvensområdet 700-1100 Hz (med  
+
+ undtagelse af submultipla af 8 kHz) og med et niveau på 0 dBm0, skal  
+
+ krydstaleniveauet i en vilkårlig anden kanal være mindre end -65 dBm0.
+Når et hvidstøjsignal filtreret i overensstemmelse med CCITT anbefaling G.  
+
+ 227 bliver tilført indgangen på op til fire kanaler med et niveau på 0 dBm0,  
+
+ må krydstaleniveauet modtaget på en vilkårlig anden kanal ikke overstige -60  
+
+ dBm0p.
+Når flere kanaler tilføres signal, skal støjen være ukorreleret.
+3.13. Nærkrydstale Når man benytter et sinussignal i frekvensområdet 300-3400 Hz med et  
+
+ niveau på 0 dBm0, skal nærkrydstaledæmpningen mellem de to  
+
+ transmissionsretninger i en kanal være større end 60 dB.
+3.14. Forstyrrelse fra signalering Det maksimale støjniveau på en talekanal hidrørende fra signaleringen må  
+
+ ikke overstige -60 dBm0p, når der signaleres på samtlige signalkanaler.
+3.15. Relative effektniveauer på kanalindgang og kanaludgang De relative effektniveauer skal have følgende nominelle værdier:.
+Kanalindgang: -8 dBr Kanaludgang: +3,5 dBr 3.16. Korttids- og langtidsstabilitet Når der på en kanalindgang tilføres et tonefrekvent sinussignal med et  
+
+ niveau på 0 dBm0, må niveauet på den tilhørende kanaludgang ikke ændre sig  
+
+ mere end:
++/- 0,2 dB inden for 10 minutter +/- 0,5 dB inden for 30 døgn +/- 1 dB inden for 1 år.
+3.17. Tolerancer på kodningskurven Nøjagtigheden af sammenhængen mellem digitalt signal og taleniveau skal på  
+
+ såvel sende som modtagesiden være inden for grænserne +/- 0,3 dB.
+ 1. Modtagesiden skal overholde kravene som angivet i  
+
+ afsnit 2.4. med en tolerance på +/- 03dB.
+ 2. Sendesiden kan kontrolleres ved at forbinde  
+
+ udgangen til indgangen på en modtageside, som er justeret til nøjagtig at  
+
+ følge kodningskurven, og tilføre sendesidens kanalindgang et sinussignal på 1  
+
+ kHz +/- 20 Hz (der ikke må være et submultiplum af 8 kHz) med et niveau på 0  
+
+ dBm0. Niveauet af det resulterende sinussignal på modtagesidens kanaludgang  
+
+ skal da være 0 dBm0 +/- 0,3 dB.
+3. Overbelastningsgrænsen på sendesiden kan afprøves  
+
+ ved at tilføre dens kanalindgang et sinussignal med en frekvens på 1 kHz +/-  
+
+ 20 Hz (der ikke må være et submultiplum af 8 kHz). Signalniveauet skal i  
+
+ begyndelsen ligge et stykke under overbelastningsgrænsen og derefter langsomt  
+
+ forøges.
+Indgangsniveauet skal måles, når signalet svarende til højeste  
+
+ kvantiseringsniveau for såvel positive som negative værdier netop nås.  
+
+ Overbelastningsgrænsen er da 0,3 dB større end det målte indgangsniveau.
+Denne metode gør det muligt at kontrollere overbelastningsgrænsen for  
+
+ såvel positive som negative amplituder.
+De opnåede værdier skal ligge på  
+
+ +3,14 dBm0 +/- 0,3 dB.
+4. Specifikation for pcm-multipleksudstyr ved 2,048  
+
+ Mbit/s 4.1. Bithyppighed og taktsignal 4.1.1. Bithyppighed Bithyppigheden skal være 2,048 Mbit/s +/- 50 ppm (parts pr. million).
+4.1.2. Taktsignal Det skal være muligt at frembringe sendetaktsignalet i et  
+
+ pcm-multipleksudstyr fra enten en intern taktgenerator, fra det ankommende  
+
+ signal på modtagesiden eller fra et ydre taktsignal.
+4.2. Rammestruktur 4.2.1. Antal bit pr. kanalinterval 8, nummereret fra 1 til 8.
+ 4.2.2. Antal kanalintervaller pr. ramme.
+ 32, nummeret fra 0 til 31. Antallet af bit pr. ramme er 256, og  
+
+ repetitionsfrekvensen for rammen er 8000 Hz.
+4.2.3. Anvendelse af kanalintervaller Kanalintervallerne 1 til 15 og 17 til 31 er bestemt for 30 telefonkanaler  
+
+ nummereret fra 1 til 30. Dog skal mindst 2 af disse kanalintervaller kunne  
+
+ anvendes som 64 kbit/s datakanaler med kontradirektional grænseflade.  
+
+ Prioritetsrækkefølgen er: kanalinterval 6, 22, 14, 30, 2, 18, 10, 26, 4, 20,  
+
+ 12, 28, 8, 24, 5, 21, 13, 29, 1, 17, 9, 25, 3, 19, 11, 27, 7, 23, 15, 31.  
+
+ Kanalinterval 0 anvendes til rammelåsningsord og alarmoverføring som vist i  
+
+ tabel 3.
+ Kanalinterval 16 anvendes til signalering, f.eks. som beskrevet i spec.  
+
+ nr. 20 til dette cirkulære, eller til dataoverføring.
+ Note: Invetering af bit som omtalt i 2.3. pkt. 4 finder kun sted i  
+
+ talekanalintervaller.
+4.2.4. Rammelåsningsord Som det er vist i tabel 3, optager rammelåsningsordet bitpositionerne 2  
+
+ til 8 i kanalinterval 0 i hver anden ramme.
+ Rammelåsningsordet er: 0011011.
+ For at undgå imitation af rammelåsningsordet i bit 2 til 8 i kanalinterval  
+
+ 0 i de rammer, som ikke indeholder rammelåsningsordet, er bit 2 i disse  
+
+ kanalintervaller sat til 1.
+4.2.5. Tab og genvinding af rammelåsning Rammelåsningen anses for tabt, når 3 på hinanden følgende rammelåsningsord  
+
+ er blevet modtaget med fejl.
+ Rammelåsningen anses for genetableret, når der er konstateret følgende:
+ - Tilstedeværelse af korrekt rammelåsningsord.
+ - Udeblivelse af rammelåsningsordet i den følgende ramme detekteret ved,  
+
+ at bit nr. 2 i kanalinterval 0 er >>1<<.
+ - Tilstedeværelse af korrekt rammelåsningsord i den følgende ramme.
+ For at undgå, at der kan opstå en tilstand, hvor det ikke er muligt at  
+
+ opnå rammelåsning på grund af et imiteret rammelåsningsord, skal følgende  
+
+ procedure anvendes:
+Når tilstedeværelsen af et korrekt rammelåsningsord er detekteret i en  
+
+ ramme n, skal det kontrolleres, at ramme n + 1 ikke indeholder  
+
+ rammelåsningsord, og at ramme n + 2 gør det.
+Såfremt disse to betingelser  
+
+ eller blot den ene ikke er opfyldt, skal en ny søgning påbegyndes i ramme n +  
+
+ 2.
++++SKEMA+++ 4.3. Fejltilstande Multipleksudstyret skal kunne detektere følgende fejltilstande:
+ 1. Fejl i strømforsyning.
+2. Fejl i koder eller dekoder.
+Denne overvågning  
+
+ kræves kun, såfremt fejlen berører alle 30 kanaler.
+ Som et minimumskrav gælder, at denne fejl skal kunne erkendes, når i det  
+
+ mindste eet signalniveau i området -21 til -6 dBm0 medfører et  
+
+ signal-kvantiseringsstøjforhold i den lokale koder og dekoder, som er mere  
+
+ end 18 dB under niveauet, der er anbefalet i afsnit 3.9.
+ 3. Tab af indkommende 64 kbit/s signal i kanalinterval  
+
+ 16. Detektering af denne fejl er ikke obligatorisk, når taktsignalet udsendes  
+
+ fra pcm-udstyret.
+4. Tab af indkommende 2,048 Mbit/s signal.
+Detektering  
+
+ af denne fejl kræves kun, hvis den ikke automatisk medfører indikation for  
+
+ tab af rammelåsning.
+ 5. Tab af rammelåsning.
+ 6. For stor fejlhyppighed detekteret i  
+
+ rammelåsningsordet.
+ 7. Modtagelse af AIS på indgangen af demultiplekser.
+ Kriterier for indikation af fejltilstand:
+ Ved fejlhyppighed <= 10exp(-4) skal sandsynligheden for indikation af  
+
+ fejltilstand i løbet af 4-5 sekunder være mindre end 10exp(-6).
+ Ved fejlhyppighed >= 10exp(-3) skal sandsynligheden for indikation af  
+
+ fejltilstand i løbet af 4-5 sekunder være større end 0.95.
+ Kriterier for ophør af fejlindikation:
+ Ved fejlhyppighed >= 10exp(-3) skal sandsynligheden for ophør af  
+
+ fejlindikation i løbet af 4-5 sekunder være < 10exp(-6).
+ Ved fejlhyppighed <= 10exp(-4) skal sandsynligheden for ophør af  
+
+ fejlindikation i løbet af 4-5 sekunder være større end 0,95.
++++SKEMA+++ 4.4. Reaktioner ved fejldeteklering Ved detektering af en fejltilstand skal pcm udstyret reagere som vist i  
+
+ tabel 4. Placering og funktion af synlige og/eller hørbare alarmer overlades  
+
+ til hver enkelt administrations afgørelse.
+ 1. Tjenestealarmindikation betyder, at tjenesten  
+
+ fremført over pcm-multipleksudstyret ikke længere er tilgængelig.  
+
+ Alarmindikationen skal videresendes til signaleringsmultipleksudstyret.  
+
+ Alarmindikationen skal afgives senest 2 ms, efter at fejlen er detekteret.
+ Note: Sammenholdt med 4.2.5. svarer denne specifikation til, at  
+
+ gennemsnitstiden fra forekomst af en fejl til afgivelse af alarmindikation  
+
+ ikke overstiger 3 ms.
+ Når fælleskanalsignalering anvendes, skal denne alarmindikation sendes  
+
+ direkte til centraludstyret.
+2. Stor fejlalarmindikation betyder, at udstyret  
+
+ fungerer uacceptabelt, og at fejlretning er nødvendig lokalt.
+Ved detektering  
+
+ af AIS skal stor fejlalarmindikation i forbindelse med rammelåsningsfejl og  
+
+ for stor fejlhyppighed i det indkommende signal undertrykkes.
+3. Alarmindikation til udstyr i den fjerne ende  
+
+ foregår ved hjælp af bit i kanalinterval 0 i de rammer, som ikke indeholder  
+
+ rammelåsningsord.
+Fejltilstand indikeres ved ændring af de pågældende bit fra  
+
+ 0 til 1. Anvendelsen af disse alarmindikationsbit er ved indenlandske  
+
+ forbindelser, såfremt differentieret alarmoverføring ønskes, følgende:
+ Bit nr. 3 benyttes til indikation af tab af rammelåsning eller manglende  
+
+ indkommende 2,048 Mbit/s signal.
+ Bit nr. 4 benyttes til indikation af for stor fejlhyppighed i  
+
+ rammelåsningsordet.
+ Bit nr. 5 benyttes til indikation af fejl i koder eller dekoder.
+ Ved indenlandske forbindelser, hvor der ikke ønskes differentieret  
+
+ alarmoverføring, samt ved forbindelser, der går ud over landets grænser,  
+
+ benyttes kun bit nr. 3 til indikation af de nævnte fejltilstande, og de  
+
+ øvrige bit i kanalintervallet sættes til 1.
+ 4. Blokering af talekanaler betyder, at  
+
+ demultiplekserens analoge udgange blokeres.
+ 5. Udsendelse af AIS på 64 kbit/s udgang hørende til  
+
+ kanalinterval 16 betyder, at der afgives et signal, hvis binære indhold er en  
+
+ ubrudt række af >>1<<.
+ Dette skal finde sted senest 2 ms, efter at fejlen er detekteret.
+6. Udsendelse af AIS over kanalinterval 16 i det  
+
+ udsendte 2,048 Mbit/s signal.
+Dette skal finde sted senest 2 ms, efter at  
+
+ fejlen er detekteret.
+4.5. Tidskrav Hvor ikke andet er specificeret, gælder de angivne tidskrav for såvel  
+
+ alarmindikationens opståen som forsvinden.
+4.6. Detektering af AIS Strategien for detektering af AIS skal være således, at AIS kan detekteres  
+
+ selv ved en bitfejlhyppighed på 10exp(-3). Dog må et signal bestående af kun  
+
+ ettaller med undtagelse af rammelåsningsordet ikke opfattes som AIS.
+TELEFONTILSYNET Specifikation nr. 12 til 2. ORDENS DIGITALT MULTIPLEKSUDSTYR INDHOLDSFORTEGNELSE 1. Generelt I det følgende specificeres et 2. ordens digitalt multipleksudstyr, som  
+
+ anvender positiv udspærring.
+Udstyret skal benyttes ved multipleksering af 4  
+
+ stk. 1. ordens pcm-multiplekssignaler a 2,048 Mbit/s eller vilkårlige andre  
+
+ signaler, der overholder den samme specifikation for grænsefladen.
+2. Bithyppighed Den nominelle bithyppighed skal være 8,448 Mbit/s.
+Tolerancen på denne  
+
+ bithyppighed er +/- 30 ppm (parts per million).
+3. Multipleksmetode Der skal foretages cyklisk bitsammenfletning (bit interleaving) i  
+
+ nummerorden svarende til de 4 underordnede signalers nummerorden, og der skal  
+
+ anvendes positiv udspærring.
+ Styresignalet for udspærring skal være fordelt og skal benytte  
+
+ bitpositionerne Cjn (n = 1, 2, 3), se tabel 1. Positiv udspærring skal  
+
+ angives ved signalet 111, og ingen udspærring skal angives ved signalet 000.  
+
+ Flertalsafgørelse bestemmer, hvorvidt det modtagne signal skal opfattes som  
+
+ 111 hhv. 000.
+ I tabel 1 er anført maksimal udspærringshyppighed pr. underordnet signal  
+
+ samt nominelt udspærringsforhold.
+4. Rammestruktur I tabel 1 er anført rammestrukturen af et 8,448 Mbit/s signal med positiv  
+
+ udspærring.
+Rammen indeholder 848 bit opdelt i 4 grupper a 212 bit.
+Fig 1  
+
+ illustrerer rammestrukturen svarende til tabel 1.
+5. Tab og genvinding af rammelåsning Rammelåsningsstrategien skal i enhver henseende være mindst lige så  
+
+ effektiv som den strategi, der er beskrevet i det følgende.
+ Rammelåsning skal betragtes som tabt, når 4 konsekutive rammelåsningsord  
+
+ er modtaget med fejl på de forudbestemte positioner.
+ Forudsat at rammelåsningen er tabt, skal rammelåsningen betragtes som  
+
+ effektivt genvundet, når 3 konsekutive rammelåsningsord er korrekt modtaget.  
+
+ Hvis et enkelt rammelåsningsord er blevet detekteret, og rammelåsningsordet  
+
+ mangler i en af de to følgende rammer, skal ny søgning efter  
+
+ rammelåsningsordet startes.
+ (* 2) Cji angiver den i'te udspærringsstyrebit for de j'te underordnede  
+
+ signal.
+ Tabel 1:8,448 Mbit/s rammestruktur.
+6. Sitter I det følgende specificeres sitter for frekvenser større end fo (se note i  
+
+ fig. 2). I afsnit 6.1. specificeres overføringsfunktionen for sitter på 2,048  
+
+ Mbit/s niveau.
+Afsnit 6.2. omhandler udgangssitter for et underordnet signal,  
+
+ og afsnit 6.3. omhandler udgangssitter for det multiplekserede signal.
+6.1. Overføringsfunktion for sitter Et 2,048 Mbit/s signal, som moduleres med sinusformet sitter, og som  
+
+ successivt multiplekseres og demultiplekseres, skal overholde den i fig. 2  
+
+ anførte kurve.
+Det ækvivalente binære indhold af prøvesignalet skal være  
+
+ 1000.
+6.2. Udgangssitter på 2,048 Mbit/s signal Spids-spids værdien af sitter på et underordnet signals udgang må, når der  
+
+ ikke er sitter på indgangen, ikke overstige 0,25 UI målt i frekvensbåndet op  
+
+ til 100 kHz.
+UI = Unit Interval = 1 divideret med bithyppigheden.
+ Hvis måleopstillingen indeholder et båndpasfilter med en nedre  
+
+ grænsefrekvens på 18 kHz og en flankestejlhed på 20 dB pr. dekade samt en  
+
+ øvre grænse på 100 kHz, må spids-spids værdien af sitter ikke overstige 0,05  
+
+ UI med en sandsynlighed på 99,9% i løbet af en måleperiode på 10 s.
+ Figur 2: (Overføringsfunktion for sitter på 2,048 Mbit/s niveau).
+6.3. Udgangssitter på 8,448 Mbit/s signal Spids-spids værdien af sitter på 8,448 Mbit/s multipleksudstyrets udgang  
+
+ må ikke overstige 0,05 UI målt i frekvensbåndet 20 Hz til 400 kHz.
+7. Digitale grænseflader De digitale grænseflader ved 2,048 Mbit/s og 8,448 Mbit/s skal overholde  
+
+ kravene i specifikation 10 i dette cirkulære.
+8. Taktsignal Multiplekseren skal valgfrit kunne aflede sit taktsignal fra en ekstern  
+
+ eller en intern kilde.
+9. Alarmindikationsbit og frie bit Bit 11 i gruppe I (se tabel 1) anvendes til transmission af  
+
+ alarmindikation til 8,448 Mbit/s multipleksudstyr i den fjerne ende, når  
+
+ bestemte fejltilstande detekteres (se afsnit 10). Udstyret skal være  
+
+ forberedt for anvendelse af bit 12 i gruppe I.
+Når denne bitposition ikke  
+
+ anvendes, skal den sættes fast til »1«.
+10. Fejltilstande og deraf følgende aktioner I afsnit 10.1. er anført fejltilstande og i afsnit 10.2. de deraf følgende  
+
+ aktioner.
+Endelig er i afsnit 10.3. anført tidskrav til aktioner ved  
+
+ fejldetektering.
+10.1. fejltilstande Multipleksudstyret skal kunne detektere følgende fejltilstande:
+ 1. Fejl i strømforsyning.
+ 2. Tab af indkommende signal på en 2,048 Mbit/s  
+
+ indgang.
+3. Tab af indkommende 8,448 Mbit/ signal på indgangen  
+
+ af demultiplekseren.
+Detektering af denne fejl er kun nødvendig, hvis den  
+
+ ikke resulterer i indikation af tab af rammelåsning.
+ 4. Tab af rammelåsning.
+ 5. Alarmindikation modtaget på indgangen af  
+
+ demultiplekseren fra 8,448 Mbit/s multiplekseren i den fjerne ende (se afsnit  
+
+ 10.2.).
+ 6. Modtagelse af AIS på indgangen af 8,448 Mbit/s  
+
+ demultiplekseren.
+10.2. Reaktioner ved fejldetektering Ved detektering af en fejltilstand skal multipleksudstyret reagere som  
+
+ vist i tabel 2.
+ Placering og funktion af synlige og/eller hørbare alarmer overlades til  
+
+ hver enkelt administrations afgørelse.
+ Et ja i tabel 2 betyder, at en aktion skal iværksættes som funktion af den  
+
+ relevante fejltilstand.
+ Stor fejlalarmindikation betyder, at udstyret fungerer uacceptabelt, og at  
+
+ fejlretning er nødvendigt lokalt.
+ Alarmindikation til multipleksudstyr i den fjerne ende genereres ved  
+
+ ændring af bit 11 i gruppe I fra tilstand »0« til tilstand  
+
+ »1« på 8,448 Mbit/s udgangen af multiplekseren.
+ Fremgangsmåden - herunder udspærringen - ved udsendelse af AIS på udgangen  
+
+ af multiplekseren i de bitpositioner, der svarer til et fejlbehæftet  
+
+ underordnet signal, skal være således, at tolerancerne for det pågældende  
+
+ underordnede signals bithyppighed overholdes ved demultipleksering i den  
+
+ fjerne ende.
+ Bithyppigheden for AIS på udgangen af multiplekser og demultiplekser skal  
+
+ være i overensstemmelse med relevant grænsefladespecifikation.
+Det ækvivalente binære indhold af AIS ved 2,048 og 8,448 Mbit/s er  
+
+ nominelt en kontinuert strøm af »1«.
+Strategien for detektering af  
+
+ tilstedeværelsen af AIS skal være således, at AIS kan detekteres selv ved en  
+
+ bitfejlhyppighed på 10exp(-3). Dog må et signal, bestående af kun ettaller  
+
+ med undtagelse af rammelåsningsordet ikke opfattes som AIS.
+10.3. Tidskrav Fejldetektering samt udsendelse af alarmindikation og AIS skal ske i løbet  
+
+ af højst 1 ms.
+Samme tidskrav gælder ved ophør af fejltilstand.
+SKEMA (Tabel 2: Fejltilstande med tilhørende aktioner) TELEFONTILSYNET Specifikation nr. 13 til CIRKULÆRE NR. 30 3. ORDENS DIGITALT MULTIPLEKSUDSTYR INDHOLDSFORTEGNELSE 1. Generelt I det følgende specificeres et 3. ordens digitalt multipleksudstyr, som  
+
+ anvender positiv udspærring.
+Udstyret skal benyttes ved multipleksering af 4  
+
+ stk. 2. ordens pcm-multiplekssignaler a 8,448 Mbit/s eller vilkårlige andre  
+
+ signaler, der overholder den samme specifikation for grænsefladen 2. Bithyppighed Den nominelle bithyppighed skal være 34,368 Mbit/s.
+Tolerancen på denne  
+
+ bithyppighed er +/- 20 ppm (parts per million).
+3. Multipleksmetode Der skal foretages cyklisk bitsammenfletning (bit interleaving) i  
+
+ nummerorden svarende til de 4 underordnede signalers nummerorden, og der skal  
+
+ anvendes positiv udspærring.
+ Styresignalet for udspærring skal være fordelt og skal benytte  
+
+ bitpositionerne Cjn (n = 1, 2, 3), se tabel 1. Positiv udspærring skal  
+
+ angives ved signalet 111, og ingen udspærring skal angives ved signalet 000.  
+
+ Flertalsafgørelse bestemmer, hvorvidt det modtagne signal skal opfattes som  
+
+ 111 hhv. 000.
+ I tabel 1 er anført maksimal udspærringshyppighed pr. underordnet signal  
+
+ samt nominelt udspærringsforhold.
+4. Rammestruktur I tabel 1 er anført rammestrukturen af et 34,368 Mbit/s signal med positiv  
+
+ udspærring.
+Rammen indeholder 1536 bit opdelt i 4 grupper a 384 bit.
+Fig 1  
+
+ illustrerer rammestrukturen svarende til tabel 1.
+5. Tab og genvinding af rammelåsning Rammelåsningsstrategien skal i enhver henseende være mindst lige så  
+
+ effektiv som den strategi, der er beskrevet i det følgende.
+ Rammelåsning skal betragtes som tabt, når 4 konsekutive rammelåsningsord  
+
+ er modtaget med fejl på de forudbestemte positioner.
+Forudsat at rammelåsningen er tabt, skal rammelåsningen betragtes som  
+
+ effektivt genvundet, når 3 konsekutive rammelåsningsord er korrekt modtaget.
+Hvis et enkelt rammelåsningsord er blevet detekteret, og  
+
+ rammelåsningsordet mangler i en af de to følgende rammer, skal ny søgning  
+
+ efter rammelåsningsordet startes.
+ (* 3) Cji angiver den i'te udspærringsstyrebit for de j'te underordnede  
+
+ signal.
+ Tabel 1:34,368 Mbit/s rammestruktur.
+6. Sitter I det følgende specificeres sitter for frekvenser større end f0 (se note i  
+
+ fig. 2). I afsnit 6.1. specificeres overføringsfunktionen for sitter på 8,448  
+
+ Mbit/s niveau.
+Afsnit 6.2. omhandler udgangssitter for et underordnet signal,  
+
+ og afsnit 6.3. omhandler udgangssitter for det multiplekserede signal.
+6.1. Overføringsfunktion for sitter Et 8,448 Mbit/s signal, som moduleres med sinusformet sitter, og som  
+
+ successivt multiplekseres og demultiplekseres, skal overholde den i fig. 2  
+
+ anførte kurve.
+Det ækvivalente binære indhold af prøvesignalet skal være  
+
+ 1000.
+6.2. Udgangssitter på 8,448 Mbit/s signal Spids-spids værdien af sitter på et underordnet signals udgang må, når der  
+
+ ikke er sitter på indgangen, ikke overstige 0,25 UI målt i frekvensbåndet op  
+
+ til 400 kHz.
+UI = Unit Interval = 1 divideret med bithyppigheden.
+ Hvis måleopstillingen indeholder et båndpasfilter med en nedre  
+
+ grænsefrekvens på 80 kHz og en flankestejlhed på 20 dB pr. dekade samt en  
+
+ øvre grænse på 400 kHz, må spids-spids værdien af sitter ikke overstige 0,05  
+
+ UI med en sandsynlighed på 99,9% i løbet af en måleperiode på 10 s.
+Note: Hvis udgangen tilsluttes en grænseflade specificeret til højt Q,  
+
+ jvf. specifikation 10, skal den nedre grænsefrekvens for ovennævnte  
+
+ måleopstilling være 3 kHz SKEMA Fig 2:.
+6.3. Udgangssitter på 34,368 Mbit/s signal Spids-spids værdien af sitter på 34,368 Mbit/s multipleksudstyrets udgang  
+
+ må ikke overstige 0,05 UI målt i frekvensbåndet 100 Hz til 800 kHz.
+7. Digitale grænseflader De digitale grænseflader ved 8,448 Mbit/s og 34,368 Mbit/s skal overholde  
+
+ kravene i specifikation 10 i dette cirkulære.
+8. Taktsignal Multiplekseren skal valgfrit kunne aflede sit taktsignal fra en ekstern  
+
+ eller en intern kilde.
+9. Alarmindikationsbit og frie bit Bit 11 i gruppe I (se tabel 1) anvendes til transmission af  
+
+ alarmindikation til 34,368 Mbit/s multipleksudstyr i den fjerne ende, når  
+
+ bestemte fejltilstande detekteres (se afsnit 10). Udstyret skal være  
+
+ forberedt for anvendelse af bit 12 i gruppe I.
+Når denne bitposition ikke  
+
+ anvendes, skal den sættes fast til »1«.
+10. Fejltilstande og deraf følgende aktioner I afsnit 10.1. er anført fejltilstande og i afsnit 10.2. de deraf følgende  
+
+ aktioner.
+Endelig er i afsnit 10.3. anført tidskrav til aktioner ved  
+
+ fejldetektering.
+10.1. Fejltilstande Multipleksudstyret skal kunne detektere følgende fejltilstande:
+ 1. Fejl i strømforsyning.
+ 2. Tab af indkommende signal på en 8,448 Mbit/s  
+
+ indgang.
+3. Tab af indkommende 34,368 Mbit/s signal på  
+
+ indgangen af demultiplekseren.
+Detektering af denne fejl er kun nødvendig,  
+
+ hvis den ikke resulterer i indikation af tab af rammelåsning.
+ 4. Tab af rammelåsning.
+ 5. Alarmindikation modtaget på indgangen af  
+
+ demultiplekseren fra 34,368 Mbit/s multiplekseren i den fjerne ende (se  
+
+ afsnit 10.2.).
+ 6. Modtagelse af AIS på indgangen af 34,368 Mbit/s  
+
+ demultiplekseren.
+10.2. Reaktioner ved fejldetektering Ved detektering af en fejltilstand skal multipleksudstyret reagere som  
+
+ vist i tabel 2.
+ Placering og funktion af synlige og/eller hørbare alarmer overlades til  
+
+ hver enkelt administrations afgørelse.
+ Et ja i tabel 2 betyder, at en aktion skal iværksættes som funktion af den  
+
+ relevante fejltilstand.
+ Stor fejlalarmindikation betyder, at udstyret fungerer uacceptabelt, og at  
+
+ fejlretning er nødvendigt lokalt.
+ Alarmindikation til multipleksudstyr i den fjerne ende genereres ved  
+
+ ændring af bit 11 i gruppe I fra tilstand »0« til tilstand  
+
+ »1« på 34,368 Mbit/s udgangen af multiplekseren.
+ Fremgangsmåden - herunder udspærringen - ved udsendelse af AIS på udgangen  
+
+ af multiplekseren i de bitpositioner, der svarer til et fejlbehæftet  
+
+ underordnet signal, skal være således, at tolerancerne for det pågældende  
+
+ underordnede signals bithyppighed overholdes ved demultipleksering i den  
+
+ fjerne ende.
+ Bithyppigheden for AIS på udgangen af multiplekser og demultiplekser skal  
+
+ være i overensstemmelse med relevant grænsefladespecifikation.
+Det ækvivalente binære indhold af AIS ved 8,448 og 34,368 Mbit/s er  
+
+ nominelt en kontinuert strøm af »1«.
+Strategien for detektering af  
+
+ tilstedeværelsen af AIS skal være således, at AIS kan detekteres selv ved en  
+
+ bitfejlhyppighed på 10exp3. Dog må et signal, bestående af kun ettaller med  
+
+ undtagelse af rammelåsningsordet ikke opfattes som AIS.
+10.3. Tidskrav Fejldetektering samt udsendelse af alarmindikation og AIS skal ske i løbet  
+
+ af højst 1 ms.
+Samme tidskrav gælder ved ophør af fejltilstand.
+TELEFONTILSYNET Specifikation nr. 14 til CIRKULÆRE NR. 30 4. ORDENS DIGITALT MULTIPLEKSUDSTYR INDHOLDSFORTEGNELSE Side 1. Generelt I det følgende specificeres et 4. ordens digitalt multipleksudstyr, som  
+
+ anvender positiv udspærring.
+Udstyret skal benyttes ved multipleksering af 4  
+
+ stk. 3. ordens pcm-multiplekssignaler a 34,368 Mbit/s eller vilkårlige andre  
+
+ signaler, der overholder den samme specifikation for grænsefladen.
+2. Bithyppighed Den nominelle bithyppighed skal være 139,264 Mbit/s.
+Tolerancen på denne  
+
+ bithyppighed er +/- 15 ppm (parts per million).
+3. Multipleksmetode Der skal foretages cyklisk bitsammenfletning (bit interleaving) i  
+
+ nummerorden svarende til de 4 underordnede signalers nummerorden, og der skal  
+
+ anvendes positiv udspærring.
+ Styresignalet for udspærring skal være fordelt og skal benytte  
+
+ bitpositionerne Cjn (n = 1, 2, 3, 4, 5), se tabel 1. Positiv udspærring skal  
+
+ angives ved signalet 11111, og ingen udspærring skal angives ved signalet  
+
+ 00000. Flertalsafgørelse bestemmer, hvorvidt det modtagne signal skal  
+
+ opfattes som 11111 hhv. 00000.
+ I tabel 1 er anført maksimal udspærringshyppighed pr. underordnet signal  
+
+ samt nominelt udspærringsforhold.
+4. Rammestruktur I tabel 1 er anført rammestrukturen af et 139,264 Mbit/s signal med  
+
+ positiv udspærring.
+Rammen indeholder 2928 bit opdelt i 6 grupper a 488 bit.  
+
+ Fig 1 illustrerer rammestrukturen svarende til tabel 1.
+ (* 4) Cji angiver den i'te udspærringsstyrebit for de j'te underordnede  
+
+ signal.
+ Tabel 1:139,264 Mbit/s rammestruktur.
+5. Tab og genvinding af rammelåsning Rammelåsningsstrategien skal i enhver henseende være mindst lige så  
+
+ effektiv som den strategi, der er beskrevet i det følgende.
+ Rammelåsning skal betragtes som tabt, når 4 konsekutive rammelåsningsord  
+
+ er modtaget med fejl på de forudbestemte positioner.
+ Forudsat at rammelåsningen er tabt, skal rammelåsningen betragtes som  
+
+ effektivt genvundet, når 3 konsekutive rammelåsningsord er korrekt modtaget.  
+
+ Hvis et enkelt rammelåsningsord er blevet detekteret, og rammelåsningsordet  
+
+ mangler i en af de to følgende rammer, skal ny søgning efter  
+
+ rammelåsningsordet startes.
+6. Sitter I det følgende specificeres sitter for frekvenser større end f0 (se note i  
+
+ fig. 2). I afsnit 6.1. speciflceres overføringsfunktionen for sitter på  
+
+ 34,368 Mbit/s niveau.
+Afsnit 6.2. omhandler udgangssitter for et underordnet  
+
+ signal, og afsnit 6.3. omhandler udgangssitter for det multiplekserede  
+
+ signal.
+6.1.Overføringsfunktion for sitter Et 34,368 Mbit/s signal, som moduleres med sinusformet sitter, og som  
+
+ successivt multiplekseres og demultiplekseres, skal overholde den i fig. 2  
+
+ anførte kurve.
+Det ækvivalente binære indhold af prøvesignalet skal være  
+
+ 1000.
+6.2. Udgangssitter på 34,368 Mbit/s signal Spids-spids værdien af sitter på et underordnet signals udgang må, når der  
+
+ ikke er sitter på indgangen, ikke overstige 0,3 UI målt i frekvensbåndet op  
+
+ til 800 kHz.
+UI = Unit Interval = 1 divideret med bithyppigheden.
+ Hvis måleopstillingen indeholder et båndpasfilter med en nedre  
+
+ grænsefrekvens på 10 kHz og en flankestejlhed på 20 dB pr. dekade samt en  
+
+ øvre grænse på 800 kHz, må spids-spids værdien af sitter ikke overstige 0,05  
+
+ UI med en sandsynlighed på 99,9% i løbet af en måleperiode på 10 s.
+6.3. Udgangssitter på 139,264 Mbit/s signal Spids-spids værdien af sitter på 139,264 Mbit/s multipleksudstyrets udgang  
+
+ må ikke overstige 0,05 UI målt i frekvensbåndet 200 Hz til 3500 kHz.
+7. Digitale grænseflader De digitale grænseflader ved 34,368 Mbit/s og 139,264 Mbit/s skal  
+
+ overholde kravene i specifikation 10 i dette cirkulære.
+8. Taktsignal Multiplekseren skal valgfrit kunne aflede sit taktsignal fra en ekstern  
+
+ eller en intern kilde.
+9. Alarmindikationsbit og frie bit Bit 13 i gruppe I (se tabel 1) anvendes til transmission af  
+
+ alarmindikation til 139,264 Mbit/s multipleksudstyr i den fjerne ende, når  
+
+ bestemte fejltilstande detekteres (se afsnit 10). Udstyret skal være  
+
+ forberedt for anvendelse af bit 14-16 i gruppe I.
+Når disse bitpositioner  
+
+ ikke anvendes, skal de sættes fast til »1«.
+10. Fejltilstande og deraf følgende aktioner I afsnit 10.1. er anført fejltilstande og i afsnit 10.2. de deraf følgende  
+
+ aktioner.
+Endelig er i afsnit 10.3. anført tidskrav til aktioner ved  
+
+ fejldetektering.
+10.1. Fejltilstande Multipleksudstyret skal kunne detektere følgende fejltilstande:
+ 1. Fejl i strømforsyning.
+ 2. Tab af indkommende signal på en 34,368 Mbit/s  
+
+ indgang.
+3. Tab af indkommende 139,264 Mbit/ signal på  
+
+ indgangen af demultiplekseren.
+Detektering af denne fejl er kun nødvendig,  
+
+ hvis den ikke resulterer i indikation af tab af rammelåsning.
+ 4. Tab af rammelåsning.
+ 5. Alarmindikation modtaget på indgangen af  
+
+ demultiplekseren fra 139,264 Mbit/s multiplekseren i den fjerne ende (se  
+
+ afsnit 10.2.).
+ 6. Modtagelse af AIS på indgangen af 139,264 Mbit/s  
+
+ demultiplekseren.
+10.2. Reaktioner ved fejldetektering Ved detektering af en fejltilstand skal multipleksudstyret reagere som  
+
+ vist i tabel 2.
+ Placering og funktion af synlige og/eller hørbare alarmer overlades til  
+
+ hver enkelt administrations afgørelse.
+ Et ja i tabel 2 betyder, at en aktion skal iværksættes som funktion af den  
+
+ relevante fejltilstand.
+ Stor fejlalarmindikation betyder, at udstyret fungerer uacceptabelt, og at  
+
+ fejlretning er nødvendigt lokalt.
+ Alarmindikation til multipleksudstyr i den fjerne ende genereres ved  
+
+ ændring af bit 13 i gruppe I fra tilstand »0« til tilstand  
+
+ »1« på 139,264 Mbit/s udgangen af multiplekseren.
+ Fremgangsmåden - herunder udspærringen - ved udsendelse af AIS på udgangen  
+
+ af multiplekseren i de bitpositioner, der svarer til et fejlbehæftet  
+
+ underordnet signal, skal være således, at tolerancerne for det pågældende  
+
+ underordnede signals bithyppighed overholdes ved demultipleksering i den  
+
+ fjerne ende.
+ Bithyppigheden for AIS på udgangen af multiplekser og demultiplekser skal  
+
+ være i overensstemmelse med relevant grænsefladespecifikation.
+Det ækvivalente binære indhold af AIS ved 34,368 og 139,264 Mbit/s er  
+
+ nominelt en kontinuert strøm af »1«.
+Strategien for detektering af  
+
+ tilstedeværelsen af AIS skal være således, at AIS kan detekteres selv ved en  
+
+ bitfejlhyppighed på 10exp3. Dog må et signal, bestående af kun ettaller med  
+
+ undtagelse af rammelåsningsordet ikke opfattes som AIS.
+10.3. Tidskrav Fejldetektering samt udsendelse af alarmindikation og AIS skal ske i løbet  
+
+ af højst 1 ms.
+Samme tidskrav gælder ved ophør af fejltilstand.
+TELEFONTILSYNET Specifikation nr. 20 til CIRKULÆRE NR. 30 E/M-SIGNALMULTIPLEKSUDSTYR INDHOLDSFORTEGNELSE 1. Generelt Ved kanalassocieret e/m-signalering har signalmultiplekseren til opgave at  
+
+ omforme signaleringen, hørende til 30 telekanaler, til en bitstrøm der  
+
+ overføres i kanalinterval 16 ramme 1 til 15.
+ Signalmultiplekseren kan være en separat enhed eller være integreret i  
+
+ pcm-multiplekseren.
+ Hvis signalmultiplekseren er en separat enhed skal grænsefladen mellem  
+
+ signal- og pcm-multiplekser være en 64 kbit/s kontradirektionel grænseflade  
+
+ (jfr. cirkulære 30 spec. 10).
+ Hvis signalmultiplekseren er elektrisk og mekanisk integreret i pcm-  
+
+ multiplekseren kræves ingen tilgængelig grænseflade mellem disse to  
+
+ udstyrsdele.
+ Til hver talekanal hører der 4 signalkanaler, der betegnes a, b, c og d.  
+
+ Hver signalkanal har en overføringshastighed på 500 bit/s.
+ Udvekslingen af signaler mellem central og transmissionsudstyr kan foregå  
+
+ som skitseret i fig. 1. Signaleringsretningen fra central til  
+
+ transmissionsudstyr kaldes senderetningen (m = mouth), og  
+
+ signaleringsretningen fra transmissionsudstyr til central ka1des  
+
+ modtageretningen (e = ear). Signalinformationen i de to retninger udveksles  
+
+ generelt imellem en signalkontakt og et signalrelæ.
+SKEMA Specifikationskrav til signalkontakt og signalrelæ fremgår af TU-  
+
+ cirkulære nr. 31.
+2. E/M-Signalmultipleksudstyr ved 64 kbit/s 64 kbit/s grænsefladen mellem signalmultiplekser og pcm-multiplekser er  
+
+ specificeret i Cirkulære 30 spec. 10 »Digitale grænseflader«,  
+
+ afsnit 2.3.
+ Ved anvendelse af kanalassocieret e/m-signalering udgør hver af de 4  
+
+ mulige 500 bit/s signalkanaler en informationskanal, der overfører såvel  
+
+ slutter hhv. åben kontakt fra sendende central som sluttet hhv. åben kontakt  
+
+ til modtagende central jfr. fig 2.
+SKEMA figur 2: Princip for e/m-signalering med 4 signalkanaler.
+2.1 I.
+Struktur af multiramme En multiramme består af 16 på hinanden følgende 30-kanal pcm-rammer (jfr.  
+
+ Cirkulære 30 spec. 11), og disse rammer er nummereret fra 0 til 15.
+ Multirammelåsningsordet er 0000, som er placeret i bit position 1-4 i  
+
+ kanalinterval 16 i ramme 0.
+2.2. Allokering af bit i multiramme Med multirammelåsningsordet som reference fremgår bit-allokeringen af  
+
+ tabel 1.
+ Tabel 1: Bit-allokering i multiramme.
+Bit 5, 7 og 8 i ramme 0 mærket »x« skal være forberedt for  
+
+ anvendelse med en e/m-grænseflade til eksternt udstyr.
+Anvendes bit 5, 7 og 8  
+
+ i ramme 0 ikke, skal de sættes til'»l«».
+ Bit 6 i ramme 0 mærket »y« anvendes til overføring af indikation  
+
+ for multirammelåsningsfejl m.m. jfr. afsnit 2.5.
+ Når signalkanal b, c og d ikke anvendes, skal de sættes til  
+
+ b=»l«, c=»0« og d=1'.
+ Af hensyn til sikker genvinding af multirammelåsning må signalkanalerne  
+
+ tilhørende talekanal l-15 ikke anvende signal-bit-kombinationen 0000.
+ 2.3. Sammenhæng mellem kontaktstilling og liniesignal.
+ Indholdet af bit-positionerne for signalkanal a-d svarende til sluttet  
+
+ hhv. åben kontakt fremgår af tabel 2.
+ Tabel 2: Sammenhæng mellem kontaktstillingen og bit-indhold.
+2.4. Tab og genvinding af multirammelåsning Multirammelåsning skal betragtes som tabt, når 2 på hinanden følgende  
+
+ multirammelåsningsord er modtaget med fejl, eller alle bit i kanalinterval 16  
+
+ har været »0« i en periode på en multiramme.
+ Multirammelåsning skal betragtes som genvundet, når et korrekt  
+
+ multirammelåsningsord er detekteret, og der mindst findes en bit-position  
+
+ indeholdende »l« i det netop forudgående kanalinterval 16.
+2.5. Fejltilstande og deraf følgende aktioner Signalmultipleksudstyret skal detektere følgende fejltilstande:
+ 1. Fejl i strømforsyning.
+2. Tab af indkommende 64 kbit/s-signal på indgangen af  
+
+ signaldemultiplekseren.
+Dette gælder, hvis enten informationssignal eller  
+
+ taktsignal eller begge signaler tabes.
+ 3. Tab af multirammelåsning.
+ 4. Alarmindikation modtaget fra signalmultipleksudstyr  
+
+ i den fjerne ende.
+ 5. Modtagelse af tjenestealarm-indikation fra  
+
+ multipleksudstyr.
+ 6. Modtagelse af AIS fra pcm-multipleksudstyret.
+ Ved detektering af en fejltilstand skal signalmultipleksudstyret reagere  
+
+ som vist i tabel 3. Placering og funktion af synlige og/eller hørbare alarmer  
+
+ overlades til hver enkelt administrations afgørelse.
+ Fejlalarmindikation betyder, at udstyret fungerer uacceptabelt, og at  
+
+ fejlretning er nødvendig lokalt.
+ Alarmindikation til signalmultipleksudstyr i den fjerne ende, sker ved at  
+
+ bit 6 i kanalinterval 16 ramme 0 ændres fra tilstand »0« til  
+
+ tilstand »1«.
+2.6. Tidskrav Tjeneste-alarm-indikation skal kunne afgives som et vedvarende elektrisk  
+
+ signal i løbet af højst 1 ms.
+ Påtrykning af tilstanden svarende til »l« på alle  
+
+ signalmodtagekanaler skal ske så hurtigt som muligt og ikke senere end 3 ms  
+
+ efter at en fejltilstand er detekteret.
+ Bit 6 i kanalinterval 16 ramme 0 »1«-stilles i påkommende  
+
+ tilfælde i løbet af højst 1 ms.
+ Alle tidskrav gælder enslydende ved såvel fejltilstandens opståen som  
+
+ forsvinden.
+3. Signalforvrængning Ved sløjfekobling af det til e/m-signalmultipleksudstyret hørende  
+
+ pcm-multipleksudstyr i 2 Mbit/s grænsefladen gælder følgende specifikationer  
+
+ regnet fra og til udstyrets fysiske afgrænsning (multistik på printkort el.  
+
+ lign.).
+ 1. Maksimal tilladelig signalforsinkelse: 4 ms.
+ 2. Maksimal tilladelig impulsforvrængning: +/- 4 ms.
+3. Maksimal tilladelig samtidighedsforvrænning: +/- 3  
+
+ ms.
+Dette krav gælder for to signalkanaler allokeret samme pcm-telekanal for  
+
+ såvel overgangen åben-sluttet som overgangen sluttet-åben kontakt.
+(* 1) I konsekvens af ændret arbejdsdeling på telekommunikationsområdet pr. 1.1.1991 ophæves cirkulæret som statslig forskrift, idet ansvaret for disse bestemmelser, der vedrører interne forhold i Tele Danmark A/S, er overgået til dette selskab.
+ (* 2) Cji angiver den i'te udspærringsstyrebit for det j'te underordnede  
+
+ signal.
+ (* 3) Cji angiver den i'te udspærringsstyrebit for det j'te underordnede  
+
+ signal.
+ (* 4) Cji angiver den i'te udspærringsstyrebit for det j'te underordnede  
+
+ signal.

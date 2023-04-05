@@ -1,0 +1,28 @@
+Supplerende varme, felt 239 Der indføres en ny kodeværdi 8: »Bygningen har ikke supplerende  
+
+ varmeinstallation«.
+ det samlede sæt af kodeværdier i dette felt er herefter:
+1 - Varmepumpe 2 - Brændeovn (fast brændsel) 3 - Ovn (flydende brændsel, gas eller el) 4 - Solpaneler 8 - Bygningen har ikke supplerende varmeinstallation 9 - Andet Når kode 8 er udfyldt, bliver udskriften på ejermeddelelsen:  
+
+ »Bygningen har ikke supplerende varmeinstallation«.
+ Hvis kode for varmeinstallation (felt 229) er 9 lig med ingen  
+
+ varmeinstallation, og kode for supplerende varme (felt 239) er udfyldt,  
+
+ undertrykkes teksten fra felt 229:
+ »Ingen varmeinstallation«.
+ Kode i notatlinie 17, supplerende oplysninger om energi- og  
+
+ varmeinstallationsforhold og notatlinie 18, supplerende oplysninger om  
+
+ opvarmningsmiddel udskrives som ved ejerlejligheder ved alle redigeringer af  
+
+ ejermeddelelser, samt på lejemeddelelsen i TP-systemet.
+Notatlinie 19, ejendomsnummer for lejet grund vil blive udskrevet på  
+
+ ejermeddelelsen med følgende tekst: »Lejet grund  
+
+ ejendomsnr.:...............« Arealet i kælderetagen og tagetager for ejerlejligheder indberettes som  
+
+ hidtil.
+ Ovenstående ændringer træder i kraft fra Oktober-ajourføringen.

@@ -1,0 +1,240 @@
+Vejledning om budgettering og budget- og regnskabsopfølgning Vejledning til Projekt god økonomistyring i den offentlige sektor December 2011 1 Indledning For alle hovedkonti givet under typerne driftsbevilling og statsvirksomhed, anlægsbevilling og reservationsbevilling1) gælder fra 1. januar 2012 nye krav til budgettering og opfølgning, jf.
+Cirkulære om budgettering og budget- og regnskabsopfølgning.
+Denne vejledning fastsætter retningslinjer for, hvordan kravene skal forstås, og hvordan de skal implementeres.
+Det gælder afklaring af begreber og fastlæggelse af formater til afrapportering.
+Derudover beskriver vejledningen, hvordan de nye krav systemunderstøttes.
+1.1 Målgruppe for vejledningen Denne vejledning henvender sig til økonomifunktionen i virksomhederne og i departementerne, som i fællesskab skal implementere kravene, herunder foretage regelmæssige budget- og regnskabsopfølgninger, udarbejde det periodiserede grundbudget, udarbejde periodiserede prognoser og foretage afvigelsesforklaringer i forbindelse med budget- og regnskabsopfølgninger.
+1.2 Formålet med de nye krav Der er i regi af Finansministeriet iværksat Projekt god økonomistyring.
+Projektet arbejder i retning af et ambitiøst målbillede for god økonomistyring i hele den offentlige sektor i 2015. Det er målet, at der for virksomheder og departementer opnås præcis viden om, hvad vi får for pengene, og hvor god effektiviteten i opgavevaretagelsen er.
+Det er ambitionen at styrke grundlaget for, at regeringen og offentlige ledere kan foretage klare prioriteringer og effektivisere opgavevaretagelsen på et oplyst og gennemsigtigt grundlag.
+Det er endvidere målet at styrke grundlaget for at foretage præcise forbrugsprognoser.
+Et stærkere fokus på virksomhedernes budgettering og budget- og regnskabsopfølgning og en tydeliggørelse af departementers opgaver i forhold til den tværgående koncernstyring vil kunne bidrage til at indfri denne målsætning.
+Med kravene i Cirkulære om budgettering og budget- og regnskabsopfølgning tages de første skridt i retning af realisering af målbilledet for 2015. Kravene er udarbejdet med afsæt i omfattende analyser af økonomistyringen i 12 statslige virksomheder.
+Derudover har kravene været behandlet i nedsatte følgegrupper med bred deltagelse af departementer og virksomheder.
+De opstillede krav og igangsættelsen af Projekt god økonomistyring skal endvidere ses i lyset af, at der i forvejen blandt departementer og virksomheder er fokus på god økonomistyring.
+Kravene i Cirkulære om budgettering og budget- og regnskabsopfølgning vil således for mange virksomheder helt eller delvist være en videreførelse af den eksisterende styringspraksis.
+ Der vil frem mod 2015 blive foretaget en gradvis indfasning af nye krav på statens område i retning af målbilledet for god økonomistyring.
+ Der kan på tværs af kravene i Cirkulære om budgettering og budget- og regnskabsopfølgning identificeres tre overordnede temaer:
+ Fælles talgrundlag og budgetgennemsigtighed.
+Budgetter indlæses som noget nyt i SKS forud for årets begyndelse.
+Budgetterne indlæses i SKS i form af et grundbudget, som på et helt aggregeret niveau skal afspejle virksomhedens interne budget.
+Dermed foreligger der en fast opfølgningsramme for bl.a. rammeredegørelserne.
+ Periodisering.
+Grundbudgettet og prognoser for årets forbrug skal periodiseres på måneder eller kvartaler afhængigt af bevillingstype, så der etableres større budgetgennemsigtighed og et præcist grundlag for gennemførelse af budget- og regnskabsopfølgning og identifikation af afvigelser mellem budget og forbrug.
+Dette medfører, at det interne budget skal periodiseres.
+ Faste kadencer for budget- og regnskabsopfølgning med fokus på afvigelsesforklaringer.
+Der indføres faste kadencer for virksomhedernes interne budget- og regnskabsopfølgning og for departementernes koncernopfølgninger.
+Derudover indføres en ekstra rammeredegørelse umiddelbart efter sommerferien.
+Det er et krav, at opfølgningerne skal have fokus på at forklare årsager til afvigelser mellem bl.a. det periodiserede budget og det aktuelle forbrug.
+1.3 De nye krav fordelt på bevillingstyper Følgende bevillingstyper er omfattet af kravene i Cirkulære om budgettering og budget- og regnskabsopfølgning:
+ Driftsbevilling og statsvirksomhed  Anlægsbevilling  Reservationsbevilling (med udgifts- eller indtægtsbevilling på 10 mio. kr. eller derover) Kravene i cirkulæret er opdelt i to kapitler:
+1. Kravene i cirkulærets kapitel 2 retter sig mod et fælles talgrundlag for virksomhedernes budgettering.
+Her indgår krav til udarbejdelse af grundbudgetter og prognoser samt periodisering af disse.
+2. Krav i cirkulærets kapitel 3 retter sig mod budget- og regnskabsopfølgningen.
+Her præsenteres krav til udarbejdelse af afvigelsesforklaringer i budget- og regnskabsopfølgningerne samt kadencer og tidsfrister for virksomhedernes interne opfølgning, departementernes koncernopfølgning samt for opfølgningen i rammeredegørelserne til Finansministeriet.
+Kravene i Cirkulære om budgettering og budget- og regnskabsopfølgning gælder ikke for bevillingstyperne anden bevilling, lovbunden bevilling og statsfinansieret selvejende institution.
+Der vil for disse bevillingstyper gælde uændrede krav til virksomhedernes interne budget- og regnskabsopfølgning, departementernes koncernopfølgning og udarbejdelse af rammeredegørelser til Finansministeriet.
+Det vil dog berøre alle bevillingstyper, at:
+  Der indføres en ekstra rammeredegørelse efter 2. kvartal.
+  De tre årlige rammeredegørelser til Finansministeriet har frist den 24. i måneden efter kvartalet  på nær efter 2. kvartal, som har frist den 24. august.
+ Økonomiservicecentret (ØSC) i Statens Administrations servicemål for bogføring forkortes, så de månedlige regnskaber i Navision Stat lukkes efter tre arbejdsdage i den efterfølgende måned.
+Ligeledes fremsendes regnskabserklæringen 10 dage tidligere end hidtil.
+1.4 Sammenhæng mellem grundbudget, prognose og det interne budget Der indføres i Cirkulære om budgettering og budget- og regnskabsopfølgning det nye begreb grundbudget.
+Grundbudgettet indføres med henblik på at sikre en fælles opfølgningsramme på tværs af alle virksomheder i staten i forbindelse med opfølgningen i rammeredegørelserne.
+Grundbudgettet skal udarbejdes på et meget aggregeret budgetniveau, således at grundbudgettet udgør en aggregeret afspejling af det mere detaljerede interne budget.
+Dette skal ses i lyset af, at budgetteringspraksis og styringsmæssige udfordringer varierer betydeligt på tværs af de statslige virksomheder.
+Dette indebærer også, at opfølgningen på grundbudgettet i regi af rammeredegørelserne vil foregå på et aggregeret niveau.
+Grundbudgettet udgør ankerbudgettet for året.
+I forbindelse med rammeredegørelserne vil der skulle udarbejdes en ny periodiseret prognose for den resterende del af årets forbrug.
+Det er således i den nye prognose  og ikke i grundbudgettet -, at eventuelle ændrede forudsætninger om fx aktivitetsniveau som følge af en tillægsbevilling vil skulle indarbejdes.
+ Kravene til grundbudgettet vil rammesætte den interne økonomistyring på følgende fire områder:
+ 1. Der vil skulle foretages en periodisering af det interne budget, som vil kunne understøtte kravet om periodisering af det aggregerede grundbudget.
+2. Det interne budget skal opbygges på en sådan måde, at der kan foretages reelle afvigelsesforklaringer mellem budget og forbrug.
+Interne budgetter på et meget aggregeret detaljeringsniveau vil således ikke muliggøre, at afvigelser kan isoleres, og der systematisk kan identificeres afvigelsesforklaringer.
+ 3. Det interne budget skal være udarbejdet tidsnok til at ligge til grund for grundbudgettet med tidsfristen for indlæsning i SKS.
+4. Prognosticering af årets resterende forbrug skal periodiseres på linje med principperne for periodisering af det interne budget.
+Dette vil tilsvarende medføre, at den interne prognose vil skulle periodiseres.
+ Det er op til departementerne og virksomhederne at fastlægge principper for periodisering og udarbejdelse af budgetstrukturer i den interne styring, der muliggør en målrettet opfølgning på afvigelser mellem forbrug og budget.
+2 Krav og begreber 2.1 Grundbudget 2.1.1 Krav til budgetteringen Driftsbevilling og statsvirksomhed Virksomheden skal udarbejde et grundbudget for hver hovedkonto fordelt på løn, øvrige udgifter og indtægter og periodiseret på måneder.
+Anlægsbevilling Virksomheden skal udarbejde et grundbudget for hver hovedkonto fordelt på udgifter og indtægter og periodiseret på kvartaler.
+Reservationsbevilling med udgiftsbevilling eller indtægtsbevilling på 10 mio. kr. eller derover Virksomheden skal udarbejde et grundbudget for hver hovedkonto fordelt på udgifter og indtægter samt periodiseret på måneder.
+Undtagelse gældende for reserver og budgetreguleringer Hovedkonti, der udelukkende er budgetteret på standardkonto 49 Reserver og budgetregulering, er undtaget fra kravet om udarbejdelse af grundbudget, idet der ikke foretages regnskabsmæssige posteringer på disse konti.
+2.1.2 Hvad er et grundbudget, og hvordan skal det udarbejdes? Grundbudgettet skal fordeles på de budgetposter, der er specificeret for hver bevillingstype.
+Grundbudgettet skal godkendes af departementet og indlæses i SKS inden finansårets begyndelse  dog senest den 1. marts 2012 for finansåret 2012.
+Budgetposter i grundbudgettet for hver hovedkonto skal periodiseres svarende til reglerne for hver bevillingstype.
+Tabel 1-3 viser formatet for et grundbudget for henholdsvis en driftsbevilling, en anlægsbevilling og en reservationsbevilling.
+Grundbudgettet skal omfatte årets samlede budgetterede udgifter for hovedkontoen, herunder også eventuelt forventet forbrug af videreførelser2) eller udnyttelse af udsvingsgrænse.
+Grundbudgettet kan dermed overstige eller ligge under årets bevilling for hovedkontoen, dog altid inden for de rammer, som Finansloven og Budgetvejledningen fastlægger for bevillingsanvendelsen.
+ Det bemærkes, at budgetteringen af indtægtssiden i grundbudgettet ikke omfatter indtægtsført bevilling3). Dette ligger i forlængelse af det eksisterende princip i rammeredegørelserne, hvor forbrug og prognoser ligeledes opgøres uden indtægtsført bevilling.
+Grundbudgettet er et ankerbudget og kan ikke revideres i løbet af året.
+Ved hver rammeredegørelse skal der udarbejdes en opdateret prognose på samme niveau som grundbudgettet.
+I den opdaterede prognose vil nye budgetteringsforudsætninger i forhold til grundbudgettet kunne indarbejdes, således at den opdaterede prognose træder i stedet for grundbudgettet.
+Grundbudgettet vil dermed først og fremmest blive anvendt til en opfølgning på det realiserede forbrug i forbindelse med rammeredegørelse 1.
+Grundbudgettet skal udarbejdes på grundlag af virksomhedens interne budget for hovedkontoen, så grundbudgettet afspejler det interne budget på aggregeret niveau.
+Tabel 4 viser et eksempel på, hvordan udvalgte budgetposter på en driftsbevilling aggregeres til grundbudget, før der er foretaget periodisering.
+2.2 Prognose 2.2.1 Krav til prognose Som led i den kvartalsvise koncernopfølgning og i den efterfølgende udarbejdelse af rammeredegørelsen udarbejdes en periodiseret prognose for det forventede forbrug for resten af året.
+Prognosen skal udarbejdes på samme niveau og efter samme principper som grundbudgettet.
+Prognosen skal indlæses i SKS efter samme principper som indlæsningen af grundbudgettet.
+2.2.2 Hvad er en prognose, og hvornår skal den revideres? Der skal udarbejdes tre opdaterede prognoser årligt  en ny efter hvert af årets tre første kvartaler.
+Prognosen udgør den nye forbrugsvurdering for resten af året og vil reflektere eventuelle ændringer i budgetteringsforudsætningerne.
+Det kunne fx vedrøre et ændret aktivitetsniveau som følge af en tillægsbevilling.
+I departementernes kvartalsvise koncernopfølgning og i rammeredegørelserne vil de opdaterede prognoser derfor erstatte grundbudgettet som det aktuelle opfølgningsgrundlag.
+Grundbudgettet erstattes således efter 1. kvartal af prognose 1, som vil udgøre opfølgningsgrundlaget for regnskabet for 2. kvartal.
+Prognoserne udarbejdes for budgetposterne på grundbudgetniveau på hver hovedkonto for den resterende del af året.
+Disse periodiseres i lighed med grundbudgettet.
+Ligesom grundbudgettet afspejler et mere detaljeret internt budget, vil den periodiserede prognose i rammeredegørelsen afspejle en intern prognose på et mere detaljeret niveau.
+Der indgår ikke formkrav til den interne prognose, men kravet om en periodiseret prognose i rammeredegørelsen vil rammesætte principperne for den interne prognosticering.
+Virksomhedens udarbejdelse af en opdateret prognose skal ske i forbindelse med departementets kvartalsvise koncernopfølgning, jf. afsnit 2.5.3. Fristen for indlæsning af prognosen i SKS er ved afleveringsfristen for rammeredegørelse til Finansministeriet.
+Den prognose, der er indlæst ved rammeredegørelserne, kan ikke overskrives med opdaterede versioner i SKS i løbet af kvartalet, selvom virksomhederne i den interne styring eventuelt opdaterer deres interne prognoser hyppigere.
+2.3 Periodisering 2.3.1 Krav til periodisering Kravet til periodisering indebærer, at grundbudget og prognoser skal periodiseres på de budgetposter, der er angivet for hver bevillingstype.
+Kravet om periodisering skal ses i sammenhæng med målet om at opnå budgetgennemsigtighed samt målet om at have et fast talgrundlag i løbet af året, som budget- og regnskabsopfølgningerne kan gennemføres på baggrund af.
+Den månedlige og kvartalsvise opfølgning på de realiserede udgifter kan sammenholdes med et budget for nøjagtig samme periode, således at afvigelser kan identificeres præcist.
+Samtidig vil anvendelse af periodisering sikre en styringsmæssig kobling mellem fremdrift i opgavevaretagelsen og realiseret forbrug.
+ Ved driftsbevilling, statsvirksomhed og reservationsbevilling skal grundbudget og prognose periodiseres på måneder, mens grundbudget og prognoser ved anlægsbevillinger skal periodiseres på kvartaler.
+Kravet om månedsvis periodisering for hovedparten af bevillingstyperne skal ses i sammenhæng med, at der i forvejen foretages regnskabslukninger månedsvist.
+Dermed sikres parallelitet mellem budget- og regnskabsopfølgning, ligesom den månedlige opfølgningsfrekvens sikrer en løbende opsamling af historik.
+Dette kan bidrage til at reducere omfanget af arbejdet med kvartalsgodkendelser af regnskabet samt til at reducere de aktiviteter, der er forbundet med årsafslutningen.
+2.3.2 Generelle principper for periodisering af budgetter Der skal ved periodisering af budgetter og regnskaber tages stilling til, hvordan og hvornår forbruget fordeler sig hen over året.
+Det er i den forbindelse væsentligt, at periodisering af budget og regnskab foretages ud fra samme principper.
+ Forskellig praksis for den budgetmæssige og regnskabsmæssige periodisering vil føre til afvigelser i budget- og regnskabsopfølgningen, der alene kan henføres til forskellig periodiseringspraksis og ikke til den underliggende opgavevaretagelse.
+ Et eksempel på forskellige principper for periodisering er, hvorvidt husleje budgetteres og bogføres på de enkelte måneder i takt med anvendelse af lejemålet, eller om husleje budgetteres og bogføres én måned i kvartalet i forbindelse med betaling, hvis regningen modtages kvartalsvis.
+Periodisering af den enkelte budgetpost vil i forlængelse af ovenstående have tæt sammenhæng med budgetteringsforudsætninger for, hvornår på året forbruget vil finde sted. Økonomifunktionen kan have vanskeligt ved alene at foretage en periodisering af de budgetposter, som udmøntes uden for økonomifunktionen i fagkontorer, decentrale enheder m.v.
+Stillingtagen til det periodiserede budget samt udarbejdelsen af budgetteringsforudsætninger bør således foretages i tæt samarbejde mellem økonomifunktionen og den enhed, der udmønter den pågældende budgetpost.
+Erfaringer med afløbsprofiler fra foregående år kan indgå i grundlaget for den fremadrettede periodisering af visse budgetposter.
+En mekanisk fremskrivning af foregående års afløbsprofiler kan dog ikke stå alene.
+Ved stillingtagen til periodiseringen skal det vurderes, på hvilket detaljeringsniveau periodiseringen skal udarbejdes.
+Detaljeringsniveauet bør hænge sammen med det niveau, der følges op på i den interne budget- og regnskabsopfølgning, ligesom der skal foretages periodisering på et sådant detaljeringsniveau, at økonomifunktionen kan anvende periodiseringen som et aktivt instrument til at foretage relevante afvigelsesforklaringer.
+2.4 Afvigelsesforklaringer Cirkulære om budgettering og budget- og regnskabsopfølgning stiller krav om anvendelse af afvigelsesforklaringer i forhold til væsentlige afvigelser som en del af budget- og regnskabsopfølgningen.
+Det gælder både i den interne budget- og regnskabsopfølgning i virksomheden, i den kvartalsvise koncernopfølgning og i rammeredegørelsen.
+Der opereres i den løbende budget- og regnskabsopfølgning med to typer af afvigelser:
+1. Afvigelser mellem realiseret forbrug og budget for den seneste opfølgningsperiode.
+Dette kaldes en bagudrettet afvigelse.
+2. Afvigelser mellem ny prognose og seneste budget/prognose for den resterende del af året.
+Dette kaldes en fremadrettet afvigelse.
+ Formålet med afvigelsesforklaringer er at klarlægge årsagerne bag afvigelserne; det vil sige ændringer i de bagvedliggende budgetforudsætninger som fx ændret aktivitetsvolumen eller ændrede enhedsomkostninger.
+Der indgår ikke formkrav til afvigelsesforklaringerne i den interne budget- og regnskabsopfølgning i virksomhederne eller i den kvartalsmæssige koncernopfølgning.
+Derimod indgår der en række formkrav og standardtabeller i rammeredegørelserne, som præsenteres i afsnit 2.5.5 vedrørende de nye krav til rammeredegørelserne.
+Virksomhederne kan anvende skabelonerne fra rammeredegørelserne i den interne opfølgning, hvis dette vurderes relevant.
+2.5 Budget- og regnskabsopfølgning 2.5.1 Nye kadencer og tidsfrister til budget- og regnskabsopfølgning I kapitel 3 i Cirkulære om budgettering og budget- og regnskabsopfølgning opstilles en række krav til budget- og regnskabsopfølgning internt i virksomhederne, til departementets koncernopfølgning og til rammeredegørelserne til Finansministeriet.
+Det betyder, at der er skærpede krav til den interne og eksterne opfølgning for de fire bevillingstyper, der er omfattet af cirkulæret.
+ I tabel 5 fremgår de nye tidsmæssige og indholdsmæssige krav for de interne budget- og regnskabsopfølgninger og for rammeredegørelserne.
+ For de øvrige bevillingstyper gælder de samme krav til opfølgning som hidtil.
+Generelt kan budget- og regnskabsopfølgningen påbegyndes, så snart pdf-regnskaberne foreligger i SKS4), da der ikke efter dette tidspunkt kan foretages ændringer i regnskabet.
+Opfølgningen kan konsolideres endeligt, når ØSCs regnskabserklæring foreligger.
+ Processen for ØSCs regnskabserklæring bliver fremrykket, således at ØSC nu fremsender regnskabserklæringen ca. den 15. i måneden og ikke den 25. i måneden som tidligere. Ændringen gennemføres i 2012 fra periode 3.
+Desuden fremrykkes arbejdsprocesserne i ØSC, så regnskabsperioden lukkes efter tre arbejdsdage i den efterfølgende måned og ikke efter fem arbejdsdage, som det sker i dag.
+Servicemålene i ØSC ændres fra fem til tre dage, hvilket betyder, at virksomhedernes tidsfrister for fremsendelse af materiale til ØSC omkring månedsafslutningen er uændrede.
+Figur 1 viser et eksempel på en tidslinje for processen fra lukning af regnskabet i Navision Stat til aflevering af departementets rammeredegørelse til Finansministeriet.
+Eksemplet viser opfølgningen efter 1. kvartal.
+2.5.2 Budget- og regnskabsopfølgning i virksomheden Der stilles med cirkulæret krav om, at virksomhederne hver måned skal foretage en intern budget- og regnskabsopfølgning, der omfatter bevillingstyperne driftsbevilling, statsvirksomhed og reservationsbevilling.
+For anlægsbevillinger stilles der krav om en kvartalsvis budget- og regnskabsopfølgning.
+Afhængigt af styringsbehovet kan virksomhederne tilrettelægge den interne opfølgning på de øvrige bevillingstyper i sammenhæng med den månedlige eller kvartalsvise opfølgning.
+For 2012 skal den første månedlige budget- og regnskabsopfølgning foretages efter februar måned.
+Den månedlige opfølgning for driftsbevillinger, statsvirksomhed og reservationsbevillinger skal ses i sammenhæng med de månedlige regnskabslukninger og med kravet om månedlig periodisering for disse bevillingstyper.
+For juni måned kan opfølgningen udskydes, så den først foretages sammen med opfølgningen for juli måned.
+Det samme gælder virksomhedernes interne budget- og regnskabsopfølgning for anlægsbevillinger for 2. kvartal, der ligeledes kan udskydes til august måned.
+ Budget- og regnskabsopfølgningen for de bevillingstyper, der er omfattet af cirkulæret, skal foretages for hver af de hovedkonti, som virksomheden er ansvarlig for, og forelægges virksomhedens ledelse (dvs. direktion).
+ I kravet til virksomhedernes budget- og regnskabsopfølgning stilles to indholdsmæssige krav:
+1. Afvigelsesforklaringer på væsentlige afvigelser 2. Overvejelser om betydningen for årets resultat De to krav er alene minimumskrav.
+Dette afspejler, at der på tværs af de forskellige virksomheder vil være forskellige opfølgningsbehov.
+Virksomheden fastsætter således selv rammerne for det budgetgrundlag, som det realiserede forbrug for måneden holdes op imod.
+Ligeledes foretager virksomheden også selv en vurdering af, hvad der udgør en væsentlig afvigelse i den interne opfølgning.
+2.5.3 Departementets kvartalsvise koncernopfølgning Der stilles i cirkulærets § 8 krav til, at departementet foretager fire koncernopfølgninger i løbet af året: Efter 1. kvartal, efter 2. kvartal, efter 3. kvartal samt efter afslutningen af regnskabsåret.
+Departementet har i forvejen en forpligtigelse til at følge op på ministerområdets rammer i forbindelse med udarbejdelse af rammeredegørelsen til Finansministeriet.
+For de fire bevillingstyper omfattet af cirkulærets kapitel 2 skærpes denne opfølgningsforpligtelse nu i form af krav om fokus på forklaringer af væsentlige afvigelser.
+Departementerne kan tilsvarende overveje at skærpe kravene til opfølgningen på de resterende bevillingstyper, hvis dette vurderes relevant.
+ Den faste opfølgningskadence og indholdskravene skal sikre, at det nye datagrundlag i SKS udnyttes i departementets koncernopfølgning på de fire bevillingstyper, som er omfattet af cirkulæret, samt at departementets tværgående koncernopfølgning kan føde ind til rammeredegørelsen til Finansministeriet.
+Opfølgningsgrundlaget i koncernopfølgningen for de fire bevillingstyper er virksomhedernes grundbudgetter og prognoser, sammenholdt med det realiserede forbrug svarende til de data, der anvendes ved rammeredegørelsen.
+Departementet kan vælge at supplere med et mere detaljeret opfølgningsgrundlag.
+ Virksomhederne skal i forbindelse med koncernopfølgningen som minimum redegøre for følgende:
+ Afvigelsesforklaringer for væsentlige afvigelser  Beskrivelse af korrigerende handlinger for eventuelle afvigelser Departementerne afgør i dialog med virksomhederne, hvad der er en væsentlig afvigelse.
+Ligeledes skal beskrivelser af korrigerende handlinger i forhold til afvigelser kun foretages, hvor dette vurderes relevant.
+Departementet fastlægger formater og tidsfrister for aflevering af virksomhedernes bidrag til koncernopfølgningen, så koncernopfølgningen kan udarbejdes og forelægges for departementschefen forud for rammeredegørelsen.
+Tidsfristerne fastsættes i ministerieinstruksen, jf.
+Regnskabsbekendtgørelsen § 14.
+Der er fastsat krav om en fjerde koncernopfølgning efter afslutningen af regnskabsåret.
+Formålet med den sidste opfølgning er primært at sammenholde forbruget i årets 4. kvartal med den seneste prognose for 4. kvartal og foretage forklaringer på væsentlige afvigelser.
+Dermed vil der være et klart snit i forhold til indholdet i årsrapporten, der har et væsentligt bredere sigte.
+Departementet fastsætter en tidsfrist for opfølgningen for 4. kvartal.
+Der udarbejdes ikke rammeredegørelse til Finansministeriet efter 4. kvartal.
+2.5.4 De kvartalsvise rammeredegørelser Det eksisterende format for rammeredegørelsen fastholdes, ligesom alle eksisterende tabeller fortsat skal udarbejdes på samme grundlag som i dag.
+ Foruden de eksisterende tabeller tilføjes der i rammeredegørelserne yderligere én tabel for hver af de fire omfattede bevillingstyper, der følger op på udviklingen i de grundbudgetter og prognoser, som virksomhederne har indlæst i SKS.
+Rammeredegørelserne vil dermed bestå af seks tabeltyper.
+I tabel 6 oplistes eksisterende og nye rammeredegørelsestabeller med angivelse af, hvilke bevillingstyper tabellerne omfatter.
+ Der vil i de eksisterende tabeller 2 og 3 fortsat være fokus på sammenhængen mellem det forventede forbrug (prognosen) og bevillingen og herunder eventuelt forbrug af videreførelser for hovedkonti med videreførelsesadgang.
+For den nye tabel 4 vil fokus derimod være rettet mod virksomhedernes budgetter og ikke mod deres bevillinger.
+Det vil være den samme prognose for forbruget i den resterende del af året, som vil skulle indgå i tabel 2, 3 og 4. I det følgende beskrives den nye tabel 4. Den nye tabel vil kunne trækkes som standardrapport i SKS.
+Tabeltype 4 med forbrugsafvigelser og prognoseændringer til brug for rammeredegørelser Tabeltype 4 gengiver for hver hovedkonto bagudrettede og fremadrettede afvigelser, jf. beskrivelsen i afsnit 2.4. Tabellen opføres særskilt for hver af de 4 bevillingstyper  dog med driftsbevilling og statsvirksomhed i samme tabel.
+Tabel 7 viser et eksempel på en opgørelse foretaget ved rammeredegørelse 1.
+Der fremgår af tabel 7, at der efter årets tre første måneder er et merforbrug på 18 mio. kr. i forhold til grundbudgettet for 1. kvartal for alle driftsbevillinger/statsvirksomhedsbevillinger under ét.
+Det fremgår endvidere, at prognosen for årets sidste ni måneder ved rammeredegørelse 1 er nedjusteret med 7 mio. kr. i forhold til grundbudgettet.
+ Det fremgår endvidere af tabel 7, at den samlede bagudrettede afvigelse på i alt 18 mio. kr. hovedsageligt skyldes et merforbrug på § 25.14.01 Y-styrelsen, som havde budgetteret med et forbrug i 1. kvartal på 8 mio. kr. i grundbudgettet, mens forbruget i samme periode blev 29 mio. kr.
+ Tabel 7 viser også, at den samlede fremadrettede afvigelse på 7 mio. kr. for det prognosticerede forbrug for resten af året hovedsageligt skyldes Y-styrelsens nedjustering af prognosen for resten af året med 8 mio. kr.
+I rammeredegørelserne vil afvigelsesforklaringerne skulle foretages for hver hovedkonto.
+Som det fremgår af tabel 7, vil afvigelser i rammeredegørelserne identificeres på nettoforbruget på hovedkontoniveau mellem de enkelte kvartaler.
+En afvigelse inden for den enkelte måned eller en afvigelse for en særskilt grundbudgetpost som fx indtægter vil således ikke indgå i de faste opfølgningsskabeloner i rammeredegørelserne.
+Krav til afvigelsesforklaringer i rammeredegørelser Ovenstående tabel 7 udgør datagrundlaget for de bagudrettede og fremadrettede forklaringer af afvigelser på hovedkontoniveau i rammeredegørelserne, for så vidt angår driftsbevillinger, statsvirksomhed, reservationsbevillinger og anlægsbevillinger.
+ I tabel 8 og 9 nedenfor fremgår datagrundlaget for henholdsvis bagudrettede og fremadrettede afvigelser i årets tre rammeredegørelser.
+ Der er opstillet følgende fire forskellige afvigelseskategorier, som departementerne og virksomhederne skal forholde sig til, når de i rammeredegørelserne skal forklare årsagerne til de konstaterede afvigelser:
+ Regnskabsafvigelser: Fejl i regnskab  fx regninger, der er optaget forkert i regnskabet eller posteringer, der ikke er foretaget korrekt eller til tiden, og som derfor forårsager en difference mellem budget og regnskab.
+Denne type afvigelser kan generelt nedbringes ved at kvalitetssikre virksomhedens regnskabsprocesser.
+  Periodiseringsafvigelser: Afvigelser, der skyldes et ændret tidsforløb for en aktivitet eller et forbrug inden for året i forhold til det budgetterede i grundbudgettet eller prognosen for seneste periode, men hvor aktivitetsniveau og forbrug forbliver uændret inden for året.
+ Aktivitetsændringer: Afvigelser, der kan henføres til en ændret opgavevolumen for hele året i forhold til det budgetterede.
+Det kan fx være, at antallet af behandlede sager og dermed forbruget forbundet hermed er blevet mindre end budgetteret eller omvendt, at der skal løses flere opgaver end planlagt.
+Såfremt opgaven forsinkes til næste budgetår, vil dette indgå som en aktivitetsændring i det indeværende år.
+ Prisændringer: Afvigelser, der kan henføres til, at opgaven er blevet dyrere eller billigere at gennemføre end budgetteret, herunder ændringer i enhedsomkostninger.
+Eksempelvis kan et planlagt projekt fordyres, fordi udgifterne for de enkelte elementer i projektet er blevet større end budgetteret.
+Disse fire kategorier sætter rammen for bagudrettede og fremadrettede afvigelsesforklaringer i rammeredegørelserne.
+Dette indebærer, at væsentlige afvigelser skal forklares med angivelse af, hvilken type afvigelse, der er tale om.
+I samme forbindelse skal der foretages en reel forklaring af den pågældende afvigelse.
+Såfremt en væsentlig afvigelse dækker over flere årsager, skal disse beskrives hver for sig.
+Forklaringer af væsentlige afvigelser i rammeredegørelsen skal foretages med anvendelse af tabel 10. Tabel 10 adresserer afvigelser pr. hovedkonto.
+Der skal ikke nødvendigvis udfyldes en skabelon for hver hovedkonto, da kun de væsentlige afvigelser skal forklares.
+Ligeledes behøver beløbene for forklaringerne heller ikke at summe op til den samlede afvigelse.
+ Der er ikke fastsat en definition af en væsentlig afvigelse  dette vil bero på en dialog mellem departement og Finansministeriet.
+Der er i tabel 7 vist et eksempel på, at § 25.14.01 Y-styrelsen ved Rammeredegørelse 1 havde en bagudrettet afvigelse på 21 mio. kr. og en fremadrettet afvigelse på 8 mio. kr.
+Tabel 11 og 12 illustrerer, hvordan disse afvigelser kan forklares ved brug af standardskabelonen.
+ Til at understøtte opfølgningen i rammeredegørelserne vil der være en række standardrapporter i SKS, der giver mulighed for mere uddybende oplysninger på månedsniveau og på de budgetposter, som grundbudgettet består af, jf. afsnit 3.3. Disse kan anvendes efter behov.
+3 Systemunderstøttelse 3.1 Indlæsning af data i SKS Grundbudgetter og prognoser skal som beskrevet indlæses i SKS.
+Indlæsningen af disse data i SKS kan opdeles i følgende fem trin:
+1. Hent skabelonregneark på Moderniseringsstyrelsens hjemmeside 2. Udfyldelse af skabelonregneark 3. Gem oplysninger i skabelonregneark 4. Log på SKS 5. Indlæsning af datafil i SKS Alle virksomheder vil kunne indlæse grundbudgetter og prognoser ved at anvende disse fem trin Dette afsnit beskriver kort de fem trin.
+Trin 1: Hent skabelonregnearket Udarbejdelsen af grundbudget-/prognosedata til indlæsning i SKS er understøttet af et skabelonregneark, der tager brugeren igennem de nødvendige elementer i fremstillingen af de datafiler, der skal indlæses i SKS for hver hovedkonto.
+Skabelonregnearket kan findes på Moderniseringsstyrelsens hjemmeside via følgende link: www.modst.dk/god-okonomistyring/implementering/SKS.
+På hjemmesiden vil brugeren også kunne tilgå en detaljeret vejledning til både anvendelsen af skabelonregnearket såvel som til indlæsningen af grundbudget-/prognosedata i SKS.
+Trin 2: Udfyld skabelonregnearket Skabelonregnearket kan anvendes til at udarbejde samtlige typer af datafiler, der kan være behov for at indlæse i SKS.
+Når brugeren åbner arket, skal det først angives, hvilken bevillingstype, der ønskes at blive udarbejdet grundbudget-/prognosedata for, og dernæst hvorvidt der er tale om data vedrørende grundbudgettet, prognose 1 (i forbindelse med rammeredegørelse 1), prognose 2 (i forbindelse med rammeredegørelse 2) eller prognose 3 (i forbindelse med rammeredegørelse 3), jf. figur 2.
+Figur 2 Angivelse af bevillingstype mv.
+Herefter føres brugeren til den relevante skabelon, som udfyldes med hovedkontonummer og de periodiserede grundbudget-/prognosedata i de grønne felter, som eksemplet i figur 3 viser for en drifts- eller statsvirksomhedsbevilling med data til prognose 1 i forbindelse med rammeredegørelsen efter første kvartal.
+Som det fremgår af figur 3, indlæses udgifter med positive fortegn og indtægter med negative fortegn.
+Figur 3 Udfyldelse af skabelonregneark Trin 3: Gem datafilerne Når arket er udfyldt, og brugerne trykker på knappen Gem, gemmes arket automatisk med den nødvendige opsætning og er derefter klar til indlæsning i SKS.
+Det er vigtigt, at datafilerne gemmes et sted, hvor brugeren kan finde dem igen, når de skal indlæses i SKS.
+Når datafilen er gemt, kan brugeren enten lukke skabelonregnearket eller påbegynde indtastningen af data for en ny hovedkonto.
+Trin 4: Log på SKS Alle virksomheder skal sammen med departementet sikre, at der er mindst én bruger i virksomheden, der er oprettet i SKS til at kunne indlæse grundbudgetter og prognoser.
+Moderniseringsstyrelsens kontaktperson for det enkelte ministerområde vil bistå departementet i tilrettelæggelsen af denne opgave.
+Når brugeren logger ind i SKS via http://oes-cs.dk/, vil der være mulighed for at klikke sig ind på siden Indlæsning af grundbudget/prognose.
+På denne side fremgår skærmbilledet fra figur 4.
+Figur 4 Indlæsning af grundbudget/prognose i SKS Trin 5: Indlæs datafil I skærmbilledet på figur 4 vælger brugeren øverst til venstre hvilket år de data, som skal indlæses, vedrører, og hvorvidt der er tale om data for grundbudgettet, prognose 1, prognose 2 eller prognose 3.
+ Nedenunder vælger brugeren derefter, hvilken finanslovsparagraf og herefter hvilken hovedkonto, der skal indlæses data for.
+ Nederst angiver brugeren til sidst, hvilken datafil, der skal oploades, ved at trykke Gennemse, vælge den korrekte fil og trykke Indlæs.
+ I systemet er der desuden også en oversigt over de filer, brugerne har indlæst, så der fastholdes et løbende overblik over, hvad der tidligere er indlæst for hver hovedkonto.
+3.2 Teknisk understøttelse med standardkonti i SKS Når data for grundbudgettet og prognosen sammenstilles med det realiserede forbrug, vil det realiserede forbrug blive opgjort på baggrund af summerede forbrugstal for flere standardkonti, jf. tabel 13 og 14.
+Når grundbudget eller prognoser indlæses i SKS, er det en teknisk forudsætning for systemhåndteringen, at de aggregerede budgetposter fra grundbudgettet placeres på en standardkonto.
+Denne placering sker automatisk ved anvendelsen af skabelonregnearket.
+Konkret placeres løn på standardkonto 18, øvrige udgifter på standardkonto 22, indtægter på standardkonto 11, anlægsudgifter på standardkonto 51 og anlægsindtægter på standardkonto 52.
+At de indlæste budget- og prognosedata placeres på netop de ovenstående standardkonti er udelukkende en teknisk forudsætning for indlæsningen af grundbudget eller prognoser i SKS.
+Dette vil ikke ændre ved den eksisterende regnskabsføringspraksis i forhold til statens standardkontoplan.
+3.3 Standardrapporter i SKS til supplerende opfølgning Som nævnt i afsnit 2.5.5 om afvigelsesforklaringer i rammeredegørelserne, vil det være muligt at trække yderligere standardrapporter i SKS end de tabeller, der indgår i rammeredegørelserne.
+Disse tabeller kan bidrage med information til den løbende opfølgning på et mere detaljeret niveau end de standardrapporter, der indgår i rammeredegørelserne fremadrettet.
+Disse tabeller er gengivet i tabellerne 15-18.
+Tabel 15 ovenfor viser en standardrapport for en hovedkonto udarbejdet i november måned, hvor samtlige rammeredegørelsesdata er indlæst, og regnskabstal til og med oktober er kendte.
+Med tabel 15 er det muligt at følge detaljeret op på de periodiserede prognoser i forhold til hinanden samt i forhold til det løbende forbrug.
+Tabel 15 vil yderligere kunne udspecificeres på udgifter (herunder også løn og øvrige udgifter) samt indtægter.
+Tabel 16 nedenfor viser denne udspecificering for en drifts-/statsvirksomhedsbevilling.
+Det vil desuden også være muligt at foretage en sammenstilling af det indlæste grundbudget i forhold til finanslovsbevillingen, hvilket muliggør en overskuelig opgørelse af det budgetterede forbrug af videreførelser for året for hver hovedkonto i forbindelse med udarbejdelsen af grundbudgettet.
+Tabel 17 viser en standardrapport for dette.
+Der vil desuden indgå en standardrapport i SKS, som for hvert ministerområde viser det historiske forbrug på de enkelte hovedkonti med udspecificering på måneder og opdelt på udgifter (løn og øvrige udgifter) samt indtægter.
+Denne standardrapport kan eventuelt indgå i de fremadrettede periodiseringsovervejelser.
+Denne standardrapport fremgår af tabel 18 nedenfor.
+Finansministeriet, den 18. marts 2012 Bjarne Corydon 1) Kravet for reservationsbevilling gælder alene for bevillinger med en udgifts- eller indtægtsbevilling på 10 mio. kr. eller derover.
+2) Videreførelser omfatter for omkostningsbaserede bevillinger overført overskud og reserveret bevilling og for udgiftsbaserede bevillinger videreførelser 3) Herunder heller ikke indtægtsføring af reserveret bevilling fra tidligere år.
+ 4) En til to dage efter lukning i Navision Stat.

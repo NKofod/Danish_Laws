@@ -1,0 +1,164 @@
+OKTOBER 1984 Trykt oktober 1985 1. Cirkulærets indhold I nærværende cirkulære nr. 29 indgår følgende delcirkulærer:
+2. Gyldighed Cirkulæret gælder for udstyr, der tilsluttes det offentlige alarmsystem.
+Delcirkulærerne udkommer og rettes individuelt.
+Der udkommer en ny udgave  
+
+ af denne del af cirkulæret, hver gang et delcirkulære udkommer eller  
+
+ revideres.
+3. Betingelser for udstedelse af tilladelse for  
+
+ tilslutning af fjernovervågningsudstyr til det offentlige alarmsystem Fjernovervågningsudstyr, som ikke leveres og fejlrettes af  
+
+ teleadministrationerne, kan på de af teleadministrationerne angivne vilkår  
+
+ tilsluttes en abonnentinstallation i det offentlige alarmsystem.
+Tilslutning  
+
+ må kun ske, hvis tilladelse er givet af en af teleadministrationerne.
+ Teleadministrationerne er i dette cirkulære en sammenfattende betegnelse  
+
+ for:
+Kjøbenhavns Telefon Aktieselskab Nørregade 21, 1199 København K Jydsk Telefon-Aktieselskab Sletvej 30, 8310 Tranbjerg J.
+Fyns Kommunale Telefonselskab Klingenberg 16, 5100 Odense Post- og Telegrafvæsenet Abonnentteknisk Tjeneste Telegade 2, 2630 Tåstrup Tilladelsen gives på følgende betingelser:
+ 1. Udstyret skal opfylde bestemmelser i cirkulære nr.  
+
+ 29, »Tilslutning af fjernovervågningsudstyr til det offentlige  
+
+ alarmsystem« i det omfang, disse krav vedrører egenskaber og forhold ved  
+
+ det pågældende udstyr.
+ 2. Et eksemplar af udstyret skal, hvis  
+
+ teleadministrationerne skønner det nødvendigt, stilles til rådighed for  
+
+ undersøgelse hos en af teleadministrationerne.
+3. Der skal leveres fyldestgørende beskrivelse,  
+
+ specifikation, strømskema og monteringstegninger samt brugsanvisning for  
+
+ udstyret.
+Hvis tilladelse gives, leveres yderligere indtil 10 eksemplarer af  
+
+ nævnte dokumentation til teleadministrationerne.
+Beskrivelsen skal forklare  
+
+ alle udstyrets funktioner og med henvisning til strømskema detaljeret  
+
+ redegøre for disse.
+Specifikationen skal i det mindste omfatte de egenskaber, for hvilke der i  
+
+ cirkulære nr. 29 er angivet værdier og tolerancer, som vedrører udstyret.
+Der  
+
+ skal vedlægges en målerapport fra et laboratorium eller institut, der er  
+
+ anerkendt af de danske teleadministrationer, herunder teleadministrationernes  
+
+ egne laboratorier.
+Målerapporten skal med angivelse af målemetoder og  
+
+ måleresultater bekræfte, at cirkulære nr. 29 er opfyldt.
+4. Udstyret skal være mærket tydeligt med fabrikat,  
+
+ typebetegnelse og fabrikationsnummer.
+Udstyr, der tilsluttes  
+
+ stærkstrømsnettet, skal være udført i overensstemmelse med  
+
+ stærkstrømsreglementets forskrifter og skal være D-mærket eller registreret  
+
+ hos DEMKO, for så vidt det kræves ifølge danske love og bestemmelser.
+ 5. Alle fjernovervågningsudstyr af en tilladt type  
+
+ skal med hensyn til funktion, strømskema, komponenter og alle andre forhold  
+
+ nøje svare til det af teleadministrationerne kontrollerede eksemplar med  
+
+ samme typebetegnelse. Ændringer i det tilladte udstyr skal forelægges for og  
+
+ accepteres af teleadministrationerne og kan efter teleadministrationernes  
+
+ skøn medføre såvel ny typebetegnelse som ny undersøgelse og kontrol af  
+
+ udstyret.
+ Såfremt der i et udstyr konstateres afvigelser fra det kontrollerede  
+
+ eksemplar med samme typebetegnelse, kan tilladelsen af denne type udstyr  
+
+ inddrages, hvis afvigelserne ikke accepteres af teleadministrationerne.
+ 6. Leverandøren af et fjernovervågningsudstyr er  
+
+ forpligtet til at give brugeren en klar og tydelig brugsanvisning for  
+
+ anvendelsen af udstyret samt angive, hvor det i tilfælde af fejl kan fås  
+
+ fejlrettet.
+ 7. Ved udstedelse af tilladelsen for tilslutning af  
+
+ fjernovervågningsudstyr til det offentlige alarmsystem påtager  
+
+ teleadministrationerne sig intet ansvar for udstyrets funktion og kvalitet,  
+
+ men sikrer sig alene i rimeligt omfang mod forstyrrelser og ulemper.
+ Teleadministrationerne forbeholder sig ret til at ændre den  
+
+ transmissions-, signalerings- og centraltekniske funktion af teleanlæggene  
+
+ med tilknyttede abonnentinstallationer, og de påtager sig ved sådanne  
+
+ ændringer intet ansvar for, at tilsluttet fjernovervågningsudstyr fortsat er  
+
+ anvendeligt.
+ 8. Dersom et fjernovervågningsudstyr ved anvendelsen  
+
+ giver anledning til unødige fejlmeldinger eller til forstyrrelser eller  
+
+ ulemper for driften af teleanlæggene, kan tilladelsen af denne type udstyr  
+
+ inddrages, indtil de nødvendige ændringer er accepteret af  
+
+ teleadministrationerne.
+ 9. Tilladt fjernovervågningsudstyr skal af  
+
+ leverandøren på et synligt sted forsynes med et tilladelsesskilt, som i hvert  
+
+ enkelt tilfælde købes hos den udstedende teleadministration, og som har  
+
+ påtrykt teksten:
+ 10. Oplysning om eventuelle afgifter for prøvning fås  
+
+ fra vedkommende teleadministration.
+4. Generel beskrivelse af det offentlige alarmsystem Det offentlige alarmsystem modtager alarmer fra en abonnent og  
+
+ videresender alarmer til en given vagtcentral.
+Tilsvarende kan styringer  
+
+ sendes fra en vagtcentral til en given abonnent.
+Alarmtransmissionssystemet baserer sig på et koncept for  
+
+ pakkefordelingsnet.
+Netopbygningen er vist forenklet nedenfor:
+ Alarmterminalen indeholder filtre og transmissionsudstyr for 8 kHz,  
+
+ styrelogik for protokolafvikling mod AMUX og mod grænsesnit for  
+
+ abonnentudstyr AU.
+ Overvågning af abonnentlinien sker ved, at AMUX periodevis sender en  
+
+ forespørgsel til alarmterminalen, som herefter kvitterer.
+ I alarmsituationen sendes alarmen som kvittering.
+ Netgruppecenter og terminalstation er knuder i pakkefordelingsnettet.  
+
+ Distriktscenter er teleadministrationernes centrale element i alarmsystemet.  
+
+ Herfra styres enhver ændring i systemet (oprettelser, nedtagning osv.).  
+
+ Tillige modtages oplysning om enhver aktivitet i alarmsystemet i form af  
+
+ log-meddelelser m.v..
+ De i alarmsystemet indgående komponenter er autonome, således at de kan  
+
+ udveksle alarmer og styringer, også selv om distriktscenteret er ude af  
+
+ drift.

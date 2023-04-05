@@ -1,0 +1,1694 @@
+ Indholdsfortegnelse.
+ 1. Hovedstrukturen i det samlede registersystem.
+ Driftsfasen for det samlede bygnings- og boligregistersystem indledes 1.  
+
+ september 1978. Fra dette tidspunkt ajourføres bygnings- og boligregistret  
+
+ dels vis BBR-ændringsregister for så vidt angår de ændringer, der opstår  
+
+ gennem bygggesagsbehandling og dels via BBR-stamregister for så vidt angår de  
+
+ ændringer, der udføres uden byggesagsbehandling.
+ En skematisk oversigt over EDB-systemets opbygning samt over diverse  
+
+ materialer, som frembringes af registersystemet er vist nedenfor.
+ HOVEDSTRUKTUR I BBR-SYSTEMET.
+ Til BBR-ændringsregister indberettes oplysninger fra verserende byggesager  
+
+ om nybyggeri, til- eller ombygninger eller nedrivninger. Ændringsoplysninger  
+
+ fra disse byggesager indgår i BBR-ændringsregister fra  
+
+ byggetilladelsestidspunktet eller nedrivningstilladelsestidspunktet og til og  
+
+ med sagernes afslutning med ibrugtagningstilladelse eller faktisk nedrivning.
+Til BBR-stamregister indberettes oplysninger om de ændringer, der ikke  
+
+ fremkommer i forbindelse med en byggesag.
+Til BBR-stamregister overføres  
+
+ endvidere oplysninger fra BBR-ændringsregister, når byggesagen afsluttes, det  
+
+ vil i de fleste byggesager sige, når meddelt ibrugtagningstilladelse (evt.  
+
+ delvis ibrugtagningstilladelse) eller faktisk nedrivning indberettes.
+ BBR-ændringsregistret indeholder således oplysninger om de verserende  
+
+ byggesager, d.v.s. en beskrivelse af de ændringer, der er under udførelse,  
+
+ men som ikke er færdigudført, mens BBR-stamregistret altid vil indeholde  
+
+ oplysninger om den fysisk-faktiske bestand af ejendomme, bygninger og bolig-  
+
+ og erhvervsenheder.
+I BBR-historisk register foretages en maskinel registrering af samtlige de  
+
+ ændringsoplysninger, som har ajourført BBR-stamregistret såvel ved direkte  
+
+ indberetning som ved overførsel fra BBR-ændringsregistret.
+Til BBR-historisk  
+
+ register skal der således ikke foretages manuelle indberetninger.
+I  
+
+ BBR-historisk register indgår således en registrering af bygnings- og  
+
+ boligbestanden, hvoraf den totale ændring over en periode kan uddrages.
+Den  
+
+ nærmere opbygning af BBR-historisk register er ikke endeligt udformet på  
+
+ indeværende tidspunkt.
+Oplysningerne i det historiske register skal bl.a.  
+
+ indgå ved løsning af vurderingsopgaven.
+Ved indberetninger til det samlede bygnings- og boligregister, d.v.s til  
+
+ BBR-ændringsregister og BBR-stamregister, skal det påses, at indberetningerne  
+
+ foretages med korrekt brug af områdebetegnelse, rettelseskoder og sagstype.  
+
+ En korrekt anvendelse af disse oplysninger er særdeles vigtig, idet disse  
+
+ benyttes ved styringen af forholdet mellem BBR-ændringsregister og  
+
+ BBR-stamregister og derved danner grundlaget for selve ajourføringen af såvel  
+
+ ændringsregistret som stamregistret.
+De nærmere retningslinjer for den  
+
+ korrekte brug af disse oplysninger er behandlet i punkterne 5-7.
+ 2. Oplysninger, der indberettes til BBR-ændringsregister.
+ Hovedreglen er, at alle verserende byggesager vedrørende nybyggeri,  til-  
+
+ og ombygninger eller nedrivninger indberettes til BBR-ændringsregister.
+Det afgørende for, om oplysningerne skal indberettes til  
+
+ BBR-ændringsregister, vil således være, om byggearbejdet kræver  
+
+ byggesagsbehandling, jfr. § 2 i byggeloven.
+Såfremt dette er tilfældet,  
+
+ modtager BBR-myndigheden de nødvendige oplysninger fra bygningsmyndigheden og  
+
+ sørger herefter for, at disse indberettes til BBR-ændringsregister.
+Det er dog en betingelse for indberetningen til BBR-ændringsregistret, at  
+
+ byggesagen vedrører eller er knyttet til de registrerede  oplysninger i  
+
+ bygnings- og boligregistret.
+Byggetilladelser til opsætning af facadeskilte,  
+
+ automater, udhængsskabe eller lignende skal således ikke indberettes til  
+
+ bygnings- og boligregistret.
+ Af ovennævnte hovedregel følger, at byggesager vedrørende opførelse af nye  
+
+ bygninger eller tilbygninger samt nedrivninger af eksisterende bygninger  
+
+ altid indberettes til BBR-ændringsregister.
+ Tilsvarende følger, at også byggesager vedrørende ombygningsarbejder  
+
+ indberettes til BBR-ændringsregister.
+I et vist omfang meddeles byggetilladelser til udførelse af ombygninger,  
+
+ der ikke direkte ændrer det registrerede dataindhold i bygnings- og  
+
+ boligregistret.
+Det kan f.eks. dreje sig om ombygninger (moderniseringer) af  
+
+ køkkener, badeværelser eller lignende.
+Også sådanne ombygningsarbejder - hvortil der meddeles byggetilladelse -  
+
+ indberettes til BBR-ændringsregister.
+Dette sker bl.a. af hensyn til  
+
+ anvendelsen af bygnings- og boligregistret til vurderingsopgaven.
+I sådanne  
+
+ tilfælde indberettes datoen for byggetilladelsen suppleret med  angivelse i  
+
+ notatlinje 31 på bygningsniveau af arten af det  byggearbejde, der udføres.  
+
+ Når byggearbejdet er færdigt, indberettes dato for ibrugtagningstilladelse,  
+
+ og indholdet i notatlinjen overføres herefter til BBR-stamregister, mens  
+
+ byggesagsdateringerne maskinelt registreres i det historiske register.
+Med  
+
+ henblik på i en senere revisionsfase at muliggøre en maskinel overførsel til  
+
+ et særligt datafelt til registrering af sådanne ombygningsarbejder, foretages  
+
+ indberetningen til notatlinjen tillige med angivelse af kodeværdier, jfr. den  
+
+ nærmere fremgangsmåde som beskrevet i bilag 1.
+Ved ombygningsarbejder af ovennævnte art vil det i et vist omfang i  
+
+ praksis vise sig vanskeligtat få påbegyndelsen og måske også ibrugtagningen  
+
+ indberettet til registret, idet ejeren/bygherren udfører arbejdet uden  
+
+ iagttagelse af byggelovens regler herom.
+I sådanne tilfælde indberettes  
+
+ dateringerne så præcist som muligt.
+For at sikre, at byggearbejdet kan  
+
+ afsluttes i BBR-ændringsregister, er der indlagt en særlig  
+
+ erindringsfacilitet omkring byggetilladelsen, jfr. punkt 12.3.
+ I praksis vil det også kunne forekomme, at et nybyggeri, en til~ eller  
+
+ ombygning eller en nedrivning, der efter byggeloven burde have været  
+
+ undergivet byggesagsbehandling, konstateres udført uden iagttagelse af  
+
+ byggelovens regler.
+ Konstateres sådanne forhold, når der er forløbet mere end 3 måneder efter  
+
+ byggearbejdets endelige afslutning, skal oplysningerne ikke indberettes til  
+
+ BBR-ændringsregister, men derimod til BBR-stamregister, jfr. punkt 3.
+ Konstateres forholdet derimod, inden der er forløbet 3 måneder fra  
+
+ byggearbejdets endelige afslutning, indberettes byggearbejdet til  
+
+ BBR-ændringsregistret.
+De verserende byggesager indberettes til BBR-ændringsregistret, således at  
+
+ der kun indberettes een byggedag pr. bygningsidentifikation.
+Om indberetning  
+
+ af særlige byggesager henvises til punkt 9.
+ 3. Oplysninger, der indberettes til BBR-stamregister.
+ Hovedreglen er, at fysisk-faktisk udførte ændringer, der ikke  efter  
+
+ byggeloven har krævet byggesagsbehandling, indberettes til BBR-stamregister.
+ Indberetning af oplysninger om f.eks. byggerier, der i henhold til kap.  
+
+ 13.1 og 13.3 i bygningereglement 1977 - småbygninger med en grundflade på  
+
+ indtil 10 kvadratmeter og transformerstationer, hvis bebyggede areal ikke  
+
+ overstiger 30 kvadratmeter - kan opføres uden tilladelse, sker således til  
+
+ BBR-stamregister i det omfang, disse skal registreres i bygnings- og  
+
+ boligregistret.
+ Det afgørende for indberetningen til BBR-stamregister er således, at  
+
+ byggearbejdet eller ændringerne ikke kræver byggesagsbehandling.
+ Som nævnt i punkt 2 indberettes dog sådanne byggearbejder, der konstateres  
+
+ afsluttet uden iagttagelse af byggelovens regler til BBR-stamregistret, når  
+
+ der er forløbet mere end 3 måneder efter byggearbejdets endelige afslutning.
+ 4. Identifikationsgrundlaget.
+ Ved indberetning til såvel BBR-ændringsregister som BBR-stamregister skal  
+
+ anføres entydig identifikation, herunder kommunenummer vedrørende de  
+
+ niveauer, der indberettes til.
+ Identifikationsgrundlaget i det samlede bygnings- og boligrgistersystem er  
+
+ vist nedenfor.
+ Identifikationsgrundlaget.
+--------------------------------------------------------------------- I forbindelse med byggesagsbehandlingen skal bygningsmyndigheden påse, at  
+
+ den nødvendige identifikation er tildelt.
+ 1) Ejendomsregisternummer tildeles og meddeles fra ejendomsskattekontoret.  
+
+ Ejendomsregisternummer kan tildeles i tilfælde, hvor ændringen ikke er  
+
+ endeligt udført, f.eks. ved udstykningssager, der er under behandling i  
+
+ matrikeldirektoratet og derfor ikke er endeligt approberet.
+2) Bygningsnummer tildeles af ejeren som en fortløbennde nummerering af en  
+
+ ejendoms bygninger.
+Ejeren bør i forbindelse med opførelse af nye bygninger  
+
+ orienteres om tildeling af bygningsnummer.
+3) Vejkode tildeles af folkeregistermyndigheden.
+Vejkoden skal forlods  
+
+ tildeles i de tilfælde - f.eks. ved nyudstykninger - hvor navngivning af  
+
+ vejen ikke foreligger på indberetningstidspunktet.
+ 4) Husnummer (evt.husbogstav) tildeles af teknisk forvaltning i  
+
+ overensstemmelse med de retningslinjer, der er nævnt i punkterne 19-21 i  
+
+ etableringscirkulæret af 6. januar 1977 samt i henhold til § 110 i lov om  
+
+ offentlige veje og § 63a i lov om private fællesveje.
+ 5) Etagebetegnelse tildeles af ejeren senest samtidig med meddelelse af  
+
+ ibrugtagningstilladelse i overensstemmelse med de retningslinjer, der er  
+
+ nævnt i §§ 2-3 i bekendtgørelsen om ejeres oplysningspligt til bygnings- og  
+
+ boligregistret.
+ 6) Sidebetegnelse/dørnummer tildeles af ejeren senest samtidig med  
+
+ meddelelse af ibrugtagningstilladelse i overensstemmelse med de  
+
+ retningslinjer, der er nævnt i §§ 2-3 i bekendtgørelsen om ejeres  
+
+ oplysningspligt til bygnings- og boligregistret.
+ Ejendomsregisternummer, bygningsnummer, vejkode og husnummer (evt.  
+
+ husbogstav) skal således foreligge senest samtidig med, at der er givet  
+
+ byggetilladelse til et byggeri, mens etage- og sidebetegnelse skal foreligge  
+
+ senest ved meddelelse af ibrugtagningstilladelse til et byggeri.
+ Om kravene til identifikation ved indberetning til EDB-systemet henvises  
+
+ til Kommunedatas brugerhåndbog.
+ 5. Brug af områdebetegnelse.
+ Områdebetegnelsen angiver, om de indberettede oplysninger skal ajourføre  
+
+ BBR-ændringsregister eller BBR-stamregister.
+ Områdebetegnelse skal anføres ved enhver indberetning til bygnings~ og  
+
+ boligregistersystemet.
+ Det samlede bygnings- og boligregistersystem har derfor 2  
+
+ områdebetegnelser, een for BBR-ændringsregistret og een for  
+
+ BBR-stamregistret.
+ Områdebetegnelsen CS angiver, at de indberettede oplysninger skal  
+
+ ajourføre ændringsregistret.
+ Områdebetegnelsen CR angiver, at de indberettede oplysninger skal  
+
+ ajourføre stamregistret.
+ Der henvises til punkterne 2 og 3 vedrørende afgrænsningen af  
+
+ ændringsoplysninger, der skal indberettes til henholdsvis  
+
+ BBR-ændringsregister og BBR-stamregister.
+ 6. Brug af rettelseskode.
+ Rettelseskoden angiver, hvilken maskinel behandling de indberettede  
+
+ oplysninger underkastes i systemet.
+ Rettelseskoden angiver, hvilken maskinel behandling de indberettede  
+
+ oplysninger underkastes i systemet.
+ Rettelseskode skal anføres ved enhver indberetning til bygnings- og  
+
+ boligregistersystemet, det vil sige både ved indberetninger til  
+
+ BBR-ændringsregister og til BBR-stamregister.
+ Det samlede bygnings- og boligregistersystem indeholder følgende 5  
+
+ rettelseskoder:
+ 1. Oprettelse.
+ 2. Tilføjelse/ændring.
+ 3. Sletning.
+ 4. Fejlrettelse.
+ 5. Identifikationsændring.
+ Rettelseskoderne kan benyttes på samtlige niveauer i bygnings- og  
+
+ boligregistret, d.v.s. såvel på ejendoms-, bygnings-, opgangs som  
+
+ enhedsniveau.
+ Indberettes oplysninger til flere niveauer ved een indberetning, og skal  
+
+ oplysningerne undergå samme behandling i systemet, er det tilstrækkeligt at  
+
+ indberette rettelseskoden på det overliggende niveau, idet rettelseskoden  
+
+ maskinelt overføres til lavere niveauer.
+ 6.1. Brug af rettelseskode 1 »oprettelse«.
+ Rettelseskode 1 benyttes, når der skal oprettes en identifikation (med  
+
+ tilhørende dataindhold), som ikke findes i det pågældende register i  
+
+ forvejen.
+Rettelseskode 1 benyttes således, når den første indberetning af en  
+
+ byggesag i forbindelse med meddelelse af byggetilladelse,  
+
+ nedrivningstilladelse eller anmeldelse af byggearbejder i henhold til kap.  
+
+ 13.9 i bygningsreglement 1977 foretages til BBR-ændringsregistret med  
+
+ områdebetegnelse CS. Ændringsregistret vil nemlig aldrig indeholde  
+
+ oplysninger om en ejendom, bygning eller enhed, førend der verserer en  
+
+ byggesag.
+Indberetning på byggetilladelsetidspunktet af f.eks. en tilbygning  
+
+ til en eksisterende bygning skal derfor indberettes til BBR-ændringsregistret  
+
+ med rettelseskode 1.
+ 6.2. Brug af rettelseskode 2 »tilføjelse/ændring«.
+ Rettelseskode 2 benyttes, når der skal foretages tilføjelser eller  
+
+ ændringer af dataindhold på en identifikation, som er oprettet i det  
+
+ pågældende register.
+ Rettelseskode 2 benyttes således ved efterfølgende indberetninger til  
+
+ BBR-ændringsregistret af faserne i byggesagen, f.eks. ved indberetning af  
+
+ dato for påbegyndelse af byggearbejdet, dato for ibrugtagningstilladelse  
+
+ eller dato for henlæggelse af byggesagen.
+ Ændres byggesagen undervejs, indberettes ændringerne ligeledes til  
+
+ BBR-ændringsregistret med rettelseskode 2.
+ Sker der ændringer til en eksisterende bygning i BBR-stamregistret uden  
+
+ byggesagsbehandling, indberettes ændringen til stamregistret med  
+
+ rettelseskode 2. Rettelseskode 2 må kun anvendes ved ændringer af de faktiske  
+
+ forhold.
+ 6.3. Brug af rettelseskode 3 »sletning«.
+ Rettelseskode 3 benyttes, når en oprettet identifikation (med tilhørende  
+
+ dataindhold) samt underliggende niveauer i det pågældende register ønskes  
+
+ slettet.
+ Rettelseskode 3 benyttes således, når en oprettet identifikation i  
+
+ BBR-ændringsregistret skal slettes.
+ Indberetning til BBR-stamregistret af, at en bygning f.eks. er nedbrændt,  
+
+ sker ligeledes ved brug af rettelseskode 3.
+ 6.4. Brug af rettelseskode 4 »fejlrettelse«.
+ Rettelseskode 4 benyttes, når der skal ske rettelse af fejlagtige  
+
+ indberetninger, hullefejl o.lign. af dataindholdet på en allerede indberettet  
+
+ identifikation i det pågældende register.
+Ved brug af rettelseskode 4 skal det påses, at koden kun benyttes i de  
+
+ tilfælde, hvor der er tale om egentlige fejlrettelser af allerede registreret  
+
+ dataindhold.
+Koden må således ikke benyttes, når der indtræder nye ændringer  
+
+ i de fysisk-faktiske forhold.
+ Opmærksomheden henledes endvidere på, at rettelseskode 4 kun kan benyttes  
+
+ til fejlrettelser af allerede registreret dataindhold.
+Konstateres det f.eks. ved udskrift på fejlliste, at en indberetning har  
+
+ været fejlbehæftet, og indberetningen som følge heraf er afvist for det  
+
+ pågældende felt ved gennemløbet af de maskinell  kontrolprocedurer, vil intet  
+
+ dataindhold være registreret.
+Fornyet indberetning kan herefter ikke ske som  
+
+ fejlrettelse, men må ske under anvendelse af den af de øvrige rettelseskoder,  
+
+ der passer på situationen.
+ Har de maskinelle kontrolprocedurer medført udskrift af advis  på  
+
+ fejllister, bliver der ved den fornyede indberetning tale om en sædvanlig  
+
+ fejlrettelse.
+ Om indberetning af dataindhold ved fejlrettelser henvises til punkt 8.
+ 6.5. Brug af rettelseskode 5 »identifikationsændring«.
+ Rettelsekode 5 benyttes ved ændring af en identifikation i det pågældende  
+
+ register.
+ Skal der samtidig med ændring af en identifikation ske ændringer i  
+
+ dataindholdet i øvrigt, skal disse ændringer indberettes særskilt ved brug af  
+
+ den af de øvrige rettelseskoder, som passer på situationen.
+ Skal samme identifikation ændres såvel i BBR-ændringsregistret som i  
+
+ BBR-stamregistret, skal indberetninger af identifikationsændringer ved brug  
+
+ af rettelseskode 5 foretages både til ændringsregistret med områdebetegnelse  
+
+ CS og til stamregistret med områdebetegnelse CR.
+ Identifikationsændringer indberettes altid med rettelseskode 5, uanset om  
+
+ der er tale om et faktisk identifikationsskrift, eller om der er tale om en  
+
+ fejlregistrering i ændringsregistret eller stamregistret.
+7. Brug af sagstype (felterne 290 og 390 »byggearbejdets eller ændringens art«).
+ Sagstypen angiver arten af den byggesag, der bliver udført, eller arten af  
+
+ den ændring, der fysisk-faktisk er gennemført.
+ Sagstype skal anføres ved enhver indberetning til BBR-stamregister og ved  
+
+ den første indberetning til BBR-ændringsregister.
+ Sagstypen registreres i felt 290 på bygningsniveau og i felt 390 på  
+
+ enhedsniveau. Ændringer i dataindholdet på ejendomsniveau indberettes med  
+
+ sagstype på bygningsniveau (til den 1. bygning på ejendommen).
+ 7.1. Indberetning af sagstype til BBR-ændringsregistret.
+ Ved indberetning til BBR-ændringsregistret af felt 290 skal en af følgende  
+
+ kodeværdier benyttes:
+ 1. Nybyggeri.
+ 2. Til/ombygning.
+ 3. Nedrivning.
+ Ved indberetning til BBR-ændringsregistret af felt 390 kan følgende  
+
+ kodeværdier benyttes:
+ 1. Tilgang af enheder (herunder enheder, der opstår  
+
+ ved erhvervsbygningers overgang til boligformål).
+ 2. Til/ombygning.
+ 3. Nedlæggelse.
+ de ovennævnte sagstyper skal kun indberettes i forbindelse med den første  
+
+ indberetning til BBR-ændringsregistret.
+Ved meddelelse af byggetilladelse til et enfamiliehus indberettes således  
+
+ sagstypen »nybyggeri« til felt 290 på bygningsniveau.
+Når datoen  
+
+ for påbegyndelsen af byggearbejder indberettes, skal sagstypen altså ikke  
+
+ indberettes på ny.
+ Indberetning af sagstype til felt 290 på bygningsniveau er tilstrækkeligt,  
+
+ når enhederne i en bygning er undergivet samme byggearbejde eller ændring som  
+
+ bygningsniveauet, idet felt 390 i så fald dannes maskinelt.
+ I det ovennævnte eksempel med en byggetilladelse til et enfamiliehus er  
+
+ det således ikke fornødent at indberette sagstype til felt 390.
+ 7.2. Indberetning af sagstype til BBR-stamregister.
+ Ved indberetning til BBR-stamregistret af sagstype til felt 290 og 390  
+
+ skal en af følgende kodeværdier benyttes:
+ 4. Fejlrettelse af »faktiske fejlregistreringer  
+
+ og udeladelser«.
+ 5. Faktisk udført ændring uden byggesagsbehandling.
+ Ved enhver indberetning til BBR-stamregistret skal sagstypen anføres.
+ I lighed med, hvad der er nævnt ovenfor vedrørende BBR-ændringsregistret,  
+
+ er indberetning af sagstype på bygningsniveau til felt 290 tilstrækkeligt,  
+
+ når eventuelle enheder omfattes af den samme ændring.
+ Sagstype 4 »fejlrettelse af faktiske fejlregistreringer og  
+
+ udeladelser« benyttes, når der er konstateret en uoverensstemmelse  
+
+ mellem det registrerede dataindhold og de fysisk-faktiske forhold om  
+
+ ejendommen, bygningen eller enheden, eller når en del af det krævede  
+
+ dataindhold ikke blev registreret på det krævede tidspunkt, f.eks. fordi  
+
+ oplysningerne af en eller anden grund ikke var kommet til kommunens kendskab.
+Som nævnt i punkt 3 skal oplysninger om nybyggeri, til- eller ombygninger  
+
+ eller nedrivninger, der efter byggeloven burde have været undergivet  
+
+ byggesagsbehandling, men som ejeren har udført uden iagttagelse af  
+
+ byggelovens regler, indberettes til BBR-stamregister, såfremt forholdet  
+
+ konstateres mere end 3 måneder efter byggearbejdets afslutning.
+Oplysninger  
+
+ indberettes ved brug af sagstype 4 »fejlrettelse af faktiske  
+
+ fejlregistreringer og udeladelser«.
+Sagstype 4 anvendes endvidere i forbindelse med rettelser af  
+
+ fejlregistreringer i BBR-stamregister, uanset hvornår fejlene konstateres, og  
+
+ uanset hvornår indberetningen er foretaget.
+Konstateres det således  
+
+ efterfølgende, at oplysninger, der er overført fra BBR-ændringsregister til  
+
+ BBR-stamregister har resulteret i fejlbehæftede oplysninger i  
+
+ BBR-stamregistret, rettes oplysningerne ved indberetning til stamregistret  
+
+ ved brug af sagstype 4.
+Sagstype 5 »faktisk udført ændring uden byggesagsbehandling« benyttes i alle de øvrige tilfælde, hvor en ændring af bygnings- og  
+
+ boligbestanden i BBR-stamregistret konstateres udført, og hvor ændringen ikke  
+
+ har krævet byggesagsbehandling.
+Sagstype 5 benyttes således ved indberetning af ændringsoplysninger, som  
+
+ ikke efter byggeloven har fordret byggesagsbehandling.
+Indberetning af  
+
+ oplysninger om f.eks. byggerier, der opføres i henhold til kap. 13.1 og 13.3  
+
+ i bygningsreglement 1977, jfr. punkt 3, indberettes således til  
+
+ BBR-stamregister med sagstype 5 i den udstrækning, sådanne byggerier skal  
+
+ registreres i bygnings~ og boligregistret.
+ 8. Indberetning af dataindhold.
+ Indberetning af dataindhold i øvrigt sker efter forskellige principper,  
+
+ afhængig af om indberetningen foretages til BBR-ændringsregister eller til  
+
+ BBR-stamregister.
+ 8.1. Indberetning af dataindhold til BBR-ændringsregister.
+ Førstegangsindberetning.
+ Til ændringsregistret skal kun indberettes forhold vedrørende den  
+
+ verserende byggesag.
+ Ved nybyggeri indberettes således de data, der vedrører nybyggeriet.
+ Ved tilbygninger indberettes kun de data, der vedrører tilbygningen, og  
+
+ ved ombygninger indberettes kun de ændringer, som ombygningen medfører set i  
+
+ forhold til de registrerede oplysninger om den eksisterende bygning.
+ Ved nedrivninger indberettes kun oplysninger om de dele af bygningen eller  
+
+ enheden, der nedrives, hvis nedrivningen ikke er total.
+ Når en til- eller ombygning medfører, at en bygnings eller en enheds areal  
+
+ bliver større, når antallet af værelser stiger og i tilsvarende tilfælde,  
+
+ skal således kun forøgelsen indberettes.
+ F.eks. indberettes 1 toilet, hvor en tilbygning til et en-familiehus  
+
+ medfører, at huset udstyres med et ekstra gæstetoilet, idet det eksisterende  
+
+ toilet i forvejen er registreret i stamregistret.
+ De datafelter, der ikke skal indeholde areal- eller antalangivelser,  
+
+ udfyldes alene på grundlag af byggesagen - d.v.s. det er den ny kodeværdi,  
+
+ der indberettes, og ikke ændringen i forhold til tidligere kodeværdi.
+ F.eks. indberettes metalplader, når der til en eksisterende stråtækt  
+
+ ejendom foretages en tilbygning med tag af metalplader.
+ Efterfølgende indberetninger.
+ Når en fejlagtig oplysning er blevet indberettet til  
+
+ BBR-ændringsregistret, eller når en oplysning i ændringsregistret bliver  
+
+ forkert, f.eks. fordi byggesagen får et andet forløb end planlagt, skal der  
+
+ foretages en indberetning af den korrekte oplysning, som om der ikke i  
+
+ forvejen var indberettet noget til  ændringsregistret.
+ Er en tilbygnings areal således oprindeligt blevet indberettet til  
+
+ ændringsregistret med 25 kvadratmeter, og det viser sig ved  
+
+ ibrugtagningstilladelsen, at arealet faktisk udgør 32 kvadratmeter, skal  
+
+ ændringsregistrets oplysning fejlrettes ved indberetning af det korrekte  
+
+ areal på 32 kvadratmeter og ikke ved indberetning af forøgelsen i forhold til  
+
+ det planlagte areal på 25 kvadratmeter.
+Specielt om felt 286 »færdiggjort bygningsareal siden sidste ajourføring«.
+Felt 286 anvendes kun i forbindelse med felt 284 »dato for seneste  
+
+ delvise ibrugtagningstilladelse«, og der indberettes det areal, som er  
+
+ færdiggjort i forbindelse med den sidst udstedte delvise  
+
+ ibrugtagningstilladelse.
+Dette areal overføres maskinelt til felt 296  
+
+ »foreløbigt færdiggjort bygningsareal«, således at felt 296 udgør  
+
+ summen af indberettet areal til felt 286.
+ For at undgå, at en fejlrettelse til felt 286 skal bevirke en forkert  
+
+ opsummering i felt 296, skal rettelse af indberettet areal  i felt 286 altid  
+
+ ske ved indberetning af forøgelsen eller  formindskelsen af arealet.
+Er det færdiggjorte bygningsareal således oprindeligt indberettet til  
+
+ BBR-ændringsregister med 225 kvadratmeter, og det viser sig, at den delvise  
+
+ ibrugtagningstilladelse omfattede et areal på 250 kvadratmeter, skal felt 286  
+
+ rettes ved indberetning af 25 kvadratmeter.
+Viser det sig, at den delvise  
+
+ ibrugtagningstilladelse kun omfattede et areal på 200 kvadratmeter, skal felt  
+
+ 286 rettes ved indberetning af - 25 kvadratmeter.
+ Dette princip gælder altså kun ved korrektioner til felt 286.
+ 8.2. Indberetning af dataindhold til BBR-stamregistret.
+Indberetning af dataindhold til BBR-stamregistret sker efter hidtil  
+
+ gældende retningslinjer.
+Indberetningen sker altså som hidtil med det  
+
+ konkrete dataindhold, som stamregistret skal udvise efter ajourføringen.
+ Konstateres en tilbygning på 25 kvadratmeter til et enfamiliehus på 100  
+
+ kvadratmeter således opført uden iagttagelse af byggelovens regler, og skal  
+
+ tilbygningen som følge heraf indberettes direkte til stamregistret, jfr.  
+
+ punkt 3 og 7.2., indberettes arealet med 125 kvadratmeter.
+ 9. Eksempler på indberetninger til BBR-ændringsregistret af  forskellige  
+
+ byggesager og faserne i byggesager.
+Ajourføring af bygnings- og boligregistret med oplysninger om nybyggeri,  
+
+ til/ombygninger og nedrivninger knyttes til de naturlige faser i  
+
+ byggesagsbehandlingen, d.v.s. først og fremmest bygningsmyndighedens  
+
+ meddelelse af byggetilladelse, ejerens/bygherrens anmeldelse om påbegyndelse  
+
+ af byggearbejdet samt bygningsmyndighedens meddelelse af hel eller delvis  
+
+ ibrugtagningstilladelse og endelig for nedrivningssager bygningsmyndighedens  
+
+ meddelelse af nedrivningstilladelse.
+For jordbrugserhvervenes avls- og  
+
+ driftsbygninger, der omfattes af kap. 13.9 i bygningsreglement, knyttes  
+
+ ajourføringen til ejerens/bygherrens anmeldelse af det påtænkte byggearbejde.
+I det følgende beskrives, hvilke data der skal være indberettet til  
+
+ BBR-ændringsregistret ved de enkelte faser i byggesagen.
+Hele punkt 9  
+
+ omhandler således kun indberetninger til ændringsregistret med  
+
+ områdebetegnelse CS af sagstyperne 1. »Nybyggeri«, 2.  
+
+ »Til/ombygninger« og 3. »Nedrivninger«.
+9.1. Indberetning af data ved meddelelse af byggetilladelse til et nybyggeri.
+ Ved meddelelse af byggetilladelse til et nybyggeri skal den første  
+
+ indberetning til BBR-ændringsregistret foretages.
+ Indberetningen sker ved angivelse af entydig identifikation, angivelse af  
+
+ rettelseskode 1. Oprettelse og med angivelse af sagstype 1. Nybyggeri.  
+
+ Indberetningen sker altid bygning for bygning.
+Endvidere indberettes samtlige de oplysninger, der skal registreres i det samlede registersystem på ejendoms-, bygnings og enhedsniveau, herunder dato for byggetilladelse samt om byggeriet  
+
+ opføres med offentlig støtte.
+Denne hovedregel kan imidlertid ikke følges fuldt ud ved byggetilladelse  
+
+ til opførelse af et nybyggeri med flere bolig- og erhvervsenheder.
+Dette  
+
+ hænger sammen med, at ejeren ved bygninger med flere enheder ifølge § 3 i  
+
+ bekendtgørelsen om ejeres oplysningspligt til bygnings- og boligregistret  
+
+ først er forpligtet til at fastsætte etage- eller sidebetegnelser, når der  
+
+ meddeles ibrugtagningstilladelse til byggeriet, jfr. punkt 4.
+Ved meddelelse af byggetilladelse til et nybyggeri med flere bolig- eller erhvervsenheder kræves således kun indberetning af samtlige oplysninger, der skal registreres i det samlede registersystem på ejendoms- og bygningeniveau.
+ Ved meddelelse af byggetilladelse til fritliggende enfamiliehuse,  
+
+ sommerhuse og kolonihavehuse samt stuehuse til landbrugsejendomme, række-,  
+
+ kæde- eller dobbelthuse og andre bygninger til helårsbeboelse med kun een  
+
+ boligenhed skal ejendoms-, bygnings- og enhedsniveauet oprettes.
+Ved meddelelse af byggetilladelse til etageboligbebyggelser og  
+
+ tofamiliehuse, kollegier, døgninstitutioner, produktions- og lagerbygninger i  
+
+ forbindelse med landbrug, industri, håndværk, offentlige værker o.lign.,  
+
+ bygninger til handel, transport, kontor og liberale erhverv,  
+
+ servicevirksomhed, kulturelle formål samt institutioner, bygning til  
+
+ ferieformål, bygning i forbindelsen med idrætsudøvelse og anden bygning til  
+
+ fritidsformål samt ved stuehuse til landbrugsejendomme, række-, kæde- eller  
+
+ dobbelthuse og ved anden bygning til helårsbeboelse, såfremt disse indeholder  
+
+ mere end een boligenhed, skal ejendoms~ og bygningsniveau således altid  
+
+ oprettes.
+Enhedsniveauet oprettes i det omfang, ejeren har tildelt etage- og  
+
+ sidebetegnelser til bolig- og erhvervsenhederne.
+Det anbefales derfor fortsat, at kommunen på så tidligt et tidspunkt som  
+
+ muligt orienterer ejeren om retningslinjerne for tildeling af etage- og  
+
+ sidebetegnelser, således at disse kan foreligge på et tidligt tidspunkt under  
+
+ byggesagen.
+Herved skabes mulighed for, at oplysningerne på enhedsniveau kan  
+
+ indberettes samtidig med oplysninger på ejendoms- og bygningsniveau.
+Opmærksomheden henledes på, at registrering på enhedsniveau ikke er krævet  
+
+ for bygninger, der udelukkende indeholder erhvervsareal.
+Tilsvarende gælder  
+
+ for bygninger, hvor det samlede areal af beboelsesenhederne udgør mindre end  
+
+ 5 pct. af det samlede bygningsareal, idet det for sådanne bygninger alene er  
+
+ krævet, at enhedsmiveauet registreres for enheder, der anvendes helt eller  
+
+ delvist til beboelse.
+ For byggerier med flere bolig- eller erhvervsenheder skal  enhedsniveauet  
+
+ oprettes senest samtidig med meddelelse af  ibrugtagningstilladelse, jfr.  
+
+ punkt 9.5.
+ 9.2. Indberetning af data ved meddelelse af byggetilladelse  til en  
+
+ tilbygning.
+ Ved meddelelse af byggetilladelse til en tilbygning skal den første  
+
+ indberetning til BBR-ændringsregistret foretages.
+Indberetningen sker ved angivelse af entydig identifikation, med angivelse  
+
+ af rettelseskode 1 »oprettelse« og med angivelse af sagstype 2  
+
+ »til/ombygning«.
+Indberetningen sker altid bygning for bygning.
+ Samtidig indberettes samtlige de oplysninger, der vedrører  tilbygningen,  
+
+ og som skal indgå som registreringsgrundlag i  bygnings- og boligregistret,  
+
+ herunder dato for byggetilladelse.
+Der indberettes samtlige de data, der vedrører tilbygningen.
+Gives der  
+
+ således byggetilladelse til en tilbygning på 55 kvadratmeter med  
+
+ ydervægsmateriale af træ og tagdækningsmateriale af built-up til en  
+
+ eksisterende bygning på 110 kvadratmeter opført af mursten med tegltag,  
+
+ indberettes således kun oplysninger om tilbygningen, nemlig 55 kvadratmeter,  
+
+ ydervægsmateriale af træ og tagdækningsmateriale af built-up.
+ For så vidt angår tilbygninger, som omfatter flere enheder, rene  
+
+ erhvervsbygninger eller beboelsesenheder, der udgør mindre end 5 pct. af det  
+
+ samlede bygningsareal, finder de under punkt 9.1 nævnte regler tilsvarende  
+
+ anvendelse.
+ 9.3. Indberetning af data ved meddelelse af byggetilladelse til et  
+
+  ombygningsarbejde.
+ Ved meddelelse af byggetilladelse til et ombygningsarbejde skal den første  
+
+ indberetning til BBR-ændringsregistret foretages.
+Indberetningen sker ved angivelse af entydig identifikation, med angivelse  
+
+ af rettelseskode 1 »oprettelse« og med angivelse af sagstype 2  
+
+ »til/ombygning.
+Indberetningen sker altid bygning for bygning.
+ Samtidig indberettes samtlige de ændringsoplysninger, som  ombygningen  
+
+ medfører, og som skal indgå som registringsgrundlag  i bygnings- og  
+
+ boligregistret, herunder dato for byggetilladelse.
+ Der indberettes de ændringer, som ombygningsarbejdet medfører set i  
+
+ forhold til de registrerede oplysninger i BBR-stamregistret.
+Gives der således byggetilladelse til et ombygningsarbejde, der medfører,  
+
+ at 2 af lejlighederne i en etageboligbebyggelse med 8 beboelseslejligheder  
+
+ sammenlægges, samt at de resterende lejligheder forsynes med badeværelse,  
+
+ indberettes til BBR-ændringsregistret - 1 i felt 205 »antal egentlige  
+
+ beboelseslejligheder« samt 1 i felt 319 »badeforhold« for hver  
+
+ af de berørte enheder.
+Endvidere skal sammenlægningen af de to lejligheder  
+
+ indberettes.
+Afhængig af de konkrete forhold i bygningen sker dette enten ved  
+
+ at nedlægge de to lejligheder og oprette den nyopståede lejlighed eller ved  
+
+ at nedlægge den ene lejlighed og ændre oplysningerne for den resterende  
+
+ lejlighed.
+ Medfører ombygningsarbejdet ikke ændringer af det registrerede  
+
+ dataindhold, indberettes arbejdets art til notatlinje 31, jfr. punkt 2 samt  
+
+ bilag 1.
+ 9.4. Indberetning af data ved anvendelse af påbegyndelse  af  
+
+ byggearbejder.
+ Når byggearbejdet vedrørende en nybygning eller en til- eller ombygning af  
+
+ ejeren anmeldes påbegyndt, skal den næste indberetning til  
+
+ BBR-ændringsregistret foretages.
+ Indberetningen foretages ved angivelse af entydig identifikation for den  
+
+ påbegyndte del samt med angivelse af rettelseskode 2  
+
+ »tilføjelse/ændring«.
+ Felt 282 »dato for påbegyndelse af byggeri« skal altid  
+
+ indberettes.
+ Indberetningen skal altid foretages bygning for bygning.
+9.5. Indberetning af data ved meddelelse af ibrugtagningstilladelse Ved bygningsmyndighedens meddelelse af ibrugtagningstilladelse til et  
+
+ nybyggeri eller en til- og ombygning skal indberetning til  
+
+ BBR-ændringsregistret foretages.
+Felt 283 »dato for ibrugtagningstilladelse« skal altid  
+
+ indberettes.
+I byggesager, hvor der udstedes en delvis  
+
+ ibrugtagningstilladelse, indberettes i stedet til felt 284 »dato for  
+
+ delvis ibrugtagningstilladelse« for den pågældende bygning samt felt 391  
+
+ »dato for delvis ibrugtagningstilladelse« til den eller de enheder,  
+
+ der omfattes heraf, jfr. punkt 9.5.1.
+Ved meddelelse af ibrugtagningstilladelse skal foretages en indberetning  
+
+ med angivelse af entydig identifikation og med angivelse af rettelseskode 2  
+
+ »tilføjelse/ændring«.
+Indberetningen foretages bygning for bygning.
+ Ved udstedelse af ibrugtagningstilladelse til en nybygning eller en til-  
+
+ eller ombygning skal samtlige data, som skal indgå som  registreringsgrundlag  
+
+ i bygnings- og boligregistret være  indberettet.
+ Er enhedsniveauet for byggerier med flere bolig- eller erhvervsenheder  
+
+ ikke tidligere oprettet, skal dette ske i denne fase af indberetningerne.
+Samtidig skal det påses, at alle oplysninger, som skal være registreret i  
+
+ bygnings- og boligregistret om nybyggeriet, til~ eller ombygningen, også er  
+
+ indberettet.
+Dette er særdeles vigtigt, idet oplysningerne om nybyggeriet,  
+
+ til- eller ombygningen først overføres til BBR-stamregistret, når samtlige  
+
+ oplysninger er indberettet til BBR-ændringsregistret, jfr.
+Kommunedatas  
+
+ brugerhåndbog.
+ 9.5.1. Indberetning af data ved meddelelse af delvis  
+
+  ibrugtagningstilladelse.
+Ved meddelelse af delvis ibrugtagningstilladelse til et nybyggeri eller en  
+
+ til- og ombygning skal indberetning til BBR-ændringsregistret foretages.
+Ved  
+
+ indberetningen anføres den entydige identifikation for den del af byggeriet,  
+
+ der er omfattet af den delvise ibrugtagningstilladelse.
+Ved indberetning af dato for seneste delvise ibrugtagningstilladelse i  
+
+ felt 284 sker indberetningen ved angivelse af rettelseskode 2  
+
+ »tilføjelse/ændring«.
+Indberetningen skal foretages bygning for  
+
+ bygning.
+Omfatter den delvise ibrugtagningstilladelse en eller flere enheder, skal  
+
+ dataindholdet for disse enheder indberettes (hvis dette ikke tidligere er  
+
+ sket). Indberetningen af enhedsniveauet sker i så fald til  
+
+ BBR-ændringsregistret med rettelseskode 1 »oprettelse« samt  
+
+ sagstypekategori 1 »nybyggeri eller tilgang af enheder«.
+Endvidere  
+
+ skal dato for delvis ibrugtagningstilladelse på enhedsniveau indberettes til  
+
+ felt 391.
+ Ved meddelelse af delvis ibrugtagningstilladelse skal endvidere  
+
+  indberettes det areal i felt 286 »foreløbigt færdiggjort  bygningsareal  
+
+ siden sidste ajourføring« som er omfattet  af tilladelsen.  
+
+ »Foreløbigt færdiggjort bygningsareal siden sidste ajourføring«  
+
+ opgøres i overensstemmelse med retningslinjerne for brugen af felt 216  
+
+ »samlet bygningsareal« med tillæg af felt 222 »areal af  
+
+ udnyttet del af tagetage«.
+Arealer fra en tidligere delvis ibrugtagningstilladelse udgår maskinelt af  
+
+ felt 286, når en ny delvis ibrugtagningstilladelse indberettes, således at  
+
+ der altid i felt 286 er registreret det sidst færdiggjorte areal.
+Arealet fra  
+
+ felt 286 overføres maskinelt til felt 296 »foreløbigt færdiggjort  
+
+ bygningsareal«, således at dette felt altid udviser summen af de  
+
+ færdiggjorte arealer.
+For så vidt angår fejlrettelse af felt 286 henvises til  
+
+ punkt 8.
+ Efter indberetning af en delvis ibrugtagningstilladelse overføres  
+
+ maskinelt til BBR-stamregistret samtlige de enheder, der er omfattet af den  
+
+ delvise ibrugtagningstilladelse, d.v.s. de enheder, hvor datoen for den  
+
+ delvise ibrugtagningstilladelse er indberettet til felt 391. Samtidig dannes  
+
+ felt 207 »opførelsesår« maskinelt, og der dannes ligeledes  
+
+ maskinelt en markering i felt 208 for, at bygningsniveauet er midlertidigt  
+
+ oprettet i BBR-stamregistret.
+ I BBR-ændringsregistret udviser felterne 297 »foreløbigt færdiggjort  
+
+ antal lejligheder« og 298 »foreløbigt færdiggjort antal  
+
+ enkeltværelser til beboelse« henholdsvis det antal lejligheder eller  
+
+ enkeltværelser, der er oprettet i BBR-stamregistret.
+ Denne procedure gentages ved enhver ny delvis ibrugtagningstilladelse til  
+
+ den pågældende bygning.
+Ved udstedelse af ibrugtagningstilladelse til den sidste del af bygningen,  
+
+ således at der dermed er givet ibrugtagningstilladelse til hele bygningen,  
+
+ skal foruden datoen for den delvise ibrugtagningstilladelse (284) og arealet  
+
+ af den omfattede bygningsdel (286) sek en indberetning af, at bygningen  
+
+ hermed er fuldført.
+Denne indberetning sker til felt 283 »dato for  
+
+ ibrugtagningstilladelsen«.
+ 9.6. Indberetning af data ved anmeldelse af byggearbejder  efter kap.  
+
+ 13.9 i bygningsreglement 1977.
+Nybyggerier eller til- og ombygninger af jordbrugserhvervenes avls~ og  
+
+ driftsbygninger i landzoneområder er efter bygningsreglement 1977 undergivet  
+
+ en lempeligere byggesagsbehandling, idet ejeren/bygherren alene skal anmelde  
+
+ det byggearbejde, der ønskes udført.
+Reglerne om byggetilladelse,  
+
+ påbegyndelse og ibrugtagningstilladelse gælder således ikke for disse  
+
+ byggerier.
+ Ved ejeren/bygherrens anmeldelse af byggearbejdet skal den første  
+
+ indberetning til BBR-ændringsregistret af nybyggeriet foretages.
+ Indberetningen foretages ved angivelse af entydig identifikation,  
+
+ angivelse af rettelseskode 1 »oprettelse« samt sagstype 1  
+
+ »nybyggeri« eller sagstype 2 »til/ombygning«.
+ Endvidere skal indberettes felt 293 »dato for anmeldelse af  
+
+ byggearbejdet«  samt det fuldstændige dataindhold, som efter byggeriets  
+
+  færdiggørelse skal indgå i bygnings- og boligregistret.
+ Indberetningen foretages bygning for bygning.
+ 9.6-1- Indberetning ved færdiggørelse af jordbrugserhvervenes  avls- og  
+
+ driftsbygninger.
+ Den lempeligere byggesagsbehandling af jordbrugserhvervenes avls- og  
+
+ driftsbygninger indebærer, at byggeriet af ejeren/bygherren ikke skal  
+
+ færdigmeldes.
+ For at sikre, at disse bygninger, når de er færdigudførte, overføres til  
+
+ BBR-stamregistret, indarbejdes en særlig erindringsfacilitet i EDB-systemet,  
+
+ således at bygningen udskrives på erindringsliste 1 år efter indberetning,  
+
+ jfr. punkt 12.2.
+Når byggeriet er færdigt, foretages indberetning til BBR-ændringsregistret  
+
+ ved angivelse af entydig identifikation, rettelseskode 2  
+
+ »tilføjelse/ændring« samt dato i felt 283 »dato for  
+
+ ibrugtagningstilladelse«.
+Denne dato angiver i dette tilfælde alene, at  
+
+ byggeriet nu er udført og derfor maskinelt skal ajourføre BBR-stamregister.
+ 9.7. Indberetning af data ved meddelelse af nedrivningstilladelse  og ved  
+
+ gennemført nedrivning.
+ 9.7.1. Fuldstændig nedrivning af en bygning.
+Ved meddelelse af nedrivningstilladelse til en bygning skal den første  
+
+ indberetning til BBR-ændringsregistret af nedrivningen foretages, Indberetningen foretages ved angivelse af entydig identifikation for  
+
+ bygningen, angivelse af rettelseskode 1 »oprettelse« samt sagstype  
+
+ 3 »nedrivning«.
+ Endvidere indberettes felt 294 »dato for nedrivningstilladelse«.  
+
+ Indberetningen foretages bygning for bygning.
+ Når bygningen konstateres fysisk-faktisk nedrevet, skal ny indberetning  
+
+ til BBR-ændringsregistret foretages.
+Ved indberetningen angives entydig identifikation og rettelseskode 2  
+
+ »tilføjelse/ændring«.
+Endvidere indberettes felt 295 »dato for  
+
+ gennemført nedrivning«.
+Indberetningen til felt 295 markerer, at nedrivningen er udført, og at  
+
+ bygningen skal slettes i stamregistret samt udgå af ændringsregistret.
+Om den  
+
+ særlige erindringsfacilitet ved nedrivninger henvises til punkt 12.1.
+ 9.7.2. Delvis nedrivning af en bygning.
+ Ved meddelelse af nedrivningstilladelse til en del af en bygning skal den  
+
+ første indberetning til BBR-ændringsregistret foretages af nedrivningssagen.
+ Indberetningen foretages ved angivelse af entydig identifikation for den  
+
+ del af bygningen, der er omfattet af nedrivningstilladelsen, angivelse af  
+
+ rettelsekode 1 »oprettelse« samt sagstype 3 »nedrivning«.
+Endvidere indberettes felt 294 »dato for nedrivningstilladelse«  
+
+ samt det øvrige dataindhold, der er omfattet af nedrivningstilladelsen.
+Indberetningen foretages bygning for bygning.
+ Ved meddelelse om, at nedrivningen er fysisk-faktisk udført, gælder samme  
+
+ procedure som nævnt under punkt 9.7.1.
+ 9.7.3. Indberetning af total nedrivning af bygning kombineret med  
+
+  opførelse af ny bygning.
+ Ved meddelelse af nedrivningstilladelse til en bygning og byggetilladelse  
+
+ til opførelse af en ny bygning samme sted - uanset om dette tillades ved een  
+
+ eller to byggesager - skal følgende indberettes til BBR-ændringsregistret:
+Entydig identifikation for den bygning, der er givet nedrivningstilladelse  
+
+ til, rettelsekode 1 »oprettelse«, sagstype 3 »nedrivning«  
+
+ samt felt 294 »dato for nedrivningstilladelse« indberettes.
+Om den  
+
+ videre procedure for nedrivningen henvises til punkt 9.7.1.
+ Den nye bygning indberettes med ny bygningsidentifikation, rettelseskode 1  
+
+ »oprettelse«, sagstype 1 »nybyggeri« samt det krævede  
+
+ dataindhold.
+ Den totale nedrivning kombineret med nybyggeri samme sted indberettes  
+
+ således altid som to sager. d.v.s. som vedrørende to forskellige bygninger  
+
+ (f.eks. nedrivning af bygnings nr. 001 og opførelse af bygning nr. 002).
+ Når bygningen konstateres fysisk-faktisk nedrevet og dermed slettes i  
+
+ stamregistret, gennemføres en maskinel kontrolprocedure, som kan danne  
+
+ grundlag for at overveje, om det ledige bygningsnummer bør knyttes til den  
+
+ nye bygning.
+ 9.7.4. Indberetning af delvis nedrivning af bygning kombineret med  til-  
+
+ eller ombygningsarbejde.
+ Meddelelse af delvis nedrivningstilladelse til en bygning kombineret med  
+
+ byggetilladelse til udførelse af et til- eller ombygningsarbejde på samme  
+
+ bygning - uanset om dette tillades ved een eller to byggesager - skal altid  
+
+ indberettes til BBR-ændringsretistret som een sag, nemlig som et til- eller  
+
+  ombygningsarbejde,jfr. punkt 9.2 og 9.3.
+Indberetningen foretages ved angivelse af entydig identifikation for  
+
+ bygningen, angivelse af rettelseskode 1 »oprettelse« samt sagstype  
+
+ 2 »til/ombygning«.
+Endvidere indberettes felt 281 »dato for  
+
+ byggetilladelse« samt det dataindhold, der efter byggearbejdets  
+
+ færdiggørelse skal indgå i bygnings- og boligregistret.
+Består arbejdet således i nedrivning af 35 kvadratmeter af det samlede  
+
+ bygningsareal kombineret med opførelse af en tilbygning på 75 kvadratmeter,  
+
+ indberettes 40 kvadratmeter i felt 216 »samlet bygningsareal«.
+Var  
+
+ 20 kvadratmeter af de nedrevne 35 kvadratmeter boligareal, mens samtlige 75  
+
+ kvdratmeter i tilbygningen skal benyttes til beboelse, indberettes 55  
+
+ kvadratmeter i felt 217 »samlet boligareal«.
+Blev det resterende  
+
+ nedrevne areal anvendt til erhverv, indberettes - 15 kvadratmeter i felt 218  
+
+ »samlet erhvervsareal«.
+ 9.8. Indberetninge af data ved henlæggelse af en byggesag.
+Ved henlæggelse af en byggesag forstås, at byggeriet opgives efter  
+
+ meddelelse af byggetilladelse, anmeldelse af byggearbejdet ved  
+
+ jordbrugerhvervenes avls- og driftsbygninger eller efter påbegyndelse,  
+
+ således at ingen bygningsdel færdiggøres.
+En henlæggelse betyder således, at  
+
+ intet dataindhold skal overføres til BBR-stamregistret.
+ Ved ejerens eller evt bygningsmyndighedens angivelse af, at byggesagen  
+
+ opgives, skal indberetning til BBR-ændringsregistret foretages.
+Ved indberetningen angives entydig identifikation, rettelseskode 2  
+
+ »tilføjelse/ændring« samt felt 285 »dato for  
+
+ henlæggelse«.
+Indberetningen foretages bygning for bygning.
+ Indberetningen til felt 285 markerer således afslutningen på byggesagen  
+
+ uden overførsel af dataindhold til BBR-stamregister, og identifikationen med  
+
+ tilhørende dataindhold slettes i BBR-ændringsregistret.
+9.9. Indberetning af data ved nybyggerier eller til- og ombygninger af garager, carporte eller udhuse.
+Ved byggetilladelse til opførelse af garager, carporte eller udhuse  
+
+ indberettes bygningen med selvstændig bygningsnummer i overensstemmelse med  
+
+ retningslinjerne i punkt 9.1. Der indberettes dog kun følgende data: 207  
+
+ »opførelsesår«, 211 »ydervægsmateriale«, 212  
+
+ »tagdækningsmateriale«, 215 »kilde til materialer«, 219  
+
+ »bebygget areal«, 228 »kilde til arealer« samt 203  
+
+ »bygningens anvendelse«.
+For carporte uden ydervægge udelades felt  
+
+ 211 »ydervægsmateriale«.
+ Ved meddelelse af byggetilladelse til en til- eller ombygning af en  
+
+  eksisterende garage, der i BBR-stamregistret er registreret  i felterne 213.  
+
+ 214, 225, 226 eller 227 i tilknytning til  andre bygninger, skal garagen,  
+
+ carporten eller udhuset, forinden byggearbejdet indberettes til  
+
+ BBR-ændringsregistret, oprettes som en selvstændig bygning i  
+
+ BBR-stamregistret.
+ Dette sker ved to forskellige indberetninger til BBR-stamregistret, der  
+
+ kan foretages til samme EDB-kørsel.
+Ved den ene indberetning slettes dataindholdet i det af felterne 213-227,  
+
+ hvori der er registreret dataindhold.
+Dette sker ved brug af rettelseskode 4  
+
+ »fejlrettelse« dog sagstype 4 »fejlrettelse af faktiske  
+
+ fejlregistreringer og udeladelser«.
+Ved den anden indberetning oprettes garagen, carporten eller udhuset som  
+
+ en selvstændig bygning i BBR-stamregistret, d.v.s. ved indberetning af  
+
+ selvstændigt bygningsnummer samt indberetning af det krævede dataindhold  
+
+ inden til- eller ombygningen.
+Dette sker ved brug af rettelseskode 1  
+
+ »oprettelse« og sagstype 4 »fejlrettelse af faktiske  
+
+ fejlregistreringer og udeladelser«.
+Herefter kan til- eller ombygningsarbejdet indberettes til  
+
+  BBR-ændringsregister.
+Dette sker efter de retningslinier, der er beskrevet i  
+
+ punkterne 9.2 og 9.3. Indberetningen af byggearbejdet til ændringsregistret  
+
+ kan ligeledes ske til samme EDB-kørsel.
+ 10. Maskinel overførsel af data fra BBR-ændringsregister til  
+
+  BBR-stamregister.
+Når en byggesag afsluttes ved indberetning af dato for  
+
+ ibrugtagningstilladelse i felt 283 eller dato for gennemført nedrivning i  
+
+ felt 295, skal oplysningerne overføres fra BBR-ændringsregister til  
+
+ BBR-stamregister.
+Overførsel sker maskinelt.
+For nye bygninger og nyopståede  
+
+ enheder overføres dataindholdet direkte.
+For totale nedrivninger og  
+
+ nedlæggelser bevirker overførslen at de pågældende bygninger og enheder  
+
+ slettes i stamregistret.
+For til- eller ombygninger, delvise nedrivninger  
+
+ m.v. sker overførslen ved hjælp af forskellige maskinelle metoder  
+
+ tilrettelagt efter de enkelte datafelters struktur.
+ De maskinelle metoder er følgende:
+1. Direkte overførsel.
+Oplysningerne fra BBR-ændringsregistret træder i  
+
+ stedet for de hidtidige oplysninger i BBR-stamregistret.
+Ek.: Såfrent  
+
+ ejerforhold (102) er registreret i BBR-ændringsregistret med en anden  
+
+ ejerkategori end anført i BBr-ændringsregistret med en anden ejerkategori end  
+
+ anført i BBR-stamregistret, anses den nyeste oplysning (i ændringsregistret)  
+
+ for at være korrekt.
+Tilsvarende gælder for bl.a. kilde til byggematerialer  
+
+ (215), til kilde til arealer (228), årstal for seneste væsentlige om- eller  
+
+ tilbygning (209) og opdateringsdatoer (107, 233 og 325).
+2. Arealdomineret overførsel.
+Oplysningerne fra BBR-ændringsregistret  
+
+ overføres, hvis de beskriver hovedparten af arealet efter ajourføringen.  
+
+ Eks.: Hvis en tilbygning er større end den eksisterende bygning, overføres  
+
+ oplysningerne om tilbygningens konstruktionsforhold (210), ydervægsmateriale  
+
+ (211) og tagdækningsmateriale (212) til BBR-stamregistret.
+Hvis tilbygningen  
+
+ er mindre end den eksisterende bygning, bevares de registrerede oplysninger i  
+
+ BBR-stamregistret, da disse repræsenterer det hovedsagelige byggedmateriale.  
+
+ Tilsvarende gælder for bygningens anvendelse (203) varmeinstallation (229),  
+
+ opvarmningsmiddel (230) samt enhedens anvendelse (307) i forbindelse med  
+
+ tilbygninger.
+Opmærksomheden henledes på, at den maskinelle metode i visse tilfælde vil  
+
+ være fejlbehæftet.
+Fejl vil bl.a. kunne opstå, hvis f.eks. ydervægs- og  
+
+ tagdækningsmaterialer i BBR-stamregistret i forvejen er registreret som  
+
+ hovedsagelig materiale, og der herefter opføres en tilbygning i materialer,  
+
+ der i forvejen indgår i den eksisterende bygning, men ikke som bygningens  
+
+ hovedsagelige materialer.
+I sadanne tilfælde må materialerne efterfølgende  
+
+ korrigeres ved indberetning til BBR-stamregistret.
+Indberetningen sker ved  
+
+ rettelseskode 4 »fejlrettelse« og sagstype 4 »fejlrettelse af  
+
+ faktiske fejlregistreringer og udeladelser«.
+3. Prioriteret overførsel.
+Ved denne metode er det afgørende, om  
+
+ oplysningerne i BBR-ændringsregistret angiver en ny/bedre egenskab i forhold  
+
+ til BBR-stamregistret.
+Eks.: Hvis vandforsyning (103) til en tilbygning  
+
+ ifølge ændringsregistret afviger fra vandforsyningen til den eksisterende  
+
+ bygning, vælger den maskinelle metode den bedste egenskab (d.v.s. den med den  
+
+ laveste kodeværdi).
+4. Overførsel ved addition eller subtraktion.
+Addition/subtraktion  
+
+ foretages i forbindelse med alle oplysninger om antal og arealer.
+Værdien i  
+
+ BBR-ændringsregistret lægges til eller trækkes fra værdien i det pågældende  
+
+ felt i stamregistret, jfr. i øvrigt punkt 8.
+ Eks.: For en tilbygning med et bebygget areal på 50 kvadratmeter til en  
+
+ bygning på 125 kvadratmeter overføres de 50 kvadratmeter til  
+
+ BBR-stamregistret, således at de to tal lægges sammen til i alt 175  
+
+ kvadratmeter i feltet bebygget areal (219). Tilsvarende gælder for antal  
+
+ egentlige beboelseslejligheder (205), samlet bygningsareal (216) og alle  
+
+ øvrige arealoplysninger.
+11 Maskinelt dannede felter i BBR-ændringsregistret og ved overførselen til BBR-stamregister.
+ I BBR-ændringsregister dannes en række data maskinelt, således at det ikke  
+
+ er muligt at indberette manuelt til det pågældende datafelt.
+ De nedenfor omhandlede data kan således kun dannes maskinelt:
+ Felt 180 »maskinel vurderingsudtagelseskode«.
+Feltet dannes maskinelt i forbindelse med overførslen af data fra  
+
+ BBR-ændringsregister til BBR-stamregister.
+Om dannelsen af de enkelte  
+
+ kodeværdier henvises til Boligministeriets cirkulære om bygnings- og  
+
+ boligregistrets drift og anvendelse 1.
+ En gang årlig ved udtræk til årsomvurdering dannes den særlige  
+
+ udtagelsesmarkering (kode E) for igengværende byggerier i  
+
+ BBR-ændringsregistret, d.v.s. for de byggerier, hvor felt 282 »dato for  
+
+ påbegyndelse« eller felt 293 »dato for anmeldelse af  
+
+ byggearbejder« er indberettet, men hvor felt 283 »dato for  
+
+ ibrugtagningstilladelse« eller felt 284 »dato for seneste delvise  
+
+ ibrugtagningstilladelse« ikke er indberettet.
+ Som en engangsforanstaltning i forbindelse med årsomvurderingen 1979  
+
+ dannes en undtagelseskode H for boligbyggeri, der er ibrugtaget i perioden 1.  
+
+ april 1978 til 31. august 1978. Koden dannes på grundlag af oplysninger i  
+
+ felt 310.
+ Felt 207 »opførelsesår«.
+Feltet dannes maskinelt i forbindelse med overførslen af data fra  
+
+ BBR-ændringsregister til BBR-stamregister.
+Feltet dannes kun for nybyggerier,  
+
+ d.v.s. hvor sagstype er indberettet som 1 »nybyggeri«.  
+
+ Opførelsesåret sættes lig med årstallet, som indgår i felt 283 »dato for  
+
+ ibrugtagningstilladelse« eller felt 284 »dato for seneste delvise  
+
+ ibrugtagningstilladelse«.
+ Felt 208 »midlertidig oprettelse«.
+Feltet dannes maskinelt i forbindelse med overførslen af data fra  
+
+ BBR-ændringsregistret til BBR-stamregistret.
+Feltet benyttes kun, når der  
+
+ overføres en del af dataindholdet ved meddelelse af delvis  
+
+ ibrugtagningstilladelse til et nybyggeri eller en til~ eller ombygning, jfr.  
+
+ punkt 9.5.1.
+ Felt 296 »foreløbigt færdiggjort bygningsareal«.
+ Feltet dannes maskinelt i BBR-ændringsregistret og benyttes kun i  
+
+ forbindelse med meddelelse af delvis ibrugtagningstilladelse til et nybyggeri  
+
+ eller en til- eller ombygning, jfr. punkt 9.5.1.
+Feltet dannes i forbindelse med ajourføring af felt 286 »færdiggjort  
+
+ bygningsareal siden sidste ajourføring«.
+Ved efterfølgende  
+
+ indberetninger til felt 286 lægges det nye areal fra felt 286 til det i felt  
+
+ 296 registrerede areal, således at felt 296 altid angiver, hvor stor en del  
+
+ af bygningen der er færdiggjort ved meddelelse af delvise  
+
+ ibrugtagningstilladelser.
+De foreløbigt færdiggjorte bygningsarealer, der  
+
+ indberettes ved de delvise ibrugtagningstilladelser, og som er registreret i  
+
+ felt 296, skal således i alt være lig med det samlede bygningsareal (felt  
+
+ 216) med tillæg af udnyttet del af tagetagen (felt 222), når den sidste  
+
+ delvise ibrugtageningstilladelse indberettes.
+ felt 297 »foreløbigt færdiggjorte antal lejligheder«.
+ Feltet dannes maskinelt i BBR-ændringsregistret og benyttes kun i  
+
+ forbindelse med meddelelse af delvis ibrugtagningstilladelse til en række  
+
+ lejligheder, jfr. punkt 9.5.1.
+ Feltet dannes, når felt 391 »dato for delvis  
+
+ ibrugtagningstilladelse« er indberettet, ved maskinelt at sammenlægge  
+
+ det antal lejligheder, som den delvise ibrugtagningstilladelse omfatter.
+ Feltet angiver således, hvor mange lejligheder der er overført til  
+
+ BBR-stamregistret som færdiggjort.
+ Felt 298 »foreløbigt færdiggjorte antal enkeltværelser til beboelse.
+ Feltet dannes maskinelt i BBR-ændringsregistret og benyttes kun i  
+
+ forbindelse med meddelelse af delvis ibrugtagningstilladelse til en række  
+
+ enkeltværelser til beboelse, jfr. punkt 9.5.1.
+ Feltet dannes, når felt 391 »dato for delvis  
+
+ ibrugtagningstilladelse« er indberettet ved maskinelt at sammenlægge det  
+
+ antal enkeltværelser til beboelse, som den delvise ibrugtagningstilladelse  
+
+ omfatter.
+ Feltet angiver således, hvor mange enkeltværelser til beboelse der er  
+
+ overført til BBR-stamregistret som færdiggjorte.
+ Felt 310 »dato for oprettelse af enheden«.
+Feltet dannes maskinelt i forbindelse med overførslen af data fra  
+
+ BBR-ændringsregistret til BBR-stamregistret.
+Feltet dannes kun for  
+
+ nybyggeri/nytilgang af enheder'. Datoen sættes lig med den dato, der enten er  
+
+ indberettet til felt 283 »dato for ibrugtagningstilladelse« eller  
+
+ til felt 391 »dato for delvis ibrugtagningstilladelse«.
+ 12. Erindringsfaciliteter i BBR-ændringsregister.
+ Indberettet dataindhold til BBR-ændringsregister underkastes en række  
+
+ maskinelle kontroller, hvorved der afsløres og udskrives logiske fejl og  
+
+ mangler samt usandsynlige oplysninger på særlige fejllister til  
+
+ BBR-myndigheden.
+ Dette system kendes allerede fra BBR-stamregistret, og de enkelte  
+
+ maskinelle kontrolprocedurer vil fremgå af et senere afsnit til Kommudatas  
+
+ brugerhåndbog.
+ Som noget nyt indlægges i BBR-ændringsregister en række maskinelle  
+
+ erindringer, der udskrives på særlige erindringslister til BBR-myndigheden.
+Disse erindringer skal sikre, at indberettede byggesager afsluttes i  
+
+ BBR-ændringsregister, således at den udførte ændring medfører ajourføring af  
+
+ BBR-stamregister.
+Derfor knyttes erindringerne først og fremmest til sådanne  
+
+ byggesager, som efter byggeloven eller bygningsreglementet ikke formelt skal  
+
+ afsluttes med udstedelse af en tilladelse.
+Endvidere knyttes erindring til  
+
+ datoen for byggetilladelse, idet byggetilladelsen efter byggelovens § 16,  
+
+ stk. 1, bortfalder, hvis arbejdet ikke er påbegyndt inden 1 år fra  
+
+ tilladelsens dato.
+Endelig knyttes erindring til den etapevise færdiggørelse  
+
+ af byggerier, d.v.s. byggerier, der færdiggøres ved meddelelse af en række  
+
+ delvise ibrugtagningstilladelser, idet det herigennem kan sikres, at  
+
+ byggeriet meldes endeligt færdigt, når den sidste delvise  
+
+ ibrugtagningstilladelse i rækkes udstedes.
+ 12.1. Erindringsfacilitet ved nedrivninger.
+ Ved meddelelse af nedrivningstilladelse til en bygning er datoen for den  
+
+ meddelte nedrivningstilladelse indberettet til felt 294.
+Såfremt dato for gennemført nedrivning ikke er indberettet til felt 295  
+
+ inden 12 måneder fra nedrivningstilladelsesdatoen, udskrives den pågældende  
+
+ bygning på erindringslisten til BBR-myndigheden.
+Det påhviler herefter  
+
+ BBR-myndigheden at undersøge, om bygningen fysisk-faktisk er nedrevet, og i  
+
+ bekræftende fald at indberette datoen herfor til felt 295. Er bygningen ikke  
+
+ nedrevet endnu, udskrives den på ny på erindringslister, når der er forløbet  
+
+ yderligere 12 måneder.
+12.2. Erindringsfacilitet ved anmeldelse af byggearbejder i henhold til bygningsreglement 1977 kap 13.9.
+ Ved anmeldelse af bygggearbejder i henhold til kap. 13.9 i  
+
+ bygningereglement 1977 er datoen for anmeldelsen indberettet til felt 293.
+Såfremt anmeldelsesdatoen fortsat er registreret i BBR-ændringsregistret  
+
+ 12 måneder efter, udskrives den pågældende bygning på erindringsliste til  
+
+ BBR-myndigheden.
+Det påhviler herefter BBR-myndigheden at undersøge, om  
+
+ byggeriet er afsluttet, og i bekræftende fald at indberette datoen herfor i  
+
+ felt 283 »dato for ibrugtagningstilladelse«.
+Er byggeriet ikke  
+
+ afsluttet, udskrives bygningen på ny på erindringslisten, når der er forløbet  
+
+ yderligere 12 måneder.
+ 12.3. Erindringsfacilitet ved byggetilladelse.
+ Ved meddelelse af byggetilladelse til et nybyggeri eller en til~ eller  
+
+ ombygning er datoen for byggetilladelsen indberettet til felt 281.
+Såfremt byggetilladelsen ikke inden 12 måneder efte dens meddelelse er  
+
+ fulgt op af indberetning af dato for påbegyndelse i felt 283, udskrives  
+
+ bygningen på erindringsliste til BBR-myndigheden.
+Det påhviler herefter  
+
+ BBR-myndigheden at undersøge, om byggeriet er påbegyndt, færdiggjort eller  
+
+ opgivet, og herefter at indberette de relevante oplysninger til  
+
+ BBR-ændringsregistret.
+ 12.4. Erindringsfacilitet ved etapevis færdiggjorte byggerier.
+Ved meddelelse af delvis ibrugtagningstilladelse til en del af et byggeri  
+
+ er datoen for den delvise ibrugtagningstilladelse indberettet i felt 284.  
+
+ Datoen er endvidere indberettet i felt 391 for de eventuelle enheder, der er  
+
+ omfattet af ibrugtagningstilladelsen.
+I felt 296 er herefter registreret det  
+
+ foreløbigt færdiggjorte bygningsareal i alt, og i felterne 297 og 298 er  
+
+ registreret det antal lejligheder eller enkeltværelser, som er foreløbigt  
+
+ færdiggjorte og overført til BBR-stamregister.
+ Når felt 296 herefter er lig med eller større end 99 pct. af det samlede  
+
+ bygningsareal i felt 216 med tillæg af udnyttet del af tagetagen i felt 222 i  
+
+ BBR-ændringsregistret, udskrives bygningen på erindringslisten til  
+
+ BBR-myndigheden, såfremt byggeriet ikke er færdigmeldt og en dato indberettet  
+
+ i felt 283, jfr. punkt 9.5.1. Det påhviler herefter BBR-myndigheden at  
+
+ undersøge, om byggeriet er færdigt, og i bekræftende fald at indberette  
+
+ datoen herfor i felt 283.
+ Bygningen udskrives endvidere på erindringsliste til BBR-myndigheden,  
+
+ såfremt byggeriet ikke er færdigmeldt - d.v.s. at der ikke er indberettet en  
+
+ dato i felt 283 - og der er forløbet mere end 6 måneder fra den sidst  
+
+ indberettede delvise ibrugtagningstilladelse i felt 284. Det påhviler  
+
+ herefter BBR-myndigheden at undersøge, om byggeriet er færdigt, og i  
+
+ bekræftende fald at indberette datoen herfor i felt 283. Er byggeriet ikke  
+
+ afsluttet, udskrives bygningen på ny på erindringslisten, når der er forløbet  
+
+ yderligere 6 måneder.
+ Bilag 1.
+ Indberetning af specificerede oplysninger om ombygningsarbejder.
+ Som nævnt i nærværende BBR-meddelelse, side 4, skal i BBR medtages  
+
+ oplysninger om ombygningsarbejder i tilknytning til BBRs dataindhold,  
+
+ herunder sådanne, der ikke direkte ændrer det registrerede dataindhold.
+Sidstnævnte oplysninger indberettes til notatlinje 31 på bygningsniveau ud  
+
+ over på normal vis at indberette dato for byggetilladelse.
+Med henblik på i  
+
+ en senere revisionsfase at muliggøre en maskinel overførsel til et særligt  
+
+ datafelt foretages indberetningen til notatlinje 31 tillige med angivelse af  
+
+ en af følgende talværdier i den første position i notatlinjen.
+Medmindre der  
+
+ anføres en mere detaljeret beskrivelse af ombygningens art, vil den  
+
+ indledende talværdi blive oversat til en standardtekst i forbindelse med  
+
+ notatlinjens anvendelse ved ejendommens vurdering.
+ Følgende talværdier skal anvendes:
+1. Modernisering/forbedring, hvorved bygningens brugsværdi forøges.
+Som  
+
+ eksempel herpå kan nævnes udskiftning af eksisterende vinduer med termoglas,  
+
+ modernisering af badeværelser samt modernisering af centralvarmeradiatorer og  
+
+ køkkener.
+2. Genopretning.
+Som eksempel herpå kan nævnes større  
+
+ hovedistandsættelser, herunder udskiftning af tag, isolering af i forvejen  
+
+ uisolerede bygninger, f.eks, af mur, tag og lignende.
+3. Fornyelse af tekniske installationer.
+Som eksempel herpå kan nævnes  
+
+ udskiftning af centralvarmeanlæg, elevatorer og lignende.
+4. Vedligeholdelsesarbejde.
+Ved vedligeholdelsesarbejde medtages kun mere  
+
+ omfattende arbejder.

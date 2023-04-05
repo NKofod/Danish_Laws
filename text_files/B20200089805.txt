@@ -1,0 +1,27 @@
+Bekendtgørelse om ændring af bekendtgørelse om forhandling af håndkøbslægemidler uden for apotek § 1 I bekendtgørelse nr. 1274 af 27. november 2017 om forhandling af håndkøbslægemidler uden for apotek foretages følgende ændring:
+ 1. Bilag 2 affattes som bilag 1 til denne bekendtgørelse.
+§ 2 Bekendtgørelsen træder i kraft den 1. januar 2021.
+Lægemiddelstyrelsen, den 16. juni 2020 Thomas Senderovitz / Merete Hermann Bilag 1 »Bilag 2 Beskrivelse af de oplysninger, der månedsvis skal indsendes til Sundhedsdatastyrelsen i elektronisk form, jf. § 18, stk. 2 1. Generelle bemærkninger 1.1. Salg af lægemidler, der er undtaget fra apoteksforbehold, skal af forhandleren indberettes en gang om måneden.
+Indberetning kan af forhandleren overlades til f.eks. en koncern, forhandleren er en del af, eller et revisionsfirma.
+Den, der foretager indberetningen til Sundhedsdatastyrelsen, benævnes i det følgende indberetteren.
+For at kunne identificere indberetteren og salgsstedet anvendes der numre fra Det Centrale Virksomhedsregister (CVR- og P-numre).
+ For hvert salgssted indberettes for hvert varenummer det samlede antal solgte pakninger og den samlede omsætning med moms.
+2. Grundlæggende dataoplysninger 2.1. Indberetning skal ske på én af to følgende måder:
+ Via upload af en fil Sundhedsdatastyrelsen FTP-server.
+Adresse, bruger-ID og password til FTP-serveren oplyses i forbindelse med godkendelsen af salgsstedet.
+Filen skal være en tekstfil i ASCII-format (hver linje i filen afsluttes med CR og LF, ASCII 13 og ASCII 10).
+  Via indtastning på indberetningssiden www.lmsdetail.dk. (se bilag 3).
+ 2.2. Tekstfilen navngives som følger:
+a.
+Ved indberetning fra et salgssted:
+<P-nummer>. <MM>A, P-nummer: Salgsstedets P-nummer (10 cifre) MM: Månedens nummer (foranstillet "0" ved  "1" (januar) til "9" (september)) Eksempel på navngivning af indberetningsfil for august måned: 1234567890.08A b.
+Ved indberetning for flere salgssteder fx koncern eller revisionsfirma:
+CV<CVR-nummer>. <MM>A, CVR-nummer: Salgsstedets CVR-nummer (8 cifre) MM: Månedens nummer (foranstillet "0" ved  "1" (januar) til "9" (september)) Eksempel på navngivning af indberetningsfil for august måned: CV12345678. 08A 2.3. Den første linje i filen (headerlinjen) skal have følgende faste indhold:
+ Felterne F1, F2, F3, F5 og F6 i headerlinjen udfyldes efter følgende retningslinjer:
+3. Beskrivelse af oplysninger, der skal indberettes 3.1. Efter headerlinjen følger linjevis de nedenstående specificerede oplysninger pr. solgt varenummer pr. salgssted.
+Alle linjer i filen skal have samme længde, jf. afsnit 3.2 nedenfor.
+3.2. Nedenfor gives en samlet oversigt over oplysninger, der skal indberettes.
+Skemaet viser felternes rækkefølge og længde.
+Der skelnes mellem to typer felter: N, der er numeriske felter (udelukkende cifre), og A, der er alfanumeriske felter (tekst, eventuelt bogstaver og cifre i kombination). Feltets længde (antal karakterer) følger umiddelbart efter feltets type (f.eks.
+N10 eller A2). Der indberettes foranstillede nuller i alle felter.
+ For hvert varenummer, som sælges, skal alle felterne udfyldes.

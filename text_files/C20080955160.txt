@@ -1,0 +1,108 @@
+Vejledning om ikke-automatiske vægte Bestemmelse af fejlvisning ved op- og nedvejning Måleteknisk vejledning(MV 04.11-11, udg. 2) 1. Formål Denne prøvningsmetode kan benyttes til at bestemme ikke-automatiske vægtes fejlvisning.
+Fejlvisning er per definition lig med vægtvisning minus belastningens sande masse ved referencebetingelserne for konventionel masse.
+ Prøvningsmetoden er baseret på de tekniske bestemmelser i EN45501:1992/AC:1993.
+Metoden kan benyttes til bestemmelse af vægtes fejlvisning.
+Den kan ikke benyttes til bestemmelse af vejemodulers bidrag til fejlvisning.
+ Metoden kaldes også vejeprøven.
+2. Henvisninger EN45501:1992/AC:1993, pkt.
+A.4.4.
+ 2.1. Ophævede måletekniske forskrifter der kan anvendes ved reverifikation:
+ - Almindelige bestemmelser for justering 1. januar 1953, revideret 1. juni 1969.
+- TDIR 24.11.1-01, udg. 1, bilag 2 - MDIR 34.11-01, udg. 3, pkt. 20.
+- OIML R76-1, Edition 1988, pkt.
+A.4.3.
+- OIML R76-1, Edition 1992, pkt.
+A.4.4.
+3. Generelt 3.1. Bestemmelserne i EN45501 bruges som hovedregel (selv om de måletekniske forskrifter, som pågældende vægt er godkendt efter, afviger fra bestemmelserne i EN45501) se dog pkt. 3.2.
+ 3.2. Hvis der er særlige tekniske grunde kan bestemmelser i de ophævede forskrifter anvendes ved reverifikation i stedet for EN45501.
+ 3.3. Normalernes samlede sande masse bestemt ved referencebetingelserne for konventionel masse må ikke afvige mere end fejlvisningstolerancerne divideret med tre fra deres samlede nominelle masse.
+ 3.4. Normalernes samlede tyngdepunkt skal befinde sig nær ved den lodrette linie, der går igennem vejepladens centrale punkt.
+3.5. Bestemmelse af fejlvisning sker ved opvejning og ved nedvejning.
+Det tilstræbes under opbygningen af belastningen ved opvejningen at vægten på intet tidspunkt må være belastet med en højere masse end den, som udgør målepunktet.
+Tilsvarende gælder ved nedvejning at vægten på intet tidspunkt må være belastet med en mindre masse end den, som udgør målepunktet 4. Prøvning 4.1. Bestemmelse af uafrundet visning.
+ Når den anvendte delingsværdi i vægtvisningen ikke overstiger 0,2 gange verifikationsskaladelingen bruges den aflæste visning.
+ Hvis den anvendte delingsværdi i vægtvisningen er større end 0,2 gange verifikationsskaladelingen skal den uafrundede visning bestemmes med vippepunktsmetoden.
+ 4.2. Vippepunktsmetoden.
+Vægtens uafrundede visning kan bestemmes med vippepunktsmetoden.
+Den er beskrevet i næste afsnit.
+Ved en belastning B noteres visningen I.
+Tillægslodder med den nominelle masse lig 0,1 eller 0,2 gange delingsværdien d tilføjes indtil visningen netop er forøget med en deling.
+Tillægsloddernes samlede masse a noteres.
+Den uafrundede visning P beregnes med formlen P=I+0,5*d-a.
+ 4.3. Automatisk nulindtræk.
+Automatisk nulindtræk frakobles inden prøven starter, hvis det er muligt.
+I modsat fald bringes vægten udenfor nulindtrækområdet med en lille belastning, der udgør vægtens nullast under vejeprøven.
+Belastningen skal være mindre end Min, f.eks. 10 delinger for vægte i klasse (III).
+ 4.4. Korrektion for visningsfejl ved nullast.
+ Alle visningsfejl korrigeres for visningsfejlen ved nullast som vægten har før prøven udføres.
+4.4.1. Korrektion for negativ visningsfejl ved nullast kan udføres ved at tilføje en belastning svarende til den absolutte værdi af fejlvisningen før prøven udføres.
+Denne belastning skal forblive på vægten under hele vejeprøven.
+ 4.4.2. Korrektion for visningsfejl ved nullast kan udføres som beskrevet i næste afsnit når vægten er digital og har manuel nulstillingsindretning.
+En belastning svarende til det halve af delingsværdien placeres på vejeladdet.
+Nulstillingsindretningen justeres indtil visningen befinder sig i vippepunktet, hvor visningen skifter mellem nul og en deling.
+Belastningen fjernes fra vejeladdet.
+ 4.5. Antal belastningspunkter.
+For hver toleranceværdi bestemmes visningsfejl i mindst 2 belastningspunkter.
+Der skal bestemmes visningsfejl nær ved og lige under alle belastninger, hvor toleranceværdien skifter.
+ Belastningspunkterne skal omfatte Min og Max.
+ Visningsfejl skal bestemmes i mindst 5 belastningspunkter.
+ 4.6 Vægte med tara.
+Der udføres også to vejeprøver med indkoblet tara.
+Det ene tareringspunkt skal ligge i nærheden af 50 % af Maksimum tara.
+Det andet tareringspunkt skal ligge i nærheden af Maksimum tara.
+ 4.7. Vægte med flere områder (Multiple range instruments).
+ Hvert område skal prøves som en separat vægt.
+ 4.8. Vægte med flere intervaller (Multi-interval instruments).
+ Der udføres en vejeprøve omfattende alle intervaller.
+ 4.9. Vægte med initialnulstillingsindretning med et område som er større end 20 % af Max.
+ Der udføres en ekstra vejeprøve efter størst mulig initialnulstilling.
+ 4.10. Vægte med initialnulstillingsindretning med et område som er større end Max.
+ Der udføres et antal vejeprøver, hvor initialnulstillingen hver gang øges med Max.
+4.11. Vejeprøve 4.11.1 Vejeprøve udført med normaler.
+ Prøven udføres på følgende måde:
+ 1. Vægten motioneres en gang med en forlast, som er nær ved Max.
+ 2. Visningsfejlen bestemmes ved nullast.
+ 3. Vægten belastes med Min, hvorefter visningsfejlen bestemmes.
+ 4. Belastningen øges til næste belastningspunkt er opnået, hvorefter visningsfejlen bestemmes.
+ 5. Punkt 4 gentages indtil Max.
+ 6. Belastningen mindskes til næste belastningspunkt, hvorefter visningsfejlen bestemmes.
+ 7. Punkt 6 gentages indtil fejlvisningen er bestemt ved nullast.
+ 8. Hvis det er nødvendigt korrigeres fejlvisningerne som beskrevet i pkt. 4.5.
+ 4.11.2 Vejeprøve udført med normaler og substitutionsmaterialer.
+ Hvis vægtes Max er større end 1000 kg kan vejeprøven udføres med normaler og substitutionsmaterialer.
+ Der skal altid mindst anvendes 1 t normaler.
+ Normalerne skal udgøre mindst 50 % af Max.
+ Normalerne kan reduceres til området 20-50 % af Max hvis der udføres en ekstra repetérbarhedsprøve på følgende måde:
+a.
+Fejlvisningen bestemmes tre gange med normalerne.
+Den største forskel mellem fejlvisningerne bestemmes.
+b.
+Forholdet mellem normalernes masse og Max beregnes.
+En grænseværdi beregnes ved at gange forholdet med e.
+ Hvis den største forskel mellem fejlvisningerne ikke overstiger grænseværdien kan vejeprøven udføres med denne reducerede mængde normaler.
+ Vejeprøven med normaler og substitutionsmaterialer udføres på følgende måde:
+ 1. Vægten motioneres en gang med en forlast, som er nær ved Max.
+ 2. Visningsfejlen bestemmes ved nullast.
+ 3. Vægten belastes med Min, hvorefter visningsfejlen bestemmes.
+ 4. Belastningen øges med normaler til næste belastningspunkt, hvorefter visningsfejlen bestemmes.
+ 5. Punkt 4 gentages indtil alle normaler er påført.
+ 6. Normalerne aftages.
+ 7. Substitutionsmateriale påføres indtil vægten har samme visning og visningsfejl som den havde da alle normaler var påført.
+ 8. Belastningen øges med normaler til næste belastningspunkt, hvorefter visningsfejlen bestem mes.
+ 9. Punkt 8 gentages indtil alle normaler er påført.
+ 10. Punkt 6 til og med 9 gentages indtil Max.
+ 11. Belastningen mindskes til næste belastningspunkt, hvorefter visningsfejlen bestemmes.
+ 12. Punkt 11 gentages indtil alle normaler er aftaget.
+ 13. Alle normaler påføres.
+ 14. Substitutionsmateriale aftages indtil vægten har samme visning og visningsfejl som den havde da alle normaler var fjernet.
+ 15. Punkt 11 til og med 14 gentages indtil fejlvisningen er bestemt ved nullast.
+ Ved beregning af visningsfejl med substitutionsmateriale antages substitutionsmaterialet at have samme masse som de normaler det erstatter.
+4.11.2.1 Vejeprøven kan også udføres som opvejning med normalerne efterfulgt af nedvejning med normalerne.
+Substitutionsmaterialet påføres og opvejning og nedvejning udføres med normalerne.
+Dette gentages indtil Max.
+4.12 Flytning af vægt.
+Belastningen (tyngdekraften) fra normaler og fra vejede emner ændrer sig, når vægten flyttes til en andet sted i Danmark eller hæves eller sænkes på opstillingsstedet.
+Vejeprøvens resultater gælder derfor kun for det sted, hvor vægten stod under vejeprøven.
+I Måleteknisk Meddelelse nr.
+MM 229 gives vejledning vedrørende flytning af verificerede ikke-automatiske vægte.
+5. Krav Nedenstående tabeller angiver verifikationstolerancerne for fejlvisninger.

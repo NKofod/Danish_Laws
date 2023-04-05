@@ -1,0 +1,1870 @@
+Indledning.
+Ikrafttrædelse Del 1 Almindelige bestemmelser og definitioner § 1  Gyldighedsområde § 2  Definitioner § 3  Materiel § 4  Almindelige bestemmelser Del 2 Ekstrabeskyttelsesmetoder § 5  Ekstra isolation § 6  Isolationsled § 7  (Disponibel) § 8  (Disponibel) § 9  Sekundære strømkredse § 10  Fejlstrømsafbryder § 11  Fejlspændingsafbryder § 12  Nulling § 13  Jording § 14  (Disponibel) Del 3 Ledninger til ekstrabeskyttelse § 15  Ledninger til ekstrabeskyttelse.
+15.1 Materiale 15.2 Tværsnit 15.3 Farvemærkning 15.4 Oplægning 15.5 Samlinger og tilslutninger 15.6 Udligningsforbindelser Del 4 Jordelektroder § 16  Jordelektroder.
+16.1 Stangelektrode e.l 16.2 Bånd- eller trådelektrode 16.3 Fundamentselektrode 16.4 Vandrørsnet eller fjernvarmenet 16.5 (Disponibel) Del 5 Ekstrabeskyttelse i visse områder § 17  Ekstrabeskyttelse i visse områder.
+17.1 Områder med krav om ekstrabeskyttelse 17.2 Tandlægeklinikker 17.3 Badeområder 17.4 Badstuer (saunaer) 17.5 Brønde og tunneler til fjernvarmeanlæg 17.6 Våde rum i slagterier og mejerier 17.7 Campingpladser og pladser for lystfartøjer 17.8 Byggepladser 17.9 Områder med risiko ved dannelse af statisk elektricitet 17.10 Snævre ledende rum 17.11 Fiskerihavne Del 6 Ekstrabeskyttelse af visse brugsgenstande § 18  Ekstrabeskyttelse af visse brugsgenstande.
+18.1 Almindeligt krav om ekstrabeskyttelse 18.2 Særlige krav om ekstrabeskyttelse Del 7 § 19  Ekstrabeskyttelse i primære  
+
+ højspændingsinstallationer Del 8 § 20  Ekstrabeskyttelse i sekundære  
+
+ højspændingsinstallationer.
+20.1 Sekundære højspændingsinstallationer af klasse A 20.2 Højspændingsprøveanlæg 20.3 Røntgenanlæg Bilag 1 Beskyttelseslederes tværsnit 1. Lavspændingsinstallationer 2. Primære  
+
+ højspændingsinstallationer 3. Sekundære højspændingsinstallationer 2 Gulve og rørsystemer i badeområder 3 Fjernvarmenet og vandrørsnet som jordelektrode i bestående  
+
+ installationer 4 Måling af gulves isolationsmodstand 5 (Disponibel) Stikordsregister Indledning Afsnit 10, 3. udgave, er udgivet af Elektricitetsrådet med gyldighed fra  
+
+ 1. januar 1979 og erstatter 2. udgave.
+ Eventuelle fremtidige ændringer og nye bestemmelser vil, indtil en ny  
+
+ udgave udgives, fremkomme på erstatningsblade, hvorpå de vil blive markeret i  
+
+ margenen med angivelse af ikrafttrædelsesdato.
+ Udsendelse af erstatningsblade vil blive offentliggjort i  
+
+ ELRÅD-meddelelser og i de tekniske blade.
+ Forklaringer og henvisninger er sat med skrifttypen »petit«.
+ Den 1. juli 1989 indeholder afsnittet følgende erstatningsblade:
+Ekstrabeskyttelse i installationer Del 1 Almindelige bestemmelser og definitioner § 1 Gyldighedsområde 1.1 Afsnit 10 gælder for udførelse af ekstrabeskyttelse i  
+
+ lavspændingsinstallationer og i primære og sekundære  
+
+ højspændingsinstallationer.
+ Bestemmelser for udførelse af beskyttelsesforanstaltninger i stations- og  
+
+ ledningsanlæg findes i:
+ Afsnit 4. Jordforbindelser m.m. i og ved stations- og ledningsanlæg.
+ 1.2 Også i tilfælde, hvor ekstrabeskyttelse udføres uden at være krævet i  
+
+ afsnit 10, skal bestemmelserne om udførelse opfyldes.
+ Undtagelse:
+ Hvor en fejlstrømsafbryder er anvendt af hensyn til en krævet  
+
+ ekstrabeskyttelse af en eller flere brugsgenstande, kræves  
+
+ beskyttelseslederen ikke fremført til eventuelle andre brugsgenstande, der er  
+
+ anbragt efter denne fejlstrømsafbryder, og for hvilke ekstrabeskyttelse ikke  
+
+ er krævet.
+1983-04-01 Udligningsforbindelser og jordforbindelser, der udføres med andre formål  
+
+ end ekstrabeskyttelse, er ikke omfattet af bestemmelserne om  
+
+ ekstrabeskyttelse, og de anvendte ledninger betragtes ikke som  
+
+ beskyttelsesledere.
+Som eksempler på sådanne forbindelser kan nævnes forbindelser, der udføres  
+
+ for at undgå - generende potentialforskelle i eller mellem følsomme elektroniske  
+
+ apparater - elektrisk støj i ledninger og apparater - opladning med statisk elektricitet (se dog § 17.9) samt udligningsforbindelser til lynbeskyttelsesanlæg.
+ Hvor sådanne forbindelser tilsluttes brugsgenstande eller hjælpeapparater,  
+
+ skal disse ekstrabeskyttes, se § 18.1.2.
+§ 2 Definitioner 2.1 Ekstrabeskyttelse:
+Foranstaltning, der tilsigter, at der ikke kan opstå farlig  
+
+ berøringsspænding på - ydre steldele, - fremmede ledende dele.
+ 2.2 Elførende del:
+ Enhver leder eller ledende del, der er under spænding ved normal brug.
+ Elførende dele omfatter også nullederen og ledende dele, som er ledende  
+
+ forbundet med den, dog ikke beskyttelsesledere.
+ 2.3 Ydre steldel:
+ - En berøringstilgængelig ledende del, som ikke er elførende, men som i  
+
+ tilfælde af fejl kan blive sat under spænding.
+ Berøringstilgængelige ledende dele på materiel af klasse II regnes ikke  
+
+ som ydre steldele.
+ 2.4 Indre steldel:
+ En ikke berøringstilgængelig ledende del, som ikke er elførende, men som i  
+
+ tilfælde af fejl kan blive sat under spænding.
+ 2.5 Fremmed ledende del:
+ En ledende del, som ikke udgør en del af den elektriske installation.
+ Eksempler på sådanne dele:
+ - Bygningsdele af metal.
+ - Metalliske gas-, vand- og varmerør o.l. samt hertil forbundne ikke  
+
+ elektriske apparater (radiatorer, gaskomfurer, metalvaske m.m.).
+ - Ikke isolerende gulve og vægge.
+ 2.6 Beskyttelsesleder:
+ Leder til ekstrabeskyttelse.
+Beskyttelsesledere forbinder ydre steldele - indbyrdes, - med fremmede ledende dele eller - med jordelektroder eller nulledere i nulsikre net.
+ Hertil regnes også den leder, der forbinder en fejlspændingsafbryders  
+
+ udløsespole med jordelektroden.
+ 2.7 Udligningsforbindelse:
+ Ledningsforbindelse, der forbinder ydre steldele indbyrdes eller ydre  
+
+ steldele og fremmede ledende dele, og som har til formål at holde disse dele  
+
+ på samme eller omtrent samme potentiale.
+ 2.8 Neutral jord:
+ Et jordområde, hvis potentialforhold ikke er påvirket af noget elektrisk  
+
+ anlæg.
+ 2.9 Jordelektrode:
+ Ledende del eller dele, der er anbragt i jorden for at skabe ledende  
+
+ kontakt med jorden.
+ 2.10 Fejlstrøm:
+ Strøm, der opstår på grund af isolationsfejl.
+ 2.11 Jordfejlstrøm:
+ Fejlstrøm, der løber til jord.
+ 2.12 Lækstrøm:
+ Strøm, der fra en ikke fejlbehæftet elektrisk installation løber til jord  
+
+ eller til fremmede ledende dele.
+ 2.13 Udløsestrøm:
+Strøm af en sådan størrelse, at installationen afbrydes ved - overbrænding af smeltesikring, - udløsning af automatsikring, - udkobling af automatisk overstrømsafbryder, - udkobling af fejlstrømsafbryder eller fejlspændingsafbryder.
+ 2.14 Fejlspænding:
+ Spænding, der på grund af isolationsfejl opstår mellem ydre steldele og  
+
+ neutral jord.
+ 2.16 Berøringsspænding:
+ Spænding, der på grund af isolationsfejl opstår mellem samtidigt  
+
+ berøringstilgængelige dele.
+ 2.16 Sikkerhedsspænding:
+ Spænding, der ikke overstiger 50 V vekselspænding eller 75 V jævnspænding  
+
+ mellem lederne og mellem en leder og jord, og som leveres fra  
+
+ sikkerhedstransformer, omformer med adskilte viklinger eller separat  
+
+ strømkilde.
+ 2.17 Sikkerhedstransformer:
+ Transformer, som opfylder betingelserne i stærkstrømsreglementets afdeling  
+
+ C for transformere, der tjener til spændingsnedsættelse af sikkerhedsmæssige  
+
+ grunde.
+ 2.18 Driftsisolation:
+ Den isolation, som er nødvendig for apparatets rette funktion og for den  
+
+ grundlæggende beskyttelse mod elektrisk stød.
+ 2.19 Beskyttende isolation:
+ En selvstændig isolation udover driftsisolationen med det formål at sikre  
+
+ berøringsbeskyttelse i tilfælde af fejl på driftsisolationen.
+ 2.20 Dobbelt isolation:
+ En isolation, der omfatter både driftsisolation og beskyttende isolation.
+ 2.21 Forstærket isolation:
+ En forbedret driftsisolation med sådanne mekaniske og elektriske  
+
+ egenskaber, at den giver den samme grad af berøringsbeskyttelse som dobbelt  
+
+ isolation.
+§ 3 Materiel 3.1 Isolationsklasser og mærkning af apparater.
+ 3.1.1 Apparater klassificeres efter forholdsregler mod farlig spænding på  
+
+ ydre steldele.
+ 3.1.2 Klasse 0 angiver, at apparatet har driftsisolation, men ikke overalt  
+
+ har dobbelt eller forstærket isolation, og at apparatet er uden middel til  
+
+ jording.
+ Apparater af klasse 0 har enten en kapsling af isolermateriale, som kan  
+
+ udgøre en del af eller hele driftsisolationen, eller en metalkapsling, som er  
+
+ adskilt fra elførende dele af en fyldestgørende isolation.
+ Hvis et apparat med en kapsling af isolermateriale har et middel til  
+
+ jording af indre steldele, henregnes det til klasse I eller klasse 0I.
+ Apparater af klasse 0 kan have dele med dobbelt isolation eller forstærket  
+
+ isolation eller dele, som arbejder ved sikkerhedsspænding.
+ 3.1.3 Klasse 0I angiver, at apparatet overalt mindst har driftsisolation  
+
+ og har en jordklemme, men har fastsiddende tilledning uden beskyttelsesleder  
+
+ og en stikprop uden jordkontakt.
+ Apparater af klasse 0I kan have dele med dobbelt isolation eller  
+
+ forstærket isolation eller dele, som arbejder ved sikkerhedsspænding.
+ 3.1.4 Klasse I angiver, at apparatet overalt mindst har driftsisolation og  
+
+ har jordklemme eller jordkontakt, og - såfremt det er et enfaset apparat for  
+
+ stikkontakttilslutning - har fastsiddende tilledning med grøn/gul  
+
+ beskyttelsesleder og stikprop med jordben eller apparatindtag med  
+
+ jordkontakt.
+ Apparater af klasse I kan indeholde dele med dobbelt isolation eller  
+
+ forstærket isolation eller dele, som arbejder ved sikkerhedsspænding.
+ 3.1.5 Klasse II angiver, at apparatet overalt har dobbelt isolation  
+
+ og/eller forstærket isolation og er uden middel til jording.
+ Et sådant apparat kan være en af følgende typer:
+ 1. Et apparat med en holdbar og praktisk taget  
+
+ sammenhængende kapsling af isolermateriale, som omslutter alle metaldele med  
+
+ undtagelse af små dele, såsom mærkeplader, skruer og nitter, som er adskilt  
+
+ fra elførende dele med en isolation mindst svarende til forstærket isolation.  
+
+ Et sådant apparat benævnes et apparat af klasse II med kapsling af  
+
+ isolermateriale.
+2. Et apparat med en praktisk taget sammenhængende  
+
+ kapsling af metal, i hvilket dobbelt isolation er anvendt overalt undtagen  
+
+ for de dele, hvor forstærket isolation er anvendt på grund af, at anvendelse  
+
+ af dobbelt isolation klart er uigennemførlig.
+Et sådant apparat benævnes et  
+
+ metalkapslet apparat af klasse II.
+ 3. Et apparat, som er en kombination af typerne 1 og  
+
+ 2.
+Kapslingen på et apparat af klasse II med kapsling af isolermateriale kan  
+
+ udgøre en del af eller hele den beskyttende isolation eller den forstærkede  
+
+ isolation.
+Hvis et apparat med dobbelt isolation og/eller forstærket  
+
+ isolation overalt har en jordklemme eller jordkontakt, henregnes det til  
+
+ klasse I eller 0I.
+ Apparater af klasse II kan indeholde dele, som er beregnet for  
+
+ sikkerhedsspænding.
+ 3.1.6 Klasse III angiver, at apparatet er beregnet for tilslutning til  
+
+ strømkredse med sikkerhedsspænding, og at det ikke har nogen strømkreds -  
+
+ hverken indre eller ydre - for en anden spænding end sikkerhedsspænding.
+ Apparater beregnet for tilslutning til strømkredse med sikkerhedsspænding  
+
+ og med indre strømkredse for en anden spænding end sikkerhedsspænding er  
+
+ endnu ikke klassificeret.
+§ 4 Almindelige bestemmelser 4.1 Ekstrabeskyttelsesmetoder.
+ 4.1.1 Ekstrabeskyttelse skal udføres ved de i §§ 5-14 angivne  
+
+ ekstrabeskyttelsesmetoder.
+ 4.1.2 Forskellige ekstrabeskyttelsesmetoder, der anvendes i samme  
+
+ installation, må ikke forringe eller ophæve hinanden.
+ 4.2 Krav om ekstrabeskyttelse.
+ 4.2.1 Krav om ekstrabeskyttelse i lavspændingsinstallationer forekommer:
+ - I visse nærmere angivne lokaliteter (se § 17).
+ Kravet gælder da i det i bestemmelserne anførte omfang.
+ - For visse nærmere angivne brugsgenstande (se § 18).
+ Bestemmelserne gælder da, hvor intet andet er anført, for disse  
+
+ brugsgenstande, uanset i hvilke lokaliteter de anvendes.
+ Del 2:
+Ekstrabeskyttelsesmetoder § 5 Ekstra isolation 5.1 Definition.
+ 5.1.1 Ved ekstra isolation forstås dobbelt eller forstærket isolation,  
+
+ d.v.s. apparatet skal være af klasse II, jfr. § 3.1.5.
+ 5.2 Anvendelse.
+ 5.2.1 Ekstra isolation kan anvendes til ekstrabeskyttelse af apparater  
+
+ beregnet for tilslutning i lavspændingsinstallationer.
+ 5.2.2 Ydre steldele og indre steldele hørende til apparater af klasse Il  
+
+ må ikke forbindes til en beskyttelsesleder.
+ 5.2.3 Installation af apparater af klasse II skal foretages således, at  
+
+ effektiviteten af den ekstra isolation ikke forringes.
+ 5.3 Mærkning og udførelse.
+ 5.3.1 Apparatet skal være mærket med tegnet , der symboliserer dobbelt  
+
+ eller forstærket isolation.
+ 5.3.2 Ekstra isolation af apparater skal være udført i overensstemmelse  
+
+ med de regler, som fremgår af konstruktions- og prøvningsbestemmelserne for  
+
+ apparater.
+§ 6 Isolationsled 6.1 Definition.
+ 6.1.1 Ved isolationsled forstås isolerende mellemled, koblinger, skærme  
+
+ e.l.
+ 6.2 Anvendelse.
+ 6.2.1 Ekstrabeskyttelse ved isolationsled kan anvendes i  
+
+ lavspændingsinstallationer.
+ 6.3 Udførelse.
+ 6.3.1 Isolationsled skal være registreret eller godkendt af DEMKO og skal  
+
+ i overensstemmelse med de af DEMKO herom fastsatte regler være således  
+
+ udført, at de forhindrer, at metaldele, som berøres under apparatets brug,  
+
+ kan blive spændingsførende.
+§ 7 § 8 § 9 Sekundære strømkredse 9.1 Anvendelse.
+ 9.1.1 Ekstrabeskyttelse ved sekundære strømkredse kan anvendes i  
+
+ lavspændingsinstallationer og i sekundære højspændingsinstallationer.
+ 9.2 Udførelse.
+ 9.2.1 Sekundære strømkredse kan være for »nedsat spænding«.
+ »nedsat spænding« betyder, når intet andet er angivet, at  
+
+ spændingen ved vekselstrøm ikke overstiger 50 V eller ved jævnstrøm 75 V.  
+
+ Sikkerhedsspænding i henhold til afsnit 6, § 40, henregnes til sekundære  
+
+ strømkredse.
+ 9.2.2 Forsyningen af den sekundære strømkreds skal ske over transformer  
+
+ eller omformer med adskilte viklinger eller fra en separat strømkilde.
+ 9.2.3 Transformere og omformere til sekundære strømkredse for nedsat  
+
+ spænding skal give en elektrisk adskillelse, der er lige så god som ved  
+
+ sikkerhedstransformere.
+ 9.3 Sekundære strømkredse for »nedsat spænding«.
+ 9.3.1 Hvor der i §§ 17 og 18 og i afsnit 8, § 4. Svejseanlæg, er fastsat  
+
+ maksimale spændingsværdier i forbindelse med ekstrabeskyttelse ved sekundære  
+
+ strømkredse, er disse spændingsværdier, hvor intet andet er anført, at  
+
+ opfatte som den højest tilladte spænding mellem en vilkårlig leder og jord  
+
+ eller - hvor driftsmæssig jordforbindelse af kredsen ikke anvendes - mellem  
+
+ to vilkårlige ledere indbyrdes.
+ Ved berøringsbeskyttede apparater afhænger faren af højeste spænding, der  
+
+ kan optræde mellem en leder og jord, hvorimod faren ved apparater med  
+
+ tilgængelige elførende dele (apparater til svinebedøvning, elektrisk legetøj)  
+
+ afhænger af spændingen mellem ledere indbyrdes.
+ 9.3.2 Såfremt driftsmæssig jordforbindelse af et punkt af en sekundær  
+
+ strømkreds anvendes for at begrænse spændingen i forhold til jord i  
+
+ overensstemmelse med § 9.3.1, skal der til jordforbindelsen anvendes en  
+
+ jordelektrode udført efter bestemmelserne i § 16 og med overgangsmodstand på  
+
+ højst 100 ohm.
+ Forbindelse til den strømforsynende installations nulleder kan anvendes  
+
+ under de samme betingelser og efter de samme bestemmelser (se § 12), som  
+
+ gælder for anvendelsen af nulling ved beskyttende jordforbindelse.
+ 9.4 Sekundære strømkredse for spændinger, der overstiger »nedsat  
+
+ spænding«.
+ 9.4.1 Den sekundære strømkreds må intetsteds være forbundet med en anden  
+
+ strømkreds eller med jord.
+ 9.4.2 Forsyner en sekundær strømkreds flere brugsgenstande, skal disses  
+
+ ydre steldele forbindes indbyrdes med en udligningsforbindelse.
+ Sker forsyningen af den sekundære strømkreds fra en generator, skal  
+
+ generatorens ydre steldele forbindes til udligningsforbindelsen.
+9.4.3 Medmindre den indbyrdes ledende forbindelse er tilvejebragt gennem  
+
+ materiellets konstruktion. skal der være udført en særskilt  
+
+ udligningsforbindelse.
+De hertil anvendte ledninger betragtes som  
+
+ beskyttelsesledere, og de skal opfylde bestemmelserne for ledninger til  
+
+ ekstrabeskyttelse, se § 15.
+ 9.4.4 Såfremt der er flere stikkontakter i den sekundære strømkreds, skal  
+
+ disse have jordkontakter, der skal være indbyrdes forbundet.
+ Sker strømforsyningen af den sekundære strømkreds fra en generator, skal  
+
+ dennes ydre steldele forbindes med jordkontakter i eventuelle stikkontakter.  
+
+ Denne udligningsforbindelse skal etableres, selv om der kun er een  
+
+ stikkontakt i strømkredsen.
+ Ledninger, som forbinder stikkontakters jordkontakter, og som eventuelt  
+
+ forbinder disse med en generators ydre steldele, betragtes som  
+
+ beskyttelsesledere og skal opfylde bestemmelserne for ledninger til  
+
+ ekstrabeskyttelse, se § 15. herunder også bestemmelserne om farvemærkning.
+§ 10 Fejlstrømsafbryder 10.1 Anvendelse.
+ 10.1.1 Ekstrabeskyttelse ved fejlstrømsafbryder kan anvendes i  
+
+ lavspændingsinstallationer.
+ Undtagelser:
+ Fejlstrømsafbrydere må ikke anvendes i installationer, hvori der er  
+
+ mulighed for jordfejlstrømme med et jævnstrømsindhold større end 20 pct. af  
+
+ den samlede afledningsstrøm og tillige større end 5 mA.
+ En sådan mulighed anses ikke for at foreligge i strømkredse, der er  
+
+ således udført, at de nævnte jordfejlstrømme kun kan forekomme, såfremt der  
+
+ opstår isolationsfejl svarende til svigt af dobbelt eller forstærket  
+
+ isolation.
+ Fejlstrømsafbrydere må ikke anvendes til ekstrabeskyttelse af  
+
+ elektrodegryder.
+ 10.2 Mærkeudløsestrøm.
+ 10.2.1 Mærkeudløsestrømmen (I n) for fejlstrømsafbrydere med mærkestrøm  
+
+ under 63 A må højst være 0,5 A og for afbrydere med mærkestrøm på 63 A og  
+
+ derover højst 1 A.
+ Fejlstrømsafbrydere, hvis mærkeudløsestrøm ikke overstiger 30 mA, betegnes  
+
+ højfølsomme fejlstrømsafbrydere (HFI afbrydere).
+ 10.3 Beskyttelsesleder.
+10.3.1 Beskyttelseslederens tværsnit skal være mindst 2,5 mm2 Undtagelse:
+På strækninger, hvor beskyttelseslederen oplægges i samme ledning eller  
+
+ rør som de elførende ledere, kan den dog have samme tværsnit som disse 10.4 Jordelektrode.
+ 10.4.1 En jordelektrode skal udføres efter bestemmelserne herom i § 16.1.
+ Undtagelse:
+ Hvor nulling er tilladt for den pågældende installation, kan hoved eller  
+
+ stikledningens nulleder anvendes i stedet for jordelektrode.
+ Beskyttelseslederen skal i dette tilfælde tilsluttes nullederen foran den  
+
+ fejlstrømsafbryder, der beskytter den pågældende installation.
+10.4.2 Jordelektrodens overgangsmodstand til neutral jord må højst andrage hvor: I delta n er mærkeudløsestrømmen for en afbryder, n er antal afbrydere med samme mærkeudløsestrøm, s er reduktionsfaktor, der fremgår af følgende tabel:
+ Hvis ikke alle afbrydere har samme udløsestrøm, kan overgangsmodstanden  
+
+ for den fælles jordelektrode bestemmes som nedenfor angivet, hvor eksempelvis  
+
+ er regnet med afbrydere, hvis udløsestrømmen er 30 mA, 0,5 A og 1.0 A.
+ Overgangsmodstanden behøver ikke være mindre end 10 ohm.
+1984-01-01 Af hensyn til Er udgået.
+ 10.4.3 Til jordelektroder for fejlstrømsafbrydere må ikke sluttes  
+
+ fejlspændingsafbrydere.
+ Det er tilladt at udføre udligningsforbindelser mellem jordelektroder og  
+
+ rørsystemer, jernkonstruktioner o.l.
+ 10.5 Udeladelse af jordelektrode og beskyttelsesleder.
+ 10.5.1 Ved anvendelse af højfølsomme fejlstrømsafbrydere (HFI-afbrydere)  
+
+ tillades jordelektrode og beskyttelsesleder udeladt i følgende tilfælde:
+ 1. Hvor der ikke er krav om ekstrabeskyttelse i  
+
+ henhold til stærkstrømsreglementet.
+1980-01-01 2. Ved ekstrabeskyttelse Er udgået.
+ 3. Ved ekstrabeskyttelse af elektriske anlæg til  
+
+ rumopvarmning, der har strålevarmeelementer udformet som folie, plader eller  
+
+ tilsvarende varmekilde, se § 18.2.9 og afsnit 8, § 2.1.1.
+ 4. Ved ekstrabeskyttelse af varmebændler uden  
+
+ elektrisk ledende skærm eller kappe, se § 18.1.1, pkt. 21.
+ 5. Ved ekstrabeskyttelse af illuminationsgenstande,  
+
+ herunder kæder, til midlertidig illumination i det fri, se § 18.2.5.
+ 6. Ved ekstrabeskyttelse, der etableres som erstatning  
+
+ for en ekstrabeskyttelse, udført ved jording med fjernvarmenet resp.  
+
+ vandrørsnet som jordelektrode eller ved fejlspændingsafbryder eller  
+
+ fejlstrømsafbryder med vandrørsnet som jordelektrode.
+ Undtagelse:
+ Der kræves dog jordelektrode og beskyttelsesleder ved ekstrabeskyttelse af  
+
+ elektromedicinske apparater og apparater til anvendelse ved undersøgelse og  
+
+ behandling af personer.
+1986-01-01 7. Ved ekstrabeskyttelse i boliger, butikker og  
+
+ kontorer i bygninger opført før 1. april 1975.
+ Boliger omfatter i denne forbindelse også værelser på plejehjem,  
+
+ kollegieværelser, hotelværelser o.l.
+1983-04-01 Tilladelsen til at udelade jordelektrode og beskyttelsesleder gælder kun  
+
+ for den del af installationen, der anbringes inde i boligen, butikken eller  
+
+ kontoret.
+ Undtagelse:
+1983-04-01 Der kræves dog jordelelektrode og beskyttelsesleder ved ekstrabeskyttelse  
+
+ af elektromedicinske apparater og apparater til anvendelse ved undersøgelse  
+
+ og behandling af personer samt ved ekstrabeskyttelse af elevatorer.
+ 8. Ved ekstrabeskyttelse i brønde og tunneler til  
+
+ fjernvarmeanlæg udført før 1. april 1974, se § 17.5.
+1980-01-01 9. Ved ekstrabeskyttelse i det fri af  
+
+ belysningsgenstande med metalstander nedgravet i jord, således at udsatte  
+
+ metaldele på belysningsgenstanden har naturlig jordforbindelse.
+1984-01-01 10. Ved ekstrabeskyttelse af brugsgenstande og  
+
+ hjælpeapparater i omrejsende tivolier, se § 18.2.10.
+1984-01-01 11. Ved ekstrabeskyttelse af brugsgenstande, som  
+
+ tilsluttes en stikkontakt uden jord for kortvarig anvendelse.
+ 10.6 Installation af fejlstrømsafbryder.
+ 10.6.1 For at undgå, at fejlspændinger, som hidrører fra installationer  
+
+ foran fejlstrømsafbrydere, forplanter sig til installationsdele efter  
+
+ fejlstrømsafbrydere, må det sikres, at kabelarmeringer, ledende rør, ydre  
+
+ steldele m.m. foran fejlstrømsafbrydere er tilstrækkeligt isoleret fra  
+
+ tilsvarende installationsdele efter fejlstrømsaf brydere.
+ 10.6.2 Fejlstrømsafbrydere skal være let tilgængelige for betjening og for  
+
+ funktionsafprøvning for brugeren af installationen og opsættes således, at  
+
+ uønskede funktioner på grund af rystelser undgås.
+ Undtagelse:
+ Ved kanalskinnesystemer kan fejlstrømsafbrydere anbringes i en  
+
+ afgangsboks, selv om denne er uden for normal rækkevidde.
+1983-04-01 Anbringes fejlstrømsafbrydere Er udgået.
+ 10.6.3 I beboelsesejendomme skal hver enkelt fejlstrømsafbryder anbringes  
+
+ i den bolig, hvortil den hører.
+ Ved boliger forstås helårsboliger, fritidshuse og hotellejligheder.
+ 10.6.4 Hvor der i Stærkstrømsreglementet er krav om fordeling af lamper på  
+
+ flere grupper, f.eks. ved nød- og panikbelysningsanlæg og i  
+
+ forsamlingslokaler, må disse grupper ikke forsynes gennem den samme  
+
+ fejlstrømsafbryder.
+1989-07-01 10.6.5 Fejlstrømsafbrydere skal monteres lodret, med mindre de er  
+
+ konstrueret til montering i andre stillinger.
+§ 11 Fejlspændingsafbryder 11.1 Anvendelse.
+ 11.1.1 Ekstrabeskyttelse ved fejlspændingsafbryder kan anvendes i  
+
+ lavspændingsinstallationer og sekundære højspændingsinstallationer.
+1989-07-01 I visse tilfælde ... Er udgået.
+ 11.2 Beskyttelsesleder.
+11.2.1 Beskyttelseslederens tværsnit skal være mindst 2,5 mm2, Undtagelse:
+ På strækninger, hvor beskyttelseslederen oplægges i samme ledning eller  
+
+ rør som de elførende ledere, kan den dog have samme tværsnit som disse.
+11.2.2 Den beskyttelsesleder, der forbinder fejlspændingsafbryderens  
+
+ udløsespole med jordelektroden, skal være plastinstallationskabel eller  
+
+ installationsledning i plastrør.
+I jord må kun anvendes  
+
+ plastinstallationskabel.
+Midler til mekanisk beskyttelse af kabler i jord i  
+
+ henhold til afsnit 6, § 14.5, skal være af ikke ledende materiale.
+ 11.3 Jordelektrode.
+ 11.3.1 En jordelektrode skal udføres efter bestemmelserne herom i § 16.1.
+11.3.2 Jordelektrodens overgangsmodstand til neutral jord må højst andrage 35 -- ohm 1s hvor: Is er summen af udløsestrømme i ampere for de afbrydere, som er  
+
+ sluttet til den pågældende jordelektrode.
+ 11.3.3 Til jordelektroder for fejlspændingsafbrydere må ikke sluttes  
+
+ beskyttelsesledere hørende til andre former for ekstrabeskyttelse.
+ 11.3.4 Jordelektroden skal anbringes i fornøden afstand såvel fra ydre  
+
+ steldele som fra fremmede ledende dele, selv om disse ikke har forbindelse  
+
+ med de ydre steldele.
+ Ved fornøden afstand forstås en sådan afstand, at bestemmelsen om kontrol  
+
+ af ekstrabeskyttelse ved fejlspændingsafbryder i afsnit 11. § 2.3.4. er  
+
+ opfyldt.
+ 11.4 Installation af fejlspændingsafbryder.
+ 11.4.1 Fejlspændingsafbryderens spole indskydes mellem de ydre steldele,  
+
+ der skal ekstrabeskyttes, og en jordelektrode.
+ 11.4.2 For at undgå, at fejlspændinger, som hidrører fra installationer  
+
+ foran fejlspændingsafbrydere, forplanter sig til ydre steldele efter  
+
+ fejlspændingsafbrydere, må det sikres, at kabelarmeringer, ledende rør, ydre  
+
+ steldele m.m. foran fejlspændingsafbrydere er tilstrækkeligt isoleret fra  
+
+ ydre steldele efter fejlspændingsafbrydere.
+ 11.4.3 Fejlspændingsafbrydere skal være let tilgængelige for betjening og  
+
+ for funktionsafprøvning for brugeren af installationen og opsættes således,  
+
+ at uønskede funktioner på grund af rystelser undgås.
+ Undtagelse:
+ Ved kanalskinnesystemer kan fejlspændingsafbrydere anbringes i en  
+
+ afgangsboks, selv om denne er uden for normal rækkevidde.
+ Anbringes fejlspændingsafbrydere bag låger, skal disse kunne åbnes uden  
+
+ brug af værktøj.
+ 11.4.4 Ved ekstrabeskyttelse af elektrodegryder skal den afbrydning, som  
+
+ fremkaldes af fejlspændingsafbrydere, også omfatte nullederen.
+§ 12 Nulling 12.1 Anvendelse.
+ 12.1.1 Ekstrabeskyttelse ved nulling kan anvendes i  
+
+ lavspændingsinstallationer og i sekundære højspændingsinstallationer.
+1981-10-01 12.1.2 Ekstrabeskyttelse ved nulling må ikke anvendes i  
+
+ lavspændingsinstallationer og i sekundære højspændingsinstallationer, hvori  
+
+ der indgår brugsgenstande og hjælpeapparater med metallisk forbindelse til  
+
+ metalliske røranlæg, der er isoleret i forhold til jord, og som er udsat for  
+
+ elektromagnetisk påvirkning fra et nærført højspændingsanlæg, se afsnit 4, §§  
+
+ 13.2 og 13.3.
+ Undtagelse:
+ Nulling kan dog anvendes, såfremt den elektromagnetiske påvirkning ikke  
+
+ giver anledning til højere spænding mellem brugsgenstandenes og  
+
+ hjælpeapparaternes metalliske dele og neutral jord end 50 V i højst 1 sekund.
+ 12.2 Udførelse.
+1984-07-01 12.2.1 Nulling må udføres i følgende tilfælde, såfremt  
+
+ lavspændingsanlægget, der forsyner installationen, er nulsikkert, jf. afsnit  
+
+ 4, § 10:
+ 1. Hvor installationen forsynes fra egen  
+
+ transformerstation.
+ 2. Hvor stikledningen udgår direkte fra  
+
+ transformerstation og er udført med kabel.
+ 3. Hvor nulling allerede anvendes i installationen.
+ 4. Hvor elleverandøren har givet en særlig tilladelse.
+ 12.2.2 Elleverandøren kan kun nægte nullingstilladelse i de under §  
+
+ 12.2.1, pkt. 1 og 2, nævnte tilfælde, hvis der er større tekniske  
+
+ vanskeligheder forbundet med at opnå nulsikkerhed i forsyningsanlægget.
+ Nulling må udføres uden nullingstilladelse i det under § 12.2.1. pkt. 3,  
+
+ nævnte tilfælde.
+1980-04-01 12.2.3 Nulling skal udføres ved, at de ydre steldele, der skal  
+
+ ekstrabeskyttes, gennem en beskyttelsesleder sluttes til nullederen i den  
+
+ stikledning, hovedledning eller gruppeledning, gennem hvilken installationen  
+
+ forsynes.
+ 12.3 Beskyttelsesleder.
+ 12.3.1 I den faste installation skal beskyttelsesledere have et tværsnit,  
+
+ der afhængigt af faseledernes tværsnit mindst er som angivet i bilag 1.
+ Såfremt faselederne ikke har samme tværsnit i hele længden, kan  
+
+ beskyttelseslederens tværsnit fastsættes i forhold til faseledernes mindste  
+
+ tværsnit.
+ 12.3.2 I tilledninger skal beskyttelsesledere have samme tværsnit som  
+
+ faselederne.
+1980-04-01 12.3.3 Beskyttelsesledere skal Er udgået.
+ 12.3.4 Beskyttelsesledere må ikke forbindes med beskyttelsesledere hørende  
+
+ til andre grupper på noget andet sted end ved stikledningen, respektive  
+
+ hovedledningen.
+ Hvor nulling etableres ved hjælp af ledninger, der hidtil har været  
+
+ anvendt til anden form for ekstrabeskyttelse, kræves bestemmelsen ikke  
+
+ overholdt.
+ 12.4 Særlige betingelser for beskyttelseslederens tilslutning til  
+
+ nullederen.
+1980-04-01 12.4.1 Nullederen skal have et tværsnitareal, der ikke er mindre end 10  
+
+ mm2 Cu eller 16 mm2 Al.
+ Undtagelse:
+ Hvor lederen er en koncentrisk leder, der omslutter alle faselederne, er  
+
+ det mindste tilladte tværsnitareal 4mm2 Cu.
+ 12.4.2 Der må ikke i installationen indgå ledninger ophængt som  
+
+ luftledning på isolatorer foran beskyttelseslederens tilslutning til  
+
+ nullederen.
+ 12.4.3 Der må ikke være indskudt nogen afbryder, der kan bryde nullederen  
+
+ foran beskyttelseslederens tilslutning til nullederen.
+ Angående nødforsyningsanlæg, se afsnit 6, § 10.3.2.
+ 12.4.4 I ledninger foran beskyttelseslederens tilslutning til nullederen  
+
+ må der ikke som forbindelse mellem et kanalskinnesystem og en dertil sluttet  
+
+ afgangsboks være fælles kontakt for en nulleder og en beskyttelsesleder,  
+
+ medmindre kontakten er forsvarlig sikret ved skrueforbindelse.
+ 12.5 Udligningsforbindelse mellem nulleder og vandrør.
+ 12.5.1 En eventuel udligningsforbindelse mellem stikledningens eller  
+
+ hovedledningens nulleder og et vandrør skal udføres efter bestemmelserne for  
+
+ ledninger til ekstrabeskyttelse, jf. § 15.
+1984-07-01 Det anbefales at udføre en sådan udligningsforbindelse.
+ 12.5.2 Udligningsforbindelsens ledertværsnit skal mindst være lige så  
+
+ stort som ledertværsnittet af nullederen i stikledningen, henholdsvis  
+
+ hovedledningen.
+ 12.6 Udløsetid.
+ 12.6.1 Installationen skal være dimensioneret således, at den strøm, der  
+
+ vil opstå i tilfælde af isolationsfejl uden overgangsmodstand mellem en  
+
+ spændingsførende leder og ydre steldele, bevirker afbrydning af den  
+
+ fejlbehæftede leder inden ca. 1 sekund, enten ved en sikring (smeltesikring  
+
+ eller automatsikring) eller ved en automatisk overstrømsafbryder.
+§ 13 Jording 13.1 Anvendelse.
+ 13.1.1 Ekstrabeskyttelse ved jording kan anvendes i  
+
+ lavspændingsinstallationer samt i primære og sekundære  
+
+ højspændingsinstallationer, se dog § 13.1.2.
+ 13.1.2 I lavspændingsinstallationer og sekundære  
+
+ højspændingsinstallationer, hvor der er anvendt nulling, må jording ikke  
+
+ anvendes for ydre steldele, der af en person kan berøres samtidig med ydre  
+
+ steldele, der er beskyttet ved nulling.
+ 13.2 Udførelse.
+ 13.2.1 Jording skal udføres ved, at de ydre steldele, der skal  
+
+ ekstrabeskyttes, gennem en beskyttelsesleder sluttes til en jordelektrode.
+ 13.3 Beskyttelsesleder.
+ 13.3.1 I den faste installation skal beskyttelsesledere have et tværsnit,  
+
+ der - afhængigt af faseledernes tværsnit - mindst er som angivet i bilag 1.
+ Såfremt faselederne ikke har samme tværsnit i hele længden, kan  
+
+ beskyttelseslederens tværsnit fastsættes i forhold til faselederens mindste  
+
+ tværsnit.
+ 13.3.2 I tilledninger skal beskyttelsesledere have samme tværsnit som  
+
+ faselederne.
+ 13.3.3 Anvendes fjernvarmenet eller vandrør som jordelektrode, jfr. §§  
+
+ 13.4.2 og 16.4.1, skal beskyttelseslederen, hvor det er muligt, forbindes til  
+
+ røret umiddelbart ved hovedhanen og foran en eventuel varme- eller vandmåler.
+ Undtagelse:
+ I bygningskomplekser med flere opgange opført før 1. januar 1976, hvor der  
+
+ inden for komplekset findes en fælles rørledning med afgrening og hovedhane  
+
+ for hver opgang, kan beskyttelseslederen dog forbindes til hovedrørledningen,  
+
+ når der ved anbringelse af metalbøjler el. lign. på steder, hvor en  
+
+ afbrydelse af hovedrørledningen normalt kan forekomme, f. eks. ved varme-  
+
+ eller vandmålere, sikres, at hovedrørledningens elektriske ledningsevne ikke  
+
+ derved forringes.
+ 13.4 Jordelektrode.
+ 13.4.1 For jordelektrodens overgangsmodstand til jord gælder:
+1. Den må ikke være større end 50 -- ohm Ia hvor: Ia er brydeorganets udløsestrøm i ampere ved en udløsetid på 5  
+
+ sekunder.
+ 2. Kan ovennævnte overgangsmodstand til jord ikke  
+
+ opnås, er det tilladt - med elleverandørens tilladelse - at etablere en  
+
+ supplerende ledningsforbindelse (ikke gennem nullederen) fra jordelektroden  
+
+ til transformerstationens jordingsanlæg for driftsmæssig jordforbindelse.
+Jordelektrodens overgangsmodstand til jord må ikke være større end 2 ohm,  
+
+ og sløjfeimpedansen i kredsen bestående af beskyttelseslederen fra dennes  
+
+ tilslutningsklemme på den beskyttede ydre steldel til transformerstationen og  
+
+ tilbage gennem faselederen til den beskyttede del må ikke være større end Uf -- ohm Ia hvor: Uf er fasespændingen i volt.
+ Ia er brydeorganets udløsestrøm i ampere ved en udløsetid på 1 sekund.
+ Den supplerende ledningsforbindelse skal udføres efter reglerne for  
+
+ ledninger til ekstrabeskyttelse, jfr. § 15.
+ 13.4.2 Jordelektroden skal udføres som stang-, bånd- eller trådelektrode  
+
+ efter bestemmelserne herom i § 16.
+ Endvidere kan efter skriftlig tilladelse fra elleverandøren benyttes  
+
+ fjernvarmenet eller vandrørsnet efter bestemmelserne herom i § 16.4.
+§ 14 Del 3: Ledninger til ekstrabeskyttelse § 15 Ledninger til ekstrabeskyttelse 15.1 Materiale.
+ 15.1.1 Ledere i ledninger skal bestå af kobber eller aluminium.
+ Undtagelse:
+ Ledere i tilledninger skal bestå af kobber.
+ Ledninger, der ligger i jord, kan være af andet materiale, jfr. § 15.1.3.
+ 15.1.2 Ledninger skal være isolerede.
+ Isolationen på beskyttelsesledere skal i hele længden have  
+
+ farvekombinationen grøn/gul. jfr. § 15.3.1.
+ Undtagelser:
+ 1. I tavler, kanalskinnesystemer og kontaktskinner  
+
+ behøver ledningerne ikke at være isolerede eller isoleret oplagt, når tavlen,  
+
+ kanalskinnesystemet eller kontaktskinnen er omfattet af en ekstrabeskyttelse.
+ For kanalskinnesystemer kan beskyttelsesledere anbringes enten i eller  
+
+ uden på skinnekassen.
+ Alle kontaktsteder skal være indrettet således, at effektiv kontakt ikke  
+
+ forhindres ved overmaling el. lign.
+I kanalskinnesystemer med afgangsbokse skal kontakt med eventuel  
+
+ beskyttelsesleder finde sted ved isætning af afgangsboksen eller ved  
+
+ fastspænding af denne, for så vidt boksen ikke kan holdes på plads uden en  
+
+ sådan fastspænding.
+Udvendigt anbragte tilslutningsklemmer for  
+
+ beskyttelsesledere er ikke tilladt.
+ Kanalskinnesystemer og kontaktskinner, hvor skinnekassen fungerer som  
+
+ beskyttelsesleder, skal være omfattet af en ekstrabeskyttelse, og endvidere  
+
+ skal skinnekassen (metalkapslingen) opfylde følgende 2 betingelser:
+ - Dens gennemgående elektriske forbindelser skal være således udført, at  
+
+ de er pålidelige og beskyttet mod mekaniske, termiske, kemiske og  
+
+ elektrokemiske beskadigelser.
+ - Dens ledningsevne skal mindst være lig ledningsevnen for en  
+
+ reglementeret beskyttelsesleder det pågældende sted.
+ 2. Ledninger i jord, jfr. § 15.1.3.
+3. I sekundære højspændingsinstallationer kan  
+
+ forbindelsesledninger mellem ekstrabeskyttede dele indbyrdes være uisolerede  
+
+ ledninger med tværsnit mindst 16 mm2 for frit tilgængelige ledninger, og 4 mm2 for ledninger, der kun er tilgængelige efter adskillelse af  
+
+ anlægget.
+15.1.3 Ledninger, der ligger i jord, skal (under iagttagelse af  
+
+ bestemmelserne i § 11.2.2 om beskyttelsesledere i forbindelse med  
+
+ ekstrabeskyttelse ved fejlspændingsafbrydere) være - enten plastklædt eller båndarmeret blykabel eller  
+
+ plastinstallationskabel, der skal beskyttes som angivet i afsnit 6. § 14.5.
+- eller uisoleret tråd eller bånd af samme metal som jordelektroden og med  
+
+ mindst 35 mm2 tværsnit.
+Jerntråd og jernbånd skal være varmforzinket.
+ 15.1.4 Den i nogle typer rørtråd og blykabel direkte under kappen indlagte  
+
+ uisolerede kobberleder (»bi-leder«, se afsnit 102, §§ 19 h og 20  
+
+ h), som kun er beregnet til eventuel ekstrabeskyttelse af kappen og af  
+
+ samlings- og afgreningsmateriel, må ikke anvendes til ekstrabeskyttelse af  
+
+ brugsgenstande.
+ 15.1.5 Apparatstel, stativer, bærejern, bygningsdele o. lign. må ikke  
+
+ danne nogen del af ledningen.
+ Undtagelser:
+ Ved kraner, hejsespil o. lign. kan dog de ydre steldele af den elektriske  
+
+ installation, som ønskes ekstrabeskyttet, og som ikke er anbragt direkte på  
+
+ jernkonstruktioner, forbindes med disse ved uisolerede, flertrådede  
+
+ ledningsstykker med mindst 10 mm2 tværsnit, idet en forskriftsmæssig  
+
+ ekstrabeskyttelse af jernkonstruktionens fundamentsjern, køreskinner el.  
+
+ lign. da anses for at være tilstrækkelig.
+ Maskiner og maskinanlæg med elektrisk materiel, der er udført efter  
+
+ bestemmelserne i afsnit 8, § 12.
+ 15.2 Tværsnit.
+ 15.2.1 Ledninger må ikke have mindre tværsnit end angivet i afsnit 6, §  
+
+ 6.2.1.
+ Undtagelse:
+ Utilgængelige uisolerede forbindelsesledninger hørende til sekundære  
+
+ højspændingsinstallationer, jf. § 15.1.2.
+ 15.2.2 Ledere skal dimensioneres således, at ledningen uden at antage en  
+
+ for den selv eller for omgivelserne farlig temperatur kan føre fejlstrømmen,  
+
+ indtil afbrydelse finder sted.
+ Beskyttelsesledere i forbindelse med nulling og jording skal have tværsnit  
+
+ mindst som angivet i bilag 1.
+ Beskyttelsesledere i forbindelse med fejlstrømsafbrydere og  
+
+ fejlspændingsafbrydere skal have et tværsnit på mindst 2,5 mm2, jf. §§ 10.3.1  
+
+ og 11.2.1.
+ 15.3 Farvemærkning.
+ 15.3.1 Isolationen på beskyttelsesledere skal over hele længden have  
+
+ farvekombinationen grøn/gul.
+ Bestemmelsen gælder også for isolerede beskyttelsesledere, men ikke for  
+
+ beskyttelsesskinner i tavler.
+ Undtagelse:
+Der kræves ikke grøn/gul lederisolation på en beskyttelsesleder - i kabel eller kappeledning med mere end 5 ledere, hvor isolationen på  
+
+ alle ledere har samme farve, 1982-10-01 - i kabel eller kappeledning med 3 eller 4 ledere og med  
+
+ beskyttelsesledertværsnit 50 mm2 og derover, - i kabel med koncentrisk leder som beskyttelsesleder, - i mineralisoleret ledning, - i varmebestandig monteringsledning, type H05 SJ-K, - hvor der ved omlægning eller ændring af faste installationer udført før  
+
+ 1. januar 1974 anvendes en eksisterende ledning som beskyttelsesleder, forudsat at lederen mærkes ved enderne med grøn/gul strømpe, selvklæbende  
+
+ isoleringstape e.l.
+ Mærkningen skal være tydelig og holdbar.
+ Mærkning med maling er ikke tilladt.
+ 15.3.2 Ledninger med farvekombinationen grøn/gul må kun anvendes som  
+
+ beskyttelsesledninger.
+ Bestemmelsen gælder også for ledninger i tavler.
+ 15.4 Oplægning.
+15.4.1 Ledninger til ekstrabeskyttelse skal oplægges og beskyttes efter  
+
+ samme regler som for elførende ledninger.
+Beskyttelsesledere, der forbinder  
+
+ fejlspændingsafbryderes udløsespole med en jordelektrode, skal endvidere  
+
+ opfylde bestemmelserne i § 11.2.2.
+ 15.5 Samlinger og tilslutninger.
+15.5.1 Antallet af samlinger skal være så lille som muligt.
+Samlinger og  
+
+ afgreninger skal udføres på en såvel i mekanisk som i elektrisk henseende  
+
+ betryggende måde og må ikke udføres ved hjælp af de skruer, ved hvilke  
+
+ forbindelse etableres på de enkelte apparater.
+ 15.5.2 En eventuel samling mellem den i bygningen og den i jorden liggende  
+
+ del af en leder skal anbringes på et tilgængeligt sted så nær ved  
+
+ udføringsstedet som muligt.
+15.5.3 Ledningernes forbindelse til de enkelte apparater skal ske ved  
+
+ hjælp af en pålidelig skrueforbindelse.
+Er ledningen flertrådet, skal  
+
+ forbindelsen ske ved hjælp af bøsningskontakt, kravekontakt eller kabelsko.
+ Tilslutningen må ikke ske ved hjælp af skruer, der tjener andet formål,  
+
+ såsom fastholdelse af dæksler e.l.
+ Er det pågældende apparat af fabrikanten forsynet med en jordklemme, må  
+
+ kun denne benyttes for tilslutning af ekstrabeskyttelse.
+ 15.5.4 Ekstrabeskyttelse af en transportabel brugsgenstand skal  
+
+ tilvejebringes gennem jordkontakt i den stikkontakt, gennem hvilken  
+
+ brugsgenstanden strømforsynes.
+ 250 V stikkontakter efter særlige danske systemer (lysstikkontakter) med  
+
+ jordkontakt må kun anvendes, hvor disse er omfattet af en forskriftsmæssig  
+
+ ekstrabeskyttelse.
+15.5.5 Beskyttelseslederens forbindelse til jordelektroden skal udføres på  
+
+ en i mekanisk og elektrisk henseende betryggende måde.
+Hvor samlingen er  
+
+ beliggende i jorden, skal den udføres og beskyttes mod fugt ved brug af  
+
+ dertil af Elektricitetsrådet anerkendt materiel.
+Hvor samlingen er beliggende  
+
+ over jorden, skal den udføres ved brug af en dertil konstrueret  
+
+ tilslutningsdåse.
+ 15.6 Udligningsforbindelser.
+ Udligningsforbindelser, der udgør en del af en ekstrabeskyttelse, skal  
+
+ opfylde bestemmelserne i denne paragraf, herunder også bestemmelserne om  
+
+ farvemærkning.
+1983-04-01 Angående udligningsforbindelser, der udføres med andre formål en  
+
+ ekstrabeskyttelse, se noten til § 1.2.
+Del 4 Jordelektroder § 16 Jordelektroder 16.1 Stangelektrode e.l.
+16.1.1 Til elektrode skal anvendes - varmforzinket stålrør med mindst 25 mm udvendig diameter som DS 522 e.l. eller - varmforzinket massiv stålstang med mindst 12 mm diameter eller - kobberbelagt massiv stålstang med mindst 12 mm diameter eller - kobbertråd med mindst 35 mm2 tværsnit eller - tilsvarende pålideligt og bestandigt materiale.
+ 16.1.2 Elektroden skal neddrives i jord således, at mindst 2 m af  
+
+ elektroden befinder sig i jorden, og elektroden når ned i mindst 2 m dybde.
+1984-01-01 Undtagelse:
+ For HFI-afbrydere på byggepladser kan anvendes elektrode, der neddrives  
+
+ eller nedgraves, således at mindst 1 m af elektroden befinder sig i jorden,  
+
+ og elektroden når ned i mindst 1 m dybde.
+ F.eks. kan et galvaniseret profiljernstativ for en byggepladstavle  
+
+ anvendes som jordelektrode, når det nedgraves som angivet.
+ 16.2 Bånd- eller trådelektrode.
+16.2.1 Til elektrode skal anvendes - tråd eller bånd af kobber eller varmforzinket jern eller - tilsvarende pålideligt og bestandigt materiale.
+ 16.2.2 Elektroden skal have tværsnit på mindst 35 mm2.
+ 16.2.3 Elektroden skal nedlægges i mindst 1 m dybde i jorden.
+ 16.3 Fundamentselektrode.
+ Bestemmelser under overvejelse.
+ 16.4 Vandrørsnet eller fjernvarmenet.
+ 16.4.1 Vandrørsnet eller fjernvarmenet må kun anvendes som jordelektrode i  
+
+ forbindelse med ekstrabeskyttelse ved jording, jf. § 13.4.2. og kun efter  
+
+ skriftlig tilladelse hertil fra elleverandøren.
+ Elleverandøren kan kun give en sådan tilladelse under følgende  
+
+ forudsætninger:
+ 1. Rørnettene skal tjene til almen forsyning og have  
+
+ god elektrisk ledningsevne.
+ Hvis rørnettene ved reparations- eller ændringsarbejde adskilles, skal der  
+
+ forinden anbringes metalbøjler, -wirer e.l. ved adskillelsesstedet, således  
+
+ at rørnettets elektriske ledningsevne ikke forringes.
+ Opmærksomheden henledes på, at der ved samling af rør med visse pakninger  
+
+ af isolermateriale kan være elektrisk ledende forbindelse mellem rørene, uden  
+
+ at denne forbindelse er pålidelig.
+ 2. Administrationen for fjernvarmeanlægget, resp.  
+
+ vandforsyningsanlægget, skal have givet tilladelse til, at det pågældende  
+
+ rørnet benyttes som jordelektrode.
+ Administrationen forpligter sig herved til, hvis der senere påtænkes  
+
+ indført ændringer i rørnettet, som medfører, at dette ikke længere opfylder  
+
+ nærværende bestemmelser, at give elleverandøren meddelelse herom, mindst 6  
+
+ måneder før ændringerne udføres.
+ Såfremt elleverandøren modtager en sådan meddelelse eller skønner, at  
+
+ rørnettet ikke længere opfylder nærværende bestemmelser, skal fornøden  
+
+ meddelelse herom snarest muligt tilstilles ejerne (brugerne) af de elektriske  
+
+ installationer.
+ 3. Anvendes et fjernvarmenet som jordelektrode, skal  
+
+ lavspændingsnettets driftsmæssige jordforbindelse være tilsluttet  
+
+ fjernvarmenettet, og elleverandøren skal mindst hvert tredie år kontrollere,  
+
+ at forbindelsen mellem fjernvarmenettet og lavspændingsnettets driftsmæssige  
+
+ jordforbindelse er effektiv, og at den resulterende overgangsmodstand til  
+
+ jord ikke overstiger 2 ohm.
+1983-07-01 16.5 Højspændingsstationers jordingsanlæg Er udgået.
+Del 5 Ekstrabeskyttelse i visse områder § 17 Ekstrabeskyttelse i visse områder 17.1 Områder med krav om ekstrabeskyttelse.
+ 17.1.1 I de i § 17.1.2 nævnte områder skal brugsgenstande og  
+
+ hjælpeapparater ekstrabeskyttes efter en af de i §§ 5-14 angivne  
+
+ ekstrabeskyttelsesmetoder.
+1985-04-01 I områder hørende til boliger skal ekstrabeskyttelsen dog udføres med  
+
+ højfølsomme fejlstrømsafbrydere (HFI-afbrydere). Såfremt der findes områder,  
+
+ for hvilke der gælder særlige bestemmelser, skal disse følges, ligesom  
+
+ ekstrabeskyttelse af enkelte brugsgenstande eller hjælpeapparater kan udføres  
+
+ efter en anden af de i §§ 5-14 angivne ekstrabeskyttelsesmetoder, hvis dette  
+
+ af driftstekniske grunde er ønskeligt.
+For de i §§ 17.2-17.11 nævnte områder gælder de i de pågældende  
+
+ paragraffer anførte særlige bestemmelser 1983-04-01 Undtagelse:
+ Der kræves ikke ekstrabeskyttelse af følgende:
+ - Brugsgenstande og hjælpeapparater placeret i eller på tavler udført  
+
+ efter stærkstrømsreglementets afsnit 6 samt tilhørende tilslutningssteder  
+
+ forudsat, at disse er placeret i eller på tavlen, således at apparater og  
+
+ tilslutningssteder kan anses for at være en del af tavlen.
+ - Elektricitetsmålere.
+ Stikkontakter og andre tilslutningssteder i områder med krav om  
+
+ ekstrabeskyttelse skal have virksom jordkontakt, henholdsvis virksom  
+
+ jordklemme.
+ Undtagelser:
+Jordkontakt eller jordklemme kræves ikke, - hvor beskyttelsesleder og jordelektrode tillades udeladt i henhold til §  
+
+ 10.5.1, - hvor en sekundær strømkreds kun forsyner en stikkontakt eller een  
+
+ brugsgenstand (se dog noten til § 9.4.2), - hvor der anvendes sikkerhedsspænding, 1986-01-01 - hvor spændingsgivere, af klasse II til elektriske hegn er fast  
+
+ tilsluttet forsyningsnettet, se i øvrigt afsnit 6, § 12.2.1.
+ 17.1.2 I nedennævnte områder skal brugsgenstande og hjælpeapparater  
+
+ ekstrabeskyttes:
+1983-04-01 1. Køkkener, kogenicher, grovkøkkener, bryggerser o.l.  
+
+ (såvel private som ikke private).
+1985-04-01 Undtagelse:
+ For transportable brugsgenstande til almindelig husholdningsbrug, som på  
+
+ skift kan benyttes i forskellige rum, og som tilsluttes 220 V stikkontakter,  
+
+ tillades ekstrabeskyttelse udeladt.
+ Hertil henregnes:
+ - Brødristere, grillapparater.
+ - Stryge- og pressejern samt stryge- og presseapparater.
+ - Transportable belysningsgenstande.
+ - Transportable motordrevne husholdningsapparater.
+ - Varmeplader og andre transportable termiske husholdningsapparater.
+ 2. Tilberedningsrum hørende til viktualieforretninger,  
+
+ slagterforretninger, slagterier o.l.
+ 3. Vaskeri-, renseri-, rulle og strygerum til  
+
+ erhvervsmæssig brug eller til fælles afbenyttelse.
+ 4. Fugtige områder.
+ 5. Våde områder.
+ 6. I det fri.
+ Undtagelser:
+1983-04-01 - Belysningsgenstande for belysning af gader og veje, herunder også  
+
+ belysningsgenstande, der forsynes fra gade- og vejbelysningsanlæg.
+ - Luftværnssirener.
+ - Markeringslys for luft- og søfart.
+ - Trafikreguleringsanlæg.
+ - Vejafmærkninger.
+ 7. Garager og carporte.
+1982-01-01 8. Landbrugets driftsbygninger.
+ 9. Industrielle produktionsområder.
+ Hertil henregnes rum og områder, hvor der foregår industriel produktion  
+
+ samt lagerlokaler i tilslutning hertil.
+ Kontorer for administration o.l. samt kantiner, omklædningsrum o.l. er  
+
+ ikke indbefattet.
+ 17.2 Tandlægeklinikker.
+ 17.2.1 Brugsgenstande, som er inden for patientens og tandlægens  
+
+ rækkevidde under behandlingen, skal ekstrabeskyttes, og brugsgenstandenes  
+
+ ydre steldele skal være indbyrdes ledende forbundet.
+ Hvis den indbyrdes ledende forbindelse ikke er tilvejebragt gennem  
+
+ ekstrabeskyttelsen, skal der således udføres en særskilt  
+
+ udligningsforbindelse.
+ 17.3 Badeområder.
+ Angående definition. se afsnit 7. § 6.1.1.
+ Angående område B og C, se afsnit 7, §§ 6.1.3 og 6.1.4.
+1980-07-01 17.3.1 Monteringsmateriel, kanal- og kontaktskinner med kapsling af  
+
+ ledende materiale skal ekstrabeskyttes.
+ 17.3.2 Brugsgenstande skal ekstrabeskyttes.
+17.3.3 stikkontakter, der er anbragt i område B og C, skal - enten tilsluttes sikkerhedsspænding, - eller tilsluttes en sekundær strømkreds, som udelukkende forsyner den  
+
+ pågældende stikkontakt.
+ Undtagelse:
+ Stikkontakter, der er anbragt i område C, kan være direkte nettilsluttet,  
+
+ forudsat at stikkontakterne er omfattet af ekstrabeskyttelse med højfølsom  
+
+ fejlstrømsafbryder.
+ 17.3.4 Det skal være udelukket, at en isolationsfejl i en installation i  
+
+ en bygning med etageadskillelser med jernindlæg kan bevirke, at der til gulv  
+
+ i badeområder overføres en spænding, som kan medføre fare ved berøring af  
+
+ vandhaner og rørsystemer m.m se bilag 2.
+ 17.3.5 Til sikkerhed mod, at der i en bygning med etageadskillelser med  
+
+ jernindlæg kan opstå en farlig spændingsforskel mellem forskellige  
+
+ rørsystemer i badeområder, f.eks. koldtvandsrør, varmtvandsrør, afløbsrør,  
+
+ centralvarmerør, skal der foroven og forneden i bygningen etableres en  
+
+ pålidelig elektrisk ledende forbindelse mellem disse rørsystemer indbyrdes.
+ 17.3.6 Ved montering af afbrydere o.l. i metaldørindfatninger eller andre  
+
+ bygningsdele af ledende materiale skal der mellem afbrydere o.l. og  
+
+ bygningsdelene være en adskillelse, der svarer til dobbelt eller forstærket  
+
+ isolation.
+ 17.4 Badstuer (saunaer).
+ 17.4.1 Monteringsmateriel med kapsling af ledende materiale skal  
+
+ ekstrabeskyttes.
+ 17.4.2 Brugsgenstande skal ekstrabeskyttes.
+ 17.5 Brønde og tunneler til fjernvarmeanlæg.
+17.5.1 Stikkontakter og transportable brugsgenstande skal - enten være omfattet af en ekstrabeskyttelse med højfølsom  
+
+ fejlstrømsafbryder, Ved etablering af ekstrabeskyttelse med højfølsom fejlstrømsafbryder i  
+
+ eksisterende brønde og tunneler, som er udført før 1. april 1974, tillades  
+
+ beskyttelsesleder og jordelektrode udeladt, jf. § 10.5.1. pkt. 8.
+- eller tilsluttes en sekundær strømkreds for højst 65 V mellem lederne  
+
+ eller til jord1), - eller tilsluttes en sekundær strømkreds uden krævet  
+
+ spændingsnedsættelse, som udelukkende forsyner den pågældende stikkontakt.
+ 17.6 Våde rum i slagterier og mejerier.
+1983-04-01 17.6.1 Transportable brugsgenstande skal ekstrabeskyttes - enten ved HFI-afbryder, - eller ved sekundære strømkredse.
+1986-01-01 Apparater til svinebedøvning Er udgået.
+ 17.7 Campingpladser og pladser for lystfartøjer.
+ Til campingpladser henregnes pladser for campingvogne og telte til ferie-  
+
+ og fritidsophold.
+ Til pladser for lystfartøjer henregnes fortøjningspladser (kajer og  
+
+ bådebroer) samt ophalings- og beddingspladser.
+ 17.7.1 Stikkontakter, der anvendes for tilslutning af installationer i  
+
+ campingvogne, telte og lystfartøjer eller for tilslutning af transportable  
+
+ håndapparater til anvendelse ved reparation eller vedligeholdelse af  
+
+ lystfartøjer, skal være omfattet af en ekstrabeskyttelse med højfølsom  
+
+ fejlstrømsafbryder.
+17.7.2 Stikkontakter i vaskerum for fælles afbenyttelse skal - enten være mfattet af en ekstrabeskyttelse med højfølsom  
+
+ fejlstrømsafbryder, - eller tilsluttes sekundære strømkredse for højst 65 V mellem ledere  
+
+ eller til jord1), - eller tilsluttes en sekundær strømkreds, som udelukkende forsyner den  
+
+ pågældende stikkontakt.
+ 17.8 Byggepladser.
+ 17.8.1 Brugsgenstande, som sluttes til pladsens midlertidige  
+
+ installationer, skal ekstrabeskyttes.
+1980-01-01 Ved ekstrabeskyttelse Er udgået.
+ Undtagelser:
+ Trafikreguleringsanlæg.
+Vejafmærkning Særbestemmelse:
+Visse apparater til anvendelse ved arbejder med frisk beton skal  
+
+ ekstrabeskyttes, se § 18.2.2, - enten ved sekundær strømforsyning for højst 65 V mellem ledere eller til  
+
+ jord1), 17.8.2 Stikkontakter med mærkestrøm til og med 16 A, der er tilsluttet de  
+
+ midlertidige installationer, skal være omfattet af en ekstrabeskytttelse med  
+
+ højfølsom fejlstrømsafbryder eller være omfattet af en ekstrabeskyttelse med  
+
+ sekundær strømkreds.
+1980-01-01 Ved ekstrabeskyttelse Er udgået.
+Andre stikkontakter, der er tilsluttet de midlertidige installationer,  
+
+ skal - enten have virksom jordkontakt, 1980-01-01 Ved ekstrabeskyttelse Er udgået.
+ - eller tilsluttes en sekundær strømkreds (eller eventuelt en generator)  
+
+ for højst 65 V mellem lederne eller til jord1).
+ 17.9 Områder med risiko ved dannelse af statisk elektricitet.
+ 17.9.1 Hvor der i henhold til bestemmelsen i stærkstrømsreglementets  
+
+ afsnit 7 A, eller til krav fra direktoratet for arbejdstilsynet eller  
+
+ brandmyndigheden, skal tilvejebringes indbyrdes metallisk forbindelse mellem  
+
+ visse (eventuelt alle) metaldele, skal heri indgående elektrisk materiel  
+
+ ekstrabeskyttes ved fejlstrømsafbryder, nulling eller jording, se §§ 10, 12  
+
+ og 13.
+Af hensyn til kravet om indbyrdes metallisk forbindelse mellem metaldele  
+
+ er det ofte nødvendigt, at også metaldele på ikke elektriske apparater m.m.  
+
+ forbindes til det beskyttende system.
+De dertil anvendte ledninger o.l. der  
+
+ ikke indgår som beskyttende ledninger for de elektriske apparater, og som  
+
+ ikke må være anbragt i samme kabel, rør e.l. som elførende og beskyttende  
+
+ ledninger til elektrisk materiel, behøver ikke at tilfredsstille  
+
+ bestemmelserne i § 15.
+1980-04-01 17.10 Snævre ledende rum.
+ 17.10.1 Bestemmelserne gælder for installationer i snævre ledende rum og  
+
+ for strømforsyning til apparater i sådanne rum.
+ 17.10.2 Et snævert ledende rum er et rum, hvis begrænsninger helt eller i  
+
+ det væsentlige består af ledende dele, og hvor det er sandsynligt, at en  
+
+ person med en stor del af sit legeme vil komme i berøring med de omgivende  
+
+ ledende dele, og hvor der kun er begrænsede muligheder for at undgå denne  
+
+ berøring.
+ 17.10.3 Håndværktøj og andre transportable apparater (undtagen håndlamper)  
+
+ skal ekstrabeskyttes ved en af følgende ekstrabeskyttelsesmetoder:
+ - Sikkerhedsspænding.
+ - Sekundære strømkredse.
+Der må i sekundære strømkredse kun tilsluttes et apparat til hver  
+
+ sekundærvikling på en skilletransformer.
+Såfremt der anvendes apparater af  
+
+ klasse I, skal de have håndtag enten af isolermateriale eller med isolerende  
+
+ overtræk.
+ I sekundære strømkredse bør fortrinsvis anvendes apparater af klasse II.
+ 17.10.4 Håndlamper skal ekstrabeskyttes ved anvendelse af  
+
+ sikkerhedsspænding.
+ Det er tilladt at anvende håndlamper med indbygget transformer for  
+
+ lysstofrør, når transformeren har adskilte viklinger og forsynes med  
+
+ sikkerhedsspænding fra en strømkilde uden for rummet.
+ 17.10.5 Stationære apparater skal ekstrabeskyttes ved en af følgende  
+
+ ekstrabeskyttelsesmetoder:
+ - Fejlstrømsafbryder, nulling eller jording.
+ Mellem ydre steldele og fremmede ledende dele i det snævre ledende rum,  
+
+ skal der udføres udligningsforbindelser.
+ - Sikkerhedsspænding.
+ - Sekundære strømkredse.
+ Der må i sekundære strømkredse kun tilsluttes eet apparat til hver  
+
+ sekundærvikling på en skilletransformer.
+ 17.10.6 Skilletransformere og strømkilder for sikkerhedsspænding skal  
+
+ placeres uden for det snævre ledende rum.
+ 17.10.7 Hvis der udføres funktionsmæssig jordforbindelse for fast  
+
+ monterede apparater, f.eks. måle- eller kontrolapparater, skal der udføres  
+
+ udligningsforbindelser mellem denne funktionsmæssige jordforbindelse og alle  
+
+ ydre steldele og alle fremmede ledende dele inden for det snævre ledende rum.
+1984-10-01 17.11 Fiskerihavne.
+ 17.11.1 Stikkontakter, der anvendes for tilslutning af installationer  
+
+ eller brugsgenstande i fiskeskibe, skal være omfattet af en ekstrabeskyttelse  
+
+ med højfølsom fejlstrømsafbryder.
+1986-10-01 1984-10-01 Stikkontakter med mærkestrøm større end 16 A kan dog være omfattet af en  
+
+ anden form for ekstrabeskyttelse, hvis dette af driftstekniske grunde er  
+
+ ønskeligt.
+Del 6 Ekstrabeskyttelse af visse brugsgenstande § 18 Ekstrabeskyttelse af visse brugsgenstande 18.1 Almindeligt krav om ekstrabeskyttelse.
+ 18.1.1 Nedennævnte apparater og brugsgenstande skal være ekstrabeskyttet  
+
+ på en af de i §§ 5-14 angivne måder.
+ 1. Apparater og brugsgenstande, der er forsynet med  
+
+ mærkningen:
+ Skal ekstrabeskyttes, jf. stærkstrømsregl.
+ eller:
+ Skal jordforbindes forskriftsmæssigt.
+ 2. Bilmotorvarmere med eventuel tilhørende  
+
+ cirkulationspumpe og kupevarmere for biler.
+ 3. Brusekabiner og eventuelle tilhørende  
+
+ magnetventiler.
+ 4. Elektromedicinske apparater og andre brugsgenstande  
+
+ og apparater, der anvendes ved undersøgelse og behandling af personer, se  
+
+ også §§ 18.2.1 og 20.3.
+ 5. Fiskefodringsanlæg.
+ 6. Foderkogere i landbrug.
+ 7. Højtryksvaskeanlæg, herunder spuleanlæg og  
+
+ damprenseanlæg.
+1985-04-01 8. Stationære køleskabe, frysere og andre stationære  
+
+ køle- eller fryseanlæg (masse over 18 kg).
+ 9. Malkemaskiner.
+1986-10-01 10. Maskiner og maskinanlæg, som udføres efter afsnit  
+
+ 15-1 eller afsnit 15.
+ Elevatorer, rulletrapper og rullefortove.
+ Bestående elevatorer i henhold til arbejdsministeriets bekendtgørelse nr.  
+
+ 627 af 18. december 1980 og nr. 40 af 26. januar 1983, bekendtgørelse om  
+
+ supplerende regler om indretning af elevatorer m.v inden de i denne angivne  
+
+ tidsfrister.
+ 11. Mælketankvognes aggregater for nettilslutning.
+ 12. Olie- og gasfyringsanlæg samt pumper og  
+
+ magnetventiler hørende til varmeanlæg, herunder bl.a. til korntørringsanlæg.
+ 13. Pumper for vand.
+1983-07-01 Undtagelse:
+ Sprinkleranlæg til brandslukning.
+ 14. Pumper, termiske apparater og belysningsgenstande  
+
+ hørende til havespringvand.
+ 15. Roeskærere og roetransportører (herunder  
+
+ roesnegle).
+ 16. Spilleautomater o.l.
+1982-10-01 Herved forstås apparater, der betjenes af publikum, almindeligvis ved  
+
+ møntindkast.
+Eksempler på spilleautomater o.l. er gevinstautomater, vare- og  
+
+ musikautomater, kuglespil, skydespil, bowlingmaskiner, fodboldspil, gyngedyr.
+ 17. Tørmælkudrørere, mælkeomrørere og mælkekølere  
+
+ (herunder også sådanne med isafkølet vand).
+ Bestemmelsen gælder også for allerede installerede apparater.
+ 18. Tørrecentrifuger og tørretumblere.
+ 19. Udmugningsanlæg og tilhørende transportører, ajle-  
+
+ og gyllepumper samt ajle- og gylleomrørere.
+ 20. Vandvarmere med elektrisk udstyr, fast monterede.
+ 21. Varmekabler og varmebændler.
+Kravet gælder ikke materiel, der er indbygget i brugsgenstande.
+Ved  
+
+ ekstrabeskyttelse efter bestemmelserne i §§ 10, 11, 12 og 13 skal  
+
+ beskyttelseslederen forbindes til en ledende skærm eller kappe i varmekabler  
+
+ eller varmebændler, eller, hvis en sådan ikke forefindes, til eventuelle  
+
+ metalliske dele (rør, beholdere o.l.), som kablet slutter sig til.
+ Om særlige lempelser for udførelse af ekstrabeskyttelse med højfølsomme  
+
+ fejlstrømsafbrydere, se § 10.5.1, pkt. 4.
+ 22. Vaskemaskiner - herunder opvaskemaskiner og  
+
+ bilvaskeautomater.
+1983-04-01 18.1.2 Brugsgenstande og hjælpeapparater, der tilsluttes  
+
+ udligningsforbindelser og jordforbindelser med andre formål end  
+
+ ekstrabeskyttelse, skal ekstrabeskyttes på en af de i §§ 5-14 angivne måder,  
+
+ se i øvrigt noten til § 1.2.
+ 18.2 Særlige krav om ekstrabeskyttelse.
+ 18.2.1 Ved apparater til fodpleje, manicure og hårbehandling af personer  
+
+ skal dele, som normalt bringes i berøring med den, der behandles,  
+
+ ekstrabeskyttes ved ekstra isolation, isolationsled eller ved, at de  
+
+ pågældende dele tilsluttes en sekundær strømkreds for højst 35 V jævnspænding  
+
+ eller 25 V vekselspænding mellem lederne eller til jord.
+ Ved direkte virkende apparater til permanent hårkrølning kan  
+
+ ekstrabeskyttelsen dog ske ved sekundær strømkreds for højst 75 V  
+
+ jævnspænding eller 50 V vekselspænding mellem lederne eller til jord.
+ Vad direkte virkende apparater( forstås apparater, der, når de er under  
+
+ spænding, berører den, der behandles.
+18.2.2 Apparater til anvendelse ved arbejder med frisk beton skal 1. på byggepladser ekstrabeskyttes, - enten med sekundær strømkreds for højst 65 V mellem lederne eller til  
+
+ jord1), - eller med højfølsom fejlstrømsafbryder, 2. andre steder ekstrabeskyttes på en af de i §§ 5-14  
+
+ angivne måder.
+ Eksempler på nævnte apparater er betonvibratorer (stav-, bjælke-,  
+
+ formvibratorer m.fl.). glittemaskiner.
+ - betonblandemaskiner o.l.
+1986-01-01 Undtagelse:
+ Betonblandemaskiner af klasse II må anvendes på byggepladser forudsat, at  
+
+ tilslutningsstedet er omfattet af ekstrabeskyttelse med højfølsom  
+
+ fejlstrømsafbryder.
+ 18.2.3 Elektrodegryder o.l med berøringstilgængeligt nullederforbundet  
+
+ stel (se afsnit 6, § 38.3.1) skal ekstrabeskyttes ved fejlspændingsafbryder,  
+
+ nulledning eller jording, jf. §§ 11, 12 og 13.
+1983-04-01 18.2.4 (Disponibel).
+ 18.2.5 Illuminationsgenstande, herunder kæder, til midlertidig  
+
+ illumination i det fri skal have ekstra isolation eller ekstrabeskyttes ved  
+
+ højfølsom fejlstrømsafbryder eller ved sekundær strømkreds for højst 50 V  
+
+ mellem lederne eller til jord.
+ Om særlige lempelser for udførelse af ekstrabeskyttelse med højfølsomme  
+
+ fejlstrømsafbrydere, se § 10.5.1, pkt. 5.
+ Undtagelse:
+ Illuminationsgenstande, der er anbragt mindst 3 m over terræn og er uden  
+
+ for rækkevidde fra oplukkelige vinduer, altaner o.l., forudsat fastgørelsen  
+
+ til master, bygningsdele o.l. sker over isolatorer eller isoleret bæretråd.
+1983-04-01 Juletræskæder Er udgået.
+ 18.2.6 Legetøj skal ekstrabeskyttes ved sekundær strømkreds for højst 35 V  
+
+ jævnspænding eller højst 25 V vekselspænding mellem lederne.
+ For transformere med en mærkeeffekt på højst 200 VA tillades en  
+
+ tomgangsspænding på højst 33 V vekselspænding.
+ 18.2.7 Strømkredse med nedsat isolation i en brugsgenstand skal opfylde  
+
+ bestemmelserne i § 9.
+ 18.2.8 Svejseaggregater skal opfylde bestemmelserne for maksimal  
+
+ tomgangsspænding, se afsnit 8, § 4.
+ 18.2.9 Elektriske anlæg til rumopvarmning, der har strålevarmeelementer  
+
+ udformet som folie, plader eller tilsvarende varmekilde, skal være  
+
+ ekstrabeskyttet ved højfølsom fejlstrømsafbryder, se § 10.5.1. pkt. 3, og  
+
+ afsnit 8, § 2.1.1.
+1984-01-01 18.2.10 Brugsgenstande og hjælpeapparater, der anvendes i omrejsende  
+
+ tivolier, skal ekstrabeskyttes med højfølsom fejlstrømsafbryder.
+Enkelte  
+
+ brugsgenstande eller hjælpeapparater kan dog ekstrabeskyttes efter en anden  
+
+ af de i §§ 5-14 angivne ekstrabeskyttelsesmetoder, hvis dette af  
+
+ driftstekniske grunde er ønskeligt.
+ Ved ekstrabeskyttelse med højfølsom fejlstrømsafbryder i omrejsende  
+
+ tivolier tillades jordelektrode og beskyttelsesleder udeladt, se § 10.5.1  
+
+ pkt. 10.
+Del 7 § 19 Ekstrabeskyttelse i primære højspændingsinstallationer 19.1 Primære højspændingsinstallationer skal ved jordforbindelse og andre  
+
+ foranstaltninger beskyttes mod farlige berørings- og skridtspændinger efter  
+
+ bestemmelserne herom for stations- og ledningsanlæg i stærkstrømsreglementets  
+
+ afsnit 4.
+Del 8 § 20 Ekstrabeskyttelse i sekundære højspændingsinstallationer 20.1 Sekundære højspændingsinstallationer af klasse A.
+ 20.1.1 Sekundære højspændingsinstallationer af klasse A (se afsnit 9) skal  
+
+ ekstrabeskyttes ved fejlspændingsafbryder, nulling eller jording, jfr. §§ 11,  
+
+ 12 og 13. Beskyttelsen skal omfatte alle indre og ydre steldele, herunder  
+
+ transformerkerner, metalliske beskyttelseskasser o. lign., stativer, bæringer  
+
+ for højspændingsførende dele (rørholdere dog undtaget), underlagsplader for  
+
+ isolatorer, kapper og armeringer på højspændingskabler og armeringer på  
+
+ lavspændingskabler. der ligger dels i og dels uden for et højspændingsrum.
+ Sekundære højspændingsinstallationer af klasse B og C er i kraft af  
+
+ klassificeringsbetingelserne i afsnit 9 ekstrabeskyttet ved sekundær  
+
+ strømforsyning.
+ 20.2 Højspændingsprøveanlæg.
+ 20.2.1 Indre og ydre steldele, der hører til højspændingsprøveanlæg til  
+
+ kortvarige prøver, skal ekstrabeskyttes ved en af de i §§ 12 eller 13 angivne  
+
+ metoder.
+ Undtagelse:
+ Beskyttelsesledere i særligt indrettede prøverum kan oplægges som  
+
+ uisoleret ledning med mindst 10 mm2 tværsnit.
+ 20.2.2 For højspændingsprøveanlæg til prøver af længere varighed skal  
+
+ anlæggets indre og ydre steldele og alle til prøverummet hørende bygnings- og  
+
+ konstruktionsdele af metal samt eventuelle rørledninger o. lign. (herunder  
+
+ blykablers kappe og armering) ekstrabeskyttes ved en af de i §§ 11, 12 eller  
+
+ 13 angivne metoder.
+ Undtagelse:
+ Beskyttelseslederne i prøverum kan oplægges som uisoleret ledning med  
+
+ mindst 10 mm2 tværsnit.
+ Beskyttelsesledere skal være uafhængige af eventuelle beskyttelsesledere  
+
+ for lavspændingsinstallationer, som er prøveanlægget uvedkommende.
+ 20.3 Røntgenanlæg.
+ 20.3.1 Røntgenanlæg skal være ekstrabeskyttet på en af de i §§ 9 til 13  
+
+ angivne måder.
+ For visse typer røntgenanlæg kan ekstrabeskyttelse ved fejlstrømsafbryder  
+
+ ikke anvendes i henhold til undtagelsen til § 10.1.1.
+ 20.3.2 Ved anvendelse af HFI-afbryder kræves altid beskyttelsesleder og  
+
+ jordelektrode, såfremt anlægget skal anvendes til undersøgelse eller  
+
+ behandling af personer.
+ Se også undtagelserne til § 10.5.1 pkt. 6 og 7.
+ 20.3.3 Ved industrielle røntgenanlæg skal røntgenapparatets stel være  
+
+ ledende forbundet med større emner (skibe, lagertanke, pipelines m. v.).
+ 20.3.4 Ved røntgenanalyseanlæg skal alle apparatets udvendige metaldele  
+
+ incl. eventuelle metalbordkanter, måleopstillinger m. m. være indbyrdes  
+
+ elektrisk forbundet.
+ 20.3.5 Ved røntgenanlæg til undersøgelse eller behandling af personer skal  
+
+ alt elektrisk materiel, som er inden for patientens og operatørens rækkevidde  
+
+ under behandlingen eller undersøgelsen, være ekstrabeskyttet, og det skal -  
+
+ bortset fra materiel med ekstra isolation - være indbyrdes ledende forbundet.  
+
+ Hvis den indbyrdes ledende forbindelse ikke er tilvejebragt gennem  
+
+ ekstrabeskyttelsen, skal der således være udført en særlig  
+
+ udligningsforbindelse.
+Bilag 1 Beskyttelseslederes tværsnit 1. Lavspændingsinstallationer I fast installation skal beskyttelsesledere ved nulling og ved jording (se  
+
+ afsnit 10, §§ 12 og 13) have et tværsnit, der - afhængigt af faseledernes  
+
+ tværsnit - mindst er som angivet i tabellen.
+ Såfremt faselederne ikke har samme tværsnit i hele længden, kan  
+
+ beskyttelseslederens tværsnit fastsættes i forhold til faseledernes mindste  
+
+ tværsnit.
+ 1)På strækninger, hvor beskyttelseslederen oplægges i samme kabel, rør,  
+
+ dækkasse el. lign. som faselederne, kan den lægges med samme tværsnit som  
+
+ disse.
+ I tilledninger skal beskyttelseslederen have samme tværsnit som  
+
+ faselederne.
+ Angående uisolerede beskyttelsesledere i jorden, se afsnit 10, § 15.1.3.
+2. Primære højspændingsinstallationer Beskyttelsesledere skal have samme tværsnit som faselederne, se dog afsnit  
+
+ 10, § 15.1.3, angående beskyttelsesledere i jorden.
+3. Sekundære højspændingsinstallationer Beskyttelseslederes tværsnit skal - afhængigt af faselederne i  
+
+ lavspændingsinstallationen - være som under pkt. 1 angivet for  
+
+ beskyttelsesledere i lavspændingsinstallationer, se dog afsnit 10, § 15.1.2.
+Bilag 2 Gulve og rørsystemer i badeområder Bestemmelsen i § 17.3.4, kan opfyldes på en af følgende måder:
+1984-04-01 1. Elektrisk materiel, herunder også brugsgenstande,  
+
+ der er fastgjort på eller anbragt i etageadskillelser eller byggeelementer,  
+
+ hvori badeområdets gulv indgår, eller hvormed dets jernindlæg har metallisk  
+
+ forbindelse, skal - enten være omfattet af forskriftsmæssig ekstrabeskyttelse, - eller være udført med isolerende kapslinger, - eller være forsynet gennem en HFI-afbryder, idet jordelektrode og  
+
+ beskyttelsesleder kan udelades.
+ Materiellet kan være omfattet af en kombination af ovennhavnte  
+
+ foranstaltninger.
+ 2. Mellem badeområdets gulvflade og jernindlægget  
+
+ anbringes et net af galvaniseret jerntråd, som sættes i elektrisk ledende  
+
+ forbindelse med et koldtvandsrør, se nedenfor.
+ 3. Jernindlægget i badeområdets gulv danner et net,  
+
+ som sættes i elektrisk ledende forbindelse med et koldtvandsrør, se nedenfor.
+ 4. Der er truffet anden af Elektricitetsrådet godkendt  
+
+ foranstaltning.
+ Det i pkt. 2 omtalte trådnet bør have en trådtykkelse i galvaniseret  
+
+ udførelse på mindst 1,2 mm (diameter) og en maskevidde på højst 100 mm.  
+
+ Nettets areal skal svare til gulvets areal, idet nettet dog ikke behøver at  
+
+ komme væggene nærmere end 20 cm.
+ I de under pkt. 2 og 3 nævnte tilfælde føres der fra et punkt i nærheden  
+
+ af et gennemgående koldtvandsrør mindst 3 stk. galvaniserede jerntråde af  
+
+ mindst 4 mm diameter vifteformet ud i gulvet, idet der ved, at trådene  
+
+ trækkes gennem nettets masker eller på anden måde tilvejebringes effektiv,  
+
+ elektrisk ledende forbindelse mellem trådene og ethvert punkt af nettet.  
+
+ Trådene føres ned gennem etageadskillelsen og forbindes samlet på et synligt  
+
+ sted under denne med vandrøret ved hjælp af en dertil egnet solid klemme e.l.  
+
+ af galvaniseret jern.
+ Har jernindlægget i det i pkt. 3 nævnte tilfælde svejste kryds overalt i  
+
+ badeområdets gulv, er forbindelsen fra et punkt af armeringsnettet til  
+
+ vandrør dog tilstrækkelig.
+ Elektricitetsrådet anbefaler, at forbindelserne udføres af en autoriseret  
+
+ elektroinstallatør.
+Bilag 3 Fjernvarmenet og vandrørsnet som jordelektrode i bestående installationer Hvor fjernvarmenet eller vandrørsnet er anvendt som jordelektrode ved  
+
+ ekstrabeskyttelse i bestående installationer, skal ejeren (brugeren) af den  
+
+ elektriske installation drage omsorg for, at ekstrabeskyttelsen ændres i  
+
+ henhold til nedenstående:
+ 1. Omgående ændring af ekstrabeskyttelsen.
+ Såfremt det konstateres, at ekstrabeskyttelsen ikke er effektiv, skal  
+
+ ejeren (brugeren) efter at være blevet bekendt hermed drage omsorg for, at  
+
+ ekstrabeskyttelsen hurtigst muligt bringes i overensstemmelse med  
+
+ bestemmelserne i stærkstrømsreglementets afsnit 10.
+ Dersom ekstrabeskyttelsen ikke er krævet på tidspunktet for ændringen,  
+
+ skal beskyttelsesledere demonteres dels fra rørnet, dels fra  
+
+ afgreningsklemmer ved gruppeafbrydere, medmindre bestemmelserne i afsnit 10  
+
+ opfyldes.
+ 2. Successiv ændring af ekstrabeskyttelsen.
+ Selv om ekstrabeskyttelsen måtte være effektiv, skal jordelektroden  
+
+ snarest muligt bringes til at opfylde de nugældende bestemmelser i  
+
+ henholdsvis afsnit 10, §§ 10, 11 og 13, eller ekstrabeskyttelsen bringes i  
+
+ overensstemmelse med bestemmelserne i afsnit 10, når elleverandøren  
+
+ fremsætter krav herom ved meddelelse til ejeren (brugeren) af installationen.
+ For at ændringerne i installationerne i hele forsyningsområdet skal kunne  
+
+ gennemføres på en hensigtsmæssig måde, er elleverandøren berettiget til når  
+
+ som helst at fremsætte et sådant krav, idet der skal gives ejeren (brugeren)  
+
+ af installationen en rimelig frist til at gennemføre ændringen.
+ Dersom ekstrabeskyttelsen ikke er krævet på tidspunktet for ændringen,  
+
+ skal beskyttelsesledere demonteres dels fra rørnet, dels fra  
+
+ afgreningsklemmer ved gruppeafbrydere, medmindre bestemmelserne i afsnit 10  
+
+ opfyldes.
+ Ændringerne skal ske så hurtigt som muligt og inden udløbet af den  
+
+ tidsfrist, der er fastsat i meddelelsen fra ellevarandøren.
+ Dersom krav om ændring ikke fremkommer, skal ejeren (brugeren) af  
+
+ installationen under alle omstændigheder drage omsorg for, at foran omtalte  
+
+ ændringer er tilendebragt senest 1. januar 1980.
+ Opmærksomheden henledes på, at ved anvendelse af højfølsomme  
+
+ fejlstrømsafbrydere (HFI-afbrydere) tillades jordelektrode og  
+
+ beskyttelsesleder udeladt bl. a. ved ekstrabeskyttelse, der etableres som  
+
+ erstatning for en ekstrabeskyttelse udført ved jording med fjernvarmenet  
+
+ respektive vandrørsnet som jordelektrode eller ved fejlstrømsafbryder eller  
+
+ fejlspændingsafbryder med vandrørsnet som jordelektrode, se afsnit 10, §  
+
+ 10.5.1, pkt. 6.
+Bilag 4 Måling af gulves isolationsmodstand De her beskrevne målemetoder er eksempler.
+Andre målemetoder kan anvendes,  
+
+ forudsat at de giver praktisk taget samme resultater.
+ Af de to beskrevne målemetoder anvender målemetode A vekselstrøm og  
+
+ målemetode B jævnstrøm.
+ De to måleelektroder kan anvendes ved begge målemetoder.
+ Målemetode A:
+ Ved denne måling anvendes netspændingen under forudsætning af, at nettet  
+
+ har en driftjordet nulleder.
+Vægt Måleelektrode U2 V Faseleder Klæde Ri U1 Gulv Jordelektrode Fig.1.
+ Målemetode A.
+Med et voltmeter med stor indre modstand Ri (ikke under 3000 ohm) måles spændingerne U2 mellem en faseleder og måleelektroden U1 mellem den samme faseleder og en separat jordelektrode med en i forhold til Ri uvæsentlig overgangsmodstand (mindre end 2 pct. af  
+
+ Ri).
+ Gulvets isolationsmodstand findes af formlen:
+ Hvis Ri er meget stor i forhold til Ris, kan målingen blive unøjagtig.
+ Målemetode B:
+Der anvendes et prøveapparat med en tomgangsspænding på ca. 500 V  
+
+ jævnspænding.
+Modstanden måles mellem måleelektroden og installationens  
+
+ beskyttelsesleder.
+ Måleelektrode 1:
+ Elektroden består af en kvadratisk metalplade med sidelængde 250 mm og et  
+
+ fugtigt kvadratisk stykke klæde med sidelængde ca. 270 mm, der anbringes  
+
+ under metalpladen.
+ Under målingen skal elektroden belastes med ca. 75 kg.
+ Måleelektrode 2:
+ Elektroden består af en trekantet metalplade med tre understøtninger  
+
+ anbragt i hver sit hjørne af en ligesidet trekant med sidelængde 180 mm som  
+
+ vist på tegningen i figur 2. Hver understøtning er forsynet med en prop af  
+
+ ledende gummi, som sikrer en god kontakt med gulvet over en overflade på ca.  
+
+ 8,5 cm2, og som har en indre modstand. der er mindre end 5000 ohm.
+ Før målingen foretages, skal gulvet gøres vådt eller dækkes af et fugtigt  
+
+ klæde.
+ Under målingen skal elektroden belastes med ca. 75 kg.
+ Målinger.
+I hver lokalitet skal der udføres mindst tre målinger.
+Findes der en eller  
+
+ flere fremmede ledende dele i lokaliteten, skal en af målingerne foretages i  
+
+ en afstand af ca. 1 m fra en af disse.
+ Måleresultater.
+ Ingen af de tre målinger må give et resultat, der er mindre end 50 k ohm,  
+
+ hvis gulvet skal kunne betragtes som isolerende.
+20 60 grader 180 60 grader 20 8,5 5 forsænket for skrue aluminiumplade 39 Ø 21 Ø 9 Ø 10 23 ledende gummifod Mål i mm Fig. 2.
+ Måleelektrode med 3 fødder af ledende gummi.
+1984-01-01 Bilag 5 1989-07-01 Bilaget er udgået.

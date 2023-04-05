@@ -1,0 +1,267 @@
+Indledning Denne anvisning knytter sig til kapitel 3 i Arbejdstilsynets  
+
+ bekendtgørelse nr. 561 af 24. juni 1994 om indretning af tekniske  
+
+ hjælpemidler.
+Bekendtgørelsen indeholder bl.a. krav om, at tekniske  
+
+ hjælpemidler skal konstrueres og udstyres m.v. således, at farer ved  
+
+ hjælpemidlet er imødegået, og at betjening, reparation, rengøring m.v. kan  
+
+ ske sikkerheds- og sundhedsmæssigt forsvarligt.
+I § 26 findes nogle særlige  
+
+ krav til betjeningsanordninger og styresystemer.
+ Denne anvisning giver nærmere retningslinier for, hvorledes nævnte krav  
+
+ kan opfyldes for trådløse styringer til tekniske hjælpemidler.
+Anvisningen gælder dog ikke, hvis anlægget omfattes af kapitel 2 i nævnte  
+
+ bekendtgørelse.
+I så fald finder alene bestemmelserne i dette kapitel samt  
+
+ bekendtgørelsens bilag I anvendelse.
+Afgørende for, om dette er tilfældet,  
+
+ vil normalt være, om fjernstyringsanlægget som nyt er leveret til brug efter  
+
+ den 31. december 1994.
+ I At-anvisning nr. 2.2.0.1, Maskiner og maskinanlæg, er nærmere redegjort  
+
+ for anvendelsesområdet for kapitel 3 og kapitel 2 i nævnte bekendtgørelse, og  
+
+ der henvises herom til denne At-anvisning.
+ Anvisningen omhandler endvidere krav til brugen af omhandlede  
+
+ fjernstyringsanlæg i Arbejdstilsynets bekendtgørelse, om anvendelse af  
+
+ tekniske hjælpemidler, specielt krav vedrørende opstilling,  
+
+ eftersyn/vedligeholdelse og instruktion.
+Arbejdstilsynet kræver, at fjernstyringer til tekniske hjælpemidler er  
+
+ indrettet og opstillet i overensstemmelse med anvisningen eller på anden lige  
+
+ så forsvarlig måde.
+Hvor konkrete omstændigheder gør det nødvendigt, kan  
+
+ Arbejdstilsynet dog stille yderligere krav.
+ Anvisningen omhandler ikke de krav, der i medfør af anden lovgivning måtte  
+
+ stilles til fjernstyringsanordninger, fx krav om godkendelse fra  
+
+ telemyndighed.
+ Anvisningen er udarbejdet af Direktoratet for Arbejdstilsynet.
+1. Område Denne anvisning gælder for radioudrustning og andre trådløse udrustninger,  
+
+ som anvendes til styring af tekniske hjælpemidler, ved hvis anvendelse der  
+
+ kan opstå fare for sikkerhed eller sundhed.
+ Tekniske hjælpemidler med fjernstyring vil typisk være porte, kraner,  
+
+ ramper, løftelad, trækspil, stationære og mobile maskiner, procesanlæg og  
+
+ køretøjer.
+ Hvis sådanne fjernstyringsanlæg er omfattet af kapitel 2 i bekendtgørelse  
+
+ nr. 561 af 24. juni 1994 om indretning af tekniske hjælpemidler, finder  
+
+ anvisningen ikke anvendelse, jævnfør indledningen.
+2. Indretning, konstruktion og udstyr 2.1 Betjeningsboksen/senderen skal være ergonomisk hensigtsmæssigt  
+
+ udformet og skal kunne være på en måde, der sikrer, at den ikke tabes.
+ 2.2 Betjeningsorganerne skal være konstrueret, udført og udformet  
+
+ således, at utilsigtet påvirkning, hvorved der kan opstå fare, er forhindret  
+
+ eller imødegået.
+ 2.3 Alle farlige maskinbevægelser skal normalt styres med  
+
+ holdetryk.
+ Holdetryk kan fx være betjeningshåndtag eller -knap, som automatisk går i  
+
+ neutral stilling, når den slippes (dødmandsfunktion).
+ Når holdetrykket slippes, skal maskinens bevægelse stoppe og om nødvendigt  
+
+ bremses.
+ 2.4 Senderen skal være indrettet og udstyret under hensyntagen til  
+
+ den foreliggende styringsopgave og skal normalt være forsynet med:
+ 2.5 På hjælpemidler med farlige bevægelser skal føreren med den  
+
+ trådløse styring kunne give et advarselssignal - fx hornsignal.
+ Dette advarselssignal kan gives automatisk, når farlig maskinbevægelse  
+
+ igangsættes.
+2.6 Modtageren skal være beskyttet mod signaler fra  
+
+ »fremmede« sendere.
+Dette kan fx gøres ved en effektiv kodning og  
+
+ acceptcheck af overføringssignaler.
+ 2.7 Hvis et signal afbrydes, forstyrres eller udebliver (fx ved  
+
+ svigt i sender eller modtager), skal det normalt medføre stop af alle  
+
+ bevægelse og hjælpemidlets bremser skal automatisk træde i funktion; som  
+
+ eksempel kan nævnes, at ved normal krankørsel accepteres afbrud af kodet  
+
+ signal på højst 2,0 s for at undgå utilsigtet stop af kranen.
+ Hvis batterispændingen i senderen ikke mere kan sikre en sikker  
+
+ forbindelse, skal alle farlige bevægelser stoppes efter afgivelse af et  
+
+ optisk eller akustisk advarselssignal.
+ 2.8 Der skal være den nødvendige dublering og overvågning af  
+
+ start-/stopfunktioner samt af andre funktioner, som har sikkerhedsmæssig  
+
+ betydning.
+ 2.9 Anvendte sikkerhedsrelæer skal normalt være tvangsførte.
+ 2.10 Styreenhederne skal være således udført, at de fungerer  
+
+ korrekt i den sammenhæng, som de er beregnet til at indgå i.
+ 2.11 Hjælpemidler med trådløs styring skal være forsynet med  
+
+ hovedafbryder/reparationsafbryder o.l. for diverse energitilførsler.
+ Afbryderen skal være aflåselig.
+2.12 Tekniske hjælpemidler med trådløs styring skal være forsynet  
+
+ med det nødvendige antal nødstop.
+Det kan være nødvendigt med ekstra nødstop,  
+
+ når hjælpemidlet styres trådløst.
+2.13 Andre former for manøvreorganer på maskine må ikke kunne  
+
+ betjenes samtidig med den trådløse styring.
+Dette skal sikres ved aflåsning  
+
+ med en nøglebetjent omstillingsanordning, som skal have en tydelig markering,  
+
+ der angiver dens funktion i hver enkelt stilling.
+3. Montering/installering 3.1 Ved montering af trådløs styring på et teknisk hjælpemiddel skal det  
+
+ sikres, at føreren eller betjeningspersonalet er placeret således, at de  
+
+ altid har det fulde udsyn over hjælpemidlets bevægelser.
+Kan dette ikke  
+
+ opnås, skal der træffes særlige sikkerhedsforanstaltninger.
+3.2 I forbindelse med installering eller flytning af et trådløst  
+
+ styresystem skal brugeren sikre sig telemyndighedernes godkendelse efter  
+
+ disses krav.
+Brugeren skal træffe alle nødvendige forholdsregler for at  
+
+ forhindre forstyrrelser på andre styresystemer eller radioudrustninger i  
+
+ nærheden.
+ 3.3 En senders rækkevidde og retning og/eller modtagerens  
+
+ følsomhed skal begrænses til det nødvendige.
+ Flere trådløse styringer må ikke installeres så tæt på hinanden, at der  
+
+ kan opstå risiko for blokeringer eller intermodulation.
+ Blokering forårsager, at igangsatte bevægelser ophører og start af ny  
+
+ bevægelse forhindres på grund af påvirkning fra anden sender.
+ Intermodulation dannes af mindst to aktive sendere med specielle  
+
+ frekvenskombinationer og kan forårsage forbindelsesbrud eller forkerte  
+
+ styringskommandoer, hvis kodningen ikke er i orden.
+3.4 Hvis der er behov for at kunne manøvrere et hjælpemiddel med  
+
+ flere senere, må manøvrering kun kunne ske fra een sender ad gangen.
+Systemet  
+
+ skal være således installeret, at der ikke foreligger mulighed for  
+
+ utilsigtet, uvedkommende styring eller blokering.
+ Ved manøvreringens afslutning skal der udføres en særlig funktion, Fx  
+
+ kode/radiosignal, hvorved redskabet bliver disponibelt for en valgfri sender.
+ Dette indebærer, at den sender, der har fortrinsretten, nu skal afgive  
+
+ den.
+4. Brugsanvisning Ifølge § 22 i bekendtgørelsen om tekniske hjælpemidlers indretning og  
+
+ anvendelse skal fabrikanten eller importøren/leverandøren af fjernstyringen  
+
+ medlevere en brugsanvisning med alle oplysninger af sikkerheds- eller  
+
+ sundhedsmæssig betydning i forbindelse med bl.a. installation, drift og  
+
+ vedligeholdelse.
+ Brugsanvisningen skal være på dansk og skal bl.a. indeholde følgende  
+
+ retningslinier for anvendelse m.v.:
+- Hvis føreren eller betjeningspersonalet ikke har det fulde udsyn over  
+
+ hjælpemidlet eller en eventuel lasts bevægelser, skal der benyttes  
+
+ signalmænd.
+Alternativt skal fareområdet vare afspærret.
+- Sendere, som ikke anvendes, skal op bevares i låst tilstand eller  
+
+ utilgængelige for uvedkommende.
+Dette gælder også reservesendere og sendere,  
+
+ der er under opladning.
+- Ved hjælpemidler, der styres af en trådløs styring i arbejdsområder,  
+
+ hvor der også er eller kan forekomme anden færdsel, skal der på  
+
+ hensigtsmæssige steder være opsat skilte, fx RADIOSTYRET KRAN - Skilt skal også findes ved adgangen til hjælpemidlet med teksten, fx ---------------------------- RADIOSTYRET KRAN VED ARBEJDE PÅ KRANEN SKAL RADIOSENDEREN MEDTAGES ELLER VÆRE LÅST INDE ---------------------------- Skiltet skal være gult med sort tekst.
+ - På hjælpemidler med flere eller komplicerede bevægelser (fx kraner) skal  
+
+ tilsvarende symboler eller tekst, som er på betjeningspanelet (senderen),  
+
+ være tydeligt angivet med skilte på redskabet (kranen eller, hvis dette ikke  
+
+ er muligt, på væg eller søjle.
+ Skiltene skal placeres på en sådan måde, at de tydeligt angiver  
+
+ bevægelsesretningen og kan observeres af føreren inden for hjælpemidlets  
+
+ arbejdsområde.
+ Skiltene skal være blå med hvide symboler eller tekst.
+ - Udstyr for trådløs styring skal kontrolleres i samme omfang, som den  
+
+ indretning udstyret styrer, dog mindst een gang hver 12. måned af en  
+
+ sagkyndig, kvalificeret person, og i henhold til brugsanvisningens  
+
+ retningslinier.
+ - Ved eftersyn, kontrol eller vedligeholdelse af et hjælpemiddel med  
+
+ trådløs styring, hvor det er nødvendigt, at anlægget er under spænding, skal  
+
+ reparatøren sikre sig, at senderen, henholdsvis senderne, er forsvarligt låst  
+
+ inde, eller reparatøren skal medtage senderen.
+ - Afprøvning og indstilling af udstyr for trådløs styring skal udføres  
+
+ således, at der ikke er risiko for, at andre hjælpemidlers styring utilsigtet  
+
+ bliver påvirket.
+- Det skal dagligt sikres, at udstyret virker forsvarligt.
+Det daglige  
+
+ eftersyn skal have samme omfang, som er nødvendigt for den indretning,  
+
+ udstyret styrer, og kan bl.a. omfatte kontrol af manøvreorganer, nødstop,  
+
+ overlastsikringer, lastmomentsikringer, sikkerhedsafbryder m.v.
+Kontrol af  
+
+ endestopafbryder skal foretages ved forsigtig kørsel mod stoppet.
+5. Mørkning 5.1 Udstyret skal være tydeligt og holdbart mærket med:
+ 5.2 Sender og modtager skal være tydeligt mærket, så det er let at  
+
+ finde den modtager, henholdsvis sender, som hører sammen, og det redskab, de  
+
+ skal anvendes på.

@@ -1,0 +1,869 @@
+Gyldighedsområde Disse tekniske bestemmelser specificerer de tekniske krav og de tilhørende  
+
+ prøvningsforskrifter, som en terminal beregnet for tilslutning til faste  
+
+ kredsløb af lokalkvalitet, faste kredsløb med signalomsætning og faste  
+
+ kredsløb af radiofonikvalitet skal overholde, for at der udstedes  
+
+ typegodkendelse.
+ Hjemmelsgrundlaget for disse tekniske bestemmelser er §5 i Ministeriet for  
+
+ Kommunikation og Turismes bekendtgørelse nr 737 af 13. august 1994 om  
+
+ teleterminaludstyr (* 1).
+Ikrafttræden Disse tekniske bestemmelser træder i kraft den 15. maj 1997 og er sammen  
+
+ med TB 95 069 »Tekniske bestemmelse for terminaludstyr for tilslutning  
+
+ til analoge 2- tråds faste kredsløb af normal- og special-kvalitet, maj  
+
+ 1997« og TB 95070 »Tekniske bestemmelse for terminaludstyr for  
+
+ tilslutning til analoge 4-tråds faste kredsløb af normal- og  
+
+ special-kvalitet, maj 1997« en erstatning for Publikation 12/90,  
+
+ »Tekniske bestemmelser for terminaludstyr tilsluttet analoge faste  
+
+ kredsløb, marts 1990« samt Publikation 15.4-90, »Tekniske  
+
+ bestemmelser for tilslutning af PABC'er til analoge ledninger med det  
+
+ fastkoblede telenet, marts 1990«.
+Overgangsbestemmelser Indtil 31. December 1998 vil terminaler også kunne godkendes efter  
+
+ henholdsvis Publikation 12/90, »Tekniske bestemmelser for terminaludstyr  
+
+ tilsluttet analige faste kredsløb, marts 1990« eller Publikation 15.4-90  
+
+ »Tekniske bestemmelse for tilslutning af PABC'er til analoge ledninger  
+
+ med det fastkoblede telefonnet, marts 1990«.
+Typegodkendelse Fremgangsmåden for opnåelse af typegodkendelse fremgår af førnævnte  
+
+ bekendtgørelse § 11.
+Tekniske krav og prøvningsforskrifter De tekniske krav og de tilhørende prøvningsforskrifter fremgår af bilag 1  
+
+ og verificeres efter de i annex A angivne prøvningsforskrifter.
+ Rekvirering af love, bekendtgørelser, standarder m.v.
+ Love, bekendtgørelser og tekniske bestemmelser som er nævnt i denne TB kan  
+
+ fås uden beregning, (hvis ikke andet er angivet ved TB'en i oversigten), ved  
+
+ henvendelse til Telestyrelsen, Holsteinsgade 63, 2100 København Ø, tlf:  
+
+ 35430333, fax: 35431434.
+ ETSI dokumenter ((I-)ETS'er og TBR'er samt NET-standarder) kan købes hos  
+
+ Telestyrelsen.
+ ITU rekommandationer m.v. kan købes direkte hos ITU, Place des Nations,  
+
+ CH-1211 Geneve 20, tlf.: +41 22 730 5111, fax: +41 22 730 5194 eller +41 22  
+
+ 733 7256 eller eventuelt gennem Telestyrelsen.
+ Radiorelaterede rekommandationer herunder, ERC Decisons,  
+
+ Radiocommunication Reports, Report Forms og Application Forms,  
+
+ Recommendations on Radiocommunications kan købes hos: ERO, European  
+
+ Radiocommunications Office, Midtermolen 1, 2100 København Ø, tlf: 35250300,  
+
+ fax: 35250330. For yderligere information henvises til ERO's hjemmeside på  
+
+ internettet (www.ero.dk).
+ ISO/CEN/CENELEC/IEC/DS standarder kan købes hos Dansk Standard,  
+
+ Kollegievej 6, 2920 Charlottenlund, tlf: 39966101, fax: 39966102.
+ Bilag til Tekniske bestemmelser for terminaludstyr for tilslutning til  
+
+ analoge faste kredsløb af lokalkvalitet, analoge faste kredsløb telefoni med  
+
+ signalomsætning og analoge faste kredsløb af radiofonikvalitet.
+1. Generelt Dette bilag er opdelt i 2 afdelinger.
+Første afdeling indeholder et afsnit  
+
+ med forklaringer og henvisninger til de terminologier, der er anvendt i de  
+
+ efterfølgende afsnit samt afsnittene 2, 3 og 4, som indeholder de tekniske  
+
+ krav.
+Anden afdeling, annex A, indeholder de tilhørende prøvningsforskrifter.  
+
+ Alle krav verificeres som angivet i annex A.
+Til hvert enkelt krav findes et  
+
+ afsnit i annex A med samme nummer.
+1.1 Definitioner Analoge faste kredsløb.
+ Ved et »analogt fast kredsløb« forstås en transmissionsvej, som  
+
+ via televirksomhedernes anlæg er fast etableret mellem to eller flere  
+
+ termineringspunkter, hvori kredsløbet er afsluttet med en analog grænseflade  
+
+ mod kunden.
+Terminaludstyr Ved terminaludstyr forstås et udstyr, der med en analog grænseflade  
+
+ tilsluttes det faste kredsløb.
+2-tråds terminaludstyr er udstyr, der er forsynet med en kombineret ud- og  
+
+ indgang.
+Det vil sige, at der både kan sendes og modtages signaler på de  
+
+ samme linieklemmer.
+4-tråds terminaludstyr er udstyr, der er forsynet med separat ud- og  
+
+ indgang.
+Det vil sige, at der sendes signaler fra et sæt linieklemmer, og  
+
+ modtages signaler på et andet sæt linieklemmer.
+Linieklemmer Udtrykket »Linieklemmer« benyttes i nærværende dokument, som  
+
+ udtryk for et terminaludstyrs tilslutningspunkt til et analogt fast kredsløb.  
+
+ Se 2.1 Fysisk tilslutning.
+1.2 Tekniske oplysninger Analoge faste kredsløb leveres af Tele Danmark, som beskrevet i  
+
+ nedenstående Tekniske Specifikationer.
+Normalkvalitet Teknisk Specifikation TDK-TS 900 207, eller ETSI ETS 300 448 (A2O) og ETSI  
+
+ ETS 300 451 (A4O).
+ Anvendes til telefoni og datatransmission med analoge vekselstrømssignaler  
+
+ i frekvensområdet 300 - 3400 Hz.
+Specialkvalitet Teknisk Specifikation TDK-TS 900 208, eller ETSI ETS 300 449 (A2S) og ETSI  
+
+ ETS 300 452 (A4S).
+Anvendes fortrinsvis til datatransmission med analoge vekselstrømssignaler  
+
+ i frekvensområdet 300 - 3400 Hz Lokalkvalitet Teknisk Specifikation TDK-TS 900 209.
+ Anvendes som kredsløb med normalkvalitet, men kan desuden overføre  
+
+ jævnstrømssignaler, samt analoge vekselstrømssignaler i frekvensområdet op  
+
+ til 15kHz.
+Telefoni med signalomsætning Teknisk Specifikation: Ingen.
+Beskrevet i Faktablad fra Tele Danmark.
+ Anvendes til overførelse af telefoni imellem.
+ 1. 2 stk. telefonapparater.
+2. 2 stk.
+PABC'er (private telefoncentraler) med  
+
+ E&M- signaleringskredse.
+3. 2 stk.
+PABC'er, hvoraf den ene har lokalnummerkreds  
+
+ og den anden centralledningskreds.
+ 4. En PABC og et lokal apparat.
+Radiofonikvalitet Teknisk Specifikation TDK-TS 900 210.
+ Anvendes til overførelse af tale og musiksignaler i frekvensområdet 40 -  
+
+ 15000 Hz.
+1.3 Forkortelser 2. Krav til terminaludstyr tilsluttet analoge faste  
+
+ kredsløb af lokalkvalitet Hvis intet andet er angivet, gælder de samme krav for både 2-tråds og  
+
+ 4-tråds terminaludstyr.
+ Terminaludstyr, der er godkendt for tilslutning til andre typer 2- eller  
+
+ 4-tråds analoge faste kredsløb, må også anvendes på 2 eller 4-tråds faste  
+
+ kredsløb af lokalkvalitet.
+2.1 Fysisk tilslutning Terminaludstyret skal tilbyde en tilslutning i form af en ledning med et  
+
+ påmonteret 8 polet stik, som beskrevet i EN28877. Terminaludstyret må gerne,  
+
+ udover EN28877 stikket, tilbyde en alternativ tilslutningsmulighed.
+Se tabel  
+
+ 2.1a og b.
+ Ovennævnte krav kan opfyldes ved hjælp af en mellemledning, som tilsluttes  
+
+ terminaludstyret i den ene ende, og tilbyder det 8-polede stik i den anden.
+ Hvis terminaludstyret er et udstyr med mange porte, som f.eks. en PABC,  
+
+ stilles der ikke krav om 8-polet stik.
+Tabel 2.1 b 2.2 Krav til indgang/udgang i forhold til jord 2.2.1 Transmission mod jord/stel Der må ikke transmitteres hverken jævn- eller vekselstrøm, som udnytter  
+
+ jord/stel som returvej.
+ Hvis der udføres strømfødning fra terminaludstyret, via det analoge faste  
+
+ kredsløb, skal strømfødningens pluspol forbindes til jord ifølge 2.4.1, men  
+
+ kun i den ene ende af kredsløbet.
+2.2.2 Jordbalancedæmpning (LCL) Terminaludstyret skal i alle tilstande impedansmæssigt være balanceret mod  
+
+ jord/stel med en jordbalancedæmpning (LCL) som angivet i nedenstående tabel.
+ Ved frekvenser større end fmax Hz aftager grænsen for minimal  
+
+ jordbalance-dæmpning med 6 dB/oktav fra 46 dB.
+ Ved fmax forstås den højeste frekvens, som terminaludstyret benytter til  
+
+ transmission, dog minimum 3400Hz.
+ Terminaludstyr prøves ved fmax = 15kHz, med mindre rekvirenten  
+
+ dokumenterer en lavere fmax, som højeste benyttede frekvens.
+2.2.3 Isolation mod jord Terminaludstyr, som ikke kan afgive jævnstrøm til et analogt fast  
+
+ kredsløb, skal mellem hver enkelt linieklemme og jord/stel have en  
+
+ isolationsmodstand >= 10MOhm.
+ Ved strømforsyning af linieudstyr iflg.2.4.1 kan pluspolen være forbundet  
+
+ til jord.
+2.2.4 Impedans mod jord Terminaludstyr skal mellem de kortsluttede linieklemmer og jord/stel have  
+
+ en impedans med en numerisk værdi på mindst 1MOhm ved vekselspændinger med en  
+
+ effektivværdi op til 120V og frekvenser op til 55Hz.
+ Hvis linieklemmerne i henhold til 2.4.1 er forbundet til jord/stel, skal  
+
+ ovennævnte impedanskrav ikke opfyldes.
+2.3 Transmission Det tillades at benytte signaleringskoden ISDN BRA 2B1Q, beskrevet i ETSI  
+
+ ETR 080. Terminaludstyr som udelukkende benytter denne signaleringsform, skal  
+
+ ikke opfylde kravene i 2.3.1 til og med 2.3.3 til transmission.
+2.3.1 Vekselspændinger under 300Hz Vekselspænding i frekvensområdet 0Hz < f <= 300Hz, målt med 10Hz  
+
+ båndbredde over en modstand på minimum 1MOhm, skal være <= 50Veff ved  
+
+ frekvenser <= 95Hz, og faldende 60dB/dekade fra <= 50Veff ved 95Hz til  
+
+ <= 1,55Veff ved 300Hz.
+Se figur 2.3.1 Note 1: Gældende krav til elektrisk sikkerhed forhindrer dog at man  
+
+ samtidig kan udnytte maksimal jævnspænding og maksimal vekselspænding.
+Figur 2.3.1 I frekvensområdet 20Hz til 55Hz må der dog forekomme større  
+
+ vekselspændinger i forbindelse med op- og nedkobling af forbindelser  
+
+ (ringesignalspændinger). Der tillades en ringespænding <= 120Veff over en  
+
+ modstand på minimum 1MOhm, og en ringetid (varighed af ringespændingen) på  
+
+ <= 3 sekunder.
+Generatorimpedans skal være >= 150 Ohm Note 2: Gældende krav til elektrisk sikkerhed forhindrer dog, at man  
+
+ samtidig kan udnytte maksimal jævnspænding, maksimal vekselspænding og  
+
+ maksimal indkoblingstid af ringespændingen.
+2.3.2 Effekt i frekvensområdet 300 til 15000 Hz 2.3.2.1 Spidsspænding i frekvensområdet 300 til 15000 Hz Spidsspændingen målt i frekvensområdet 300 til 15000 Hz skal være <=  
+
+ 3,5Vp, når terminaludstyrets linieklemmer er belastet med 600 Ohm.
+2.3.2.2 Middeleffekt i frekvensområdet 300 til 4000 Hz Middeleffekten, målt over enhver periode af 10 sekunders varighed, i  
+
+ frekvensområdet 300 til 4000 Hz skal være <= dBm, når terminaludstyrets  
+
+ linieklemmer er belastet med 600 Ohm.
+2.3.2.3 Spektral tæthed i frekvensområdet 4 til 15 kHz Den udsendte effekts spektrale tæthed, målt med en båndbredde på 300Hz  
+
+ beliggende i frekvensområdet 4kHz til 15kHz skal være <= -30dB relativt  
+
+ til 1mW/Hz, når terminaludstyrets linieklemmer er belastet med 600 Ohm.
+ Se figur 2.3.3 og tabel.2.3.3.
+2.3.3 Spektral tæthed i frekvensområdet over 15 kHz Den udsendte effekts spektrale tæthed, målt med en båndbredde på 1kHz  
+
+ beliggende i frekvensområdet 15kHz til 1MHz, og med en båndbredde på 10kHz  
+
+ beliggende i frekvensområdet over 1MHz, skal være <= -30dB relativt til  
+
+ 1mW/Hz ved 15kHz, faldende 15dB/dekade til <= -57dB ved 1MHz, og <=  
+
+ -80dB relativt til 1mW/Hz ved alle frekvenser over 1MHz, når  
+
+ terminaludstyrets linieklemmer er belastet med 120 Ohm.
+ Se figur 2.3.3 og tabel.2.3.3.
+Figur 2.3.3 Tabel 2.3.3 2.4 Strømfødning 2.4.1 Strømfødningens jordpotentiale I terminaludstyr, som kan afgive jævnstrøm til et analogt fast kredsløb,  
+
+ skal jævnstrømskildens pluspol være forbundet til jord på en sådan måde, at  
+
+ vedvarende spænding på enhver af linieklemmerne aldrig er positiv i forhold  
+
+ til jord, selv om den anden linieklemme har afledning eller er kortsluttet  
+
+ til jord.
+Dersom jævnspændingen mellem linieklemmerne ikke overstiger 15 V, kan det  
+
+ tillades, at jævnstrømskildens poler og terminaludstyrets linieklemmer er  
+
+ isoleret fra jord/stel med en isolationsmodstand som opfylder kravet i 2.2.3 2.4.2 Maksimale strømme Terminaludstyret må maksimalt kunne afgive jævn- og/eller vekselstrømme  
+
+ med en resulterende effektivværdi på 100mA.
+2.4.3 Maksimale jævnspændinger Mellem terminaludstyrets linieklemmer, og mellem hver af disse og  
+
+ jord/stel, må der ikke forekomme jævnspændinger > 65V.
+ Der kan dog tillades kortvarige spændingsspidser <= 150V, forårsaget af  
+
+ afbrydelser i eller etablering af jævnstrømskredsløbet igennem det analoge  
+
+ faste kredsløb.
+2.4.4 Maksimale kombinerede jævn og vekselspændinger Mellem terminaludstyrets linieklemmer og mellem hver af disse og jord/stel  
+
+ skal kombinerede jævn- og vekselspændinger, bortset fra ringespændinger,  
+
+ opfylde følgende krav Uac er vekselspændingens spidsværdi ved enhver frekvens, i Volt.
+ Udc er jævnspændingens værdi, i Volt.
+3. Krav til terminaludstyr tilsluttet analoge faste  
+
+ kredsløb telefoni med signalomsætning 3.1 Terminaludstyr for tilslutning til 2-tråds kredsløb med  
+
+ signalomsætning Terminaludstyr, som modtager jævnspænding og ringesignalspænding, skal  
+
+ være godkendt enten ifølge Telestyrelsens Tekniske Bestemmelse TB 94052,  
+
+ »Tekniske Bestemmelser: Terminaludstyr beregnet for tilslutning til det  
+
+ offentlige analoge telefonnet«, eller ifølge en anden TB fra  
+
+ Telestyrelsen for tilsvarende terminaludstyr.
+Terminaludstyr, som leverer  
+
+ jævnspænding og ringesignalspænding, skal godkendes ifølge nedenstående para  
+
+ 3.1.1 til 3.1.8.
+3.1.1 Maksimal jævnspænding Jævnspændingen til ledningen må ikke overstige 65 V.
+Den positive pol skal  
+
+ være forbundet til jord.
+ Hvis jævnspændingen ikke overstiger 15 V må terminaludstyret i stedet være  
+
+ isoleret fra jord med en isolationsmodstand mellem hver klemme og jord på =10  
+
+ M >= 10 MOhm.
+3.1.2 Maksimal jævnstrøm Jævnstrømmen til de kortsluttede ledningsklemmer skal være <= 100 mA.
+3.1.3 Ringesignalspænding Ved frekvensen 25 Hz +/-2,5 Hz må der forekomme en vekselspænding i  
+
+ forbindelse med op- og nedkobling af forbindelser (ringesignalspænding). Der  
+
+ tillades en vekselspænding <= 120 Veff over en modstand på >= 1 MOhm og  
+
+ en ringetid (varighed af vekselspændingen) på <= 3 sekunder.  
+
+ Generatorimpedansen skal være >= 150 Ohm.
+ NOTE: Gældende krav til elektrisk sikkerhed forhindrer dog at man  
+
+ samtidig kan udnytte maksimal jævnspænding, maksimal vekselspænding og  
+
+ maksimal ringetid.
+ Den psofometriske værdi af ringesignalspændingen målt over 4000 Ohm i  
+
+ serie med 20 microF må ikke overstige 1 Veff.
+ Den enkelte overtones amplitude målt over 4000 Ohm i serie med 20 microF  
+
+ må ikke overstige 10% af grundtonens amplitude.
+3.1.4 Ringetripning Ved ringetripning forstås bortkobling af ringesignalspænding efter  
+
+ besvarelse af opkald.
+ Ringetripning skal ske <= 1300 ms efter belastning af ledningsklemmerne  
+
+ med 600 Ohm.
+3.1.5 Impedansbalance mod jord (LCL) LCL (Longitudinal Conversion Loss) skal være større end:
+ * 40 dB for 40 Hz <= f < 600 Hz.
+ * 46 dB for 600 Hz <= f <= 3400 Hz.
+ * 46 dB aftagende med 6 dB/oktav for frekvenser større end 3400 Hz.
+ Kravet skal overholdes under følgende betingelser:
+ * Signalet påtrykkes via 2 modstande a 300 Ohm i forhold til  
+
+ terminaludstyrets jord- eller stelklemme, med udstyret i sløjfetilstand.
+3.1.6 Maksimalt niveau fra 300 Hz til 3400 Hz På ledningsklemmerne må der ikke fra interne signalkilder afgives  
+
+ vekselspændinger med en spidsværdi, der overstiger 3,5 Vp, når klemmerne  
+
+ belastes med 600 Ohm.
+ På ledningsklemmerne må der ikke fra interne signalkilder afgives  
+
+ effekter, som i middel i ethvert tidsrum af 1 minuts varighed overstiger 1 mW  
+
+ (0 dBm), når klemmerne belastes med 600 Ohm.
+3.1.7 Enkeltfrekvensstøj Enkeltfrekvensstøjen på ledningsklemmerne afsluttet med 600 Ohm må ikke på  
+
+ noget tidspunkt overstige -50 dBm i området 3400 Hz <= f <= 150 kHz.
+3.1.8 Egenstøj Den samlede egenstøj på ledningsklemmerne afsluttet med 600 Ohm må ikke på  
+
+ noget tidspunkt overstige -40 dBm i området 300 Hz <= f <= 150 kHz.
+3.2 Terminaludstyr, som benytter E&M signalering Terminaludstyret tilsluttes 2 stk. 4-tråds kredsløb.
+Et til  
+
+ tale-transmission og et til E&M-signalering.
+ Princippet for disse kredsløb ses i figur 3.2.
+ Figur 3.2.
+3.2.1 Fysisk tilslutning Terminaludstyret skal tilbyde en tilslutning i form af en ledning med et  
+
+ påmonteret 8 polet stik, som beskrevet i EN28877. Terminaludstyret må gerne,  
+
+ udover EN28877 stikket, tilbyde en alternativ tilslutningsmulighed.
+Se tabel  
+
+ 3.2.1.
+Tabel 3.2.1 Ovennævnte krav kan opfyldes ved hjælp af en mellemledning, som tilsluttes  
+
+ terminaludstyret i den ene ende, og tilbyder det 8-polede stik i den anden.
+ Hvis terminaludstyret er et udstyr med mange porte, som f.eks. en PABC,  
+
+ stilles der ikke krav om 8-polet stik.
+3.2.2 Tilslutning for 4-tråds transmission.
+Tale-sende og -modtage Terminaludstyrets tilslutning til transmissions-kredsløbet, skal opfylde  
+
+ kravene til 4-tråds terminaludstyr jvf.
+TB 95070.
+3.2.3 Tilslutning for 4-tråds E&M-signalering 3.2.3.1 Signalsender, Isolationsmodstand Signaler skal sendes mellem Mp1 og Mp2 linieklemmerne som  
+
+ kontaktslutninger I enhver tilstand skal isolationsmodstanden mellem hver enkelt linieklemme  
+
+ i forhold til jord være >= 10MOhm.
+3.2.3.2 Signal-modtager 3.2.3.2.1 Jævnspænding Mellem terminaludstyrets linieklemmer Ep1 og Ep2, og mellem hver af disse  
+
+ og jord/stel, må der ikke forekomme jævnspændinger > 56V.
+ Signalmodtagerens pluspol skal være forbundet til jord på en sådan måde,  
+
+ at vedvarende spænding på enhver af linieklemmerne aldrig er positiv i  
+
+ forhold til jord, selv om den anden linieklemme har afledning eller er  
+
+ kortsluttet til jord.
+3.2.3.2.2 Indre modstand Signalmodtageren skal have en indre modstand mellem linieklemmerne Ep1 og  
+
+ Ep2, som er > 2000 Ohm.
+3.2.3.2.3 Vekselstrøm Der må ikke afgives vekselstrøm > 1mAeff igennem en 600 Ohm modstand  
+
+ forbundet over linieklemmerne Ep1 og Ep2.
+4. Krav til terminaludstyr tilsluttet analoge faste  
+
+ kredsløb af radiofonikvalitet 4.1 Fysisk tilslutning Ingen krav specificeret.
+4.2 Krav til indgang/udgang i forhold til jord 4.2.1 Transmission mod jord/stel Der må ikke transmitteres hverken jævn- eller vekselstrøm, som udnytter  
+
+ jord/stel som returvej.
+4.2.2 Jordbalancedæmpning (LCL) Terminaludstyret skal i alle tilstande impedansmæssigt være balanceret mod  
+
+ jord/stel med en jordbalancedæmpning (LCL) som angivet i nedenstående tabel.
+ Ved frekvenser større end fmax Hz aftager grænsen for minimal  
+
+ jordbalancedæmpningen med 6dB/oktav fra 46 dB.
+ Ved fmax forstås den højeste frekvens, som terminaludstyret benytter til  
+
+ transmission, dog minimum 3400Hz.
+ Terminaludstyr prøves ved fmax = 15kHz, medmindre rekvirenten dokumenterer  
+
+ en lavere fmax, som højeste benyttede frekvens.
+4.2.3 Isolation mod jord Terminaludstyr skal mellem hver enkelt linieklemme og jord/stel have en  
+
+ isolationsmodstand >= 10MOhm.
+4.2.4 Impedans mod jord Terminaludstyr skal mellem de kortsluttede linieklemmer og jord/stel have  
+
+ en impedans med en numerisk værdi på mindst 1MOhm ved vekselspændinger med en  
+
+ effektivværdi op til 120V og frekvenser op til 55Hz.
+4.3 Transmission 4.3.1 Spidsspænding i frekvensområdet 40 til 15000 Hz Spidsspændingen målt i frekvensområdet 40 til 15000 Hz skal være <=  
+
+ 3,5Vp, når terminaludstyrets linieklemmer er belastet med 600 Ohm.
+4.3.2 Middeleffekt i frekvensområdet 40 til 15000 Hz Middeleffekten, målt over enhver periode af 10 sekunders varighed, i  
+
+ frekvensområdet 40 til 15000 Hz, skal være <= 0dBm, når terminaludstyrets  
+
+ interface er belastet med 600 Ohm 4.3.3 Spektral tæthed i frekvensområdet 40 - 15000 Hz Den udsendte effekts spektrale tæthed, målt med en båndbredde på 300Hz  
+
+ beliggende i frekvensområdet 40 Hz til 15000Hz skal være <= -25dB relativt  
+
+ til 1mW/Hz, når terminaludstyrets linieklemmer er belastet med 600 Ohm.
+ Se figur 4.3.4 og tabel 4.3.4.
+4.3.4 Spektral tæthed i frekvensområdet over 15kHz Den udsendte effekts spektrale tæthed, målt med en båndbredde på 1kHz  
+
+ beliggende i frekvensområdet 15kHz til 1MHz, og med en båndbredde på 10kHz  
+
+ beliggende i frekvensområdet over 1MHz, skal være <= -30dB relativt til  
+
+ 1mW/Hz ved 15kHz, faldende 15dB/dekade til <= -57dB ved 1MHz, og <=  
+
+ -80dB/Hz relativt til 1mW/Hz ved alle frekvenser over 1MHz, når  
+
+ terminaludstyrets linieklemmer er belastet med 120 Ohm.
+ Se figur 4.3.4 og tabel 4.3.4.
+Figur 4.3.4 Tabel 4.3.4 4.4 Strømfødning Terminaludstyret må ikke være fremstillet til, at udføre strømfødning via  
+
+ det tilkoblede analoge faste kredsløb.
+ Der må ikke forekomme jævnspændinger over terminaludstyrets interface.
+ Der må maksimalt afgives en jævnstrøm på 1mA til det tilkoblede kredsløb.
+- Blank side -Annex A til bilag til Tekniske bestemmelser for terminaludstyr for  
+
+ tilslutning til analoge faste kredsløb af lokalkvalitet, analoge faste  
+
+ kredsløb telefoni med signalomsætning og analoge faste kredsløb af  
+
+ radiofonikvalitet.
+A.1 Generelt De i figurerne angivne måleprincipper er vejledende.
+Andre  
+
+ måleopstillinger kan anvendes, hvis kravene kan verificeres.
+ Transmissionsmålingerne skal foretages, ved alle for terminaludstyret  
+
+ mulige sendesignaler med maksimalt niveau.
+ De angivne diskrete værdier for variable - f.eks. strøm, spænding og  
+
+ frekvenser - er minimumskrav til antallet af målepunkter.
+ Hvis andet ikke er angivet, skal alle målinger som minimum overholde de  
+
+ krav som er beskrevet i bilaget.
+A.1.1 Konditioner Terminaludstyret (TE) skal være tændt i mindst 30 minutter, inden  
+
+ målingerne påbegyndes.
+ Vedrører målingerne statiske forhold i åben eller lukket sløjfe, skal  
+
+ terminaludstyret være bragt i den pågældende tilstand i så god tid før  
+
+ målingen, at tilstanden er stabil.
+ Alle målinger foretages på terminaludstyrets tilslutningspunkter for det  
+
+ analoge faste kredsløb.
+ Rekvirenten medsender specifikation af tilslutningspunkter samt eventuelt  
+
+ nødvendigt kabel- og stikmateriale.
+A.1.2 Klimatisk miljø Følgende klimatiske betingelser skal overholdes under hele  
+
+ prøvningsperioden, med mindre andet er angivet.
+Betingelserne er gældende for  
+
+ såvel terminaludstyret som prøvningsomgivelserne.
+A.1.3 Jord/stel Rekvirenten medsender specifikationer af jord/stel klemmer eller udvendige  
+
+ tilgængelige metaldele der er relevante af hensyn til målinger, der benytter  
+
+ jord/stel.
+Terminaludstyret anbringes i normal brugsstilling, på et 10 cm tykt  
+
+ isolerende underlag med en relativ dielektricitetskonstant på ca.1, placeret  
+
+ på en metalplade, der har et areal, som på alle sider er mindst 5 cm større  
+
+ end terminaludstyret.
+Eventuelle jordforbundne klemmer og målepunkter  
+
+ forbindes til metalpladen.
+A.1.4 Jævnstrømsfødning ved prøvning Hvor terminaludstyret funktion afhænger af en ekstern jævnstrømsfødning,  
+
+ indskydes en fødebro mellem terminaludstyrets tilslutningsklemmer og  
+
+ måleopstillingen.
+ Jævnstrømsfødning af terminaludstyr foretages principielt som vist i fig.  
+
+ A.1.4 Fødemodstanden Rf inkluderer modstanden i selvinduktionen Lf.
+ Hvis terminaludstyret jævnstrømsføder mod det analoge faste kredsløb, skal  
+
+ Vf være = 0V, under transmissionsmålinger.
+Fig.
+A.1.4 Cf >= 10microF Lf >= 2H 0V <= Vf <= pund 65V 500 Ohm Rf <= 2400 Ohm.
+ Fødebroen skal have en jordbalancedæmpning (LCL) der er >= 60 dB.
+ Den maksimale strøm- og spænding er beskrevet i afsnit 2.4 strømfødning i  
+
+ bilaget.
+A.1.5 Tolerancer på prøvningskomponenter i måleopstillinger De benyttede prøvningskomponenter skal være indenfor 1% af de angivne  
+
+ værdier.
+A.1.6 Måleusikkerhed Grænserne angivet i nærværende dokument er absolutte værdier, og må ikke  
+
+ udvides for at give yderligere tolerancer på målingerne.
+Det forudsættes, at målingerne sker med den nødvendige nøjagtighed.
+Er der  
+
+ tvivl om, at kravene opfyldes, pålægges det den prøvende instans at redegøre  
+
+ for målingens nøjagtighed.
+A.1.7 Anvendte symboler Jævnstrømskilde Generator Jævnspændingsmåler Jævnstrømsmåler Jævn og vekselstrømsmåler Vekselspændingsmåler Vekselspændingsmåler, spidsværdi Jævn og vekselspændingsmåler Vekselstrømsmåler Fast modstand Jord, stel Kondensator Spole Omskifter kontakt Terminaludstyr (TE), 2 tråds Terminaludstyr (TE), 4 tråds Jævnstrømsfødning ved prøvning Frekvensmåler Oscilloskop A.1.8 Måleopstillinger/metoder I den efterfølgende del, er måleopstillinger/metoder beskrevet for de  
+
+ enkelte målinger.
+ Nummereringen er direkte sammenhørende med de tilsvarende numre i bilaget,  
+
+ afsnit 2.1 til 4.4.
+A.2 Terminaludstyr tilsluttet analoge faste kredsløb af lokalkvalitet A.2.1 Fysisk tilslutning Kravet verificeres ved, at de øvrige målinger kan gennemføres ved hjælp af  
+
+ kabelforbindelser, som angivet i punkt 2.1 i bilaget.
+A.2.2 Måling af indgang/udgang i forhold til jord A.2.2.1 Transmission mod jord/stel Der udføres ikke test i forbindelse med dette krav.
+ Overensstemmelse undersøges ved gennemgang af terminaludstyrets elektriske  
+
+ diagram eller kontrol foretages i overensstemmelse med anerkendt  
+
+ ingeniørmæssig praksis.
+A.2.2.2 Jordbalancedæmpning (LCL) Terminaludstyret forbindes som vist i fig.
+A.2.2.2.
+Fig.
+A.2.2.2 Voltmeterne skal have en indgangsimpedans, der er >=-100 kOhm.
+ R1 må højst afvige 0,1 % fra R2.
+ Terminaludstyret anbringes som beskrevet i punkt A.1.3.
+ Der måles ved at sweepe med en konstant spænding på:
+- 7,75 V i frekvensområdet 40 - 600 Hz - 0,775 V i Frekvensområdet 600 - 15000 Hz Alternativt kan der måles med følgende samhørende frekvenser og  
+
+ spændinger, som beskrevet i tabel A.2.2.2.
+Tabel A.2.2.2 A.2.2.3 Isolation mod jord Terminaludstyret forbindes som vist i fig.
+A.2.2.3 Fig.
+A.2.2.3 Tilslutningspunkt a og b måles enkeltvis.
+ Strømmen måles i begge polariteter, U1 skal ved begge polariteter være =  
+
+ 250 V.
+ Isolationsmodstanden R beregnes ved hjælp af formlen:
+ hvor R er isolationsmodstanden, U er prøvespændingen i volt og I er  
+
+ strømmen i ampere.
+ Ved prøvningen forbindes alle signaljordklemmer til samme punkt.
+A.2.2.4 Impedans mod jord Terminaludstyret forbindes som vist i fig.
+A.2.2.4 Fig.
+A.2.2.4 Terminaludstyret anbringes som beskrevet i punkt A.1.3.
+ Der måles ved U1 = 120 Veff, 50 Hz.
+A.2.3 Transmission Signaleringskoden ISDN BRA 2B1Q-liniekodesignalet skal overholde  
+
+ betingelserne i ETSI ETR 080.
+A.2.3.1 Vekselspændinger under 300 Hz Terminaludstyret forbindes som vist i fig.
+A.2.3.1 Fig.
+A.2.3.1 Der skal ved måling af U1, anvendes et måleinstrumentmed en målebåndbredde  
+
+ på 10 Hz.
+ Der skal måles i frekvensområdet 0 Hz < f <= pund 300 Hz.
+ Zi // ZT skal være >= 1 M Ohm.
+A.2.3.2 Effekt i frekvensområdet 300 til 15000 Hz A.2.3.2.1 Spidsspænding 300 til 15000 Hz Terminaludstyret forbindes som vist i fig.
+A.2.3.2.1 Fig.
+A.2.3.2.1 Der skal anvendes et spidsværdimålende instrument med en indgangsimpedans >= 100 k Ohm, og en maksimal stigetid på 50 micro sek.
+ ZT = 600 0 grader Ohm O.
+ Der skal måles i frekvensområdet 300 til 15000 Hz.
+A.2.3.2.2 Middeleffekt i frekvensområdet 300 til 4000 Hz Terminaludstyret forbindes som vist i fig.
+A.2.3.2.2 Fig.
+A.2.3.2.2 Der skal anvendes et måleinstrument med en indgangsimpedans >= 100 k  
+
+ Ohm.
+ Der skal måles i frekvensområdet 300 til 4000 Hz.
+ ZT = 600 0 grader Ohm.
+A.2.3.2.3 Spektral tæthed i frekvensområdet 4 til 15 kHz Terminaludstyret forbindes som vist i fig.
+A.2.3.2.3 Fig.
+A.2.3.2.3 Der skal anvendes et måleinstrument med en indgangsimpedans >= 100 k  
+
+ Ohm, og en maksimal båndbredde som beskrevet for frekvensområdet.
+Der skal måles i frekvensområdet med en båndbredde og termineringsmodstand  
+
+ som beskrevet i tabel A.2.3.2.3 Tabel A.2.3.2.3 A.2.3.3 Spektral tæthed i frekvensområdet over 15 kHz Terminaludstyret forbindes som vist i fig.
+A.2.3.3 Fig.
+A.2.3.3 Der skal anvendes et måleinstrument med en indgangsimpedans >= 100 k  
+
+ Ohm, og en maksimal båndbredde som beskrevet for de enkelte frekvensområder.
+Der skal måles i frekvensområderne med en båndbredde og  
+
+ termineringsmodstand, som beskrevet i tabel A.2.3.3 Tabel A.2.3.3 A.2.4 Strømfødning A.2.4.1 Strømfødningens jordpotentiale Terminaludstyret forbindes som vist i fig.
+A.2.4.1 Fig.
+A.2.4.1 Måleinstrumentet U1 må ikke vise en positiv spænding, med omskifteren i  
+
+ stilling II.
+ Måleinstrumentet U2 må ikke vise en positiv spænding, med omskifteren i  
+
+ stilling I.
+A.2.4.2 Maksimale strømme Terminaludstyret forbindes som vist i fig.
+A.2.4.2 Fig.
+A.2.4.2 I1 må maksimalt vise den størst tilladte jævn- og vekselstrøm.
+A.2.4.3 Maksimale jævnspændinger Terminaludstyret forbindes som vist i fig.
+A.2.4.3 Fig.
+A.2.4.3 U1 må maksimalt vise den størst tilladte jævnspænding.
+A.2.4.4 Maksimale kombinerede jævn og vekselspændinger Terminaludstyret forbindes som vist i fig.
+A.2.4.4 Fig.
+A.2.4.4 Ingen af voltmetrene må vise jævn- og vekselspænding, eller en kombination  
+
+ af disse, som overstiger den maksimalt tilladte spænding.
+A.3 Terminaludstyr tilsluttet analoge faste kredsløb telefoni med  
+
+ signalomsætning A.3.1 Terminaludstyr for tilslutning til 2-tråds kredsløb med  
+
+ signalomsætning A.3.1.1 Maksimal jævnspænding Terminaludstyret forbindes som vist i fig.
+A.3.1.1.a.
+Fig.
+A.3.1.1.a Strømforsyningens positive pol skal være forbundet til jord.
+ Måleinstrumentet U1 må ikke vise en positiv spænding med omskifteren i  
+
+ stilling III.
+ Måleinstrumentet U2 må ikke vise en positiv spænding med omskifteren i  
+
+ stilling I.
+ Måleinstrumentet U3 må ikke vise en jævnspænding, som overstiger den  
+
+ maksimale jævnspænding, med omskifteren i stilling II.
+ Hvis U1 eller U2 er positiv og U3 er < 15 V gælder dog følgende:
+Terminaludstyret forbindes som vist i fig.
+A.3.1.1.b.
+Fig.
+A.3.1.1.b Tilslutningspunkt a og b måles enkeltvis.
+ Strømmen I1 måles ved begge polariteter, U1 = 250 V ved begge polariteter.
+ Isolationsmodstanden R beregnes som: R (Ohm) = U1 (V)/I1 (A).
+ Under prøvningen forbindes alle signaljordklemmer til samme punkt.
+A.3.1.2 Maksimal jævnstrøm Terminaludstyret forbindes som vist i fig.
+A.3.1.2.
+Fig.
+A.3.1.2 I1 må ikke overstige den maksimale jævnstrøm.
+A.3.1.3 Ringesignalspænding Terminaludstyret forbindes som vist i fig.
+A.3.1.3.a.
+Fig.
+A.3.1.3.a Instrumentet skal vise den krævede frekvens.
+Terminaludstyret forbindes som vist i fig.
+A.3.1.3.b.
+Fig.
+A.3.1.3.b Der skal ved måling af maksimal ringesignalspænding anvendes et instrument  
+
+ for effektivværdi, og Zi//ZT >= 1 MOhm.
+ Der skal ved måling af den psofometriske værdi anvendes et instrument for  
+
+ dette med Zi >= 1 MOhm, og ZT = 4000 Ohm i serie med 20 microF.
+ Der skal ved måling af overtoner (fra ca. 50 Hz til ca. 300 Hz) anvendes  
+
+ et selektivt instrument for effektivværdi med Zi >= 1 MOhm, og ZT = 4000  
+
+ Ohm i serie med 20 microF.
+A.3.1.4 Ringetripning Terminaludstyret forbindes som vist i fig.
+A.3.1.4.
+Fig.
+A.3.1.4 Tiden måles fra indkoblingen af ZT = 600 Ohm.
+A.3.1.5 Impedansbalance mod jord (LCL) Terminaludstyret forbindes som vist i fig.
+A.3.1.5.
+Fig.
+A.3.1.5 Voltmetrene skal have en indgangsimpedans >= 100 kOhm.
+ R1 må højst afvige 0,1% fra R2.
+ Terminaludstyret anbringes som beskrevet i punkt A.1.3.
+ Der måles ved følgende frekvenser og spændinger:
+ Jordbalancedæmpningen LCL beregnes som LCL = 20*log10(U1/U2) (dB).
+A.3.1.6 Maksimalt sendeniveau fra 300 Hz til 3400 Hz Terminaludstyret forbindes som vist i fig.
+A.3.1.6.
+Fig.
+A.3.1.6 Der skal anvendes et spidsværdimålende instrument med en stigetid på <=  
+
+ 50 micros, hhv. et effektivværdimålende instrument, begge med en  
+
+ indgangsimpedans på >= 100 kOhm.
+Middel-effekten fås som gennemsnittet  
+
+ over 1 minut af effektivværdiens kvadrat, divideret med ZT.
+ZT = 600 0 grader  
+
+ Ohm.
+A.3.1.7 Enkeltfrekvensstøj Terminaludstyret forbindes som vist i fig.
+A.3.1.7.
+Fig.
+A.3.1.7 Måleinstrumentet skal have en indgangsimpedans på >= 100 kOhm og være  
+
+ selektivt.
+ZT = 600 Ohm.
+A.3.1.8 Egenstøj Terminaludstyret forbindes som vist i fig.
+A.3.1.8.
+Fig.
+A.3.1.8 Måleinstrumentet skal have en indgangsimpedans på >= 100 kOhm og måle  
+
+ den resulterende spænding over hele frekvensbåndet.
+ZT = 600 Ohm.
+A.3.2 Terminaludstyr, som benytter E&M signalering A.3.2.1 Fysisk tilslutning Kravet verificeres ved, at de øvrige målinger kan gennemføres ved hjælp af  
+
+ kabelforbindelser, som angivet i punkt 3.2.1 i bilaget.
+A.3.2.2 Tilslutning for 4 -tråds transmission.
+Tale-sende og  
+
+ -modtage Måleopstillinger er beskrevet i TB 95070.
+ A.3.2.3 Tilslutning for 4-tråds E&M-signalering.
+ A.3.2.3.1 Signalsender, Isolationsmodstand.
+Terminaludstyret forbindes som vist i fig.
+A.3.2.3.1 Fig.
+A.3.2.3.1 Tilslutningspunkt a og b måles enkeltvis.
+ Strømmen måles i begge polariteter, U1 skal ved begge polariteter være =  
+
+ 250 V.
+ Isolationsmodstanden R beregnes ved hjælp af formlen:
+ hvor R er isolationsmodstanden, U er prøvespændingen i volt og I er  
+
+ strømmen i ampere.
+ Ved prøvningen forbindes alle signaljordklemmer til samme punkt.
+A.3.2.3.2 Signal-modtager A.3.2.3.2.1 Jævnspænding Terminaludstyret forbindes som vist i fig.
+A.3.2.3.2.1 Fig.
+A.3.2.3.2.1 Strømforsyningens positive pol skal være forbundet til jord.
+ Måleinstrumentet U1 må ikke vise en positiv spænding, med omskifteren i  
+
+ stilling III.
+ Måleinstrumentet U2 må ikke vise en positiv spænding, med omskifteren i  
+
+ stilling I.
+ Måleinstrumentet U3 må ikke vise en jævnspænding, som overstiger den  
+
+ maksimalt tilladte spænding, med omskifteren i stilling II.
+A.3.2.3.2.2 Indre modstand Terminaludstyret forbindes som vist i fig.
+A.3.2.3.2.2 Fig.
+A.3.2.3.2.2 I1 måles med kontakten i stilling I U1 måles med kontakten i stilling IIDen indre modstand Ri beregnes ved  
+
+ hjælp af formlen:
+A.3.2.3.2.3 Vekselstrøm Terminaludstyret forbindes som vist i fig.
+A.3.2.3.2.3 Fig.
+A.3.2.3.2.3 ZT = 600 0 grader Ohm.
+ Vekselstrømsmåleren må ikke vise en vekselstrøm der er større end den  
+
+ maksimale tilladte strøm.
+A.4 Terminaludstyr tilsluttet analoge faste kredsløb af  
+
+ radiofonikvalitet A.4.1 Fysisk tilslutning Ingen krav.
+A.4.2 Måling af indgang/udgang i forhold til jord A.4.2.1 Transmission mod jord/stel Der udføres ikke test i forbindelse med dette krav.
+ Overensstemmelse undersøges ved gennemgang af terminaludstyrets elektriske  
+
+ diagram eller kontrol foretages i overensstemmelse med anerkendt  
+
+ ingeniørmæssig praksis.
+A.4.2.2 Jordbalancedæmpning (LCL) Terminaludstyret forbindes som vist i fig.
+A.4.2.2 Fig.
+A.4.2.2 Voltmeterne skal have en indgangsimpedans, der er >= 100 kOhm.
+R1 må højst afvige 0,1 % fra R2 Terminaludstyret anbringes som beskrevet i punkt A.1.3.
+ Der måles ved at sweepe med en konstant spænding på:
+- 7,75 V i frekvensområdet 40 - 600 Hz - 0,775 V i frekvensområdet 600 - f max Hz Alternativt kan der måles med følgende samhørende frekvenser og  
+
+ spændinger, som beskrevet i tabel A.4.2.2.
+Tabel A.4.2.2 Jordbalancedæmpningen (LCL) beregnes ved formlen:
+A.4.2.3 Isolation mod jord Terminaludstyret forbindes som vist i fig.
+A.4.2.3 Fig.
+A.4.2.3 Tilslutningspunkt a og b måles enkeltvis.
+ Strømmen måles i begge polariteter, U1 skal ved begge polariteter være =  
+
+ 250 V.
+ Isolationsmodstanden R beregnes ved hjælp af formlen:
+ hvor R er isolationsmodstanden i ohm, U1 er prøvespændingen i volt og I1  
+
+ er strømmen i ampere.
+Ved prøvningen forbindes alle signal- og jordklemmer til samme punkt.  
+
+A.4.2.4 Impedans mod jord Terminaludstyret forbindes som vist i fig.
+A.4.2.4 Fig.
+A.4.2.4 Terminaludstyret anbringes som beskrevet i punkt A.1.3.
+ Der måles ved U1 = 120 Veff, 50 Hz.
+ hvor R er isolationsmodstanden i ohm, U1 er prøvespændingen i volt og I1  
+
+ er strømmen i ampere.
+A.4.3 Transmission A.4.3.1 Spidsspænding i frekvensområdet 40 til 15000 Hz.
+Terminaludstyret forbindes som vist i fig A.4.3.1 Fig.
+A.4.3.1 Der skal anvendes et spidsværdimålende instrument med en indgangsimpedans >= 100 k Ohm, og en maksimal stigetid på 50 micro sek.
+ ZT = 600 0 grader Ohm.
+ Der skal måles i frekvensområdet 40 til 15000 Hz.
+A.4.3.2 Middeleffekt i frekvensområdet 40 til 15000 Hz Terminaludstyret forbindes som vist i fig.
+A.4.3.2 Fig.
+A.4.3.2.
+ Der skal anvendes et måleinstrument med en indgangsimpedans = 100 k O.
+ ZT = 600 0 grader Ohm.
+ Der skal måles i frekvensområdet 40 til 15000 Hz.
+A.4.3.3 Spektral tæthed i frekvensområdet 40 til 15000 Hz Terminaludstyret forbindes som vist i fig.
+A.4.3.3 Fig.
+A.4.3.3 Der skal anvendes et måleinstrument med en indgangsimpedans >= 100 k  
+
+ Ohm, og en maksimal båndbredde på 300 Hz.
+ ZT = 600 0 grader Ohm.
+Der skal måles i frekvensområdet 40 til 15000 Hz A.4.3.4 Spektral tæthed i frekvensområdet over 15 kHz Terminaludstyret forbindes som vist i fig.
+A.4.3.4 Fig.
+A.4.3.4 Der skal anvendes et måleinstrument med en indgangsimpedans >= 100 k  
+
+ Ohm, og en maksimal båndbredde på som beskrevet for de enkelte  
+
+ frekvensområder.
+Der skal måles i frekvensområderne med en båndbredde og  
+
+ termineringsmodstand som beskrevet i tabel A.4.3.4 Tabel A.4.3.4 A.4.4 Strømfødning Terminaludstyret forbindes som vist i fig.
+A.4.5.4 Fig.
+A.4.4 I1 må maksimalt vise den størst tilladte jævnstrøm.
+ (* 1) Bekendtgørelse indeholder bestemmelser, der gennemfører Rådets  
+
+ direktiv nr 91/263/EØF, De Europæiske Fællesskabers Tidende (EF-tidende) 1991  
+
+ L 128 s.1 og Rådets direktiv nr, 93/68/EØF, De Europæiske Fællesskabers  
+
+ Tidende (EF-tidende) 1993 L 220 s. 1.

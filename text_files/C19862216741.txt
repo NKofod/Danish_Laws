@@ -1,0 +1,121 @@
+ Studieplanen har virkning fra august 1984 (genoptryk).
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+ 1.Formål.
+ Eksperimentel systemudvikling vil på dette kursus blive opfattet som:
+ Systemudvikling hvor udførelse af eksperimenter med edb-modeller indgår  
+
+ som en central aktivitet.
+Nogle edb-model-værktøjer lægger op til, at man anvender edb-modellen som  
+
+ driftssystem.
+Andre værktøjer kræver en implementering i et konventionelt  
+
+ miljø.
+ Fælles for alle værktøjer er dog at man arbejder med konkrete modeller,  
+
+ som erstatter en del af de traditionelle abstrakte model- tegninger.
+ Endvidere kræver værktøjerne en ændring af de traditionelle  
+
+ systemudviklingsmetoder.
+ Kurset har til formål at give den studerende viden om begreber, metoder og  
+
+ værktøjer indenfor eksperimentel systemudvikling (ESU). Endvidere får den  
+
+ studerende mulighed for at indhøste praktiske erfaringer ved anvendelse af  
+
+ noget konkret ESU-programmel og en foreslået arbejdsmetode.
+ Endelig skal kurset sætte den studerende i stand til at deltage i valg af  
+
+ ESU-programmel idet der orienteres om generelle værktøjsbegreber samt en  
+
+ række nuværende markedsførte produkter.
+ 2. Indhold.
+ 2.1 Systemudvikling.
+ Her diskuteres væsentlige egenskaber ved en traditionel  
+
+ systemudviklingsmodel (faser, metoder, værktøjer.) Endvidere peges på det  
+
+ klassiske dilemma, som består i problemet med at oversætte brugerens  
+
+ kravbeskrivelse til et programmeringssprog.
+ I diskussionen vil der blive inddraget nogle fra litteraturen kendte  
+
+ metoder og værktøjer (ISAC, HIAM, YOURDON,...) samt de studerendes praktiske  
+
+ baggrund i systemarbejde.
+ 2.2 ESU-metoder og Værktøjs-egenskaber.
+ Man kan inddele funktionerne i et fuldt udbygget ESU-system i følgende  
+
+ hovedgrupper:
+ - Data-dictionary/bibliotekssystem som udgør kernen i systemet og hvor  
+
+ alle beskrivelser af data og programmer samles.
+ - Applikationsudviklingssystemet som omfatter fuldstændige funktioner for  
+
+ at udvikle et applikationssystem.
+ - Grænseflade til omgivende programvarer såsom databasesystem, TP- system,  
+
+ operativsystem og traditionelle programmeringssprog.
+ - Slut-bruger-funktioner såsom rapportgenerator,spørgesprog, grafiske  
+
+ funktioner og tekstbehandling.
+For et bestemt produkt kan man ikke altid drage en klar grænse mellem de  
+
+ enkelte funktioner.
+Det vigtigste ved anvendelsen af et fuldt udbygget  
+
+ ESU-system er at man arbejder med et integreret system og ikke sammenkoblede  
+
+ komponenter.
+ Men når man skal studere de enkelte egenskaber må man betragte  
+
+ funktionerne hver for sig.
+For de fleste udbyggede ESU-systemer er applikationssystemet det vigtigste  
+
+ fremskridt i forhold til de traditionelle værktøjer.
+Derfor vil vi  
+
+ koncentrerer os om disse egenskaber: termbeskrivelsesfunktioner,  
+
+ datastruktureringsfunktioner, views, behandlingssprog,  
+
+ rapportbeskrivelsesfunktioner, dialogbeskrivelsesfunktioner.
+Hvis man vil have en god udnyttelse af ESU-værktøjerne er det nødvendigt  
+
+ at omvurdere de systemudviklingsmetoder som hidtil er brugt og forsøge at  
+
+ tilpasse disse til de nye muligheder.
+På kurset opstilles en model for  
+
+ systemudviklingsarbejdet hvori ESU-værktøjerne indgår.
+Herunder gennemgås  
+
+ datamodellering som en central aktivitet i den grove kravspecifikationsfase.
+ 2.3 Praktisk afprøvning af ESU-værktøj.
+ Formålet er at give de studerende praktisk erfaring i systemarbejde med  
+
+ ESU-værktøjer.
+CS4 er et terminalorienteret system med et generelt programmeringssprog  
+
+ CSL til håndtering af en relationsdatabase.
+Det er meget fleksibelt med  
+
+ hensyn til ændring af database og programmer og har været anvendt i en række  
+
+ projekter til udvikling at edb- modeller.
+ 2.4 Studie af leverandørværktøjer.
+I de seneste år er der kommet en række produkter på markedet som opfylder  
+
+ en del af de kriterier man kan stille til ESU-systemer.
+Nogle af disse  
+
+ værktøjer studeres nærmere, idet -kriterier for valg af værktøjer opstilles (systemfilosofi,  
+
+ funktionsdækning, integrering, dictionary, dialogudformning,  
+
+ prototyping/systemskitser, maskin-og miljøafhængighed) -der udvælges et leverandørværktøj pr.arbejdsgruppe.
+ -arbejdsgruppen foreligger resultatet for resten af klassen.
+ 3. Forkundskaber .
+ Kendskab til systemanalyser f.eks. via 3.2 Systemdesign.

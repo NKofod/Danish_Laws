@@ -1,0 +1,2003 @@
+Indledning.
+Ikrafttrædelse Del 1 Almindelige bestemmelser og definitioner § 1  Gyldighedsområde § 2  Definitioner Del 2 Driftsmæssig jordforbindelse § 3  Højspændingsanlæg.
+3.1 Almindeligt 3.2 Udførelse § 4  Lavspændingsanlæg.
+4.1 Almindeligt 4.2 Anbringelse af jordingsanlæg 4.3 Fælles jordingsanlæg 4.4 Uafhængige jordingsanlæg 4.5 Stationer med højere driftsspænding en 40 kV 4.6 Anlæg til højspændingsstationers egetforbrug Del 3 Beskyttende jordforbindelse § 5  Stationsanlæg.
+5.1 Anlægsdele, der skal jordforbindes 5.2 Overspændingsafledere 5.3 Ydre hegn om friluftsstationsområder 5.4 Maskiner og apparater for lavspænding § 6  Højspændingsluftledninger.
+6.1 Anlægsdele, der skal jordforbindes 6.2 Udførelse af jordforbindelser 6.3 Strækningsafbrydere § 7  Højspændingskabler.
+7.1 Berøringstilgængelige dele 7.2 Muffer 7.3 Enleder kabler Del 4 Jordingsanlæg § 8  Udførelse.
+8.1 Materiale og dimensioner 8.2 Anbringelse 8.3 Afbrydere, adskillere, sikringer 8.4 Konstruktionsdele som dele af jordledninger 8.5 Samlinger 8.6 Farvemærkning § 9  Effektivitet.
+9.1 Højspændingsanlæg 9.2 Lavspændingsanlæg Del 5 Nulsikre lavspændingsledningsanlæg § 10  Nulsikre lavspændingsanlæg.
+10.1 Definition 10.2 Tilladelse til nulling 10.3 Jordingsanlæg m.m.
+10.4 Dimensionering 10.5 Sammenkobling med andre lavspændingsledningsanlæg Del 6 Telefon- og fjernkontrolanlæg i højspændingsstationer § 11  Telefon- og fjernkontrolanlæg i  
+
+ højspændingsstationer Del 7 Nærføring mellem højspændingsanlæg og andre anlæg § 12  Nærføring mellem højspændingsledninger og  
+
+ svagstrømsledninger.
+12.1 Elektrostatisk påvirkning 12.2 Elektromagnetisk induktion i svagstrømsluftledninger i effektivt  
+
+ jordede net 12.3 Elektromagnetisk induktion i svagstrømsluftledninger i ikke effektivt  
+
+ jordede net 12.4 Elektromagnetisk induktion i svagstrømskabelledninger 12.5 Foranstaltninger til begrænsning af inducerede spændinger eller deres  
+
+ virkninger § 13  Nærføring mellem højspændingsanlæg og metalliske  
+
+ røranlæg.
+13.1 Elektrostatisk påvirkning 13.2 Elektromagnetisk induktion under normal drift af højspændingsanlæg 13.3 Elektromagnetisk induktion ved fejl på højspændingsanlæg 13.4 Påvirkninger ved forhøjet jordpotentiale 13.5 Foranstaltninger mod berøringsfare Bilag 1 Foranstaltninger mod farlige berørings- og skridtspændinger under  
+
+ jordslutning på højspændingsanlæg 2 Beskyttelsesforanstaltninger ved telefon- og fjernkontrolanlæg i  
+
+ højspændingsstationer 3 Foranstaltninger til begrænsning af elektromagnetisk inducerede  
+
+ spændinger eller deres virkninger 4 Foranstaltninger mod berøringsfare ved nærføring mellem  
+
+ højspændingsanlæg og metalliske røranlæg Stikordsregister Indledning Afsnit 4, 2. udgave er udgivet af Elektricitetsrådet med gyldighed fra 1.  
+
+ april 1977 og erstatter 1. udgave.
+ Afsnittet er med denne udgave delvis omarbejdet.
+ Eventuelle fremtidige ændringer og nye bestemmelser vil, indtil en ny  
+
+ udgave udgives, fremkomme på erstatningsblade, hvorpå de vil blive markeret i  
+
+ margenen med angivelse af ikrafttrædelsesdato.
+ Udsendelse af erstatningsblade vil blive offentliggjort i  
+
+ ELRÅD-meddelelser og i de tekniske blade.
+Forklaringer og henvisninger er sat med skrifttypen petit.
+Den 1. januar  
+
+ 1988 indeholder afsnittet følgende erstatningsblade:
+Jordforbindelser m.m. i og ved stations- og  
+
+ ledningsanlæg Del 1 Almindelige bestemmelser og definitioner § 1 Gyldighedsområde 1.1 Afsnit 4 gælder for udførelse af jordforbindelser og andre  
+
+ foranstaltninger af permanent karakter mod farlige berøringsog  
+
+ skridtspændinger i og ved stations- og ledningsanlæg.
+ Undtagelse:
+ Jordforbindelser m.m. for generatoranlæg af den i afsnit 2, § 1.3,  
+
+ omhandlede art.
+1.2 For jordforbindelser m.m. i og ved stations- og ledningsanlæg,  
+
+ herunder midlertidige jordforbindelser, der etableres med henblik på arbejder  
+
+ på eller nær ved sådanne anlæg, gælder tillige bestemmelserne i - afsnit 2, Stationsanlæg, - afsnit 3, Ledningsanlæg.
+1984-07-01 1.3 For drift af elforsyningsanlæg gælder bestemmelserne i - afsnit 5, Almindelige bestemmelser, - afsnit 5-1, Driftsledelse, - afsnit 5-2, Inspektion.
+Betjening, - afsnit 5-3, Arbejde på eller nær ved lavspændingsanlæg, - afsnit 5-4, Arbejde på eller nær ved spændingsløse høispændingsanlæg, - afsnit 5-5, Arbejde nær ved højspændingsanlæg under spænding, - afsnit 5-6, Arbejde på højspændingsanlæg under spænding (AUS).
+Se endvidere - afsnit 5 A, Sikkerhedsforskrifter for bygningsarbejde, vejarbejde, landbrugsarbejde m.m. i nærheden af elforsyningsanlæg.
+§ 2 Definitioner 2.1 Berøringsspænding.
+ 2.1.1 Berøringsspænding:
+ Den del af potentialforskellen mellem en jordelektrode eller et  
+
+ jordingsanlæg og neutral jord, som en person kan blive udsat for ved samtidig  
+
+ berøring af forskellige punkter inden for rækkevidde (normalt 1 m) enten fra  
+
+ hånd til fod (se følgende figur) eller fra hånd til hånd, når der går strøm  
+
+ gennem jordelektroden eller jordingsanlægget.
+ Berøringsspænding og skridtspænding.
+Potentialforskellen mellem en jordelektrode eller et jordingsanlæg og  
+
+ neutral jord opstår på grund af jordelektrodens, respektive jordingsanlæggets  
+
+ overgangsmodstand til jord.
+Forløbet af potentialet i jordoverfladen i  
+
+ nærheden af en elektrode er antydet i nedenstående figur.
+Elektrode Potentialforløb i jordoverfladen ved en elektrode.
+Ved stationsanlæg omfattende flere indbyrdes forbundne elektroder (ofte  
+
+ udført som et maskenet af bånd og tråd) vil der ved strømgennemgang optræde  
+
+ praktisk taget samme potential i jordoverfladen inden for et afgrænset område  
+
+ bestemt ved jordingsanlæggets udstrækning.
+Potentialforskellen mellem dette  
+
+ område og neutral jord benævnes stationspotentialet.
+Uden for området fås i  
+
+ princippet et potentialforløb som ovenfor vist.
+ 2.2 Beskyttende jordforbindelse.
+ 2.2.1 Beskyttende jordforbindelse:
+ Jordforbindelse, der skal hindre, at der i tilfælde af isolationsfejl  
+
+ opstår farlig spænding på apparater eller konstruktionsdele der normalt er  
+
+ spændingsløse eller står under ufarlig spænding.
+ 2.3 Driftsmæssig jordforbindelse.
+ 2.3.1 Driftsmæssig jordforbindelse:
+ Jordforbindelse af et punkt af et elektrisk systems driftsstrømkreds (som  
+
+ regel systemets nulpunkt).
+ Efter jordingens art skelnes der mellem direkte jordet net, effektivt  
+
+ jordet net, isoleret net og slukkespolejordet net.
+1979-07-01 Ved net forstås i denne forbindelse også spændingskilder (transformere,  
+
+ generatorer m.m.) uden tilsluttet ledningsanlæg.
+1979-07-01 2.3.2 Direkte jordet net:
+ Højspænding: Effektivt jordet net, hvor samtlige transformernulpunkter er  
+
+ direkte jordforbundet.
+ Lavspænding: Net, hvori driftsstrømkredsen er forbundet direkte til jord  
+
+ ved spændingskilden eller, såfremt flere spændingskilder forekommer, ved hver  
+
+ af disse spændingskilder.
+ Normalt jordforbindes i toledersystemer spændingskildens ene pol, i  
+
+ flerledersystemer spændingskildens nulpunkt.
+ 2.3.3 Effektivt jordet net:
+ Net, hvori nulpunktet på tilstrækkelig mange steder er forbundet til jord  
+
+ over en så lille impedans, at der ved jordfejl ikke optræder højere  
+
+ driftsfrekvente spændinger mellem fase og jord end 80 pct. af den højeste  
+
+ driftsspænding mellem faser.
+ Den nævnte spændingsbetingelse kan regnes at være opfyldt, hvis forholdet  
+
+ mellem nettets nulreaktans og dets synkronreaktans (set fra ethvert punkt i  
+
+ nettet) er mindre end 3 og forholdet mellem nulresistansen og  
+
+ synkronreaktansen er mindre end 1.
+ 2.3.4 Isoleret net:
+ Net, hvori der ikke forekommer anden driftsmæssig jordforbindelse end over  
+
+ meget store impedanser, f.eks. spændingstransformere.
+ 2.3.5 Slukkespolejordet net:
+ Net, hvori nulpunktet er jordforbundet over en eller flere slukkespoler,  
+
+ således afpasset, at jordslutningsstrømmens kapacitive komponent praktisk  
+
+ taget kompenseres.
+ 2.4 Driftsspænding.
+ 2.4.1 Driftsspænding (for vekselstrømsanlæg):
+ Den driftsfrekvente komponent af spændingen mellem anlæggets faser eller  
+
+ mellem fase og jord.
+ Hvor der i bestemmelserne er angivet spændingsgrænser, menes der altid den  
+
+ nominelle driftsspænding, d. v. s. den værdi af driftsspændingen mellem  
+
+ anlæggets faser, der benyttes til at betegne anlæggets spændingsniveau,  
+
+ medmindre det udtrykkeligt er anført, at spændingen skal regnes i forhold til  
+
+ jord, eller spændingen direkte er angivet som den maksimale driftsspænding,  
+
+ d. v. s. den største driftsspænding, der kan optræde mellem faserne under  
+
+ normal drift.
+ Ved højspændingsanlæg forudsættes, at den maksimale driftsspænding ikke  
+
+ overstiger de i efterfølgende tabel angivne værdier.
+ Ved højspændingsanlæg forudsættes endvidere, at der anvendes isolerede  
+
+ eller slukkespolejordede net ved driftsspændinger til og med 60 kV (maksimale  
+
+ driftsspændinger til og med 72,5 kV) og effektivt jordede net ved  
+
+ driftsspændinger over 60 kV (maksimale driftsspændinger over 72,5 kV).
+ Angående definitioner på højspændingsanlæg og lavspan. dingsanlæg, se  
+
+ afsnit 1, § 2.
+ 2.5 Elektrodeledning.
+ 2.5.1 Elektrodeledning:
+ Ledning der forbinder en jordelektrode enten direkte med den anlægsdel der  
+
+ skal jordforbindes eller med en samleledning for flere jordelektroder.
+ 2.6 Jordelektrode.
+ 2.6.1 Jordelektrode:
+ Ledende dele, der anbragt i jord skaber ledende kontakt med jorden.
+ 2.7 Jordforbindelse.
+ 2.7.1 Jordforbindelse:
+Tilsigtet forbindelse fra et punkt af et elektrisk system eller fra en  
+
+ konstruktionsdel i et elektrisk anlæg til jord.
+Jordforbindelse  
+
+ tilvejebringes ved hjælp af jordledninger, der tilsluttes et jordingsanlæg.
+ 2.8 Jordingsanlæg.
+ 2.8.1 Jordingsanlæg:
+ Består af en i jorden nedlagt jordelektrode (eller flere indbyrdes  
+
+ forbundne elektroder) og af dertil forbundne elektrodeledninger, disses  
+
+ opføringer og en eventuel over jorden anbragt samleledning for opføringerne.
+ 2.9 Jordledning.
+ 2.9.1 Jordledning:
+ Som jordledninger betegnes både elektrodeledninger, samleledninger for  
+
+ disse og ledninger, der forbinder anlægsdele med jordingsanlægget.
+ 2.10 Neutral jord.
+ 2.10.1 Neutral jord:
+ Et jordområde, hvis potentialforhold ikke er påvirket af noget elektrisk  
+
+ anlæg.
+ 2.11 Nulsikkert lavspændingsledningsanlæg.
+ 2.1 1.1 Nulsikkert lavspændingsledningsanlæg:
+ - Lavspændingsnet, der opfylder de i § 10 angivne tillægsbestemmelser.
+ 2.12 Overgangsmodstand for jordingsanlæg.
+ 2.12.1 Overgangsmodstand for jordingsanlæg:
+ Modstanden (resistansen) mellem jordingsanlægget og neutral jord.
+ 2.13 Samleledning.
+ 2.13.1 Samleledning:
+ Ledning i eller over jorden, hvortil elektrodeledningerne fra de enkelte  
+
+ jordelektroder i et jordingsanlæg forbindes.
+ 2.14 Skridtspænding.
+ 2.14.1 Skridtspænding:
+ Den del af potentialforskellen mellem en jordelektrode eller et  
+
+ jordingsanlæg og neutral jord, som kan optræde mellem to punkter på  
+
+ jordoverfladen i normal skridtlængdes afstand (1 m) fra hinanden (se  
+
+ figurerne i § 2.1.1), når der går strøm gennem jordelektroden eller  
+
+ jordingsanlægget.
+ 2.15 Specifik jordmodstand.
+ 2.15.1 Specifik jordmodstand:
+Modstanden mellem to modstående sider af en jordterning med kantlængden 1  
+
+ m.
+Den betegnes med p og angives i ohm.
+Del 2: Driftsmæssig jordforbindelse § 3 Højspændingsanlæg 3.1 Almindeligt.
+ 3.1.1 Isoleret net må ikke anvendes i anlæg, som indeholder luftledninger,  
+
+ medmindre jordslutningsstrømmen er højst 5 A.
+ 3.1.2 Effektivt jordet net må kun anvendes, dersom der findes et  
+
+ relæsystem, som ved jordslutning udkobler den fejlramte del af anlægget.
+ 3.1.3 Slukkespolejordet net tillades anvendt uden særlige betingelser.
+Ved slukkespolejordede net er det (ligesom ved isolerede net med mindre  
+
+ jordslutningsstrøm end 5 A) muligt at opretholde driften med en enkelt  
+
+ jordfejl i systemet indtil fejlen er fundet og udkoblet.
+Det er dog vigtigt,  
+
+ at denne driftstilstand ikke varer længere end højst nødvendigt, da den dels  
+
+ kan medføre fare ved berøring på fejlstedet og dels indebærer fare for, at  
+
+ fejlen udvikler sig til at omfatte flere faser.
+ 3.2 Udførelse.
+ 3.2.1 Driftsmæssig jordforbindelse for højspændingsanlæg skal sluttes til  
+
+ samme jordingsanlæg som stationens beskyttende jordforbindelser.
+§ 4 Lavspændingsanlæg For nulsikre lavspændingsanlæg gælder endvidere bestemmelserne i § 10.
+1979-07-01 4.1 Almindeligt.
+ 4.1.1 Lavspændingsanlæg (herunder generatorer i nødforsyningsanlæg,  
+
+ vindkraftanlæg m.m.) skal udføres som direkte jordede net (se § 2.3).
+ Undtagelser:
+ Udeladelse af driftsmæssig jordforbindelse og anvendelse af isoleret net i  
+
+ stedet for tillades dog:
+ 1. Ved industrianlæg o.l. der er under stadig,  
+
+ sagkyndig kontrol, og hvor indtrædende isolationsfejl automatisk  
+
+ tilkendegives af et signalanlæg eller bevirker, at anlægget automatisk  
+
+ udkobles.
+ Forsynes anlægget fra et højspændingsanlæg, skal der være truffet  
+
+ foranstaltninger til at imødegå fare ved spændingsovergang fra  
+
+ højspændingsanlægget.
+2. For mobile generatoranlæg, forudsat - at der ikke i den tilsluttede installation findes ekstrabeskyttelse  
+
+ udført ved nulling, jording, fejlstrømseller fejlspændingsafbryder, og - at der i overensstemmelse med bestemmelserne i reglementets afsnit 10. §  
+
+ 15, udføres ledende forbindelse mellem generatorens metalliske stel og  
+
+ udvendige metaldele på samtlige tilsluttede brugsgenstande, som ikke er  
+
+ ekstrabeskyttet ved ekstra isolation (klasse II) eller sikkerhedsspænding  
+
+ (klasse III).
+ Angående effektiviteten af den driftsmæssige jordforbindelse for mobile  
+
+ generatoranlæg, se § 9.2.1, undtagelsen.
+1979-07-01 4.1.2 Lavspændingsanlægget og den driftsmæssige jordforbindelse af dette  
+
+ skal udføres således, at den normale driftsspænding mellem en vilkårlig leder  
+
+ og jord ikke overstiger 250 V.
+1979-07-01 4.2 Anbringelse af jordingsanlæg.
+ 4.2.1 Jordingsanlæg for driftsmæssig jordforbindelse af lavspændingsanlæg  
+
+ skal anbringes nær ved eller i stationer, hvori spændingskilder er anbragt,  
+
+ se i øvrigt §§ 4.3 til 4.6.
+ Undtagelser:
+1. Som jordingsanlæg for driftsmæssig jordforbindelse  
+
+ af et fast installeret nødforsyningsanlæg er det tilladt at anvende en  
+
+ transformerstations jordingsanlæg for driftsmæssig jordforbindelse, forudsat - at driftslederen for transformerstationen giver skriftlig tilladelse til  
+
+ fælles jordingsanlæg.
+ - at der fremføres en særskilt jordledning mellem nødforsyningsanlæggets  
+
+ nulpunkt og jordingsanlægget.
+ - at der ved opføringen for jordingsanlægget (i transformerstationen eller  
+
+ på mast) ved skiltning (f.eks. som angivet i DS 734.1 og DS 734.2) gøres  
+
+ opmærksom på. at jordingsanlægget også anvendes som jordingsanlæg for et  
+
+ nødforsyningsanlæg.
+2. For generatoranlæg, der tilsluttes et offentligt  
+
+ lavspændingsforsyningsnet, er det tilladt at udelade jordingsanlæg nær ved  
+
+ generatoranlægget, således at dette kun er driftsmæssigt jordforbundet ved  
+
+ det offentlige nets driftsmæssige jordforbindelse, forudsat - at generatoranlægget ikke kan generere effekt, såfremt forbindelsen  
+
+ gennem nettet og forsyningstransformerens viklinger til nettets driftsmæssige  
+
+ jordforbindelse afbrydes.
+1979-07-01 4.3 Fælles jordingsanlæg.
+ 4.3.1 Forsynes et lavspændingsanlæg fra en højspændingsstation, skal der  
+
+ etableres fælles jordingsanlæg for lavspændingsanlægget og  
+
+ højspændingsanlægget, medmindre lavspændingsanlæggets og  
+
+ højspændingsanlæggets jordingsanlæg med sikkerhed kan holdes uafhængige af  
+
+ hinanden (se § 4.4).
+ I stationer, som er beliggende i eller direkte op til den virksomhed, der  
+
+ strømforsynes, er en adskillelse af jordingsanlæggene som regel ikke mulig.  
+
+ Da en fejlspændding i stationen i disse tilfælde ofte vil kunne forplante sig  
+
+ direkte til berøringstilgængelige dele i virksomheden, er det særlig vigtigt,  
+
+ at jordingsanlæggets overgangsmodstand er så lille som mulig (se § 9).
+ 4.4 Uafhængige jordingsanlæg.
+ 4.4.1 Hvor lavspændingsanlæggets jordingsanlæg er uafhængigt af  
+
+ højspændingsanlæggets jordingsanlæg, skal dele af lavspændingsanlæggets  
+
+ jordingsanlæg, som lægges uisoleret i jorden, holdes i mindst 20 m afstand  
+
+ fra alle til højspændingsanlæggets jordingsanlæg hørende eller dermed  
+
+ forbundne dele i jorden, og der må ikke i jorden mellem de adskilte systemer  
+
+ findes ledende genstande, som nedsætter afstandsbestemmelsens effektivitet.
+ 4.4.2 Etableres lavspændingsanlæggets driftsmæssige jordforbindelser ved,  
+
+ at jordledningen (elektrodeledningen) lægges i jorden ud fra stationen, skal  
+
+ jordledningen udføres som kabel med isolerende beklædning, der kan modstå en  
+
+ prøvespænding på 4000 V ved 50 Hz.
+ 4.4.3 Blanke nulledere i stationens lavspændingsanlæg skal oplægges  
+
+ isoleret.
+ 4.4.4 Lavspændingskabler, der udgår fra stationen, skal være omgivet af en  
+
+ isolerende beklædning, således at en evt. metallisk kappe ikke kommer i  
+
+ forbindelse med nogen del i stationen eller jorden omkring stationen inden  
+
+ for en afstand af 20 m fra stationen.
+ Beklædningen skal kunne modstå en prøvespænding på 4000 V ved 50 Hz.
+ 4.5 Stationer med højere driftsspænding end 40 kV.
+4.5.1 De i §§4.3 og 4.4 angivne forholdsregler vil i almindelighed ikke  
+
+ være tilstrækkelige til at sikre imod, at fejl på højspændingsanlægget kan  
+
+ fremkalde farlig spænding på lavspændingsanlægget, dersom stationen omfatter  
+
+ driftsanlæg med højere driftspænding end 40 kV.
+Lavspændingsnet må derfor  
+
+ ikke forsynes fra sådanne stationer, medmindre det kan godtgøres, at  
+
+ lavspændingsnettet ikke i noget fejltilfælde kan antage en spænding i forhold  
+
+ til neutral jord på mere end 1000 V.
+ 4.6 Anlæg til højspændingsstationers egetforbrug.
+ 4.6.1 I højspændingsstationer skal den driftsmæssige jordforbindelse for  
+
+ lavspændingsanlæg, som tjener til stationens egetforbrug, sluttes til  
+
+ stationens beskyttende jordingsanlæg.
+ Undtagelse:
+ Egetforbrugsanlæggets driftsmæssige jordforbindelse tillades under  
+
+ anlæggets kortvarige omkobling til forsyning fra et andet lavspændingsnet (f.  
+
+ eks. under revisionsarbejde) tilvejebragt ved tilslutning til dettes  
+
+ nulleder.
+ Såfremt der til dette formål findes en permanent ledningsforbindelse og  
+
+ omskifter, må isolationsniveauet for disse dele i forhold til stationen og  
+
+ dens nærmeste omgivelser være så højt, at der - når reserveforbindelsen er  
+
+ ude af drift - ikke i noget fejltilfælde ved over- eller gennemslag kan føres  
+
+ farlig spænding ud på det andet lavspændingsnet, se § 4.5.
+Del 3: Beskyttende jordforbindelse § 5 Stationsanlæg 5.1 Anlægsdele, der skal jordforbindes.
+ 5.1.1 Beskyttende jordforbindelse skal etableres til følgende dele:
+ 1. Konstruktions- eller bygningsdele af metal, som ved  
+
+ fejl kan komme i forbindelse (eventuelt gennem lysbuer) med spændingsførende  
+
+ dele af højspændingsanlæg.
+ Eksempler:
+ Metalliske stel og indkapslinger på maskiner og apparater for højspænding.
+ Højspændingskablers muffer.
+ Beskyttelsesgitre og beklædninger foran højspændingsførende dele.
+ Metalliske betjeningshåndtag o. lign.
+ Fodstykker på bæreisolatorer.
+ Flanger på eller metalliske rammer om gennemføringsisolatorer for  
+
+ højspænding, medmindre disse er anbragt på glasruder eller glasbyggesten.
+ 2. Højspændingskablers blykapper, armeringer og  
+
+ metalliske skærme.
+ Undtagelse:
+ For enleder vekselstrømskabler er jordforbindelse i den ene ende  
+
+ tilstrækkelig, hvis dette er ønskeligt af hensyn til formindskelse af  
+
+ kappetabene, men der må da på anden måde skabes sikkerhed for, at der ikke  
+
+ kan fremkomme farlige berøringsspændinger på tilgængelige dele.
+ 3. Gennemgående jordledere for  
+
+ højspændingsluftledninger, der fører til stationen.
+ 4. Alle strømkredse, der udgår fra måletransformeres  
+
+ sekundærklemmer, såfremt primærsiden fører højspænding.
+ Angående dimensionering og anbringelse af jordforbindelserne, se §§ 8.1.4,  
+
+ undtagelsen, 8.1.5, undtagelse 1, og 8.2.4.
+ 5. Sammenhængende, metalliske konstruktionsdele i  
+
+ bygninger med højspændingsanlæg og på friluftsstationsområder, herunder  
+
+ sporanlæg, vandledninger o. lign.
+ Undtagelse:
+ Armeringsjern i betonkonstruktioner.
+ 5.2 Overspændingsafledere.
+ 5.2.1 Jordledninger for overspændingsafledere skal sluttes til det  
+
+ beskyttende jordingsanlæg.
+ 5.3 Ydre hegn om friluftsstationsområder.
+ 5.3.1 Det ydre hegn om friluftstationssområder kræves i almindelighed ikke  
+
+ forbundet til friluftsstationens jordingsanlæg.
+ Angående foranstaltninger mod farlige berørings- og skridtspændinger ved  
+
+ ydre hegn omkring friluftsstationsområder, se bilag 1.
+ 5.4 Maskiner og apparater for lavspænding.
+ 5.4.1 Steldele hørende til maskiner og apparater for lavspænding kræves  
+
+ ikke jordforbundet.
+ Såfremt beskyttende jordforbindelse udføres, skal denne sluttes til  
+
+ højspændingsanlæggets jordingsanlæg.
+ Af hensyn til lysbuefaren ved arbejder under spænding på  
+
+ lavspændingsapparater undgås jordforbindelse af sådanne apparater så vidt  
+
+ muligt.
+§ 6 Højspændingsluftledninger 6.1 Anlægsdele, der skal jordforbindes.
+ 6.1.1 Beskyttende jordforbindelse skal etableres til følgende dele:
+ 1. Stålmaster.
+ 2. Fangbøjler på højspændingsmaster, se afsnit 3, §  
+
+ 17.12.7, pkt. 2.
+ 3. Barduner af ledende materiale uden indskudt  
+
+ isolator, se afsnit 3, §§ 13.9.4 og 13.9.5.
+ 4. Diagonaler (f.eks. i H-master) af ledende materiale  
+
+ uden indskudt isolator.
+ Undtagelse:
+ Jordforbindelse til diagonaler, der ikke kommer jordoverfladen nærmere end  
+
+ 4 m, kan udelades.
+1983-04-01 5. Ledende beslag for isolatorer på træmaster, såfremt  
+
+ der er mulighed for, at en leder ved brud på en isolator eller svigt af  
+
+ lederfastgørelsen kommer i forbindelse med beslaget.
+ Undtagelse:
+ Jordforbindelse kan dog udelades, såfremt der til masterne ikke er  
+
+ fastgjort en jordforbundet bardun eller diagonal, se pkt. 3 og 4.
+ 6. Gennemgående jordledere.
+ 6.2 Udførelse af jordforbindelser.
+ 6.2.1 De i § 6.1.1, pkt. 1 til 5, nævnte dele skal forbindes til  
+
+ jordelektroder ved masterne eller til gennemgående jordledere.
+ Hvor de i § 6.1.1. pkt. 2 til 6, nævnte dele er anbragt på stålmaster,  
+
+ betragtes deres forbindelse med disse som tilstrækkelig jordforbindelse.
+ 6.2.2 Gennemgående jordledere skal forbindes til jordingsanlæg i de  
+
+ tilsluttede stationer og desuden til jordelektroder langs ledningen med ca. 1  
+
+ km indbyrdes afstand.
+ 6.3 Strækningsafbrydere.
+ 6.3.1 Betjeningshåndtag for strækningsafbrydere skal på master af træ  
+
+ eller beton forbindes til en separat jordelektrode, hvis overgangsmodstand  
+
+ til jord er højst 100 ohm.
+ Denne jordforbindelse tjener til afledning af krybestrømme over de i  
+
+ afsnit 3. § 9.2.4. nævnte isolatorer i betjeningstrækket.
+ 6.3.2 Der må ikke føres andre ledende dele end jordledningen for  
+
+ betjeningshåndtaget ned langs masten.
+ Føres andre ledende dele ned langs masten, vil der kunne skabes ledende  
+
+ forbindelse mellem konstruktionsdele oven for og neden for de i noten til §  
+
+ 6.3.1 omtalte isolatorer, der derved vil blive gjort ineffektive.
+ Undtagelse:
+ Bestemmelsen kan fraviges, såfremt betjeningshåndtaget og øvrige dele på  
+
+ masten (masterne) jordforbindes efter reglerne for jordforbindelser i  
+
+ stationsanlæg.
+Isolatorerne i betjeningstrækket kan i så fald udelades.
+Bibeholdes de,  
+
+ skal betjeningstrækket jordforbindes både oven for og neden for isolatorerne.
+§ 7 Højspændingskabler 7.1 Berøringstilgængelige dele.
+ 7.1.1 Berøringstilgængelige metalliske kabelkapper, -skærme, -armeringer  
+
+ og -muffer samt metalliske beskyttelsesrør om kabler uden metallisk kappe,  
+
+ skærm- eller armering skal jordforbindes.
+ Hvor der ved overgang til en luftledning findes gennemgående jordledere,  
+
+ skal forbindelse etableres hertil.
+ En i jorden liggende kabelkappe eller -armering kan helt eller delvis være  
+
+ elektrode for jordingsanlægget. se § 8.1. Er de dele, der skal jordforbindes,  
+
+ fastgjort til en stålmast og ledende forbundet med denne, anses delene for  
+
+ jordforbundet gennem masten og dennes jordforbindelse.
+ 7.2 Muffer.
+ 7.2.1 I muffer skal samtlige metalliske kabelkapper, -skærme og  
+
+ -armeringer forbindes indbyrdes og i metalliske muffer tillige med selve  
+
+ muffen. der kan indgå som led i de indbyrdes forbindelser.
+ 7.3 Enleder kabler.
+Ved enleder kabIer kan de i §§ 7.1 og 7.2 nævnte forbindelser udelades,  
+
+ hvis dette er ønskeligt af hensyn til formindskelse af kappetabene.
+Der må da  
+
+ på anden måde skabes sikkerhed for, at der ikke kan fremkomme farlige  
+
+ berøringsspændinger på tilgængelige dele.
+Del 4 Jordingsanlæg § 8 Udførelse 8.1 Materiale og dimensioner.
+ 8.1.1 Som jordelektroder skal anvendes metalgenstande af følgende art:
+ Kapper og armeringer på højspændingsjordkabler, vandrørsnet, plader, bånd,  
+
+ tråd, stænger, rør eller profiljern og for lavspændingsanlæg tillige  
+
+ fjernvarmenet.
+ Vandrørsnet af jern i nærheden af jordingsanlæg skal inddrages heri, hvis  
+
+ vandrørsnettene udnyttes som jordelektrode for ekstrabeskyttelse ved jording  
+
+ i installationer (se afsnit 10. § 13).
+ Anvendes vandrørsnet som elektrode, skal driftsledelsen være opmærksom på  
+
+ muligheden for, at jernrør udskiftes med isolerende rør.
+ Undtagelse:
+ Betonfundamenter for stålmaster tillades anvendt som jordelektrode.
+ 8.1.2 De i jordingsanlæg indgående ledninger og elektroder skal være af et  
+
+ sådant materiale (f.eks. kobber eller varmforzinket stål) og have sådanne  
+
+ dimensioner, at de har fornøden ledningsevne og korrosionsbestandighed.
+ For jordelektroder i form af bånd, tråde, stænger, rør og vinkeljern  
+
+ gælder følgende tabel:
+ Undtagelse:
+ Kobbertråde, der nedlægges sammen med jordkabler, kan have et tværsnit på  
+
+ mindst 16 mm2.
+ 8.1.3 Jordledninger og jordelektroder m.v der forbindes indbyrdes i  
+
+ jorden, skal være af samme materiale, medmindre forbindelsen på betryggende  
+
+ måde beskyttes mod fugtighed.
+ 8.1.4 Jordledninger og jordsluttere skal, indtil afbrydelse finder sted,  
+
+ kunne føre den største jordslutnings- og kortslutningsstrøm uden at antage en  
+
+ for disse dele eller deres omgivelser farlig temperatur.
+ Undtagelse:
+ Jordledninger til beskyttende jordforbindelse af sekundære strømkredse,  
+
+ der udgår fra måletransformere, hvis primærside fører højspænding, kræves  
+
+ ikke dimensioneret for den jordslutnings- og kortslutningsstrøm, der kan  
+
+ opstå som følge af gennemslag fra højspændingssiden til lavspændingssiden.
+ Bestemmelsen kan normalt betragtes som opfyldt, når jordledningerne  
+
+ (uisolerede) under jordslutning eller kortslutning ikke kan antage højere  
+
+ temperatur end 300 graderC. i brændbare omgivelser dog ikke højere end 200  
+
+ graderC.
+ Under den yderligere forudsætning, at jordslutningerne eller  
+
+ kortslutningerne udkobles i løbet af højst 1 sekund, vil en strømtæthed som  
+
+ anført i følgende tabel kunne tillades:
+ 8.1.5 Jordledninger af kobber eller stål må ikke have mindre dimension end  
+
+ angivet i følgende tabel, se endvidere § 8.2.2.
+ Undtagelser:
+1. Jordledninger af kobber til beskyttende  
+
+ jordforbindelse af sekundære strømkredse, der udgår fra måletransformere,  
+
+ hvis primærside fører højspænding.
+Dimensionen af disse ledninger skal dog  
+
+ være mindst 2,5 mm2.
+ 2. Hvor gennemgående jordleder er udført af massiv  
+
+ tråd af stål med en diameter på mindst 5 mm (se afsnit 3. § 8.1.3), tillades  
+
+ sådan tråd også anvendt til jordledninger på master, dog ikke til  
+
+ elektrodeledninger.
+ 8.1.6 Ved dimensioneringen af driftsmæssige jordledninger må der ikke  
+
+ tages hensyn til eventuelle andre dermed parallelt forbundne strømveje.
+ 8.2. Anbringelse.
+ 8.2.1 Elektroder skal anbringes i så stor dybde, at tilstrækkelig lille  
+
+ overgangsmodstand opnås selv efter langvarige frostperioder.
+ 8.2.2 Jordledninger skal så vidt muligt anbringes således, at de ikke er  
+
+ udsat for mekanisk beskadigelse eller korrosion.
+ Lægges jordledninger skjult, vanskeligt tilgængeligt eller udsat for  
+
+ mekanisk beskadigelse eller korrosion, skal de have et tværsnit på mindst 35  
+
+ mm2.
+ 8.2.3 Er der i en driftsmæssig jordledning for højspændingsanlæg indskudt  
+
+ en afbryder eller et andet apparat (se § 8.3), skal jordledningen mellem  
+
+ dette og højspændingsanlægget betragtes som spændingsførende og derfor, hvad  
+
+ udførelse, oplægning og beskyttelse angår. opfylde bestemmelserne for  
+
+ spændingsførende ledninger.
+ Bestemmelsen medfører bl.a., at en sådan ledning må oplægges med en  
+
+ isolation svarende til den højeste spænding, der under fejlforhold kan  
+
+ optræde på ledningen.
+ 8.2.4 Jordforbindelse af sekundære strømkredse, der udgår fra  
+
+ måletransformere, hvis primærside fører højspænding, skal udføres så nær  
+
+ måletransformerne som muligt.
+ Undtagelse:
+ Hvis der indgår flere måletransformere i samme strømkreds, kan det  
+
+ tillades, at kredsen jordforbindes i kun et punkt, hvis dette f.eks. er  
+
+ motiveret af hensyn til relæudstyr.
+ 8.3 Afbrydere, adskillere, sikringer.
+8.3.1 Afbrydere. adskillere og sikringer må ikke indskydes i  
+
+ jordledninger.
+Afbrydere og adskillere kan dog indskydes i driftsmæssige  
+
+ jordledninger for højspændingsanlæg under iagttagelse af bestemmelsen i §  
+
+ 8.2.3.
+ 8.4 Konstruktionsdele som dele af jordledninger.
+ 8.4.1 I beskyttende jordledninger kan større sammenhængende  
+
+ stålkonstruktioner såsom transformertårne, stålmaster o.l. indgå som dele af  
+
+ ledningerne.
+ Andre faste, ledende konstruktionsdele såsom stativer, bærejern o.l. kan  
+
+ indgå som dele af beskyttende jordledninger for derpå anbragte apparater o.l.
+ 8.4.2 I driftsmæssige jordledninger må ingen andre konstruktionsdele end  
+
+ stålmaster indgå.
+ 8.5 Samlinger.
+ 8.5.1 Antallet af samlinger i jordingsanlæg skal være så lille som muligt.  
+
+ Samlinger skal udføres således, at de giver en pålidelig mekanisk og godt  
+
+ ledende forbindelse (lodning alene er ikke tilstrækkelig). Samlinger i jorden  
+
+ skal om fornødent beskyttes mod korrosion, se § 8.1.2.
+ 8.6 Farvemærkning.
+ 8.6.1 Ledninger med farvekombinationen grøn/gul må kun anvendes til  
+
+ beskyttende jordforbindelser/beskyttelsesledere.
+§ 9 Effektivitet 9.1 Højspændingsanlæg.
+ 9.1.1 Bestående anlæg skal til stadighed holdes i overensstemmelse med  
+
+ bestemmelserne i §§ 9.1.2 til 9.1.4, sålede også når ændring af  
+
+ højspændingsanlægget nødvendiggør forbedring af jordingsanlægget.
+9.1.2 Det skal tilstræbes, at jordingsanlæggets overgangsmodstand bliver  
+
+ så lille som mulig.
+Overgangsmodstanden må ikke blive større end anført i  
+
+ nedenstående pkt. 1 til 5 (se dog § 8.1.3), idet strømmen lj (angivet i  
+
+ ampere) fastlægges efter bestemmelserne i § 9.1.4.
+1987-04-01 1. Jordingsanlæg ved alle stationsanlæg bortset fra de  
+
+ i pkt. 2 omhandlede.
+Overgangsmodstanden må efter tilslutning af de beskyttede dele (se § 5)  
+
+ højst være 1987-04-01 2. Stationer, som har fælles jordingsanlæg for høj- og  
+
+ lavspændingsanlægget, og som forsyner lavspændingsinstallationer, hvori  
+
+ nulling anvendes.
+Overgangsmodstanden må efter tilslutning af de beskyttede dele (se § 5)  
+
+ højst være 65 -- ohm, dog højst 2 ohm.
+lj 1987-04-01 3. Jordelektroder ved stationsanlæg, hvor de  
+
+ tilsluttede højspændingsledninger omfatter kabler med isoleret skærm (f.eks.  
+
+ PEX-kabler) eller luftledninger med gennemgående jordledere.
+ Overgangsmodstanden må højst være 20 ohm.
+ Herudover skal bestemmelserne i pkt. 1 eller 2 for det samlede anlægs  
+
+ resulterende overgangsmodstand være opfyldt.
+ 4. Gennemgående jordledere på luftledninger og  
+
+ jordelektroder ved master på luftledninger uden gennemgående jordleder.
+Overgangsmodstanden må højst være Hvor der findes gennemgående jordleder, stilles ingen krav angående  
+
+ overgangsmodstanden for elektroderne ved de enkelte master, men kravet til  
+
+ overgangsmodstanden for den gennemgående jordleder skal være opfyldt for et  
+
+ vilkårligt punkt af lederen. efter at denne er sluttet til jordingsanlæg ved  
+
+ stationer og master. 5. Separate jordelektroder for betjeningshåndtag for  
+
+ strækningsafbrydere på master af træ eller beton.
+Overgangsmodstanden må højst være 100 ohm, se § 6.3.1 9.1.3 Er det ikke praktisk muligt at opfylde bestemmelserne i § 9.1.2,  
+
+ skal der ved passende foranstaltninger efter de i bilag 1 angivne principper  
+
+ drages omsorg for, at de berørings- og skridtspændinger, som ved jordslutning  
+
+ kan opstå i stationer og på disses omgivende terræn samt på og ved master på  
+
+ badestrande, campingpladser og legepladser samt ved friluftsbade, begrænses  
+
+ til rimelige og så vidt muligt ufarlige værdier.
+ Som vejledning med hensyn til, hvad der kan anses for rimelige værdier.  
+
+ henvises til det i bilag 1 anførte.
+Den nævnte overgangsmodstand på højst kan i almindelighed opnås ved isolerede og ved slukkespolejordede net.  
+
+ hvorfor det her kun undtagelsesvis (ved master) bliver nødvendigt at træffe  
+
+ særlige foranstaltninger efter bilag 1.
+ Ved effektivt jordede net kan den nævnte overgangsmodstand kun sjældent  
+
+ opnås. hvorfor der her som oftest må træffes særlige foranstaltninger efter  
+
+ bilag 1.
+ 9.1.4 Den i §§ 9.1.2 og 9.1.3 omtalte strøm lj skal under forudsætning af,  
+
+ at dobbelte jordslutninger automatisk udkobles i iøbet af højst 2 sekunder,  
+
+ fastlægges således:
+ 1. Ved isoleret net sættes lj lig med nettets  
+
+ kapacitive jordslutningsstrøm.
+ 2 Ved slukkespolejordet net sættes lj lig med nettets største  
+
+ jordslutningsreststrøm under rimelig hensyntagen til omlægninger eller  
+
+ udkoblinger i nettet.
+ For jordingsanlæg ved stationer, i hvilke der er installeret en  
+
+ slukkespole, sættes lj dog mindst lig med slukkespolens strøm.
+ 3. Ved effektivt jordet net sættes lj lig med den  
+
+ største strøm, som ved jordslutning under ugunstigste omstændigheder  
+
+ gennemløber det pågældende jordingsanlæg.
+ 9.2 Lavspændingsanlæg.
+9.2.1 Det skal tilstræbes, at overgangsmodstanden for jordingsanlæg til  
+
+ driftsmæssig jordforbindelse bliver så lille som mulig.
+Den må højst være 100  
+
+ ohm se dog § 9.1.2, pkt. 2 og §§ 10.3.2 og 10.3.3 vedrørende  
+
+ overgangsmodstand for jordingsanlæg i nulsikre lavspændingsledningsanlæg.
+ Dette krav skyldes, at denne overgangsmodstand medvirker til at begrænse  
+
+ strømmen ved jordslutning i de til nettet sluttede installationer og derved  
+
+ influerer på muligheden for at opnå overstrømsudløsning i installationerne.
+ Bestemmelsen gælder også for fast installerede nødforsyningsanlægs og  
+
+ mobile generatoranlægs egne jordingsanlæg til driftsmæssig jordforbindelse.
+ Undtagelse:
+Overgangsmodstanden for jordingsanlæg til driftsmæssig jordforbindelse af  
+
+ mobile generatoranlæg må være større end 10 ohm, dog ikke over 100 ohm,  
+
+ såfremt - enten den tilsluttede installation er ekstrabeskyttet ved HFI-afbryder  
+
+ ved generatoren, - eller ekstrabeskyttelse, se afsnit 10, § 10, i den tilsluttede  
+
+ installation er udført ved HFI-afbryder.
+ Angående udeladelse af driftsmæssig jordforbindelse for mobile  
+
+ generatoranlæg, se § 4.1.1, undtagelse 2.
+Del 5 Nulsikre lavspændingsledningsanlæg § 10 Nulsikre lavspændingsledningsanlæg 10.1 Definition.
+ 10.1.1 Nulsikre lavspændingsledningsanlæg:
+ Lavspændingsledningsanlæg, der opfylder nedenstående nullingsbetingelser i  
+
+ §§ 10.3 til 10.5.
+ 10.2 Tilladelse til nulling.
+10.2.1 Ekstrabeskyttelse i installationer ved nulling må normalt kun  
+
+ udføres efter tilladelse hertil fra elleverandøren, og denne må kun give  
+
+ tilladelsen. såfremt forsyningsanlægget er nulsikkert.
+Se i øvrigt afsnit 10.  
+
+ §§ 12.1.1 og 12.2.1.
+ 10.3 Jordingsanlæg m.m.
+ 10.3.1 For lavspændingsledningsanlæggets og den forsynende  
+
+ transformerstations jordingsanlæg gælder bestemmelserne i §§ 4.3 og 4.4  
+
+ vedrørende fælles og uafhængige jordingsanlæg.
+ I sådanne tilfælde. hvor spændingen i forhold til neutral jord på det  
+
+ jordforbundne punkt af lavspændingsanlæggets driftsstrømkreds ved ikke  
+
+ automatisk udkoblede jordfejl i tilsluttede og andre nærliggende  
+
+ højspændingsanlæg kan overstige 65 V, skal der dog anvendes uafhængige  
+
+ jordingsanlæg.
+10.3.2 Såfremt der i lavspændingsanlægget indgår luftledninger, skal  
+
+ driftsmæssig jordforbindelse af nullederen foruden ved stationen udføres  
+
+ andre steder, i det mindste i endepunktet af alle som luftledning udførte  
+
+ udløbere (herunder også stikledninger af større længde end 200 m) og i øvrigt  
+
+ med en indbyrdes afstand af højst 500 m.
+Overgangsmodstanden for  
+
+ jordingsanlægget for hver af disse jordforbindelser må højst være 5 ohm.
+ Bestemmelsen gælder kun for de udføringer fra en transformerstation. der  
+
+ forsyner nullede installationer.
+ 10.3.3 Den resulterende overgangsmodstand mellem nullederen og neutral  
+
+ jord målt ved transformerstationen må højst være 2 ohm.
+ Ved anvendelse af nulling i een installation med et fast installeret  
+
+ nødforsyningsanlaag gælder bestemmelsen foruden for det forsynende  
+
+ lavspændingsledningsanlæg også for nødforsyningsanlæggets eget jordingsanlæg  
+
+ til driftsmæssig jordforbindelse, idet nødforsyningsanlægget i denne  
+
+ forbindelse sidestilles med transformerstationen.
+ 10.3.4 Der må hverken i transformerstationen eller i ledningsanlægget  
+
+ findes nogen afbryder eller adskiller, der kan bryde nullederen.
+ Angående hovedledningsafbrydere eller -omskiftere i installationer med  
+
+ fast installerede nødforsyningsanlæg til afbrydelse af installationernes  
+
+ forbindelse med ledningsanlægget, se afsnit 6. § 10.3.2.
+ 10.4 Dimensionering.
+10.4.1 En kortslutning mellem nullederen og en faseleder i et vilkårligt  
+
+ punkt af lavspændingsanlægget skal fremkalde en kortslutningstrøm, der enten er mindst k gange så stor som mærkestrømmen for en i faselederen  
+
+ foran kortslutningsstedet anbragt sikring, hvor k fremgår af tabel 1.
+ eller fremkalder udløsning i løbet af højst 60 sekunder af et i stationen  
+
+ i serie med stationssikringerne anbragt automatisk aggregat  
+
+ (stations-nulstrømsafbryder el. lign.), hvis funktion er afhængig af nettets  
+
+ nulstrøm (summen af fasestrømmene).
+ Tabel 1.
+ Bestemmelsen gælder kun for de udføringer fra en transformerstation. der  
+
+ forsyner nullede installationer.
+ Som vejledning tjener. at førstnævnte betingelse kan anses for opfyldt,  
+
+ såfremt lavspændingsudføringens totale længde ikke overstiger værdierne i  
+
+ tabel 2. Tabellen er udregnet for en spænding mellem fase og jord ved  
+
+ transformeren på 220 V, idet der er taget hensyn til indflydelsen fra det  
+
+ tilstødende højspændingsnet.
+ Tabel 2.
+10.4.2 Nullederens tværsnit skal mindst være lig med - faseledernes tværsnit (respektive ækvivalente kobbertværsnit), såfremt  
+
+ dette er 25 mm2 eller derunder, - 25 mm2, såfremt faseledernes tværsnit (respektive ækvivalente  
+
+ kobbertværsnit) er mellem 25 og 50 mm2.
+ - halvdelen af faseledernes tværsnit (respektive ækvivalente  
+
+ kobbertværsnit), såfremt dette er 50 mm2 eller derover.
+ Bestemmelsen gælder kun for de udføringer fra en transformerstation, der  
+
+ forsyner nullede installationer.
+ 10.5 Sammenkobling med andre lavspændingsledningsanlæg.
+ 10.5.1 Sammenkobling af et fra en transformerstation forsynet nulsikkert  
+
+ lavspændingsledningsanlæg med et fra en anden transformerstation forsynet  
+
+ ikke nulsikkert lavspændingsledningsanlæg må ikke finde sted.
+ Undtagelser:
+ 1. Sammenkobling af nullederne alene, såfremt  
+
+ bestemmelsen i § 10.4.1 også opfyldes for den pågældende udføring i det ikke  
+
+ nulsikre lavspændingsledningsanlæg.
+ 2. Sammenkobling i forbindelse med kortvarige  
+
+ driftsomlægninger, f. eks. af hensyn til nødvendige revisionsarbejder.
+Del 6: Telefon- og fjernkontrolanlæg i højspændingsstationer § 11 Telefon- og fjernkontrolanlæg i højspændingsstationer Ved fejl på højspændingsanlæg kan der opstå en potentialforskel mellem  
+
+ højspændingsstationers jordingsanlæg og neutral jord.
+ Telefon- eller fjernkontroludstyr i en højspændingsstation, som gennem  
+
+ telefon- eller andre ledninger er forbundet med udstyr uden for  
+
+ stationsområdet, kan gennem disse ledninger forblive på neutralt  
+
+ jordpotential, hvorved der optræder en spændingsforskel mellem telefon- og  
+
+ fjernkontroludstyret i stationen og jordforbundne anlægsdele i denne.
+ Såfremt telefon- eller fjernkontroludstyret er forbundet til stationens  
+
+ jordingsanlæg, kan stationspotentialet gennem ledningerne føres ud til udstyr  
+
+ uden for stationsområdet og her give anledning til spændingsforskel mellem  
+
+ udstyr og neutral jord.
+ Til imødegåelse af faren ved sådanne spændingsforskelle fastsættes  
+
+ bestemmelserne i §§ 11.1 til 11.4.
+ Vedrørende spændingsforskelle fremkaldt ved induktion på grund af  
+
+ nærføring, se § 12 og bilag 3.
+ 11.1 Bestemmelserne i §§ 11.2 til 11.4 gælder for telefon- og  
+
+ fjernkontrolanlæg i højspændingsstationer samt for telefon- og  
+
+ fjernkontrolanlæg uden for højspændingsstationer, såfremt anlæggene gennem  
+
+ ledninger har forbindelse til telefon- og fjernkontrolanlæg i  
+
+ højspændingsstationer.
+ 11.2 Der skal være sikkerhed for, at der ikke i noget tilfælde af fejl på  
+
+ højspændingsanlægget kan opstå utilladelig spændingsforskel mellem stationens  
+
+ jordingsanlæg og telefon- eller fjernkontroludstyr inden for stationsområdet  
+
+ eller overføres spænding af utilladelig størrelse til telefon- eller  
+
+ fjernkontroludstyr uden for stationsområdet.
+ Ved stationsområdet forstås i denne forbindelse det område, der til enhver  
+
+ tid vil have samme potential som stationens jordingsanlæg.
+ 11.3 Kan stationens jordingsanlæg ved den i § 9.1.4 fastlagte strøm lj  
+
+ ikke antage højere spænding end 430 V (effektivværdi) i forhold til neutral  
+
+ jord, anses kravene i § 11.2 umiddelbart for opfyldt.
+ Grænseværdien 430 V er fastsat i overensstemmelse med de af CCITT (Comite  
+
+ Consultatif International Telegraphique et Telephonique) angivne  
+
+ retningslinier.
+11.4 Kan stationens jordingsanlæg antage højere spænding end 430 V i  
+
+ forhold til neutral jord. skal der ved telefon- eller fjernkontrolanlæg  
+
+ træffes sådanne beskyttelsesforanstaltninger, - at spændingen mellem stationens jordingsanlæg og normalt  
+
+ berøringstilgængelige dele af telefon- eller fjernkontroludstyret i stationen  
+
+ ikke overstiger 430 V, - at den spænding, der overføres til telefon- og fjernkontroludstyret uden  
+
+ for stationsområdet. ikke overstiger 430 V i forhold til neutral jord.
+Dog  
+
+ tillades en spænding på indtil 650 V i forhold til neutral jord overført til  
+
+ udstyret under forudsætning af, at højspændingsanlægget udkobles automatisk  
+
+ ved jordfejl på dette, og at udkoblingstiden er højst 0,5 sekunder, samt at  
+
+ normalt berøringstilgængelige dele af telefon- og fjernkontroludstyret ikke  
+
+ kan antage en spænding i forhold til neutral jord, der overstiger 430 V.
+ Eksempler på sådanne beskyttelsesforanstaltninger findes i bilag 2 og i  
+
+ Telefontilsynets cirkulære nr. 14 (udgave januar 1975), Sikring af teleanlæg  
+
+ mod overspændinger.
+1981-10-01 Del 7: Nærføring mellem højspændingsanlæg og andre anlæg § 12 Nærføring mellem højspændingsledninger og svagstrømsledninger Usymmetriske fejl på højspændingsledninger kan give sådanne kapacitive  
+
+ eller induktive påvirkninger i nærliggende svagstrømsledninger, at disse ikke  
+
+ kan betragtes som ufarlige at berøre under alle forhold.
+Til imødegåelse af  
+
+ berøringsfaren kan det dog i betragtning af den overordentlig lille  
+
+ sandsynlighed for, at svagstrømsledninger berøres i de meget korte tidsrum,  
+
+ hvor usymmetriske fejl forekommer, anses for tilstrækkeligt at overholde de  
+
+ nedenstående bestemmelser, der er i overensstemmelse med de af CCITT (Comite  
+
+ Consultatif International Telegraphique et Telephonique) angivne  
+
+ retningslinier.
+ 12.1 Elektrostatisk påvirkning.
+ 12.1.1 Ved elektrostatisk påvirkning fra en højspændingsledning til  
+
+ nærliggende svagstrømsledninger må den strøm, som kan gå fra en  
+
+ svågstrømsledning til jord gennem en forsvindende lille impedans, ikke  
+
+ overstige 15 mA.
+ En effektiv metode til at begrænse elektrostatisk påvirkning er at udføre  
+
+ svagstrømsledningen som kabel på den farligst påvirkede del af  
+
+ nærføringsstrækningen.
+ 12.2 Elektromagnetisk induktion i svagstrømsluftledninger fra effektivt  
+
+ jordede net.
+ 12.2.1 Ved elektromagnetisk induktion i svagstrømsluftledninger må den  
+
+ inducerede EMK ikke overstige 650 V (effektivværdi) hidrørende fra jordfejl  
+
+ på nærførte højspændingsledninger i effektivt jordede net, når disse kan  
+
+ karakteriseres ved høj driftssikkerhed.
+Ved en højspændingsledning med høj driftssikkerhed forstås i denne  
+
+ forbindelse enten et højspændingskabel i jorden eller en  
+
+ højspændingsluftledning bygget med god mekanisk sikkerhed og højt  
+
+ isolationsniveau - begge dele afpasset efter klimatiske og geografiske  
+
+ forhold.
+Endvidere skal udkoblingstiden for fejl være så kort som mulig.
+De  
+
+ fleste fejl skal udkobles på 0.2 sekunder eller derunder, og udkoblingstiden  
+
+ må ikke overstige 0.5 sekunder.
+Kravet til mekanisk sikkerhed og  
+
+ isolationsniveau vil være opfyldt, når stærkstrømsreglementet af 1946 og  
+
+ 1962. 1. og 2. udgave, vedrørende udførelsen af højspændingsluftledninger er  
+
+ opfyldt.
+ 12.3 Elektromagnetisk induktion i svagstrømsluftledninger fra  
+
+ ikke-effektivt jordede net.
+ 12.3.1 Ved elektromagnetisk induktion i svagstrømsluftledninger hidrørende  
+
+ fra højspændingsledninger i ikke-effektivt jordede net (slukkespolejordede  
+
+ net eller isolerede net) må den inducerede EMK ikke overstige 430 V  
+
+ (effektivværdi). Muligheden for dobbelte jordfejl kan lades ude af  
+
+ betragtning i net, hvor enkelte jordfejl udkobles inden for 5 sekunder. og i  
+
+ slukkespolejordede net, der er kompenseret bedst muligt, forudsat at  
+
+ reststrømmen kan slukkes efter en forbigående enkelt jordfejls ophør.
+ 12.4 Elektromagnetisk induktion i svagstrømskabelledninger.
+ 12.4.1 Ved elektromagnetisk induktion i svagstrømskabelledninger kan der  
+
+ udover de i §§ 12.2 og 12.3 nævnte værdier tillades en induceret EMK på op  
+
+ til 60 pct. af prøvespændingen mod jord for den svagest isolerede del af  
+
+ kablet eller det tilsluttede udstyr, forudsat at kabelkorerne er afsluttet i  
+
+ transformere og ikke er udstyret med overspændingsafledere.
+ 12.5 Foranstaltninger til begrænsning af elektromagnetisk inducerede  
+
+ spændinger eller deres virkninger.
+ 12.5.1 Såfremt de elektromagnetisk inducerede spændinger overstiger  
+
+ ovennævnte værdier, skal der træffes foranstaltninger til enten at reducere  
+
+ dem til en tilladt værdi eller at begrænse deres virkninger til et omfang.  
+
+ der ikke overstiger virkningerne af de i §§ 12.2, 12.3 og 12.4 tilladte  
+
+ værdier.
+1988-01-01 Eksempler på sådanne foranstaltninger findes i bilag 3 og i  
+
+ Nærføringsudvalgets bekendtgørelse nr. 21 fra februar 1985.
+Nævnte bekendtgørelse kan fås ved henvendelse til Nærføringsudvalget, c/o  
+
+ KTAS.
+Nørregade 21, 1189 København K. tlf. 0019.
+§ 13 Nærføring mellem højspændingsanlæg og metalliske røranlæg Højspændingsanlæg (luftledninger, jordkabler og stationer) i nærheden af  
+
+ metalliske rørledninger, der med henblik på korrosionsbeskyttelse eller af  
+
+ andre grunde er omgivet af en isolerende belægning eller på anden måde  
+
+ (f.eks. ved isoleret ophængning eller oplægning) er isoleret i forhold til  
+
+ jord, kan under visse omstændigheder give anledning til sådanne elektriske  
+
+ påvirkninger, - at røranlæggene og andre elektrisk ledende dele, der er i berøring med  
+
+ røranlæggene, bliver farlige at berøre, - at driftsisolationen for stærk- og svagstrømsinstallationer, der er i  
+
+ berøring med røranlæggene, beskadiges.
+ Påvirkningerne, der kan være af elektrostatisk, elektromagnetisk og anden  
+
+ art, kan forekomme såvel under normal drift af højspændingsanlæggene som ved  
+
+ fejl i disse.
+ Til imødegåelse af nævnte berøringsrisiko og risiko for beskadigelse af  
+
+ driftsisolation af elektriske installationer er fastsat bestemmelserne i §§  
+
+ 13.1 til 13.5.
+De i bestemmelserne anførte strøm- og spændingsgrænser er baseret på visse  
+
+ rimelige værdier for tilladelige strømme gennem kroppen, idet det alene er  
+
+ strømmen, som indebærer fare.
+Ved fastsættelsen af spændingerne er der  
+
+ forudsat en vis minimal kropsmodstand, og der er endvidere taget hensyn til  
+
+ en vis overgangsmodstand mellem fødder og jordoverflade.
+Der er derimod set  
+
+ bort fra isolationsmodstanden af den eventuelle isolerende belægning på  
+
+ berøringstilgængelige dele af røranlægget.
+ Kontrolmåling af, om de i bestemmelserne anførte spændingsgrænser er  
+
+ overholdt, kan udføres som anført i bilag 4.
+ Hvor »røranlæg« er nævnt i § 13 og i bilag 4, menes hermed såvel  
+
+ alle de dele, som selve røranlægget består af (rørledninger, ventiler,  
+
+ apparater m.m.), som alle andre elektrisk ledende dele, der er i berøring med  
+
+ røranlægget (katodisk beskyttelsesanlæg, steldele for elektriske apparater  
+
+ m.m.).
+Ved de omtalte påvirkninger vil der også kunne være risiko for, - at rørledningernes isolation nedbrydes, - at dele af røranlæggene, f.eks. udstyr til katodisk beskyttelse,  
+
+ beskadiges, - at der ved røranlæggene opstår gnistdannelser, der kan give anledning  
+
+ til eksplosionsfare.
+ 1981-10-01 Bestemmelserne i §§ 13.1 til 13.6 tager ikke sigte på at  
+
+ imødegå disse risici, der forudsættes behandlet i forskrifter for etablering  
+
+ af røranlæg.
+ 13.1 Elektrostatisk påvirkning.
+Under drift af en højspændingsluftledning kan der på grund af  
+
+ kapaciteterne mellem dannes ledere og en nærført rørledning, der er anbragt  
+
+ isoleret i forhold til jord, fremkomme en farlig elektrisk spænding på  
+
+ rørledningen.
+Bestemmelsen i § 13.1.1 gælder for såvel permanent som  
+
+ midlertidigt, f.eks. på isolerende understøtning, oplagte rørledninger i  
+
+ nærheden af højspændingsluftledninger.
+ 13.1.1 Ved elektrostatisk påvirkning fra en højspændingsluftledning til en  
+
+ rørledning, der er anbragt isoleret i forhold til jord, må den strøm, som kan  
+
+ gå fra rørledningen til jord gennem en forsvindende lille impedans, ikke  
+
+ overstige 5 mA.
+ For højspændingsluftledninger for vekselstrøm kan bestemmelsen anses for  
+
+ at være overholdt, når een af følgende betingelser er overholdt:
+ 1. Den vandrette afstand mellem rørledningen og  
+
+ højspændingsluftledningen er mindst 50 m, og længden af rørledningen er højst  
+
+ 500 m.
+ 2. Længden af rørledningen inden for den i pkt. 1  
+
+ nævnte afstand er højst 150 m.
+ 3. Højspændingsluftledningens driftsspænding er højst  
+
+ 60 kV.
+ 13.1.2 Såfremt den i § 13.1.1 anførte strøm vil kunne blive større end 5  
+
+ mA. skal der tilsluttes jordelektroder til rørledningen.
+ Det vil være tilstrækkeligt at etablere een jordelektrode for hver 500 m  
+
+ rørlængde.
+ 13.1.3 Jordelektroderne skal være mekanisk solide og korrosionsbeskyttede  
+
+ og have fornøden effektivitet.
+Som jordelektroder kan f.eks. anvendes - et varmforzinket stålrør med mindst 25 mm udvendig diameter eller - en kobberbelagt massiv stålstang med mindst 12 mm diameter.
+ der er nedført mindt 0.5 m i jorden.
+ 13.2 Elektromagnetisk induktion under normal drift af højspændingsanlæg.
+ Under normal drift af en højspændingsledning (såvel luftledning som  
+
+ jordkabel) kan der, på grund af forskellige afstande mellem  
+
+ højspændingsledningens enkelte faseledere og en nærført isoleret rørledning,  
+
+ induceres farlig spænding på rørledningen.
+1981-10-01 13.2.1 Den spænding, som en højspændingsledning under normal drift kan  
+
+ inducere på en nærført, isoleret rørledning, må ikke give anledning til  
+
+ større spændingsforskel end 50 V mellem 1. samtidigt berøringstilgængelige dele af  
+
+ røranlægget, 2. berøringstilgængelige dele af røranlægget og jord, 3. berøringstilgængelige dele af røranlægget og andre  
+
+ samtidigt berøringstilgængelige, elektrisk ledende dele med forbindelse til  
+
+ jord, 4. berøringstilgængelige dele af røranlægget og  
+
+ strømkredse hørende til stærk- og svagstrømsinstallationer, som er forbundet  
+
+ til neutral jord, og som er anbragt mindre end 1 m fra røranlægget.
+ For trefasede højspændingsledninger kan bestemmelsen anses for at være  
+
+ overholdt, når een af følgende betingelser er overholdt:
+ 1. Højspændingsledningens driftsspænding er højst 40  
+
+ kV.
+ 2. Den vandrette afstand mellem højspændingsledningen  
+
+ og rørledningen er mindst 200 m.
+13.3 Elektromagnetisk induktion ved fejl på højspændingsanlæg.
+En  
+
+ fejlstrøm i en højspændingsledning (såvel luftledning som jordkabel), f.eks.  
+
+ forårsaget af en enfaset jordfejl, kan inducere farlig spænding på en  
+
+ nærført, isoleret rørledning.
+13.3.1 Den spænding, som en højspændingsledning ved fejl i et  
+
+ højspændingsanlæg kan inducere på en isoleret rørledning, må ikke give  
+
+ anledning til større spændingsforskel mellem 1. samtidigt berøringstilgængelige dele af  
+
+ røranlægget, 2. berøringstilgængelige dele af røranlægget og jord, 3. berøringstilgængelige dele af røranlægget og andre  
+
+ samtidigt berøringstilgængelige, elektrisk ledende dele med forbindelse til  
+
+ jord, 4. berøringstilgængelige dele af røranlægget og  
+
+ strømkredse hørende til stærk- og svagstrømsinstallationer, som er forbundet  
+
+ til neutral jord, og som er anbragt mindre end 1 m fra røranlægget, end 300 V, når fejlen udkobles automatisk, og udkoblingstiden er højst 0,5  
+
+ sekunder, 50 V, når udkoblingstiden er større end 0,5 sekunder.
+1981-10-01 For trefasede højspændingsledninger kan bestemmelsen anses for at være  
+
+ overholdt, når den vandrette afstand mellem højspændingsledningen og  
+
+ rørledningen er mindst 1 000 m.
+ Undtagelse:
+Muligheden for dobbelte jordfejl kan lades ude af betragtning for  
+
+ højspændingsledninger, der indgår i - isolerede net og slukkespolejordede net, hvor enkelte jordfejl udkobles  
+
+ automatisk, og udkoblingstiden er højst 5 sekunder, - slukkespolejordede net, der er kompenseret bedst muligt, forudsat at  
+
+ reststrømmen kan slukkes efter en forbigående enkelt jordfejls ophør.
+ 13.4 Påvirkninger ved forhøjet jordpotentiale.
+Ved jordfejl på en højspændingsluftledning eller i en højspændingsstation  
+
+ vil jordens potentiale (i forhold til neutral jord) i området omkring  
+
+ ledningens jordforbundne master henholdsvis omkring højspændingsstationen  
+
+ blive forhøjet.
+Såfremt et isoleret røranlæg er placeret i et sådant område,  
+
+ vil der ved jordfejl kunne opstå farlig spændingsforskel mellem røranlæggets  
+
+ metaldele og den omgivende jord.
+13.4.1 Ved jordfejl på en højspændingsluftledning eller i en  
+
+ højspændingsstation må det forhøjede jordpotentiale omkring ledningens  
+
+ jordforbundne master henholdsvis omkring højspændingsstationen ikke give  
+
+ anledning til større spændingsforskel mellem berøringstilgængelige dele af et  
+
+ nærført, isoleret røranlæg og jord end 300 V, når fejlen udkobles automatisk, og udkoblingstiden er højst 0,5  
+
+ sekunder, 50V, når udkoblingstiden er større end 0,5 sekunder.
+ For trefasede højspændingsanlæg kan bestemmelsen anses for at være  
+
+ overholdt, når een af følgende betingelser er overholdt:
+ 1. Højspændingsanlæggets driftsspænding er højst 60  
+
+ kV.
+ 2. Den vandrette afstand fra røranlægget til  
+
+ højspændingsstationens ydre begrænsning (f.eks. hegnet omkring  
+
+ friluftsstationer) og til højspændingsluftledningens jordforbundne master er  
+
+ mindst henholdsvis 50 og 15 m.
+1981-10-01 13.5 Foranstaltninger mod berøringsfare.
+ 13.5.1 De i §§ 13.2.1, 13.3.1 og 13.4.1 fastsatte største tilladte  
+
+ spændingsforskelle må overskrides, såfremt der træffes foranstaltninger, der  
+
+ fjerner eller begrænser virkningerne af spændingsforskellene til et omfang,  
+
+ der ikke overstiger virkningerne af de tilladte spændingsforskelle.
+ Eksempler på sådanne foranstaltninger samt på foranstaltninger, der kan  
+
+ begrænse de nævnte spændingsforskelle, findes i bilag 4.
+Bilag 1 Foranstaltninger mod farlige berørings- og skridtspændinger under  
+
+ jordslutning på højspændingsanlæg 1 Almindeligt.
+ 1.1 Er det ikke praktisk muligt at opfylde bestemmelserne i § 9.1.2, skal  
+
+ der i henhold til § 9.1.3 ved passende foranstaltninger efter de i det  
+
+ følgende angivne principper drages omsorg for, at de berørings- og  
+
+ skridtspændinger, som ved jordslutning kan opstå i stationer og på disses  
+
+ omgivende terræn samt på og ved master på badestrande, campingpladser og  
+
+ legepladser samt ved friluftsbade, begrænses til rimelige og så vidt muligt  
+
+ ufarligeværdier.
+ 1.2 Berørings- og skridtspændingers størrelse.
+ 1.2.1 Som vejledning med hensyn til, hvad der kan anses for rimelige  
+
+ værdier, sættes 125 V i tilfælde, hvor jordslutningsstrømmen ikke udkobles  
+
+ automatisk eller, hvor udkoblingstiden ved automatisk udkobling overstiger  
+
+ 0,5 sekunder.
+ I tilfælde, hvor jordslutningsstrømmen udkobles automatisk efter højst 0,5  
+
+ sekunder, kan en berøringsspænding på 300 V og en skridtspænding på 600 V,  
+
+ målt som angivet i pkt. 1.3, anses for rimelige værdier.
+Ovennævnte værdier for skridt- og berøringsspændinger er baseret på visse  
+
+ rimelige værdier for tilladelige strømme gennem kroppen, idet det alene er  
+
+ strømmen, som indebærer fare.
+Ved fastsættelsen af spændingerne er der  
+
+ forudsat en vis minimal kropsmodstand, og der er endvidere taget hensyn til  
+
+ en vis overgangsmodstand mellem fødder og jordoverflade.
+ 1.3 Måling af berørings- og skridtspændinger.
+ 1.3.1 Berørings- og skridtspændinger måles stikprøvevis - under  
+
+ spændingssætning af jordingsanlægget med en kendt strøm - ved hjælp af et  
+
+ voltmeter med en indre modstand på mindst 3000 ohm.
+ 1.3.2 Skridtspændinger måles ved hjælp af to måleelektroder med en  
+
+ indbyrdes afstand på 1 m og udformet som jordspyd med ca. 10 mm diameter  
+
+ nedført i mindst 0,25 m dybde eller som en dermed ækvivalent elektrode med en  
+
+ overgangsmodstand på højst 3 . p, hvor p er jordens specifikke modstand.
+1.3.3 Berøringsspændinger måles med voltmetrets ene klemme tilsluttet  
+
+ jordingsanlægget og den anden klemme tilsluttet de i pkt. 1.3.2 nævnte to  
+
+ måleelektroder, der forbindes parallelt og placeres umiddelbart ved siden af  
+
+ hinanden i 1 m afstand fra jordingsanlægget.
+Måleelektrodernes samlede  
+
+ overgangsmodstand må højst være 2. p, svarende til den samlede  
+
+ overgangsmodstand for et par samlede fødder.
+ 1.3.4 De under den største forekommende fejlstrøm gennem jordingsanlægget  
+
+ optrædende spændinger fås derefter ved multiplikation af de målte spændinger  
+
+ med forholdet mellem fejlstrømmen og den kendte målestrøm.
+Såfremt spændingerne måles med et voltmeter med meget stor indre modstand,  
+
+ er det tilladeligt at korrigere de målte værdier til de ved ovenstående  
+
+ metode anførte værdier.
+Der tages herunder hensyn til kropsmodstanden og  
+
+ tillige til overgangsmodstanden af måleelektroderne, hvilket kræver kendskab  
+
+ til den specifikke jordmodstand ved jordoverfladen.
+ 2 Foranstaltninger i og ved stationer.
+ 2.1 Stationsudstyr.
+ 2.1.1 Berøringsspændinger på betjeningsapparater, transformere og andet  
+
+ udstyr i stationsanlæg kan begrænses ved potentialstyring.
+ 2.1.2 I friluftsstationer kan til potentialstyring anvendes bånd eller  
+
+ riste, der anbringes tæt under jordoverfladen.
+ 2.1.3 I indendørs anlæg kan der, såfremt tilstrækkelig begrænsning af  
+
+ berøringsspændinger vanskeligt kan opnås ved potentialstyring, anvendes  
+
+ isolerende standpladser, f. eks. gummimåtter, med en gennemslagsspænding på  
+
+ mindst det dobbelte af den højeste spænding under jordslutning, dog mindst 2  
+
+ kV.
+Isolerende standpladser skal have en sådan udstrækning, at en person først  
+
+ har de ledende dele inden for rækkevidde, når han står på den isolerende  
+
+ standplads.
+Desuden skal alle ledende dele, som samtidig kan berøres fra  
+
+ standpladsen, have indbyrdes ledende forbindelse.
+ 2.1.4 I indendørs anlæg kan berøringsspændinger undgås ved, at metalindlæg  
+
+ (f. eks. armeringsjern) i bygningsfundamentet forbindes med jordingssystemet.
+ 2.2 Stationsarealer.
+ 2.2.1 Skridtspændinger i stationer og på det omgivende terræn kan  
+
+ begrænses ved lignende foranstaltninger som nævnt i foranstående pkt. 2.1.
+ Kan der langs randen af gange i friluftsstationer optræde for høje  
+
+ skridtspændinger, afgrænses gangene, eller faren ved passage til og fra  
+
+ gangene formindskes ved anbringelse af isolerende gangbrædder, groft grus,  
+
+ ral eller skærver.
+ 2.3 Hegn.
+ 2.3.1 Metalliske hegn og lignende afgrænsninger af enkelte felter inden  
+
+ for en station forbindes med stationens jordingssystem.
+2.3.2 Ydre hegn om stationsanlæg opstilles så vidt muligt i en sådan  
+
+ afstand fra anlægsdelene, at de berørings- og skridtspændinger, som ved en  
+
+ jordslutning kan optræde på hegnet og uden for dette, ikke overstiger de  
+
+ foran nævnte værdier på 125, 300 henholdsvis 600 V.
+Er dette ikke muligt,  
+
+ gøres berøring af metalliske hegn ufarlig ved, at der i jorden uden for  
+
+ hegnet anbringes et særligt styrebånd, som forbindes med hegnet.
+Se i øvrigt  
+
+ § 5.3.
+ 2.4 Sporanlæg, rørledninger o. lign.
+ 2.4.1 For at hindre, at sporanlæg, rørledninger o. lign. fører farlig  
+
+ spænding fra et stationsområde til dettes omgivelser, kan det være  
+
+ nødvendigt, at der i sådanne dele indskydes et eller flere isolationsstykker.
+ 3 Foranstaltninger ved master.
+ 3.1 Berørings- og skridtspændinger på og ved master kan begrænses ved  
+
+ potentialstyring, eller faren kan formindskes ved anbringelse af skærver  
+
+ eller lignende materialer med høj specifik modstand på masternes nærmeste  
+
+ omgivelser.
+ Berøringsfaren kan også formindskes ved isolerende belægning på masterne.
+ Endvidere kan adgangen til masterne og til det område omkring masterne,  
+
+ hvor der kan optræde farlige skridtspændinger, hindres ved indhegning eller  
+
+ særlig beplantning.
+Bilag 2 Beskyttelsesforanstaltninger ved telefon- og fjernkontrolanlæg i  
+
+ højspændingsstationer I henhold til § 11 kan det være nødvendigt at træffe  
+
+ beskyttelsesforanstaltninger ved telefon- eller fjernkontrolanlæg, som  
+
+ omfatter ledninger mellem anlæg inden for og anlæg uden for stationsområdet.
+ Som eksempler på beskyttelsesforanstaltninger kan nævnes følgende:
+ 1. Indsættelse af isoleringsudstyr mellem anlæg inden  
+
+ for og anlæg uden for stationsområdet.
+ Udstyret kan være en isoleringstransformer (se fig. 1), en  
+
+ impulsoverdrager o. lign.
+ Fig. 1.
+ Beskyttelse ved isoleringstransformer.
+Udstyret anbringes normalt inden for stationsområdet.
+Det skal være udført  
+
+ for en prøvespænding mellem udstyrets klemmer på stationssiden og liniesiden  
+
+ henholdsvis mellem klemmerne og stel, som med sikkerhed overstiger det størst  
+
+ forekommende potential på stationens jordingsanlæg (stationspotentialet) i  
+
+ forhold til neutral jord og mindst er 4000 V.
+ Vedrørende krav til indføringskabel, se pkt. 5.
+ Driften af telefon- og fjernkontrolanlægget kan opretholdes under fejl på  
+
+ højspændingsanlægget.
+ 2. Indsættelse af overspændingsafledere mellem korer  
+
+ og jord.
+ Der indsættes overspændingsafledere mellem indføringskablets korer og jord  
+
+ såvel i stationen som i det første termineringspunkt uden for stationen, som  
+
+ vist på fig. 2.
+Ved et termineringspunkt forstås et punkt, hvor et kabel forbindes til et  
+
+ apparat eller til et andet kabel, f. eks. i et fordelerskab.
+Kabelmuffer  
+
+ medregnes ikke til termineringspunkter.
+ Fig. 2.
+ Beskyttelse ved overspændingsafleder.
+ Er en kore forbundet til jord, kan overspændingsaflederen i den jordede  
+
+ ende udelades.
+I henhold til § 11 må der ikke i noget tilfælde ved fejl på  
+
+ højspændingsanlægget kunne overføres spænding af utilladelig størrelse til  
+
+ telefon- eller fjernkontroludstyr uden for stationsområdet.
+Ved vurderingen  
+
+ af, om dette krav er opfyldt, kan potentialet på det etablerede jordingsanlæg  
+
+ ved det første termineringspunkt bestemmes som summen af følgende spændinger:
+ Jordingsanlæggets spænding i forhold til neutral jord, hvis  
+
+ overspændingsaflederne tænkes fjernet.
+ Det af jordslutningsstrømmen gennem korerne forårsagede spændingsfald over  
+
+ jordingsanlæggets overgangsmodstand til neutral jord.
+ Er korerne omgivet af en metalkappe eller -skærm, skal der endvidere tages  
+
+ hensyn til en eventuel jordslutningsstrøm gennem denne.
+ Hvis korepotentialet ved det første termineringspunkt bliver for stort,  
+
+ kan det reduceres ved at reducere jordingsanlæggets overgangsmodstand til  
+
+ neutral jord eller ved at forhøje impedansen i korerne, f. eks. ved at  
+
+ indskyde neutraliseringsreaktorer i korerne, som beskrevet i pkt. 3.
+Ved funktion af overspændingsaflederne vil en del af jordslutningsstrømmen  
+
+ gå gennem aflederne og korerne.
+Såfremt der af denne grund indsættes  
+
+ smeltesikringer i korerne, skal sikringerne være dimensioneret til at bryde  
+
+ ved de spændinger, som kan forventes at optræde.
+ Telefonapparater tilsluttet korer med overspændingsafledere bør være  
+
+ forsynet med beskyttelse mod akustiske chok.
+ Anvendelsen af overspændingsafledere er en beskyttelsesforanstaltning, der  
+
+ ikke stiller specielle krav til indføringskablers prøvespænding.
+ Vedrørende krav til indføringskabler i øvrigt, se pkt. 5.
+ Anvendelse af overspændingsafleder muliggør overførsel af jævnstrømme.
+ Under fejl, hvor overspændingsaflederne fungerer, sættes det beskyttede  
+
+ telefon- og fjernkontrolanlæg kortvarigt ud af drift.
+ Der må i fornødent omfang føres tilsyn med overspændingsaflederne,  
+
+ herunder kontrol af tændspændingen.
+ 3. Indsættelse af neutraliseringsreaktorer.
+En neutraliseringsreaktor består af to ens viklinger, der er viklet på en  
+
+ fælles, lukket jernkerne.
+Indsættes en neutraliseringsreaktor i serie med  
+
+ hvert korepar i indføringskablet, som vist på fig. 3, vil størstedelen af  
+
+ stationspotentialet lægge sig over reaktorviklingerne, idet en  
+
+ neutraliseringsreaktor frembyder en stor impedans over for strømme, der går i  
+
+ samme retning i korerne.
+Reaktorens impedans over for tale- og signalstrømme,  
+
+ der løber i modsat retning i de to reaktorviklinger, er lille.
+ Fig. 3.
+ Beskyttelse ved neutraliseringsreaktorer.
+ Neutraliseringsreaktorens funktion forudsætter, at indføringskablets korer  
+
+ såvel i stationen som uden for stationen er jordet ved fejl i  
+
+ højspændingsanlægget, f. eks. ved anvendelse af overspændingsafledere i det  
+
+ første termineringspunkt, som beskrevet under pkt. 2.  
+
+ Neutraliseringsreaktorens viklinger skal både i funktionsmæssig og i  
+
+ isolationsmæssig henseende være udført for en spænding mellem klemmerne og i  
+
+ forhold til stel, som med sikkerhed overstiger det størst forekommende  
+
+ stationspotential og mindst er 4000 V.
+ Vedrørende krav til indføringskabel, se pkt. 5.
+ Såfremt det ikke kan tolereres, at telefon- eller fjernkontrolanlægget  
+
+ kortvarigt sættes ud af drift ved fejl i højspændingsanlægget, kan der  
+
+ eventuelt i stedet for overspændingsaflederne anvendes passende  
+
+ dimensionerede kondensatorer mellem korerne og jord.
+ Ved denne udførelse kræves intet tilsyn, men overføringen af  
+
+ talefrekvenser vil ikke være tilfredsstillende for en telefonforbindelse.
+ Ved begge typer beskyttelsesforanstaltninger kan der overføres  
+
+ jævnstrømme.
+ 4. Isoleret udførelse.
+ Hele telefon- eller fjernkontrolanlægget inden for stationsområdet udføres  
+
+ med en elektrisk isolering fra alle ledende dele i stationen, og således at  
+
+ der ikke er mulighed for samtidig berøring af elektrisk ledende anlægsdele  
+
+ hørende til stationen og telefon- eller fjernkontrolanlægget.
+ Isoleringen skal være udført for en prøvespænding, som med sikkerhed  
+
+ overstiger det størst forekommende stationspotential og mindst er 4000 V.
+ Vedrørende krav til indføringskabel, se pkt. 5.
+ Metoden bør kun anvendes, hvor installationen er enkel og fuldt  
+
+ overskuelig.
+ Driften af telefon- og fjernkontrolanlægget kan opretholdes under fejl på  
+
+ højspændingsanlægget.
+ 5. Indføringskabler til telefon- eller  
+
+ fjernkontrolanlæg i højspændingsstationer.
+ Ved et indføringskabel forstås et kabel, der fører gennem det område i og  
+
+ omkring en højspændingsstation, som ved fejl på højspændingsanlægget kan  
+
+ antage et forhøjet jordpotentiale.
+ Jordpotentiajet betragtes som fornøjet, når det overstiger de i § 11  
+
+ anførte grænser for tilladelig spænding i forhold til neutral jord.
+ Indføringskabler skal være udført for en prøvespænding mellem korerne og  
+
+ jord, som med sikkerhed overstiger det størst forekommende stationspotential  
+
+ og mindst er 4000 V.
+Er et indføringskabel omgivet af en metalkappe eller -skærm, og er denne  
+
+ dækket af en isolerende plastbeklædning, der overholder nævnte prøvespænding  
+
+ mellem korerne og jord, stilles der ikke krav til prøvespænding mellem  
+
+ korerne og metalkappen eller -skærmen, forudsat at metalkappen eller -skærmen  
+
+ holdes isoleret fra højspændingsstationens jordingsanlæg, og at eventuel  
+
+ jording foretages uden for området med forhøjet jordpotential.
+Ved  
+
+ nedlægningen af sådanne kabler må der drages særlig omsorg for, at den ydre  
+
+ beklædning ikke beskadiges.
+Er metalkappen eller -skærmen dækket af en isolerende beklædning, der ikke  
+
+ overholder nævnte prøvespænding mellem korerne og jord, bør metalkappen eller  
+
+ -skærmen beskyttes som korer under anvendelse af de i pkt. 2 nævnte  
+
+ principper.
+Kablet skal i så tilfælde være udført for en prøvespænding mellem  
+
+ korerne og metalkappe eller -skærm, som med sikkerhed overstiger det størst  
+
+ forekommende stationspotential og mindst er 4000 V.
+ Er metalkappen eller -skærmen uisoleret, bør denne forbindes til  
+
+ højspændingsstationens jordingsanlæg.
+ Ved jording af metalkappe eller -skærm bør opmærksomheden være henledt på  
+
+ faren for termiske skader som følge af, at en del af jordslutningsstrømmen  
+
+ vil gå i metalkappen eller -skærmen.
+ Til indføringskabler, der anvendes i forbindelse med  
+
+ beskyttelsesforanstaltningerne beskrevet i pkt. 2, stilles der ikke krav om,  
+
+ at de skal være udført for en prøvespænding mellem korer og jord, som med  
+
+ sikkerhed overstiger det størst forekommende stationspotential eller mindst  
+
+ er 4000 V.
+Bilag 3 Foranstaltninger til begrænsning af elektromagnetisk inducerede spændinger eller deres virkninger I henhold til § 12.5 kan det være nødvendigt at træffe foranstaltninger  
+
+ til enten at reducere de ved en given nærføring optrædende elektromagnetisk  
+
+ inducerede spændinger til tilladte værdier eller at begrænse de inducerede  
+
+ spændingers virkninger.
+ 1. Reduktion af inducerede spændinger.
+ Som eksempler på foranstaltninger til reduktion af de inducerede  
+
+ spændingers størrelse kan nævnes:
+ 1. Anvendelse af særlig godt ledende gennemgående  
+
+ jordledere ved højspændingsluftledninger eller anvendelse af særlig godt  
+
+ ledende kabelkapper på højspændingskabler.
+De normale jordledere af stål reducerer de inducerede spændinger til 80-95  
+
+ pct.
+Ved forøgelse af jordtrådenes ledningsevne kan opnås en reduktion til  
+
+ ca. 50 pct.
+ 2. Anbringelse af særlige jordforbundne ledere langs  
+
+ svagstrømsledninger eller anvendelse af særlig godt ledende kabelkapper på  
+
+ svagstrømskabler.
+ Disse ledere, respektive kapper, skal have en ledningsevne svarende til  
+
+ 50-100 mm2 Cu for at give en reduktion til 40-50pct.
+ 3. Udførelse af svagstrømsledningen (eller  
+
+ højspændingsledningen) som kabel armeret med jernbånd, eventuelt med særlig  
+
+ gunstige permeabilitetsforhold.
+ Herigennem kan opnås en reduktion til 10pct eller endnu mindre i  
+
+ specialtilfælde.
+ 2. Begrænsning af inducerede spændingers virkninger.
+ Som eksempler på foranstaltninger til begrænsning af de inducerede  
+
+ spændingers virkninger kan nævnes:
+ 1. Indsættelse af isoleringstransformere i den  
+
+ påvirkede svagstrømsledning.
+Ved denne principielt enkle metode opdeles svagstrømsledningen i så mange  
+
+ galvanisk adskilte afsnit, at påvirkningerne i de enkelte afsnit ikke  
+
+ overstiger de tilladte værdier.
+Metoden kan være dyr og besværlig, da hvert  
+
+ korepar må have sin isoleringstransformer.
+Transformerne umuliggør  
+
+ overføringen at jævnstrømsimpulser, bevirker uønskede dæmpninger og  
+
+ vanskeliggør lokaliseringen af fejl.
+ 2. Indsættelse af overspændingsafledere langs  
+
+ svagstrømsledningen mellem korer og jord.
+Ved indsættelse af overspændingsafledere med passende mellemrum langs  
+
+ svagstrømsledningen kan de inducerede spændinger i ledningen mellem aflederne  
+
+ begrænses til tilladte værdier.
+Overspændingsaflederne kan vælges som  
+
+ gasfyldte udladningsrør med flere elektroder, der kan tåle store  
+
+ udladningsstrømme uden at ødelægges, og hvorved der kan opnås praktisk taget  
+
+ samtidig tænding for flere korer i korepar eller firkorepar.
+Der må sørges  
+
+ for tilstrækkelig gode jordelektroder for overspændingsafledere.
+Mangekorede telefonkabler kan være vanskelige at beskytte ved  
+
+ overspændingsafledere, som kræver et vist pladsbehov, og som derfor  
+
+ nødvendiggør tilslutningskabler, der kan medføre ubalance i  
+
+ kabelforbindelserne.
+Bortset herfra indvirker overspændingsaflederne kun lidt  
+
+ på transmissionsegenskaberne i normal drift.
+De tillader  
+
+ jævnstrømsimpulsering under normal drift, men sætter svagstrømsledningerne ud  
+
+ af drift under fejl, hvor aflederne tænder.
+ Der må føres et vist tilsyn med overspændingsaflederne, f. eks. en kontrol  
+
+ af tændspændingen med visse tidsmellemrum, specielt efter fejl, som giver  
+
+ anledning til formodning om, at de har fungeret.
+ Telefonapparater tilsluttet korer med overspændingsafledere bør være  
+
+ forsynet med beskyttelse mod akustiske chok.
+Bilag 4 Foranstaltninger mod berøringsfare ved nærføring mellem højspændingsanlæg  
+
+ og metalliske røranlæg 1 Almindeligt.
+ 1.1 I henhold til § 13.5.1 må de i §§ 13.2.1, 13.3.1 og 13.4.1 fastsatte  
+
+ største tilladte spændingsforskelle overskrides, såfremt der træffes  
+
+ foranstaltninger, der fjerner eller begrænser virkningerne af  
+
+ spændingsforskellene til et omfang, der ikke overstiger virkningerne af de  
+
+ tilladte spændingsforskelle.
+ Eksempler på sådanne foranstaltninger samt på foranstaltninger, der kan  
+
+ begrænse de nævnte spændingsforskelle, er anført i pkt. 3 og 4.
+ 2 Kontrolmåling.
+ 2.1 Ved kontrolmåling med voltmeter af, om de i §§ 13.2.1, 13.3.1 og  
+
+ 13.4.1 fastsatte grænseværdier for spændingsforskelle er overholdt, skal  
+
+ følgende betingelser være opfyldt:
+1. Måling af spændingsforskel mellem - samtidig berøringstilgængelige dele af røranlægget, - berøringstilgængelige dele af røranlægget og andre samtidig  
+
+ berøringstilgængelige elektrisk ledende dele med forbindelse til jord, - berøringstilgængelige dele af røranlægget og strømkredse hørende til  
+
+ stærk- og svagstrømsinstallationer, som er forbundet til neutral jord, og som  
+
+ er anbragt mindre end 1 m fra røranlægget.
+ Spændingsforskellen måles over en modstand på 2000 ohm ved kontrol af, om  
+
+ spændingsgrænsen 50 V er overholdt, og 1 000 ohm ved kontrol af, om  
+
+ spændingsgrænsen 300 V er overholdt.
+ 2. Måling af spændingsforskel mellem  
+
+ berøringstilgængelige dele af røranlægget og jord.
+ Spændingsforskellen måles over en modstand, der tilsluttes mellem den  
+
+ berøringstilgængelige del af røranlægget og et jordspyd (måleelektrode).
+Modstanden skal være på 3000 ohm.
+Jordspyddet, der skal have en diameter  
+
+ på ca. 10 mm, skal være placeret i 1 m afstand fra røranlægget og nedført i  
+
+ mindst 0,5 m dybde.
+Andre dermed ækvivalente måleelektroder med en samlet  
+
+ overgangsmodstand på højst 2. p, hvor p er jordens specifikke modstand ved  
+
+ jordoverfladen, kan også anvendes.
+ 3 Elektromagnetisk induktion.
+3.1 De i §§ 13.2.1 og 13.3.1 omtalte spændingsforskelle kan begrænses ved - at tilslutte jordelektroder til røranlægget, - at forbedre højspændingsledningens skærmfaktor og dermed reducere den  
+
+ inducerende strøm.
+3.2 Virkningerne af spændingsforskellene kan begrænses eller fjernes ved - at indskyde isolerende flanger eller rørstykker i rørledningen, således  
+
+ at berøringstilgængelige dele af røranlægget isoleres fra den del af  
+
+ rørledningen, der er påvirket af den inducerede spænding, - at anvende potentialstyring, udligningsforbindelser eller isolerende  
+
+ underlag (standpladsisolering) på steder, hvor der er mulighed for berøring  
+
+ af røranlægget, - at anvende overspændingsafledere ved røranlægget, - at indskyde isoleringstransformere eller på anden måde at etablere  
+
+ galvanisk adskillelse i stærk- og svagstrømsinstallationer foran de dele af  
+
+ installationerne, der er i metallisk forbindelse med røranlægget eller er  
+
+ anbragt mindre end 1 m fra dette, - at forsyne berøringstilgængelige dele af røranlægget med tilstrækkelig  
+
+ isolation.
+ Isolerende underlag skal have en sådan udstrækning, at en person først har  
+
+ røranlægget inden for rækkevidde, når han står på det isolerende underlag.  
+
+ Desuden skal røranlægget og alle andre ledende dele, som samtidig kan berøres  
+
+ fra underlaget, have indbyrdes ledende forbindelse.
+ Det isolerende underlag skal i 1 minut kunne modstå en 50 Hz  
+
+ prøvespænding, der er mindst det dobbelte af den højeste spænding, som  
+
+ røranlægget kan antage i forhold til jord, dog mindst 2 kV.
+ Før prøvningen skal det isolerende underlag opbevares i 91-95 pct. relativ  
+
+ fugtighed ved en temperatur på 20-30 graderC i 7 døgn.
+3.3 Under - etablering af røranlæg, - arbejde på eller nær ved dele af eksisterende røranlæg, der normalt ikke  
+
+ er berøringstilgængelige, kan virkningen af spændingsforskellene - foruden ved de i pkt. 3.2 nævnte  
+
+ foranstaltninger - begrænses eller fjernes ved at anvende isolerende  
+
+ beklædning, herunder isolerende handsker, isolerende værktøj eller  
+
+ transportabelt, isolerende underlag.
+ 4 Forhøjet jordpotentiale.
+ 4.1 Den i § 13.4.1 omtalte spændingsforskel kan begrænses ved at tilslutte  
+
+ jordelektroder til røranlægget.
+4.2 Virkningen af spændingsforskellen kan begrænses eller fjernes ved - at indskyde isolerende flanger eller rørstykker i rørledningen, således  
+
+ at den del af røranlægget, der befinder sig på området med forhøjet  
+
+ jordpotentiale, er elektrisk isoleret fra den øvrige del af røranlægget, - at anvende potentialstyring eller isolerende underlag  
+
+ (standpladsisolering) på steder, hvor der er mulighed for berøring af  
+
+ røranlægget, - at forsyne berøringstilgængelige dele af røranlægget med tilstrækkelig  
+
+ isolation.
+4.3 Under - etablering af røranlæg, - arbejde på eller nær ved dele af eksisterende røranlæg, der normalt ikke  
+
+ er berøringstilgængelige, kan virkningen af spændingsforskellen - foruden ved de i pkt. 4.2 nævnte  
+
+ foranstaltninger - begrænses eller fjernes ved at anvende isolerende  
+
+ beklædning, herunder isolerende handsker, isolerende værktøj eller  
+
+ transportabelt, isolerende underlag.

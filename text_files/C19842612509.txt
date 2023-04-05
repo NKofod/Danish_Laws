@@ -1,0 +1,379 @@
+5. Kontrol af forbindelse mellem VC og  
+
+ alarmsystem............ 12 1. Almindeligt Forbindelsen mellem vagtcentral og alarmsystem kan enten være en 1200  
+
+ bit/s fuld duplex forbindelse eller en 150 bit/s halv duplex forbindelse.
+En  
+
+ skematisk fremstilling af en vagtcentrals tilslutning til alarmsystemet er  
+
+ vist i fig. 1 og 2.
+ Mellem det privatejede vagtcentraludstyr og alarmsystemet er en  
+
+ grænseflade som vist på figurerne.
+Til vagtcentraludstyret stilles det generelle krav, at udstyret er  
+
+ konstrueret til at kommunikere med alarmsystemet over dette grænsesnit, dvs. kan udføre de for kommunikation  
+
+ nødvendige funktioner, der er beskrevet i dette cirkulære samt cirkulære nr.  
+
+ 29E, henholdsvis cirkulære nr. 29F.
+Hver AU kan være tilknyttet flere  
+
+ vagtcentraler.
+Af disse har een VC speciel status, den såkaldte primære VC,  
+
+ PVC.
+Den modtager de alarmer, som sendes uden adressebyte, men også en kopi  
+
+ af de alarmer, som sendes til alternative VC'er (AVC). Desuden er det kun  
+
+ PVC, der modtager linie- og statusalarmer.
+Endelig kan en VC flytte sin vagt til en anden (forudbestemt) VC efter en  
+
+ kvitteringssekvens mellem vagtcentralerne.
+Denne vagtflytning må ikke  
+
+ forveksles med sending til AVC; såvel PVC som AVC kan flytte sin vagt.  
+
+ Overfører en PVC sin vagt til en VC, som er AVC for nogle af PVC's  
+
+ abonnenter, bliver den både PVC og AVC for disse abonnenter.
+2. Funktionsbeskrivelse Vagtcentraler tilsluttet alarmsystemet via en fuld duplex forbindelse  
+
+ kommunikerer med dette ved hjælp af en protokol, som er beskrevet i cirkulære  
+
+ nr. 29E.
+ Vagtcentraler tilsluttet alarmsystemet via en halv duplex forbindelse  
+
+ kommunikerer med dette ved hjælp af en protokol, som er beskrevet i cirkulære  
+
+ nr. 29F.
+ I begge kommunikationsformer anvendes blokorienterede  
+
+ transmissionsformater, som beskrives i det efterfølgende.
+3. Transmissionsformater De formater, der anvendes i kommunikationen mellem vagtcentral og  
+
+ alarmsystem, er fælles for henholdsvis fuld duplex og halv duplex  
+
+ tilslutning.
+Transmissionsformatet er karakteriseret ved et blokformat og et  
+
+ tegnformat.
+3.1 Blokformat De blokke, der transmitteres over grænsesnittet, skal være opbygget på  
+
+ følgende måde:
+<STX><OPK><BBL><INFO><ETX><CHS> undtagen for visse værdier af <OPK>, hvor <BBL> og  
+
+ <INFO> ikke forefindes, se senere.
+ <STX> markerer starten på en blok, værdi lig med 02H (H =  
+
+ Hexadecimal).
+ <OPK> er en operationskode, som angiver, om blokken skal opfattes  
+
+ som en kommando eller en kvittering.
+ <OPK> kan antage følgende værdier:
+ Kommandoer:
+ Kun når en blok indeholder en <OPK> = DATA-0 eller DATA-1,  
+
+ indeholder den <BBL> (se senere) og <INFO> (se senere).
+ <BBL> angiver længden af <INFO> minus 1, målt i byte, og skal  
+
+ være større end eller lig med 15 og mindre end eller lig med 116.
+ <INFO> indeholder den information, der skal overføres.
+ Antallet af byte i <INFO> skal være større end eller lig med 16 og  
+
+ mindre end eller lig med 117 byte.
+ <ETX> markerer afslutningen på blokken, værdi lig med 03H.
+ <CHS> er 1 byte, der tjener til check af transmissionsfejl.  
+
+ <CHS>- byten fremkommer ved addition modulo 256 af de enkelte byte i  
+
+ blokken, fra og med <STX> til og med <ETX>.
+3.2 Tegnformat De blokke, der transmitteres mellem vagtcentral og alarmsystem, er  
+
+ sammensat af 4 eller 21-122 tegn.
+Hvert tegn består af 1 startbit, 8  
+
+ informationsbit (mindst betydende bit sendes først), 1 paritetsbit (der  
+
+ anvendes ulige paritet) og 2 stopbit.
+4. Informationsfelt <INFO> <INFO> har følgende format:
+<meddelelsestype> <adresse 1> <adresse 2>  
+
+<databyte> 106/5 Skematisk kan <INFO> udtrykkes således:
+4.1 <meddelelsestype> <meddelelsestype> er eet tegn, der angiver, hvorledes de  
+
+ efterfølgende tegn i <INFO> skal fortolkes. <meddelelsestype> kan  
+
+ opdeles i 16 funktionsgrupper, som angivet i cirkulære nr. 29I.
+4.2 <adresse> <adresse> er en BCD-streng på 5 tegn indeholdende en 10-cifret  
+
+ abonnentadresse, hvor første ciffer altid er 0, dvs. den egentlige  
+
+ abonnentadresse er på 9 cifre.
+ <adresse>-felterne i <INFO> skal tolkes således:
+4.3 <databyte> <databyte> indeholder den information, som skal overføres.
+Den kan  
+
+ indeholde fra 5 til 106 byte.
+4.3.1 < update> <result> I databyte-delen forekommer en byte, der repræsenterer to koder: En  
+
+ opdateringskode og en resultatkode.
+ Opdateringskoden fylder 3 bit, og resultatkoden fylder 5 bit.
+Det er disse felter i en enkelt byte, der refereres til, når der i det  
+
+ følgende skrives henholdsvis <update> og <result>.
+Begge koder bruges for visse meddelelsestyper til at uddybe meddelelsens  
+
+ betydning.
+I afsnit 4.4 og 4.5 vil det under beskrivelsen af den enkelte  
+
+ meddelelsestype være angivet ved <update> henholdsvis <result>,  
+
+ om der skal tillægges opdateringskoden henholdsvis resultatkoden en betydning  
+
+ for den aktuelle meddelelse; i disse tilfælde vil endvidere tolkningen af  
+
+ koderne være angivet.
+ Hvis der ikke skal tillægges disse koder en betydning, angives dette i  
+
+ teksten ved et »0« i stedet for < update> henholdsvis et  
+
+ »0« i stedet for <result>.
+4.3.2 <tidspunkt> Endvidere er der afsat 4 byte til <tidspunkt>, der angiver  
+
+ tidspunktet for meddelelsens afsendelse.
+ <tidspunkt> er pakket således:
+ Grunden til, at sekunder i <tidspunkt> er divideret med 2, er, at  
+
+ der kun er 5 bit til rådighed, hvilket kun giver mulighed for at repræsentere  
+
+ værdier i intervallet 0...31.
+4.4 Behandling af meddelelsestyper til VC VC skal ved modtagelse af visse meddelelser kvittere tilbage til  
+
+ alarmsystemet. <adresse 1> og <adresse 2> skal i disse  
+
+ kvitteringer være en kopi af <adresse 1> og <adresse 2> i den  
+
+ meddelelse, der kvitteres for.
+ For kvitteringer for meddelelser gælder generelt, at hvis kvitteringer  
+
+ skal foregå automatisk, er timeoutperioden 30 sekunder - ved manuel  
+
+ kvittering er timeoutperioden 5 minutter.
+ Under beskrivelsen af disse meddelelsestyper til VC vil det være angivet,  
+
+ om VC skal kvittere automatisk (uden operatørindgriben) eller manuelt (med  
+
+ operatørindgriben).
+Generelt skal meddelelser til VC betragtes som nonsens, hvis - meddelelsestypen er ukendt - meddelelsestypen er kendt, men adresser eller updatekoder eller  
+
+ resultkoder ikke passer ind i de for denne meddelelsestype angivne  
+
+ intervaller.
+I det følgende beskrives for flere meddelelsestyper, hvorledes  
+
+ resultatkoden skal fortolkes i VC.
+Nogle resultatkodeværdier betyder  
+
+ fejlsituation.
+Hvis en sådan fejlsituation opstår, og VC anser fejlen for at  
+
+ ligge i alarmsystemet, bør VC rapportere fejlen til teleadministrationen med  
+
+ angivelse af den aktuelle meddelelses eksakte indhold.
+ VC er PVC for AT'en, som har sendt en alarm til en AVC, og VC modtager  
+
+ hermed som PVC en logning (kopi) af alarmen (hvis VC er både PVC og AVC for  
+
+ AT'en, sendes O1H ikke).
+ <result> skal tolkes, som følger:
+ VC har sendt en meddelelse, som af en eller anden grund ikke er nået frem  
+
+ til modtageren enten på grund af, at meddelelsen er fejlbehæftet fra VC's  
+
+ side, eller på grund af manglende forbindelse eller ressourcer i  
+
+ alarmsystemet.
+ <result> skal tolkes, som følger:
+ De omtalte »gamle data« indeholder den meddelelse, der er blevet  
+
+ sendt fra VC.
+ »Gamle data« er med følgende undtagelser altid en kopi af den  
+
+ meddelelse, VC har sendt:
+ - Hvis den oprindelige meddelelse fra VC var længere end 101 byte, vil de  
+
+ byte, der blev sendt ud over 101 byte, være bortfaldet i den afviste  
+
+ meddelelse.
+ - Hvis adresser, resultatkode, opdateringskode i den oprindelige  
+
+ meddelelse skulle have været nulstillet af VC som beskrevet i afsnit 4.5, og  
+
+ VC har undladt at gøre dette, vil de være blevet nulstillet i »gamle  
+
+ data«.
+ - Tidspunktet i den oprindelige meddelelse kan være ændret.
+ VC skal ikke kvittere.
+ Hvis mikroadresse i <adresse 2> = 1, er alle AT' er med den  
+
+ pågældende makroadresse faldet ud.
+Hvis mikroadresse i <adresse 2> modulo 256 = 1, er alle AT'er i  
+
+ intervallet (mikroadresse i <adresse 2> - 1) + 32...255 faldet ud.
+Hvis  
+
+ mikroadresse i <adresse2> modulo 256 = 32...255 er AT'en med den  
+
+ pågældende adresse faldet ud.
+ VC skal ikke kvittere.
+ VC har sendt en gruppestyring.
+Hvis alarmsystemet udfører gruppestyringen, vil VC modtage en kvittering  
+
+ for hver AT, hvor styringen ikke gik godt.
+For disse kvitteringer gælder det,  
+
+ at meddelelsestypen er 45H, mikroadresse i <adresse 1> modulo 256 =  
+
+ 32...255 angivende den pågældende AT, og formatet af meddelelser er som for  
+
+ 41H.
+Det gælder endvidere, at resultatkoden skal tolkes som for 41H.
+VC vil  
+
+ ikke modtage sådanne kvitteringer for de AT'er, hvor styringen gik godt.
+ VC vil altid modtage en 45H, hvori mikroadressen i <adresse 1>  
+
+ modulo 256 = 1.
+ <result> skal tolkes, som følger:
+ VC har anmodet om at få flyttet sin vagt til VC i <adresse 2>.
+DC svarer med en meddelelsestype 51H, når - VC i <adresse 2> har svaret ikke accept.
+ - VC i <adresse 2> har svaret accept, og når vagtflytning er forsøgt  
+
+ udført.
+ <result> skal tolkes, som følger:
+ VC i <adresse 1> har haft vagten for VC i <adresse 2>, og  
+
+ meddelelsestype 58H betyder, at VC i <adresse 1> ikke længere kan  
+
+ modtage alarmer sendt til VC i <adresse 2>.
+ Både VC i <adresse 1> og i <adresse 2> modtager 58H.
+ VC skal ikke kvittere.
+ Når 64H sendes, meddeler alarmsystemet, at det ønsker poll startet eller  
+
+ stoppet.
+ <update> angiver, om det drejer sig om start eller stop:
+Hvis VC også ønsker poll startet/stoppet, sendes manuelt meddelelsestype  
+
+ 64H med samme <update> til alarmsystemet.
+Ellers gøres intet.
+ VC skal kvittere manuelt med meddelelsestype 67H, om anmodningen  
+
+ accepteres eller ej.
+VC har anmodet (med en meddelelsestype 9AH) om en AT-beskrivelse.
+VC  
+
+ modtager derfor først 9BH med løbenummer = 1 og dernæst 9BH med løbenummer 2.
+ VC skal ikke kvittere.
+ <update> angiver, om det drejer sig om at indsætte i eller fjerne  
+
+ fra VC's AT-adressetabel.
+<update> = 1: lndsæt <update> = 3: Fjern VC skal kvittere automatisk med en meddelelsestype A3H med samme <update> samt et <result>, der angiver, hvordan opdateringen  
+
+ er gået.
+ De 3 størrelser er angivet hexadecimalt, og mest betydende byte i hver af  
+
+ de 3 størrelser er henholdsvis nr. 6, 8 og 10.
+ VC skal kvittere automatisk med meddelelsestype C1H.
+ <antal byte> kan højst være 100 byte.
+ Identifikationen sendes tilbage i kvitteringen i en meddelelsestype C9H.
+ Normalt er <antal byte> i identifikationen lig med 0.
+ VC skal kvittere automatisk.
+ hvor <antal byte> højst kan være 100 byte.
+ Denne VC har sendt en forbindelsestest til alarmsystemet og får hermed  
+
+ kvitteringen retur.
+ Identifikationen skal svare til den, der blev sendt ud i meddelelsestype  
+
+ C8H fra VC.
+ VC skal ikke kvittere.
+4.5 Behandling af meddelelsestyper fra VC Det er kun muligt at gruppestyre på een AMUX ad gangen, hvorfor øvre og  
+
+ nedre mikroadresse skal ligge på samme AMUX - dvs. mikroadresse i <adresse  
+
+ 1> heltalsdivideret med 256 skal være ens for nedre og øvre grænse.
+ VC ønsker at afgive vagten over sine AT'er til VC i <adresse 1>.
+ VC modtager i en meddelelsestype 51H melding om, hvordan  
+
+ vagtflytteanmodningen er modtaget af VC i <adresse 1>, og hvordan et  
+
+ eventuelt flytningsforsøg er gået.
+ VC optræder som vagtmodtager i en vagtflytning anmodet af VC i <adresse  
+
+ 2>.
+ VC skal kvittere med:
+ VC har tidligere overflyttet sin vagt til en anden VC og ønsker vagten  
+
+ returneret.
+ Denne VC giver sin tilladelse til start/stop poll af en AT. <update>  
+
+ angiver, om det drejer sig om start eller stop.
+ Hvis tilladelse ikke gives, sendes intet.
+ VC kan sende 64H enten som kvittering på en 64H fra DC eller på VC's eget  
+
+ initiativ.
+Hvis VC sender meddelelsen på eget initiativ, er det kun tilladt for VC at  
+
+ give tilladelse til start poll.
+En tilladelse fra VC vil blive husket i DC's  
+
+ database.
+Før alarmsystemet sender en meddelelsestype 64H med <update>  
+
+ = 0 ud til VC, undersøges databasen.
+Hvis der i databasen findes en  
+
+ tilladelse fra VC, udfører alarmsystemet blot start poll uden at sende en  
+
+ meddelelsestype 64H ud til VC.
+ hvor <antal byte> højst kan være 80 byte.
+ I kvitteringen skal VC sende samme identifikation, som den modtog.
+4.6 Afvisning af meddelelser Meddelelser fra VC kan afvises af alarmsystemet.
+Afvisninger kan forekomme  
+
+ dels som kvitteringer med resultatkode forskellig fra 0, og dels som afviste  
+
+ meddelelser (type 12H).
+ Meddelelser fra VC, som er af en type ikke nævnt i afsnit 4.5, vil blive  
+
+ afvist af alarmsystemet i en meddelelse 12H med resultatkode forskellig fra  
+
+ 0.
+ Adresser i meddelelser afsendt fra VC skal opfylde følgende minimumskrav:
+ Overholdes dette ikke, afviser alarmsystemet med en 12H-meddelelse med  
+
+ resultatkode forskellig fra 0.
+ Tillige skal overholdes:
+DC: ox-oo-oo-oooo Dog skal DC-adressen, hvis det drejer sig om en kvittering, være en kopi  
+
+ af den modtagne DC-adresse, idet mikroadressen kan være forskellig fra nul og  
+
+ derfor benyttes som særlig indikering.
+5. Kontrol af forbindelse mellem vagtcentral og alarmsystem Forbindelsen mellem vagtcentral og alarmsystem kontrolleres med jævne  
+
+ mellemrum ved, at alarmsystemet sender en knudetest C0H til vagtcentralen,  
+
+ der automatisk skal svare med en kvittering for knudetest C1H.
+Knudetest indeholder dels adresse for modtageren af testen og dels et tidsrum, inden for hvilket den næste knudetest vil blive afsendt.  
+
+ Tidsrummet defineres af DC.
+Knudetest afsendes uafhængigt af den øvrige trafik.
+ VC kan sende forbindelsestest C8H til alarmsystemet, som skal svare med en  
+
+ C9H.
+ Endvidere bliver selve linien overvåget på den måde, at en ændring i  
+
+ liniens status vil give en alarm.
+ Hvis linien holder op med at fungere, sendes en liniealarm til DC.

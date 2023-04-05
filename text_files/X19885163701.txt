@@ -1,0 +1,21 @@
+ Tilladelse til at anvende FI og HFI-testere, der forårsager, at  
+
+ spændingen på steldele kortvarigt overstiger 50 V i forbindelse med kontrol  
+
+ af ekstrabeskyttelsen.
+ Kontrol af ekstrabeskyttelse.
+ Ifølge Stærkstrømsreglementets afsnit 11, § 2.3.1, må spændingen på ydre  
+
+ steldele, under kontrol af ekstrabeskyttelse, ikke overstige 50 V.
+ Nogle HFI- og FI-testere påtrykker installationen en kort strømimpuls  
+
+ (HFI- eller FI-afbryderens mærkeudløsestrøm), som kan forårsage, at  
+
+ spændingen på ydre steldele kortvarigt overstiger 50 V.
+Elektricitetsrådet accepterer, at sådanne HFI- og FI-testere anvendes,  
+
+ forudsat at strømimpulsernes varighed ikke overstiger 0,2 s.
+Ved eventuel  
+
+ gentagelse skal der være mindst 2 s. mellem impulserne.
+ Elråd meddelelse 9/88.

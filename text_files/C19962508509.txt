@@ -1,0 +1,549 @@
+Cirkulæret omfatter alle myndigheder under Forsvarsministeriet.
+Spørgsmål  
+
+ om strategiens gennemførsel og om væsentlige fravigelser af strategiens  
+
+ principper forelægges Forsvarsministeriet, eventuelt gennem Koncernledelsen  
+
+ (delkoncernledelse-edb). En vejledning om Forsvarsministeriets overordnede  
+
+ IT-strategi er bilag til dette cirkulære.
+Arkitektur § 1.  Forsvarsministeriets informatiksystemer opbygges  
+
+ i videst mulig omfang over en ensartet arkitektur, dvs. en samling udvalgte  
+
+ standarder.
+ Arkitekturen skal af økonomiske årsager i størst mulig omfang være baseret  
+
+ på generelle åbne og gerne anerkendte, definerede standarder.
+ I undtagelsestilfælde kan ensretning i form af specifikke produktvalg  
+
+ erstatte standarder.
+Infrastruktur § 2.  Forsvarsministeriet baserer  
+
+ informatikvirksomheden på en sammenhængende distribueret koncept, som skal  
+
+ danne en fælles teknologisk infrastruktur for alle forsvarets fælles  
+
+ informatiksystemer.
+Distribuerede data § 3.  Data skal i videst mulig omfang dannes ved den  
+
+ naturlige kilde og herefter via infrastrukturen kunne anvendes i alle øvrige  
+
+ meningsfulde sammenhæng.
+ Eventuel tilstedeværende dublering er blandt andet betinget af  
+
+ brugermæssige krav til sikkerhed og overlevelse.
+Fællesskab § 4.  Et informatiksystem kan løse operative eller  
+
+ administrative opgaver, og skal i de tilfælde, hvor det er hensigtsmæssigt  
+
+ også kunne løse en kombination heraf.
+Opgaverne løses for hele ministerområdet, en række myndigheder, en  
+
+ myndighed eller dele af en myndighed.
+Opgaverne løses under hensyntagen til  
+
+ størst mulig grad af fællesskab.
+Standardprodukter § 5.  Forsvarsministeriets informatiksystemer skal i  
+
+ videst muligt omfang opbygges af allerede udviklede og færdige produkter -  
+
+ »Off The Shelf« (OTS), som kan være enten »Commercial Off The  
+
+ Shelf« (COTS) eller »Government Off The Shelf« (GOTS).
+ Kun hvor sådanne ikke findes, eller kun i meget begrænset omfang kan løse  
+
+ den stillede opgave, vil der blive udviklet et produkt med den ønskede  
+
+ funktionalitet.
+Evolutionær design og vedligeholdelse § 6.  Ministerområdets informatiksystemer udvikles og  
+
+ vedligeholdes efter evolutionære principper, det vil sige gennem en  
+
+ fortløbende udvikling.
+Sikkerhed § 7.  Sikkerheden i Forsvarsministeriets  
+
+ informatiksystemer skal tilsikre, at informationerne - beskyttes mod uautoriseret indsigt (Loss of Confidentiality) - beskyttes mod uautoriseret ændring (Loss of Integrity) - er til rådighed for autoriserede brugere, når informationerne skal  
+
+ anvendes (Loss of Availability).
+Ansvarsfordeling § 8.  For ethvert informatiksystem skal der altid  
+
+ udpeges en projektansvarlig myndighed (PAM), en ansvarlig brugermyndighed  
+
+ (ABM) og en ansvarlig systemmyndighed (ASM).
+ P.M.V.
+ E.B.
+Jesper BritzeBilag Forsvarsministeriets overordnede IT-strategi Baggrund Forsvarsministeriet med samtlige myndigheder og tjenestesteder  
+
+ (ministerområdet) bliver stadig mere afhængig af informationsteknologi (IT).  
+
+ De administrative og operative opgaver løses i stigende omfang ved  
+
+ elektroniske hjælpemidler.
+Samtidig hermed øges kravene til udveksling af  
+
+ oplysninger i mængde, tid og kvalitet.
+ De direkte omkostninger til IT-anvendelse kræver en stadig større del af  
+
+ forsvarsbudgettet og kræver alene af den grund en særlig bevågenhed.
+ Forsvarsministeriets direkte og indirekte afhængighed af IT øges i takt  
+
+ med de stigende krav til effektivitet og produktivitet:
+ - Den enkelte medarbejder bruger edb i en stadig større del af sine  
+
+ arbejdsopgaver.
+ - Stadig flere medarbejdere får edb-værktøjer til løsning af deres  
+
+ opgaver.
+ - Edb-værktøjernes indbyrdes sammenhæng giver øgede muligheder.
+Forsvarsminsiteriet har mange kontaktflader til det civile samfund.  
+
+ Ministerområdet er derfor en naturlig del af implementeringen af regeringens  
+
+ IT-politiske handlingsplan, der skal føre samfundet gennem den igangværende  
+
+ informationsteknologiske revolution.
+Hovedelementerne heri er en global  
+
+ kortslutning af tid, sted, personer og processer og en  
+
+ informationseksplosion, hvor informationsmængden og spredningen vokser stadig  
+
+ stærkere.
+Dette åbner mulighed og behov for at tilrettelægge organisation og  
+
+ forretningsgange på nye måder.
+ Informationsteknologien skal derfor fastholdes som et dynamisk redskab for  
+
+ Forsvarsministeriets virke, der skal sikre optimal anvendelse af  
+
+ ministerområdets menneskelige, tekniske og økonomiske ressourcer.
+Forsvarsministeriets overordnede IT-strategi fastlægger de centrale  
+
+ principper og målsætninger, der er grundlag for myndighedernes planlægning og  
+
+ implementering af IT-løsninger.
+De enkelte myndigheder kan inden for disse  
+
+ rammer udarbejde egne, uddybende IT-strategier.
+De stadig stigende krav til kvalitet, fremstillet på kortere tid og med  
+
+ anvendelse af færre ressourcer, gør det nødvendigt, at Forsvarsministeriets  
+
+ myndigheder gnidningsløst og under behørig hensyn til informationernes  
+
+ sikkerhedsmæssige indhold kan udveksle oplysninger indbyrdes, og at der fra  
+
+ alle relevante applikationssystemer kan leveres aggregerede data til højere  
+
+ niveauer i ministerområdets organisation.
+IT-strategien skal derfor omfatte  
+
+ samtlige Forsvarsministeriets myndigheder.
+Forsvarsministeriets myndigheder har en betydelig arv af  
+
+ informatiksystemer, der repræsenterer store investeringer, og som for flere  
+
+ systemers vedkommende ikke udfra en økonomisk eller teknologisk betragtning  
+
+ kan anses for at være afskrevet.
+Det er derfor en nødvendig forudsætning, at  
+
+ Forsvarsministeriets koncernfælles IT-strategi tager udgangspunkt i dette  
+
+ forhold.
+Den overordnede målsætning er, at der over en årrække, gennem etablering  
+
+ af en koncernfælles infrastruktur samt opgraderinger og nyanskaffelser, sker  
+
+ en teknologisk konvergering, således at samtlige applikationssystemer i  
+
+ nødvendigt omfang kan levere data til hinanden.
+Data skal fødes ved den  
+
+ naturlige kilde og skal herefter kunne anvendes i alle hensigtsmæssige  
+
+ sammenhænge.
+Denne konvergeringsproces opnås gennem fastlæggelse af en fælles  
+
+ arkitektur udmøntet i accept af fælles anerkendte standarder under  
+
+ iagttagelse af den nødvendige sikkerhed.
+Hvor sådanne ikke findes, baseres  
+
+ arkitekturen på ensretning i valget af produkter.
+En stor del af ministerområdets medarbejdere har tjenesteforløb, der  
+
+ medfører hyppige skift af arbejdsplads.
+Det er derfor vigtigt, at  
+
+ brugergrænsefladen er så ensartet som muligt i de forskellige systemer og hos  
+
+ de forskellige tjenestesteder.
+Der skal derfor ske en ensretning i valg af  
+
+ applikationer, specielt de applikationer, der retter sig mod  
+
+ kontorautomation, og som anvendes af et stort antal brugere.
+Forsvarsministeriets enkelte myndigheder og tjenestesteder er ansvarlige  
+
+ for anvendelse af informationsteknologien inden for rammerne af  
+
+ Forsvarsministeriets overordnede IT-strategi og under hensyntagen til de  
+
+ koncernfælles informatiksystemer, der er nødvendige for at løse opgaver i  
+
+ sammenhæng for dele af eller hele ministerområdet.
+De enkelte tjenestesteder  
+
+ skal i så vid udstrækning som muligt inddrage medarbejderne i denne proces,  
+
+ således at alle niveauer i de enkelte organisationer får mulighed for at  
+
+ bidrage og for at tage et medansvar for virksomhedens IT-anvendelse.
+ Forsvarsministeriets IT-strategi er det grundlag, hvorpå den enkelte  
+
+ myndighed beslutter sig for valg og implementering af applikationssystemer ud  
+
+ fra »bedst og billigst« princippet under hensyntagen til den fælles  
+
+ arkitektur.
+Myndigheders indkøb, dispositioner og planer skal ske i overensstemmelse  
+
+ med og forholde sig loyalt til IT-strategien.
+For udvalgte områder kan der  
+
+ kræves handlingsplaner, der fører til opfyldelse af strategien.
+De overordnede principper Forsvarsministeriets informatikstrategi baserer sig på følgende  
+
+ principper:
+1. Princip: Arkitektur Forsvarsministeriets informatiksystemer opbygges i videst mulig omfang  
+
+ over en ensartet arkitektur, dvs. en samling udvalgte standarder.
+ Arkitekturen skal af økonomiske årsager i størst mulig omfang være baseret  
+
+ på generelle åbne og gerne anerkendte, definerede standarder.
+ I undtagelsestilfælde kan ensretning i form af specifikke produktvalg  
+
+ erstatte standarder.
+Bemærkninger Et informatiksystems arkitektur er den samlede mængde af hardware,  
+
+ styresystemer, netværksforbindelser m.v., der er nødvendig for at betjene det  
+
+ programmel og de data, der skal løse opgaverne.
+ Af hensyn til behovet for et fleksibelt og hurtigt samspil mellem  
+
+ Forsvarsministeriets informatiksystemer opbygges der systemer, der overholder  
+
+ en fælles arkitektur baseret på de standarder og principper, der er fastlagt.  
+
+ Der vil herved blive skabt en sammenhæng, der fremover vil muliggøre, at  
+
+ kommende informatiksystemer fungerer i et integreret hele af allerede  
+
+ eksisterende informatiksystemer.
+Henset til de altid begrænsede økonomiske ressourcer er det et nødvendigt  
+
+ udgangspunkt, at arkitekturen baseres på åbne anerkendte standarder herunder  
+
+ de af NATO valgte standarder samt de fastsatte sikkerhedsmæssige krav.
+I  
+
+ konsekvens heraf må det accepteres, at der skabes begrænsninger i den frie  
+
+ udfoldelse.
+Ved i de fleste tilfælde at basere produktvalget på åbne  
+
+ anerkendte standarder vil komponenterne i informatiksystemerne løbende kunne  
+
+ anskaffes fra flere forskellige leverandører.
+Der kan herved opnås økonomiske  
+
+ og andre konkurrencemæssige fordele.
+Når en standard ikke er tilstrækkeligt udviklet, kan det være nødvendigt  
+
+ og hensigtsmæssigt at begrænse sig til brug af et produkt som en del af  
+
+ arkitekturen.
+Der vil i disse tilfælde være tale om ensretning.
+Den  
+
+ koncernfælles ensretning vil således på nogle områder foregå på standarder og  
+
+ på produkter for andre områders vedkommende.
+Arkitekturen skal til stadighed vedligeholdes i takt med den teknologiske  
+
+ udvikling.
+Dette afspejles i et fælles produktkatalog, der udarbejdes og  
+
+ vedligeholdes i takt med den teknologiske og kommercielle udvikling.
+ Forsvarsministeriets myndigheder og tjenestesteder anskaffer komponenter  
+
+ til informatiksystemer og til alle øvrige former for IT-anvendelse inden for  
+
+ det udvalg, der er anført i produktkataloget.
+2. Princip: Infrastruktur Forsvarsministeriet baserer informatikvirksomheden på en sammenhængende  
+
+ distribueret koncept, som skal danne en fælles teknologisk infrastruktur for  
+
+ alle forsvarets fælles informatiksystemer.
+Bemærkninger Ved at anvende en distribueret koncept, kan der skabes den ønskede  
+
+ fleksible sammenhæng i den grundlæggende teknologiske infrastruktur.
+Dermed  
+
+ sikres, at kommende informatiksystemer, som skal anvende den fælles  
+
+ infrastruktur, hver for sig fortsat kan udvikles i takt med den fremtidige  
+
+ teknologi.
+ Ved i videst muligt omfang at anvende den fælles infrastruktur, vil  
+
+ informatiksystemerne vedblive at være effektive, samtidig med at anvendelsen  
+
+ af de investerede ressourcer optimeres.
+ En central styring af infrastrukturen er af afgørende betydning for  
+
+ effektiviteten af Forsvarsministeriets informatiksystemer.
+3. Princip: Distribuerede data Data skal i videst mulig omfang dannes ved den naturlige kilde og herefter  
+
+ via infrastrukturen kunne anvendes i alle øvrige meningsfulde sammenhæng.
+ Eventuel tilstedeværende redundans er blandt andet betinget af  
+
+ brugermæssige krav til sikkerhed og overlevelse.
+Bemærkninger Af hensyn til behovet for et konsistent datagrundlag samt af hensyn til de  
+
+ begrænsede økonomiske ressourcer er det en forudsætning, at  
+
+ informatiksystemerne i videst mulig omfang anvender eksisterende data og  
+
+ faciliteter.
+Som princip skal data fødes, hvor det forekommer meningsfuldt og  
+
+ motiverende.
+Anvendelse i andre sammenhænge skal herefter tilvejebringes ved  
+
+ fordeling og eventuel behandling i den fælles infrastruktur.
+Dublering af  
+
+ data i systemer, der overlapper hinanden accepteres kun ud fra rationelle  
+
+ brugermæssige behov.
+Spejling af data, således at de samme data er placeret flere geografiske  
+
+ steder, skal altid overvejes udfra operative behov, herunder overlevelse i  
+
+ spændingsperioder og i krig.
+De fælles informatiksystemer vil fra et  
+
+ teknologisk og driftsmæssigt synspunkt være at betragte som et samlet  
+
+ integreret hele og driften skal derfor baseres på en central styret koncept.  
+
+ De fælles informatiksystemer kan således ikke fysisk adskilles, medmindre  
+
+ dette under det enkelte informatiksystems design er fastsat som et krav.
+4. Princip: Fællesskab Et informatiksystem kan løse operative eller administrative opgaver, og  
+
+ skal i de tilfælde, hvor det er hensigtsmæssigt også kunne løse en  
+
+ kombination heraf.
+Opgaverne løses for hele ministerområdet, en række myndigheder, en  
+
+ myndighed eller dele af en myndighed.
+Opgaverne løses under hensyntagen til  
+
+ størst mulig grad af fællesskab.
+Bemærkninger Den traditionelle skelnen mellem administrativ og operativ edb-anvendelse  
+
+ skal ophæves.
+ Informatiksystemerne skal generelt ikke være anskaffet til og knyttet til  
+
+ en enkelt myndighed, men i al overvejende grad være anskaffet til  
+
+ koncernfælles brug og sammenhængende drift i ministerområdets fælles  
+
+ infrastruktur.
+ For at sikre en overordnet sammenhæng og optimering, vil det være  
+
+ nødvendigt, at begrænse den enkelte myndigheds muligheder for at opbygge  
+
+ autonome systemer.
+ Den overordnede drift og vedligeholdelse af fælles systemer vil ske fra en  
+
+ central funktion, da det kun derved kan sikres, at den etablerede sammenhæng  
+
+ og helhed løbende forbliver intakt.
+5. Princip: Standardprodukter Forsvarsministeriets informatiksystemer skal i videst muligt omfang  
+
+ opbygges af allerede udviklede og færdige produkter - »Off The  
+
+ Shelf« (OTS), som kan være enten »Commercial Off The Shelf«  
+
+ (COTS) eller »Government Off The Shelf« (GOTS).
+ Kun hvor sådanne ikke findes, eller kun i meget begrænset omfang kan løse  
+
+ den stillede opgave, vil der blive udviklet et produkt med den ønskede  
+
+ funktionalitet.
+Bemærkninger For hardware med tilhørende styresystemer vil der, for at tilgodese  
+
+ sikkerheden i arkitekturen fortrinsvis skulle anvendes GOTS produkter, dvs.  
+
+ produkter, der er sikkerhedsgodkendt af en NATO medlemsnations  
+
+ sikkerhedsmyndighed.
+ For applikationssystemer søges i videst muligt omfang anvendt COTS  
+
+ produkter.
+ Valget af produkter vil følge en prioriteret proces:
+ - Der vælges allerede udviklede og færdige produkter, der opfylder kravene  
+
+ i den fastlagte arkitektur og som imødekommer de opstillede brugerbehov.
+ - I tilfælde af mangler i den valgte løsning vil ministerområdets behov  
+
+ herefter søges tilpasset mulighederne i de valgte løsninger.
+ - I undtagelsestilfælde vil hele den ønskede funktionalitet blive  
+
+ specialudviklet, og vil som udgangspunkt blive udviklet som et tillægsmodul  
+
+ til et OTS produkt.
+ Specialudviklinger vil således være absolutte undtagelser, da disse øger  
+
+ kompleksiteten og vedligeholdelsesbyrden for det samlede ministerområde og  
+
+ nedsætter fleksibiliteten tilsvarende.
+ Forudsætningen for at søge at tilpasse Forsvarsministeriets behov til  
+
+ mulighederne i den valgte løsning er en fundamental holdningsændring hos de  
+
+ anskaffende og efterfølgende de brugende myndigheder, og forudsætter et stort  
+
+ forandringsberedskab.
+ Bliver det nødvendigt at specialudvikle produkter, vil det som hovedregel  
+
+ ske ved hjælp af eksterne leverandører.
+6. Princip: Evolutionær design og vedligeholdelse Ministerområdets informatiksystemer udvikles og vedligeholdes efter  
+
+ evolutionære principper.
+Bemærkninger Forsvarsministeriets myndigheder og tjenestesteder er fundamentalt  
+
+ påvirket af den konstant hastigere udvikling af informationsteknologien.  
+
+ Forsvarsministeriets informatikvirksomhed er derfor afhængig af, at der hele  
+
+ tiden er et ændringsberedskab til stede.
+ Nye informatiksystemer skal først installeres i en kerneversion, eventuelt  
+
+ i en begrænset del af organisationen, hvorefter funktionaliteten løbende  
+
+ udbygges og udvikles, mens systemet anvendes og forbedres, baseret på de  
+
+ indhøstede erfaringer.
+ Der vil ikke altid kunne foreligge en samlet og færdig implementeringsplan  
+
+ for det endelige og fuldt implementerede system ved systemets fødsel med  
+
+ etablerede bestemmelser og procedurer.
+ Der vil derimod ved et projekts start skulle foreligge en overordnet  
+
+ formålsbeskrivelse og en tilhørende initialplan, som løbende vil blive  
+
+ udviklet, udbygget og tilpasset i henhold til de indhøstede erfaringer og den  
+
+ hastige teknologiske udvikling.
+Eventuelle nye behov vil - ligesom nye mere avancerede teknologiske  
+
+ muligheder - generelt blive planlagt og implementeret udfra rationelle  
+
+ (økonomiske og teknologiske) vurderinger.
+Informatiksystemerne vil således  
+
+ til stadighed blive opdateret for funktionelt, teknologisk og økonomisk  
+
+ fortsat at være effektive og rationelle.
+7. Princip: Sikkerhed Sikkerheden i Forsvarsministeriets informatiksystemer skal tilsikre, at  
+
+ informationerne - beskyttes mod uautoriseret indsigt (Loss of Confidentiality) - beskyttes mod uautoriseret ændring (Loss of Integrity) - er til rådighed for autoriserede brugere, når informationerne skal  
+
+ anvendes (Loss of Availability) Bemærkninger Forsvarsministeriets informatiksystemer skal implementeres i  
+
+ overensstemmelse med gældende nationale og NATO sikkerhedsbestemmelser.
+ Sikkerheden implementeres i infrastrukturens arkitektur, dvs.  
+
+ operativsystem, databasesystem og hardware samt kommunikation m.v., således  
+
+ at de valgte applikationssystemer afvikles under sikkerhedsarkitekturen, uden  
+
+ at der stilles specifikke krav om sikkerhedsfunktionaliteter i den enkelte  
+
+ applikation.
+ Netværk, der indgår i koncernfælles informatiksystemer, må ikke opkobles  
+
+ med ikke sikkerhedsgodkendte informatiksystemer, herunder offentlige telenet  
+
+ uden forudgående sikkerhedsgodkendelse af Forsvarets Efterretningstjeneste.
+8. Princip: Ansvarsfordeling For ethvert informatiksystem skal der altid udpeges en projektansvarlig  
+
+ myndighed (PAM), en ansvarlig brugermyndighed (ABM) og en ansvarlig  
+
+ systemmyndighed (ASM).
+Bemærkninger Med henblik på at tilsikre en stadig sammenhæng mellem brugerkrav,  
+
+ systemkrav og sikkerhedsmæssige krav er det af afgørende betydning, at der  
+
+ etableres en veldefineret ansvarsfordeling mellem de berørte interessenter.
+Den projektansvarlige myndighed (PAM) er (i national og NATO  
+
+ sikkerhedsmæssig terminologi) ansvarlig for planlægning, udformning,  
+
+ anskaffelse, implementering, drift og eventuel efterfølgende modifikation af  
+
+ et informatiksystem.
+Dette ansvar rækker i hele systemets levetid.
+PAM har  
+
+ ansvaret for udarbejdelse af »Systemspecifikke Sikkerhedskrav«  
+
+ (SRS). PAM skal udpeges allerede i informatiksystemets idefase.
+Funktionen som PAM kan overføres fra en myndighed til en anden.
+Det er  
+
+ væsentligt, at funktionen fastlægges på et meget tidligt tidspunkt og  
+
+ udstrækkes til hele systemets levetid.
+Ansvarlig brugermyndighed (ABM) udpeges for hvert enkelt informatiksystem.  
+
+ ABM er ansvarlig for, at systemets funktioner til enhver tid er fastlagt,  
+
+ prioriteret og beskrevet, herunder at systemets sikkerhedsniveau er  
+
+ defineret.
+ABM er endvidere ansvarlig for tilvejebringelse af de  
+
+ brugermæssige forudsætninger for implementering af et system, og udarbejdelse  
+
+ af brugerbestemmelser for driften samt for opfølgning af den daglige  
+
+ anvendelse af dette.
+Ansvarlige systemmyndighed (ASM) udpeges for hvert enkelt informatiksystem  
+
+ i informatiksystemets initialfase.
+ASM er ansvarlig for, at systemet teknisk  
+
+ implementeres og drives i hele dets levetid inden for de fastsatte økonomiske  
+
+ rammer, samt fungerer i overensstemmelse med de af ABM beskrevne krav, og  
+
+ overholder de fastlagte tekniske og sikkerhedsmæssigt godkendte standarder.  
+
+ ASM er endvidere ansvarlig for teknisk rådgivning til ABM.
+Såfremt det pågældende informatiksystem anvendes eller tænkes anvendt ved  
+
+ andre myndigheder, kan der her udpeges tilsvarende strukturer, der  
+
+ repræsenterer henholdsvis brugersiden og systemsiden.
+Disse har efter nærmere  
+
+ aftale med ABM og ASM ansvaret for de opgaver, der løses lokalt.

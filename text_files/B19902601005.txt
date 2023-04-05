@@ -1,0 +1,3842 @@
+Tekniske bestemmelser for fællesantenneanlæg Afsnit A, udgave 2.
+Tekniske specifikationer og målemetoder for typegodkendelse af materiel.
+ Udarbejdet af Statens Teletjeneste og Teleinspektionen.
+ Fastsat af Generaldirektoratet for P&T.
+ Januar 1990.
+ Indholdsfortegnelse.
+ 1. Indledning.
+ »Tekniske bestemmelser for fællesantenneanlæg« er udgivet i  
+
+ henhold til ministeriet for offentlige arbejders bekendtgørelse nr. 651 af  
+
+ 22.09.1986 om fællsesantenneanlæg m.v.
+ Denne bestemmelse: »Afsnit A« indeholder krav og målemetoder for  
+
+ materiel, som skal typegodkendes til anvendelse i fællesantenneanlæg.
+De øvrige afsnit i tekniske bestemmelser omfatter: Afsnit B:  
+
+ Systemopbygning og systemværdier.
+Afsnit C: Installationsforskrifter.
+Afsnit  
+
+ D: Oversigter over typegodkendt materiel.
+ Ændringer i denne udgave i forhold til 1. udgave træder i kraft den  
+
+ 1.1.1991. Efter den 1.3.1990 er det muligt, at få typegodkendt udstyr efter  
+
+ Efter den 1.1.1992 skal alt materiel i nye anlæg være typegodkendt efter  
+
+ denne bestemmelse.
+ Betingelser for typegodkendelse, mærkning af udstyr o.s.v. kan findes i  
+
+ » Bestemmelser om typegodkendelse og andre former for godkendelse af  
+
+ teleterminaludstyr, radiokommunikationsudstyr og fællesantennemateriel«,  
+
+ udgivet af generaldirektoratet af post & telegrafvæsenet, juni 1989.
+ Generelt om antenneanlægs opbygning:
+Et fællesantenneanlæg bruges til at modtage og fordele tv- og  
+
+ radioprogrammer til et antal abonnenter.
+Det opdeles i hovedbestanddelene  
+
+ antenner m.v., hovedstation, fordelingsnet og abonnentfordelingsnet som vist  
+
+ i fig 1.
+I hovedstationen modtages tv- og radiosignalerne fra antenner, hybridnet  
+
+ eller lokalstudier.
+Her foretages frekvensomsætninger, forstærkninger,  
+
+ modulationer, sammenkobling af signaler m.v..
+ Fordelingsnettets opgave er at transmittere signalerne over større  
+
+ afstande ud til abonnentfordelingsnettene, som fordeler signalerne ud til  
+
+ abonnenterne.
+ Placering af signalerne i fordelingssnettene kan ske i følgende  
+
+ frekvensbånd:
+ Fig. 1. Fællesantenneanlæg med et repræsentativt udsnit af materiel.
+ 2. Generelle krav.
+ 2.1 Indledning.
+ Kravene i dette kapitel gælder for alt materiel til fællesantenneanlæg,  
+
+ herunder også radioanlæg til modtagning fra kommunikations- og  
+
+ DBS-satellitter.
+ 2.2 Målinger.
+ Under beskrivelser af måleopstillinger er der fortrinsvis beskrevet  
+
+ metoder for punktvis optagelse af karakteristikker, men de tilsvarende  
+
+ sweepmålinger kan også anvendes.
+ Under udførelse af målinger skal, hvor intet andet er anført, enhver  
+
+ ubenyttet signalindgang og -udgang være afsluttet med dens karakteristiske  
+
+ impedans.
+ Hvis frekvensområdet ikke er opgivet gælder kravene kun i det  
+
+ frekvensområde, som udstyret er specificeret for.
+ 2.3 Temperaturområder.
+ Ansøgeren skal oplyse, til hvilket af nedennævnte temperaturområder  
+
+ materiellet skal typegodkendes.
+ Materiel i klimaregulerede rum skal overholde bestemmelsernes krav i  
+
+ temperaturområdet 15 - 35 grader C.
+Materiel, der monteres indendørs eller i skabe, hvor der er  
+
+ temperaturreguleret, skal overholde bestemmelsernes krav indenfor  
+
+ temperaturområdet 5 - 40 grader C.
+Det skal endvidere kunne fungere med  
+
+ reducerede data i temperaturområdet -10 til +55 grader C.
+Materiel, der monteres indendørs, hvor der er uopvarmet eller udendørs i  
+
+ standere, fordelerbokse eller forstærkerskabe, skal overholde bestemmelserne  
+
+ indenfor temperaturområdet -10 til +55 grader C.
+Herudover skal det kunne  
+
+ fungere med eventuelt reducerede data i temperaturområdet -25 til +70 grader  
+
+ C.
+ 2.4 Forsyningsspændinger.
+ Bestemmelsernes krav skal overholdes indenfor følgende tolerancer for net-  
+
+ eller jævnspænding: Netspænding: Indtil d. 1.1.1993: 220 VAC + 10 %/ -6 %.  
+
+ Efter d. 1.1.1993: 230 VAC + 6 %/ -10 %. Jævnspænding: Fabrikantens  
+
+ oplysninger.
+ 2.5 Indgangs- og udgangsimpedanser.
+ Impedansen for målepunkter samt signalindgange og -udgange er 75 Ohm.
+ Til anvendelse i delsystem H1 og satellitmodtageudstyr kan dog anvendes  
+
+ udstyr med 50 Ohms impedans.
+ Endvidere kan der ved gennemsløjfning i nettene F3 og F4 tillades en  
+
+ udgangsimpedans på 37,5 Ohm.
+ 2.6 Målepunkter.
+Et målepunkt er en signaludgang, der kun bruges til kontrol af  
+
+ signalspændinger.
+Kontrolmålinger skal kunne udføres uden at afbryde eller  
+
+ påvirke driften.
+Målepunkter kan være udført på tre forskellige måder: A)  
+
+ Målepunkt med udkoblingsdæmpning.
+B) Målepunkt uden udkoblingsdæmpning.
+C)  
+
+ Måledåse.
+Et målepunkt med en udkoblingsdæmpning på 20 - 30 dB er det mest anvendte,  
+
+ indbyggede målepunkt.
+Måleudstyr kan tilsluttes direkte.
+ Et målepunkt uden udkoblingsdæmpning må kun bruges i forbindelse med en  
+
+ typegodkendt måleprobe.
+En måledåse er en fordeler med een afgrening, der kun må benyttes som  
+
+ målepunkt.
+De benyttes til indbygning i anlæg før og efter forstærkere, når  
+
+ de og tilsluttede enheder ikke har nok indbyggede målepunkter.
+ Fremover betegnes målepunkter og måledåser som målepunkter.
+ 2.6.1 Amplitude-frekvenskarakteristik.
+ 2.6.1.1 Målemetode.
+ Ved måling på en enhed skal der måles både med målepunktet belastet med  
+
+ dets karakteristiske impedans samt ubelastet.
+ 2.6.1.2 Krav.
+ Udkoblingsdæmpningen til målepunktet må for alt materiel overholde den  
+
+ opgivne værdi indenfor tolerancen +/- 1,0 dB.
+ Amplitudekarakteristikkerne for enhedens andre sammenhørende  
+
+ signalindgange og -udgange må højst ændres +/- 0,5 dB, når målepunktet ændres  
+
+ fra belastet til ubelastet.
+ 2.6.2 Refleksionsdæmpning.
+ 2.6.2.1 Målemetode.
+ Refleksionsdæmpningen bestemmes med måleopstillingen og målemetoden vist i  
+
+ kapitel 3.4.
+ 2.6.2.2 Krav.
+ Minimum 15 dB.
+ 2.6.3 Tilslutningsstik.
+Målepunktets tilslutningsstik skal være et normalt koaksialstik beregnet  
+
+ for målekabler og med en nominel impedans på 75 Ohm: for delsystemet H1 kan  
+
+ tillades en nominel impedans på 50 Ohm.
+På stikket må der ikke findes  
+
+ strømforsyningsspændinger.
+ 2.7 HF-udstråling og skærmdæmpning.
+ 2.7.1. Målemetoder og måleopstillinger.
+ Alle måleopstillinger og målemetoder svarer til de i IEC publikation  
+
+ 728-1, kap.15 viste.
+ Målemetoderne kan anvendes til såvel aktivt som passivt materiel.
+I frekvensområdet 30 til 300 MHz kommer den største udstråling fra  
+
+ indgangs- og udgangskablerne.
+Derfor anvendes den såkaldte »absorbing  
+
+ clamp« metode.
+I frekvensområdet 300 til 1750 MHz kommer den udstrålede effekt  
+
+ hovedsagelig fra kabinet og stik.
+Derfor anvendes substitutionsmetoden uden  
+
+ tilsluttet kabel på udgangen.
+ Måleobjektet skal placeres ca. een meter over gulvplan på et ikke ledende  
+
+ underlag.
+ Hvis der er et netforsyningskabel, skal det tilføres måleobjektet  
+
+ vinkelret på underlaget.
+ Enhver elektrisk reflekterende eller absorberende genstand skal flyttes  
+
+ tilstrækkelig langt væk fra måleopstillingen.
+ Alle ubenyttede ind- og udgange skal være afsluttede med deres  
+
+ karakteristiske impedans.
+ På aktive måleobjekter måles ved:
+ - det maksimale udgangsniveau efter fabrikantens oplysninger.
+ - alle nominelle frekvenser såsom bærebølger, lokaloskillatorer og  
+
+ harmoniske af disse i kanaludstyr.
+ - et rimeligt antal frekvenser indenfor det nominelle frekvensområde i  
+
+ bredbåndsudstyr.
+ På passive måleobjekter måles ved:
+ - det maksimale indgangsniveau eller efter fabrikantens forskrifter.
+ - et rimeligt antal frekvenser indenfor det nominelle frekvensområde.
+ 2.7.2 Målinger i frekvensområdet 30 til 300 MHz.
+ Fig 2.7.2. Måleopstilling til bestemmelse af skærmdæmpning og udstråling i  
+
+ frekvensområdet 30 til 300 MHz. (Absorbing clamp metoden).
+ Udgangen på måleobjektet skal forbindes til et målekabel med samme  
+
+ karakteristiske impedans og kablet skal afsluttes med udstyr, der har samme  
+
+ nominelle impedans som måleobjektet.
+Først måles signalniveauet på måleobjektet.
+Coaxomskifteren stilles, så  
+
+ signalet går direkte gennem målekablet til spektrumanalysatoren.
+ Efter korrektion for tab i kablet til spektrumanalysatoren og i målekablet  
+
+ registreres niveauet pi på udgangen af måleobjektet, hvis dette er aktivt.
+ Efter korrektion for tab i kablet til spektrumanalysatoren og i målekablet  
+
+ samt gennemgangsdæmpningen i måleobjektet registreres niveauet pi på  
+
+ indgangen af måleobjektet, hvis dette er passivt.
+Herefter bestemmes den udstrålede effekt.
+Koaksomskifteren stilles, så  
+
+ målekablet afsluttes med sin karakteristiske impedans og spektrumanalysatoren  
+
+ tilsluttes strømtransformerudgangen på absorbertangen.
+Absorbertangen flyttes  
+
+ til det sted, hvor udslaget er størst, hvilket er indenfor en halv  
+
+ bølgelængde fra måleobjektet.
+ Efter korrektion for tab i kablet til spektrumanalysatoren og i  
+
+ absorbertangen samt dennes kabel registreres niveauet po.
+ Måleobjektets skærmdæmpning er pi- po dB.
+ 2.7.3 Målinger i frekvensområdet 300 til 1750 MHz.
+ Fig.2.7.3. Måleopstillinger til bestemmelse af skærmdæmpning og udstråling  
+
+ fra materiel i frekvensområdet 300 til 1750 MHz. (Substitutionsmetoden).
+Først vendes og drejes måleobjektet til maksimalt niveau po registreres på spektrumanalysatoren.
+Niveauet p1 på signalgeneratoren registreres.
+Måleobjektet erstattes af en halvbølgedipol, der afstemmes til den  
+
+ aktuelle frekvens.
+Niveauet fra signalgeneratoren indstilles, så der på  
+
+ spektrumanalysatoren kan iagttages samme udslag po som før.
+Niveauet p2 på signalgeneratoren registreres.
+Et aktivt måleobjekts skærmdæmpning er p1 - p2 + måleobjektets forstærkning udtrykt i dB.
+ Et passivt måleobjekts skærmdæmpning er p1 - p2 dB.
+ 2.7.4 Målinger i frekvensområdet 1750 - 4000 MHz.
+Målemetoden er beskrevet i Draft CEPT recommendation T/RA-24-01, annex I,  
+
+ (Doc.
+T/R 19(82)6.rev.2E).
+ 2.7.5 Målinger i frekvensområdet 4 - 18 GHz.
+ Målemetoden er beskrevet i CISPR Publication 11 og 11A.
+ 2.7.6 Krav til maksimal udstråling.
+ Fig 2.7.6 Kurve for den maksimale tilladte udstråling i frekvensområdet 40  
+
+ MHz til 18 GHz.
+ 2.7.7 Krav til skærmdæmpningen.
+Tilslutningsdåser.
+Min. 60 dB i frekvensområdet 5 - 1000 MHz.
+Min. 27 dB i  
+
+ frekvensområdet 1000 - 1750 MHz.
+ Kravene til maksimal udstråling skal altid overholdes.
+Masteforstærkere.
+Min. 50 dB i frekvensområdet 30 - 1000 MHz.
+ Kravene til maksimal udstråling skal altid overholdes.
+ Aktivt udstyr for F3 og F4. Min. 60 dB i frekvensområdet 5 - 1000 MHz.
+ Kravene til maksimal udstråling skal altid overholdes.
+ Øvrigt materiel:
+ Kravene til maksimal udstråling skal altid overholdes.
+ 2.8 Støjspænding på netklemmer.
+ 2.8.1 Målemetode og måleopstilling.
+Måles som beskrevet i CISPR publication 22, afsnit 9 i frekvensområdet  
+
+ 0,15 til 30 MHz.
+Der anvendes et 50 Ohm/50 uHy netværk.
+ 2.8.2 Krav.
+ Grænser for støjspændingerne på netklemmerne:
+Måleresultaterne skal garanteres af fabrikanten.
+Typegodkendelsen baseres  
+
+ på de opgivne værdier (Fabrikanterklæring).
+ 2.9 Mekaniske krav til materiel.
+ 2.9.1 H1-forstærkerstationer.
+ 2.9.1.1 Temperaturområde.
+ Temperaturområdet bestemmes udfra kapitel 2.3.
+ 2.9.1.2 Mekanisk opbygning.
+ Alle aktive og passive enheder ( forforstærkere, transformere, og  
+
+ strømfiltre undtaget) skal være monterede i et system, så det er muligt at  
+
+ udskifte en kanalenhed uden at afbryde stationens drift.
+ 2.9.1.3 Målepunkter.
+ Der skal være målepunkter, så det er muligt at kontrollere indgangs- og  
+
+ udgangssignaler.
+ Mere om målepunkter ses i kapitel 2.6.
+ 2.9.1.4 Koaksialstik.
+ Chassisstikkene skal være af god kvalitet og med gevind eller anden  
+
+ låseordning.
+ 2.9.2 H2-forstærkerstationer samt omsætterstationer for D1 og D2.
+ 2.9.2.1 Temperaturområde.
+ Temperaturområdet bestemmes udfra kapitel 2.3.
+ 2.9.2.2 Mekanisk opbygning.
+ Som 2.9.1.2.
+ 2.9.2.3 Målepunkter.
+Som 2.9.1.3 2.9.2.4 Koaksialstik.
+Som 2.9.1.4 2.9.3 D1-forstærkerstationer.
+ 2.9.3.1 Temperaturområde.
+ Temperaturområdet bestemmes udfra kapitel 2.3.
+ 2.9.3.2 Forstærkerhus.
+Huset skal være mekanisk solidt og korrosionsfast.
+Det skal endvidere være  
+
+ stænktæt og opfylde IEC TC 70, publikation 529-IP 44.
+ De aktive enheder skal kunne udskiftes uden at afmontere hovedkablerne.
+ 2.9.3.3 Modforvrænger, dæmpningsled, fordelere m.v..
+De skal være indbyggede eller kunne indbygges i forstærkerhuset.
+Enheder  
+
+ beregnede for indsætning skal være sikrede mod utilsigtet berøring.
+ 2.9.3.4 Målepunkter.
+ Der skal være målepunkter, så det er muligt at kontrollere hver enkelt  
+
+ kanal både på indgangen og udgangen af forstærkerhuset samt på udgangen af  
+
+ omsættere og forstærkere.
+ Målepunkterne bør være tilgængelige uden at åbne forstærkerhuset.
+ 2.9.3.5 Koaksialstik.
+ Kabeltilslutninger for signaler til og fra forstærkerhuset skal være  
+
+ mekanisk solide med skruestik, bajonetstik eller forskruninger.
+ Chassisstikkene skal være af god kvalitet og med gevind eller anden  
+
+ låseordning.
+ 2.9.4 D2-forstærkerstationer.
+ 2.9.4.1 Temperaturområde.
+ Temperaturområdet bestemmes udfra kapitel 2.3.
+ 2.9.4.2 Forstærkerhus.
+Huset skal være mekanisk solidt og korrosionsfast.
+Det skal være stænktæt  
+
+ og opfylde IEC TC 70, publikation 529-IP44.
+ 2.9.4.3 Modforvrænger, dæmpningsled, fordelere m.v..
+ Som 2.9.3.3.
+ 2.9.4.4 Målepunkter.
+ Som 2.9.3.4.
+ 2.9.4.5 Koaksialstik, overgangsled m.v..
+ Som 2.9.3.5.
+ 2.9.5 D3-forstærkerstationer.
+ 2.9.5.1 Temperaturområde.
+ Temperaturområdet bestemmes udfra kapitel 2.3.
+ 2.9.5.2 Modforvrænger, dæmpningsled m.v.
+ Enhederne skal være indkapslede.
+ 2.9.5.3 Målepunkter.
+ Som 2.9.1.3.
+ 2.10 Korrosionsbestandighed.
+Det skal oplyses, om materiellet er for udendørs eller indendørs  
+
+ anvendelse.
+Materiel for anvendelse i uopvarmede rum eller udendørs skal være  
+
+ korrosionsbeskyttet eller opbygget af korrosionssikkert materiale.
+ 3.0 Tv-kanalforstærkere og tv-kanalomsættere.
+ En tv-kanalforstærker anvendes til at forstærke en tv-kanal, medens en  
+
+ tv-kanalomsætter anvendes til at frekvensomsætte og forstærke en tv-kanal.
+Tv-kanalomsættere kan være udført på flere forskellige måder, og der  
+
+ skelnes her mellem følgende to typer: A.
+Omsætter direkte fra en tv-kanal til  
+
+ en anden.
+B.
+Omsætter fra en tv-kanal til samme eller til en anden over en  
+
+ mellemfrekvens, f.eks. fB = 38,9-fL = 33,4 MHz Forstærkerens/omsætterens dynamik område defineres som det interval af  
+
+ indgangsniveauet indenfor hvilket de opgivne værdier for støjtal og  
+
+ intermodulationsafstand samt automatisk gain kontrol (AGC) er overholdt.
+ 3.1 Maksimal intermodulationsbegrænset udgangsspænding.
+ 3.1.1 Målemetode og måleopstilling.
+Fig. 3.1.1A.
+Måleopstilling til bestemmelse af maksimal  
+
+ intermodulationsbegrænset udgangsspænding.
+Signalerne fra de tre umodulerede målesendere indstilles til frekvenserne f1 = billedbærebølgen, f2 = farvebærebølgen og f3 = lydbærebølgen og med de på figur 3.1.1B viste relative amplituder på  
+
+ udgangen af måleobjektet.
+Spændingsniveauet af signalspektret til måleobjektet reguleres ved hjælp  
+
+ af dæmpningsled 1, indtil amplituden af det største af  
+
+ intermodulationsprodukterne, Ui og U'i, på måleobjektets udgang er 44 dB mindre end udgangsspændingen, U3. (Se fig. 3.1.1B).
+ Herefter måles effektivværdien af spændingen U3 på udgangen af  
+
+ måleobjektet og dens maksimale intermodulationsbegrænsede udgangsspænding er  
+
+ da 10 dB større end U3.
+ Hvis udstyret har manuel forstærkningsregulering, måles i begge  
+
+ yderstillinger af det specificerede variationsområde.
+Fig. 3.1.1B.
+Frekvensspektrum af udgangssignaler.
+ 3.1.2 Enheder med AGC-regulering.
+ Indsenderen skal oplyse, hvordan enhedens AGC afbrydes og forsynes med en  
+
+ eksternt konstant reguleringsspænding eller evt. angive, hvorledes målingen  
+
+ kan foretages indenfor enhedens reguleringsområde.
+ 3.1.3 Krav.
+ Den maksimale intermodulationsbegrænsede udgangsspænding skal oplyses og  
+
+ skal overholdes i hele indgangs dynamik område.
+ 3.2 Amplitude-frekvenskarakteristik.
+ 3.2.1 Målemetode og måleopstilling.
+ Måleniveauet skal være 6 dB mindre end udstyrets maksimale  
+
+ intermodulationsbegrænsede udgangsspænding, eller for enheder med AGC  
+
+ regulering, et passende niveau indenfor måleobjektets dynamik område.
+ Fig 3.2.1. Måleopstilling til måling af amplitude-frekvens- karakteristik.
+For tv-kanalforstærkere sættes omskifteren først i stilling 1. Målesender  
+
+ og målemodtager indstilles til måleobjektets frekvens.
+Dæmpningsled 1  
+
+ indstilles til der fås en passende spænding for udstyrets indgang.  
+
+ Dæmpningsled 2 indstilles til der fås et passende udslag på målemodtageren.  
+
+ Omskifteren sættes nu i stilling 2 og dæmpningsled 2 reguleres, til der fås  
+
+ samme udslag på målemodtageren som før.
+For tv-kanalomsættere sættes omskifteren først i stilling 1. Målesender og  
+
+ målemodtager indstilles til måleobjektets indgangsfrekvens.
+Dæmpningsled 1  
+
+ indstilles til en passende spænding for udstyrets indgang.
+Dæmpningsled 2  
+
+ indstilles til et passende udslag på målemodtageren.
+Omskifteren sættes nu i  
+
+ stilling 2, og målemodtageren indstilles til måleobjektetsudgangsfrekvens.  
+
+ Dæmpningsled 2 indstilles til samme udslag på målemodtageren.
+Hvis dæmpningen af dæmpningsled 2 i dB er henholdsvis A1 og A2 i stilling 1 og 2 bliver amplitudeforholdet: (A2 - A2) dB.
+Amplitudeforholdet måles ved så mange frekvenser, at der kan tegnes en  
+
+ kurve som funktion af frekvensen i et frekvensområde, der for PAL tv-system B  
+
+ mindst skal være fra fB - 8,25 MHz til fB + 12,75 MHz og for system G fra fB - 9,25 MHz til fB + 14,75 MHz.
+ Hvis udstyret har indbygget variabelt dæmpningsled, måles  
+
+ amplitudekarakteristikken med dæmpningsleddet indstillet i begge  
+
+ yderstillinger.
+ 3.2.2 Enheder med AGC-regulering.
+ Indsenderen skal oplyse hvordan enhedens AGC afbrydes og forsynes med en  
+
+ eksternt konstant reguleringsspænding eller evt. angive hvorledes målingen  
+
+ kan foretages indenfor enhedens reguleringsområde.
+ 3.2.3 Krav.
+ Forstærkere.
+ Amplitude-frekvenskarakteristikken skal være indenfor de respektive  
+
+ tolerancegrænser i en af figurerne 3.2.3a, 3.2.3b eller 3.2.3c i  
+
+ gennemgangsområdet i de forskellige delsystemer og/eller delnet.
+ Omsættere. (Direkte fra een tv kanal til en anden).
+ For enheder til normal- eller nabokanaldrift i de forskellige delsystemer  
+
+ og/eller delnet skal amplitude-frekvenskarakteristikken være indenfor de  
+
+ respektive maskekurver i en af figurerne 3.2.3a, 3.2.3b eller 3.2.3c.
+ Ved omsætning fra PAL/G til PAL/B-nabokanal er det kurven for PAL/B (Fig.  
+
+ 3.2.3b) der skal overholdes.
+Omsættere. (Separate enheder, der omsætter over mellemfrekvens). a.  
+
+ Omsættere fra HF til MF.
+Amplitude-frekvenskarakteristikken på MF-udgangen  
+
+ skal som minimum være indenfor maskekurverne i figur 3.2.3d.
+Indsenderen skal  
+
+ dokumentere, at den samlede omsætters (HF-MF-HF)  
+
+ amplitude-frekvenskarakteristik er indenfor maskekurverne i en af figurerne  
+
+ 3.2.3a, 3.2.3b eller 3.2.3c. b.
+Omsættere MF til HF.  
+
+ Amplitude-frekvenskarakteristikken på HF-udgangen skal som minimum være  
+
+ indenfor de respektive maskekurver i en af figurerne 3.2.3a, 3.2.3b eller  
+
+ 3.2.3c.
+Indsenderen skal dokumentere, at den samlede omsætters(HF-MF-HF)  
+
+ amplitude-frekvenskarakteristik er indenfor de respektive maskekurverne i en  
+
+ af figurerne 3.2.3a, 3.2.3b eller 3.2.3c.
+Gennemgangsområder fremgår af ovennævnte figurer.
+For forstærkere og  
+
+ omsættere til anvendelse i master er gennemgangsområdet lig kanalgrænserne  
+
+ som oplyst af indsenderen.
+ Det skal oplyses, hvilken kurve materiellet skal godkendes efter.
+ Data for maskekurverne i fig 3.2.3a:
+Vedrørende H1 delsystemer se Fig. 3.2.3b eller c Fig 3.2.3a.
+Maskekurver for amplitude-frekvenskarakteristikker for  
+
+ delsystemerne H2, D1, D2 og D3 i PAL tv-system B og G ved normal drift.
+ Data for maskekurverne i fig 3.2.3b:
+Fig 3.2.3b.
+Kurve 1 er maskekurve for amplitude-frekvenskarakteristikken  
+
+ for delsystem H1 i PAL tv-system B ved nabokanaldrift.
+Kurver for de andre  
+
+ delsystemer fås ved at afsætte relevante data fra tabellen på figuren.
+ Kurve 2 er maskekurven, når underliggende nabokanal fører digital  
+
+ stereo-lyd (NICAM).
+ Data for maskekurverne i fig 3.2.3c:
+Fig 3.2.3c.
+Maskekurver for amplitude-frekvenskarakteristik i  
+
+ delsystemerne H1 i tv-system G ved nabokanaldrift.
+ Maskekurver for de andre delsystemer fås ved at indsætte data fra tabellen  
+
+ på figuren.
+Fig. 3.2.3d.
+Maskekurver for HF til MF kanalomsætteres  
+
+ amplitude-frekvenskarakteristik i delsystem H1. Maskekurver for de andre  
+
+ delsystemer fås ved at tage data fra tabellen og afsætte på figuren.
+ 3.3 Støjtal.
+ 3.3.1 Målemetode og måleopstilling.
+ Fig.3.3.1. Måleopstilling til måling af støjtal.
+ Målemetoden er baseret på en støjgenerator, der afgiver to forskellige  
+
+ støjeffekter svarende til støjkildetemperaturerne T/kold og T/varm ( Hot/cold  
+
+ eller Y-faktor metode).
+ Målemodtageren, der kun anvendes som indikator, skal have en egenstøj, der  
+
+ er så lille, at den ikke har kendelig indflydelse på aflæsningsnøjagtigheden.
+Først stilles støjgeneratorens i dens kolde tilstand.
+Dæmpningsleddet og  
+
+ målemodtageren indstilles, så der fås et passende udslag, der er  
+
+ referanceniveauet.
+ Derefter stilles støjgeneratoren i dens varme tilstand, Tvarm og v.h.a.  
+
+ dæmpningsleddet indskydes så megen dæmpning, at der fås samme udslag som før.  
+
+ Den indskudte dæmpning i rent tal er den såkaldte Y-faktor, der benyttes i  
+
+ det følgende til at udregne støjtallet efter formlen:
+T/kold er støjtemperaturen af støjkilden i dens kolde tilstand.
+Den svarer  
+
+ til omgivelsestemperaturen i grader Kelvin (273 grader C +  
+
+ omgivelsestemperaturen i grader C).
+ T/varm opgives af støjgeneratorens fabrikant som:
+Målingen foretages ved så mange frekvenser, at støjtallet kan afbildes som  
+
+ funktion af frekvensen i udstyrets frekvensområde.
+Målingerne gentages i  
+
+ temperaturområdet som anvist i Kapitel 2.3 og der rapporteres den mindste af  
+
+ de målte værdier.
+ Hvis udstyret har manuel forstærkningsregulering, stilles den i begge  
+
+ yderstillinger af det specificerede variationsområde.
+ 3.3.2 Enheder med AGC-regulering.
+ Indsenderen skal oplyse, hvordan enhedens AGC afbrydes og forsynes med en  
+
+ eksternt konstant reguleringsspænding eller evt. angive, hvorledes målingen  
+
+ kan foretages indenfor enhedens reguleringsområde.
+ 3.3.3 Krav.
+ Støjtallet oplyses.
+ For enheder med AGC regulering skal indsenderen oplyse yderligere  
+
+ variationen af signal/støj forholdet som funktion af indgangsniveau.
+ 3.4 Refleksionsdæmpning.
+ 3.4.1 Målemetode og måleopstilling.
+ Fig.3.4.1. Måleopstilling til måling af refleksionsdæmpning.
+Målesenderen skal afgive et umoduleret signal på en frekvens i  
+
+ måleobjektets frekvensområde.
+Måleniveauet skal være det nominelle  
+
+ driftniveau, der opgives af fabrikanten.
+ Der etableres først et referenceniveau, A1, på målemodtageren ved at lade  
+
+ broens testport være åben (åben = fuld refleksion, refleksionskoefficient =  
+
+ 1).
+Derefter tilsluttes måleobjektet til broens testport og målemodtagerens  
+
+ niveau, A2, aflæses.
+Refleksionsdæmpningen er da A1-A2 dB.
+ Refleksionsdæmpningen måles for samtlige signalindgange og -udgange og ved  
+
+ så mange frekvenser, at den kan afbildes i en kurve som funktion af  
+
+ frekvensen i den overførte kanal.
+ Hvis enheden har et indbygget variabelt dæmpningsled, måles  
+
+ refleksionsdæmpningen med dette indstillet i begge yderstillinger.
+ Hvis udstyret har AGC-regulering, skal målingen udføres ved så mange  
+
+ stillinger af AGC at måleresultatet kommer til udtryk indenfor  
+
+ reguleringsområdet.
+ 3.4.2 Krav.
+ Refleksionsdæmpningen for enhedernes signalind- og udgange skal i hele  
+
+ kanalens bredde mindst være:
+Kanalbredde: PAL System B: (fb - 0,75) til (fb + 5,85) PAL System G: (fb -  
+
+ 0,75) til (fb + 6,1) For enheder med separat billed h.h.v. lydbehandling skal ovenstående krav  
+
+ være overholdt i et frekvensområde, der mindst er:
+For enheder, der skal typegodkendes til anvendelse i delsystemerne F3 og  
+
+ F4 og med en nominel udgangsimpedans på 37,5 Ohm, stilles der ikke særlige  
+
+ krav til refleksions-dæmpningen på de udgange, hvor de sammenkobles ved  
+
+ gennemsløjfning.
+Refleksionsdæmpningen på udgangen af sløjfeledningen skal  
+
+ overholde kravet for det net, enheden skal godkendes til.
+Eventuelle  
+
+ nødvendige ydre impedanstilpasningsled skal indgå i afprøvningen.
+ 3.5 AGC-reguleringsområde.
+ Ved AGC-reguleringsområdet for en tv-kanalforstærker eller -omsætter  
+
+ forstås den signalspændingsændring på indgangen, der giver en nærmere  
+
+ specificeret ændring på udgangen (se afsnit 3.5.2).
+ 3.5.1 Målemetode.
+ Fig.3.5.1. Måleopstilling til måling af AGC-reguleringsområde.
+ Enhederne skal indreguleres efter fabrikantens forskrifter.
+Målesenderen skal afgive et signal for VHF system B eller UHF system G,  
+
+ svarende til den kanal, måleobjektet er beregnet for at forstærke eller  
+
+ frekvensomsætte.
+Målemodtageren indstilles til den kanal, som måleobjektet  
+
+ afgiver.
+Udgangsniveauet fra måleobjektet skal svare til fabrikantens  
+
+ forskrifter for indreguleret tilstand.
+ Med dæmpningsled 1 ændres indgangsniveauet til måleobjektet indenfor  
+
+ fabrikantens specificerede dynamikområde, og udgangsniveauet iagttages.
+ 3.5.2 Krav.
+ Kravene skal overholdes med varierende billedindhold (skift fra sort til  
+
+ hvid).
+ 3.6 Gruppeløbetidsvariation.
+Ved gruppeløbetidsvariation (indenfor videobåndet 25 Hz - 5.0 MHz) forstås  
+
+ afvigelsen fra en lineær fase-frekvenskarakteristik.
+Denne afvigelse måles  
+
+ som forskellen mellem hældningen af fase-frekvenskarakteristikken ved en  
+
+ given frekvens og hældningen ved reference-frekvensen, 200 kHz.
+ 3.6.1 Målemetode.
+ Måleopstillingen svarer til IEC publication 244-5B og ses i fig. 3.6.1.
+ Fig. 3.6.1. Måleopstillig til bestemmelse af gruppeløbetidsvariation.
+ Den komplette måleopstilling (minus tv-modulator og demodulator) findes  
+
+ som kommercielt måleinstrument (stiplede linie).
+Udgangssignalet fra »Videogenerator/AM-modulator'en« er en  
+
+ bærebølge, der er amplitude-moduleret med et 20 kHz signal.
+Dette signal  
+
+ tilføjes synk-pulser og sendes gennem tv-modulatoren til måleobjektet.
+Efter  
+
+ demodulationen føres signalet til en fasedetektor, hvor testtonens  
+
+ fasedrejning i forhold til modulationssignalet måles.
+ Fasedrejningen omregnes til gruppeløbetid ved hjælp af formlen:
+ Tv-modulatoren indstilles på tv-kanalens billedbærebølge.
+ Måleniveauet skal være måleobjektets nominelle indgangsniveau efter  
+
+ fabrikantens forskrifter.
+ Tv-demodulatoren stilles til modtagning af den valgte tv-kanal.  
+
+ AM-modulatorens frekvens ændres inden for området 0,1 til 4,43 MHz og  
+
+ målingen gentages, så gruppeløbetiden kommer til udtryk som funktion af  
+
+ frekvensen i måleobjektets videobånd.
+ Gruppeløbetisvariationen bestemmes med formlen ovenfor eller udlæses  
+
+ direkte fra det kommercielle måleinstrument.
+ 3.6.2 Krav.
+ 3.7 Differentiel forstærkning.
+ Herved forstås farvebærebølgens amplitudevariation som funktion af det  
+
+ overlejrede trappeluminans-signals amplitude (se indgangssignalet i fig.  
+
+ 3.7.1.
+ 3.7.1. Målemetode og måleopstilling.
+ Den differentielle forstærkning måles som beskrevet i IEC Publication  
+
+ 728-1, kap. 12, 1986 og ses i fig. 3.7.1.
+ Fig 3.7.1 Indgangssignal, måleopstilling og udgangssignal.
+Videogeneratoren skal afgive et testsignal som vist i fig.3.7.1.  
+
+ Måleniveauet skal være det nominelle indgangsniveau for måleobjektet efter  
+
+ fabrikantens forskrifter.
+Den differentielle forstærkning kan udlæses direkte  
+
+ på specielle måleinstrumenter f. eks. et vektorskop.
+ 3.7.2 Krav.
+ 3.8 Differentiel fase.
+ Herved forstås farvebærebølgens faseændring som funktion af det  
+
+ overlejrede trappeluminans-signal (se indgangssignalet i figur 3.8.1).
+ 3.8.1 Målemetode og måleopstilling.
+ Den differentielle fase måles som beskrevet i IEC Publication 728-1 og er  
+
+ vist i fig.3.8.1.
+ Fig 3.8.1. Indgangssignal, måleopstilling og udgangssignal.
+ Videogeneratoren skal afgive et videotestsignal som vist i figur 3.7.1.a.
+ Måleniveauet skal være det nominelle indgangsniveau for måleobjektet efter  
+
+ fabrikantens forskrifter.
+ Den differentielle fase kan udlæses direkte på specielle måleinstrumenter  
+
+ f. eks. et vektorskop.
+ 3.8.2 Krav.
+ 3.9 Dekodnings margin.
+ Et tekst tv-signals dekodnings margin er defineret som spændingsforskellen  
+
+ mellem det mindste binære 1 og det største binære 0 i en sekvens på 1000  
+
+ bits.
+ Spændingsforskellen angives i procent i forhold til 66 % af ITS barren.
+ 3.9.1 Målemetode og måleopstilling.
+ Fig. 3.9.1. Måleopstillig til bestemmelse af dekodnings margin.
+Tekst-tv generatoren afgiver et tekst-tv signal, der er indsat i givne tv  
+
+ linier.
+I ITS inserteren tilføjes et »ITS linie 19« test signal  
+
+ (test signal 17 iflg.
+CCIR rec. 567). Det resulterende signal føres til en  
+
+ VSB-IF modulator.
+I op-konverteren konverteres IF signalet til den aktuelle  
+
+ TV-kanal.
+Måleobjektets udgangssignal tilsluttes en synkron demodulator og  
+
+ det demodulerede signal tilføres et dekoding margin meter.
+ Måleniveauerne justeres som følger:
+ Udgang på ITS inserter: Nominel video: 1 V p-p.
+ Udgang på HF modulator: Rekommanderet indgangsniveau til måleobjektet.
+Der udføres først en referencemåling uden måleobjekt (omskifterne i pos.  
+
+ 1) og dekodnings margin bestemmes ( DM1). For tv kanalomsættere skal  
+
+ referencemålingen udføres ved omsætterens ind- og udgangsfrekvenser.
+Det  
+
+ resulterende reference dekodnings margin ( DM1) er middelværdien af de to  
+
+ målinger.
+ Måleobjektet indsættes i måleopstillingen og efter justering af frekvenser  
+
+ og niveauer udlæses den resulterende dekodnings margin (DM2).
+ Forringelsen af dekodnings margin er da: (DM1 - DM2)/DM1.
+ DM2 udtrykker datakanalens godhed.
+ 3.9.2 Måleopstillingens egnethed.
+ Dekodnings margin målt ved referencemålingen (DM1) skal være så høj som  
+
+ muligt.
+ 3.9.3 Krav.
+Dekodnings margin må højst forringes 10 % gennem måleobjektet.
+Det skal  
+
+ angives ved hvilket Bit Error Rate (BER), at dekodnings marginen er målt.
+ 3.10 HF-udstråling og skærmdæmpning.
+ 3.10.1 Målemetode og måleopstilling.
+ Som i kapitel 2.7.
+ 3.10.2 Krav.
+ Som i kapitel 2.7.6 og 2.7.7.
+ 3.11 Kanalomsætteres relative følsomhed overfor uønskede indgangssignaler.
+ Ved en tv-kanalomsætters følsomhed overfor uønskede indgangssignaler  
+
+ forstås forholdet mellem dens følsomhed overfor billedbærebølgen i den  
+
+ tv-kanal, enheden er beregnet til at omsætte, og dens følsomhed for uønskede  
+
+ indgangssignaler udenfor kanalen (i området 0,15 til 862 MHz).
+ 3.11.1 Målemetode og måleopstilling.
+ Fig 3.11.1. Måleopstilling til måling af kanalomsætteres relative  
+
+ følsomhed overfor uønskede signaler.
+ Den selektive målemodtager er ved alle målinger indstillet på  
+
+ billedbærebølgen i udgangskanalen.
+Herefter indstilles målesenderen til billedbærebølgens frekvens i  
+
+ kanalomsætterens indgangskanal, og niveauet reguleres, så den omsatte  
+
+ udgangsspænding U1 på udgangen af kanalomsætteren er 6 dB mindre end den maksimale intermodulationsbegrænsede udgangsspænding.
+ Med målesenderen sweepes ved konstant spændingsniveau i frekvensområdet  
+
+ 0,15 - 862 MHz og udenfor den kanal, der omsættes til og dens nabokanaler.
+ De på målemodtageren registrerede udgangsspændinger U2 noteres.  
+
+ tv-kanalomsætterens relative følsomhed for et uønsket signal er da: 20 log  
+
+ (U2 / U1) (dB).
+ 3.11.2 Enheder med AGC-regulering.
+ Indsenderen skal oplyse hvordan enhedens AGC afbrydes og forsynes med en  
+
+ ekstern, konstant reguleringsspænding eller evt. angive, hvorledes målingen  
+
+ kan foretages indenfor enhedens reguleringsområde.
+ 3.11.3 Krav.
+ For alt materiel skal den relative følsomhed for et uønsket indgangssignal  
+
+ i frekvensområdet 0,15 til 862 MHz højst være -46 dB dog undtaget signaler i  
+
+ den kanal, hvortil der omsættes og dennes nabokanaler.
+ 3.12 Uønskede signaler fra tv-kanalomsætteres signalindgange og -udgange.
+ 3.12.1 Målemetode og måleopstilling.
+ Fig. 3.12.1 Måleopstillinger til måling af uønskede signaler på  
+
+ tv-kanalomsætteres signalindgange og -udgange.
+ Såfremt udstyret er forsynet med manuel forstærkningsregulering,  
+
+ indstilles denne til maksimal forstærkning.
+Ved måling af uønskede signaler fra udgange indstilles målesenderen til at  
+
+ afgive et umoduleret signal på billedbærebølgens frekvens.
+Niveauet  
+
+ indstilles således, at spændingen på udgangen af enheden bliver lig med den  
+
+ maksimale intermodulationsbegrænsede udgangsspænding.
+ Med målemodtageren tilsluttet udgangen gennemsøges frekvensområdet 30 til  
+
+ 862 MHz og uønskede signaler måles.
+Ved måling af uønskede signaler fra indgangen afsluttes udgangen med en  
+
+ afslutningsmodstand.
+Målemodtageren tilsluttes indgangen og frekvensområdet  
+
+ 30 til 862 MHz gennemsøges og uønskede signaler måles.
+ 3.12.2 Tv-kanalomsættere med AGC.
+ Indsenderen skal oplyse hvordan enhedens AGC afbrydes og forsynes med en  
+
+ eksternt konstant reguleringsspænding eller evt. angive hvorledes målingen  
+
+ kan foretages med AGC'en slået til.
+ 3.12.3 Krav.
+ Indgang.
+ De uønskede signaler på indgangen (bortset fra signalet fra målesenderen)  
+
+ må ikke overskride følgende værdier:
+ Udgang.
+ De uønskede signaler på udgangen skal i frekvensområdet 30 - 862 MHz og  
+
+ udenfor den ønskede kanal mindst være dæmpet følgende i forhold til  
+
+ udgangssignalets billedbærebølge:
+ 3.13 Kanalomsætteres frekvensstabilitet.
+ 3.13.1 Målemetode og måleopstilling.
+ Fig.3.13.1. Måleopstilling til bestemmelse af frekvensstabilitet.
+Frekvenstælleren eller spektrumanalyseren indstilles først til  
+
+ billedbærebølgens frekvens og senere til lydbærebølgens frekvens.
+De to  
+
+ målinger sammenlignes til bestemmelse af forskellen mellem billedbærebølgens  
+
+ frekvens minus lydbærebølgens.
+Måleobjektet underkastes temperatur- og  
+
+ forsyningsspændingsvariationer i områderne:
+ Udgangssignalets frekvens måles ved de forskellige tilstande.
+ 3.13.2 Krav.
+Billedbærebølgens frekvensafvigelse: Maks. +/- 75 kHz i forhold til den  
+
+ nominelle værdi Er materiellet opbygget som separat billed- og lyd oscillatorer, skal  
+
+ forskellen mellem billed- og lydbærebølge samt evt. lydbærebølgerne indbyrdes  
+
+ holdes indenfor +/- 5 kHz.
+3.14 Brummodulationsafstand Kravene skal kun være opfyldt, hvis udstyret anvendes til overførsel af  
+
+ vekselstrømme.
+ 3.14.1 Målemetode og måleopstilling.
+ Se kapitel 8.
+ 3.14.2 Krav.
+ For hvert af frekvensområderne 5-40 MHz og 40-862 MHz oplyses, ved hvilken  
+
+ strøm brummodulationsafstanden er 65 dB.
+ 4.0 Bånd- og bredbåndsforstærkere.
+ 4.1 Indledning.
+ En båndforstærker anvendes til at overføre tv- og/eller FM-signaler  
+
+ indenfor et af VHF-båndene (1, 2, og 3), mellembåndene, UHF-båndene (4 og 5)  
+
+ og evt. returvej.
+ En bredbåndsforstærker anvendes til at overføre mere end et af ovennævnte  
+
+ bånd.
+Bånd- og bredbåndsforstærkere kan for kompensation af  
+
+ kabeldæmpningsvariationen forårsaget af temperaturvariationer være  
+
+ pilottoneregulerede.
+Pilottoneregulering er nærmere beskrevet i kapitel 22.
+ 4.2 Maksimal intermodulationsbegrænset udgangsspænding.
+ Ved en bånd- eller bredbåndsforstærkers maksimale  
+
+ intermodulationsbegrænsede udgangsspænding ved overføring af et antal tv-  
+
+ (eller FM-) kanaler, forstås værdien af den udgangsspænding, som bestemmes  
+
+ ved følgende målemetoder.
+ 4.2.1 Målemetoder og måleopstillinger.
+ Fig 4.2.1 Frekvensspektrum på udgangen af bånd- og bredbåndsforstærkere.
+ Afhængig af det antal tv-kanaler, som udstyret skal overføre, kan vælges  
+
+ mellem to forskellige målemetoder.
+ Målemetode 1 svarer til DIN 45004B.
+ For materiel, der skal overføre mere end 24 tv-kanaler, kan anvendes  
+
+ målemetode 2, CTB (composite triple beat)- metoden, som er en modificeret  
+
+ udgave af IEC 728-1, kap.9.
+ Målemetode 1 (DIN 45004B):
+ Måleopstillingen er som vist i figur 3.1.1A.
+De tre umodulerede målesendere indstilles til frekvenserne f1, f2 og f3, der er vilkårlige indenfor materiellets frekvensområde, og  
+
+ med de i fig. 4.2.1 viste frekvensafstande og relative amplituder.
+ Spændingsniveauet af det til måleobjektet førte signalspektrum reguleres  
+
+ ved hjælp af dæmpningsled 1 indtil amplituden af intermudulationsprodukterne  
+
+ Ui i udgangssignalet er ai (se fig 4.2.1) mindre end udgangsspændingen, U3.
+ Herefter måles effektivværdien af forstærkerens udgangsspænding U3 og det  
+
+ er den maksimale intermodulationsbegrænsede udgangsspænding.
+ Målingen foretages ved så mange frekvenser, at den maksimale  
+
+ intermodulationsbegrænsede udgangsspænding kan afbildes i en kurve som  
+
+ funktion af frekvensen.
+ Som minimum skal der måles i hvert af de bånd, forstærkeren kan overføre  
+
+ og fortrinsvis i båndenes øvre ende.
+ Den maksimale intermodulationsbegrænsede udgangsspænding er den mindste af  
+
+ de målte værdier.
+ Hvis udstyret har manuel forstærkningsregulering efter indgangstrinet,  
+
+ måles i yderstillingerne af det specificerede variationsområde.
+ Målemetode 2 (CTB-metoden):
+Målemetoden ses i figur 4.2.2. Måleobjektet tilsluttes et antal  
+
+ målesendere med et frekvensraster, der svarer til det eller de rastere, som  
+
+ det skal operere ved.
+Niveauet på hver målesender justeres til det nominelle  
+
+ for måleobjektet efter fabrikantens oplysninger.
+Ved bestemmelsen måles intermodulationsprodukterne i hver kanal hidrørende  
+
+ fra de øvrige signaler.
+Målesenderne afbrydes een ad gangen og  
+
+ intermodulationsprodukterne måles i hver eneste kanal.  
+
+ Intermodulationsafstanden ai er forskellen i dB mellem det målte  
+
+ intermodulationsprodukt i kanalen og kanalens udgangsspænding.
+Der udføres først en referencemåling, hvor A og B samt C og D  
+
+ korstsluttes.
+Niveauet på hver målesender justeres til det nominelle for  
+
+ måleobjektet efter fabrikantens forskrifter.
+ Med spektrumanalyseren undersøges den valgte tv-kanal, fbx, ved fuldt  
+
+ udslag.
+ Det korrekte båndpasfilter indskydes mellem C og D og niveauet af  
+
+ frekvensrasteret justeres til at kompensere for filtrets gennemgangstab.
+ Fig 4.2.2 Måleopstilling til bestemmelse af den maksimale  
+
+ intermodulationsbegrænsede udgangsspænding efter CTB-metoden.
+Målesender x afbrydes og det kontrolleres, at de i måleopstillingen (især  
+
+ i spektrumanalyseren) dannede intermodulationsprodukter er mindst 65 dB  
+
+ lavere end niveauet af fbx.
+Hvis dette ikke er tilfældet, ændres der på  
+
+ spektrumanalyserens følsomhed.
+ Målesender x tilsluttes igen og måleobjektet indskydes mellem A og B.  
+
+ Måleopstillingens niveauer justeres til at opnå de nominelle værdier i B  
+
+ efter fabrikantens forskrifter og fuldt udslag på spektrumanalyseren.
+ Målesender x afbrydes og niveauet af frekvensrasteret reguleres op ved  
+
+ hjælp af dæmpningsled 2 indtil amplituden af det største af  
+
+ intermodulationsprodukterne Ui i udgangssignalet ligger ai dB under  
+
+ udgangsspændingen af fbx.
+Det vil ofte være tilstrækkeligt at foretage målingen i nogle få  
+
+ tv-kanaler, som ud fra beregningsmæssige overvejelser kan udpeges som de mest  
+
+ belastede med hensyn til anden og tredie harmoniske.
+Som minimum måles i  
+
+ hvert af de bånd forstærkeren overfører og fortrinsvis i båndenes centrum og  
+
+ øvre ende.
+ Den maksimale intermodulationsbegrænsede udgangsspænding er den mindste af  
+
+ de målte værdier.
+ For udstyr med manuel forstærkningsregulering efter indgangstrinet, måles  
+
+ i begge yderstillinger af det specificerede variationsområde.
+ 4.2.2 Måleopstillingens egnethed.
+Måleopstillingens egen IMA skal være bedre end 65 dB.
+Spektrumanalyseren  
+
+ skal have en båndbredde, der medtager alle intermodulationsprodukter, der  
+
+ falder indenfor den målte kanal.
+ 4.2.3 Krav.
+ Intermodulationsafstanden ai skal min. være:
+ Den maksimale intermodulationsbegrænsede udgangsspænding skal oplyses.
+Ved måling efter CTB-metoden skal indsenderen yderligere oplyse med  
+
+ hvilket eller hvilke rastere IMA er målt.
+Hvis udstyret skal anvendes til  
+
+ andre tv-kanaler end det er godkendt til, skal det godkendes igen.
+ 4.2.4 Bånd- og bredbåndsforstærker med AGC-regulering.
+ Som kapitel 3.1.2.
+ 4.3 Amplitude-frekvenskarakteristik.
+ 4.3.1 Målemetode og måleopstilling.
+ Som kapitel 3.2.1 og kun den del, der gælder for kanalforstærkere.
+ Amplitudeforholdet måles ved så mange frekvenser, at der kan tegnes en  
+
+ kurve som funktion af frekvensen i udstyrets frekvensområde.
+ Der måles for alle sammenhørende indgange og udgange.
+ Hvis udstyret har indbygget manuel forstærkningsregulering, måles som  
+
+ minimum med dæmpningsleddet i begge yderstillinger af det specificerede  
+
+ variationsområde.
+ 4.3.2 Bånd- og bredbåndsforstærker med AGC-regulering.
+ Som punkt 3.1.2.
+ 4.3.3 Krav.
+Amplitude-frekvenskarakteristikken skal have et jævnt forløb indenfor det  
+
+ af fabrikanten opgivne frekvensområde d.v.s enten lineær eller tiltet til at  
+
+ korrigere for en bestemt kabeldæmpningskurve.
+Fabrikanten skal oplyse,  
+
+ hvilket kabel tilten er tilpasset.
+ Den totale afvigelse fra den nominelle karakteristik må, anvendt i de  
+
+ forskellige delsystemer og net, maksimalt være:
+ 4.4. Anden ordens intermodulationsafstand.
+ 4.4.1 Målemetode og måleopstilling.
+ Fig.4.4.1 Måleopstilling til bestemmelse af anden ordens  
+
+ intermodulationsafstand.
+De to umodulerede målesendere indstilles til to vilkårlige frekvenser fA  
+
+ og fB indenfor forstærkerens frekvensområde.
+Indgangsniveauet til  
+
+ forstærkeren indstilles således, at udgangsspændingerne UA og UB begge er lig  
+
+ med forstærkerens intermodulationsbegrænsede udgangsspænding.
+På udgangen kan der være anden ordens intermodulationsprodukter på  
+
+ frekvenserne: fA - fB og fA + fB Spændingsafstanden i dB mellem UA eller UB og de enkelte 2'ordens  
+
+ produkter, som falder indenfor forstærkerens frekvensområde, måles.
+Der foretages målinger af anden ordens produkter ved forskellige værdier  
+
+ af fA og fB.
+Som minimum måles med fA og fB placeret indenfor hvert bånd.
+For  
+
+ bredbåndsforstærkere skal endvidere måles med fA placeret i den nedre ende og  
+
+ fB i den øvre ende af frekvensområdet.
+ Forstærkerens anden ordens intermodulationsafstand er lig med den mindste  
+
+ af de målte spændingsafstande.
+ Hvis forstærkeren har manuel forstærkningsregulering, måles i begge  
+
+ yderstillinger af det specificerede variationsområde.
+ 4.4.2 Bånd- og bredbåndsforstærker med AGC-regulering.
+Som kapitel 3.1.2 4.4.3 Krav.
+Intermodulationsafstanden skal min. være: For H1, H2, D1, D2 og D3: Min 52  
+
+ dB.
+For F3 og F4: Værdierne oplyses.
+4.5 Støjtal 4.5.1 Målemetode og måleopstilling.
+ Som punkt 3.3.1.
+ 4.5.2 Bånd- og bredbåndsforstærker med AGC-regulering.
+ Som punkt 3.3.2.
+ 4.5.3 Krav.
+Støjtallet skal angives ved forskellige forstærkninger og minimum i de to  
+
+ specificerede yderstillinger.
+Det samme gælder for tiltede forstærkere.
+ 4.6 Refleksionsdæmpning.
+ 4.6.1 Målemetode og måleopstilling.
+ Som punkt 3.4.1.
+ 4.6.2 Bånd- og bredbåndsforstærker med AGC-regulering.
+ Refleksionsdæmpningen skal skal måles i flere stillinger.
+ 4.6.3 Krav.
+ Refleksionsdæmpningen for enhedernes signalindgange og -udgange skal i det  
+
+ frekvensområde, de er specificeret for, mindst være:
+ 4.7 HF-udstråling og skærmdæmpning.
+ 4.7.1 Målemetode og måleopstilling.
+ Som i kapitel 2.7.
+ 4.7.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+ 4.8 Isolation mellem udgangene.
+ Dæmpningen i dB mellem forstærkerudgangene skal min. være:
+Un er signalniveauet på udgang n og Um er signalniveauet på udgang m.
+Det  
+
+ største signalniveau er på udgang n.
+ 4.9 Brummodulationsafstand.
+ Kravene skal kun være opfyldt, hvis udstyret anvendes til overførsel af  
+
+ jævn- eller vekselstrømme.
+ 4.9.1 Målemetode og måleopstilling.
+ Som i kapitel 8.
+ 4.9.2 Krav.
+ For hvert af frekvensområderne 5-40 MHz og 40-862 MHz oplyses ved hvilken  
+
+ strøm, brummodulationsafstanden er 65 dB.
+ 5 FM-kanalomsættere og kanalforstærkere.
+ 5.1 Indledning.
+ Kanalforstærkere og FM-kanalomsættere anvendes til henholdsvis at  
+
+ forstærke og frekvensomsætte FM-kanaler.
+ Kanalomsættere kan enten være udførte, så de overfører indgangsfrekvensen  
+
+ uændret eller omsætter den til en anden udgangsfrekvens.
+ Kanalforstærkere og -omsættere kan forsynes med automatisk  
+
+ niveauregulering (AGC) til begrænsning af signalspændingsvariationer på  
+
+ udgangene.
+ Kanalomsætterne er opdelt i kategorierne 1 og 2. Kategori 2 er kendetegnet  
+
+ ved at have størst selektivitet.
+ 5.2 Krydstale mellem venstre (L) og højre (R) kanal.
+ 5.2.1 Målemetode og måleopstilling.
+ Fig. 5.2.1 Måleopstillig til måling af krydstale mellem L og R kanalerne.
+ Målingerne udføres uden for- og efterbetoning.
+Tonegeneratoren indstilles til en frekvens i området 40-15000 Hz.  
+
+ Stereoenkoderen indstilles til at afgive et stereosignal og pilot.  
+
+ FM-modulatoren indstilles til at afgive et FM-moduleret stereosignal med et  
+
+ frekvenssving på +/- 75 kHz på måleobjektets indgangsfrekvens.
+Der måles  
+
+ først med en indgangsspænding på måleobjektet på 46 dBuV og herefter på 66  
+
+ dBuV.
+Tonegeneratoren tilsluttes henholdsvis L og R indgangen på  
+
+ stereoenkoderen.
+Ved hjælp af voltmeteret bestemmes krydstalen mellem L og R  
+
+ kanalerne.
+Den måles ved så mange frekvenser, at den kan afbildes som en  
+
+ funktion af frekvensen i området 40 til 15000 Hz.
+ 5.2.2 Krav.
+ Se CCIR Volumen X, part 1, Rec. 644.
+ Kanalforstærkere og kanalomsættere kategori 1:
+ Min. 40 dB i frekvensområdet 300 Hz - 4 kHz.
+ Min. 40 dB - 6 dB/oktav udenfor området 300 Hz - 4 kHz.
+ Kanalomsættere kategori 2:
+ Min. 26 dB i frekvensområdet 300 Hz - 4 kHz.
+ Min. 26 dB - 6 dB/oktav udenfor området 300 Hz - 4 kHz.
+ 5.3 Klirfaktor (harmonisk forvrængning).
+ 5.3.1 Målemetode.
+ig Fig. 5.3.1 Måleopstilling til måling af klirfaktor.
+ Målingen udføres med for- og efterbetoning.
+Tonegeneratoren indstilles til en frekvens i området 40-5000 Hz.  
+
+ Stereoenkoderen indstilles til at afgive et stereosignal med pilot.  
+
+ FM-modulatoren indstilles til at afgive et FM-moduleret stereosignal med et  
+
+ frekvenssving på +/- 75 kHz på måleobjektets indgangsfrekvens.
+Der måles  
+
+ først med en indgangsspænding på måleobjektet på 46dBuV og herefter på 66  
+
+ dBuV.
+Tonegeneratoren tilsluttes henholdsvis L og R indgangen på  
+
+ stereoenkoderen, og ved hjælp af forvrængningsmåleren bestemmes den ulineære  
+
+ forvrængning i L og R kanalerne.
+Målingerne foretages ved så mange  
+
+ frekvenser, at den ulineære forvrængning kan tegnes som en funktion af  
+
+ frekvensen i området 40 - 5000 Hz.
+ 5.3.2 Krav.
+ Kanalforstærkere og -omsætter kategori 1: Maks. 0,5 %.
+ Kanalomsættere kategori 2 : Maks. 1 %.
+ 5.4 Signal/støj forhold.
+ 5.4.1 Målemetode og måleopstilling.
+ Målingen udføres med for- og efterbetoning.
+Tonegeneratoren indstilles på 1 kHz og tilsluttes henholdsvis L og R  
+
+ indgangen på stereoenkoderen, der skal afgive et stereosignal med pilot.  
+
+ FM-modulatoren indstilles til at afgive et FM-moduleret stereosignal med et  
+
+ frekvenssving på +/- 75 kHz på måleobjektets indgangsfrekvens.
+Der måles  
+
+ først med en indgangsspænding på måleobjektet på 60 dBuV og derefter på 80  
+
+ dBuV.
+ Ved hjælp af voltmetret bestemmes LF-niveauet på henholdsvis L og R  
+
+ udgangen på måledekoderen.
+Tonegeneratoren afbrydes og med voltmetret måles støjniveauet (quasi-peak)  
+
+ på henholdsvis L og R udgangen på måledekoderen, og signal/støj forholdet kan  
+
+ bestemmes.
+Voltmetret skal have vægtfilter efter CCIR 468-4. Målebåndbredden  
+
+ skal være 15 kHz.
+ Fig. 5.4.1 Måleopstilling til måling af signal/støj forhold for L og R  
+
+ kanalerne.
+ 5.4.2 Krav.
+Indenfor niveauerne 60 - 80 dBuV: Kanalforstærkere og kanalomsættere  
+
+ kategori 1: 60 dB.
+Kanalomsættere kategori 2 : 54 dB.
+ 5.5 Følsomhed overfor uønskede signaler på indgangen (Dynamisk  
+
+ selektivtet).
+ 5.5.1 Målemetode.
+ Fig. 5.5.1 Måleopstilling til måling af følsomhed overfor uønskede  
+
+ signaler på indgangen.
+ Målesender 1 indstilles til måleobjektets indgangsfrekvens.  
+
+ Indgangsniveauet til måleobjektet skal være 46 dBuV for kanalforstærkere og  
+
+ kanalomsættere kategori 1. For kategori 2 skal det være 34 dBuV.
+ Målesender 1 frekvensmoduleres med en 1 kHz tone og udstyres med et  
+
+ frekvenssving på +/- 7,5 kHz (svarende til 20 dB under fuld udstyring).  
+
+ Udslaget på voltmetret noteres og benyttes som referenceniveau.
+ Idet bærebølgen bibeholdes fjernes modulationen på målesender 1 og  
+
+ målesender 2 moduleres med en 1 kHz tone til +/- 75 kHz frekvenssving.
+Målesender 2 stilles efter tur på de i fig. 5.4.2 anførte afvigelser fra  
+
+ modtagefrekvensen.
+Udgangsniveauet fra målesenderen øges, indtil der med  
+
+ voltmetret måles et signal/støj forhold på 35 dB rms for kategori 1 og 29 dB  
+
+ rms for kategori 2 i forhold til det tidligere etablerede referenceniveau.  
+
+ Voltmetret skal have vægtfilter efter CCIR 468-4.
+ Det svarer til et signal/støj forhold på 55 dB for kategori 1 og 49 dB for  
+
+ kategori 2, hvis målesender 1 var udstyret til fuldt +/- 75 kHz  
+
+ frekvenssving.
+ Ved hver måling noteres målesender 2's udgangsniveau, U2, i dB over  
+
+ målesender 1's udgangsniveau, U1.
+ Målingen udføres med for- og efterbetoning.
+ 5.5.2 Krav.
+ Fig. 5.5.2 Skema med krav til dynamisk selektivitet som funktion af  
+
+ afvigelse fra målefrekvensen.
+ 5.6 Refleksionsdæmpning.
+ 5.6.1 Målemetode og måleopstilling.
+ Som kapitel 3.4.
+ 5.6.2 Krav.
+ 5.7 AGC reguleringsområde.
+ Ved AGC reguleringsområdet for en kanalomsætter forstås her den  
+
+ signalspændingsændring der kan tilføres indgangen, og samtidig holde  
+
+ udgangsspændingen indenfor en nærmere angivet tolerance.
+ 5.7.1 Målemetode.
+ Som måleopstilling i kapitel 3.5.1, men uden videotekstgenerator.
+Målesenderen skal afgive et umoduleret signal på bærebølgens frekvens i  
+
+ den overførte kanal.
+Signalspændingsniveauet skal svare til fabrikantens  
+
+ forskrifter for indreguleret tilstand.
+Ved hjælp af dæmpningsled 1 ændres  
+
+ indgangsniveauet herefter, og signalniveauet på udgangen måles som funktion  
+
+ af signalniveauet på indgangen af udstyret.
+ Signalniveauet på indgangen ændres indtil signalspændingen på udgangen har  
+
+ ændret sig udover tolerancegrænsen.
+ 5.7.2 Krav.
+ 5.8 HF-udstråling og skærmdæmpning.
+ 5.8.1 Målemetode og måleopstilling.
+Som kapitel 2.7 5.8.2 Krav.
+ Som kapitel 2.7.5.
+ 5.9 Uønskede signaler fra FM-kanalomsætterens signalindgange og -udgange.
+ 5.9.1 Målemetode og måleopstilling.
+ Se kapitel 3.10.1. Målingerne foretages som i dette afsnit blot skal  
+
+ målesenderen afgive et umoduleret signal på FM-kanalomsætterens  
+
+ modtagefrekvens og indgangsniveauet på udstyret skal være 66 dBuV.
+ 5.9.2 Krav.
+ Indgang:
+ Udgang : Min. 60 dB mindre end det ønskede, afgivne signal.
+ 5.10 Frekvensstabilitet for kanalomsættere.
+ 5.10.1 Målemetode og måleopstilling.
+ Som kapitel 3.13.1.
+5.10.2 Krav.
+Maks.+/- 15 kHz fra den nominelle frekvens.
+ 5.11 Brummodulationsafstand.
+ Kravene skal kun være opfyldt, hvis udstyret anvendes til overførsel af  
+
+ jævn- eller vekselstrømme.
+ 5.11.1 Målemetode og måleopstilling.
+ Se kapitel 8.
+ 5.11.2 Krav.
+ For hvert af frekvensområderne 5 - 40 MHz og 40 - 862 MHz oplyses, ved  
+
+ hvilken strøm brummodulationsafstanden er 65 dB.
+ 6. Tv-modulatorer.
+Tv-modulatoren foretager en FM-modulation af lyden (audiosignalet) og en  
+
+ AM/VSB (=vestigial side band)-modulation af billedet og kombinerer disse  
+
+ signaler i h.h.t.
+CCIR's system B eller G.
+ Tv-modulatoren kan enten være med en digital lyd-modulator for stereo-lyd  
+
+ efter NICAM-728 (Den anden lyd-underbærebølge er på 5.85 MHz og  
+
+ QPSK-moduleret) eller med en lyd-modulator for stereo efter A2-systemet(anden  
+
+ lyd underbærebølge på 5.74 MHz og FM moduleret).
+ Tv-modulatoren kan være udformet på to forskellige måder:
+ Kanalomsætteren nævnt under punkt b skal også overholde kravene for  
+
+ tv-kanalomsættere i kapitel 3.
+ 6.1 Video indgang.
+ 6.1.1 Indgangsimpedans og refleksionsdæmpning.
+Video indgangsimpedansen skal være 75 ohm.
+Dens refleksionsdæmpning  
+
+ oplyses.
+ 6.1.2 Indgangsniveau.
+Enheden skal være for nominel video indgangsniveau 1 volt spids-spids  
+
+ indenfor videobåndet 25 Hz - 5 MHz.
+Indgangsniveauet skal være justerbart og  
+
+ reguleringsområdet skal oplyses.
+ 6.2 Lyd indgang.
+ 6.2.1 Indgangsimpedans.
+ Værdien oplyses.
+ 6.3 Video overførsel.
+ 6.3.1 Amplitude-frekvenskarakteristik.
+ 6.3.1.1 Målemetode og måleopstilling.
+ Der anvendes samme måleopstilling som i Fig. 6.3.5.1.a og med en  
+
+ demodulator mellem måleobjektet og målemodtageren.
+ Såfremt video- og audiomodulator er separate enheder, skal målingerne  
+
+ udføres på det samlede systems HF udgang.
+ Målesignalet er et sinussignal med variabel frekvens fs overlejret en  
+
+ tv-linie af konstant luminans x (x er et niveau, der ligger midt mellem  
+
+ blanking og hvid reference). Sinussignalets amplitude justeres til at dække  
+
+ fra hvid til blanking niveauer (1.0 til 0.3 volt).
+Frekvensen fs ændres indenfor området 25 Hz til 8 MHz og demodulatorens  
+
+ udgangsniveau noteres.
+Udgangsniveauet ved fs=1.5 MHz bruges som reference.
+ 6.3.1.2 Krav.
+ Video til HF-modulatorer:
+ Amplitudevariationerne i frekvensområdet 25 Hz til 5.0 MHz skal være  
+
+ indenfor maskekurverne i figur 6.3.1.1.
+ Video til MF-modulatorer:
+Amplitudevariationerne oplyses.
+Indsenderen skal dokumentere, at  
+
+ amplitudevariationerne for den samlede enhed (video til MF-modulator og MF  
+
+ til HF-omsætter) er indenfor maskekurverne i figur 6.3.1.1.
+ Fig. 6.3.1.1. Tolerancegrænser for tv-modulatorers  
+
+ amplitude-frekvenskarakteristik.
+ Data til maskekurver for amplitude-frekvenskarakteristik i tv-modulatorer  
+
+ i fig. 6.3.1.1:
+ 6.3.2 Gruppeløbetidskorrektion.
+ 6.3.2.1 Målemetode og måleopstilling.
+ Udføres som i Kapitel 3.6 (fig. 3.6.1) dog uden tv-modulator.
+ Den komplette måleopstilling (minus tv-demodulator) findes som et  
+
+ kommercielt måleinstrument.
+ Frekvensen 3.75 MHz bruges som reference (d.v.s. gruppeløbetid = 0 ns).
+ Tv-demodulatoren stilles til modtagning af måleobjektets frekvens.  
+
+ Måleniveauerne skal være måleobjektets nominelle indgangsniveauer efter  
+
+ fabrikantens forskrifter.
+ Hvis video- og audiomodulatoren er adskilte enheder, skal målingerne  
+
+ udføres på video-modulatoren alene.
+ Hvis modulator og omsætter er separate enheder, skal målingerne udføres på  
+
+ modulatoren og omsætterens gruppeløbetidsvariation måles som beskrevet i Kap.  
+
+ 3.6.
+ 6.3.2.2 Måleopstillingens egnethed.
+Egnetheden undersøges ved at fjerne måleobjekt og demodulator.
+Herefter  
+
+ måles den resulterende måleopstillings gruppeløbetid i frekvensbåndet 0.1 til  
+
+ 5.0 MHz.
+Denne skal være lille i forhold til de værdier, man ønsker at måle.
+ Demodulatorens egen gruppeløbetid må ikke have kendelig indflydelse på  
+
+ målingen.
+ 6.3.2.3 Krav.
+ Gruppeløbetidskorrektion i modulatorer, der modulerer fra video til HF og  
+
+ fra video til MF, skal følge kurven i CCIR Rep. 624 og skal være indenfor  
+
+ toleranceværdierne som vist i fig. 6.3.2.2.
+ Data for korrektions- og tolerancekurver i fig. 6.3.2.2):
+NOTE: Korrektionskurve iflg.
+CCIR Rep. 624-2 Fig. 6.3.2.2. Korrektions- og tolerancekurver for gruppeløbetid 6.3.3 Differentiel forstærkning.
+ Herved forstås farvebærebølgens amplitudevariation som funktion af det  
+
+ overlejrede trappeluminans-signals amplitude (se indgangssignalet i fig.  
+
+ 3.7.1.
+6.3.3.1 Målemetode og måleopstilling Den differentielle forstærkning måles som beskrevet i IEC 728-1, kap. 12,  
+
+ 1986. Der anvendes samme måleopstilling som i kap. 3.7.1, dog uden  
+
+ HF-modulator: d.v.s videogeneratoren tilsluttes måleobjektet direkte.
+ Hvis video- og audiomodulator er separate enheder, skal målingerne udføres  
+
+ på videomodulatoren alene.
+Hvis modulator og kanalomsætter er separate enheder, skal målingerne  
+
+ udføres på modulatoren.
+Kanalomsætterens differentielle forstærkning måles  
+
+ som beskrevet i kapitel 3.7.
+ 6.3.3.2 Krav.
+ 6.3.4 Differentiel fase.
+ Herved forstås farvebærebølgens faseændring som funktion af det  
+
+ overlejrede trappeluminans-signal (se indgangssignalet i figur 3.8.1.).
+6.3.4.1 Målemetode og måleopstilling Den differentielle fase måles som beskrevet i IEC 728-1, kap. 12, 1986.  
+
+ Der anvendes samme måleopstilling som i Kap. 3.8.1, dog uden HF-modulator:  
+
+ d.v.s videogeneratoren tilsluttes direkte til måleobjektet.
+ Såfremt video- og audiomodulator er separate enheder, skal målingerne  
+
+ udføres på videomodulatoren alene.
+Hvis modulator og kanalomsætter er separate enheder skal målingerne  
+
+ udføres på modulatoren.
+Kanalomsætterens differentielle fase måles som  
+
+ beskrevet i kap. 3.8.
+ 6.3.4.2 Krav.
+ 6.3.5 Intermodulationsafstand (IMA).
+ Ved tv-modulatorens intermodulationsafstand (IMA) forstås forholdet mellem  
+
+ billedbærebølgens niveau og niveauet af de intermodulationsprodukter af  
+
+ tredie orden, der falder indenfor den betragtede tv-kanal.
+ 6.3.5.1 Målemetode og måleopstilling.
+ To forskellige målemetoder kan benyttes.
+ Målemetoden 1 svarer til DIN 45004-K og måleopstillingen ses i fig.  
+
+ 6.3.5.1.
+Hvis synk-pulser er nødvendige for modulatorens funktion benyttes  
+
+ målemetode 2, som svarer til IEC 244-5C.
+Måleopstillingen ses i fig. 6.3.5.1  
+
+ dog med en videogenerator istedet for signalgeneratoren.
+ Fig.6.3.5.1. Måleopstilling samt ind- og udgangssignal ved måling af  
+
+ intermodulationsafstand (IMA).
+ Såfremt video- og lydmodulator er separate enheder, skal målingerne  
+
+ udføres i det samlede system d.v.s. på en udgang, der indeholder både video  
+
+ og lyd.
+ Måleobjektets udgangsniveau skal være det maksimale efter fabrikantens  
+
+ forskrifter og med umoduleret lyd.
+ Målemetode 1:
+ Signalgeneratoren afgiver en sinusformet tone på fx = 4,43 MHz, hvis  
+
+ amplitude justeres til at opnå et spektrum på udgangen som vist i figur  
+
+ 6.3.5.1(c).
+På måleobjektets udgangssignal (Se fig. 6.3.5.1(c)) måles afstanden ai  
+
+ mellem spids af synk. effekt niveauet og det største af IMA produkterne, Ui  
+
+ og U'i, som måtte optræde.
+Denne afstand er modulatorens IMA ved frekvensen  
+
+ fx.
+ Målemetode 2:
+Videogeneratoren afgiver et sinusformet video-signal med synk-pulser som  
+
+ vist i figur 6.3.5.1 (b). Luminansniveauet skal ligge midt mellem  
+
+ blankingniveau og hvid reference.
+Sinussignalets amplitude skal strække sig  
+
+ fra blanking til hvid reference.
+Sinussignalets frekvens, fx, sættes til 4,43  
+
+ MHz.
+Testsignalets niveau skal være det nominelle video indgangsniveau efter  
+
+ fabrikantens forskrifter.
+ På måleobjektets udgangssignal måles IMA som ovenfor.
+ 6.3.5.2 Krav.
+ Video til HF modulator: Min 60 dB.
+Video til MF modulator: Min 60 dB.
+Indsenderen skal dokumentere, at det  
+
+ samlede enhed (video til MF modulator plus omsætter MF til HF) overholder IMA  
+
+ <= 52 dB.
+ 6.3.6 Signal/støj forhold (video).
+ Signal/støj forholdet i modulatorens videokanal defineres som forholdet i  
+
+ dB mellem spids-spids værdien af et reference signal, der strækker sig fra  
+
+ blanking til hvid, når det er demoduleret og r.m.s. værdien af støjen  
+
+ indenfor en nærmere specificeret båndbredde (CCIR Rec 421 og 451).
+ 6.3.6.1 Målemetode og måleopstilling.
+ Fig. 6.3.6.1 Måleopstilling til måling af signal/støj forhold (video).
+ Hvis modulator og omsætter er separate enheder, skal målingerne udføres på  
+
+ modulatoren efterfulgt af omsætteren.
+Målesignalet kan f.eks.bestå af et 1.0 MHz sinussignal overlejret med en  
+
+ tv-linie af konstant luminans, x (x er et niveau, der ligger midt mellem  
+
+ blanking og hvid reference). Sinus signalets amplitude justeres til at dække  
+
+ fra blanking niveau til hvid-reference niveau.
+Målesignalets niveau skal være  
+
+ det nominelle videosignals indgangsniveau ifølge fabrikantens forskrifter.
+ Synk-pulserne fjernes inden målingen for at undgå liniefrekvenssignaler og  
+
+ dets harmoniske.
+ Ved hjælp af video-støjmåleren (VSM) bestemmes måleobjektets demodulerede  
+
+ udgangsniveau ved 1.0 MHz (spids-spids værdi).
+Videogeneratoren afbrydes.
+Med VSM måles støjniveauet (r.m.s.-værdi) på  
+
+ demodulatorens udgang, og signal/støj forholdet bestemmes.
+Målebåndbredden skal være 5.0 MHz i h.h.t.
+CCIR Rec 421 og 451.
+6.3.6.2 Måleopstillingens egnethed Demodulatorens og signalgeneratorens egne signal/støj forhold skal være  
+
+ små, så de ikke får indflydelse på målingerne.
+6.3.6.3 Krav Signal/støj forholdet (uvejet) skal være:
+ For video til HF modulator:
+ For video til MF modulator efterfulgt af omsætter:
+ Som ovenfor.
+ 6.3.7 Frekvensstabilitet.
+ 6.3.7.1 Målemetode og måleopstilling.
+ Som beskrevet i kapitel 3.13, men fig. 3.13.1 uden generator.
+6.3.7.2 Krav Billedbærebælge:
+ Video til HF modulatorer: <= +/- 75 kHz.
+Video til MF modulatorer: <= +/- 40 kHz.
+Indsenderen skal dokumentere,  
+
+ at det samlede enhed (modulator video til MF plus omsætter MF til HF)  
+
+ overholder maks. /-+75 kHz.
+ Afstanden mellem billed- og lydbærebølge samt evt. lydbærebølgerne  
+
+ indbyrdes:
+ Video til HF modulatorer: <= +/- 5 kHz.
+ Video til MF modulatorer: <= +/- 5 kHz.
+ 6.4. Lyd overførsel.
+ 6.4.1 Amplitude-frekvenskarakteristik.
+ 6.4.1.1 Målemetode og måleopstilling.
+ Fig.6.4.1. Måleopstilling til måling af amplitude-frekvenskarakteristik  
+
+ (audio).
+Målingen udføres med 50 us for- og efterbetoning.
+Demodulatoren skal have  
+
+ indbygget efterbetoning.
+Tonegeneratoren skal afgive et sinus-signal i  
+
+ frekvensområdet 40 Hz - 15 kHz.
+Lydindgangsniveauet justeres til at opnå et  
+
+ frekvenssving på +/- 30 kHz ved 1kHz modulations tone.
+Tonegeneratorens frekvens ændres indenfor båndet 40 Hz - 15 kHz og  
+
+ måleobjektets demodulerede udgangsniveau noteres.
+Udgangsniveauet ved 1 kHz  
+
+ bruges som reference.
+ 6.4.1.2 Måleopstillingens egnethed.
+ Demodulatoren skal have en jævn amplitude-frekvenskarakteristik, så den  
+
+ ikke får indflydelse på de aflæste amplitudevariationer.
+6.4.1.3 Krav.
+Mindre end +/- 2 dB for hovedstationerne H1 og H2. Oplyses  
+
+ for fællesantennesystemerne F3 og F4.
+ 6.4.2 Klirfaktor (Harmonisk forvrængning).
+6.4.2.1 Målemetode og måleopstilling Fig. 6.4.2. Måleopstilling til måling af klirfaktor.
+ Målingen udføres uden for- og efterbetoning.
+ Tonegeneratoren stilles på en frekvens i området 40 - 5000 Hz.  
+
+ Lydindgangsniveauet justeres til at opnå et frekvenssving på +/- 50 kHz ved  
+
+ 1kHz modulations tone.
+Klirfaktoren udlæses på forvrængningsmåleren og der måles ved så mange  
+
+ frekvenser, at den kan afbildes som en funktion af frekvensen i området 40 -  
+
+ 5000 Hz.
+Som målefrekvenser kan f.eks. anvendes 40, 100, 300, 1000 og 5000  
+
+ Hz.
+6.4.2.2. Krav 6.4.3 Signal/Støj forhold (lyd).
+ 6.4.3.1 Målemetode og måleopstilling.
+ Fig. 6.4.3. Måleopstilling til måling af signal/støj forhold (audio).
+Målingerne udføres med 50 us for- og efterbetoning.
+Demodulatorens FM  
+
+ detektortype skal være intercarrier.
+Tonegeneratoren indstilles på 1 kHz sinussignal.
+Video-signal-generatoren  
+
+ skal afgive et testsignal bestående af »sort« linie.
+Indgangs- og  
+
+ udgangsniveauer skal være de nominelle efter fabrikantens oplysninger.  
+
+ Lydindgangsniveauet justeres dog til at opnå et frekvenssving på udgangen på  
+
+ +/- 30 kHz.
+Med analysatoren bestemmes måleobjektets støjniveau med quasi peak  
+
+ detektor og vægtet med CCIR 468's filter.
+Signal/støj forholdet udlæses  
+
+ direkte fra instrumentet.
+ 6.4.3.3 Krav.
+ Signal/støj forholdet, audio (quasi-peak, vægtet) skal være bedre end:
+(dBqp = dB quasi-peak, psofometrisk) i modulatorens specificerede driftsudgangsspænding.
+ Hvis modulator og omsætter er separate enheder, skal indsenderen  
+
+ dokumentere at det samlede enhed (modulator video til MF plus omsætter MF til  
+
+ HF) overholder ovenstående krav.
+ 6.5 UDGANG.
+ 6.5.1 Refleksionsdæmpning.
+ 6.5.1.1 Målemetode og måleopstilling.
+ Som beskrevet i Kapitel 3.4 (fig. 3.4.1).
+ 6.5.1.2 Krav.
+ Refleksionsdæmpningen på signaludgange i hele kanalens bredde skal mindst  
+
+ være:
+ Hvis modulator og omsætter er separate enheder, skal refleksionsdæmpningen  
+
+ på hver signaludgang være som ovenfor.
+For enheder, der skal typegodkendes til anvendelse i delsystemerne F3 og  
+
+ F4 og med nominel udgangsimpedans på 37,5 ohm, stilles der ikke særlige krav  
+
+ til refleksionsdæmpningen på de udgange, hvor de sammenkobles ved  
+
+ gennemsløjfning.
+Refleksionsdæmpningen på udgangen af sløjfeledningen skal  
+
+ overholde kravet for det net, enheden skal godkendes til.
+Eventuelle  
+
+ nødvendige ydre impedanstilpasningsled skal indgå i afprøvningen.
+6.5.2 Udgangsspændingens variation 6.5.2.1 Målemetode og måleopstilling.
+ Der anvendes samme måleopstilling som i kapitel 3.13 (fig. 3.13.1) dog  
+
+ tilsluttes en video generator direkte til måleobjektets video indgang.
+ Såfremt video- og audio modulator er separate enheder, skal målingerne  
+
+ udføres i det samlede systems HF udgang.
+ Spektrum analyseren indstilles til måling ved billedbærebølgens frekvens.  
+
+ Måleobjektet underkastes forskellige temperaturer og forsyningsspændinger i  
+
+ områderne:
+ Temperatur: Som anvist i Kap. 2.3.
+Netspænding: Som kapitel 2.4 eller Jævnspænding: Som kapitel 2.4.
+ Udgangsniveauet måles ved de forskellige tilstande.
+ 6.5.2.2 Krav.
+ Udgangsspændingsvariationer ved rumtemperatur og nominel forsyning skal  
+
+ være bedre end:
+ Hvis modulator og omsætter er separate enheder, skal indsenderen  
+
+ dokumentere, at det samlede enhed (Video til MF modulator plus omsætter MF  
+
+ til HF) overholder ovenstående krav i kolonne 2.
+ 6.5.3 Uønskede signaler på udgangen.
+ Ved modulatorens dæmpning af uønskede (spurious) signaler forstås  
+
+ forholdet mellem niveauerne af billedbærebølgen og uønskede signaler, som  
+
+ måtte optræde på udgangen udenfor den betragtede tv-kanal.
+ 6.5.3.1 Målemetode og måleopstilling.
+Som i kapitel 3.12 (fig. 3.12.1A) men med en video test generator på video  
+
+ indgangen istedet for målesenderen.
+Der benyttes samme testsignal som i  
+
+ 6.3.5.1 og maksimal udgang fra måleobjektet.
+ Såfremt video- og audio modulatorer er separate enheder, skal målingerne  
+
+ udføres på det samlede systems signaludgang.
+ Hvis modulator og omsætter er separate enheder skal målingerne udføres på  
+
+ modulatoren.
+ 6.5.3.2 Krav.
+ For video til HF modulator:
+ For video til MF modulator:
+Oplyses.
+Indsenderen skal dokumentere at det samlede enhed (modulator  
+
+ video til MF plus omsætter MF til HF) overholder ovensstående krav.
+ 6.5.4 Selektivitet.
+ 6.5.4.1 Målemetode og måleopstilling.
+ Der anvendes samme måleopstilling som i kapitel 3.2 dog med den forskel,  
+
+ at målesenderen skal være en video signal generator.
+ Såfremt video- og audiomodulator er separate enheder, skal målingerne  
+
+ udføres på det samlede systems HF udgang.
+ Målesignalet er et sinussignal med variabel frekvens fs overlejret en  
+
+ tv-linie af konstant luminans x (x er et niveau, der ligger midt mellem  
+
+ blanking og hvid reference). Målesignalets amplitude justeres til at dække  
+
+ fra hvid til blanking niveauer (1.0 til 0.3 volt). Målesignalets amplitude  
+
+ skal være det nominelle video indgangsniveau ifølge fabrikantens forskrifter.
+Frekvensen fs ændres indenfor området 25 Hz til 13 MHz og måleobjektets  
+
+ dgangsniveau ved (fb +/- fs) noteres.
+Udgangsniveauet ved (fb + 1.5 MHz)  
+
+ bruges som reference.
+6.5.4.2 Krav Video til HF-modulatorer:
+ I normal drift eller nabokanaldrift skal  
+
+ amplitude-frekvenskarakteristikken være indenfor de respektive maskekurver i  
+
+ en af figurerne 3.2.3a, 3.2.3b eller 3.2.3c. (Bemærk de skærpede  
+
+ selektivitetskrav til modulatorer i PAL/B, når den underliggende nabokanal  
+
+ fører NICAM stereo lyd).
+ Video til MF-modulatorer:
+Amplitude-frekvenskarakteristikken skal være indenfor maskekurverne i  
+
+ figur 3.2.3d.
+Indsenderen skal dokumentere, at det samlede enhed (Video til  
+
+ MF-modulator plus MF til HF-omsætter) er indenfor maskekurverne i en af  
+
+ figurerne 3.2.3a, 3.2.3b eller 3.2.3c.
+ 6.6 HF-udstråling og skærmdæmpning.
+ 6.6.1 Målemetode og måleopstilling.
+ Som i kap. 2.7.
+6.6.2 Krav Som i kap. 2.7.6 og 2.7.7.
+6.7 Brummodulationsafstand Kravene skal kun være opfyldt, hvis udstyret anvendes til overførsel af  
+
+ vekselstrømme.
+ 6.7.1 Målemetode og måleopstilling.
+ Se kapitel 8.
+ 6.7.2 Krav.
+ For hvert af frekvensområderne 5-40 MHz og 40-862 MHz oplyses, ved hvilken  
+
+ strøm brummodulationsafstanden er 65 dB.
+ 7 FM-modulatorer.
+ 7.1 Indledning.
+ Udstyret foretager en FM-modulation af lyden (audiosignalet) på en  
+
+ bærebølge i det normerede bånd for FM: 87.5 - 108 MHz.
+ FM-modulatoren kan være udformet på en af to forskellige måder: a) med  
+
+ audio signalet L og R som indgang. b) med stereo multiplex (MPX) signalet som  
+
+ indgang.
+ 7.2 Krydstale mellem venstre (L) og højre (R) kanal.
+ 7.2.1 Målemetode og måleopstilling.
+ Som beskrevet i Kapitel 5.2 (fig. 5.2.1) dog uden FM modulator.
+ 7.2.2 Krav.
+ I frekvensområdet 40-15000 Hz: Bedre end -30 dB.
+ 7.3 Klirfaktor (harmonisk forvrængning).
+ 7.3.1 Målemetode.
+ Som beskrevet i Kapitel 5.3 (fig. 5.3.1) dog uden FM modulator.
+ 7.3.2 Krav.
+ I frekvensområdet 40 - 5000 Hz: Mindre end 1%.
+ 7.4 Signal/støj forhold.
+ 7.4.1 Målemetode og måleopstilling.
+ Som beskrevet i Kapitel 5.4 (fig. 5.4.1) dog uden FM modulator.
+ 7.4.2 Krav.
+ Signal/støj forholdet ved stereo for L og R kanalerne skal ved 1 kHz være  
+
+ bedre end 60 dB.
+ 7.5 Frekvensstabilitet.
+ 7.5.1 Målemetode og måleopstilling.
+ Som kapitel 3.13.
+ 7.5.2 Krav.
+ Afvigelsen fra den nominelle frekvens må maks. være +/- 12 kHz.
+ 7.6 Refleksionsdæmpning.
+ 7.6.1 Målemetode og måleopstilling.
+ Som kapitel 3.4.
+ 7.6.2 Krav.
+ Frekvensområdet fo + 170 kHz:
+For udstyr med en nominel udgangsimpedans på 37,5 Ohm stilles der ingen  
+
+ krav til refleksionsdæmpningen. 7.7 Uønskede signaler på udgangen (spurious) 7.7.1 Målemetode og måleopstilling.
+ Som beskrevet i Kapitel 3.12 (fig. 3.12.1A).
+ 7.7.2 Krav.
+De uønskede spændinger må i frekvensområdet 30 - 1000 MHz og udenfor den  
+
+ ønskede kanal og dennes nabokanaler ikke overskride følgende værdier: H1 og  
+
+ H2: 60 dB mindre end det ønskede, afgivne signal.
+D1, D2, D3, F3 og F4: 50 dB  
+
+ mindre end det ønskede, afgivne signal.
+ 7.8 HF-udstråling og skærmdæmpning.
+ 7.8.1 Målemetode og måleopstilling.
+ Som kapitel 2.7.
+ 7.8.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+ 8.0 Strømindfødningsenheder.
+ Ved strømindfødningsenheder forstås i dette kapitel enheder, der har HF  
+
+ gennemgang og som på en eller eventuelt flere HF-porte forsyner linierne med  
+
+ vekselstrøm.
+ De målemetoder, der beskrives her, kan også benyttes til måling på enheder  
+
+ der ikke forsyner linien, men blot har AC-gennemgang.
+ 8.1 Brummodulationsafstand.
+Ved brummodulationsafstanden forstås forholdet i dB mellem spids-spids  
+
+ værdien af brummodulationen, a, og amplituden b af bærebølgen.
+Se fig.8.1.
+ Fig 8.1 Definition af brummodulationsafstand.
+ 8.1.1 Målemetode og måleopstilling.
+ Fig 8.1.1 Måleopstilling til bestemmelse af brummodulationsafstand for  
+
+ aktive og passive enheder med AC-gennemgang.
+ Først beskrives, hvordan der skal måles på enheder med AC-gennemgang (Se  
+
+ fig. 8.1.1).
+Ved hjælp af de to strømsluser føres AC-strømmen fra transformatoren  
+
+ gennem måleobjektet og til belastningsmodstanden.
+Transformatoren skal afgive  
+
+ en spænding, der svarer til måleobjektets nominelle spænding.  
+
+ Belastningsmodstanden indstilles, så der trækkes maksimal strøm gennem  
+
+ måleobjektet ifølge fabrikantens forskrifter.
+HF-generatoren indstilles til den laveste frekvens indenfor måleobjektets  
+
+ frekvensområde.
+Signalniveauet til måleobjektet stilles så højt som muligt  
+
+ for at få maksimal dynamikområde i opstillingen: dog under hensyntagen til  
+
+ fabrikantens forskrift for enheden.
+På spektrumanalysatoren kan brummodulationen af HF-signalet iagttages  
+
+ efter demodulation og forstærkning.
+På displayet viser brum sig som  
+
+ spektrallinier ved 50 Hz eller harmoniske heraf.
+For at aflæse brummodulationen på spektrumanalysatoren amplitudemoduleres  
+
+ HF-generatoren med en lavfrekvenstone på f.eks 400 Hz.
+Modulationsgraden  
+
+ indstilles til en fast referenceværdi, f.eks. 1 % svarende til en  
+
+ modulationsafstand på 40 dB.
+ Brummodulationen kan da aflæses som 40 dB +/- differencen på  
+
+ spektrumanalysatoren mellem 400 Hz komposanten og brum-komposanten i dB.
+ Hvis måleobjektet er en strømindfødningsenhed (f.eks en anden strømsluse),  
+
+ benyttes opstillingen vist i fig.8.1.2. Her føres AC-strømmen ind i  
+
+ opstillingen gennem måleobjektet.
+Fig.8.1.2 Opstilling til bestemmelse af brummodulationsafstand  
+
+ (strømindfødningsenheder) 8.1.2 Måleopstillingens egnethed Det skal sikres, at den eller de i opstillingen anvendte strømsluser ikke  
+
+ selv laver brum.
+Det kontrolleres på spektrumanalysatoren med måleobjektet  
+
+ fjernet fra opstillingen, og AC-kredsløbet sluttet. (Kræver min. 2  
+
+ strømsluser).
+ Brumsløjfer undgås ved at opstillingen jordforbindes i et enkelt punkt.  
+
+ Højpasfilteret før detektoren kan medtages for at fjerne eventuel restbrum  
+
+ ved 50 Hz.
+ For målingens nøjagtighed skal det desuden sikres, at HF-generatoren  
+
+ overholder den referencemodulationsgrad, den indstilles til.
+Dette kan kontrolleres på en spektrumanalysator ved at aflæse afstanden i  
+
+ dB fra spidsen af HF-komposanten og ned til sidebåndene.
+Denne afstand skal  
+
+ være 20 log(1/m) + 6 dB, hvor m er den modulationsgrad generatoren er  
+
+ indstillet til. (For m= 1 % skal afstanden eksempelvis være 46 dB).
+Med den viste opstilling er det muligt at måle brummodulationsafstande i  
+
+ størrelsesordenen 60 - 80 dB, meget afhængigt af HF-niveauet.
+Dynamikområdet  
+
+ er bestemt af strømslusernes kvalitet.
+ Desuden er opstillingens følsomhed bestemt af spektrumanalysatorens  
+
+ følsomhed, detektorens karakteristik samt LF-forstærkerens støjtal og  
+
+ forstærkning.
+ 8.1.3 Krav.
+ For strømindfødningsenheder samt enheder med AC-gennemgang skal  
+
+ brummodulationsafstanden være mindst 65 dB ved den strøm som enheden er  
+
+ beregnet for.
+ 8.2 Frekvensområde.
+ Skal oplyses.
+ 8.3 Amplitude-frekvenskarakteristik.
+ 8.3.1 Målemetode og måleopstilling.
+ Som kapitel 3.2.
+ 8.3.2 Krav.
+Amplitude-frekvenskarakteristikken skal have et jævnt forløb indenfor det  
+
+ af fabrikanten opgivne frekvensområde.
+Amplitudevariationen må i de  
+
+ forskellige delsystemer i området 5-862 MHz maksimalt være:
+ 8.4 Refleksionsdæmpning.
+ 8.4.1 Målemetode og måleopstilling.
+ Som kapitel 3.4.
+ 8.4.2 Krav.
+ 8.5 HF-udstråling og skærmdæmpning.
+ 8.5.1 Målemetode og måleopstilling.
+Som kapitel 2.7 8.5.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+ 8.6 Strøm og spænding.
+ Udstyrets afgivne spænding samt maksimale afgivne strøm skal oplyses.
+ 9.0 Signalfordelere.
+ 9.1 Indledning.
+ En signalfordeler er en passiv enhed, der opdeler indgangssignalet i flere  
+
+ (normalt ens) signaler.
+ I fig 9.0 er vist eksempler på de forskellige parametre (dæmpninger), der  
+
+ måles i passivt udstyr.
+ 9.2 Frekvensområde.
+ Udgangenes frekvensområde skal oplyses.
+ 9.3 Amplitude-frekvenskarakteristik for udgangene.
+ 9.3.1 Målemetode og måleopstilling.
+ Som kapitel 3.2.
+Udgangenes nominelle amplitude-frekvenskarakteristikker skal i det opgivne  
+
+ frekvensområde være rette linier.
+Gennemgangsdæmpningerne opgives i dB i det  
+
+ specificerede frekvensområdes yderpunkter.
+Disse værdier er de nominelle  
+
+ værdier.
+Linien gennem disse punkter er den nominelle linie.
+ 9.3.2 Krav.
+ Udstyret inddeles i toleranceklasser som vist i skemaet nedenunder.
+ De nominelle værdier samt hver udgangs toleranceklasse skal oplyses. 9.4  
+
+ Overhøringsdæmpning (Isolation mellem udgange).
+ 9.4.1 Målemetode og måleopstilling.
+Målesenderen indstilles på et umoduleret signal med en frekvens indenfor  
+
+ det ønskede måleområde.
+Se måleopstilling fig 9.4.1. Udgangsspændingen  
+
+ indstilles, så der med omskifteren i stilling 2, fås et passende udslag på  
+
+ målemodtageren.
+Derefter stilles omskifteren til stilling 1, og der indskydes  
+
+ ved hjælp af dæmpningsleddet 3 så megen dæmpning, at der opnås samme udslag  
+
+ som før.
+Overhøringsdæmpningen er da lig med den indskudte dæmpning.
+Der  
+
+ måles ved et passende antal frekvenser.
+ Fig. 9.4.1. Måleopstilling til bestemmelse af overhøringsdæmpning.
+ 9.4.2 Krav.
+ Mellem udgangene er minimumskravene:
+ 5-40 MHz : 20 dB + 20log10( Un / Um) dB.
+40 - 862 MHz: 20 dB + 20log10( Un / Um) dB ved 40 MHz - 1,5 dB/oktav, hvor  
+
+ Un er signalniveauet på udgang n og Um er signalniveauet på udgang m.
+Un er  
+
+ større end Um.
+ 9.5 Refleksionsdæmpning.
+ 9.5.1 Målemetode og måleopstilling.
+ Som kapitel 3.4.
+ 9.5.2 Krav.
+ Ind- og udgange:
+ 9.6 Skærmdæmpning.
+ 9.6.1 Målemetode og måleopstilling.
+Som kapitel 2.7 9.6.2 Krav.
+ Som kapitel 2.7.7.
+ 9.7 Brummodulationsafstand.
+ Kravene skal kun være opfyldt, hvis udstyret anvendes til overførsel af  
+
+ jævn- eller vekselstrømme.
+ 9.7.1 Målemetode og måleopstilling.
+ Se kapitel 8.
+ 9.7.2 Krav.
+ For hvert af frekvensområderne 5 - 40 MHz og 40 - 862 MHz oplyses, ved  
+
+ hvilken strøm brummodulationsafstanden er 65 dB.
+ Fig 9.0 Benævnelser for de forskellige dæmpninger i passivt udstyr. 10.0  
+
+ Stikledningsfordelere.
+ 10.1 Indledning.
+ Stikledningsfordelere er passive enheder, hvor der fra det gennemgående  
+
+ signal aftappes et eller flere svagere signaler.
+ De anvendes til fordeling af tv- og radiosignaler i abonnentnettene i D3,  
+
+ F3 og F4. De kan også anvendes til signalfordelere, hvis de opfylder kravene  
+
+ herfor.
+ I fig 9.0 er vist eksempler på de forskellige parametre (dæmpninger), der  
+
+ måles i passivt udstyr.
+ 10.2 Frekvensområde.
+ Min. 40 - 862 MHz skal overføres.
+ 10.3 Amplitude-frekvenskarakteristik for gennemgangs- og  
+
+ afgreningsdæmpning.
+ 10.3.1 Målemetode og måleopstilling.
+ Som kapitel 3.2.
+ 10.3.2 Krav.
+Udgangens og afgreningernes nominelle amplitude-frekvenskarakteristikker  
+
+ skal i de opgivne frekvensområder være rette linier.
+Gennemgangs- og  
+
+ afgreningsdæmpningerne opgives i dB i det specificerede frekvensområdes  
+
+ yderpunkter.
+Disse værdier er de nominelle værdier.
+Linien gennem disse  
+
+ punkter er den nominelle linie.
+ Gennemgangsdæmpningen måles med belastede afgreninger.
+ Gennemgangsdæmpningens amplitude/frekvenskarakteristik:
+ Maks. afvigelse i dB fra nominel linie: 5- 40 MHz: + 1,5 dB 40-862 MHz: +  
+
+ 0,5 dB.
+Afgreningsdæmpninger måles med udgangen belastet og øvrige afgreninger  
+
+ belastede/ubelastede.
+De nominelle værdier angives.
+ Afgreningernes amplitude/frekvenskarakteristikker:
+ 10.4 Overhøringsdæmpning (Isolation mellem afgreninger).
+ 10.4.1 Målemetode og måleopstilling.
+ Som kapitel 9.3.
+ 10.4.2 Krav.
+Mellem afgreningerne: Min. 30 dB fra 5 - 40 MHz.
+Min. 40 dB fra 40 - 300  
+
+ MHz.
+Min. 36 dB fra 300 - 862 MHz.
+ 10.5 Retningsdæmpning.
+ 10.5.1 Målemetode og måleopstilling.
+ Som kapitel 9.3.
+10.5.2 Krav.
+Min. 30 dB fra 5 - 300 MHz Min. 26 dB fra 300 - 862 MHz.
+ 10.6 Refleksionsdæmpning.
+ 10.6.1 Målemetode og måleopstilling.
+ Som kapitel 3.4.
+ 10.6.2 Minimumskrav.
+ 10.7 Skærmdæmpning.
+ 10.7.1 Målemetode og måleopstilling.
+Som kapitel 2.7 10.7.2 Krav.
+ Som kapitel 2.7.7.
+ 10.8 Brummodulationsafstand.
+ Oplysningskravene skal kun være opfyldt, hvis udstyret anvendes til  
+
+ overførsel af jævn- eller vekselstrømme.
+ 10.8.1 Målemetode og måleopstilling.
+ Se kapitel 8.
+ 10.8.2 Krav.
+ For hvert af frekvensområderne 5 - 40 MHz og 40 - 862 MHz oplyses, ved  
+
+ hvilken strøm brummodulationsafstanden er 65 dB.
+ 11.0 Tilslutningsdåser i stikledningssystemer.
+ 11.1 Indledning.
+Tilslutningsdåser har en lille udkoblingsdæmpning.
+De kan være opbygget  
+
+ som et tv-FM filter uden væsentlig udkoblingsdæmpning eller som f. eks. en  
+
+ signalfordeler med 2x4 dB gennemgangsdæmpning.
+Overhøringsdæmpningen mellem  
+
+ tilslutningsdåserne ligger i stikledningsfordelerne (Se kapitel 10.4). De  
+
+ anvendes kun i abonnentnettet D3 og i anlæggene F3 og F4.
+ I fig 9.0 er vist eksempler på de forskellige parametre (dæmpninger), der  
+
+ måles i passivt udstyr.
+ 11.2 Frekvensområde.
+Frekvensområderne 5 - 25 MHz, 47 - 68 MHz, 87,5 - 108 MHz og 160 - 862 MHz  
+
+ skal overføres.
+FM-filtergrænserne oplyses.
+ 11.3 Amplitude-frekvenskarakteristik for afgreninger.
+ 11.3.1 Målemetode og måleopstilling.
+ Som kapitel 3.2.
+ Ved disse målinger på tilslutningsdåser skal indgangen være afsluttet  
+
+ medens de ubenyttede tilslutninger dels skal være afsluttede og dels åbne.
+ 11.3.2 Krav.
+Amplitude-frekvenskarakteristikken skal være vandret indenfor det af  
+
+ fabrikanten opgivne frekvensområde.
+Afvigelsen fra den nominelle værdi må  
+
+ maksimalt være: +/- 1,5 dB i området 5 - 40 MHz. +/- 1,0 dB i området 40 -  
+
+ 862 MHz.
+ De nominelle værdier af afgreningsdæmpningerne skal oplyses.
+ 11.4 Overhøringsdæmpning.
+ 11.4.1 Målemetode og måleopstilling.
+ Der benyttes samme målemetode og måleopstilling som i kapitel 9.4.
+ 11.4.2 Krav.
+Mellem tv- og FM-tilslutningen i samme dåse skal der være en  
+
+ overhøringsdæmpning på mindst 12 dB.
+For tilslutningsdåser med indbyggede  
+
+ signalfordelere gælder punkt 9.4.2.
+ 11.5 Refleksionsdæmpning.
+ 11.5.1 Målemetode og måleopstilling.
+ Som i kapitel 3.4.
+ Ved måling på indgangen skal tilslutningerne afsluttes på følgende måde:
+ Ved måling på tv-stikket skal indgangen være afsluttet, medens FM-stikket  
+
+ skal være henholdsvis afsluttet og uafsluttet.
+ Ved måling på FM-stikket skal indgangen være afsluttet, medens tv-stikket  
+
+ skal være henholdsvis afsluttet og uafsluttet.
+ 11.5.2. Minimumskravkrav.
+ 11.6 Skærmdæmpning.
+ 11.6.1 Målemetode og måleopstilling.
+Som kapitel 2.7 11.6.2 Krav.
+ Som kapitel 2.7.7.
+ 11.7. Stik.
+ For tv skal der anvendes IEC 169-2, han.
+ For FM skal der anvendes IEC 169-2, hun.
+ Afstanden mellem stikkene skal være 30 +/- 0,5 mm.
+ 12.0 Tilslutningsdåser i sløjfesystemer.
+ 12.1 Indledning.
+ Ved målinger på signalindgange og -udgange skal FM- og tv-stik i  
+
+ tilslutningsdåserne være dels afsluttede og dels åbne.
+ I fig 9.0 er vist eksempler på de forskellige parametre (dæmpninger), der  
+
+ måles i passivt udstyr.
+ 12.2 Frekvensområde.
+Frekvensområderne 5 - 25 MHz, 47 - 68 MHz, 87,5 - 108 MHz og 160 - 862 MHz  
+
+ skal overføres.
+FM-filtergrænserne oplyses.
+ 12.3 Amplitude-frekvenskarakteristik.
+ 12.3.1 Målemetode og måleopstilling.
+ Som kapitel 3.2.
+ 12.3.2 Krav.
+ Tilslutningernes og udgangens amplitude-frekvenskarakteristik skal være  
+
+ indenfor tolerancegrænserne i skemaet nedenfor.
+ Gennemgangsdæmpning:
+ Maksimal afvigelse i dB fra nominel værdi:
+ Udkoblingsdæmpning:
+ Maksimal afvigelse i dB fra nominel værdi:
+ Udkoblingsdæmpningen i slutdåser skal minimum være 10 dB.
+ 12.4 Overhøringsdæmpning.
+ Målemetode og måleopstilling.
+ Som kapitel 9.3.
+ 12.4.2 Krav.
+ Min. 12 dB mellem tv- og FM-udgangen.
+ 12.5 Retningsdæmpning.
+ 12.5.1 Målemetode og måleopstilling.
+ Som kapitel 9.4.1.
+ 12.5.2 Krav.
+ 12.6 Refleksionsdæmpning.
+ 12.6.1 Målemetode og måleopstilling.
+ Der anvendes samme målemetode og måleopstilling som i kapitel 3.4 og med  
+
+ belastning af ubenyttede tilslutninger som beskrevet først i dette kapitel.
+ Ved måling på tv-tilslutningen skal indgang og udgang være afsluttede  
+
+ medens FM-tilslutningen er afsluttet eller uafsluttet.
+ Ved måling på FM-tilslutningen skal indgang og udgang være afsluttede  
+
+ medens tv-tilslutningen skal være afsluttet eller uafsluttet.
+ 12.6.2. Krav.
+ Minimumskrav til refleksionsdæmpninger:
+ 12.7 Skærmdæmpning.
+ 12.7.1 Målemetode og måleopstilling.
+Som kapitel 2.7 12.7.2 Krav.
+ Som kapitel 2.7.7.
+ 12.8 Stik.
+ For tv skal der anvendes IEC 169-2, han.
+ For FM skal der anvendes IEC 169-2, hun.
+ Afstanden mellem stikkene skal være 30 +/- 0,5 mm.
+ 13.0 Filtre.
+ 13.1 Generelt.
+Dette kapitel omhandler spærre- og gennemgangsfiltre.
+Der skelnes mellem  
+
+ filtre til montering før og efter stikledningsfordelere.
+ 13.2 Amplitude-frekvenskarakteristik.
+ 13.2.1 Målemetode og måleopstilling.
+ Som vist i kapitel 3.2.
+ 13.2.2 Krav.
+Amplitude-frekvenskarakteristikken i gennemgangsområdet skal have et jævnt  
+
+ forløb.
+Variationen må i de forskellige delsystemer maksimalt være:
+ Kurve over amplitude-frekvenskarakteristikken for hele frekvensområdet  
+
+ 40-862 MHz skal medfølge.
+ Gennemgangsdæmpningen samt minimumsdæmpningen i spærreområdet skal  
+
+ oplyses.
+ 13.3 Refleksionsdæmpning.
+ 13.3.1 Målemetode og måleopstilling.
+ Som vist i kapitel 3.4.
+ 13.3.2 Krav.
+ Filtre til montering før stikledningsfordeler:
+ 13.4 Skærmdæmpning.
+ 13.4.1 Målemetode og måleopstilling.
+Som kapitel 2.7 13.4.2 Krav.
+Som kapitel 2.7.7 14.0 Koaksialstik.
+ 14.1 Generelle krav.
+Alle stik skal være opbyggede efter internationale anerkendte standards  
+
+ som f.eks IEC, IEEE eller MIL.
+De skal endvidere være afprøvede og mærkede  
+
+ efter den pågældende standards retningslinier.
+Alle kabelstik skal være med skruefatning eller låseanordning.
+Til kabler  
+
+ med diameter på mindre end 8 mm tillades dog stik uden egentlig låseordning,  
+
+ hvis der for at demontere et stik, skal anvendes en udtrækskraft på min. 10 N  
+
+ (Se DIN 45330).
+ 14.2 Skærmdæmpning.
+ 14.2.1 Målemetode og måleopstilling.
+ Som IEC publikation 169-1-3.
+ 14.2.2 Krav.
+ Min. 70 dB i frekvensområdet 30 - 1000 MHz.
+ 14.3 Refleksionsdæmpning.
+ 14.3.1 Målemetode og måleopstilling.
+ Se målemetoden i IEC publikation 169-1-1, kap 14.1.
+ 14.3.2 Krav.
+ * ) Kabelklassen er defineret i IEC 96-3, kap.3.2.
+ 14.4 Strømgennemgang.
+ Det skal oplyses, hvor stor strøm stikket kan overføre.
+ 15.0 Koaksiale samleled og -overgangsled.
+ Koaksiale samleled bruges til at samle kabler med samme dimensioner.  
+
+ Koaksiale overgangsled bruges til at samle kabler med forskellige  
+
+ dimensioner.
+Materiellet skal være opbygget efter internationale, anerkendte standards  
+
+ som IEC, IEE eller MIL.
+De skal endvidere være afprøvede og mærkede efter den  
+
+ pågældende standards retningslinier.
+ 15.1 Mekaniske krav.
+ Alle samleled og overgangsled skal være i en solid udførelse og udførte af  
+
+ korrosionsfaste materialer.
+ Ved samling af et kabel må centerlederen ikke dreje rundt i forhold til  
+
+ kablets bestanddele.
+ For anvendelse i jorden skal materiellet være vandtæt eller være  
+
+ indsluttet i en vandtæt kappe.
+ 15.2 Skærmdæmpning.
+ 15.2.1 Målemetode.
+ Se målemetoden i IEC-publikation 169-1-3.
+ 15.2.2 Krav.
+ Min. 70 dB i frekvensområdet 30-1000 MHz.
+ 15.3 Refleksionsdæmpning.
+ 15.3.1 Målemetode og måleopstilling.
+ Se IEC publikation 169-1-1, kap 14.1.
+ 15.3.2 Krav.
+ 15.4 Strømgennemgang.
+ Det skal oplyses, hvor stor strøm der kan overføres.
+ 16.0 Afslutningsmodstande og impedansomsættere.
+ 16.1 Mekaniske krav.
+ Alle enheder, der er beregnet for indsætning i et stik med gevind, skal  
+
+ være forsynet med en omløber af metal.
+ 16.2 Refleksionsdæmpning.
+ Målemetode og måleopstilling ses i kapitel 3.4.
+ Refleksionsdæmpningen skal være bedre end 20 dB fra 40 - 860 MHz.
+ 16.3 Amplitude-frekvenskarakteristik af impedansomsættere.
+ Målemetode og måleopstilling ses i kapitel 3.2.
+ Amplitude-frekvenskarakteristikken må maksimalt afvige +1 dB fra den  
+
+ nominelle værdi.
+ 17 Koaksialkabler.
+ 17.1 Generelle krav.
+ Sammen med anmodningen om typegodkendelse skal medsendes et to meter langt  
+
+ kabel.
+ 17.1.1 Mærkning.
+Kabler for nedlægning i jord skal på den yderste kappe være mærket med  
+
+ fabrikat, type og fabrikationsår.
+Mærkningen skal være udført i  
+
+ overensstemmelse med Dansk Standard DS/IEC 96-1, 4. udgave 1984 eller være en  
+
+ holdbar langsgående farvekodning sammensat af 7 farver efter følgende  
+
+ retningslinier, idet cifre kodes i h.t.
+IEC-koden for modstande  
+
+ (IEC-publikation 62, 1974) :
+ For alle øvrige koaksialkabler må det påregnes, at der senere vil stillet  
+
+ krav om, at de skal være mærkede som koaksialkabler, der nedlægges i jord.  
+
+ Teleinspektionen skal derfor henstille, at man nu begynder at anvende kabler,  
+
+ der er rigtigt mærkede.
+ 17.2 Koaksialkablernes konstruktion.
+ 17.2.1 Koaksialkabler, der lægges i jord eller oplægges udendørs.
+ 17.2.1.1 Udvendig kappe.
+Kablet skal være forsynet med en plastkappe af polyethylen (PE). Kappens  
+
+ tykkelse afhænger af kabeldæmpningen, der er defineret i dB pr. 100 m ved 200  
+
+ MHz: For en dæmpning mindre end 8 dB er kravet mindst 1 mm.
+For en dæmpning  
+
+ større end 8 dB er kravet mindst 0,9 mm.
+ Plasten skal være stabiliseret med homogent kønrøg med vægtandelen 2,5 +/-  
+
+ 0,5 % (sort kappe).
+ Udenpå plastkappen kan yderligere lægges en farvet kappe.
+ 17.2.1.2 Isolationsmateriale (dielektrikum) mellem inderleder og skærm.
+Isolationsmaterialet skal bestå af massiv PE, celle PE eller en  
+
+ kombination af massiv PE og celle PE.
+Hulrumsisolation med PE er også  
+
+ tilladt.
+ 17.2.1.3 Krav til skærmen (yderlederen).
+ Den skal enten være et glat eller rynket (korrugeret) kobberrør eller en  
+
+ kobberfolie, der, hvis den ikke er klæbet til dielektrikummet, skal have en  
+
+ overlapning på mindst 10%.
+Folieskærmen skal normalt have en tykkelse på mindst 0,1 mm.
+En tyndere er  
+
+ dog tilladt, hvis folien er omgivet af en flettet kobberskærm, der bringer  
+
+ yderledernes samlede kobbervægt op på det, der mindst svarer til vægten af en  
+
+ yderleder af kobber med en tykkelse af mindst 0,1 mm.
+ Som stikledningskabel til abonnenter kan også godkendes kabler med en  
+
+ kobberfolieskærm på mindst 0,05 mm tykkelse under forudsætning af, at den er  
+
+ fastklæbet til dielektrikummet.
+Kabler med dielektrikum af celle-PE skal have en yderleder af kobberrør,  
+
+ der er glat eller rynket.
+Som stikledningkabel til abonnenter kan dog  
+
+ godkendes kabler med en yderleder af kobberfolie, der er mindst 0,1 mm tyk og  
+
+ har et overlap på mindst 10%.
+Kabler med dielektrikum, der er en kombination af massiv PE og luft, skal  
+
+ have en yderleder af lukket kobberrør eller kobberfolie, der er klæbet til  
+
+ kappen eller dielektrikummet.
+Hvis det massive PE danner et lukket rør udenom  
+
+ afstandsskiver og luft, eller hvis kablet er armeret, jvf. punkt 17.2.1.5,  
+
+ kan fastklæbning af folien undlades, men overlapningen skal være mindst 10%.
+ 17.2.1.4 Inderleder.
+ Inderlederen skal være udført af et af flg. materialer:
+ Herudover kan den også være forsølvet eller fortinnet.
+ 17.2.1.5 Armeret kabel.
+Armeringen skal bestå af stålbånd eller ståltråd, der er galvaniseret.
+Den  
+
+ skal lægges udenpå den i 17.2.1.1 nævnte udvendige kappe og være beskyttet  
+
+ med en plastkappe af PE, der er mindst 1 mm tyk.
+ 17.2.2 Krav til andre koaksialkabler.
+Kablerne skal være mekanisk solide.
+Skærmen skal være fortinnet, forsølvet  
+
+ eller plastfolie, der på begge sider er belagt med fastklæbet aluminium.
+ 17.3 Splidsning.
+ 17.3.1 Splidseforskrift.
+ For koaksialkabler til nedlægning i jord skal der fremsendes en nøjagtig  
+
+ splidseforskrift på dansk og udformet, så en installatør kan arbejde efter  
+
+ den.
+ 17.3.2 Krav til refleksionsdæmpning i en splidsning.
+ 17.4 Karakteristisk impedans.
+Kablernes karakteristiske impedans skal være 50 eller 75 Ohm.
+Tolerancen  
+
+ er afhængig af den klasse kablet tilhører (Se IEC 96-3 kap.3):
+ 17.5 Refleksionsdæmpning.
+ 17.5.1 Målemetode.
+ Som kapitel 3.4.
+ 17.5.2 Krav.
+ 17.6 Skærmdæmpning.
+ 17.6.1 Målemetode og måleopstilling.
+ Fig. 17.6.1 Måleopstilling til bestemmelse af skærmdæmpning.
+ Målemetoden er den såkaldte »absorbing clamp method« eller den  
+
+ absorberende klods metode, se IEC-publikation 96-1, amendment nr. 1.
+Kablet tilføres effekten P1 fra en el-afskærmet RF generator.
+På grund af  
+
+ den elektro-magnetiske kobling mellem kablet og omgivelserne udstråles der  
+
+ energi fra kablets overflade.
+ Overfladestrømmene måles med et arrangement, der består af en  
+
+ strømtransformer og en absorber (sædvanligvis ferritrør).
+ På basis af spidsværdierne af de målte overfladestrømme er det muligt at  
+
+ beregne den maksimale energi, P2, der udstråler fra kablet til omgivelserne.
+ Det logaritmiske forhold mellem P1 og P2 er skærmdæmpningen.
+ Overfladestrømmene kan måles på følgende forskellige måder: a) Ved en fast  
+
+ frekvens og en mobil absorberende klods. b) Med en variabel frekvens og en  
+
+ fast absorberende klods. c) Med en variabel frekvens og en mobil absorberende  
+
+ klods.
+ 17.6.2 Krav.
+ Min. 70 dB i frekvensområdet 30-1000 MHz.
+ 18.0 Standere, fordelerbokse og forstærkerskabe.
+ 18.1 Indledning.
+Sammen med afprøvningsanmodningen indsendes 2 stk.  
+
+ standere/fordelerbokse/forstærkerskabe monteret med kabler til prøvning samt  
+
+ tegnings- og materialespecifikationer, monteringsvejledning og  
+
+ opstillingsvejledning.
+Opmærksomheden henledes i den forbindelse på, at den i  
+
+ 18.4 nævnte prøvning for fugtspærre af skumplastmateriale kan ske uafhængigt  
+
+ af standeres og skabes typegodkendelse iøvrigt.
+ 18.2. Generelle krav.
+ Materiellet må ikke udsættes for højere omgivelsestemperatur end 50 grader  
+
+ C.
+ Standere med integreret fordelerboks og løse fordelerbokse må indeholde  
+
+ aktive el-komponenter med maksimal tilladelig effekt, som anført af  
+
+ fabrikanten (se 18.5).
+ Der skal udarbejdes en monteringsvejledning til permanent iklæbning i hver  
+
+ enkelt stander, skab eller fordelerboks og om nødvendigt udarbejdes en mere  
+
+ detaljeret opstillingsvejledning til installatøren.
+ 18.2.1 Standere med integreret fordelerboks.
+ Standeren skal have en længde, således at 50% dog mindst 70 cm nedgraves i  
+
+ jord: ligeledes skal standeren være sikret både mod vridning og løft med et  
+
+ modstandsareal, der mod vrid mindst svarer til modstanden af en kvadratisk  
+
+ plade på 15x15 cm anbragt symmetrisk i forhold til standerens centerlinie og  
+
+ mod løft mindst 100 (cm2).
+ Fugtspærrens underkant skal være placeret mindst 20 cm over endelig  
+
+ terrænkote.
+Standeren skal være udformet på en sådan måde, at stikledningskabler  
+
+ (abonnentledninger) kan indføres i stander og fordelerhus, uden at der  
+
+ foretages mere opgravning i jorden, end at standeren til stadighed er solidt  
+
+ forankret.
+Standeren skal yde beskyttelse mod indstik af graveredskaber eller  
+
+ lign. til en dybde af min. 30 cm under endelig terrænkote.
+ Endvidere gælder følgende:
+ 18.2.1.1 Standere skal være fremstillet af rustbeskyttet eller  
+
+ korrosionsfast materiale med sådanne dimensioner og godstykkelser, at de kan  
+
+ modstå de i prøvningsforskrifterne anførte krav.
+18.2.1.1.a For standere fremstillet af varmforzinket stål skal zinklaget  
+
+ være jævnt fordelt, ligesom pladetykkelsen uden zinklag skal være mindst 1  
+
+ mm.
+Der henvises endvidere til ISO 1459-61, 1973.
+18.2.1.1.b For standere med korrosinsbeskyttelse bestående af  
+
+ termohærdende plastmateriale, skal lagtykkelsen være mindst 70 um og flader  
+
+ skal være porefri.
+På skarpe kanter må ikke forekomme synlige porer.
+ Grundbehandlingen skal vælges, således at den er egnet til såvel det  
+
+ anvendte plademateriale som til det korrosionsbeskyttende lag.
+ 18.2.1.1.c Standere fremstillet af kunststof, skal være tilsat  
+
+ antioxydanter og UV-absorbere o.s.v. i en sådan mængde, at standeren er  
+
+ beskyttet effektivt mod vejrliget over lang tid.
+Fiberarmerede plastmaterialer skal sikres mod indtrængning af vand, snavs  
+
+ m.m.
+Overfladen skal være jævn og glat.
+Fibrene må ikke være blottede.  
+
+ Barcolhårdheden skal være >/- 35 Barcol i henhold til ASTM D2583.
+ 18.2.1.1.d For standere fremstillet af rustfrit stål, skal  
+
+ korrosionsbestandigheden være mindst som kvalitet W 1.4401 AISI 316.
+ 18.2.1.1.e Hvis der som grundmateriale eller korrosionsbeskyttelse  
+
+ anvendes andet end det anførte, skal egnetheden dokumenteres i en  
+
+ prøvningsrapport.
+ 18.2.1.2 Fordelerboksen skal være beskyttet mod indtrængning af jordfugt.
+ 18.2.1.3 Fordelerboksen skal normalt være forsynet med ventilation.
+ Åbninger skal sikres mod indstik i henhold til IEC publikation 529, IP 4X.
+ 18.2.1.4 Standeren må kun kunne åbnes med værktøj eller nøgle.
+18.2.1.5 Koaksialkablerne skal alle kunne sikres mod følgerne af træk ved  
+
+ passende trækaflastning.
+Skærmmonteringen i fordelerne regnes ikke som  
+
+ trækaflastning.
+Trækaflastningen må ikke beskadige koaksialkablerne.
+ Trækaflastningen i kp skal mindst svare til den numeriske værdi af  
+
+ produktet 2 x Dy, hvor Dy er kablets yderdiameter målt i mm.
+ 18.2.2 Løse fordelerbokse.
+ For løse fordelerbokse gælder samme krav som anført i punkterne  
+
+ 18.2.1.1-18.2.1.5. Boksens underkant skal placeres mindst 20 cm over endelig  
+
+ terrænkote.
+ Endvidere gælder følgende:
+ 18.2.2.1 Dækslet på boksen skal kunne monteres mekanisk solidt og må kun  
+
+ kunne åbnes ved brug af værktøj eller nøgle.
+18.2.2.2 Trækaflastningen skal være udført som en integreret del af  
+
+ fordelerboksen.
+For kabler, der ikke går i jord, kan en trækaflastning på 5  
+
+ kp accepteres.
+ 18.2.2.3 Vandtæt udførelse kan godkendes med indlagt  
+
+ fugtabsorberingsmiddel under forudsætning af, at boksen ikke skal  
+
+ typegodkendes til aktive el-komponenter.
+ 18.2.2.4 Løse fordelerbokse af aluminium skal være udført i støbt  
+
+ aluminium af en kvalitet, der mindst svarer til silumin AlSi 12 med en  
+
+ vejrbestandighedsklasse »gut« i henhold til DIN 1725 eller være  
+
+ udført i anodiseret aluminiumsplade.
+ 18.2.3 Løse standere.
+ Løse standere beregnet til påmontering af fordelerbokse skal, når de er  
+
+ monteret med en typegodkendt fordelerboks, opfylde kravene i 18.2.1.
+ 18.2.4 Forstærkerskabe.
+ 18.2.4.1 Forstærkerskabe, herunder hovedforstærkerskabe, skal opfylde de i  
+
+ 18.2.1 nævnte krav, idet fugtspærrens underkant dog kan tillades placeret  
+
+ mindst 10 cm over endelig terrænkote på betingelse af, at forstærkerskabet  
+
+ indtil 20 cm over terrænkote er udført vandtæt.
+ 18.3. Prøvningsforskrifter.
+ 18.3.1 Korrosionsprøvning.
+Stander/fordelerboks/forstærkerskab nr. 1 eller repræsentative dele heraf  
+
+ (hængsler, lukkebeslag etc.) anbringes 2 timer i et tågekammer med opløsning  
+
+ af 20% vejsalt og 2,5% koncentreret ammoniakvand.
+Umiddelbart herefter  
+
+ anbringes delene uden skylning i et kammer med 100% relativ fugtighed og svag  
+
+ lufttilførsel ved 35-40 grader C i 7 døgn.
+Efter eksponeringen må delene ikke udvise tegn på korrosion, ligesom åbne-  
+
+ og lukkefunktioner skal være intakte.
+I tilfælde af begyndende  
+
+ korrosionsangreb efter de anførte 7 døgn fortsættes prøvningen indtil 30 døgn  
+
+ ialt, hvorefter endelig bedømmelse foretages.
+ 18.3.2 Funktionsprøvning.
+Stander/fordelerboks/forstærkerskab nr. 2 underkastes en eksponering  
+
+ bestående af 5 cykler af varme ved 60 graderC i 3 timer, een time ved  
+
+ rumtemperatur, kulde ved -20 grader C i 3 timer samt UV-lys i 16 timer,  
+
+ således at hver cykel kan gennemføres indenfor et døgn.
+Efter eksponeringen  
+
+ må monteringsplader, skinner, skruer o. lign. ikke udvise tegn på korrosion  
+
+ ligesom åbne- og lukkefunktionerne fortsat skal være intakte.
+ Emne nr. 2 underkastes herefter, med de anførte undtagelser, følgende  
+
+ prøvninger (løse standere skal være monteret med tilhørende fordelerbokse):
+ 18.3.2.1 Slagprøvning.
+ Emnerne skal efter at være nedkølet til -20 grader C i to timer i et  
+
+ vilkårligt punkt udsættes for en slagpåvirkning med en 3 kg stålkugle med  
+
+ frit fald 1 m.
+ Herved må der ikke opstå brud eller revnedannelser i materialet. Åbne- og  
+
+ lukkefunktionerne skal fortsat være intakte.
+ 18.3.2.2 Bøjningsprøvning.
+ Udføres ikke på løse fordelerbokse.
+ Emnerne skal indspændt, som var de nedgravet i jord, udsættes for  
+
+ bøjningspåvirkning, idet en kraft på 100 kp overføres gennem en 10x10 cm  
+
+ trykplade 15 cm inde fra emnets øverste kant.
+Herved må der ikke fremkomme blivende deformationer eller brud og  
+
+ revnedannelse.
+Efter prøvningen skal åbne- og lukkefunktionerne fortsat være  
+
+ intakte.
+ 18.3.2.3 Vridningsprøvning.
+ Udføres ikke på løse fordelerbokse.
+ Emnerne skal indspændt, som var de nedgravet i jord, tåle et  
+
+ vridningsmoment på 10 kpm, idet momentarmen 1 m regnes fra emnets kant  
+
+ nærmest lasten, og momentet påføres emnets top.
+Herved må der ikke fremkomme blivende deformationer eller brud og  
+
+ revnedannelser.
+Låge/dæksel skal i belastet tilstand kunne åbnes eller  
+
+ lukkes.
+ 18.3.2.4 Tæthedsprøvning af fugtspærre (mellembund).
+ Udføres ikke på løse fordelerbokse.
+ Emnerne anbringes i et kar med vand og forsegles mod dampudslip til  
+
+ nedgravningsdybde, idet følgende prøvningsbetingelser iøvrigt gælder:
+ Efter to timer må der ikke kunne konstateres kondensdannelse i rummet over  
+
+ fugtspærren i modsætning til rummet under fugtspærren, der skal være udpræget  
+
+ vådt på alle overflader.
+ 18.3.2.5 Overbrusning.
+ Emnerne skal kunne modstå en overbrusning i henhold til IEC publikation  
+
+ 529, IP X3.
+ 18.3.2.6 Prøvning med gittersnit.
+ Overfladebehandlede standere, fordelerbokse og forstærkerskabe skal kunne  
+
+ bestå kravene i henhold til DS/ISO 2409, klassifikation 2.
+ 18.4. Fugtspærre.
+ Denne prøvning kan ske uafhængig af standeres og skabes typegodkendelse i  
+
+ øvrigt.
+ 18.4.1 Dimensioner.
+ Fugtspærren skal være af skumplastmateriale og tykkelsen skal være mindst  
+
+ 50 mm.
+ 18.4.2 Elasticitet.
+ Fugtspærren skal ved sammentrykning med hånden umiddelbart kunne genvinde  
+
+ sin oprindelige form.
+ 18.4.3 Ældningsprøvning.
+ Fugtspærren udsættes for følgende cyklus:
+ Denne cyklus gentages 7 gange.
+ Efter ældningsprøven besigtiges skummet, og der må ikke forefindes  
+
+ visuelle beskadigelser, ligesom fugtspærrens elastiske egenskaber skal  
+
+ opfylde kravene i 18.4.2.
+ 18.4.4 Prøvning for funktionsegenskaber.
+ Den ældede fugtspærre monteres i en ny eller allerede typegodkendt stander  
+
+ eller forstærkerskab, og der foretages prøvning i henhold til 18.3.2.4.
+ 18.5. Varmeeffekt.
+ Som vejledning for installatøren skal den maksimale varmeeffekt, som kan  
+
+ tillades afsat, anføres i hver enkelt boks eller skab.
+ Beregningsmetoden er beskrevet i IEC-dokument 17 D (Central office) 31,  
+
+ februar 1985. Den i IEC-dokumentet beskrevne beregningsmetode bruges også for  
+
+ bokse og skabe med overfladeareal på 1,25 (m2) og med ventilationsåbninger.
+Den anførte maksimale varmeeffekt skal være den effekt, som netop medfører  
+
+ en toptemperatur på 50 grader C jf.
+IEC-dokumentet.
+ Som grundlag for beregningen skal der som minimum anvendes en  
+
+ omgivelsestemperatur på 35 grader C.
+ 18.6 Kontrolordning.
+ Efter bemyndigelse fra Teleinspektionen, i hvert enkelt tilfælde, kan  
+
+ prøvningsinstituttet ved uanmeldt besøg udtage eksemplarer af godkendte typer  
+
+ fra virksomhedens produktion eller lager.
+De udtagne emner underkastes de i nærværende bestemmelser omhandlede  
+
+ undersøgelser, idet korrosionsprøvning i henhold til 18.3.1 kan udføres på  
+
+ ubeskadigede dele af boks, skab eller stander, som forinden har været udsat  
+
+ for anden prøvning.
+Som afvisningsgrundlag i forbindelse med  
+
+ korrosionsprøvning skal dog anvendes ikke tidligere afprøvede enheder.
+ Ældningsprøvning af fugtspærrer af skumplastmaterialer kan efter  
+
+ prøvningsinstituttets skøn undlades ved den årlige kontrol.
+ Såfremt betingelserne ikke er opfyldt, vil typegodkendelsen blive stillet  
+
+ i bero, indtil det ved fornyet prøvning er eftervist, at fejlen er rettet.
+ 18.7 Mærkning.
+ Alle standere, forstærkerskabe eller fordelerbokse skal være tydeligt  
+
+ mærkede med:
+ Mærkningen skal være mekanisk solid og holdbar.
+ 19. Udstyr til modtagning fra  
+
+ kommunikationssatellitter.
+19.1 Indledning Et system til modtagning fra kommunikationssatellitter består af antenne  
+
+ (parabol med fødehorn eller lignende), polarisationsfordeler, blokomsætter,  
+
+ mellemfrekvensforstærker, nedføringskabler, fordeler m.v. til og med  
+
+ satellitmodtageren (se fig 19.1). Systemet afgiver signaler på video- og  
+
+ lyd-niveau.
+KMK-signalerne er lineært polariserede og udsendes i  
+
+ frekvensområdet vist i fig. 19.1.
+ Udstyret typegodkendes til een af følgende kategorier:
+ Systemer i kategorierne F3 og F4 kan dog typegodkendes uden  
+
+ mellemfrekvensforstærker og fordeler.
+ Udstyr til anvendelse som enkeltanlæg typegodkendes efter TI-publikation  
+
+ nr. 6.
+ Figur 19.1: Oversigt over udstyr til modtagning fra  
+
+ kommunikationssatellitter.
+ Systemer beregnet til at modtage tv udsendelser i MAC kode kan enten have  
+
+ en MAC-dekoder eller en MAC-AM/VSB-modulator (se Kap. 6).
+ Satellitmodtagere kan være udført efter flere forskellige principper:
+ Satellitmodtager, c, skal enten efterfølges af en MAC-dekoder (MAC  
+
+ basisbånd til komponent video + analog lyd) eller en MAC-AM/VSB modulator til  
+
+ videreførsel i kabelnettet (se fig. 19.1). Denne modulators specifikationer  
+
+ er under udarbejdelse.
+ 19.2 Polarisationsfordeler.
+ En polarisationsfordeler anvendes umiddelbart efter antennens fødehorn og  
+
+ adskiller to orthogonale, lineært polariserede satellitsignaler.
+Polarisationsfordeleren har to indgangsporte, der betegnes hhv. kopolær-  
+
+ og krydspolær indgang, samt 2 udgangsporte.
+De to indgangsporte er mekanisk  
+
+ sammenfaldende.
+ For nemheds skyld bruges i dette afsnit flg. notation:
+ Polarisationsfordelere kan være opbygget på flere forskellige måder,  
+
+ f.eks.:
+ 19.2.1 Polarisationsdæmpning.
+ Ved polarisationsdæmpning forstås forholdet i dB mellem signalet med den  
+
+ ønskede polarisation og signalet med den modsatte (uønskede) polarisation i  
+
+ en ports udgangs, når der påtrykkes et enkeltpolariseret signal på indgangen.
+ 19.2.1.1 Målemetode og måleopstilling.
+ Måleopstilling er vist i figur 19.2.1.
+Omskifteren sættes i stilling I.
+Målesenderen indstilles til at afgive et  
+
+ umoduleret signal indenfor måleobjektets frekvensområde og der etableres et  
+
+ passende referenceniveau i målemodtageren v.h.a dæmpningsleddene.
+Derefter indskydes måleobjektet i måleopstillingen (omskifter i stilling  
+
+ II) og der indstilles til samme udslag på målemodtager før v.h.a.  
+
+ dæmpningsled 1. Hvis dæmpningen af dæmpningsled 1 (i dB) er hhv.
+A1 og A2 er  
+
+ (A1-A2) gennemgangsdæmpningen.
+ Overgangsleddet før måleobjektet drejes 90 grader, så måleobjektet nu  
+
+ forsynes med et signal, hvis polarisation er drejet 90 grader (er orthogonal)  
+
+ i forhold til det oprindelige signal.
+Målesenderens niveau øges v.h.a. dæmpningsled 1 til samme udslag i  
+
+ målemodtageren som før.
+Hvis dæmpningen af dæmpningsled 1 (i dB) er A3,  
+
+ bliver polarisationsdæmpningen for port 1: (A2-A3) dB.
+ Polarisationsdæmpningen måles ved så mange frekvenser, at den klart kommer  
+
+ til udtryk som funktion af frekvensen i polarisationsfordelerens  
+
+ frekvensområde.
+ Tilsvarende målinger udføres også for port 2.Den mindste værdi er  
+
+ polarisationsdæmpningen.
+ Figur 19.2.1: Måleopstilling til bestemmelse af polarisationsdæmpning for  
+
+ polarisationsfordelere.
+19.2.1.2. Måleopstillingens egnethed Egnetheden af måleopstillingen undersøges ved at fjerne måleobjektet og  
+
+ forbinde overgangsleddene med hinanden i to forskellige stillinger: (a)  
+
+ direkte og (b) drejet 90 grader til bestemmelse af måleopstillingens  
+
+ polarisationsdæmpning.
+ Den bør være mindst 3 dB bedre end måleobjektets polarisationsdæmpning i  
+
+ det betragtede frekvensbånd d.v.s mindst 33 dB.
+19.2.1.3 Krav Polarisationsdæmpningen skal være bedre end 30 dB for hver udgangsport i  
+
+ det betragtede frekvensbånd.
+ 19.3 Blokomsætter.
+ En blokomsætter anvendes til at frekvensomsætte og overføre et  
+
+ frekvensbånd i mikrobølgeområdet (typisk 10 -12 GHz) til et lavere  
+
+ frekvensbånd (typisk 950 - 1700 MHz).
+Ved de efterfølgende målinger skal blokomsætteren (måleobjektet) være  
+
+ strømforsynet efter fabrikantens forskrifter.
+Dette kan ske enten fra  
+
+ satellitmodtageren eller fra en separat strømsluse.
+ 19.3.1 Maksimal intermodulationsbegrænset udgangsspænding.
+ 19.3.1.1 Målemetode og måleopstilling.
+ Fig.19.3.1. Måleopstilling til bestemmelse af blokomsætterens maksimale  
+
+ intermodulationsbegrænsede udgangsspænding.
+ Figur 19.3.2: Frekvensspektrum på blokomsætterens udgang (a) og indgang  
+
+ (b).
+ De to umodulerede målesendere indstilles til frekvenserne f1 og f2 og med  
+
+ de på Figur 19.3.2.b viste frekvensafstande og relative amplituder inden for  
+
+ måleobjektets frekvensområde.
+ Niveauet af det til måleobjektet førte frekvensspektrum justeres v.h.a.  
+
+ dæmpningsled 1, indtil amplituden af det største af  
+
+ intermodulationsprodukterne Ui og U'i, som optræder i måleobjektets  
+
+ udgangssignal, er ai ( = 40 dB) mindre end udgangsspændingen U2.
+ Herefter måles effektivværdien af udgangsspændingen U2. Denne spænding er  
+
+ den maksimale intermodulationsbegrænsede udgangsspænding.
+ Målingen foretages ved så mange frekvenser, at den maksimale  
+
+ intermodulationsbegrænsede udgangsspænding klart kommer til udtryk indenfor  
+
+ blokomsætterens frekvensområde.
+ Den maksimale intermodulationsbegrænsede udgangsspænding er den mindste af  
+
+ de målte værdier.
+19.3.1.3 Krav Den maksimale intermodulationsbegrænsede udgangsspænding skal oplyses.
+ 19.3.2 Amplitude-frekvenskarakteristik.
+19.3.2.1 Målemetode og måleopstilling Udføres som i afsnit 3.2 (fig. 3.2.1) dog med et passende FM-modulerbar  
+
+ målesender og målemodtager.
+ Måleniveauet skal være det, der giver det maksimale udgangsspænding efter  
+
+ fabrikantens forskrifter.
+ Målesenderen indstilles til centerfrekvensen (f.eks. 11.325 GHz) og  
+
+ måleobjektets udgangsniveau målt med målemodtager noteres som reference.
+ Amplitudeforholdet måles ved så mange frekvenser, at det klart kommer til  
+
+ udtryk indenfor blokomsætterens udgangsfrekvensområde.
+ 19.3.2.2 Krav.
+ Amplitude-frekvenskarakteristikken skal have et jævnt forløb inden for  
+
+ blokomsætterens frekvensbånd (f.eks. 950 - 1700 evt. 1750 MHz). Kurve for  
+
+ hele frekvensbåndet skal vedlægges.
+Variationen må højst være: 2 dB i en vilkårlig tv-kanal på 36 MHz. 1.5 dB  
+
+ i en vilkårlig tv-kanal på 27 MHz.
+Værdien oplyses i mellemfrekvensbåndet  
+
+ (950 - 1750 MHz.
+ 19.3.3 Spejlselektivitet.
+ Ved blokomsætterens spejlselektivitet forstås dens relative følsomhed for  
+
+ det uønskede spejlsignalbånd i forhold til det ønskede signalbånd som vist  
+
+ nedenfor:
+ Ønsket signalbånd: fs.
+ Efter blanding med lokaloscillatoren fås den ønskede mellemfrekvens: fMF =  
+
+ fS - fLO.
+ Uønsket spejlsignal: f's.
+ Efter blanding med lokaloscillatoren fås den uønskede mellemfrekvens: fMF  
+
+ = fLO - f's.
+ For kommunikationssatellitter er disse værdier (f.eks.):
+19.3.3.1 Målemetode og måleopstilling Udføres som i afsnit 3.2 (fig. 3.2.1) dog med et passende FM-modulerbar  
+
+ målesender og målemodtager.
+Måleniveauet skal være det, der giver det  
+
+ maksimale udgangsspænding efter fabrikantens forskrifter.
+ Målesenderen indstilles til centerfrekvensen (f.eks. 11.325 GHz) i det  
+
+ ønskede frekvensområde (f.eks. 10.95 til 11.7 GHz) og måleobjektets  
+
+ udgangsniveau målt på målemodtageren noteres (Poi). Målingen gentages for to  
+
+ andre frekvenser indenfor frekvensområdet.
+Målesenderen indstilles derefter til 3 frekvenser indenfor  
+
+ spejlsignalbåndet (8.03 til 9.05 GHz), der giver samme udgangs mellemfrekvens  
+
+ som før.
+Måleniveauet skal nu være 30 dB højere end ved det ønskede  
+
+ frekvensbånd.
+Udgangsniveauet ved hver frekvens noteres (P1i).
+ Spejlselektiviteten, ved hver frekvens, er da:
+ Den mindste af de målte værdier er spejlselektiviteten.
+ 19.3.3.2 Krav.
+ Spejlselektiviteten skal oplyses.
+19.3.4 Støjtal 19.3.4.1 Målemetode og måleopstilling.
+ Der benyttes samme måleopstilling som i kapitel 3.3. Målingen gentages ved  
+
+ så mange frekvenser, at støjtallet kan afbildes som funktion af frekvensen i  
+
+ blokomsætterens frekvensområde f.eks 950 - 1750 MHz.
+19.3.4.2 Krav 19.3.5 Refleksionsdæmpning.
+ 19.3.5.1 Målemetode og måleopstilling.
+ Der benyttes samme måleopstilling som i kapitel 3.4.
+19.3.5.2 Krav Den nominelle udgangsimpedans for blokomsætteren skal være 50 eller 75  
+
+ ohm.
+Refleksionsdæmpningen skal min. være:
+ 19.3.6 Lokaloscillatorens frekvensstabilitet.
+ 19.3.6.1 Målemetode og måleopstilling.
+ Fig.19.3.6. Måleopstilling til måling af frekvensstabilitet.
+Målemetoden udnytter den del af lokaloscillatorens signal, som fremkommer  
+
+ på blokomsætterens udgang.
+Skulle det være for svagt (eller måleudstyret ikke  
+
+ følsomt nok) må lokaloscillatorens frekvensstabilitet måles indirekte ved at  
+
+ påtrykke et signal på blokomsætterens indgang og iagttage udgangssignalet  
+
+ (jvf. kapitel 3.13).
+ Målemodtageren indstilles til måling ved lokal-oscillatorens frekvens  
+
+ (f.eks. 10 GHz).
+ Måleobjektet underkastes temperaturer og forsyningsspændingsvariationer i  
+
+ områderne:
+Udgangssignalets frekvens måles ved de forskellige tilstande.
+Det skal  
+
+ sikres, at måleobjektet er i termisk ligevægt ved hver ønsket temperatur i  
+
+ klimakammeret, inden målingen foretages.
+ 19.3.6.2 Krav.
+ Maks. frekvensafvigelse fra nominel værdi:
+ Alle kategorier: +/- 3 MHz.
+ 19.3.7 Maksimal effekt fra lokaloscillatoren på signalind- og udgan 8Age.
+ 19.3.7.1 Målemetode og måleopstilling.
+ Måleopstillingen er vist i figur 19.3.7. Målemodtageren indstilles til  
+
+ måling ved lokaloscillatorens frekvens (f.eks. 10 GHz) i begge  
+
+ måleopstillinger (dvs som fig 19.3.7 ,a og b.
+Fig.19.3.7. Måleopstilling til måling af LO's effekt på blokomsætterens  
+
+ ind- og udgang 19.3.7.2 Krav Lokaloscillatorens effekt må højst være:
+ 19.3.8 HF-udstråling og skærmdæmpning.
+ 19.3.8.1 Målemetode og måleopstilling.
+ Som kapitel 2.7.
+19.3.8.2 Krav Som kapitel 2.7.6 og 2.7.7.
+ 19.4 Mellemfrekvensforstærkere.
+19.4.1 Maksimal intermodulationsbegrænset udgangsspænding Ved en mellemfrekvensfortærkers maksimale intermodulationsbegrænsede  
+
+ udgangsspænding ved overføring af to tv kanaler forstås i denne bestemmelse  
+
+ den værdi af udgangsspændingen, som bestemmes ved følgende målemetode.
+ Ved de efterfølgende målinger skal mellemfrekvensforstærkeren  
+
+ (måleobjektet) være AC eller DC- forsynet efter fabrikantens forskrifter.
+ 19.4.1.1 Målemetode og måleopstilling.
+Figur 19.4.2: Frekvensspektrum på udgangen af MF forstærkeren Der benyttes samme måleopstilling som i kapitel 3.3.(Fig 3.3.1.a).
+ Hvis forstærkeren er forsynet med manuel regulering af forstærkningen, må  
+
+ reguleringen ikke kunne ændre forstærkerens maksimale  
+
+ intermodulationsbegrænsede udgangsspænding.
+ De tre umodulerede målesendere indstilles til frekvenserne f1, f2 og f3 og  
+
+ med de på Fig.19.4.2 viste frekvensafstande og relative amplituder indenfor  
+
+ MF-forstærkerens frekvensområde.
+ Niveauet af det til måleobjektet førte frekvensspektrum justeres ved hjælp  
+
+ af dæmpningsled 1 indtil amplituden af det største af  
+
+ intermodulationsprodukterne Ui, som optræder i måleobjektets udgangssignal,  
+
+ er ai (= 40 dB) mindre end udgangsspændingen U3.
+Herefter måles effektivværdien af spændingen U3 på udgangen af  
+
+ MF-forstærkeren.
+Denne spænding er den maksimale intermodulationsbegrænsede  
+
+ udgangsspænding.
+ Målingen foretages ved så mange frekvenser, at den maksimale  
+
+ intermodulationsbegrænsede udgangsspænding klart kommer til udtryk indenfor  
+
+ MF-forstærkerens frekvensområde.
+ Den maksimale intermodulationsbegrænsede udgangsspænding er den mindste af  
+
+ de målte værdier.
+19.4.1.2 Krav Værdien oplyses.
+ 19.4.2 Amplitude-frekvenskarakteristik.
+ 19.4.2.1 Målemetode.
+ Som kapitel 3.2.
+ 19.4.2.2 Krav.
+Amplitude-frekvenskarakteristikken skal have et jævnt forløb inden for  
+
+ MF-forstærkerens frekvensbånd.
+Kurve for hele frekvensbåndet skal vedlægges.
+ Variationen må højst være:
+ 19.4.3 Støjtal.
+ 19.4.3.1 Målemetode og måleopstilling.
+ Som i afsnit 19.3.4.
+19.4.3.2 Krav Værdien oplyses.
+ 19.4.4 Refleksionsdæmpning.
+ Den karakteristiske impedans kan være 50 eller 75 Ohm.
+ 19.4.4.1 Målemetode og måleopstilling.
+ Som kapitel 3.4.
+ Hvis MF-forstærkeren har indbygget variabelt dæmpningsled, måles  
+
+ refleksionsdæmpningen med dæmpningsleddet indstillet i begge yderstillinger.  
+
+ Refleksionsdæmpningen måles for samtlige signalind- og udgange.
+ 19.4.4.2 Krav.
+ 19.4.5 HF-udstråling og skærmdæmpning.
+ 19.4.5.1 Målemetode og måleopstilling.
+ Som kapitel 2.7.
+ 19.4.5.2 Krav.
+ Som kap. 2.7.6 og 2.7.7.
+ Skærmdæmpningen oplyses.
+ 19.5 Signalfordelere.
+19.5.1 Amplitude-frekvenskarakteristik 19.5.1.1 Målemetode og måleopstilling Som kapitel 19.4.2.1 på alle udgange.
+19.5.1.2 Krav Som kapitel 19.4.2.2.
+ 19.5.2 Refleksionsdæmpning.
+ 19.5.2.1 Målemetode og måleopstilling.
+ Som kapitel 3.4.
+19.5.2.2 Krav 19.5.3 Skærmdæmpning 19.5.3.1 Målemetode og måleopstilling.
+Som kapitel 2.7 19.5.3.2 Krav Som kapitel 2.7.6 og 2.7.7.
+ 19.5.4 Overhøringsdæmpning (Isolation mellem udgange).
+ 19.5.4.1 Måleopstilling og målemetode.
+ Som kapitel 9.4.1.
+ 19.5.4.2 Krav.
+Mellem udgangene er minimumskravene: 13 dB + 20log10( Un / Um) dB, hvor Un  
+
+ er signalniveauet på udgang n og Um er signalniveauet på udgang m.
+Un er  
+
+ større end Um 19.6 Satellitmodtagere (1.mellemfrekvens til PAL).
+ 19.6.1 Amplitude-frekvenskarakteristik.
+ 19.6.1.1 Amplitude-frekvenskarakteristik for videosignalet.
+ 19.6.1.1.1 Målemetode og måleopstilling.
+ Fig.19.6.1.1. Måleopstilling til måling af  
+
+ amplitude-frekvens-karakteristik for videosignalet.
+ Målesender 1 stilles på en frekvens efter fabrikantens forskrifter eller  
+
+ en bærebølgen af en af de faste tv kanaler efter kapitel 19.10 (kolonne  
+
+ »1st MF«).
+ Målesender 1 frekvensmoduleres af målesender 2 med et frekvenssving iflg.  
+
+ 19.10 (kolonne »video frekvenssving«).
+ Måleniveauet skal være det nominelle indgangsniveau for satellitmodtageren  
+
+ efter fabrikantens forskrifter.
+ Satellitmodtageren indstilles til modtagning af den valgte tv kanal.
+ Målesender 2's frekvens ændres indenfor båndet 25 Hz - 5.5 MHz og  
+
+ måleobjektets udgangsniveau noteres.
+ 19.6.1.1.2 Krav.
+ Amplitude-frekvenskarakteristikken skal have et jævnt forløb indenfor  
+
+ videobåndet (25 Hz - 5.0 MHz). Variationen i de forskellige net må højst  
+
+ være:
+ 19.6.1.2 Audiosignaler.
+19.6.1.2.1 Målemetode Fig.19.6.1.2. Måleopstilling til måling af  
+
+ amplitude-frekvens-karakteristik for lydsignalet.
+ Målesender 1 stilles på en frekvens efter fabrikantens forskrifter eller  
+
+ bærebølgen af en af de faste tv kanaler i kapitel 19.10 (kolonne »1st  
+
+ MF«).
+FM-modulator og tonegenerator indstilles til bærebølgefrekvens,  
+
+ frekvenssving og forbetoning iflg. kapite 19.10 for lyden af den betragtede  
+
+ tv kanal, eller efter fabrikantens forskrifter.
+Det må sikres at måleobjektet  
+
+ er indstillet til den tilsvarende lydbærebølge, frekvenssving og  
+
+ efterbetoning som FM-modulatoren.
+ Målesender frekvensmoduleres af modulatorens udgang med et frekvenssving  
+
+ iflg kap. 19.10 (kolonne videofrekvenssving).
+ Måleniveauet skal være det nominelle indgangsniveau for måleobjektet efter  
+
+ fabrikantens forskrifter.
+ Satellitmodtageren indstilles til modtagning af den valgte tv kanal.
+Tonegeneratorens frekvens ændres indenfor båndet 40 Hz - 15 kHz og  
+
+ måleobjektets udgangsniveau noteres.
+Måleobjektets udgangsniveau ved 1 kHz  
+
+ bruges som reference.
+19.6.1.2.2 Krav Værdien oplyses.
+ 19.6.2 Ind- og udgangsimpedanser.
+ 19.6.2.1 Indgangsimpedans.
+ Impedansen skal være 50 eller 75 Ohm.
+ Refleksionsdæmpningen bestemmes som i 4.4.
+19.6.2.1.1 Krav Refleksionsdæmpningen oplyses.
+ 19.6.2.2 Udgangsimpedans på video.
+ Impedansen skal være 75 Ohm.:
+ 19.6.2.3 Udgangsimpedans på audio.
+ Værdien oplyses.
+19.6.3 Gruppeløbetid 19.6.3.1 Målemetode og måleopstilling.
+ Som i kapitel 3.6 (fig. 3.6.1) med en FM-modulerbar målesender MS3 i  
+
+ stedet for tv-demodulatoren.
+ Målesender 3 stilles på en frekvens efter fabrikantens forskrifter eller  
+
+ på medbærebølgefrekvens af en af de faste tv kanaler efter kapitel 19.10,  
+
+ kolonne »1st MF«.
+ Målesender 3 frekvensmoduleres med signalet fra »video generator/AM  
+
+ modulator«, som afgiver et signal bestående af en bærebølge og to  
+
+ sidebånd. (Dette signal fremkommer ved at amplitude-modulere  
+
+ videogenerator/AM modulator med en fast 20 kHz tone fra en tonegenerator).
+ Måleniveauet skal være det nominelle indgangsniveau for måleobjektet efter  
+
+ fabrikantens forskrifter.
+ Satellitmodtageren indstilles til modtagning af den valgte tv kanal.
+ Fasedetektoren måler faseforskellen mellem den direkte modulerende  
+
+ testtone og dennes - gennem måleobjektet overførte og demodulerede udgave.
+Gruppeløbetiden er da: tD= Øe / (360 fm) hvor I kommercielle måleinstrumenter udlæses resultatet direkte.
+ AM-modulatorens frekvens ændres indenfor området 0.1 til 4.43 MHz og  
+
+ målingen gentages, så gruppeløbetiden kommer til udtryk som funktion af  
+
+ frekvensen.
+ 19.6.3.2 Måleopstillingens egnethed.
+ Egnetheden undersøges ved at fjerne måleobjektet og MS3 og måle den  
+
+ resulterende måleopstillings gruppeløbetid i frekvensbåndet 0.1 til 4.43 MHz.  
+
+ Denne må være lille i forhold til de værdier man ønsker at måle i  
+
+ satellitmodtageren.
+ Målesender 3's egen gruppeløbetid må ikke have kendelig indflydelse på  
+
+ målingen.
+19.6.3.3 Krav Satellitmodtagerens gruppeløbetidsvariation i frekvensbåndet 0.1 til 4.43  
+
+ MHz:
+ 19.6.4 Ulineær forvrængning.
+ 19.6.4.1 Differentiel forstærkning.
+ 19.6.4.1.1 Målemetode og måleopstilling.
+ Som i kap. 3.7.1 (fig. 3.7.1) dog uden demodulator og med en passende  
+
+ FM-modulerbar HF-modulator, målesender 1.
+ Målesender 1 stilles til en frekvens lig bærebølgen af en af de faste tv  
+
+ kanaler efter fabrikantens forskrifter eller efter kap. 10.10 (kolonne  
+
+ »1st MF«) og frekvensmoduleres med video generatoren til et  
+
+ frekvenssving iflg. bilag 1 (kolonne »video frekvenssving«).
+ Måleniveauet skal være det nominelle indgangsniveau for måleobjektet efter  
+
+ fabrikantens forskrifter.
+ 19.6.4.1.2 Krav.
+ Den differentielle forstærkning skal være bedre end:
+ 19.6.4.2 Differentiel fase.
+ 19.6.4.2.1 Målemetode og måleopstilling.
+ Udføres som i kapitel 3.8.1 (fig. 3.8.1) dog uden demodulator og med en  
+
+ passende FM-modulerbar HF modulator.
+ 19.6.4.2.2 Krav.
+ Den differentielle fase skal være bedre end:
+ 19.6.4.3 Klirfaktor (Harmonisk forvrængning).
+ 19.6.4.3.1 Målemetode og måleopstilling.
+Måleopstillingen kan være udført som vist på Figur 19.6.4.3 Fig 19.6.4.3 Måleopstilling til bestemmelse af klirfaktor.
+ Tonegeneratoren indstilles til en frekvens indenfor området 40 - 5000 Hz.
+ Målesenderen stilles på en frekvens efter fabrikantens forskrifter eller  
+
+ på en bærebølgefrekvens af en af de faste tv-kanaler efter kapitel 19.10  
+
+ (kolonne: 1st MF).
+FM-modulatoren indstilles til bærebølgens frekvens.
+Forbetoning og  
+
+ frekvenssving efter en tv kanal i kapitel 19.10. eller efter fabrikantens  
+
+ forskrifter.
+Det må sikres at måleobjektet er indstillet til den tilsvarende  
+
+ lydbærebølge, efterbetoning og frekvenssving som FM-modulatoren.
+ Målesenderen frekvensmoduleres af modulatorens udgang med et frekvenssving  
+
+ ifølge kapitel 19.10 (video frekvenssving).
+ Måleniveauet skal være det nominelle indgangsniveau for måleobjektet efter  
+
+ fabrikantens forskrifter.
+ Satellitmodtageren indstilles til modtagning af den valgte tv-kanal.
+Klirfaktoren udlæses fra forvrængningsmåleren og der måles ved så mange  
+
+ frekvenser, at den klart kommer til udtryk som funktion i området 40 - 5000  
+
+ Hz.
+Som målefrekvenser kan f.eks. anvendes frekvenserne 40, 100, 300, 1000 og  
+
+ 5000 Hz.
+ 19.6.4.3.2 Krav.
+Satellitmodtagerens klirfaktor skal være bedre end 1 % indenfor enhver  
+
+ tv-kanal i området 40 til 5000 Hz.
+Det skal oplyses ved hvilket frekvenssving  
+
+ klirfaktoren er målt.
+ 19.6.5 Udgangsniveauer.
+ 19.6.5.1 Videosignaler.
+ 19.6.5.1.1 Målemetode og måleopstilling.
+ Målingen kan foretages samtidig med bestemmelse af  
+
+ amplitude-frekvenskarakteristikken som beskrevet i kapitel 19.6.1 ved  
+
+ udlæsning fra oscilloskopet.
+ 19.6.5.1.2 Krav.
+ Video udgangsniveauet skal være >= 1 Volt spids-spids indenfor  
+
+ frekvensområdet 25 Hz - 5.0 MHz.
+ 19.6.5.2 Audiosignalets udgangsniveau.
+ 19.6.5.2.1 Målemetode og måleopstilling.
+ Målingen kan foretages samtidig med bestemmelse af  
+
+ amplitude-frekvenskarakteristikken som beskrevet i kapitel 19.6.2.
+ 19.6.5.2.2 Krav.
+ Udgangsniveauet oplyses.
+19.6.6 HF-udstråling og skærmdæmpning 19.6.6.1 Målemetode og måleopstilling.
+Som kapitel 2.7 19.6.6.2 Krav.
+Som kapitel 2.7.6 og 2.7.7 19.6.7 Antenneklemspænding.
+ Dette afsnit udføres kun, hvis enheden benyttes i et anlæg, hvor  
+
+ signalerne fordeles ved 1. mellemfrekvens.
+ 19.6.7.1 Målemetode og måleopstilling.
+ Måles som beskrevet i CISPR publication 13, kap. 5.4 og i et  
+
+ frekvensområde, der skal omfatte satellitmodtagerens første lokaloscillator,  
+
+ første mellemfrekvens og dennes harmoniske.
+ 19.6.7.2 Krav.
+ Spændingen på antenneklemmerne skal være mindre end: 67 dBuV/50 Ohm eller  
+
+ 69 dBuV/75 Ohm svarende til -40 dBm.
+19.7 Satellitmodtagere (1.mellemfrekvens til komponent video og analog  
+
+ lyd.) 19.7.1 Amplitude-frekvenskarakteristik for videosignalet.
+ 19.7.1.1 Målemetode og måleopstilling.
+ Under udarbejdelse.
+ 19.7.1.2 Krav.
+ Amplitudevariationen indenfor videobåndet oplyses.
+ 19.7.1.2 Amplitude-frekvenskarakteristik for lydsignalet.
+ 19.7.1.2.1 Målemetode og måleopstilling.
+ Som kapitel 19.6.1.2.1.
+ 19.7.1.2.2 Krav.
+ Amplitudevariationen indenfor audiobåndet oplyses.
+ 19.7.2 Ind- og udgangsimpedanser.
+ Som kapitel 19.6.2.
+ 19.7.3 Gruppeløbetid.
+ 19.7.3.1 Målemetode og måleopstilling.
+ Under udarbejdelse.
+19.7.3.2 Krav Gruppeløbetidsvariation indenfor videobåndet oplyses.
+19.7.4 Klirfaktor 19.7.4.1 Målemetode og krav.
+ Som kapitel 19.6.4.3.
+ 19.7.5.1 Videosignalets udgangsniveau.
+ 19.7.5.1.1 Målemetode og krav.
+ Som kapitel 19.6.8.
+ 19.7.5.2 Audiosignalets udgangsniveau.
+ 19.7.5.2.1 Målemetode og krav.
+ Som kapitel 19.6.5.2.
+ 19.7.6 HF-udstråling og skærmdæmpning.
+ 19.7.6.1 Målemetode og måleopstilling.
+ Som kapitel 2.7.
+ 19.7.6.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+ 19.8 Satellitmodtagere (1.mellemfrekvens til MAC basisbånd).
+ 19.8.1 Amplitude-frekvenskarakteristik.
+ 19.8.1.1 Målemetode og måleopstilling.
+ Under udarbejdelse.
+19.8.1.2 Krav Amplitudevariationen indenfor frekvensbåndet oplyses.
+ 19.8.2 Refleksionsdæmpning.
+19.8.2.1 Målemetode og krav Som kapitel 19.6.2.
+ 19.8.3 Gruppeløbetid.
+ 19.8.3.1 Målemetode og måleopstilling.
+ Som i kapitel 19.6.4, dog ændres AM-modulatorens frekvens i området 0.1  
+
+ til 10.125 (eller 20.25) MHz afhængig af, hvilken MAC standard (C-, D-, eller  
+
+ D2-), der skal modtages i afprøvningskanalen.
+19.8.3.2 Krav Gruppeløbetidsvariation indenfor frekvensbåndet oplyses.
+19.8.4 Udgangsniveau 19.8.4.1 Målemetode Som kapitel 19.6.5.1.
+19.8.4.2 Krav Udgangsniveauet oplyses.
+ 19.8.5 HF-udstråling og skærmdæmpning.
+ 19.8.5.1 Målemetode.
+ Som kapitel 2.7.
+ 19.8.5.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+ 19.8.6 Antenneklemspænding.
+ Dette afsnit udføres kun, hvis enheden benyttes i et anlæg, hvor  
+
+ signalerne fordeles ved 1. mellemfrekvens.
+ 19.8.6.1 Målemetode og måleopstilling.
+ Som kapitel 19.6.7.1.
+ 19.8.6.2 Krav.
+ Som kapitel 19.6.7.2.
+ 19.9 MAC - dekodere.
+ 19.9.1.1 Amplitude-frekvenskarakteristik for videosignalet.
+ 19.9.1.1.1 Målemetode og måleopstilling.
+ Under udarbejdelse.
+ 19.9.1.1.2 Krav.
+ Amplitudevariationen indenfor videobåndet oplyses.
+ 19.9.1.2 Amplitude-frekvenskarakteristik for lydsignalet.
+ 19.9.1.2.1 Målemetode og måleopstilling.
+ Under udarbejdelse.
+ 19.9.1.2.2 Krav.
+ Amplitudevariationen indenfor audiobåndet oplyses.
+ 19.9.2 Refleksionsdæmpning.
+ 19.9.3.1 Målemetode og krav.
+ Som kapitel 19.6.2.
+ 19.9.3 Gruppeløbetid.
+ 19.9.3.1 Målemetode og måleopstilling.
+ Under udarbejdelse.
+19.9.3.2 Krav Gruppeløbetidsvariation indenfor videobåndet oplyses.
+ 19.9.4 Klirfaktor (Harmonisk forvrængning).
+19.9.4.1 Målemetode og krav Under udarbejdelse.
+ 19.9.5 Videosignalets udgangsniveau.
+19.9.5.1.1 Målemetode og krav Som kapitel 19.6.5.1.
+ 19.9.6 Audiosignalets udgangsniveau.
+ 19.9.6.1 Målemetode og krav.
+ Som kapitel 19.6.5.2.
+ 19.9.7 HF-udstråling og skærmdæmpning.
+ 19.9.7.1 Målemetode og måleopstilling.
+ Som kapitel 2.7.
+ 19.9.7.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+ 19.10 Oversigt over tv-programmer, der udsendes fra EUTELSAT 1-F4  
+
+ kommunikationssatellitten.
+ 20. Udstyr til modtagning fra DBS-satellitter.
+ 20.1. Indledning.
+ Materiel til modtagning fra DBS satellitter kan typegodkendes til en af  
+
+ følgende tre kategorier:
+ Et system til modtagning fra DBS satellitter består af antenne (parabol  
+
+ med fødehorn eller lignende), polarisationsfordeler, blokomsætter,  
+
+ mellemfrekvensforstærker, nedføringskabler, fordeler m.v. til og med  
+
+ satellitmodtageren (se Fig 19.1). Systemet afgiver signaler på video- og  
+
+ lyd-niveau.
+ Systemerne i kategori 3 kan dog typegodkendes uden  
+
+ mellemfrekvensforstærker og fordeler.
+DBS-signalerne er i frekvensområdet 11.7 - 12.5 MHz.
+De er cirkulært  
+
+ polariserede og videosignalet er kodet i MAC packet systemet.
+ Satellitmodtagere kan være udført på flere forskellige måder:
+ 20.2 Polarisationsfordeler.
+ 20.2.1 Polarisationsdæmpning.
+20.2.1.1 Målemetode og måleopstilling Som i Kapitel 19.2.
+ 20.2.1.2 Krav.
+ Polarisationsdæmpningen skal være bedre end 30 dB for hver udgangsport i  
+
+ det betragtede frekvensbånd.
+ 20.3 BLOKOMSÆTTERE.
+ 20.3.1 Maksimal intermodulationsbegrænset udgangsspænding.
+20.3.1.1 Målemetode og måleopstilling Som i kapitel 19.3.1.
+ 20.3.1.2 Krav.
+ Værdien af den maksimale intermodulationsbegrænsede udgangsspænding skal  
+
+ opgives.
+20.3.2 Amplitude-frekvenskarakteristik 20.3.2.1 Målemetode og måleopstilling Som i kapitel 19.3.2.
+ 20.3.2.2 Krav.
+ Amplitude-frekvenskarakteristikken skal have et jævnt forløb indenfor  
+
+ blokomsætterens frekvensbånd (950 - 1750 MHz).
+ Kurven for hele frekvensbåndet skal vedlægges.
+ Variationen indenfor en vilkårlig tv-kanal oplyses.
+20.3.3 Spejlselektivitet Ved blokomsætterens spejlselektivitet forstås dens relative følsomhed for  
+
+ det uønskede spejlsignalbånd i forhold til det ønskede signalbånd.
+ For DBS-satellitter gælder:
+20.3.3.1 Målemetode og måleopstilling Som i afsnit 19.3.3.1.
+ 20.3.3.2 Krav.
+ Spejlselektiviteten skal oplyses.
+ 20.3.4 Støjtal.
+20.3.4.1 Målemetode og måleopstilling Som kapitel 19.3.4.
+20.3.4.2 Krav 20.3.5 Udgangsimpedans og refleksionsdæmpning.
+ Impedansen skal være 50 eller 75 Ohm.
+20.3.5.1 Målemetode og måleopstilling Udføres som i kapitel 19.3.5 og med et passende frekvensbånd.
+ 20.3.5.2 Krav.
+ Refleksionsdæmpningen skal min. være:
+ 20.3.6 Lokaloscillatorens frekvensstabilitet.
+20.3.6.1 Målemetode og måleopstilling Som i kapitel 19.3.6.
+20.3.6.2 Krav Frekvensafvigelsen må højst være +/- 5 MHz.
+ 20.3.7 Maksimal effekt fra lokaloscillatoren på signalind- og udgange.
+20.3.7.1 Målemetode og måleopstilling Udføres som i kapitel 19.3.7 og med et passende frekvensbånd.
+ 20.3.7.2 Krav.
+ Lokaloscillatorens effekt må højst være:
+ 20.3.8 HF-udstråling og skærmdæmpning.
+20.3.8.1 Målemetode og måleopstilling Som kapitel 2.7.
+20.3.8.2 Krav Som kapitel 2.7.6 og 2.7.7.
+20.4 MELLEMFREKVENSFORSTÆRKERE 20.4.1 Maksimal intermodulationsbegrænset udgangsspænding.
+20.4.1.1 Målemetode og måleopstilling Som kapitel 19.4.1 og med et passende frekvensbånd.
+20.4.1.2 Krav Værdien oplyses.
+ 20.4.2 Amplitude-frekvenskarakteristik.
+ 20.4.2.1 Målemetode og måleopstilling.
+ Som i kapitel 19.4.2 og med et passende frekvensbånd.
+ 20.4.2.2 Krav.
+ Amplitude-frekvenskarakteristikken skal have et jævnt forløb indenfor  
+
+ frekvensbåndet 950 - 1750 MHz.
+ Kurve for hele frekvensbåndet skal vedlægges.
+ Variationen indenfor en vilkårlig tv-kanal skal oplyses.
+ 20.4.3 Støjtal.
+ 20.4.3.1 Målemetode og måleopstilling.
+ Som kapitel 19.3.4.
+20.4.3.2 Krav Værdien oplyses.
+ 20.4.4 Refleksionsdæmpning.
+ Impedansen skal være 50 eller 75 ohm.
+ 20.4.4.1 Målemetode og måleopstilling.
+ Som i afsnit 19.4.4.1.
+ 20.4.4.2 Krav.
+ 20.4.5 HF-udstråling og skærmdæmpning.
+20.4.5.1 Målemetode og måleopstilling Som kapitel 2.7.
+ 20.4.5.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+ 20.5 Signalfordelere.
+20.5.1 Amplitude-frekvenskarakteristik 20.5.1.1 Målemetode og måleopstilling Som afsnit 19.4.2.1 på alle ind- og udgange.
+20.5.1.2 Krav Som afsnit 19.4.2.2.
+ 20.5.2 Refleksionsdæmpning.
+ Impedansen skal være 50 eller 75 ohm.
+20.5.2.1 Målemetode og måleopstilling Som kapitel 19.4.4.1.
+20.5.2.2 Krav 20.5.3 Skærmdæmpning.
+20.5.3.1 Målemetode og måleopstilling Som kapitel 2.7.
+20.5.3.2 Krav Som kapitel 2.7.6 og 2.7.7.
+20.6 SATELLIT MODTAGERE (1.mellemfrekvens til komponent video + analog  
+
+ lyd) 20.6.1.1 Amplitude-frekvenskarakteristik for videosignalet.
+20.6.1.1.1 Målemetode og måleopstilling Under udarbejdelse.
+20.6.1.1.2 Krav Amplitudevariationen indenfor videobåndet oplyses.
+ 20.6.1.2 Amplitude-frekvenskarakteristik for audiosignalet.
+20.6.1.2.1 Målemetode og måleopstilling Som i 19.6.1.2.1.
+20.6.1.2.2 Krav Amplitudevariationen indenfor audiobåndet oplyses.
+ 20.6.2 Refleksionsdæmpning.
+ 20.6.2.1 Målemetode og krav.
+ som i 19.6.2.
+20.6.3 Gruppeløbetid 20.6.3.1 Målemetode og måleopstilling Under udarbejdelse.
+20.6.3.2 Krav Gruppeløbetidsvariation indenfor videobåndet oplyses.
+ 20.6.4 Klirfaktor (Harmonisk forvrængning).
+20.6.4.1 Målemetode og krav Som i kapitel 19.6.4.3.
+ 20.6.5.1 Udgangsniveau for videosignalet.
+ 20.6.5.1.1 Målemetode og krav.
+ Som i kapitel 19.6.5.1.
+ 20.6.5.2 Udgangsniveau for lydsignalet.
+ 20.6.5.2.1 Målemetode og krav.
+ Som i 19.6.5.2.
+ 20.6.6 HF-udstråling og skærmdæmpning.
+ 20.6.6.1 Målemetode.
+ Som i kap. 2.7.
+ 20.6.6.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+ 20.6.7 Antenneklemspænding.
+ Kravene skal kun være opfyldt, hvis enheden benyttes i et anlæg, hvor  
+
+ signalerne fordeles ved 1.ste mellemfrekvens.
+20.6.7.1 Målemetode og krav Som i kapitel 19.6.7.
+ 20.7 SATELLIT MODTAGERE (1.mellemfrekvens til MAC basisbånd).
+ 20.7.1 Amplitude-frekvenskarakteristik.
+20.7.1.1 Målemetode og måleopstilling Under udarbejdelse.
+ 20.7.1.2 Krav.
+ Amplitudevariationen indenfor frekvensbåndet oplyses.
+ 20.7.2 Refleksionsdæmpning.
+20.7.2.1 Målemetode og krav Som i 19.6.2.
+ 20.7.3 Gruppeløbetid.
+ 20.7.3.1 Målemetode og måleopstilling.
+ Som i afsnit 19.8.3.
+20.7.3.2 Krav Gruppeløbetidsvariation indenfor frekvensbåndet oplyses.
+20.7.4 Udgangsniveau 20.7.4.1 Målemetode og måleopstilling Som i afsnit 19.6.5.1.
+ 20.7.4.2 Krav.
+ Udgangsniveauet oplyses.
+ 20.7.5 HF-udstråling og skærmdæmpning.
+20.7.5.1 Målemetode og krav Som kapitel 2.7.
+ 20.7.5.2 Krav.
+ Som kap. 2.7.6 og 2.7.7.
+ 20.7.6 Antenneklemspænding.
+ Kravene skal kun være opfyldt, hvis enheden benyttes i et anlæg, hvor  
+
+ signalerne fordeles ved 1.ste mellemfrekvens.
+20.7.6.1 Målemetode og krav Som kapitel 19.6.7.
+20.8 MAC - DEKODERE (MAC basisbånd til komponent video + analog lyd) 20.8.1.1 Amplitude-frekvenskarakteristik for videosignalet.
+20.8.1.1.1 Målemetode og måleopstilling Under udarbejdelse.
+20.8.1.1.2 Krav Amplitudevariationen indenfor video båndet oplyses.
+ 20.8.1.2 Amplitude-frekvenskarakteristik for audiosignalet.
+ 20.8.1.2.1 Målemetode og måleopstilling.
+ Under udarbejdelse.
+20.8.1.2.2 Krav Amplitudevariationen indenfor audiobåndet oplyses.
+ 20.8.2 Refleksionsdæmpning.
+20.8.2.1 Målemetode og krav Som i 19.6.2.
+ 20.8.3 Gruppeløbetid.
+20.8.3.1 Målemetode og måleopstilling Under udarbejdelse.
+20.8.3.2 Krav Gruppeløbetidsvariation indenfor videobåndet oplyses.
+ 20.8.4 Klirfaktor (Harmonisk forvrængning).
+20.8.4.1 Målemetode og krav Under udarbejdelse.
+ 20.8.5.1 Udgangsniveau for videosignalet.
+ 20.8.5.1.1 Målemetode og krav.
+ Som i 19.6.5.1.
+ 20.8.5.2 Udgangsniveau for lydsignaler.
+20.8.5.2.1 Målemetode og krav Som afsnit 19.6.5.2.
+ 20.8.6 HF-udstråling og skærmdæmpning.
+ 20.8.6.1 Målemetode og måleopstilling.
+ Som kapitel 2.7.
+ 20.8.6.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+ 21 Modforvrængere.
+ 21.1 Indledning.
+Modforvrængere anvendes i anlæg til at udjævne kabeldæmpninger.
+Der skal  
+
+ altid oplyses, hvilken kabeltype modforvrængeren er konstrueret for.
+ 21.2 Frekvensområde.
+ Frekvensområdet skal oplyses.
+ 21.3 Amplitude-frekvenskarakteristik.
+ 21.3.1 Målemetode og måleopstilling.
+ Se kap. 3.2.
+ 21.3.2 Krav.
+Amplitude-frekvenskarakteristikken af modforvrængeren skal være  
+
+ kabelækvivalent.
+Den resulterende amplitude-frekvenskarakteristik af kabel og  
+
+ modforvrænger skal være flad og ligge indenfor følgende grænser:
+ Modforvrængerens gennemgangsdæmpninger i det specificerede frekvensområdes  
+
+ yderpunkter skal oplyses.
+ 21.4 Refleksionsdæmpning.
+ 21.4.1 Målemetode og måleopstilling.
+ Som kapitel 3.4.
+ 21.4.2 Krav.
+ 21.5 Skærmdæmpning.
+ 21.5.1 Målemetode og måleopstilling.
+ Som kapitel 2.7.
+ 21.5.2 Krav.
+Som kapitel 2.7.7 21.6 Brummodulationsafstand.
+ Oplysningskravene skal kun være opfyldt, hvis udstyret anvendes til  
+
+ overførsel af jævn- eller vekselstrømme.
+ 21.6.1 Målemetode og måleopstilling.
+ Se kapitel 8.
+ 21.6.2 Krav.
+ For hvert af frekvensområderne 5 - 40 MHz og 40 - 862 MHz oplyses, ved  
+
+ hvilken strøm brummodulationsafstanden er 65 dB.
+ 22 Pilottonegeneratorer.
+ 22.1 Indledning.
+Til styring af dæmpningsvariationer ved temperaturændringer i kabler  
+
+ benyttes pilottonegeneratorer.
+De udsender en bærebølge (moduleret eller  
+
+ umoduleret), der modtages af pilottoneregulerede forstærkere.
+ 22.2 Udgangsspændingens stabilitet.
+ 22.2.1 Målemetode og måleopstilling.
+ Fig. 22.2.1 Måleopstilling til måling af udgangsspændingens stabilitet.
+Målemodtageren indstilles på generatorens sendefrekvens og  
+
+ udgangsspændingen på generatoren måles.
+Såfremt generatoren er forsynet med  
+
+ et variabelt dæmpningsled på udgangen, bestemmes spændingerne i  
+
+ yderstillingerne.
+Måleobjektet underkastes de samme parameterændringer som i  
+
+ kapitel 3.13.1.
+ 22.2.2 Krav.
+ Tolerance: Maks. +/- 0,5 dB.
+ 22.3 Frekvensstabilitet.
+ 22.3.1 Målemetode og måleopstilling.
+ Som kapitel 3.13.1. Måleobjektet underkastes også de samme  
+
+ parameterændringer.
+ 22.3.2 Krav.
+ Frekvenstolerance: +/- 75 kHz.
+ 22.4 Dæmpning af uønskede signaler på udgangen.
+ 22.4.1 Målemetode.
+Måleopstillingen i fig. 22.2.1 anvendes.
+Hvis pilottonegeneratoren har  
+
+ variabel udgangspænding måles i de specificerede yderstillinger.
+ 22.4.2 Krav.
+ Min. 60 dB i frekvensområdet 5 - 862 MHz.
+ 22.5 Udgangsimpedans.
+Den nominelle udgangsimpedans skal være 75 Ohm.
+I H1 tillades dog 50 Ohm.
+ 22.6 Refleksionsdæmpning.
+ Oplyses.
+ 22.7 HF-udstråling og skærmdæmpning.
+ 22.7.1 Målemetode og måleopstilling.
+ Som kapitel 2.7.
+ 22.7.2 Krav.
+ Som kapitel 2.7.6 og 2.7.7.
+Tekniske bestemmelser for fællesantenneanlæg.
+Afsnit A, udgave 2.

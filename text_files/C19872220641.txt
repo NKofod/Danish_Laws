@@ -1,0 +1,145 @@
+FORMÅL Formålet med undervisningen er at give eleverne en indføring i matematisk  
+
+ tankegang og metode.
+Der lægges vægt på, at de matematiske kundskaber skal  
+
+ kunne anvendes i de edb-faglige discipliner.
+MÅL Målet med undervisningen er, at eleverne kan anvende væsentlige  
+
+ matematiske begreber og metoder, der har særlig betydning for andre fag i  
+
+ uddannelsen.
+Det er hensigten - gennem disse retningsfaglige anvendelser af  
+
+ matematik - at give eleven forståelse af matematikkens betydning for  
+
+ konstruktion af såvel edb-maskinel som edb-programmel.
+ Det er endvidere målet at styrke elevens fantasi og kreativitet samt evne  
+
+ til at abstrahere.
+ Endelig tilsigtes det, at eleven får forståelse af ræsonnementets særlige  
+
+ stilling i matematik (at matematiske tankegang er en følge af logiske  
+
+ følgeslutninger) og i betydningen af at kunne dokumentere en sådan tankegang.
+1. TALTEORI Med henblik på at give eleverne indsigt i datamatens virkemåde skal  
+
+ eleverne have kendskab til talteori af betydning for repræsentation og  
+
+ behandling af data.
+ Eleverne skal have kendskab til de grundlæggende talmængder (N, Z, Q og R)  
+
+ og til regneregler for reelle tal (herunder sædvanlig aritmetisk notation,  
+
+ eksponentiel notation samt operatorprioriteter).
+Endvidere skal eleverne have kendskab til det binære, oktale og  
+
+ hexadecimale talsystem samt konvertering imellem disse indbyrdes og til og  
+
+ fra det decimale talsystem.
+Desuden skal eleverne kunne foretage simple  
+
+ aritmetiske operationer indenfor disse talsystemer, herunder kunne regne med  
+
+ komplementer.
+ Endelig skal eleverne have kendskab til regning med tilnærmede værdier og  
+
+ kunne foretage simple fejlanalyser (absolut og relativ fejl).
+2. FUNKTIONER Det er hensigten at give eleverne en forståelse af funktioner og grafisk  
+
+ fremstilling som et middel til at beskrive en sammenhæng mellem variable  
+
+ størrelser samt til løsning af simple åbne udsagn, hvori funktionsudtryk  
+
+ indgår.
+Indfaldsvinklen til undervisningen er funktionernes anvendelse i  
+
+ edb-programmer og i vurdering af edb-programmer.
+Eleverne skal have kendskab til regneforskrift for og grafisk fremstilling  
+
+ af lineære funktioner, potensfunktioner, eksponentialfunktioner,  
+
+ logaritmefunktioner, trigonometriske funktioner og de særlige funktioner med  
+
+ relation til datamater (absolut værdi, heltalsværdi og fortegn) samt enkle  
+
+ kompositioner af disse funktioner.
+Der forventes ikke nogen systematisk og  
+
+ dybtgående behandling af alle disse funktionstyper.
+ Eleverne skal kunne løse ukomplicerede ligninger og uligheder, hvori disse  
+
+ funktionsudtryk indgår, herunder kunne anvende de nødvendige regneregler.
+ I forbindelse med funktioner og løsning af ligninger og uligheder  
+
+ gennemgås mængdelære og logik i nødvendigt omfang.
+ Eleverne skal kunne anvende eksponentialfunktioner i forbindelse med  
+
+ sammensat rentesregning.
+3. STATISTIK Det er hensigten, at eleverne kan anvende grundlæggende metoder til  
+
+ beskrivelse af en empirisk fordeling (en stikprøve). I forbindelse hermed  
+
+ skal eleverne have kendskab til grupperede/ikke-grupperede fordelinger,  
+
+ grafiske beskrivelser i form af pindediagram/søjlediagram og  
+
+ trappediagram/sumkurve samt deskriptorerne middeltal, varians, spredning og  
+
+ fraktiler.
+ Endvidere skal eleverne have kendskab til normalfordelingen, grafiske  
+
+ fremstillinger af tæthedsfunktion og sumfunktion (på sandsynlighedspapir)  
+
+ samt sandsynlighedsbegrebet i relation til en normalfordeling.
+ I forbindelse med stikprøver skal eleverne have kendskab til  
+
+ normalfordelingsapproximation samt skøn af middelværdi og spredning (de  
+
+ ukendte parametre i en model).
+4. ALGORITMER Det overordnede mål med undervisningen i algoritmer er at give eleverne  
+
+ forståelse af betydningen af at kunne dokumentere en metode til løsning af et  
+
+ veldefineret problem, idet algoritmer skal ses som bindeleddet mellem problem  
+
+ og løsning.
+ Målet med undervisningen er, at eleverne kan foretage strukturerede  
+
+ algoritmebeskrivelser ved brug af de tre grundlæggende strukturer: lineær  
+
+ struktur (sekvens), forgrening (selektion) og gentagelse (iteration).  
+
+ Algoritmebeskrivelserne skal kunne udformes ved hjælp af pseudokoder, og i  
+
+ vurderingen af algoritmerne lægges der vægt på, at beskrivelsen er logisk  
+
+ korrekt, velstruktureret og rimelig detaljeret.
+Algoritmerne bør anvendes i forbindelse med læreplanens øvrige emner,  
+
+ bl.a. konverteringsalgoritmer i forbindelse med talsystemer, numerisk analyse  
+
+ (bestemmelse af irrationale tal, nulpunktsbestemmelse og arealbestemmelse)  
+
+ samt algoritmer til udskrivning af opsparingsplaner og amortisationsplaner i  
+
+ tilknytning til rentesregning.
+Desuden bør der arbejdes med forskellige  
+
+ sorterings- og søgningsalgoritmer samt vurderinger af effektiviteten af  
+
+ alternative algoritmer.
+5. VALGFRIE EMNER Der anvendes et antal timer til en uddybning af et af de øvrige emner i  
+
+ læreplanen (talteori, funktioner, statistik eller algoritmer) eller til et  
+
+ emne, som grænser op til et af disse emner.
+Som eksempel på tilgrænsende  
+
+ emner kan nævnes annuitetsregning, lineær programmering og  
+
+ simplex-algoritmen, infinitesimalregning og kombinatorik.
+ Læreplanen har virkning fra den 1. januar 1988.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.

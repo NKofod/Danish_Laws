@@ -1,0 +1,69 @@
+ Studieplanen har virkning fra den 1. januar 1986.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+ Modulets formål:
+Formålet med kurset er at give deltagerne et grundigt kendskab til design-  
+
+ og implementeringsteknikker i multiprogrammerede systemer.
+Eleverne skal opnå  
+
+ et grundigt kendskab til konstruktion af formålsbundne systemer.
+Eleverne  
+
+ skal opnå færdighed i anvendelse af et højniveau sprog til implementering af  
+
+ mindre multiprogrammeringsopgaver.
+Eleverne skal kunne gennemføre design og  
+
+ implementering af et mindre formålsbundet system.
+ Adgangsbetingelser:
+ Symbolsk maskinsprog.
+ Edb-drift.
+ Problemorienteret programmeringsprog.
+ Anbefalede forudsætninger:
+ 1.2 Operativsystemer.
+ 2.1 Sproglære.
+ Specielt kræver modulet et grundigt kendskab og erfaring i anvendelse af  
+
+ programmeringssproget PASCAL eller lignende sprog.
+ Hovedemner og undervisningsmål for disse:
+ Afgrænsning af og eksempler på anvendelse af multiprogrammer.
+Målet med emnet er at give den studerende kendskab til nogle typiske  
+
+ anvendelsesområder for multiprogrammering.
+Eleverne skal opnå kendskab til  
+
+ nogle typiske formålsbundne systemer, realtidssystemer samt mindre  
+
+ specialiserede operativsystemer.
+ Processynkronisering og -kommunikation.
+ Målet hermed er at give deltagerne et grundigt kendskab til teknikker til  
+
+ synkronisering af parallelle processer samt til proceskommunikation.  
+
+ Deltagerne skal opnå færdighed i anvendelse af semaforer, monitorer og evt  
+
+ andre teknikker til processynkronisering og proceskommunikation.
+ Abstrakte maskiner og datatyper.
+Deltagerne skal opnå et grundigt kendskab til begreberne: abstrakt maskine  
+
+ og abstrakt datatype.
+Deltagerne skal specielt være fortrolig med begreberne  
+
+ klasse og monitor.
+Deltagerne skal opnå kendskab til mindst et  
+
+ højniveausprog, hvor disse begreber anvendes.
+ Procesafvikling.
+ Deltagerne skal opnå kendskab til principperne i dispatching, tvungen og  
+
+ frivillig tidsdeling, samt til afviklingsstrategier herunder til kort- og  
+
+ langtidsschedulering.
+ Implementering.
+ Deltagerne skal opnå kendskab til og færdighed i at implementere mindre  
+
+ multiprogrammerede systemer ved anvendelse dels af assembler dels  
+
+ højniveausprog.

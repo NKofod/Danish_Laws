@@ -1,0 +1,302 @@
+INDHOLDSFORTEGNELSE 1. INDLEDNING 2. DEFINITIONER 3. TEKNISKE OPLYSNINGER 4. TEKNISKE KRAV 5. MÅLEOPSTILLINGER 1. INDLEDNING Nærværende tekniske bestemmelser indeholder følgende:
+ - Afsnit 2 indeholder definitioner af anvendte udtryk og begreber, der  
+
+ ikke forudsættes almindelig kendte, og ikke er defineret i den løbende tekst  
+
+ eller i Del 3.
+ - Afsnit 3 indeholder tekniske oplysninger om det offentlige telefonnets  
+
+ transmissionsmæssige egenskaber.
+ - Afsnit 4 beskriver de transmissionsmæssige krav, der skal være opfyldt  
+
+ af en analog PABC uden 2-tråds/4-tråds overgange for godkendelse for  
+
+ tilslutning til det offentlige koblede telefonnet.
+ De tekniske krav er udformet således, at relevante krav for tilslutning af  
+
+ lokalledninger til ledninger i det fastkoblede telefonnet (abonnerede  
+
+ privatledninger) automatisk er overholdte.
+ - Afsnit 5 indeholder generelle retningslinier for  
+
+ typegodkendelsesmålinger samt detailmåleopstillinger til verifikation af de i  
+
+ afsnit 4 specificerede krav.
+2. DEFINITIONER Abonnenthjælpeudstyr - abonnentplaceret a.
+Udvendigt abonnenthjælpeudstyr Ved udvendigt abonnenthjælpeudstyr forstås udstyr, der er placeret mellem  
+
+ abonnentledningens afgrænsningspunkt hos abonnenten og PABC'en.
+b.
+Indbygget abonnenthjælpeudstyr Ved indbygget abonnenthjælpeudstyr forstås udstyr, der - når det er  
+
+ monteret - er en integreret fysisk del af PABC'en.
+3. TEKNISKE OPLYSNINGER Endnu ikke udarbejdet.
+4. TEKNISKE KRAV INDHOLDSFORTEGNELSE 1. GENERELT 2. ANALOGE ABONNENTLEDNINGER OG LOKALLEDNINGER FOR  
+
+ TILSLUTNING AF TYPEGODKENDTE ANALOGE TELEFONAPPARATER 2.1. ABONNENTLEDNINGSSNITFLADEN 2.2. LOKALLEDNINGSSNITFLADEN 2.3. TRANSMISSION 1. GENERELT Alle krav skal opfyldes under alle DC-forhold på begge sider af PABC'en og  
+
+ ved alle polaritetskombinationer.
+ Såfremt indbygget abonnentplaceret abonnenthjælpeudstyr skal godkendes  
+
+ sammen med PABC'en, skal kravene, hvor intet andet er anført, opfyldes med  
+
+ dette inkluderet.
+ 2. ANALOGE ABONNENTLEDNINGER OG LOKALLEDNINGER FOR  
+
+ TILSLUTNING AF TYPEGODKENDTE ANALOGE TELEFONAPPARATER.
+ Omhandler transmissionsforhold ved sammenstilling af abonnentledning og  
+
+ lokalledning beregnet for tilslutning af typegodkendte analoige  
+
+ telefonapparater.
+ 2.1. ABONNENTLEDNINGSSNITFLADEN.
+2.1.1. Indgangsimpedans i sløjfetilstand Med lokalledningsklemmerne afsluttet med 600 ohm, og abonnent- og  
+
+ lokalledning sammenstillet, skal indgangsimpedansen have en  
+
+ tilpasningsdæmpning bedre end:
+10 dB for 300 Hz < f < 600 Hz 15 dB for 600 Hz < f < 3,4 KHz Tilpasningsdæmpning skal måles som anført i måleopstilling 2.1.
+2.1.2. Indgangsimpedans i rotilstand I rotilstand skal indgangsimpedansen have en numerisk værdi, som ved  
+
+ vekselspændinger op til 1,5 V er mindst 30 Kohm i frekvensområdet fra 55 Hz  
+
+ til 4000 Hz.
+Ved højere frekvenser må minimumsimpedansen højst aftage med 50%  
+
+ pr. oktav.
+ Indgangsimpedansen skal måles som anført i måleopstilling 2.2.
+2.2. LOKALLEDNINGSSNITFLADEN 2.2.1. Indgangsimpedans i sløjfetilstand Med abonnentledningsklemmerne afsluttet med 600 ohm, og abonnent- og  
+
+ lokalledning sammenstillet, skal indgangsimpedansen have en  
+
+ tilpasningsdæmpning bedre end:
+10 dB for 300 Hz < f < 600 Hz 15 dB for 600 Hz < f < 3,4 KHz Tilpasningsdæmpning skal måles som anført i måleopstilling 2.3.
+2.3. TRANSMISSION 2.3.1. Impedansbalance mod jord Jordbalancedæmpningen skal for abonnent- og lokalledning, i såvel ro~ som  
+
+ sløjfetilstand, være bedre end:
+40 dB for 40 Hz < f < 600 Hz 46 dB for 600 Hz < f < 3,4 KHZ og ved frekvenser over 3400 Hz højst falde med 6 dB/oktav.
+ Jordbalancedæmpning for abonnentledningen skal måles som anført i  
+
+ måleopstilling 2.4.
+ Jordbalancedæmpning for lokalledningen skal måles som anført i  
+
+ måleopstillingen 2.5.
+2.3.2. Indskydningsdæmpning Indskydningsdæmpningen ved 800 Hz skal være mindre end 1 dB.
+ Såfremt der indgår indbygget abonnentplaceret abonnenthjælpeudstyr, må  
+
+ dette forøge indskydningsdæmpningen med 0,25 dB.
+ Indskydningsdæmpningen skal måles som anført i måleopstilling 2.6.
+2.3.3. Dæmpningsforvrængning Dæmpningsforvrængningen A f skal relativt til indskydningsdæmpningen ved  
+
+ 800 Hz være:
++ 2,0 dB > A f > - 0,5 dB for 300 Hz < f < 600 Hz + 05, dB > A f > - 0,5 dB for 600 Hz < f < 3,4 KHz Dæmpningsforvrængningen skal måles som anført i måleopstilling 2.7.
+2.3.4. Egenstøj Støj på både abonnent- og lokalledningsklemmerne må ikke i hverken ro-  
+
+ eller sløjfetilstand medføre en middelstøjeffekt over 600 ohm, som  
+
+ overstiger:
+ 1. 200 pWp (- 67 dBmp), målt psofometrisk.
+ 2. 100 nW (- 40 dBm), målt i frekvensområdet 30 Hz til  
+
+ 150 KHz.
+ Støjen skal måles som anført i måleopstilling 2.8.
+2.3.5. Krydstaledæmpning Krydstaledæmpningen skal i frekvensområdet 300-3400 Hz være bedre end 67  
+
+ dB.
+ Krydstaledæmpningen verificeret som anført i måleopstilling 2.9.
+2.3.6. Uønskede frekvenser I en modstand på 600 ohm forbundet over ledningsklemmerne, må der på intet  
+
+ tidspunkt afgives en effekt, ved enhver uønsket frekvens, som overstiger:
+- 37 dBm ved 4,3 KHz faldende med 12 dB/oktav til 9,1 KHz - 50 dBm for 9,1 KHz < f < 150 KHz.
+ Effekten skal måles som anført i måleopstilling 2.10.
+5. MÅLEOPSTILLINGER 1. GENERELT 1.1. KONDITIONERING 1.2. FUNKTIONSPRØVE 1.3. JORD/STEL 1.4. POLARITETSUAFHÆNGIGHED 1.5. JÆVNSTRØMSFØDNING 1.6. MAXIMAL SLØJFESTRØM 1.7. MÅLEUSIKKERHED 1.8. ANVENDTE SYMBOLER 2. MÅLEOPSTILLINGER 2.1. INDGANGSIMPEDANS - ABONNENTLEDNING 2.2. INDGANGSIMPEDANS I ROSTILLING 2.3. INDGANGSIMPEDANS - LOKALLEDNING 2.4. IMPEDANSBALANCE MOD JORD - ABONNENTLEDNINGSSIDE 2.5. IMPEDANSBALANCE MOD JORD - LOKALLEDNINGSSIDE 2.6. INSKYDNINGSDÆMPNING 2.7. DÆMPNINGSFORVRÆNGNING 2.8. EGENSTØJ 2.9. KRYDSTALEDÆMPNING 2.10. UØNSKEDE FREKVENSER 1. GENERELT De i figurerne angivne måleprincipper er vejledende.
+ Andre måleopstillinger kan anvendes hvis kravene kan verificeres.
+ De angivne diskrete værdier for uafhængige variabler - f.eks. strøm og  
+
+ frekvens - er minimumskrav til antallet af målepunkter.
+1.1. KONDITIONERING Hvis intet andet er angivet, skal PABC'en være tændt i 30 min. inden  
+
+ målingerne påbegyndes.
+ Vedrører målingerne statiske forhold i åben eller lukket sløjfe, skal  
+
+ PABC'en være bragt i den pågældende tilstand i så god tid før målingen, at  
+
+ tilstanden er stabil.
+ Alle målinger foretages på PABC'ens linieklemmer/tilslutningspunkter for  
+
+ lokalledningen, henholdsvis abonnentledningen.
+ Rekvirenten medsender specifikation af tilslutningspunkter samt eventuelt  
+
+ nødvendigt stikmateriel.
+1.2. FUNKTIONSPRØVE Som en simpel kontrol af PABC'en inden den egentlige afprøvning foretages  
+
+ en funktionsprøve, der gentages før og efter belastnings- og miljøprøver.
+ En funktionsprøve omfatter et afgående og et ankommende kald mod  
+
+ henholdsvis fra, et godkendt telefonapparat såvel fra som til den offentlige  
+
+ telefoncentral.
+ Et afgående kald omfatter:
+- afløftning - nummervalg - samtale - pålægning Et ankommende kald omfatter:
+- tilringning - afløftning - samtale - pålægning.
+ Funktionsprøverne gennemføres dog kun, hvis de pågældende funktioner  
+
+ findes i PABC'en.
+1.3. JORD/STEL Alle terminaler som er eller kan være vekselstrømsmæssigt jordforbundne  
+
+ under normal drift, skal være forbundet til stel eller udvendigt tilgængelige  
+
+ metaldele under målinger, der benytter jord/stel.
+ Rekvirenten angiver hvorledes disse terminaler forbindes.
+Hvis der ikke findes stel eller udvendigt tilgængelige metaldele,  
+
+ anbringes PABC'en på en metalplade af mindst samme størrelse, som udstyrets  
+
+ grundflade.
+Eventuelle jordforbundne terminaler og målepunkter forbindes til  
+
+ metalpladen.
+1.4. POLARITETSUAFHÆNGIGHED De anførte måleopstillinger er lavet for målinger på en  
+
+ polaritetsuafhængig PABC.
+ Såfremt PABC'en ikke er polaritetsuafhængig, skal dette angives af  
+
+ rekvirenten, og de anvendte måleprincipper modificeres til at tage hensyn til  
+
+ denne polaritetsafhængighed.
+1.5. JÆVNSTRØMSFØDNING Jævnstrømsfødning med samtidig påtrykning af vekselspænding kan foregå på  
+
+ flere måder, f.eks. ved hjælp af de i fig. 1.5. viste måleopstillinger, i  
+
+ hvilke den numeriske værdi af jævnstrømskildens impedans principielt er 0  
+
+ ohm.
+1.6. MAXIMAL SLØJFESTRØM Den maksimale sløjfestrøm Imax. bestemmes for den aktuelle PABC, når denne  
+
+ fødes med 56 V gennem 500 ohm fra abonnentlinien, og når lokalabonnentsiden  
+
+ fødes gennem en modstand på 56 ohm.
+1.7. MÅLEUSIKKERHED Det forudsættes, at målingerne sker med den nødvendige nøjagtighed.
+Er der  
+
+ tvivl om, at kravene opfyldes, pålægges det den prøvende instans at redegøre  
+
+ for målingernes nøjagtighed.
+1.8. ANVENDTE SYMBOLER 2. MÅLEOPSTILLINGER 2.1. INDGANGSIMPEDANS - ABONNENTLEDNING Måleopstilling:
+ Procedure:
+ Der gennemstilles et kald fra lokalledning til abonnentledning.
+ Herefter gennemføres målinger af indgangsimpedansen med følgende  
+
+ kombinationer af DC strømfødning på begge side:
+ For abonnentledningen 16 mA, 50 mA og Imax.
+For lokalledningen 16 mA, Imax/2 og Imax Tilpasningsdæmpningen beregnes som 20 log (u1 /u 2).
+ Der måles ved frekvenserne 0,5 - 1,0 - 2,5 og 3,4 KHz.
+ Parametergrænser:
+Min. 10 dB for 300 Hz < f < 600 Hz Min. 15 dB for 600 Hz < f < 3,4 KHz Kommentar:
+ Rekvirenten angiver, hvorledes den ønskede forbindelse opstilles.
+2.2. INDGANGSIMPEDANS I ROTILSTAND Procedure:
+ Indgangsimpedansens numeriske værdi måles for frekvenserne f = 55 Hz, 1  
+
+ KHz, 2 KHz, 4 KHz og derefter for hver 4. KHz op til 20 KHz med en  
+
+ målespænding på 1,5 Veff.
+ Parametergrænser:
+ Min. 30 Kohm for 55 Hz mindre end f mindre end KHz faldende 50% pr. oktav  
+
+ over 4 KHz.
+2.3. INDGANGSIMPEDANS - LOKALLEDNING Måleopstilling:
+ procedure:
+Der gennemstilles et kald fra lokalledning til abonnentledning.
+Herefter  
+
+ gennemføres der målinger af indgangsimpedansen med følgende kombinationer af  
+
+ DC-strømfødning fra begge sider.
+ For abonnentledningen 16 mA, 50 ma og Imax.
+ For lokalledningen 16 mA, Imax/2 og Imax.
+ Tilpasningsdæmpningen beregnes som 20 log (u 1/u 2).
+ Der måles med frekvenserne 0,5 - 1,0 - 2,5 og 3,4 KHz.
+ Parametergrænser:
+ Min. 10 dB for 300 Hz < f < 600 Hz.
+ Min. 15 dB for 600 Hz < f < 3,4 KHz.
+ Kommentar:
+ Rekvirenten angiver, hvorledes den ønskede forbindelse opstilles.
+2.4. IMPEDANSBALANCE MOD JORD - ABONNENTLEDNINGSSIDEN Måleopstilling:0 Procedure:
+ Impedansbalancen måles dels med en forbindelse opstillet til lokalsiden og  
+
+ dels med abonnentledningen i rostilling.
+ Impedansbalancen beregnes som 20 log (u 1/u 2).
+ Med en målespænding u 1 på 7,75 Veff måles der ved følgende frekvenser:  
+
+ 40, 50, 500, 1000 og 3400 Hz.
+ Målingerne gennemføres med omskifteren i begge stillinger.
+ Målingen med en forbindelse opstillet til lokalsiden gennemføres med  
+
+ kontakten K åben og lukket.
+ Parametergrænser:
+40 dB for 40 Hz < f < 600 Hz 46 dB for 600 Hz < f < 3,4 KHz faldende 6 dB/oktav for frekvenser over 3400 hz.
+Kommentar Rekvirenten angiver tilkobling til PABC'ens jord/stel.
+2.5. IMPEDANSBALANCE MOD JORD - LOKALLEDNINGSIDEN Måleopstillling:
+ Procedure:
+ Impedansbalancen måles dels med en forbindelse opstillet til  
+
+ abonnentledningen (kontakten K1 lukkes), og med lokalledningen i rostilling  
+
+ (kontakten K1 åben).
+ Impedansbalancen beregnes som 20 log (u 1/u 2).
+ Målingen med en forbindelse opstillet til abonnentledningen gennemføres  
+
+ med kontakten K2 både åben og lukket.
+ Med en målespænding u 1, på 7,75 Veff måles der ved følgende frekvenser:  
+
+ 40, 50, 500, 1000 og 3400 Hz.
+ Parametergrænser:
+40 dB for 40 Hz < f < 600 Hz 46 dB for 600 Hz < f < 3,4 KHz faldende 6 dB/oktav for frekvenser over 3400 Hz.
+ Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord/stel.
+2.6. INDSKYDNINGSDÆMNING Måleopstilling:
++++FIGUR Procedure Der opstilles en forbindelse gennem PABC'en og ved f = 800 Hz måles  
+
+ spændingen u før.
+ Derefter udkobles PABC'en og spændingen u efter måles.
+ Indskydningsdæmpningen beregnes som 20 log (u efter/u før).
+ Parametergrænser:
+ Max. 1,25 dB med abonnenthjælpeudstyr indbygget.
+ Max. 1 dB uden abonnenthjælpeudstyr indbygget.
+2.7. Dæmpningsforvrængning Måleopstilling:
+ Procedure:
+ Indskydningsdæmpningen måles for frekvenserne 300 Hz, 600 hz, 1 KHz og 3,4  
+
+ KHz.
+ Disse målinger beregnes relativt i forhold til indskydningsdæmpningen ved  
+
+ 800 Hz.
+ Parametergrænser:
+2.8. EGENSTØJ Måleopstilling:
+ Procedure:
+ Et kald opstilles og egenstøjen måles med både et båndbegrænsende  
+
+ voltmeter og et psofometrisk målende voltmeter, på begge sider af PABC'en  
+
+ Herefter åbnes kontakten og målingerne gentages.
+ Parametergrænser:
+2.9. KRYDSTALEDÆMPNING Måleopstilling:
+ Procedure:
+ Der etableres forbindelse mellem to udvalgte abonnentledningskredse og to  
+
+ lokalledningskredse.
+ Med frekvensen 1000 Hz påtrykkes en spænding på 1,5 Veff som u 1.
+Derefter aflæses u 2 på det frekvensselektive voltmeter u 2 Krydstaledæmpningen er da 20 log (u 1/u 2).
+ Parametergrænser:
+ Krydstaledæmpning > 67 dB for 300 Hz < f < 3,4 KHz.
+ Kommentar:
+ Rekvirenten angiver, hvorledes de benyttede forbindelser opsættes.
+ Målingen gennemføres kun for PABC'er med mindst to abonnentledningskredse.
+2.10. MAXIMALE NIVEAUER - UØNSKEDE FREKVENSER Måleopstilling:
+ Procedure:
+ Med en forbindelse opsat til en lokalledning, med abonnentledningen  
+
+ afsluttet med 600 ohm, måles enkelt frekvens komposanter fra 3,4 KHz til 150  
+
+ KHz.
+Parametergrænser u < -37 dBm ved 4,3 KHz faldende med 12 dB/oktav til 9,1 KHz u < -50 dBm for 9,1 KHz < f < 150 KHz.

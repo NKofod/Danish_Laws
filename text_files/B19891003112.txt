@@ -1,0 +1,35 @@
+1. FORMÅL Denne prøvningsmetode kan benyttes til at bestemme en vægts funktion under  
+
+ netspændingsvariationer.
+2. HENVISNING TIL MÅLETEKNISKE BESTEMMELSER TDIR 24.11.1-02, udg. 1 af 01.10.1979, pkt. 4.2.2.1.
+MDIR 34.11-01, udg. 3 af 26.01.1987, pkt. 8.3 OIML R 76-1 af 1988, pkt.
+A.5.4-1.
+3. FORUDSÆTNINGER Generelt vedrørende måleudstyr, prøvningsbetingelser, prøvningsmiljø,  
+
+ forkonditionering m.v. henvises til MDIR 04.11-10.
+4. PRØVNING Prøvningen gennemføres med følgende prøvelaster:
+1. Initiallast 2. Max.
+ og ved følgende påvirkninger:
+A.
+Nominel spænding B.
+Nominel spænding + 10 % C.
+Nominel spænding - 15 % (I tilfælde af 3-faset strømforsyning skal spændingsvariationerne gælde  
+
+ for hver fase successivt).
+ De ovenanførte prøvninger udføres på følgende måde:
+Med testgeneratoren frembringes den ønskede påvirkning (A/B/C). Efter at  
+
+ termisk stabilitet er opnået (minimum ventetid = vægtens opvarmningstid)  
+
+ belastes vægten med prøvelast 1. (initiallast) og fejlen bestemmes ved  
+
+ vippepunktsmetoden.
+Herefter udføres vejeprøven: Prøvelast 2. (Max.)  
+
+ pålægges, visningen aflæses og fejlen findes ved vippepunktsmetoden.
+ Vægten aflastes til initiallast og hele proceduren gentages med næste  
+
+ påvirkning.
+5. KRAV Ved netspændingsvariation må vægten ikke vise vejeresultater med større  
+
+ fejl end den tolerance, der gælder for pågældende belastning.

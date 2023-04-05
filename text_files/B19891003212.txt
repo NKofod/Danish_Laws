@@ -1,0 +1,37 @@
+1. FORMÅL Denne prøvningsmetode kan benyttes til at bestemme en vægts funktion under  
+
+ netspænding overlejret med transiente overspændinger.
+2. HENVISNING TIL MÅLETEKNISKE BESTEMMELSER TDIR 24.11.1-02, udg. 1 af 01.10.1979, pkt. 4.2.2.3. 3.
+FORUDSÆTNINGER Generelt vedrørende måleudstyr, prøvningsbetingelser, prøvningsmiljø,  
+
+ forkonditionering m.v. henvises til MDIR 04.11-10.
+4. PRØVNING Prøvningen gennemføres med følgende prøvelaster:
+1. Initiallast 2. Min.
+ 3. Max.
+ og ved følgende påvirkninger i form af transiente overspændinger med  
+
+ vilkårlig fase og henholdsvis positiv og negativ polaritet i vægtens  
+
+ strømforsyning:
+ Overspændingerne skal afgives i henholdsvis symmetrisk og assymmetrisk  
+
+ mode fra en generator med en impedans på 50 ohm.
+ De ovenanførte prøvninger udføres på følgende måde:
+Vægten belastes med prøvelast 1. (initiallast) og fejlen bestemmes ved  
+
+ vippepunktsmetoden.
+Med testgeneratoren frembringes den ønskede påvirkning.  
+
+ Det undersøges om vægtens visning ændres.
+Vægtens belastning øges med prøvelast 2. (Min.) og proceduren gentages  
+
+ uden/med samme påvirkning.
+Vægten aflastes til initiallast, prøvelast 3.  
+
+ (Max.) pålægges og proceduren gentages.
+ Vægten aflastes til initiallast og hele proceduren gentages for de 2  
+
+ øvrige påvirkninger.
+5. KRAV Ved netspændingsforstyrrelser må vægten ikke vise vejeresultater med  
+
+ større fejl end den tolerance, der gælder for pågældende belastning.

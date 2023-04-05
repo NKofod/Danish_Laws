@@ -1,0 +1,157 @@
+UNDERVISNINGSMINISTERIET Direktoratet for erhvervsuddannelserne Studieplanen har virkning fra august 1985.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv. insp.
+ 1.6 Minidatamater.
+Formål Minidatamaten er en vigtig del af »computerrevolutionen« og  
+
+ finder anvendelse i et næsten uendeligt spektrum af områder: processtyring,  
+
+ trafikovervågning, telekommunikation, forskning og videnskab, lagerstyring,  
+
+ bogholderi oma..
+ For at en bruger kan vælge det rigtige udstyr og fuldt ud drage nytte af  
+
+ dette, må han foruden ekspertise på anvendelsesområdet have tilstrækkelig  
+
+ viden til at kunne vurdere minidatamaters fleksibilitet og anvendelighed.
+ Dette modul skal give den baggrundsviden, som er nødvendig for at vurdere,  
+
+ sammenligne og anvende minidatamatudstyr, og undervisningen vil behandle  
+
+ væsentlige aspekter af følgende hovedområder - minidatamatteknologi -  
+
+ implementering af minidatamatsystemer. - anvendelse og vedligeholdelse af  
+
+ minidatamatsystemer.
+ Forelæsningsemner og anslået timefordeling.
+punkt timer 1. Introduktion til minidatamater 2 2. Minidatamat-arkitektur 2 3. Perifert udstyr til minidatamater 3 4. Basisprogrammel til minidatamater 3 5. Minidatamatanvendelser og materielkonfigurationer 6 6. Installation, drift og vedligeholdelse 6 7. Udviklingsforløb og udviklingstendenser 3 1. Introduktion til minidatamater.
+Formål Dette emne har til hensigt at foretage en afgrænsning af  
+
+ minidatamatbegrebet i forhold til de datamaskinekategorier, der hyppigst  
+
+ refereres til i edb-miljøer.
+Mål Den studerende skal kunne klassificere minidatamater mht. typiske  
+
+ karakteristika for materiel og basisprogrammel samt leverandørprofiler og  
+
+ prisklasser.
+Emner Datamaskinekategorier og leverandører.
+ Typiske karakteristika for minidatamater.
+ Minidatamaters muligheder og begrænsninger.
+ Oversigt over prislag.
+ 2. Minidatamat-arkitektur.
+Formål Undervisningen i dette emne skal redegøre for almindelige begreber i  
+
+ minidatamaters arkitektur og anskueliggøre minidatamaters ydeevne.
+Mål Den studerende skal kunne vurdere en minidatamats ydeevne og fleksibilitet  
+
+ med hensyn til programmering og materielle konfigurationsmuligheder på  
+
+ grundlag af leverandørens specifikationer af fysiske karakteristika.
+Emner Grundlæggende maskinstrukturer.
+ Ordstørrelse, lagerorganisation og adresseringsteknikker.
+ Registerstruktur og instruktionssæt.
+ I/O-systemet.
+ Mikroprogrammering.
+ Interruptsystem.
+ 3. Perifert udstyr til minidatamater.
+Formål Undervisningen i dette emne tager sigte på at give en oversigt over  
+
+ perifert udstyr, som hyppigt finder anvendelse i minidatamatsystemer samt at  
+
+ give en beskrivelse af operationelle karakteristika og mulige  
+
+ udvælgelseskriterier for de ydre enheder, som er mest almindelige i  
+
+ minidatamat-konfigurationer.
+Mål Den studerende skal kunne specificere og vurdere krav til perifert udstyr  
+
+ til minidatamater med hensyn til operationelle karakteristika,  
+
+ tilslutningsgrænseflader og driftssikkerhed.
+ Den studerende skal for forskellige ydre enheder kunne opstille/vurdere  
+
+ væsentlige kriterier for valg af leverandør.
+Emner Interaktive enheder.
+ I-O-enheder.
+ Minidatamatudstyr til on-line anvendelser.
+ 4. Basisprogrammel til minidatamater.
+Formål Undervisningen skal give en oversigt over de typer af drifts- og  
+
+ hjælpeprogrammel, som hyppigt finder anvendelse i minidatamatsystemer og som  
+
+ typisk tilbydes af minidatamat-leverandører.
+Mål Den studerende skal have overblik over de hyppigst anvendte typer af  
+
+ drifts- og basisprogrammel til minidatamater.
+Den studerende skal kunne  
+
+ opstille relevante kriterier for vurdering og sammenligning af forskellige  
+
+ leverandørers basisprogrammel med henblik på bedømmelse af en minidatamats  
+
+ fleksibilitet og anvendelsesmuligheder til programudvikling.
+Emner Assemblere og loadere.
+ Kryds-assemblere og compilere.
+ Højniveau-sprog.
+ Kildeprogram-editering.
+ Faciliteter til vedligeholdelse af kilde- og objektprogrammer og deres  
+
+ biblioteker.
+ Programaflusnings-faciliteter.
+ Operativsystemer.
+ Kommunikationsprogrammel.
+ 5. Minidatamat-anvendelser og materielkonfigurationer.
+Formål Undervisningen i dette emne skal orientere om operationelle og materielle  
+
+ karakteristika i nogle hyppigt forekommende systemer, hvori der indgår  
+
+ minidatamater og anføre betragtninger over materielle og programmelle  
+
+ faciliteter, som er relevante i relation til givne opgaver.
+Mål Den studerende skal kunne vurdere og sammenligne forskellige  
+
+ minidatamat-systemers ydeevne og anvendelighed og på grundlag af foreliggende  
+
+ opgavebeskrivelser og leverandørspecifikationer kunne opstille en rimelig  
+
+ materielkonfiguration samt anføre relevante kriterier for valg af  
+
+ funktionsenheder til denne konfiguration.
+Emner Minidatamatkonfigurationer i administrative og videnskabelige anvendelser.
+ Realtidssystemer.
+ Operationelle konfigurationer og kriterier for valg af enheder.
+ Eksempler.
+6. Installation, drift og vedligeholdelse Formål Dette emne tager sigte på at give en generel orientering om forhold  
+
+ vedrørende installation, drift og vedligeholdelse af minidatamatsystemer.
+Mål Den studerende skal kunne vurdere driftssikkerheden i en foreliggende  
+
+ materiel konfiguration.
+ Den studerende skal kunne specificere installations- og driftskrav med  
+
+ hensyn til service og vedligeholdelse af programmel og materiel.
+Emner Funktionsenheder og typiske tal for MTBF.
+ Tekniske installationer og driftsmiljøer.
+ Optimering af driftssikkerhed.
+ Service- og vedligeholdelsesansvar.
+ Udvidelsesmuligheder og konverteringsproblematik.
+ Uddannelsesbehov- og muligheder.
+ 7. Udviklingsforløb og udviklingstendenser.
+Formål Dette emne tager sigte på at give et overblik over den hidtidige udvikling  
+
+ på minimarkedet samt at påpege nogle tænkelige udviklingstendenser set i  
+
+ relation til mikrodatamaternes voksende udbredelse.
+Mål Den studerende skal kende vigtige begreber og teknikker i  
+
+ mini/mikrodatamat-teknologien.
+Den studerende skal kunne vurdere de  
+
+ eventuelle konsekvenser, som den kraftige udvikling på mini- og mikromarkedet  
+
+ kan få ved valg af materiel og leverandør.
+Emner IC- og LSI teknik.
+ Mikroprocessorers struktur og karakteristika.
+ROM/RAM/PROM/EPROM Mini/Mikro sammenligning.

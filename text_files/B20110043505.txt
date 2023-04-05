@@ -1,0 +1,31 @@
+Kapitel 1   Definitioner og anvendelsesområde Kapitel 2   Indsamling, registrering og opdatering af nummeroplysningsdata Kapitel 3   Videregivelse af nummeroplysningsdata Kapitel 4   Forbrugerbeskyttelse Kapitel 5   Ikrafttrædelse og overgangsbestemmelser Bilag 1 Bekendtgørelse om nummeroplysningsdatabaser1) I medfør af § 31, stk. 3, i lov nr. 169 af 3. marts 2011 om elektroniske kommunikationsnet og -tjenester, fastsættes:
+Kapitel 1 Definitioner og anvendelsesområde § 1. Denne bekendtgørelse omfatter 1) indsamling, registrering og opdatering af nummeroplysningsdata, 2) videregivelse af nummeroplysningsdata og 3) forbrugerbeskyttelse.
+ § 2. Ved nummeroplysningsdata forstås oplysninger om abonnentnumre, der er tildelt slutbrugere, indeholdende navn, adresse, eventuelle stillingsoplysninger, abonnentnummeret og den kategori af tjeneste, abonnentnummeret anvendes til.
+ Stk. 2. Ved en datasælger forstås en udbyder af elektroniske kommunikationsnet eller -tjenester, der videretildeler 8-cifrede abonnentnumre til slutbrugere.
+ Stk. 3. Ved en datakøber forstås enhver, der ønsker at købe nummeroplysningsdata.
+Kapitel 2 Indsamling, registrering og opdatering af nummeroplysningsdata § 3. Datasælgeren skal indsamle og registrere nummeroplysningsdata i forbindelse med indgåelsen af kontrakt om adgang til elektroniske kommunikationsnet eller -tjenester mellem udbyderen og slutbrugeren.
+ Stk. 2. Nummeroplysningsdata, som datasælgeren har indsamlet og registreret efter stk. 1, skal som minimum indeholde de data, der er specificeret i bilag 1, felt nr. 1-24.
+ Stk. 3. På anmodning fra slutbrugeren skal datasælgeren tillige indsamle og registrere de data, som er specificeret i bilag 1, felt nr. 25-27.
+ § 4. Datasælgeren og datakøberen skal sikre, at slutbrugeren har mulighed for at kontrollere og få rettet sine nummeroplysningsdata snarest muligt efter slutbrugerens henvendelse herom.
+ Stk. 2. Ved sletning af slutbrugerens nummeroplysningsdata, jf. § 31, stk. 4, i lov om elektroniske kommunikationsnet og -tjenester, skal datakøberen og datasælgeren dog foretage sletning umiddelbart efter slutbrugerens henvendelse herom.
+ Stk. 3. Datasælgeren og datakøberen kan ikke kræve betaling for udeladelse af data om slutbrugeren eller for kontrol, rettelse eller sletning af slutbrugerens nummeroplysningsdata.
+ § 5. Datakøberen er forpligtet til at opdatere egne databaser med slutbrugernes nummeroplysningsdata snarest muligt efter, at datasælgeren har leveret opdaterede nummeroplysningsdata, jf. § 9.
+ Stk. 2. Ved sletning af slutbrugerens nummeroplysningsdata, jf. § 31, stk. 4, i lov om elektroniske kommunikationsnet og -tjenester, skal datakøberen dog foretage opdatering umiddelbart efter, at datasælgeren har leveret opdaterede nummeroplysningsdata.
+Kapitel 3 Videregivelse af nummeroplysningsdata § 6. Datasælgeren skal videregive de nummeroplysningsdata om slutbrugerne, som datasælgeren har indsamlet og registreret i medfør af §§ 3 og 4, jf. dog § 31, stk. 4, i lov om elektroniske kommunikationsnet og -tjenester.
+ Stk. 2. Forpligtelsen i stk. 1 omfatter ikke versioner af registre indeholdende de i stk. 1 nævnte nummeroplysningsdata, hvor der via databehandling er sket yderligere forædling af registrene.
+ § 7. Det er i forhold til datasælgerens forpligtelse til videregivelse af nummeroplysningsdata efter § 6 uden betydning, om datasælgeren har placeret de nævnte data i et særskilt koncerninternt forretningsområde eller overdraget data til en selvstændig juridisk enhed.
+ § 8. Datasælgeren skal ved videregivelsen af nummeroplysningsdata strukturere data som specificeret i bilag 1.
+ Stk. 2. Datakøberen har krav på at få leveret nummeroplysningsdata i det i bilag 1 nævnte format.
+ § 9. Datasælgeren skal som minimum udbyde følgende elektroniske leverings- og opdateringsløsninger:
+1) totaludtræk, 2) daglig opdatering og 3) månedlig opdatering.
+Kapitel 4 Forbrugerbeskyttelse § 10. Datasælgeren skal i forbindelse med oprettelse eller ændring af kundeforhold gøre slutbrugeren opmærksom på de i § 4 nævnte rettigheder samt de rettigheder, der følger af § 31, stk. 4, i lov om elektroniske kommunikationsnet og -tjenester og § 29, stk. 3, i lov om Det Centrale Personregister.
+Kapitel 5 Ikrafttrædelse og overgangsbestemmelser § 11. Bekendtgørelsen træder i kraft den 25. maj 2011.
+ Stk. 2. Bekendtgørelse nr. 731 af 30. juni 2008 om nummeroplysningsdatabaser ophæves.
+IT- og Telestyrelsen, den 9. maj 2011 Jørgen Abild Andersen / Henrik Brodersen Bilag 1 Dataindhold og -struktur af nummeroplysninger Datasælger indsamler og registrerer for hver slutbruger, jf. § 3, stk. 2, oplysningerne i felt nr. 1-23, som angivet i tabellerne A, B, C og D herunder.
+Ved udenlandske adresser udfyldes felt nr. 1-11 og nr. 24.
+ På anmodning fra slutbrugeren indsamler og registrerer datasælgeren tillige oplysningerne i felt nr. 25-27, jf. § 3, stk. 3, som angivet i tabel E.
+ I forbindelse med en datasælgers videregivelse af oplysninger, jf. §§ 6 - 9, videregives i øvrigt for hver slutbruger (datapost) transaktionsoplysningerne nr. 28-35 i tabel F.
+ De autoritative W3C Xml Schema definitioner for teleabonnenter og samlinger af teleabonnenter og deres underliggende datastrukturer, som beskrevet i dette dokument, vil kunne findes via den fællesoffentlige portal digitaliser.dk.
+1) Denne bekendtgørelse gennemfører dele af Europa-Parlamentets og Rådets direktiv 2002/58/EF af 12. juli 2002 om behandling af personoplysninger og beskyttelse af privatlivets fred i den elektroniske kommunikationssektor, EF-tidende 2002, nr.
+L108, s. 51, som ændret ved Europa-Parlamentets og Rådets direktiv 2009/136/EF af 25. november 2009 om ændring af direktiv 2002/22/EF om forsyningspligt og brugerrettigheder i forbindelse med elektroniske kommunikationsnet og -tjenester, direktiv 2002/58/EF om behandling af personoplysninger og beskyttelse af privatlivets fred i den elektroniske kommunikationssektor og forordning (EF) nr. 2006/2004 om samarbejde mellem nationale myndigheder med ansvar for håndhævelse af lovgivning om forbrugerbeskyttelse, EF-tidende 2009, nr.
+L337, s.11.

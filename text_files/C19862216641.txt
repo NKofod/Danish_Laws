@@ -1,0 +1,96 @@
+ Studieplanen har virkning fra august 1984 (genoptryk).
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+1. Baggrund Dokumentation af edb-systemer har aldrig været populært.
+Men i  
+
+ almindelighed erkender man nødvendigheden, af hensyn til både udvikling og  
+
+ vedligehold.
+Vi vil her se på mulighederne i nutidens og fremtidens  
+
+ systemudvikling.
+Der findes mange standardmodeller for systemudvikling med forskellige  
+
+ faser og forskellige værktøjer, men ellers i filosofien ens.
+I de seneste år  
+
+ er mange automatiske metoder og værktøjer kommet frem.
+Vores angrebsvinkel vil være, baseret på en generel referenceramme, at  
+
+ opstille en dokumentationsplan.
+Dokumentationsplanen benytter en fasemodel  
+
+ som skelet, den overordnede dokumentation som systemmodel og databasemodel  
+
+ laves eksplicit, mens den detaljerede dokumentation i princippet kan laves på  
+
+ tre måder, evt. i kombination:
+- manuel dokumentation - systemkomponenterne (filer og programmer) er »gratis«  
+
+ dokumentation - automatisk dokumentation (Data Dictionary og Systemudviklingsværktøjer).
+2. Formål Formålet med kurset er, baseret på en generel referenceramme, at opstille  
+
+ en dokumentationsplan, som kan indrettes på både nutidens og fremtidens  
+
+ systemudvikling.
+ Dokumentationsplanen forankres i en fasemodel, men det vil være et vigtigt  
+
+ aspekt at begrænse den manuelle indsats til den overordnede dokumentation  
+
+ samt til organisering af den detaljerede dokumentation, så enten  
+
+ systemkomponenterne selv udgør dokumentationen, eller så dokumentationen  
+
+ produceres automatisk.
+ Der lægges vægt på at relatere dokumentationsplanen til de studerendes  
+
+ egen hverdag.
+3. Indhold og niveau (antal lektioner) Vejledende timetal 1. Indledning 2 Oversigt over kursets indhold og gennemførelse.
+2. Edb-afdeling og dokumentation 4 Vi opstiller en generel referenceramme, som er en model af edb- afdelingen  
+
+ og en strukturering af dokumentationen i »dokumentationsmængder«,  
+
+ »-enheder« og »-elementer«.
+ Vi gennemgår principper for en edb-afdelings organisation, derefter  
+
+ analyserer vi edb-afdelingen ved hjælp af generel systemteori, hvorved  
+
+ edb-afdelingen fremtræder som objektsystemet og den indlejrede dokumentation  
+
+ som databehandlingssystemet, og endelig strukturerer vi dokumentationen.
+3. Edb-håndbogen 3 Vi gennemgår nogle standardforslag fra litteraturen samt et normativt  
+
+ forslag.
+ I tiden er medregnet E1.
+4. Metodikker for Dokumentation af Systemudvikling 12 Vi gennemgår to standardmetodikker med hovedvægten på den ene.
+ Emneområderne er:
+- Systemudviklingsmodellen - Projektstyring - Analysedokumentation - Systemdokumentation - Datadokumentation - Driftsdokumentation I tiden er medregnet E2.
+5. Datamatbaseret systemdokumentation 12 Vi gennemgår forskellige automatiske værktøjer og metoder til  
+
+ systemudvikling og dokumentation, idet det understreges, at de skal passes  
+
+ ind i en overordnet udviklingsmodel.
+ De gennemgåede metoder og værktøjer er:
+- Rapportgenerator - Data Dictionary/System Dictionary - Eksperimentel Systemudviklings værktøjer - Systemudviklingsværktøjer.
+ I tiden er medregnet E3.
+6. Organisation, identifikation, arkivering af  dokumentation 6 Vi formulerer en model af dokumentationens organisering og arkivering i  
+
+ edb-afdelingen, idet vi inddrager de egentlige systemkomponenter, dvs.  
+
+ programmer og filer, i modellen.
+ Regler for identifikationssystemer belyses gennem et eksempel.
+ Oprettelse af en særlig dokumentationsfunktion diskuteres kort.
+ I tiden er medregnet E4.
+7. Generelle dokumentationsteknikker 6 Da dokumentation fremtræder som rapporter, diskuterer vi kort  
+
+ rapportbegrebet.
+ Vi skelner mellem tre klasser af dokumentationsteknikker:
+verbalt / grafisk / skematisk og vi sætter disse klasser i relation til:
+ systembeskrivelse / procesbeskrivelse / databeskrivelse.
+ Vi gennemgår en interessant grafteknik, kaldet No-chart.
+ Endelig indeholder kapitlet, delvis af historiske grunde,  
+
+ grundprincipperne for konstruktion af blanketter.
+8. Afslutning 3 Kursusafslutning og forberedelse til prøve.

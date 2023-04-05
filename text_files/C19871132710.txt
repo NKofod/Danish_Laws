@@ -1,0 +1,407 @@
+ Registertilsynet modtager i stigende omfang anmodninger om udtalelse om  
+
+ registre, der skal føres på PCer eller mikrodatamater.
+ De forelagte registre varierer med hensyn til formål, karakteren af de  
+
+ registrerede oplysninger og antallet af medarbejdere, der skal have adgang  
+
+ til de registrerede oplysninger.
+Registrene er i en række tilfælde sammenlignelige med eksisterende  
+
+ registre, der føres på et edb-servicebureau eller eventuelt eget større  
+
+ edb-anlæg.
+Pcer har endvidere i dag en kapacitet, der for få år siden  
+
+ udelukkende kunne findes på større edb-anlæg.
+ Med henblik på at opnå det samme sikkerhedsniveau for en given  
+
+ registertype - uanset hvilket edb-anlæg det pågældende register føres på -  
+
+ har Registertilsynet vurderet, hvilke sikkerhedsforanstaltninger der bør  
+
+ etableres for PCer, der anvendes til edb-registre med personoplysninger, for  
+
+ hvilke der skal udarbejdes registerforskrifter.
+ Registerrådet har behandlet spørgsmålet herom på sit møde den 16.  
+
+ september 1987.
+ Registertilsynet har vurderet de sikkerhedsforanstaltninger, der i dag er  
+
+ etableret for terminalsystemer, hvor systemet føres på et større edb-anlæg,  
+
+ og har herefter fundet, at de samme sikkerhedsforanstaltninger bør etableres  
+
+ for registre, der føres på PCer.
+ Registertilsynet har endvidere fundet, at den hidtil anvendte inddeling i  
+
+ tre grupper kan videreføres.
+ Dette indebærer, at registre med grundoplysninger eller oplysninger af  
+
+ mere almindelig karakter normalt vil blive placeret i gruppe 1. Registre med  
+
+ f.eks. skatteoplysninger vil normalt blive placeret i gruppe 2, medens  
+
+ registre med følsomme oplysninger som f.eks. oplysninger om helbredsforhold  
+
+ eller strafbare forhold normalt vil blive placeret i gruppe 3.
+I vedlagte bilag 1-3 er kort anført de sikkerhedselementer, der efter  
+
+ tilsynets opfattelse bør indgå i de enkelte grupper.
+Ud for det enkelte  
+
+ sikkerhedselement er anført den hertil svarende sproglige formulering af  
+
+ vedkommende bestemmelse i registerforskriften.
+ I vedlagte bilag 4 er anført bestemmelser om de  
+
+ sikkerhedsforanstaltninger, som tilsynet herudover finder bør gælde for PCer.
+Registertilsynet skal herefter henstille, at bestemmelserne i bilag 4 samt  
+
+ eet af bilagene 1-3 indarbejdes i det udkast til forskrifter, der for det  
+
+ enkelte register skal forelægges Registertilsynet med henblik på en  
+
+ udtalelse, inden registeroprettelsen kan godkendes, og inden der fastsættes  
+
+ forskrifter for registeret.
+Det tilføjes, at bestemmelserne i bilag 4 kan  
+
+ indarbejdes som et selvstændigt kapitel i registerforskriften eller som et  
+
+ bilag til registerforskriften.
+ Det bemærkes, at der efter Registertilsynets opfattelse vil kunne  
+
+ forekomme tilfælde, f.eks. i forbindelse med lokalnet eller andre  
+
+ kommunikationsnet, hvor sikringen af de registrerede oplysninger bør  
+
+ forstærkes yderligere, evt. ved brug af kryptografering.
+P.
+R.
+V.
+H.
+Funch Jensen /B.O.
+Jespersen Bilag 1: Sikkerhedsforanstaltninger for PC-anvendelse, gruppe 1.
+Sikkerhedselement Autorisationsordning Bestemmelse § A.
+Kun de medarbejdere, borgmesteren autoriserer hertil  
+
+ (terminaloperatører), må have terminaladgang til registeret.
+ Stk. 2.  Kun medarbejdere i .......... -afdelingen må  
+
+ autoriseres som terminaloperatører.
+Behov § B.
+Borgmesteren må kun autorisere medarbejdere som terminaloperatører,  
+
+ for hvem det er nødvendigt at benytte terminalerne i forbindelse med  
+
+ udførelse af deres arbejde, og de enkelte terminaloperatører må ikke  
+
+ autoriseres til anvendelser, de ikke har behov for.
+ID-kort/indtastning § C.
+Kommunalbestyrelsen beslutter, hvorvidt der ved adgangskontrollen til  
+
+ systemet skal anvendes ID-kort og/eller indtastning.
+Fortrolig og/eller personlig kode § D.
+Terminaloperatører skal tildeles en fortrolig terminalkode (password)  
+
+ eller et terminal ID-kort.
+eller § D.
+Terminaloperatører skal tildeles en fortrolig og personlig  
+
+ autorisationskode eller ID-kort.
+Benyttelsesstatistik § E.
+Der skal mindst hvert halve år udskrives en statistik over  
+
+ terminalens benyttelse.
+Statistikken skal for hver enkelt  
+
+ terminal/terminaloperatør angive, hvilke transaktionstyper den pågældende  
+
+ terminal har været anvendt til, samt antallet af gange de enkelte  
+
+ transaktionstyper er anvendt.
+ Stk. 2.  Statistikken skal sendes til borgmesteren eller  
+
+ en medarbejder i kommunen, som borgmesteren har udpeget hertil.
+Ikke-læsbar indtastning/operatørskift § F.
+Kendeord (password) skal indtastes ikke-læsbart ved hvert  
+
+ operatørskift, og når terminalen forlades, skal der træffes sådanne  
+
+ foranstaltninger (log-off), at fornyet opkald vil kræve indtastning af  
+
+ kendeord (log-on).
+Udskiftning af kendeord § G.
+Kendeord (password) skal udskiftes efter nærmere fastsatte  
+
+ procedurer.
+ Bilag 2: Sikkerhedsforanstaltninger for PC-anvendelse, gruppe 2.
+Sikkerhedselement Autorisationsordning Bestemmelse § A.
+Kun de medarbejdere, borgmesteren autoriserer hertil  
+
+ (terminaloperatører), må have terminaladgang til registeret.
+ Stk. 2.  Kun de medarbejdere, der udfører ..........  
+
+ -opgaver, må have adgang til forespørgsler.
+ Stk. 3.  Kun medarbejdere, der er ansat i .........., må  
+
+ have adgang til at indatere, ændre eller slette oplysninger.
+Behov § B.
+Borgmesteren må kun autorisere medarbejdere som terminaloperatører,  
+
+ for hvem det er nødvendigt at benytte terminalerne i forbindelse med  
+
+ udførelse af deres arbejde.
+De enkelte terminaloperatører må ikke autoriseres  
+
+ til anvendelser, de ikke har behov for.
+Differentieret adgang Stk. 2.  Autorisationen skal angive hvilke grupper af  
+
+ personer og oplysninger, terminaloperatøren har adgang til, samt i hvilket  
+
+ omfang terminaloperatøren kan ændre/slette de registrerede oplysninger.
+ID-kort/indtastning § C.
+Kommunalbestyrelsen beslutter, hvorvidt der ved adgangskontrollen til  
+
+ systemet skal anvendes ID-kort og/eller indtastning.
+Fortrolig og personlig kode/ID-kort Stk. 2.  Terminaloperatører skal tildeles en fortrolig  
+
+ og personlig autorisationskode eller ID-kort.
+Sikkerhedsrapport § D.
+Der skal foretages registrering af alle  
+
+ uautoriserede adgangsforsøg.
+Såfremt der inden for en nærmere fastsat periode  
+
+ er registreret et nærmere fastsat antal på hinanden følgende uautoriserede  
+
+ adgangsforsøg fra samme terminal, skal dette udskrives, og der skal foretages  
+
+ umiddelbar kontrol.
+Benyttelsesstatistik § E.
+Der skal mindst hvert halve år udskrives en benyttelsesstatistik.  
+
+ Denne skal for hver enkelt terminaloperatør angive, hvilke transaktioner den  
+
+ pågældende har anvendt eller forsøgt at anvende, og antallet af gange den  
+
+ enkelte transaktion har været anvendt eller forsøgt anvendt.
+ Stk. 2.  Statistikken skal sendes til borgmesteren eller  
+
+ en medarbejder i kommunen, som borgmesterren har udpeget hertil.
+Totallog § F.
+Der skal foretages registrering (logning) af alle transaktioner.  
+
+ Registreringen skal mindst indeholde oplysning om tidspunkt,  
+
+ terminaloperatør, transaktionstype og angivelse af den person, transaktionen  
+
+ vedrørte og/eller det anvendte søgekriterium.
+Registreringen (loggen) skal  
+
+ opbevares i 6 måneder, hvorefter den skal slettes.
+ Stk. 2.  Udskrift af dele af loggen skal efter anmodning  
+
+ fremsendes til borgmesteren eller en medarbejder i kommunen, som borgmesteren  
+
+ har udpeget hertil.
+eller Logning af forespørgsler § F Der skal foretages registrering (logning) af alle forespørgsler på  
+
+ .......... -oplysninger.
+Der skal mindst een gang månedligt foretages en  
+
+ stikprøvevis undersøgelse af formålet med anvendelsen.
+Registreringen skal  
+
+ mindst indeholde oplysning om tidspunkt, terminaloperatør, transaktionstype  
+
+ og angivelse af den person, transaktionen vedrørte og/eller det anvendte  
+
+ søgekriterium.
+Registreringen (loggen) skal opbevares i 6 måneder, hvorefter  
+
+ den skal slettes.
+ Stk. 2.  Udskrift af dele af loggen skal efter anmodning  
+
+ fremsendes til borgmesteren eller en medarbejder i kommunen, som borgmesteren  
+
+ har udpeget hertil.
+eller Logning af opdateringer § F.
+Der skal foretages registrering (logning) af opdatering af alle  
+
+ .......... -oplysninger og mindst een gang månedligt en stikprøvevis  
+
+ undersøgelse med opdateringen.
+Registreringen skal mindst indeholde oplysning  
+
+ om tidspunkt, terminaloperatør, transaktionstype og angivelse af den person,  
+
+ transaktionen vedrørte og/eller det anvendte søgekriterium.
+Registreringen-  
+
+ (loggen) skal opbevares i 6 måneder, hvorefter den skal slettes.
+ Stk. 2.  Udskrift af dele af loggen skal efter anmodning  
+
+ fremsendes til borgmesteren eller en medarbejder i kommunen, som borgmesteren  
+
+ har udpeget hertil.
+Ikke-læsbar indtastning/operatørskift § G.
+Kendeord (password) skal indtastes ikke-læsbart ved hvert  
+
+ operatørskift.
+Når terminalen forlades, skal der træffes sådanne  
+
+ foranstaltninger (log-off), at fornyet opkald vil kræve indtastning af  
+
+ kendeord (log-on).
+Udskiftning af kendeord § H.
+Kendeord (password) skal udskiftes mindst een gang årligt.
+ Bilag 3: Sikkerhedsforanstaltninger for PC-anvendelse, gruppe 3.
+Sikkerhedselement Autorisationsordning Bestemmelse § A.
+Kun de medarbejdere, borgmesteren autoriserer hertil  
+
+ (terminaloperatører), må have terminaladgang til registeret.
+ Stk. 2.  Kun de medarbejdere, der udfører ..........  
+
+ -opgaver, må have adgang til forespørgsler.
+ Stk. 3.  Kun medarbejdere, der er ansat i .........., må  
+
+ have adgang til at inddatere, ændre eller slette oplysninger.
+Behov § B.
+Borgmesteren må kun autorisere medarbejdere som terminaloperatører,  
+
+ for hvem det er nødvendigt at benytte terminalerne i forbindelse med  
+
+ udførelse af deres arbejde.
+De enkelte terminaloperatører må ikke autoriseres  
+
+ til anvendelser, de ikke har behov for.
+Differentieret adgang Stk. 2.  Autorisationen skal angive hvilke grupper af  
+
+ personer og oplysninger, terminaloperatøren har adgang til, samt i hvilket  
+
+ omfang terminaloperatøren kan ændre/slette de registrerede oplysninger.
+Udskrivning af lister § C.
+Udskrivning af oplysninger om en større kreds af personer må kun  
+
+ udføres af særligt autoriserede medarbejdere.
+Der skal mindst een gang om  
+
+ måneden foretages en stikprøvevis undersøgelse af formålet hermed.
+ID-kort/indtastning § D.
+Kommunalbestyrelsen beslutter, hvorvidt der ved adgangskontrollen til  
+
+ systemet skal anvendes ID-kort og/eller indtastning.
+Fortrolig og personlig kode/ID-kort § E.
+Terminaloperatører skal tildeles en fortrolig og personlig  
+
+ autorisationskode/ID-kort.
+Sikkerhedsrapport § F.
+Der skal foretages registrering af alle uautoriserede adgangsforsøg.  
+
+ Såfremt der inden for en nærmere fastsat periode er registreret et nærmere  
+
+ fastsat antal på hinanden følgende uautoriserede adgangsforsøg fra samme  
+
+ terminal, skal dette udskrives, og der skal foretages umiddelbar kontrol.
+Benyttelsesstatistik § G.
+Der skal mindst hvert havle år udskrives en benyttelsesstatistik.  
+
+ Denne skal for hver enkelt terminaloperatør angive, hvilke transaktioner den  
+
+ pågældende har anvendt eller forsøgt at anvende, og antallet af gange den  
+
+ enkelte transaktion har været anvendt eller forsøgt anvendt.
+ Stk. 2.  Statistikken skal sendes til borgmesteren eller  
+
+ en medarbejder i kommunen, som borgmesteren har udpeget hertil.
+Totallog § H.
+Der skal foretages registrering (logning) af alle transaktioner.  
+
+ Registreringen skal mindst indeholde oplysning om tidspunkt,  
+
+ terminaloperatør, transaktionstype og angivelse af den person, transaktionen  
+
+ vedrørte og/eller det anvendte søgekriterium.
+Registreringen (loggen) skal  
+
+ opbevares i 6 måneder, hvorefter den skal slettes.
+ Stk. 2.  Udskrift af dele af loggen skal efter anmodning  
+
+ fremsendes til borgmesteren eller en medarbejder i kommunen, som borgmesteren  
+
+ har udpeget hertil.
+Ikke-læsbar indtastning/operatøskrift § 1.  Kendeord(password) skal indtastes ikke-læsbart  
+
+ ved hvert operatørskift.
+Når terminalen forlades, skal der træffes sådanne  
+
+ foranstaltninger (log-off), at fornyet opkaldt vil kræve indtastning af  
+
+ kendeord (log-on).
+Udskriftning af kendeord § J. kendeord (password) skal udskiftes mindst een gang årligt.
+ Bilag 4: SIKKERHEDSFORANSTALTNINGER FOR PCer/MIKRODATAMATER:
+ § 1.  Lokaler, der benyttes ved opbevaring og førelse  
+
+ af registre, skal være indrettet med henblik på at forhindre uvedkommende  
+
+ adgang.
+ Stk. 2.  Der skal etableres fornøden beskyttelse  
+
+ herunder alarmering mod indbrud m.v.
+ § 2.  For afvikling af kørsler med registre skal der  
+
+ udarbejdes skriftlige instrukser, der fastlægger ansvaret for og beskriver  
+
+ behandling af inddata, kørselsafvikling og behandling af uddata.
+ § 3.  For de enkelte registre skal der udarbejdes  
+
+ skriftlige instrukser om antallet af kopier og generationer af  
+
+ registeret,således at det samlede antal registerversioner er mindst muligt,  
+
+ under hensyntagen til behovet for at kunne rekonstruere registeret.
+§ 4.  Der skal foretages en maskinel registrering af  
+
+ alle kørsler, der afvikles på edb-anlægget.
+Registreringen skal opbevares i  
+
+ mindst seks måneder.
+ § 5.  Der skal udarbejdes skriftlige instrukser for  
+
+ tilintetgørelse af udskrifter m.v., der ikke skal leveres til brugeren.
+§ 6.  Lagringsmedier med personoplysninger skal  
+
+ opbevares i aflåst skab, når de ikke benyttes.
+Lagringsmedierne må kun  
+
+ udleveres til medarbejdere, der er autoriseret hertil.
+stk. 2.  Der skal føres en fortegnelse over alle  
+
+ lagringsmedier, der benyttes i forbindelse med registre.
+Der skal foretages  
+
+ løbende kontrol af beholdningen.
+ stk. 3.  Alle lagringsmedier med personoplysninger skal  
+
+ være mærket til brug ved såvel den manuelle som maskinelle behandling.
+ stk. 4.  Der skal udarbejdes skriftlige instrukser for  
+
+ sletning af lagringsmedier, udlån/udlevering af lagringsmedier, evt.  
+
+ kopiering af lagringsmedier og destruktion af lagringsmedier, der ikke kan  
+
+ anvendes mere.
+§ 7.  For udvikling og vedligeholdelse af programmer  
+
+ m.v., der behandler personoplysninger, skal der foreligge regler, således at  
+
+ der etableres den fornødne dokumentation, kontrol, afprøvning og godkendelse  
+
+ af systemerne.
+Endvidere skal der etableres den fornødne dokumentation til  
+
+ brugeren i form af en beskrivelse af systemet og en vejledning i anvendelse  
+
+ af systemet.

@@ -1,0 +1,93 @@
+ Studieplanen har virkning fra den 1. januar 1988.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+Formål Kommercielle databasesystemer er endnu utilstrækkelige i understøtningen  
+
+ af ægte database distribuering.
+Kursets overordnede mål er derfor at formidle  
+
+ en konkret viden om, hvad/hvordan en given applikation skal/kan udbygges med  
+
+ af eventuelt manglende funktioner i det forhåndenværende database produkt for  
+
+ at tilgodese et ægte distribueret databasesyn.
+ Det er endvidere kursets mål at give deltagerne en dybtgående forståelse  
+
+ af de tekniske og teoretiske aspekter, der indgår i design, implementation og  
+
+ drift af distribuerede databaser.
+ I kurset indlæres et begrebsapparat til klassifikation og vurdering af  
+
+ distribuerede databasearkitekturer, og deltagerne bibringes en bred, og på  
+
+ visse områder, detaljeret forståelse af de problemstillinger i et  
+
+ distribueret database-koncept, der stiller krav om udvidede løsninger i  
+
+ forhold til centrale databaser, samt til løsningsmetoder herfor.
+ Endvidere gives der en orientering om konkrete løsninger eller tiltag til  
+
+ løsninger i kommercielle leverandørsystemer samt forsknings- og  
+
+ udviklingssystemer.
+Adgangsbetingelser Drift.
+ Problemorienteret sprog.
+ Planlægning.
+ Projektgennemførelse.
+Anbefalede forudsætninger 2.6 Databasesystemer, specielt er et godt kendskab til relationsdatabaser  
+
+ en nødvendig forudsætning.
+ Generelt gælder, at praktisk erfaring er meget anbefalelsesværdigt.
+ Følgende moduler grænser op til den behandlede problematik i kurset:
+- 1.4 Distribuerede systemer - 1.5 Datatransmission og datakommunikation - 2.7 Database design og filstrukturer Hovedemner og undervisningsmål for disse Generelt om distribuerede databaser Målet med dette emne er at give de studerende et kendskab til  
+
+ distribuerede databaser, strukturer for opbygning af disse samt fordele og  
+
+ ulemper ved distribuering af databasen sammenholdt med central eller  
+
+ decentral databaselagring.
+ Endvidere skal eleverne have kendskab til principperne for datanet  
+
+ arkitekturer, herunder distribuerede databasesystemers placering i ISO-OSI  
+
+ reference modellen.
+ Indhold:
+ Fordele og ulemper ved distribuerede databaser.
+ Reference-arkitekturer for distribuerede databaser.
+ Distribuerede systemarkitekturer.
+ Datanet og ISO-OSI modellen.
+Distribuering af data, processer og katalog Målet er at give de studerende et grundigt kendskab til design og  
+
+ implementering af distribuerede databaser samt til de særlige  
+
+ problemstillinger, der knytter sig hertil.
+ Indhold:
+ Data fragmentering, data allokering, transparens.
+ Proces distribuering (read only-/updatetransaktioner).
+ Katalog distribuering.
+ Distribueret design.
+ Transaktionsbegrebet.
+Driftsmæssige aspekter ved distribuerede databaser Målet er at bibringe deltagerne et grundlæggende kendskab til de  
+
+ driftsmæssige problemstillinger og til løsningsmodeller for håndtering af  
+
+ disse i et distribueret databasemiljø.
+ Indhold:
+ Transaktionsbegrebet.
+Sikkerhed og integritet, herunder - samtidighedskontrol.
+ - baglås-håndtering.
+ - commitment & reetablering.
+ - semantisk integritet, fuldstændighed og konsistens.
+ Distribuerede forespørgsler.
+Udvalgte systemer Målet med emnet er, at de studerende opnår en god forståelse af  
+
+ eksisterende tiltag indenfor databaseverdenen med hensyn til realisering af  
+
+ distribuerede databaser, og at de sættes i stand til at vurdere samt genbruge  
+
+ sådanne løsningsmodeller i det daglige arbejde.
+ Indhold:
+ Udviklings- og prototypesystemer.
+ Tiltag i kommercielle databasesystemer.
+ Implementering i praksis.

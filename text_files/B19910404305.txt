@@ -1,0 +1,892 @@
+1. september 1991 Gasreglementets afsnit B-40 Forskrifter for gasturbineinstallationer Målsætningen med nærværende Gasreglementets afsnit B-40 er at opstille de  
+
+ nødvendige gastekniske og brandtekniske krav til installationer for anlæg med  
+
+ gasturbiner.
+ Der er ved de enkelte bestemmelsers udformning taget højde for de meget  
+
+ individuelt prægede anlægstyper, der må forventes, idet der er lagt op til,  
+
+ at bestemmelserne kan fraviges, såfremt det kan dokumenteres, at den valgte  
+
+ løsning opfylder de grundlæggende sikkerhedstekniske intentioner.
+ Forskrifterne er indplaceret i Gasreglementets afsnit B og benævnes B-40.
+ Det påhviler bygherren eller ejeren af anlægget at sørge for, at  
+
+ forskrifternes krav bliver opfyldt og bliver koordineret med kravene i  
+
+ Gasreglementets afsnit B-4.
+ Bygherre/ejer har det fulde ansvar for anlægget og dets sikkerhedsmæssige  
+
+ opbygning.
+Indholdsfortegnelse 1. Gyldighedsområde 2. Terminologi 3. Opstillingsstedet 4. Klassifikation og ventilation af turbine 5. Gasfremføring 6. Gasarmaturgruppe og flammekontrol 7. Brand- og gasdetektering, brandslukning 8. Udstødssystem og udstødskedler 9. Efterbrændere 10. Strømforsyning af anlægget 11. Styrings- og sikkerhedsautomatik 12. Ikrafttrædelse og overgangsbestemmelser 1. Gyldighedsområde 1.1. Disse forskrifter gælder for stationære gasturbineinstallationer på  
+
+ landjorden.
+De er fastlagt i medfør af §§15, 17 og 19 stk. 2 i lov nr. 250 af  
+
+ 8. juni 1978 og omfatter alle installationer på gassens vej fra stikledning  
+
+ til udmunding af skorsten eller udstødningsrør.
+ Således er også eventuelle udstødskedler og efterbrændere omfattet.
+ Forskrifterne omfatter desuden gasturbinernes hjælpeudrustning samt  
+
+ styrings- og sikkerhedsautomatik.
+ 1.2. Gasturbineinstallationer skal, foruden nærværende forskrifter,  
+
+ opfylde Gasreglementets afsnit B-4, herunder de punkter der er henvist til i  
+
+ teksten.
+ Hvor der måtte være uoverensstemmelse i forhold til Gasreglementets afsnit  
+
+ B-4, er nærværende regler gældende.
+ 1.3. Forskrifterne omfatter kun gasturbiner, der som brændstof anvender  
+
+ gaskvaliteter, der opfylder Gasreglementets bestemmelser for henholdsvis 1.,  
+
+ 2. og 3. gasfamilie.
+ Bestemmelserne findes i bilag 1A til Gasreglementets afsnit A.
+ For turbiner, der er forsynet med tilslutning for alternative brændsler,  
+
+ fastsætter DGP reglernes gyldighedsområde.
+ 1.4. Forskrifterne gælder ikke for gasturbiner, der kobles til pumper,  
+
+ kompressorer eller andet udstyr for brandfarlige væsker eller gasser.
+ De gælder heller ikke for gasturbiner, der opstilles i områder, hvor  
+
+ brandfarlige væsker, gasser eller støvfyldt atmosfære normalt håndteres.
+ 1.5. Forskrifterne indeholder ikke krav til projekternes kvalitetsstyring  
+
+ og til dokumentation.
+ Der henvises til DGP's særlige retningslinier herom.
+ 1.6. Overholdelse af nærværende forskrifter friholder ikke bygherren for  
+
+ at søge fornøden godkendelse hos andre myndigheder, som f.eks. bygnings- og  
+
+ miljømyndigheder samt lokale brandmyndigheder og arbejdstilsynets stedlige  
+
+ tilsynskreds, og efterkomme krav, der måtte blive stillet fra disse  
+
+ myndigheders side, herunder krav til trykbeholdere, støjniveauer m.v.
+2. Terminologi Den i forskrifterne anvendte terminologi svarer til Gasreglementets afsnit  
+
+ A, suppleret med følgende udtryk:
+ DRIFTSSTOP kan enten være en planlagt nedlukning, en hurtiglukning  
+
+ eller et nødstop.
+PLANLAGT NEDLUKNING er en normal stopprocedure, der initieres  
+
+ manuelt eller af et forud fastlagt nedlukningsprogram for  
+
+ gasturbineaggregatet, hvor gasturbinens last først reduceres, hvorefter  
+
+ gaslukkeventilerne lukkes, og kun gastrykket mellem gaslukkeventilerne  
+
+ afblæses.
+Ventilationen af turbineindkapslingen fortsætter efter  
+
+ nedlukningen.
+HURTIGLUKNING er en stopprocedure, der initieres af  
+
+ gasturbineaggregatets sikkerhedsautomatik, hvorved gastilførslen til  
+
+ gasturbinen momentant afbrydes af gaslukkeventilerne og trykket mellem disse  
+
+ afblæses, så snart hurtiglukningssignal gives.
+Hurtiglukning afventer ikke,  
+
+ at turbinens belastning reduceres eller frakobles.
+Ventilationen af  
+
+ turbineindkapslingen fortsætter efter hurtignedlukningen.
+ NØDSTOP er en stopprocedure, der har samme forløb som  
+
+ hurtiglukning, men desuden omfatter momentan lukning af  
+
+ nødafspærringsventilen og nødafblæsning.
+ Nødstop udløses ved brand- eller gasdetektering samt ved manuelle nødstop  
+
+ og ved stop eller svigt af ventilationen af gasturbinens indkapsling.
+ EFTERBRÆNDER er en gasbrænder, der monteres i udstødningssystemet  
+
+ fra en gasturbine.
+ GASTURBINEAGGREGAT omfatter den samlede mekaniske installation af  
+
+ gasturbine med gasarmaturgruppe og hjælpeudstyr som f.eks. startudrustning og  
+
+ smøreoliesystem.
+ GASTURBINE omfatter gasgenerator og kraftturbine, uanset om disse  
+
+ er koblet med fælles aksel eller ej.
+ INDKAPSLING er det rum, hvori gasturbinen er opstillet, og som af  
+
+ gastekniske grunde skal ventileres særskilt.
+ Indkapslingen kan være en del af en bygning.
+ KRAFTTURBINE er den del af en gasturbine, der omsætter energien i  
+
+ udstødsgassen fra forbrændingskamrene til mekanisk arbejde.
+ LEL (Lower Explosion Limit) angiver nedre grænse for  
+
+ eksplosionsintervallet af en gas/luft-blanding.
+ NØDAFBLÆSNING er en afblæsning af gastrykket mellem  
+
+ nødafspærringsventilen og gasturbinens gasarmaturgruppe.
+ Nødafblæsning sker med en automatisk virkende ventil placeret uden for  
+
+ opstillingsrummet.
+NØDAFSPÆRRINGSVENTIL er en automatisk virkende hurtiglukkeventil i  
+
+ gasfremføringen uden for opstillingsrummet.
+Nødafspærringsventilen afbryder  
+
+ momentant gastilførslen til gasturbineaggregatet.
+ OPSTILLINGSRUMMET er den del af en bygning, hvori  
+
+ gasturbineaggregatet med indkapsling er opstillet.
+SIGNALFLANGE eller brille (eng.
+Spectacular Blind) er en  
+
+ blindplade, der anbragt i en flangesamling tydeligt signalerer, om  
+
+ gennemstrømningen er afspærret.
+ SIKKERHEDSTID VED START er den tid, der går mellem signal til  
+
+ gaslukkeventilernes åbning og lukkeordren fra sikkerhedsautomatikken på grund  
+
+ af manglende registrering af flamme.
+ SIKKERHEDSTID UNDER DRIFT er den tid, der går fra  
+
+ flammesvigttidspunkt til sikkerhedsautomatikken giver lukkesignal til  
+
+ gaslukkeventilerne.
+ ZONE 1 er områder, hvor der lejlighedsvis under normale  
+
+ driftsforhold kan forekomme eksplosiv atmosfære.
+ ZONE 2 er områder, hvor der kun undtagelsesvis, og da kun i korte  
+
+ perioder, kan forekomme eksplosiv atmosfære.
+3. Opstillingsstedet 3.1. Afstande til bygninger m.m.
+ Udendørs opstillede gasturbineaggregater og bygninger, der er  
+
+ opstillingsrum for gasturbineaggregater, skal placeres i overensstemmelse med  
+
+ »Tekniske forskrifter for brandfarlige virksomheder og oplag« -  
+
+ Statens Brandinspektion, således at følgende afstandskrav opfyldes:
+ - afstand til naboskel mindst 5 m.
+ - afstand til andre bygninger eller oplag mindst 5 m plus den krævede  
+
+ afstand mellem pågældende bygning (oplag) og naboskel.
+3.2. Udendørs opstilling 3.2.1. Opstilles gasturbineaggregatet udendørs, uden indkapsling, eller i  
+
+ en naturligt ventileret indkapsling, der opfylder kravene i pkt. 4.1.2.,  
+
+ klassificeres opstillingsstedet som zone 2 indtil en afstand af 5 m fra  
+
+ aggregatet.
+ 3.2.2. Opstilles gasturbineaggregatet udendørs i en mekanisk ventileret  
+
+ indkapsling, der opfylder kravene i pkt. 4.2., klassificeres  
+
+ opstillingsstedet ikke.
+3.3. Indendørs opstilling 3.3.1. Opstilles gasturbineaggregatet indendørs, skal det omgives af en  
+
+ mekanisk ventileret indkapsling, der opfylder kravene i pkt. 4.2.
+ Undladelse af denne indkapsling kan kun ske efter særlig godkendelse fra  
+
+ DGP på grundlag af en detaljeret redegørelse, der viser, at hele  
+
+ opstillingsrummet opfylder de sikkerhedsmæssige krav, der fremgår af pkt.  
+
+ 4.2.
+ 3.3.2. Såfremt gasinstallationen i opstillingsrummet udføres for et tryk  
+
+ på max. 4 bar, klassificeres opstillingsrummet ikke.
+ Udføres gasinstallationen for højere tryk, klassificeres opstillingsrummet  
+
+ ikke, såfremt gasinstallationen ikke indeholder andre samlinger end  
+
+ svejsesamlinger mellem husindføringen og indkapslingen.
+ Indeholder gasinstallationen andre samlinger, klassificeres  
+
+ opstillingsrummet som zone 2.
+ 3.3.3. For brænder- og efterbrænderinstallationer med et installationstryk  
+
+ højere end 4 bar gælder tilsvarende ventilations- og klassifikationskrav som  
+
+ for gasturbineinstallationer.
+3.3.4. Forbrændingsluft til gasturbiner må ikke tages fra klassificerede  
+
+ rum.
+Hvis forbrændingsluften tages fra opstillingsrummet, skal der etableres  
+
+ friskluftforsyning i henhold til Gasreglementets afsnit B-4.
+ 3.3.5. Rumventilationen for opstillingsrummet beregnes og udføres som  
+
+ angivet i Gasreglementets afsnit B-4, pkt. 4.3.
+ Der kan ses bort fra den installerede effekt til gasturbine, brændere og  
+
+ efterbrændere, når de omgives af en mekanisk ventileret indkapsling, og deres  
+
+ gasinstallation i opstillingsrummet alene udføres med svejsesamlinger.
+ Udføres rumventilationen som mekanisk ventilation, må den selv under de  
+
+ ugunstigste forhold ikke kunne skabe undertryk i opstillingsrummet i forhold  
+
+ til indkapslingen.
+ 3.3.6. Dersom opstillingsrummet er klassificeret som zone 2, må turbinens  
+
+ udstødningsrør eller andre dele uden for turbinekapslingen ikke have en  
+
+ overfladetemperatur højere end 200grader C.
+ Nedbringes overfladetemperaturen ved isolering, skal isoleringen forsynes  
+
+ med en diffusionstæt kappe, der er udført således, at de varme dele ikke kan  
+
+ fungere som tændkilde.
+ 3.3.7. Dersom opstillingsrummet klassificeres som zone 2, skal der i  
+
+ rummet opsættes et gasdetektorsystem.
+ Systemet skal opfylde kravene til zone 2 og være godkendt af SKAFOR eller  
+
+ have gennemgået anden af SKAFOR eller DGP godkendt afprøvning.
+ Detektorsystemet skal udløse alarm ved en gaskoncentration, der  
+
+ overskrider 10% LEL, og nødstop ved en koncentration, der overskrider 25%  
+
+ LEL.
+ 3.3.8. Omkring udmundingen uden for bygningen af udluftningsrør og  
+
+ ventilationskanaler fra gasturbineaggregatet klassificeres som zone 2 indtil  
+
+ en afstand af 3 m.
+ 3.3.9. Kravene til klassifikation og ventilation ved indendørs opstilling  
+
+ fremgår af tabel 3.3.9.
+ Tabel 3.3.9. P = maksimalt tilladeligt arbejdstryk, bar.
+4. Klassifikation og ventilation af turbinekapslingen 4.1. Naturligt ventileret indkapsling 4.1.1. Udføres turbineindkapslingen med naturlig ventilation, skal alle  
+
+ installationer under kappen mindst tilfredsstille kravene til zone 2.  
+
+ Gasturbineaggregatets overfladetemperaturer må intet sted overskride 200  
+
+ grader C.
+ Nedbringes overfladetemperaturen ved isolering, skal isoleringen forsynes  
+
+ med en diffusionstæt kappe, der er udført således, at de varme dele ikke kan  
+
+ fungere som tændkilde.
+ 4.1.2. Indkapslingen skal forsynes med ventilationsåbninger, der sikrer  
+
+ mindst 20 luftskifter pr. time, når turbinen er i drift.
+ Ventilationen kan normalt regnes for tilstrækkelig, når der er åbninger i  
+
+ væggene ved såvel gulv- som loftniveau.
+ Åbningernes højde skal være mindst 0,3 m.
+ Den samlede længde af åbninger skal såvel ved gulv som ved loft svare til  
+
+ mindst 50% af indkapslingens omkreds.
+ Åbningerne skal fortrinsvis placeres i modstående sider.
+ Udstyret under indkapslingen skal placeres således, at den naturlige  
+
+ ventilation ikke hindres.
+ Ventilationsåbningerne kan forsynes med brandspjæld, der udløses af  
+
+ brandslukningsudstyret (pkt. 7.6.).
+4.2. Mekanisk ventileret indkapsling 4.2.1. Udføres turbineindkapslingen med mekanisk ventilation, skal denne  
+
+ sikre et undertryk i kapslingen på mindst 0,5 mbar i forhold til  
+
+ opstillingsrummet.
+ 4.2.2. Rummet under turbinekapslingen skal ventileres med mindst 90  
+
+ luftskifter pr. time, såfremt overfladetemperaturen under drift på noget sted  
+
+ kan overskride 200grader C, eller der under kappen er placeret el-udstyr, der  
+
+ ikke mindst opfylder kravene til zone 2.
+ Nedbringes overfladetemperaturen ved isolering, skal isoleringen forsynes  
+
+ med diffusionstæt kappe, der er udføres således, at de varme dele ikke kan  
+
+ fungere som tændkilde.
+ Dersom ingen overfladetemperatur overskrider 200grader C, og al  
+
+ el-udrustning under kappen mindst opfylder kravene for zone 2, kan kravet til  
+
+ antal luftskifter under drift nedsættes til 20.
+ 4.2.3. Ventilatoren for turbineindkapslingen skal forblive i drift, dersom  
+
+ der spores gas under kapslingen jfr. 7.1 og 7.4.
+ De dele af ventilatoren, der befinder sig i luftstrømmen, skal derfor  
+
+ udføres af gnistsikre materialer.
+ Ligeledes skal el-udstyr, der befinder sig i luftstrømmen, mindst svare  
+
+ til kravene for zone 1.
+ 4.2.4. Ventilatoren skal kobles til gasturbinens styringssystem på en  
+
+ sådan måde, at fejl i gasturbinen eller dens styringssystem ikke kan medføre  
+
+ udkobling af ventilationen.
+ 4.2.5. Ventilatorens funktion skal kontrolleres som anført i GR-B-4.
+ Kontrollen skal omfatte såvel undertryk som antal af luftskifter.
+ Stop eller svigt af ventilationen skal udløse nødstop.
+ 4.2.6. Konstateret funktion af ventilationen af turbinekapslingen er en  
+
+ betingelse for, at nødafspærringsventilen kan åbnes.
+ 4.2.7. Ventilationen af turbinekapslingen skal fortsættes ubrudt efter  
+
+ turbinestop, indtil nødafspærringsventilen er lukket, og trykket i  
+
+ gasinstallationen er afblæst.
+ 4.2.8. Dersom gasturbinen er koblet til en el-generator, skal generatoren  
+
+ anbringes uden for turbinens indkapsling, eller i sin egen del af kapslingen,  
+
+ forsynet med eget ventilationssystem.
+ Alternativt kan det tillades, at el-generatoren befinder sig i samme rum  
+
+ som gasturbinen, dersom kravene i pkt. 4.2.2. opfyldes.
+ 4.2.9. Turbinens gasarmaturgruppe kan anbringes i et separat rum, der er  
+
+ forsynet med separat ventilationssystem, der opfylder kravene i pkt. 4.2.1.  
+
+ til 4.2.7.
+ Pkt. 4.2.6. og pkt. 4.2.7. er i dette tilfælde ikke gældende for  
+
+ turbinekapslingen, såfremt følgende vilkår er opfyldt:
+ - rummet skal være gastæt adskilt fra turbinekapslingen.
+ - alle mekaniske rørsamlinger under turbinekapslingen er trykløse, når  
+
+ gasarmaturgruppen er afspærret.
+ 4.2.10. Ventilationskanalerne for turbineindkapslingen skal forsynes med  
+
+ brandspjæld før og efter kapslingen.
+ Spjældene skal lukke automatisk ved udløsning af brandslukningsudstyret  
+
+ under kapslingen.
+ 4.2.11. Af hensyn til brandslukning må forbrændingsluft til turbinen ikke  
+
+ tages fra turbinekapslingen.
+5. Gasfremføring 5.1. Dersom stikledningens maksimale driftstryk er højere end det  
+
+ tilladelige driftstryk for gasinstallationen eller for  
+
+ gasturbineinstallationen, skal trykket reduceres ved hjælp af en  
+
+ regulatorstation.
+ Regulatorstationen skal opbygges af trykregulatorer og tryksikringer som  
+
+ angivet i GR-B-4. Fedtsmurte haner må ikke anvendes i gasforsyningen til  
+
+ gasturbiner.
+ 5.2. Dersom stikledningens maksimale driftstryk er højere end 4 bar, skal  
+
+ de i pkt. 5.1. nævnte regulatorstation placeres uden for bygningen.
+ 5.3. Ved dimensionering af gasforsyningssystemet og udvælgelse af  
+
+ komponenter for regulatorstationen skal det iagttages, at turbinens  
+
+ gasforbrug kan veksle meget hurtigt.
+ Det skal således bl.a. sikres, at trykket i gasinstallationen ikke  
+
+ overskrider det maksimalt tilladelige driftstryk under hurtiglukning eller  
+
+ nødstop af turbinen.
+5.4. Gasturbineleverandøren skal gøres bekendt med projektet for turbinens  
+
+ gasforsyning.
+Han skal skriftligt bekræfte, at den planlagte gasinstallation  
+
+ er egnet for turbinen og dens regulerings- og sikringsudstyr.
+ Ved denne vurdering skal han tage hensyn til gaskvalitet, filtreringsgrad,  
+
+ samt variationer i gastrykket, der kan opstå på grund af gasinstallationens  
+
+ dynamik og reaktionstider.
+ 5.5. Uden for bygningen skal der i stikledningen installeres en manuelt  
+
+ betjent hovedhane og en automatisk nødafspærringsventil af typen »fejl  
+
+ lukke«.
+ Hovedhanen skal anbringes som angivet i GR-B-4.
+ Dersom nødafspærringsventilen er egnet for manuel betjening og er anbragt  
+
+ som angivet i GR-B-4, kan den separate hovedhane udelades.
+ 5.6. Mellem den i pkt. 5.5. nævnte nødafspærringsventil og husindføringen  
+
+ skal der installeres en automatisk virkende nødafblæsningsventil, der kan  
+
+ afblæse trykket mellem nødafspærringsventilen og gasturbinen.
+ 5.7. Dersom der i bygningen installeres flere gasturbiner, skal hver  
+
+ turbine have separat husindføring, nødafspærringsventil og  
+
+ nødafblæsningsventil.
+ 5.8. Ved tilrettelæggelse af stopprocedurer skal der skelnes mellem  
+
+ planlagt nedlukning, hurtiglukning og nødstop således, at gasfremføringen  
+
+ afbrydes som angivet i tabel 5.8.
+Tabel 5.8. Stopprocedurer 5.9. Såfremt opstillingerummet ikke er klassificeret som zone 1 eller zone  
+
+ 2, og installationstrykket er højere end 4 bar, skal husindføringen ske over  
+
+ terræn.
+ Alternativt kan indføring ske gennem bygningens sokkel, dersom  
+
+ rørledningen på begge sider af soklen er placeret i åben og drænet grav.
+ Den isolerende samling for den katodiske beskyttelse skal i begge tilfælde  
+
+ anbringes uden for bygningen.
+ Anbringes adskillelsen mindre end 50 cm over terræn, skal den være i  
+
+ vandtæt udførelse.
+ 5.10. Gasinstallationen skal dimensioneres, udføres og afprøves i  
+
+ overensstemmelse med GR-B-4, dersom det maksimalt tilladelige driftstryk ikke  
+
+ overskrider 16 bar.
+ Gasinstallationer for højere tryk dimensioneres, udføres og afprøves i  
+
+ overensstemmelse med en af følgende standarder:
+- DS 458 - DIN 2413 - ANSI B31.2, ANSI B31.3 eller anden norm, der kan acepters af Direktoratet for Arbejdstilsynet.
+6. Gasarmaturgruppe og flammekontrol 6.1. Turbinens gasarmaturgruppe skal placeres med henblik på at begrænse  
+
+ rørvolumenet mellem armaturgruppen og gasturbinens brændkammermanifold.
+ Er opstillingsrummet uklassificeret, skal gasarmaturgruppen placeres inden  
+
+ for turbinekapslingen eller i et separat rum som beskrevet i pkt. 4.2.9.
+ 6.2. Gasarmaturgruppen skal mindst indeholde følgende komponenter:
+- manuel afspærringsventil - signalflange - filter (jfr. 6.4) - 2 gaslukkeventiler (jfr. 6.5) - trykafblæsning og trykovervågningsarrangement (jfr. 6.6) - gasreguleringsventil (jfr. 6.8) - forbindelse til brændkammermanifolden (jfr. 6.9).
+ Komponenterne i gasarmaturgruppen skal være dokumenteret egnede til  
+
+ formålet.
+ Der skal især tages hensyn til varmepåvirkning og mekanisk  
+
+ svingningspåvirkning, som komponenterne kan blive udsat for.
+ Komponenterne i gasarmaturgruppen kan være mekanisk sammenbyggede, men  
+
+ deres funktioner skal være mekanisk uafhængige.
+ 6.3. Regulering af gastrykket til turbinens tilslutningstryk skal ske  
+
+ inden husindføringen, hvis stikledningens driftstryk er højere end 4 bar.
+ 6.4. Filtret skal være tilstrækkeligt til at sikre en for armaturgruppen  
+
+ og turbinen nødvendig renhed af gassen.
+ Filtret skal være forsynet med et lokalt manometer samt ventil for manuel  
+
+ trykafblæsning.
+ Trykafblæsningen skal være fast tilsluttet et udluftningsrør, der føres ud  
+
+ af bygningen.
+ Udluftningsrøret må ikke forsynes med andre ventiler.
+ Udføres filtret med et væskedræn, skal drænet forsynes såvel med manuel  
+
+ afspærringsventil som med blindflange.
+6.5. Gaslukkeventilerne a.
+De 2 gaslukkeventiler anbringes i serie.
+ Ventilerne skal være i overensstemmelse med DIN 3394, del 2, klasse A  
+
+ eller tilsvarende standard.
+b.
+Gaslukkeventilerne kobles til styresystemet således, at der opnås  
+
+ følgende funktioner:
+- Ventilerne må først åbne, når det under startproceduren er kontrolleret,  
+
+ at * indkapslingen er tilstrækkeligt ventileret, * udstødningssystemet er tilstrækkeligt gennemluftet, * lufttilførslen til brændkamrene er tilstrækkelig til en sikker  
+
+ forbrænding af startgasmængden, * flammesignal ikke afgives i forbindelse med styringssystemets  
+
+ egenkontrol, * tænding er etableret.
+ - Ventilerne skal afspærre gasstrømmen:
+* under normale nedlukningsprocedurer inden kompressorens omdrejningstal  
+
+ bliver for lavt til at sikre forbrændingen, * ved begyndelsen af enhver hurtiglukning eller nødstop c.
+Gaslukkeventilernes tæthed skal kunne afprøves i forbindelse med  
+
+ vedligeholdelse af installationen.
+d.
+Gaslukkeventilerne skal være forsynet med aktuatorer af typen  
+
+ »fejl-lukke«.
+ Gaslukkeventilernes funktion skal kontrolleres med stillingskontakter, der  
+
+ angiver ventilstillingen til styresystemet og til indikatorer i  
+
+ kontrolpulten, og/eller automatisk tæthedskontrol.
+ Dersom ventilernes aktuatorer er pneumatisk eller hydraulisk betjente,  
+
+ skal hver aktuator have separat styreledning og pilotventil.
+ 6.6. Gasvolumenet mellem de 2 gaslukkeventiler skal ved ethvert  
+
+ turbinestop gøres trykfrit ved afblæsning.
+ Trykafblæsningen skal ske ved en automatisk virkende ventil, der er koblet  
+
+ til styringen for gaslukkeventilerne.
+ Ventilens funktion skal være »fejl-åbne«.
+ Udluftningsrøret fra trykafblæsningsventilen skal føres ud af bygningen.
+ Udluftningsrøret må ikke forsynes med andre ventiler.
+ 6.7. Trykket i gastilledningen skal overvåges af en pressostat, der  
+
+ medfører hurtiglukning, dersom trykket under normal drift er uden for de for  
+
+ turbinen sikre grænser.
+ 6.8. Gasreguleringsventilen skal under turbinens drift kunne sikre hurtig  
+
+ og stabil regulering af gastilførslen i hele turbinens belastningsområde.
+ Gasreguleringsventilen skal være forsynet med en forindstilling, der  
+
+ sikrer korrekt gasmængde i tændingsøjeblikket, når gasgennemstrømningen  
+
+ frigives af gaslukkeventilerne.
+ Gasmængden skal i hele sikkerhedstiden svare til et lufttal  
+
+ (luftoverskudskoefficient) på mindst 3.
+ 6.9. Forbindelsen mellem gasarmaturgruppen og brændkammermanifolden kan  
+
+ udføres som en fleksibel forbindelse.
+ 6.10.  krav til flammeovervågningssystemet og sikkerhedstider er  
+
+ følgende:
+a.
+Gasturbinen skal være udstyret med et egnet flammeovervågningssystem,  
+
+ som entydigt detekterer og giver styringssystemet signal om flammens  
+
+ tilstedeværelse.
+ Flammeovervågningen skal være omfattet af styringssystemets egenkontrol i  
+
+ forbindelse med hvert startforløb.
+ Således skal styringssystemet kontrollere, at der ikke afgives  
+
+ flammesignal, når der ikke er flamme til stede.
+ Egenkontrollen skal udføres så sent som praktisk muligt inden tænding, og  
+
+ for flammesensorer med udladningsrør skal disse samtidigt afprøves for  
+
+ ældning ved min. 15% overspænding.
+b.
+Ved flammesvigt under start eller under drift skal styringssystemet  
+
+ udløse hurtiglukning for gasturbinen samt sikkerheds- eller fejludkobling af  
+
+ eventuel efterbrænder.
+ Hvis der afgives flammesignal i forbindelse med styringssystemets  
+
+ egenkontrol under start, skal styringssystemet afbryde startforløbet.
+c.
+Ved kontinuert drift med driftsperioder af længere varighed end 24  
+
+ timer skal flammedetekteringsudstyret være selvovervågende.
+ Fejl skal medføre hurtiglukning eller planlagt nedlukning.
+d.
+Sikkerhedstiden under drift er maks. 1 sek. med tillæg af 1 sek. for  
+
+ selvovervågende flammedetektorer af hensyn til systemets interne kontrol.
+e.
+Sikkerhedstiden ved start skal være så kort som mulig og højst 20 sek.
+7. Brand- og gasdetektering, brandslukning 7.1. Krav til detektorer og slukningsudstyr i opstillingsrummet og øvrige  
+
+ rum i bygningen samt placering af manuelle nødstop fastsættes af  
+
+ brandmyndigheden.
+ Systemerne for brand- og gasdetektering samt brandslukning skal godkendes  
+
+ af brandmyndigheden.
+ Brandmyndigheden skal endvidere godkende forskrifterne for vedligeholdelse  
+
+ og afprøvning af udstyret.
+ Brandmyndigheden kan stille skærpede krav til udstyrets omfang og  
+
+ installation.
+ 7.2. Gasturbineaggregater, der opstilles under turbineindkapsling, skal  
+
+ overvåges af såvel branddetektorer som gasdetektorer.
+ Detektorsystemerne skal være i drift, når gasinstallationen er under  
+
+ gastryk.
+ Alarmer fra detektorsystemerne skal indikeres på turbinekapslingen med  
+
+ tydelige alarmlamper.
+ Alarmer fra detektorsystemerne skal desuden overføres til et bemandet  
+
+ kontrolrum eller en bemandet vagtcentral, hvorfra betjeningspersonale kan  
+
+ tilkaldes.
+ 7.3. Brand- og gasdetektorer samt brandslukningsudstyr skal kunne fungere  
+
+ under afbrydelser af strømforsyningen fra det offentlige net.
+ 7.4. Gasdetektorernes antal og placering skal vælges således, at hele  
+
+ turbineaggregatet er overvåget.
+ Antallet af detektorer skal mindst være 2. Hvis turbineaggregatet er  
+
+ anbragt i en kapsling, der er delt i flere rum, skal der installeres mindst 2  
+
+ detektorer i hvert rum.
+ Dersom turbineindkapslingen er mekanisk ventileret, skal den ene detektor  
+
+ placeres i afkastet for ventilationsluft fra indkapslingen.
+ Detektorernes placering skal vælges således, at signalafgivelsen ikke  
+
+ påvirkes af store lufthastigheder eller varmestråling.
+ Gasdetektorerne skal være justeret således, at de udløser alarm ved højst  
+
+ 10% LEL.
+ Ved højst 25% LEL skal de udløse nødstop.
+ Ventilationen af turbinekapslingen må ikke afbrydes under gasalarm.
+ Gasdetektorsystemer skal være godkendt af SKAFOR eller have gennemgået  
+
+ anden af SKAFOR eller DGP godkendt afprøvning.
+ Detektorerne skal opfylde kravene til klassificering af el-udstyr under  
+
+ turbinekapslingen.
+ 7.5. Branddetektorer skal være af UV-typen.
+ Detektorantallet og detektorplaceringen skal vælges således, at hele  
+
+ turbineaggregatet er overvåget.
+ Hvis turbineaggregatet er anbragt i en kapsling, der er delt i flere rum,  
+
+ skal der installeres branddetektorer i hvert rum.
+ Signal fra en detektor i systemet skal udløse nødstop.
+ Branddetektorsystemet skal være SKAFOR-godkendt og opfylde kravene til  
+
+ klassificering af el-udstyr under turbinekapslingen.
+ 7.6. Turbineindkapslingen skal være forsynet med fast tilsluttet  
+
+ brandslukningsudstyr efter brandmyndighedens nærmere godkendelse.
+ Det er en betingelse for ubemandet drift, at slukningsudstyret udløses  
+
+ automatisk ved branddetektering.
+ Automatisk udløsning skal normalt ske ved signal fra en af de installerede  
+
+ detektorer i systemet.
+ Dersom der i et rum er installeret to eller flere detektorer, kan det  
+
+ tillades, at brandslukningsudstyret først udløses ved signal fra to  
+
+ detektorer i rummet, såfremt de overvåger samme område.
+ Det skal være muligt at udløse brandslukningsudstyret manuelt.
+ Den automatiske udløsning af slukningsudstyret skal blokeres, når  
+
+ personale opholder sig inden for turbinekapslingen.
+ Det skal ved tydelig skiltning tilkendegives, når slukningsudstyret er  
+
+ blokeret.
+Mekanisk ventilerede indkapslinger skal forsynes med brandspjæld, der  
+
+ afbryder ventilationen, inden brandslukningsudstyret udløses.
+Som  
+
+ slukningsmiddel kan anvendes inaktive luftarter (eller halon).
+ For naturligt ventilerede indkapslinger, hvor ventilationsåbningerne ikke  
+
+ kan lukkes af automatiske brandspjæld, skal der ved dimensionering af  
+
+ slukningsanlægget tages hensyn hertil.
+ Ved andre typer indkapslinger kan desuden anvendes inaktive luftarter  
+
+ (eller halon).
+ Det skal tydeligt tilkendegives, såvel i kontrolpulten som på  
+
+ indkapslingen, når brandslukningsudstyret er udløst.
+8. Udstødssystem og udstødskedler 8.1. Udstødssystemet, inklusive udstødskedler, skal være konstrueret  
+
+ således, at det er egnet til de aktuelle driftsforhold, herunder de  
+
+ forekommende temperaturer og temperaturskift under start, drift og nødstop.
+ Ved valg af materialer til udstødssystemet skal der tages hensyn til, at  
+
+ turbinens forbrænding kan ske ved et højt luftoverskud.
+ 8.2. Skorstensdimensioneringen og emissionsberegninger udføres som  
+
+ beskrevet i Gasreglementets afsnit B-4.
+ Beregningerne skal forelægges miljømyndighederne til godkendelse som nævnt  
+
+ i afsnittets pkt. 5.1.4.
+ 8.3. Under turbinens startprocedure skal udstødningssystemet gennemskylles  
+
+ med mindst 5 luftskifter, inden gaslukkeventilerne må kunne frigøres til  
+
+ åbning.
+ Dersom startforløbet afbrydes, inden belastning af turbinen er opnået,  
+
+ skal det sikres, at gennemskylningen gentages inden næste startforsøg.
+ Luftskifterne beregnes på grundlag af det geometriske volumen af  
+
+ udstødssystemet mellem aggregatets kraftturbine og skorstenstilslutningen.
+ Kan 5 luftskifter ikke opnås på grund af store volumener i  
+
+ udstødssystemet, kan DGP tillade mindre skylleluftmængder.
+ En sådan tilladelse vil kræve dokumentation for, at der under  
+
+ startproceduren ikke umiddelbart efter kraftturbinen kan opstå temperaturer,  
+
+ der giver mulighed for antændelse af en gasblanding.
+ Denne maksimale temperatur kan f.eks. sikres ved en blokering af  
+
+ gaskontrolventilens åbningsvandring.
+ Blokeringen må først ophæves, når udstødningssystemet er tilstrækkeligt  
+
+ gennemluftet med udstødsgas af lav temperatur.
+ 8.4. Udstødskedler skal betragtes som direkte fyrede kedler.
+ De skal opfylde Arbejdstilsynets krav til kedelanlæg.
+ 8.5. Udstødskedlens sikkerhedsautomatik skal indgå i styringen af  
+
+ brændstoftilførslen til gasturbinen og eventuelle efterbrændere.
+ 8.6. Lækager fra udstødskedlens vandside må ikke kunne medføre uønsket  
+
+ overtryk i udstødsssystemet.
+ Anlægget skal derfor forsynes med et detekteringssystem for vandlækage til  
+
+ udstødssystemet eller trykovervågning af dette.
+ Sikringen skal kobles til anlæggets sikkerhedsautomatik således, at  
+
+ anlægget stoppes, inden der opstår en kritisk driftstilstand.
+9. Efterbrændere 9.1. Efterbrændere, hvis installationstryk ikke overskrider 4 bar, kan installeres og gasforsynes som beskrevet i Gasreglementets  
+
+ afsnit B-4.
+ For efterbrændere med installationstryk højere end 4 bar gælder samme krav  
+
+ til indkapsling, ventilation, klassifikation, gasforsyning, husindføring og  
+
+ automatisk hovedafspærring som for gasturbineinstallationer.
+ Efterbrænderens gasrampe skal ligeledes placeres under indkapslingen,  
+
+ dersom installationstrykket er højere end 4 bar.
+ 9.2. Konstruktion og materialevalg for efterbrænderen skal være  
+
+ dokumenteret egnet for de mekaniske og termiske påvirkninger, der kan  
+
+ forekomme i turbinens udstødssystem.
+ 9.3. Efterbrænderens konstruktion og instrumentering skal opfylde kravene  
+
+ i Gasreglementets afsnit C-1008 eller tilsvarende anerkendt norm i den  
+
+ udstrækning, disse krav er relevante for konstruktionen.
+ Således skal kravene til flammesikring samt gaslukkeventiler og deres  
+
+ tæthedsprøvning opfyldes.
+ Såfremt flammesikringen er opbygget af UV-celler, skal det sikres, at der  
+
+ ikke kan detekteres falsk flammesignal fra turbinens brændkamre.
+ 9.4. Reguleringen af gastilførslen til efterbrænderen skal være koblet til  
+
+ belastningsreguleringen for gasturbinen.
+ Det skal herved sikres, at brænderen aldrig tilføres større gasmængde, end  
+
+ svarende til luftoverskudet i turbinens røggas.
+ Ved indregulering af gastilførslen skal det sikres, at forbrændingen  
+
+ forløber fuldstændigt, og at kravene i Gasreglementets afsnit B-4, er  
+
+ opfyldt.
+ Indreguleringen skal tage hensyn til, at ændringer i turbinens  
+
+ luftoverskud på grund af den roterende masse er forsinkede i forhold til  
+
+ ændringer i den til turbinen tilførte gasmængde.
+ 9.5. Under turbinestart må gas ikke kunne frigives til efterbrænderen, før  
+
+ en stabil belastningstilstand er nået, og eventuelle spjæld mod  
+
+ hjælpeskorsten eller by-pass for udstødskedlen er lukkede.
+ 9.6. Ved starten af enhver stopprocedure for gasturbinen skal  
+
+ gastilførslen til efterbrænderen afbrydes.
+ 9.7. Efterbrændere, der udstyres med et system for tilførsel af frisk  
+
+ forbrændingsluft, skal yderligere opfylde følgende krav:
+- under stilstand af efterbrænderen skal det sikres, at  
+
+ forbrændingsprodukter fra turbinen ikke kan trænge tilbage gennem  
+
+ efterbræderens forbrændingssystem, - under stilstand af gasturbinen skal det sikres, at forbrændingsprodukter  
+
+ fra efterbrænderen ikke kan trænge tilbage gennem gasturbinen.
+10. Strømforsyning af anlægget 10.1. Dersom funktionen af gasturbinens sikkerhedssystem eller  
+
+ hjælpeudstyr er afhængig af den offentlige strømforsyning eller andet  
+
+ eksternt el-net, skal nødstop af turbinen udløses direkte, dersom denne  
+
+ strømforsyning svigter eller udkobles.
+ 10.2. Dersom gasturbinen er koblet til en el-generator, der leverer strøm  
+
+ til den offentlige strømforsyning eller andet eksternt el-net, kan driften af  
+
+ turbinen og hjælpeudstyret fortsættes ved egen el-produktion, selv om  
+
+ forbindelsen til det ydre el-net svigter eller udkobles.
+ Det skal dog sikres, at turbinens reguleringsudstyr tillader stabil  
+
+ regulering ved den reducerede belastning.
+ 10.3. Gasturbinens ventilationssystem skal uden afbrydelse kunne fortsætte  
+
+ driften efter nødstop, også selv om det skyldes svigt i den normale  
+
+ strømforsyning.
+ Disse systemer skal derfor sikres ved nødstrømforsyning.
+ Som grundlag for dimensionering af batteriinstallationen skal de  
+
+ nødvendige effekter og kapaciteter oplyses af leverandøren af  
+
+ gasturbineinstallationen.
+ Nødstrømforsyning til ventilationssystemet kan udelades, såfremt det ved  
+
+ beregning kan godtgøres, at en gaslækage under turbineindkapslingen ikke kan  
+
+ frembringe en gaskoncentration højere end 50% LEL i tidsrummet fra  
+
+ strømsvigtet til trykket i gasfremføringen er afblæst.
+ Beregningen skal forudse en lækage af en størrelse, der netop kan  
+
+ forekomme udetekteret under turbinens normale ventilationsforhold.
+ 10.4. Strømforsyningen til brand- og gasdetekteringssystemerne skal være  
+
+ sikret af nødbatterier.
+ 10.5. Krav til opstillingsrum for nødbatterier, herunder ventilation af  
+
+ sådanne rum, fastsættes af brandmyndigheden efter vurdering af batteritype,  
+
+ kapacitet og ladeeffekt.
+11. Styrings- og sikkerhedsautomatik 11.1. Gasturbineinstallationer skal omfatte automatiske systemer for  
+
+ styring og sikkerhedsovervågning af installationen.
+ For de automatiske systemer skal der foreligge en beskrivelse af  
+
+ systemernes sikkerhedstekniske idegrundlag og en funktionsspecifikation, som  
+
+ gør rede for systemernes evne til at håndtere kritiske fejl og  
+
+ driftssituationer.
+ Beskrivelsen skal bl.a. omfatte:
+- for styringsautomatikken: et logikdiagram for styringsfunktionerne  
+
+ vedrørende start- og stoppeprocedurer, - for sikkerhedsautomatikken: et »årsag/virkning'skema.
+ De kritiske parametre skal vurderes i forhold til turbinens konstruktion,  
+
+ installation og bemandingsforhold.
+ De kritiske parametre skal specificeres af leverandøren(-erne) sammen med  
+
+ en redegørelse for konsekvensen af en kritisk situation.
+ Den udløste stopprocedure skal medføre, at anlægget går i en sikker  
+
+ tilstand på en sikker måde.
+ Den udløste stopprocedure skal omfatte de i tabel 5.8. nævnte situationer.
+ 11.3. Sikkerhedsautomatikken skal mindst omfatte overvågning af:
+- skylletider for systemet før enhver start, herunder genstart, - flammeovervågningens funktion og sikkerhedstider for såvel gasturbine  
+
+ som efterbrændere, - gasturbinens omløbstal, - kritiske spjældstillinger, - ventilation af turbinekapslingen, - gasdetektering, - branddetektering, - alle øvrige kritiske parametre.
+ 11.4 Styrings- og sikkerhedsautomatikken skal være konstrueret således, at  
+
+ mulige enkeltfejl i automatikken, evt. i forbindelse med passive fejl  
+
+ (ikke-detekterede fejl), ikke fører til en kritisk situation.
+ Der henvises til f.eks DIN-VDE O116 eller tilsvarende.
+12. Ikrafttrædelse og overgangsbestemmelser 12.1. Disse forskrifter træder i kraft den 1. september 1991.
+ 12.2. DGP kan fastsætte fornødne overgangsbestemmelser for anlæg, der  
+
+ efter 1. september 1991 allerede er projekteret og/eller under udførelse.

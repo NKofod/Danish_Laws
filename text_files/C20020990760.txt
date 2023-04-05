@@ -1,0 +1,3643 @@
+Vejledning om ISAG  Informationssystem for Affald og  
+
+ Genanvendelse Indhold 1 BAGGRUND 1.1 BEKENDTGØRELSEN 1.2 VEJLEDNINGEN 1.3 FORMÅL OG MÅLGRUPPE 1.4 VEJLEDNINGENS OPBYGNING 2 PRAKTISK VEJLEDNING TIL ISAG 2.1 HVAD ER ISAG? 2.2 HVORFOR  
+
+ ISAG? 2.3 HVEM SKAL REGISTRERE OG  
+
+ INDBERETTE 2.4 ØVRIGE REGISTRERINGS- OG  
+
+ INDBERETNINGSKRAV 2.5 DISPENSATION 2.6 HVAD SKAL REGISTRERES OG  
+
+ INDBERETTES? 2.7 HVORNÅR SKAL INDBERETTES? 2.8 HVORDAN SKAL MAN  
+
+ INDBERETTE? 2.8.1 PC- programmet ISAG 2.8.2 PC-programmet STANDAT 3 TEKNISK VEJLEDNING TIL ISAG 3.1 INDFØRELSE AF ISAG 3.2 REGISTRERING 3.3 FRAFØRSEL OG EKSPORT AF  
+
+ AFFALD 3.4 INTERN FLYTNING 3.5 ENKELTREGISTRERINGER OG  
+
+ SAMMENTÆLLINGER 3.6 STANDAT-FILER TIL  
+
+ INDBERETNING Bilag A:
+Definitioner Bilag B:
+Virksomheder, der skal  
+
+ anmelde sig, registrere oplysninger og indberette til ISAG Bilag C:
+STANDAT-filer Bilag D:
+Kommuner Bilag E:
+Kodelister Bilag F:
+Erhvervsmæssige kilder Bilag G:
+Kombinationslister 1 Baggrund 1.1 Bekendtgørelsen Bekendtgørelsen om affald,  
+
+ bekendtgørelse nr. 619 af 27. juni 2000, omfatter håndtering af affald, der  
+
+ ikke er reguleret af anden lovgivning samt deklarering, anmeldelse,  
+
+ planlægning  
+
+ og registrering.
+Specifikt undtaget er håndtering af restprodukter fra  
+
+ røggasrensning på kraftværker baserede på fossile brændsler.
+Bekendtgørelsen  
+
+ indeholder en række bestemmelser om affaldsplanlægning, om håndtering af  
+
+ affald  
+
+ og om registrering og indberetning af oplysninger om affald.
+I forhold til tidligere  
+
+ bekendtgørelser er der sket en række ændringer, hvad angår registrering og  
+
+ indberetning af oplysninger til ISAG.
+De væsentligste ændringer er:
+ -  
+
+ 	  
+
+ Listen over  
+
+ virksomheder, der skal registrere og/eller indberette oplysninger til ISAG,  
+
+ er  
+
+ blevet udvidet.
+ -  
+
+ 	  
+
+ Angivelse af  
+
+ geografisk kilde er nu også obligatorisk i forbindelse med oparbejdning af  
+
+ affald.
+ -  
+
+ 	  
+
+ Erhvervsmæssige  
+
+ kilde  
+
+  
+
+ fremstillingsvirksomhed  
+
+  
+
+ er  
+
+ blevet yderligere opdelt.
+ -  
+
+ 	  
+
+ Midlertidig  
+
+ oplagring er blevet en selvstændig behandlingsform.
+ -  
+
+ 	  
+
+ Der skal registreres  
+
+ affaldstransportør for alle læs.
+-  
+
+ 	  
+
+ Anvendelse af  
+
+ affaldsfraktion niveau 2 er obligatorisk for visse affaldsfraktioner.
+En del  
+
+ af  
+
+ de tidligere niveau 1 affaldsfraktioner er flyttet til niveau 2.
+ -  
+
+ 	  
+
+ Blandede læs  
+
+ skal  
+
+ registreres separat på geografisk  
+
+ kilde, erhvervsmæssig kilde og affaldstyper.
+-  
+
+ 	  
+
+ Indvejning af affald  
+
+ fra containerpladser, genbrugspladser, omlastestationer mv. skal angive  
+
+ fordelingen af affaldet på geografisk kilde og affaldstype.
+Fordelingen kan  
+
+ f.eks. ske i henhold til et fordelingskort.
+ -  
+
+ 	  
+
+ Indberetninger fra  
+
+ forbrændingsanlæg og deponeringsanlæg skal indeholde visse anlægsoplysninger.
+ -  
+
+ 	  
+
+ Formatet for  
+
+ STANDAT-filerne er justeret tilsvarende.
+1.2 Vejledningen Vejledningen dækker  
+
+ bekendtgørelsens kapitel 4 om  
+
+  
+
+ Anmeldelse,  
+
+ registrering og indberetning af data om affald til Informationssystem for  
+
+ Affald og Genanvendelse (ISAG). Vejledningen fokuserer på de krav, der  
+
+ stilles til  
+
+  
+
+ Affaldsbehandlere  
+
+  
+
+ , altså  
+
+ virksomheder, der behandler affald ved oparbejdning, forbrænding, deponering,  
+
+ særlig behandling mv.
+ Vejledningen afløser  
+
+ Vejledning nr. 9, 1993 Anvendelse af ISAG på virksomheder, der bortskaffer  
+
+ affald.
+Miljøstyrelsen har udviklet  
+
+ et PC program, der kan anvendes til registrering og indberetning af  
+
+ oplysninger  
+
+ til ISAG.
+Programmet udsendes til alle de virksomheder, der er registreret i  
+
+ ISAG.
+Forgængeren for denne  
+
+ vejledning indeholdt en brugsanvisning til dette program.
+Da programmet  
+
+ opdateres jævnligt, er brugsanvisningen nu udeladt fra vejledningen.
+I stedet  
+
+ kan programmet og den tilhørende dokumentation rekvireres i Miljøstyrelsen.  
+
+ Se  
+
+ afsnit 2.8.1 om henvendelse til Miljøstyrelsen.
+1.3 Formål og målgruppe Formålet med vejledningen er  
+
+ at lette arbejdet med registrering og indberetning af oplysninger til ISAG.  
+
+ Vejledningen henvender sig til beslutningstagere på affaldsbehandlingsanlæg,  
+
+ til de teknikere, der skal forestå registrering og indberetning, samt til  
+
+ programmører, der udarbejder software til vejesystemer.
+1.4 Vejledningens opbygning Vejledningen indeholder:
+ -  
+
+ 	  
+
+ En praktisk  
+
+ vejledning om registrering og indberetning til ISAG, der især henvender sig  
+
+ til  
+
+ beslutningstagere og teknikere, der foretager registrering og indberetning.
+ -  
+
+ 	  
+
+ En teknisk  
+
+ vejledning om registrering og indberetning til ISAG, der især henvender sig  
+
+ til  
+
+ programmører mv.
+ Den praktiske vejledning  
+
+  
+
+ beskriver:
+-  
+
+ 	  
+
+ Hvem er omfattet af  
+
+ bestemmelserne -  
+
+ 	  
+
+ Hvordan skal man  
+
+ anmelde sig -  
+
+ 	  
+
+ Hvornår skal man  
+
+ indberette -  
+
+ 	  
+
+ En række eksempler  
+
+ på registreringer -  
+
+ 	  
+
+ Forskellige metoder  
+
+ til indberetning -  
+
+ 	  
+
+ Dispensationsmuligheder  
+
+ mv.
+ Den tekniske vejledning  
+
+  
+
+ beskriver :
+-  
+
+ 	  
+
+ ISAG terminologien -  
+
+ 	  
+
+ Tekniske krav til  
+
+ indberetningen -  
+
+ 	  
+
+ Eksempler på  
+
+ indberetninger Bilag B i vejledningen  
+
+ indeholder hjælp til at afgøre, om en given virksomhed er omfattet af  
+
+ bestemmelserne  
+
+ om registrering og indberetning til ISAG.
+ Bemærk, at bekendtgørelsens  
+
+ bilag 7 anfører, at virksomheder, der i produktionen anvender affald,  
+
+ herunder  
+
+ genanvendelige materialer, som ikke er registreret på et behandlingsanlæg,  
+
+ kun  
+
+ er registreringspligtige i henhold til ISAG.
+ I denne del af vejledningen  
+
+ gennemgås en række praktiske forhold omkring anmeldelse til Miljøstyrelsen og  
+
+ registrering og indberetning af oplysninger.
+2.1 Hvad er ISAG? ISAG bygger på, at danske  
+
+ affaldsbehandlingsanlæg skal registrere og indberette en række oplysninger om  
+
+ alt affald, der vejes ind på eller ud fra anlæggene.
+Oplysningerne om det  
+
+ foregående år skal indberettes til Miljøstyrelsen hvert år inden udgangen af  
+
+ januar.
+ For at undgå  
+
+ dobbeltregistrering af affald, er det vigtigt, at skelne mellem affald, der  
+
+ kommer fra  
+
+  
+
+ direkte kilder  
+
+  
+
+ og affald,  
+
+ der kommer fra  
+
+  
+
+ anlægs kilder.  
+
+ Princippet for registreringer i ISAG fremgår af figuren nedenfor.
+Miljøstyrelsen foretager en  
+
+ kvalitetssikring af de indkomne oplysninger og supplerer dem med oplysninger  
+
+ fra brancheorganisationer og andre kilder.
+Miljøstyrelsen udarbejder hvert år  
+
+ publikationen Affaldsstatistik som indeholder en oversigt over affaldsmængder  
+
+ og affaldssammensætning i Danmark.
+ Endvidere opgøres det, hvor  
+
+ stor en andel af affaldet, der er blevet genanvendt, forbrændt og deponeret.  
+
+ Oplysningerne fordeles på erhvervsmæssige kilder og affaldstyper.
+2.2 Hvorfor  
+
+ ISAG? ISAG er blevet udviklet for  
+
+ at dække en række behov for affaldsdata i Miljøstyrelsen og i landets  
+
+ kommuner  
+
+ til:
+-  
+
+ 	  
+
+ Kortlægning og  
+
+ affaldsplanlægning -  
+
+ 	  
+
+ Overvågning af  
+
+ effekten af tiltag på affaldsområdet -  
+
+ 	  
+
+ Indrapportering til  
+
+ EU m.fl.
+Det er nødvendigt med en  
+
+ veldefineret terminologi, der kan give systematiske og ensartede  
+
+ indberetninger  
+
+ fra år til år.
+Siden introduktionen af ISAG i 1993 er der sket en række  
+
+ justeringer, men hovedprincipperne er uændret.
+2.3 Hvem skal registrere og indberette Anmeldelse, registrering og indberetning Bekendtgørelsen pålægger i  
+
+ §§ 15, 16 og 17 en række virksomheder i affalds- og genvindingsbranchen at  
+
+ anmelde sig, registrere og indberette en række oplysninger til Miljøstyrelsen  
+
+ om det affald, de behandler.
+Bilag B beskriver de  
+
+ virksomheder, der er omfattet.
+Beskrivelsen er opsummeret i følgende liste:
+-  
+
+ 	  
+
+ Virksomheder, som er  
+
+ registreringspligtige i medfør af lov om afgift af affald og råstoffer, dvs.  
+
+ virksomheder, der driver forbrændings- og/eller deponeringsanlæg -  
+
+ 	  
+
+  
+
+ Virksomheder, som erhvervsmæssigt oparbejder  
+
+  
+
+ :
+-  
+
+ 	  
+
+ papir og pap -  
+
+ 	  
+
+ ikke-pantbelagte  
+
+ flasker og glas -  
+
+ 	  
+
+ plast -  
+
+ 	  
+
+ madaffald fra storkøkkener -  
+
+ 	  
+
+ organisk affald -  
+
+ 	  
+
+ jern og metal -  
+
+ 	  
+
+ autogummi -  
+
+ 	  
+
+ asfalt -  
+
+ 	  
+
+ bygge- og  
+
+ anlægsaffald (herunder mobile knuseanlæg) -  
+
+ 	  
+
+ olie- og  
+
+ kemikalieaffald -  
+
+ 	  
+
+ Behandlingsanlæg for  
+
+ forurenet jord -  
+
+ 	  
+
+ Virksomheder, der  
+
+ erhvervsmæssigt sorterer, oparbejder eller separerer indsamlede og  
+
+ kildesorterede  
+
+ elektriske og elektroniske produkter.
+Hvordan anmelder man sig? Anmeldelse til  
+
+ Miljøstyrelsen i henhold til §15 sker ved at sende et brev til:
+ISAG- sekretariatet  
+
+  
+
+ Miljøstyrelsen  
+
+  
+
+ Strandgade 29  
+
+  
+
+ 1401 København K eller via mail til:
+ISAG- sekretariatet  
+
+  
+
+ Miljøstyrelsen  
+
+  
+
+ isag@mst.dk med følgende oplysninger:
+ -  
+
+ 	  
+
+ Overskrift:  
+
+ Vedrørende ISAG.
+-  
+
+ 	  
+
+ Virksomhedens CVR-  
+
+ nummer, hvilket er virksomhedens registreringsnummer i det Centrale  
+
+ Virksomhedsregister, som er statens register over samtlige private og  
+
+ offentlige virksomheder i Danmark.
+CVR- nummeret identificerer entydigt  
+
+ virksomheden -  
+
+ 	  
+
+ Virksomhedens navn -  
+
+ 	  
+
+ Virksomhedens  
+
+ adresse og postnummer -  
+
+ 	  
+
+ Virksomhedens  
+
+ telefonnummer -  
+
+ 	  
+
+ Navn på  
+
+ kontaktperson på virksomheden vedrørende indberetning af oplysninger til  
+
+ Miljøstyrelsen.
+ -  
+
+ 	  
+
+ Behandlingsformer,  
+
+ som udføres af virksomheden, angivet som en eller flere af følgende  
+
+ muligheder:  
+
+  
+
+ Oparbejdning, Forbrænding, Deponering,  
+
+ Særlig behandling, Afgiftsfritaget forbrænding, Afgiftsfritaget deponering,  
+
+ Midlertidig  
+
+ oplagring.
+Såfremt virksomheden har  
+
+ flere anlæg eller produktionssteder under samme CVR- nummer vedlægges en  
+
+ liste  
+
+ over anlæggene med angivelse af anlæggenes navn og adresse og angivelse af  
+
+ anlæggenes behandlingsformer, jf. sidste punkt i ovenstående liste, samt  
+
+ angivelse af anlæggenes P- nummer.
+En virksomhed med flere produktionssteder  
+
+ har således et CVR- nummer for virksomheden som helhed, mens hvert  
+
+ produktionssted har et P-nummer.
+Oplysninger om virksomhedens P-numre kan  
+
+ findes i CVR- registret på www.CVR.dk.
+Kopi af brevet sendes til  
+
+ den eller de kommuner, hvor virksomheden har anlæg.
+Det skal fremgå af  
+
+ anmeldelsen, hvilke kommuner, der er sendt kopi til.
+Ophør Ophører en virksomhed med at  
+
+ drive de aktiviteter, der har medført, at virksomheden skal indberette  
+
+ oplysninger til Miljøstyrelsen, bortfalder også pligten til at indberette.
+En  
+
+ sådan ændring skal meddeles skriftligt til såvel Miljøstyrelsen som  
+
+ beliggenhedskommunen.
+Meddelelsen skal indeholde virksomhedens CVR- nummer og  
+
+ den dato, hvorfra virksomheden ikke længere driver de nævnte aktiviteter.
+2.4 Øvrige registrerings- og indberetningskrav Udover indberetning til ISAG  
+
+ skal virksomheder, der behandler og bortskaffer affald, også afgive  
+
+ oplysninger  
+
+ om modtaget affald til kommunen, hvis denne beder om det.
+ Affaldsbekendtgørelsen siger  
+
+ således, at virksomhederne efter anmodning fra kommunalbestyrelsen i  
+
+ beliggenhedskommunen, skal afgive alle oplysninger om modtaget affald.
+Der skal afgives oplysninger  
+
+ om hvilke affaldstyper og hvilke mængder, der er modtaget fra hver enkelt  
+
+ affaldsproducerende virksomhed.
+Bemærk, at et sådant krav vil medføre behov  
+
+ for  
+
+ en mere detaljeret registrering, end der er nødvendig af hensyn til  
+
+ indberetning til Miljøstyrelsen.
+ Andre kommuner end  
+
+ beliggenhedskommunen kan kun kræve oplysninger fra affaldsbehandlere, hvis  
+
+ der  
+
+ foreligger en modtageaftale mellem affaldsbehandleren og kommunen med  
+
+ bestemmelser om afgivelse af disse oplysninger.
+En række virksomheder skal  
+
+ ikke indberette til ISAG , men alene føre et register med oplysninger om det  
+
+ affald, de behandler, jf.
+Affaldsbekendtgørelsens §16. Det drejer sig om  
+
+ følgende:
+ -  
+
+ 	  
+
+ Øvrige virksomheder,  
+
+ som behandler indsamlet affald, herunder genanvendelige materialer.
+ -  
+
+ 	  
+
+ Virksomheder, der  
+
+ anvender affald i produktionen, herunder genanvendelige materialer, som ikke  
+
+ er  
+
+ registreret på et behandlingsanlæg.
+Krav fra Miljøstyrelsen Miljøstyrelsen kan pålægge  
+
+ de virksomheder, som alene skal føre register, at indberette til  
+
+ Miljøstyrelsen,  
+
+ eksempelvis i forbindelse med mere detaljerede undersøgelser.
+Transportører Virksomheder, der  
+
+ erhvervsmæssigt transporterer affald, skal lade sig registrere hos  
+
+ kommunalbestyrelsen  
+
+ i den kommune, hvor affaldet er produceret.
+Transportøren skal registrere  
+
+ oplysninger om affaldsmængder, affaldsfraktioner og affaldstyper samt  
+
+ affaldets  
+
+ producent og afleveringssted.
+For farligt affald skal endvidere registreres  
+
+ den  
+
+ tilhørende kode i det Europæiske Affaldskatalog (EAK-koder).
+ Affaldsproducenten er  
+
+ forpligtet til at videregive de nødvendige oplysninger til transportøren.  
+
+ Oplysningerne  
+
+ og dokumentation for disse skal opbevares i 5 år.
+2.5 Dispensation Der er kun i særlige  
+
+ tilfælde mulighed for at dispensere for kravene om registreringens omfang (§  
+
+ 16). Kravene til at anmelde sig og indberette oplysninger til Miljøstyrelsen  
+
+ kan der kun i helt særlige tilfælde dispenseres fra.
+Den generelle praksis på  
+
+ området forventes at blive, at der med særligt tungtvejende grunde kan opnås  
+
+ dispensation til f.eks. at anvende skønnet mængde i stedet for vejet mængde.  
+
+ For øvrige indberetningspligtige oplysninger forventes der ikke givet  
+
+ dispensation.
+ Virksomheder, der ønsker at  
+
+ søge dispensation for en eller flere af bestemmelserne i bekendtgørelsen,  
+
+ skal  
+
+ sende en skriftlig ansøgning til Miljøstyrelsens ISAG sekretariat, jf. afsnit  
+
+ 2.8.
+Ansøgningen skal indeholde  
+
+ en udførlig redegørelse for baggrunden for ansøgningen med beskrivelse af  
+
+ løsningsmuligheder og økonomiske konsekvenser.
+Ansøgningen skal angive  
+
+ præcist  
+
+ hvilke bestemmelser, der søges  
+
+ dispensation for.
+2.6 Hvad skal registreres og indberettes? Den registrering, der skal  
+
+ foretages, skal indeholde oplysninger om  
+
+ transportør, type, fraktion, geografisk kilde, erhvervsmæssig kilde og  
+
+ mængde af affald, herunder genanvendelige materialer.
+Form og indhold Indberetning til  
+
+ Miljøstyrelsen om affaldsbortskaffelse skal omfatte dato, løbenummer, vejet  
+
+ mængde,  
+
+ geografisk kilde, erhvervsmæssig kilde, kildespecifikation, affaldstype,  
+
+ behandlingsform og affaldsfraktion niveau 1. EAK-koder skal anvendes ved  
+
+ farligt affald, og Affaldsfraktion niveau 2 skal anvendes for en række  
+
+ affaldsfraktioner, jf. de med * markerede affaldsfraktioner i bilag 8 i  
+
+ Bekendtgørelsen,  
+
+ optrykt i denne vejlednings bilag E.
+Entydige krav Der er entydige krav til,  
+
+ hvorledes denne indberetning skal foregå, såvel hvad angår form som indhold.  
+
+ Kravene fremgår af bekendtgørelsens bilag 8. Bilaget angiver ligeledes,  
+
+ hvilke  
+
+ kombinationer af affaldstype, behandlingsform og affaldsfraktion niveau 1,  
+
+ det  
+
+ er tilladt at anvende.
+ Eksempel:
+ Befinder man sig på en  
+
+ behandlingsvirksomhed vil den information, der skal registreres i ISAG-  
+
+ terminologien være svaret på følgende 5 spørgsmål.
+Hvor kommer læsset fra  
+
+  
+
+ ? Den geografiske affaldskilde  
+
+ skal angives som nummeret på den kommune, hvor affaldet er frembragt.  
+
+ Kommunekoden fremgår af bilag D.
+Den erhvervsmæssige kilde  
+
+ eller branche angives i ISAG terminologien som  
+
+  
+
+ Husholdninger, Institutioner, handel og kontor, Byggeri og  
+
+ anlægsvirksomhed, Rensningsanlæg, Container/Omlastestation, Nærings- og  
+
+ nydelsesmiddelindustri, Tekstil, beklædnings- og læderindustri, Træ- og  
+
+ møbelindustri, Papir- og grafiskindustri, Kemisk industri m.v., Gummi- og  
+
+ Plastindustri, Sten-, ler- og glasindustri, Jern- og metalindustri, Anden  
+
+ fremstillingsvirksomhed, Forsyningsvirksomhed, Landbrug, skovbrug, fiskeri  
+
+ m.v., Oparbejdningsanlæg, Komposterings- og biogasanlæg, Forbrændingsanlæg,  
+
+ Deponeringsanlæg, Slamforbrændingsanlæg, Anlæg til særlig behandling.
+Se  
+
+ i  
+
+ øvrigt bilag F.
+Hvilken affaldstype? Affaldstype angives i ISAG  
+
+ terminologien.
+Affaldstype vælges fra ISAG terminologien som  
+
+  
+
+ Dagrenovation, Storskrald, Haveaffald,  
+
+ Erhvervsaffald, Emballageaffald, Farligt affald, Behandlingsrest ,"Ikke  
+
+ oplyst".
+Hvilken behandling? Behandlingsform angives i  
+
+ ISAG terminologien som  
+
+  
+
+ Oparbejdning,  
+
+ Forbrænding, Deponering, Særlig behandling, Fraført anlæg, Eksporteret,  
+
+ Afgiftsfritaget forbrænding, Afgiftsfritaget deponering, Midlertidig  
+
+ oplagring.  
+
+  
+
+ Ofte vil en virksomhed kun anvende få behandlingsformer.
+Hvad behandles? Affaldsfraktionen angives i  
+
+ ISAG terminologien.
+På et deponeringsanlæg vil svaret hyppigt være  
+
+  
+
+ ikke- forbrændingsegnet  
+
+  
+
+ affald.
+På et  
+
+ forbrændingsanlæg vil svaret ofte være f  
+
+  
+
+ orbrændingsegnet  
+
+  
+
+ affald.
+Hvor meget behandles? Hvert læs skal vejes og  
+
+ mængden registreres i tons eller kg.
+Blandede læs Ved indvejning af læs  
+
+ opsamlet fra flere kommuner skal den samlede mængde, eventuelt efter bedste  
+
+ skøn, registreres separat på de enkelte kommuner.
+Hvis f.eks. læsset stammer  
+
+ fra indsamling af dagrenovation i to eller flere kommuner, skal det  
+
+ registreres,  
+
+ hvor stor en mængde, der er indsamlet i hver enkelt kommune.
+Hvis det ikke er  
+
+ muligt, at opgøre fordelingen på vejede mængder, er det i orden at anvende et  
+
+ skøn.
+Ofte vil transportøren ud  
+
+ fra sit rutekort kunne anslå fordelingen af læsset på kommuner.
+Anlægget kan  
+
+ på  
+
+ grundlag heraf kode fordelingen ind i vejesystemet, sådan at læs fra den  
+
+ pågældende rute hver gang automatisk registreres med den pågældende  
+
+ fordeling.
+Ved indvejning af læs  
+
+ opsamlet i samme kommune, men fra flere forskellige erhvervsmæssige kilder,  
+
+ skal den samlede mængde også registreres separat på de enkelte kilder.
+Dette  
+
+ kan eventuelt også ske efter bedste skøn.
+Tilsvarende gælder, at ved  
+
+ indvejning af læs bestående af flere affaldstyper, fx storskrald og  
+
+ erhvervsaffald,  
+
+ skal mængden, eventuelt efter bedste skøn, registreres separat på de enkelte  
+
+ affaldstyper.
+Ofte vil transportøren ud fra sit rutekort og erfaring med  
+
+ indsamling af affald på ruten kunne give en vurdering af, hvor stor en andel  
+
+ af  
+
+ læsset, der kan henføres til erhvervsaffald og storskrald.
+ Container/omlastestationer mv.
+ Containerpladser,  
+
+ genbrugspladser, omlastestationer, der har adgang for både husholdninger og  
+
+ erhverv,  
+
+ skal angive den procentvise vægtmæssige fordeling på kommunekode og  
+
+ affaldstype  
+
+ for det affald, som overføres til indberetningspligtige  
+
+ affaldsbehandlingsanlæg.
+ Fordelingen kan fastlægges  
+
+ ved f.eks. stikprøver eller skøn.
+PC-programmet til ISAG  
+
+ indeholder en facilitet til at udarbejde en sådan fordelingsnøgle, som kan  
+
+ bruges ved registreringer fra den pågældende plads.
+Fordelingsnøglen gælder  
+
+ for  
+
+ det pågældende indberetningsår, og skal revideres mindst en gang årligt.
+Flytning af affald I de tilfælde, hvor der fx  
+
+ flyttes affald fra et forbrændingsanlæg til et andet, er det vigtigt at  
+
+ registreringen  
+
+ af affaldet sker, så dobbeltregistrering undgås.
+ Eksempel: Forbrændingsanlæg  
+
+ 2 modtager forbrændingsegnet affald fra forbrændingsanlæg 1.  
+
+ Forbrændingsanlæg  
+
+ 2 skal registrere affaldet som tilført forbrændingsegnet affald og den  
+
+ erhvervsmæssige kilde som  
+
+  
+
+ Forbrændingsanlæg.  
+
+  
+
+ Dette forudsætter naturligvis , at anlæg 1 har registreret affaldet med den  
+
+ oprindelige geografisk og erhvervsmæssig kilde, jf. figuren nedenfor.
+Oplysning om bruttoindtægt Forbrændings- og  
+
+ deponeringsanlæg skal i forbindelse med ISAG- indberetningen indberettes  
+
+ bruttoindtægt  
+
+ for modtagelse af affald.
+Denne indberetning finder sted i januar, mens  
+
+ virksomhedens årsregnskab ofte først er revideret i juni/juli måned.
+I  
+
+ forlængelse heraf  
+
+ kan virksomheden indberette  
+
+ bruttoindtægten, ekskl. afgifter, som et kvalificeret skøn udfra de  
+
+ foreløbige  
+
+ regnskabstal.
+2.7 Hvornår skal indberettes? Hvert år senest den 31.  
+
+ januar skal de indberetningspligtige virksomheder til Miljøstyrelsen  
+
+ indberette  
+
+ oplysninger dækkende det forudgående kalenderår.
+2.8 Hvordan skal man indberette? Hvis indberetningsfilen  
+
+ opbygges korrekt med sammentalte registreringer, vil den normalt kunne rummes  
+
+ på en almindelig 3.5" diskette.
+Større filer kan indsendes på CD-ROM  
+
+ eller  
+
+ via elektronisk post (E-mail) til  
+
+  
+
+ isag@mst.dk.  
+
+ Indberetningen skal  
+
+ ledsages af et følgebrev/mail med følgende oplysninger:
+ -  
+
+ 	  
+
+ Overskrift:  
+
+ Vedrørende ISAG.
+ -  
+
+ 	  
+
+ Indberetningsperiode,  
+
+ eksempelvis for data dækkende 2001 'Oplysninger vedrørende 2001'.
+-  
+
+ 	  
+
+ Virksomhedens  
+
+ CVR-nummer -  
+
+ 	  
+
+ Virksomhedens navn -  
+
+ 	  
+
+ Virksomhedens  
+
+ adresse og postnummer -  
+
+ 	  
+
+ Navn på vedhæftede  
+
+ fil eller Antal disketter eller andre EDB-medier i indberetningen -  
+
+ 	  
+
+ Den samlede mængde  
+
+ affald, fordelt på behandlingsformer.
+ Disketter og CD-ROM'er skal  
+
+ være forsynet med en label med virksomhedens navn og CVR-nr.
+Bemærk, at størrelsen kan  
+
+ reduceres væsentligt ved at pakke filen i ZIP-formatet.
+Eksempelvis kan  
+
+ programmet WinZip anvendes.
+Der kan hentes en gratis prøveversion på  
+
+ Internettet på adressen  
+
+  
+
+ www.winzip.com.
+ Indberetningen skal  
+
+ fremsendes til:
+ISAG- sekretariatet  
+
+  
+
+ Miljøstyrelsen  
+
+  
+
+ Strandgade 29  
+
+  
+
+ 1401 København K 2.8.1 PC-  
+
+ programmet ISAG Miljøstyrelsen har  
+
+ udarbejdet et PC-baseret EDB-program, som kan registrere informationer efter  
+
+ forskrifterne i ISAG.
+Programmet kan anvendes til manuel indtastning af  
+
+ oplysninger og efterfølgende indberetning af oplysninger efter forskrifterne  
+
+ i  
+
+ STANDAT, jf. afsnit 2.8.2. Programmet kan ikke kombineres med brovægt,  
+
+ kortstander eller bogholderiprogrammer.
+Fejlfri filer Som en vigtig del kan  
+
+ programmet kontrollere, om en given fil overholder specifikationerne i ISAG  
+
+ og  
+
+ STANDAT.
+Indberetninger, der er dannet med andre programmer, kan importeres  
+
+ til  
+
+ PC- programmet, som så kontrollerer at filen overholder de tekniske krav til  
+
+ indberetningsfiler.
+Kommune udtræk PC programmet til ISAG har  
+
+ også en facilitet, der kan danne ISAG filer på kommuneniveau.
+Fra Miljøstyrelsen Programmet og den tilhørende  
+
+ dokumentation kan gratis rekvireres hos ISAG- sekretariatet i Miljøstyrelsen  
+
+ på  
+
+ telefon 3266 0100.
+Det er også muligt at  
+
+ downloade programmet fra Miljøstyrelsens hjemmeside  
+
+  
+
+ www.mst.dk.
+Herfra  
+
+ kan også downloades kodelister og opdaterede versioner af programmet.
+2.8.2 PC-programmet STANDAT STANDAT er et standard  
+
+ filformat for elektronisk udveksling af miljødata.
+Yderligere oplysninger om  
+
+ STANDAT programmet kan fås ved henvendelse til STANDAT- sekretariatet i  
+
+ Danmarks Miljøundersøgelser i Silkeborg (telefon 8920 1400) eller via  
+
+ Danmarks  
+
+ Miljøundersøgelsers hjemmeside  
+
+  
+
+ http://OVS.DMU.dk/5standat/.
+Der er  
+
+ udarbejdet et PC-baseret  
+
+ hjælpe-program (SSP3), som understøtter  
+
+ anvendelse af STANDAT.
+Programmet kender de forskellige regler for  
+
+ kombination  
+
+ af oplysninger i STANDAT og kan anvendes til kontrol af STANDAT- filer.  
+
+ Programmet  
+
+ kan dog ikke kontrollere om de specifikke krav i ISAG er overholdt.
+SSP3 vedligeholdes også af  
+
+ Overvågningssektionen i Danmarks Miljøundersøgelser.
+SSP3 programmet kan  
+
+ downloades fra Danmarks Miljøundersøgelsers hjemmeside,  
+
+  
+
+ http://OVS.DMU.dk/5standat/.
+Anvend STANDAT Som en del af samarbejdet  
+
+ mellem selskaber, affaldsbehandlere og kommuner er der ofte behov for at  
+
+ udveksle oplysninger.
+De oplysninger, der registreres hos affaldsbehandlere  
+
+ udveksles bekvemt og sikkert ved hjælp af de STANDAT-filer, der også anvendes  
+
+ ved indberetning til Miljøstyrelsen.
+ Det er naturligvis en  
+
+ forudsætning, at den der skal modtage oplysningerne, har et EDB-system, der  
+
+ kan  
+
+ indlæse en sådan STANDAT-fil.
+3 Teknisk vejledning til ISAG Indberetninger til ISAG kan  
+
+ foretages med det PC-program, som Miljøstyrelsen har udviklet.
+Programmet  
+
+ sendes automatisk til de affaldsbehandlere, der er registreret i ISAG.
+Der er  
+
+ en række kommercielle produkter på markedet, der ligeledes er indrettet til  
+
+ at  
+
+ generere indberetninger til ISAG.
+Af konkurrencemæssige hensyn indeholder  
+
+ Miljøstyrelsens program ikke kobling til vægtsystemer og  
+
+ bogholderiprogrammer.  
+
+ Miljøstyrelsens program er derfor udviklet til manuel indtastning af  
+
+ registreringer,  
+
+ og er således især velegnet for de affaldsbehandlere, der kun skal indberette  
+
+ et mindre antal registreringer.
+Affaldsbehandlere med et  
+
+ større antal registreringer kan enten anvende et af de kommercielle  
+
+ produkter,  
+
+ eller selv udvikle et system til håndtering af indberetningerne.
+Her vil det  
+
+ ofte være en fordel, hvis systemet er koblet sammen med vægten og  
+
+ bogholderiprogrammet.
+3.1 Indførelse af ISAG Det er vigtigt at få  
+
+ præciseret, hvad bekendtgørelsens krav egentligt betyder for virksomheden.  
+
+ For  
+
+ hovedparten af virksomheder er det kun en lille del af terminologien, der vil  
+
+ være aktuel.
+Det anbefales derfor, at man  
+
+ starter med en gennemgang af de såkaldte kombinationslister i  
+
+ bekendtgørelsen,  
+
+ gengivet her i bilag G.
+Kombinationslisterne viser de kombinationer af  
+
+ behandlingsform, affaldstype og affaldsfraktion, der kan anvendes ved  
+
+ indberetning til Miljøstyrelsen.
+På mange virksomheder  
+
+ anvendes kun få behandlingsformer, eksempelvis  
+
+  
+
+ Forbrænding  
+
+  
+
+ og  
+
+  
+
+ Fraført anlæg  
+
+  
+
+ på et forbrændingsanlæg.
+Kombinationslisten for  
+
+  
+
+ Forbrænding  
+
+  
+
+ viser, at forbrænding kan kombineres med alle  
+
+ affaldstyper, men kun med 7 af de i alt 38 affaldsfraktioner.  
+
+ Kombinationslisten  
+
+ viser også, at modtager virksomheden eksempelvis  
+
+  
+
+ Dagrenovation  
+
+  
+
+ eller  
+
+  
+
+ Haveaffald  
+
+  
+
+ til  
+
+  
+
+ Forbrænding  
+
+  
+
+ , skal  
+
+ affaldsfraktionen altid angives som  
+
+  
+
+ Forbrændingsegnet.
+På de relevante  
+
+ kombinationslister markeres først de tilladte kombinationer, der kan blive  
+
+ aktuelle på virksomheden.
+Det der skal registreres på virksomheden skal  
+
+ entydigt kunne oversættes til de kombinationer, der er aktuelle for  
+
+ virksomheden.
+ Der skal så blot udvikles et  
+
+ program, som kan oversætte de registrerede oplysninger til de tilsvarende  
+
+ ISAG-betegnelser og generere indberetningsfilen til Miljøstyrelsen.
+Registrerer et  
+
+ forbrændingsanlæg eksempelvis "Dagrenovation fra husholdninger",  
+
+ transportøren og den kommune, som affaldet stammer fra, er oversættelse til  
+
+ de  
+
+ tilsvarende ISAG-betegnelser simpel, idet dato og løbenummer kan genereres  
+
+ automatisk og mængden aflæses direkte fra vægten.
+Den komplette ISAG  
+
+ registrering skal indeholde:
+ P-nummer:
+Virksomhedens P-nummer Vejedato:
+Automatisk Vejet mængde:
+Fra brovægten Enhed:
+Tons eller kg Løbenummer:
+Automatisk Geografisk kilde:
+Nummeret på kildekommunen Landekode:
+Normalt Danmark - kode 008 CVR for transportør:
+Transportørens CVR-nummer Erhvervsmæssig kilde:
+01  
+
+  
+
+ Husholdninger Kildespecifikation:
+Kræves ikke af  
+
+ Miljøstyrelsen Affaldstype:
+01  
+
+  
+
+ Dagrenovation Behandlingsform:
+02  
+
+  
+
+ Forbrænding Affaldsfraktion niveau 1:
+19.00  
+
+  
+
+ Forbrændingsegnet EAK-kode:
+Ikke relevant her Affaldsfraktion niveau 2:
+Ikke relevant her Naturligvis er tingene ikke  
+
+ helt så simple, hvis der er tale om farligt affald, hvor der skal registreres  
+
+ den såkaldte EAK-kode og ofte også  
+
+  
+
+ Affaldsfraktion  
+
+ niveau 2. Bemærk, at beliggenhedskommunen herudover kan stille krav om  
+
+ udfyldelse af feltet Kildespecifikation, der ikke anvendes i Miljøstyrelsen,  
+
+ og  
+
+ derfor kan være tomt ved indberetning til Miljøstyrelsen.
+Registrerer virksomheden  
+
+ navnet på kildekommunen, kan navnet oversættes til kommunenummeret af det  
+
+ program, der skriver indberetningsfilen.
+Vejledningens bilag D indeholder en  
+
+ liste med navn og nummer på alle landets kommuner.
+Nyt system Ønsker virksomheden at  
+
+ udvikle eller købe et nyt EDB-system til registrering og indberetning af  
+
+ oplysninger, er den tidligere nævnte gennemgang af lovlige kombinationer igen  
+
+ til stor nytte.
+Ofte vil en virksomhed i den daglige registrering ikke have  
+
+ behov  
+
+ for at anvende alle de forskellige registreringsmuligheder i ISAG.
+På et deponeringsanlæg, som  
+
+ eksempelvis kun deponerer  
+
+  
+
+ Andet  
+
+ bygge/anlægsaffald  
+
+  
+
+ fra erhverv, vil der kun være behov for at registrere  
+
+ kommunenummer, transportør og mængde.
+Alle andre oplysninger vil kunne  
+
+ genereres automatisk eller være faste.
+Det vil derfor være unødigt omstændigt  
+
+ at skulle udfylde alle oplysninger hver gang.
+Fleksibelt program En god løsning, som samtidig  
+
+ sikrer et fleksibelt system, er at indrette systemet, så der normalt kun kan  
+
+ vælges de betegnelser, der er brug for.
+Miljøstyrelsens program indeholder en  
+
+ sådan mekanisme.
+3.2 Registrering Bekendtgørelsen stiller  
+
+ ingen formkrav vedrørende den interne registrering af oplysninger i  
+
+ virksomheden.  
+
+ Derimod stiller bekendtgørelsen krav til form og indhold af den indberetning,  
+
+ virksomheden skal foretage til Miljøstyrelsen.
+Virksomheden må selv  
+
+ vurdere, hvorvidt det vil være hensigtsmæssigt at dens registrering indrettes  
+
+ efter terminologien i ISAG.
+Der er således ikke noget til hinder for at en  
+
+ affaldsbehandler kan fortsætte med at registrere som vanligt, blot  
+
+ registreringerne  
+
+ entydigt kan oversættes til de oplysninger, der skal indberettes til  
+
+ Miljøstyrelsen.
+3.3 Fraførsel og eksport af affald For at undgå  
+
+ dobbeltregistrering skal man være opmærksom på at registrere korrekt, når der  
+
+ fraføres eller eksporteres affald fra et behandlingsanlæg.
+Der gælder  
+
+ følgende:
+Geografisk kilde Geografisk kilde skal  
+
+ angives som affaldsbehandlerens hjemkommune.
+Erhvervsmæssig kilde Som erhvervsmæssig kilde  
+
+ angives anlægstypen.
+På forbrændingsanlæg angives altså  
+
+  
+
+ Forbrændingsanlæg.
+Affaldstype Affaldstype skal altid  
+
+ angives som  
+
+  
+
+ Ikke oplyst  
+
+  
+
+ ved fraførsel  
+
+ eller eksport.
+Behandlingsform Behandlingsform skal angives  
+
+ som  
+
+  
+
+ Fraført anlæg  
+
+  
+
+ eller som  
+
+  
+
+ Eksporteret.
+ De øvrige oplysninger skal  
+
+ registreres på normal vis.
+3.4 Intern flytning Når virksomheder, som består  
+
+ af flere anlæg, flytter affald fra et anlæg til et andet, må virksomheden  
+
+ påse,  
+
+ at oplysningerne til ISAG fortsat er korrekte.
+Ændret behandling Det er vigtigt, at der  
+
+ registreres den korrekte mængde for hver behandlingsform.
+Overføres affald  
+
+ fra  
+
+ den oprindeligt registrerede behandlingsform til en anden behandling, skal  
+
+ det  
+
+ registreres, at affaldet fraføres den ene behandlingsform og tilføres den  
+
+ anden.
+ Hvis eksempelvis et  
+
+ behandlingsanlæg, der har et forbrændingsanlæg og et deponeringsanlæg, efter  
+
+ sortering på deponeringsanlægget fører et læs til forbrændingsanlægget, skal  
+
+ læsset registreres som fraført deponeringsanlægget og tilført  
+
+ forbrændingsanlægget.  
+
+ På deponeringsanlægget gælder de nævnte regler for registrering af fraførsel,  
+
+ og fraktionen vil i dette tilfælde normalt være  
+
+  
+
+ Forbrændingsegnet.
+På forbrændingsanlægget  
+
+ registreres læsset med deponeringsanlæggets beliggenhedskommune som  
+
+ geografisk  
+
+ kilde og med anlæggets type som erhvervsmæssig kilde, her altså  
+
+  
+
+ Deponeringsanlæg.
+De øvrige  
+
+ informationer registreres på sædvanlig vis.
+Modregning Anvender virksomheden et  
+
+ fælles edb-anlæg for alle anlæggene, er det ikke nødvendigt at veje læsset  
+
+ flere  
+
+ gange.
+Edb-systemet vil kunne indrettes, så der på grundlag af én vejning  
+
+ registreres de fornødne oplysninger om fraførsel på det ene anlæg og  
+
+ tilførsel  
+
+ på det andet anlæg.
+3.5 Enkeltregistreringer og sammentællinger Indberetning af oplysninger  
+
+ til Miljøstyrelsen skal bestå af sammentalte registreringer på månedsbasis  
+
+ for  
+
+ enkeltregistreringer med identiske oplysninger om P-nummer, geografisk kilde,  
+
+ landekode, transportør, erhvervsmæssig kilde, (kildespecifikation),  
+
+ affaldstype, behandlingsform, affaldsfraktion niveau 1 og 2 og EAK-kode.
+For hver måned må der altså  
+
+ ikke være flere registreringer med de samme oplysninger i de nævnte felter.  
+
+ Dette er for at begrænse mængden af data i indberetningen, og dermed begrænse  
+
+ risikoen for fejl.
+Miljøstyrelsen stiller ikke krav om indholdet af  
+
+ kildespecifikation.
+Stilles der fra kommunal side heller ikke krav om  
+
+ indholdet  
+
+ af disse felter øges værdien af muligheden for sammentællinger væsentligt.
+ Bemærk, at sammentællinger  
+
+ skal forsynes med bestemte datoer og løbenumre, jf. bilag C vedrørende  
+
+ opbygning af STANDAT- filer.
+3.6 STANDAT-filer til indberetning Indberetning af oplysninger  
+
+ til Miljøstyrelsen skal overholde kravene i ISAG og opbygges efter  
+
+ forskrifterne  
+
+ i STANDAT, der er et standardiseret format, som Miljøstyrelsen har udviklet  
+
+ til  
+
+ udveksling af miljøtekniske data.
+Bilag C indeholder en oversigt over  
+
+ opbygningen af STANDAT-filer til ISAG.
+ Foretages indberetningen med  
+
+ Miljøstyrelsens program, vil kravene i ISAG og STANDAT automatisk være  
+
+ opfyldt.  
+
+ Ved indberetning med alle andre programmer anbefales det, at filen  
+
+ kontrolleres  
+
+ med Miljøstyrelsens program, inden filen sendes til Miljøstyrelsen.  
+
+ Miljøstyrelsen modtager hvert år mange indberetninger, der ikke overholder  
+
+ kravene i STANDAT og ISAG, hvilket medfører ekstra arbejde for såvel  
+
+ Miljøstyrelsen som for indberetteren.
+Vejledning nr. 1, 1990 fra  
+
+ Miljøstyrelsen "STANDAT V 1.1" beskriver anvendelse af STANDAT.  
+
+ STANDAT foreskriver dels en række regler for opbygning af indberetningsfilen,  
+
+ dels en række kodelister, der skal anvendes.
+STANDAT vedligeholdes af  
+
+ STANDAT-sekretariatet i Danmarks  
+
+ Miljøundersøgelser i Silkeborg (telefon 8920 1400).
+Bekendtgørelsen er nødvendig Når bekendtgørelsen ændres,  
+
+ udsendes der et eksemplar til de affaldsbehandlere, der er registreret i  
+
+ ISAG.  
+
+ Bekendtgørelsen indeholder forskrifter for registrering og indberetning til  
+
+ ISAG, herunder kombinationslister, der angiver lovligt anvendte kombinationer  
+
+ af affaldsfraktioner, affaldstyper og behandlingsformer.
+Bekendtgørelsen  
+
+ indeholder desuden definitioner og beskrivelser af den anvendte terminologi.  
+
+ Bekendtgørelsen er dermed et helt nødvendigt værktøj for at kunne foretage en  
+
+ korrekt registrering og indberetning til Miljøstyrelsens ISAG-system Bilag A Bilag A  
+
+ Definitioner Der anvendes i  
+
+ bekendtgørelsen og i nærværende vejledning en række ord og begreber, hvis  
+
+ indhold præciseres i det følgende.
+Affald Affald defineres i  
+
+ bekendtgørelsen meget bredt som: Ethvert stof og enhver genstand omfattet af  
+
+ kategorierne i bekendtgørelsens bilag 1 og 2, og som indehaveren skiller sig  
+
+ af  
+
+ med, agter at skille sig af med eller er forpligtet til at skille sig af med.
+Forpligtet til Indehaveren kan være  
+
+ forpligtet til at skille sig af med stoffet eller genstanden gennem  
+
+ lovgivning  
+
+ eller ved direkte påbud i medfør af Miljøbeskyttelsesloven.
+ Bilag 1 er meget omfattende,  
+
+ idet sidste punkt, i overensstemmelse med direktiv om affald fra EU, lyder:  
+
+ Ethvert stof, materiale eller produkt, som ikke indgår i ovennævnte  
+
+ kategorier.
+Tvivlstilfælde Kommunalbestyrelsen afgør,  
+
+ om et stof eller en genstand er affald.
+Afgørelsen kan ikke indbringes for  
+
+ anden administrativ myndighed.
+Virksomhed Det er vigtigt at skelne  
+
+ mellem virksomheder, der  
+
+ behandler  
+
+ affald og virksomheder, som producerer affald.
+Hvor det ikke direkte fremgår  
+
+ af  
+
+ sammenhængen anvendes betegnelsen affaldsproducerende virksomhed for  
+
+ sidstnævnte type virksomheder.
+CVR- og P- nummer Alle virksomheder  
+
+ kan identificeres ved virksomhedens  
+
+ registreringsnummer i Det Centrale Virksomhedsregister, det såkaldte  
+
+ CVR-nummer.  
+
+ En virksomhed med flere anlæg eller produktionssteder, vil desuden kunne  
+
+ identificere disse anlæg eller produktionssteder ved deres  
+
+ produktionsstednummer  
+
+ (P- nummer). Virksomheder, der skal anmelde sig og indberette oplysninger til  
+
+ Miljøstyrelsen efter bekendtgørelsens bestemmelser, skal  
+
+ indberette oplysninger for hver enkelt anlæg  
+
+ under virksomheden.
+De enkelte anlæg skal identificeres ved deres  
+
+ produktionssted nummer (P-nummer). Dette nummer kan findes i Det Centrale  
+
+ Virksomhedsregister på  
+
+  
+
+ www.CVR.dk, eller ved henvendelse til Danmarks  
+
+ Statistik.
+Erhvervsmæssigt Begrebet erhvervsmæssigt  
+
+ anvendes for at friholde eksempelvis frivillige organisationer fra  
+
+ bestemmelserne  
+
+ i bekendtgørelsen.
+Således anses spejdernes indsamling af aviser og flasker  
+
+ ikke for at være erhvervsmæssig, uanset om det indsamlede sælges.
+Kildesorteret affald At affaldsfraktioner er  
+
+ kildesorteret betyder, at affaldet allerede ved kilden er opdelt i separate  
+
+ fraktioner  
+
+ med henblik på en specifik behandling.
+Kilde skal her forstås som  
+
+ affaldskilde i ISAG-terminologien.
+Modtager en virksomhed eksempelvis flasker  
+
+ og glas fra en containerplads, er containerpladsen kilde, og affaldet er  
+
+ kildesorteret.
+Bemærk, at kildesorteret affald godt kan være affald, der er  
+
+ beregnet for forbrænding eller deponering.
+Dette er dog ikke tilfældet, hvis  
+
+ der er tale om en fraktion der er udsorteret med henblik på genanvendelse,  
+
+ f.eks.  
+
+  
+
+ 50.00 Papir og pap.
+Affaldsbehandling Ved affaldsbehandling  
+
+ forstås enhver form og metode til  
+
+ bortskaffelse og nyttiggørelse, der er anført i bekendtgørelsens Bilag 6A og  
+
+ 6B.
+Behandling Behandling bruges som  
+
+ betegnelse for de behandlingsformer, der er defineret i ISAG-terminologien,  
+
+ altså oparbejdning forbrænding, deponering, særlig behandling, fraført anlæg,  
+
+ eksporteret, afgiftsfritaget forbrænding, afgiftsfritaget deponering og  
+
+ midlertidig oplagring.
+Affaldshåndtering Affaldshåndtering er  
+
+ anmeldelse, deklarering, sortering, emballering, mærkning, midlertidig  
+
+ oplagring,  
+
+ indsamling og transport af affald.
+Oparbejdning Oparbejdning defineres i forbindelse med gennemgangen af  
+
+ de enkelte grupper af anmeldelses- og indberetningspligtige virksomheder i  
+
+ bilag B.
+Bilag B Bilag B  
+
+ Virksomheder, der skal anmelde sig, registrere oplysninger og indberette til  
+
+ ISAG I det følgende uddybes  
+
+ beskrivelsen af de virksomheder, der er anmeldelses- og indberetningspligtige  
+
+ efter bestemmelserne i bekendtgørelsens bilag 3. Gruppenumrene refererer til  
+
+ de  
+
+ tilsvarende numre i bekendtgørelsen.
+Den indledende tekst i kursiv i hvert  
+
+ underafsnit er citeret fra bekendtgørelsen.
+Gruppe 1) Virksomheder, der er registreringspligtige i medfør af § 11 i lov nr.  
+
+ 838 af 19. december 1989 om afgift af affald og råstoffer, som senest ændret  
+
+ ved lov nr. 1034 af 23. december 1998 NB! Registreringspligt har  
+
+ her ikke noget at gøre med pligten til at føre registre efter bestemmelserne  
+
+ i  
+
+ affaldsbekendtgørelsen.
+ Der er her tale om de  
+
+ virksomheder, som efter bestemmelserne i afgiftsloven er  
+
+ registreringspligtige  
+
+ af hensyn til afregning af den såkaldte affaldsafgift med de statslige told-  
+
+ og  
+
+ skattemyndigheder (Told Skat), dvs. virksomheder, som driver  
+
+ affaldsforbrændings-  
+
+ og/eller affaldsdeponeringsanlæg.
+Gruppe 2) Virksomheder, herunder returpapirhandlere med sorteringskapacitet og  
+
+ returpapirforbrugende fabrikker, der erhvervsmæssigt oparbejder indsamlet og  
+
+ kildesorteret papir og pap.
+Returpapir er papir og pap  
+
+ indsamlet med henblik på genanvendelse Returpapirhandlere med  
+
+ sorteringskapacitet er virksomheder, herunder kommuner, som erhvervsmæssigt  
+
+ indsamler eller køber returpapir og efter sortering leverer det videre til  
+
+ returpapirforbrugende fabrikker eller til eksport.
+ Returpapirforbrugende  
+
+ fabrikker er virksomheder, der producerer varer, der helt eller delvist  
+
+ består  
+
+ af returpapir eller andre produkter af returpapir, eksempelvis  
+
+ emballageprodukter.
+ Såvel produktion, hvor der  
+
+ anvendes returpapir, som sortering af returpapir skal altså registreres  
+
+ som oparbejdning.
+ Bemærk, at eksempelvis  
+
+ spejdernes indsamling og sortering af papir ikke er omfattet, da der ikke er  
+
+ tale om erhvervsmæssig oparbejdning. jf. definitionerne i bilag A.
+ Gruppe 3)  
+
+  
+
+ Virksomheder, herunder flaskeskyllerier og glasværker, der erhvervsmæssigt  
+
+ oparbejder indsamlede, kildesorterede og ikke-pantbelagte flasker og glas.
+ Ved oparbejdning af flasker  
+
+ og glas forstås klargøring til fornyet anvendelse, enten gennem rengøring  
+
+ eller  
+
+ gennem omsmeltning.
+Ikke-pantbelagt betyder, at  
+
+ øl- og sodavandsflasker ikke er omfattet.
+Derimod medregnes eksempelvis  
+
+ vinflasker som ikke-pantbelagt, uanset om en del af flaskerne har været  
+
+ belagt  
+
+ med pant af visse butikskæder.
+ De virksomheder, der er  
+
+ omfattet af gruppe 3 er altså for det første virksomheder, der  
+
+ erhvervsmæssigt  
+
+ rengør og eventuelt sorterer ikke-pantbelagte flasker og glas og leverer  
+
+ flasker og/eller glas til direkte genbrug, for det andet virksomheder der  
+
+ anvender indsamlet glas, herunder glasskår i produktionen.
+ Virksomheder, der alene  
+
+ rengør pantbelagte flasker og glas, altså øl- og sodavandsflasker med henblik  
+
+ på genbrug, er ikke anmeldelses- og indberetningspligtige.
+ Bemærk, at virksomheder, der  
+
+ skal indberette oplysninger om flasker og glas, IKKE skal indberette  
+
+ oplysninger om øl- og sodavandsflasker, der genbruges.
+Gruppe 4) Virksomheder, der erhvervsmæssigt oparbejder indsamlet og kildesorteret  
+
+ plast, herunder spildprodukter fra produktion.
+ Oparbejdning af plast  
+
+ betyder fremstilling af plastgranulat, der er egnet til genanvendelse i  
+
+ plastindustrien.  
+
+ Virksomheder, som anvender plastgranulat i en produktion er altså ikke  
+
+ omfattet  
+
+ af gruppe 4.
+ Bemærk, at formuleringen med  
+
+ 'indsamlet og kildesorteret' ikke fritager virksomheder, der foretager en  
+
+ yderligere sortering eller anden forbehandling før fremstilling af  
+
+ granulatet.
+ For eksempel er en  
+
+ virksomhed, som skrotter kabler og derefter fremstiller plastgranulat af  
+
+ isoleringen  
+
+ omfattet af gruppe 4.
+Gruppe 5) Virksomheder, der erhvervsmæssigt oparbejder indsamlet og kildesorteret  
+
+ madaffald fra storkøkkener.
+ Bekendtgørelse nr. 883 om  
+
+ kommunal indsamling af madaffald fra storkøkkener foreskriver indsamling og  
+
+ oparbejdning af madaffald fra storkøkkener.
+Gruppe 5 omfatter de  
+
+ virksomheder, som modtager dette madaffald.
+Virksomhederne skal indberette  
+
+ den  
+
+ samlede oparbejdede mængde, uanset om madaffaldet kommer fra storkøkkener.
+Gruppe 6) Virksomheder, der behandler mere end 100 tons indsamlet og  
+
+ kildesorteret organisk affald pr. år med henblik på kompostering og  
+
+ biogasproduktion.
+I den forbindelse betragtes husdyrgødning ikke som organisk  
+
+ affald.
+ Gruppe 6 indeholder en nedre  
+
+ grænse for den mængde, der skal oparbejdes, før en virksomhed bliver omfattet  
+
+ af anmeldelses- og indberetningspligten.
+Den nedre grænse gælder kun  
+
+ pligten om anmeldelse og indberetning.
+Virksomheder, der erhvervsmæssigt  
+
+ oparbejder indsamlet organisk affald, skal føre register, uanset om der  
+
+ oparbejdes mindre end 100 tons pr. år.
+Bemærk, at der i  
+
+ bekendtgørelsens tekst tales om indsamlet affald.
+Derfor er eksempelvis  
+
+ kompostering  
+
+ af affald internt på en affaldsproducerende virksomhed ikke omfattet, uanset  
+
+ mængden.
+ Bemærk at produktion af  
+
+ biogas på grundlag af husdyrgødning heller ikke er omfattet af gruppe 6.
+ Har en virksomhed en række  
+
+ anlæg under et fælles CVR-nummer, er virksomheden omfattet, medmindre den  
+
+ samlede oparbejdede mængde er under 100 tons.
+Gruppe 7) Virksomheder, herunder smelteværker, der ved omsmeltning oparbejder  
+
+ indsamlet og kildesorteret jern og metal.
+Gruppe 8) Virksomheder, herunder regummieringsvirksomheder og  
+
+ gummipulverfabrikker, der erhvervsmæssigt oparbejder indsamlet og  
+
+ kildesorteret  
+
+ autogummi.
+ Oparbejdning af autogummi  
+
+ betyder fremstilling af gummipulver fra brugte dæk (bildæk, lastbildæk,  
+
+ traktordæk m.v.) eller behandling af brugte dæk, så dækkene kan bruges igen.
+ Gummipulverfabrikker er  
+
+ virksomheder, der fremstiller gummipulver af brugte dæk.
+Ved  
+
+ regummieringsvirksomheder forstås virksomheder, der lægger nye slidbaner på  
+
+ brugte dæk, så de kan anvendes igen.
+Virksomheder, som alene anvender  
+
+ gummipulver i produktionen er ikke omfattet af gruppe 8.
+Gruppe 9) Virksomheder, der erhvervsmæssigt oparbejder indsamlet og kildesorteret  
+
+ asfalt.
+ Oparbejdning af asfalt  
+
+ betyder nedknusning eller anden behandling, eksempelvis kogning, der  
+
+ medfører,  
+
+ at asfalten kan genanvendes til vejbygning m.v.
+ Bemærk, at der her er tale  
+
+ om virksomheder, der oparbejder indsamlet asfalt, altså asfalt, der samles  
+
+ sammen på en plads eller et anlæg med henblik på oparbejdning.
+ En virksomhed er således  
+
+ ikke omfattet selvom den oparbejder asfalt med mobile maskiner, der i én  
+
+ proces  
+
+ graver gammel asfalt op fra vejen, regenererer det på stedet ved eksempelvis  
+
+ knusning og kogning og straks efter lægger asfalten ud på vejen igen.
+En plads, hvor der indsamles  
+
+ asfalt som midlertidigt oplag er ikke omfattet.
+Oparbejdes asfalten,  
+
+ eksempelvis ved hjælp af et mobilt knuseanlæg, vil det mobile anlæg være  
+
+ ansvarlig for indberetning af oplysninger, ikke pladsen.
+ Bemærk at der her er tale om  
+
+ pligten til indberetning af oplysninger i henhold til bekendtgørelsen.  
+
+ Bestemmelserne har intet at gøre med ansvarsforhold i øvrigt.
+Gruppe 10) Virksomheder, herunder mobile knuseanlæg, der erhvervsmæssigt  
+
+ oparbejder kildesorteret beton, tegl og andet bygge- og anlægsaffald.
+ Ved oparbejdning af beton,  
+
+ tegl og andet bygge- og anlægsaffald forstås nedknusning, eventuelt efter  
+
+ forudgående sortering.
+ At affaldet skal være  
+
+ kildesorteret betyder ikke, at der skal være tale om rene læs, blot at  
+
+ læssene  
+
+ ikke må indeholde fraktioner, der forhindrer den påtænkte oparbejdning.
+Gruppe 10 dækker  
+
+ virksomheder, der driver mobile, semi-mobile og stationære knuseanlæg.
+For  
+
+ mobile anlæg gælder, at det er den virksomhed, der driver det mobile anlæg,  
+
+ der  
+
+ er anmeldelses- og indberetningspligtig, ikke den plads, hvor anlægget p.t.  
+
+ er  
+
+ opstillet.
+Bemærk at der her er tale om  
+
+ pligten til indberetning af oplysninger.
+Bestemmelserne har intet at gøre med  
+
+ ansvarsforhold i øvrigt.
+ Nedknusning af asfalt skal  
+
+ også indberettes, jf. gruppe 9.
+Bemærk, at jord og sten er  
+
+ en separat fraktion i ISAG.
+Virksomheder, der alene nedknuser sten er derfor  
+
+ ikke omfattet.
+Gruppe 11) Virksomheder, der erhvervsmæssigt oparbejder indsamlet farligt affald.
+ Ved oparbejdning af farligt  
+
+ affald  
+
+ forstås videreudnyttelse,  
+
+ regenerering eller genvinding af farligt affald, herunder særlig behandling.
+Modtagestationer og  
+
+ modtagepladser for farligt affald er således ikke omfattet af gruppe 11,  
+
+ medmindre  
+
+ der foregår en egentlig oparbejdning af det indsamlede affald.
+Sortering,  
+
+ overførsel til andre beholdere og eksempelvis en simpel adskillelse af olie  
+
+ og  
+
+ vand er ikke oparbejdning, jf. ovenstående.
+ En række eksempler på  
+
+ oparbejdning af farligt affald  
+
+ er nævnt  
+
+ i bekendtgørelsens bilag 6B:
+-  
+
+ 	  
+
+ genvinding eller  
+
+ regenerering af opløsningsmidler -  
+
+ 	  
+
+ recirkulering eller  
+
+ genvinding af organiske stoffer, dler ikke anvendes som opløsningsmidler -  
+
+ 	  
+
+ recirkulering eller  
+
+ genvinding af metaller eller metalforbindelser -  
+
+ 	  
+
+ recirkulering eller  
+
+ genvinding af andre uorganiske stoffer -  
+
+ 	  
+
+ regenerering af  
+
+ syrer eller baser -  
+
+ 	  
+
+ genvinding af  
+
+ produkter, der anvendes til opfangning af forurenende stoffer -  
+
+ 	  
+
+ genvinding af  
+
+ produkter fra katalysatorer -  
+
+ 	  
+
+ regenerering eller  
+
+ andre genanvendelser af olie.
+ Som eksempler på særlig  
+
+ behandling af farligt affald kan nævnes:
+-  
+
+ 	  
+
+ forbrænding med  
+
+ energiudnyttelse -  
+
+ 	  
+
+ behandling som  
+
+ forberedelse til nyttiggørelse eller bortskaffelse.
+Gruppe 12) Virksomheder, der deponerer eller forbrænder farligt affald.
+ Deponerings- og  
+
+ forbrændingsanlæg er generelt indberetningspligtige til ISAG (jf. gruppe 1).
+Gruppe 12 omfatter  
+
+ deponerings- og forbrændingsanlæg som deponerer eller forbrænder farligt  
+
+ affald  
+
+ og som ikke er omfattet af lov om afgift af affald.
+Det vil sige, at  
+
+ virksomheder  
+
+ der deponerer eller forbrænder farligt affald altid skal indberette til ISAG.
+Gruppe 13) Virksomheder, herunder mobile anlæg, der foretager særlig behandling i  
+
+ form af aftapning af CFC-holdigt kølemiddel fra kasserede køleskabe og  
+
+ frysere.
+ Her tænkes på virksomheder,  
+
+ der kører rundt til genbrugsstationer mv. og foretager aftapning af  
+
+ CFC-holdige  
+
+ kølemidler fra kasserede køle- fryseskabe eller virksomheder med stationære  
+
+ anlæg til aftapning.
+Gruppe 14) Behandlingsanlæg for forurenet jord.
+Gruppe 14 omfatter  
+
+ virksomheder, der enten har mobile eller stationære anlæg til behandling af  
+
+ forurenet  
+
+ jord.
+Alle typer af behandlingsanlæg (biologiske, kemiske m.v.) er omfattet.  
+
+ In  
+
+ situ behandling af forurenet jord er ikke omfattet.
+Gruppe 15) Virksomheder, der erhvervsmæssigt sorterer, oparbejder eller separerer  
+
+ indsamlede og kildesorterede elektriske og elektroniske produkter.
+ Denne gruppe omfatter  
+
+ virksomheder, der sorterer kasserede elektriske og elektroniske produkter til  
+
+ videre separering og/eller oparbejdning såvel som virksomheder der foretager  
+
+ separering og/eller oparbejdning.
+Ved sortering forstås at der  
+
+ sker en udsortering af de enkelte typer af produkter, f.eks.
+PC skærme,  
+
+ printere, kaffemaskiner.
+ Ved separering forstås at  
+
+ produktet adskilles i mindre komponenter, f.eks. printplader, kondensatorer,  
+
+ plastdele.
+ Ved oparbejdning forstås at  
+
+ de separerede komponenter slutbehandles, f.eks. omsmeltes, brændes mv.
+Bilag C Bilag C  
+
+ STANDAT-filer Alle indberetninger til ISAG  
+
+ skal opbygges som fastlagt i det såkaldte STANDAT format.
+Den overordnede  
+
+ struktur skal være som følger.
+I filens HEADER, der vel  
+
+ nærmest kan oversættes med indledning, skal der gives en række  
+
+ grundoplysninger  
+
+ om filens afsender og modtager, datoformat m.v.
+En HEADER skal opbygges  
+
+ præcist  
+
+ som vist, men naturligvis med de relevante informationer indsat, som  
+
+ beskrevet  
+
+ i det følgende.
+Tegnsæt og  
+
+ datoformat De første 4 linier er faste.  
+
+ Det betyder, at der ved indberetningen skal anvendes det normale PC-tegnsæt  
+
+ (kaldet code page 865 i EDB-kredse) og alle datoer i filen skal følge  
+
+ formatet  
+
+ YYYYMMDD, dvs. først 4 cifre for årstal, så 2 cifre for måned og til slut 2  
+
+ cifre for dag. 17. juni 2001 skrives altså som 20010617. STANDAT giver andre  
+
+ muligheder for datoformat, men det anbefales at anvende det viste format.
+Afsender De næste 3 linier beskriver  
+
+ filens afsender.
+Først navnet på virksomheden, så nummeret på den kommune,  
+
+ hvor  
+
+ virksomheden er beliggende og endeligt navnet på virksomhedens kontaktperson  
+
+ vedrørende ISAG, altså den person, som Miljøstyrelsen kan henvende sig til,  
+
+ hvis der er problemer med filen.
+Modtager Herefter følger en  
+
+ tilsvarende identifikation af filens modtager.
+Disse 3 linier er altid faste  
+
+ (skal angives uden prikkerne):
+-  
+
+ 	  
+
+ Miljøstyrelsen -  
+
+ 	  
+
+ 101 -  
+
+ 	  
+
+ Affaldskontoret.
+Dato og  
+
+ tidspunkt Herefter følger datoen for  
+
+ den dag filen er dannet, næste linie angiver timen og næste linie igen  
+
+ minuttallet.  
+
+ Er filen dannet den 20. januar 2001 kl. 10:30 skal de 3 linier altså være:
+-  
+
+ 	  
+
+ 20010120 -  
+
+ 	  
+
+ 10 -  
+
+ 	  
+
+ 30.
+Stedbestemmelse Så følger angivelse af det  
+
+ system, der anvendes til stedsbestemmelse.
+Der anvendes ikke oplysninger om  
+
+ stedbestemmelse i indberetningen til ISAG, men systemet skal alligevel  
+
+ angives  
+
+ som UTM, der er et meget anvendt stedbestemmelsessystem i forbindelse med  
+
+ miljøoplysninger.
+Næste linie indeholder zoneangivelse i UTM-systemet og skal  
+
+ være 33 for Bornholm og 32 for resten af landet.
+Kommentarer HEADER afsluttes med et  
+
+ vilkårligt antal linier med kommentarer efterfulgt af det viste END HEADER.  
+
+ Det  
+
+ anbefales kort at beskrive filens indhold i kommentarlinierne, eksempelvis  
+
+ 'ISAG-indberetning for perioden 1. juli til 31. december 2001'. Der kan også  
+
+ anføres andre linier i kommentarblokken, men der er ingen garanti for, at  
+
+ kommentarblokken bliver læst i Miljøstyrelsen.
+Kommentarer læses normalt kun,  
+
+ hvis der er problemer med indberetningsfilen.
+Derfor anbefales det, at  
+
+ eventuelle  
+
+ kommentarer skrives i et følgebrev.
+DEFINITION Mellem linierne med  
+
+ DEFINITION og END DEFINITION angives opbygningen af indberetningsfilen.
+Denne  
+
+ del skal være præcist som vist i figuren nedenfor.
+Der er dog mulighed for at  
+
+ tilføje ekstra informationer når blot kravene i STANDAT overholdes, men alle  
+
+ de  
+
+ viste felter (FIELD) skal være med i indberetningsfilen.
+ DEFINITION-delen skal  
+
+ opbygges præcist med de viste felter i den viste rækkefølge.
+DATA DATA-delen skal opbygges med  
+
+ den viste struktur.
+GROUP 00000000 skal optræde netop én gang.
+Inde i denne  
+
+ gruppe skal der optræde en GROUP 00008010 for hvert forbrændingsanlæg eller  
+
+ deponeringsanlæg  
+
+ tilknyttet virksomheden.
+Forbrændingsanlæg skal yderligere beskrives med en  
+
+ GROUP 00008020 for hver ovnlinie på anlægget.
+GROUP 00008000 skal optræde en  
+
+ gang for hver registrering, der skal indberettes.
+GROUP 00000000 Indberetningsfiler til ISAG  
+
+ skal altså indeholde netop én GROUP 00000000. Jf. "opskriften" i  
+
+ DEFINITION-delen, skal data i GROUP 00000000 opbygges med følgende indhold:
+CVR-nummer Her angives det 8-cifrede  
+
+ CVR-nummer, som er virksomhedens registreringsnummer ved de statslige told-  
+
+ og  
+
+ skattemyndigheder (Told Skat).
+Navn Virksomhedens navn,  
+
+ eksempelvis I/S Sydøstforbrænding.
+Adresse Virksomhedens postadresse,  
+
+ eksempelvis Østergade 42 A.
+Postnummer Tilsvarende virksomhedens  
+
+ postnummer, eksempelvis 7800, hvis virksomheden er beliggende i Skive.
+Telefonnummer Virksomhedens 8-cifrede  
+
+ telefonnummer.
+Kontaktperson Navnet på den person på  
+
+ virksomheden, som Miljøstyrelsen kan henvende sig til vedrørende ISAG.
+Som det ses er nogle af  
+
+ informationerne allerede medtaget i HEADER-delen.
+De skal gentages her, fordi  
+
+ HEADER er beregnet til manuel identifikation af en fil, mens DATA-delen er  
+
+ beregnet til maskinel læsning.
+GROUP 00008010 Gruppe 00008010 skal være  
+
+ indlejret i gruppe 00000000, og skal optræde én gang for hvert  
+
+ forbrændingsanlæg  
+
+ og deponeringsanlæg, der er tilknyttet den aktuelle virksomhed.
+P-nummer Produktionsstedsnummer  
+
+ (P-nummer) for det aktuelle anlæg.
+Anlægsnavn Anlæggets navn.
+Adresse Anlæggets adresse.
+Postnummer Anlæggets postnummer.
+Beliggenhedskommune Nummeret på den kommune, som  
+
+ anlægget er beliggende i.
+Bilag D indeholder en oversigt over kommunenumre.
+Anlægstype Kode for anlægstype, jf.  
+
+ angivelsen af  
+
+  
+
+ Anlægskilder  
+
+  
+
+ i  
+
+ kodelisten i bilag E.
+Gennemsnitlig brændværdi, GJ/tons Kun relevant for  
+
+ forbrændingsanlæg.
+Blank linie for andre anlægstyper.
+Bruttoindtægt for modtagelse af affald Angives eksklusive  
+
+ affaldsafgift og moms.
+Etableringsår Året for etablering af  
+
+ anlægget.
+Godkendt volumen i m3 Kun relevant for  
+
+ deponeringsanlæg.
+Blank linie for andre anlægstyper.
+Restvolumen i m3 Kun relevant for  
+
+ deponeringsanlæg.
+Blank linie for andre anlægstyper.
+GROUP 00008020 Gruppe 00008020 anvendes kun  
+
+ for forbrændingsanlæg og skal være indlejret i gruppe 00008010. Den skal  
+
+ optræde én gang for hver ovnlinie på anlægget.
+Betegnelse for ovnlinie Intern betegnelse for ovnlinien,  
+
+ eksempelvis "Ovn 3".
+Etableringsår Året for etablering af  
+
+ ovnlinien.
+Kapacitet i tons per time Ovnen nominelle kapacitet.
+Nominel brændværdi i GJ/tons Den brændværdi, som  
+
+ ovnlinien er udlagt for.
+Driftstid i timer/år Aktuelt antal driftstimer i  
+
+ det år, som indberetningen vedrører.
+Termisk virkningsgrad i % Ovnens termiske  
+
+ virkningsgrad, som den er oplyst af leverandøren.
+Status for ovnlinie Angiv ved kode 1 at ovnen er  
+
+ Etableret eller kode 2 at ovnen er Planlagt.
+GROUP 00008000 Gruppe 00008000 gentages for  
+
+ hver registrering, der skal indberettes.
+En gruppe 00008000 svarer altså til  
+
+ netop en enkeltregistrering eller netop en sammentælling.
+Jf.  
+
+ "opskriften" i DEFINITION-delen skal gruppe 00008000 opbygges med  
+
+ følgende oplysninger:
+P-nummer Produktionsstedsnummer  
+
+ (P-nummer) for det anlæg, hvor affaldet er tilført eller fraført.
+Vejedato Vejedato angives i det  
+
+ datoformat, der blev angivet i HEADER, normalt YYYYMMDD svarende til 20010120  
+
+ for 20. januar 2001. For sammentællinger skal datoen være datoen for den  
+
+ første  
+
+ dag i den måned, som sammentællingen vedrører.
+For en sammentælling  
+
+ vedrørende  
+
+ august 2001 skal datoen altså angives som 20010801.
+Vejet mængde Mængden angives som et  
+
+ ikke-negativt tal.
+Der skal anvendes punktum til decimaladskillelse.  
+
+ Eksempler  
+
+ på lovlige tal:
+- 12.4 12,4 kg eller tons,  
+
+ afhængig af næste linie i filen - 10 10 kg eller tons, afhængig  
+
+ af næste linie i filen - 0 lovligt, men næppe  
+
+ relevant.
+ Eksempler på ulovlige tal:
+- -4.7 Mængden må ikke være  
+
+ negativ - 12,5 Der skal anvendes punktum  
+
+ som decimaltegn.
+Enhed Mængden skal angives i kg  
+
+ eller tons.
+Her angives hvilken enhed, der er benyttet.
+Da enhed angives for  
+
+ hver registrering kan en del af mængderne altså angives i kg og andre i tons.  
+
+ Enheden angives som den tilhørende 2-cifrede STANDAT-kode:
+- kg kode = 92 - tons kode = 93.
+Løbenummer Registreringens løbenummer.  
+
+ Skal være fortløbende for hver måned.
+Geografisk kilde Angives som det 3-cifrede  
+
+ nummer på den kommune, hvor affaldet er frembragt.
+Kommunenumre er vist i  
+
+ bilag  
+
+ D.
+Erhvervsmæssig kilde, affaldstype, behandlingsform,  
+
+ affaldsfraktion niveau 1 og niveau 2 Disse felter udfyldes med de  
+
+ koder, der er vist for hver oplysningstype i bilag E.
+Affaldsfraktion niveau  
+
+ 2  
+
+ skal kun udfyldes, hvis affaldsfraktion niveau 1 er mærket med en * i bilag  
+
+ E.
+EAK-kode Hvis affaldsfraktion niveau  
+
+ 1 er optaget i tabellen med farligt affald i bilag E, skal der endvidere  
+
+ angives en kode fra det Europæiske affaldskatalog (EAK-kode). Kodelisten er  
+
+ gengivet i bekendtgørelsen og er meget omfattende.
+Det er vigtigt at anvende  
+
+ den hierarkiske struktur i EAK kodelisten, således at man først identificerer  
+
+ den korrekte hovedgruppe (20 valgmuligheder) og derefter søger videre efter  
+
+ en  
+
+ dækkende kode.
+Kildespecifikation Kildespecifikation er et  
+
+ frit tekstfelter med indtil 25 tegn.
+Anvendes til internt brug eller udfyldes  
+
+ efter krav fra anvisningskommuner.
+Kan være blank ved indberetning til  
+
+ Miljøstyrelsen.
+Der er vist et eksempel på  
+
+ en komplet STANDAT-fil nedenfor.
+Af pladshensyn er eksemplet vist i 2  
+
+ kolonner,  
+
+ men indberetningsfiler vil naturligvis være opbygges fortløbende i én  
+
+ kolonne.
+HEADER V1.1 CODE PAGE 865 YYYYMMDD Miljøstyrelsen 101 ISAG Version 4.02 Miljøstyrelsen 101 Affaldskontoret 20010519 22 40 UTM 32 ISAG Version 4.02 END HEADER DEFINITION GROUP 00000000 DAT FIELD 00001392 FIELD 00000039 FIELD 00000040 FIELD 00000756 FIELD 00000041 FIELD 00000045 GROUP 00008010 DAT FIELD 00002001 FIELD 00000039 FIELD 00000040 FIELD 00000756 FIELD 00000033 FIELD 00002201 FIELD 00002202 FIELD 00002203 FIELD 00000789 FIELD 00002204 FIELD 00002205 GROUP 00008020 DAT FIELD 00002206 FIELD 00000789 FIELD 00002207 FIELD 00002208 FIELD 00002209 FIELD 00002210 FIELD 00002211 END GROUP END GROUP GROUP 00008000 DAT FIELD 00002001 FIELD 00001127 FIELD 00001393 FIELD 00000100 FIELD 00001394 FIELD 00001395 FIELD 00002000 FIELD 00002212 FIELD 00001396 FIELD 00001397 FIELD 00000900 FIELD 00001398 FIELD 00000107 FIELD 00002007 FIELD 00002213 END GROUP END GROUP END DEFINITION DATA GROUP 00000000 12345678 Testanlæg Svinget 1 2990 87654321 Erik Nørby GROUP 00008010 1693168317 Deponeringspladsen Svinget 12 2990 227 13 270000 1984 20000 17000 END GROUP GROUP 00008000 1693168317 20010101 0.79 93 1 719 8 46222954 1 21 1 50.00 50.01 END GROUP GROUP 00008000 1693168317 20010101 0.20 93 2 833 8 46222954 2 24 4 05.00 20 01 12 00 05.99 END GROUP END GROUP END DATA STANDAT-fil med eksempel på  
+
+ indberetning til Miljøstyrelsen.
+Filen beskriver et deponeringsanlæg og to  
+
+ registreringer af affald, den ene  
+
+  
+
+ Oparbejdning  
+
+  
+
+ af  
+
+  
+
+ Papir og pap  
+
+  
+
+ med tilhørende kode i  
+
+ affaldsfraktion niveau 2, den anden  
+
+  
+
+ Særlig  
+
+ behandling  
+
+  
+
+ af  
+
+  
+
+ Andet farligt affald  
+
+  
+
+ ,  
+
+ ligeledes med tilhørende affaldsfraktion niveau 2 og med angivelse af  
+
+ EAK-kode,  
+
+ idet der er tale om farligt affald.
+ Bemærk, at det udsendte ISAG program kan anvendes  
+
+ til kontrol af STANDAT-filer.
+Bilag D Bilag D  
+
+ Kommuner Nummerorden Kommunenavn Kommunenummer Kommunenavn Kommunenummer København 101 Frederiksborg  
+
+ Amt 020 Frederiksberg 147 Allerød 201 Københavns  
+
+ Amt 015 Birkerød 205 Ballerup 151 Farum 207 Brøndby 153 Fredensborg-Humlebæk 208 Dragør 155 Frederikssund 209 Gentofte 157 Frederiksværk 211 Gladsaxe 159 Græsted-Gilleleje 213 Glostrup 161 Helsinge 215 Herlev 163 Helsingør 217 Albertslund 165 Hillerød 219 Hvidovre 167 Hundested 221 Høje-Tåstrup 169 Hørsholm 223 Ledøje-Smørum 171 Jægerspris 225 Lyngby-Taarbæk 173 Karlebo 227 Rødover 175 Skibby 229 Søllerød 181 Skævinge 231 Ishøj 183 Slangerup 233 Tårnby 185 Stenløse 235 Vallensbæk 187 Ølstykke 237 Værløse 189 Roskilde Amt 025 Storstrøms Amt 035 Bramsnæs 251 Fakse 351 Greve 253 Fladså 353 Gundsø 255 Holeby 355 Hvalsø 257 Holmegård 357 Køge 259 Højreby 359 Lejre 261 Langebæk 361 Ramsø 263 Maribo 363 Roskilde 265 Møn 365 Skovbo 267 Nakskov 367 Solrød 269 Nykøbing  
+
+ Falster 369 Vallø 271 Nysted 371 Næstved 373 Vestsjællands Amt 030 Nørre  
+
+ Alslev 375 Bjergsted 301 Præstø 377 Dianalund 303 Ravnsborg 379 Dragsholm 305 Rudbjerg 381 Fuglebjerg 307 Rødby 383 Gørlev 309 Rønnede 385 Hashøj 311 Sakskøbing 387 Haslev 313 Stevns 389 Holbæk 315 Stubbekøbing 391 Hvidebæk 317 Suså 393 Høng 319 Sydfalster 395 Jernløse 321 Vordingborg 397 Kalundborg 323 Korsør 325 Bornholms Amt 040 Nykøbing-Rørvig 327 Allinge-Gudhjem 401 Ringsted 329 Hasle 403 Skælskør 331 Neksø 405 Slagelse 333 Rønne 407 Sorø 335 Aakirkeby 409 Stenlille 337 Christiansø 411 Svinninge 339 Tornved 341 Trundholm 343 Tølløse 345 Fyns Amt 042 Sønderjyllands Amt 050 Assens 421 Augustenborg 501 Bogense 423 Bov 503 Broby 425 Bredebro 505 Egebjerg 427 Broager 507 Ejby 429 Christiansfeld 509 Faaborg 431 Gram 511 Glamsbjerg 433 Gråsten 513 Gudme 435 Haderslev 515 Haarby 437 Højer 517 Kerteminde 439 Lundtoft 519 Langeskov 441 Løgumkloster 521 Marstal 443 Nordborg 523 Middelfart 445 Nørre-Rangstrup 525 Munkebo 447 Rødding 527 Nyborg 449 Rødekro 529 Nørre-Aaby 451 Skærbæk 531 Odense 461 Sundeved 533 Otterup 471 Sydals 535 Ringe 473 Sønderborg 537 Rudkøbing 475 Tinglev 539 Ryslinge 477 Tønder 541 Svendborg 479 Vojens 543 Sydlangeland 481 Aabenraa 545 Søndersø 483 Tommerup 485 Tranekær 487 Ullerslev 489 Vissenbjerg 491 Ærøskøbing 493 Ørbæk 495 Årslev 497 Aarup 499 Ribe Amt 055 Ringkøbing Amt 065 Billund 551 Aulum-Haderup 651 Blaabjerg 553 Brande 653 Blåvandshuk 555 Egvad 655 Bramming 557 Herning 657 Brørup 559 Holmsland 659 Esbjerg 561 Holstebro 661 Fanø 563 Ikast 663 Grindsted 565 Lemvig 665 Helle 567 Ringkøbing 667 Holsted 569 Skjern 669 Ribe 571 Struer 671 Varde 573 Thyborøn-Harboøre 673 Vejen 575 Thyholm 675 Ølgod 577 Trehøje 677 Ulfborg-Vemb 679 Vejle Amt 060 Videbæk 681 Brædstrup 601 Vinderup 683 Børkop 603 Aaskov Egtved 605 Fredericia 607 Gedved 609 Give 611 Hedensted 613 Horsens 615 Jelling 617 Juelsminde 619 Kolding 621 Lunderskov 623 Nørre-Snede 625 Tørring-Uldum 627 Vamdrup 629 Vejle 631 Århus Amt 070 Viborg Amt 076 Ebeltoft 701 Bjerringbro 761 Galten 703 Fjends 763 Gjern 705 Hanstholm 765 Grenaa 707 Hvorslev 767 Hadsten 709 Karup 769 Hammel 711 Kjellerup 771 Hinnerup 713 Morsø 773 Hørning 715 Møldrup 775 Langå 717 Sallingsund 777 Mariager 719 Skive 779 Midtdjurs 721 Spøttrup 781 Nørhald 723 Sundsøre 783 Nørre-Djurs 725 Sydthy 785 Odder 727 Thisted 787 Purhus 729 Tjele 789 Randers 731 Viborg 791 Rosenholm 733 Ålestrup 793 Rougsø 735 Ry 737 Rønde 739 Samsø 741 Silkeborg 743 Skanderborg 745 Sønderhald 747 Them 749 Århus 751 Nordjyllands Amt 080 Arden 801 Brovst 803 Brønderslev 805 Dronninglund 807 Farsø 809 Fjerritslev 811 Frederikshavn 813 Hadsund 815 Hals 817 Hirtshals 819 Hjørring 821 Hobro 823 Læsø 825 Løgstør 827 Løkken-Vrå 829 Nibe 831 Nørager 833 Pandrup 835 Sejlflod 837 Sindal 839 Skagen 841 Skørping 843 Støvring 845 Sæby 847 Åbybro 849 Aalborg 851 Års Alfabetisk orden Kommunenavn Kommunenummer Kommunenavn Kommunenummer Albertslund 165 Fanø 563 Allerød 201 Farsø 809 Allinge-Gudhjem 401 Farum 207 Arden 801 Fjends 763 Assens 421 Fjerritslev 811 Augustenborg 501 Fladså 353 Aulum-Haderup 651 Fredensborg-Humlebæk 208 Ballerup 151 Fredericia 607 Billund 551 Frederiksberg 147 Birkerød 205 Frederikshavn 813 Bjergsted 301 Frederikssund 209 Bjerringbro 761 Frederiksværk 211 Blaabjerg 553 Fuglebjerg 307 Blåvandshuk 555 Faaborg 431 Bogense 423 Galten 703 Bov 503 Gedved 609 Bramming 557 Gentofte 157 Bramsnæs 251 Give 611 Brande 653 Gjern 705 Bredebro 505 Gladsaxe 159 Broager 507 Glamsbjerg 433 Broby 425 Glostrup 161 Brovst 803 Gram 511 Brædstrup 601 Grenaa 707 Brøndby 153 Greve 253 Brønderslev 805 Grindsted 565 Brørup 559 Græsted-Gilleleje 213 Børkop 603 Gråsten 513 Christiansfeld 509 Gudme 435 Christiansø 411 Gundsø 255 Dianalund 303 Gørlev 309 Dragsholm 305 Haderslev 515 Dragør 155 Hadsten 709 Dronninglund 807 Hadsund 815 Ebeltoft 701 Hals 817 Egebjerg 427 Hammel 711 Egtved 605 Hanstholm 765 Egvad 655 Hashøj 311 Ejby 429 Hasle 403 Esbjerg 561 Haslev 313 Fakse 351 Hedensted 613 Helle 567 Langebæk 361 Helsinge 215 Langeskov 441 Helsingør 217 Langå 717 Herlev 163 Ledøje-Smørum 171 Herning 657 Lejre 261 Hillerød 219 Lemvig 665 Hinnerup 713 Lundeskov 623 Hirtshals 819 Lundtoft 519 Hjørring 821 Lyngby-Taarbæk 173 Hobro 823 Læsø 825 Holbæk 315 Løgstør 827 Holeby 355 Løgumkloster 521 Holmsgård 357 Løkken-Vrå 829 Holmsland 659 Mariager 719 Holstebro 661 Maribo 363 Holsted 569 Marstal 443 Horsens 615 Middelfart 445 Hundested 221 Midtdjurs 721 Hvalsø 257 Morsø 773 Hvidebæk 317 Munkebo 447 Hvidovre 167 Møldrup 775 Hvorslev 767 Møn 365 Højer 517 Nakskov 367 Høje-Tåstrup 169 Neksø 405 Højreby 359 Nibe 831 Høng 319 Nordborg 523 Hørning 715 Nyborg 449 Hørsholm 223 Nykøbing  
+
+ Falster 369 Haarby 437 Nykøbing-Rørvig 327 Ikast 663 Nysted 371 Ishøj 183 Næstved 373 Jelling 617 Nørager 833 Jernløse 321 Nørhald 723 Juelsminde 619 Nørre-Alslev 375 Jægerspris 225 Nørre-Djurs 725 Kalundborg 323 Nørre-Rangstrup 525 Karlebo 227 Nørre-Snede 625 Karup 769 Nørre-Aaby 451 Kerteminde 439 Odder 727 Kjellerup 771 Odense 461 Kolding 621 Otterup 471 Korsør 325 Pandrup 835 København 101 Præstø 377 Køge 259 Purhus 729 Ramsø 263 Stenløse 235 Randers 731 Stevns 389 Ravsnborg 379 Struer 671 Ribe 571 Stubbekøbing 391 Ringe 473 Støvring 845 Ringkøbing 667 Sundeved 533 Ringsted 329 Sundsøre 783 Rosenholm 733 Suså 393 Roskilde 265 Svendborg 479 Rougsø 735 Svinninge 339 Rudbjerg 381 Sydals 535 Rudkøbing 475 Sydfalster 395 Ry 737 Sydlangeland 481 Ryslinge 477 Sydthy 785 Rødby 383 Sæby 847 Rødding 527 Søllerød 181 Rødekro 529 Sønderborg 537 Rødovre 175 Sønderhald 747 Rønde 739 Søndersø 483 Rønne 407 Them 749 Rønnede 385 Thisted 787 Sakskøbing 387 Thyborøn-Harboøre 673 Sallingsund 777 Thyholm 675 Samsø 741 Tinglev 539 Sejlflod 837 Tjele 789 Silkeborg 743 Tommerup 485 Sindal 839 Tornved 341 Skagen 841 Tranekær 487 Skanderborg 745 Trehøje 677 Skibby 229 Trundholm 343 Skive 779 Tølløse 345 Skjern 669 Tønder 541 Skovbo 267 Tørring-Uldum 627 Skælskør 331 Tårnby 185 Skærbæk 531 Ulfborg-Vemb 679 Skævinge 231 Ullerslev 489 Skørping 843 Vallensbæk 187 Slagelse 333 Vallø 271 Slangerup 233 Vamdrup 629 Solrød 269 Varde 573 Sorø 335 Vejen 575 Spøttrup 781 Vejle 631 Stenlille 337 Viborg 791 Videbæk 681 Vinderup 683 Vissenbjerg 491 Vojens 543 Vordingborg 397 Værløse 189 Ærøskøbing 493 Ølgod 577 Ølstykke 237 Ørbæk 495 Aabenraa 545 Åbybro 849 Aakirkeby 409 Aalborg 851 Ålestrup 793 Århus 751 Års 861 Årslev 497 Aarup 499 Aaskov 685 Bilag E Bilag E  
+
+ Kodelister Kode Erhvervsmæssig kilde Direkte kilder 01 Husholdninger 02 Institutioner,  
+
+ handel og kontor 05 Byggeri  
+
+ og anlægsvirksomhed 07 Rensningsanlæg 08 Container/omlastestation 20 Nærings-  
+
+ og nydelsesmiddelindustri 21 Tekstil-,  
+
+ beklædnings- og læderindustri 22 Træ-  
+
+ og møbelindustri 23 Papir-  
+
+ og grafisk industri 24 Kemisk  
+
+ industri mv.
+25 Gummi-  
+
+ og plastindustri 26 Sten-,  
+
+ ler- og glasindustri 27 Jern-  
+
+ og metalindustri 28 Anden  
+
+ fremstillingsvirksomhed 29 Forsyningsvirksomhed 30 Landbrug,  
+
+ skovbrug, fiskeri mv.
+Anlægskilder 10 Oparbejdningsanlæg 11 Komposterings-  
+
+ og biogasanlæg 12 Forbrændingsanlæg 13 Deponeringsanlæg 14 Slamforbrændingsanlæg 15 Anlæg  
+
+ til særlig behandling Kode Affaldstype 01 Dagrenovation 21 Storskrald 22 Haveaffald 23 Erhvervsaffald 26 Emballageaffald 24 Farligt  
+
+ affald 09 Behandlingsrest 99 Ikke  
+
+ oplyst Kode Behandlingsform 01 Oparbejdning 02 Forbrænding 03 Deponering 04 Særlig  
+
+ behandling 05 Fraført  
+
+ anlæg 06 Eksporteret 07 Afgiftsfritaget  
+
+ forbrænding 08 Afgiftsfritaget  
+
+ deponering 09 Midlertidig  
+
+ oplagring Kode Affaldsfraktioner, Generelt  
+
+ affald 19.00 Forbrændingsegnet 23.00 Ikke-forbrændingsegnet 50.00 Papir  
+
+ og pap * 51.00 Glas 52.00 Plast  
+
+ * 53.00 Madspild/andet  
+
+ organisk 54.00 Grene,  
+
+ blade, græs mv.
+55.00 Bark  
+
+ og træflis 65.00 Kompost 56.20 Jern  
+
+ og metal 57.00 Autogummi 58.00 Beton 59.00 Tegl 60.00 Andet  
+
+ bygge/anlægsaffald 61.00 Asfalt 62.00 Træ 63.00 Jord  
+
+ og sten 64.00 Andet  
+
+ genanvendeligt 67.00 Sigterest 83.00 Slam  
+
+ * 71.00 Sand  
+
+ og ristestof 72.00 Slagger 76.00 Affaldsafgiftsbelagt  
+
+ driftsmidler til røggasrensning 79.00 Elektriske  
+
+ og elektroniske produkter 80.00 CFC-holdige  
+
+ køleskabe og frysere Kode Affaldsfraktioner, Farligt  
+
+ affald 66.00 Klinisk  
+
+ risikoaffald 73.00 Flyveaske 74.00 Andet  
+
+ røggasaffald 75.00 Asbest 81.00 CFC  
+
+ kølemidler 82.00 Shredderaffald 77.00 Batterier 01.00 Animalske  
+
+ og vegatabilske fodtstoffer * 02.00 Organiske,  
+
+ halegenholdige forbindelser * 03.00 Organiske,  
+
+ halogenfri forbindelser * 04.00 Uorganiske  
+
+ forbindelser * 06.00 Olieaffald  
+
+ * 05.00 Andet  
+
+ affald * For affaldsfraktioner, der  
+
+ er mærket med *, skal der også angives affaldsfraktion niveau 2, se nedenfor.
+Affaldsfraktioner niveau 2 Kode Papir og pap * 50.01 Aviser  
+
+ og blade 50.02 Bølgepap 50.03 Bedre  
+
+ papirkvaliteter 50.04 Andet  
+
+ papir og pap Kode Plast * 52.01 LDPE 52.02 HDPE 52.03 PP 52.04 PET 52.05 PS 52.06 PVC 52.07 Blandet  
+
+ plast Kode Slam 83.01 Slam  
+
+ <10% TS (flydende) 83.02 Slam  
+
+ 10-30% TS (blødt) 83.03 Slam  
+
+ >30% TS (fast) Kode Animalske og vegetabilske  
+
+ fedtstoffer * 01.11 Vaske-  
+
+ og rengøringsmiddelaffald Kode Organiske halogenholdige  
+
+ forbindelser * 02.11 Org.opløsningsmidler  
+
+ med organisk bunden  
+
+  
+
+ halogen 02.12 Brandfarlige  
+
+ org.opløsningsmidler med organisk bundet halogen 02.22 Org.opløsningsmidler  
+
+ med forbindelse af halogen/svovl 02.31 PCB-  
+
+ og PCT-affald 02.32 Flydende  
+
+ rester fra org.syntese indeholdende giftstofffer og halogen/svovl 02.33 Flydende  
+
+ rester fra org.syntese med halogen/svovl 02.41 PVC-slam  
+
+ fra plastbelægning, der indeholder org.opløsningsmidler 02.51 Faste  
+
+ rester fra genvinding af halogenholdige opløsningsmidler 02.52 Faste  
+
+ rester fra org.syntese indeholdende giftstoffer og halogen/svovl 02.53 Faste  
+
+ rester fra org.syntese indeholdende halogen/svovl Kode Organiske halogenholdige  
+
+ forbindelser * 03.11 Org.aromatiske  
+
+ opløsningsmidler uden halogen/svovl 03.13 Org.opløsningsmidler  
+
+ uden aromatiske opløsningsmidler eller halogen/svovl 03.21 Farve/lak/maling  
+
+ med org.opløsningsmidler 03.22 Farve/lak/maling  
+
+ uden org.opløsningsmidler 03.25 Tjære  
+
+ og rustbeskyttende olier 03.26 Alkohol/vand  
+
+ fra nylonclichéer 03.27 Rester  
+
+ fra destillation af blandinger med acetone/styren/uhærdet polyester 03.31 Org.metalforbindelser  
+
+ undtagen kvivsølv 03.32 Flydende  
+
+ org.rester fra destillation uden halogen/svovl 03.33 Formaldehydopløsninger  
+
+ <30% 03.34 Phenol-  
+
+ og formaldehydemulsion 03.35 Di-isocyanater 03.36 Frostsikringsvæske 03.41 Latex/gummislam  
+
+ med org.opløsningsmidler 03.43 Syreslam  
+
+ fra raffinering af brugt smøreolie 03.51 Limaffald  
+
+ med org.opløsningsmidler/2-komponent lim 03.52 Faste  
+
+ rester fra org.syntese uden halogen/svovl 03.53 Slibestøv  
+
+ med asbest/metaller 03.55 Roemos  
+
+ med blyforbindelser Kode Uorganiske forbindelser * 04.11 Sure  
+
+ vandige opløsninger med chromforbindelser 04.16 Sure  
+
+ vandige opløsninger med salpetersyre med ikke flussyre 04.17 Sure  
+
+ vandige opløsninger med flussyre/fluorider 04.18 Sure  
+
+ vandige opløsninger med salt-/svovl-/fosforsyre 04.21 Fotografiske  
+
+ fremkalderbade 04.22 Chromholdige  
+
+ fotoprocesbade 04.23 Fixerbade 04.32 Basiske  
+
+ vandige opløsninger uden cyanid 04.34 Basiske  
+
+ vandige opløsninger med cyanid 04.41 Metalhydroxid  
+
+ og oxidslam 04.42 Røgvaskerslam  
+
+ og røgfilterstøv fra jern- og metalstøberier 04.43 Farveriaffald 04.45 Vandigt  
+
+ slam fra trykimprægnering af træ 04.51 Hærdesalte 04.52 Kviksølvaffald Kode Behandlingsform 06.01 Olieaffald 06.02 Gear-  
+
+ eller hydraulikolie 06.03 Varmetransmissioneolier 06.04 Anden  
+
+ smøreolie 06.05 Olie-  
+
+ og benzinudskillere 06.06 Bore/skæreolie,  
+
+ ufortyndet 06.07 Olieemulsion 06.08 Smørefedt 06.09 Motorbenzin 06.10 Petroleum 06.11 Dieselolie 06.12 Gasolie 06.13 Fuelolie 06.14 Andre  
+
+ olieholdige produkter 06.61 Skæreolie 06.62 Skærevædske 06.71 Mineralsk  
+
+ bore/skæreolie i vand 06.72 Syntetisk  
+
+ bore/skærevædske i vand Kode Andet farligt affald * 05.11 Klude  
+
+ med org.opløsningsmidler 05.12 Affald  
+
+ fra produktion og forhandling af kemiske bekæmpelsesmidler 05.13 Affald  
+
+ af lægemidler 05.14 Kemikalier  
+
+ fra laboratorie m.v.
+05.16 Mineraluldsaffald 05.99 Andet  
+
+ farligt affald Bilag F Bilag F  
+
+ Erhvervsmæssige kilder Erhvervsmæssig kilde Som erhvervsmæssig kilde  
+
+ angives den kilde, hvor affaldet kommer fra udfra nedenstående  
+
+ valgmuligheder.  
+
+ Hver erhvervsmæssige kilde er markeret ved kursiv og omfatter en række  
+
+ brancher.
+Til hjælp ved registreringen er i parentes angivet numre, som  
+
+ henviser til definitionerne i Dansk Branchekode 93, Danmarks Statistik.
+ Når affald fraføres  
+
+ affaldsbehandlingsanlæg, som er pligtige at føre register, angives  
+
+ erhvervsmæssig  
+
+ kilde som oparbejdningsanlæg, komposterings- og biogasanlæg,  
+
+ forbrændingsanlæg,  
+
+ deponeringsanlæg, slamforbrændingsanlæg, eller anlæg til særlig behandling,  
+
+ afhængigt af virksomhedens art.
+Husholdninger -  
+
+ 	  
+
+ Etageboliger,  
+
+ herunder kollegieboliger.
+ -  
+
+ 	  
+
+ Haveboliger,  
+
+ herunder stuehuse, parcelhuse, rækkehuse og tæt/lav bebyggelse, herunder  
+
+ private husholdninger med ansat medhjælp (95).
+ -  
+
+ 	  
+
+ Sommerboliger, herunder  
+
+ sommerhuse og kolonihaver.
+Institutioner/handel og kontor -  
+
+ 	  
+
+ Undervisning (80).
+ -  
+
+ 	  
+
+ Sundhedsvæsen og  
+
+ sociale foranstaltninger, herunder hospitaler, praktiserende læger og  
+
+ tandlæger,  
+
+ dyrlæger samt dag- og døgninstitutioner mv. (85).
+ -  
+
+ 	  
+
+ Organisationer og foreninger  
+
+ ikke andetsteds nævnt. (91).
+ -  
+
+ 	  
+
+ Forlystelser, kultur  
+
+ og sport (92).
+ -  
+
+ 	  
+
+ Anden  
+
+ servicevirksomhed (93).
+ -  
+
+ 	  
+
+ Internationale  
+
+ organisationer mv. (99).
+ -  
+
+ 	  
+
+ Handel med biler mv.  
+
+ reparation og vedligeholdelse heraf samt servicestationer (50).
+ -  
+
+ 	  
+
+ Engroshandel og  
+
+ agenturhandel undtagen med biler mv. (51).
+ -  
+
+ 	  
+
+ Detailhandel  
+
+ undtagen med biler; reparationsvirksomhed (52).
+ -  
+
+ 	  
+
+ Hotel- og  
+
+ restaurationsvirksomhed (55).
+ -  
+
+ 	  
+
+ Landtransport,  
+
+ skibsfart og lufttransport (60, 61 og 62).
+ -  
+
+ 	  
+
+ Hjælpevirksomhed i  
+
+ forbindelse med transport (63).
+ -  
+
+ 	  
+
+ Post- og  
+
+ telekommunikation (64).
+ -  
+
+ 	  
+
+ Pengeinstitutter og  
+
+ finansieringsvirksomhed, forsikringsvirksomhed, servicevirksomhed i  
+
+ forbindelse  
+
+ med pengeinstitutter, finansierings- og forsikringsvirksomhed (65, 66 og 67).
+ -  
+
+ 	  
+
+ Virksomhed i  
+
+ forbindelse med fast ejendom (70).
+ -  
+
+ 	  
+
+ Udlejning af biler,  
+
+ maskiner, udstyr mv. (71).
+ -  
+
+ 	  
+
+ Databehandlingsvirksomhed  
+
+ (72).
+ -  
+
+ 	  
+
+ Forskning og  
+
+ udvikling (73).
+ -  
+
+ 	  
+
+ Anden  
+
+ forretningsservice (74).
+ -  
+
+ 	  
+
+ Offentlig  
+
+ administration, forsvar og socialforsikring (75).
+Nærings- og nydelsesmiddelindustri -  
+
+ 	  
+
+ Fremstilling af  
+
+ næringsmidler og drikkevarer samt tobaksfabrikker (15 og 16).
+ -  
+
+ 	  
+
+ Slagtning og  
+
+ forarbejdning af kød og kødprodukter (15.1).
+ -  
+
+ 	  
+
+ Forarbejdning af  
+
+ fisk (15.2).
+ -  
+
+ 	  
+
+ Forarbejdning af  
+
+ frugt og grøntsager (15.3).
+ -  
+
+ 	  
+
+ Fremstilling af  
+
+ vegetabilske og animalske olier, mejeriprodukter, mølleriprodukter,  
+
+ foderblandinger  
+
+ og andre næringsmidler (15.4-15.8).
+ -  
+
+ 	  
+
+ Fremstilling af  
+
+ drikkevarer (15.9).
+ -  
+
+ 	  
+
+ Tobaksfabrikker  
+
+ (16).
+Tekstil-, beklædnings- og læderindustri (17, 18 og  
+
+ 19) -  
+
+ 	  
+
+ Forbehandling,  
+
+ vævning og fremstilling af tekstiler, beklædning og lædervarer.
+Træ- og møbelindustri (20 og 36.1) -  
+
+ 	  
+
+ Udsavning, høvling  
+
+ og imprægnering af træ (20.1).
+ -  
+
+ 	  
+
+ Fremstilling af  
+
+ træprodukter og træemballager (20.2-20.5).
+ -  
+
+ 	  
+
+ Fremstilling af  
+
+ møbler (36.1).
+Papir- og grafisk industri (21 og 22) -  
+
+ 	  
+
+ Fremstilling af  
+
+ papirmasse, papir og pap samt papir- og papvarer (21.1-21.2).
+ -  
+
+ 	  
+
+ Udgiver- og  
+
+ forlagsvirksomhed, trykning og servicevirksomhed samt reproduktion  
+
+ (22.1-22.3).
+Kemisk industri mv. (23 og 24) -  
+
+ 	  
+
+ Mineralolieindustri  
+
+ mv. samt kemisk industri.
+ -  
+
+ 	  
+
+ Fremstilling af  
+
+ koks, raffinerede mineralolieprodukter (23.1-23.2).
+ -  
+
+ 	  
+
+ Oparbejdning af  
+
+ nukleart brændsel (23.3).
+ -  
+
+ 	  
+
+ Fremstilling af  
+
+ basiskemikalier, agrokemiske produkter, maling, trykfarver, farmaceutiske  
+
+ råvarer,  
+
+ medicinalvarer, sæber, rengørings- og rensemidler samt andre kemiske  
+
+ produkter  
+
+ (24.2-24.7).
+Gummi- og plastindustri (25) -  
+
+ 	  
+
+ Fremstilling af  
+
+ gummiprodukter og plastprodukter (25.1-25.2).
+Sten-, ler- og glasindustri mv. (26) -  
+
+ 	  
+
+ Fremstilling af glas  
+
+ og glasprodukter samt keramiske produkter undtagen byggematerialer, fliser og  
+
+ kakler (26.-26.3).
+ -  
+
+ 	  
+
+ Teglværker (26.4).
+ -  
+
+ 	  
+
+ Fremstilling af  
+
+ cement, kalk og gips og produkter heraf, andre ikke-metalholdige mineralske  
+
+ produkter (26.5- 26.8).
+Jern- og metalindustri (27, 28, 29, 30, 31, 32, 33,  
+
+ 34 og 35) -  
+
+ 	  
+
+ Fremstilling af  
+
+ metal, jern- og metalindustri, maskinindustri, fremstilling af  
+
+ kontormaskiner,  
+
+ edb-udstyr, telemateriel, medicinsk udstyr, instrumenter, ure mv. samt  
+
+ fremstilling af biler og andre transportmidler mv. (27, 28, 29, 30, 31, 32,  
+
+ 33,  
+
+ 34 og 35).
+Anden fremstillingsvirksomhed (36.2-36.6) -  
+
+ 	  
+
+ Fremstilling af  
+
+ smykker, guld- og sølvvarer, musikinstrumenter, sportsrekvisitter, legetøj,  
+
+ mv.
+Forsyningsvirksomhed (40 og 41) -  
+
+ 	  
+
+ El-, gas- og varme-  
+
+ og vandforsyning.
+Landbrug, skovbrug, fiskeri mv. (01, 02, 05, 10, 11,  
+
+ 12, 13 og 14) -  
+
+ 	  
+
+ Landbrug, jagt mv.  
+
+ (01).
+ -  
+
+ 	  
+
+ Skovbrug mv. (02).
+ -  
+
+ 	  
+
+ Fiskeri mv. (05).
+ -  
+
+ 	  
+
+ Råstofudvinding (10  
+
+ og 11).
+Bygge- og anlægsvirksomhed (45) -  
+
+ 	  
+
+ Forberedende  
+
+ byggepladsarbejder, opførelse af bygninger og anlægsvirksomhed (45.1-45.2).
+ -  
+
+ 	  
+
+ Bygningsinstallationsvirksomhed  
+
+ (45.3).
+ -  
+
+ 	  
+
+ Andet  
+
+ bygningsarbejde mv. (45.3-45.5).
+Rensningsanlæg -  
+
+ 	  
+
+ Kloakvæsen og  
+
+ rensningsanlæg (90.00.10) omfatter alle anlæg til rensning af spildevand.
+Containere/omlastestation -  
+
+ 	  
+
+ Renovation og  
+
+ renholdelse (90.00.20) omfatter containere, containerpladser og  
+
+ genbrugsstationer  
+
+ samt omlastestationer, hvor der foregår en opsamling af affald.
+Oparbejdningsanlæg -  
+
+ 	  
+
+ Genbrug af  
+
+ affaldsprodukter (37) omfatter anlæg, hvor der sorteres og/eller oparbejdes  
+
+ affaldsfraktioner.
+Eksempelvis nedknusningsanlæg, flaskeskyllerier og  
+
+ sorteringsanlæg.
+Komposterings- og biogasanlæg -  
+
+ 	  
+
+ Omfatter anlæg, hvor  
+
+ der komposteres eller fremstilles biogas af affald.
+Forbrændingsanlæg -  
+
+ 	  
+
+ Forbrændingsanlæg  
+
+ (90.00.30 undtagen Deponeringsanlæg). Omfatter anlæg, hvor der forbrændes  
+
+ affald.
+Deponeringsanlæg -  
+
+ 	  
+
+ Deponeringsanlæg  
+
+ (90.00.30) undtagen Forbrændingsanlæg.
+Omfatter anlæg, der som hovedaktivitet  
+
+ deponerer affald.
+Slamforbrændingsanlæg -  
+
+ 	  
+
+ Slamforbrændingsanlæg  
+
+ beliggende på eller i tilknytning til et rensningsanlæg.
+Omfatter også  
+
+ vådoxidationsanlæg.
+Endvidere anlæg til pyrolyse af slam, hvis der i anlægget  
+
+ sker afbrænding af den producerede olie eller gas.
+Anlæg til særlig behandling -  
+
+ 	  
+
+ Omfatter anlæg, der  
+
+ behandler farligt affald ved en særlig behandlingsform.
+F.eks. forbrænding  
+
+ med  
+
+ energiudnyttelse eller behandling som forberedelse til deponering eller  
+
+ forbrænding.
+10. Kildespecifikation Kildespecifikation er et »servicefelt« til internt brug.  
+
+ Kildespecifikation kan være et krav fra anvisningskommunen.
+Bilag G Bilag G  
+
+ Kombinationslister * Der skal angives  
+
+ affaldsfraktion niveau 2.  
+
+  
+
+ Skraverede kombinationer må kun anvendes efter dispensation fra  
+
+ Miljøstyrelsen.
+ * Der skal angives  
+
+ affaldsfraktion niveau 2.  
+
+  
+
+ Skraverede kombinationer må kun anvendes efter dispensation fra  
+
+ Miljøstyrelsen.  
+
+  
+
+ Se også "Afgiftsfritaget forbrænding".
+ * Der skal angives  
+
+ affaldsfraktion niveau 2.  
+
+  
+
+ Skraverede kombinationer må kun anvendes efter dispensation fra  
+
+ Miljøstyrelsen.  
+
+  
+
+ Se også "Afgiftsfritaget deponering".
+ * Der skal angives affaldsfraktion  
+
+ niveau 2.  
+
+  
+
+ Skraverede kombinationer må kun anvendes efter dispensation fra  
+
+ Miljøstyrelsen.
+ * Der skal angives  
+
+ affaldsfraktion niveau 2.
+ * Der skal angives  
+
+ affaldsfraktion niveau 2.
+ * Der skal angives  
+
+ affaldsfraktion niveau 2.  
+
+  
+
+ Skraverede kombinationer må kun anvendes efter dispensation fra  
+
+ Miljøstyrelsen.
+ Afgiftsfritaget forbrænding  
+
+ angiver forbrænding på et anlæg, der i henhold til lov om afgift af affald og  
+
+ råstoffer er fritaget for registrering eller at forbrændingsanlægget er  
+
+ registreringspligtig i henhold til lov om afgift af affald og råstoffer, men  
+
+ modtager affaldsfraktioner (farligt affald, halm, ren træflis og andet  
+
+ træaffald fra træforarbejdende virksomheder), der er fritaget for  
+
+ affaldsafgift.
+ * Der skal angives  
+
+ affaldsfraktion niveau 2.  
+
+  
+
+ Skraverede kombinationer må kun anvendes efter dispensation fra  
+
+ Miljøstyrelsen.
+ Afgiftsfritaget deponering  
+
+ angiver deponering på et anlæg, der i henhold til lov om afgift af affald og  
+
+ råstoffer er fritaget for registrering; eller at deponeringsanlægget er  
+
+ registreringspligtig i henhold til lov om afgift af affald og råstoffer, men  
+
+ modtager affaldsfraktioner, der er fritaget for affaldsafgift (ren jord til  
+
+ daglig afdækning eller slutafdækning; kompost til slutafdækning og affald,  
+
+ som  
+
+ fjernes fra afsluttede deponeringsanlæg (lossepladser, fyldpladser eller  
+
+ specialdepoter)).
+ * Der skal angives  
+
+ affaldsfraktion niveau 2.  
+
+  
+
+ Skraverede kombinationer må kun anvendes efter dispensation fra  
+
+ Miljøstyrelsen.
+ Midlertidig oplagring  
+
+ angiver, at modtaget forbrændingsegnet affald er anvist til midlertidig  
+
+ oplagring  
+
+ i henhold til bekendtgørelsens §37, stk. 3.

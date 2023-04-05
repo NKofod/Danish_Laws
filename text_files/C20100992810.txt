@@ -1,0 +1,46 @@
+Cirkulæreskrivelse om familie- og kontaktpersoner 1. FORMÅL Formålet med denne bestemmelse for registrering af familie og kontaktpersoner, er at optimere og højne datakvaliteten i DeMars gennem en fastsættelse af, hvorledes der skal registreres i DeMars.
+Målet for Forsvaret (FSV) er altid at kunne yde en hurtig og optimal kontakt samt støtte til de ansattes kontaktpersoner i forbindelse med en særlig hændelse (En særlig hændelse kan ske under hjemlige forhold såvel som INTOPS, og kan være tilskadekomst eller dødsfald i forbindelse med udførelse af arbejde for Forsvaret). Derudover er det vigtig for Forsvaret over for den enkelte medarbejder, at påpege, at ansvaret for rettelser til og formidling af kontaktpersonordningen ligger hos den enkelte medarbejder og ikke hos familie- og kontaktpersonerne.
+2. FAMILIE OG KONTAKTPERSON I INFOTYPE 0021 DEMARS Data der registreres i DeMars i forbindelse med familie- og kontaktpersoner, skal udfyldes med særdeles stor fokus høj datakvalitet, idet ukorrekte eller manglende oplysninger, kan resultere i forkert håndtering af kontaktpersonordningen både under hjemlige og udenlandske forhold.
+ Oplysningerne der er indtastet i infotype 0021 (en infotype er en samling af oplysninger/indtastningsfelter som naturligt hører sammen)anvendes i forbindelse med:
+ Orientering af de eller den af medarbejderen udpegede kontaktpersoner, som medarbejderen har oplyst, skal kontaktes i tilfælde af en særlig hændelse.
+ Udsendelse af post og information til pårørende.
+Det kan være i forbindelse med pårørendearrangementer og lignende før, under og efter udsendelse til internationale operationer.
+3. ANSVAR FOR OPLYSNINGER I INFOTYPE 0021 Familie og kontaktperson opdateres ikke automatisk fra det Centrale Person Register (CPR). Det påhviler derfor de Personel Administrative Myndigheder (PAM), at oprette, indtaste og ajourføre data, på medarbejderes kontaktperson og nærmeste pårørende.
+Det påhviler PAM at undervise og orientere soldaten samt øvrige ansatte om, at medarbejderens oplysninger i DeMars skal være så korrekte som muligt.
+Det er den enkelte medarbejder, der er oprettet i DeMars, der er ansvarlig for, at der gives meddelelse til nærmeste PAM, når der sker ændringer til oplysninger i infotype 0021. Det være sig ved flytning, ændring af adresseoplysninger, telefonnummer, e-mail osv.
+Medarbejderen skal hurtigst muligt oplyse PAM om ændringerne til infotype 0021, hvorefter PAM indtaster oplysninger i DeMars, PERSYS.
+For kontaktpersoner hvis familiemedlem der er udsendt til internationale operationer, vil indtastning af midlertidige ændringer af kontaktperson kunne foretages, ved det lokale garnisonsstøtteelement (Pårørende vil kunne kontakte GSE og få ændret adresseoplysninger i DeMars). For søværnets enheder dog ved Søværnets Operative Logistiske Støtte Center (OPLOG) Korsør eller Frederikshavn, 1. og 2. Eskadre eller Stabsvagten ved Søværnets Operative Kommando (SOK).
+4. KONTROL AF OPLYSNINGER Forsvaret er afhængig af en høj grad af datakvalitet i infotypen, derfor påhviler det PAM, at føre løbende kontrol på data indtastet i infotype 0021. Denne kontrol skal som minimum gennemføres årligt, eller senest en måned før medarbejderen står foran en udstationering til internationale operationer.
+5. DEFINITION PÅ EN KONTAKTPERSON (NATIONAL SOM INTERNATIONAL TJENESTE) En kontaktperson er den person, som den enkelte medarbejder har udvalgt til at være den første, der skal kontaktes i tilfælde af, at medarbejderen er kommet til skade eller omkommer under hjemlige eller udenlandske forhold (særlig hændelse).
+For alle ansatte i Forsvaret skal der altid være udpeget en kontaktperson.
+Såfremt forældrene til den enkelte medarbejder er fraskilte og medarbejderen ønsker dem begge anført som kontaktperson, kan der i disse tilfælde være to kontaktpersoner.
+Medarbejderen skal altid være opmærksom på, at en kontaktperson skal udvælges med omhu.
+Kontaktpersonen bør være en person, der kender den enkelte medarbejders familieforhold samt omgangskreds.
+I de fleste tilfælde vælges et familiemedlem som kontaktperson (ægtefælle, far, mor mfl.), men kontaktpersonen kan også være en meget god ven eller kollega.
+Det mest praktiske og håndterbare er dog, at der vælges et familiemedlem.
+Medarbejdere har pligt til at orientere sin kontaktperson om, at denne er udpeget som kontaktperson samt, hvilke opgaver der kan ligge i dette.
+Kontaktpersonen oplyses om, hvad denne vil kunne komme ud for.
+F.eks. at der er udarbejdet en Min Sidste Vilje, testamente og lignende, samt hvorledes overbringelsen af et trist budskab vil kunne forekomme.
+6. ØVRIGE FAMILIE OG NÆRMESTE PÅRØRENDE I FORBINDELSE MED INTOPS Ud over kontaktpersonen skal der i infotypen 0021 indtastes oplysninger om den enkelte medarbejders øvrige familie og pårørende (Øvrige familie og pårørende oprettes med henblik på at Forsvaret skal kunne håndtere kontaktpersonordningen i forbindelse med internationale operationer).
+ Registrering af oplysninger på øvrige familie og pårørende:
+ Medarbejderens børn indskrives i infotype 0021 med henblik på, at kontaktofficeren derved kan træffe de nødvendige forholdsregler ved en særlig hændelse, hvis der er børn tilstede i forbindelse med orientering af kontaktpersonen og de nærmeste pårørende ved en særlig hændelse.
+ Øvrige pårørende indtastes således, at Forsvaret skal kunne håndtere kontakten til disse (udsende indbydelser, information m.m. i forbindelse med pårørendearrangementer før, under og efter udsendelse). Generelt bør det undgås, at der bliver udsendt informationer pr. post.
+ De der er markeret til, at modtage nyhedsinformation og indbydelser, vil modtage dette på den anførte mailadresse eller postadresse.
+7. BESKRIVELSE AF FELTERNE I INFOTYPE 0021 Det er vigtigt at de enkelte felter i infotypen bliver udfyldt korrekt og med stor omhu samt, at der anvendes rapportudtræk fra DeMars til kontrol af de indtastede data, bl.a. med henblik på, at oplysningerne skal kunne udtrækkes fra DeMars.
+Børns fødselsdato indskrives i feltet gyldighed fra.
+Ud fra dette er det muligt at fastsætte deres alder.
+Denne oplysning anvendes if. m. en vurdering af om, det er nødvendigt at medtage en børnepsykolog, når kontaktpersonen skal underrettes.
+ Kommunikationsfelterne skal anvendes til identifikation af telefon nummer således:
+  Felt nr. 1: Privat fastnettelefon.
+  Felt nr. 2: Privat mobiltelefon.
+  Felt nr. 3: Arbejdsfastnettelefon.
+  Felt nr. 4: Arbejdsmobiltelefon.
+Telefonnumre i nævnte rækkefølge skyldes, at oplysningerne ellers ikke umiddelbart vil være anvendelige ved overførsel til andre IT programmer.
+Feltet nyhedsinformationer og indbydelser tilsendes på mail og skal afmærkes med et kryds for de pårørende, der ønsker at få tilsendt disse informationer (generelt skal det undgås, at der bliver udsendt information per post - skulle der være enkelte pårørende der ønsker informationerne pr. post, styres dette ved det lokale GSE o.l.). Medarbejderen vælger selv hvilke pårørende der skal tilsendes oplysninger.
+E-mail adresse udfyldes med den e-mail adresse den pårørende ønsker informationerne tilsendt på.
+Vær omhyggelig med at indtaste den korrekte mail adressen, gennemfør evt. kontroludsendelse af mail for at kontrollere korrekthed.
+ I tilfælde af at de pårørende ikke har en e-mail adresse, og skal have tilsendt information, skrives der post i feltet.
+ Feltet bemærkninger skal anvendes til at anføre kontaktpersonens tilhørsforhold (mor, far etc.), desuden kan feltet anvendes til øvrige informationer om den anførte kontaktperson eller pårørende.
+8. VEJLEDNING I INDTASTNING I DEMARS For en udførlig skærmvejledning er der i DeMars udarbejdet vejledning, der er beliggende under hjælp à DeMars hjælp.
+9. SAGSBEHANDLENDE SEKTION Forsvarets Personeltjeneste Forvaltningssektionen, FA2 er sagsbehandlende sektion.
+10. IKRAFTTRÆDEN Denne bestemmelse træder i kraft ved modtagelse/offentliggørelse på FFI d.1.maj 2010.

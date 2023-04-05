@@ -1,0 +1,71 @@
+Bekendtgørelse om måling af røggasmængde og opgørelse af indfyret energi i affaldsforbrændingsanlæg med henblik på betaling af energiafgift og CO2-afgift I medfør af § 5 a, stk. 4, og § 20, stk. 2, i lov om afgift af stenkul, brunkul og koks m.v., jf. lovbekendtgørelse nr. 1292 af 17. november 2010, som ændret ved lov nr. 625 af 14. juni 2011 og lov nr. 1353 af 21. december 2012, og § 15, stk. 3, i lov om kuldioxidafgift af visse energiprodukter, jf. lovbekendtgørelse nr. 321 af 4. april 2011, som ændret ved lov nr. 625 af 14. juni 2011, fastsættes:
+De omfattede virksomheder og anlæg § 1. Denne bekendtgørelse finder anvendelse på virksomheder med affaldsforbrændingsanlæg, der benytter røggasmetoden efter lov om afgift af stenkul, brunkul og koks m.v., jf. lovens § 5 a, og som dermed skal foretage måling og opgørelse vedrørende røggasmængden fra affaldsforbrændingsanlæggets forbrænding.
+Krav vedrørende målere og målinger § 2. Til brug for opgørelse af røggasmængden, Qref, skal der være installeret følgende typer målere, som placeres samlet, således at målingerne repræsenterer røggassen samme sted på røggasvejen, efter at røggassen har forladt kedlen.
+Der må ikke kunne foretages helt eller delvis bypass af målerne.
+Målestederne skal overholde betingelserne om målesteder i bilag 1:
+ 1) Flowmåler til måling af røggasmængden, Qmålt (m3/h). Til flowmåleren henregnes densitetsmålere til måling af røggassammensætning, temperatur og tryk, når det er nødvendigt for at opfylde kvalitetskravene til flowmåling i henhold til denne bekendtgørelse.
+ 2) Temperaturmåler til korrektion af flowmåling til normal tilstand (0° C).
+ 3) Trykmåler til måling af statisk tryk til korrektion af flowmåling til normal tilstand (101,3 kPa).
+4) Vandmåler til korrektion af flowmåling til tør tilstand (volumen pct.
+H2O).
+5) Iltmåler til korrektion af flowmåling til støkiometrisk forbrænding (volumen pct.
+O2).
+ Stk. 2. Til brug for opgørelse af røggasmængden, Qref, fra affaldsforbrændingsanlæggets forbrænding anvendes AMS (Automatisk Målende System) for de typer målere, som er nævnt i stk. 1. Den faktisk udledte røggasmængde skal opgøres på løbende basis.
+ Stk. 3. AMS skal kunne kvalitetssikres efter DS/EN 14181, jf. bilag 1.
+§ 3. I tilfælde af defekte målere, reparation af målere eller lignende skal der automatisk indsættes erstatningsværdier eller målinger fra redundante målere.
+Redundante målere skal overholde betingelserne til kvalitetssikring, som er nævnt i § 2. Ved erstatningsværdier indsættes følgende værdier vedrørende målerne, som er nævnt i § 2, stk. 1:
+1) Flowmåler: For eventuelle timeintervaller med defekte flowmålere til måling af røggasmængden indsættes for Qref (m3) anlæggets maksimale timeværdi for Qref for den forudgående kalendermåned.
+Hvis anlægget i pågældende måned ikke har været i drift i mindst 168 timer ved mindst 90 pct. af anlæggets nominelle termiske ydeevne, anvendes anlæggets maksimale korrekt målte og opgjorte timeværdi for Qref i den seneste måned, hvor dette krav er opfyldt.
+Metode for opgørelse af driftskravet skal fremgå af dokumentationen for anvendelse af røggasmetoden.
+ 2) Temperaturmåler: Som erstatningsværdi for temperatur anvendes den lavest mulige røggastemperatur for anlægget i o C.
+ 3) Trykmåler til måling af statisk tryk: Som erstatningsværdi for tryk anvendes 106,3 kPa.
+ 4) Vandmåler: Som erstatningsværdi for vand (H2O) anvendes 0 volumen pct. eller den lavest mulige volumen pct. for anlægget.
+ 5) Iltmåler: Som erstatningsværdi for ilt (O2) anvendes 3 volumen pct. eller den lavest mulige volumen pct. for anlægget.
+ Stk. 2. Hvis en eller flere af målerne har været ude af drift i mere end 14 sammenhængende dage, skal virksomheden underrette SKAT herom.
+Beregning af røggasmængde på basis af målinger § 4. Til brug for opgørelse af røggasmængden, Qref, skal den målte røggasmængde, Qmålt (m3/h), korrigeres for temperatur og tryk (røggasflowet i målte m3 pr. time omregnet til normaltilstanden, 0 o C og 101,3 kPa), vandindhold og iltindhold ved tør tilstand, hvorved røggasmængden Qref (m3/h) fremkommer som følger:
+Stk. 2. Qref (m3/h) skal beregnes på basis af minutværdier eller for en kortere tidsenhed for alle målte parametre.
+For vandmålinger kan værdier for fem minutters intervaller accepteres.
+Stk. 3. Q(ref) (m3) timeværdierne lægges sammen for afgiftsperioden.
+Summen af værdierne indgår i beregningen af forbrændingsanlæggets virkningsgrad for afgiftsperioden efter lov om afgift af stenkul, brunkul og koks m.v., jf. lovens § 5 a, idet Qref (m3) lig med 260(m3) svarer til 1 GJ nedre brændværdi i det brændsel, som er forbrændt i et affaldsforbrændingsanlæg.
+Kvalitetssikring og verifikation § 5. Målere og måleudstyr, der indgår i beregningen af røggasmængden, skal kvalitetssikres efter Standard DS/EN 14181, jf. bilag 1. Kvalitetssikring af måler og målerudstyr skal udføres af et eksternt laboratorium m.v., som er akkrediteret hertil.
+Stk. 2. Beregningsenheden, som foretager beregning af røggasmængden for anlægget efter § 4, skal kvalitetssikres for dens faktiske funktionsduelighed og nøjagtighed, og for om beregningen sker på basis af de foreskrevne værdier, jf. § 4 stk. 2. Kvalitetssikring af beregningsenheden skal udføres af en kvalificeret ekstern og uvildig part.
+Kvalitetssikring af beregningsenheden følger målere og målerudstyrets interval, således at den foretages, når kvalitetssikringen af målere og måleudstyr er gennemført.
+Stk. 3. Kvalitetssikring, jf. stk. 1 og 2, afsluttes med en erklæring til virksomheden om, at verifikation har fundet sted, og at henholdsvis målernes/målerudstyrets og beregningsenhedens funktionsduelighed mv. lever op til de kvalitetskrav, som er anført i denne bekendtgørelse.
+Kvalitetssikringen skal som minimum foretages en gang inden for intervaller af to års varighed.
+Regnskab § 6. For de omfattede affaldsforbrændingsanlæg skal der føres journal over samtlige målinger, herunder henvisning til målerudskrifter eller anden tilsvarende dokumentation.
+Journalen skal også indeholde oplysninger om kalibrering, eftersyn, reparation, udfald og andre forhold, der er af betydning for målingen og beregningen af røggasmængden.
+Virksomheden skal kunne dokumentere målemetoder for den udledte mængde røggas og foretaget kvalitetssikring og verifikation.
+Der skal endvidere føres regnskab over andre forhold, der direkte eller indirekte har indflydelse på beregningen af den samlede røggasmængde.
+Stk. 2. Virksomheden skal for hver afgiftsperiode kunne dokumentere, hvorledes røggasmængden er beregnet samt afgiften heraf.
+Regnskabet skal tilrettelægges på en sådan måde, at der kan føres kontrol med afgiftens betaling.
+Straffebestemmelser § 7. Med bøde straffes den, der forsætligt eller groft uagtsomt 1) afgiver urigtige eller vildledende oplysninger eller fortier oplysninger til brug for afgiftskontrollen, medmindre højere straf er forskyldt efter lov om afgift af stenkul, brunkul og koks m.v. § 20, stk. 3, eller lov om kuldioxidafgift af visse energiprodukter § 15, stk. 4, eller 2) overtræder §§ 2-6.
+ Stk. 2. Bestemmelserne i lov om afgift af stenkul, brunkul og koks m.v. § 20, stk. 4, og § 21 og i lov om kuldioxidafgift af visse energiprodukter § 15, stk. 5, og § 16 finder tilsvarende anvendelse.
+Ikrafttræden § 8. Bekendtgørelsen træder i kraft den 1. januar 2013.
+Skatteministeriet, den 21. december 2012 Holger K.
+Nielsen / Lene Skov Henningsen Bilag 1 Krav vedrørende målere og målinger Kvalitetssikring af AMS Kvalitetssikring af målere og målerudstyr skal udføres af et eksternt laboratorium m.v., som er akkrediteret hertil.
+Kvalitetskrav til AMS Kvalitetskrav i det følgende er defineret i henhold til variabilitetstesten i DS/EN 14181 og angivet som 95 pct. konfidensintervaller.
+ AMS-målere med samlet unøjagtighed beregnet efter DS/EN ISO 14956 eller DS/EN 15267, der er mindre end de nedenstående kvalitetskrav, kan anvendes.
+AMS for flow AMS-måleren for flow skal kvalitetssikres og kalibreres efter principperne i DS/EN 14181med følgende præciserede kvalitetskrav:
+1) QAL2 (Quality Assurance level 2) består af mindst 15 målinger fordelt over mindst en dag og mindst to lastområder.
+Såfremt der ikke kan opnås denne fordeling over to lastområder, kan QAL2 i stedet bestå af 9 målinger fordelt over mindst en dag og et lastområde.
+ 2) AST (Annual Surveillance Test) består af mindst 5 målinger.
+ 3) Kvalitetskravet for flow er 4 pct. af det gyldige kalibreringsinterval under QAL2.
+ 4) QAL3 (Quality Assurance level 3) skal ikke udføres for flowmålere.
+ 5) For AMS-flowmålere, hvor densiteten indgår, skal det samlede kvalitetskrav opfylde kvalitetskrav nr. 3.
+AMS for temperatur AMS-målerne for temperatur skal kvalitetssikres og kalibreres efter principperne i DS/EN 14181med følgende præciserede kvalitskrav:
+1) Der skal udføres en homogenitetstest for temperatur.
+Hvis temperaturen er inhomogen, skal der beregnes en gennemsnitstemperatur, idet der skal udføres traversering under QAL2 og AST.
+2) QAL2 består af mindst 15 målinger fordelt over mindst en dag og mindst 2 lastområder.
+Såfremt der ikke kan opnås denne fordeling over to lastområder, kan QAL2 i stedet bestå af 9 målinger fordelt over mindst en dag og et lastområde.
+ 3) AST består af mindst 5 målinger.
+ 4) For ultralydsmålere skal der ikke udføres QAL2 og AST for temperatur.
+ 5) Kvalitetskravet for temperatur er 2° C absolut nøjagtighed.
+AMS for tryk AMS-måleren skal kunne levere en trykværdi med en unøjagtighed på maksimalt ± 0,5 kPa (95 pct. konfidensinterval). Trykmåleren skal kontrolleres og serviceres jævnligt.
+AMS for vand og ilt AMS-målerne for vand og ilt skal kvalitetssikres og kalibreres efter principperne i DS/EN 14181 med følgende kvalitetskrav til nøjagtighed:
+ 1) Vand: 0,5 volumen pct. absolut.
+ 2) Ilt: 0,2 volumen pct. absolut.
+ Vand- og iltmålere justeres frem for at anvende kalibreringsfunktionen.
+SRM (Standard Reference Method) Som referencemetode ved kalibrering og kontrol benyttes DS/EN-metoder eller alternative metoder med en unøjagtighed (95 pct. konfidensinterval), der som minimum er bedre end ovennævnte kvalitetskrav.
+Installation og målested Ved nyinstallation af AMS testes installation og målested i henhold til DS/EN 15259.
+For bestående installationer i skorstenen eller i kanal efter sidste procestrin i røggasrensningsanlægget er overholdelse af DS/EN 15259 ikke i sig selv et krav, jf. dog de øvrige krav til målenøjagtighed.
+Et andet målested kan anvendes, forudsat at det overholder DS/EN 15259. Der må ikke kunne foretages helt eller delvis bypass af målesteder.

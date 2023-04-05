@@ -1,0 +1,948 @@
+Marts 1980 Generaldirektoratet for Post- og Telegrafvæsenet INDLEDNING Nærværende tekniske bestemmelser indeholder de minimumskrav, fast afstemte  
+
+ modtagere for overvågning af den radiotelefoniske nød- og sikkerhedsfrekvens  
+
+ 2182 kHz skal opfylde for at kunne godkendes af Post- og Telegrafvæsenet til  
+
+ brug om bord i danske skibe.
+ Bestemmelserne er baseret pÅ CEPT (Conference of European Postal and  
+
+ Telecommunications Administrations) rekommandation T/R 12, annex III  
+
+ vedrørende målemetoder og specifikationer for maritime radioanlæg.
+INDHOLDSFORTEGNELSE side Bilag 1.
+1. OPLYSNINGER VEDRØRENDE AFPRØVNING, GODKENDELSE OG  
+
+ GEBYR 1.1 Anmodning om afprøvning Ønskes et anlæg afprøvet med henblik på godkendelse, rettes af en dansk  
+
+ fabrikant eller en dansk repræsentant skriftlig henvendelse herom til Anmodning om afprøvning skal indeholde oplysninger om anlæggets fabrikat  
+
+ og typebetegnelse samt de tekniske specifikationer, der er nødvendige for  
+
+ afprøvningen, blandt andet:
+ Anmodningen bør endvidere forsynes med oplysning om, hvem der er teknisk  
+
+ sagbehandler hos rekvirenten.
+ Anmodningen om afprøvningen skal være ledsaget af en komplet teknisk  
+
+ beskrivelse af anlægget, indeholdende blandt andet diagrammer og styklister.
+Endvidere skal der medsendes en målerapport omfattende alle de målinger,  
+
+ der er beskrevet i nærværende bestemmelser.
+Har fabrikanten ved sine målinger  
+
+ set sig nødsaget til at anvende målemetoder eller målebetingelser, der ikke  
+
+ er helt identiske med de heri anførte, skal målerapporten indeholde de  
+
+ fornødne oplysninger herom.
+Post- og Telegrafvæsenet afgør herefter, om en  
+
+ sådan målerapport kan godtages.
+ Målerapporter og beskrivelser, der indleveres i forbindelse med afprøvning  
+
+ af anlæg, er Post- og Telegrafvæsenets ejendom.
+1.2 Indlevering af anlæg til afprøvning Anlæg, der ønskes afprøvet, indleveres til Al transport af anlæg til og fra denne adresse påhviler rekvirenten.
+ Post- og Telegrafvæsenet kan forlange, at rekvirenten opstiller,  
+
+ tilslutter og klargør anlægget til afprøvning.
+1.3 Valg af anlæg til afprøvning Fabrikanten skal normalt stille et eksemplar taget fra produktionen til  
+
+ rådighed for afprøvningen.
+Hvis typegodkendelsen gives på grundlag af  
+
+ målinger på en prototype, skal de tilsvarende produktionseksemplarer i enhver  
+
+ relevant henseende være identiske med det afprøvede eksemplar.
+1.4 Godkendelse Godkendelse kan efter Post- og Telegrafvæsenets afgørelse i hvert enkelt  
+
+ tilfælde gives enten som en typegodkendelse eller som en godkendelse af  
+
+ enkelteksemplar.
+ Alle anlæg af godkendt type skal opfylde nærværende bestemmelser, og en  
+
+ typegodkendelse forudsætter, at samtlige fremstillede anlæg af typen - både  
+
+ med hensyn til strømskemaer, komponenter og montering - er identiske med det  
+
+ afprøvede.
+Anlæg, der ikke i radiomæssig og andre væsentlige henseender er identiske,  
+
+ må ikke bære samme typebetegnelse.
+Foretages der ændringer, må der gives ny  
+
+ typebetegnelse, hvilket vil medføre krav om ny afprøvning, hvis ændringerne  
+
+ har relation til de gældende bestemmelser.
+ Post- og Telegrafvæsenet forbeholder sig ret til ved skøn at afgøre, om  
+
+ anlæg er identiske i henhold til ovenstående, og om ny afprøvning er  
+
+ nødvendig.
+Det er en forudsætning for opretholdelse af en typegodkendelse, at Post-  
+
+ og Telegrafvæsenet med henblik på kontrolmålinger på et hvilket som helst  
+
+ tidspunkt uhindret kan udvælge eksemplarer af vedkommende anlægstype fra  
+
+ lager hos fabrikant eller importør, eventuelt forhandler.
+Hvis det herved  
+
+ eller på anden måde konstateres, at anlæggene ikke opfylder de gældende  
+
+ bestemmelser, eller hvis godkendelsens vilkår iøvrigt tilsidesættes, kan  
+
+ godkendelsen annulleres, både for anlæg der er taget i brug, og for ikke  
+
+ ibrugtagne anlæg.
+ Givne godkendelser kan annulleres.
+ Godkendelsen omfatter kun forhold, der angår de af Post- og  
+
+ Telegrafvæsenet fastsatte bestemmelser og tager ikke sigte på generelt at  
+
+ omfatte andre myndigheders eventuelle krav til anlæggene og deres  
+
+ installation.
+1.5 Gebyr for afprøvning For afprøvning med henblik på godkendelse som type eller enkelteksemplar  
+
+ opkræves et gebyr på 5000 kr, excl. merværdiafgift.
+Post- og Telegrafvæsenet kan efter eget skøn fastsætte et lavere gebyr  
+
+ hvis - en anlægstype eller et enkelteksemplar ikke godkendes efter første  
+
+ afprøvning, og det efter Post- og Telegrafvæsenets skøn ikke er nødvendigt at  
+
+ foretage en komplet, fornyet afprøvning - anlægstypen eller enkelteksemplaret adskiller sig så lidt fra en  
+
+ allerede godkendt type, at en komplet, fornyet afprøvning efter Post- og  
+
+ Telegrafvæsenets skøn ikke er nødvendig - miljøprøver kan udelades som følge af, at rekvirenten fremlægger  
+
+ fyldestgørende dokumentation for, at anlægget har gennemgået de pågældende  
+
+ prøver med tilfredsstillende resultat på en af Post- og Telegrafvæsenet  
+
+ anerkendt prøvningsanstalt.
+2. GENERELLE KRAV TIL ANLÆGGET 2.1 Konstruktion 2.1.1 Vagtmodtageranlægget skal omfatte Herudover kan anlægget indeholde filterenhed og faciliteter for automatisk  
+
+ tilkobling af højttaleren direkte til modtagerudgangen (udkobling af  
+
+ signalspærre-enhed og/eller eventuel filterenhed) i de radiotelefoniske  
+
+ tavshedsperioder.
+ Ved signalspærre-enhed forstås her et arrangement indskudt mellem  
+
+ modtagerudgang og højttaler som bevirker, at højttaleren kun tilføres signal  
+
+ fra modtagerudgangen, når nærmere definerede alarmsignaler ( jfr. pkt. 6.1.1)  
+
+ er modtaget.
+ Ved filterenhed forstås her en anordning som bevirker, at kun signaler med  
+
+ frekvenser omkring 1300 Hz og 2200 Hz i modtagerens udgangssignal føres  
+
+ videre til højttaleren.
+ Af brugsmæssige hensyn bør anlægget være udformet således, at når  
+
+ signalspærre-enheden eller det eventuelle arrangement for automatisk  
+
+ indkobling i de radiotelefoniske tavshedsperioder bevirker modtagerens  
+
+ udgangssignal ført videre til højttaleren, tilføres højttaleren i første  
+
+ øjeblik et noget lavere signalniveau end svarende til volumenkontrollens  
+
+ indstilling, hvorefter signalniveauet automatisk gradvist - i løbet af i  
+
+ størrelsesordenen 1 a 2 sekunder forøges til det ved volumenkontrollens  
+
+ indstilling bestemte niveau.
+ 2.1.2 Anlægget skal både i mekanisk og elektrisk henseende være udført i  
+
+ overensstemmelse med god ingeniørmæssig praksis og skal være egnet til brug  
+
+ om bord i skibe.
+ 2.1.3 Funktionen af alle måleinstrumenter, kontrollamper,  
+
+ tilslutningsklemmer, betjeningsgreb samt betjeningsgrebenes positioner skal  
+
+ være tydeligt angivet på anlægget.
+ Endvidere skal være angivet hvilke (n) forsyningsspænding(er) anlægget er  
+
+ indrettet for.
+Anlægget skal være tydeligt mærket med fabrikat, typebetegnelse og  
+
+ løbenummer.
+Dette gælder også eksemplarer, der indleveres til afprøvning.  
+
+ Mærkningen skal være placeret på anlæggets forplade.
+ Mærkningen skal være mekanisk solid og holdbar og kan f.eks. udføres ved  
+
+ gravering, prægning eller ved anvendelse af metalskilt.
+2.1.4 Alle dele af anlægget, som kræver tilsyn eller justering, skal være  
+
+ let tilgængelige.
+Anlæggets enkelte dele skal være lette at identificere.
+2.2 Betjeningsgreb Alle betjeningsgreb skal være af en sådan størrelse, at de er lette at  
+
+ betjene.
+ Hvis der på anlægget forefindes lamper for indikation, belysning m.m, skal  
+
+ anlægget være forsynet med et betjeningsgreb, hvormed lyset i alle sådanne  
+
+ lamper kan neddæmpes fuldstændigt.
+ Herudover må kun følgende betjeningsgreb forefindes på anlægget:
+- En afbryder for forsyningsspændingen.
+Ved opmærkning eller på anden måde  
+
+ skal der være en let synlig indikation af, hvornår anlægget er i drift.
+ - En volumenkontrol for regulering af udgangseffekten (jfr. pkt. 4.1.4.1).
+ - Betjeningsgreb for betjening af signalspærre-enheden (jfr. pkt. 6.1).
+ - Betjeningsgreb for betjening af filterenhed ( jfr. pkt. 5.1) hvis en  
+
+ sådan forefindes.
+ - Betjeningsgreb for faciliteter for automatisk indkobling af højttaleren  
+
+ under de radiotelefoniske tavshedsperioder, hvis sådanne faciliteter  
+
+ forefindes.
+ 2.3 Overspænding, sikkerhedskrav m.v.
+ 2.3.1 Anlægget skal være beskyttet mod virkningerne af overspændinger,  
+
+ transienter og utilsigtet polvending af forsyningsspændingen.
+2.3.2 På anlæggets kabinet skal der være tilslutningsmulighed for en  
+
+ jordledning.
+Ingen af anlæggets strømforsyningsterminaler må være forbundet  
+
+ til jordklemmen.
+2.3.3 Alle dele og forbindelsesledninger, hvor spændinger på mere end 50  
+
+ volt forekommer, skal være beskyttet mod utilsigtet berøring og skal  
+
+ automatisk frakobles spændingsforsyningen, når beskyttelsen fjernes.
+I stedet  
+
+ kan anlægget være konstrueret på en sådan måde, at adgang til sådanne  
+
+ spændingsførende dele kun kan opnås ved brug af værktøj, f. eks. skruetrækker  
+
+ eller skruenøgle.
+Der skal i sidstnævnte tilfælde anbringes iøjenfaldende  
+
+ advarselsskilte såvel inden i anlægget som på afskærmningen.
+2.4 Opvarmningstid Senest 1 minut efter at være tilsluttet forsyningsspænding skal anlægget  
+
+ være fuldt driftsklar, hvorved forstås, at samtlige krav i disse  
+
+ specifikationer skal være opfyldt.
+3. AFPRØVNINGSBETINGELSER 3.1 Normale og særlige afprøvningsbetingelser Godkendelsesmålingerne foretages under normale afprøvningsbetingelser  
+
+ samt, i de tilfælde hvor det er nævnt, også under særlige  
+
+ afprøvningsbetingelser.
+ Afprøvningsbetingelserne og fremgangsmåden ved afprøvningen er nærmere  
+
+ beskrevet i det følgende (pkt. 3.2 til 3.4).
+3.2 Spændingsforsyning Under godkendelsesmålingerne forsynes anlægget fra en udvendig  
+
+ spændingskilde, der kan levere forsyningsspændinger som beskrevet i pkt.  
+
+ 3.3.2 og 3.4.3. Spændingsforsyningens indre impedans holdes så lav, at dens  
+
+ indflydelse på målingerne er uden betydning, Under afprøvningen holdes forsyningsspændingen inden for +/- 3% af  
+
+ spændingen ved målingens begyndelse.
+3.3 Normale afprøvningsbetingelser 3.3.1 Normal temperatur og fugtighed Afprøvning under normale afprøvningsbetingelser foretages i et almindeligt  
+
+ laboratorium uden særlig kontrol af temperatur og fugtighed d.v.s, ved  
+
+ temperaturer mellem +15 grader C og +35 grader C og relative fugtigheder  
+
+ mellem 20% og 75%.
+3.3.2 Forsyningsspænding ved afprøvning under normale betingelser 3.3.2.1 Forsyning fra nettet Ved afprøvninger under normale betingelser tilføres anlæg, der er beregnet  
+
+ for tilslutning til det almindelige forsyningsnet, en forsyningsspænding lig  
+
+ nettets nominelle spænding med frekvensen 50 Hz (+/- 1 Hz).
+3.3.2.2 Forsyning fra akkumulatorbatteri Hvor anlægget er beregnet til brug i forbindelse med akkumulatorbatteri,  
+
+ anvendes under afprøvningen en forsyningsspænding lig batteriets nominelle  
+
+ spænding (6 volt, 12 volt etc.).
+3.3.2.3. Andre former for spændingsforsyning For anlæg, der benytter andre typer spændingsforsyninger end ovennævnte,  
+
+ opgives afprøvningsspændingen af fabrikanten.
+3.4 Særlige afprøvningsbetingelser 3.4.1 Temperaturer ved afprøvning under særlige betingelser Ved afprøvning under særlige betingelser udføres målingerne i  
+
+ overensstemmelse med den fremgangsmåde, der er beskrevet i pkt. 3.4.2.
+ Målingerne udføres ved 0 grader C og +40 grader C.
+3.4.2 Fremgangsmåde ved afprøvning ved særlige temperaturer Når afprøvningen ved normal temperatur (pkt. 3.3.1) er afsluttet,  
+
+ anbringes anlægget i et klimakammer, hvori temperaturen kan fastholdes på en  
+
+ konstant værdi (+/- 3 grader C). Målingerne påbegyndes først, når anlægget er  
+
+ i termisk ligevægt.
+Ligevægtstilstanden opnås ved at udsætte anlægget for den  
+
+ temperatur, der skal måles ved, i en periode hvis varighed fastsættes efter  
+
+ Post- og Telegrafvæsenets skøn, dog mindst 1 time.
+Anlægget holdes afbrudt i  
+
+ denne periode.
+ Fugtigheden i kammeret holdes så lav, at kondensation ikke finder sted.
+3.4.3 Forsyingsspænding ved afprøvning under særlige betingelser 3.4.3.1 Forsyning fra nettet Forsyningsspændingerne for anlæg, der er beregnet for tilslutning til det  
+
+ normale forsyningsnet, vil ved afprøvninger under særlige betingelser være  
+
+ forsyningsnettets nominelle spænding +10%, henholdsvis -10%, med frekvensen  
+
+ 50 Hz (+/- 1 Hz).
+3.4.3.2 Forsyning fra akkumulatorbatteri Hvor anlægget er beregnet til brug i forbindelse med akkumulatorbatteri,  
+
+ måles der ved forsyningsspændinger på henholdsvis 1,3 og 0,9 gange batteriets  
+
+ nominelle spænding (6 volt, 12 volt etc.).
+3.4.3.3 Andre former for spændingsforsyning For anlæg, der benytter andre typer spændingsforsyninger end ovennævnte,  
+
+ opgives spændingsgrænserne af fabrikanten.
+3.5 Miljøprøver 3.5.1 Generelt Før miljøprøverne påbegyndes, afprøves anlægget med hensyn til de øvrige  
+
+ krav i nærværende tekniske bestemmelser.
+ Ved typegodkendelsesmålingerne kan miljøprøver udelades i det omfang, hvor  
+
+ rekvirenten fremlægger dokumentation for, at anlægget har været underkastet  
+
+ de pågældende prøver med tilfredsstillende resultat på en af Post- og  
+
+ Telegrafvæsenet anerkendt prøvningsanstalt.
+ Hvor der i det følgende er anvendt udtrykket funktionsprøve, menes en  
+
+ simpel afprøvning af operationel og elektrisk art - herunder kontrol af  
+
+ anlæggets følsomhed ( jfr. pkt. 4.3) - med det formål at konstatere, om  
+
+ anlægget er funktionsdygtigt.
+ Da elektriske funktionsprøver udføres ved forsyningsspænding som anført i  
+
+ pkt. 3.3.2.
+3.5.2 Vibration Anlægget med eventuelle stødabsorberende anordninger fastspændes på  
+
+ vibrationsbordet i normal brugsstilling.
+ 3.5.2.1 Først udsættes anlægget i 15 minutter for vertikale vibrationer i  
+
+ frekvensområdet 1 Hz til 12,5 Hz med en spids til spids amplitude på 3,2 mm  
+
+ og med en frekvensændring som beskrevet i pkt. 3.5.2.4.
+ 3.5.2.2 Herefter udsættes anlægget i 15 minutter for vertikale vibrationer  
+
+ i frekvensområdet 12,5 Hz til 25 Hz med en spids til spids amplitude på 0,76  
+
+ mm og med en frekvensændring som beskrevet i pkt. 3.5.2.4.
+ 3.5.2.3 Endelig udsættes anlægget i 15 minutter for vertikale vibrationer  
+
+ i frekvensområdet 25 Hz til 50 Hz med en spids til spids amplitude på 0,2 mm  
+
+ og med en frekvensændring som beskrevet i pkt. 3.5.2.4.
+ 3.5.2.4 Ændringshastigheden af vibrationsfrekvensen må ikke være større  
+
+ end 1 oktav pr minut.
+ 3.5.2.5 Ovenstående vibrationsprøve gentages herefter i to på hinanden  
+
+ vinkelrette retninger i det horisontale plan.
+I den udstrækning det er muligt, holdes anlægget under observation ved  
+
+ afprøvningen.
+Hvis dele af anlægget vibrerer unormalt meget, undersøges disse  
+
+ nøjere.
+ Anlægget holdes i drift under alle vibrationsprøverne, og enkle  
+
+ funktionsprøver gennemføres for at kontrollere, at anlægget er  
+
+ funktionsdygtigt under disse omstændigheder.
+ Når vibrationsprøverne er afsluttet, undersøges anlægget for mekaniske  
+
+ defekter.
+3.5.3 Tør varme 3.5.3.1 Anlægget anbringes i et klimakammer, hvorefter temperaturen hæves  
+
+ til +55 grader C (+/- 3 grader C) og opretholdes i et sådant tidsrum, at  
+
+ anlægget, der er afbrudt, opnår termisk ligevægt.
+ 3.5.3.2 Derpå sættes anlægget i drift, og temperaturen i kammeret  
+
+ fastholdes på +55 grader C (+/- 3 grader C). Efter 2 timers forløb foretages  
+
+ ved samme temperatur funktionsprøver med det formål at kontrollere, at  
+
+ anlægget er funktionsdygtigt.
+ 3.5.3.3 Efter afslutningen af funktionsprøven udsættes anlægget for normal  
+
+ temperatur i mindst 3 timer, før yderligere prøver gennemføres.
+3.5.4 Fugtig varme 3.5.4.1 Anlægget anbringes i et klimakammer, hvorefter temperaturen i  
+
+ løbet af 3 +/- 1/2 time hæves jævnt fra stuetemperatur til +40 grader C (+/-  
+
+ 3 grader C). Samtidig øges den relative fugtighed til 93% (+/- 2%).
+ 3.5.4.2 Herefter fastholdes temperatur og fugtighed i mindst 10 timer,  
+
+ hvorpå anlægget sættes i drift og underkastes en funktionsprøve af mindst en  
+
+ halv times varighed for at kontrollere, at anlægget er funktionsdygtigt.
+3.5.4.3 Idet anlægget forbliver i klimakammeret, bringes temperaturen heri  
+
+ derpå i løbet af mindst 1 time ned til normal temperatur.
+Anlægget udsættes  
+
+ herefter for normal temperatur og fugtighed i et sådant tidsrum - mindst 3  
+
+ timer - at al synlig fugtighed er forsvundet.
+3.5.5 Lav temperatur 3.5.5.1 Anlægget anbringes i et klimakammer, hvorefter temperaturen sænkes  
+
+ til -25 grader C (+/- 3 grader C). Denne temperatur fastholdes i en periode  
+
+ på mindst 10 timer.
+ 3.5.5.2 Derefter hæves temperaturen til -10 grader C (+/- 3 grader C) og  
+
+ fastholdes her i mindst 2 timer. 1 de sidste 30 minutter af denne periode  
+
+ gennemføres funktionsprøver for at kontrollere, at anlægget er  
+
+ funktionsdygtigt.
+3.6 Praktiske prøver Anlægget skal med tilfredsstillende resultat kunne gennemgå praktiske  
+
+ prøver, som har til hensigt at belyse anlæggets elektriske funktionsduelighed  
+
+ under i praksis forekommende modtageforhold om bord i skibe.
+4. MODTAGER 4.1 Generelt 4.1.1 Udstrålingsklasser og frekvens Modtageren skal være fast afstemt til 2182 kHz og skal på denne frekvens  
+
+ kunne modtage A2, A2H, A3 og A3H signaler.
+Detekteringen af de modtagne  
+
+ signaler skal ske under anvendelse af den modtagne bærebølge.
+4.1.2 Udgangseffekt Modtagerens nominelle udgangseffekt opgives af fabrikanten og skal være  
+
+ mindst 500 mW.
+ Væsentlig højere udgangseffekt kan være nødvendig for anlæg, der  
+
+ installeres i støjfulde omgivelser.
+4.1.3 Automatisk volumenkontrol Modtageren skal være forsynet med en velfungerende automatisk  
+
+ volumenkontrol, som blandt andet bør være indrettet således, at også når  
+
+ ingen signaler modtages, holdes støjniveauet på modtagerudgangen på et  
+
+ rimeligt niveau.
+4.1.4 Regulering af lavfrekvensforstærkning 4.1.4.1 Modtageren skal være forsynet med et betjeningsgreb, hvormed  
+
+ udgangseffekten manuelt kan reguleres fra maksimalt niveau til et lavt, men  
+
+ hørbart niveau.
+4.1.4.2 Dette lave niveau skal kunne reguleres ved hjælp af en  
+
+ forindstillingsmulighed, der ikke er umiddelbart tilgængelig for brugeren af  
+
+ anlægget.
+Når den manuelle volumenkontrol er indstillet til minimum  
+
+ udgangseffekt, skal reguleringsområdet for forindstillingskontrollen være  
+
+ mindst 12 dB.
+ 4.1.4.3 For en hvilken som helst kombination af indstilling af den  
+
+ manuelle volumenkontrol og forindstillingskontrollen skal modtagerens  
+
+ udgangseffekt være mindst 1 mW ved et indgangsniveau svarende til den målte  
+
+ følsomhed for modtageren (pkt. 4.3).
+4.1.5 Beskyttelsesforanstaltninger 4.1.5.1 Der skal være truffet foranstaltninger til beskyttelse af  
+
+ modtageren og undertrykkelse af det akustiske signal fra anlægget i  
+
+ situationer, hvor der foretages udsendelser på 2182 kHz med skibets egen  
+
+ radiotelefonisender.
+4.1.5.2 Modtageren skal kunne tåle, at der gennem netværket omtalt under  
+
+ pkt. 4.2.2 i 15 minutter tilføres antenneindgangen en umoduleret  
+
+ højfrekvensspænding på 30 volt EMK med en vilkårlig frekvens inden for  
+
+ området 100 kHz - 28 MHz.
+Når signalet derefter fjernes, skal modtageren uden  
+
+ videre igen fungere normalt.
+ 4.1.5.3 Modtageren skal være beskyttet mod virkninger af sådanne statiske  
+
+ overspændinger, som må påregnes at kunne forekomme på antenneindgangen.
+4.2 Målebetingelser 4.2.1 Kunstantenne Ved godkendelsesmålingerne benyttes en kunstantenne bestående af en rent  
+
+ ohmsk modstand på 10 ohm i serie med en kondensator på 250 pF.
+ Modtageren skal dog være indrettet således, at den kan fungere på alle  
+
+ almindeligt forekommende skibsantenner.
+4.2.2 Tilførsel af prøvesignaler til modtagerens indgang Ved godkendelsesmålingerne tilføres modtageren prøvesignaler gennem et  
+
+ tilpasningsnetværk, der er indrettet således, at impedansen mod modtageren er  
+
+ lig kunstantennens impedans, uanset antallet af samtidigt tilførte signaler.
+ Prøvesignalers niveau udtrykkes ved den elektromotoriske kraft, der er på  
+
+ det sted, hvor modtageren tilsluttes netværket.
+4.2.3 Måling af udgangseffekt Modtagerens udgangseffekt måles over en ohmsk modstand lig den numeriske  
+
+ værdi af højttalerens impedans.
+ Ved nogle af godkendelsesmålingerne benyttes som reference en standard  
+
+ udgangseffekt på 50 mW, målt ved et lavfrekvenssignal på 1000 Hz.
+4.3 Følsomhed 4.3.1 Definition Modtagerens følsomhed defineres som det mindste niveau for et 30%  
+
+ moduleret indgangssignal, der på modtagerens udgang vil frembringe enten et  
+
+ signal-støjforhold på 10 dB og en udgangseffekt på mindst 500 mW eller en  
+
+ udgangseffekt på 500 mW og et signal-støjforhold på mindst 10 dB.
+4.3.2 Målemetode Et A2 signal med nominel bærebølgefrekvens 2182 kHz og moduleret 30% af en  
+
+ 1000 Hz tone tilføres modtagerindgangen.
+Signalets niveau indstilles, indtil  
+
+ der på modtagerudgangen opnås enten et signal- støjforhold på 10 dB og en  
+
+ udgangseffekt på mindst 500 mW eller en udgangseffekt på 500 mW og et  
+
+ signal-støjforhold på mindst 10 dB.
+ Indgangssignalets niveau er da modtagerens følsomhed.
+ Målingerne udføres både ved normale afprøvningsbetingelser og ved særlige  
+
+ afprøvningsbetingelser (pkt. 3.4.1 og 3.4.3 anvendt samtidigt).
+4.3.3 Krav Modtagerens følsomhed skal være bedre end 20 dB/l micro V.
+4.4 Lavfrekvenskarakteristik 4.4.1 Definition Modtagerens lavfrekvenskarakteristik er variationen i signalniveauet på  
+
+ modtagerudgangen som funktion af indgangssignalets modulationsfrekvens ved  
+
+ konstant modulationsgrad.
+4.4.2 Målemetode Et A2 signal med nominel bærebølgefrekvens 2182 kHz, 30% moduleret af en  
+
+ 1000 Hz tone og med et niveau på 60 dB/ 1 micro V tilføres modtagerens  
+
+ indgang, hvorefter modtageren indstilles til at afgive standard  
+
+ udgangseffekt.
+Idet modulationsgraden fastholdes, varieres  
+
+ modulationsfrekvensen, og sammenhørende værdier af denne og modtagerens  
+
+ udgangsspænding måles.
+4.4.3 Krav Modtagerens lavfrekvenskarakteristik skal være således, at  
+
+ udgangsspændingen højst varierer 6 dB inden for frekvensområdet 350 Hz - 2700  
+
+ Hz.
+Ved 6 kHz skal udgangsspændingen være dæmpet mindst 20 dB i forhold til  
+
+ sin maksimalværdi inden for området 350 Hz - 2700 Hz.
+4.5 Nabosignalselektivitet 4.5.1 Definition Nabosignalselektiviteten er forholdet mellem indgangsspændingerne for  
+
+ henholdsvis et uønsket signal på en nærliggende frekvens og det ønskede  
+
+ signal, når det uønskede signal bevirker en reduktion af signal-støjforholdet  
+
+ på modtagerudgangen fra 20 dB til 14 dB.
+4.5.2 Målemetode Med den automatiske volumenkontrol i funktion tilføres modtageren et  
+
+ ønsket signal med frekvensen 2182 kHz, moduleret 30% af en 1000 Hz tone.  
+
+ Signalets niveau indstilles, indtil signal-støjforholdet på modtagerudgangen  
+
+ er 20 dB, hvorefter udgangseffekten reguleres til standard udgangseffekt.
+Herefter tilføres modtageren samtidigt et uønsket signal, moduleret 30% af  
+
+ en 400 Hz tone.
+Det uønskede signals niveau indstilles således, at  
+
+ signal-støjforholdet på modtagerudgangen bliver 14 dB.
+4.5.3 Krav Idet f er bærebølgefrekvensen af det uønskede signal, skal modtagerens  
+
+ nabosignalselektivitet være bedre end eller lig følgende værdier:
+4.6 Blokering 4.6.1 Definition Modtagerens blokeringsspænding er den indgangsspænding af et uønsket  
+
+ signal, der fremkalder enten en ændring på 3 dB af det ønskede signals  
+
+ LF-udgangseffekt eller en reduktion af signal-støjforholdet på  
+
+ modtagerudgangen på 6 dB.
+4.6.2 Målemetode Med den automatiske volumenkontrol i funktion tilføres modtageren et  
+
+ ønsket signal med bærebølgefrekvens 2182 kHz, moduleret 30% af en 1000 Hz  
+
+ tone og med et niveau på 60 dB/l micro V.
+Modtageren justeres til standard udgangseffekt, hvorefter yderligere et  
+
+ uønsket, umoduleret signal tilføres modtagerindgangen.
+Indgangsniveauet af  
+
+ dette signal, der har en frekvensafstand fra det ønskede signal på - 20 kHz  
+
+ eller + 20 kHz, indstilles således, at det forårsager:
+ Det uønskede signals spænding på modtagerindgangen, når een af de ovenfor  
+
+ nævnte tilstande indtræder, er modtagerens blokeringsspænding.
+4.6.3 Krav Modtagerens blokeringsspænding skal være mindst 100 dB /l micro V.
+4.7 Krydsmodulation 4.7.1 Definition Modtagerens krydsmodulationsspænding er den indgangsspænding af et  
+
+ uønsket, moduleret signal, som fremkalder modulationskomponenter af en given  
+
+ størrelse i modtagerens udgangssignal.
+4.7.2 Målemetode Med den automatiske volumenkontrol i funktion tilføres modtageren et  
+
+ ønsket signal med bærebølgefrekvens 2182 kHz, moduleret 30% af en 1000 Hz  
+
+ tone og med et niveau på 60 dB/l micro V.
+Modtageren justeres til at afgive  
+
+ standard udgangseffekt, hvorefter modulationen fjernes fra det ønskede  
+
+ signal.
+Herefter tilføres yderligere et uønsket signal med en frekvensafstand fra  
+
+ det ønskede signal på +/- 20 kHz og moduleret 30% af en 400 Hz tone.
+Niveauet  
+
+ af det uønskede signal indstilles, indtil den samlede udgangseffekt  
+
+ hidrørende fra krydsmodulationsprodukter er 30 dB under standard  
+
+ udgangseffekt.
+ Indgangsniveauet af det uønskede signal, når ovennævnte betingelse er  
+
+ opfyldt, er modtagerens krydsmodulationsspænding.
+4.7.3 Krav Modtagerens krydsmodulationsspænding skal være mindst 90 dB/l micro V.
+4.8 Intermodulation 4.8.1 Definition Modtagerens intermodulationsspænding er den indgangsspænding af to lige  
+
+ store uønskede signaler, der fremkalder modulation af en given størrelse på  
+
+ modtagerudgangen.
+4.8.2 Målemetode Med den automatiske volumenkontrol i funktion tilføres modtageren et  
+
+ ønsket signal med bærebølgefrekvens 2182 kHz, moduleret 30% af en 1000 Hz  
+
+ tone og med et niveau på 30 dB/l micro V.
+Modtageren justeres til at afgive  
+
+ standard udgangseffekt, og derefter fjernes det ønskede signal.
+Idet modtagerindstillingen opretholdes uændret, tilføres modtageren  
+
+ herefter to uønskede signaler samtidigt, begge med en frekvensafstand på  
+
+ mindst 30 kHz fra 2182 kHz.
+Det uønskede signal hvis frekvens er nærmest 2182  
+
+ kHz, er umoduleret; det andet signal er moduleret 30% af en 1000 Hz tone.  
+
+ Niveauet af de to uønskede signaler, der holdes lige store, justeres indtil  
+
+ modtageren afgiver standard udgangseffekt.
+Hvis modtageren, der er indleveret til afprøvning, er konstrueret som en  
+
+ ret-modtager, udføres målinger under anvendelse af sådanne frekvenser f1 og  
+
+ f2 for de to uønskede signaler, at Hvis modtageren, der er indleveret til afprøvning, er konstrueret som en  
+
+ superheterodyn-modtager, udføres ovennævnte målinger samt yderligere målinger  
+
+ under anvendelse af sådanne frekvenser f1 og f2 for de uønskede signaler, at fsp samtidig med, at de hver især er tæt ved men ikke lig med frekvensen  
+
+ 1/2 x fsp, f,eks.
+ Ved målingerne sikres det, at modtagerens udgangseffekt kun ændrer sig  
+
+ uvæsentligt, når de uønskede signaler påtrykkes modtageren enkeltvist med et  
+
+ niveau af samme størrelsesorden som modtagerens intermodulationsspænding.
+ Niveauet af de to uønskede signaler, der bevirker at modtageren afgiver  
+
+ standard udgangseffekt, er modtagerens intermodulations spænding.
+4.8.3 Krav Modtagerens intermodulationsspænding skal være mindst 80 dB/ 1 microV.
+4.9 Dæmpning af uønskede signaler (spurious responses) 4.9.1 Definit i on Ved modtagerens dæmpning af et uønsket signal forstås forholdet mellem  
+
+ modtagerens følsomhed for et uønsket signal og følsomheden for et ønsket  
+
+ signal.
+4.9.2 Målemetode Et A2 signal med nominel bærebølgefrekvens 2182 kHz og moduleret 30% af en  
+
+ 1000 Hz tone tilføres modtageren, og modtagerens følsomhed bestemmes som  
+
+ anført under pkt. 4. 3.
+Idet modtagerindstilling og modulationsgrad fastholdes, varieres  
+
+ indgangssignalets frekvens mellem 100 kHz og 1000 MHz.
+Når der registreres et  
+
+ signal på modtagerudgangen, efterjusteres frekvensen af indgangssignalet  
+
+ således, at størst mulig udgangseffekt opnås.
+Indgangsniveauet indstilles  
+
+ herefter således, at signal-støjforholdet på modtagerudgangen bliver 10 dB,  
+
+ Forholdet mellem niveauerne af hvert enkelt af de uønskede signaler på  
+
+ modtagerindgangen og indgangsniveauet af det ønskede signal på 2182 kHz, der  
+
+ ligeledes vil frembringe et signal-støjforhold på 10 dB på modtagerudgangen,  
+
+ kan herefter bestemmes.
+4.9.3 Krav Modtagerens dæmpning af uønskede signaler skal være mindst 60 dB.
+4.10 Ulineær forvrængning 4.10.1 Definition Den ulineære forvrængning i modtagerens udgangssignal er defineret som  
+
+ forholdet mellem effektivværdien af spændingen af samtlige oversvingninger og  
+
+ effektivværdien af den totale signalspænding på modtagerens udgang.
+4.10.2 Målemetode Modtagerindgangen tilføres et A2 signal med bærebølgefrekvens 2182 kHz,  
+
+ moduleret 30% af en 1000 Hz tone og med et niveau på først 40 dB/l micro V og  
+
+ derefter 80 dB/l micro V.
+Ved hver måling indstilles modtagerens  
+
+ volumenkontrol således, at modtageren afgiver nominel udgangseffekt.
+For  
+
+ hvert indgangsniveau øges modulationsgraden under målingerne fra 30% til 80%.
+4.10.3 Krav Ved en modulationsgrad på 30% må den ulineære forvrængning ikke overstige  
+
+ 10%. Ved en modulationsgrad på 80% må den ulineære forvrængning ikke  
+
+ overstige 15%.
+4.11. Uønsket udstråling over antenneklemmerne 4.11.1 Definition Uønsket udstråling er alle internt genererede signaler - uanset frekvens -  
+
+ der optræder på modtagerens antennetilslutning.
+4.11.2 Målemetode Modtagerindgangen belastes med kunstantennen specificeret i pkt. 4.2.1, og  
+
+ den uønskede udstrålings enkelte komponenter måles over den ohmske del af  
+
+ kunstantennen.
+4.11.3 For hver udstrålet komponent må effekten målt over kunstantennens  
+
+ ohmske del ikke overstige 1 nW, 4.12 Automatisk forstærkningskontrol 4.12.1 Målemetode Modtageren tilføres et A2 signal med bærebølgefrekvens 2182 kHz og  
+
+ moduleret 30% af en 1000 Hz tone.
+Indgangsniveauet indstilles således, at  
+
+ signal-støjforholdet på modtagerudgangen er 10 dB.
+4.12.1.1 Afprøvning ved svage signaler Modtagerens manuelle volumenkontrol indstilles således, at modtageren  
+
+ afgiver standard udgangseffekt.
+Herefter øges indgangsniveauet 20 dB, og  
+
+ signal-støjforholdet på udgangen måles.
+4.12.1.2 Afprøvning ved kraftige signaler Modtagerens manuelle volumenkontrol justeres således, at den afgivne  
+
+ effekt er 10 dB under standard udgangseffekt.
+Herefter øges indgangsniveauet  
+
+ med 70 dB, og ændringen af udgangseffekten måles.
+4.12.2 Krav Under betingelserne specificeret i pkt. 4.12.1.1 skal signal-  
+
+ støjforholdet stige til mindst 25 dB.
+ Under betingelserne specificeret i pkt. 4.12.1.2 må udgangseffekten højst  
+
+ stige 10 dB.
+5. FILTERENHED 5.1 Generelt Anlægget kan være forsynet med en filterenhed som bevirker, at dets  
+
+ lavfrekvenskarakteristik udviser selektivitet for alarmfrekvenserne 1300 Hz  
+
+ og 2200 Hz ( jfr. pkt. 2.1.1). Når filterenheden er i funktion, skal  
+
+ anlæggets lavfrekvenskarakteristik opfylde kravene angivet i pkt. 5.3.
+ På anlægget skal der ved opmærkning eller på anden måde være en tydelig  
+
+ indikation af, hvornår filterenheden er i funktion, og der skal forefindes  
+
+ mulighed for, at filterenheden hurtigt og simpelt kan udkobles manuelt,  
+
+ således at anlægget opnår normal lavfrekvenskarakteristik som beskrevet under  
+
+ pkt. 4.4.3.
+5.2 Måling af lavfrekvenskarakteristik Med filterenheden udkoblet tilføres modtageren et A2 signal med nominel  
+
+ bærebølgefrekvens 2182 kHz, moduleret 30% af en tone på 1000 Hz og med et  
+
+ niveau på 60 dB/l micro V.
+Modtageren indstilles til at afgive standard  
+
+ udgangseffekt.
+Derefter indkobles filterenheden, og modulationsfrekvensen varieres, idet  
+
+ modulationsgraden samtidigt holdes konstant.
+Sammenhørende værdier af  
+
+ modulationsfrekvens og udgangseffekt registreres.
+Målingerne udføres både ved  
+
+ normale afprøvningsbetingelser og ved særlige afprøvningsbetingelser (pkt.  
+
+ 3.4.1 og 3.4.3 anvendt samtidigt).
+5.3 Krav til lavfrekvenskarakteristik Ved de to frekvenser inden for gennemgangsområderne for henholdsvis 1300  
+
+ Hz og 2200 Hz, hvor maksimal udgangseffekt registreres, må udgangseffekten  
+
+ ikke afvige mere end 6 dB fra standard udgangseffekt og må indbyrdes højst  
+
+ afvige 3 dB.
+ Anlæggets lavfrekvenskarakteristik skal være inden for grænserne angivet i  
+
+ bilag 1.
+6. SIGNALSPÆRRE-ENHED 6.1 Generelt 6.1.1 Signalspærre-enheden skal fungere således, at den befinder sig i  
+
+ spærretilstand - d.v.s. bevirker at der ikke føres signaler til højttaleren -  
+
+ indtil modtagning af et af nedenstående signaler bringer den til  
+
+ gennemgangstilstand, hvorved modtagerens udgangssignal automatisk og uden  
+
+ andre lavfrekvensmæssige begrænsninger end de i pkt. 4.1.4 og 4.4.3 nævnte  
+
+ føres til højttaleren; Herudover kan signalspærre-enheden være udført således, at den også  
+
+ reagerer på 6.1.2 Signalspærre-enheden skal være konstrueret således, at der opnås høj  
+
+ sikkerhed for, at den dels reagerer på ovennævnte signaler a) og b),  
+
+ eventuelt c), dels ikke reagerer på andre end disse (jfr. pkt. 6.3.1).
+ 6.1.3 Når modtagelse af et af ovennævnte signaler har bragt  
+
+ signalspærre-enheden i gennemgangstilstand, skal anlægget forblive i denne  
+
+ tilstand, indtil det omstilles manuelt.
+ 6.1.4 Anlægget skal være forsynet med betjeningsgreb for hurtig og simpel  
+
+ manuel ind- og udkobling af signalspærre-enheden.
+ Der skal endvidere forefindes betjeningsgreb således, at  
+
+ signalspærre-enheden manuelt kan tilbagestilles fra gennemgangstilstand til  
+
+ spærretilstand.
+ 6.1.5 Der skal være mulighed for rutinemæssig afprøvning af  
+
+ signalspærre-enheden ved tilførsel af to-tone alarmsignalet, eventuelt fra en  
+
+ udvendig generator.
+6.2 Aktivering af signalspærre-enheden 6.2.1 Målemetode Med signalspærre-enheden udkoblet tilføres modtagerindgangen et A2 signal  
+
+ med nominel bærebølgefrekvens 2182 kHz, moduleret 30% af en 1000 Hz tone og  
+
+ med et niveau svarende til den målte følsomhed for modtageren (pkt. 4.3).  
+
+ Modtagerens volumenkontrol indstilles således, at standard udgangseffekt  
+
+ opnås.
+Signalspærre-enheden indkobles, og følgende prøver udføres; 6.2.1.1 Aktivering ved det radiotelefoniske alarmsignal Der tilføres modtagerindgangen et A2 signal med nominel bærebølgefrekvens  
+
+ 2182 kHz, moduleret 70% af det radiotelefoniske alarmsignal og med et niveau  
+
+ lavere end det der er nødvendigt for at aktivere signalspærre-enheden.
+Udgangseffekten måles, medens indgangssignalets niveau forøges, indtil  
+
+ udgangseffekten er steget til et niveau ikke lavere end -6 dB i forhold til  
+
+ standard udgangseffekt.
+Det tilhørende indgangsniveau registreres.
+ Prøven gentages for alle kombinationer af nedenstående tolerancer for det  
+
+ radiotelefoniske alarmsignal:
+ - Frekvens; 1300 Hz +/- 20 Hz, 2200 Hz +/- 35 Hz.
+ - Varighed af hver tone; 250 ms +/- 50 ms.
+ - Pause mellem tonerne; 0 til 50 ms.
+6.2.1.2 Aktivering ved signalet for vitale navigationsvarsler Prøven udføres som beskrevet under pkt. 6.2.1.1, blot er det tilførte  
+
+ bærebølgesignal her moduleret 70% af signalet for vitale navigationsvarsler.
+ Prøven gentages for alle kombinationer af de nedenfor anførte grænser:
+ - Modulationsfrekvens; 2200 Hz +/- 35 Hz.
+ - Varighed af bærebølge og modulation: 250 ms +/- 50 ms.
+ - Varighed af pause for bærebølge og modulation: 250 ms +/- 50 ms.
+6.2.1.3 Aktivering ved 1300 Hz signal fra nødradiopejleanlæg Hvis signalspærre-enheden er indrettet således, at den også kan reagere  
+
+ for det nøglede 1300 Hz signal fra et nødradiopejleanlæg, foretages ligeledes  
+
+ en prøve for denne signaltype.
+Prøven udføres som beskrevet under pkt.  
+
+ 6.2.1.1, blot består det tilførte prøvesignal her af et A2 signal med nominel  
+
+ bærebølgefrekvens 2182 kHz, 30% moduleret af en 1300 Hz tone og nøglet  
+
+ således, at tegn og mellemrum hver har en nominel varighed af 1 sek.
+ Prøven gentages for alle kombinationer af de nedenfor anførte grænser:
+ - Modulationsfrekvens; 1300 Hz +/- 20 Hz.
+ - Varighed af bærebølge og modulation: 1,0 sek - 1,2 sek.
+ - Varighed af pause for bærebølge og modulation: 1,0 sek - 1,2 sek.
+6.2.2 Krav Ved påtrykning af indgangsniveauer større end eller lig niveauet svarende  
+
+ til den målte følsomhed for modtageren skal signalspærre- enheden bringes fra  
+
+ spærretilstand til gennemgangstilstand i løbet af et tidsrum, der er  
+
+ tilstrækkeligt langt til at sikre mod reaktion overfor uønskede signaler, dog  
+
+ maksimalt 6 sek.
+6.3 Beskyttelse mod reaktion over for uønskede signaler 6.3.1 Signalspærre-enheden skal være konstrueret således, at der er høj  
+
+ sikkerhed for, at den ikke reagerer på uønskede signaler, d.v.s. andre  
+
+ signaler end signalerne a), b) og eventuelt c) nævnt under pkt. 6.1.1.
+ Som uønskede signaler betragtes også signaler, der indeholder visse  
+
+ karakteristika (f.eks. en 2200 Hz tone), men ikke samtlige karakteristika  
+
+ (f.eks. har varigheder uden for de gældende tolerancer) for de ønskede  
+
+ signaler.
+ For undersøgelse af signalspærre-enhedens immunitet over for uønskede  
+
+ signaler udføres - foruden praktiske prøver som nævnt i pkt. 3.6 - under  
+
+ godkendelsesmålingerne prøver med visse udvalgte, uønskede signaler således  
+
+ som beskrevet i det følgende.
+6.3.2 Målemetode Med signalspærre-enheden udkoblet indreguleres modtageren som beskrevet i  
+
+ pkt. 6.2.1. Derefter indkobles signalspærre-enheden, og nedenstående prøver  
+
+ udføres.
+6.3.2.1 Tonekodesignaler for selektiv kalden på 2170,5 kHz Modtageren påtrykkes i mindst 10 sekunder et A2 prøvesignal med nominel  
+
+ bærebølgefrekvens 2170,5 kHz, et niveau 70 dB over niveauet svarende til den  
+
+ målte følsomhed for modtageren, og 70% moduleret af skiftevis 1275 Hz og 2110  
+
+ Hz, hver tone af 100 ms varighed.
+Udgangseffekten måles.
+ Prøven gentages med et modulationssignal bestående af skiftevis 1358 Hz og  
+
+ 2110 Hz.
+6.3.2.2 Talemoduleret signal Modtageren påtrykkes i 5 minutter et talemoduleret signal med nominel  
+
+ bærebølgefrekvens 2182 kHz og et niveau 70 dB over niveauet svarende til den  
+
+ målte følsomhed for modtageren.
+Udgangseffekten måles.
+6.3.3 Krav Udgangseffekten skal være mindst 30 dB under standard udgangseffekt.
+6.4 Åbning under de radiotelefoniske tavshedsperioder Anlægget kan være forsynet med faciliteter for automatisk tilkobling af  
+
+ modtagerudgangen til højttaleren i de radiotelefoniske tavshedsperioder (  
+
+ jfr. pkt. 2.1.1). Styringen heraf kan ske via et internt eller eksternt  
+
+ urværk eller via anden egnet styringsmekanisme og skal bevirke, at  
+
+ modtagerens udgangssignal - uden anden lavfrekvensmæssig begrænsning end den  
+
+ under pkt. 4.4.3 nævnte - tilføres højttaleren i de tidsrum,  
+
+ tavshedsperioderne varer.
+Ved hjælp af et betjeningsgreb skal det dog til  
+
+ enhver tid være muligt at sætte denne facilitet ud af funktion.

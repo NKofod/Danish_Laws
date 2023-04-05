@@ -1,0 +1,402 @@
+Bekendtgørelse om gennemførelse af Kommissionens afgørelse af 23. juli 2012 om ændring af forskellige tekniske specifikationer for interoperabilitet1) I medfør af § 21 h, stk. 1, 1. pkt., og § 26, stk. 1, 1. pkt., i lov om jernbane, jf. lovbekendtgørelse nr. 1249 af 11. november 2010, fastsættes efter bemyndigelse i henhold til § 24 h, stk. 1.
+ § 1. Bekendtgørelsen gennemfører Kommissionens afgørelse af 23. juli 2012 om ændring af beslutning 2006/861/EF, 2008/163/EF, 2008/164/EF, 2008/217/EF, 2008/231/EF, 2008/232/EF og 2008/284/EF samt afgørelse 2011/229/EU, 2011/274/EU, 2011/275/EU, 2011/291/EU og 2011/314/EU om tekniske specifikationer for interoperabilitet (»Omnibus del 3«).
+ Stk. 2. Kommissionens afgørelse med tilhørende bilag er medtaget som bilag 1 til denne bekendtgørelse.
+ § 2. Bekendtgørelsen træder i kraft den 24. januar 2013.
+Trafikstyrelsen, den 18. januar 2013 Carsten Falk Hansen / Leif Funch Bilag 1 Kommissionens afgørelse af 23. juli 2012 om ændring af beslutning 2006/861/EF, 2008/163/EF, 2008/164/EF, 2008/217/EF, 2008/231/EF, 2008/232/EF og 2008/284/EF samt afgørelse 2011/229/EU, 2011/274/EU, 2011/275/EU, 2011/291/EU og 2011/314/EU om tekniske specifikationer for interoperabilitet (meddelt under nummer C(2012) 4985) (EØS-relevant tekst) (2012/464/EU) EUROPA-KOMMISSIONEN HAR  under henvisning til traktaten om Den Europæiske Unions funktionsmåde, under henvisning til Europa-Parlamentets og Rådets direktiv 2008/57/EF af 17. juni 2008 om interoperabilitet i jernbanesystemet i Fællesskabet1), særlig artikel 6, stk. 1, og ud fra følgende betragtninger:
+ (1) I henhold til artikel 12 i Europa-Parlamentets og Rådets forordning (EF) nr. 881/2004 af 29. april 2004 om oprettelse af et europæisk jernbaneagentur (»agenturforordningen«)2) skal Det Europæiske Jernbaneagentur (i det følgende betegnet »agenturet«) sikre, at de tekniske specifikationer for interoperabilitet (i det følgende betegnet »TSI'er«) er tilpasset de tekniske fremskridt, markedsudviklingen og de samfundsmæssige krav og foreslå Kommissionen de ændringer af TSI'erne, som det finder nødvendige.
+ (2) Ved afgørelse C(2007) 3371 af 13. juli 2007 gav Kommissionen agenturet et rammemandat til at udføre visse aktiviteter i henhold til Rådets direktiv 96/48/EF af 23. juli 1996 om interoperabilitet i det transeuropæiske jernbanesystem for højhastighedstog3) og Europa-Parlamentets og Rådets direktiv 2001/16/EF af 19. marts 2001 om interoperabilitet i det transeuropæiske jernbanesystem for konventionelle tog4). I henhold til betingelserne i dette rammemandat blev agenturet anmodet om at revidere TSI'erne for rullende materiel til højhastighedstog, godsvogne, lokomotiver og passagervogne, støj, infrastruktur, energi, togkontrol og signaler, drift og trafikstyring, telematik til gods- og passagertrafik, sikkerhed i jernbanetunneller og tilgængelighed for bevægelseshæmmede.
+ (3) Den 31. marts 2011 udsendte agenturet en anbefaling om specifikationer til infrastrukturregistret, om proceduren for eftervisning af, i hvor høj grad TSI'ernes grundparametre overholdes på eksisterende strækninger, og om efterfølgende ændringer af TSI'er (ERA/REC/04-2011/INT).
+(4) Den 9. juni 2011 afgav udvalget, der er nedsat i henhold til artikel 29, stk. 1, i direktiv 2008/57/EF, en positiv udtalelse om udkast til Kommissionens gennemførelsesafgørelse om det europæiske register over godkendte typer af jernbanekøretøjer og om udkast til Kommissionens gennemførelsesafgørelse om fælles specifikationer for infrastrukturregistret for jernbaner.
+Efter vedtagelsen af Kommissionens to retsakter, der er baseret på disse forslag, nemlig Kommissionens gennemførelsesafgørelse 2011/633/EU af 15. september 2011 om fælles specifikationer for infrastrukturregistret for jernbaner5) og Kommissionens gennemførelsesafgørelse 2011/665/EU af 4. oktober 2011 om det europæiske register over godkendte typer af jernbanekøretøjer6), skal de relevante TSI'er ajourføres for at sikre den samlede sammenhæng.
+ (5) I bilag A i de nuværende TSI'er om drift og trafikstyring henvises der til version 1 af driftsreglerne for det europæiske jernbanetrafikstyringssystem (ERTMS), der blev udarbejdet på grundlag af systemkravsspecifikationerne (SRS) version 2.2.2 for det europæiske togkontrolsystem (ETCS).
+(6) ETCS SRS har nået en stabil version 2.3.0.d.
+Dette skal afspejles i form af ajourførte ERTMS-driftsregler i TSI'erne for drift og trafikstyring for både konventionelle tog og højhastighedstog.
+ (7) Den 20. juli 2011 fremsatte agenturet en henstilling om reviderede driftsprincipper og -regler for ERTMS i TSI'er om drift og trafikstyring for konventionelle tog og højhastighedstog (ERA/REC/08-2011/INT-ERTMS).
+ (8) Den 8. september 2011 fremsatte agenturet en henstilling om yderligere ændringer af TSI'er for at rette fejl og mangler (ERA/REC/07-2011/INT).
+(9) Af praktiske grunde er det at foretrække at ændre en række TSI'er gennem en enkelt afgørelse fra Kommissionen med henblik på at gennemføre særlige korrektioner og ajourføringer af retsakterne.
+Disse korrektioner og ajourføringer skyldes ikke en samlet revision af TSI'erne eller en udvidelse af deres geografiske anvendelsesområde.
+ (10) Følgende retsakter bør derfor ændres:
+ Kommissionens beslutning 2006/861/EF af 28. juli 2006 om den tekniske specifikation for interoperabilitet gældende for delsystemet »rullende materiel  godsvogne« i det transeuropæiske jernbanesystem for konventionelle tog7)  Kommissionens beslutning 2008/163/EF af 20. december 2007 om den tekniske specifikation for interoperabilitet for sikkerhed i jernbanetunneller i det transeuropæiske jernbanesystem for konventionelle tog og højhastighedstog8)  Kommissionens beslutning 2008/164/EF af 21. december 2007 om den tekniske specifikation for interoperabilitet for »bevægelseshæmmede« i det transeuropæiske jernbanesystem for konventionelle tog og højhastighedstog9)  Kommissionens beslutning 2008/217/EF af 20. december 2007 om en teknisk specifikation for interoperabilitet for delsystemet »infrastruktur« i det transeuropæiske jernbanesystem for højhastighedstog10)  Kommissionens beslutning 2008/231/EF af 1. februar 2008 om tekniske specifikationer for interoperabilitet gældende for delsystemet drift og trafikstyring i det transeuropæiske jernbanesystem for højhastighedstog vedtaget i henhold til artikel 6, stk. 1, i Rådets direktiv 96/48/EF og ophævelse af Kommissionens beslutning 2002/734/EF af 30. maj 200211)  Kommissionens beslutning 2008/232/EF af 21. februar 2008 om en teknisk specifikation for interoperabilitet for delsystemet rullende materiel i det transeuropæiske jernbanesystem for højhastighedstog12)  Kommissionens beslutning 2008/284/EF af 6. marts 2008 om en teknisk specifikation for interoperabilitet for delsystemet energi i det transeuropæiske jernbanesystem for højhastighedstog13)  Kommissionens afgørelse 2011/229/EU af 4. april 2011 om den tekniske specifikation for interoperabilitet gældende for delsystemet »rullende materiel  støj« i det transeuropæiske jernbanesystem for konventionelle tog14)  Kommissionens afgørelse 2011/274/EU af 26. april 2011 om en teknisk specifikation for interoperabilitet gældende for delsystemet Energi i det transeuropæiske jernbanesystem for konventionelle tog15)  Kommissionens afgørelse 2011/275/EU af 26. april 2011 om en teknisk specifikation for interoperabilitet gældende for delsystemet Infrastruktur i det transeuropæiske jernbanesystem for konventionelle tog16)  Kommissionens afgørelse 2011/291/EU af 26. april 2011 om en teknisk specifikation for interoperabilitet gældende for lokomotiver og passagervogne i delsystemet Rullende materiel til det transeuropæiske jernbanesystem for konventionelle tog17)  Kommissionens afgørelse 2011/314/EU af 12. maj 2011 om den tekniske specifikation for interoperabilitet for delsystemet »Drift og trafikstyring« i det transeuropæiske jernbanesystem for konventionelle tog18).
+(11) Foranstaltningerne i denne afgørelse er i overensstemmelse med udtalelse fra det udvalg, der er omhandlet i artikel 29, stk. 1, i direktiv 2008/57/EF  VEDTAGET DENNE AFGØRELSE:
+Artikel 1 Bilaget til beslutning 2006/861/EF ændres i overensstemmelse med bilag I til denne beslutning.
+Artikel 2 Bilaget til beslutning 2008/163/EF ændres i overensstemmelse med bilag II til denne beslutning.
+Artikel 3 Bilaget til beslutning 2008/164/EF ændres i overensstemmelse med bilag III til denne beslutning.
+Artikel 4 Bilaget til beslutning 2008/217/EF ændres i overensstemmelse med bilag IV til denne beslutning.
+Artikel 5 Bilaget til beslutning 2008/231/EF ændres i overensstemmelse med bilag V til denne beslutning.
+Artikel 6 Bilaget til beslutning 2008/232/EF ændres i overensstemmelse med bilag VI til denne beslutning.
+Artikel 7 Bilaget til beslutning 2008/284/EF ændres i overensstemmelse med bilag VII til denne beslutning.
+Artikel 8 Bilaget til afgørelse 2011/229/EU ændres i overensstemmelse med bilag VIII til denne beslutning.
+Artikel 9 Bilaget til afgørelse 2011/274/EU ændres i overensstemmelse med bilag IX til denne beslutning.
+Artikel 10 Bilaget til afgørelse 2011/275/EU ændres i overensstemmelse med bilag X til denne beslutning.
+Artikel 11 Bilaget til afgørelse 2011/291/EU ændres i overensstemmelse med bilag XI til denne beslutning.
+Artikel 12 Bilaget til afgørelse 2011/314/EU ændres i overensstemmelse med bilag XII til denne beslutning.
+Artikel 13 Denne afgørelse anvendes fra den 24. januar 2013.
+Artikel 14 Denne afgørelse er rettet til medlemsstaterne.
+ Udfærdiget i Bruxelles, den 23. juli 2012.
+På Kommissionens vegne Siim Kallas Næstformand BILAG I I bilaget til beslutning 2006/861/EF (WAG  TSI for godsvogne) foretages følgende ændringer:
+ 1) Punkt 3.4.3 »Teknisk kompatibilitet«, sjette afsnit, tiende led, udgår.
+ 2) Punkt 4.2.3.2 affattes således:
+»4.2.3.2. Statisk akseltryk, masse pr. længdeenhed og geometriske egenskaber ved akselafstanden Den tilladte last, som en vogn må medføre, skal for strækninger op til 25 t, fastsættes ved anvendelse af punkt 6.1 og 6.2 i EN 15528:2008. Der indføres supplerende krav til vognene om egenskaber ved togdetekteringssystemer (jf.
+CCS TSI bilag A, tillæg 1).« 3) Punkt 4.2.4.1.2.2 »Bremsevirkningens elementer«, andet afsnit »Bremseprocent«, affattes således:
+»Metoden til bestemmelse af bremsemassen/bremsemasseprocenten finder fortsat anvendelse ved siden af retardationsprofilmetoden.
+Fabrikanten skal oplyse disse værdier.« 4) Punkt 4.2.4.1.2.8 »Parkeringsbremse«, ellevte afsnit, affattes således:
+»Parkeringsbremsens mindste bremsevirkning, uden vindpåvirkning, fastslås ved beregninger som defineret i punkt 6 i EN 14531-6:2009. Parkeringsbremsens mindste bremsevirkning skal angives på enheden.
+Mærkningen skal være i overensstemmelse med EN 15877-1:2010 (punkt 4.5.25).« 5) Punkt 4.2.6.1.1 »Generelt«, tredje afsnit, udgår.
+ 6) Punkt 4.2.8 »VEDLIGEHOLDELSE: VEDLIGEHOLDELSESINSTRUKS«, femte afsnit, udgår.
+ 7) Punkt 4.2.8.1.2 »Administration af vedligeholdelsesinstruksen«, første led, udgår.
+ 8) Punkt 4.3.2.1 affattes således:
+»4.3.2.1. Statisk akseltryk, masse pr. længdeenhed og geometriske egenskaber for akselafstanden (afsnit 4.2.3.2) I afsnit 4.2.3.2 i denne TSI angives massen pr. længdeenhed og de geometriske egenskaber for akselafstand, herunder krav til vogne (se CCS TSI, bilag A, tillæg 1) om egenskaber ved togdetekteringssystemer.« 9) Punkt 4.3.3.9 »Miljøforhold«, første afsnit, affattes således:
+»Når der sker en overskridelse af en grænse blandt de klimatiske forhold, der er defineret i afsnit 4.2.6.1.2 i denne TSI, er systemet under forringede driftsvilkår.
+I så fald skal der tages højde for driftsbegrænsninger og ske meddelelse herom til jernbaneselskabet eller togføreren.« 10) Overskriften til punkt 4.3.5.4 affattes således:
+»4.3.5.4. Statisk akseltryk, masse pr. længdeenhed og geometriske egenskaber ved akselafstanden« 11) Afsnit 4.8 affattes således:
+»4.8. INFRASTRUKTURREGISTER OG EUROPÆISK REGISTER OVER GODKENDTE TYPER AF JERNBANEKØRETØJER Hvilke oplysninger der skal medtages i det i artikel 34 i direktiv 2008/57/EF nævnte register, er angivet i Kommissionens gennemførelsesafgørelse 2011/665/EU af 4. oktober 2011 om det europæiske register over jernbanekøretøjer [*].
+________ [*] EUT L 264 af 8.10.2011, s. 32.« 12) Afsnit 7.6.5 affattes således:
+»7.6.5. Selv om der er udstedt ibrugtagningstilladelse til en vogn, skal det sikres, at den drives på kompatible infrastrukturanlæg.« 13) Bilag C, afsnit C. 4 »GA, GB, GC vognprofiler«, andet afsnit, affattes således:
+»Laster og vogne, der overholder de udvidede profiler GA, GB eller GC, er kun tilladte på strækninger, der er udvidet til disse profiler.
+Alle GA-, GB- og GC-bevægelser på strækninger, der ikke er udvidet til disse profiler, skal behandles som særlige forsendelser.« 14) Bilag D udgår.
+ 15) Bilag H udgår.
+ 16) Bilag I, figur I. 5, erstattes af følgende:
+»Input Pressure (brake pipe pressure) 17) I bilag P, tabel P. 3, foretages følgende ændringer:
+ a) I tabellens fjerde række fra oven, »Overbelastning af højtryk til et tryk på 6 bar i bremseledning efter en fuldstændig driftbremsning må ikke forårsage aktivering af bremserne, hvis det opretholdes i:«, sidste kolonne »Grænseværdi«, affattes teksten således:
+»Passagerindstilling: op til 10 sekunder Godsindstilling: op til 40 sekunder«.
+ b) I tabellens sjette række fra oven, »Løsnetid for toget efter fuld opbremsning«, affattes sidste kolonne »Grænseværdi« således:
+»Passagerindstilling: op til 25 sekunder Godsindstilling: op til 60 sekunder«.
+ 18) I bilag Q, tabel Q. 1, foretages følgende ændringer:
+ a) Teksten i femte kolonne »Driftserfaring (Modul V)«, femte række nedefra »Bremseklods og -skiver«, affattes således:
+ »12 måneder«.
+ b) Teksten i femte kolonne »Driftserfaring (Modul V)«, fjerde række nedefra »Bremsebakker«, affattes således:
+ »12 måneder«.
+ 19) Bilag T, afsnit T. 1.1 »Indledning«, første afsnit, affattes således:
+»Der kan køres med følgende godsvognsprofiler på det britiske net: W6, W7, W8 og W9. Profilerne beskrives nedenfor i afsnit A  W6, afsnit B  stikprøveberegning, afsnit C  W7 og W8 samt afsnit D  W9. Anvendelsen af disse profiler er begrænset til vogne med minimale tværgående ophængs- og vuggebevægelser.
+Vogne med bløde ophæng og/eller store vuggebevægelser skal evalueres dynamisk i henhold til Notified National Standards.« 20) I bilag V, afsnit V. 2, foretages følgende ændringer:
+ a) Første afsnit affattes således:
+»Godsvogne, der kører i Det Forenede Kongerige, skal have den ækvivalente bremsekraft og (hvis relevant) eventuelle beregnede bremsekraftfaktorer.
+Godsvogne, der opererer i andre medlemsstater end Det Forenede Kongerige, skal have beregnet bremsemasse/bremsemasseprocent.
+Godsvogne, der skal i drift i Det Forenede Kongerige og andre medlemsstater, skal have både ækvivalent bremsekraft/bremsekraftfaktorer og beregnet bremsemasse/bremsemasse/procent.« b) I underkapitlet »Beregning af bremsekraftdata« udgår punkt ii).
+ 21) I bilag AA foretages følgende ændringer:
+ a) I afsnittet »Modul SD« foretages følgende ændringer:
+ i) Underafsnit 4.2, andet afsnit, sjette led, udgår.
+ ii) I underafsnit 10 udgår niende led samt i ottende led udtrykket »og navnlig:«.
+ b) I afsnittet »Modul SF (Produktverifikation)« foretages følgende ændringer:
+ i) Underafsnit 5, andet afsnit, tredje led, udgår.
+ ii) Underafsnit 10, andet led, udgår.
+ c) Afsnittet »Modul SH2 (Fuldstændig kvalitetssikring med konstruktionsundersøgelse)«, underafsnit 10, ottende led, udgår.
+ 22) I bilag FF foretages følgende ændringer:
+ a) I tabel FF 2.1 foretages følgende ændringer:
+ i) Note g affattes således:
+»(g) Standardfunktioner op til højst 14 l bremsecylindervolumen eller kontrolvolumen (testvolumen).« ii) Note k affattes således:
+»(k) SW 4/3  med C3W-spærreventilen skal fyldning af styre- og hjælpetanke tage næsten lige lang tid.« b) I tabel FF 2.2 foretages følgende ændringer:
+ i) Teksten i sidste kolonne »Trykluftbremse«, niende række fra bunden »Oerlikon/ESH 100«, affattes således:
+»G/P-bremse med ikke-ensrettet virkningsretning, hvor den tilsluttede bremsecylindervolumen eller de forudindstillede volumener er op til 14 l.« ii) Note b affattes således:
+»(b) SW 4C  kontrolleret fyldning af styretank med beskyttelse mod overtryk, når bremsen løsnes.« iii) Note d affattes således:
+»(d) Fordelerens reduktionsventil skal tilpasses trinvist til størrelsen af køretøjets hjælpetanke.« c) Tabel FF 3, fjerde og femte række nedefra, affattes således:
+ d) Tabel FF 8, sjette række (PKP), affattes således:
+ 23) Bilag KK udgår.
+__________ BILAG II I bilaget til beslutning 2008/163/EF (SRT  TSI for jernbanetunneller) foretages følgende ændringer:
+ 1) Overskriften »UDKAST TIL TEKNISKE SPECIFIKATIONER FOR INTEROPERABILITET« affattes således:
+ »TEKNISKE SPECIFICATIONER FOR INTEROPERABILITET«.
+ 2) Punkt 4.2.4.1 »Varmløbningsdetektorer«, andet afsnit, affattes således:
+»Infrastrukturforvalteren skal angive jordbaserede varmløbningsdetektorer og deres placering.
+Jernbanevirksomheden skal indføre oplysninger om disse i strækningsbogen.« 3) Punkt 4.2.5.9 affattes således:
+»4.2.5.9. Nødbelysningsanlæg i toget Bestemmelserne i punkt 4.2.7.12 »Nødbelysning« i TSI-HS RST gælder også for konventionelle passagertog, men nødbelysningen skal kunne fungere uafhængigt i 90 minutter, efter at hovedenergikilden er ophørt med at virke.« 4) Punkt 4.3.2 »Grænseflader med delsystemet infrastruktur«, overskriften i tabellens første kolonne erstattes med »TSI SRT«.
+ 5) Punkt 4.3.2.1 affattes således:
+»4.3.2.1. Nødfortove Definitionen af nødfortove er beskrevet i punkt 4.2.2.7 i denne TSI.« 6) Punkt 4.3.3 »Grænseflader til delsystemet energi«, overskriften i tabellens første kolonne erstattes med »TSI SRT«.
+ 7) Punkt 4.3.4 »Grænseflader til delsystemet togkontrol og signaler«, overskriften i tabellens første kolonne erstattes med »TSI SRT«.
+ 8) Punkt 4.3.5 »Grænseflader til delsystemet drift og trafikstyring« overskriften i tabellens første kolonne erstattes med »TSI SRT«.
+ 9) I punkt 4.3.6. »Grænseflader til delsystemet rullende materiel« foretages følgende ændringer:
+ a) Overskriften i tabellens første kolonne erstattes med »TSI SRT«.
+ b) Række 9 og 10 i tabellen affattes således:
+ 10) Punkt 4.3.7 »Grænseflader til delsystemet bevægelseshæmmede«, overskriften i tabellens første kolonne erstattes med »TSI SRT«.
+ 11) Afsnit 4.8 affattes således:
+»4.8. Infrastrukturregister og europæisk register over godkendte typer af jernbanekøretøjer Hvilke oplysninger der skal medtages i de i artikel 34 og 35 i Europa-Parlamentets og Rådets direktiv 2008/57/EF[*] nævnte registre, er angivet i Kommissionens gennemførelsesafgørelse 2011/633/EU af 15. september 2011 om fælles specifikationer for infrastrukturregistret for jernbaner[**] og Kommissionens gennemførelsesafgørelse 2011/665/EU af 4. oktober 2011 om det europæiske register over godkendte typer af jernbanekøretøjer[***].
+________ [*] EUT L 191 af 18.7.2008, s. 1.
+ [**] EUT L 256 af 1.10.2011, s. 1.
+[***] EUT L 264 af 8.10.2011, s. 32.« 12) I punkt 6.2.1 »Overensstemmelsesvurdering (generelt)«, erstattes udtrykket »TSI-CR SRT« med »TSI-SRT«.
+ 13) Bilag A udgår.
+ 14) Bilag B udgår.
+ 15) I bilag F foretages følgende ændringer:
+ a) Afsnit F. 3.1 »Modul SB: Typegodkendelse«, underafsnit 3, sjette afsnit, andet led, affattes således:
+ » Det europæiske register over godkendte køretøjstyper, inklusive alle oplysninger som specificeret i TSI'en«.
+ b) I afsnit F. 3.2 »Modul SD: System til kvalitetssikring af produktionen« foretages følgende ændringer:
+ i) Underafsnit 4.1, tredje afsnit, sjette led, affattes således:
+ » Infrastrukturregistret, inklusive alle oplysninger som specificeret i TSI'en«.
+ ii) Underafsnit 10, niende led, affattes således:
+ » Infrastrukturregistret, inklusive alle oplysninger som specificeret i TSI'en«.
+ c) I afsnit F. 3.3 »Modul SF: Produktverifikation« foretages følgende ændringer:
+ i) Underafsnit 5, andet afsnit, tredje led, affattes således:
+ » Infrastrukturregistret, inklusive alle oplysninger som specificeret i TSI'en«.
+ ii) Underafsnit 10, andet led, affattes således:
+ » Infrastrukturregistret, inklusive alle oplysninger som specificeret i TSI'en«.
+ d) I afsnit F. 3.4 »Modul SG: Enhedsverifikation« foretages følgende ændringer:
+ i) Underafsnit 3, andet afsnit, andet led, affattes således:
+ » Infrastrukturregistret, inklusive alle oplysninger som specificeret i TSI'en«.
+ ii) Underafsnit 8, ottende led, affattes således:
+ » Infrastrukturregistret, inklusive alle oplysninger som specificeret i TSI'en«.
+ e) I afsnit F. 3.5 »Modul SH2: Fuldstændigt kvalitetssikringssystem med konstruktionsundersøgelse« foretages følgende ændringer:
+ i) Underafsnit 4.2, andet underafsnit, syvende led, affattes således:
+ » Infrastrukturregistret eller det europæiske register over godkendte køretøjstyper, inklusive alle oplysninger som specificeret i TSI'en«.
+ ii) Underafsnit 10, ottende led, affattes således:
+ » Infrastrukturregistret, inklusive alle oplysninger som specificeret i TSI'en«.
+__________ BILAG III I bilaget til beslutning 2008/164/EF (PRM  TSI for bevægelseshæmmede) foretages følgende ændringer:
+ 1) Punkt 4.1.2.18.1 affattes således:
+»4.1.2.18.1. Perronhøjde For perroner på højhastighedsnettet, hvor tog, der opfylder TSI'en for rullende materiel til højhastighedstog, forudsættes at standse under normale driftsforhold, gælder de værdier, der er fastsat i TSI-HS INS (afsnit 4.2.20.4).
+For perroner på højhastighedsnettet, hvor tog, der opfylder TSI'en for rullende materiel til højhastighedstog, ikke skal standse under normale driftsforhold, og for perroner på det konventionelle jernbanenet er to nominelle værdier tilladt for perronhøjde: 550 mm og 760 mm over kørefladen.
+Tolerancerne på disse dimensioner skal ligge inden for  35 mm/+ 0 mm.
+For perroner på det konventionelle jernbanenet, hvor der skal standse sporvogne (f.eks.
+Stadtbahn eller Tram-Train), er en nominal perronhøjde på mellem 300 mm og 380 mm tilladt.
+Tolerancerne på disse dimensioner skal ligge inden for +/ 20 mm.
+I kurver med en radius på under 500 m er det tilladt at have en perronhøjde, der er større eller mindre end de fastsatte, forudsat at vognens første brugbare trin er i overensstemmelse med figur 11 i punkt 4.2.2.12.1.« 2) I punkt 4.2.2.2.2.1 »Forbeholdte sæder.
+Generelt«, erstattes figur 3 af følgende:
+ 3) Punkt 7.3.2 »Rullende materiel«, tredje afsnit, affattes således:
+»Denne TSI gælder ikke for rullende materiel, der på denne TSI's ikrafttrædelsesdato er ved at blive fornyet eller omlagt i henhold til en kontrakt, som allerede er underskrevet eller er i den sidste fase af en udbudsprocedure.« 4) I bilag N »Skiltning for bevægelseshæmmede« erstattes figur 1 af følgende:
+__________ BILAG IV I bilaget til beslutning 2008/217/EF (HS INF  TSI for infrastruktur til højhastighedstog) foretages følgende ændringer:
+ 1) Afsnit 2.1 »Definition af infrastrukturområdet«, andet afsnit, affattes således:
+»Det strukturelt definerede delsystem Infrastruktur i det transeuropæiske jernbanesystem for højhastighedstog omfatter spor, sporskifter og sporkrydsninger på højhastighedsstrækninger inden for det anvendelsesområde, der er anført i kapitel 1.« 2) Punkt 4.2.1 »Generelle bestemmelser«, niende afsnit, affattes således:
+»Højhastighedstogenes ydeevneniveau kan også forøges ved at indføre særlige systemer, som f.eks. kurvestyring.
+Særlige forhold kan tillades for kørsel med sådanne tog, forudsat de ikke indebærer restriktioner for højhastighedstog, der ikke er udstyret med kurvestyring.« 3) Punkt 4.2.3 »Mindste fritrumsprofil«, tredje afsnit, udgår.
+ 4) Punkt 4.2.8.1 »Manglende overhøjde på fri bane og på sporskifters og sporkrydsningers stamspor«, note a, udgår.
+ 5) I punkt 4.2.9.2 »Projekteringsværdier« foretages følgende ændringer:
+ a) Første afsnit affattes således:
+ »Projekteringsværdierne for sporvidde, skinnehovedprofil og skinnehældning for skinner på fri bane skal sikre, at grænseværdierne for ækvivalent konicitet, jf. tabellen, ikke overskrides, når følgende hjulsæt modelleres til overkørsel under de projekterede sporforhold (simuleret ved beregning i henhold til EN 15302:2008 + A1:2010).
+ S 1002 som defineret i EN 13715:2006 + A1:2010 med SR = 1420 mm S 1002 som defineret i EN 13715:2006 + A1:2010 med SR = 1426 mm  GV 1/40 som defineret i EN 13715:2006 + A1:2010 med SR = 1420 mm  GV 1/40 som defineret i EN 13715:2006 + A1:2010 med SR = 1426 mm« b) Tabel 1 affattes således:
+ 6) I punkt 4.2.9.3.1 »Minimumsværdier for gennemsnitlig sporvidde« erstattes tabellen af følgende:
+ 7) Punkt 4.2.11 »Skinnehældning«, litra a) »Fri bane«, andet afsnit, affattes således:
+»Skinnehældningen for et spor skal vælges i området 1/20 til 1/40.« 8) Punkt 4.2.13.1 »Strækninger i kategori I«, underpunktet »Kræfter i længderetningen«, sidste afsnit, udgår.
+ 9) Punkt 4.2.14.1 affattes således:
+»4.2.14.1. Lodrette kræfter Bygværker skal konstrueres til at understøtte lodrette kræfter i overensstemmelse med følgende belastningsmodeller, som er defineret i EN 1991-2:2003:
+a) belastningsmodel 71, jf.
+EN 1991-2:2003, punkt 6.3.2, stk. 2, P b) belastningsmodel SW/0 for kontinuerlige broer, jf.
+EN 1991-2:2003, punkt 6.3.3, stk. 3, P.
+Belastningsmodellerne skal multipliceres med faktoren alfa (a), jf.
+EN 1991-2:2003, punkt 6.3.2, stk. 3, P, og 6.3.3, stk. 5, P.
+Værdien af a skal være lig med eller større end 1.
+Belastningspåvirkningerne fra belastningsmodellerne skal forhøjes med den dynamiske faktor phi (F), jf.
+EN 1991-2:2003, punkt 6.4.3, stk. 1, P, og 6.4.5.2, stk. 2.
+Den maksimale lodrette afvigelse for brodækket må ikke overstige de værdier, der er fastlagt i punkt A2. 4.4.2.3, stk. 1, i bilag A2 til EN 1990:2002 + EN 1990:2002/A1:2005.« 10) Punkt 4.2.14.2 »Dynamisk analyse«, tredje afsnit, affattes således:
+»De maksimale tilladte projekterede spidsværdier for brodækacceleration, der beregnes langs et spor, må ikke overstige de værdier, der er anført i punkt A2. 4.4.2.1, stk. 4, P, i bilag A2 til EN 1990:2002 + EN 1990:2002/A1:2005. Konstruktionen af broer skal baseres på de mest ugunstige påvirkninger fra de lodrette kræfter, der er anført i punkt 4.2.14.1, eller belastningsmodel HSLM i overensstemmelse med EN 1991-2:2003, punkt 6.4.6.5, stk. 3.« 11) Punkt 4.2.14.4 affattes således:
+»4.2.14.4. Næsekræfter Næsekraften skal tages i betragtning i bygværkernes konstruktion, jf.
+EN 1991-2:2003, punkt 6.5.2, stk. 2, P, og stk. 3. Den skal anvendes på både lige strækninger og i kurver.« 12) Punkt 4.2.14.5 »Kræfter, der skyldes trækkraft og bremsning (kræfter i længderetningen)«, første afsnit, affattes således:
+»Træk- og bremsekræfter skal tages i betragtning i bygværkernes konstruktion, jf.
+EN 1991-2:2003, punkt 6.5.3, stk. 2, P, samt stk. 4, 5 og 6. Retningen af træk- og bremsekræfterne skal tage højde for de tilladte kørselsretninger på hvert spor.« 13) Punkt 4.2.18 »Specifikationer for elektricitet«, andet afsnit, udgår.
+ 14) Punkt 4.2.23.1 »Sideplads langs spor«, andet afsnit, affattes således:
+»Strækninger i kategori II og III skal på lignende vis forsynes med sideplads på alle steder, hvor denne bestemmelse med rimelighed kan gennemføres.
+Når der ikke kan tilvejebringes plads, skal jernbanevirksomheden underrettes om situationen.« 15) Punkt 4.7 »Sundhed og sikkerhed«, tredje afsnit, affattes således:
+»Personale, der vedligeholder delsystemet Infrastruktur på højhastighedsnettet, skal bære selvlysende tøj, som er forsynet med EC-mærket, når de arbejder i nærheden af sporet.« 16) Punkt 4.8 affattes således:
+»4.8. Infrastrukturregister og europæisk register over godkendte køretøjstyper Hvilke oplysninger der skal medtages i det i artikel 35 i Europa-Parlamentets og Rådets direktiv 2008/57/EF[*] nævnte register, er angivet i Kommissionens gennemførelsesafgørelse 2011/633/EU af 15. september 2011 om fælles specifikationer for infrastrukturregistret for jernbaner[**].
+________ [*] EUT L 191 af 18.7.2008, s. 1.
+[**] EUT L 256 af 1.10.2011, s. 1.« 17) Punkt 5.3.1.1 »Skinnehovedprofil«, litra a) og b), affattes således:
+»a) Fri bane Skinnehovedprofilet skal vælges i det område, der er angivet i EN 13674-1:2011, bilag A.
+ b) Sporskifter og sporkrydsninger:
+Skinnehovedprofilet skal vælges i det område, der er angivet i EN 13674-1:2011, bilag A, og i EN 13674-2:2006 + A1:2010, bilag A.« 18) Punkt 5.3.1.3 affattes således:
+»5.3.1.3. Ståltype a) Fri bane Skinnens ståltype skal være i overensstemmelse med EN 13674-1:2011, kapitel 5.
+b) Sporskifter og sporkrydsninger Skinnens ståltype skal være i overensstemmelse med EN 13674-2:2006 + A1:2010, kapitel 5.« 19) Punkt 5.3.2 »Skinnebefæstelsessystem«, litra d), udgår.
+ 20) Punkt 6.1.6.2 »Vurdering af befæstelsessystemer«, andet led, udgår.
+ 21) I punkt 7.3.5 »Særlige træk på det finske banenet«, tabellen i underafsnittet »Ækvivalent konicitet«, affattes således:
+ 22) Punkt 7.3.6.2, afsnittet »Perroner (punkt 4.2.20)«, underafsnittet »Mindste perronlængde«, andet afsnit, udgår.
+ 23) I bilag A foretages følgende ændringer:
+ a) I tabel A1 udgår række 5.3.2.d »Elektrisk modstand«.
+ b) I tabel A2 udgår række 4.2.18 »Specifikationer for elektricitet«.
+ 24) Bilag B1, tabel B1, række 4.2.18 »Specifikationer for elektricitet« udgår.
+ 25) Bilag C, kapiteloverskriften: »Modul A: Intern produktionskontrol« erstattes med kapiteloverskriften: »Modul A1: Intern konstruktionskontrol med produktverifikation«.
+ 26) Bilag D udgår.
+ 27) Bilag F udgår.
+ 28) Bilag H, fjerde linje, udgår.
+__________ BILAG V Bilag A til beslutning 2008/231/EF (HS OPE  TSI for drift og trafikstyring) affattes således:
+»BILAG A DRIFTSREGLER FOR ERTMS Driftsreglerne for ERTMS/ETCS og ERTMS/GSM-R er anført i det tekniske dokument »ERTMS operational principles and rules  version 2«, som er offentliggjort på Det Europæiske Jernbaneagenturs websted (http://www.era.europa.eu).« ___________ BILAG VI I bilaget til beslutning 2008/232/EF (HS RST  TSI for rullende materiel til højhastighedstog) foretages følgende ændringer:
+ 1) Punkt 3.4.3 »Teknisk kompatibilitet«, underafsnittet »Væsentligt krav 2.4.3. , tredje led«, andet underafsnit, attende led, udgår.
+ 2) I afsnit 3.7 »Elementer i delsystemet rullende materiel opstillet i forhold til de væsentlige krav« udgår tabellens sidste række »Registre over infrastruktur og rullende materiel«.
+ 3) Afsnit 4.1 »Indledning«, tredje afsnit, affattes således:
+»Delsystemet rullende materiels generelle egenskaber defineres i afsnit 4 i denne TSI.« 4) Punkt 4.2.2.5, andet afsnit, udgår.
+ 5) Punkt 4.2.3.1, tredje afsnit, affattes således:
+»I EF-verifikationens type- eller konstruktionsafprøvningsattest for rullende materiel skal den vurderede fritrumsprofil angives.« 6) Punkt 4.2.3.3.2.1 »Klasse 1-tog«, syvende afsnit, affattes således:
+»Når det ikke ved hjælp af togidentifikationsnummeret på vogne med uafhængigt roterende hjul er muligt at hindre falske alarmer, skal det indbyggede detekteringssystem prioriteres, forudsat at alle hjullejer overvåges.« 7) Punkt 4.2.3.3.2.3.2 »Funktionelle krav til vognen«, tredje afsnit, affattes således:
+»Som alternativ til dette krav om alarmudløsningsniveauer er det tilladt ved fælles aftale mellem infrastrukturforvalteren og jernbanevirksomheden at identificere tog ved hjælp af togidentifikationssystemer og anvende specifikke alarmudløsningsniveauer som aftalt, som adskiller sig fra ovenstående niveauer.« 8) Punkt 4.2.3.4.3 »Grænseværdier for sporbelastning«, litra b) »Aksial belastning«, fjerde afsnit, affattes således:
+»eksempel 2: i andre bremsesituationer såsom bremsning under normal drift for at sænke hastigheden eller ikke-gentagen bremsning til standsning eller gentagen bremsning som hastighedskontrol skal anvendelsen af bremsen og den maksimale bremsekraft bestemmes af infrastrukturforvalteren for hver af de berørte strækninger.
+Enhver begrænsning på bremsekraften defineret i afsnit 4.2.4.5 skal være berettiget og tages i betragtning ved fastlæggelsen af driftsreglerne«.
+ 9) Punkt 4.2.3.4.5 »Konstruktion med henblik på vognstabilitet«, tredje afsnit, affattes således:
+»Området for hastigheds- og konicitetsværdier, som vognen er konstrueret til at kunne klare stabilt, skal være specificeret og certificeret.« 10) Punkt 4.2.3.4.7 »Designværdier for hjulprofiler«, tabel 4, teksten i kolonnen »skinnehovedets profil«, rækkerne »afprøvningsforhold nr.« 5 og 6, affattes således:
+ »Strækning 60 E 2 defineret i EN 13674-1:2003/A1:2007«.
+ 11) Punkt 4.2.3.7 affattes således:
+»4.2.3.7. Mindste kurveradius Denne parameter er en grænseflade til delsystemet højhastighedsinfrastruktur, idet de mindste kurver, der skal tages i betragtning, er defineret dels for højhastighedsspor (baseret på manglende overhøjde), dels for depotspor.
+Der skal henvises til afsnit 4.2.6 og 4.2.24.3 i TSI'en for højhastighedsinfrastruktur fra 2006.« 12) Punkt 4.2.4.5 »Hvirvelstrømsbremse«, andet afsnit, første led, affattes således:
+ » Til nødbremsning på alle strækninger undtagen bestemte forbindelsesstrækninger«.
+ 13) Punkt 4.2.4.5 »Hvirvelstrømsbremse«, andet afsnit, andet led, affattes således:
+» Til fuld eller normal driftsbremsning på strækningsafsnit, hvor infrastrukturforvalteren tillader det.« 14) Punkt 4.2.6.1 affattes således:
+»4.2.6.1. Miljøforhold Det rullende materiel, herunder alle vogndele, skal opfylde kravene i denne TSI inden for klimazonerne T1 eller T2 eller T3 som specificeret i EN50125-1:1999, der hvor det er hensigten, at de skal køre.« 15) Punkt 4.2.6.2.2 »Aerodynamiske belastninger på passagerer på en perron«, underafsnittet »Afprøvningsforhold«, andet afsnit, affattes således:
+»Hvis vurderingen falder heldigt ud for en perronhøjde på 240 mm eller lavere, skal toget antages at være godkendt til alle strækninger.« 16) Punkt 4.2.7.2.2 »Foranstaltninger til forebyggelse af brand«, tredje afsnit, affattes således:
+»Kravene til overensstemmelse behandles i afsnit 7.1.7.« 17) I punkt 4.2.7.4.2.1 »Horn  Generelt« indsættes følgende tekst efter litra d):
+»eller e) To advarselshorn, der udsender signal hver for sig.
+De grundlæggende frekvenser af advarselshornets toner skal være:
+høj tone: 660 Hz ± 30 Hz lav tone: 370 Hz ± 20 Hz« 18) I afsnit 4.2.7.4.2.5 »Horn  Krav til interoperabilitetskomponenter« tilføjes følgende tekst:
+»eller 660 Hz ± 30 Hz.« 19) Punkt 4.2.8.3.6.1 »Strømaftagerens kontraktkraft«, litra b) »Justering af strømaftagerens gennemsnitlige kontaktkraft og integrering i delsystemet rullende materiel«, femte afsnit, udgår.
+ 20) Punkt 4.2.10.1 »Ansvarsfordeling«, femte afsnit, udgår.
+ 21) Punkt 4.2.10.2.2 »Vedligeholdelsesdokumentation« første afsnit, fjerde led, affattes således:
+ Sikkerheds-/interoperabilitetsrelevante grænser: Dette dokument skal for sikkerheds-»/interoperabilitetsrelevante komponenter eller dele angive de målbare grænser, der ikke må overskrides under drift (heller ikke under forringede driftsvilkår).« 22) Punkt 4.2.10.3 »Administration af vedligeholdelsesinstruksen«, fjerde afsnit, første led, udgår.
+ 23) Punkt 4.2.10.4 »Administration af vedligeholdelsesoplysninger«, første led, udgår.
+ 24) Afsnit 4.8 affattes således:
+»4.8. Infrastrukturregister og europæisk register over godkendte køretøjstyper Hvilke oplysninger der skal medtages i det i artikel 34 i Europa-Parlamentets og Rådets direktiv 2008/57/EF[*] nævnte register, er angivet i Kommissionens gennemførelsesafgørelse 2011/665/EU af 4. oktober 2011 om det europæiske register over jernbanekøretøjer[**].
+________ [*] EUT L 191 af 18.7.2008, s. 1.
+[**] EUT L 264 af 8.10.2011, s. 32.« 25) Punkt 7.1.3 affattes således:
+»7.1.3. Nybygget rullende materiel af eksisterende konstruktion, der ikke er certificeret i henhold til den tidligere version (2002) af HS RST TSI For nybygget rullende materiel af eksisterende konstruktion for rullende materiel i klasse 2, som ikke var omfattet af den tidligere (2002) version af HS RST TSI, i en overgangsperiode på fire år startende på ikrafttrædelsesdatoen i denne TSI (dvs. 1. september 2008) kan ibrugtagning af dette rullende materiel tillades uden anvendelse af denne HS RST TSI.
+I dette tilfælde finder de indberettede nationale regler anvendelse.
+Ved udgangen af overgangsperioden på fire år skal overensstemmelsen med denne HS RST TSI vurderes med henblik på at tillade ibrugtagning af det nybyggede rullende materiel.
+En eksisterende konstruktion, jf. punkt 7.1.2 og 7.1.3, er en særlig konstruktion, som allerede har været anvendt til fremstilling af en type rullende materiel, der allerede har fået ibrugtagningstilladelse i en medlemsstat inden iværksættelsesdatoen for denne TSI.« 26) Punkt 7.1.8.2 affattes således:
+»7.1.8.2. Fremtidige aftaler Der skal i enhver fremtidig aftale eller ændring af eksisterende aftaler, navnlig dem, der omfatter tilvejebringelse af rullende materiel, hvis konstruktion ikke er certificeret i overensstemmelse med TSI'erne, tages hensyn til EU-lovgivning og denne TSI.
+Medlemsstaterne skal informere Kommissionen om sådanne aftaler/ændringer.
+Dermed gælder proceduren i afsnit 7.1.8.1 også her.« 27) I punkt 7.3.2.7 »Detektering af overophedet akselleje til klasse 2-tog [afsnit 4.2.3.3.2.3]«, underafsnittet »Funktionelle krav til vognen«, affattes således:
+»Funktionelle krav til vognen Der kræves en fælles aftale mellem infrastrukturforvalteren og jernbanevirksomheden om at identificere tog ved hjælp af togidentifikationssystemer og anvendelse af specifikke alarmudløsningsniveauer.« 28) Punkt 7.3.2.10 »Maksimal toglængde [4.2.3.5]«, underafsnittet »Særtilfælde for Det Forenede Kongerige«, affattes således:
+»Særtilfælde for Det Forenede Kongerige Kategori »P«  permanent TSI for højhastighedsinfrastruktur fra 2006 indeholder et særtilfælde for det britiske net, som kræver, at perroner på omlagte strækninger skal have en nyttelængde på mindst 300 m.
+Længden af et højhastighedstog, der skal i drift på det britiske net, skal være kompatibel med længden af de perroner, som det skal standse ved.« 29) Punkt 7.3.2.19 »Strømaftager [4.2.8.3.6]«, underafsnittet »Særtilfælde for tog i drift på det britiske jernbanenet«, affattes således:
+»Særtilfælde for tog i drift på det britiske jernbanenet Kategori »P«  permanent På strækninger i kategori II og III må strømaftagerhovederne ikke have isolerede horn, medmindre det er tilladt på specifikke ruter.
+ På strækninger i kategori II og III skal strømaftagerhovedets ledningsareal være 1300 mm.
+ Strømaftagerne skal have et arbejdsområde på 2,1 m.
+Strømaftagerhovederne skal have en maksimal bredde langs sporet på 400 mm.« 30) Punkt 7.3.2.19. »Strømaftager [4.2.8.3.6]«, under-underafsnittet »Strømaftagerens fritrumsprofil«, andet afsnit, affattes således:
+»Ved alle hastigheder op til strækningshastighed, maksimal overhøjde, maksimal vindhastighed, hvorved ubegrænset drift stadig er mulig, og ekstrem vindhastighed:« 31) I bilag F foretages følgende ændringer:
+ a) Afsnit F. 3.1 »Modul SB: Typeafprøvning«, underafsnit 3, sjette afsnit, andet led, affattes således:
+ » Det europæiske register over godkendte køretøjstyper, inklusive alle oplysninger som specificeret i TSI'en«.
+ b) I afsnit F. 3.2 »Modul SD: Kvalitetssikring af produktionen« foretages følgende ændringer:
+ i) Underafsnit 4.2, andet afsnit, sjette led, udgår.
+ ii) I underafsnit 10 udgår niende led samt udtrykket »og navnlig:« i ottende led.
+ c) I afsnit F. 3.3 »Modul SF (Produktverifikation)« foretages følgende ændringer:
+ i) Underafsnit 5, andet afsnit, tredje led, udgår.
+ ii) Underafsnit 10, andet led, udgår.
+ d) I afsnit F. 3.4 »Modul SH2 (Fuldstændig kvalitetssikring med konstruktionsafprøvning)« foretages følgende ændringer:
+ i) Underafsnit 4.2, andet afsnit, syvende led, affattes således:
+ » Det europæiske register over godkendte køretøjstyper, inklusive alle oplysninger som specificeret i TSI'en«.
+ ii) Underafsnit 10, ottende led, udgår.
+ 32) Bilag I udgår.
+ 33) Figur N1 i bilag N erstattes af følgende:
+Signaturforklaring 1. Ruhedsniveau (1/3-oktavbånd), dB 2. Bølgelængde, cm« 3. Ruhedsniveau (1/3-oktavbånd), dB 34) Bilag P, del P. 1. »Indledning«, første afsnit, affattes således:
+»I dette bilag beskrives den procedure, der skal følges for at bestemme decelerationen ai (m/s2)) for hastighedsområdet [vi-1, vi] under de forringede driftsvilkår i tilfælde B i tabel 6 i afsnit 4.2.4.1 i denne TSI og den tilsvarende maksimale standselængde i tabel 7 i afsnit 4.2.4.1 i denne TSI.« __________ BILAG VII I bilaget til beslutning 2008/284/EF (HS ENE  TSI for energi) foretages følgende ændringer:
+ 1) Punkt 4.2.2 »Spænding og frekvens«, andet afsnit, affattes således:
+»Spændingen og frekvensen ved fordelingsstationerne og ved strømaftageren skal være i overensstemmelse med EN 50163:2004, punkt 4. Overensstemmelsen skal dokumenteres i form af en konstruktionsundersøgelse.« 2) Punkt 4.2.3 »Systemets ydelsesniveau og installeret effekt«, andet afsnit, affattes således:
+»Udformningen af delsystemet »energi« skal sikre, at strømforsyningen er i stand til at opnå det specificerede ydelsesniveau.« 3) Punkt 4.2.4 »Regenerativ bremsning«, andet afsnit, affattes således:
+»Det kræves ikke, at DC-strømforsyningssystemet skal give mulighed for at benytte regenerativ bremsning som driftsbremse.« 4) Punkt 4.2.6 »Ekstern elektromagnetisk kompatibilitet«, første afsnit, affattes således:
+»Ekstern elektromagnetisk kompatibilitet er ikke et særligt træk ved det transeuropæiske højhastighedsnetværk.
+Energiforsyningsinstallationer skal overholde EN 50121-2:2006, så de overholder alle krav om elektromagnetisk kompatibilitet.« 5) Punkt 4.2.9.2 »Køreledningens geometri«, fjerde afsnit, udgår.
+ 6) Punkt 4.2.10 »Køreledningssystemets overholdelse af fritrumsprofilen«, første afsnit, affattes således:
+»Konstruktionen af køreledningssystemet skal være i overensstemmelse med fritrumsprofilerne, som defineres i punkt 4.2.3 i TSI'en for højhastighedsinfrastrukturen.
+Udformningen af køreledningsudstyret skal overholde køretøjernes dynamiske rammer.« 7) Punkt 4.2.15 »Gennemsnitlig kontaktkraft«, syvende afsnit, affattes således:
+»Ved nye strækninger kan der desuden gives tilladelse til brug af strømaftagere i henhold til C1- eller C2-kurver.
+Eksisterende strækninger kan kræve brug af strømaftagere i henhold til C1- eller C2-kurver.« 8) Punkt 4.2.20 »Strømkapacitet, DC-systemer, holdende tog«, fjerde afsnit, affattes således:
+»Overensstemmelsesvurderingen skal udføres i henhold til kravene i EN 50367:2006, bilag A. 4.1.« 9) I punkt 4.2.21 »Sektioner til faseadskillelse« foretages følgende ændringer:
+ a) Andet afsnit affattes således:
+»Det skal ved passende foranstaltninger sikres, at tog, der er standset i faseadskillelsessektionen, kan genstartes.
+Den neutrale sektion skal kunne tilsluttes de tilstødende sektioner ved hjælp af fjernstyrede ledningskoblere.« b) Underpunktet »Strækninger i kategori II og III«:
+ i) Andet afsnit affattes således:
+»For strækninger i kategori II og III kan der anvendes separationssektioner som angivet for strækninger i kategori I eller en konstruktion i henhold til figur 4.2.21. For figur 4.2.21 skal den midterste sektion forbindes med strømmens returvej, og de neutrale sektioner (d) kan udgøres af neutrale ledningsadskillere, og dimensionerne skal være som følger:« ii) Femte afsnit udgår.
+ 10) Punkt 4.2.22.1, tredje afsnit, affattes således:
+»Infrastrukturforvaltere, der grænser op til hinanden, skal aftale enten mulighed (a) eller mulighed (b) i henhold til gældende omstændigheder.« 11) Punkt 4.2.23 »Ordninger til koordinering af elektrisk beskyttelse«, første afsnit, affattes således:
+»Konstruktioner til koordinering af elektrisk beskyttelse i delsystemet Energi skal være i overensstemmelse med kravene i EN 50388:2005, punkt 11.« 12) Punkt 4.2.25 affattes således:
+»4.2.25. Harmoniske og dynamiske påvirkninger Delsystemet Energi til højhastighedsstrækninger skal kunne klare overspændinger, der forårsages af harmoniske påvirkninger fra rullende materiel op til grænserne i EN 50388:2005, punkt 10.4, for AC-forsyning.
+Overensstemmelsesvurderingen skal omfatte en kompatibilitetsundersøgelse, der påviser, at elementerne i delsystemet kan modstå harmoniske påvirkninger op til de definerede grænser i henhold til EN 50388:2005, punkt 10. Overensstemmelsesvurderingen skal foretages i henhold til EN 50388:2005, punkt 10.« 13) Afsnit 4.8 affattes således:
+»4.8. Infrastrukturregister og europæisk register over godkendte køretøjstyper Hvilke oplysninger der skal medtages i det i artikel 35 i Europa-Parlamentets og Rådets direktiv 2008/57/EF[*] nævnte register, er angivet i Kommissionens gennemførelsesafgørelse 2011/633/EU af 15. september 2011 om fælles specifikationer for infrastrukturregistret for jernbaner[**].
+________ [*] L 191 af 18.7.2008, s. 1.
+[**] EUT L 256 af 1.10.2011, s. 1.« 14) Punkt 6.2.2.1 »Generelt«, første afsnit, affattes således:
+ »Som led i verifikationsproceduren af delsystemet Energi kan ordregiveren eller dennes i Unionen etablerede repræsentant vælge mellem følgende:
+ enhedsverifikationsproceduren (modul SG) anført i bilag A. 3 til denne TSI, eller  den fuldstændige kvalitetssikring med proceduren for konstruktionsundersøgelse (modul SH2), der er anført i bilag A. 3 til denne TSI.« 15) Bilag D udgår.
+ 16) Bilag E udgår.
+__________ BILAG VIII I bilaget til afgørelse 2011/229/EU (CR Noise  TSI for støj, rullende materiel) affattes afsnit 4.8.2 således:
+»4.8.2. Det europæiske register over godkendte køretøjstyper Hvilke oplysninger der skal medtages i det i artikel 34 i direktiv 2008/57/EF nævnte register, er angivet i Kommissionens gennemførelsesafgørelse 2011/665/EU af 4. oktober 2011 om det europæiske register over jernbanekøretøjer[*].
+_________ [*] EUT L 264 af 8.10.2011, s. 32.« __________ BILAG IX I bilaget til afgørelse 2011/274/EU (CR ENE  TSI for energi til højhastighedstog) foretages følgende ændringer:
+ 1) Punkt 4.1 »Indledning«, tredje afsnit, affattes således:
+»Delsystemet Energi er karakteriseret ved specifikationerne i afsnit 4.2 til 4.7, som er fastlagt under hensyntagen til alle relevante væsentlige krav.« 2) Punkt 4.2.3 »Spænding og frekvens«, fjerde afsnit, udgår.
+ 3) Punkt 4.2.4.1 »Maksimal togstrøm«, første afsnit, udgår.
+ 4) Punkt 4.2.6 »Strømkapacitet, DC-systemer, holdende tog«, tredje afsnit, udgår.
+ 5) Punkt 4.2.7 »Regenerativ bremsning«, tredje afsnit, udgår.
+ 6) Punkt 4.2.13.1 »Køreledningens højde«, femte afsnit, udgår.
+ 7) Punkt 4.2.13.3 »Sideforskydning«, fjerde afsnit, udgår.
+ 8) Punkt 4.2.17 »Afstand mellem strømaftagere«, sidste afsnit (teksten efter tabel 4.2.17), udgår.
+ 9) Punkt 4.2.18 »Køreledningsmateriale«, tredje afsnit, affattes således:
+»Til vekselstrømsledninger skal køreledningen være konstrueret, så der kan bruges kontaktstykker af rent kul (TSI'en for lokomotiver og passagervogne til konventionelle tog, afsnit 4.2.8.2.9.4.2).« 10) Punkt 4.2.19 »Sektioner til faseadskillelse«, fjerde afsnit, udgår.
+ 11) Punkt 4.2.20.1 »Generelt«, tredje afsnit, affattes således:
+»Infrastrukturforvaltere for to nabosystemer skal aftale enten a) eller b) i overensstemmelse med de foreliggende forhold.« 12) Punkt 4.2.20.2 »Hævede strømaftagere«, andet afsnit, udgår.
+ 13) Punkt 4.4.2.1 og 4.4.2.2 affattes således:
+»4.4.2.1. Styring af strømforsyningen under normale forhold Med henblik på opfyldelse af bestemmelsen i punkt 4.2.4.1 må den største tilladte togstrøm under normale forhold ikke overstige den værdi, der er anført i infrastrukturregistret.
+4.4.2.2. Styring af strømforsyningen under ekstraordinære forhold Under ekstraordinære forhold kan den største tilladte togstrøm være lavere.
+Infrastrukturforvalteren skal underrette jernbanevirksomhederne om ekstraordinære forhold.« 14) Punkt 4.8 affattes således:
+»4.8. Infrastrukturregister og europæisk register over godkendte køretøjstyper Hvilke oplysninger der skal medtages i det i artikel 35 i direktiv 2008/57/EF nævnte register, er angivet i Kommissionens gennemførelsesafgørelse 2011/633/EU af 15. september 2011 om fælles specifikationer for infrastrukturregistret for jernbaner[*].
+________ [*] EUT L 256 af 1.10.2011, s. 1.« 15) Punkt 7.4.1 »Indledning«, femte afsnit, affattes således:
+»Et bestående delsystem kan muliggøre trafik med TSI-konforme køretøjer under opfyldelse af de væsentlige krav i direktiv 2008/57/EF.
+Infrastrukturforvalteren bør i sådanne tilfælde, på grundlag af frivillighed, kunne godtgøre, at det bestående delsystem opfylder denne TSI's grundparametre.« 16) Punkt 7.4.4 affattes således:
+»7.4.4. Bestående delsystem, der ikke fornyes eller opgraderes Et idriftværende delsystem kan godt tillade kørsel med tog, der opfylder kravene i TSI'erne for rullende materiel til højhastighedstog og konventionelle tog, og samtidig opfylde de væsentlige krav.« 17) Bilag C udgår.
+ 18) Bilag D udgår.
+__________ BILAG X I bilaget til afgørelse 2011/275/EU (CR INF  TSI for infrastruktur, konventionelle tog) foretages følgende ændringer:
+ 1) Afsnit 4.2.1 »TSI-strækningskategorier«, punkt 4, udgår.
+ 2) Afsnit 4.2.2 »Ydeevneparametre«, punkt 6, 7 og 8, udgår.
+ 3) Afsnit 4.2.3.2 »Krav til grundparametre« affattes således:
+ a) Punkt 6 affattes således:
+»6) Korte transitionssporstykker med anordninger, der muliggør overgang mellem forskellige nominelle sporvidder, er tilladt.« b) Punkt 8 affattes således:
+»8) Der kan indføres særlige teknologier som f.eks. kurvestyring for at øge de konventionelle togs ydeevne.
+Særlige vilkår for kørsel med sådanne tog kan tillades, hvis de ikke medfører begrænsninger for tog, der ikke er udstyret med sådanne systemer.« 4) Afsnit 4.2.4.2 »Sporafstand«, punkt 3, udgår.
+ 5) Afsnit 4.2.4.3, punkt 9 og 10, udgår.
+ 6) Afsnit 4.2.4.4 »Mindste vandrette kurveradius«, punkt 5, udgår.
+ 7) Afsnit 4.2.5.1 »Nominel sporvidde«, punkt 2, udgår.
+ 8) Afsnit 4.2.5.2 »Overhøjde«, punkt 2, udgår.
+ 9) Afsnit 4.2.5.7.1 »Almindeligt sporstykke«, punkt 3, udgår.
+ 10) I afsnit 4.2.7.2.2 »Kompatibilitet med bremsesystemer« foretages følgende ændringer:
+ a) Punkt 2 udgår.
+ b) Punkt 3 affattes således:
+»For spor, der er kompatible med anvendelse af bremsesystemer, der er uafhængige af friktionsforholdene, tages der hensyn til de lokale vejrforhold og det forventede antal gentagne opbremsninger på en given lokalitet.
+Bremsesystemer, der er uafhængige af friktionsforholdene mellem hjul og skinne, er bl.a. magnetiske sporbremser og hvirvelstrømsbremser.« 11) Afsnit 4.2.10.1 »Driftsmæssig perronlængde«, punkt 3, udgår.
+ 12) Afsnit 4.2.12.1 »Afstandsmarkeringer«, punkt 2, udgår.
+ 13) Afsnit 4.2.13.1 »Generelt«, punkt 2, udgår.
+ 14) Afsnit 4.8 affattes således:
+»4.8. Infrastrukturregister og europæisk register over godkendte køretøjstyper Hvilke oplysninger der skal medtages i det i artikel 35 i direktiv 2008/57/EF nævnte register, er angivet i Kommissionens gennemførelsesafgørelse 2011/633/EU af 15. september 2011 om fælles specifikationer for infrastrukturregistret for jernbaner [*].
+________ [*] EUT L 256 af 1.10.2011, s. 1.« 15) Afsnit 5.3.1.1 »Skinnetværprofil«, punkt 2, udgår.
+ 16) Afsnit 6.1.4.2 »EF-erklæring om overensstemmelse for skinnen« udgår.
+ 17) Afsnit 6.5 »Vurdering af infrastrukturregistret« udgår.
+ 18) I afsnit 7.3.4 »Eksisterende strækninger, der ikke fornyes eller opgraderes« foretages følgende ændringer:
+ a) Punkt 1 affattes således:
+»Et eksisterende delsystem kan muliggøre trafik med TSI-konforme køretøjer under opfyldelse af de væsentlige krav i direktiv 2008/57/EF.
+Infrastrukturforvalteren bør i sådanne tilfælde, på grundlag af frivillighed, kunne godtgøre, at det eksisterende delsystem opfylder denne TSI's grundparametre.« b) Punkt 2 udgår.
+ 19) Afsnit 7.6.3.1 »Ydeevneparametre (4.2.2)«, punkt 6, udgår.
+ 20) Afsnit 7.6.10.1 »Fritrumsprofil (4.2.4.1)«, punkt 4, udgår.
+ 21) Bilag D udgår.
+__________ BILAG XI I bilaget til afgørelse 2011/291/EU (CR Loc&Pas  TSI for lokomotiver og passagervogne i delsystemet Rullende materiel) foretages følgende ændringer:
+ 1) Punkt 4.1.1 »Generelt«, femte afsnit, udgår.
+ 2) Punkt 4.2.2.2.3 »Endekobling«, underpunkt a) »Endekobling  Generelt«, første afsnit, andet led, udgår.
+ 3) Punkt 4.2.2.10 »Belastningstilstande og vægtet masse«, syvende afsnit, udgår.
+ 4) Punkt 4.2.3.1 »Profilbestemmelse«, sjette og syvende afsnit, udgår.
+ 5) Punkt 4.2.3.3.1 »Egenskaber for rullende materiel, der vedrører kompatibilitet med togdetekteringssystemer«, andet afsnit, udgår.
+ 6) Punkt 4.2.4.5.2. »Nødbremsning«, underpunktet »Beregning af retardation«, sjette afsnit (dvs. »For hver belastningstilstand  jf. afsnit 4.8.«), udgår.
+ 7) I punkt 4.2.4.5.4 »Beregninger vedrørende varmekapacitet« foretages følgende ændringer:
+ a) Syvende afsnit udgår.
+ b) Ottende afsnit affattes således:
+»Følgende situation foreslås som »referencetilfælde« for fald på sporet: opretholdelse af en hastighed på 80 km/h ved et konstant fald på 21  over 46 km.« 8) Punkt 4.2.4.5.5 »Parkeringsbremse«, tredje afsnit, affattes således:
+»Ydeevnen for enhedens (tog eller køretøj) parkeringsbremse skal beregnes som angivet i EN14531-6:2009.« 9) Punkt 4.2.5.9 »Indendørs luftkvalitet«, andet afsnit, andet led, andet underafsnit, affattes således:
+»Hvis denne nødforsyning sker ved batteridrevet mekanisk ventilation, skal der foretages målinger for at fastslå, hvor længe CO2-indholdet i luften vil holde sig under 10000 ppm, når antallet af passagerer svarer til belastningstilstanden »designmasse med normal nyttelast«.
+Tidsrummet må ikke være mindre end 30 minutter.« 10) Punkt 4.2.6.1 »Miljøforhold«, sjette afsnit, udgår.
+ 11) Punkt 4.2.6.1.1 »Højde«, andet afsnit, udgår.
+ 12) Punkt 4.2.6.1.2 »Temperatur«, andet afsnit, udgår.
+ 13) Punkt 4.2.6.1.5 »Sne, is og hagl«, sjette afsnit, udgår.
+ 14) Punkt 4.2.8.1.2 »Krav til ydeevnen«, femte afsnit, udgår.
+ 15) Punkt 4.2.8.2.2 »Drift inden for spændings- og frekvensområder«, tredje afsnit, udgår.
+ 16) Punkt 4.2.8.2.4 »Maksimal effekt og strøm fra køreledning«, tredje afsnit, udgår.
+ 17) Punkt 4.2.8.2.5 »Maksimal optagen strøm ved stilstand, jævnstrømssystemer«, andet afsnit, affattes således:
+»Grænseværdierne er specificeret i TSI'en for energi til konventionelle tog, afsnit 4.2.6.« 18) Punkt 4.2.8.2.8 »Funktion til måling af energiforbrug«, tredje afsnit, udgår.
+ 19) Punkt 4.2.8.2.9.2 »STRØMAFTAGERHOVEDETS GEOMETRI (INTEROPERABILITETSKOMPONENT)«, andet afsnit, udgår.
+ 20) Punkt 4.2.10.1 »Generelt og kategorisering«, fjerde afsnit, udgår.
+ 21) Punkt 4.8 affattes således:
+»4.8. Infrastrukturregister og europæisk register over godkendte køretøjstyper Hvilke oplysninger der skal medtages i det i artikel 34 i direktiv 2008/57/EF nævnte register, er angivet i Kommissionens gennemførelsesafgørelse 2011/665/EU af 4. oktober 2011 om det europæiske register over jernbanekøretøjer[*].
+________ [*] EUT L 264 af 8.10.2011, s. 32.« __________ BILAG XII Tillæg A til bilaget til afgørelse 2011/314/EU (CR OPE  TSI for Drift og trafikstyring, konventionelle tog), affattes således:
+»Tillæg A Driftsregler for ERTMS Driftsreglerne for ERTMS/ETCS og ERTMS/GSM-R er anført i det tekniske dokument »ERTMS operational principles and rules  version 2«, som er offentliggjort på Det Europæiske Jernbaneagenturs websted (http://www.era.europa.eu).« __________ 1) Bekendtgørelsen gennemfører Kommissionens afgørelse af 23. juli 2012 (2012/464/EU) om ændring af beslutning 2006/861/EF, 2008/163/EF, 2008/164/EF, 2008/217/EF, 2008/231/EF, 2008/232/EF og 2008/284/EF samt afgørelse 2011/229/EU, 2011/274/EU, 2011/275/EU, 2011/291/EU og 2011/314/EU om tekniske specifikationer for interoperabilitet (EU-tidende 2012 nr.
+L 217, side 20 ff).
+ 1) EUT L 191 af 18.7.2008, s. 1.
+ 2) EUT L 164 af 30.4.2004, s. 1.
+ 3) EFT L 235 af 17.9.1996, s. 6.
+ 4) EFT L 110 af 20.4.2001, s. 1.
+ 5) EUT L 256 af 1.10.2011, s. 1.
+ 6) EUT L 264 af 8.10.2011, s. 32.
+ 7) EUT L 344 af 8.12.2006, s. 1.
+ 8) EUT L 64 af 7.3.2008, s. 1.
+ 9) EUT L 64 af 7.3.2008, s. 72.
+ 10) EUT L 77 af 19.3.2008, s. 1.
+ 11) EUT L 84 af 26.3.2008, s. 1.
+ 12) EUT L 84 af 26.3.2008, s. 132.
+ 13) EUT L 104 af 14.4.2008, s. 1.
+ 14) EUT L 99 af 13.4.2011, s. 1.
+ 15) EUT L 126 af 14.5.2011, s. 1.
+ 16) EUT L 126 af 14.5.2011, s. 53.
+ 17) EUT L 139 af 26.5.2011, s. 1.
+ 18) EUT L 144 af 31.5.2011, s. 1.

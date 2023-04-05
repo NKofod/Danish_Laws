@@ -1,0 +1,492 @@
+Forsøg og forskning Skatterådet kunne ikke bekræfte, at omkostninger til udvikling af bl.a. en advokat- og en revisorplatform kunne fradrages efter ligningslovens § 8 B, stk. 1. Skatterådet fandt det ikke tilstrækkeligt dokumenteret eller sandsynliggjort, at platformene indeholdt tilstrækkelig fremskridt i forhold til allerede kendt teknik på udviklingstidspunktet.
+Skatterådet 20. december 2022 - SKM2023. 51. SR Spørgsmål 1. Kan Skatterådet bekræfte, at Spørger kan fratrække omkostninger til udvikling af advokatplatformen som udviklingsomkostninger omfattet af ligningslovens § 8 B, stk. 1? 2. Kan Skatterådet bekræfte, at Spørger kan fratrække omkostninger til udvikling af regnskabssystemet som udviklingsomkostninger omfattet af ligningslovens § 8 B, stk. 1? 3. Kan Skatterådet bekræfte, at Spørger kan fratrække omkostninger til udvikling af foreningssystemet som udviklingsomkostninger omfattet af ligningslovens § 8 B, stk. 1? 4. Kan Skatterådet bekræfte, at Spørger kan fratrække omkostninger til udvikling af signeringssystemet som udviklingsomkostninger omfattet af ligningslovens § 8 B, stk. 1? Svar Ad. 1. Nej. ¬Ad. 2. Nej. ¬Ad. 3. . Nej. ¬Ad. 4. Nej.
+Beskrivelse af de faktiske forhold H1 (Spørger) har udviklet prototyper til flere innovative softwareplatforme/systemer.
+Advokatplatform Spørger er stiftet i slutningen af () med det formål at udvikle en innovativ IT-platform til brug for advokater og jurister.
+Selskabet har derfor ansat en udvikler med årtiers erfaring med udvikling af innovativ software og en jurist med kontakter inden for advokatbranchen både i Danmark og internationalt.
+Formålet med denne advokatplatform er at forbedre advokaternes arbejdsprocesser ved at facilitere tættere samarbejde med både advokatens klienter såvel som andre advokater.
+Platformen er derfor delt op i flere moduler:
+1. Et kontrolpanel for advokatkontoret hvor advokaten kan oprette og administrere sager, klienter, dokumenter osv.
+Der kan også oprettes fakturaer, som kan sendes direkte til kunden.
+2. Klient kontrolpanel.
+Hver klient kan få sit eget login til et kontrolpanel, hvor der kan kommunikeres løbende med deres advokat.
+Klienten kan herigennem kommunikere med advokaten gennem et sikkert beskedsystem, se information om de igangværende sager, sende dokumenter til advokaten og betale sine fakturaer elektronisk direkte gennem systemet.
+For mindre komplicerede sager er det også muligt at sende klienten et sagslink, hvor klienten kan downloade og uploade dokumenter relateret til sagen.
+3. Socialt netværk.
+Advokaten har adgang til et internt socialt netværk, hvor de kan skabe forbindelser med de andre advokater, der anvender samme system.
+Platformen er udviklet som en cloud-baseret webapplikation.
+Server-backenden er skrevet i programmeringssproget C#, med anvendelse af Microsoft ASP.
+NET Core.
+Serveren hostes på Microsoft Azure cloud-platformen, som en Azure App Service.
+Til databehandling anvendes databasesproget SQL, og data opbevares i en Azure SQL-database.
+Undtaget er binær fildata, der gemmes i en Azure Storage account som Blob data.
+Frontend delen er udviklet i programmeringssproget JavaScript med anvendelse af ReactJS som framework til dynamisk HTML generering.
+Der udveksles data med serveren gennem et ASP.
+NET Core API, og enkelte data gemmes i browserens LocalStorage.
+Ovennævnte er alle standardværktøjer af den type, som anvendes af alle virksomheder, der udvikler web-baserede software applikationer.
+Der er i praksis ingen virksomheder, som udvikler webapplikationer uden anvendelse af sådanne værktøjer, om end de anvendte værktøjer kan variere betydeligt.
+Sådanne basale udviklingsværktøjer kræver ikke tilpasning.
+Udover disse værktøjer, er der ikke anvendt nogen form for standard softwareskabeloner.
+Softwaren er udviklet fra bunden ved hjælp af ovennævnte programmeringssprog og frameworks til backend/frontend udvikling.
+Desværre har det vist sig svært at finde interesserede advokatkontorer til at hjælpe med test og videreudvikling af denne platform.
+Softwaren er derfor blevet videreudviklet i en anden retning.
+Dette viser, at der har været et stort element af kreativitet og usikkerhed i udviklingen.
+Advokatplatformen adskiller sig fra andre advokatplatforme ved at have fokus på at effektivisere kommunikationen og samarbejdet mellem advokaterne og disses klienter samt andre advokater.
+Derfor giver platformen advokaterne mulighed for at give deres klienter adgang til et klientkontrolpanel, hvor klienten kan håndtere al kommunikation med advokaten og samtidig håndtere sine egne dokumenter, fakturaer og beskeder.
+Systemet indeholder også et indbygget socialt netværk, hvor advokaten kan kommunikere med andre advokater og etablere samarbejder.
+Hvis en klient har behov for at hyre flere advokater, kan disse alle tilgås fra samme klient kontrolpanel, så klienten har et samlet overblik over alle sine advokater og sager.
+Udviklingen af dette system har resulteret i ny viden vedrørende design af softwaresystemer med fokus på at facilitere samarbejde mellem eksperter og disses klienter.
+Denne nye viden har kunnet anvendes til udviklingen af selskabets andre softwareprojekter, idet en stor del af den grundlæggende kode fra advokatplatformen har kunnet genbruges til disse projekter.
+For eksempel er regnskabssystemets klient kontrolpanel, og dettes samspil med revisorens regnskab, til en stor grad baseret på kode og viden opnået under udviklingen af advokatplatformen.
+Der er ydermere blevet lavet mange undersøgelser vedrørende, hvordan systemet bedst kan leve op til de nye GDPR-regler, som var helt nye under udviklingsprocessen.
+Der er blevet fokuseret på at finde de mest effektive metoder til at gemme data krypteret, minimere databehandlingen og sikre at cloud-løsningen udelukkende anvender servere og databaser inden for EU.
+Der har været et tilsvarende fokus på datasikkerhed og databehandling under udviklingen af de andre platforme.
+Som nævnt er den nye idé ved advokatplatformen at samle alt, hvad advokaten skal bruge i en enkelt platform inklusive værktøjer til at networke og samarbejde med både andre advokater og advokatens klienter.
+Eksisterende advokatplatforme inkluderer kun sådan funktionalitet i meget begrænset omfang.
+ Til advokatplatformen er der udviklet følgende funktionaliteter:
+[] Regnskabssystem Under arbejdet på advokatplatformen har selskabet skabt kontakt med revisionsfirmaet G1. Revisionsfirmaet var interesseret i at udvikle et nyt regnskabssystem med fokus på at strømline og automatisere revisorens samarbejde med klienterne under den løbende udarbejdelse af disses regnskaber.
+Der eksisterer ikke lignende regnskabssystemer med dette fokus på markedet.
+ Regnskabssystemet er derfor, lige som advokatplatformen, delt op i to moduler.
+1.       Et klientkontrolpanel hvor klienten kan uploade bilag, og vælge hvordan bilagene er blevet betalt.
+Uploadede bilag kan automatisk analyseres ved OCR scanning.
+Når klienten godkender bilagene, sendes disse til revisorens kontrolpanel.
+Revisorklienten har også mulighed for at administrere sine kunder og sende fakturaer til disse.
+Disse fakturaer bogføres automatisk i revisorens regnskab.
+2.       Revisor regnskabssystemet.
+Klientens godkendte bilag kommer ind under "Ubehandlede bilag" hvor revisoren kan gennemgå dem før de flyttes til bogføringskladden.
+Bilag bliver automatisk analyseret ved OCR-skanning, og systemet kan også foreslå konto på basis af beskrivelse og CVR-nummer på bilaget.
+Grundkoden til advokatplatformen er blevet anvendt til fundament for udviklingen af det nye regnskabssystemer, idet grundlæggende funktionalitet til administrering af klienter, fakturaer, mv. kan genbruges med minimal tilpasning.
+Der er derfor essentielt set tale om, at den samme platform er blevet videreudviklet i en ny retning.
+På denne måde bliver udviklingsprocessen mere nyskabende, idet der ikke skal bruges tid på at genopfinde ting der allerede er udviklet tidligere.
+Adskillelsen mellem projekterne foretages via feature toggles, således, at en revisorbruger udelukkende ser funktionalitet, som vedrører revisorarbejde, osv.
+ De anvendte udviklingsværktøjer er uændrede, og der er ikke anvendt nogen former for software skabeloner.
+Regnskabssystemet er blevet taget i brug af revisionsselskabet så snart den grundlæggende funktionalitet var på plads.
+Herefter er det blevet videreudviklet i tæt samarbejde med revisionsselskabet og funktionaliteterne er testet via konkret anvendelse.
+Når systemet var færdigt og stabilt, var det planen at sælge abonnementer til systemet til andre revisionsselskaber, og betalingen for disse skulle deles mellem revisionsselskabet og Spørger.
+Pt. anvendes systemet stadig kun af det oprindelige revisionsselskab, som betaler abonnement for brugen, og delvist har finansieret udviklingen.
+Da hovedformålet med systemet er at behandle ofte ufuldstændigt regnskabsmateriale modtaget fra klienterne, er programmet udstyret med meget avanceret funktionalitet til bankafstemning, som ikke findes i andre regnskabssystemer.
+Ud over at matche enkelte posteringer med tilsvarende bankoverførsler kan systemet f.eks. også lave mange-til-én matching, så en enkelt faktura kan matches til flere delbetalinger i banken, eller flere bilag kan matches til en enkelt samlet bankoverførsel.
+Revisoren får også muligheder for at behandle dubletter, hvor flere posteringer er mulige matches, og at tage stilling til beløb der næsten udgør et match.
+ Dette program testes af G1 og selskabets klienter og er stadig under udvikling.
+Regnskabssystemet adskiller sig først og fremmest fra eksisterende regnskabssystemer ved at have et fundamentalt anderledes fokus.
+Andre regnskabssystemer fokuserer på et hjælpe virksomheder med at lave deres eget regnskabssystem, og har som sekundær funktion mulighed for at give en revisor adgang til regnskabet.
+I modsætning hertil er Spørger systemet designet til, at det er revisoren, der laver regnskabet, mens kunden har en begrænset adgang til dette gennem en kundeportal og app.
+Kunden skal derfor udelukkende uploade bilag gennem kundeportalen, få dem scannet og indtaste basal information om disse, hvorefter bilagene overføres til revisorens regnskab.
+Regnskabssystemets hovedfokus er derfor at lette revisorens arbejde og dagligdag ved at automatisere en stor del af bogførings- og revisionsarbejdet og strømline kommunikationen med klienterne.
+Selve regnskabssystemet har fokus på at afstemme og finde orden i ufuldstændige regnskabsdata, som kommer fra kunden til revisoren.
+Der er en meget avanceret bankafstemning, og revisoren har mulighed for automatisk at sende anmodninger til kunden om mere information vedrørende ikke-afstemte bilag.
+Der er efter selskabets bedste vidende ikke andre systemer på markedet, som på denne måde fokuserer på samarbejdet mellem revisoren og kunden.
+Udviklingen af dette system har resulteret i ny viden angående, hvordan man bedst effektiviserer og systematiserer kommunikationen og samarbejdet mellem revisoren og kunden under udarbejdelse af regnskabet.
+Der er blevet løst problemstillinger i forbindelse med de forskellige skridt i afstemningen, håndtering af bilag der er betalt over flere posteringer i banken og automatisk indhentelse af manglende data fra klienterne.
+ Det nye koncept er at fokusere på at lette revisorens job med at finde hoved og hale i klienternes ufuldstændige regnskabsmateriale, mens klienten ikke behøver at foretage sig andet end at uploade bilag.
+ Til regnskabssystemet er der udviklet følgende funktionaliteter:
+[] Foreningssystem Sideløbende med arbejdet på regnskabssystemet har selskabet etableret kontakt med flere foreninger, som havde brug for et system til at administrere medlemmerne og disses betalinger til foreningen.
+Der er derfor blevet udviklet et foreningssystem, som strømliner og simplificerer foreningens arbejdsprocesser.
+Via dette system kan foreningen nemt opkræve betaling fra medlemmerne ved hjælp af betalingslinks og automatisk få registreret betalingerne i systemet.
+Der kan både sendes individuelle opkrævninger og anmodninger om tilmelding til automatisk betaling, som derefter administreres af foreningen.
+Systemet indeholder også en simplificeret udgave af regnskabssystemet, som er integreret og tilpasset foreningernes behov.
+ Dette system anvendes på nuværende tidspunkt af fem foreninger og er stadig under udvikling.
+Som det var tilfældet med regnskabssystemet, kunne en stor del af den generelle administrationsfunktionalitet fra advokatplatformen uden videre genbruges i foreningssystemet.
+Klienthåndtering er blevet til medlemshåndtering og udvidet med funktionalitet unik til foreningsbrug.
+En simplificeret udgave af regnskabssystemet er integreret i foreningssystemet.
+På denne måde bruges tiden udelukkende til den nyskabende del af udviklingsprocessen.
+Der er anvendt samme udviklingsværktøjer som nævnt ovenfor og ikke anvendt nogen standardsoftware.
+Til opkrævning af betaling, er der udviklet en integration med betalingsgatewayen Scanpay.
+ Selskabet har ydermere indgået særaftale med Nets, så foreningernes godkendelse til opkrævning kan blive strømlinet og effektiviseret.
+Foreningssystemet adskiller sig fra andre lignende systemer ved at have fokus på strømlining og effektivisering af foreningens kommunikation med medlemmerne og nem opkrævning af betaling.
+Systemet udvikles i samarbejde med foreningerne, så funktionaliteten i det endelige produkt er ikke klart fastlagt.
+Der fokuseres netop på at opfylde de af foreningernes ønsker, som de ikke får dækket af eksisterende systemer.
+Foreningerne kan få indflydelse, på hvordan deres system udvikler sig.
+Eksisterende foreningssystemer er meget tunge og har langt flere komplicerede funktionaliteter, end foreningerne har brug for.
+Spørger systemet fokuserer på at hjælpe foreningerne med nemt og effektivt at opkræve betaling og kommunikere med medlemmerne samt administrere og beskytte medlemsdata.
+Hermed forbedres og effektiviseres foreningens arbejdsprocesser.
+Der kommunikeres løbende, med de foreninger der tester systemet, om hvordan dette bedst kan tilpasses til deres behov og ønsker.
+Hermed opnås ny viden om foreningernes behov og de bedste metoder til at forbedre deres processer og arbejdsgange.
+Det nye koncept er at skabe et enkelt foreningssystem, som udvikles i samarbejde med foreningerne.
+Der er derfor usikkerhed om præcist, hvordan det endelige system kommer til at se ud, og hvorvidt det vil blive en succes.
+ Foreningssystemet giver foreningen adgang til e-mail system, medlemshåndtering, dokumenthåndtering, betalingsopkrævning og regnskab.
+[] Digital signatur Derudover er selskabet også i gang med at udvikle et system til digital signering, som skal effektivisere signeringsprocessen ved at kombinere mange former for signaturmuligheder i samme system.
+Pt. understøtter systemet signatur med NemID og tegnet underskrift, men det er planen, at dette skal udvides til både alternative nordiske digitale signaturer samt udenlandske signaturformer.
+Det er også planen, at signatursystemet skal integreres med selskabets andre systemer, således at advokater/revisorer/foreninger hurtigt og effektivt kan sende dokumenter og regnskaber til underskrift.
+ Udover selve softwareudviklingen er der derfor også foretaget en del undersøgelser af de bedste metoder til at kombinere flere former for signatur i et enkelt dokument og korresponderet med Nets, Signaturgruppen og Globalsign.
+ Signatursystemet testes af G2, som også anvender regnskabssystemet.
+Som med de tidligere systemer, har der været muligt at genanvende funktionalitet fra advokatplatformen.
+I dette tilfælde er det dokumenthåndteringen der har kunnet anvendes til administration af dokumenterne, både før og efter signeringen.
+Der er benyttet samme udviklingsværktøjer som nævnt ovenfor og ikke anvendt nogen standard softwareskabeloner.
+Til selve den kryptografiske signeringsproces, er der udviklet integrationer med Nets NemID og Globalsign Digital Signing Service.
+Til at starte med, er systemet blevet implementeret med mulighed for signering med NemID og visuel tegnet signatur.
+Det er planen, at dette skal udvikles senere.
+Signatursystemet anvendes pt. af revisionsselskabet, som anvender det til at signere regnskaber og aftaler med deres klienter.
+Der betales en fast pris per signatur for denne anvendelse.
+Spørger anvender også selv signatursystemet til signering af aftaler med selskabets rådgivningsklienter.
+Signeringssystemet adskiller sig fra de eksisterende systemer på markedet på to områder: For det første er det planen, at systemet skal understøtte forskellige typer af digital signering fra hele verden, ikke kun de nordiske.
+Der er derfor blevet korresponderet med Nets og Signaturgruppen for at afgøre de mest effektive metoder til generering af signerede Pdf'er, som indeholder mange forskellige typer af krypteret signaturdata.
+ For det andet skal systemet integreres i selskabets andre systemer, således at advokater, revisorer og foreningerne kan sende dokumenter, fakturaer og regnskaber til signering direkte fra deres eget system, i stedet for at skulle sende dokumenterne igennem et eksternt signeringssystem, hvilket forsinker arbejdsprocessen.
+Der er blevet søgt ny viden om de mest effektive metoder til at generere krypterede og signerede Pdf'er, som indeholder mange forskellige former for signering, både nordiske e-signaturer, udenlandske digitale signaturer og visuelle signaturer.
+Indtil videre understøttes kun dansk NemID og visuelle signaturer, men hele arkitekturen er designet til at skulle udvides til flere forskellige typer af signaturer og til at være nemt at integrere med eksisterende softwaresystemer.
+Det nye koncept er at samle mange former for digital signatur i et enkelt system, som nemt kan integreres i eksisterende softwaresystemer og føre til mere effektive arbejdsprocesser og mere sikker dokumentsignering og håndtering.
+Der er også et stort usikkerhedsmoment i udviklingen af dette system, da det ikke er klart hvilke typer af signaturer, det vil være muligt at understøtte i det færdige system.
+[] Alle fire platforme/systemer De fire platforme/systemer, som ovenfor nævnt, er ikke baseret på standardplatforme eller skabeloner, men der anvendes eksisterende softwareteknologier til de fire nævnte platforme/systemer.
+Alle systemerne er cloud-baserede online applikationer.
+Back-end serverdelen er udviklet ved anvendelse af ASP.
+NET Core og SQUL Server, mens front-enden er lavet i React Javascript.
+Derudover er en del af koden fra advokatplatformen blevet genbrugt og tilpasset til de andre systemer.
+ Der er ikke søgt eller givet støtte fra forskningsinstitutter eller lignende i forbindelse med udviklingen af de fire platforme/systemer.
+Udviklingsomkostningerne udgør ca. 1 mio.kr., hovedsageligt løn til selskabets udvikler på ca. 900.000 kr. og dertil udgifter til servere, licenser mv. på ca. 100.000 kr.
+Udgifterne er nogenlunde ligeligt fordel blandt de fire platforme/systemer.
+Spørgers opfattelse og begrundelse Det indstilles at alle spørgsmålene besvares med "Ja".
+Skatterådet har i SKM2016. 199. SR afgjort, at omkostninger til udvikling af en platform til lektiehjælp kan anses som udviklingsomkostninger omfattet af ligningslovens § 8 B og § 8 X.
+I SKM2021. 367. LSR har Landsskatteretten ligeledes afgjort, at det samme gør sig gældende for omkostninger til udvikling af en intern handelsplatform.
+ Spørger gør gældende, at alle spørgers softwareplatforme må anses for at være mindst lige så innovative som de pågældende platforme til lektiehjælp og handel.
+Der er i alle tilfælde tale om innovative og nyskabende platforme, som tjener til at skabe forbedrede produkter, processer og tjenesteydelser for brugerne.
+Der eksisterer ikke tilsvarende softwareprodukter på markedet allerede.
+Alle udviklingsprojekterne har involveret omfattende undersøgelser og kreativ nyskabelse i samarbejde med potentielle brugere og eksperter.
+Ydermere har alle produkterne et meget stort usikkerhedsmoment, idet der har været stor usikkerhed om projekternes endelige udformning, tidshorisonten og omkostningerne.
+Dette ser man bl.a. klart ved, at kodebasen til advokatplatformen er endt med at blive anvendt som udgangspunkt for systemerne til revisorer, foreninger og brugere af digitale signaturløsninger.
+Alle softwareplatformene er på prototypestadiet, hvormed der stadig er usikkerhed om det endelige resultat, omkostninger mv.
+ Omkostningerne til udvikling af disse softwareplatforme må derfor anses som udviklingsomkostninger omfattet af ligningslovens § 8 B.
+ Spørger har i høringssvaret til udkastet til det bindende svar fremført følgende:
+ I Skattestyrelsens indstilling til bindende svar, anfører styrelsen at omkostningerne til spørgerens udviklingsprojekter ikke skal kunne fradrages som udviklingsomkostninger omfattet af ligningslovens § 8 B, stk. 1. Det vil blive vist, at Skattestyrelsens argumentation i sagen strider imod både den eksisterende praksis på området, såvel som almindelig sund fornuft.
+Skattestyrelsens argumentation er fundamentalt identisk for alle fire udviklingsprojekter.
+Denne argumentation vil derfor blive kommenteret samlet, med enkelte bemærkninger rettet mod de individuelle projekter.
+Ad. sammenlignelige sager Skattestyrelsen anfører i alle fire tilfælde, at projektet kan sammenlignes med projekterne i SKM2021. 510. LSR og SKM2022. 117. LSR hvor omkostningerne ikke blev anset for omfattet af ligningslovens § 8 B, stk. 1. Skattestyrelsen mener altså ikke, at spørgerens systemer kan sammenlignes med de mere komplekse systemer i SKM2016. 199. SR, SKM2021. 367. LSR og SKM2022. 289. LSR, som fandtes at være omfattet af ligningslovens § 8 B, stk. 1.
+Skattestyrelsen fremlægger ingen som helst argumentation for, hvorfor lige netop systemerne i disse to afgørelser skulle være mere sammenlignelige med spørgerens systemer end de mere komplekse platforme i de sidste tre afgørelser.
+Man kan mistænke, at Skattestyrelsen slet og har ret har valgt de to sager, hvor systemerne ikke har været omfattet af ordningen, og håber at dette vil være tilstrækkeligt til at overbevise Skatterådet.
+ Sammenligningen er åbenlyst absurd hvis man ser på detaljerne i de pågældende afgørelser.
+I SKM2021. 510. LSR var der tale om en webshop til salg af vin, som kun anvendtes til intern brug af selskabet selv, og som havde funktionalitet, der var sædvanlig for en webshop.
+Selskabet mente selv, at de havde den mest avancerede handelsplatform til vin, men kunne ikke komme med eksempler på nogen unik funktionalitet, som ikke også fandtes på andre e-shops.
+I modsætning hertil er spørgerens systemer komplekse software platforme til administration af kunder, dokumenter, regnskaber, klienter, osv. som skal kommercialiseres ved at sælge dem til advokater, revisorer og foreninger.
+Alle systemerne har fået tilføjet, eller er i færd med at få tilføjet, unik funktionalitet, som ikke findes hos nogen konkurrenter.
+Dette kan på ingen måde sammenlignes med en webshop til e-handel med produkter.
+I SKM2022. 117. LSR var der tale om et eksisterende produkt til digital talegenkendelse, som var blevet solgt siden 2012, og som blot skulle udvides med ordforråd fra en ny branche.
+Dette er på ingen måde sammenligneligt med spørgerens systemer, som alle er helt nye software platforme, der endnu ikke er blevet fuldt kommercialiseret, men stadig er på forsøgsstadiet.
+Ydermere, henviser Landsskatteretten i SKM2022. 117. LSR til SKM2021. 367. LSR, og bemærker at kompleksiteten af talegenkendelsessystemet ikke kan sammenlignes med udvikling af platforme til styring af kunder og produkter, salg og dataudveksling med forskellige landes myndigheder mv.
+Ud fra dette argument må man modsætningsvis konkludere, at et system med denne kompleksitet ville være blevet godkendt af Landsskatteretten.
+ Spørgerens systemer er netop platforme til styring af kunder, klienter, medlemmer, produkter, regnskaber, fakturering, dokumenter, mv. og er altså hvad angår kompleksitet klart mere sammenlignelige med platformen i SKM2021. 367. LSR end med produktet i SKM2022. 117. LSR.
+Det bemærkes yderligere, at systemerne også giver mulighed dataudveksling med både Erhvervsstyrelsens systemer, EU-virksomhedssystemer og vejrsystemer (se Bilag 1). Dette var ikke nævnt i den indledende beskrivelse.
+Der er tale om fælles funktionalitet for de forskellige platforme.
+Spørgerens system er i praksis en samlet platform, der er udviklet i forskellige retninger, og der er derfor en del fælles funktionalitet.
+Som yderligere evidens for platformens kompleksitet vedlægges en komplet log af alle opdateringer til systemet foretaget i perioden 1. januar 2019 til 31. december 2021 (Bilag 2). Det fremgår heraf, at systemet i perioden er blevet opdateret 4167 gange, et gennemsnit på 3.8 opdateringer om dagen, og at der altså har været tale om en meget kompleks udviklingsproces.
+Alle systemerne ligger i samme kode repository som grene på en overordnet platform.
+Loggen er derfor pt. ikke udspecificeret på de enkelte projekter.
+ Softwareplatformens kompleksitet er altså klart mere sammenlignelig med platformen i SKM2021. 367. LSR end med talegenkendelsessystemet i SKM2022. 117. LSR.
+Ad. anvendelse af eksisterende softwareværktøjer Skattestyrelsen anfører, at projekterne anvender allerede kendte metoder og eksisterende softwareværktøjer.
+Hertil anføres det, at de eneste softwareværktøjer som anvendes af spørgeren, er helt fundamentale værktøjer til programmering, databasehåndtering og serverstyring af den type som praktisk talt alle softwarevirksomheder benytter sig af.
+Uden at kende til de præcise detaljer, kan det med garanti anføres, at projekterne i SKM2016. 199. SR, SKM2021. 367. LSR og SKM2022. 289. LSR også har anvendt lignende værktøjer til programmering, databasesprog, osv.
+Der er i praktisk ingen softwarevirksomheder, som udvikler software uden anvendelse af eksisterende værktøjer af denne type.
+En så restriktiv fortolkning ville betyde, at ordningen i praksis kun ville finde anvendelse for softwarevirksomheder, som opfinder deres helt eget programmeringssprog eller lignende teknologi fra grunden af hvilket i praksis kun sker i uhyre sjældne tilfælde.
+Denne fortolkning er klart i modstrid med praksis i ovennævnte tre sager, hvor der i alle tilfælde var tale om softwareplatforme bygget på eksisterende udviklingsteknologier.
+I SKM2022. 289. LSR anføres det direkte, at der selvfølgelig er anvendt eksisterende softwareværktøjer i form af programmeringssprog, og at dette ikke kan tillægges nogen betydning.
+Denne fortolkning har Landsskatteretten tilsyneladende været enig i, da fradrag er godkendt i dette tilfælde.
+I SKM2021. 367. LSR har Landsskatteretten afgjort, at selv indkøb af standardsoftware kan være omfattet af ordningen, når denne har haft afgørende betydning for udviklingsarbejdet.
+Landsskatteretten har altså klart afvist Skattestyrelsens princip om, at der ikke må anvendes eksisterende softwareteknologier og værktøjer.
+Det afgørende er om teknologierne er anvendt til at udvikle nyskabende software.
+At Skattestyrelsen er uenig med præmisserne i SKM2021. 367. LSR bedes Skatterådet se bort fra.
+Det kan umuligt være rimeligt at skatteyderne skal vente flere år med at foretage skattemæssige dispositioner mens vi afventer svar på Skattestyrelsens appel til domstolene.
+Den eksisterende afgørelse må stå ved magt indtil der eventuelt kommer en ny afgørelse senere.
+Ydermere anføres det, at formålet med alle former for forskning og udvikling er at man bygger videre på eksisterende viden og teknologier.
+Et krav om, at der ikke må anvendes fundamentale udviklingsværktøjer ville svare til hvis man krævede at laboratorieforskere ikke måtte anvende eksisterende laboratorieudstyr, men i stedet skulle bygge deres egen maskiner fra grunden og blæse deres egen reagensglas.
+En sådan praksis ville forsinke innovationen, da man dermed ville tvinge forskere og udviklere til at genopfinde den dybe tallerken om og om igen før de kunne gå i gang med den innovative del af udviklingen.
+Skattestyrelsens fortolkning vil altså direkte underminere formålet med ordningen, som er at fremme innovationen blandt danske virksomheder.
+Netop derfor er det også absurd, at Skattestyrelsen betragter genbrug af kode fra advokatsamfundet i et senere projekt som et tegn på at projektet ikke er innovativt.
+At genbruge kode fra tidligere gør netop et projekt mere innovativt, idet man ikke skal genopfinde ting der allerede er lavet men kan gå direkte i gang med den nyskabende del af projektet.
+Skattestyrelsen anfører selv i deres vejledning at "Tekniske problemstillinger, som allerede er løst ved tidligere udviklingsprojekter, er desuden ikke omfattet." Ved at genanvende koden fra et tidligere projekt undgår man at bruge tid på tekniske problemstillinger, som allerede er løst, idet den nye viden, der blev udviklet tidligere, direkte kan genanvendes.
+Det ville næppe gøre projektet mere innovativt, hvis man skulle genskrive kode, der allerede var udviklet tidligere.
+I så fald ville det være praktisk umuligt at gøre fremskridt.
+Der er i praksis tale om en samlet kodeplatform, som er blevet udviklet i forskellige retninger.
+At man i et senere stadie af et udviklingsprojekt genbruger den kode der skrevet i et tidligere stadie, er naturligvis trivielt og vil være tilfældet for et hvilket som helst større udviklingsprojekt.
+Ydermere, angiver Skattestyrelsen selv i deres vejledning, at tilpasning af eksisterende software kan være omfattet hvis " der under denne proces oparbejdes erfaring/viden, der væsentligt forbedrer det grundlæggende program, og hvorved kravet om nyhedsværdi opfyldes." Denne betingelse er klart opfyldt i dette tilfælde.
+At ændre en advokatplatform til en platform for revisorer/foreninger/signatur er naturligvis ikke noget der kan gøres med rutinemæssig tilpasning, men kræver omfattende ny viden og fundamentale ændringer og forbedringer.
+Ad. ny funktionalitet og forbedring For alle fire projekter gør Skattestyrelsen gældende, at tilføjelse af ny funktionalitet ikke er udtryk for ny teknologisk viden, men skal anses som videreudvikling og tilpasning af brugerfunktionaliteter.
+Dette mener Skattestyrelsen ikke udgør en væsentlig forbedring.
+Hertil kan det anføres, at formålet med al software er at blive brugt, så en softwareplatform i sidste ende ikke er andet end et bundt af brugerfunktionaliteter.
+Hvis nye brugerfunktionaliteter ikke kan udgøre en væsentlig forbedring, er det derfor svært at se hvordan en sådan forbedring overhovedet skulle kunne foretages.
+Denne fortolkning af reglerne er da også i direkte modstrid med al gældende praksis fra både Skatterådet og Landsskatteretten.
+I hverken SKM2016. 199. SR, SKM2021. 367. LSR eller SKM2022. 289. LSR er der udviklet nogen fundamentalt ny form for teknologi.
+Softwareplatforme til lektiehjælp, handel og markedsadministration eksisterede allerede på tidspunktet for de pågældende afgørelser, og det nyskabende element bestod udelukkende i tilføjelse og tilpasning af brugerfunktionalitet.
+I SKM2022. 289. LSR har selskabet detaljeret beskrevet, hvilke nye funktionaliteter der er tilføjet til platformen, og dette har Landsskatteretten anset for tilstrækkeligt til, at platformen var væsentligt forbedret.
+ Det kan undre, at Skattestyrelsen stadig fremfører en argumentation, der allerede er blevet omstødt i de pågældende sager.
+Det bemærkes at Skattestyrelsen ikke anfægter, at spørgerens systemer indeholder ny funktionalitet, som ikke allerede eksisterer på markedet.
+Tværtimod tager Skattestyrelsen udgangspunkt i dette i styrelsens argumentation.
+Skattestyrelsen har heller ikke forsøgt at finde nogen eksempler på tilsvarende eksisterende platforme, som kan det samme som spørgerens.
+ Det gøres derfor gældende, at spørgerens softwareprojekter indeholder innovativ ny funktionalitet, som ikke allerede findes på markedet, og at disse derfor kan anses for at være væsentligt forbedrede og omfattet af ligningslovens §8 b, stk. 1.
+Ad. udviklingsprocessen I SKM2022. 289. LSR har Landsskatteretten lagt vægt på en detaljeret beskrivelse af udviklingsprocessen, samt interesse og økonomisk støtte fra eksterne institutioner.
+Spørgeren i denne sag har ligeledes fremlagt en detaljeret beskrivelse af udviklingsprocessen hvoraf det klart fremgår, at der er tale om en eksperimentel og kreativ proces med et højt element af usikkerhed.
+Dette ses klart ved, at systemets natur og målgruppe er blevet til noget helt andet end det oprindeligt var tilsigtet.
+Systemerne er stadig ufærdige prototyper, som færdigudvikles i tæt samarbejde med brugerne, som del an innovativ, Agil udviklingsproces.
+Der er derfor stadig usikkerhed omkring det endelige resultat, men det fremhæves, at denne usikkerhed netop er karakteristisk for en nyskabende udviklingsproces.
+Spørgeren har ikke, som det var tilfældet i SKM2022. 289. LSR, modtaget direkte økonomisk støtte fra offentlige institutioner, men dette er et bevidst valg, da selskabet foretrækker at være uafhængig af sådanne institutioner.
+I stedet er udviklingen hovedsageligt blevet finansieret gennem selskabets andre erhvervsaktiviteter.
+Dog har udviklingsprojekterne modtaget interesse fra andre private aktører, som har været med til at finansiere udviklingen.
+Arbejdet på advokatsystemet har som nævnt tiltrukket opmærksomhed fra et revisionsselskab, som var villig til delvist at finansiere udviklingen af regnskabssystemet, og anvende systemet mens det var under udvikling.
+Det faktum, at en revisor er parat til at finansiere og anvende et eksperimentelt prototypesystem, må I sig selv anses som evidens for at systemet er nyskabende.
+I modsat fald ville det langt bedre kunne betale sig at anvende et gennemtestet standardregnskabssystem.
+Revisionsselskabet betaler også for anvendelse af signatursystemet.
+Ligeledes har flere foreninger været villige til delvist at finansiere udviklingen af foreningssystemet, ved at betale abonnement mens systemet er under udvikling.
+Igen anføres det, at foreningerne næppe ville være villige til at tage en sådan chance med et eksperimentelt system, hvis dette ikke var nyskabende på nogen måde.
+Konklusion Det er nu blevet vist, at spørgerens udviklingsprojekter har involveret kreativ, eksperimentel udvikling med et højt usikkerhedsmoment, hvorved der er opnået ny viden og væsentligt forbedret teknologi.
+Skattestyrelsens argumenter for at det skulle forholde sig anderledes, har vist sig at være uholdbare og i modstrid med gældende praksis.
+ Det gøres derfor samlet gældende, at spørgerens udviklingsomkostninger er omfattet af ligningslovens § 8 B, stk. 1.
+Skattestyrelsens indstilling og begrundelse Spørgsmål 1 Det ønskes bekræftet, at Spørger kan fratrække omkostninger til udvikling af advokatplatformen som udviklingsomkostninger omfattet af ligningslovens § 8 B, stk. 1.
+Begrundelse Det følger af ligningslovens § 8 B, stk. 1, at ved opgørelsen af den skattepligtige indkomst kan udgifter, som afholdes til forsøgs- og forskningsvirksomhed i tilknytning til den skattepligtiges erhverv, bortset fra udgifter til efterforskning efter råstoffer, jf. stk. 2, efter den skattepligtiges valg enten fradrages fuldt ud i det indkomstår, hvori de er afholdt, eller afskrives med lige store årlige beløb over dette og de følgende 4 indkomstår.
+ Det er en betingelse for retten til fradrag efter ligningslovens § 8 B, stk. 1, at forsøgs- og forskningsudgifterne bliver afholdt i tilknytning til den skattepligtiges erhverv, således at forsøgene og forskningen og de dermed forbundne udgifter har et kommercielt formål.
+ Det fremgår af forarbejderne til bestemmelsen (L95 1972-1973), af de almindelige bemærkninger, at fradragsretten omfatter følgende:
+"Fradragsretten vil i det første omfatte det udviklingsarbejde, som er knyttet til erhvervsvirksomheden.
+Herved forstås anvendelsen af videnskabelig eller teknisk viden til at frembringe nye eller væsentligt forbedrede materialer, mekanismer og produkter, processer, systemer eller tjenesteydelser." Således skal der være tale om videnskabelig eller teknisk viden, der fører til, at der frembringes nye eller væsentligt forbedrede materialer, mekanismer og produkter, processer, systemer eller tjenesteydelser for at kunne udgøre forsøgs- og forskningsvirksomhed.
+Bevisbyrden for afholdelsen og størrelsen af en udgift, og for at udgiften er fradragsberettiget, påhviler som udgangspunkt den skattepligtige.
+Det følger af Højesterets dom af 19. marts 2004, offentliggjort i SKM2004. 162. HR.
+Det er således Spørger der som udgangspunkt skal løfte bevisbyrden for, at der er tale om udgifter, der kan fradrages efter ligningslovens § 8 B.
+Der er ved forarbejderne til bestemmelsen i ligningslovens § 8 B, stk. 1, forudsat, at sædvanlige driftsomkostninger ikke omfattes af bestemmelsen.
+Disse driftsomkostninger kan i stedet fradrages efter statsskattelovens § 6.
+Landsskatteretten har bl.a. i SKM2020. 501. LSR og SKM2021. 510. LSR truffet afgørelse om, at de pågældende selskabers udgifter ikke kunne anses for at være afholdt i tilknytning til forsøgs- og forskningsvirksomhed.
+Landsskatteretten lagde vægt på, at det ikke var dokumenteret, at projekterne indeholdt tilstrækkelig ny viden eller teknologisk fremskridt i forhold til allerede kendt teknik mv.
+Landsskatteretten bemærkede endvidere i SKM2021. 510. LSR, at der ved vurderingen skal henses til den teknologiske viden generelt på det pågældende tidspunkt og ikke blot til den specifikke branche.
+Det fremgår af Den juridiske vejledning afsnit C.
+C. 2.2.2.20 Udgifter til forsøg og forskning mv., at det er Skattestyrelsens opfattelse, at følgende projektkriterier skal være opfyldt:
+ Projektet skal indeholde et nyhedselement.
+Nyhedselementet skal vurderes i forhold til det aktuelle vidensniveau inden for branchen (dvs. kredsen af virksomheder beskæftiget med sammen aktivitet). Det skyldes, at aktiviteten skal resultere i viden/erkendelser, der ikke allerede er i anvendelse inden for den pågældende branche.
+Dermed er projekter, der opnår viden ved at kopiere, imitere eller ved "reverse engineering" eksempelvis ikke omfattet. Årsagen er, at opnåelse af ny viden er central for al forsøgs- og forskningsaktivitet.
+ Projektet skal indeholde et element af kreativitet.
+Baggrunden herfor er, at projektet skal basere sig på nye koncepter/idéer, der ligger ud over det eksisterende vidensniveau.
+Rutinemæssig aktivitet er derfor ikke omfattet, mens nye metoder til at udføre gængse opgaver, på basis af tilgængelig viden, efter en konkret vurdering kan være omfattet.
+ Projektet skal indeholde et usikkerhedsmoment.
+Det er en betingelse, at der i projektet er usikkerhed om omkostningerne, tidshorisonten, eller om det forventede resultat kan opnås.
+ Vedrørende softwareudvikling fremgår det af samme afsnit i Den juridiske vejledning, at udviklingsopgaven må afhænge af et videnskabeligt eller teknologisk fremskridt.
+ Således er er følgende ikke omfattet:
+ Udvikling af software af rutinepræget natur (rutinemæssig udvikling af software). Dette omfatter bl.a. fremskridt, som var alment kendt før påbegyndelsen af udviklingen.
+Tekniske problemstillinger, som allerede er løst ved tidligere udviklingsprojekter, er desuden ikke omfattet.
+  Rutinemæssige softwareopdateringer.
+  Udvikling af software under anvendelse af kendte metoder og eksisterende softwareværktøjer.
+  Tilføjelsen af brugerfunktionaliteter til eksisterende softwareværktøjer.
+  Udviklingen af websites under anvendelse af eksisterende softwareværktøjer.
+  Tilpasningen af software til en specifik anvendelse, medmindre der under denne proces oparbejdes erfaring/viden, der væsentligt forbedrer det grundlæggende program, og hvorved kravet om nyhedsværdi opfyldes.
+Spørger henviser til SKM2016. 199. SR der omhandler udvikling af en applikation til online lektiehjælp.
+Skattestyrelsen bemærker, at afgørelsen ikke indeholder generelle betragtninger, og mener derfor ikke, at man kan anvende afgørelsen i vurderingen af om software generelt er omfattet af ligningslovens § 8 B.
+Spørger henviser yderligere til SKM2021. 367. LSR, der omhandler en handelsplatform, der bl.a. kunne indhente oplysninger fra forskellige landes toldmyndigheder i forbindelse med kundernes handel på platformen.
+Landsskatteretten fandt, at der var tale om forsøg- og forskningsudgifter efter ligningslovens § 8 B, stk. 1, da der ikke var tale om projekter af rutinemæssig karakter, men derimod ny- og videreudviklede systemer, processer og algoritmer.
+Skatteministeriet har indbragt afgørelsen for domstolene, da ministeriet ikke er enigt i præmisserne i afgørelsen.
+Afgørelsen vedrørte udvikling af en handelsplatform, der bl.a. kunne indhente oplysninger fra forskellige landes toldmyndigheder.
+Afgørelsen har efter sin ordlyd det grundlæggende budskab, at enhver udvikling og programmering af software eller applikationer omfattes af ligningslovens § 8 B.
+Det er Skattestyrelsens opfattelse, at Landsskatteretten efterfølgende har taget afstand fra denne brede fortolkning af anvendelsesområdet i bestemmelsen.
+Landsskatteretten har således i efterfølgende afgørelser i SKM2021. 510. LSR, SKM2022. 90. LSR og SKM2022. 117. LSR fulgt op på de generelle betragtninger i SKM2020. 501. LSR, således, at der skal være tale om videnskabelig eller teknologisk fremskridt generelt på udviklingstidspunktet.
+I SKM2022. 117. LSR henviste skatteyder netop til SKM2021. 367. LSR, mens Landsskatteretten præciserede, at selskabet skulle dokumentere eller sandsynliggøre, at de udviklede produkter indeholdt tilstrækkelig ny viden eller teknologiske fremskridt i forhold til allerede kendt teknologi på udviklingstidspunktet.
+Skattestyrelsen mener derfor ikke at SKM2021. 367. LSR kan anvendes til at lave en generel slutning af, hvilke udgifter der er omfattet af ligningslovens § 8 B.
+Skattestyrelsen mener derimod, at der var tale om en konkret vurdering i afgørelsen, og at præmisserne om, at selskabet skal dokumentere eller sandsynliggøre, at de udviklede produkter indeholder tilstrækkelig ny viden eller teknologiske fremskridt i forhold til allerede kendt teknologi på udviklingstidspunktet, er slået fast i flere afgørelser, heraf bl.a.
+SKM2021. 510. LSR og SKM2022. 117. LSR.
+Der er siden afsendelsen af anmodningen om det bindende svar offentliggjort SKM2022. 289. LSR, der omhandlede udgifter til udvikling af en dataplatform, hvor Landsskatteretten mente, at der ikke var tale om projekter af rutinemæssig karakter, da der var tale om ny- og videreudviklede systemer og processer.
+Landsskatteretten lagde vægt på den detaljerede beskrivelse af den løbene udviklingsproces og markedsplatformens funktioner, herunder dens indhold af en avanceret udveksling af data vedrørende informationer om produkt, logistik og salg mellem de involverede virksomheder, forhandlere og kundesegmenter.
+Det er Skattestyrelsens opfattelse, at Landsskatteretten har foretaget en konkret vurdering, og i den forbindelse er kommet frem til, at produktet er så nyskabende, at der er tale om forsøg og forskning.
+ Skattestyrelsen er af den opfattelse, at de tre afgørelser, SKM2016. 199. SR, SKM2021. 367. LSR og SKM2022. 289. LSR, som Spørger henviser til, ikke ændrer på, at for at forsøg og forskning kan omfattes af bestemmelsen må det kræves, at den indeholder en vis ny viden i forhold til allerede kendt teknik, og i relation til software teknologisk eller videnskabelige fremskridt.
+Skattestyrelsen henviser i den forbindelse til SKM2020. 501. LSR om udgifter afholdt til nyudvikling/ændringer af webbaseret kundeplatform, hvor bl.a. arbejdsgange automatiseres og kundernes oplevelse forbedres.
+Landsskatteretten udtalte, at for at udvikling og forskning kan omfattes af bestemmelsen må det kræves, at den indeholder en vis ny viden til allerede kendt teknik, og i relation til software teknologisk eller videnskabelige fremskridt mv.
+Landsskatteretten mente ikke, at det var godtgjort at udgifterne kunne anses for omfattet af forsøgs- og forskningsudgifter og at der ikke var oplyst om sådan ny viden mv. i forhold til eksisterende viden, teknik mv., som må kræves.
+Yderligere henviser Skattestyrelsen til SKM2021. 510. LSR om en handelsplatform for e-handel med vine, der bl.a. havde til formål at samle alle virksomheders arbejdsområder og arbejdsprocesser i ét fælles system, samt give den enkelte kunde en optimal og tilpasset oplevelse.
+I afgørelsen udtalte Landsskatteretten, at selskabets egen formodning om at den var indehaver af den mest avancerede handelsplatform inden for handel med vin, ikke i sig selv kunne anses som tilstrækkelig dokumentation for ny viden og teknologi.
+Yderligere bemærkede Landsskatteretten, at der ikke blot skulle henses til andre handelsplatforme inden for vinhandel, men på den teknologiske viden generelt på det pågældende tidspunkt.
+Det var derfor ikke dokumenteret eller i tilstrækkelig grad sandsynliggjort, at den af selskabet udviklede handelsplatform indeholdt tilstrækkelig ny viden eller teknologiske fremskridt i forhold til allerede kendt teknik på udviklingstidspunktet.
+Skattestyrelsen henviser endvidere til SKM2022. 117. LSR vedr. udgifter afholdt til udvikling af løsninger vedrørende digital diktering og talegenkendelse.
+Landsskatteretten udtalte, at forsøg- og forskningsudgifter ikke omfatter enhver form for produktudvikling.
+Udgifter, der afholdes som led i almindelig løbende produktudvikling og produkttilpasning, må således anses som almindelige driftsomkostninger.
+Landsskatteretten udtalte samtidig, at SKM2021. 367. LSR ikke var sammenlignelig, idet omfanget og kompleksiteten, der var forbundet med bl.a. udvikling af platforme til styring af kunder og produkter, salg og dataudveksling med forskellige landes myndigheder mv., ikke kunne sammenlignes med videreudvikling af eksisterende løsninger til digital diktering og talegenkendelse.
+Landsskatteretten fandt efter en samlet vurdering, at det ikke var dokumenteret eller i tilstrækkelig grad sandsynliggjort, at de af selskabet udviklede produkter indeholdt tilstrækkelig ny viden eller teknologiske fremskridt i forhold til allerede kendt teknologi på udviklingstidspunktet.
+Det var således Landsskatterettens opfattelse, at teknologien bag henholdsvis optagelse af tale og omsætning af tale til tekst længe havde været alment kendt og anvendt.
+Den videreudvikling af disse områder som selskabet havde foretaget, herunder tilpasning til nordiske sprogfænomener og til dansk juridisk sprog, førte ikke til, at den anvendte teknologi kunne anses for ny eller væsentligt forbedret.
+Spørger oplyser, at advokatplatformen er udviklet med det formål at forbedre advokaternes arbejdsprocesser ved at facilitere tættere samarbejde med advokaternes klienter og andre advokater.
+Platformen skal samle alt hvad advokaten skal bruge i en enkelt platform inklusive værktøjer til at networke og samarbejde med klienter og andre advokater.
+Spørger oplyser derudover, at eksisterende advokatsystemer kun inkluderer sådan funktionalitet i meget begrænset omfang.
+Platformen adskiller sig derfor fra øvrige advokatplatforme på markedet ved at have fokus på at effektivisere kommunikationen og samarbejdet mellem advokaterne og disse klienter samt andre advokater.
+Spørger oplyser endvidere, at udviklingen af systemet har resulteret i ny viden vedrørende design af softwaresystemer med fokus på at facilitere samarbejde mellem eksperter og disses klienter.
+Samtidig beskriver Spørger detaljeret hvilke funktionaliteter advokatplatformen har.
+Det er Skattestyrelsens opfattelse, at de afholdte omkostninger umiddelbart findes at have været afholdt i tilknytning til selskabets erhverv med at udvikling af software.
+Udgifterne er bl.a. anvendt til betaling af løn til udvikler og er således, i overensstemmelse med lovens forarbejder, som udgangspunkt efter deres art omfattet af ligningslovens § 8 B, stk. 1.
+ Det er på baggrund af det oplyste Skattestyrelsens opfattelse, at Spørgers udvikling af advokatplatformen er sammenlignelig med udvikling af handelsplatformen for vine i SKM2021. 510. LSR samt udvikling af løsninger vedrørende digital diktering og talegenkendelse i SKM2022. 117. LSR.
+ Spørger skal dokumentere eller sandsynliggøre, at de udviklede platforme indeholder tilstrækkelig ny viden eller teknologiske fremskridt i forhold til allerede kendt teknologi på udviklingstidspunktet.
+ På baggrund af det anførte fra Spørger om advokatplatformen er det Skattestyrelsens opfattelse, at der er tale om en platform, der anvender allerede kendte metoder og eksisterende softwareværktøjer og således, at der er tale om udvikling af en platform på allerede kendt teknologi, som har været alment kendt og anvendt inden udviklingen.
+Skattestyrelsen bemærker, at der ikke blot skal henses til andre advokatplatforme, men på den teknologiske viden generelt på tidspunktet for udvikling af Spørgers advokatplatform.
+At platformen er tilpasset, så den adskiller sig fra eksisterende advokatplatforme ved f.eks. at have fokus på værktøjer til at networke og samarbejde advokater og klienter imellem og dermed inkludere andre funktionaliteter, bedre design mv., er efter Skattestyrelsens opfattelse ikke et udtryk for ny teknologisk viden, men derimod en videreudvikling og tilpasning af brugerfunktionaliteter.
+Det er Skattestyrelsens vurdering, at de funktionaliteter Spørger beskriver nærmere er udtryk for tilpasninger, der laves for at have et produkt, der opfylder nogle af de krav advokater har, sådan at systemet bliver f.eks. mere brugervenligt og giver brugeren en bedre oplevelse eller lign.
+En sådan videreudvikling af kendt teknologi, herunder tilpasninger af platformen og brugerfunktionaliteter, kan ikke i sig selv føre til, at den anvendte teknologi kan anses for ny eller væsentligt forbedret.
+Spørger anfører i høringssvaret, at Skattestyrelsen ikke fremlægger argumentation for, hvorfor Spørgers fire systemer er sammenlignelige med SKM2021. 510. LSR og SKM2022. 117. LSR og ikke med de mere komplekse platforme i SKM2016. 199. SR, SKM2021. 367. LSR og SKM2022. 289. LSR.
+Spørger skriver, at man kan mistænke, at Skattestyrelsen blot har valgt de to afgørelser, hvor systemerne ikke omfattes af ligningslovens § 8 B.
+Skattestyrelsen bemærker hertil, at SKM2021. 367. LSR er indbragt for domstolene, og Skattestyrelsen er uenig i præmisserne.
+Skattestyrelsen følger derfor præmisserne i SKM2021. 510. LSR og SKM2022. 117. LSR, indtil der foreligger en endelige afgørelse fra domstolene.
+Det er derfor Skattestyrelsens opfattelse, at Spørgers systemer skal vurderes efter præmisserne i SKM2021. 510. LSR og SKM2022. 117. LSR og ikke efter SKM2021. 367. LSR og SKM2022. 289. LSR.
+ Spørger fremlægger yderligere i høringssvaret, en komplet log af alle opdateringer til advokatsystemet foretaget i perioden 1. januar 2019 til 31. december 2021, der viser at systemet er blevet opdateret 4.167 gange, hvilket er et gennemsnit på 3,8 opdateringer om dagen.
+ Det er Skattestyrelsens opfattelse, at det forhold, at der sker hyppige opdateringer af systemet, ikke i sig selv er et udtryk for, at der dermed skabes den fornødne nyhedsværdi ved systemet.
+Spørger anfører derudover i høringssvaret, at Skattestyrelsens lægger vægt på, at Spørgers systemer anvender allerede kendte metoder og eksisterende softwareværktøjer.
+Spørger mener ikke, at der findes nogen softwarevirksomhed, som udvikler software uden anvendelse af eksisterende værktøjer.
+Spørger mener, at en så restriktiv fortolkning som Skattestyrelsen fremfører, betyder, at fradrag efter ligningslovens § 8 B kun ville findes anvendelse på softwarevirksomheder, som opfinder eget programmeringssprog eller lignende teknologi fra bunden.
+Spørger fremfører, at fortolkningen er i klar modstrid med praksis i SKM2016. 199. SR, SKM2021. 367. LSR og SKM2022. 289. LSR.
+ Spørger fremfører samtidig, at SKM2021. 367. LSR bør stå ved magt indtil en der kommer en afgørelse, selvom Skattestyrelsen er uenig i præmisserne og Skatteministeriet har indbragt den for domstolene.
+Det er Skattestyrelsens opfattelse, som også følger af præmisserne i bl.a.
+SKM2021. 510. LSR og SKM2022. 117. LSR, at systemerne skal indeholde ny viden eller teknologiske fremskridt i forhold til allerede kendt teknik på udviklingstidspunktet.
+Der skal ikke kun henses til den tekniske viden inden for branchen, men på den teknologiske viden generelt på det pågældende tidspunkt. ¬Det er Skattestyrelsens opfattelse, som også fremgår af Den juridiske vejledning afsnit C.
+C. 2.2.2.20, at udvikling af software under anvendelse af kendte metoder og eksisterende softwareværkstøjer ikke er omfattet af ligningslovens § 8 B, da det ikke anses for værende videnskabeligt eller teknologisk fremskridt.
+Skattestyrelsen er som nævnt uenig i præmisserne i SKM2021. 367. LSR, og Skatteministeriet har indbragt afgørelsen for domstolene.
+Skattestyrelsen følger således præmisserne i SKM2021. 510. LSR og SKM2022. 117. LSR indtil der foreligger en endelig afgørelse ved domstolene.
+ Skattestyrelsen har valgt at lave en identisk argumentation for de fire systemer udviklet af Spørger, da det er Skattestyrelsens opfattelse, på baggrund af de fremsendte bilag og Spørgers information, at de fire systemer bygger på samme kodeplatform og der dermed blot er tale om tilretninger af systemerne i forhold til bl.a. design, samling af en række eksisterende funktionaliteter, mv., men ikke ny viden eller teknologiske fremskridt i forhold til allerede kendt teknik på udviklingstidspunktet.
+Spørger mener, at advokatplatformen er innovativ, selvom der er anvendt allerede kendt teknologi og software til udviklingen af platformen.
+Spørger fremfører, at der i Den juridiske vejledning fremgår, at tilpasning af software kan være omfattet af ligningslovens § 8 B, såfremt der under processen oparbejdes erfaring/viden, der væsentligt forbedrer det grundlæggende program, og hvorved kravet om nyhedsværdi opfyldes.
+Skattestyrelsen henviser til, at et projekt skal opfylde de tre kriterier om nyhedsværdi, kreativitet og usikkerhedsmoment, og at der vedr. softwareudvikling skal være et videnskabeligt eller teknologisk fremskridt.
+Skattestyrelsen mener derfor ikke, at tekniske problemstillinger, der allerede er løst ved tidligere udviklingsprojekter, er omfattet, ligesom udvikling af software under anvendelse af kendte metoder og eksisterende softwareværkstøjer ikke er omfattet af ligningslovens § 8 B.
+Dette synspunkt støttes bl.a. i SKM2022. 117. LSR, hvor Landsskatteretten bl.a. udtaler, at forsøg- og forskningsudgifter afholdt som led i almindelig løbende produktudvikling og produkttilpasning må anses som almindelige driftsomkostninger, hvorfor de ikke omfattes af ligningslovens § 8 B.
+Samtidig mener Skattestyrelsen ikke, at tilføjelse af brugerfunktionaliteter til eksisterende softwareværktøjer samt tilpasning af software til en specifik anvendelse, hvor nyhedsværdien ikke opfyldes, er omfattet af ligningslovens § 8 B.
+ Det er derfor Skattestyrelsens opfattelse, at advokatplatformen, der bygger på eksisterende software, er en brugertilpasning af en platform, som indeholder tilpassede funktionaliteter, og at det efter en konkret vurdering, ikke er tilstrækkeligt dokumenteret eller sandsynliggjort, at den indeholder tilstrækkelig fremskridt i forhold til allerede kendt teknik på udviklingstidspunktet.
+Indstilling Skattestyrelsen indstiller, at spørgsmål 1 besvares med "Nej".
+Spørgsmål 2 Det ønskes bekræftet, at Spørger kan fratrække omkostninger til udvikling af regnskabssystemet som udviklingsomkostninger omfattet af ligningslovens § 8 B, stk. 1.
+Begrundelse Skattestyrelsen henviser til redegørelsen for lovregel og praksis under spørgsmål 1.
+Det oplyses af Spørger, at regnskabssystemets hovedfokus er at lette revisors arbejde og dagligdag ved at automatisere en stor del af bogførings- og revisionsarbejdet og strømline kommunikationen med klienterne.
+Spørger mener ikke, at der eksisterer lignende regnskabssystemer med det fokus på markedet.
+Ligeledes indeholder regnskabssystemet funktionalitet til bankafstemning, som efter Spørgers opfattelse ikke findes i andre regnskabssystemer.
+Samtidig beskriver Spørger detaljeret hvilke funktionaliteter regnskabssystemet har.
+Det er Skattestyrelsens opfattelse, at de afholdte omkostninger umiddelbart findes at have været afholdt i tilknytning til selskabets erhverv med at udvikling af software.
+Udgifterne er bl.a. anvendt til betaling af løn til udvikler og er således, i overensstemmelse med lovens forarbejder, som udgangspunkt efter deres art omfattet af ligningslovens § 8 B, stk. 1.
+ Det er Skattestyrelsens opfattelse, at udviklingen af regnskabssystemet er sammenligneligt med udvikling af handelsplatformen for vine i SKM2021. 510. LSR samt udvikling af løsninger vedrørende digital diktering og talegenkendelse i SKM2022. 117. LSR.
+ Spørger skal dokumentere eller sandsynliggøre, at de udviklede platforme indeholder tilstrækkelig ny viden eller teknologiske fremskridt i forhold til allerede kendt teknologi på udviklingstidspunktet.
+På baggrund af det fremførte fra Spørger om regnskabssystemet er det Skattestyrelsens opfattelse, at der er tale om et system, der anvender allerede kendte metoder og eksisterende softwareværktøjer og således, at der er tale om udvikling af et system på allerede kendt teknologi, som har været alment kendt og anvendt inden udviklingen.
+Dette underbygges også af, at Spørger oplyser, at en del af koden fra advokatplatformen er blevet genbrugt og tilpasset til bl.a. dette regnskabssystem.
+Skattestyrelsen bemærker, at der ikke blot skal henses til andre regnskabssystemer, men på den teknologiske viden generelt på tidspunktet for udvikling af Spørgers regnskabssystem.
+At systemet er tilpasset, så det adskiller sig fra eksisterende regnskabssystemer ved f.eks. at have fokus på at lette revisorens arbejde og dagligdag og dermed inkludere andre funktionaliteter som f.eks. bankafstemning mv., er efter Skattestyrelsens opfattelse ikke et udtryk for ny teknologisk viden, men derimod en videreudvikling og tilpasning af brugerfunktionaliteter.
+Det er Skattestyrelsens vurdering, at de funktionaliteter Spørger beskriver nærmere er udtryk for tilpasninger, der laves for at have et produkt, der opfylder nogle af de krav bl.a. revisorer har, sådan at systemet f.eks. bliver mere brugervenligt og giver brugeren en bedre oplevelse eller lign.
+En sådan videreudvikling af kendt teknologi, herunder tilpasninger af systemet og brugerfunktionaliteter, kan ikke i sig selv føre til, at den anvendte teknologi kan anses for ny eller væsentligt forbedret.
+ Spørger mener, at regnskabssystemet er innovativt, da ændringen af advokatplatformen til et regnskabssystem ikke er en rutinemæssig tilpasning, men kræver omfattende ny viden og fundamentale ændringer og forbedringer.
+Skattestyrelsen henviser til, at et projekt skal opfylde de tre kriterier om nyhedsværdi, kreativitet og usikkerhedsmoment.
+Og at der vedr. softwareudvikling skal være et videnskabeligt eller teknologisk fremskridt.
+Skattestyrelsen mener derfor ikke, at tekniske problemstillinger, der allerede er løst ved tidligere udviklingsprojekter, er omfattet, ligesom udvikling af software under anvendelse af kendte metoder og eksisterende softwareværkstøjer ikke er omfattet af ligningsloven § 8 B.
+Dette synspunkt støttes bl.a. i SKM2022. 117. LSR, hvor Landsskatteretten bl.a. udtaler, at forsøg- og forskningsudgifter afholdt som led i almindelig løbende produktudvikling og produkttilpasning må anses som almindelige driftsomkostninger, hvorfor de ikke omfattes af ligningslovens § 8 B.
+Samtidig mener Skattestyrelsen ikke, at tilføjelse af brugerfunktionaliteter til eksisterende softwareværktøjer samt tilpasning af software til en specifik anvendelse, hvor nyhedsværdien ikke opfyldes, er omfattet af ligningslovens § 8 B.
+ Det er derfor Skattestyrelsens opfattelse, at regnskabssystemet, der bygger på eksisterende software, er en brugertilpasning af en platform, som indeholder tilpassede funktionaliteter, og at det efter en konkret vurdering, ikke er tilstrækkeligt dokumenteret eller sandsynliggjort, at den indeholder tilstrækkelig fremskridt i forhold til allerede kendt teknik på udviklingstidspunktet.
+Indstilling Skattestyrelsen indstiller, at spørgsmål 2 besvares med "Nej" Spørgsmål 3 Det ønskes bekræftet, at Spørger kan fratrække omkostninger til udvikling af foreningssystemet som udviklingsomkostninger omfattet af ligningslovens § 8 B, stk. 1.
+Begrundelse Skattestyrelsen henviser til redegørelsen for lovregel og praksis under spørgsmål 1.
+Spørger oplyser, at udviklingen af foreningssystemet strømliner og simplificerer foreningernes arbejdsprocesser.
+Der kan bl.a. nemt opkræves betaling fra medlemmerne via betalingslink og ske automatisk registrering af betalingerne i systemet.
+Spørger oplyser, at eksisterende foreningssystemer er meget tunge og har langt flere komplicerede funktionaliteter, end foreningerne har brug for.
+Derimod fokuserer Spørgers foreningssystem på at hjælpe foreningerne med nemt og effektivt at opkræve betaling og kommunikere med medlemmerne samt administrere og beskytte medlemsdata.
+Systemet er fortsat under udvikling og testes af foreninger i forhold til yderligere tilpasninger.
+Samtidig beskriver Spørger detaljeret hvilke funktionaliteter foreningssystemet har.
+Det er Skattestyrelsens opfattelse, at de afholdte omkostninger umiddelbart findes at have været afholdt i tilknytning til selskabets erhverv med at udvikling af software.
+Udgifterne er bl.a. anvendt til betaling af løn til udvikler og er således, i overensstemmelse med lovens forarbejder, som udgangspunkt efter deres art omfattet af ligningslovens § 8 B, stk. 1.
+ Det er Skattestyrelsens opfattelse, at udviklingen af foreningssystemet er sammenligneligt med udvikling af handelsplatformen for vine i SKM2021. 510. LSR samt udvikling af løsninger vedrørende digital diktering og talegenkendelse i SKM2022. 117. LSR.
+ Spørger skal dokumentere eller sandsynliggøre, at de udviklede platforme indeholder tilstrækkelig ny viden eller teknologiske fremskridt i forhold til allerede kendt teknologi på udviklingstidspunktet.
+På baggrund af det fremførte fra Spørger om foreningssystemet er det Skattestyrelsens opfattelse, at der er tale om et system, der anvender allerede kendte metoder og eksisterende softwareværktøjer og således, at der er tale om udvikling af et system på allerede kendt teknologi, som har været alment kendt og anvendt inden udviklingen.
+Dette underbygges også af, at Spørger oplyser, at en del af koden fra advokatplatformen er blevet genbrugt og tilpasset til bl.a. dette foreningssystem.
+Skattestyrelsen bemærker, at der ikke blot skal henses til andre foreningssystemer, men på den teknologiske viden generelt på tidspunktet for udvikling af Spørgers foreningssystem.
+At systemet er tilpasset, så det adskiller sig fra eksisterende foreningssystemer ved f.eks. at have fokus på at lette foreningernes processer og arbejdsgange og dermed inkludere andre eller færre funktionaliteter mv., er efter Skattestyrelsens opfattelse ikke et udtryk for ny teknologisk viden, men derimod en videreudvikling og tilpasning af brugerfunktionaliteter.
+Det er Skattestyrelsens vurdering, at de funktionaliteter Spørger beskriver nærmere, er udtryk for tilpasninger, der laves for at have et produkt, der opfylder nogle af de krav foreninger har, sådan at systemet bliver f.eks. mere brugervenligt, giver brugeren en bedre oplevelse eller lign.
+En sådan videreudvikling af kendt teknologi, herunder tilpasninger af systemet og brugerfunktionaliteter, kan ikke i sig selv føre til, at den anvendte teknologi kan anses for ny eller væsentligt forbedret.
+ Spørger mener, at foreningssystemet er innovativt, da ændringen af advokatplatformen til et foreningssystem ikke er en rutinemæssig tilpasning, men kræver omfattende ny viden og fundamentale ændringer og forbedringer.
+Skattestyrelsen henviser til, at et projekt skal opfylde de tre kriterier om nyhedsværdi, kreativitet og usikkerhedsmoment.
+Og at der vedr. softwareudvikling skal være et videnskabeligt eller teknologisk fremskridt.
+Skattestyrelsen mener derfor ikke, at tekniske problemstillinger, der allerede er løst ved tidligere udviklingsprojekter, er omfattet, ligesom udvikling af software under anvendelse af kendte metoder og eksisterende softwareværkstøjer ikke er omfattet af ligningslovens § 8 B.
+Dette synspunkt støttes bl.a. i SKM2022. 117. LSR, hvor Landsskatteretten bl.a. udtaler, at forsøg- og forskningsudgifter afholdt som led i almindelig løbende produktudvikling og produkttilpasning må anses som almindelige driftsomkostninger, hvorfor de ikke omfattes af ligningslovens § 8 B.
+Samtidig mener Skattestyrelsen ikke, at tilføjelse af brugerfunktionaliteter til eksisterende softwareværktøjer samt tilpasning af software til en specifik anvendelse, hvor nyhedsværdien ikke opfyldes, er omfattet af ligningslovens § 8 B.
+ Det er derfor Skattestyrelsens opfattelse, at foreningssystemet, der bygger på eksisterende software, er en brugertilpasning af en platform, som indeholder tilpassede funktionaliteter, og at det efter en konkret vurdering, ikke er tilstrækkeligt dokumenteret eller sandsynliggjort, at den indeholder tilstrækkelig fremskridt i forhold til allerede kendt teknik på udviklingstidspunktet.
+Indstilling Skattestyrelsen indstiller, at spørgsmål 3 besvares med "Nej".
+Spørgsmål 4 Det ønskes bekræftet, at Spørger kan fratrække omkostninger til udvikling af signeringsplatformen som udviklingsomkostninger omfattet af ligningslovens § 8 B, stk. 1.
+Begrundelse Skattestyrelsen henviser til redegørelsen for lovregel og praksis under spørgsmål 1.
+Spørger er i gang med at udvikle et system til digital signering, som skal effektivisere signeringsprocessen ved at kombinere mange former for signaturmuligheder i samme system.
+Systemet understøtter på nuværende tidspunkt NemID og tegnet underskrift.
+Spørger ønsker at udvide systemet, så det indeholder både alternative nordiske digitale signaturer samt udenlandske signaturformer.
+Og også samtidig at integrere systemet med advokat-, regnskabs- og foreningssystemet, så de hurtigt og effektivt kan sende dokumenter og regnskaber til underskrift.
+Samtidig beskriver Spørger detaljeret hvilke funktionaliteter signeringssystemet har.
+Det er Skattestyrelsens opfattelse, at de afholdte omkostninger umiddelbart findes at have været afholdt i tilknytning til selskabets erhverv med at udvikling af software.
+Udgifterne er bl.a. anvendt til betaling af løn til udvikler og er således, i overensstemmelse med lovens forarbejder, som udgangspunkt efter deres art omfattet af ligningslovens § 8 B, stk. 1.
+ Det er Skattestyrelsens opfattelse, at udviklingen af signeringssystemet er sammenligneligt med udvikling af handelsplatformen for vine i SKM2021. 510. LSR samt udvikling af løsninger vedrørende digital diktering og talegenkendelse i SKM2022. 117. LSR.
+ Spørger skal dokumentere eller sandsynliggøre, at de udviklede platforme indeholder tilstrækkelig ny viden eller teknologiske fremskridt i forhold til allerede kendt teknologi på udviklingstidspunktet.
+På baggrund af det fremførte fra Spørger om signeringssystemet er det Skattestyrelsens opfattelse, at der er tale om et system, der anvender allerede kendte metoder og eksisterende softwareværktøjer og således, at der er tale om udvikling af et system på allerede kendt teknologi, som har været alment kendt og anvendt inden udviklingen.
+Dette underbygges også af, at Spørger oplyser, at en del af koden fra advokatplatformen er blevet genbrugt og tilpasset til bl.a. dette signeringssystem.
+Skattestyrelsen bemærker, at der ikke blot skal henses til andre signeringssystemer, men på den teknologiske viden generelt på tidspunktet for udvikling af Spørgers foreningssystem.
+At systemet er tilpasset, så det adskiller sig fra eksisterende foreningssystemer ved f.eks. at understøtte nordiske og udenlandske signaturer mv., er efter Skattestyrelsens opfattelse ikke et udtryk for ny teknologisk viden, men derimod en videreudvikling og tilpasning af brugerfunktionaliteter.
+Det er Skattestyrelsens vurdering, at de funktionaliteter Spørger beskriver nærmere, er udtryk for tilpasninger, der laves for at have et produkt, der opfylder nogle af de krav brugerne har, sådan at systemet bliver f.eks. mere brugervenligt, giver brugeren en bedre oplevelse eller lign.
+En sådan videreudvikling af kendt teknologi, herunder tilpasninger af systemet og brugerfunktionaliteter, kan ikke i sig selv føre til, at den anvendte teknologi kan anses for ny eller væsentligt forbedret.
+ Spørger mener, at signeringssystemet er innovativt, da ændringen af advokatplatformen til et signeringssystem ikke er en rutinemæssig tilpasning, men kræver omfattende ny viden og fundamentale ændringer og forbedringer.
+Skattestyrelsen henviser til, at et projekt skal opfylde de tre kriterier om nyhedsværdi, kreativitet og usikkerhedsmoment.
+Og at der vedr. softwareudvikling skal være et videnskabeligt eller teknologisk fremskridt.
+Skattestyrelsen mener derfor ikke, at tekniske problemstillinger, der allerede er løst ved tidligere udviklingsprojekter, er omfattet, ligesom udvikling af software under anvendelse af kendte metoder og eksisterende softwareværkstøjer ikke er omfattet af ligningslovens § 8 B.
+Dette synspunkt støttes bl.a. i SKM2022. 117. LSR, hvor Landsskatteretten bl.a. udtaler, at forsøg- og forskningsudgifter afholdt som led i almindelig løbende produktudvikling og produkttilpasning må anses som almindelige driftsomkostninger, hvorfor de ikke omfattes af ligningslovens § 8 B.
+Samtidig mener Skattestyrelsen ikke, at tilføjelse af brugerfunktionaliteter til eksisterende softwareværktøjer samt tilpasning af software til en specifik anvendelse, hvor nyhedsværdien ikke opfyldes, er omfattet af ligningslovens § 8 B.
+ Det er derfor Skattestyrelsens opfattelse, at signeringssystemet, der bygger på eksisterende software, er en brugertilpasning af en platform, som indeholder tilpassede funktionaliteter, og at det efter en konkret vurdering, ikke er tilstrækkeligt dokumenteret eller sandsynliggjort, at den indeholder tilstrækkelig fremskridt i forhold til allerede kendt teknik på udviklingstidspunktet.
+Indstilling Skattestyrelsen indstiller, at spørgsmål 4 besvares med "Nej".
+Skatterådets afgørelse og begrundelse Skatterådet tiltræder Skattestyrelsens indstilling og begrundelse.
+Lovgrundlag, forarbejder og praksis Spørgsmål 1 Lovgrundlag Ligningslovens § 8 B, stk. 1 Ved opgørelsen af den skattepligtige indkomst kan udgifter, som afholdes til forsøgs- og forskningsvirksomhed i tilknytning til den skattepligtiges erhverv, bortset fra udgifter til efterforskning efter råstoffer, jf. stk. 2, efter den skattepligtiges valg enten fradrages fuldt ud i det indkomstår, hvori de er afholdt, eller afskrives med lige store årlige beløb over dette og de følgende 4 indkomstår.
+Det samme gælder udgifter til grundforskning, der afholdes af en igangværende virksomhed.
+Hvis udgifter som nævnt i 1. pkt. er afholdt, før den skattepligtige påbegyndte erhvervet, kan udgifterne først fradrages i det indkomstår, hvori erhvervet er påbegyndt, eller afskrives som anført fra og med dette indkomstår, medmindre der er tale om et aktie- eller anpartsselskab.
+Told- og skatteforvaltningen kan dog tillade, at udgifterne fradrages eller afskrives som anført før påbegyndelsen af erhvervet.
+() Afskrivningslovens § 6, stk. 1, nr. 3 Den skattepligtige kan i stedet for at afskrive efter § 5 vælge at fradrage (straksafskrive) hele anskaffelsessummen for nedennævnte driftsmidler m.v. i den skattepligtige indkomst for det indkomstår, hvori anskaffelsen finder sted, jf. dog stk. 3:
+() 3) Driftsmidler og skibe til forsøgs- og forskningsvirksomhed bortset fra driftsmidler og skibe, der anvendes til efterforskning efter råstoffer.  Fradrag af anskaffelsessummen som nævnt i 1. pkt. kan for indkomstårene 2018 og 2019 foretages med et beløb svarende til 101,5 pct. af anskaffelsessummen, for indkomståret 2020 med 103 pct., for indkomstårene 2021 og 2022 med 105 pct., for indkomstårene 2023-2025 med 108 pct. og fra og med indkomståret 2026 med 110 pct. af anskaffelsessummen.
+For indkomstårene 2020-2022 kan der ud over fradrag efter 2. pkt. foretages fradrag på 27 pct. for indkomståret 2020 og 25 pct. for indkomstårene 2021 og 2022 af anskaffelsessummen.  Fradrag efter 3. pkt. og fradrag eller afskrivning efter ligningslovens § 8 B, stk. 4, 2. pkt., kan dog højst foretages for samlede udgifter på 845 mio. kr. i indkomståret 2020 og 910 mio. kr. i indkomstårene 2021 og 2022. Begrænsningen efter 4. pkt. gælder samlet for sambeskattede selskaber i samme koncern, idet den samlede begrænsning fordeles forholdsmæssigt mellem de sambeskattede selskabers udgifter omfattet af 4. pkt.
+() Forarbejder L95 1972-1973: Forslag til Lov om ændring af ligningsloven () Fradragsretten omfatter som nævnt kun udgifter til forsøgs- eller forskningsvirksomhed, som afholdes i forbindelse med den skattepligtiges erhverv.
+Forsøgene eller forskningen skal således knytte sig til en erhvervsvirksomhed, som den skattepligtige enten allerede har i gang på det tidspunkt, udgifterne afholdes, eller har planer om senere at starte.
+Fradragsretten vil i første række omfatte det udviklingsarbejde, som er knyttet til erhvervsvirksomheden.
+Herved forstås anvendelsen af videnskabelig eller teknisk viden til at frembringe nye eller væsentligt forbedrede materialer, mekanismer og produkter, processer, systemer eller tjenesteydelser.
+() De mest almindelige udgifter, som falder ind under § 8 B, stk. 1, vil formentlig være lønudgifter, udgifter til råstoffer og udgifter til leje af lokaler, maskiner, inventar og lignende driftsmidler.
+Også betaling for forsøgs- eller forskningsvirksomhed, udført hos andre, vil falde ind under disse bestemmelser.
+() Praksis SKM2016. 199. SR Skatterådet bekræftede, at spørger kunne anvende skattekreditordningen efter ligningslovens § 8 X til at tilbagesøge skatteværdien af underskud vedrørende udviklingsomkostninger.
+SKM2020. 501. LSR Et selskab havde afholdt udgifter bl.a. til udvikling af en webbaseret kundeplatform, hvormed arbejdsgange automatiseredes.
+Landsskatteretten fandt, at der ikke var tale om sådan ny viden, at udgifterne kunne anses for omfattet af forsøgs- og forskningsudgifter i ligningslovens § 8 B.
+SKM2021. 367. LSR¬Et selskabs datterselskab havde afholdt udgifter til udvikling af en handelsplatform, der bl.a. kunne indhente oplysninger fra forskellige landes toldmyndigheder i forbindelse med kundernes handel på platformen.
+Landsretten fandt, at de af datterselskabet afholdte udgifter med rette var omfattet af og strakafskrevet efter ligningslovens § 8 B, stk. 1, og lagde ved vurderingen bl.a. vægt på, at udviklingen af de enkelte projekter ikke kunne anses for at være af rutinemæssig karakter, men at der var tale om ny- og videreudviklede systemer, processer og algoritmer.
+Landsretten fandt, at udgifterne afholdt til licenser m.m. var så nært knytte udviklingen, at de også måtte være omfattet af ligningslovens § 8 B, stk. 1. På baggrund heraf fandt Landsskatteretten, at selskabet var berettiget til udbetaling af skattekredit efter ligningslovens § 8 X.
+ Skatteministeriet har indbragt afgørelsen for domstolene.
+SKM2021. 510. LSR Et selskab, der beskæftigede sig med e-handel af vine, havde afholdt udgifter til udvikling af en handelsplatform, der bl.a. havde til formål at samle alle virksomhedens arbejdsområder og arbejdsprocesser i ét fælles system, samt give den enkelte kunde en optimal og tilpasset oplevelse.
+Landsskatteretten fandt, at de afholdte udgifter til udvikling af handelsplatformen ikke var omfattet af ligningslovens § 8 B, stk. 1. Retten lagde ved vurderingen bl.a. vægt på, at selskabets egen formodning om, at det var indehaver af den mest avancerede handelsplatform inden for handel med vin, ikke i sig selv kunne anses som tilstrækkelig dokumentation for ny viden og teknologi.
+Landsskatteretten bemærkede desuden, at der ikke blot skulle henses til andre handelsplatforme inden for vinhandel, men på den teknologiske viden generelt på det pågældende tidspunkt.
+Efter en samlet vurdering fandt Landsskatteretten derfor, at det ikke var dokumenteret eller i tilstrækkelig grad sandsynliggjort, at den af selskabet udviklede handelsplatform indeholdt tilstrækkelig ny viden eller teknologiske fremskridt i forhold til allerede kendt teknik på udviklingstidspunktet.
+SKM2022. 117. LSR Et datterselskab havde afholdt udgifter til udvikling af løsninger vedrørende digital diktering og talegenkendelse.
+Landsskatteretten fandt det ikke dokumenteret, at der var tale om, at udgifterne var afholdt til forsøgs- og forskningsaktiviteter som omfattet af ligningslovens § 8 B.
+Selskabet havde solgt lignende teknologi i hvert fald siden 2012, og udviklingsaktiviteterne måtte anses for videreudvikling af selskabets eksisterende produkter.
+SKM2022. 289. LSR Landsskatteretten fandt det godtgjort, at udgifterne til udvikling af markedsplatformen var omfattet af ligningslovens § 8 B, stk. 1. Landsskatteretten lagde vægt på en detaljeret beskrivelse af udviklingsprocessen samt på den interesse og økonomiske støtte, selskabet havde opnået fra eksterne institutioner med særligt henblik på erhvervsmæssig innovation og nyskabelse.
+Den juridiske vejledning afsnit C.
+C. 2.2.2.20 Udgifter til forsøg og forskning mv.
+Definitioner Forsøgs- og forskningsvirksomhed Det fremgår af forarbejderne til bestemmelsen, at fradragsretten efter LL § 8 B, stk. 1, i første række omfatter det udviklingsarbejde, som er knyttet til erhvervsvirksomheden.
+Herved forstås ifølge forarbejderne anvendelsen af videnskabelig eller teknisk viden til at frembringe nye eller væsentligt forbedrede materialer, mekanismer og produkter, processer, systemer eller tjenesteydelser.
+ Ifølge forarbejderne omfattes desuden den anvendte forskning, hvorved ifølge forarbejderne forstås originale undersøgelser med sigte på at opnå ny videnskabelig eller teknisk viden og forståelse, primært rettet mod praktiske mål og anvendelser.
+Fradragsretten omfatter derimod ifølge forarbejderne ikke den såkaldte grundforskning.
+Ved grundforskning forstås ifølge forarbejderne originale undersøgelser med sigte på at opnå ny videnskabelig viden og forståelse, uden at undersøgelserne primært er rettet imod praktiske mål og anvendelser.
+Der er senere ved lov nr. 835 af 18. december 1987 indført adgang til fradrag for udgifter afholdt til grundforskning.
+De i forarbejderne anvendte begreber og definitioner heraf, er, forudgående til indførelsen af LL § 8 B, introduceret ved den såkaldte Frascati manual.
+Det følger af et ministersvar, at Frascati manualen ikke kan inddrages som en egentlig retskilde, hvad angår fortolkningen af bestemmelsen, men det udelukker ikke, at manualen kan tjene som inspiration, så længe fortolkningen er forenelig med bemærkningerne fra lovforslaget, der ligger til grund for indførelsen af LL § 8 B.
+Ministersvaret kan læses her: L 30 , L 30 A , L 30 B : Svar på SAU L 30 - spm. 4.docx (ft.dk) Det er Skattestyrelsens opfattelse, at følgende projektkriterier skal være opfyldt, for at de til projektet knyttede udgifter kan opnå fradragsret efter LL § 8 B:
+ Projektet skal indeholde et nyhedselement.
+Nyhedselementet skal vurderes i forhold til det aktuelle vidensniveau inden for branchen (dvs. kredsen af virksomheder beskæftiget med samme aktivitet). Det skyldes, at aktiviteten skal resultere i viden/erkendelser, der ikke allerede er i anvendelse inden for den pågældende branche.
+Dermed er projekter, der opnår viden ved at kopiere, imitere eller ved "reverse engineering", eksempelvis ikke omfattet. Årsagen er, at opnåelse af ny viden er central for al forsøgs- og forskningsaktivitet.
+ Projektet skal indeholde et element af kreativitet.
+Baggrunden herfor er, at projektet skal basere sig på nye koncepter/idéer, der ligger ud over det eksisterende vidensniveau.
+Rutinemæssig aktivitet er derfor ikke omfattet, mens nye metoder til at udføre gængse opgaver, på basis af tilgængelig viden, efter en konkret vurdering kan være omfattet.
+ Projektet skal indeholde et usikkerhedsmoment.
+Det er en betingelse, at der i projektet er usikkerhed omkring omkostningerne, tidshorisonten, eller om det forventede resultat kan opnås.
+Udviklingsprojekter vil typisk skulle indeholde en fase, hvor der afprøves generisk viden i forhold til den påtænkte anvendelse.
+Et eksempel kunne være et projekt, hvor man påtænker at overføre kendt teknologi til anvendelse i en bil under udvikling.
+ Omkostninger, der påløber efter at de ovenfor nævnte generelle kriterier ikke længere er opfyldt, vil som hovedregel ikke kunne omfattes.
+Vedrørende softwareudvikling Vedrørende softwareudvikling gælder overordnet, at udviklingsopgaven må afhænge af et videnskabeligt eller teknologisk fremskridt.
+ Omfattet er ikke:
+ Udvikling af software af rutinepræget natur (rutinemæssig udvikling af software). Dette omfatter bl.a. fremskridt, som var alment kendt før påbegyndelsen af udviklingen.
+Tekniske problemstillinger, som allerede er løst ved tidligere udviklingsprojekter er desuden ikke omfattet.
+  Rutinemæssige softwareopdateringer.
+  Udviklingen af software under anvendelse af kendte metoder og eksisterende softwareværktøjer.
+  Tilføjelsen af brugerfunktionaliteter til eksisterende programmer.
+  Udviklingen af websites under anvendelse af eksisterende softwareværktøjer.
+  Tilpasningen af software til en specifik anvendelse, medmindre der under denne proces oparbejdes erfaring/viden, der væsentligt forbedrer det grundlæggende program, og hvorved kravet om nyhedsværdi opfyldes.
+Begrundelse for reglen Det er ved forarbejderne forudsat, at de af § 8 B, stk. 1, omfattede udgifter til forsøg og forskning ikke kan fradrages som driftsomkostninger.
+ Sædvanlige driftsomkostninger er derfor ikke omfattet af bestemmelsen.
+ Som undtagelse hertil nævner forarbejderne personer, der har det som erhverv at drive forskning, idet disse vil have driftsomkostningsfradrag efter SL § 6, stk. 1, litra a, for udgifterne.
+ Hensynet bag bestemmelsen i LL § 8 B er at etablere en fradragsret for udgifter, for hvilke der ikke allerede er er fradragsret efter SL § 6, og de pågældende erhvervsmæssige forskere vil derfor ikke kunne benytte LL § 8 B.
+ LL § 8 B råder bod på den manglende fradragsret samtidig med at bestemmelsen muliggør en fradragsret selv om udgifterne er afholdt af en virksomhed, der endnu ikke er i gang med at drive erhvervsmæssig virksomhed.
+ Den supplerer og udvider dermed de regler om driftsomkostningsfradrag, der gælder for bl.a. opfindere i SL § 6, stk. 1, litra a, og som kræver, at erhvervsvirksomheden er i gang.
+ Samlet set er reglen indført for at fremme forsøgs- og forskningsaktiviteter, herunder også grundforskning, og dermed Danmarks konkurrenceevne.
+Omfattet personkreds Bestemmelsen i LL § 8 B, stk. 1, omfatter såvel fysiske som juridiske personer.
+ De skattepligtige skal beskæftige sig med forsøgs- og forskningsvirksomhed, så de enten driver en erhvervsvirksomhed inden for det aktuelle felt allerede på det tidspunkt, forsøgs - og forskningsudgifterne afholdes, eller agter at starte en sådan erhvervsvirksomhed senere.
+LL § 8 B, stk. 1, 1. pkt. forudsætter, at forsøgs- og forskningsudgifter knytter sig til den skattepligtiges erhverv, for at kunne anses for fradragsberettigede udgifter.
+Se nedenfor om de omfattede udgifter.
+Derfor tilkommer fradragsretten kun den, der har skabt resultatet og derved har udnyttet det forskningsarbejde, der svarer til udviklingsudgifterne.
+Der skal derfor være identitet mellem den, der har skabt resultatet, fx en opfindelse, der er grundlag for erhvervsvirksomheden, og den, der har ret til fradrag.
+ I LSRM 1983.85 LSR var dette imidlertid ikke tilfældet, og betalingen for udviklingsomkostningerne blev derfor ikke anset for fradragsberettigede udgifter efter LL § 8 B, stk. 1.
+ I TfS 1996, 845 LSR kunne en vejformand, der havde afholdt forsøgs- og forskningsudgifter for at lave byggematerialer af halm, nægtet fradragsret, fordi han ikke selv udnyttede sin opfindelse; på den måde knyttede forsøgs- og forskningsudgifterne sig ikke til den skattepligtiges erhverv, og betingelsen i LL § 8 B, stk. 1, var derfor ikke opfyldt.
+ Med hensyn til grundforskningsudgifter gælder, at det kun er egentlige erhvervsvirksomheder med grundforskning, der kan få fradrag for deres udgifter efter LL § 8 B, stk. 1. Bestemmelsen forudsætter nemlig dette ved at bruge ordvalget "igangværende virksomhed". Se LL § 8 B, stk. 1, 2. pkt.
+ Det betyder, at såvel fysiske som juridiske personer, der ikke er kommet i gang med at drive erhvervsmæssig virksomhed med grundforskning, ikke får fradrag for de udgifter, de har afholdt, før den erhvervsmæssige virksomhed med grundforskning kom i gang.
+Omfattede udgifter Fradragsretten omfatter udgifter til forsøgs- og forskningsvirksomhed, som bliver afholdt i tilknytning til den skattepligtiges erhverv.
+Se LL § 8 B, stk. 1, 1. pkt.
+ Formuleringen i LL § 8 B, stk. 1, 1. pkt., at udgifterne skal være afholdt "i tilknytning til den skattepligtiges erhverv", betyder, at forsøgene og forskningen og dermed udgifterne, der er forbundet hermed, skal have et kommercielt formål - altså ikke et abstrakt videnskabeligt formål.
+ Forsøgene og forskningen skal derudover stå i naturlig forbindelse med den skattepligtiges erhverv.
+Forsøg og forskning skal knytte sig til den erhvervsvirksomhed, som den skattepligtige enten allerede har i gang på det tidspunkt, den pågældende afholder udgifterne, eller har planer om at starte senere.
+Se bemærkningerne til LL § 8 B, stk. 1, og cirkulære nr. 72 af 17.4.1996 til ligningsloven, afsnit 14.4.
+ Derfor omfatter fradraget såvel udgifter, der er afholdt, inden den skattepligtige startede sin erhvervsvirksomhed, som udgifter, der er afholdt efter, at erhvervsvirksomheden er blevet en realitet.

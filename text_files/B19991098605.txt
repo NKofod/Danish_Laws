@@ -1,0 +1,157 @@
+Måleteknisk direktiv  
+
+ (Vejledning)  
+
+ VOLUMEN-VÆSKEMÅLER/-ANLÆG  
+
+ Bestemmelse af maksimal volumengennemstrømning   
+
+ (kapacitet)  
+
+ MDIR 02.46-11, udg. 2 1. Formål Denne prøvningsmetode kan benyttes til at bestemme  
+
+ den største volumengennemstrømning (kapacitet), der kan  
+
+ opnås for volumenvæskemålere/-anlæg (herefter kaldet  
+
+ målere).
+2. Henvisning til måletekniske bestemmelser MDIR 32.46.1-01, udg. 2 af 01.05.1983, pkt. 1.3.
+MDIR 32.46-02, udg. 2 af 16.04.1997, pkt. 5 OIML R118.
+3. Forudsætninger Generelt vedrørende måleudstyr/metode  
+
+ henvises til MDIR 02.46-10.
+4. Prøvning Den maksimale volumengennemstrømning skal bestemmes  
+
+ mindst én gang for hver af målerens normale funktioner (fx for  
+
+ en stander ved alle oktantal, eller indstillinger for flow).
+ Ved typeprøvning består én  
+
+ bestemmelse af 3 uafhængige prøvninger og den resulterende  
+
+ volumengennemstrømning beregnes som middelværdien af disse.
+ Ved verifikation udføres 1 prøvning  
+
+ for hver bestemmelse.
+ Prøvningen kan gennemføres efter  
+
+ følgende metoder:
+FF (flyvende start / flyvende stop) anvendes ved  
+
+ typeprøvning.
+Endvidere ved verifikation i tilfælde, hvor det  
+
+ ikke er hensigtsmæssigt /er umuligt at standse flow midt i et  
+
+ udmålingsforløb samt i tilfælde, hvor opstart og/eller  
+
+ nedlukning af flow sker gradvist.
+ SS (stående start / stående stop) kan  
+
+ anvendes ved verifikation når flow kun styres af pumpen og  
+
+ åbningsgraden af pistol/udløbsventil.
+ FS (flyvende start / stående stop) kan  
+
+ anvendes ved verifikation når flow startes op i 2 trin, fx ved at en  
+
+ magnetventil åbner med en vis tidsforsinkelse efter at  
+
+ pistol/udløbsventil er aktiveret.
+Metode FF Målerens volumenindikator nulstilles.  
+
+ Udløbsslangen anbringes i en beholder med tilstrækkeligt stor  
+
+ volumen til at rumme den udmålte mængde1 eller  
+
+ føres retur til tank.
+ Start udmåling med maksimal udløbshastighed.  
+
+ Start stopur når indikatoren skifter ved en let genkendelig  
+
+ cifferposition (fx 3,00 l for en benzinstander) og noter visningen  
+
+ (V1). Stop stopur efter mindst 10 sekunder ved et skift i samme  
+
+ cifferposition på indikatoren (fx 15,00 l for en benzinstander) og  
+
+ noter visningen (V2) og tiden (t). Stop herefter  
+
+ udmålingen.
+Metode SS Målerens volumenindikator nulstilles.  
+
+ Udløbsslangen anbringes i en beholder med tilstrækkeligt stort  
+
+ volumen til at rumme den udmålte mængde1 eller  
+
+ føres retur til tank.
+Start udmåling med maksimal udløbshastighed  
+
+ samtidig med at stopur startes.
+Stop udmåling og stopur samtidigt efter  
+
+ mindst 10 sekunder og noter visningen (V2) og tiden (t).
+Metode FS Målerens volumenindikator nulstilles.  
+
+ Udløbsslangen anbringes i en beholder med tilstrækkeligt stort  
+
+ volumen til at rumme den udmålte mængde1)  eller føres retur til tank.
+ Start udmåling med maksimal udløbshastighed.  
+
+ Start stopur når indikatoren skifter ved en let genkendelig  
+
+ cifferposition (fx 3,00 l for en benzinstander) og noter visningen  
+
+ (V1). Stop udmåling og stopur samtidigt efter mindst 10  
+
+ sekunder og noter visningen (V2) og tiden (t).
+ Beregning (fælles for alle 3 metoder):
+ Maksimal volumengennemstrømning (kapacitet)  
+
+ beregnes som:
+Qmax-aktuel = (V2   V1) /  
+
+ t 5. Krav Typeprøvning: Ingen krav.
+ Den maksimale volumengennemstrømning, som er  
+
+ bestemt ved denne prøvning, danner grundlag for  
+
+ tilrettelæggelsen af øvrige prøvninger på  
+
+ måleren og dermed for den kapacitet, som måleren typegodkendes  
+
+ til.
+ Verifikation: For hver kombination af målere skal følgende  
+
+ krav overholdes:
+ Ved førstegangsverifikation skal hver  
+
+ kombination af målere kunne opnå den kapacitet, som er  
+
+ anført på verifikationsskiltet for det pågældende  
+
+ funktionsvalg  ±  
+
+  10%.
+ Såfremt der med samme målerkombination kan  
+
+ foretages flere funktionsvalg, gælder ovenstående kun for  
+
+ funktionen med den højeste maksimale volumenstrøm.
+ Ved reverifikation tillades:
+Øvre grænse: Den kapacitet som er  
+
+ anført på verifikationsskiltet for den på gældende  
+
+ funktion + 10%. Såfremt der med samme målerkombination kan foretages flere funktionsvalg gælder  
+
+ ovenstående kun for funktionen med den højeste maksimale  
+
+ volumenstrøm.
+Nedre grænse: Den kapacitet som er anført  
+
+ på verifikationsskiltet for den pågældende funktion - 50%.  
+
+ Såfremt der med samme målerkombination kan foretages flere  
+
+ funktionsvalg gælder ovenstående kun for funktionen med den laveste maksimale volumenstrøm.

@@ -1,0 +1,499 @@
+Måleteknisk direktiv  
+
+ Vejledning  
+
+ Volumen-væskemåler/-anlæg  
+
+ Bestemmelse af fejl for måler (måleorgan) eller  
+
+ måleanlæg  
+
+ MDIR 02.46-13 1. Formål Denne prøvningsmetode kan benyttes til at bestemme om  
+
+ måleren/måleanlægget overholder gældende  
+
+ tolerancer.
+2. Henvisning til måletekniske bestemmelser Justervæsenets instruks for justering af målemaskiner til  
+
+ udmåling af flydende varer af 1. april 1964.
+MDIR 32.46-02, udg. 2 af 16.04.1997, kap.
+II pkt.1 og 2. (For nationalt  
+
+ godkendte målere gælder denne henvisning ikke.) Endvidere kap.
+I,  
+
+ pkt.7.
+ OIML R118.
+3. Forudsætninger Generelt vedrørende måleudstyr/metode henvises til MDIR  
+
+ 02.46-10.
+4. Prøvning 4.1 Fremgangsmåde, generelt 4.1.1 Forudsætninger, referenceudstyr Prøvningen består i at sammenligne målerens indikation  
+
+ for et afgivet volumen (VI) med volumenet udmålt med et  
+
+ referenceudstyr for volumen (VN).
+Som referenceudstyr for volumen kan anvendes volumennormal  
+
+ eller rørnormal (prøvesløjfe, piston prover). Anvendelse  
+
+ af rørnormaler alene kræver endvidere anvendelse af  
+
+ pulsmåleudstyr samt evt. pulssimulator.
+Mastermåler kan anvendes  
+
+ når denne er koblet til en af de førnævnte normaler,  
+
+ således at mastermåleren kalibreres/kontrolleres med aktuel  
+
+ væske under aktuelle forhold på stedet for  
+
+ afprøvningen.
+ Stående start- og stopmetode anvendes ved brug af volumennormaler og  
+
+ mastermåler.
+ Flyvende start- og stopmetode anvendes ved brug af rørnormaler og  
+
+ mastermåler.
+Før prøvningen påbegyndes, skal målerens  
+
+ volumenindikator nulstilles.
+Nulstillingen kontrolleres.
+VI  og  
+
+ VN registreres/beregnes under prøvningsforløbet.  
+
+ Endvidere registreres væsketemperatur og omgivelsestemperatur (luft)  
+
+ som grundlag for fastlæggelse af måleusikkerhed.
+ Målerens visningsfejl F bestemmes ved:
+F = (VI  - VN ) / VN * 100%i 		(1) 4.1.2 Stående start/stop metode,  
+
+ volumennormaler/mastermåler Når  volumennormaler og/eller mastermåler  
+
+ anvendes ved stående start/stop, angives  
+
+ udmålingsmængdernes størrelse ved:
+l: 	lille mængde med samme nominelle volumen som "mindste  
+
+ verificerede volumen" mi:	mængder hvis størrelser ligger mellem l og  
+
+ s.
+Når der kun kan være tale om én størrelse (fx  
+
+ ved verifikation) benyttes betegnelsen m.
+ s: 	største mængde som skal være mindst 3 gange  
+
+ større end "mindste verificerede volumen.
+ Volumennormalernes  nominelle størrelser svarer til  
+
+ udmålingsmængderne. mi og s er endvidere  
+
+ afhængige af krav til udmålingstiden, se pkt. 4.2 og 4.3.
+Fremgangsmåden ved afprøvning er herefter: Måleren  
+
+ nulstilles.
+Pistol/udløbsventil åbnes til den ønskede  
+
+ volumenstrøm og væskestrømmen ledes til volumennormalen  
+
+ eller gennem mastermåleren indtil den pågældende  
+
+ udmålingsmængde er nået.
+Pistol/udløbsventil lukkes.  
+
+ De nødvendige registreringer foretages: VI , VN 4.1.3 Delt kalibrering, flyvende start/stop metode, rørnormal  
+
+ og/eller mastermåler.
+ Når måleren er forsynet med pulsgiver kan følgende  
+
+ fremgangsmåde anvendes, idet prøvningen udføres i 2 dele.  
+
+ Som referenceudstyr anvendes rørnormaler og/eller mastermåler.  
+
+ Fremgangsmåden er flyvende start/stop.
+4.1.3.1 Bestemmelse af målerens K-faktor, (1. del) Der opsamles pulser, N, fra måleren i et tidsrum, der svarer til at  
+
+ referenceudstyret gennemløbes af volumenet VRN .
+ Målerens K-faktor beregnes af:
+K = N/ VRN 			(3) N:	Antal målte pulser medens referenceudstyret fortrænger  
+
+ volumenet VRN VRN :	Det i mastermåleren gennemstrømmede  
+
+ volumen eller rørnormalensaktuelle volumen Der udføres for hvert prøvningspunkt et antal  
+
+ gentagelser m.
+Variationen af de enkelte K-faktorer skal opfylde  
+
+ følgende betingelse:
+b = 0,045 ved typeprøvning, m ³  
+
+  3 b = 0,075 ved verifikation, m ³  
+
+  2 t(m-1) er 0,975   fraktilen i students t-fordeling med m-1  
+
+ frihedsgrader.iii VRN  kan være væsentlig mindre end  
+
+ udmålingsmængderne angivet i pkt. 4.1.2 når der anvendes  
+
+ pulsinterpolationsteknik ved bestemmelsen af k.
+Når pulsinterpolation  
+
+ ikke anvendes skal der ved hver enkelt K-bestemmelse opsamles mindst 1600 pulser ved typeprøvning 1200 pulser ved verifikation samtidig skal kravet (4) være opfyldt.
+4.1.3.2 Bestemmelse af målerkonstant FM, (2. del) Her bestemmes sammenhørende værdier af  
+
+ registrerede pulser NP og display visning VI  . Pulser  
+
+ genereres enten af målernes pulsgiver ved væskegennemløb  
+
+ eller af en separat pulsgiver (pulssimulator). I sidstnævnte  
+
+ tilfælde skal frekvensen af de simulerede pulser svare til de aktuelle  
+
+ volumenstrømme som måleren afprøves ved.
+Pulser  
+
+ NP måles med en særlig pulstæller.
+ Målerkonstanten FM bestemmes ved:
+FM = VI / NP					(7) 4.1.3.3 Målerens samlede visningsfejl bestemmes ved at  
+
+ indsætte VN og VI i formlen (1) idet - Formel -					(8) VI:	den under 2. del aflæste display visning K:	den under 1. del bestemte gennemsnitlige k-faktor NP:	det under 2. del målte antal pulser 4.2 Typeprøvning Bestemmelse af målerens/måleanlæggets fejlkurve.
+Måleren prøves ved 6 forskellige volumenstrømme i  
+
+ området fra Qmax ved hvert af målerens mulige  
+
+ funktionsvalg.
+Der foretages 3 gentagelsesmålinger ved hver  
+
+ volumenstrøm og med samme udmålingsmængde.
+ Ved stående start/stop (volumennormaler/mastermåler)  
+
+ vælges udmålingsmængderne således, at  
+
+ udmålingstiden er mindst 1 min.
+ Udmålingsmængder vælges endvidere  
+
+ således, at de svarer til mindst 600 skalainddelinger på  
+
+ måleren.
+Ved flyvende start/stop  
+
+ (rørnormaler/mastermåler) skal kravene i pkt. 4.1.3 overholdes.  
+
+ Målerens K-faktor og målerkonstanten FM bestemmes ved  
+
+ samtlige nedenfor stående volumenstrømme.
+Antallet af pulser  
+
+ NP som registreres ved hver bestemmelse af målerkonstanten  
+
+ FM (se pkt. 4.1.3.2) skal svare til de  
+
+ udmålingsmængder, der anvendes ved stående start/stop, dog  
+
+ mindst 2000 pulser.
+Målerkonstanten bestemmes 3 gange ved hver  
+
+ volumenstrøm.
+De 6 volumenstrømme er: iv  v Q1 = 1,00 Qmax	0,90 Qmax £  
+
+  Q1 £  
+
+  1,00 Qmax Q2 = 0,63 Qmax	0,56 Qmax £  
+
+  Q1 £  
+
+  0,70 Qmax Q3 = 0,40 Qmax	0,36 Qmax £  
+
+  Q1 £  
+
+  0,44 Qmax Q4 = 0,25 Qmax	0,22 Qmax £  
+
+  Q1 £  
+
+  0,28 Qmax Q5 = 0,16 Qmax	0,14 Qmax £  
+
+  Q1 £  
+
+  0,18 Qmax Q6 = 0,10 Qmax = Qmin	0,10 Qmax
+£  
+
+  Q1 £  
+
+  0,11 Qmax For hver udmåling bestemmes visningsfejlen F.
+Lufttemperatur registreres ved første og sidste udmåling ved  
+
+ samme volumenstrøm.
+Hvis væsketemperaturen afviger mere end  
+
+ 5oC fra volumennormalens referencetemperatur udføres en  
+
+ beregningsmæssig korrektion af normalens størrelse.
+ Væsketemperatur og lufttemperatur må ikke afvige mere end  
+
+ 5oC fra hinanden.
+ Overensstemmelse mellem flere tælleværker kontrolleres.
+4.3 Prøvning ved verifikation Nedenstående procedure er generel; såfremt  
+
+ typegodkendelsesattesten angiver specielle forhold overholdes disse.
+4.3.1 Generelle forudsætninger Ved stående start/stop (volumennormaler/mastermåler)  
+
+ vælges udmålingsmængderne således at  
+
+ udmålingstiden overholder følgende:
+volumenstrøm udmålingstid fra 0 til og med 100 l/min mindst 30 sek større end 100 l/min mindst 60 sek Desuden skal det under pkt. 4.1.2 angivne overholdes.
+ Der afprøves ved mindst 2 forskellige  
+
+ volumenstrømme:
+QH:	står for højeste aktuelle  
+
+ volumenstrøm QL:	står for mindste volumenstrøm  
+
+ Qmin til 1,1 Qmin.
+Hvis Qmin ikke er  
+
+ specificeret i typegodkendelsesattesten (ved måleanlæg i  
+
+ trafiksektoren med systembetegnelse IV-xxx), anvendes 10-15 l/min ved  
+
+ brændstofstandere og 1 l/min ved målere til smøreolie.
+ QM:	står for en volumenstrøm mellem  
+
+ QH og QL: 2-3 gange QL, men mindre end ½  
+
+ QH.
+ Bemærk: Når 2 eller flere måleorganer hydraulisk er  
+
+ koblet parallelt i en fast gruppe behandles de prøvningsteknisk som  
+
+ ét måleorgan.
+4.3.2 Måleanlæg uden funktionsvalg Stående start/stop:
+ Ved måleanlæg med 1 funktion (1 måleorgan og  
+
+ én maksimal volumenstrøm) udføres følgende  
+
+ program ved stående start/stop:
+ Flyvende start/stop:
+Ved flyvende start/stop udføres prøve 3) ikke.  
+
+ K-faktoren bestemmes ved QH, QL og QM efter  
+
+ metoden beskrevet i pkt. 4.1.3.1. Målerkonstanten FM  
+
+ bestemmes ved metoden beskrevet i pkt. 4.1.3.2. Det samlede antal pulser  
+
+ NP, som registreres, skal svare til de  
+
+ udmålingsmængder der anvendes ved stående start/stop for  
+
+ den pågældende volumenstrøm.
+Der skal opsamles mindst 1200  
+
+ pulser.
+Fælles Lufttemperatur registreres før og efter hele  
+
+ afprøvningsforløbet.
+ Væsketemperatur registreres ved starten og ved slutningen af  
+
+ prøvningsforløbet.
+4.3.3 Måleanlæg med 2 eller flere maksimale  
+
+  volumenstrømme Et og samme måleorgan udmåler ved begge funktionsvalg:
+ Ved indstilling på lav maksimal volumenstrøm  
+
+ udføres prøvningen som beskrevet i pkt. 4.3.2. Ved indstilling  
+
+ på høj maksimal volumenstrøm udføres  
+
+ prøvningen i henhold til 4.3.2 med undtagelse af:
+Tankvognsmålere med 2 udleveringsslanger/steder udføres som  
+
+ ovenfor beskrevet, idet den slange, der har den mindste dimension, anvendes  
+
+ som ved "lav maksimal volumenstrøm"; samtidig  
+
+ tilføres lavt pumpetryk når dette kan vælges.
+Slange med  
+
+ stor dimension (samt højt pumpetryk) vælges som ved  
+
+ "høj maksimal volumenstrøm".
+ 2 måleorganer, hvor ét måleorgan udmåler i det  
+
+ ene funktionsvalg og begge måleorganer udmåler ved det andet  
+
+ funktionsvalg:
+Ved hvert funktionsvalg udføres prøvningen som beskrevet  
+
+ under pkt. 4.3.2 4.3.4 Andre måleanlæg med funktionsvalg.
+ Måleanlæg med flere måleorganer med funktionsvalg for  
+
+ udmåling med 1 måleorgan ad gangen eller med flere  
+
+ måleorganer udmålende samtidig (blendfunktion):
+ For hvert funktionsvalg udføres prøvningen som beskrevet  
+
+ i pkt. 4.3.2. Ved de funktionsvalg, hvor flere måleorganer  
+
+ udmåler samtidigt og hvor samtlige af disse måleorganer  
+
+ også afprøves enkeltvis, bortfalder følgende  
+
+ prøve:
+ Bemærk at volumenstrømmen ved QH i de forskellige  
+
+ funktionsvalg kan afvige fra hinanden.
+ Prøvningerne sammensættes i øvrigt generelt ud fra  
+
+ 4.3.2   4.3.5.
+ 4.3.5 Måleanlæg med satellit.
+ Hver satellit afprøves i hvert funktionsvalg med følgende  
+
+ supplerende prøver:
+ Satellit uden funktionsvalg:
+ Satellit med funktionsvalg:
+ Når satellitten er forsynet med egen volumenindikator registreres  
+
+ VI fra denne.
+4.3.6 Forgreninger Er der ved samme kombination af måleorganer og pumper flere  
+
+ identiske udleveringssteder med samme QH udføres den  
+
+ relevante prøvning i henhold til pkt. 4.3.2   4.3.5. For de  
+
+ øvrige udleveringssteder suppleres med:
+4.3.7 Måleanlæg med flere tælleværker Overensstemmelsen mellem flere tælleværker kontrolleres.
+5. Krav 5.1 Typeprøvning.
+5.1.1 National typegodkendelse For nationalt typegodkendelse af måleanlæg med  
+
+ systembetegnelse IV-xxx skal hver enkelt F generelt overholde en tolerance  
+
+ på ±  
+
+  0,5%. Eventuelle specielle forhold beskrives i typegodkendelsesattesten.
+5.1.2 EØF-typegodkendelse Måleanlæg:
+ For EØF-typegodkendelse af måleanlæg skal F  
+
+ overholde følgende tolerancer:
+udmålt mængde generel tolerance for måleanlægget mindste verificerede volumen fra 0,02 til 0,1 l ±  
+
+  2 ml ±  
+
+  4ml fra 0,1 til 0,2 l ±  
+
+  2 % ±  
+
+  4 % fra 0,2 til 0,4 l ±  
+
+  4 ml ±  
+
+  8 ml fra 0,4 til 1,0 l ±  
+
+  1 % ±  
+
+  2 % fra 1,0 til 2,0 l ±  
+
+ 10 ml ±  
+
+  20 ml mere end 2,0 l ±  
+
+  0,5 % ±  
+
+  1 % % angivelser er % af udmålt mængde Tolerancen er aldrig mindre end "tolerancen for mindste  
+
+ verificerede volumen" Ved måleanlæg for :
+ udgør tolerancerne det dobbelte af de i tabellen  
+
+ anførte.
+ Målere:
+Tolerancerne for målere alene udgør ½ af de ovenfor  
+
+ anførte tolerancer for måleanlæg, dog ikke under ±  
+
+  0,3%vi 5.1.3 Krav til nulstilling For diskontinuerte tælleværker gælder, at  
+
+ de skal vise entydigt 0 (nul) efter nulstilling.
+ For kontinuerte tælleværker skal en eventuel afvigelse fra 0  
+
+ (nul) overholde en tolerance på højst ½ af tolerancen for  
+
+ "mindste verificerede volumen".
+ En femtedel af det volumen, der svarer til afstanden mellem to becifrede  
+
+ delestreger må ikke overskrides.
+5.1.4 Krav ved flere tælleværker Målere med flere tælleværker skal for hvert  
+
+ tælleværk overholde de ovenfor anførte relevante krav til  
+
+ tolerancer.
+ Herudover skal følgende tolerancer overholdes, når  
+
+ tælleværkernes visninger sammenlignes 2 og 2:
+5.2 Verifikation Samme krav som ved typegodkendelse.
+Erhvervsfremme Styrelsen, den 29. marts  
+
+ 2000 Poul Claudi Johansen i   I stedet for visningsfejl  
+
+ F kan ved verifikation også anvendes målerens afvigelse (fejl)  
+
+ FA, som bestemmes  ved:  FA = (VN  -  
+
+ VI ) / VN  * 100%		(2) ii   Der kan endvidere i særlige  
+
+ tilfælde benyttes den fremgangsmåde, at volumennormalen fyldes ad  
+
+ flere omgange idet normalens nominelle volumen er et helt multiplum af det  
+
+ nominelle afgivne volumen.
+Målerne nulstilles efter hver levering af  
+
+ det nominelt afgivne volumen.
+Målerens indikering VI er i  
+
+ dette tilfælde summen af de enkelte indikeringer.
+ iii   Kravet er opfyldt hvis  
+
+ følgende overholdes:
+ Kmax og Kmin er henholdsvis største og  
+
+ mindste værdi af K ud af alle m gentagelser. er gennemsnit af alle m K-værdier.
+ a følger af nedenstående tabel:
+m typeprøvning Verifikation 2 - 0,006 3 0,012 0,020 4 0,015 0,026 5-20 0,018 0,030 21-30 0,015 0,025 31-50 0,013 0,022 iv   Hvis forholdet mellem  
+
+ Qmin og Qmax afviger fra 1:10 og/eller der  
+
+ ønskes test ved flere volumenstrømme beregnes disse ud fra  
+
+ følgende formel:
+hvor nF er nummer på en af de ønskede  
+
+ volumenstrømme og hvor NF er antallet af volumenstrømme.
+ v   Hvis måleren er forsynet med et  
+
+ mekanisk tælleværk med prisudregning indstilles prisudregningen  
+
+ således at maksimalt drejningsmoment (optræder generelt tæt  
+
+ ved maksimal enhedspris) indstilles ved Q2 og Q5. Ved Q3 og Q4 indstilles  
+
+ pristæller ved et gennemsnitligt drejningsmoment.
+ vi   Hvis  
+
+ måleusikkerheden ved afprøvning af måleren alene ikke kan  
+
+ holdes tilstrækkeligt langt nede til at denne regel kan anvendes, kan  
+
+ tolerancerne for måleanlægget forhøjes i  
+
+ typegodkendelsesattesten.
+ Der kan i typegodkendelsesattesten fastsættes reducerede eller  
+
+ forskudte grænser for tolerancerne for de måletekniske  
+
+ prøver, der gennemføres forud for  
+
+ førstegangsverifikationen når der ved prøven:
+ I sidstnævnte tilfælde kan der  
+
+ prøves ved volumen strømme der ligger uden for området  
+
+ mellem maksimal og minimal volumenstrøm.

@@ -1,0 +1,818 @@
+Tekniske bestemmelser for Aeronautiske  
+
+ COSPAS-SARSAT positionsbestemmende nødradiofyr (ELT)i  TB 96 082 December 1998 Gyldighedsområde Disse tekniske bestemmelser specificerer de tekniske krav  
+
+ og tilhørende prøvningsforskrifter som aeronautiske  
+
+ COSPAS-SARSAT positionsbestemmende nødradiofyr (ELT) skal overholde,  
+
+ for at kunne typegodkendes.
+ Hjemmelsgrundlaget for disse tekniske bestemmelser  
+
+ fremgår af § 25 i Forsknings-ministeriets lov nr. 394 af 10.  juni 1997  
+
+ om radiokommunikation og tildeling af frekvenser.
+Ikrafttræden Disse tekniske bestemmelser træder i kraft 1.  
+
+ december 1998.
+Typegodkendelse Fremgangsmåden for opnåelse af typegodkendelse  
+
+ fremgår af § 5 i Forskningsministeriets bekendtgørelse nr. 957  
+
+ af 12. december 1997.
+Tekniske krav og prøvningsforskrifter De tekniske krav med tilhørende  
+
+ prøvningsforskrifter, som radioanlægget skal opfylde,  
+
+ fremgår af bilag 1 til disse tekniske bestemmelser.
+ Rekvirering af love, bekendtgørelser, standarder  
+
+ m.v.
+ Tekniske bestemmelser samt relevante love og  
+
+ bekendtgørelser kan fås/købes ved henvendelse til  
+
+ Telestyrelsen, Holsteinsgade 63, 2100 København Ø, tlf:  
+
+ 35430333, fax: 35431434.
+ ETSI dokumenter ((I-)ETS er, EN er og TBR er) kan  
+
+ downloades fra ETSI s hjemmeside:  eller rekvireres hos Telestyrelsen.
+ ITU rekommandationer m.v. kan købes direkte hos  
+
+ ITU, Place des Nations, CH-1211 Genève 20, tlf.: +41 22 730 5111, fax:  
+
+ +41 22 730 5194 eller +41 22 733 7256 eller eventuelt gennem Telestyrelsen.
+ Radiorelaterede rekommandationer herunder, ERC Decisions,  
+
+ Radiocommunication Reports, Report Forms og Application Forms,  
+
+ Recommendations on Radiocommunications kan købes hos: ERO, European  
+
+ Radiocommunications Office, Midtermolen 1, 2100 København Ø,  
+
+ tlf: 35250300, fax: 35250330. For yderligere information henvises til ERO s  
+
+ hjemmeside på internettet:
+ ISO/CEN/CENELEC/IEC/DS standarder kan købes hos  
+
+ Dansk Standard, Kollegievej 6, 2920 Charlottenlund, tlf: 39966101, fax:  
+
+ 39966102.
+Telestyrelsen, den 1. december 1998 Bilag 1 Bilag 1 til TB 96 082 Applicable parts of EUROCAE:
+MINIMUM OPERATIONAL PERFORMANCE SPECIFICATION FOR AIRCRAFT EMERGENCY LOCATOR TRANSMITTERS (121.5/243 MHz and 406 MHz) ED-62 Mai 1990 1.2 TYPES OF ELT 1.2.1 Four basic types of ELT are described in this document.
+They  
+
+ are:
+ Automatic Fixed (ELT (AF)), Automatic Portable (ELT (AP)), Survival (ELT  
+
+ (S)) and Automatic Deployable (ELT (AD)).
+The use of the suffix "Automatic" is for editorial purpose and  
+
+ is not intended to preclude the design, manufacture or use of manually  
+
+ activated ELTs.
+The requirement for and approval of automatic or manual  
+
+ activation methods is the prerogative of individual approval authorities.
+In applying these minimum operational performance specifications to  
+
+ manually activated ELT equipments, all reference to automatic activation  
+
+ methods and crash sensors should be ignored.
+In all other respects, the  
+
+ specifications contained in this document shall apply to all ELTs, whether  
+
+ manually or automatically activated.
+1.2.1.1 Automatic Fixed (ELT (AF)) This type of ELT is intended to be permanently attached to the aircraft  
+
+ before and after a crash.
+1.2.1.2 Automatic Portable (ELT (AP)) This type of ELT is intended to be rigidly attached to the aircraft before  
+
+ a crash, but readily removable from the aircraft after a crash.
+It may also  
+
+ function as an ELT (AF) during the crash sequence.
+If the ELT does not  
+
+ include an integral antenna, the aircraft-mounted antenna may be disconnected  
+
+ and an auxiliary antenna (stored on the ELT case) connected in its place.
+The  
+
+ ELT can be tethered to a survivor or a life raft.
+1.2.1.3 Survival (ELT (S)) This type of ELT is intended to be removed from the aircraft, deployed and  
+
+ activated by survivors of a crash.
+It can be tethered to a life raft or a  
+
+ survivor.
+Activation of an ELT (S) is usually by manual means but automatic  
+
+ activation (eg: by water activation) may apply.
+1.2.1.4 Automatic Deployable (ELT (AD)) This type of ELT is intended to be rigidly attached to the aircraft before  
+
+ a crash and ejected and deployed a. manually (during the crash sequence), or b. automatically (after the crash sensor has determined that a crash has  
+
+ occurred).
+3 MINIMUM PERFORMANCE SPECIFICATIONS UNDER STANDARD TEST  
+
+ CONDITIONS 3.1 MINIMUM PERFORMANCE SPECIFICATION - 121.5/243 MHz ELT 3.1.1 Operating Frequencies 3.1.1.1 The operating frequencies shall initially be set at a. 	121,5 MHz±6 kHz, and b. 	243,0 MHz±12 kHz.
+3.1.1.2 The transmitted medium term frequency stability shall be defined  
+
+ by the mean slope of the frequency vs time over a 15 minute period and by the  
+
+ residual frequency deviation about the mean slope.
+The mean slope shall not  
+
+ exceed 0.2 parts/million/minute.
+The RMS frequency deviation about the mean  
+
+ slope shall not exceed 0.5 parts/million.
+3.1.2 Modulation Characteristics 3.1.2.1 The rf carriers shall be amplitude modulated.
+The modulation  
+
+ factor shall be at least 0.85 but shall not exceed 1.0. (see Figure  
+
+ 3-1).
+NOTE: The figure specified for modulation factor assumes a  
+
+ sinusoidal modulating signal.
+If the waveform of the modulating signal is  
+
+ other than sinusoidal, the modulation factor due to the fundamental component  
+
+ of the modulating signal shall be at least 0.85.
+ 3.1.2.2 The frequency of the modulating signal shall sweep DOWNWARDS over  
+
+ a range of not less than 700 Hz within the limits of 1 600 Hz to 300 Hz with  
+
+ a sweep repetition rate between 2 Hz and 4 Hz.
+ NOTE: If the 121.5/243.0 MHz ELT is part of a combined unit with  
+
+ a 406 MHz locator beacon, the frequency of the modulating signal may  
+
+ optionally sweep UPWARDS over the same range and within the same limits and  
+
+ repetition rate as specified in 3.1.2.2.
+ 3.1.2.3 The modulation signals applied to the carriers shall have a  
+
+ minimum duty cycle of 33% and a maximum duty cycle of 55%. (see Figure  
+
+ 3-2).
+3.1.3. Emission Characteristics 3.1.3.1 The type of emission shall be A3A, as defined in the ITU Radio  
+
+ Regulations, and shall have one of the following characteristics:
+ a. 	continuous carrier.
+ b. 	carrier keyed in such a manner that full power is applied to the  
+
+ antenna for one period, followed by reduced or zero power for a further  
+
+ period.
+ The ON/OFF cycle shall be optimised to allow the precise location of the  
+
+ beacon in all weather conditions and to ensure compatibility with all VHF  
+
+ homing equipment currently in service.
+ NOTE: It has been shown that an ON period of 0.75 seconds  
+
+ followed by an OFF period of 1.5 seconds gives satisfactory results.
+ 3.1.3.2 The ELT shall have clearly defined sideband components which are  
+
+ symmetric about the output signal spectrum and distinct from the carrier  
+
+ component at both the 121.5 MHz and 243.0 MHz frequencies.
+ The ELT spectrum at 121.5 MHz shall have at least 30% of its energy  
+
+ distribution within a bandwidth of plus and minus 30 Hz about a fixed  
+
+ reference frequency corresponding to the carrier component over the  
+
+ audio/sweep modulation cycle.
+ At 243 MHz 30% of the energy distribution shall fall within a bandwidth of  
+
+ fc ±60 Hz.
+ 3.1.3.3 To aid SAR system detection and homing capabilities, the  
+
+ transmission may also provide a period of unmodulated CW power for a duration  
+
+ of 2.0 (±0.25) seconds, repeated every 8.0 (±0.8) seconds.
+ 3.1.3.4 Voice modulation, (A3E), is permitted provided that its use shall  
+
+ not prejudice the primary function of the beacon and power shall not be  
+
+ consumed at a greater rate than in the beacon mode.
+ Such equipment shall also comply with the following requirements:
+3.1.3.5 An identification signal is permitted using the International  
+
+ Morse Code.
+If this option is incorporated, 1 dot = 115 ±10) ms 1 dash = 3 dots space between morse digits = 1 dot space between coded letters = 1 dash 3.1.4 Antenna Radiation Characteristics The antenna shall radiate on 121.5 MHz and 243.0 MHz.
+Radiation shall be  
+
+ vertically polarized and omni-directional in the horizontal plane.
+3.1.5 Equivalent Isotropic Radiated Power The Equivalent Isotropic Radiated Power (EIRP) shall not be less than -10  
+
+ dBW (100 mW) or greater than -4 dBW (400 mW), on each frequency.
+NOTE: Where it is required to establish Equivalent Isotropic  
+
+ Radiated Power it may be taken as the output power at the transmitter  
+
+ terminal, minus feeder and mismatch losses, plus average aerial gain relative  
+
+ to an isotropic radiator in the horizontal direction, or EIRP (dBW) = PT - L + GA, where PT = transmitter output power, (dBW) L  = feeder and mismatch losses, (dB) GA = aerial gain, (dB) 3.1.7  Radio Frequency Intermodulation (Does not apply to ELT (S)) When the ELT unit is in the ARMED mode, the application of any two  
+
+ frequencies in the 54 MHz - 806 MHz band to the ELT shall not result in  
+
+ reradiation of at third frequency in the 108 MHz - 137 MHz band which  
+
+  exceeds the levels specified in paragraphs 3.1.7.1 and 3.1.7.2 below, under  
+
+ the associated specified conditions.
+3.1.7.1 Direct Coupling With the ELT connected in the configuration shown in Figure 3-3,  
+
+ and the levels from each generator into the ELT rf output terminal equal to  
+
+ the levels indicated in Table 5-1 of paragraph 5.2.7, the third  
+
+ frequency shall not exceed -83 dBm.
+3.1.7.2 Radiation Coupling With the ELT mounted in a typical aircraft configuration and the test  
+
+ set-up as shown in Figure 3-4, the application of vertically polarised  
+
+ electromagnetic fields, which have an electric field intensity equal to the  
+
+ levels, specified in Table 5-2 of paragraph 5.2.7, to the external  
+
+ surface of the aircraft test configuration shall not result in a third field  
+
+ with an intensity greater than 7 microvolts/meter in the 108 MHz - 37 MHz  
+
+ band, at a suitable receiving antenna placed 2 metres from the ELT  
+
+ antenna.
+3.1.9 Transmitter Turn-on At the maximum and minimum operating temperatures, the EIRP level at  
+
+ each carrier frequency shall not be less than 20 dBm (100 mW), within 5  
+
+ minutes following manual or automatic activation.
+3.2 406 MHz ELT 3.2.1 Operating Frequency 3.2.1.1 The operating frequency shall initially be set at 406.025 MHz  ±2  
+
+ kHz.
+ 3.2.1.2 The transmitted frequency shall not vary more than ±5 kHz in five  
+
+ years including the initial offset.
+ 3.2.1.3 It shall not vary more than 0.002 parts/million/100  
+
+ milliseconds.
+3.2.1.4 The transmitted medium-term frequency stability shall be defined  
+
+ by the mean slope of the frequency vs time over a 15 minute period and by the  
+
+ residual frequency deviation about the mean slope.
+The mean slope shall not  
+
+ exceed 0.001 parts/million/minute.
+The RMS frequency deviation about the mean  
+
+ slope shall not exceed 0.003 parts per million.
+ 3.2.1.5 For ELTs manufactured prior to 1 January 1991, relaxation of the  
+
+ requirements regarding medium-term stability is acceptable as follows:
+3.2.2 Digital Message Generator The digital message generator shall key the modulator and transmitter so  
+
+ that the message defined in C/S T.001* is transmitted.
+* 3.2.2.1 Repetition Rate 3.2.2.2 Total Transmission Time The total transmission time shall be 440 ms ±1%, for the standard short  
+
+ message, and 520 ms ±1% for the optional long message.
+3.2.2.3 CW Preamble The initial 160 ms ±1% of the transmitted signal shall consist of an  
+
+ unmodulated carrier at the transmitter frequency measured at the 90% power  
+
+ point.
+3.2.2.4 Digital Message The final 280 ms ±1% of the transmitted signal shall contain a 112 bit  
+
+ message at a bit rate of 400 bps ±1%.
+ The final 360 ms ±1% of the transmitted signal shall contain a 144 bit  
+
+ message at a bit rate of 400 bps ±1%.
+3.2.2.5 Bit Synchronisation A bit synchronisation pattern consisting of "1's" shall  
+
+ occupy the first 15 bit positions.
+3.2.2.6 Frame Synchronisation A frame (or message) synchronisation pattern consisting of 9 bits shall  
+
+ occupy bit positions 16 through 24. The frame synchronisation pattern shall  
+
+ be 000 101 111. During Self-Test operation, the frame synchronisation pattern  
+
+ shall be 011 010 000.
+3.2.2.7 Format Flag Bit 25 is a flag bit used to indicate the length of the message to follow.  
+
+ Value "0" indicates a short message; value "1" indicates a  
+
+ long message.
+3.2.2.8 Message Structure The structure of the remaining 87 bits (short message) and 119 bits (long  
+
+ message) is defined in C/S T.001.
+3.2.3 Modulation 3.2.3.1 The carrier shall be phase modulated 1.1 (±0.1) radians, peak,  
+
+ referenced to an unmodulated carrier.
+Modulation sense shall be as shown in  
+
+Figure 3-5.
+3.2.3.2 Rise and fall times of the modulation waveform shall be greater  
+
+ than 50 microseconds and less than 250 microseconds.
+Rise and fall times are  
+
+ defined as the time duration between the 0.9 points of the peak to peak phase  
+
+ transition on the waveform of Figure 3-6.
+3.2.3.3 Modulation symmetry (see Figure 3-7) shall be such that x  
+
+ T1 - T2x #  
+
+  0.05 (max) T1 + T2 3.2.4 Data Encoding The data shall be encoded biphase L. (see Figure 3-5).
+3.2.5 Equivalent Isotropic Radiated Power, (EIRP) 3.2.5.1 The EIRP of the transmitted pulse shall be 6 dBW ±4 dB, where EIRP	=	PT - L + GA  and PT	=	Transmitter output (dBW) L	=	feeder and mismatch losses (dB) GA	=	antenna gain, (dB) Note; This specification meets the signal requirements of the  
+
+ COSPAS/SARSAT Specification C/S T.001.
+ C/S T.001 specifies transmitter output power into an antenna of defined  
+
+ characteristics.
+This Minimum Operational Performance Specification  specifies performance  
+
+ in terms of EIRP which is performance related rather than design oriented.  
+
+ The manufacturer is thus allowed a greater degree of flexibility in meeting  
+
+ the performance requirements by means best suited to individual design.
+Note,  
+
+ however, that the above EIRP requirement is a more demanding performance  
+
+ specification than that defined in C/S T.001 and equipment designed to C/S  
+
+ T.001 may not satisfy the requirements of this Minimum Operational  
+
+ Performance Specification.
+ 3.2.5.2  The transmitter output power rise time shall be less than 5 ms,  
+
+ measured between the 10% and 90% power points.
+3.2.6 Antenna Radiation Characteristics 3.2.6.1 The stated EIRP shall obtain over 90% of the following range.
+Azimuth: 360o 	Elevation: 5o to 60o 3.2.6.2 Polarisation shall be circular (RHCP) or linear.
+3.2.7 Abnormal Transmitter Loads The modulator and 406 MHz transmitter shall meet all the requirements of  
+
+ this MOPS, except for those in paragraph 3.2.5 (EIRP), when the transmitter  
+
+ is terminated with a load mismatched from the design impedance by a factor of  
+
+ 3, and shall not be damaged by any load from open circuit to short  
+
+ circuit.
+3.2.8 Maximum Continuous Transmission The 406 MHz ELT shall be designed to limit any continuous transmission  
+
+ caused by equipment failure to a maximum of 45 seconds.
+3.2.9 Spurious Emissions and Carrier Harmonics 3.2.9.1 The limits of spurious emissions measured against the level of  
+
+ the unmodulated carrier shall be as shown in Figure 3-8.
+ 3.2.9.2 Carrier harmonics shall be at least 30 dB below the level of the  
+
+ unmodulated carrier.
+3.2.10 Radio Frequency Susceptibility When the ELT unit is in the ARMED mode, it shall not be activated or  
+
+ damaged when a signal in the bands 88 MHz to 137 MHz and 420 MHz to 460 MHz  
+
+ (excluding the band 121 MHz to 122 MHz) at a level of +23 dBm is directly  
+
+ coupled to the ELT antenna terminal.
+4.4 GROUP A TESTS 4.4.1 Temperature (Activation) and Altitude The following test procedures for temperature and altitude shall be  
+
+ used in lieu of those specified in ED-14C/DO-160C, Section 4.0.
+4.4.1.1 Low Temperature (Activation) 	(SPECIAL) a. 	The ELT shall be switched to ARMED, (or OFF in the case of an ELT  
+
+ (S)). The unit shall then be placed in the temperature test chamber and  
+
+ allowed to stabilise at -55o C.
+ b. 	The test chamber temperature shall then be increased to  
+
+ -40oC (Class 1 equipment), or -20oC (Class 2  
+
+ equipment), and the unit temperature allowed to stabilise.
+ c. 	The ELT shall then be removed from the test chamber and, within a  
+
+ period of two minutes, activated by one of the following methods.
+ (1)  If the unit is water-activated, immerse in water at  
+
+ 0oC until it activates.
+ (2)  If the unit is manually activated, activate the unit using the ON  
+
+ switch.
+(3)  If a crash acceleration activation sensor is used subject the unit to  
+
+ a single shock pulse of amplitude = 3 (±0.3) "g", and velocity  
+
+ change (delta V)* = 1.35 m s-1 (4.5 f s-1)  
+
+ ±10% (Velocity change shall be determined using a procedure similar to that  
+
+ outlined in Figure 4-1) * (4) If a frangible switch or other device is used for crash sensing, an  
+
+ appropriate test shall be devised to ensure that the activation mechanism  
+
+ operates correctly at the low temperature limit.
+ d. 	Fifteen minutes after activation, the ELT shall be tested for  
+
+ compliance with the requirements of the following paragraphs.
+121.5/243 MHz 	406 MHz Control and Monitor       	2.5  	2.5 Self-Test        	2.6.1  	2.6.1 Operating Frequency        	3.1.1.1   	3.2.1.1 EIRP        	3.1.5.	3.2.5 e. 	At the completion of the test, ensure that all mechanical devices  
+
+ operate satisfactorily.
+4.4.1.2  High Temperature (Activation)	(SPECIAL) (1) If the unit is a water-activated ELT, then immerse in water at  
+
+ +40oC until it activates.
+ (2) If the unit is a manually activated ELT, then activate the unit using  
+
+ the ON switch.
+(3) If a crash acceleration sensor is used, subject the unit to a single  
+
+ shock pulse of amplitude = 3 (±0.3) "g", and velocity change (delta  
+
+ V)* = 1.35 m s-1 (4.5 f s-1) ±10% * (Velocity change shall be determined using a procedure similar to that  
+
+ outlined in Figure 4-1) (4) If a frangible switch or other device is used for crash sensing, an  
+
+ appropriate test shall be devised to ensure that the activation mechanism  
+
+ operates correctly at the high temperature limit.
+ d. 	Fifteen minutes after activation, the ELT shall be tested for  
+
+ compliance with the requirements of the following paragraphs.
+121.5/243 MHz 406 MHz Control and Monitor       	2.5   	2.5 Self-Test        	2.6.1  	2.6.1 Operating Frequency        	3.1.1.1   	3.2.1.1 EIRP        	3.1.5.   	3.2.5 e. 	At the completion of the test, ensure that all mechanical devices  
+
+ operate satisfactorily.
+4.4.4 Vibration (ED-14C/DO-160C, Section 8.0) 4.4.4.1 After being subjected to this test, 121.5/243 MHz 406 MHz Control and Monitor        	2.5   	2.5 Self-Test        	2.6.1   	2.6.1 Operating Frequency        	3.1.1.1   	3.2.1.1 EIRP        	3.1.5.   	3.2.5 4.4.4.2 At the completion of this test, ensure that all mechanical devices  
+
+ operate satisfactorily.
+4.4.13 Emission of Radio Frequency Energy (ED-14C/DO-160C, Section  
+
+ 21.0) 4.4.13.1 121.5/243 MHz ELT Establish compliance with the requirements of the category to which  
+
+ the equipment is declared.
+4.4.13.2 406 MHz ELT Establish compliance with the requirements of paragraph 3.2.9 Spurious Emissions and Carrier Harmonics.
+4.6.1 Low Temperature (Operation)	(SPECIAL) 4.6.1.1 The ELT shall be switched to ARMED, (or OFF in the case of an ELT  
+
+ (S), placed in the temperature test chamber and allowed to soak at  
+
+ -550C for at least 3 hours.
+ 4.6.1.2 The test chamber temperature shall then be increased to  
+
+ -400C (Class 1 equipment), or -200C (Class 2  
+
+ equipment), and the unit allowed to stabilise.
+4.6.1.3 The ELT shall be manually activated.
+Removal from the chamber to  
+
+ enable activation, shall not be for a period greater than 2 minutes.
+ 4.6.1.4 The ELT shall be tested for compliance with the requirements  
+
+ specified below at the following periods:
+21.5/243 MHz  	406 MHz Control and Monitor        	2.5   	2.5 Self-Test        	2.6.1   	2.6.1 Operating Frequency        	3.1.1.1   	3.2.1.1 EIRP        	3.1.5.   	3.2.5 4.6.1.5 At the completion of this test, ensure that all mechanical devices  
+
+ operate satisfactorily.
+4.6.2 High Temperature (Operation)	(SPECIAL) 4.6.2.1 Fresh batteries may be installed before performing this test.
+ 4.6.2.2 The ELT shall be switched to ARMED, (or OFF in the case of an ELT  
+
+ (S)), placed in the temperature test chamber and allowed to soak at +85 for  
+
+ at least 3 hours.
+ 4.6.2.3 The test chamber temperature shall then be reduced to  
+
+ +550C, and allowed to stabilise.
+4.6.2.4 The ELT shall be manually activated.
+Removal from the chamber to  
+
+ enable activation shall not be for a period greater than 2 minutes.
+ 4.6.2.5 The ELT shall be tested for compliance with the requirements of  
+
+ the paragraphs specified below at the following periods.
+121.5/243 MHz 406 MHz Self-Test        	2.6.1   	2.6.1 Operating Frequency       	3.1.1.1   	3.2.1.1 EIRP        	3.1.5.   	3.2.5 4.6.2.6 At the completion of this tests, ensure that all mechanical  
+
+ devices operate satisfactorily.
+ELECTRICAL TEST PROCEDURES 5.1 GENERAL REQUIREMENTS 5.1.1 Shielded Room and Test Transmissions Unless otherwise specified, ELT testing must be conducted in a  
+
+ shielded room or metal enclosure.
+Bench and ground tests conducted outside of  
+
+ a shielded room should not be performed on 121.5 MHz or 243.0 MHz; off-set  
+
+ crystals MUST be used.
+Test transmissions on 406 MHz must have a frame  
+
+ synchronisation pattern of 011 010 000 to ensure that the signals are not  
+
+ processed by the COSPAS-SARSAT satellites.
+5.1.2 Power Input Voltage Unless otherwise specified, all tests shall be conducted with the ELT  
+
+ using its self-contained battery connected in the normal mode of operation.  
+
+ The voltage, of external power supplies, eg: to Control and Monitor  
+
+ system(s), shall be adjusted to the declared design voltage ±5% and shall be  
+
+ measured at the equipment input terminals.
+5.1.3 Adjustment of Equipment The circuits of the equipment under test shall be properly aligned and  
+
+ adjusted in accordance with the manufacturer s recommended practice prior to  
+
+ application of the specified tests.
+5.1.4 Test Instrument Precautions Precautions shall be taken while carrying out the tests to prevent the  
+
+ introduction of errors resulting from the improper connexion of test  
+
+ instruments to the equipment under test.
+5.1.5 Ambient Conditions Unless otherwise specified, all tests shall be conducted under conditions  
+
+ of ambient room temperature, pressure and humidity, as defined in  
+
+ ED-14C/DO-160C, paragraph 3.4.
+5.1.6 Connected Loads Unless otherwise specified, all tests shall be performed with the  
+
+ equipment connected to loads having the impedance values for which it is  
+
+ designed.
+5.1.7 Warm-up Period Unless otherwise specified, all tests shall be conducted after a warm-up  
+
+ period of not less than 5 minutes.
+5.1.8 Recording of Test Results When test results are being recorded for inclusion in the type test  
+
+ report, it is not sufficient to note merely that the requirement was met.  
+
+ Except where tests are obviously CO/NO-GO in character, (eg: determination of  
+
+ whether or not mechanical devices function correctly), the actual numerical  
+
+ values obtained for each of the parameters tested shall be recorded.
+5.1.9 Test Procedures 5.1.9.1 The following test procedures are considered to be a satisfactory  
+
+ means of determining required performance under standard and stressed  
+
+ environmental conditions.
+5.1.9.2 Although test procedures are specified, it is recognised that  
+
+ other methods may be preferred.
+Such other procedures may be used if the  
+
+ manufacturer can show that they provide at least equivalent information.
+The  
+
+ procedures described in this chapter  should be used as criteria in  
+
+ evaluation the acceptability of alternative procedures.
+5.2 DETAILED TEST PROCEDURES - 121.5/243.0 MHZ ELT 5.2.1 Equipment Required Power Meter  	Pulse Generator Signal Generator 	Envelope Detector VHF Receiver 	Diplexer Frequency Counter 	Detector Amplifier 	Oscilloscope (Storage) Field Intensity Meter (FIM) 5.2.2  Operating Frequencies (Paragraph 3.1.1) Connect the equipment as shown in Figure 5-1. Operate the  
+
+ equipment, using its own power supply and terminated with the nominal load  
+
+ impedance.
+Measure the carrier frequencies of the 121.5 MHz and 243.0 MHz  
+
+ emissions to an accuracy of at least five parts per million (Figure 5-2).
+5.2.3 Modulation Characteristics (Paragraph 3.1.2) 5.2.3.1 Operate the equipment as in 5.2.2.
+ 5.2.3.2 Observe the modulation envelope on the storage oscilloscope and  
+
+ determine the upper and lower audio frequency sweep limits, sweep rate and  
+
+ modulation factor.
+5.2.4 Modulation Duty Cycle (Paragraph 3.1.2) 5.2.4.1 Operate the equipment as in 5.2.2.
+ 5.2.4.2 Observe the detected modulation envelope indicated on the storage  
+
+ oscilloscope and determine the modulation duty cycle.
+5.2.5 Transmitter Duty Cycle (Paragraph 3.1.3) 5.2.5.1 Operate the equipment as in 5.2.2.
+ 5.2.5.2 Observe the modulated signal and determine that the carrier is not  
+
+ interrupted between sweeps.
+5.2.6 Equivalent Isotropic Radiated Power (Paragraph 3.1.5) 5.2.6.1 Test Conditions 5.2.6.2 Test Method The basic method of measuring the EIRP is that of direct substitution  
+
+ as detailed below.
+5.2.7 Radio frequency intermodulation (paragraph 3.1.7) (Does not apply to ELT (S)) 5.2.7.1 Reradiated rf intermodulated signals may be measured using 5.2.7.3  
+
+ or 5.2.7.4, below, as appropriate.
+If the ELT incorporates a non-linear  
+
+ device, (eg; a diode) in the antenna configuration external to the ELT  
+
+ transmitter unit, then procedure d. shall be used.
+The ELT shall be in the  
+
+ ARMED mode for these tests.
+5.2.7.2 Equipment required RF Signal Generator (3) 	Attenuator Hybrid Power Divider 	Field Intensity Meter Resistive Power Divider 	Power Meter Spectrum Analyser RF 	Amplifier (2) Variable Notch Filter (2) 5.2.7.3 Direct coupling method (1) Adjust the signals from two signal generators to the frequencies  
+
+ indicated in Frequency Set A of Table 5-1.
+ (2) Adjust the notch filters to attenuate the interference signals by  
+
+ at least 30 dB.
+(3) Reduce the signal from the two signal generators to a minimum.
+Connect  
+
+ a third signal generator to the output of the 3 dB attenuator.
+Set Signal  
+
+ Generator 3 to the RFI frequency expected in the 108 MHz-137 MHz band and  
+
+ adjust the generator output level to -83 dBm.
+Verify that the signal can be  
+
+ seen on the spectrum analyser and note its amplitude.
+Repeat this procedure  
+
+ for all RFI frequencies that could be expected.
+If the signal cannot be seen  
+
+ on the spectrum analyser, the notch filters may have to be readjusted.
+(4) Disconnect Signal Generator 3. Increase the output from Signal  
+
+ Generators 1 and 2 to the test level.
+Verify that the two interference  
+
+ frequencies are still attenuated by 30 dB or more.
+(5) Reduce the signal from Signal Generator 2 to a minimum.
+Connect the  
+
+ power meter to the 3 dB attenuator.
+Adjust the output of Signal Generator 1  
+
+ until the power meter measures the level specified in Table 5-1.
+ (6) Repeat step 5 with the signal from Signal Generator 1 reduced to a  
+
+ minimum and the signal from Signal Generator 2 at the test level.
+(7) Increase the signal from Signal Generator 1 to the test level.  
+
+ Disconnect the power meter.
+Connect the ELT to the 3 dB attenuator.
+Record  
+
+ the maximum deflections on the spectrum analyser in the 108 MHz-137 MHz band.  
+
+ To meet the requirement these deflections shall be less than those noted in  
+
+ step 3.
+ (8) Repeat steps 1-7 using the other frequency sets, ( B and C ),  
+
+ defined in Table 5-1.
+5.2.7.4. Radiation method (1) Adjust the signals from two signal generators to the frequencies  
+
+ specified in Table 5-2.
+ (2) Place the FIM antenna in the ELT s intended position.
+ (3) Adjust the FIM to the frequency of Signal Generator 1 and adjust the  
+
+ output of Signal Generator 1 until the FIM measures the intensity indicated  
+
+ in Table 5-2. Record the output setting of Signal Generator 1.
+ (4)  Repeat step 3 for Signal Generator 2.
+ (5) Place the ELT antenna and FIM antenna in their respective positions  
+
+ (Figure 3-4). For an internal antenna, use the external surface of the  
+
+ aircraft mock-up nearest the ELT antenna position.
+(6) Adjust both signal generators to the outputs recorded in steps 3 and  
+
+ 4. Adjust the FIM to measure frequencies in the 108 MHz-137 MHz band.
+The  
+
+ field intensity measured by the FIM shall not be greater than 7 ?V m-1.
+ (7) Rotate the ELT antenna and mock-up and perform step 6 for each of the  
+
+ three remaining quadrants, (approximately 90 degree increments).
+ (8) Repeat steps 1-7 using the other frequency sets ( B and C ),  
+
+ defined in Table 5-2.
+5.2.8 Radio Frequency Susceptibility (paragraph 3.1.8) (does not apply to ELT (S)).
+ 5.2.8.1 ELT susceptibility to rf damage or activation may be measured  
+
+ using the procedure described in paragraph 5.2.8.3 below.
+5.2.8.2 Equipment Required RF Signal Generator (3) 	Attenuator Hybrid Power Divider 	RF Amplifier (2) Resistive Power Divider 	Spectrum Analyser Variable Notch Filter (2) 	Power Meter Field Intensity Meter 5.2.8.3 Test Procedure 5.2.9 Transmitter Turn-on (Paragraph 3.1.9) This test should be performed in conjunction with the Low and High  
+
+ Temperature (Operating) tests in paragraphs 4.6.1 and 4.6.2.
+5.2.9.1 For ELTs (AF), (AP) and (AD), the transmitter control shall be  
+
+ placed in the ARMED mode.
+The ELT should be activated by subjecting it to a  
+
+ shock pulse in accordance with paragraph 5.4. Within a period of five minutes  
+
+ following application of the shock pulse, the transmitter shall radiate at  
+
+ full EIRP.
+ 5.2.9.2 For ELT (S), the transmitter shall radiate at full EIRP within  
+
+ five minutes after the transmitter is turned on.
+5.3 DETAILED TEST PROCEDURES - 406 MHZ ELT 5.3.1 General The test procedures required by COSPAS-SARSAT are described in the  
+
+ COSPAS-SARSAT Type Approval Standard, (Document C/S T.007). This section  
+
+ describes accepted measurement methods for the parameters defined in Chapter  
+
+ 3 of C/S T 007. Different measuring techniques may be approved by  
+
+ COSPAS-SARSAT providing there is sufficient justification.
+5.3.2 Test Bench 5.3.2.1 The particular characteristics of the COSPAS-SARSAT 406 MHz beacon  
+
+ require the use of special test equipment, (STE), in addition to standard  
+
+ measuring instruments, (eg: frequency counter, spectrum analyser, etc).  
+
+Figure 5-3 shows an example of this test equipment set-up.
+5.3.2.2 The message transmitted by the beacon is detected by a receiver  
+
+ from which all the parameters to be measured are obtained.
+Synchronisation  
+
+ signals are generated by the STE which define the measurement intervals  
+
+ S1, S2  and S3, as shown in Figure  
+
+ 5-4.
+5.3.3 Transmitted Frequency (See Paragraph 3.2.1) 5.3.3.1 Nominal Value The mean transmission frequency, fo, is determined from 10  
+
+ measurements of fi(1) made during the interval S1 during 10  
+
+ successive transmission as follows.
+1     10 fo = f(1) =    ―  
+
+3
+  
+
+   fi (1) 10      i = 1 5.3.3.2 Short Term Stability 1        10           fi (2)  -  
+
+  fi (3) 20         i = 1            fi (2) 5.3.3.3 Medium Term Stability (see Figure 5-2) 5.3.3.4 Long Term Drift Test f(t) = A [ 1n (Bt + 1)] +fo where f(t) is the output frequency of the ELT,  t  days after the start of  
+
+ the stabilisation period, (the time origin for data analysis should be the  
+
+ beginning of the stabilisation period), and A, B and fo are  
+
+ constants to be determined from the least square fit.
+ Using the above equation, the following conditions must be met.
+fo = 406.025 (±0.002) MHz f(30) - fo = ±0.0003 MHz f(1 825) - fo= ±0.003 MHz* *(Alternatively, the manufacturer may demonstrate that the initial offset  
+
+ plus temperature effects plus aging over 5 years is less than 0.005 MHz).
+5.3.4 Message Format and Structure (see Figure 5-5) 5.3.4.1 Repetition Period The repetition period, TR, between the beginnings of two  
+
+ successive transmissions, shall be random, in a uniform distribution, over  
+
+ the range from 47.5 seconds to 52.5 seconds, (see paragraph 3.2.2). Uniform  
+
+ distribution shall be determined from successive measurements over a five  
+
+ minute period.
+5.3.4.2 Duration of the Unmodulated Carrier The unmodulated carrier duration, T1, between the beginning of  
+
+ a transmission and the beginning of the data modulation, shall satisfy the  
+
+ following relationship where the mean value and the standard deviation are  
+
+ derived from 10 successive measurements.
+158.4 ms < T1 ±3 r  
+
+  < 161.6 ms  (see paragraph 3.2.2) 5.3.4.3 Bit Rate and Stability The bit rate fb, which is measured over the first 50 bits  
+
+ corresponding to one transmission, shall satisfy the following relationship  
+
+ where the mean value and the standard deviation are derived from 10  
+
+ successive measurements.
+396 bps < fb ±3  r  
+
+   < 404 bps (see paragraph 3.2.2) 5.3.4.4 Message Coding The content of the digital message is checked with the one provided by the  
+
+ manufacturer.
+The compliance with the format for each data field is checked  
+
+ bit by bit.
+The correctness of the error correcting code is also checked.
+5.3.4.5 Data Encoding and Modulation The data encoding, the modulation sense, the modulation index and the  
+
+ modulation rise time are checked by examining the biphase logic signal with  
+
+ an oscilloscope.
+The modulation rise time TR, is defined as shown  
+
+ in Figure 3-6 .
+5.3.5 Radio Frequency Susceptibility (Paragraph 3.2.10) 5.3.5.1 ELT susceptibility to rf damage or activation may be measured  
+
+ using the procedure described below.
+5.3.5.2 Equipment Required RF Signal Generator (3) 	Spectrum Analyser Hybrid Power Divider 	Power Meter Attenuator Resistive Power Divider 	Field Intensity Meter Variable Notch Filter (2) 	RF Amplifier (2) 5.3.5.3 Test Procedure 5.3.6 Abnormal Transmitter Load Test 5.3.6.1 Terminate the ELT into a short circuit and manually turn the ELT  
+
+ ON.
+After a minimum of one hour, remove the short circuit and ensure that the  
+
+ following equipment performance standards are met.
+5.3.6.2 Terminate the ELT with an open circuit.
+Manually turn the ELT ON.  
+
+ After a minimum of one hour ensure that the following equipment performance  
+
+ standards are met.
+5.3.6.3 Terminate the ELT into a load which presents a mismatch by a  
+
+ factor of 3 compared to the design output impedance.
+Manually turn the ELT ON  
+
+ and ensure that the following equipment performance requirements are met.

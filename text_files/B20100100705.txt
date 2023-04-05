@@ -1,0 +1,204 @@
+Bilag 1 Bilag 2 Bilag 3 Bilag 4 Bilag 5 Bilag 6 Bilag 7 Bilag 8 Bekendtgørelse om arkiveringsversioner I medfør af § 5, stk. 1, § 13, stk. 1, og § 14 i bekendtgørelse nr. 591 af 26. juni 2003 om offentlige arkiver og offentlige arkivers virksomhed og efter drøftelse med de kommunale og regionale parter fastsættes:
+Område § 1. Bestemmelserne i denne bekendtgørelse gælder for arkivalier skabt af den offentlige forvaltning og domstolene, og som af Statens Arkiver er bestemt til bevaring.
+ § 2. Bevaring af data fra it-systemer og af lyd og video skal ske i form af arkiveringsversioner.
+ Stk. 2. Statens Arkiver kan af bevaringsmæssige grunde fastsætte, at bevaringen af andre arkivalier skal ske i form af arkiveringsversioner.
+ § 3. En arkiveringsversion af bevaringsværdige data skal fremstilles efter de anvisninger, der udstedes af rigsarkivaren, jf. bilag 2-8.
+ Stk. 2. Rigsarkivaren kan anvise anden bevaringsform end en arkiveringsversion, fremstillet efter anvisningerne i bilag 2-8, hvis bevaringsmæssige hensyn tilsiger det.
+Produktion og aflevering § 4. Produktion og aflevering af arkiveringsversioner af data fra den statslige forvaltning og domstolenes it-systemer skal finde sted på tidspunkter, der fastsættes af Statens Arkiver.
+§ 5. Produktion og aflevering af arkiveringsversioner af data fra kommunernes og regionernes it-systemer, som indeholder personoplysninger, skal finde sted, inden data skal slettes.
+Den pågældende kommune eller region kan træffe aftale om tidligere tidspunkter med det modtagende arkiv.
+ Stk. 2. Produktion af arkiveringsversioner af data fra øvrige it-systemer skal finde sted, inden data slettes, eller når it-systemet tages ud af brug.
+ Stk. 3. Statens Arkiver kan derudover fastsætte, at der skal produceres en arkiveringsversion af data fra et it-system, når det af bevaringsmæssige hensyn er nødvendigt.
+§ 6. Arkiveringsversioner af statslige myndigheders data skal godkendes af Statens Arkiver.
+Arkiveringsversioner af kommunale og regionale myndigheders data skal godkendes af det modtagende arkiv.
+Arkiveringsversioner af bevaringsværdige kommunale og regionale data, som ikke er omfattet af afleveringspligt, skal godkendes af samme offentlige arkiv, som modtager myndighedens afleveringspligtige arkiveringsversioner.
+ Stk. 2. Data, som er overført til en arkiveringsversion, må ikke slettes hos myndigheden, før arkiveringsversionen er godkendt.
+ Ikrafttrædelse m.v.
+ § 7. Bekendtgørelsen træder i kraft den 1. september 2010.
+ Stk. 2. Bekendtgørelse nr. 342 af 11. marts 2004 om arkiveringsversioner af bevaringsværdige data fra elektroniske arkivsystemer ophæves.
+ Stk. 3. Bekendtgørelse nr. 302 af 16. april 2009 om aflevering af lyd og video ophæves.
+ Stk. 4. Til og med 1. juli 2011 kan der indgås aftale med offentligt arkiv om, at arkiveringsversion af data udarbejdes efter reglerne i den i stk. 2 nævnte bekendtgørelse.
+ Stk. 5. Arkiveringsversioner af data efter reglerne i den i stk. 2 nævnte bekendtgørelse skal være afleveret til det pågældende offentlige arkiv inden 31. december 2011.
+ Stk. 6. Rigsarkivaren kan efter ansøgning meddele dispensation for reglerne i stk. 4 og 5.
+Rigsarkivet, den 20. august 2010 Asbjørn Hellum / Kirsten Villadsen Kristmar Bilag 1 Bilag 2 Grafisk oversigt over elementer og struktur i en arkiveringsversion Figur 2.1 Bilag 3 Arkiveringsversion af it-systemets data og eventuelle dokumenter 3.A.
+Generelle regler om arkiveringsversioner 3.A.1 En arkiveringsversion består af:
+ datastruktur, jf. 3.B  dataindhold, jf. 3.C  information om arkiveringsversionen, jf. 3.D 3.A.2 En arkiveringsversion må ikke indeholde krypteret information.
+ 3.A.3 En arkiveringsversion skal indeholde samtlige bevaringsværdige data og eventuelle dokumenter fra en afgrænset periode, hvor der ikke længere rettes i eller tilføjes data, eller udformes som et øjebliksbillede og indeholde samtlige bevaringsværdige data og eventuelle dokumenter på et bestemt tidspunkt.
+ 3.A.4 Hvis arkiveringsversionen af et it-system med dokumenter udarbejdes uden skift af journalperiode, eller hvis der i forbindelse med skift af journalperiode sker overførsel af dokumenter til ny periode, skal de dokumenter, der indgår i arkiveringsversionen, markeres på en sådan måde i it-systemet, at de kan undtages fra efterfølgende arkiveringsversioner.
+3.B.
+Datastruktur 3.B.1 Datastrukturen i arkiveringsversionen består af:
+  en mappestruktur, jf. 4.B, illustreret i figur 2.1.
+  en relationel databasestruktur på 1. normalform eller højere, angivet i indeksfilen tableIndex.xml, jf. 4.C.5.a.
+  øvrige indeksfiler i XML, jf. 4.C, der strukturerer data om arkiveringsversionens overordnede indhold, samtlige filer i arkiveringsversionen, dens kontekstdokumentation og dens eventuelle digitale dokumenter.
+3.C.
+Dataindhold 3.C.1 Dataindholdet består af:
+  tabelindhold i standardiserede datatyper, jf. 5.B.
+  eventuelle digitale dokumenter, lyd, video og geodata i standardiserede dataformater, jf. 5.E - 5.G.
+3.D.
+Information om arkiveringsversionen 3.D.1 Information om arkiveringsversionen består af beskrivelser af administrativ brug, dataindhold og it-system, jf. bilag 6.
+Bilag 4 Datastruktur 4.A.
+Generelle regler om datastruktur 4.A.1 I en arkiveringsversion skal alle nøgler have en entydig identifikator.
+Der må ikke forekomme situationer, hvor det er nødvendigt at uddrage dele af nøglefelter for at forstå it-systemets indhold eller funktion.
+4.A.2 Når en værdi i et felt er en kode som repræsentation for en fast og entydig værdi, skal koderne forklares.
+Såfremt værdien ikke findes i en kode- eller opslagstabel i it-systemet, skal der i arkiveringsversionen genereres én eller flere tabeller med angivelse af værdierne i kodede felter.
+Alternativt skal kodeværdien i tabeldata ved udtræk til arkiveringsversion udskiftes med det egentlige indhold.
+ 4.A.3 Såfremt dokumenterne i et it-system med dokumenter er lagret i en betydningsbærende struktur, skal denne struktur i arkiveringsversionen omdannes til en eller flere tabeller.
+4.B.
+Placering af mapper og filer 4.B.1 I roden af filsystemet på afleveringsmediet, jf. bilag 7, skal der være placeret en mappe navngivet med mediets navn.
+Mediets navn består af det unikke arkiveringsversionsID med tilføjelse af et suffiks ».n«, der angiver rækkefølgen af medierne, hvor n er et fortløbende medieløbenummer begyndende med 1.
+ 4.B.2 Arkiveringsversionens indhold fordeles i mapper, som angivet i figur 4.1.
+ 4.B.3 Mapperne skal navngives som angivet i figur 4.1.
+4.B.4.a Et arkiveringsversionsID består af præfikset AVID, en kode på 2-4 bogstaver, som angiver det modtagende arkiv, samt et arkiveringsversionsløbenummer.
+Elementerne adskilles med punktum.
+ 4.B.4.b ArkiveringsversionsID udleveres af Statens Arkiver.
+ 4.B.5.a En arkiveringsversion, som ikke kan være på ét medie, jf. bilag 7, kan fordeles over flere medier.
+ 4.B.5.b Mapperne ContextDocumentation, Indices og Schemas skal altid være placeret på afleveringens første medie.
+4.B.5.c Mappen i roden på efterfølgende medier skal kun indeholde de mapper, hvis indhold kræver fordeling over flere medier.
+Disse mapper navngives altid som angivet i figur 4.1 uden brug af suffiks.
+ 4.B.6 Der må kun være én af hver af de i figur 4.1 angivne mapper på hvert medie.
+4.C.
+Mappen Indices 4.C.1.a Mappen Indices skal indeholde følgende indeksfiler med oplysninger om arkiveringsversionen og dens indhold:
+ fileIndex.xml  archiveIndex.xml  contextDocumentationIndex.xml  tableIndex.xml 4.C.1.b Hvis arkiveringsversionen indeholder digitale dokumenter, lyd, video eller geodata, skal mappen Indices endvidere indeholde følgende indeksfil:
+ docIndex.xml 4.C.1.c Alle indeksfiler skal overholde deres tilhørende skema, jf. bilag 8.
+ 4.C.2.a fileIndex.xml skal indeholde en komplet liste over samtlige filer, der findes i arkiveringsversionen. fileIndex.xml er dog undtaget fra denne regel.
+ 4.C.2.b For hver enkelt fil i arkiveringsversionen angives de oplysninger, som fremgår af figur 4.2.
+ 4.C.3 archiveIndex.xml skal indeholde de oplysninger, som fremgår af 6.A.
+ 4.C.4.a contextDocumentationIndex.xml skal indeholde et indeks over de dokumenter, som findes i arkiveringsversionens kontekstdokumentation.
+ 4.C.4.b For hvert dokument i kontekstdokumentationen angives de oplysninger, som fremgår af figur 4.3.
+4.C.5.a tableIndex.xml skal indeholde en angivelse af en relationel databasestruktur på 1. normalform eller højere.
+Samtlige tabeller i arkiveringsversionen skal angives.
+ 4.C.5.b »tableIndex.xml« skal overholde det generelle XML-skema »tableIndex.xsd«, jf. 4.F.
+ 4.C.5.c Hvis et felt må have værdien NULL, skal der i »tableIndex.xml« være angivet værdien »true« for kolonnens tilhørende element »nullable«.
+ 4.C.6.a docIndex.xml skal danne forbindelsen mellem hvert dokument og dets placering. »docIndex.xml« skal desuden indeholde oplysninger om dokumenternes oprindelige filnavne, filtype i arkiveringsversionen samt eventuelle overordnede dokumenter. »docIndex.xml« skal ikke indeholde oplysninger om dokumenterne i kontekstdokumentationen.
+ 4.C.6.b For hvert enkelt dokument i docIndex.xml angives de oplysninger, som fremgår af figur 4.4.
+4.D.
+Mappen Tables 4.D.1 Mappen Tables skal indeholde én mappe for hver tabel i arkiveringsversionen.
+ 4.D.2.a Mappen for en tabel navngives »table[fortløbende nummer]«.
+ 4.D.2.b Den fortløbende nummerering begynder med 1. Foranstillede nuller må ikke anvendes.
+ 4.D.3 Mappen for hver tabel skal indeholde to filer:
+ table[fortløbende nummer].xsd  table[fortløbende nummer].xml 4.D.4 »table[fortløbende nummer].xsd« er et XML-skema, der kun angiver strukturen for den enkelte pågældende tabel, og skal være i overensstemmelse med XML-instansen »tableIndex.xml«, jf. 4.C.5.a, der angiver strukturen for hele den pågældende relationelle database, herunder samtlige tabeller.
+ 4.D.5 »table[fortløbende nummer].xml« er en XML-instans, der indeholder data for den pågældende tabel, og dens struktur skal være i overensstemmelse med det tilhørende XML-skema, »table[fortløbende nummer].xsd«.
+4.D.6 Hvis et felt i en tabel kan have værdien NULL, skal den pågældende kolonne i det tilhørende skema (»table[fortløbende nummer].xsd«) indeholde attributten nillable=»true«.
+Tilsvarende skal XML-instansens (»table[fortløbende nummer].xml«) element indeholde attributten xsi:nil=»true« jf.
+W3C standarden for håndtering af NULL værdier i XML.
+4.E.
+Mappen ContextDocumentation 4.E.1 Mappen ContextDocumentation skal indeholde én eller flere dokumentsamlingsmapper med kon­tekst­dokumentation, jf. 6.B.
+ 4.E.2 En dokumentsamlingsmappe med kontekstdokumentation må indeholde op til 10.000 dokumentmapper.
+ 4.E.3 Dokumentsamlingsmapperne navngives »docCollection[fortløbende nummer]«, begyndende med 1. Navnet skal være unikt inden for ContextDocumentation.
+4.E.4 Hvert dokument i kontekstdokumentationen skal tildeles et ID på op til 12 cifre.
+Dokumentets ID skal være unikt inden for ContextDocumentation.
+4.E.5 En dokumentmappe skal indeholde ét dokument, som består af én eller flere filer af samme format, og navngives med dokumentets ID.
+Foranstillede nuller må ikke anvendes.
+4.E.6 Et dokuments fil (eller filer) navngives fortløbende med et nummer, begyndende med 1 samt formatets ekstension, jf. 4.G.8 4.F.
+Mappen Schemas 4.F.1 Mappen Schemas skal være opdelt i undermapperne standard og localShared.
+ 4.F.2 Mappen standard skal indeholde skemaer for arkiveringsversionens indeksfiler, jf. bilag 8, samt W3C standard XML-skema, jf. http://www.w3.org/2001/XMLSchema.xsd.
+4.F.3 For skemaerne fileIndex.xsd, archiveIndex.xsd, contextDocumentationIndex.xsd, tableIndex.xsd, doc­Index.xsd samt W3Cs standard XML-skema gælder, at der altid skal anvendes de skemaer, som Statens Arkiver stiller til rådighed.
+Skemaerne og deres navngivning må ikke ændres i arkiveringsversionen.
+ 4.F.4 Mappen localShared skal indeholde eventuelle GML-skemaer, som ikke er placeret sammen med det pågældende GML-dokument, jf. 4.G.7.a.
+4.G.
+Mappen Documents 4.G.1 Mappen Documents skal indeholde én eller flere dokumentsamlingsmapper, dog maksimalt 10.000.
+ 4.G.2 Dokumentsamlingsmapperne navngives »docCollection[fortløbende nummer]«, begyndende med 1. Navnet skal være unikt inden for Documents.
+ 4.G.3 En dokumentsamlingsmappe må indeholde op til 10.000 dokumentmapper.
+4.G.4 Hvert dokument skal i arkiveringsversionen tildeles et ID på op til 12 cifre.
+Dokumentets ID skal være unikt inden for Documents.
+4.G.5 En dokumentmappe skal indeholde ét dokument, som består af én eller flere filer af samme format, og navngives med dokumentets ID.
+Foranstillede nuller må ikke anvendes.
+4.G.6 Et dokuments fil (eller filer) navngives fortløbende med et nummer, begyndende med 1 samt formatets ekstension.
+Foranstillede nuller må ikke anvendes.
+4.G.7 For GML-filer lagres det relevante skema i samme mappe som GML-filen, og navngives med fort­løbende nummer efterfulgt af .xsd, jf. dog 4.G.7.a.
+Foranstillede nuller må ikke anvendes.
+4.G.7.a GML-skemaer kan alternativt lagres i den skema-mappe, som navngives localShared, jf. 4.F.
+GML-skemaer i mappen localShared navngives »localSchema[fortløbende nummer]«, begyndende med 1.
+4.G.8 Anvendelse af ekstensions 4.G.8.a Dokumenter i formatet TIFF skal have ekstension tif.
+ 4.G.8.b Dokumenter i formatet MP3 skal have ekstension mp3.
+ 4.G.8.c Dokumenter i formatet MPEG-2 og MPEG-4 skal have ekstension mpg.
+ 4.G.8.d Dokumenter i formatet JPEG-2000 skal have ekstension jp2.
+ 4.G.8.e Dokumenter i formatet GML skal have ekstension gml.
+ 4.G.8.f Dokumenter i formatet WAVE skal have ekstension wav.
+ 4.G.9 Muligheden for at fremsøge sagligt sammenhørende dokumenter skal overføres til arkiveringsversionen efter det modtagende arkivs nærmere anvisning.
+Bilag 5 Dataindhold Arkiveringsversionens dataindhold består af tabelindhold i standardiserede datatyper og af eventuelle digitale dokumenter, lyd, video og geodata i standardiserede formater.
+5.A.
+Tabelindhold 5.A.1.a I overensstemmelse med den tabelstruktur, der er defineret for hver tabel i hvert sit tilhørende XML-skema, navngivet »table[fortløbende nummer].xsd«, jf. 4.D, skal hver tabel findes i en XML-instans navngivet »table[fortløbende nummer].xml«.
+ 5.A.1.b Den fortløbende nummerering begynder med 1. Foranstillede nuller må ikke anvendes.
+ 5.A.2 Indholdet af de enkelte felter skal renses for eventuelle foran- og efterstillede blanktegn.
+5.B.
+Datatyper 5.B.1.a De standardiserede datatyper, som skal anvendes for tabelindhold, er angivet i figur 5.1. De er et uddrag af datatyper fra standarden SQL:1999 repræsenteret som datatyper i W3C XML Schema Language 1.0.
+ 5.B.1.b Det er datatypen i W3C XML Schema Language 1.0, som skal anvendes.
+ Oversættelsen fra datatyper i SQL:1999 er angivet for at vise, hvorledes oversættelsen til datatyper i W3C XML Schema Language 1.0 skal foretages.
+ 5.B.2 Datatypen string må kun indeholde ikke-opmærket tekst, som umiddelbart kan fortolkes.
+5.B.3 Datatypen boolean kan jf.
+W3C kun antage værdierne 1; 0 eller true; false.
+ 5.B.4 Datatyperne date, time og dateTime kan bruges med eller uden Time Zone.
+5.C.
+Konvertering af tabelindhold til digitale dokumenter, lyd, video eller geodata 5.C.1 Tabelindhold skal overholde de angivne datatyper, jf. 5.B.
+Det følger heraf, at dataindhold i tabelform fra et it-system, som skal overføres til en arkiveringsversion og som ikke umiddelbart kan overholde dette krav, skal have sit dataindhold konverteret således:
+ 5.C.1.a til digitale dokumenter, lyd, video eller geodata, idet indholdet konverteres til de formater, som fremgår af 5.E - 5.G.
+ 5.C.1.b til tabelindhold af datatypen string, jf. 5.B, idet andet indhold end det for datatypen tilladte slettes.
+ 5.C.2 Det modtagende arkiv anviser, om et givet indhold skal håndteres iht. 5.C.1.a eller 5.C.1.b.
+5.D.
+Tekstformat 5.D.1 Unicode indkodning 5.D.1.a Data i arkiveringsversionens indeksfiler og tabelindhold skal være indkodet som well-formed UTF-8, som angivet i ISO/IEC 10646:2003 Annex D og som beskrevet i The Unicode Standard 5.1, kapitel 3.
+5.D.1.b De indkodede karakterer skal være gyldige Unicode skalarværdier.
+Surrogater/RC-elementer og Unicode noncharacters må ikke anvendes.
+ 5.D.1.c Ingen karakterer i Private Use Area må indkodes.
+ 5.D.1.d Styrekodetegnene fra og med #x00 til og med #x1F er ikke tilladt med undtagelse af styrekodetegnene tabulator (TAB) #x09, nylinje (LF) #x0A og vognretur (CR) #x0D.
+5.D.2 XML indkodning 5.D.2.a I henhold til XML-standarden gælder de regler for angivelse af de pågældende tegn, som fremgår af figur 5.2.
+ 5.D.2.b Tegnene fra og med #x7F til og med #x9F skal angives med deres decimale eller hexadecimale tegnreference.
+ 5.D.2.c CDATA sektioner <![CDATA ]]> må ikke anvendes.
+5.E.
+Digitale dokumenter 5.E.1.a Et digitalt dokument, jf. dog 5.F og 5.G, skal lagres i ét af følgende formater:
+  det grafiske bitmapformat TIFF, version 6.0 baseline.
+  JPEG-2000 efter standarden ISO/IEC 15444-1:2004. Information technology - JPEG 2000 image coding system - Part 1: Core coding system.
+ 5.E.1.b Det er tilladt at benytte begge formater inden for samme arkiveringsversion.
+ 5.E.2 Dokumenter i TIFF skal komprimeres efter følgende kompressionsregler:
+ 5.E.2.a Sort/hvide dokumenter skal komprimeres med CCITT/TSS grp. 3, grp. 4, PackBit eller LZW.
+ 5.E.2.b Dokumenter med gråtoner eller farver skal komprimeres med PackBit eller LZW.
+5.F.
+Lyd og video 5.F.1 Lydfiler skal lagres efter standarden MP3 DS/EN ISO/IEC 11172-3.
+ 5.F.2 Det modtagende arkiv kan tillade, at lydfiler afleveres i formatet WAVE LPCM som specificeret i Multimedia Programming Interface and Data Specifications 1.0. IBM Corporation and Microsoft Corporation, August 1991. Dog begrænset til bitdybder, der er hele multipla af 8.
+ 5.F.3 Videofiler skal lagres efter en af følgende standarder:
+  MPEG-2 DS/EN ISO/IEC 13818-2. Eventuel lyd indkodes som MP3, som specificeret i ISO/IEC 13818-3.
+  MPEG-4 AVC DS/EN ISO/IEC 14496-10 (ITU-T H.264). Video indkodes som specificeret i ISO/IEC 14496-10. Eventuel lyd indkodes som AAC, som specificeret i ISO/IEC 14496-3. Video og lyd indpakkes i MPEG-4 formatet som defineret i ISO/IEC 14496-14.
+5.G.
+Geodata 5.G.1 Data fra geografiske informationssystemer samt øvrige geodata lagres som GML-filer iht.
+GML 3v3.DK, den danske profil af GML-standarden ISO 19136.
+ 5.G.2 GML-filer, som er større end 1 GB, opdeles i enheder efter det modtagende arkivs anvisning.
+ 5.G.3 Hver GML-fil, evt. efter opdeling jf. 5.G.2, behandles som et separat dokument iht. reglerne i 4.G.
+ 5.G.4 De nødvendige XML-skemaer til validering af GML-filerne skal indgå i arkiveringsversionen.
+5.H.
+Komprimering 5.H.1 En arkiveringsversion må ikke være komprimeret udover den kompression, som er anvist for eller følger af de dokumentformater, der kræves til brug for arkiveringsversionen, jf. 5.E og 5.F.
+5.I.
+Optimering 5.I.1 Det modtagende arkiv kan i konkrete tilfælde træffe afgørelse om nedbringelse af dokumenters pladsforbrug, f.eks. ved at anvise anvendelse af optimal bitdybde.
+5.J.
+Ingen forringelse 5.J.1 I forbindelse med generering af arkiveringsversionen må der ikke ske en kvalitetsmæssig forringelse af dokumenterne, herunder lyd og video, ud over hvad der måtte være en konsekvens af det krævede format til brug for arkiveringsversionen eller de anvisninger, som i øvrigt gives af det modtagende arkiv.
+Bilag 6 Information om arkiveringsversionen Informationen om arkiveringsversionen består af følgende elementer:
+  Arkivbeskrivelsesfil, jf. 6.A.
+  Kontekstdokumentation, jf. 6.B.
+  Data om arkiveringsversionens tabeller (tabelindeks), jf. 6.C.
+ Evt.
+SQL-forespørgsler, jf. 6.D.
+6.A.
+Arkivbeskrivelsesfil 6.A.1 Enhver arkiveringsversion skal indeholde en arkivbeskrivelsesfil med angivelse af oplysninger iht. figur 6.1.
+ 6.A.2 Arkivbeskrivelsesfilen navngives archiveIndex.xml og skal overholde det tilhørende skema, jf. bilag 8.
+ 6.A.3 Indholdet af arkivbeskrivelsesfilen fastlægges efter drøftelse mellem den afleverende myndighed og det modtagende arkiv.
+6.B.
+Kontekstdokumentation 6.B.1 Enhver arkiveringsversion skal indeholde dokumenter, som dokumenterer it-systemets administrative funktion samt struktur og funktionalitet.
+ 6.B.2 Det modtagende arkiv fastlægger efter drøftelse med den afleverende myndighed, hvilke dokumenter der skal afleveres, herunder hvilke punkter i figur 6.2, som ikke er relevante at dokumentere i den konkrete aflevering.
+ 6.B.3.a Dokumenterne indplaceres i én eller flere af de kategorier, som fremgår af figur 6.2.
+ 6.B.3.b Oplysninger om kategoriseringen registreres i indeksfilen contextDocumentationIndex, jf. 4.C.4.a.
+ 6.B.4 Dokumenterne skal lagres i ét af de i arkiveringsversionen tilladte dokumentformater, jf. 5.E - 5.F.
+6.C.
+Data om arkiveringsversionens tabeller 6.C.1 En arkiveringsversion skal indeholde dokumentation af arkiveringsversionens tabeller og relationer (tabelindeks). Tabelindekset skal indeholde de oplysninger, som fremgår af figur 6.3 nedenfor.
+ 6.C.2 Systemviews medtages ikke.
+ 6.C.3 Det modtagende arkiv kan anvise, at de væsentligste views skal have en beskrivelse, jf. figur 6.3, 7.c.
+ 6.C.4 Der skal opmærkes særlige oplysninger for it-systemer med registrering af oplysninger om dokumenter.
+ 6.C.5 For arkiveringsversioner af it-systemer, som nævnt i 6.C.4, skal kolonner, der indeholder særlige informationer, jf. figur 6.4 - figur 6.6, identificeres via elementet functionalDescription, jf. figur 6.3, 4.h.
+6.C.6 De særlige oplysninger, der er angivet i figur 6.6, skal opmærkes i det omfang, de er registreret i it-systemet.
+Hvis oplysningerne i figur 6.6 ikke findes registreret i it-systemet, skal der i forbindelse med afleveringen aftales eventuelle alternative opmærkninger, der sikrer identifikation af sagligt sammenhørende dokumenter, jf. gældende bestemmelser herom.
+6.D.
+SQL-forespørgsler 6.D.1 Det modtagende arkiv kan fastsætte, at der til en arkiveringsversion skal defineres et antal SQL-forespørgsler til dokumentation af bestemte sammenhænge i arkiveringsversionen.
+ 6.D.2 SQL-forespørgslerne udformes efter standarden SQL:1999 (core).
+ 6.D.3 Forespørgslerne placeres i »Oplysninger om views og forespørgsler« i tabelindekset jf. figur 6.3, 7, og navngives efter myndighedens eget valg, dog således at navnet på de pågældende forespørgsler begynder med »AV«.
+Bilag 7 Afleveringsmedie 7.A.1 Arkiveringsversioner kan afleveres på CD-R, DVD-R eller USB-medie.
+ 7.A.2 Antallet af CD-R og DVD-R i én aflevering må ikke overstige 10, med mindre andet aftales mellem afleverende myndighed og modtagende arkiv.
+ 7.A.3 Den afleverende myndighed og det modtagende arkiv kan træffe aftale om aflevering på andre medier eller andre metoder til transport af data.
+ 7.A.4 Det modtagende arkiv kan tillade, at en arkiveringsversion krypteres i forbindelse med transport.

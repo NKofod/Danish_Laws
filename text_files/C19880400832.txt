@@ -1,0 +1,135 @@
+NYE REGLER FOR IDENTIFIKATIONSÆNDRING AF EJENDOMME I BBR-ÆNDRINGSREGISTER.
+ 1. Lettere identændring af ejendomme.
+De gældende regler for identifikationsændringer af ejendomme i  
+
+ BBR-ændringsregister har vist sig i visse tilfælde at medføre fejl i  
+
+ statistikken over forsinkelser i indberetningerne til BBR.
+Endvidere medfører  
+
+ de eksisterende regler et stort merarbejde for kommunerne i forhold til de  
+
+ almindelige regler for identifikationsændringer.
+Der er nu åbnet mulighed for  
+
+ at også den nævnte type af identifikationsændringer kan foretages automatisk  
+
+ vha. rettelseskode 5 (identændring) fra marts 1988 ajourføringen.
+2. Baggrund Der er fortsat stor forsinkelse i mange kommuners indberetninger til  
+
+ ændringsregistret.
+Boligministeriet får detaljerede oplysninger om  
+
+ forsinkelserne i hver enkelt kommune på de såkaldte »5 pct.-lister«  
+
+ fra Danmarks Statistik.
+Disse lister, der bygger på månedlige indberetninger  
+
+ fra Kommunedata, sammenligner tidsforskellen mellem de faktiske  
+
+ byggesagsdatoer (f.eks. dato for byggetilladelse, påbegyndelse og  
+
+ færdiggørelse) med den dato, hvor oplysningerne faktisk er indberettet til  
+
+ BBR.
+Herved kan forsinkelserne opgøres.
+Boligministeriet er imidlertid blevet gjort opmærksom på, at reglerne for  
+
+ behandling af identifikationsændringer i ændringsregistret i visse tilfælde  
+
+ betyder, at »5 pct.-listen« overvurderer de faktiske forsinkelser.  
+
+ Problemet skyldes, at man ikke kan identændre fra højt til lavt  
+
+ ejendomsnummer, hvorfor kommunerne i sådanne tilfælde har foretaget en total  
+
+ sletning af ejendommen (med tilhørende bygninger), hvorefter ejendommen  
+
+ oprettes igen på et lavere ejendomsnummer.
+Hvis byggesagen på dette tidspunkt  
+
+ f.eks. var 6 måneder gammel, vil dette optræde på »5 pct.-listen«  
+
+ med en fejlagtig forsinkelse på 6 måneder.
+Endvidere er der behov for at kunne foretage identændringer på ejendomme,  
+
+ hvor man opfører flere parcel/rækkehuse, og hvor disse under  
+
+ byggesagsforløbet bliver til selvstændige ejendomme/matrikler.
+Dette kan i  
+
+ dag ikke lade sig gøre, idet man ikke kan oprette et ejendomsniveau alene i  
+
+ ændringsregistret.
+ Her har man ligeledes afgangsført og oprettet igen, hvilket også har givet  
+
+ en fejlagtig forsinkelse på »5 pct.-listen«.
+ Kommunedata har nu på Boligministeriets foranledning åbnet mulighed for,  
+
+ at der både kan foretages identændringer fra højt til lavt ejendomsnummer, og  
+
+ at der kan overføres bygninger til nyopståede ejendomme i ændringsregistret.  
+
+ Ændringen foretages i begge tilfælde ved hjælp af rettelseskode 5  
+
+ (identændring).
+ Herved undgås de ovennævnte fejl i forsinkelseslisterne, og kommunerne  
+
+ undgår hele besværet med at indberette de pågældende ejendomme (med  
+
+ dataindhold) for anden gang.
+Boligministeriet må imidlertid kraftigt henstille, at indberetning af  
+
+ identifikationsændringer kontrolleres nøje, således at fejlændringer  
+
+ kontrolleres nøje, således at fejlindberetninger undgås.
+I modsat fald vil  
+
+ der hurtigt opstå et uacceptabelt rod i BBR.
+ 3. Fremtidig fremgangsmåde ved udstykninger.
+ Hvis der til ændringsregistret tidligere er indberettet en ejendom med  
+
+ eksempelvis 2 bygninger, og denne under byggesagsforløbet ønskes opdelt på 2  
+
+ selvstændige ejendomme i forbindelse med en matrikulær opdeling, gøres  
+
+ følgende:
+ Der indberettes via C196 (identændring) som vist i bilag 1 ELLER på  
+
+ indberetningsbilag som vist i bilag 2.
+ Efter ajourføringen, vil bygning nr. 1 stå tilbage på det gamle  
+
+ ejendomsnummer, og bygning nr. 2 er overført til det nye ejendomsnummer, og  
+
+ samtidig er bygningsnummeret ændret til nr. 1.
+ Adressekoden overføres fra den pågældende bygning til det nye  
+
+ ejendomsniveau og de oprindelige ejendomsoplysninger kopieres i øvrigt.
+ Der skal således fremover kun foretages een transaktion pr. bygning der  
+
+ skal flyttes.
+ Udstykningssager i BBR-stamregister foretages som hidtil.
+4. Fremtidig fremgangsmåde ved identændring fra højt til lavt ejendomsnummer i ændringsregistret.
+ Ved identænring fra højt til lavt ejendomsnummer gøres følgende:
+ Der indberettes via C196 (identændring) som vist i bilag 3 ELLER på  
+
+ indberetningsbilag som vist i bilag 4.
+ Efter ajourføringen vil der af tekniske årsager blive indsat et  
+
+ spørgsmålstegn (?) i adressekodens husbogstav på ejendomsniveau.
+ De ejendomme, som har fået indsat et spørgsmålstegn (?) i adressekodens  
+
+ husbogstav, vil blive udskrevet på fejl/anmærkningsliste med:
+ INDSÆT KORREKT HUSBOGSTAV - EFTER ID.ÆNDR.
+I bilag 5 er vedlagt et eksempel på en sådan liste.
+Registerføreren skal  
+
+ efter ajourføringen foretage rettelse af husbogstav, d.v.s. slette  
+
+ spørgsmålstegnet og indsætte korrekt bogstav/blank.
+ Der gøres opmærksom på, at byggesagen IKKE kan overføres til  
+
+ BBR-stamregister FØR rettelsen er foretaget.
+ Identændring fra højt til lavt ejendomsnummer kan KUN foretages i  
+
+ BBR-ændringsregister.

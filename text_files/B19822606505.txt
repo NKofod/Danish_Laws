@@ -1,0 +1,705 @@
+INDLEDNING Nærværende tekniske bestemmelser indeholder de minimumskrav, udstyr for  
+
+ modtagning af de radiotelexudsendelser om navigationsvarsler m.m,  
+
+ kystradiostationer udsender på frekvensen 518 kHz, skal opfylde for at kunne  
+
+ godkendes af Post- og Telegrafvæsenet til brug om bord i danske skibe.
+ Bestemmelserne er baseret på specifikationer udarbejdet af de nordiske  
+
+ teleadministrationer i fællesskab.
+INDHOLDSFORTEGNELSE side 1. OPLYSNINGER VEDR.
+AFPRØVNING, GODKENDELSE OG GEBYR  
+
+ 4 1.1 Anmodning om afprøvning 1.2 Indlevering af anlæg til afprøvning 1.3 Valg af anlæg til afprøvning 1.4 Godkendelse 1.5 Gebyr for afprøvning 2. TEKNISKE DATA FOR RADIOTELEXUDSENDELSER PÅ 518 kHz  
+
+ 7 3. GENERELLE KRAV TIL ANLÆGGET 8 3.1 Konstruktion 3.2 Betjeningsmæssige forhold 3.3 Styring af udskrift 3.4 Skriverenhed 3.5 Opmærkning m.m.
+ 3.6 Overspænding, sikkerhedskrav m.m.
+3.7 Opvarmningstid 4. AFPRØVNINGSBETINGELSER 14 4.1 Generelt 4.2 Kunstantenne 4.3 Standard prøvesignal 4.4 Tilkobling af prøvesignaler 4.5 Spændingsforsyning 4.6 Normale afprøvningsbetingelser 4.7 Særlige afprøvningsbetingelser 4.8 Miljøprøver 5. RADIOTEKNISKE MÅLINGER OG KRAV 20 5.1 Følsomhed 5.2 Nabosignalselektivitet 5.3 Dæmpning af uønskede signaler 5.4 Intermodulation 5.5 Uønsket udstråling 5.6 Beskyttelse af indgangskredsene Bilag 1 CCIR rekommandation 476-2 (Kyoto 1978) Bilag 2 CCIR rekommandation 540 (Kyoto 1978) 1. OPLYSNINGER VEDRØRENDE AFPRØVNING, GODKENDELSE OG  
+
+ GEBYR 1.1 Anmodning om afprøvning Ønskes et anlæg afprøvet med henblik på godkendelse, rettes af en dansk  
+
+ fabrikant eller en dansk repræsentant skriftlig henvendelse herom til Anmodning om afprøvning skal indeholde oplysninger om anlæggets fabrikat  
+
+ og typebetegnelse samt de tekniske specifikationer, der er nødvendige for  
+
+ afprøvningen, blandt andet forsyningsspænding.
+ Anmodningen bør endvidere forsynes med oplysning om, hvem der er teknisk  
+
+ sagsbehandler hos rekvirenten.
+ Anmodningen om afprøvningen skal være ledsaget af en komplet teknisk  
+
+ beskrivelse af anlægget, indeholdende blandt andet diagrammer og styklister.
+Endvidere skal der medsendes en målerapport omfattende alle de målinger,  
+
+ der er beskrevet i nærværende bestemmelser.
+Har fabrikanten ved sine målinger  
+
+ set sig nødsaget til at anvende målemetoder eller målebetingelser, der ikke  
+
+ er helt identiske med de heri anførte, skal målerapporten indeholde de  
+
+ fornødne oplysninger herom.
+Post- og Telegrafvæsenet afgør herefter, om en  
+
+ sådan målerapport kan godtages.
+ Målerapporter og beskrivelser, der indleveres i forbindelse med afprøvning  
+
+ af anlæg, er Post- og Telegrafvæsenets ejendom.
+1.2 Indlevering af anlæg til afprøvning Anlæg, der ønskes afprøvet, indleveres til Al transport af anlæg til og fra denne adresse påhviler rekvirenten.
+ Post- og Telegrafvæsenet kan forlange, at rekvirenten opstiller,  
+
+ tilslutter og klargør anlægget til afprøvning.
+1.3 Valg af anlæg til afprøvning Fabrikanten skal normalt stille et eksemplar taget fra produktionen til  
+
+ rådighed for afprøvningen.
+Hvis typegodkendelsen gives på grundlag af  
+
+ målinger på en prototype, skal de tilsvarende produktionseksemplarer i enhver  
+
+ relevant henseende være identiske med det afprøvede eksemplar.
+1.4 Godkendelse Godkendelse kan efter Post- og Telegrafvæsenets afgørelse i hvert enkelt  
+
+ tilfælde gives enten som en typegodkendelse eller som en godkendelse af  
+
+ enkelteksemplar.
+ Alle anlæg af godkendt type skal opfylde nærværende bestemmelser, og en  
+
+ typegodkendelse forudsætter, at samtlige fremstillede anlæg af typen - både  
+
+ med hensyn til strømskemaer, komponenter og montering - er identiske med det  
+
+ afprøvede.
+Anlæg, der ikke i radiomæssig og andre væsentlige henseender er identiske,  
+
+ må ikke bære samme typebetegnelse.
+Foretages der ændringer, må der gives ny  
+
+ typebetegnelse, hvilket vil medføre krav om ny afprøvning, hvis ændringerne  
+
+ har relation til de gældende bestemmelser.
+ Post- og Telegrafvæsenet forbeholder sig ret til ved skøn af afgøre, om  
+
+ anlæg er identiske i henhold til ovenstående, og om ny afprøvning er  
+
+ nødvendig.
+Det er en forudsætning for opretholdelse af en typegodkendelse, at Post-  
+
+ og Telegrafvæsenet med henblik på kontrolmålinger på et hvilket som helst  
+
+ tidspunkt uhindret kan udvælge eksemplarer af vedkommende anlægstype fra  
+
+ lager hos fabrikant eller importør, eventuelt forhandler.
+Hvis det herved  
+
+ eller på anden måde konstateres, at anlæggene ikke opfylder de gældende  
+
+ bestemmelser, eller hvis godkendelsens vilkår iøvrigt tilsidesættes, kan  
+
+ godkendelsen annulleres, både for anlæg, der er taget i brug, og for ikke  
+
+ ibrugtagne anlæg.
+ Givne godkendelser kan annulleres.
+ Godkendelsen omfatter kun forhold, der angår de af Post- og  
+
+ Telegrafvæsenet fastsatte bestemmelser og tager ikke sigte på generelt at  
+
+ omfatte andre myndigheders eventuelle krav til anlæggene og deres  
+
+ installation.
+1.5 Gebyr for afprøvning For afprøvning med henblik på godkendelse som type eller enkelteksemplar  
+
+ opkræves et gebyr pr. prøve, uanset afprøvningsresultat.
+Til beløbet lægges  
+
+ merværdiafgift.
+Post- og Telegrafvæsenet kan efter eget skøn fastsætte et lavere gebyr  
+
+ hvis - en anlægstype eller et enkelteksemplar ikke har kunnet godkendes efter  
+
+ første afprøvning og der ved den fornyede afprøvning efter Post- og  
+
+ Telegrafvæsenets skøn ikke behøver at foretages en komplet afprøvning - anlægstypen eller enkelteksemplaret adskiller sig så lidt fra en  
+
+ allerede godkendt type, at en komplet, fornyet afprøvning efter Post- og  
+
+ Telegrafvæsenets skøn ikke er nødvendig - miljøprøver kan udelades som følge af, at rekvirenten fremlægger  
+
+ fyldestgørende dokumentation for, at anlægget har gennemgået de pågældende  
+
+ prøver med tilfredsstillende resultat på en af Post- og Telegrafvæsenet  
+
+ anerkendt prøvningsanstalt.
+2. TEKNISKE DATA FOR RADIOTELEXUDSENDELSER PÅ  
+
+ FREKVENSEN 518 kHz 2.1 Kystradiostationernes radiotelexudsendelser på frekvensen 518 kHz  
+
+ foretages i teknisk henseende i overensstemmelse med CCIR rekommandation  
+
+ 476-2 (jfr. bilag 1), driftsform B (d.v.s. uden tilbagemeldinger fra den  
+
+ modtagende part om signalerne er modtaget korrekt).
+ For det udsendte signal benyttes således transmissionstype F1B med et  
+
+ frekvensskrift på +/- 85 Hz i forhold til centerfrekvensen 518 kHz, og med en  
+
+ signaleringshastighed på 100 baud.
+ 2.2 De udsendte meldinger er opbygget i overensstemmelse med CCIR  
+
+ rekommandation 540 (jfr. bilag 2).
+ Dette indebærer blandt andet, at der i den enkelte melding er indeholdt  
+
+ information om, fra hvilken kystradiostation, og dermed for hvilket  
+
+ geografisk område, meldingen udsendes (identifikationskarakteren benævnt B1 i  
+
+ CCIR rekommandation 540).
+ I meldingerne udsendes signalet for skift mellem bogstav og tegn to gange  
+
+ lige efter hinanden.
+3. GENERELLE KRAV TIL ANLÆGGET 3.1 Konstruktion 3.1.1 Anlægget skal omfatte en modtagerenhed afstemt til frekvensen 518  
+
+ kHz, en dekoder- og styreenhed indrettet i overensstemmelse med CCIR  
+
+ rekommandation 476-2 (driftsform B) og CCIR rekommandation 540 samt en  
+
+ skriverenhed.
+Enhederne kan være sammenbygget i et enkelt kabinet.
+3.1.2 Anlægget skal både i mekanisk og elektrisk henseende være udført i  
+
+ overensstemmelse med god ingeniørmæssig praksis.
+Det skal være robust og  
+
+ modstandsdygtigt overfor korrosion og anden påvirkning, som kan forekomme ved  
+
+ langvarig brug i maritimt miljø med høj fugtighed og ekstreme temperaturer.
+ 3.1.3 Modtageren skal være egnet for tilslutning til antenne med 50 ohms  
+
+ fødeimpedans samt sådanne stav- og trådantenner, som normalt forekommer om  
+
+ bord på skibe.
+3.1.4 Anlæget kan være forsynet med en tilslutningsmulighed for et  
+
+ lavfrekvenssignal fra en ekstern modtager.
+Tilslutningen bør da være  
+
+ indrettet således, at der opnås korrekt funktion af anlægget, når der gennem  
+
+ en fødeimpedans på 600 ohm tilføres tilslutningspunktet korrekt signal med  
+
+ frekvenssving +/- 85 Hz i forhold til centerfrekvensen 1700 Hz og et niveau  
+
+ på 0 dBm.
+3.2 Betjeningsmæssige forhold 3.2.1 Udvælgelse af udsendelsesområder Anlægget skal være indrettet således, at det er muligt at udvælge hvilke  
+
+ geografiske områder - karakteriseret ved identifikationskarakteren benævnt B1  
+
+ i CCIR rekommandation 540 - der ønskes modtaget udsendelser for.
+ Det skal fremgå hvilke identifikationskarakterer der i den givne situation  
+
+ er udvalgt, henholdsvis udelukket, enten ved direkte indikation på anlægget  
+
+ eller på anden let tilgængelig måde, f.eks. ved oplysninger udskrevet via  
+
+ skriverenheden.
+ Udvælgelsesarrangementet indrettes efter et af følgende 3 hovedprincipper:
+ 3.2.1.1 Anlægget indrettes med betjeningsorganer således, at der blandt  
+
+ udsendelserne svarende til samtlige mulige identifikationskarakterer manuelt  
+
+ kan udvælges i vilkårligt antal og vilkårlig kombination netop de  
+
+ udsendelser, der ønskes modtaget.
+3.2.1.2 Anlægget indrettes med en manuelt betjent områdevælger for valg af  
+
+ farvandsområde med tilhørende automatisk udvælgelse af de relevante  
+
+ identifikationskarakterer inden for det valgte område.
+Med områdevælgeren bør  
+
+ kunne vælges mellem mindst 4 forskellige områder, og inden for det enkelte  
+
+ område bør det interne programmeringsarrangement rumme mulighed for  
+
+ udvælgelse af udsendelser svarende til op til mindst 15  
+
+ identifikationskarakterer.
+Det skal endvidere være muligt at indstille  
+
+ modtageren således, at udsendelser svarende til samtlige  
+
+ identifikationskarakterer modtages.
+3.2.1.3 Anlægget indrettes med interne, men ikke eksterne,  
+
+ programmeringsmuligheder for udvælgelse af udsendelser.
+Anlægget skal dog  
+
+ være forsynet med et betjeningsorgan, hvormed det kan indstilles til at  
+
+ modtage udsendelser svarende til samtlige identifikationskarakterer.
+3.2.2 Udvælgelse af meldingskategorier Anlægget skal være forsynet med  
+
+ muligheder for udelukkelse af modtagning af mindst 4 meldingskategorier.  
+
+ Meldinger vedrørende må dog ikke kunne udelukkes.
+ Det skal ved indikationer på anlægget tydeligt fremgå, hvilke  
+
+ meldingskategorier der er udvalgt, henholdsvis udelukket modtagning af.
+3.2.3 Alarmkredsløb 3.2.3.1 Anlægget skal være forsynet med visuelle alarmer, som aktiveres  
+
+ når meldinger vedrørende er modtaget.
+ Alarmerne skal forblive i aktiveret tilstand, indtil de udkobles manuelt.
+ 3.2.3.2 Der skal være mulighed for at fremføre alarmerne til andre steder  
+
+ på skibet.
+3.2.4 Afprøvningsfaciliteter Anlægget skal være forsynet med et arrangement, som gør det muligt at  
+
+ foretage en afprøvning af anlægget på simpel måde.
+Afprøvningen skal mindst  
+
+ omfatte kontrol af signalvejen fra antenneindgangen til udgangen af  
+
+ demodulatoren, f.eks. under anvendelse af en indbygget højttaler, samt  
+
+ kontrol af styringsenheden og skriverenheden, f.eks. ved udskrift af en  
+
+ kontrolmelding, permanent lagret i styringsenheden.
+ 3.2.5 Kontrol for neddæmpning af belysning m.m.
+ Hvis der på anlægget forefindes lamper for indikation, belysning m.m. skal  
+
+ anlægget være forsynet med et betjeningsorgan, hvormed lyset i alle sådanne  
+
+ lamper kan neddæmpes fuldstændigt.
+3.3 Styring af udskrift 3.3.1 Udskrivning af meldinger 3.3.1.1 For nogle meldingskategoriers vedkommende udsendes den samme  
+
+ melding ofte gentagne gange.
+Anlægget skal derfor være indrettet med et  
+
+ arrangement som hindrer gentagen udskrift af en melding - karakteriseret ved  
+
+ identifikationskaraktererne benævnt B1 , B2 , B3 , B4 i CCIR rekommandation  
+
+ 540 - som allerede er registreret tilfredsstillende modtaget og udskrevet, se  
+
+ dog pkt. 6 i den nævnte rekommandation.
+ 3.3.1.2 En karakter i en modtaget melding anses for fejlbehæftet, hvis  
+
+ karakteren ikke kan bestemmes i anlæggets dekodningsarrangement, og i  
+
+ udskriften af meldingen skal den pågældende karakter da erstattes med en  
+
+ stjerne.
+ 3.3.1.3 En melding anses for at være tilfredsstillende modtaget, hvis  
+
+ mindre end 4% af karaktererne i meldingen er fejlbehæftede.
+ 3.3.1.4 Hvis antallet af fejlbehæftede karakterer i en påbegyndt udskrift  
+
+ af en melding overstiger 10%, skal udskrivningen afbrydes og meldingen  
+
+ behandles som ikke tilfredsstillende modtaget (jfr. pkt. 3.3.1.1).
+3.3.2 Lagring af meldingsidentifikationer 3.3.2.1 Anlægget skal være forsynet med et arrangement der bevirker, at  
+
+ meldingsidentifikationerne for meldinger tilfredsstillende modtaget lagres i  
+
+ en intern hukommelse, som skal kunne rumme identifikationer for mindst 30  
+
+ meldinger.
+ 3.3.2.2 I tilknytning til ovennævnte hukommelse skal forefindes et  
+
+ arrangement, som automatisk sletter meldingsidentifikationer fra hukommelsen  
+
+ tidligst 60 timer og senest 72 timer efter lagringen i hukommelsen.
+ 3.3.2.3 Overstiger behovet for lagring i hukommelsen dennes kapacitet,  
+
+ skal den meldingsidentifikation, der har været lagret længst tid i  
+
+ hukommelsen, automatisk slettes fra denne.
+ 3.3.2.4 Der skal være truffet foranstaltninger som sikrer, at  
+
+ informationen lagret i hukommelsen ikke slettes fra denne selv om tilførselen  
+
+ af forsyningsspænding til anlægget svigter i op til 6 timer.
+3.4 Skriverenhed 3.4.1 Anlægget skal være forsynet med en skriverenhed, således at de  
+
+ modtagne meldinger udskrives på papir.
+ 3.4.2 Hvis anlægget er indrettet for tilslutning til  
+
+ vekselspændingsforsyningsnettet, skal skriverenheden opfylde nedenstående  
+
+ krav både ved frekvensen 50 Hz og frekvensen 60 Hz.
+ 3.4.3 Det skal være muligt på simpel måde at skifte papirmagasin, f.eks.  
+
+ bestående af papirrulle, i skriverenheden.
+ Det enkelte papirmagasin skal indeholde tilstrækkeligt papir til mindst 48  
+
+ timers kontinuerlig skrivning.
+3.4.4 De udskrevne karakterer skal være tydelige og let læselige.
+Der skal  
+
+ kunne udskrives mindst 32 karakterer pr. skrivelinie.
+ Når en skrivelinie er fuldført, skal skriverenheden automatisk påbegynde  
+
+ ny linie, d.v.s. fremføre papiret med 1 linieafstand og udskrive næste  
+
+ karakter i skriveliniens yderste venstre side.
+ Deles et ord på grund af det automatiske linieskift, skal dette fremgå af  
+
+ den skrevne tekst, f.eks. ved en bindestreg.
+ Skriverenheden skal automatisk bevirke en passende fremføring af papiret,  
+
+ når modtagningen af en melding er afsluttet eller afbrydes.
+ 3.4.5 Skriverenhedens akustiske støjniveau skal være så lavt som muligt.
+ 3.5 Opmærkning m.m.
+ 3.5.1 Funktionen af alle måleinstrumenter, kontrollamper,  
+
+ tilslutningsklemmer, betjeningsgreb samt betjeningsgrebenes positioner skal  
+
+ være tydeligt angivet på anlægget.
+ Endvidere skal være angivet hvilke(n) forsyningsspænding(er) anlægget er  
+
+ indrettet for.
+3.5.2 Anlægget skal være tydeligt mærket med fabrikat, typebetegnelse og  
+
+ serienummer.
+Det gælder også det eksemplar, der indleveres til afprøvning.  
+
+ Mærkningen skal være placeret på anlæggets forplade.
+ 3.5.3 Mærkningen skal være mekanisk solid og holdbar og kan f.eks. udføres  
+
+ ved gravering, prægning eller ved anvendelse af metalskilt.
+3.5.4 Alle dele af anlægget, som kræver tilsyn eller justering skal være  
+
+ let tilgængelige.
+Anlæggets enkelte dele skal være lette at identificere.
+ 3.6 Overspænding, sikkerhedskrav m.m.
+ 3.6.1 Anlægget skal være beskyttet mod virkningerne af overspændinger,  
+
+ transienter og utilsigtet polvending af forsyningsspændingen.
+3.6.2 Alle dele og forbindelsesledninger, hvor spændinger på mere end 50  
+
+ volt forekommer, skal være beskyttet mod utilsigtet berøring og skal  
+
+ automatisk frakobles spændingsforsyningen, når beskyttelsen fjernes.
+I stedet  
+
+ kan anlægget være konstrueret på en sådan måde, at adgang til sådanne  
+
+ spændingsførende dele kun kan opnås ved brug af værktøj, f.eks. skruetrækker  
+
+ eller skruenøgle.
+I sidstnævnte tilfælde skal der anbringes iøjenfaldende  
+
+ advarselsskilte såvel inden i anlægget som på afskærmningen.
+3.7 Opvarmningstid Senest 1 minut efter at være tilsluttet forsyningsspændingen skal anlægget  
+
+ være fuldt driftsklart, hvorved forstås, at samtlige krav i nærværende  
+
+ specifikationer skal være opfyldt.
+4. AFPRØVNINGSBETINGELSER 4.1 Generelt Godkendelsesmålingerne foretages under normale afprøvningsbetingelser,  
+
+ samt i de tilfælde hvor det er nævnt, også under særlige  
+
+ afprøvningsbetingelser.
+ Afprøvningsbetingelserne og fremgangsmåden ved afprøvningen er beskrevet  
+
+ nærmere i det følgende (pkt 4.2 til 4.7).
+4.2 Kunstantenne Under godkendelsesmålingerne benyttes som kunstantenne:
+4.2.1 en rent ohmsk modstand på 50 ohm 4.2.2 en rent ohmsk modstand på 10 ohm i serie med en kondensator på 150  
+
+ pF.
+4.3 Standard prøvesignal Under godkendelsesmålingerne benyttes et standard prøvesignal,  
+
+ FSK-moduleret med et frekvensskift på +/- 85 Hz i forhold til den nominelle  
+
+ centerfrekvens 518 kHz, med følgende signalindhold:
+ 1234567890ABCDEFGHIJKLMNOPQ påbegyndelse af ny linie (Carriage return,  
+
+ Line feed), 123 o.s.v.
+ i den nævnte rækkefølge og i iøvrigt i overensstemmelse med CCIR  
+
+ rekommandation 476-2, driftsform B.
+4.4 Tilkobling af prøvesignaler Prøvesignalerne tilføres modtagerindgangen gennem et tilpasningsnetværk,  
+
+ der er indrettet således, at impedansen med modtageren er lig kunstantennens  
+
+ impedans (pkt. 4.2) uanset antallet af samtidigt tilførte signaler.
+ Prøvesignalets niveau udtrykkes ved den elektromotoriske kraft, der er på  
+
+ det sted, hvor modtageren tilsluttes netværket.
+4.5 Spændingsforsyning Under godkendelsesmålingerne forsynes anlægget fra en udvendig  
+
+ spændingskilde, der kan levere forsyningsspændinger som beskrevet i pkt.  
+
+ 4.6.2 og 4.7.3. Spændingsforsyningens indre impedans holdes så lav, at dens  
+
+ indflydelse på målingerne er uden betydning.
+ Under afprøvningen holdes forsyningsspændingen inden for +/- 3% af  
+
+ spændingen ved målingens begyndelse.
+4.6 Normale afprøvningsbetingelser 4.6.1 Normal temperatur og fugtighed Afprøvning under normale afprøvningsbetingelser foretages i et almindeligt  
+
+ laboratorium uden særlig kontrol af temperatur og fugtighed, d.v.s. ved  
+
+ temperaturer mellem + 15 grader C og + 35 grader C og relative fugtigheder  
+
+ mellem 20% og 75%.
+4.6.2 Forsyningsspænding ved afprøvning under normale betingelser 4.6.2.1 Forsyning fra nettet Ved afprøvninger under normale betingelser tilføres anlæg, der er beregnet  
+
+ for tilslutning til det almindelige forsyningsnet, en forsyningsspænding lig  
+
+ nettets nominelle spænding med frekvensen 50 Hz (+/- 1 Hz).
+4.6.2.2 Forsyning fra akkumulatorbatteri Hvor anlægget er beregnet til brug i forbindelse med akkumulatorbatteri,  
+
+ anvendes under afprøvningen en forsyningsspænding lig batteriets nominelle  
+
+ spænding (6 volt, 12 volt ect.).
+4.6.2.3 Andre spændingskilder For anlæg, der benytter andre typer spændingsforsyninger end ovennævnte,  
+
+ opgives afprøvningsspændingen af fabrikanten.
+4.7 Særlige afprøvningsbetingelser 4.7.1 Temperaturer ved afprøvning under særlige betingelser Ved afprøvning under særlige betingelser udføres målingerne i  
+
+ overensstemmelse med den fremgangsmåde, der er beskrevet i pkt. 4.7.2.
+ Målingerne udføres ved 0 grader C og 40 grader C.
+4.7.2 Fremgangsmåde ved afprøvning ved særlige temperaturer Når afprøvningen ved normal temperatur (pkt. 4.6.1) er afsluttet,  
+
+ anbringes anlægget i et klimakammer, hvori temperaturen kan fastholdes på en  
+
+ konstant værdi (+/- 3 grader C).
+Målingerne påbegyndes først, når anlægget er i termisk ligevægt.  
+
+ Ligevægtstilstanden opnås ved at udsætte anlægget for den temperatur, der  
+
+ skal måles ved, i en periode, hvis varighed fastsættes efter Post- og  
+
+ Telegrafvæsenets skøn, dog mindst 1 time.
+Anlægget holdes afbrudt i denne  
+
+ periode.
+ Fugtigheden i kammeret holdes så lav, at kondensation ikke finder sted.
+4.7.3 Forsyningsspænding ved afprøvning under særlige betingelser 4.7.3.1 Forsyning fra nettet Forsyningsspændingerne for anlæg, der er beregnet for tilslutning til det  
+
+ almindelige forsyningsnet, vil ved afprøvninger under særlige betingelser  
+
+ være forsyningsnettets nominelle spænding + 10% henholdsvis - 10%, med  
+
+ frekvensen 50 Hz (+/- 1 Hz).
+ 4.7.3.2 Forsyning fra akkumulatorbatteri Hvor anlægget er beregnet for  
+
+ brug i forbindelse med akkumulator, anvendes forsyningsspændinger på  
+
+ henholdsvis 1,3 og 0,9 gange batteriets nominelle spænding (6 volt, 12 volt  
+
+ etc.).
+4.7.3.3 Andre spændingskilder For anlæg, der benytter andre typer spændingskilder end ovennævnte,  
+
+ angives spændingsgrænserne af fabrikanten.
+4.8 Miljøprøver 4.8.1 Generelt Før miljøprøverne påbegyndes, afprøves anlægget med hensyn til de øvrige  
+
+ krav i nærværende tekniske bestemmelser.
+ Ved godkendelsesmålingerne kan miljøprøver udelades i det omfang, hvor  
+
+ rekvirenten fremlægger dokumentation for, at anlægget har været underkastet  
+
+ de pågældende prøver med tilfredsstillende resultat på en af Post- og  
+
+ Telegrafvæsenet anerkendt prøvningsanstalt.
+ Hvor der i det følgende er anvendt udtrykket funktionsprøve, menes en  
+
+ simpel afprøvning af operationel og elektrisk art, herunder kontrol af  
+
+ anlæggets følsomhed (jfr. pkt. 5.1) ved tilførsel af standardprøvesignal med  
+
+ et niveau, der er 6 dB højere end angivet i pkt. 5.2.
+ De elektriske funktionsprøver udføres ved forsyningsspænding som anført i  
+
+ pkt. 4.6.2.
+4.8.2 Vibration Anlægget med eventuelle stødabsorberende anordninger fastspændes på  
+
+ vibrationsbordet i normal brugsstilling.
+ 4.8.2.1 Først udsættes anlægget i 15 minutter for vertikale vibrationer i  
+
+ frekvensområdet 1 Hz til 12,5 Hz med en spids til spids amplitude på 3,2 mm  
+
+ og med en frekvensændring som beskrevet i pkt. 4.8.2.4.
+ 4.8.2.2 Herefter udsættes anlægget i 15 minutter for vertikale vibrationer  
+
+ i frekvensområdet 12,5 Hz til 25 Hz med en spids til spids amplitude på 0,76  
+
+ mm og med en frekvensændring som beskrevet i pkt. 4.8.2.4.
+ 4.8.2.3 Endelig udsættes anlægget i 15 minutter for vertikale vibrationer  
+
+ i frekvensområdet 25 Hz til 50 Hz med en spids til spids amplitude på 0,2 mm  
+
+ og med en frekvensændring som beskrevet i pkt. 4.8.2.4.
+ 4.8.2.4 Ændringshastigheden af vibrationsfrekvensen må ikke være større  
+
+ end 1 oktav pr. minut.
+ 4.8.2.5 Ovenstående vibrationsprøve gentages herefter i to på hinanden  
+
+ vinkelrette retninger i det horisontale plan.
+I den udstrækning det er muligt, holdes anlægget under observation ved  
+
+ afprøvningen.
+Hvis dele af anlægget vibrerer unormalt meget, undersøges disse  
+
+ nøjere.
+ Anlægget holdes i drift under alle vibrationsprøverne, og enkle  
+
+ funktionsprøver gennemføres for at kontrollere, at anlægget er  
+
+ funktionsdygtigt under disse omstændigheder.
+ Når vibrationsprøverne er afsluttet, undersøges anlægget for mekaniske  
+
+ defekter.
+4.8.3 Tør varme 4.8.3.1 Anlægget anbringes i et klimakammer, hvorefter temperaturen hæves  
+
+ til + 55 grader C (+/- 3 grader C) og opretholdes i et sådant tidsrum, at  
+
+ anlægget, der er afbrudt, opnår termisk ligevægt.
+ 4.8.3.2 Derpå sættes anlægget i drift, og temperaturen i kammeret  
+
+ fastholdes på + 55 grader C (+/- 3 grader C). Efter 2 timers forløb foretages  
+
+ ved samme temperatur funktionsprøver med det formål at kontrollere, at  
+
+ anlægget er funktionsdygtigt.
+ 4.8.3.3 Efter afslutningen af funktionsprøven udsættes anlægget for normal  
+
+ temperatur i mindst 3 timer, før yderligere prøver gennemføres.
+4.8.4 Fugtig varme 4.8.4.1 Anlægget anbringes i et klimakammer, hvorefter temperaturen i  
+
+ løbet af 3 +/- 1/2 time hæves jævnt fra stuetemperatur til + 40 grader C (+/-  
+
+ 3 grader C). Samtidig øges den relative fugtighed til 93% (+/- 2%), således  
+
+ at kondensdannelse ikke finder sted.
+ 4.8.4.2 Herefter fastholdes temperatur og fugtighed i mindst 10 timer,  
+
+ hvorpå anlægget sættes i drift og underkastes en funktionsprøve af mindst en  
+
+ halv times varighed for at kontrollere, at anlægget er funktionsdygtigt.
+ 4.8.4.3 Hvis anlægget er forsynet med ventilatorer, må disse sættes i  
+
+ funktion 30 minutter før påbegyndelsen af funktionsprøven.
+ 4.8.4.4 Idet anlægget forbliver i klimakammeret, bringes temperaturen heri  
+
+ derpå i løbet af mindst 1 time ned til normal temperatur og fugtighed i et  
+
+ sådant tidsrum - mindst 3 timer - at al synlig fugtighed er forsvundet.
+4.8.5 Lav temperatur 4.8.5.1 Anlægget anbringes i et klimakammer, hvorefter temperaturen sænkes  
+
+ til - 15 grader C (+/- 3 grader C) og fastholdes her i mindst 10 timer.
+I de  
+
+ sidste 30 minutter af perioden gennemføres funktionsprøver for at  
+
+ kontrollere, at anlægget er funktionsdygtigt.
+5. RADIOTEKNISKE MÅLINGER OG KRAV 5.1 Følsomhed 5.1.1 Definition Modtagerens følsomhed er det laveste niveau af et tilført indgangssignal,  
+
+ ved hvilket den relative hyppighed af forkerte karakterer i modtagerens  
+
+ udgangssignal ikke er større end en given værdi.
+5.1.2 Målemetode Et standard prøvesignal med et niveau på 2 myV tilføres modtagerens  
+
+ indgang som specificeret i pkt. 4.4. således at modtageren belastes som  
+
+ angivet i pkt. 4.2.1. Den relative hyppighed af forkerte karakterer i  
+
+ skriverenhedens udskrift registreres.
+ Derefter tilføres modtageren et standard prøvesignal med et niveau på 5  
+
+ myV som specificeret i pkt. 4.4 således at modtageren belastes som angivet i  
+
+ pkt. 4.2.2. Den relative hyppighed af forkerte karakterer i skriverenhedens  
+
+ udskrift registreres igen.
+ Målingerne udføres både ved normale afprøvningsbetingelser og ved særlige  
+
+ afprøvningsbetingelser (pkt. 4.7.1 og 4.7.3 anvendt samtidigt).
+5.1.3 Krav Den relative hyppighed af forkerte karakterer må højst være 4 x 10(-2).
+5.2 Nabosignalselektivitet 5.2.1 Definition Ved nabosignalselektiviteten forstås her undertrykkelsen af et uønsket  
+
+ signal i nabokanalen til det ønskede signal, udtrykt ved den relative  
+
+ hyppighed af forkerte karakterer, det uønskede signal forårsager i  
+
+ modtagerens udgangssignal.
+5.2.2 Målemetode To signaler tilføres modtageren som specificeret i pkt. 4.4 således, at  
+
+ modtageren belastes som angivet i pkt. 4.2.2. Som det ønskede signal benyttes  
+
+ et standard prøvesignal med et niveau på 20 dB/1 myV.
+ Som det uønskede signal benyttes et umoduleret signal med frekvensen 517,5  
+
+ kHz og derefter 518,5 kHz, med et niveau på 40 dB/1 myV.
+ Den relative hyppighed af forkerte karakterer i skriverenhedens udskrift  
+
+ registreres.
+ Målingerne foretages både ved normale afprøvningsbetingelser og ved  
+
+ særlige afprøvningsbetingelser (pkt. 4.7.1 og 4.7.3 anvendt samtidigt).
+5.2.3 Krav Den relative hyppighed af forkerte karakterer må højst være 4 x 10(-2).
+5.3 Dæmpning af uønskede signaler 5.3.1 Definition Ved dæmpningen af uønskede signaler forstås her undertrykkelsen af et  
+
+ uønsket signal med en frekvens beliggende uden for modtagerens  
+
+ gennemgangsområde for det ønskede signal og nabokanaler, udtrykt ved den  
+
+ relative hyppighed af forkerte karakterer, det uønskede signal forårsager i  
+
+ modtagerens udgangssignal.
+5.3.2 Målemetode To signaler tilføres modtageren som specificeret i pkt. 4.4 således, at  
+
+ modtageren belastes som angivet i pkt. 4.2.2. Som det ønskede signal benyttes  
+
+ et standard prøvesignal med et niveau på 20 dB/1 myV.
+ Som det uønskede signal benyttes et umoduleret signal med et niveau på 90  
+
+ dB/1 myV og med en frekvens, der varieres over frekvensområdet 100 kHz til 30  
+
+ MHz med undtagelse af frekvensbåndet 515 kHz til 521 kHz.
+ Den relative hyppighed af forkerte karakterer i skriverenhedens udskrift  
+
+ registreres.
+5.3.3 Krav Den relative hyppighed af forkerte karakterer må højst andrage 4 x 10(-2).
+5.4 Intermodulation 5.4.1 Definition Ved modtagerens intermodulationsdæmpning forstås her dæmpningen af  
+
+ intermodulationsprodukter hidrørende fra to uønskede signaler med givne  
+
+ niveauer og frekvenser, udtrykt ved den relative hyppighed af forkerte  
+
+ karakterer, disse produkter forårsager i modtagerens udgangssignal.
+5.4.2 Målemetode Tre signaler tilføres modtageren som specificeret i pkt. 4.4 således, at  
+
+ modtageren belastes som angivet i pkt. 4.2.2. Som det ønskede signal benyttes  
+
+ et standard prøvesignal med et niveau på 20 dB/1 myV.
+ Som uønskede signaler benyttes to umodulerede signaler, begge med et  
+
+ niveau på 70 dB/1 myV og med frekvenserne 520 kHz og 522 kHz, derefter  
+
+ frekvenserne 514 kHz og 516 kHz.
+ Den relative hyppighed af forkerte karakterer i skriverenhedens udskrift  
+
+ registreres.
+5.4.3 Krav Den relative hyppighed af forkerte karakterer må højst være 4 x 10(-2).
+5.5 Uønsket udstråling over antennetilslutningen 5.5.1 Definition Uønsket udstråling er alle internt genererede signaler - uanset frekvens - der optræder på modtagerens antennetilslutning.
+5.5.2 Målemetode Modtagerindgangen belastes med kunstantennen specificeret i pkt.
+4.2.1, og den uønskede udstrålings enkelte komponenter inden for frekvensområdet 100 kHz til 30 MHz måles.
+Målingen gentages for modtageren belastet med kunstantennen specificeret i pkt. 4.2.2, idet den uønskede udstrålings komponenter måles over den ohmske del af kunstantennen.
+5.5.3 Krav Effekten af uønsket udstråling må ikke overstige 2 nW på nogen som helst  
+
+ frekvens.
+5.6 Beskyttelse af indgangskredsene 5.6.1 Modtageren må ikke kunne tage skade ved at der gennem netværket  
+
+ omtalt under pkt. 4.4. i 15 minutter tilføres antenneindgangen et umoduleret  
+
+ signal med et niveau på 30 volt EMK og med en vilkårlig frekvens inden for  
+
+ området 100 kHz til 28 MHz.
+Når signalet derefter fjernes, skal modtageren  
+
+ uden videre igen fungere normalt.
+ 5.6.2 Modtageren skal være beskyttet mod skader som følge af sådanne  
+
+ statiske spændinger, som må påregnes at kunne forekomme på antenneindgangen.

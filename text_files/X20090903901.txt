@@ -1,0 +1,138 @@
+Obligation  uforrentet fordring i fremmed valuta Spørgsmål 1. Kan det bekræftes, at AB obligationen skattemæssigt skal behandles efter reglerne for fordringer i fremmed valuta, og at udlånsproduktet, hvor udviklingen i restgælden reguleres i forhold til AB modellen skattemæssigt skal behandles som en gæld i fremmed valuta? 2. Kan det bekræftes, at kursgevinst eller -tab på AB obligationen henholdsvis lånet medregnes i investors/låntagers indkomstopgørelse i det indkomstår, hvor obligationen afstås eller indfris, eller hvor lånet afdrages eller indfries? 3. Kan det bekræftes, at de ugentlige rebalanceringer af vægtningen af valutaer ikke medfører, at der skattemæssigt skal opgøres kursgevinster eller -tab på ugebasis? 4. Kan det bekræftes, at den samlede nettokursregulering på AB obligationen skattemæssigt anses for kursgevinst eller -tab? Svar 1. Ja.
+ 2. Ja.
+ 3. Ja.
+ 4. Ja.
+Beskrivelse af de faktiske forhold En Bank har udviklet en model, der på grundlag af nogle objektive kriterier, ugentlig fastsætter den optimale vægtning af de valutaer, der indgår i en valutakurv.
+Værdiudviklingen i denne valutakurv, ønsker banken at lægge til grund ved beregningen af indfrielseskursen på en obligation henholdsvis restgælden på et udlån.
+Beskrivelse af modellen I modellen samles en kurv af valutaer fra G10-landene.
+Nogle landes valutaer har en høj rente, men samtidig også en høj individuel risiko såvel som en høj samvariation.
+Modellen optimerer den forventede gevinst i forhold til risikoen på de underliggende valutaer.
+Sammenlignet med en ligevægtet kurv af valutaer forventes modellen at give et mere stabilt afkast over tid.
+Den præcise afvejning sker, som beskrevet nedenfor.
+I modellen bestemmes den optimale vægtning af de enkelte G10-valutaer i valutakurven.
+Ved denne procedure fastsættes den såkaldte "efficiente rand", hvor et punkt på den efficiente rand er givet ved den kurv af valutaer, der genererer det højeste forventede afkast for en given volatilitet.
+Ved beregning af den optimale vægtning af valutaerne, anvendes de historiske korrelationer mellem valutaerne og deres historiske volatilitet.
+Vægtningen i den optimale valutakurv reduceres i perioder med høj realiseret volatilitet og øges i perioder med lav realiseret volatilitet.
+Herved opnås den samme risikomæssige eksponering i perioder med høj og lav markedsrisiko.
+Vægtningen af de enkelte valutaer i G10-valutakurven beregnes automatisk og objektivt på ugentlig basis på grundlag de indsamlede data.
+Den præcise beregningsmodel er beskrevet og dokumenteret i modellens forretningsbeskrivelse.
+Når modellen er taget i brug og danner grundlag for beregning af såvel obligationens indfrielseskurs og som lånets restgæld, kan modellens beregningsprincipper ikke ændres.
+De ugentlige beregninger, der fastsætter den optimale valutavægtning, er således en objektiv og maskinelt foretaget beregning.
+Beskrivelse af AB obligation Banken ønsker at udstede en obligation, hvor indfrielseskursen afhænger af udviklingen i en kurv af G10-valutaer.
+Bankens obligation (AB obligation) har følgende karakteristika:
+Løbetiden er 3 år Udstedes i danske kroner (DKK) Obligationen udstedes til kurs pari Obligationen registreres i VP Obligationen udstedes som en nulkupon obligation, og ved salg beregnes der ikke vedhængende rente Hovedstolen gange med værdien af indekset minus akkumuleret running fee tilbagebetales ved udløb Running fee beregnes som 1 % p.a. af indeksværdien Obligationen indeholder ikke en kapitalgaranti, men har et på forhånd fastsat "stop-loss". Falder værdien af indekset til under den fastsatte stop-loss værdi førtidsindfries AB obligationen til den gældende markedsværdi.
+ Obligationskursværdien i DKK på obligationens første handelsdag (t=0) skal være lig med hovedstolen, svarende til at indeksværdien er 100. Obligationskursværdien i DKK skal til enhver tid være lig med hovedstolen divideret med 100 og ganget med indeksværdien minus akkumuleret running fee.
+Beskrivelse af indeks Indeks følger afkastet på modellen samt renten.
+ Indekset kan beskrives som:
+Modellen Modellen rebalanceres ugentligt Rente af indeksværdien Indeksværdien beregnes ud fra valutakurserne og terminspræmierne i modellen.
+Valutakurserne er de officielle referencekurser fra Den Europæiske Centralbank (ECB). Kurserne indsamles hver bankdag kl. 14:15 og offentliggøres ca. kl. 14:25 bl.a. på ECB's hjemmeside, Bloomberg og Reuters.
+Oplysninger om terminspræmier, der matcher løbetiden af de enkelte terminskontrakter i modellen, indsamles via Bloomberg kl. 14:10 - 14:30.
+Beskrivelse af valutaindekseret lån reguleret efter modellen Der optages et lån i DKK, hvorpå der på grundlag af den til enhver tid værende restgæld løbende beregnes en bagudbetalt rente ud fra en variabel dag-til-dag rente.
+Derudover reguleres restgælden på lånet ugentligt i overensstemmelse med modellen.
+ Lånet har følgende karakteristika:
+Løbetiden er op til 10 år Lånet kan optages på hver rebalanceringsdag Udstedes i danske kroner (DKK) Udbetales til kurs 100 Lånet forrentes med en variabel dag-til-dag rente Den akkumulerede rente forfalder til betaling ultimo hver måned Restgælden reguleres i forhold til modellen Performance gebyr beregnes ugentligt, som en procentdel (2%/52) af restgælden Der beregnes ikke performance gebyr, hvis ugens rebalancering udviser et kurstab Kan etableres som stående lån eller som serielån Ved afdrag eller indfrielse tilbagebetales den aktuelle restgæld i DKK Lånet kan opsiges til førtidsindfrielse med et varsel Udviser den ugentlige rebalancering et kurstab øges restgælden på lånet tilsvarende mens restgælden reduceres såfremt rebalanceringen udviser en kursgevinst.
+Udviser den ugentlige rebalancering en kursgevinst, vil der af banken blive beregnet et performance gebyr, som fratrækkes den opnåede kursgevinst.
+Restgælden på lånet reduceres med den opnåede gevinst minus performance gebyr.
+Performance gebyr beregnes som en procentdel af restgælden.
+Der beregnes ikke performance gebyr såfremt den ugentlige rebalancering udviser et tab.
+Spørgers eventuelle opfattelse ifølge anmodning og bemærkninger til sagsfremstilling Ad spørgsmål 1 Det er vores opfattelse, at obligationen skal kvalificeres som en obligation i fremmed valuta, idet den er udstedt i danske kroner, men hovedstolen reguleres i forhold til udviklingen i én eller flere valutakurser, jf.
+KGL § 1, stk. 2. Da obligationen alene er reguleret i forhold til udviklingen i én eller flere valutakurser, er obligationen ikke omfattet af regler for beskatning af finansielle kontrakter, jf.
+KGL § 29, stk. 3, 2. pkt.
+Udlånsproduktet er efter vores opfattelse en gæld i danske kroner, hvor restgælden reguleres i forhold til udviklingen i én eller flere valutakurser, jf.
+KGL § 1, stk. 2.
+Ad spørgsmål 2 Efter vores opfattelse skal eventuelle kursgevinster eller -tab beskattes ved afståelse eller indfrielse af obligationen, jf.
+KGL §§ 3 og 16, og for udlånsproduktet skal eventuelle kursgevinster eller -tab ligeledes beskattes ved realisation, altså ved afdrag på lånet eller ved indfrielse, jf.
+KGL §§ 6 og 20.
+Ad spørgsmål 3 Ændringer af de aftalte vilkår på fordringer og gæld kan medføre, at fordringen og gælden anses for realiseret og nystiftet.
+Af bemærkningerne til lovforslag L194 1996/97 var angivet, at dette blandt andet kunne være tilfældet ved ændring af valuta og rente.
+Fra praksis kan f.eks. henvises til afgørelsen SKM2003.545.LR, hvor en efterfølgende ændring af de oprindelige lånevilkår, hvorved lånene blev gjort rentefrie, var en væsentlig ændring af vilkårene, som medførte at lånene måtte anses for indfriet med stiftelse af nye lån til følge.
+Der var ikke sket kontant indfrielse af de oprindelige lån, og ændringen fandt sted efter senere konkret aftale mellem parterne.
+Som eksempel på at automatisk omlægning af valuta ikke har skattemæssige konsekvenser kan nævnes TfS1999.172SKD hvor Skatteministeriets Departement udtalte, at redenominering af nationale valutaer til Euro for så vidt angår de lande, der har indført Euro, for obligationernes vedkommende ikke sidestilles med afståelse.
+Her ses der således foretaget en automatisk omlægning af en valuta til ny fælles Euro uden ændring i det oprindelige aftalegrundlag og uden at aftaleparterne havde indflydelse herpå.
+Tilsvarende er der ifølge praksis ikke skattemæssigt tale om indfrielse og nystiftelse, når der på variabelt forrentede obligationer eller lån sker automatisk rentetilpasning, hvor renten eksempelvis tilpasses til den gældende 3 måneders rente, i henhold til de gældende vilkår for obligationen eller lånet.
+Heller ikke en automatisk rentetilpasning på FlexLån® anses skattemæssigt som indfrielse og optagelse af et nyt lån.
+Som det fremgår, anses en ændring af valuta kun at have skattemæssige konsekvenser, dersom der ved en ny aftale mellem debitor og kreditor sker ændringer i det oprindelige aftalegrundlag.
+Sker ændringen automatisk i henhold til det oprindelige aftalegrundlag, har ændring af valuta ikke skattemæssige konsekvenser.
+I nærværende sag er de ugentlige rebalanceringer ikke en følge af ændringer i de aftalte vilkår, men en konsekvens af den oprindelige aftale om automatisk regulering af sammensætningen af valutakurven.
+Den oprindelige obligation eller gæld udstedt i danske kroner eksisterer uændret med den samme hovedstol og vilkår.
+ Det er derfor vores opfattelse, at der ikke skattemæssigt skal opgøres kursgevinster eller -tab på ugebasis.
+Ad spørgsmål 4 Ifølge praksis defineres en kursgevinst som alle former for afkast, der ikke kan kvalificeres som rente.
+Den kurs, som obligationen ved udløb bliver indfriet til, reguleres af indekset.
+Renten indgår ganske vist som et element i indekset, men da der er tale om en samlet regulering, klassificeres hele reguleringen skattemæssigt som kursgevinst eller -tab.
+ Rådgiver har kommet med supplerende bemærkninger.
+ For så vidt angår besvarelsen af spørgsmål 4 bemærkes følgende:
+Rente defineres som "beløb, der er et sædvanligt periodisk vederlag til kreditor - beregnet som en bestemt procentdel af den til enhver tid værende gæld - for at stille kapital til rådighed", jf.
+U 1960.589 HRD.
+Ligningsrådet har endvidere ved vurderingen af, om en rente opfyldte rentedefinitionen lagt vægt på, om rentesatsen blev fastsat forud for den renteperiode den vedrører, jf.
+SKM2003.409.LR og SKM2003.410.LR.
+Hvis den endelige rentesats først fastsættes senere, er der ikke tale om rente, men en kursgevinst, jf.
+Ligningsvejledningen 2008, afsnit A.D.1.
+Ifølge praksis indtræder beskatningen af renter til personer normalt på forfaldstidspunktet, mens selskaber skal periodisere renter.
+Fælles er det dog en betingelse for beskatning, at der er erhvervet endelig og uigenkaldelig ret til renten.
+ Endelig defineres en kursgevinst ifølge praksis som afkast, der ikke efter rentedefinitionen kan kvalificeres som rente.
+ Efter vores opfattelse er renteelementet, der indgår ved beregningen af indekset, ikke en rente i skattemæssig forstand, men derimod alene en integreret del af et indekseret afkast.
+Det skyldes for det første, at der ikke er tale om et beløb, der forfalder til betaling ved udløbet af hver beregningsperiode.
+Der er heller ikke tale om, at beløbet på nogen måde tilskrives en konto tilhørende obligationsejeren.
+Hvis obligationsejeren sælger værdipapiret, vil der ligeledes ikke være handelsrenter.
+For det andet er der ikke tale om en rente, der kan fastsættes forud for beregningsperioden som en fast procentdel af den til enhver tid værende gæld.
+Det skyldes, at også renteelementet i hele obligationens løbetid reguleres i takt med indekseringen.
+Hvis indekset falder i værdi, vil obligationsejeren ikke oppebære renteelementet fra de foregående perioder fuldt ud.
+Inden obligationens udløb kan renteelementet således vise sig at blive væsentligt reduceret.
+Dette kan illustreres med udgangspunkt i det beregningseksempel, som er angivet på side 3 i udkast til sagsfremstilling.
+I tabellen nedenfor vises, hvordan renteelementet påvirkes af indeksreguleringen.
+Eksempel fra side 3 i udkast til sagsfremstilling Som det fremgår af tabellen, indebærer indeksreguleringen i uge 2, 3 og 6, at renteelementet til obligationsejeren bliver mindre end det oprindeligt beregnede beløb, mens indeksreguleringen i uge 1, 4, 5 og 7 indebærer, at obligationsejeren modtager et større beløb.
+Renteelementet tilskrives således ikke obligationsejeren, og obligationsejeren erhverver heller ikke på anden vis endelig ret til en forrentning af obligationen.
+Da renteelementet dermed ikke opfylder den skattemæssige rentedefinition, er det blot en del af kursgevinsten/-tabet, der skal opgøres ved afståelse eller udløb af obligationen.
+SKATs indstilling og begrundelse Ad spørgsmål 1 Følgende fremgår af KGL § 1, stk. 2, 1. pkt.:
+"Fordringer og gæld i danske kroner betragtes som efter denne lov som fordringer og gæld i fremmed valuta, hvis hovedstolen henholdsvis restgælden reguleres i forhold til en eller flere valutakurser." Det er SKATs vurdering, at KGL § 1, stk. 2, 1. pkt., omfatter helt eller delvist regulering efter en eller flere fremmede valutaer.
+SKAT har lagt vægt på at ordet "reguleres" anvendes og dette kan indeholde både en hel eller delvis regulering under den forudsætning af, at der ikke i øvrigt sker regulering, der er udtryk for en regulering på andet grundlag, jf. dog nedenfor.
+Obligationen Det fremgår af det oplyste, at obligationen udstedes i danske kroner og at indfrielsesbeløbet er hovedstolen gange CtR indeks minus akkumuleret running fee og at indekset vil bestå af en vægtning af 10 valutaer.
+ På baggrund af det oplyste finder SKAT, at obligationen er omfattet af KGL § 1, stk. 2, 1. pkt.
+ Det fremgår af KGL § 29, stk. 3, at fordringssiden (obligationsejerne) af en obligation kan være omfattet af reglerne om finansielle kontrakter, hvis visse betingelser er opfyldt.
+ Kursgevinstlovens § 29, stk. 3, har følgende ordlyd:
+"Dette kapitel og kapitel 7 gælder også gevinst og tab på fordringer, der ikke er omfattet af §§ 4 og 5, hvis fordringen reguleres helt eller delvis i forhold til udviklingen i priser og andet på værdipapirer, varer og andre aktiver m.v., når blot udviklingen er af en karakter, som kan lægges til grund i en finansiel kontrakt, jf. dog § 10. Dette kapitel og kapitel 7 gælder dog ikke, hvis eventuel gevinst hos personer er omfattet af § 16 eller fordringen alene reguleres i forhold til udviklingen i de af Danmarks Statistik beregnede forbrugerprisindeks eller nettoprisindeks.
+Dette kapitel og kapitel 7 gælder heller ikke, hvis fordringen alene reguleres i forhold til udviklingen i tilsvarende officielle forbrugerprisindeks eller nettoprisindeks inden for Den Europæiske Union eller dens medlemsstater.
+Dette kapitel og kapitel 7 gælder altid for fordringer, der ganske vist opfylder betingelserne i 2. og 3. pkt. for ikke at være omfattet, men som herudover reguleres helt eller delvis i forhold til udviklingen i et andet grundlag, jf. stk. 1, og for fordringer, som reguleres på grundlag af valuta og prisindeks som nævnt i 2. og 3. pkt., der ikke vedrører samme område.
+Udstedelse i fremmed valuta sidestilles med regulering på grundlag af den pågældende valuta.
+Prisindeks i et land, der deltager i euroen, og euroen antages at vedrøre samme område".
+ Det fremgår af KGL § 29, stk. 3, 2. pkt., at § 29, stk. 3, ikke finder anvendelse på fordringer, der er omfattet af KGL § 16.
+ Obligationen er efter KGL § 1, stk. 2, 1. pkt., en fordring i fremmed valuta og den er derfor omfattet af KGL § 16, der omhandler gevinst og tab på fordringer i fremmed valuta.
+ I KGL § 29, stk. 3, 4. pkt., står følgende:
+"Dette kapitel og kapitel 7 gælder altid for fordringer, der ganske vist opfylder betingelserne i 2. og 3. pkt. for ikke at være omfattet, men som herudover reguleres helt eller delvis i forhold til udviklingen i et andet grundlag, jf. stk. 1..." Det fremgår af det oplyste, indfrielsessummen bliver fratrukket et "running fee" og der indgår en rente i indekset (jf. spm. 4 vedr. renten).
+ Det er SKATs vurdering, at "running fee" og renten i indekset ikke kan sidestilles med en regulering som nævnt i § 29, stk. 3, 1. pkt.
+ SKAT har lagt vægt på, at "running fee" og renten i indekset ikke følger udviklingen i priser og andet på værdipapirer, varer og andre aktiver m.v.
+ SKAT finder derfor, at obligationen skal behandles efter reglerne for fordringer i fremmed valuta.
+ Lånet:
+ Det fremgår af det oplyste, at lånet er i danske kroner og at restgælden reguleres i forhold til modellen eventuelt reguleret med et performance gebyr.
+ På baggrund af det oplyste finder SKAT, at obligationen er omfattet af KGL § 1, stk. 2, 1. pkt., jf. indledning til besvarelsen af spørgsmål 1.
+ Det indstilles at svare ja til spørgsmålet.
+Ad spørgsmål 2 Det fremgår af kursgevinstlovens § 25, stk. 1, at gevinst og tab på fordringer og gæld skal som udgangspunkt medregnes i det indkomstår, hvori gevinsten eller tabet realiseres (realisationsprincippet).
+ Efter § 25, stk. 2, kan den skattepligtige dog vælge at anvende lagerprincippet på gevinst og tab på gæld og fordringer, som følger af valutakursændringer.
+ Det et SKATs opfattelse, at det kan bekræftes, at en kursgevinst/tab skal medregnes i det indkomstår, hvor obligationen indfris eller afstås, såfremt den skattepligtige kun anvender realisationsprincippet.
+ Det indstilles at svare ja til spørgsmålet.
+Ad spørgsmål 3 Det fremgår af praksis, at en ændring af en aftale kan medføre at aftalen må anses for ophævet og en ny aftale indgået.
+Tilsvarende kan en ændring af vilkårene for en fordring medfører, at fordringen må anses for indfriet og en ny fordring stiftet.
+Det afgørende er, hvorvidt der er tale om en væsentlig ændring.
+I bemærkninger til KGL fremgår det, at en ændring af en valuta eller rente må anses for væsentlige.
+Det er SKATs opfattelse, at de ændringer af vilkår/aftale der tænkes på er efterfølgende ændringer, der ikke fremgik af den oprindelige aftale.
+Dvs. en fordring var i danske kroner, men det aftales nu midt i løbetiden, at fordringen skal være i dollars.
+ I den konkrete sag er der på aftaletidspunktet aftalt en bestemt regulering, der medfører ugentlige rebalanceringer af vægtningen af valutaer.
+ Dette kan efter SKATs vurdering ikke sidestilles med en ændring af aftalen, da det indgik i aftalen på aftaletidspunktet, at der ville ske disse reguleringer.
+ Det indstilles at svare ja til spørgsmålet.
+Ad spørgsmål 4 Det fremgår af det oplyste, at nettokursreguleringen vil bestå af rentedel og en regulering på baggrund af valutakurser og terminspræmier.
+ SKAT har opdelt besvarelsen af spørgsmål 4 i to punkter rentedelen og valutakurs/terminspræmiedelen.
+Rentedelen af nettokursreguleringen I UfR 1960.589 HRD blev en rente defineret som "beløb, der er et sædvanligt periodisk vederlag til kreditor - beregnet som en bestemt procentdel af den til enhver tid værende gæld - for at stille kapital til disposition.
+ I SKM2003.409.LR og SKM2003.410.LR fandt Ligningsrådet, at renten skal være fastsat forud for den periode som den skal vedrøre.
+Det fremgår af det oplyste, at der forud for en periode på 7 dage fastsættes en rente.
+Når de 7 dage er gået bliver den fastsatte rente tilskrevet restgælden og der fastsættes herefter en ny rente for den næste rente periode på 7, der skal forrente den samlede gæld.
+ Denne rente indgår i selve indekset, dvs. hvis indekset falder i værdi vil dette også medføre et fald i den rente, der var tilskrevet hovedstolen, jf. spørgers kommentar til spm. 4.
+ Det er SKATs vurdering, at en rente ikke er fastsat forud for den perioden den vedrører, hvis den efterfølgende kan blive mindre.
+ Spørger har oplyst i spørgers kommentarer til spm. 4, at renten ikke forfalder til betaling ved udløbet af hver beregningsperiode, at renten ikke på nogen bliver tilskrevet en konto tilhørende obligationsejeren og at ved salg af obligationen vil der ikke være handelsrenter.
+ Dette medfører efter SKATs vurdering, at renten ikke kan sidestilles med et "beløb, der er et sædvanligt vederlag til kreditor for at stille kapital til rådighed".
+ SKAT finder med baggrund i ovenstående, at rentedelen af nettokursreguleringen ikke kan sidestilles med en rente og derfor er omfattet af kursgevinstloven.
+Valutakurser og terminspræmier af nettokursreguleringen I UfR 1960.589 HRD blev en rente defineret som "beløb, der er et sædvanligt periodisk vederlag til kreditor - beregnet som en bestemt procentdel af den til enhver tid værende gæld - for at stille kapital til disposition.
+ Det er SKATs vurdering, at en regulering på baggrund af valutakurser og terminspræmier ikke er omfattet af rentedefinitionen og derfor er omfattet af kursgevinstloven.
+ SKAT indstiller med baggrund i ovenstående, at der svares ja til spørgsmålet.
+Skatterådets afgørelse og begrundelse Skatterådet tiltræder SKATs indstilling.
+Svaret er bindende for skattemyndighederne i følgende periode I 5 år, der regnes fra modtagelsen af svaret jf.
+SFL § 25, stk. 1.

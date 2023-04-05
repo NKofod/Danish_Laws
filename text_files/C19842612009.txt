@@ -1,0 +1,354 @@
+1. Almindeligt Et abonnentudstyr (i det følgende betegnet AU) kan være indrettet for  
+
+ tilslutning til det offentlige alarmsystem via alarmterminal med  
+
+ parallelinterface på to forskellige måder.
+ Den ene er for tilslutning via en alarmterminal (ATP), der er en  
+
+ selvstændig enhed med egen strømforsyning, således som det er illustreret i  
+
+ fig. la.
+ Den anden, som er vist i fig. lb, er for tilslutning via en i  
+
+ fjernovervågningsudstyret indbygget alarmterminal (ATIP), der består af et  
+
+ enkelt kredsløbskort, der i lighed med øvrige kredsløbskort strømforsynes fra  
+
+ udstyrets almindelige strømforsyningsarrangement.
+ I begge tilfælde er der mellem det privatejede udstyr og den del af  
+
+ installationen/udstyret, der leveres og vedligeholdes af  
+
+ teleadministrationerne, en grænseflade som angivet i figurerne.
+ Fysisk er denne grænseflade et antal terminaler, der i tilfældet i fig. 1a  
+
+ omfatter 27 terminaler på ATP-enheden.
+ Heraf anvendes de 24 i forbindelse med kommunikation mellem ATP og AU og  
+
+ udgør det grænsesnit, der i det følgende betegnes PARIF.
+De resterende 3 terminaler, der udgør grænsesnittet AS, er forbindelse til  
+
+ en i ATP anbragt kontakt, der påvirkes ved åbning af kabinettet.
+Kontakten  
+
+ kan efter behov anvendes for indkobling i et antisabotagekredsløb, hvis AU er  
+
+ forsynet med et sådant.
+I tilfældet med indbygget alarmterminal (ATIP) omfatter grænsefladen 35  
+
+ terminaler på den konnektor, hvormed kredsløbskortet indkobles i AU.
+I denne  
+
+ grænseflade genfindes grænsesnittet PARIF som vist.
+Desuden forekommer to  
+
+ andre grænsesnit, nemlig grænsesnittet LINIF (linie interface) omfattende 4  
+
+ terminaler samt grænsesnittet DCIF (strømforsyningsinterface) omfattende 5  
+
+ terminaler.
+ Til AU stilles det generelle krav, at udstyret er konstrueret til at  
+
+ kommunikere over grænsesnittet PARIF, d.v.s. kan udføre de for kommunikation  
+
+ nødvendige funktioner, der er beskrevet i det følgende, og da med  
+
+ overholdelse af de parameterværdier, som er angivet i dette delcirkulære.
+ Der stilles endvidere det krav til AU, at det er konstrueret til at  
+
+ overholde de parameterværdier for de øvrige for deri konkrete konstruktion  
+
+ relevante grænsesnit, der er angivet i dette delcirkulære.
+ I den følgende funktionsbeskrivelse, som er fælles for både ATP og ATIP  
+
+ anvendelsen, vil der i beskrivelsen af samspillet mellem alarmterminal og  
+
+ fjernovervågningsudstyr alene blive anvendt betegnelserne ATP henholdsvis AU.
+2. Funktionsbeskrivelse 2.1 Grænsesnittet PARIF Grænsesnittet PARIF består af 24 ledere (se fig. la og lb). Lederne, der  
+
+ benævnes ved det signal, de overfører, benyttes således:
+DPO (Data Parallel Out) DPO består af 8 ledere DPO0...7 På disse ledere står den 8 bit information, der sidst er modtaget fra  
+
+ alarmsystemet som data (styring). De opsatte data er gyldige, når ATDR eller  
+
+ EXTT er logisk 1.
+DPI (Data Parallel In) DPI består af 8 ledere DPI0...7 På disse ledere påtrykker AU den 8 bit information, der skal sendes ud i alarmsystemet.
+Informationen kan  
+
+ være data (alarmer o.lign.) eller adresseinformation til alarmsystemet.
+ATBU (ATP BUsy) På denne leder genereres et signal af ATP.
+Signalet fortæller, om det er  
+
+ tilladt AU at opsætte ny data-/adresseinformation, og om den før opsatte  
+
+ data-/adresseinformation er modtaget korrekt af alarmsystemet.
+ATDR (ATP Data Ready) Dette signal genereres af ATP, og det fortæller AU, om den 8 bit  
+
+ information, der findes på DPO, kan anvendes.
+ATOK (ATP OK) Signalet genereres af ATP og anvendes til at fortælle, om kommunikationen  
+
+ med selve alarmsystemet er i orden.
+Signalet har prioritet over de øvrige  
+
+ signaler fra ATP, og hvis ATOK = 0, må ingen af de andre signaler fra ATP  
+
+ betragtes som gyldige.
+Umiddelbart efter opstart af ATP er ATOK = 0.
+EXTT (EXTern Test) På denne leder genereres et signal af ATP.
+ Signalet betyder, at den 8 bit information, der står på DPO0...7. skal  
+
+ anvendes til test af AU, og resultatet af testen skal derefter returneres til  
+
+ ATP.
+ Så længe EXTT = 1, må AU ikke sende normale data til ATP, idet disse vil  
+
+ blive opfattet som svaret på det stillede spørgsmål.
+AUDR (AU Data Ready) På denne leder genereres et signal af AU, og det fortæller, at den 8 bit  
+
+ information, der findes på DPI,0...7 kan anvendes.
+ADDR (Adresseinformation) På denne leder genereres et signal af AU, og det fortæller ATP, om den  
+
+ information, der findes på DPI0...7 skal opfattes som datainformation eller  
+
+ adresseinformation.
+AUOK (AU OK) På denne leder genereres et signal af AU.
+Signalet skal være  
+
+ 1, når AU fungerer korrekt.
+Hvis der i AU optræder en fejl, kan AU sætte AUOK  
+
+ = 0. Signalet har prioritet over de øvrige signaler fra AU, og hvis det  
+
+ indikerer, at AU er fejlbehæftet, vil ingen af de andre signaler fra AU blive  
+
+ betragtet som gyldige, og de vil derfor ikke blive overført til  
+
+ alarmsystemet.
+ CR (Common Return) Denne leder er fælles returleder for alle signaler.
+ I tabellen herunder er betydningen af de enkelte signaler angivet.
+2.2 Kommunikation over PARIF De informationsoverførsler, der kan forekomme over PARIF, kan henføres til  
+
+ følgende 4 typer:
+ - Meddelelse om fejlbehæftet udstyr.
+ - Overførsel af data fra ATP til AU og hand- shake i forbindelse hermed.
+ - Overførsel af data/adresse fra AU til ATP og handshake i forbindelse  
+
+ hermed.
+ - AU's modtagelse af og svar på funktionen ekstern test.
+2.2.1 Meddelelse om fejlbehæftet udstyr Meddelelse om fejl i AU og ATP sker ved hjælp af signalerne AUOK og ATOK.  
+
+ Disse signaler, der fungerer uafhængigt af hinanden og af andre signaler, er  
+
+ omtalt i afsnit 2.1.
+2.2.2 Overførsel af data fra ATP til AU Overførslen af data fra ATP til AU er vist på fig. 2. Der overføres en 8  
+
+ bit databyte ad gangen, og de kredsløb, der er i brug ved overførslen, er  
+
+ DPO0...7 og ATDR.
+ Fig. 2.- Data fra ATP til AU.
+De anførte tider er defineret i afsnit 3.2. ATP sørger for, at ATDR = 0 i  
+
+ tiden tSDO, før den ny datainformation sættes på DPO.
+I tiden tSUO  
+
+ kontrolleres de opsatte data, hvorefter AU i tiden tDVA må benytte  
+
+ informationen på DPO.
+ ATP foretager ingen kontrol af, om AU har været i stand til at opfatte og  
+
+ fastholde de sendte data.
+2.2.3 Overførsel af data eller adresse fra AU til ATP Ved overførsel af data eller adresse fra AU til ATP anvendes kredsløbene  
+
+ DPI0 7, ATBU, ADDR og AUDR.
+Der overføres en 8 bit byte ad gangen.
+ Et eksempel på en dataoverførsel er vist på fig. 3. En adresseoverførsel  
+
+ forløber på samme måde bortset fra, at ADDR skal sættes til logisk 1.
++++SKEMA+++ De anførte tider er defineret i afsnit 3.2.
+ Ved overførsel af en række data-/adressebyte skal såvel tGEN  
+
+ (gentagelsestiden) som tSUI (opsætningstiden) overholdes mellem hver  
+
+ overførsel.
+2.2.4 Udførelse af funktionen ekstern test Ekstern test funktionen bruges til at udveksle data mellem VC og AU.
+Det  
+
+ foregår på den måde, at VC udsender et spørgsmål, som AU skal besvare.  
+
+ Samtalen kan opfattes som en dataoverførsel fra ATP til AU, hvor ATDR er  
+
+ erstattet af EXTT, efterfulgt af en forsinkelse og en dataoverførsel fra AU  
+
+ til ATP.
+For at opnå størst mulig sikkerhed mod fejl indledes den eksterne test med  
+
+ at aflæse AUDR.
+Hvis AUDR = 1, udføres en dataoverførsel fra AU til ATP i  
+
+ stedet for ekstern test.
+Hvis AUDR = 0, udsendes data fra alarmsystemet, og  
+
+ herefter sættes EXTT = 1. Dette signal fortæller AU, at data skal opfattes  
+
+ som et spørgsmål, der skal besvares inden for maksimaltiden af tVET.
+Så længe  
+
+ EXTT = 1, må data fra ATP (alarmsystemet) ikke skifte værdi.
+Desuden skal  
+
+ eventuelle nye data fra AU, som er opsat, efter at AUDR blev aflæst,  
+
+ undertrykkes midlertidigt i denne periode (AUDR = 0).
+ Efter en tidsforsinkelse på tVET tester ATP på AUDR signalet for at  
+
+ kontrollere, om svaret er ankommet.
+Hvis AUDR = 0, afsluttes ekstern test udførelsen med, at ATP sætter EXTT =  
+
+ 0 og dermed åbner for nye data fra AU.
+Hvis AUDR = 1 som følge af et svar og  
+
+ ADDR = 0, hentes svaret hjem på samme måde som beskrevet under dataoverførsel  
+
+ fra AU til ATP dog med den tilføjelse, at EXTT-signalet holdes på logisk 1  
+
+ under hele samtalen.
+EXTT sættes først til logisk 0 ved næste overførsel.
+ Udførelsen af funktionen ekstern test er vist på fig. 4.
+ De anførte tider er defineret i afsnit 3.2.
+3. Parametre for PARIF 3.1 Elektriske parametre 3.1.1 Definitioner Spænding på samtlige ledere er defineret i forhold til fælleslederen CR  
+
+ som vist på fig. 5.
+ De logiske niveauer er defineret således:
+ Logisk 1 svarer til høj spænding.
+ Logisk 0 svarer til lav spænding.
+ Den maksimale kabellængde for PARIF er bestemt af de elektromagnetiske  
+
+ støjforhold på installationsstedet, kablets skærmning samt kablets kapacitet.
+3.1.2 Beskrivelse af parametre for DPO, ATBU, ATDR, ATOK og EXTT U1,0 : Spændingen på udgangen ved logisk 0.
+ U1,1 : Spændingen på udgangen ved logisk 1.
+ R1,i : Den indre modstand i udgangskredsløbene.
+3.1.3 Beskrivelse af parametre for DPI, AUDR, ADDR og AUOK U2,1 : Den spænding, der kræves for, at ATP opfatter signalet som logisk  
+
+ 1.
+ U2,0 : Den spænding der kræves for at ATP opfatter signalet som logisk 0.
+ R2,i : Den indre modstand i indgangskredsløbene.
+3.2 Tidsparametre tSDO . Den tid ATDR er logisk 0, før den ny datainformation sættes på DPO.
+ tSUO : Den tid, der går fra opsætningen af data på DPO, til ATDR bliver  
+
+ logisk 1, og AU må benytte de opsatte data.
+ tDVA : Den tid, AU må betragte data på DPO som korrekte, indtil ATDR  
+
+ bliver logisk 0.
+ tSUI: Den tid, data-/adresseinformationen på DPI og ADDR signalet skal  
+
+ være stabile, før AU sætter AUDR = 1.
+ tAFL : Den tid, ATP bruger til at aflæse den på DPI opsatte information og  
+
+ herefter sætte ATBU = 1. Tiden er afhængig af kommunikationen mellem ATP og  
+
+ alarmsystemet.
+ tAUR : Den tid, der må gå, fra AU modtager ATBU = 1, til AU skal svare med  
+
+ AUDR = 0.
+tSDI : Nedtagningstid for indgange.
+Den tid de opsatte data skal  
+
+ fastholdes, efter at AUDR er blevet 0.
+ tKVT : Den tid, der går, før ATP kvitterer over for AU for korrekt  
+
+ overførsel af den afleverede information til alarmsystemet.
+ tGEN : Den tid, der skal gå, fra ATBU = 0, til AU må sætte AUDR = 1.
+ tVET : Den tid, der maximalt må gå, fra EXTT går på 1, til AU skal svare  
+
+ med AUDR = 1.
+3.3 Krav til parametre I tabellen herunder er kravene til de ovenfor beskrevne parametre angivet.
+4. Parametre for AS Grænsesnittet AS består af 3 ledere for eventuel forbindelse af den i ATP  
+
+ anbragte åbningskontakt med et alarmanlægs antisabotagekredsløb.
+Kontakten i  
+
+ ATP er en skiftekontakt.
+Mellem lederne NO (normally open) og CO (common)  
+
+ haves sluttefunktionen, og mellem NC (normally closed) og CO haves  
+
+ brydefunktionen.
+ For begge kontaktfunktioner kræves følgende parametre overholdt:
+ For ikke-ohmske belastninger skal anvendes relevante  
+
+ kontaktbeskyttelsesforanstaltninger.
+ Kontaktbelastninger, hvor spænding over åben kontakt mindre end 0,5 V  
+
+ og/eller strøm i sluttet kontakt mindre end 1 mA kan forekomme, bør undgås.
+5. Tilslutning af AU til selvstændig ATP 5.1 Alment De nødvendige stik- og klemmeforbindelser for tilslutning af AU til ATP  
+
+ befinder sig under dækslet på ATP-enheden.
+5.2 PARIF AU-PARIF lederne forbindes med ATP ved hjælp af en 25-polet konnektor  
+
+ (hunstik) i henhold til US Military Standard, MIL-C-24308, part no.  
+
+ M24308/1-3.
+ Stikket skal forsynes med kappe, og de enkelte ledere skal forbindes i  
+
+ henhold til fig. 6.
+5.3 AS Forbindelse mellem AU og AS sker via 3-polet klemrække med markeringerne  
+
+ NO, CO og NC.
+6.Indbygning af alarmterminal ATIP i AU 6.1 Alment Alarmterminal ATIP består af et enkelt kredsløbskort med dimensioner som  
+
+ vist i fig. 7.
+ Grænsefladen mellem ATIP og AU henholdsvis telefoninstallationen er fysisk  
+
+ det på kredsløbskortet monterede stik, som er et 64-polet hanstik ifølge DIN  
+
+ 41612, blad 2.
+ De i stikket benyttede forbindelser, som er vist i fig. 8, omfatter de 3  
+
+ grænsesnit PARIF, DCIF og LINIF, således som det fremgår af figuren.
+Kravene for benyttelse af grænsesnittet PARIF er behandlet i det  
+
+ foregående.
+Kravene for benyttelse af de 2 øvrige grænsesnit følger herunder.
+6.2 Grænsesnittet DCIF DCIF er det grænsesnit, hvorover der føres forsyningsspænding og  
+
+ statussignaler fra AU til ATIP.
+ Det omfatter terminalerne 0V, V+, ACO, BAO og RET (jf. fig. 8).
+ Forsyningsspændingen tilsluttes terminalerne 0V og V+, og kravene til  
+
+ strømforsyning er følgende:
+ Terminalen ACO benyttes for signalering om AU's primærforsyning fra  
+
+ stærkstrømsnettet.
+ Ved bortfald af primærforsyningen skal signalet på ACO ændre sig fra  
+
+ logisk 1 til logisk 0, idet den nærmere signalspecifikation er givet i  
+
+ tabellen over parameterværdier herunder.
+ Terminalen BAO benyttes for signalering om den i AU indbyggede  
+
+ akkumulators tilstand.
+ Falder akkumulatorspændingen under specificeret grænseværdi, skal signalet  
+
+ på BAO ændre sig fra logisk 1 til logisk 0. For at spare strøm kan BAO i  
+
+ stedet for logisk 1 påtrykkes en impulsfølge, hvor BAO er logisk 1-i tiden tl  
+
+ BAO og logisk 0 i tiden t2 BAO.
+ Terminalen RET er fælles retur for ACO og BAO.
+6.3 Grænsesnittet LINIF LINIF er det grænsesnit, hvorover telefonlinien føres ind i og ud af ATIP.
+Det omfatter terminalerne LIN 1 og LIN 2, der skal tilsluttes  
+
+ telefonlinien, som kommer fra centralen, og terminalerne INST 1 og INST 2,  
+
+ som skal tilsluttes telefonapparatet.
+Til benyttelsen af dette grænsesnit  
+
+ stilles det krav, at de 4 modsvarende terminaler på hunstikket i AU bliver  
+
+ direkte forbundet med en 4-leder bevægelig ledning, hvormed AU forbindes til  
+
+ telefoninstallationens 5-polede stikdåse, og at der som ledning vælges en  
+
+ type, der er godkendt af teleadministrationerne til anvendelse for  
+
+ telefonapparater.

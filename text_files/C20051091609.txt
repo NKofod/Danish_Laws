@@ -1,0 +1,3043 @@
+Cirkulære om AF´s  
+
+ elektroniske fremsendelse af negative underretningspligtige hændelser og  
+
+ servicemeddelelser til a-kasserne Arbejdsmarkedsstyrelsen  
+
+ 2005 1. Formål m.v.
+ Dette cirkulære indeholder en beskrivelse af  
+
+ retningslinjerne for den elektroniske kommunikation via AMANDA mellem AF og  
+
+ a-kasserne i de situationer, hvor a-kasserne skal give tilbagemelding om  
+
+ resultatet af rådighedsvurdering  det vil sige de negative  
+
+ underretningspligtige hændelser.
+Cirkulæret har til formål at give AFs  
+
+ medarbejdere mere præcise retningslinjer for, hvornår og hvordan AF skal  
+
+ underrette a-kassen i situationer, hvor der skal sendes negative  
+
+ underretningspligtige hændelser.
+Dermed vil antallet af fejlagtige negative  
+
+ underretninger fra AF til a-kasserne blive færre, og a-kasserne får et mere  
+
+ ensartet udgangspunkt for behandling af AFs underretninger.
+Cirkulæret beskriver ikke, hvordan AF kommunikerer  
+
+ med kommuner om ledige kontanthjælpsmodtagere.
+I de situationer,  
+
+ hvor AF er i kontakt med en kontanthjælpsmodtager og ifølge bekendtgørelse om  
+
+ en aktiv beskæftigelsesindsats skal orientere kommunen om udfaldet af  
+
+ kontakten,  
+
+ skal AF dog følge de samme retningslinjer for registreringer m.v., som i  
+
+ kommunikationen med a-kasserne.
+Kommunikationen mellem AF og kommunerne  
+
+ foregår  
+
+ imidlertid ikke på samme måde som mellem AF og a-kasserne.
+Den elektroniske  
+
+ kommunikation, herunder de konkrete underretninger foregår på en anden måde,  
+
+ ligesom at der fortsat kommunikeres via breve med kommunerne.
+ Cirkulæret  
+
+ er bygget op i to dele:
+Del 1   
+
+ indeholder en beskrivelse af kommunikation fra AF til a-kasserne.
+Afsnit 3  
+
+ beskriver bl.a. med en række eksempler, hvornår AF skal underrette  
+
+ a-kasserne.  
+
+ Eksemplerne er ikke udtømmende, men skal danne udgangspunkt for de  
+
+ overvejelser,  
+
+ der bør være i den konkrete situation.
+ I denne del af cirkulæret er også beskrevet en  
+
+ række mulige faldgruber, som der er i forbindelse med underretningerne.
+ Del 2   
+
+ er cirkulærets bilag, hvor det er beskrevet, hvordan AF-medarbejderen via  
+
+ AMANDA konkret sender negative underretninger til a-kassen.
+2. Hvornår skal AF underrette a-kasserne? Af bekendtgørelsen om en aktiv  
+
+ beskæftigelsesindsats fremgår i hvilke situationer, AF skal underrette  
+
+ a-kasserne om deres medlemmer.
+Disse hændelser betegnes underretningspligtige  
+
+ hændelser.
+ Der skal ske underretning ved:
+-  
+
+ 	  
+
+ ved manglende  
+
+ afgivelse af formidlingsrelevante oplysninger, jf. bekendtgørelsens  
+
+ §§ 165  
+
+ og 166 -  
+
+ 	  
+
+ ved udeblivelse fra  
+
+ aktiviteter, jf. bekendtgørelsens §§ 164 og 167 -  
+
+ 	  
+
+ ved afmelding, jf.  
+
+ bekendtgørelsens §§ 168-171 -  
+
+ 	  
+
+ ved formidling mv.,  
+
+ jf. bekendtgørelsens §§ 172-173 -  
+
+ 	  
+
+ ved jobplan, jf.  
+
+ bekendtgørelsens §§ 174-175 -  
+
+ 	  
+
+ ved tvivl om rådighed  
+
+ i øvrigt, jf. bekendtgørelsens § 176 Underretningspligtige hændelser, som AF sender, ses  
+
+ i A-kasse/kommune kommunikation  liste som:
+A  
+
+  
+
+ :  
+
+ 	  
+
+ hændelsestyper for  
+
+  
+
+ a  
+
+  
+
+ fmeldinger F  
+
+  
+
+ :  
+
+ 	  
+
+ hændelser, der vedrører  
+
+  
+
+ f  
+
+  
+
+ ormidlinger og formidlingsrelevante oplysninger (F01, F02 og F07  
+
+ er dog servicemeddelelser i forbindelse med samtaler generelt) R  
+
+  
+
+ :  
+
+ 	  
+
+ øvrige underretningspligtige hændelser  
+
+ omkring  
+
+  
+
+ r  
+
+  
+
+ ådighed T  
+
+  
+
+ :  
+
+ 	  
+
+ Hændelsestyper for  
+
+  
+
+ t  
+
+  
+
+ ilmelding I systembeskrivelsen for kommunikation mellem AF og  
+
+ AMANDA betegnes F- og R- hændelser samlet som hændelses-type N.
+En del af  
+
+ disse hændelser kaldes negative underretningspligtige hændelser.  
+
+ Det er de  
+
+ hændelser, der kan medføre, at a-kassen skal foretage en rådighedsvurdering.
+Når a-kassen modtager en negativ  
+
+ underretningspligtig hændelse, vurderer de, om den giver anledning til en  
+
+ konkret rådighedsvurdering af medlemmet.
+A-kasserne administrerer hændelserne  
+
+ på baggrund af bl.a. bekendtgørelse om selvforskyldt ledighed og  
+
+ bekendtgørelse  
+
+ om rådighed Underretningspligtige hændelser er ikke altid  
+
+ negative i gængs forstand  f.eks. vil man i almindelighed opfatte det  
+
+ som positivt,  
+
+ at en person afbryder en aktivitet i en jobplan p.g.a. arbejde eller at AF  
+
+ formidler en person arbejde.
+A-kassen skal alligevel have denne oplysning,  
+
+ idet  
+
+ varigheden af det pågældende arbejde eller andet kan have betydning for  
+
+ personens  
+
+ rådighed på lidt længere sigt.
+ R-koderne skal altid resultere i en tilbagemelding  
+
+ fra a-kassen om medlemmets rådighed (RJ/RI/RN), medens det kun  
+
+ er nogle få af F-koderne (F20 til F25), der skal resultere i en sådan  
+
+ tilbagemelding.
+Ud over underretningspligtige hændelser sender AF  
+
+ meddelelser til a-kasserne, der ikke skal resultere i en tilbagemelding  
+
+ fra a-kassen, men indgår i a-kassen almindelige vurdering af rådighed.
+Det  
+
+ gælder f.eks. afbud p.g.a. sygdom m.v.
+ I bilaget til cirkulæret er det beskrevet, hvordan  
+
+ negative underretningspligtige hændelser dannes i forbindelse med de  
+
+ forskellige  
+
+ arrangementer i AMANDA.
+3.  
+
+ Vejledning til AF om underretning om  
+
+ rådighedsproblemer AF skal altid underrette a-kasserne, når en person  
+
+ afslår job eller tilbud efter jobplan, udebliver fra møder, som AF har  
+
+ indkaldt skriftligt og personligt til, og når AF generelt er i tvivl om en  
+
+ persons rådighed.
+Der kan være situationer, hvor den ledige ikke  
+
+ direkte afslår et job, eller hvor den ledige på forhånd kontakter AF og  
+
+ forklarer  
+
+ sig.
+I disse situationer er det vigtigt, at AF medarbejderen gør sig klart,  
+
+ at selve  
+
+ rådighedsvurderingen står a-kassen for.
+AF medarbejderen skal som  
+
+ udgangspunkt  
+
+ ikke på forhånd vurdere om afslaget er relevant, eller om der er en gyldig  
+
+ grund til, at den ledige ikke kan eller kunne møde hos AF.
+Der er dog  
+
+ situationer, hvor AF kan træffe sådanne afgørelse.
+En sagsbehandler har efter offentlighedsloven pligt  
+
+ til at gøre notater om indholdet af oplysninger, hvis sagsbehandleren  
+
+ mundtligt modtager oplysninger vedrørende en sags faktiske omstændigheder  
+
+ eller  
+
+ på anden måde er i besiddelse af oplysninger vedrørende en sags faktiske  
+
+ omstændigheder, der er af betydning for sagens afgørelse.
+Dette gælder dog  
+
+ ikke, hvis oplysningerne i øvrigt fremgår af sagens dokumenter.
+Dette kan få betydning specielt i situationer, hvor  
+
+ underretning om afslag er begrundet i en adfærd, der kan  
+
+ sidestilles med afslag og i situationer, hvor AF underretter om tvivl om  
+
+ rådighed.
+Det er her vigtigt, at AF-medarbejderen gør notater, hvis ikke  
+
+ selve  
+
+ underretningen i AMANDA i sig selv belyser situationen tilstrækkeligt.
+ Dette afsnit præciserer de retningslinjer, AF  
+
+ medarbejderen skal følge i forbindelse med underretninger til a-kassen.
+ Afsnit 3.1 beskriver situationer, hvor den  
+
+ ledige udviser en adfærd, der kan sidestilles med afslag.
+Afsnit 3.2 beskriver situationer, hvor AF er  
+
+ i tvivl om rådighed Afsnit 3.3 beskriver situationer, hvor AF har  
+
+ indkaldt den ledige, men mødet ikke gennemføres af den ene eller anden årsag.
+3.1 Underretninger om ledige, der udviser adfærd, der kan  
+
+ sidestilles med afslag på job eller tilbud I dette afsnit er der givet eksempler på  
+
+ situationer, hvor den lediges adfærd kan sidestilles med et afslag, og hvor  
+
+ AF  
+
+ skal underrette a-kassen.
+Andre situationer end dem, der er skrevet nedenfor  
+
+ kan også resultere i, at AF skal underrette a-kassen om afslag.
+Eksemplerne  
+
+ må derfor ikke opfattes som udtømmende, men som vejledende overfor AF.
+ 1. Ønsker  
+
+ andet arbejde end det tilbudte.
+En ledig pædagog formidles arbejde i en børnehave.  
+
+ Arbejdsgiveren melder tilbage, at årsagen til, at den ledige ikke  
+
+ blev ansat, var, at den ledige under ansættelsessamtalen - uden direkte at  
+
+ afslå arbejdet - havde meddelt arbejdsgiveren, at den ledige primært ønskede  
+
+ at  
+
+ arbejde i en vuggestue, hvorfor han ikke var specielt interesseret i at  
+
+ arbejde  
+
+ i en børnehave.
+AF skal underrette a-kassen.
+ 2. Mener  
+
+ sig overkvalificeret.
+En ledig faglært formidles arbejde i en  
+
+ produktionsvirksomhed.
+Arbejdsgiveren melder tilbage, at han til sidst opgav  
+
+ at  
+
+ overbevise den ledige om, at det var en faglært, der var brug for i det  
+
+ ledige  
+
+ job.
+Den ledige blev - uden direkte af afslå jobbet - ved med at argumentere  
+
+ for, at en specialarbejder sagtens kunne bestride jobbet, og at dette ville  
+
+ være det bedste og billigste for arbejdsgiveren.
+AF skal underrette a-kassen.
+3. Utilfreds  
+
+ med lønnen En ledig klinikassistent formidles arbejde.  
+
+ Arbejdsgiveren tilbyder overenskomstmæssig løn.
+Den ledige mener, at hun bør  
+
+ have et tillæg på mindst 1.000 kr. pr. måned.
+Arbejdsgiveren ønsker ikke at  
+
+ give et tillæg fra starten, men vil gerne drøfte det efter 3 måneders  
+
+ beskæftigelse.  
+
+ Den ledige fastholder - uden direkte at afslå - at hun vil have et tillæg på  
+
+ 1.000 kr. fra starten, og at de så senere kan drøfte en eventuel forhøjelse.  
+
+ Arbejdsgiveren meddeler AF, at dette er årsagen til, at hun ikke blev ansat.  
+
+ AF  
+
+ skal underrette a-kassen.
+4. Stiller  
+
+ spørgsmål, der tyder på manglende vilje En ledig kontorassistent, der er fuldtidsforsikret,  
+
+ kommer til formidlingssamtale på AF om kontorjob.
+Den ledige  
+
+ stiller flere spørgsmål om arbejdstiden og spørger bl.a. flere gange om  
+
+ jobbet  
+
+ behøver at være på fuld tid, hvilket AF bekræfter.
+Den ledige stiller  
+
+ herefter  
+
+ spørgsmål om transporttid og transportmuligheder, da hun får langt til  
+
+ arbejde,  
+
+ hvilket AF anbefaler, at hun selv undersøger eller drøfter med  
+
+ arbejdsgiveren.  
+
+ Den ledige vender - uden direkte af afslå jobbet - tilbage til arbejdstiden  
+
+ og  
+
+ ønsker oplyst, hvorfor AF ikke kan finde en ledig, der bor tættere på, eller  
+
+ en  
+
+ der ikke har små børn.
+AF skal underrette a-kassen.
+5. Fremtoning  
+
+ og opførsel Den ledige møder meget usoigneret eller tydeligt  
+
+ påvirket til en formidlingssamtale hos AF.
+Hvis AF får den opfattelse,  
+
+ at den ledige må formodes at møde tilsvarende frem hos arbejdsgiveren, at  
+
+ fremtoningen vil udgøre en klar hindring for at pågældende vil blive ansat,  
+
+ og  
+
+ at fremtoningen er udtryk for manglende vilje til at overtage formidlet  
+
+ arbejde, skal AF underrette a-kassen.
+Hvis den ledige under en samtale  
+
+ optræder  
+
+ truende eller stærkt provokerende, skal AF også underrette a-kassen.
+6. Generelt  
+
+ umotiveret Hvis det ledige medlem under formidlingssamtalen  
+
+ med AF angiver at have helt andre planer end at komme i  
+
+ arbejde, eller oplyser andre forhold, der betyder, at AF vurderer, at det vil  
+
+ være formålsløst at henvise pågældende til en arbejdsgiver eller fortsætte  
+
+ med  
+
+ at udarbejde en jobplan skal A-kassen underrettes.
+7. Helbred Et ledigt medlem henvender sig til AF efter at have  
+
+ modtaget indkaldelse til en formidlingssamtale.
+Medlemmet oplyser, at  
+
+ hun ikke ønsker jobbet eller ikke kan klare jobbet på grund af  
+
+ helbredsproblemer,  
+
+ som AF ikke er bekendt med i forvejen.
+AF skal underrette A-kassen.
+8. Børnepasningsproblemer Efter at have modtaget indkaldelse til en samtale  
+
+ hos AF, kontakter det ledige medlem AF og oplyser, at han er forhindret  
+
+ i at møde på grund af børnepasningsproblemer.
+AF skal underrette A-kassen.
+3.2 Underretninger om ledige, hvor AF er i tvivl om  
+
+ rådighed Selv om en ledigs adfærd over for AF ikke skal  
+
+ sidestilles med et afslag, kan adfærden alligevel give AF grundlag for at  
+
+ anmode a-kassen om at foretage en generel rådighedsvurdering af den ledige.  
+
+ AF  
+
+ skal begrunde anmodningen om rådighedsvurderingen.
+En sådan anmodning kan begrundes i forskellige  
+
+ forhold.
+Som eksempler kan nævnes:
+1. Usoigneret  
+
+   
+
+ påvirket Den ledige kan være meget usoigneret eller tydeligt  
+
+ påvirket af f.eks. alkohol, når denne møder på AF til samtale.
+AF bør  
+
+ gøre den ledige opmærksom på, at en sådan fremtoning vil udgøre en klar  
+
+ hindring for pågældendes ansættelse hos en arbejdsgiver.
+Hvis AF får den  
+
+ opfattelse, at den ledige ikke ønsker eller magter at ændre sin fremtoning,  
+
+ og  
+
+ at den vil udgøre en klar hindring for pågældendes jobmuligheder, skal AF  
+
+ anmode a-kassen om at foretage en rådighedsvurdering.
+AF skal begrunde  
+
+ anmodningen om rådighedsvurdering med, at den lediges fremtoning gør, at AF  
+
+ vurderer, at der kan være tvivl om hvorvidt den ledige vil kunne påtage sig  
+
+ et  
+
+ arbejde.
+2. Helbred Et ledigt medlem møder til samtale hos AF, der  
+
+ vurderer, at den ledige af helbredsmæssige grunde  fysiske og/eller  
+
+ psykiske  
+
+  ikke er stand til at overtage arbejde, inden for det eller de samtlige  
+
+ områder,  
+
+ hvor den ledige skal kunne overtage formidlet arbejde.
+AF skal anmode  
+
+ a-kassen  
+
+ om at foretage en rådighedsvurdering.
+AF skal begrunde anmodningen om  
+
+ rådighedsvurdering  
+
+ med, at AF vurderer, at der kan være tvivl om, hvorvidt den ledige af  
+
+ helbredsmæssige grunde ikke vil kunne påtage sig et arbejde.
+3. Manglende  
+
+ søgning af job Hvis AF i forbindelse med kontaktforløbssamtaler  
+
+ konstaterer, at den ledige ikke søger de jobs, som AF  
+
+ har pålagt den ledige at søge, og at den ledige ikke gør brug af Jobnet i sin  
+
+ jobsøgning, skal AF anmode a-kassen om at foretage en rådighedsvurdering.
+AF  
+
+ skal begrunde anmodningen om rådighedsvurdering med, at den ledige ikke søger  
+
+ de job, som den ledige er blevet pålagt af AF.
+4. Anden  
+
+ Aktør Hvis en  
+
+ anden aktør meddeler AF, at den ledige ikke vil samarbejde om indsatsen,  
+
+ f.eks.  
+
+ ved flere gange at udeblive fra aktiviteter, vurderer AF, om det skal medføre  
+
+ underretning til a-kassen, som i givet fald skal rådighedsvurdere den ledige.  
+
+ AF skal i dette tilfælde begrunde anmodningen om rådighedsvurdering med, at  
+
+ den  
+
+ ledige flere gange er udeblevet fra aktiviteter hos den anden aktør.
+3.3 Underretninger i forbindelse med mødeindkaldelser Når AF har indkaldt en ledig personligt og  
+
+ skriftligt til en samtale/møde er  
+
+ udgangspunktet, at den ledige skal møde op på det indkaldte tidspunkt.
+ AF får imidlertid henvendelser fra ledige om, at de  
+
+ er forhindret i at komme til de møder og samtaler, som AF har indkaldt  
+
+ dem til.  
+
+ I denne situation skal AF som udgangspunkt underrette  
+
+ a-kassen.
+ Der skal dog skelnes mellem, om personen henvender  
+
+ sig efter eller før mødetidspunktet.
+-  
+
+ 	  
+
+ Efter mødetidspunktet  
+
+  
+
+ gælder, at AF  
+
+  
+
+ altid  
+
+  
+
+ skal orientere a-kassen om udeblivelse.
+Det gælder uanset  
+
+ hvilken begrundelse den ledige giver for ikke at være mødt frem.
+Orienteringen sker  
+
+ ved at registrere samtalen i status udeblevet.
+Når den ledige henvender sig,  
+
+ skal AF altid registrere samtalen kontakt efter udeblivelse.
+-  
+
+ 	  
+
+ Før mødetidspunktet  
+
+  
+
+ gælder som udgangspunkt, at AF også skal  
+
+ orientere a-kassen, hvis personen ikke møder.
+Ikke i alle tilfælde orienterer  
+
+ AF a-kassen med negative underretninger, men med servicemeddelelser.
+ I de situationer,  
+
+ hvor AF ændrer mødetidspunktet og sætter samtalen i status udsat, vil  
+
+ a-kassen  
+
+ ikke blive underrettet, og derfor skal AF altid umiddelbart finde et nyt  
+
+ mødetidspunkt og orientere den ledige om, at AF sender en ny indkaldelse.
+ Nedenfor er det nærmere beskrevet, hvornår AF kan  
+
+ annullere eller udsætte en samtale, og hvornår AF ikke kan.
+3.3.1 Hvornår kan AF annullere en aftale om  
+
+ samtale eller ændre et tidspunkt for en samtale? AF sender ingen negativ underretningspligtig  
+
+ hændelse til a-kassen, når en aftale om samtale/møde annulleres eller  
+
+ tidspunktet  
+
+ for afholdelsen ændres.
+Det er derfor væsentligt, at AF forud for en sådan  
+
+ registrering nøje overvejer, om a-kassen skal orienteres, fordi der kan være  
+
+ tvivl om den lediges rådighed.
+ Annullering af en aftale om samtale og ændring af  
+
+ tidspunkt for samtale sker altid på baggrund af hændelser forud for  
+
+ mødetidspunktet.
+AF kan før mødetidspunktet annullere en aftale om  
+
+ samtale, når AF alligevel ikke kan/ ønsker at gennemføre en samtale/  
+
+ møde.
+I disse situationer skal AF ikke underrette a-kassen.
+ Årsagen til, at AF ikke kan eller ønsker at  
+
+ gennemføre aftalen om samtalen/ mødet og derfor annullerer aftalen om  
+
+ samtalen  
+
+ uden underretning til a-kassen kan være:
+ -  
+
+ 	  
+
+ Forhold hos AF, f.eks.  
+
+ medarbejderes fravær, afbud fra eksterne oplægsholdere og lignende  
+
+ situationer.
+-  
+
+ 	  
+
+ At AF, efter at have  
+
+ sendt indkaldelsen til samtale, finder ud af, at personen ikke er i målgruppe  
+
+ for samtalen.
+Eksempler er, at personer bliver  
+
+ afmeldt før mødetidspunktet  
+
+,  
+
+ eller  
+
+  
+
+ at AF via kontakt med den ledige finder ud af, at det ikke var en  
+
+ hensigtsmæssig indkaldelse.
+ F.eks. i en  
+
+ situation, hvor AF har indkaldt til møde om konkret aktiveringstilbud, og AF  
+
+ vurderer, at personen ikke kan nå at gennemføre tilbuddet, før personen skal  
+
+ afmeldes.
+På den lediges foranledning  
+
+  
+
+ kan AF i nogle få situationer annullere en aftale om  
+
+ samtale.
+I disse situationer skal årsagen til annulleringen angives, og der  
+
+ skal sendes en underretning til a-kassen.
+ AF kan annullere samtalen, når afbud er begrundet i  
+
+ en hændelse i  
+
+  
+
+ umiddelbar  
+
+ tilknytning  
+
+  
+
+ til mødetidspunktet og som følge af:
+1.  
+
+ 	  
+
+ sygdom under 14 dage  
+
+ (er det mere end 14 dage afmeldes personen, og så annulleres samtalen på  
+
+ AFs  
+
+ foranledning)  
+
+  
+
+ eller 2.  
+
+ 	  
+
+ strafafsoning  
+
+  
+
+ eller 3.  
+
+ 	  
+
+ gyldig grund Underretningen til a-kassen er en såkaldt  
+
+ servicemeddelelse, hvor a-kassen ikke skal give tilbagemelding om rådighed.  
+
+ Underretningen indgår dog i a-kassens generelle rådighedsvurdering af  
+
+ medlemmet.
+I situationer, hvor den ledige har en gyldig grund  
+
+ til afbuddet kan AF, når der er mulighed for at finde et nyt tidspunkt  
+
+ vælge at udsætte samtalen og dermed undlade at sende servicemeddelelsen til  
+
+ a-kassen.
+Det gælder ikke i forbindelse med sygdom og strafafsoning.
+ Gyldige grunde  
+
+  
+
+ er forhold, som ikke kan give årsag til tvivl om den lediges  
+
+ rådighed i forhold til lov om arbejdsløshedsforsikring m.v.. Her udover skal  
+
+ der skeles til, om man i et ordinært ansættelsesforhold i den pågældende  
+
+ situation  
+
+ ville give tjenestefrihed.
+ Gyldige grunde og dermed situationer, hvor AF  
+
+ må ændre et tidspunkt for en samtale er:
+-  
+
+ 	  
+
+ den ledige er i  
+
+ arbejde på mødetidspunktet, f.eks. i forbindelse med arbejdsfordeling og  
+
+ delvis  
+
+ ledighed -  
+
+ 	  
+
+ den ledige skal til  
+
+ speciallæge/ tandlæge på mødetidspunktet -  
+
+ 	  
+
+ at en person i den  
+
+ lediges nærmeste familie er død, og begravelsen falder sammen med  
+
+ mødetidspunktet  
+
+ hos AF.
+-  
+
+ 	  
+
+ at den ledige skal  
+
+ møde i retten eller varetage et borgerligt ombud eller andet hverv i det  
+
+ offentliges  
+
+ interesse på mødetidspunktet -  
+
+ 	  
+
+ at den ledige skal til  
+
+ jobsamtale hos arbejdsgiver på mødedagen/ mødetidspunktet.
+I disse tilfælde skal der findes et nyt  
+
+ mødetidspunkt.
+I forbindelse med  
+
+ henvendelsen fortæller AF den ledige, at AF vil sende en ny indkaldelse.
+3.3.2 I hvilke situationer kan AF ikke ændre  
+
+ et tidspunkt for en samtale/møde eller annullere en aftale om samtale/møde? Når AF ikke kan annullere en aftale om samtale/møde  
+
+ eller ændre et tidspunkt for en samtale, skal AF underrette  
+
+ a-kassen om udeblivelse.
+ Eksempler på situationer, hvor AF ikke på den  
+
+ lediges foranledning kan ændre et tidspunkt  
+
+ for en samtale/møde eller annullere en aftale om samtale/ møde er:
+-  
+
+ 	  
+
+ Børns sygdom (også  
+
+ barns 1. sygedag, idet der kan være tale om et rådighedsproblem) -  
+
+ 	  
+
+ Går i arbejde (kort  
+
+ tid) efter mødetidspunktet -  
+
+ 	  
+
+ Skal på barsel (kort  
+
+ tid) efter mødetidspunktet -  
+
+ 	  
+
+ Børnepasningsproblemer -  
+
+ 	  
+
+ Ved formidlingssamtale  
+
+ om et job, hvor personen ved udsættelse ikke kan nå at blive henvist inden  
+
+ ansættelsestidspunkt -  
+
+ 	  
+
+ Når det ikke er muligt  
+
+ at finde et tidspunkt, hvor en delvis ledig kan møde op hos AF Når AF ikke annullerer en aftale om  
+
+ samtale/møde eller ændrer tidspunktet for  
+
+ samtalen/mødet  
+
+  
+
+ skal  
+
+  
+
+ AF:
+1.  
+
+ 	  
+
+ bestræbe sig på ikke  
+
+ at gå ind i en diskussion om, hvorvidt der er tale om en rimelig begrundelse  
+
+ eller ej.
+AF´s opgave er jo netop ikke at foretage rådighedsvurderinger, men  
+
+ blot at konstatere en eventuel udeblivelse.
+2.  
+
+ 	  
+
+ gøre personen  
+
+ opmærksom på, at a-kassen bliver orienteret om en evt. udeblivelse 3.  
+
+ 	  
+
+ gøre opmærksom på, at  
+
+ personen skal henvende sig til AF eller a-kassen efter udeblivelsen, evt.  
+
+ samme  
+
+ dag som udeblivelsen 4.  
+
+ 	  
+
+ registrere en eventuel  
+
+ fremtidig afmelding 5.  
+
+ 	  
+
+ når mødetidspunktet er  
+
+ overskredet, registrere den eventuelle udeblivelse 6.  
+
+ 	  
+
+ registrere  
+
+ henvendelser efter udeblivelsen (samtaletypen kontakt efter  
+
+ udeblivelse). Den  
+
+ samtaletype får a-kassen underretning om.
+For personen er underretningen  
+
+ vigtig, idet kontakten kan være afgørende for, hvor meget man evt. mister i  
+
+ dagpenge som følge af udeblivelse.
+ 7.  
+
+ 	  
+
+ foretage en ny  
+
+ indkaldelse, hvis samtalen fortsat er relevant at gennemføre (f.eks. i  
+
+ forbindelse med kontaktforløb og aktiveringspligt). Ved valg af  
+
+ samtaletidspunkt tages der selvfølgelig hensyn til evt. oplysninger, der er  
+
+ registreret om ferie, sygdom osv.
+ 4. Faldgruber i den elektroniske  
+
+ kommunikation med a-kasserne.
+I dette afsnit er valgt at beskrive nogle  
+
+ faldgruber i registreringerne.
+Faldgruber, der er udtryk for uhensigtsmæssig  
+
+ kommunikation, og hvor AF kan lette kommunikationen med a-kasserne ved at  
+
+ være  
+
+ opmærksom på, at a-kassen skal lave sagsbehandling på baggrund af  
+
+ underretningen.
+ I bilaget til dette cirkulære er der en beskrivelse  
+
+ af, hvordan kommunikationen foregår og en skematisk fremstilling,  
+
+ der kan tjene som hjælperedskab for AF-medarbejderen.
+ 1.  
+
+ 	  
+
+ AF  
+
+ kan risikere, at indberette personer både for ikke at medvirke til  
+
+ udarbejdelse  
+
+ af jobplan og for ikke at overholde tilbud i jobplan.
+ Tilbud efter lov om en  
+
+ aktiv beskæftigelsesindsats skal indgå i en jobplan, medmindre der er tale om  
+
+ vejledning og opkvalificering i form af kortere vejlednings- og  
+
+ afklaringsforløb af en varighed på op til 2 uger.
+ Hvis den ledige ikke vil  
+
+ medvirke til at udarbejde eller revidere jobplanen skal AF indberette den  
+
+ ledige til a-kassen.
+Er en aktivitet i en  
+
+ jobplan oprettet teknisk, men er jobplanen ikke underskrevet skal aktiviteten  
+
+ annulleres.
+Først herefter kan den lediges manglende medvirken til at  
+
+ udarbejde  
+
+ eller revidere jobplanen registreres.
+Herved kan det undgås at indberette for  
+
+ både manglende medvirken til udarbejdelse af jobplan og manglende  
+
+ overholdelse  
+
+ af jobplan.
+ Er jobplanen  
+
+ underskrevet, og personen f.eks. ikke møder op til aktiviteten, så skal der  
+
+ indberettes for, at jobplanen ikke er overholdt.
+ Forud for afslutning af  
+
+ samtaler og aktiviteter i jobplan er det altså nødvendigt at overveje,  
+
+ hvilken  
+
+ underretning, der i den konkrete situation er relevant at sende til a-kassen.
+ 2.  
+
+ 	  
+
+ AF kan risikere, at der opstår problemer med  
+
+ underretninger til a-kassen i de tilfælde, hvor den ledige er hos en anden  
+
+ aktør.
+Det er vigtigt, at AF  
+
+ bruger de korrekte indberetninger, når der er tvivl om rådigheden hos ledige,  
+
+ der deltager i en indsats hos andre aktører.  
+
+  
+
+ Da en anden aktør ikke har kompetence til myndighedsudøvelse, håndteres evt.  
+
+ rådighedsproblemer forskelligt alt afhængig af, om det er den anden aktør  
+
+ eller  
+
+ AF, der har indkaldt den ledige til samtale.
+Der kan f.eks. være tale om  
+
+ følgende  
+
+ to situationer:
+a.  
+
+ 	  
+
+ Hvis det er  
+
+  
+
+ AF, der har indkaldt  
+
+  
+
+ den ledige  
+
+ skriftligt og personligt til at møde på et bestemt tidspunkt  enten hos  
+
+ AF  
+
+ eller en anden aktør  og den ledige ikke møder op, skal indberetningen  
+
+ ske  
+
+ straks.
+Udeblivelsen medfører, at den ledige mister dagpengene fra  
+
+ tidspunktet  
+
+ for udeblivelsen og til den ledige henvender sig til AF eller a-kassen om  
+
+ udeblivelsen.  
+
+ A-kassen vil herefter undersøge om medlemmet evt. skal pålægges en sanktion  
+
+ for  
+
+ selvforskyldt ledighed.
+AF skal derfor ved indgåelse af aftaler med andre  
+
+ aktører sikre sig, at aktøren straks giver Af besked i de situationer, hvor  
+
+ den  
+
+ ledige ikke efterlever AF´s anmodning.
+ b.  
+
+ 	  
+
+ Hvis det er den  
+
+  
+
+ anden aktør, der har indkaldt  
+
+  
+
+ den  
+
+ ledige, og den ledige ikke møder op, kan det ikke umiddelbart få  
+
+ dagpengemæssige konsekvenser for den ledige, da den anden aktør ikke har  
+
+ beføjelser  
+
+ til at udøve myndighed.
+ Den anden aktør skal  
+
+ give AF besked, hvis den ledige ikke deltager i de aktiviteter, den anden  
+
+ aktør  
+
+ gennemfører eller i øvrigt udviser en adfærd, der gør det vanskeligt for  
+
+ aktøren, at varetage en indsats for personen.
+ AF kan herefter vælge  
+
+ at indberette den ledige til a-kassen med henblik på en generel  
+
+ rådighedsvurdering  
+
+ eller at indkalde den ledige skriftligt og personligt, og så ved manglende  
+
+ fremmøde at indberette den ledige med den kode, der anvendes i situationen  
+
+ som  
+
+ svarer til at AF selv har indkaldt.
+ AF skal derfor ved  
+
+ indgåelse af aftaler med andre aktører sikre sig, at den anden aktør, giver  
+
+ besked  
+
+ til AF, hvis aktøren og den ledige ikke kan blive enige om en indsats, eller  
+
+ hvis der f.eks. er problemer med, at den ledige ikke deltager tilstrækkeligt  
+
+ intensivt.
+ 3.  
+
+ 	  
+
+ AF risikerer at indberette  
+
+ personer for ikke at ville have et job, selvom det er AF, der vælger ikke at  
+
+ fortsætte formidlingen.
+Når AF indkalder til  
+
+ formidlingssamtale via ansættelsesarrangementet og beslutter ikke at henvise  
+
+ alle, som man har gennemført samtalen med, skal AF beslutte, om der skal ske  
+
+ indberetning til a-kassen af alle dem, der ikke henvises.
+Hvis der ikke er  
+
+ grundlag for at der skal ske underretning af a-kassen, skal  
+
+ samtalearrangementet  
+
+ først afsluttes på normal vis og herefter afsluttes ansættelsesarrangementet  
+
+ i  
+
+ status ikke påbegyndt med årsagen formidling ikke  
+
+ fortsat.
+ 4.  
+
+ 	  
+
+ AF risikerer at indberette  
+
+ personer for udeblivelser, hvis de ikke afmelder sig forud for tidspunktet  
+
+ for  
+
+ samtalen.
+Det er kun ledige  
+
+ personer, der skal indberettes for udeblivelser.
+Uanset hvilken samtale eller  
+
+ møde, som det handler om, kan AF annullere arrangementet, hvis afbuddet  
+
+ kommer  
+
+ på forhånd, og begrundelsen fører til afmelding  
+
+  
+
+ forud  
+
+  
+
+ for samtalen/ mødet.
+ Et  
+
+ eksempel:
+En person er indkaldt til  
+
+ møde den 1. juni.
+Den 31. maj meddeler hun AF, at hun ikke kommer til mødet,  
+
+ fordi hun har fået fast arbejde på fuld tid fra d. 1. juni.
+I den situation  
+
+ annullerer AF mødet, og afmelder personen.  
+
+  
+
+ Meddeler personen til gengæld, at hun har fået arbejde den 15. juni og derfor  
+
+ ikke ønsker at komme til mødet den 1. juni, skal personen indberettes til  
+
+ a-kassen for udeblivelse, hvis hun ikke møder op.
+Alle udeblivelser   
+
+ uanset årsag  skal føre til underretning af a-kassen.
+Også selvom AF  
+
+ efterfølgende  
+
+ får at vide, at det var p.g.a. arbejde, sygdom m.v.
+ 5.  
+
+ 	  
+
+ AF skal underrette a-kassen  
+
+ om, at en person har kontaktet AF efter udeblivelse.
+Når en person er  
+
+ udeblevet fra en aktivitet og efterfølgende kontakter AF, er det samtaletypen  
+
+ kontakt efter udeblivelse, der skal anvendes.
+Du bliver nødt til  
+
+ at  
+
+ registrere denne samtale, selvom du også taler med personen i anden  
+
+ sammenhæng.  
+
+ Ellers vil a-kassen ikke få underretning om kontakt efter udeblivelse.
+En god ide vil i øvrigt  
+
+ være at tjekke, når en ledig uopfordret henvender sig til AF, om der er  
+
+ registreret  
+
+ en forudgående samtale i status udeblevet.
+Det kan jo være, at  
+
+ det var den  
+
+ egentlige grund til henvendelsen.
+5. Kommunikation mellem AF og a-kasser AF og a-kasserne kommunikerer bl.a. elektronisk med  
+
+ hinanden via AMANDA  mails o. lign. er ikke omfattet af dette  
+
+ cirkulære.
+ Den kommunikation ses i AMANDA billedet:  
+
+ A-kasse/kommune kommunikation - liste  
+
+ 1)  
+
+1) .
+ Det, der ses her, opstår enten som følge af en  
+
+ registrering et andet sted i AMANDA, eller som følge af en indberetning af en  
+
+ art fra en a-kasse, der så ofte skaber en registrering eller en opfølgning et  
+
+ andet sted i AMANDA.
+AMANDA er altså bygget sådan op, at a-kasserne  
+
+ automatisk får besked, når de efter regelsættet skal have information.  
+
+ Fordelen  
+
+ ved denne automatik er, at man som AF medarbejder ikke skal huske på, at der  
+
+ også skal gives besked til a-kassen.
+Det sørger AMANDA for.
+Ulempen er, at  
+
+ man  
+
+ i dagligdagen kan glemme betydningen af, at registreringerne skal kunne  
+
+ bruges  
+
+ til opfølgning af a-kasserne.
+ Der skal sættes fokus på, at AFs  
+
+ registreringer i AMANDA skal bruges af a-kasserne, og at den ensartet og  
+
+ korrekt registrering i  
+
+ AMANDA letter a-kassernes muligheder for at bruge underretningerne.
+5.1. Hvem kommunikerer AF med a-kasserne  
+
+ om? AF (AMANDA) kommunikerer med den hoved a-kasse, der  
+
+ er registreret som a-kasse i personens arbejdsløshedsforsikrings-arrangement.
+ Generelt kommunikeres der med a-kasserne fra AMANDA  
+
+ om personer, der er registreret som dagpengemodtagere i AMANDA.
+Fra AMANDA kommunikeres også med a-kassen om  
+
+ kontanthjælpsmodtagere, der er medlem af en a-kasse.
+Det gælder negative  
+
+ underretningspligtige hændelser, og ved ophør som dagpengemodtager.
+ Den sidste underretning (ophør som  
+
+ dagpengemodtager) sendes også på personligt tilmeldte.
+I visse tilfælde  typisk p.g.a. af manglende  
+
+ medlemskab  
+
+ af en a-kasse  bliver AFs underretning returneret til AF, fordi  
+
+ a-kassen ikke  
+
+ kan modtage den.
+I a-kassekommunikationen kan man se, at underretningen er  
+
+ returneret, og der vil være dannet en opfølgning til AF-kontoret.
+5.2. Hvornår kommunikerer AF med a-kasserne? Hver aften foretages en batch-kørsel, der tjekker,  
+
+ om der i AMANDA er registreret hændelser, der skal overføres til a-kasserne.  
+
+ Disse  
+
+ hændelser bearbejdes i batch-programmet, og den følgende dag kan de ses i  
+
+ A-kasse/kommune kommunikation  liste i AMANDA.
+Hoved  
+
+ a-kassen eller dens  
+
+ servicebureau modtager oplysningerne samtidigt.
+Herefter er der for de  
+
+ enkelte  
+
+ a-kasser forskellige procedurer for, hvordan oplysningerne modtages i de  
+
+ enkelte  
+
+ afdelinger.
+Der bliver også via en batch-kørsel sendt  
+
+ kvitteringer til a-kassen på modtagelse af deres oplysninger.
+Nogle af dem  
+
+ kan ses i AMANDA,  
+
+ medens andre er af mere teknisk karakter og ikke kan ses.
+ Ud over disse daglige overførsler af oplysninger,  
+
+ foretages med jævne mellemrum andre kørsler, f.eks. bestandskørslen.
+5.3. Hvad kommunikerer AF med a-kasserne om? AF og a-kasserne har brug for at udveksle  
+
+ oplysninger i en lang række situationer.
+De fleste situationer er nævnt  
+
+ specifikt i kapitel  
+
+ 17 bekendtgørelse om en aktiv beskæftigelsesindsats, men der sendes også  
+
+ andre  
+
+ underretninger til a-kassen.
+ A-kasserne kan rekvirere de oplysninger, der er  
+
+ registreret i AMANDA.
+I stigende omfang registreres oplysninger om de  
+
+ ledige i CV-banken og Arbejdsmarkedsportalen og ikke i AMANDA, hvorfor  
+
+ a-kassernes  
+
+ mulighed for at hente disse oplysninger via AMANDA er begrænset.
+Dog kan  
+
+ disse  
+
+ oplysninger videregives via AMANDA, hvis de er skrevet ind i AMANDA.
+Arbejdsmarkedsstyrelsen, den 8. december  
+
+ 2005 Marianne Sumborg Bilag 1 Bilag - Skematiske fremstillinger, og  
+
+ beskrivelser af hvordan kommunikationen foregår i forskellige situationer:
+ 1. Samtaler / Møder   
+
+ Skriftligt og personligt indkaldt.
+ -  
+
+ 	  
+
+ Samtaler, infomøde  
+
+ før jobplan, infomøde for nytilmeldte og målrettet servicetilbud.
+ -  
+
+ 	  
+
+  
+
+ Formidlingssamtaler  se afsnit om formidling til ordinært arbejde.
+ -  
+
+ 	  
+
+  
+
+ Jobsøgningssamtale  se endvidere afsnit om formidling til ordinært  
+
+ arbejde.
+ A.: Den ledige melder afbud til samtale / møde.
+Den ledige Hvad gør AF A-kasse Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med acceptabel begrundelse.
+Skifter status på samtalearrangement til udsat og Opretter erstatningsmøde med ny tid for samtale Eller Skifter status på samtalearrangement til annulleret / +  
+
+ årsag / + årsagstekst.
+Underrettes ikke Underrettes, men skal ikke rådighedsvurdere.
+F 07 - Medlemmet har meldt afbud til samtale pga gyldig  
+
+ grund.) Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med begrundelse:
+gået  
+
+  
+
+ i arbejde på fuld tid, sygdom i  
+
+  
+
+ mere  
+
+  
+
+ end 14 dage, barsel, orlov, efterløn Skifter status på samtalearrangement til annulleret/aflyst  
+
+ af AF. og Skifter status på tilmeldingsarrangement til Afmeldt/ +  
+
+ årsag Underrettes ikke Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med begrundelse:
+går i arbejde på fuld tid, sygdom i  
+
+  
+
+ mere  
+
+  
+
+ end 14 dage, barsel, orlov, efterløn inden mødedato.
+Skifter status på samtalearrangement til annulleret/aflyst  
+
+ af AF. og Ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/årsag Underrettes ikke Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt sygdom i  
+
+  
+
+ mindre  
+
+  
+
+ end 14 dage.
+Opretter Periodisk Forhold/sygdom og Skifter status på samtalearrangement til annulleret / +  
+
+ årsag .
+ Underrettes, men skal ikke rådighedsvurdere.
+F 01 - Medlemmet har meldt afbud til samtale pga sygdom  
+
+ af under 14 dages varighed.) Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med uacceptabel  
+
+ begrundelse.
+Skifter  
+
+  
+
+ efter  
+
+  
+
+ mødetidspunkt status på  
+
+ samtalearrangement til Udeblevet Underrettes og skal rådighedsvurdere.
+ R 51 - CV-samtale.
+ R 15 - Erhvervs-vejledningssamtale og samtale om  
+
+ kontaktforløb.
+R 11 - Jobplan-samtale og Jobplan- Revisionssamtale.
+ R 20 - Individuel vejledningssamtale i øvrigt.
+ R 56 - Jobsøgnings-samtale.
+ R 02 - Uddannelses-samtale.
+ R 43 - Visitations- samtale.
+R 09 - Gruppemøde Meddeler  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt:
+går i arbejde på fuld tid, går på efterløn, orlov, barsel  
+
+  
+
+ efter mødedato.
+ AF vurderer, at begrundelse er OK.
+Skifter status på samtalearrangement til annulleret/aflyst  
+
+ af AF. og Ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/årsag Underrettes ikke AF vurderer, at begrundelse ikke er OK.
+Ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/årsag og Skifter  
+
+  
+
+ efter  
+
+  
+
+ mødetidspunkt status på  
+
+ samtalearrangement til Udeblevet Underrettes og skal rådighedsvurdere.
+ B.: Den ledige kontakter ikke/møder ikke på AF.
+Den ledige Hvad gør AF A-kasse Kontakter ikke AF og møder ikke til samtale.
+Skifter status på samtalearrangement til Udeblevet Underrettes C.: Den ledige kontakter AF i forbindelse med udeblivelse  
+
+ fra samtale/møde.
+Den ledige Hvad gør AF A-kasse Retter henvendelse til AF efter udeblivelse fra en samtale Opretter samtalearrangement Kontakt efter udeblivelse i  
+
+ status gennemført + årsag + årsagstekst.
+Underrettes V  Arbejdssøgende har henvendt sig efter tidligere udeblivelse.
+2. CV-godkendelse NB: En afmelding  
+
+ med efterfølgende tilmelding medfører, en ny 30 dages frist.
+ A.: Den ledige mødt til CV samtale før 1 måned efter  
+
+ tilmelding.
+Den ledige Hvad gør AF A-kasse Har ikke indlagt CV eller Har indlagt CV, men CV er ikke fyldestgørende.
+ Skifter status på samtalearrangement til gennemført.
+ Opretter CV-arrangement i status påbegyndt/ej  
+
+ Q-sikret..
+ Opretter opfølgning i CV-arrangement.
+Udleverer brev med frist og CV-erklæring eller Aftaler ny indkaldelse 1 mdr. efter tilmelding.
+ Underrettes ikke.
+ A.1.: Opfølgning på  
+
+ baggrund af opfølgningsdato på CV arrangement.
+Den ledige Hvad gør AF A-kasse Har ikke sendt udskrift af CV og CV erklæring så det er  
+
+ modtaget senest på opfølgningsdagen.
+eller Den ledige har sendt udskrift af CV og CV erklæring, men  
+
+ CV er ikke fyldestgørende.
+ Skifter årsag på CV-arrangement til ej gyldigt.
+ Underrettes og skal rådighedsvurdere.
+ R52  AF har konstateret, at medlemmets CV ikke opfylder  
+
+ gyldighedskravet 1 mdr. efter tilmelding.
+ B: Den ledige mødt til samtale 1 måned efter tilmelding.
+Den ledige Hvad gør AF A-kasse Har ikke indlagt CV Skifter status på samtalearrangement til gennemført/  
+
+ CV-krav ej opfyldt. Underrettes og skal rådighedsvurdere.
+R50  AF har konstateret, at medlem ikke har et aktivt CV  
+
+ 1 mdr. efter tilmelding Har indlagt CV, men CV er/bliver ikke fyldestgørende eller Vil ikke underskrive CV  erklæring.
+Skifter status på samtalearrangement til gennemført. Opretter CV-arrangement i status påbegyndt/ej gyldig.
+ Underrettes og skal rådighedsvurdere.
+R52 Vil ikke gøre CV tilgængelig (oplyse kundenummer).
+ Skifter status på samtalearrangement til gennemført/CV-krav  
+
+ ej opfyldt.
+Eller Skifter status på samtalearrangement til gennemført Opretter CV-arrangement i status påbegyndt/ej gyldig. Underrettes og skal rådighedsvurdere.
+R50 R52 C: CV ikke aktiv i CV - banken.
+Den ledige Hvad gør AF A-kasse Har ikke bevaret sit CV aktivt i CV - banken Der foretages automatisk skift af status på  
+
+ CV-arrangement til suspenderet/ej aktivt. Underrettes og skal rådighedsvurdere.
+ R53- AF har konstateret at medlemmets CV er inaktivt.
+D: CV ikke ajourført i CV  banken Den ledige Hvad gør AF A-kasse Vil ikke ajourføre sit CV i CV-banken Skifter status på CV-arrangement til suspenderet/vil  
+
+ ikke medvirke til ændringer Underrettes og skal rådighedsvurdere.
+ R54- AF har konstateret, at medlemmet ikke vil medvirke  
+
+ til ændringer.
+E: CV godkendes efter forudgående underretning af A-kassen Den ledige Hvad gør AF A-kasse Retter op på en situation, der havde medført underretning  
+
+ til A-kassen via CV-arrangement i status Påbegyndt/ej gyldig.
+Godkender CV Underrettes.
+ F17  Medlemmets CV er godkendt af AF.
+(OBS: F15  Medlemmets CV godkendt af anden aktør.) Retter op på en situation, der havde medført underretning  
+
+ til A-kassen via CV-arrangement i status Suspenderet/ej aktivt eller Suspenderet/ vil ikke medvirke til ændringer.
+Godkender CV Underrettes.
+ F17  Medlemmets CV er godkendt af AF.
+(OBS: F15  Medlemmets CV godkendt af anden aktør.) F: Ændring af stillingsbetegnelse i CV Den ledige Hvad gør AF A-kassen Ændrer stillingsbetegnelse i CV-banken for at undgå at  
+
+ blive udsøgt til ledige job.
+Opretter underretning til A-kassen via Perioder - Manuel  
+
+ A-kasse  kommunikation - udg.
+Hændelse N R55 + dato + konkret  
+
+ begrundelse.
+ Underrettes og skal rådighedsvurdere.
+R55 - tvivl om rådighed 3. Formidling til  
+
+ ordinært arbejde  skriftligt, personligt, telefonisk indkaldt.
+ A: Den ledige melder afbud til formidlingssamtale.
+Den ledige Hvad gør AF A-kasse Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med begrundelse:
+ gået  
+
+  
+
+ i arbejde på fuld tid, sygdom  
+
+  
+
+ i mere  
+
+  
+
+ end 14 dage, barsel, orlov eller efterløn.
+Skifter status på samtalearrangement til Annulleret/  
+
+ aflyst af AF og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + formidling ikke fortsat Skifter status på tilmeldingsarrangement til Afmeldt/ +  
+
+ årsag.
+ Underrettes ikke.
+ Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med begrundelse:
+ går  
+
+  
+
+ i arbejde på fuld tid, sygdom  
+
+  
+
+ i mere  
+
+  
+
+ end 14 dage, barsel, orlov eller efterløn  
+
+  
+
+ inden mødedato.
+Skifter status på samtalearrangement til Annulleret/  
+
+ aflyst af AF og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + formidling ikke fortsat og opretter fremtidig afmelding/årsag.
+Underrettes ikke Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt sygdom i  
+
+  
+
+ mindre  
+
+  
+
+ end 14 dage.
+Opretter Periodisk Forhold/sygdom og skifter status på samtalearrangement til annulleret +  
+
+ årsag og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + formidling ikke fortsat Underrettes og skal ikke rådighedsvurdere.
+F 01 - Medlemmet har meldt afbud til samtale pga sygdom  
+
+ af under 14 dages varighed Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med begrundelse:
+ går i arbejde på fuld tid, går på efterløn, orlov, barsel  
+
+  
+
+ efter mødedato.
+Ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/ + årsag og skifter  
+
+  
+
+ efter  
+
+  
+
+ mødetidspunkt status på  
+
+ samtalearrangement til Udeblevet og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag Underrettes og skal rådighedsvurdere.
+ F25  Medlemmet har over for AF afvist tilbud om  
+
+ ansættelse.
+ B: Den ledige møder til formidlingssamtale.
+Den ledige Hvad gør AF A-kasse Afslår job med begrundelse:
+ gået  
+
+  
+
+ i arbejde på fuld tid, sygdom i mere end 14 dage,  
+
+ barsel, orlov eller efterløn.
+Skifter status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + formidling ikke fortsat Skifter status på tilmeldingsarrangement til Afmeldt/ +  
+
+ årsag.
+ Underrettes ikke.
+ Meddeler sygdom i mindre end 14 dage.
+Opretter Periodisk Forhold/sygdom og skifter status på samtalearrangement til annulleret +  
+
+ årsag og skifter status på ansættelsesarrangement til Ikke påbegyndt/  
+
+ + formidling ikke fortsat Underrettes og skal ikke rådighedsvurdere.
+F 01 - Medlemmet har meldt afbud til samtale pga sygdom  
+
+ af under 14 dages varighed Afslår job med begrundelse:
+går  
+
+  
+
+ i arbejde på fuld tid, går  
+
+  
+
+ på efterløn, orlov, barsel efter  
+
+  
+
+ jobstartdato.
+Skifter status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag og ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/ + årsag Underrettes og skal rådighedsvurdere.
+F25 Afslår job med begrundelse:
+går  
+
+  
+
+ i arbejde på fuld tid, går  
+
+  
+
+ på efterløn, orlov, barsel inden  
+
+  
+
+ jobstartdato.
+Skifter status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + Formidling ikke fortsat og ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/ + årsag Underrettes ikke Meddeler at han/hun ikke ønsker jobbet Skifter status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ Ønsker ikke jobbet Underrettes og skal rådighedsvurdere.
+F25 C: Den ledige kontakter ikke AF.
+Den ledige Hvad gør AF A-kasse Kontakter ikke AF og møder ikke til samtale.
+Skifter status på samtalearrangement til Udeblevet og Skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ ikke kontaktet/mødt på AF Underrettes og skal rådighedsvurdere.
+F20  ved personlig kontakt  Medlemmet er ikke mødt til formidlingssamtale F21  ved telefonisk kontakt  Medlemmet har ikke telefonisk kontaktet AF vedr. formidlingssamtale.
+ D: Den ledige melder afbud til henvisningssamtale.
+Den ledige Hvad gør AF A-kasse Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt hos arbejdsgiver afbud  
+
+  
+
+ til  
+
+ AF  
+
+  
+
+ med begrundelse:
+I arbejde på fuld tid, sygdom  
+
+  
+
+ i mere  
+
+  
+
+ end 14 dage, orlov eller efterløn.
+Skifter status på samtalearrangement til Annulleret/  
+
+ aflyst af AF og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag Skifter status på tilmeldingsarrangement til Afmeldt/ +  
+
+ årsag.
+ Underrettes og skal rådighedsvurdere.
+ F24  Medlemmet har over for arbejdsgiveren afvist et  
+
+ tilbud om ansættelse.
+ Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt hos arbejdsgiver afbud  
+
+  
+
+ til  
+
+ AF  
+
+  
+
+ med begrundelse:
+ Sygdom  
+
+  
+
+ i mindre  
+
+  
+
+ end 14 dage.
+Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Udeblevet og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag Opretter Periodisk Forhold/sygdom.
+ Underrettes og skal rådighedsvurdere.
+F24 E: Resultat af henvisningssamtale.
+Den ledige Hvad gør AF A-kasse Afslår job med begrundelse:
+ gået i arbejde på fuld tid, sygdom i mere end 14 dage,  
+
+ barsel, orlov eller efterløn.
+Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag Underrettes og skal rådighedsvurdere.
+F24 Meddeler sygdom i mindre end 14 dage.
+Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til gennemført og skifter status på ansættelsesarrangement til Ikke påbegyndt/  
+
+ + årsag Underrettes og skal rådighedsvurdere.
+F24 Afslår job med begrundelse:
+går  
+
+  
+
+ i arbejde på fuld tid, går  
+
+  
+
+ på efterløn, orlov, barsel  
+
+  
+
+ efter  
+
+  
+
+ jobstartdato.
+Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag.
+ Underrettes og skal rådighedsvurdere.
+F24 Afslår job med begrundelse:  
+
+  
+
+ går  
+
+  
+
+ i arbejde på fuld  
+
+ tid,  
+
+  
+
+ går  
+
+  
+
+ på efterløn, orlov, barsel  
+
+  
+
+ inden  
+
+  
+
+ jobstartdato.
+Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag.
+ Underrettes og skal rådighedsvurdere.
+F24 Meddeler arbejdsgiver at han/hun ikke ønsker jobbet Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ Ønsker ikke jobbet.
+ Underrettes og skal rådighedsvurdere.
+F24 F: Den ledige kontakter ikke arbejdsgiver.
+Den ledige Hvad gør AF A-kasse Kontakter ikke eller møder ikke til samtale hos arbejdsgiver Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Udeblevet og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ ikke kontaktet/mødt hos arbejdsgiver Underrettes og skal rådighedsvurdere.
+ F22  ved personlig/møde direkte på arbejde kontakt  Medlemmet  
+
+ er ikke mødt hos arbejdsgiveren.
+ F23  ved telefonisk, skriftlig, e-mail kontakt   
+
+ Medlemmet har ikke telefonisk/skriftligt kontaktet arbejdsgiveren..
+ G: Den ledige ønske ikke job  efter aftalt ansættelse.
+Den ledige Hvad gør AF A-kasse Meddeler  
+
+  
+
+ inden  
+
+  
+
+ startdato at han/hun ikke ønsker  
+
+ jobbet Skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ønsker ikke jobbet Underrettes og skal rådighedsvurdere.
+F25 H: Den ledige møder ikke på startdato.
+Den ledige Hvad gør AF A-kasse Møder ikke hos arbejdsgiver på startdato.
+ Skifter status på ansættelsesarrangement til  Afsluttet/ikke  
+
+ kontaktet/mødt hos arbejdsgiver.
+ Underrettes og skal rådighedsvurdere.
+F 22 I: Henvisning til at søge job, der er opslået i Jobnet.
+Den ledige Hvad gør AF A-kasse Møder til indkaldt jobsøgningssamtale og henvises til at  
+
+ søge et bestemt job fra jobbanken i Jobnet.
+Skifter status på samtale- arrangement til gennemført/  
+
+ bedt om at søge job + årsagstekst :  jobnummer fra jobbank Underrettes.
+ F18  medlemmet er blevet bedt om at søge job.
+ 4. Jobplan med tilbud  
+
+ om ansættelse med løntilskud og virksomhedspraktik/tilbud om vejledning og  
+
+ opkvalificering og vejlednings- og afklaringsforløb på op til 2 uger uden en  
+
+ jobplan.
+ A.: Jobplan og Jobplans revision samtale.
+Den ledige Hvad gør AF A-kasse Møder til samtale om Jobplan.
+ Ønsker  
+
+  
+
+ ikke  
+
+  
+
+ en  
+
+ jobplan.
+ Skifter status på samtalearrangement til Gennemført/  
+
+ Ønsker ikke IHP.
+ Underrettes og skal rådighedsvurdere.
+R12 - Vil ikke medvirke til udarbejdelse af jobplan Møder til samtale om revision af jobplan. Ønsker  
+
+  
+
+ ikke  
+
+  
+
+ revision.
+Skifter status på samtalearrangement til Gennemført og  
+
+ skifter status på jobplan til Suspenderet/Ønsker ikke revision Underrettes og skal rådighedsvurdere R13 - Vil ikke medvirke til revision af jobplan B.: En jobplan med tilbud om ansættelse med løntilskud  
+
+ og/eller virksomhedspraktik   
+
+ 	  
+
+ Ansættelsesservice  
+
+ og formidlings/henvisningssamtale B.1.   
+
+ Ansættelsesservice og formidlingssamtale på AF Den ledige Hvad gør AF A-kasse Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunktet afbud med begrundelse:
+Gået/går i arbejde fuld tid/sygdom i mere end 14dage, barsel/orlov/efterløn  
+
+  
+
+ før  
+
+  
+
+ jobstartdato Skifter status på samtalearrangement til  Annulleret/  
+
+ aflyst af AF og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + formidling ikke fortsat og Skifter status på Jobplan til suspenderet/ + årsag og skifter status på tilmeldingsarrangement til afmeldt/+årsag eller ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/årsag Underrettes  
+
+  
+
+ ikke.
+Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunktet sygdom  
+
+  
+
+ i mindre  
+
+  
+
+ end 14 dage Opretter Periodisk Forhold/sygdom og skifter status på samtalearrangement til Annulleret +  
+
+ årsag og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + formidling ikke fortsat og skifter status på Jobplan til suspenderet/ + årsag Underrettes, men skal ikke rådighedsvurdere.
+F01 - Medlemmet har meldt afbud til samtale pga sygdom af  
+
+ under 14 dages varighed Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med begrundelse :
+ går i arbejde på fuldtid / Efterløn/orlov/barsel  
+
+  
+
+ efter  
+
+  
+
+ mødedatoen.
+Ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/årsag og skifter  
+
+  
+
+ efter  
+
+  
+
+ mødetidspunkt status på  
+
+ samtalearrangement til Udeblevet og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+ F25  Afvist tilbud om ansættelse over for AF.
+ Afslår ved samtale job med begrundelse:
+ gået i arbejde på fuld tid i mere end 14 dage/ Efterløn/orlov/barsel.
+Skifter status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + formidling ikke fortsat og skifter status på Jobplan til suspenderet/ + årsag. og skifter status på tilmeldingsarrangement til Afmeldt/ +  
+
+ årsag.
+ Underrettes  
+
+  
+
+ ikke.
+Afslår ved samtale jobbet p.g.a. sygdom i mindre end 14  
+
+ dage Opretter Periodisk Forhold/sygdom og skifter status på samtalearrangement til annulleret +  
+
+ årsag og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + formidling ikke fortsat og skifter status på Jobplan til suspenderet/ + årsag. Underrettes, men skal ikke rådighedsvurdere.
+F01 - Medlemmet har meldt afbud til samtale pga sygdom af  
+
+ under 14 dages varighed Afslår  
+
+  
+
+ ved samtale  
+
+  
+
+ job med begrundelse: går i arbejde på fuldtid /går på efterløn/orlov/barsel  
+
+  
+
+ inden  
+
+  
+
+ jobstartdato Skifter status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + Formidling ikke fortsat og skifter status på Jobplan til suspenderet/ + årsag. og ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/ + årsag Underrettes ikke Afslår ved samtale job med begrundelse: går i arbejde på  
+
+ fuld tid/ går på efterløn/barsel/orlov  
+
+  
+
+ efter  
+
+  
+
+ jobstartdato.
+Skifter status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag og skifter status på Jobplan til suspenderet/ + årsag. og ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/ + årsag Underrettes og skal rådighedsvurdere.
+F 25 Afslår ved samtalen jobbet.
+Skifter status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ Ønsker ikke jobbet og skifter status på Jobplan til  suspenderet/ + årsag Underrettes og skal rådighedsvurdere.
+F25 Kontakter ikke AF Skifter status på samtalearrangement til Udeblevet og Skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ ikke kontaktet/mødt på AF og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+ F20 - Ikke mødt til formidlingssamtale hos AF.
+B.2:   
+
+ Ansættelsesservice og henvisningssamtale Den ledige Hvad gør AF A-kasse Meddeler  
+
+  
+
+ før  
+
+  
+
+ samtaletidspunktet  
+
+ hos arbejdsgiver afbud  
+
+  
+
+ til AF  
+
+  
+
+ med begrundelsen :gået i arbejde på  
+
+ fuldtid el. efterløn/ sygdom/barsel/orlov Skifter status på samtalearrangement til Annulleret/  
+
+ aflyst af AF og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + Ikke ansat og Skifter status på Jobplan til suspenderet/ + årsag. og skifter status på tilmeldingsarrangement til Afmeldt/ +  
+
+ årsag.
+Underrettes ikke Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunk hos arbejdsgiver afbud til AF med begrundelsen:
+ sygdom i  
+
+  
+
+ mindre  
+
+  
+
+ end 14 dage.
+Opretter Periodisk Forhold/sygdom og skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Udeblevet og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere F24 - Afvist tilbud om ansættelse.
+ Afslår  
+
+  
+
+ ved samtale  
+
+  
+
+ hos arbejdsgiver job med begrundelse:
+gået  
+
+ i  
+
+ arbejde på fuld tid, sygdom i mere end 14 dage/  
+
+  
+
+ gået  
+
+  
+
+ på barsel/orlov/efterløn Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+F24 Afslår  
+
+  
+
+ ved samtale  
+
+  
+
+ hos arbejdsgiver job med begrundelse:
+går  
+
+  
+
+ i arbejde på fuld tid/  
+
+  
+
+ går  
+
+  
+
+ på efterløn/orlov/  
+
+ barsel  
+
+  
+
+ inden  
+
+  
+
+ jobstartdato Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+F24 Afslår  
+
+  
+
+ ved samtale  
+
+  
+
+ hos arbejdsgiveren job med  
+
+ begrundelse:
+går  
+
+  
+
+ i arbejde på fuld tid/  
+
+  
+
+ går  
+
+  
+
+ på efterløn/orlov/  
+
+ barsel  
+
+  
+
+ efter  
+
+  
+
+ jobstartdato Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+F24 Afslår  
+
+  
+
+ ved samtale hos arbejdsgiver job p.g.a.  
+
+  
+
+ sygdom i mindre end 14 dage.
+Ansættelse finder ikke sted.
+Opretter Periodisk Forhold/sygdom og skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ + årsag og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+F24 Meddeler arbejdsgiver: Ønsker ikke jobbet Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Gennemført og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ Ønsker ikke jobbet og evt. kort begrundelse i tekststreng og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+F24 Kontakter ikke arbejdsgiver Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra arbejdsgiver  
+
+ status på samtalearrangement til Udeblevet og skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/ ikke kontaktet/mødt hos arbejdsgiver og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+F 22 - Ikke mødt hos arbejdsgiver ved personlig/møde direkte på arbejde kontakt.
+F 23 - Ikke kontaktet arbejdsgiver telf./skriftligt ved skriftlig kontakt C: En jobplan med tilbud om ansættelse med løntilskud  
+
+ og/eller virksomhedspraktik   
+
+ 	  
+
+ Ansættelsesservice  
+
+ fra status ansat/godkendt til status ikke påbegyndt Den ledige Hvad gør AF A-kasse Opsiger job inden startdato -  
+
+  
+
+ efter  
+
+  
+
+ aftalt  
+
+ ansættelse med arbejdsgiver Skifter status på ansættelsesarrangement til Ikke  
+
+ påbegyndt/opsagt af ledig og skifter status på Jobplan til suspenderet/ + årsag Underrettes og skal rådighedsvurdere.
+ R 14 - Har ikke overholdt aftale i jobplan.
+D: En jobplan med tilbud om ansættelse med løntilskud  
+
+ og/eller virksomhedspraktik   
+
+ 	  
+
+ Ansættelsesservice  
+
+ fra status aktiveret til status afbrudt Den ledige Hvad gør AF A-kasse Opsiger job efter startdato Skifter status på ansættelsesarrangement til  
+
+ Afbrudt/Opsagt af ledig og skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+ R 14 - Har ikke overholdt aftale i jobplan.
+Afbryder job efter startdato med begrundelse: i  
+
+ arbejde/efterløn/sygdom/barsel/  
+
+ orlov Skifter status på ansættelsesarrangement til Afbrudt/ +  
+
+ årsag og skifter status på Jobplan til suspenderet/ + årsag. og evt. registrering i periodisk forhold.
+skifter evt. status på tilmeldingsarrangement til  
+
+ Afmeldt + årsag Underrettes og skal rådighedsvurdere.
+R 14 Virksomheden opsiger ledig efter statdato Skifter status på ansættelsesarrangement til Afbrudt/Opsagt  
+
+ af virksomhed og skifter status på Jobplan til suspenderet/ + årsag Underrettes og skal rådighedsvurdere.
+R 14 E: En jobplan med tilbud om vejledning og opkvalificering   
+
+ 	  
+
+ Kursustilmelding Den ledige Hvad gør AF A-kasse Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med begrundelse:
+gået  
+
+  
+
+ i arbejde på fuld tid/sygdom i mere end 14 dage/  
+
+  
+
+ gået  
+
+  
+
+ på barsel/orlov Skifter status på kursustilmelding til Annulleret/  
+
+ tilmelding annulleret og skifter status på jobplan til Suspenderet/+ årsag og skifter status på tilmeldingsarrangement til Afmeldt/+  
+
+ årsag.
+Underrettes ikke Afslår tilbuddet  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt.
+Afbud med begrundelse:
+ Sygdom  
+
+  
+
+ mindre  
+
+  
+
+ end 14 dage.
+Opretter Periodisk forhold/sygdom og Skifter status på kursustilmelding til Annulleret/ + sygemeldt.
+skifter status på Jobplan til suspenderet/ + årsag. Underrettes og skal rådighedsvurdere.
+R 14 Afviser  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt uddannelsestilbud Skifter status på kursustilmelding til Annulleret/Uddannelsestilbud  
+
+ afvist. og skifter status på jobplan til Suspenderet/+ årsag.
+ Underrettes og skal rådighedsvurdere.
+R 14 Udebliver fra optagelsesmøde Skifter status på kursustilmelding til Afbrudt/Udeblevet  
+
+ fra optagelsesmøde. og skifter status på jobplan til Suspenderet/+ årsag.
+ Underrettes og skal rådighedsvurdere.
+R 14 Udebliver fra kursusstart Skifter status på kursustilmelding til Afbrudt/Udeblevet  
+
+ fra kursusstart. og skifter status på jobplan til Suspenderet/+ årsag Underrettes og skal rådighedsvurdere.
+R 14 Afbryder igangværende kursus Skifter status på kursustilmelding til Afbrudt/Afbrudt  
+
+ igangværende kursus og skifter status på jobplan til Suspenderet/+ årsag.
+ Underrettes og skal rådighedsvurdere.
+R 14 Afbryder igangværende kursus med begrundelsen:
+I arbejde/sygdom/barsel/orlov Skifter status på kursustilmelding til Afbrudt/ + Årsag  
+
+ og skifter status på jobplan til Suspenderet/+ årsag.
+ Underrettes og skal rådighedsvurdere.
+R 14 F: Tilbud om vejlednings og afklaringsforløb på op til 2  
+
+ uger m. kursustilmelding - uden en jobplan Den ledige Hvad gør AF A-kasse Melder  
+
+  
+
+ før start  
+
+  
+
+ tidspunkt på kurset afbud med acceptabel  
+
+ begrundelse Skifter status på kursustilmelding til Annulleret  
+
+ /Tilmelding annulleret Underrettes ikke Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med begrundelse:
+ gået  
+
+  
+
+ i arbejde på fuld tid/  
+
+  
+
+ gået  
+
+  
+
+ på barsel/orlov/efterløn/sygdom  
+
+ i  
+
+  
+
+ mere  
+
+  
+
+ end 14 dage.
+Skifter status på kursustilmelding til  
+
+ Annulleret/Tilmelding annulleret og skifter status på tilmeldingsarrangement til Afmeldt/ +  
+
+ Årsag.
+Underrettes ikke Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt sygdom i  
+
+  
+
+ mindre  
+
+  
+
+ end 14 dage Opretter Periodisk Forhold/sygdom og Skifter status på kursustilmelding til Annulleret/ +  
+
+ sygdom Underrettes og skal rådighedsvurdere.
+ R01  Medlemmet har afslået et konkret tilbud om uddannelse.
+ Melder  
+
+  
+
+ før  
+
+  
+
+ mødetidspunkt afbud med begrundelse:
+ går  
+
+  
+
+ i arbejde på fuld tid/  
+
+  
+
+ går  
+
+  
+
+ på efterløn/orlov/  
+
+ barsel  
+
+  
+
+ efter  
+
+  
+
+ startdato.
+Skifter  
+
+  
+
+ efter  
+
+  
+
+ modtagelse af tilbagemelding fra  
+
+ kursussted status på kursustilmelding til Afbrudt/Udeblevet fra  
+
+ kursusstart. og Ajourfører tilmeldingsarrangement med fremtidig  
+
+ afmelding/årsag Underrettes og skal rådighedsvurdere.
+R44 - Udeblevet fra/afbrudt uddannelse, der er givet  
+
+ tilbud om uden jobplan 5. Samtaler/møder og  
+
+ jobplan hos Anden Aktør Der er  
+
+  
+
+ særlige forhold  
+
+ som AF skal være opmærksom  
+
+ på når den ledige er tilknyttet en Anden Aktør i forbindelse med  
+
+ samtaler/møder  
+
+ såvel som i forbindelse med udarbejdelse af jobplan hos AA.
+ A: Samtaler/møder hos  
+
+ Anden Aktør.
+ Når Anden Aktør indkalder skriftligt og personligt og  
+
+ hvis AF  
+
+  
+
+ ikke  
+
+  
+
+ har indkaldt skriftligt  
+
+ og personligt (AF er myndighed), sker ingen underretning til A-kassen, -  
+
+ medmindre AF er i tvivl om rådighed.
+ Hvis AF er i tvivl om  
+
+ rådigheden:
+Den ledige Hvad gør AF A-kassen Den ledige har en adfærd der gør, at AF ønsker den  
+
+ lediges rådighed vurderet.
+Opretter underretning til A-kassen via Perioder - Manuel  
+
+ A-kasse  kommunikation - udg.
+Hændelse N R55 + dato + konkret  
+
+ begrundelse.
+ Underrettes og skal rådighedsvurdere.
+ R55 - tvivl om rådighed.
+ Når AF indkalder skriftligt og personligt til  
+
+ samtaler/møde hos Anden Aktør:
+Indkaldelse sker via visitationssamtale.
+Efterfølgende  
+
+ følges retningslinjer for generelle samtaler/møder.
+Se Samtaler/møder   
+
+ skriftlig og personligt indkaldt.
+Se afsnit: A, B og C.
+ B: Jobplan hos Anden aktør:
+ Ved jobplansudarbejdelse hvor Anden Aktør er part i  
+
+ sagen kan jobplansunderskriveren være:
+1.  
+
+ 	  
+
+ Anden Aktør 2.  
+
+ 	  
+
+ AF Når Anden Aktør er  
+
+ underskriver på jobplanen  
+
+  
+
+ :
+ Der må  
+
+
+  
+
+ aldrig
+  
+
+ ske underretning af a-kassen hvis den ledige ikke overholder aftaler.
+ AF  
+
+  
+
+ skal  
+
+ således afsluttet aktiviteterne på følgende  
+
+ vis:
+Den ledige Hvad gør AF A-kassen Den ledige afbryder ansættelsesservice  enten  
+
+ løntilskudsansættelse eller virksomhedspraktik AF vælger status :Afsluttet på aktiviteten og årsagen:  
+
+ ingen.
+Efterfølgende vælges status suspenderet på jobplan med valg af årsag  
+
+ der ikke medfører underretning til a-kassen.
+Underrettes ikke Den ledige afbryder deltagelse i vejledning og opkvalificering AF vælger status: Afbrudt og årsagen: I henhold til  
+
+ revision af jobplan.
+Jobplanen skal revideres Underrettes ikke Den ledige afbryder deltagelse i vejledning og opkvalificering  
+
+ på HMLI(hold med løbende indtag) Slutdato tilrettes til sidste dag hvor den ledige har  
+
+ deltaget, inden afbrydelsen.
+Der vælges herefter status: afsluttet og årsag:  
+
+ gennemført Underrettes ikke Når AF er  
+
+ underskriver på jobplanen:
+Her gælder almindelige regler som beskrevet i foregående  
+
+ afsnit om: Jobplan med tilbud om ansættelse med løntilskud og  
+
+ virksomhedspraktik/tilbud om vejledning og opkvalificering og vejlednings- og  
+
+ afklaringsforløb på op til 2 uger uden en jobplan.
+Se afsnit A,B,C, D,E.
+Bilag 2 Indholdsfortegnelse:
+ 1. Formål m.v.
+2. Hvornår skal AF  
+
+ underrette a-kasserne? 3. Vejledning til  
+
+ AF om underretning om rådighedsproblemer 3.1 Underretninger om ledige, der udviser adfærd, der kan sidestilles  
+
+ med afslag på job eller tilbud 3.2 Underretninger om ledige, hvor AF er i tvivl om rådighed 3.3 Underretninger i forbindelse med mødeindkaldelser 3.3.1 Hvornår kan AF annullere eller udsætte en samtale? 3.3.2 I hvilke situationer kan AF ikke udsætte eller annullere  
+
+ en samtale/møde? 4. Faldgruber i  
+
+ den elektroniske kommunikation med a-kasserne.
+5. Kommunikation  
+
+ mellem AF og a-kasser 5.1.
+Hvem kommunikerer AF med a-kasserne om? 5.2.
+Hvornår kommunikerer AF med a-kasserne ? 5.3.
+Hvad kommunikerer AF med a-kasserne om ? Bilag - Skematiske  
+
+ fremstillinger, og beskrivelser af hvordan kommunikationen foregår i  
+
+ forskellige situationer:
+ 1. Samtaler / Møder  Skriftligt og personligt indkaldt.
+ A.:
+ Den ledige melder afbud til samtale / møde.
+ B.:
+ Den ledige kontakter ikke/møder ikke på AF.
+ C.:
+ Den ledige kontakter AF i forbindelse med udeblivelse fra  
+
+ samtale/møde.
+2. CV-godkendelse A.:
+ Den ledige mødt til CV samtale før 1 måned efter  
+
+ tilmelding.
+ B:
+ Den ledige mødt til samtale 1 måned efter tilmelding.
+ C:
+ CV ikke aktiv i CV - banken.
+ D:
+CV ikke ajourført i CV  banken E:
+CV godkendes efter forudgående underretning af A-kassen F:
+Ændring af stillingsbetegnelse i CV 3. Formidling til  
+
+ ordinært arbejde  skriftligt, personligt, telefonisk indkaldt.
+ A:
+ Den ledige melder afbud til formidlingssamtale.
+ B:
+ Den ledige møder til formidlingssamtale.
+ C:
+ Den ledige kontakter ikke AF.
+ D:
+ Den ledige melder afbud til henvisningssamtale.
+ E:
+ Resultat af henvisningssamtale.
+ F:
+ Den ledige kontakter ikke arbejdsgiver.
+ G:
+ Den ledige ønske ikke job  efter aftalt ansættelse.
+ H:
+ Den ledige møder ikke på startdato.
+ I:
+ Henvisning til at søge job, der er opslået i Jobnet.
+ 4. Jobplan med  
+
+ tilbud om ansættelse med løntilskud og virksomhedspraktik/tilbud om  
+
+ vejledning og opkvalificering og vejlednings- og afklaringsforløb på op til 2  
+
+ uger uden en jobplan.
+ A.:
+ Jobplan og Jobplans revision samtale.
+ B.:
+En jobplan med tilbud om ansættelse med løntilskud  
+
+ og/eller virksomhedspraktik  Ansættelsesservice og formidlings/henvisningssamtale C:
+En jobplan med tilbud om ansættelse med løntilskud  
+
+ og/eller virksomhedspraktik  Ansættelsesservice fra status ansat/godkendt til status  
+
+ ikke påbegyndt D:
+En jobplan med tilbud om ansættelse med løntilskud  
+
+ og/eller virksomhedspraktik  Ansættelsesservice fra status aktiveret til status  
+
+ afbrudt E:
+En jobplan med tilbud om vejledning og opkvalificering  Kursustilmelding F:
+Tilbud om vejlednings og afklaringsforløb på op til 2  
+
+ uger m. kursustilmelding - uden en jobplan 5. Samtaler/møder  
+
+ og jobplan hos Anden Aktør B:
+ Jobplan hos Anden aktør:
+ 1)  
+
+ At der fra AMANDA er sendt en meddelelse til a-kassen kan ses ved, at koden  
+
+ (hændelsestype) består af 1 bogstav, medens meddelelser fra a-kasserne til  
+
+ AMANDA består af to bogstaver.

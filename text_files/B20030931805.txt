@@ -1,0 +1,639 @@
+Bestemmelser om automatisk rekordering af talekommunikation (BL 7-23, 1. udgave) I medfør af § 52 og § 149,  
+
+ stk. 10, i lov om luftfart, jf. lovbekendtgørelse nr. 543 af 13. juni 2001,  
+
+ fastsætter Statens Luftfartsvæsen herved efter bemyndigelse fra  
+
+ Trafikministeriet,  
+
+ jf. bekendtgørelse nr. 795 af 3. september 2001 om henlæggelse af opgaver til  
+
+ Statens Luftfartsvæsen og om kundgørelse af de af luftfartsvæsenet  
+
+ udfærdigede  
+
+ forskrifter, følgende:
+1. Referencedokumenter 1.1 BL 3-18, Bestemmelser om  
+
+ etablering af flyvepladsledelse på godkendte flyvepladser, seneste udgave.
+ 1.2 BL 7-21, Bestemmelser om  
+
+ etablering af lufttrafiktjeneste, seneste udgave.
+ 1.3 BL 8-10, Bestemmelser om  
+
+ obligatorisk indberetning af flyvesikkerhedsmæssige begivenheder, seneste  
+
+ udgave.
+ 1.4 Aeronautical Information  
+
+ Publication (AIP) Danmark, seneste udgave.
+ 1.5 Aeronautical Information  
+
+ Publication (AIP) Færøerne, seneste udgave.
+ 1.6 Aeronautical Information  
+
+ Publication (AIP) Grønland, seneste udgave.
+ 1.7 ICAO Annex 10,  
+
+ Aeronautical Telecommunications, seneste udgave.
+ 1.8 ICAO Annex 11, Air  
+
+ Trafic Services, Air Trafic Control Service, Flight Information Service,  
+
+ Alerting Service, seneste udgave.
+1.9 De dokumenter, der er  
+
+ nævnt i pkt. 1.1 - 1.6, findes på SLV's hjemmeside www.slv.dk.
+Dokumenterne  
+
+ kan  
+
+ endvidere købes ved henvendelse til Statens Luftfartsvæsen  
+
+  
+
+ Servicecentret  
+
+  
+
+ Postboks 744  
+
+  
+
+ Ellebjergvej 50  
+
+  
+
+ 2450 København SV  
+
+  
+
+ Tel.: 3618 6000  
+
+  
+
+ Fax: 3618 6001  
+
+  
+
+ E-post: dcaa@slv.dk De dokumenter, der er nævnt  
+
+ i pkt. 1.1 - 1.3, findes tillige på Retsinformations hjemmeside  
+
+ www.retsinfo.dk.
+1.10 De dokumenter, der er  
+
+ nævnt i pkt. 1.7 og pkt. 1.8, kan erhverves ved henvendelse til ICAO Headquarters,  
+
+  
+
+ Att.: Document Sales Unit  
+
+  
+
+ 999 University Street  
+
+  
+
+ Montréal, Quebec; Canada  
+
+  
+
+ H3C 5H7  
+
+  
+
+ Tel.: +1 514 954-8022  
+
+  
+
+ Fax: +1 514 954-6769  
+
+  
+
+ Sitatex: YULADYA  
+
+  
+
+ E-post:  
+
+ Sales_unit@icao.int  
+
+  
+
+ Web: www.icao.int *  
+
+ 	  
+
+    
+
+ BL'en har som udkast været notificeret over for Europa-Kommissionen i  
+
+ overensstemmelse med reglerne i Europa-Parlamentets og Rådets direktiv  
+
+ 98/34/EF (informationsproceduredirektivet), som ændret senest ved direktiv  
+
+ 98/48/EF.
+2. Definitioner Adgang til rekorderet materiale:
+ Ved adgang til rekorderet materiale forstås, at man har mulighed for, ved  
+
+ afspilning af rekorderingsmediet  
+
+    
+
+ eller ved rådighed over udskrifter, kopier og lignende af det rekorderede, at  
+
+ blive bekendt med de oplysninger, der er indeholdt i materialet.
+ Fast medie:
+ Rekorderingsmedie, som er  
+
+ integreret/indbygget i et rekorderingsudstyr, f.eks. en harddisk.
+ Flytbart medie:
+ Rekorderingsmedie, som ikke  
+
+ er integreret/indbygget i et rekorderingsudstyr, f.eks. et magnetbånd, DAT  
+
+ (Digital Audio Tape), DVD (Digital Versatile Disk) m.v.
+ Mean Time Between Failure - MTBF:
+ Et udstyrs aktuelle  
+
+ operationstid divideret med det totale antal fejl, som har medført ophør af  
+
+ den  
+
+ automatiske rekordering, på udstyret i operationstiden.
+ Anm. 1: Operationstidens varighed skal vælges, så  
+
+ den kan indeholde mindst fem fejl,  
+
+    
+
+ og  
+
+ gerne flere, så der kan udledes et realistisk MTBF-tal.
+ Anm. 2: Eksterne fejl som f.eks. en strømafbrydelse  
+
+ medregnes ikke i rekorderingsudstyrets MTBF.
+ Rekorderet materiale:
+ Ved rekorderet materiale  
+
+ forstås rekorderet talekommunikation eller rekorderede data, som er opbevaret  
+
+ på et fast medie eller et flytbart medie samt udskrifter af det rekorderede.
+ Udenforstående:
+ Ved udenforstående forstås  
+
+ alle andre end det personale, som har ansvaret for rekorderingen og  
+
+ rekorderingsudstyret.
+3. Anvendelsesområde Denne BL gælder inden for  
+
+ dansk område og inden for områder, hvor Danmark i henhold til international  
+
+ overenskomst er forpligtet til at yde lufttrafiktjeneste.
+4. Generelt Det påhviler den, der har  
+
+ fået tilladelse til at indrette og drive en offentlig flyveplads, eller den,  
+
+ der har fået tilladelse til at yde lufttrafiktjeneste uden for en flyveplads,  
+
+ i  
+
+ det følgende kaldet koncessionshaveren, og hvor der i medfør af andre  
+
+ bestemmelser er fastsat krav om automatisk rekordering af talekommunikation  
+
+ og  
+
+ data, at sikre, at rekorderingen og adgang til det rekorderede materiale sker  
+
+ i  
+
+ overensstemmelse med bestemmelserne i denne BL.
+ Anm.: Der er i BL 7-21 fastsat krav om, hvilken  
+
+ talekommunikation og hvilke data, der skal rekorderes automatisk.
+5. Rekorderingsudstyret 5.1 Det udstyr, der skal  
+
+ anvendes til automatisk rekordering af talekommunikation og data, jf. afsnit  
+
+ 4,  
+
+ skal godkendes af Statens Luftfartsvæsen og være indrettet således, at det  
+
+ komplette informationsindhold i det rekorderede kan reproduceres (udskrives  
+
+ og/eller aflyttes/forevises) med tilstrækkelig tydelighed ved afspilning, jf.  
+
+ dog pkt. 5.2.
+ 5.1.1 Som dokumentation for  
+
+ opfyldelsen af de tekniske specifikationer i denne BL kan anvendes analyser  
+
+ og  
+
+ prøver udført for udstyr, der lovligt fremstilles og markedsføres i andre EU-  
+
+ eller EØS-medlemsstater.
+ 5.2 Kravet om godkendelse  
+
+ efter pkt. 5.1 gælder ikke for udstyr, som er godkendt af den kompetente  
+
+ myndighed i en anden EU- eller EØS-medlemsstat, hvis denne godkendelse er  
+
+ sket  
+
+ på grundlag af standarderne og rekommandationerne i ICAO Annex 10 og 11.
+5.3 Rekorderingsudstyret  
+
+ skal have en stabilitet svarende til en MTBF på minimum 8000 timer.
+Denne  
+
+ værdi  
+
+ kan eventuelt sikres ved en passende grad af redundans, eksempelvis ved at  
+
+ dublere mediet.
+ 5.4 Rekorderingsudstyret  
+
+ skal være indrettet således, at utilsigtet sletning ikke kan finde sted.
+ 5.5 Rekorderingsudstyret  
+
+ skal være tilsluttet alternativ strømforsyning (nødstrømsanlæg) på samme måde  
+
+ som de kommunikations- og dataanlæg, der rekorderes.
+ 5.6 Tidsangivelse skal  
+
+ angives i UTC og skal indspilles automatisk.
+ 5.6.1 Nøjagtigheden af  
+
+ tidsangivelsen må ikke være ringere end ± 1 sekund.
+ 5.7 Rekorderingsudstyret  
+
+ skal være installeret og placeret således, at uvedkommende ikke har adgang  
+
+ til  
+
+ det.
+ 5.8 Rekorderingsudstyret  
+
+ skal være forsynet med en akustisk og visuel alarm, der træder i funktion i  
+
+ tilfælde af uregelmæssigheder ved udstyret, der medfører manglende  
+
+ rekordering.  
+
+ Endvidere skal alarmen træde i funktion en passende tid, forinden  
+
+ rekorderingskapaciteten er opbrugt.
+ 5.8.1 Alarmerne skal være  
+
+ ført frem til et lokale, der er bemandet, når rekordering pågår.
+5.9 Rekorderingsudstyret  
+
+ skal være omfattet af enhedens/lufthavnens kvalitetsstyringssystem, jf.
+BL  
+
+ 3-18, og der skal forefindes en drifts- og vedligeholdelsesforskrift, der  
+
+ tilsikrer, at udstyret jævnligt kontrolleres for korrekt funktion.
+ 5.10 Der skal føres en liste  
+
+ over de personer, der har ansvar for rekordering og rekorderingsudstyret.
+ 5.11 Der skal føres en log  
+
+ over, hvilke udenforstående myndigheder, personer eller virksomheder m.v. der  
+
+ har haft adgang til det rekorderede materiale i medfør af pkt. 7.1, herunder  
+
+ med angivelse af tidspunkt, kanalnummer, og hvad der er foretaget.
+ 5.12  
+
+    
+
+ Rekorderingsudstyret skal være indrettet  
+
+ således, at en person, der er omfattet af rekorderingen, har mulighed for at  
+
+ genhøre egne samtaler de seneste 30 minutter af det rekorderede.
+6. Opbevaring 6.1 Rekorderet materiale  
+
+ skal opbevares forsvarligt i mindst 30 dage, eventuelt på et medie, der er  
+
+ uafhængigt af rekorderingsudstyret (f.eks. server, magnetbånd, DAT, DVD eller  
+
+ lignende), inden sletning må finde sted, jf. dog pkt. 6.2.
+ 6.2 I tilfælde, hvor der ved  
+
+ udarbejdelse  
+
+    
+
+ af udskrift er givet adgang  
+
+ til rekorderet materiale i medfør af pkt. 7.1, må det rekorderede ikke  
+
+ slettes  
+
+ uden tilladelse fra den relevante anmodende myndighed, jf. pkt. 7.2.
+ 6.3 Alle kommunikations- og  
+
+ datasekvenser skal kunne identificeres entydigt.
+ 6.4 Hvis det rekorderede  
+
+ opbevares på et flytbart medie, skal dette være identificerbart, og journal  
+
+ skal føres over ibrugværende og benyttede medier med angivelse af start- og  
+
+ sluttidspunkter.
+7. Udenforståendes adgang til rekorderet materiale 7.1 Koncessionshaver må kun  
+
+ give udenforstående adgang til rekorderet materiale i nedennævnte tilfælde  
+
+ a.-l., og kun til den i det konkrete tilfælde relevante myndighed, person  
+
+ eller  
+
+ virksomhed m.v. og under forudsætning af, at de omhandlede oplysninger ikke  
+
+ er  
+
+ underlagt tavshedspligt fastsat ved lov eller i medfør af lov, jf. dog pkt.  
+
+ 7.2:
+a.  
+
+ 	  
+
+    
+
+ Ved flyvehavarier og  
+
+ flyvehændelser, jf. luftfartslovens kapitel 11, samt ved  
+
+ flyvesikkerhedsmæssige  
+
+ begivenheder, jf.
+BL 8-10.
+b.  
+
+ 	  
+
+    
+
+ Ved  
+
+ lufttrafikhændelser, jf.
+AIP Danmark, AIP Grønland og AIP Færøerne.
+ c.  
+
+ 	  
+
+    
+
+ I tilfælde, hvor der  
+
+ er begrundet formodning om, at hensynet til flyvesikkerheden er tilsidesat.
+ d.  
+
+ 	  
+
+    
+
+ I forbindelse med  
+
+ behandling af sager vedrørende formodede overtrædelser af gældende love og  
+
+ forskrifter.
+ e.  
+
+ 	  
+
+    
+
+ I forbindelse med  
+
+ Statens Luftfartsvæsens tilsynsforpligtelse.
+ f.  
+
+ 	  
+
+    
+
+ Når ydre  
+
+ omstændigheder gør det nødvendigt for de enkelte tjenester hos  
+
+ koncessionshaver  
+
+ at kontrollere tjenesternes udøvelse.
+ g.  
+
+ 	  
+
+    
+
+ I forbindelse med  
+
+ sager vedrørende eftersøgnings- og redningstjeneste.
+h.  
+
+ 	  
+
+    
+
+ I forbindelse med  
+
+ udarbejdelse af undervisningsmateriale til brug for skoler godkendt af  
+
+ Statens  
+
+ Luftfartsvæsen.
+I disse tilfælde skal undervisningsmaterialet udarbejdes af  
+
+ Statens Luftfartsvæsen eller på foranledning af Statens Luftfartsvæsen.
+i.  
+
+ 	  
+
+    
+
+ Når en person, der  
+
+ er omfattet af rekorderingen, fremsætter anmodning herom.
+I dette tilfælde må  
+
+ adgang til det rekorderede materiale dog alene gives ved afspilning.
+ j.  
+
+ 	  
+
+    
+
+ Når der i henhold  
+
+ til lov om offentlighed i forvaltningen eller forvaltningsloven fremsættes  
+
+ begæring herom, og denne begæring skal imødekommes efter loven.
+ k.  
+
+ 	  
+
+    
+
+ Ved fejlsøgning på  
+
+ og justering af det pågældende udstyr.
+ l.  
+
+ 	  
+
+    
+
+ I forbindelse med,  
+
+ at en anden end koncessionshaver kan udarbejde udskrifter af det rekorderede  
+
+ materiale for koncessionshaver, jf. pkt. 7.4, med henblik på, at  
+
+ koncessionshaver kan give adgang til det rekorderede materiale i medfør af  
+
+ bestemmelserne i a.-h., j. eller k.
+Anm.: Efter offentlighedslovens § 14 er pligten til at meddele  
+
+ oplysninger begrænset af særlige bestemmelser om tavshedspligt fastsat ved  
+
+ lov  
+
+ eller med hjemmel i lov for personer, der virker i offentlig tjeneste eller  
+
+ hverv.
+Det bemærkes i den forbindelse, at Telestyrelsens bekendtgørelse nr.  
+
+ 234  
+
+ af 30. marts 2000 om oprettelse, ibrugtagning og anvendelse af radioanlæg i  
+
+ maritime radiotjenester og luftfartsradiotjenester med individuel tilladelse  
+
+ til frekvensanvendelse i § 19 indeholder bestemmelse om, at  
+
+    
+
+ radiokorrespondance skal hemmeligholdes for alle  
+
+ uvedkommende.
+Bestemmelsen har hjemmel i lov nr. 421 af 6. juni 2002 om  
+
+ radiofrekvenser (tidligere lov nr. 394 af 10. juni 1997 om radiokommunikation  
+
+ og tildeling af radiofrekvenser).
+ 7.2 Koncessionshaver skal  
+
+ altid give Statens Luftfartsvæsen og Havarikommissionen for Civil Luftfart  
+
+ adgang til rekorderet materiale, når pågældende myndighed anmoder herom.
+ 7.3 Der skal træffes  
+
+ foranstaltninger, der forhindrer uvedkommendes adgang til det rekorderede  
+
+ materiale f.eks. ved benyttelse af adgangskode i tilfælde, hvor adgang kan  
+
+ foregå via internettet, lokalt netværk eller modem.
+ 7.4 Hvis adgang til  
+
+ rekorderet materiale i medfør af pkt. 7.1 gives i form af udskrifter, skal  
+
+ disse udarbejdes af koncessionshaver selv eller, jf. pkt. 7.1 l., af  
+
+ Flyvesikringstjenesten.
+ 7.5 Den, der udarbejder en  
+
+ konkret udskrift, må ikke være part i det rekorderede.
+ 7.6 Alle omkostninger  
+
+ forbundet med, at der gives adgang til rekorderet materiale i medfør af pkt.  
+
+ 7.1 a.-g. og i.-l. afholdes af koncessionshaver, jf. dog pkt. 7.6.1.
+ 7.6.1 Koncessionshaver kan  
+
+ dog altid opkræve betaling for afskrifter og fotokopier af dokumenter, der  
+
+ udleveres efter begæring i henhold til lov om offentlighed i forvaltningen,  
+
+ jf.  
+
+ pkt. 7.1 j., i overensstemmelse med Justitsministeriets bekendtgørelse nr.  
+
+ 647  
+
+ af 18. september 1986.
+8. Forsendelse af rekorderet materiale Forsendelse af rekorderet  
+
+ materiale kan ske på en af følgende måder:
+ a.  
+
+ 	  
+
+    
+
+ Via internettet,  
+
+ lokalt netværk eller modem forudsat, at adgangen til materialet er  
+
+ forsvarligt  
+
+ beskyttet med adgangskode.
+ b.  
+
+ 	  
+
+    
+
+ Som rekommanderet  
+
+ post, hvis det rekorderede er arkiveret på flytbart medie eller foreligger  
+
+ som  
+
+ udskrift.
+9. Dispensation Statens Luftfartsvæsen kan i  
+
+ ganske særlige tilfælde dispensere fra bestemmelserne i denne  
+
+    
+
+ BL, når det skønnes foreneligt med de hensyn,  
+
+ der ligger til grund for de pågældende bestemmelser.
+10. Straf 10.1 Overtrædelse af  
+
+ bestemmelserne i pkt. 5.1, afsnit 6 og afsnit 7 og 8 straffes med bøde.
+ 10.2 For overtrædelser  
+
+ begået af selskaber m.v. (juridiske personer) kan der pålægges strafansvar  
+
+ efter reglerne i straffelovens 5. kapitel, jf. luftfartslovens § 149, stk.  
+
+ 14.
+11. Ikrafttræden 11.1 Denne BL træder i kraft  
+
+ den 1. august 2003.
+ 11.2  
+
+    
+
+ Samtidig ophæves BL 3-4, 3. udgave af 4. maj  
+
+ 1992 og BL 3-33, 1. udgave af  
+
+    
+
+ 31. marts  
+
+ 1989 med senere ændringer.
+ 11.3 Rekorderingsudstyr, der  
+
+ allerede er etableret og opfylder kravene i BL 3-4 og BL 3-33, skal senest 1.  
+
+ januar 2005 opfylde kravene i denne BL.

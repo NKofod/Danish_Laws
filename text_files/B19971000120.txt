@@ -1,0 +1,246 @@
+(MDIR 02.36-01) Minimumskrav/Vejledning.
+ I henhold til Erhvervsfremme Styrelsens bekendtgørelse om kontrol med  
+
+ måling af leverance af koldt og varmt vand skal leverandøren etablere et  
+
+ kontrolsystem, der er opbygget således, at der gennem dets drift opnås  
+
+ tilstrækkelig sikkerhed for, at de idriftværende målere ikke overskrider det  
+
+ dobbelte af de maksimalt tilladelige fejl ved førstegangsverifikation.
+ Som minimumskrav for størrelsen af tilstrækkelig sikkerhed kan anse et  
+
+ kvalitetsniveau på AQL 4% for tilfredsstillende (AQL - acceptable quality  
+
+ level).
+ Kontrolsystemer, der baseres på stikprøveudtagning, kan opbygges ved hjælp  
+
+ af Dansk Standard - DS/ISO 2859 - "Metoder og Tabeller for  
+
+ stikprøveudtagning for inspektion ved alternativ måling", eller den  
+
+ internationale ISO 3951 "Samling procedures and charts for inspection by  
+
+ variables for percent defective".
+ Dette Måletekniske Direktiv har taget udgangspunkt i Dansk Standard DS/ISO  
+
+ 2859 - AQL 4% og inspektionsniveau II.
+ Efterfølgende er er anført to eksempler på kontrolsystemer, hvor det ene  
+
+ er baseret på inspektion ved alternativ måling og det andet på inspektion ved  
+
+ kontinuert måling.
+ Det sidstnævnte eksempel er ikke udarbejdet med værdier taget fra ISO  
+
+ 3951, men specielt tilpasset således, at der kan skiftes fra denne metode til  
+
+ den alternative måling i det første eksempel, når kontrolsystemet anvendes i  
+
+ praksis.
+ I STIKPRØVEKONTROL - ALTERNATIV MÅLING.
+ Eksemplet har to varianter, hvor det ene er baseret på enkelt  
+
+ stikprøveudtagning og det andet på dobbelt stikprøveudtagning.
+ 1. Partiinddeling.
+ Målerbestanden skal inddeles i partier med ensartede karakteristika  
+
+ således, at stikprøveresultatet kan betragtes som repræsentativt for det  
+
+ målerparti, som målerne er udtaget fra.
+ Eksempelvis:
+ - Målerne skal have samme måleprincip fx. vingehjulsmålere, magnetisk  
+
+ induktive målere eller ultralydsmålere o.s.v.
+ - Samme målerstørrelse.
+ - Målerne skal have tilnærmelsesvis samme alder fra opsætningstidspunktet.
+ 2. Parti- og stikprøvestørrelser.
+ Parti- og stikprøvestørrelser kan vælges, som anført i punkt 3.1 og 3.2.  
+
+ Større målerantal bør opdeles i flere partier, i det der dog for større  
+
+ partier kan anvendes sammenhængen mellem parti- og stikprøvestørrelse i  
+
+ henhold til den danske standard, DS/ISO 2859, AQL 4% og inspektionsniveau II.
+ 3. Godkendelses-/forkastelseskriterier.
+ 4. Procedure for stikprøveudtagning.
+ Målerne i stikprøven skal udtages ved tilfældig udvælgelse fra det parti,  
+
+ de tilhører.
+4.1 Målerne skal nedtages og bringes til målelaboratoriet på betryggende  
+
+ måde.
+Det kan eksempelvis indebære, at målerne ved nedtagning proppes, så de  
+
+ ikke tørrer ind.
+4.2 Af hensyn til det største udbytte af stikprøveresultatet bør særlige  
+
+ forhold ved installationen og nedtagningen noteres.
+Fx noteres filterets  
+
+ tilstand.
+4.3 Viser en måler tegn på transportskade, skal måleren udgå af  
+
+ stikprøven.
+Det kan derfor være hensigtsmæssigt at nedtage to målere flere  
+
+ end stikprøveplanen foreskriver.
+ 4.4 Anvendes en dobbelt stikprøveplan, skal målerne i anden  
+
+ stikprøveudtagning være udvalgt samtidig med, at målerne til første  
+
+ stikprøveudtagning udvælges.
+ 5. Godkendelse/forkastelse af parti.
+ En måler anses for afvigende, dersom den overskrider grænseværdierne ved  
+
+ en af de prøvede volumenstrømme (flow).
+ Enkelt stikprøveudtagning.
+ 5.1 Partiet godkendes, dersom antallet af afvigende målere i stikprøven er  
+
+ mindre end eller lig med tabellernes godkendelsestal.
+ Dobbelt stikprøveudtagning.
+ 5.2 Ved dobbelt stikprøveudtagning godkendes partiet efter 1. stikprøve,  
+
+ hvis antallet af afvigende målere er mindre end eller lig  
+
+ godkendelsesantallet for 1. stikprøve.
+ 5.3 Partiet kasseres efter 1. stikprøve, hvis antallet af afvigende målere  
+
+ er større end eller lig med tallet for forkastelse. (2. stikprøve undersøges  
+
+ derfor ikke).
+ 5.4 Er antallet af afvigende målere ved 1. stikprøve større end  
+
+ godkendelsesantallet men mindre end tallet for forkastelse, undersøges 2.  
+
+ stikprøve.
+ Partiet godkendes, dersom det samlede antal afvigende målere for 1. plus  
+
+ 2. stikprøve er mindre end eller lig med godkendelsestallet for 1. plus 2.  
+
+ stikprøve.
+ 6. Eksempel på et specifikt kontrolsystem.
+ Eksemplet er baseret på, at vandværket/varmtvandsleverandøren enten  
+
+ turnusudskifter sine målere med et tidsinterval på 8 år eller overvåger  
+
+ målernes nøjagtighed med et tidsinterval på normalt 8 år.
+ 6.1 Nøjagtighedskrav til volumenregistreringen.
+ 6.2 Kalibreringsvolumenstrømme (kalibreringsflow).
+Målere kalibreres ved mindst 2 volumenstrømme.
+Som nedre målepunkt skal  
+
+ måles med et flow mellem 0,1 og 0,12 gange Q for målere n med Q </= 15  
+
+ m3/h mellem 0,3 og 0,35 gange Q for større målere.
+N N Som øvre målepunkt  
+
+ vælges altid mellem 0,9 og 1,0 gange Q . Har N man kendskab til, at måleren  
+
+ er kritisk ved en bestemt værdi eller at måleren typisk måler ved lavere  
+
+ værdier, skal driftskontrollen også omfatte disse værdier.
+ 6.3 Afvigende målere.
+ Målere, der overskrider grænsen ved et målepunkt, anses for afvigende.
+ 7. Afviste og godkendte partier.
+ 7.1 Målerpartier, der forkastes ved stikprøvekontrollen på grund af  
+
+ overskridelse af grænserne for måleunøjagtighed for målere i drift jf. punkt  
+
+ 6.1, skal nedtages for renovering eller udskiftning inden et år fra  
+
+ stikprøvetidspunktet.
+ 7.2 Tidsintervallet til næste stikprøvekontrol eller turnusudskiftning  
+
+ reduceres med 2 år for partier, der genopsættes renoveret og verificeret  
+
+ efter en forkastelse ved stikprøvekontrollen.
+ 7.3 Målerpartier, der godkendes ved stikprøvekontrollen i forhold til  
+
+ driftskontrolgrænserne jf. punkt 6.1 kan forblive opsat hos forbrugerne i  
+
+ endnu 4 år, før der igen udtages en stikprøve.
+ 7.4 Målerpartier, hvor godkendelseskriterierne for stikprøven kan anvendes  
+
+ på grænseværdierne for målenøjagtighed for nye og verificerede målere jf.  
+
+ punkt 6.1, kan forblive opsat hos forbrugerne i endnu 8 år, før der igen  
+
+ udtages en stikprøve.
+ Bestemmelserne i afsnit 7 er opført i skemaform side 10.
+ 8. Særlige forhold.
+ 8.1 Har leverandøren formodning om, at en bestemt type målere eller målere  
+
+ fra et specielt geografisk område eller lignende, overskrider de tilladte  
+
+ grænser for måleunøjagtighed, skal leverandøren undersøge disse målere  
+
+ uafhængigt af det normale driftskontrolsystem.
+ 8.2 Giver stikprøvens resultater fra et parti, der er forkastet,  
+
+ formodning om, at der er en særlig årsag til forkastelsen, som kan henføres  
+
+ til en afgrænset del af partiet, kan partiet opdeles til mindre partier.  
+
+ Disse partier skal derefter umiddelbart stikprøveundersøges hver for sig,  
+
+ stikprøveresultaterne for hvert af partierne anvendes i overensstemmelse med  
+
+ punkt 7.
+II STIKPRØVEKONTROL - KONTINUERT MÅLING Denne metode betinger, at måleværdierne kan betragtes som tilhørende en  
+
+ normalfordeling.
+Er dette ikke tilfældet, skal der benyttes stikprøvekontrol  
+
+ baseret på alternativ måling, som anført i afsnit I.
+ 1. Partiinddeling.
+ Som under I.1 inddeles målerbestanden i partier med ensartede  
+
+ karakteristika.
+2. Parti- og stikprøvestørrelser For i givet fald at kunne gå tilbage til stikprøvekontrol ved alternativ  
+
+ måling vælges partistørrelser og stikprøvestørrelser som for den alternative  
+
+ måling d.v.s. tabellerne i afsnit I.3.
+ 3. Procedure for stikprøveudtagning.
+ Der benyttes samme procedure som anført ved stikprøvekontrol ved  
+
+ alternativ måling i afsnit I punkterne 4.1, 4.2 og 4.3.
+ 4. Nøjagtighedskrav til volumenregistreringen.
+ Der er samme krav til nøjagtigheden af volumenregistreringen som ved  
+
+ stikprøvekontrol ved alternativ måling afsnit I punkt 6.1.
+ 5. Kalibreringsvolumenstrømme (kalibreringsflow).
+ Der benyttes samme kalibreringsvolumenstrømme som i afsnit I, 6.2.
+ 6. Kontrol for fordelingsafvigere.
+ 6.1 Betingelsen for, at stikprøvernes måleværdier ved hver af de to  
+
+ kalibreringsflow kan betragtes som tilhørende normalfordelinger er, at der  
+
+ højst er følgende fordelingsafvigere:
+ 6.2 For hver af de to kalibreringsflow foretages kontrollen for  
+
+ fordelingsafvigere således:
+ 6.2.1 Gennemsnitsværdien for stikprøvens måleværdier beregnes:
+ 6.2.6 Fordelingsafvigeren x fjernes fra stikprøven og for den a  
+
+ tilbageblevne del af prøven gennemføres punkterne 6.2.1 til 6.2.5 indtil der  
+
+ ikke findes flere fordelingsafvigere eller antallet af fordelingsafvigere  
+
+ overskrider grænsen i punkt 6.1.
+ Såfremt sidstnævnte er tilfældet behandles stikprøven som alternativ  
+
+ måling i henhold til afsnit I.
+ 7. Opfylder stikprøven betingelserne i punkt 6.1  
+
+ beregnes gennemsnit x og spredning s (uden eventuelle fordelingsafvigere).
+ 8. Punktet (x' s) placeres i det x-s-diagram, der  
+
+ svarer til den oprindelige stikprøvestørrelse.
+ 9.1 Godkendelse eller forkastelse af partiet foretages efter samme  
+
+ retningslinier, som anført i afsnit I punkt 6, idet placeringen af punktet  
+
+ (x,s) inden for kurven +/- 6% eller +/- 3% benyttes som kriterie for  
+
+ vurderingen.

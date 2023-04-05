@@ -1,0 +1,116 @@
+ Studieplanen har virkning fra den 1. januar 1986.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+MODULBESKRIVELSE Simuleret intelligens (AI) beskæftiger sig med problemløsning og  
+
+ problemløsningsparadigmer implementeret på datamater.
+Den praktiske  
+
+ anvendelse af AI har indtil videre koncentreret sig om videnbaserede  
+
+ systemer, de såkaldte ekspertsystemer .
+For at opbygge sådanne systemer er det praktisk at anvende højniveausprog  
+
+ og redskaber, der specielt gør viden- og regelrepræsentation nemt.
+Disse  
+
+ sprog afviger væsentligt fra de gængse imperative sprog, bl.a. fordi de har  
+
+ specielle faciliteter til håndtering af symbolske udtryk.
+ Inden for AI har programellet derfor en speciel struktur, idet videnbasen  
+
+ i modsætning til en traditionel database indeholder procedural viden, så at  
+
+ ikke kun programmets data, men også dets procedurer og algoritmer kan ændres  
+
+ dynamisk.
+ Kurset beskæftiger sig med den teoretiske baggrund for AI, specielt  
+
+ metoder til videnrepræsentation, samt redskaber til implementering af  
+
+ AI-baserede systemer.
+ 1. Kursets formål.
+Kurset skal sætte den studerende i stand til at vurdere mindre  
+
+ ekspertsystemer, være med til implementering af ekspertsystemer samt kunne  
+
+ anvende f.eks.
+PROLOG.
+Herudover skal den studerende i hovedtræk kunne  
+
+ redegøre for de væsentligste AI-områder.
+ 2. Formelle adgangsbetingelser.
+ Kurset er avanceret, hvorfor den studerende som baggrund minimum skal have  
+
+ en baggrund svarende til EDB-assistentuddannelsens niveau for alle fag  
+
+ undtagen ASSEMBLER.
+ 3. Anbefalede forudsætninger.
+Det anbefales, at den studerende har datanomuddannelsens moduler  
+
+ Sproglære, Programkonstruktion I, Materiellære og evt.
+Operationsanalyse.
+ 4. Hovedemner.
+ 4.1 Videnrepræsentation:
+Videnrepræsentation omfatter metoder til at repræsentere viden, dvs.  
+
+ regler, relationer og procedural viden i datamaten.
+Metoder, der kan  
+
+ diskuteres, er - fuzzy logic - formel logik, prædikatkalkyle - rammer - semantiske net - produktionssystemer Den studerende skal have et overblik over hele området, et mere detaljeret  
+
+ kendskab til en enkelt af metoderne, f.eks. semantiske net.
+4.2 Sprogforståelse (naturligt og formelt sprog) Emnet omfatter metoder til beskrivelse, analyse og syntese af naturligt og  
+
+ formelt sprog.
+Herunder diskuteres bl.a. grammatikker, scanners og parsers.
+ Den studerende skal kunne redegøre for forskellige typer af grammatikker  
+
+ samt for enkelte metoder til parsers.
+ 4.2 Billedforståelse (datamatsyn og mønstergenkendelse). Herunder kan  
+
+ behandles metoder til at forbehandle, segmentere og fortolke billeder/scener.
+ Den studerende skal kunne redegøre for hovedelementerne i et  
+
+ billedanalyse-system.
+ 4.3 Robotik.
+I robotikken behandles de tre robot-subsystemer, dvs. det mekaniske, det  
+
+ sensoriske og kontrolsubsystemet.
+Den studerende skal kunne diskutere de tre  
+
+ subsystemer, specielt kontrolsystemet, dvs, hvordan robotten lærer  
+
+ (programmeres), og hvordan andre AI-discipliner kommer ind i billedet.
+ 4.4 Problemløsning.
+Herunder diskuteres formelle og pragmatiske metoder til maskinløsning af  
+
+ problemer, bl.a. hvordan en stor mængde af problemer kan vises at være  
+
+ søgninger i tilstandsrum.
+Den studerende skal kunne redegøre nogle  
+
+ heuristiske søgealgoritmer samt nogle andre problemløsningsparadigmer.
+4.5 Videnbaserede systemer (ekspertsystemer) Herunder behandles generelt arkitekturen i et videnbaseret system samt  
+
+ eksempler på redskaber til udvikling af regelbaserede systemer.
+Endvidere  
+
+ diskuteres nogle få vigtige eksempler på ekspertsystemer, som f.eks.
+Mycin,  
+
+ Emycin, Dipmeter, Dendral og Hearsay II.
+ Den studerende skal kunne redegøre for den principielle opbygning af  
+
+ ekspertsystemer.
+4.6 Logik Den formelle logik skal her bruges dels til videnrepræsentation, dels som  
+
+ grundlag for PROLOG.
+Herunder behandles prædikatkalkylen, resolution og modus  
+
+ ponens samt den almindelige propositionsalgebra.
+Den studerende skal kunne redegøre for de almindelig-logik-termer samt f.eks. resolution.
+4.7 PROLOG eller LISP Gennemgangen af et af de meget anvendte AI-sprog bør understøttes så meget  
+
+ af øvelser, at den studerende kan anvende sproget til mindre opgaver.

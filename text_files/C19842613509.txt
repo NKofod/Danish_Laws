@@ -1,0 +1,311 @@
+1. Almindeligt En skematisk fremstilling af tilslutning af en vagtcentral med halv duplex  
+
+ 150 bit/s til alarmsystemet er vist på fig. 1.
+ Fig. 1: Tilslutning af vagtcentral med halv duplex 150 bit/s til  
+
+ alarmsystemet.
+Mellem det privatejede vagtcentraludstyr og modemet (8 kHz) er en  
+
+ grænseflade som vist på figuren.
+Specifikationen for denne grænseflade fås  
+
+ ved henvendelse til teleadministrationerne.
+ Til vagtcentralen stilles det generelle krav, at udstyret er konstrueret  
+
+ til at kommunikere med alarmsystemet over dette grænsesnit, dvs. kan udføre  
+
+ de for kommunikation nødvendige funktioner, der er beskrevet i det følgende.
+2. Funktionsbeskrivelse Vagtcentralen tilsluttes alarmsystemet via et 8 kHz modem og behandler  
+
+ meddelelser til og fra alarmsystemet.
+Information mellem vagtcentral og  
+
+ alarmsystem kan kun overføres ved hjælp af kommandoer fra alarmsystemet til  
+
+ vagtcentralen.
+Alarmsystemet kontrollerer transmissionsvejen og sender  
+
+ kommandoer til vagtcentralen i den anden ende.
+Vagtcentralen vender efter  
+
+ modtagelse af en kommando transmissionsretningen og sender en kvittering til  
+
+ alarmsystemet.
+Alarmsystemet fungerer som primær station (se senere), og  
+
+ vagtcentralen fungerer som sekundær station (se senere).
+ Vagtcentral og alarmsystem kommunikerer sammen ved hjælp af en asynkron  
+
+ linie kontrol protokol, som betegnes ALC-protokollen.
+3. Protokol I det følgende beskrives ALC-protokollen til halv duplex dataoverførsel  
+
+ (ALC/HD).
+ Kommunikationsmediet antages at kunne overføre halv duplex kommunikation,  
+
+ idet det betragtes som een kanal, hvorpå der kan overføres data enten den ene  
+
+ vej eller den anden vej, men ikke begge veje samtidig.
+Kanalen forbinder en primær station med en sekundær station.
+Den primære  
+
+ station kontrollerer kanalen og afsender kommandoer til den sekundære station  
+
+ i den anden ende.
+Den sekundære station må vende transmissionsretningen ved  
+
+ modtagelse af en kommando og sende en kvittering til den primære station.
+ Informationen kan flyde dels ved hjælp af kommandoer fra primær station  
+
+ til sekundær station og dels ved hjælp af kvitteringer fra sekundær station  
+
+ til primær station.
+ Fig. 2: Kommunikation via ALC/HD.
+ALC/HD-protokollen sikrer enten, at information kan føres gennem  
+
+ kommunikationsmediet - uden at ændres - uden at forsvinde - uden at blive dubleret eller at informationsoverførslen opgives inden for endelig tid, hvis  
+
+ kommunikationsmediet er fejlbehæftet i hele denne periode.
+Den information, der sendes mellem vagtcentral og alarmsystem, er opdelt i  
+
+ blokke.
+Blokformatet er specificeret i cirkulære nr. 29D.
+4. Kommandoer Kommandoer sendes fra primær station til sekundær station.
+ Følgende operationskoder anvendes til kommandoer:
+POLL-0 POLL-1 DATA-0 DATA-1 ENQ Værdierne for de enkelte operationskoder er fastlagt i cirkulære nr. 29D.
+ POLL-0 og POLL-1 benyttes af den primære station til pollning og  
+
+ afhentning af information fra den sekundære station (0 og 1 kaldes  
+
+ sekvensnumre).
+ DATA-0 og DATA-1 benyttes af den primære station til afsendelse af  
+
+ information til den sekundære station (0 og 1 kaldes sekvensnumre).
+ ENQ benyttes af den primære station til afhentning af sidst afgivne  
+
+ kvittering fra den sekundære station.
+5. Kvitteringer Kvitteringer sendes fra sekundær station til primær station.
+ Følgende operationskoder anvendes til kvitteringer:
+DATA-0 DATA-1 ACK-0 ACK-1 RESET Værdierne for de enkelte operationskoder er fastlagt i cirkulære nr. 29D.
+ DATA-0 anvendes dels til accept af en modtaget POLL-0-blok eller  
+
+ DATA-0-blok, dels til afsendelse af information fra den sekundære station til  
+
+ den primære station.
+ DATA-1 anvendes dels til accept af en modtaget POLL-1-blok eller  
+
+ DATA-1-blok, dels til afsendelse af information fra den sekundære station til  
+
+ den primære station.
+ACK-0 anvendes til accept af en modtaget POLL-0-blok eller DATA-0-blok,  
+
+ når den sekundære station ikke har information at afsende.
+ACK-1 anvendes til  
+
+ accept af en modtaget POLL-1-blok eller DATA-1-blok, når den sekundære  
+
+ station ikke har information at afsende.
+ RESET benyttes som svar på en ENQ-blok efter en restart.
+6. Mulige protokolsekvenser I det følgende beskrives de mulige protokolsekvenser, dvs. de  
+
+ kvitteringer, den sekundære station kan sende på grundlag af en modtaget  
+
+ kommando.
+ Fig. 3: Mulige kvitteringer på ENQ-kommando.
+ Fig. 4: Mulige kvitteringer på POLL-kommando.
+ Fig. 5: Mulige kvitteringer på DATA-kommando.
+7. Primær station I det følgende beskrives, hvordan den primære station fungerer under  
+
+ opstart, ved normal dataoverførsel og i fejlsituationer.
+ Under opstart sender den primære station med jævne mellemrum en ENQ- blok  
+
+ til sekundær station.
+ Når den primære station modtager en kvittering med enten RESET, DATA eller  
+
+ ACK, er forbindelsen oprettet.
+ Fig. 6: Opstart af primær station.
+ Under normal dataoverførsel fra primær station til sekundær station sender  
+
+ den primære station en DATA-blok indeholdende en brugermeddelelse og et  
+
+ sekvensnummer.
+ Derefter modtager den en kvittering for, at blokken blev korrekt modtaget  
+
+ hos den sekundære station.
+ Herefter sender den primære station en ny DATA-blok med en ny  
+
+ brugermeddelelse og et nyt sekvensnummer.
+ Fig. 7: Normal dataoverførsel fra primær til sekundær station.
+ Under normal dataoverførsel fra sekundær station til primær station sender  
+
+ den primære station en POLL-blok indeholdende et sekvensnummer.
+ Når primær station modtager DATA-kvittering, sender den primære station en  
+
+ POLL-blok med næste sekvensnummer.
+ Når primær station modtager ACK-kvittering, og den primære station ikke  
+
+ har data, som skal overføres, venter den primære station en periode, inden  
+
+ den sender en POLL-kommando med næste sekvensnummer.
+ (Hvis der kommer data at sende i mellemtiden, sender primær station en  
+
+ DATA-kommando med næste sekvensnummer).
+ Fig. 8: normal dataoverførsel fra sekundær til primær station.
+ Under normal dataoverførsel i begge retninger ser udvekslingen af  
+
+ kommandoer og kvitteringer ud som på følgende figur.
+ Fig. 9: Normal dataoverførsel i begge retninger.
+Imidlertid opstår der af og til transmissionsfejl.
+En sådan fejl  
+
+ indebærer, at en blok forvanskes under transmissionen.
+ En forvansket blok er en blok, hvor mindst eet af følgende er opfyldt:
+ - operationskoden er ukendt.
+ - checksummen er ikke korrekt.
+ - blokkens længde er ikke korrekt.
+ En forvansket blok må en station ikke kvittere for.
+ Den primære station holder styr på:
+ENQ timeout-periode DATA timeout-periode POLL timeout-periode Den reducerede tilstands-handlingstabel for primær station er  
+
+ angivet på fig. 10.
+ I indgangen er brugt følgende notation:
+ SB betyder SendeBuffer, altså en buffer, hvori der står en blok, som skal  
+
+ sendes.
+ MB betyder ModtageBuffer, altså en buffer, hvori en modtaget blok skal  
+
+ placeres.
+ Under opstart udføres følgende:
+ 1. Sekvensnummer sættes til 1.
+ 2. Tilstand sættes til »afbrudt«.
+ 3. Udfør handling 2 (se nedenfor).
+ Fig. 10:
+ Tilstands-handlings-tabel for primær station.
+HANDLINGER 0: Gør intet.
+ 1: Send SB tilbage til bruger med resultat »ingen forbindelse«.
+ 2: 2.1 Send ENQ-blok.
+ 2.2 Start ENQ timeout-periode. 2.3 Antal transmissionsforsøg sættes til 1.
+ 3: 3.1 Tæl sekvensnummer op (modulo 2). 3.2 Send DATA-kommando med  
+
+ sekvensnummer.
+ 3.3 Gem SB som aktuel SB.
+ 3.4 Start DATA timeout-periode.
+ 3.5 Antal transmissionsforsøg sættes til 0.
+ 3.6 Resultatet i aktuel SB sættes til »afsendelse ok«.
+ 4: Sæt SB i kø til overførsel.
+ 5: Hvis sekvensnummeret i ACK-kvitteringen er lig med sekvensnummeret i  
+
+ den afsendte DATA-kommando, så udfør 5.1 og 5.2.
+ Hvis ikke, udføres intet.
+ 5.1 Send aktuel SB tilbage til bruger.
+ 5.2 Hvis SB kø er tom, så start POLL timeout-periode og gå i tilstand B.
+ Hvis ikke, tag SB fra kø, udfør 3 og gå i tilstand C.
+ 6: 6.1 Resultatet i aktuel SB sættes til »måske dubleret«.
+ 6.2 Retransmitter sidste DATA-kommando.
+ 6.3 Tæl antal transmissionsforsøg een op.
+ 6.4 Start DATA timeout-periode.
+ 7: Hvis sekvensnummeret i ACK-kvitteringen er lig med sekvensnummeret i  
+
+ den afsendte DATA-kommando, så udfør 5.1 og 5.2.
+ Hvis ikke, så udfør 6.2, 6.3 og 6.4 og gå i tilstand C.
+8: Hvis antal transmissionsforsøg er større end eller lig med max. antal  
+
+ transmissionsforsøg, så udfør 8.l, 8.2 og 2 og gå i tilstand A.
+Hvis ikke, så  
+
+ udfør 2.1, 2.2 og 6.3 og gå i tilstand D.
+ 8.1 Send aktuel SB tilbage til bruger med resultat »afsendelse måske  
+
+ ok«.
+ 8.2 Send alle SB i køen tilbage til bruger med resultat »ingen  
+
+ forbindelse«.
+ 9: Sæt sekvensnummer til samme værdi som angivet i ACK- kvitteringen.
+ 10: 10.1 Tæl sekvensnummer op (modulo 2).
+ 10.2 Send POLL-kommando med sekvensnummer.
+ 10.3 Start POLL timeout-periode.
+ 11: 11.1 Sæt sekvensnummer lig med sekvensnummer i DATA- kvitteringen.
+ 11.2 Frigiv MB til bruger.
+ 12: Hvis sekvensnummer i DATA-kvitteringen er lig med sekvensnummeret i  
+
+ den afsendte DATA-kommando, så udfør 11.2, 5.1 og 5.2.
+ Hvis ikke, så udfør 6.2, 6.3 og 6.4 og gå i tilstand C.
+ 13: Hvis sekvensnummer i ACK-kvitteringen er lig med sekvensnummeret i den  
+
+ afsendte POLL-kommando, så udfør 5.2.
+ Hvis ikke, udføres intet.
+ 14: ENQ-tilstand sættes til DATA, og 8 udføres.
+ 15: ENQ-tilstand sættes til POLL, og 8 udføres.
+ 16: Hvis ENQ-tilstand er lig DATA, så udfør 6.
+ Hvis ikke, så udfør 5.2.
+ 17: Hvis ENQ-tilstand er lig med DATA, så udfør 7.
+ Hvis ikke, så udfør 13.
+ 18: Hvis ENQ-tilstand er lig med DATA, så udfør 12.
+ Hvis ikke, så udfør 19.
+ 19: Hvis sekvensnummer i DATA-kvitteringen er lig med sekvensnummeret i  
+
+ den afsendte POLL-kommando, så udfør 11.2 og 5.2.
+ Hvis ikke, udføres intet.
+8. Sekundær station Under normal dataoverførsel fra den primære station til den sekundære  
+
+ station kvitterer den sekundære station for en DATA-kommando med en ACK-blok  
+
+ med samme sekvensnummer (se fig. 5).
+ Ved modtagelse af en forvansket kommando kvitterer den sekundære station  
+
+ ikke.
+ Hvis der ikke findes en MB til de læste data, kvitterer den sekundære  
+
+ station ikke.
+Ved modtagelse af en ENQ-kommando svarer den sekundære station med sidste  
+
+ kvittering, dvs.
+RESET, hvis stationen netop er startet op, og ellers ACK-0,  
+
+ ACK-1, DATA-0 eller DATA-1.
+ Hvis den sekundære station har data, der skal overføres, gøres dette i en  
+
+ DATA-kvittering med samme sekvensnummer som en modtagen POLL-kommando eller  
+
+ DATA-kommando.
+ Den sekundære station kan altså kun afsende data, når den modtager enten  
+
+ en POLL-kommando eller en DATA-kommando.
+ Den først efterfølgende POLL-kommando eller DATA-kommando, som den  
+
+ sekundære station modtager, opfattes som en kvittering for de afsendte data,  
+
+ dvs. den sekundære station frigiver SB til brugeren.
+ Den sekundære station holder styr på en kommando-timeout-periode, således  
+
+ at den ved overskridelse af denne regner forbindelsen for  
+
+ »afbrudt«.
+ Under opstart udføres følgende:
+ 1. Tilstand sættes til »afbrudt«.
+ Fig. 11:
+ Tilstands-handlings-tabel for sekundær station.
+HANDLINGER 0: Gør intet.
+ 1: Send SB tilbage til bruger med resultat »ingen forbindelse«.
+ 2: Send RESET-kvittering.
+ 3: Sæt SB i kø.
+ 4: Send alle SB i køen tilbage til bruger med resultat »ingen  
+
+ forbindelse«.
+ 5: Send aktuel SB tilbage til bruger med resultat »afsendelse måske  
+
+ ok« og udfør 4.
+ 6: 6.0 Start kommando-timeout.
+ Hvis MB findes, udføres 6.1, 6.2 og 6.3. Hvis ikke, udføres intet.
+ 6.1 Input kopieres ind i MB, der sendes tilbage til bruger.
+ 6.2 Hvis SB kø er tom, så send ACK-kvittering med samme sekvensnummer som  
+
+ i kommandoen og gå i tilstand B.
+ Hvis ikke, så udfør 6.3 og 6.4 og gå i tilstand C.
+ 6.3 Tag SB fra kø og gør den til aktuel SB.
+ 6.4 Send DATA-kvittering med samme sekvensnummer som i kommando.
+ 7: Udfør 6.0 og send sidste kvittering.
+ 8: Udfør 6.0 og 6.2.
+ 9: Send aktuel SB tilbage til bruger med resultat »afsendelse  
+
+ ok« og udfør 6.
+ 10: Udfør 9 og 6.2.

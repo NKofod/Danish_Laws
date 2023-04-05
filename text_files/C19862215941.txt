@@ -1,0 +1,184 @@
+Studieplanen har virkning fra august 1985 (genoptryk) P.d.v.
+ e.b.
+Erik Nexelmann underv. insp.
+ 1. Indledning.
+Der er indenfor EDB-verdenen udbredt enighed om, at man i de sidste ca. 10  
+
+ år har kunnet tale om en softwarekrise.
+Denne giver sig udslag på forskellig  
+
+ vis, f.eks.: programmer færdiggøres ofte med betydelig forsinkelse, sprænger  
+
+ de økonomiske rammer, opfylder ikke de oprindelige mål, er ikke pålidelige i  
+
+ drift, er vanskelige at vedligeholde o.s.v.
+ Meget tyder på, at årsagen til krisen skal søges i de stadigt større og  
+
+ mere sammensatte problemkomplekser, der søges løst med stort set de samme  
+
+ værktøjer som for 10 og 20 år siden.
+ Problemet kunne altså simpelthen være, at grænsen for de »gamle«  
+
+ programmeringssprogs ydeevne/brugbarhed er overskredet for længe siden.
+Som nævnt er softwarekrisen almindeligt erkendt indenfor området.
+Dette  
+
+ har ført til en omfattende søgning efter nye veje at gå.
+Nye ideer er  
+
+ udforsket gennemgribende og har ført til nye programmeringssprog, og gamle  
+
+ mere eller mindre forkastede ideer er blevet genstand for fornyet interesse.  
+
+ Der er således ideer nok, når det gælder om at bringe programmeringssprogene  
+
+ op på niveau med de problemer, der skal løses.
+Det er imidlertid vanskeligt at omsætte disse ideer i praksis.  
+
+ Programmeringssproget er en så vital del af en EDB-organisme, at det kræver  
+
+ store og smertefulde omkostninger at udskifte det.
+Det er derfor nærmest  
+
+ blevet til lappeløsninger hen ad vejen.
+Softwarekrisen kan altså siges at  
+
+ skyldes gabet mellem det, man ved og det, man gør.
+Blandt de bemærkelsesværdige undtagelser må nævnes ADA-projektet.
+Her er  
+
+ et eksempel på et stort foretagende, der målbevidst har søgt at finde frem  
+
+ til et nyt programmeringssprog, der tilgodeså alle behov.
+Formålet med dette kursus er at orientere kursisterne om de nævnte ideer,  
+
+ og at sætte dem i stand til at forstå disses vigtigste og mest gennemgående  
+
+ principper.
+Det kan derfor ikke undgås, at kurset kommer til at omhandle en  
+
+ række mere eller mindre selvstændige emner, som for et par stykkers  
+
+ vedkommende kun hænger sammen gennem den røde tråd: nye principper.
+ 2. Kursusindhold.
+Grundstammen i kurset udgøres af følgende 6 hovedemner: 1.  
+
+ objektorienteret programmering 2. multiprogrammering 3. modulprogrammering 4. dataabstraktion 5. logikprogrammering 6. funktionsprogrammering I det følgende omtales de 6 hovedemner kort:
+ 2.1 Objektorienteret programmering.
+De mest udbredte programkonstruktionsmetoder (f.eks.
+JSP, SD, LCP, IPT)  
+
+ tager alle udgangspunkt i enten datastrukturen eller datastrømme.
+En tredje  
+
+ mulighed er at tage udgangspunkt i objekter.
+Simula er et sprog, der understøtter denne indfaldsvinkel.
+Undervisningen  
+
+ i emnet baseres derfor på eksempler i Simula.
+ 2.2 Multiprogrammering.
+Et multiprogram består af en række uafhængige programdele, der udføres  
+
+ sideløbende.
+Indenfor områder som f.eks. operativsystemer og processtyring er  
+
+ anvendelsen af multiprogrammering oplagt.
+Men også indenfor administrativ  
+
+ databehandling kan begreberne fra multiprogrammering med fordel benyttes.
+ Til illustration af emnet vil der i undervisningen blive benyttet  
+
+ eksempler i Concurrent Pascal.
+ 2.3. Modulprogrammering.
+Objektorienteret programmering og multiprogrammering er særtilfælde af det  
+
+ mere generelle udtryk »modulprogrammering«.
+Med modulprogrammering  
+
+ menes programmering i mere eller mindre uafhængige programmoduler, der  
+
+ tilsammen udgør et program.
+Især problematikken omkring graden af  
+
+ uafhængighed modulerne imellem er interessant.
+Et vigtigt begreb i denne  
+
+ forbindelse er »information hiding«.
+ Sproget Modula-2 er eet af de sprog, der understøtter modulær  
+
+ programmering, hvorfor dette sprog vil blive berørt i undervisningen.
+ 2.4 Dataabstraktion.
+Abstraktion er almindeligt erkendt som værende et vigtigt begreb i  
+
+ forbindelse med al programmering.
+De fleste programmeringssprog muliggør i  
+
+ større eller mindre grad abstraktion i een eller anden forstand.
+Det  
+
+ kendteste eksempel på dette er nok procedurebegrebet.
+ Det er dog mest den rene handlingsabstraktion, de fleste sprog tillader.  
+
+ Dataabstraktion er lige så vigtigt, men for det meste dårligt understøttet.
+ Først med sproget Pascal kan man tale om en egentlig dataabstraktion,  
+
+ senere har sproget ADA taget ideen op og videreudviklet den.
+ Eksempler i disse 2 sprog vil blive udnyttet i undervisningen.
+ 2.5 Funktionsprogrammering.
+Traditionel programmering bygger på variable og tildeling af værdier til  
+
+ disse.
+Dette fører ofte til at man som programmør må »genopfinde  
+
+ hjulet« og iøvrigt beskæftige sig med detaljer der er uden principiel  
+
+ interesse for programmets funktion.
+I rendyrket funktionsprogrammering eksisterer variablebegrebet ikke, man  
+
+ beskæftiger sig kun med de funktioner programmet skal udføre.
+Det mest  
+
+ udbredte funktionsprogrammeringssprog er LISP, hvorfor dette vil blive  
+
+ benyttet i undervisningen.
+ 2.6 Logikprogrammering.
+Logikprogrammering består af en række logiske udsagn, mens traditionelle  
+
+ programmer består af en række ordrer.
+Udførelsen af et logikprogram kan  
+
+ derfor opfattes som en logisk slutningsproces.
+Interessen for logikprogrammering skyldes ikke mindst det japanske  
+
+ såkaldte 5.te generations datamaskine-projekt, der forventes at føre  
+
+ datamaskiner, der er særligt egnede til logiske slutninger.
+Et kendt  
+
+ logikprogrammeringssprog er Prolog, dette sprog vil i et vist omfang blive  
+
+ benyttet i undervisningen.
+ 3. Evalueringsopgaver.
+Der stilles een opgave indenfor hvert af følgende 3 hovedemner: E-1  
+
+ Objektorienteret programmering E-2 Multiprogrammering E-3 Logikprogrammering Opgaverne drejer sig alle om at belyse nogle principielle aspekter  
+
+ vedrørende det pågældende hovedemne - bl.a. ud fra aktuelle  
+
+ anvendelseseksempler.
+ Opgaverne anbefales alle løst i grupper på indtil 3 medlemmer.
+ 4. Undervisningsform .
+ Undervisningen vil benytte sig dels af lærergennemgang, dels af  
+
+ seminarform.
+Til hvert hovedemne er afsat 2 undervisningsgange.
+Den første gang  
+
+ gennemgår læreren emnet, den anden gang belyses eksemplet ved hjælp af  
+
+ opgaver.
+ De sidste 3 gange er afsat til seminarer (elevfremstilling). Disse  
+
+ seminarer går ud på, at kursisterne indenfor de 6 hovedemner udvælger et  
+
+ aspekt, der studeres mere detaljeret og fremlægges.

@@ -1,0 +1,6721 @@
+Vejledning om Principper for fastsættelse af  
+
+ vandkvalitetskriterier for stoffer i overfladevand Forord Sammenfatning  
+
+ og konklusioner Summary  
+
+ and  
+
+ conclusions 1.  
+
+ 	  
+
+ Indledning 1.1  
+
+ 	  
+
+ Formål med fastsættelse af  
+
+ vandkvalitetskriterier 1.2  
+
+ 	  
+
+ Regelgrundlag 1.3  
+
+ 	  
+
+ Principper for fastsættelse af  
+
+ vandkvalitetskriterier 1.4  
+
+ 	  
+
+ Vejledningens opbygning og indhold 1.5  
+
+ 	  
+
+ Konsekvenser i forhold til tidligere  
+
+ praksis 2.  
+
+ 	  
+
+ Data 2.1  
+
+ 	  
+
+ Datatype 2.2  
+
+ 	  
+
+ Arter 2.3  
+
+ 	  
+
+ Datasøgning og dataevaluering 2.4  
+
+ 	  
+
+ Manglende data 2.5  
+
+ 	  
+
+ QSAR 2.6  
+
+ 	  
+
+ Nedbrydelighed 2.7  
+
+ 	  
+
+ Andre typer af data/information 2.8  
+
+ 	  
+
+ Betydende cifre 2.9  
+
+ 	  
+
+ Testmetoder 3.  
+
+ 	  
+
+ Beregning af VKK 3.1  
+
+ 	  
+
+ Giftighed overfor vandorganismer 3.2  
+
+ 	  
+
+ Bioakkumulering og nedbrydelighed 3.3  
+
+ 	  
+
+ Andre faktorer 3.4  
+
+ 	  
+
+ Naturligt forekommende stoffer 3.5  
+
+ 	  
+
+ Abiotiske  
+
+ faktorer 3.6  
+
+ 	  
+
+ Korttids  
+
+ vandkvalitetskriterie  
+
+ (KVKK eller MAC) 4.  
+
+ 	  
+
+ Dokumentation 5.  
+
+ 	  
+
+ Ordforklaring Bilag 1  
+
+ 	  
+
+ Fastsættelse  
+
+ af vandkriterier for kortvarige udladninger (KVKK) Bilag 2  
+
+ 	  
+
+ Hyppigst anvendte opslagsværker og  
+
+ databaser i forbindelse med datasøgning ved klassificering og mærkning og  
+
+ beregning  
+
+ af kvalitetskriterier for kemikalier (miljøeffekter) Bilag 3  
+
+ 	  
+
+ Beregningseksempler Forord Et  
+
+ vandkvalitetskriterie  
+
+ er det højeste koncentrationsniveau,  
+
+ ved hvilket det skønnes, at der ikke vil forekomme uacceptable negative  
+
+ effekter på vandøkosystemer.
+ Kvalitetskriterier  
+
+ for kemikalier i overfladevand (vandkvalitetskriterier) bruges som  
+
+ udgangspunkt  
+
+ ved amternes fastsættelse af kvalitetskrav i forbindelse med overvågning af  
+
+ vandmiljøers tilstand og i forbindelse med meddelelse af  
+
+ udledningstilladelser  
+
+ til virksomheder ifølge miljøbeskyttelseslovens kapitel 4 og 5.
+ Et  
+
+ kvalitets  
+
+  
+
+ krav  
+
+  
+
+ for overfladevand er  
+
+ det koncentrationsniveau i overfladevand, som skal overholdes eller opnås.  
+
+ Udgangspunktet for fastsættelsen af kravet er, som sagt,  
+
+ vandkvalitetskriteriet,  
+
+ men det er bl.a. også afhængigt af særlige beskyttelseshensyn.
+ Et  
+
+  
+
+ udlederkrav  
+
+  
+
+ er  
+
+ det koncentrationsniveau, som skal overholdes i udledningen inden den  
+
+ endelige  
+
+ opblanding med det modtagende overfladevand.
+ Af  
+
+ bekendtgørelse 921 (1996)  
+
+  om  
+
+ kvalitetskrav fremgår det, at amterne om nødvendigt skal fastsætte  
+
+ kvalitetskrav efter anvisning fra Miljøstyrelsen.
+ Formålet  
+
+ med denne vejledning er at give en faglig beskrivelse af hvordan man beregner  
+
+ miljøbaserede kvalitetskriterier for kemikalier i overfladevand i  
+
+ overensstemmelse med vandrammedirektivet  
+
+  og  
+
+ med den linie EU har lagt i forbindelse med fastlæggelse af  
+
+ vandkvalitetskriterier  
+
+ for de i direktivet prioriterede stoffer.
+Denne  
+
+ vejledning afklarer således dansk praksis for fastsættelse af  
+
+ vandkvalitetskriterier  
+
+ ved overgang fra eksisterende EU lovgivning (direktiv om det  
+
+ akvatiske  
+
+ miljø)  
+
+  til  
+
+ ny EU lovgivning (vandrammedirektivet) og praksis forbundet hermed.  
+
+ Miljøstyrelsen  
+
+ opdaterer med denne vejledning principperne for beregning af  
+
+ vandkvalitetskriterier.  
+
+ Opdateringen skyldes, at der i EU i forbindelse med det nye vandrammedirektiv  
+
+ er udarbejdet nye retningslinier for beregning af vandkvalitetskriterier.
+For  
+
+ de stoffer der er prioriteret i direktivet udarbejder man nu i EU  
+
+ vandkvalitetskriterier  
+
+ efter de nye EU retningslinier.
+For  
+
+ andre stoffer der udledes i de enkelte medlemslande skal medlemslandene selv  
+
+ fastsætte kvalitetskrav.
+Miljøstyrelsen har i overensstemmelse med kravene i  
+
+ vandrammedirektivet fundet det mest hensigtsmæssigt at dette kommer til at  
+
+ ske  
+
+ efter samme metode som for de prioriterede stoffer.
+ Dette  
+
+ medfører bl.a. at der nu indføres særskilte vandkvalitetskriterier som  
+
+ grundlag  
+
+ for at kunne vurdere udledninger der varer i kort tid, samt at  
+
+ retningslinierne  
+
+ bringes i overensstemmelse med de metoder der anvendes ved risikovurderinger  
+
+ af  
+
+ kemikalier i EU.
+ Denne  
+
+ vejledning skal bruges og ses i sammenhæng med  
+
+ spildevandsvejledningen2),  
+
+ og medtager bl.a. ikke fastsættelse af kvalitets  
+
+  
+
+ krav  
+
+  
+
+ og  
+
+ udlederkrav  
+
+ eller  
+
+ kontrolmetoder der anvendes i vurderinger af om kvalitetskrav overholdes.
+ Vejledningen  
+
+ henvender sig således primært til myndigheder (amter), virksomheder og  
+
+ rådgivere, der arbejder med udledningstilladelser og vurdering af kemiske  
+
+ stoffers skadelige effekter på vandøkosystemer.
+ I  
+
+ afsnit 5 er en ordforklaring for en række fagudtryk.
+Sammenfatning og konklusioner Der  
+
+ er to hovedanvendelser af vandkvalitetskriterierne (VKK):
+ 1.  
+
+ 	  
+
+ Fastsættelse af  
+
+ højeste acceptable koncentration i vandmiljøet som grundlag for fastsættelse  
+
+ af  
+
+ vilkår i udledningstilladelser.
+2.  
+
+ 	  
+
+ Som målestok for god  
+
+ kemisk status for vandområder.
+Det er denne målestok som overvågningsmålinger  
+
+ holdes op mod og sammenlignes med.
+ Når  
+
+ der foreligger en EU eller OECD risikovurderingsrapport  
+
+  for  
+
+ et kemisk stof, er det den rapports oplysninger, der danner baggrund for  
+
+ beregningen af VKK.
+Når  
+
+ der ikke findes en EU eller OECD risikovurdering, er den grundlæggende metode  
+
+ at bruge en usikkerhedsfaktor (UF  
+
+ ), hvis  
+
+ størrelse er afhængig af antallet og kvaliteten af data for effekter på  
+
+ organismer, der lever i vand.
+Laveste EC50  
+
+ eller NOEC (ECx  
+
+ ) divideres med en usikkerhedsfaktor   
+
+ UF - i henhold til skemaerne fra EU's vejledningsdokument til risikovurdering  
+
+ (  
+
+ TGDen  
+
+ ).
+ UF  
+
+ kan modificeres i en række situationer som beskrevet i herværende vejledning,  
+
+ kapitel 3.
+Hvis  
+
+ der er tegn på at stoffet kan blive  
+
+ bioakkumuleret  
+
+ og  
+
+ at det ikke er let nedbrydeligt beregnes den koncentration i vandet, ved  
+
+ hvilken det forudses, at der ikke vil være fare for forgiftning af rovdyr  
+
+ igennem fødekæden eller effekter på mennesker.
+Disse værdier sammenlignes med  
+
+ den, der er beregnet på baggrund af den anvendte UF som nævnt ovenfor.
+Den  
+
+ laveste  
+
+ værdi bruges som VKK.
+ I  
+
+ de tilfælde hvor fødekædeeffekter og effekter på mennesker ikke kan beregnes,  
+
+ mindskes  
+
+ VKK med en ekstra UF.
+For  
+
+ naturligt forekommende stoffer kan man anvende VKK som  
+
+ en  
+
+ værdi, der føres til den naturlige  
+
+ baggrundskoncentration.
+Dette princip anvendes, når et  
+
+ beregnet  
+
+ VKK  
+
+ kan blive lavere end baggrundskoncentrationen  
+
+ af stoffet i vandmiljøet.
+ Korttids  
+
+ VKK = MAC (Maksimum Acceptable  
+
+ Concentration  
+
+ )  
+
+ beregnes som laveste EC(LC)50  
+
+ divideret med 100.
+Korttidseksponering  
+
+ er defineret som en eksponering, der giver anledning til koncentrationer, der  
+
+ overstiger vandkvalitetskriteriet, som højst varer 24 timer, og som i  
+
+ gennemsnit højst optræder 1 gang om måneden.
+Herudover må en given  
+
+ eksponering  
+
+ (udledning) højst forekomme 5 gange i løbet af en måned, og der skal være  
+
+ mindst 6 dage mellem de enkelte eksponeringer (udledninger), for at tilfældet  
+
+ kan betragtes som en korttidseksponering.
+Summary  
+
+ and conclusions Water quality standards (WQS) are set in  
+
+ accordance with the Water Framework Directive (WFD, 2000/60/EC), Annex V  
+
+ paragraph 1.2.6 and the Technical Guidance Document in Support  
+
+ of  
+
+ Commission  
+
+ Directive 93/67/EEC (TGD-2003).
+ There are two main uses/purposes of the WQS:
+ Determination of the maximum acceptable  
+
+ concentration in connection with applications for discharge permits.
+ A reference level, indicating good surface  
+
+ water chemical status to which monitoring data should be compared, and  
+
+ should  
+
+ comply with.
+ When an EU or OECD risk assessment report  
+
+  is available, the reports data provide  
+
+ the basis of the WQS calculation.
+When an EU risk assessment report is not  
+
+ available, the basic method is to use an assessment factor, the value of  
+
+ which  
+
+ is dependent upon the number and quality of data.
+The lowest EC50  
+
+ or  
+
+ NOEC (ECx  
+
+ ) is  
+
+ divided by the AF according to the tables in the Technical Guidance Document  
+
+ in  
+
+ Support of Commission Directive 93/67/EEC (TGD-2003) concerning risk  
+
+ assessment  
+
+ of chemicals.
+ The AF may be modified in a number of cases as  
+
+ described in this report.
+If bioaccumulation potential and not ready  
+
+ biodegradability is indicated,  
+
+ the  
+
+ concentration in water at which no  
+
+ secondary poisoning or health effects are likely to occur is calculated, and  
+
+ the values are compared to the WQS based solely on the toxicity to water  
+
+ organisms.
+The lowest of the three values is then chosen as the overall WQS.
+ If it is not possible to estimate the risk of  
+
+ secondary poisoning or the risk posed to human health, then lowering the WQS  
+
+ with an extra AF should be considered.
+ With regard to naturally occurring substances,  
+
+ the WQS may be applied as a value added to the natural background if e.g. the  
+
+ WQS is below the natural background level.
+ For peaks and intermittent releases, a Maximum  
+
+ Acceptable Concentration (MAC) is calculated as the lowest EC50  
+
+ divided by 100.
+Intermittent exposure/release is defined as a  
+
+ release resulting in  
+
+ exceedance  
+
+ of the WQS by a maximum  
+
+ of 24 hours and occurring, on average, no more than once a month.
+The maximum  
+
+ acceptable number of occurrences within a given month is five, and there  
+
+ should  
+
+ be at least six days between single releases.
+1 Indledning 1.1 Formål med fastsættelse af vandkvalitetskriterier Denne  
+
+ vejledning er en faglig beskrivelse  
+
+ af ,  
+
+ hvordan  
+
+ miljømæssige kvalitetskriterier for kemikalier i overfladevand  
+
+ (vandkvalitetskriterier)  
+
+ beregnes, og henvender sig primært til  
+
+ myndigheder, virksomheder og rådgivere, der arbejder med  
+
+ udledningstilladelser  
+
+ og vurdering af faren for effekter på vandøkosystemer.
+ Et  
+
+ kvalitetskriterie  
+
+ er udtrykt i koncentrationen af et stof i  
+
+ vand, sediment eller  
+
+ biota  
+
+ (levende organismer). I  
+
+ denne vejledning gives anvisning på beregning af vandkvalitetskriterier for  
+
+ overfladevand.
+ Vandkvalitetskriteriet  
+
+ er det højeste koncentrationsniveau i vand, ved hvilket det skønnes, at der  
+
+ ikke vil forekomme uacceptable negative effekter på vandøkosystemer.
+ Der  
+
+ er to hovedanvendelser af vandkvalitetskriterier:
+a)  
+
+ 	  
+
+ Grundlag for  
+
+ fastsættelse af højeste acceptable koncentrationsniveau i vandmiljøet til  
+
+ brug  
+
+ for fastsættelse af vilkår i udledningstilladelser.
+Ved udledningstilladelser  
+
+ skal udledningskravene sættes således, at der ikke opnås så høje  
+
+ koncentrationer  
+
+ i det vandområde hvori udledningen sker, at der opstår effekter på de levende  
+
+ organismer i det lange løb.
+Ligeledes må der heller ikke opstå akutte  
+
+ effekter  
+
+ efter korttidseksponeringer.
+ b)  
+
+ 	  
+
+ Målestok for god  
+
+ kemisk status for vandområder  
+
+ ). Det er denne målestok som overvågningsmålinger  
+
+ holdes op mod og sammenlignes med.
+Målsætningen  
+
+ ved fastsættelsen af vandkvalitetskriterier er, at kvalitetskriterierne skal  
+
+ medvirke til  
+
+  
+
+ at forebygge forurening og  
+
+ skader på miljø og sundhed.
+Vandkvalitetskriterierne ses som et element i  
+
+ miljøbeskyttelseslovens overordnede politiske målsætning om at oppebære et  
+
+ højt beskyttelsesniveau for miljøet og sikre en bæredygtig udvikling,  
+
+ herunder  
+
+ at fremme anvendelsen af renere teknologi.
+ Vandkvalitetskriterierne  
+
+ er i sig selv ikke bindende, men bruges i forbindelse med vurdering af  
+
+ alvoren  
+
+ af et givet forureningsniveau, ved myndighedernes beslutning om  
+
+ forholdsregler  
+
+ ved en given forurening og som udgangspunkt for fastsættelse af kravværdier i  
+
+ relation til udledning af konkrete stoffer i miljøet.
+ Når  
+
+ en myndighed (f.eks. et amt) behandler en ansøgning om tilladelse til at  
+
+ udlede  
+
+ spildevand til overfladevand, er det opgaven at sikre, at koncentrationen af  
+
+ de udledte stoffer er så lav i udledningsområdet, at dyre- og plantelivet  
+
+ ikke  
+
+ lider varig skade.
+Dette  
+
+ skal sikres ved fastsættelse af bindende kvalitetskrav for hvert af de  
+
+ pågældende stoffer, dvs. det maksimalt tilladte koncentrationsniveau af et  
+
+ stof  
+
+ i vandet.
+Kvalitetskravet vil ofte være lig med vandkvalitetskriteriet, dvs.  
+
+ det højeste koncentrationsniveau af stoffet i vand, der skønnes ikke at have  
+
+ uacceptabel negativ effekt på vandøkosystemer.
+ Hvis  
+
+ der er særlige beskyttelseshensyn at tage til et vandområde, f.eks. hvis der  
+
+ er  
+
+ udpeget et nationalt naturbeskyttelsesområde efter naturbeskyttelseslovens §  
+
+ 3, kan det medføre, at kvalitetskravet for vandområdet må afvige fra  
+
+ vandkvalitetskriteriet.
+ Hvis  
+
+ kvalitetskravene ikke vil kunne overholdes umiddelbart efter opblanding  
+
+ (initialfortynding  
+
+ ), har  
+
+ amtet mulighed for i regionplanen at udlægge et større eller mindre  
+
+ spildevandsnærområde  
+
+ omkring udledningen, hvor forhøjede værdier accepteres; dog uden at der  
+
+ opstår  
+
+ akutte effekter eller smagsafgivelse til fisk eller skaldyr.
+1.2 Regelgrundlag Kvalitetskrav  
+
+ danner administrativt bindende grundlag for fastsættelse af vilkår i  
+
+ tilladelser til udledning af spildevand til vandløb, søer eller havet, som  
+
+ amter skal fastsætte efter miljøbeskyttelseslovens  
+
+  kapitel 4 og 5. Forud for  
+
+ fastsættelse af kvalitetskrav udarbejdes vandkvalitetskriterier baseret på en  
+
+ faglig vurdering af viden om de enkelte stoffers egenskaber, herunder i  
+
+ særdeleshed deres giftighed for vandmiljøet.
+ Grundlaget  
+
+ for fastsættelse af kvalitetskriterier i overfladevand i Danmark er Rådets  
+
+ direktiv 76/464/  
+
+ EØF  
+
+ om  
+
+ udledning af visse farlige stoffer til fællesskabets vandmiljø.  
+
+ Medlemsstaterne  
+
+ er forpligtet til at fastsætte kvalitetskrav for en række stoffer, som  
+
+ Kommissionen har udpeget, samt for stoffer, som kan indeholdes i udledninger  
+
+ 5)  
+
+  på  
+
+ medlemsstatens område.
+ Ved  
+
+ udledning:
+ Direktivets  
+
+ bestemmelser om kvalitetskrav er gennemført i Danmark ved bekendtgørelse nr.  
+
+ 921 af 8. oktober 1996 om kvalitetskrav og krav til udledning af visse  
+
+ farlige  
+
+ stoffer til vandløb, søer og havet.
+ Bekendtgørelsens  
+
+ bilag 1 beskriver generelt hvilke grupper af stoffer, der er omfattet af  
+
+ kravet  
+
+ om fastsættelse af kvalitetskrav, og bilag 2 indeholder konkrete  
+
+ kvalitetskrav  
+
+ for knap 150 stoffer.
+Listen  
+
+ over stoffer i bilag 2 er ikke komplet, og flere af kravværdierne har kun  
+
+ foreløbig karakter.
+Listen vil blive opdateret i forbindelse med en kommende  
+
+ revision af bekendtgørelsen som led i gennemførelsen af vandrammedirektivet,  
+
+ hvor bl.a. kvalitetskravene for de i  
+
+ direktivet prioriterede stoffer vil blive indført.
+ For  
+
+ yderligere et antal stoffer har Miljøstyrelsen siden 1996 udmeldt et fagligt  
+
+ grundlag (vejledende kvalitetskriterier) til støtte for amternes fastsættelse  
+
+ af kvalitetskrav.
+For  
+
+ at kunne vurdere belastningen fra diffuse kilder eller for at  
+
+ kunne  
+
+ meddele  
+
+ tilladelse til udledning af stoffer i henhold til  
+
+ miljøbeskyttelselovens  
+
+ kapitel 4 og 5, skal der fastsættes kvalitetskrav.
+For stoffer, hvor der i  
+
+ bekendtgørelsen ikke er fastsat kvalitetskrav, eller hvor kvalitetskravene er  
+
+ baseret på et mangelfuldt datagrundlag, er myndighederne (amterne) forpligtet  
+
+ til at fastsætte vandkvalitetskrav (og dermed vandkvalitetskriterier) efter  
+
+ anvisning fra Miljøstyrelsen.  
+
+ Miljøstyrelsens anvisning omfatter, som tidligere,  
+
+ metoder, fremgangsmåder, omfang af datagrundlag og behov for dokumentation,  
+
+ som  
+
+ vil være en forudsætning for amtsrådets fastsættelse af et kvalitetskrav.
+ Retningslinier  
+
+ for fastsættelse af  
+
+ udlederkrav  
+
+ findes i Vejledning  
+
+ nr. 519).
+ Principperne  
+
+ for beregning af vandkvalitetskriterier har hidtil fremgået af  
+
+ Miljøstyrelsens  
+
+ Spildevandsvejledning Nr. 5,  
+
+ 199919)  
+
+ og har fulgt beskrivelsen i miljøprojekt 250 (1994), som er baseret på  
+
+ anbefalingerne fra  
+
+ EU's videnskabelige komité for toksikologi og økotoksikologi (CSTE), der i  
+
+ tilknytning til direktiv  
+
+ 76/464/EØF udarbejdede retningslinier for beregning af  
+
+ vandkvalitetskriterier.
+Vandrammedirektivets17)  
+
+ regler skal følges senest i 2013, og indtil da følges reglerne i direktiv  
+
+ 76/464/EØF.
+Medlemsstaterne kan dog inden 2013 anvende de principper, der er  
+
+ fastlagt i vandrammedirektivet for identifikation af henholdsvis  
+
+ forureningsproblemer  
+
+ og de stoffer, der forårsager dem, for opstilling af kvalitetskrav og  
+
+ -kriterier og for vedtagelse af foranstaltninger.
+Som overordnet grundlag for  
+
+ fastsættelse af kvalitetskrav henviser vandrammedirektivet til EU's tekniske  
+
+ vejledningsdokument for risikovurdering af nye og eksisterende stoffer  
+
+ (TGD)24),  
+
+ som følger de samme hovedprincipper som  
+
+ CSTE-metoden.
+ Miljøstyrelsen  
+
+ opdaterer med denne vejledning principperne for beregning af  
+
+ vandkvalitetskriterier, så de er i overensstemmelse  
+
+ med  
+
+ retningslinierne  
+
+ i  
+
+ vandrammedirektivet.
+1.3 Principper for fastsættelse af  
+
+ vandkvalitetskriterier Kvalitetskriteriet  
+
+ for et givent stof i overfladevand er det  
+
+ højeste  
+
+ koncentrationsniveau  
+
+ af stoffet i  
+
+ vand, der skønnes ikke at have negativ effekt på vandøkosystemet.
+ Hovedrammerne  
+
+ for fastsættelse af vandkvalitetskriterier (VKK) for overfladevand er  
+
+ fastlagt  
+
+ i vandrammedirektivets  
+
+  bilag  
+
+ V, afsnit 1.2.  
+
+ 6 .
+ Vandrammedirektivet  
+
+ henviser endvidere til det vejledningsdokument, som er lavet i tilknytning  
+
+ til  
+
+ EUs risikovurderingsprogram for nye og eksisterende stoffer  
+
+ (TGD).
+ Det  
+
+ grundlæggende princip ved fastlæggelse af et  
+
+ vandkvalitetskriterie  
+
+ er, at man ud fra tilgængelige oplysninger om stoffernes egenskaber, f.eks.  
+
+ giftighed for vandorganismer, skønner hvor høj en koncentration, der kan  
+
+ opretholdes i vandmiljøet, uden at der opstår skadelige effekter på miljøet  
+
+ eller mennesker, der spiser fisk eller andre organismer, der lever i vand.
+ Skønnet  
+
+ baseres på resultater fra laboratorieforsøg, hvor effekten måles ved  
+
+ forskellige koncentrationer af stoffet.
+Skønnet  
+
+ foretages ved at dividere den laveste koncentration, der i laboratorieforsøg  
+
+ giver en given effekt, med  
+
+ en bestemt faktor.
+Denne faktors størrelse afhænger af forsøgstypen,  
+
+ kvaliteten  
+
+ og mængden af data, og er et udtryk for graden af usikkerhed i skønnet.
+ Disse  
+
+ grundlæggende principper for valg af usikkerhedsfaktor (UF) ses i skemaerne  
+
+ under punkt 3.1, og stammer fra vandrammedirektivet og EU risikovurderingens  
+
+   
+
+ Technical  
+
+ Guidance  
+
+ Document  
+
+  (TGD).
+Det  
+
+ generelle  
+
+ vandkvalitetskriterie  
+
+ vedrører mere  
+
+ vedvarende eksponering.
+Der må dog heller ikke opstå skader ved  
+
+ korttidseksponeringer  
+
+  (akutte effekter). Kravet om, at  
+
+ der ikke må opstå akutte effekter, kræver, at der fastsættes en maksimal  
+
+ acceptabel koncentration (MAC =  
+
+ PNECintermittent  
+
+ i EU's   
+
+ Technical  
+
+ Giudance  
+
+ Document  
+
+  for risikovurdering), dvs. at der skal fastsættes  
+
+ korttidskvalitetskriterier  
+
+ (KVKK = MAC), der vedrører  
+
+ akutte effekter, der kan opstå ved korttidseksponering, jævnfør nedenfor.
+Korttidseksponeringer  
+
+ forekommer ved kortvarige udledninger af stoffer.
+Ved mere vedvarende  
+
+ udledninger kan også koncentrationstoppene, som opstår på grund af udsving  
+
+ forårsaget af mange forskellige faktorer (udsving i udledningen, udsving i  
+
+ vandføring  
+
+ m.m.m.), betragtes som en korttidseksponering  
+
+ til forhøjede koncentrationer.
+I  
+
+ praksis har amtsrådene ofte ringe mulighed for at anstille  
+
+ laboratorieundersøgelser  
+
+ af  
+
+ stoffers  
+
+ potentielle  
+
+ miljøskadelighed og miljømæssige skæbne.
+Fastsættelsen af  
+
+ vandkvalitetskriterier må derfor oftest baseres på litteraturværdier, som  
+
+ typisk findes ved opslag i internationale fagdatabaser.
+En oversigt over de  
+
+ mest brugte fagdatabaser og opslagsværker findes i bilag 2.
+ Når  
+
+ der findes en EU eller OECD risikovurderingsrapport, bruges data og  
+
+ vurderingen  
+
+ derfra som udgangspunkt for beregning af vandkvalitetskriteriet.
+ I  
+
+ henhold til vandrammedirektivet  
+
+  vil  
+
+ der også skulle beregnes kvalitetskriterier for koncentrationen af stoffer i  
+
+ vandlevende dyr og planter (  
+
+ biota  
+
+ ) og i  
+
+ bundaflejringer (sediment). Vandrammedirektivet23)  
+
+ angiver, at der  
+
+ skal anvendes samme metode for  
+
+ biota  
+
+ og sediment, som  
+
+ er givet i EU risikovurderingens   
+
+ Technical  
+
+ Guidance  
+
+ Document  
+
+  (TGD)  
+
+  men indtil videre savnes der  
+
+ metoder til måling og beregning af disse, og der forventes ikke vedtaget  
+
+ fælles  
+
+ EU retningslinier på området foreløbigt.
+ For  
+
+ at afklare detaljer og fortolkningsspørgsmål om miljømål og regulering af  
+
+ prioriterede stoffer, har EU kommissionen  
+
+ jævnfør  
+
+ vandrammedirektivets  
+
+ (VRD)28)  
+
+ artikel 16, stk. 5,  
+
+ nedsat en arbejdsgruppe  
+
+ (med ekspertundergrupper), der rådgiver EU kommissionen med hensyn til  
+
+ fastsættelsen af vandkvalitetskriterier for de prioriterede stoffer (EAF  
+
+ ). Igennem denne gruppes arbejde lægges  
+
+ der således en fælles EU-linie for den mere detaljerede metodik ved  
+
+ fastsættelse  
+
+ af vandkvalitetskriterier.
+ Denne  
+
+ vejledning lægger sig op ad VRD, TGD og EAF.
+Ny  
+
+ viden og metoder ændrer hele tiden grundlaget for kvalitetskriterierne.
+Hvis  
+
+ sådan ny viden skulle medføre, at et  
+
+ kvalitetskriterie  
+
+ ville blive ændret med en faktor på 10 eller mere, bør det revideres.
+Dette  
+
+ vil  
+
+ f.eks. typisk kunne ske i forbindelse med revision af regionplanerne.
+1.4. Vejledningens opbygning og indhold Vejledningen  
+
+ beskriver de metoder og principper, der skal anvendes ved beregning af  
+
+ vandkvalitetskriterier.
+ I  
+
+ afsnit 2 omtales datagrundlaget, som anvendes som udgangspunkt for arbejdet.  
+
+ Data hentes primært fra internationale og nationale risikovurderinger,  
+
+ databaser og originalartikler.
+I  
+
+ afsnit 3 beskrives den faglige beregningsmetode til fastsættelse af  
+
+ vandkvalitetskriterier, herunder  
+
+ korttidskvalitetskriterier  
+
+ (afsnit 3.6) Afsnit  
+
+ 4 indeholder en skabelon til dokumentation og beregning af  
+
+ kvalitetskriterier.
+ I  
+
+ afsnit 5 er der en ordforklaring.
+ Vejledningen  
+
+ indeholder endvidere tre bilag:
+ -  
+
+ 	  
+
+ I bilag 1 er givet de  
+
+ overvejelser, som ligger bag definitionen på  
+
+ korttidskvalitetskriteriet.
+ -  
+
+ 	  
+
+ Bilag 2 er en liste  
+
+ over de hyppigst anvendte opslagsværker og databaser.
+ -  
+
+ 	  
+
+ Bilag 3 indeholder en  
+
+ række beregningseksempler.
+1.5 Konsekvenser i forhold til tidligere praksis Denne  
+
+ vejledning, som er baseret på vandrammedirektivet og EU's   
+
+ Technical  
+
+ Guidance  
+
+ Document  
+
+   
+
+ erstatter de retningslinier for udarbejdelse af vandkvalitetskriterier som  
+
+ anbefales i Miljøprojekt 250, som  
+
+ bygger på de hidtidige retningslinier givet af EU's videnskabelige komité for  
+
+ toksikologi og økotoksikologi (CSTE).
+ Det  
+
+ har siden 1996 været dansk praksis at følge anbefalingerne i Miljøprojekt  
+
+ 250.
+ Vejledningen  
+
+ medfører ikke krav til fastsættelse af kvalitetskriterier for flere stoffer  
+
+ end  
+
+ tidligere, idet lovgrundlaget og forpligtelserne i relation til EU er  
+
+ uændrede.
+ Beregningsmetoden  
+
+ er ændret, så den passer overens med den metode, der anvendes i forbindelse  
+
+ med  
+
+ de prioriterede stoffer i relation til vandrammedirektivet, og dermed også er  
+
+ på linie med EU's risikovurderingsprincipper.
+ De  
+
+ grundlæggende principper er dog de samme som tidligere, og det skønnes, at  
+
+ vandkvalitetskriterier beregnet efter den nye metode oftest vil ligge tæt på  
+
+ vandkvalitetskriterier beregnet efter den hidtidige metode.
+ For  
+
+ havvand vil den nye metode dog føre til noget skærpede værdier i de tilfælde,  
+
+ hvor der ikke haves tilstrækkeligt med data for havorganismer.
+2. Data 2.1 Datatype Relevante  
+
+ økotoksikologiske  
+
+ data er ECx  
+
+  og NOEC  
+
+  værdier fra længerevarende forsøg  
+
+ samt værdier for akut giftighed dvs.
+EC50  
+
+ og LC50  
+
+  værdier fra korttidsforsøg.  
+
+ Typiske eksponeringstider er 24  96 timer i korttidsforsøgene og mindst  
+
+ 7 dage  
+
+ i de længerevarende forsøg (for alger benyttes dog NOEC fra samme forsøg som  
+
+ EC50  
+
+ er bestemt ud fra, dvs. fra korttidsforsøg med hæmning af den specifikke  
+
+ vækstrate, fordi algerne har så kort generationstid).
+ Relevante  
+
+ sundhedsdata er oplysninger om kræftfremkaldende effekt, mutageneffekt og  
+
+ reproduktionsskadende effekter (skader på forplantningen)  
+
+ (henholdsvis  
+
+ carc., mut.  
+
+ og  
+
+ rep  
+
+ ) samt oplysninger om andre alvorlige kroniske effekter.  
+
+ Sådanne oplysninger stammer normalt fra laboratorieundersøgelser med  
+
+ forsøgsdyr  
+
+ (sædvanligvis pattedyr), men kan også stamme fra befolkningsundersøgelser.
+ Hvis  
+
+ et stof ikke er  
+
+ letnedbrydeligt  
+
+ og forventes at kunne  
+
+ bioakkumuleres, vil oplysninger om giftighed ved  
+
+ oralt indtag for f.eks. mennesker, pattedyr eller fugle være relevant,  
+
+ herunder  
+
+ ADI og TDI-værdier.  
+
+ Sådanne værdier fastsættes af myndigheder involveret i fødevaresikkerhed.
+ Til  
+
+ brug for vurderingen af muligheden for længerevarende effekter, herunder  
+
+ effekter  
+
+ via fødekæden, søges der også data for bioakkumulering og nedbrydelighed,  
+
+ dvs.  
+
+ log  
+
+ Kow, BCF, BMF  
+
+  og graden af nedbrydelighed i  
+
+ vand.
+2.2 Arter Artsgrupperne  
+
+ nævnt i tabellerne i afsnit 3 er det såkaldte basissæt af arter,  
+
+ men data for  
+
+ andre vandlevende arter kan også bruges.
+2.3 Datasøgning og dataevaluering Hvis  
+
+ der findes risikovurderinger foretaget af myndighederne (EUs  
+
+ risikovurderingsrapporter  
+
+  for  
+
+ eksisterende og nye stoffer, EU-baggrundsrapporter brugt ved godkendelsen af  
+
+ bekæmpelsesmidler, OECD-risikovurderingsrapporter  
+
+ osv.), da bruges, som udgangspunkt, de validerede værdier  
+
+  fra disse rapporter.
+ Hvis  
+
+ der ikke findes sådanne risikovurderingsrapporter, bruges alle relevante  
+
+ data,  
+
+ medmindre disse kan diskvalificeres.
+ Ved  
+
+ udarbejdelse af kvalitetskriterier skal der anvendes en strategi for  
+
+ datasøgning, der også indeholder en evaluering af datakvaliteten.
+I  
+
+ TemaNord, 1995:581,  
+
+ afsnit 4, er der nævnt en række datakilder og en trinvis strategi for  
+
+ datasøgning,  
+
+ hvor søgningen kan udvides i fire trin, afhængig af om der er fundet  
+
+ tilstrækkelige data.
+Strategien for søgning af data følges i  
+
+ TemaNord-rapporten  
+
+ af et system til vurdering af kvaliteten  
+
+ af data, som bl.a. afhænger af, om data er tilvejebragt efter standardiseret  
+
+ metode.  
+
+ Opmærksomheden skal endvidere henledes på, at flere datakilder i dag er  
+
+ tilgængelige via Internettet.
+For eksempel er den væsentligste  
+
+ økotoksikologiske  
+
+ database for enkeltstoffers effekter på  
+
+ vandlevende organismer (AQUIRE, nu indeholdt i ECOTOX) tilgængelig på US-EPA  
+
+ (den amerikanske miljøstyrelse)s  
+
+ internet  
+
+ adresse  
+
+ http://www.epa.gov/ecotox/ TemaNord, 1995:581, afsnit 5, indeholder endvidere vejledning vedrørende  
+
+ fortolkning af  
+
+ økotoksikologiske  
+
+ data, især med  
+
+ hensyn til fortolkning af  
+
+ økotoksikologiske  
+
+ data for  
+
+ svært opløselige stoffer, og andre test for  
+
+ bionedbrydelighed  
+
+ end test for let  
+
+ bionedbrydelighed  
+
+ (se også afsnit  
+
+ 2.6 om nedbrydelighed). På trods af, at vejledningen i  
+
+ TemaNord  
+
+ sigter mod klassificering og mærkning af stoffer for deres miljøfare, kan  
+
+ søgnings- og fortolkningsprincipperne med fordel anvendes som hjælp ved  
+
+ udarbejdelse af en strategi for søgning af miljødata for kemiske stoffer til  
+
+ f.eks. beregning af vandkvalitetskriterier.
+ Når  
+
+ der mangler data, kan man overveje at bruge  
+
+ QSAR-beregninger  
+
+ (se afsnittet om QSAR, afsnit 2.5).
+ Ved  
+
+ valget af data skal man bl.a. vurdere en række en række forhold som:
+Forsøgets varighed  
+
+  
+
+ i forhold til organismens  
+
+ livscyklus.
+For korttidsforsøg vil f.eks. standarden for dyr som  
+
+ Daphnia  
+
+ være 48 timer, for fisk, rejer og lignende 96  
+
+ timer, for encellede alger 72-96 timer osv.
+Standardtests nævnt i bilagene  
+
+ til  
+
+ hvert kapitel i  
+
+ OECDs  
+
+ rapport nr. 27  
+
+  fra serien Series  
+
+ on  
+
+ Testing and  
+
+ Assessment  
+
+  er her  
+
+ en udmærket rettesnor.
+Angivelse af   
+
+ endpoints  
+
+   
+
+  
+
+ (mål for effekten). Det bør være helt klart, hvad  
+
+ det er der er blevet målt.
+For eksempel er det ikke nok, at det angives, at  
+
+ effekten ved en given koncentration var dødelighed, man skal også kende  
+
+ størrelsen af dødeligheden, dvs. hvor mange procent, der døde (LC10, LC50  
+
+ osv.).
+Målte eller ikke målte  
+
+ koncentrationer.
+Er koncentrationen i vandet blevet målt gennem forsøget,  
+
+ eller er den  
+
+ angivne koncentration den mængde, der er tilsat vandet per liter (nominel  
+
+ koncentration)? Hvis der er tale om nominel koncentration, betyder det, at  
+
+ koncentrationen i vandet er lig med eller lavere end angivet.
+Generelt  
+
+ bør man gennemgå originallitteraturen for den værdi, som bliver  
+
+ udslagsgivende,  
+
+ dersom der er usikkerhed omkring værdien.
+Usikkerheden kan f.eks. skyldes  
+
+ mangelfuldt datagrundlag, tilsyneladende afvigende værdier osv.
+Hvis den  
+
+ udslagsgivende  
+
+ værdi ligger tæt på de øvrige værdier, dvs. at kvalitetskriteriet ikke ville  
+
+ ændres væsentligt, om værdien diskvalificeres, vil det oftest ikke være  
+
+ umagen  
+
+ værd at gennemgå originallitteraturen.
+ En  
+
+ oversigt over de mest brugte fagdatabaser og opslagsværker findes i bilag 2.  
+
+ I  
+
+ denne liste findes også oplysninger om de vigtigste værker til søgning af  
+
+ data  
+
+ for sundhedseffekter.
+2.4 Manglende data I  
+
+ et vist omfang kompenseres der for manglende data ved at anvende en større  
+
+ usikkerhedsfaktor.
+ Ofte  
+
+ vil man kunne supplere med  
+
+ QSAR-skøn  
+
+ over effekterne,  
+
+ se nedenfor.
+Hvis  
+
+ der er oplysninger om effekten af andre stoffer, der ligner det aktuelle stof  
+
+ i  
+
+ struktur, kan man overveje, om det vil være muligt at bruge data for de  
+
+ lignende stoffer.
+Her kan man evt. bruge QSAR til at vurdere, om det er  
+
+ sandsynligt at stofferne vil ligne hinanden med hensyn til deres  
+
+ toksikologiske  
+
+ egenskaber.
+2.5 QSAR Når  
+
+ der mangler oplysninger om et stofs egenskaber, kan man overveje at bruge  
+
+ computerprogrammer til forudsigelse af disse ((Q)SAR  
+
+ ).
+ I  
+
+ hvert enkelt tilfælde skal det vurderes, om den givne QSAR er anvendelig,  
+
+ f.eks.: Hvor mange talsæt er den baseret på? Er stoffet indenfor  
+
+ QSARens  
+
+ domæne osv. (se 2.5.4).
+2.5.1 Akut giftighed overfor organismer, der lever i  
+
+ vand Man  
+
+ bør være opmærksom på, at mange  
+
+ QSARer  
+
+ vedrørende  
+
+ giftighed kun kan forudsige basal giftighed (baseline  
+
+ toxicity  
+
+ ),  
+
+ og ikke kan forudsige giftigheden af mere specifikt virkende stoffer.
+F.eks.  
+
+ er  
+
+ bekæmpelsesmidler generelt specifikt virkende, men det gælder også en lang  
+
+ række industrikemikalier.
+Tag  
+
+ som et eksempel et stof, der kun har oplysning om giftigheden over for fisk,  
+
+ LC50.  
+
+ Man kan så prøve at supplere med  
+
+ QSAR-forudsigelser  
+
+ af den akutte giftighed overfor krebsdyr og alger, og selvsagt iagttage de  
+
+ forbehold, som er angivet ovenfor.
+Derudover bør man vurdere om de forudsagte  
+
+ effektkoncentrationer for disse to grupper er væsentligt forskellige fra de  
+
+ målte LC50-værdier for fisk.
+Hvis de er det, er det så at forvente? F.eks.  
+
+ vil  
+
+ man forvente, at et herbicid er mere giftigt over for alger end over for fisk  
+
+ og krebsdyr.
+Endelig kan det være en god ide at lave en  
+
+ QSAR-forudsigelse  
+
+ af giftigheden over for fisk til sammenligning med den målte værdi, for at få  
+
+ en fornemmelse af, om dette stof skulle være svært at modellere.
+Med  
+
+ hensyn til forudsigelse af giftighed anbefales det kun at anvende  
+
+ QSAR-forudsigelser  
+
+ for akut giftighed, ikke for kroniske  
+
+ effekter.
+Hvis der således f.eks. er EC50  
+
+ -værdier for fisk, krebsdyr  
+
+ og alger, kan man ikke supplere med  
+
+ QSAR-forudsigelser  
+
+ af  
+
+ NOEC-værdierne  
+
+ og mindske usikkerhedsfaktoren.
+2.5.2 Mulighed for bioakkumulering QSAR-forudsigelser  
+
+ af log Kow  
+
+  regnes  
+
+ normalt som ganske pålidelige.
+Man skal dog være opmærksom på, at der kan  
+
+ være  
+
+ visse stofgrupper, der er vanskelige i denne henseende.
+F.eks. er  
+
+ azofarvestoffer  
+
+ meget lidt opløselige i både vand og  
+
+ n-octanol, og visse stoffer akkumuleres i andre væv end i  
+
+ fedtvæv, hvorved log  
+
+ Kow  
+
+ dårligt afspejler  
+
+ muligheden for bioakkumulering.
+ Miljøstyrelsen  
+
+ anser for øjeblikket ikke  
+
+ QSAR-forudsigelser  
+
+ af BCF  
+
+ for tilstrækkeligt sikre og anbefaler at QSAR kun bruges til forudsigelse af  
+
+ log  
+
+ Kow  
+
+ værdier.
+2.5.3 Nedbrydelighed De  
+
+ i øjeblikket tilgængelige  
+
+ QSAR-modeller  
+
+ har en  
+
+ relativt god forudsigelse af ikke let nedbrydelighed, men en  
+
+ dårlig forudsigelse  
+
+ af  
+
+ let  
+
+ nedbrydelighed. (For definitioner se 2.6) Dette  
+
+ er således tilfældet for  
+
+ EPI-Suites  
+
+ nedbrydningsmodeller (se under 2.5.4), hvilket betyder at modellen generelt  
+
+ er  
+
+ velegnet til forudsigelse  
+
+ af  
+
+ ikke  
+
+ let nedbrydelighed, men ikke af let nedbrydelighed 2.5.4  
+
+ QSAR-modeller Miljøstyrelsen  
+
+ har udviklet en række  
+
+ QSAR-modeller  
+
+ i programmet  
+
+ MULTICASE, som også kan forudsige effekten af specifikt virkende  
+
+ stoffer.  
+
+ Disse modeller giver også oplysning om et stof er udenfor modellens domæne,  
+
+ dvs. om modellen kender den type stoffer, hvilket f.eks.  
+
+ EPI-Suite  
+
+ modelpakken ikke gør som en del af forudsigelserne.
+I  
+
+ EPI-Suite  
+
+ modellerne kan man dog i visse tilfælde under  
+
+ hjælp funktionen se om stoffet f.eks. har en log  
+
+ Kow,  
+
+ der falder indenfor modellens område.
+Samme sted kan man også finde andre  
+
+ oplysninger  
+
+ om den givne model (eller modeller), bl.a. antallet af data den er baseret  
+
+ på.
+ En  
+
+ nærmere beskrivelse af MULTICASE modellerne kan ses i Miljøstyrelsens  
+
+ vejledende liste til selvklassificering.
+ Miljøstyrelsen  
+
+ vil i 2004/2005 gøre resultatet af  
+
+ QSAR-beregninger  
+
+ for miljøeffekter for et stort antal stoffer på EU's EINECS liste  
+
+ tilgængeligt  
+
+ på  
+
+ internettet.
+ Den  
+
+ for tiden lettest tilgængelige pakke af  
+
+ QSAR-programmer  
+
+ er  
+
+ USAs  
+
+ miljøstyrelses (EPA) EPI-Suite.
+2.6 Nedbrydelighed Der  
+
+ bruges resultater fra tests for let nedbrydelighed (  
+
+ ready  
+
+ biodegradability  
+
+ ) med mikroorganismer, der ikke er  
+
+ tilpasset (præadapteret) det stof, hvis nedbrydelighed undersøges.
+Generelt  
+
+ betragtes et stof som let nedbrydeligt, hvis der i en undersøgelse over 28  
+
+ dage  
+
+ opnås  
+
+ 70%  
+
+ mineralisering  
+
+ baseret på opløst kulstof eller 60%  
+
+ mineralisering  
+
+ baseret på iltforbrug eller kultveilteproduktion.
+Se endvidere  
+
+ klassificeringsbekendtgørelsen, bilag  
+
+ 1, afsnit 4.2.1.4, TGD  
+
+  afsnit  
+
+ 2.3.6.5 samt OECD-rapporter nr. 23 og 27.
+ Når  
+
+ der ikke er tilgængelige oplysninger om nedbrydelighed, og det ikke er muligt  
+
+ at udføre en  
+
+ QSAR-forudsigelse, antages stoffet at  
+
+ være ikke let nedbrydeligt.
+2.7 Andre typer af data/information Ud  
+
+ over de  
+
+ økotoksikologiske  
+
+ data er det relevant at  
+
+ skaffe oplysninger om langtidseffekter på sundheden som f.eks. alvorlige  
+
+ kroniske giftvirkninger i pattedyr, kræftfremkaldende egenskaber,  
+
+ mutagenicitet, effekter på forplantningen, hormonforstyrrende  
+
+ effekter m.m..
+ Stoffer,  
+
+ som man i EU har diskuteret og har besluttet skal klassificeres, findes på  
+
+ listen over farlige stoffer, hvor  
+
+ stoffernes sundheds- og miljøfareklassificering er vist.
+Yderligere  
+
+ kilder på sundhedsområdet findes i bilag 2 samt i klassificeringsvejledningen 2.8 Betydende cifre Med  
+
+ de usikkerheder, der er forbundet med beregningen af vandkvalitetskriterier,  
+
+ giver det ikke megen mening at operere med adskillige betydende cifre.
+I EU's  
+
+ risikovurderinger anvendes oftest 2 betydende cifre, hvilket derfor vælges  
+
+ her.  
+
+ Værdierne rundes således ned til nærmeste 2 betydende cifre.
+2.9 Testmetoder Data  
+
+ fra forsøg udført efter internationalt anerkendte retningslinier som f.eks.  
+
+ standardtestene nævnt i bilagene til hvert kapitel i OECDs rapport nr.  
+
+ 27  
+
+ fra serien Series  
+
+ on  
+
+ Testing and  
+
+ Assessment  
+
+ ,  
+
+ betragtes  
+
+ normalt som kvalitetsdata.  
+
+ Andre undersøgelser kan også benyttes hvis de vurderes at være relevante og  
+
+ af  
+
+ tilstrækkelig god kvalitet.
+Se også afsnit 2.3.
+Man  
+
+ bør være opmærksom på, at stoffer med specielle eller ekstreme egenskaber vil  
+
+ kunne være vanskelige at undersøge med standardtestene.
+Dette må vurderes i  
+
+ hvert enkelt tilfælde.
+3. Beregning af VKK 3.1 Giftighed overfor vandorganismer Vandkvalitetskriteriet  
+
+ (VKK) er som sagt det højeste koncentrationsniveau, hvor det skønnes, at der  
+
+ ikke vil forekomme skader på vandøkosystemer.
+Kvalitetskriteriet skal derfor  
+
+ fastsættes således:
+-  
+
+ 	  
+
+ at  
+
+  
+
+ alle  
+
+  
+
+ livsstadier hos vandlevende  
+
+ organismer tilgodeses -  
+
+ 	  
+
+ at der  
+
+  
+
+ ikke skabes ugunstige betingelser  
+
+  
+
+ , som  
+
+ får disse organismer til at undgå dele af levesteder, hvor de ellers  
+
+ naturligt  
+
+ ville være til stede -  
+
+ 	  
+
+ at der  
+
+  
+
+ ikke sker ophobning  
+
+  
+
+ af stoffer som kan  
+
+ skade levende organismer (incl. mennesket) hverken via fødekæden eller på  
+
+ anden  
+
+ måde -  
+
+ 	  
+
+ at der ikke skabes  
+
+ betingelser, der ændrer økosystemets funktion For  
+
+ en enkelt art, der lever i vand, vil det være  
+
+  
+
+ relativt  
+
+  
+
+ let at skønne, hvor dette koncentrationsniveau ligger.  
+
+ Vandøkosystemer består jo af mængder af arter med komplicerede samspil, og  
+
+ det  
+
+ er ikke muligt at undersøge et stofs påvirkning af alle arterne.
+Det er ofte  
+
+ heller ikke muligt at lave forsøg med de mest følsomme arter, ligesom det  
+
+ ikke  
+
+ er muligt at undersøge et stofs samspil med de mange andre forurenende  
+
+ stoffer,  
+
+ som findes i små koncentrationer i miljøet.
+Den  
+
+ grundlæggende metodik består derfor i at finde så mange oplysninger om et  
+
+ stofs  
+
+ effekt på vandorganismer som muligt, og at finde den laveste koncentration,  
+
+ ved  
+
+ hvilken man har set effekt.
+Denne effektkoncentration (  
+
+ ECxx  
+
+ )  
+
+ divideres med en usikkerhedsfaktor (UF), der kan variere mellem 1 og  
+
+ 10000, afhængigt af, hvor stor usikkerheden er.
+Brugen af  
+
+ faktor 1 vil være yderst sjælden, da det kræver store mængder af  
+
+ højkvalitetsdata, og at man er sikker på, at de mest  
+
+ følsomme arter er repræsenteret.
+Den  
+
+ grundlæggende formel er  
+
+ således:  
+
+ VKK  
+
+ =  
+
+ ECxx  
+
+ :UF Hovedretningslinierne  
+
+ for fastsættelse af usikkerhedsfaktoren ses i tabellerne nedenfor.
+ Denne  
+
+ vejledning bygger på principperne i EU's retningslinier for risikovurdering  
+
+ (TGD), og for en række af detaljernes  
+
+ vedkommende henvises der til  
+
+ TGDen.  
+
+ TGDen  
+
+ bør derfor konsulteres, specielt når det drejer sig  
+
+ om afvigelser fra de standardsituationer, som er vist i tabellerne med  
+
+ usikkerhedsfaktorerne.
+ Hvis  
+
+ der findes en EU- eller OECD-risikovurdering,  
+
+ hvor medlemsstaterne er blevet enige om datas brugbarhed bruges disse som  
+
+ udgangspunkt for beregning af vandkvalitetskriteriet (VKK).
+ Hvis  
+
+ en sådan er beregnet, bruges ligeledes PNEC (  
+
+ predicted  
+
+ no  
+
+ effect  
+
+ concentration  
+
+ ) fra en sådan risikovurdering som basis for  
+
+ VKK, med mindre nye og væsentlige oplysninger taler for noget andet.
+ En  
+
+ PNEC værdi fra en risikovurderingsrapport svarer til en VKK, der ikke er  
+
+ blevet  
+
+ modificeret med en usikkerhedsfaktor for at tage højde for andre faktorer,  
+
+ såsom bioakkumulering, nedbrydelighed, kroniske sundhedseffekter, lugt/smag  
+
+ m.m.. Dvs. at hvis stoffet er let nedbrydeligt, ikke  
+
+ bioakkumuleres,  
+
+ ikke betragtes som kræftfremkaldende osv., så er PNEC = VKK.
+EU-risikovurderinger  
+
+ for bekæmpelsesmidler  
+
+  og  
+
+ veterinærmedicin følger lidt andre principper end dem for andre stoffer, hvor  
+
+ risikovurderingerne følger retningslinierne i  
+
+ Technical  
+
+ Guidance  
+
+ Document  
+
+ (TGD). Da  
+
+ Vandrammedirektivet henviser til  
+
+ TGDen, er det denne  
+
+ der er grundlaget for  
+
+ VKK-beregningerne.
+Dette  
+
+ betyder at EU-risikovurderinger for bekæmpelsesmidler og  
+
+ veterinærmedicin  
+
+ ikke  
+
+ bruges direkte, men at de  
+
+ kvalitetsvurderede data og værdier fra rapporten danner grundlaget for  
+
+ beregning  
+
+ af VKK i henhold til vandrammedirektivet og  
+
+ TGDen.
+ Når  
+
+ der ikke findes en risikovurdering, følges proceduren som beskrevet nedenfor.
+Den  
+
+ grundlæggende metode er at bruge en usikkerhedsfaktor (UF = AF  
+
+ ), hvis størrelse er afhængig af  
+
+ antallet og kvaliteten af data.
+Laveste EC50 eller NOEC (  
+
+ ECx  
+
+ )  
+
+  divideres med usikkerhedsfaktoren  
+
+ (UF) i henhold til nedenstående skemaer fra TGD.
+Hvis der fra en art er mere  
+
+ end 3 EC50 eller NOEC værdier fra forsøg udført under samme forhold, bruges  
+
+ det  
+
+ geometriske gennemsnit i overensstemmelse med det globalt harmoniserede  
+
+ system  
+
+ for klassificering (  
+
+ appendix  
+
+ 8 afsnit A8.3.4.3): http://www.unece.org/trans/danger/publi/ghs/ghs.html Dersom  
+
+ der kun haves værdier for ferskvandsorganismer, bruges der en faktor 10  
+
+ ekstra  
+
+ ved beregning af kvalitetskriteriet i saltvand.
+I  
+
+ TGDen  
+
+ gives følgende begrundelse for dette:   
+
+ the  
+
+ greater  
+
+ species  
+
+ diversity  
+
+ in  
+
+ the  
+
+ marine  
+
+ environment,  
+
+ compared  
+
+ to  
+
+ freshwaters,  
+
+ including  
+
+ the  
+
+ presence  
+
+ of  
+
+ a  
+
+ number  
+
+ of  
+
+ taxa  
+
+ that  
+
+ occur  
+
+ only  
+
+ in  
+
+ that  
+
+ environment,  
+
+ may  
+
+ mean  
+
+ that  
+
+ the  
+
+ distribution  
+
+ of  
+
+ sensitivities  
+
+ of  
+
+ species is  
+
+ broader  
+
+ (den  
+
+ større  
+
+ artsdiversitet  
+
+ i havmiljøet sammenlignet med  
+
+ ferskvandsmiljøet, herunder at der er et antal højere systematiske grupper,  
+
+ der  
+
+ kun findes i havmiljøet, kan betyde, at fordelingen af arternes følsomhed er  
+
+ bredere.).
+Oversigt over usikkerhedsfaktorer (UF) Ferskvand UF Mindst en  
+
+ korttids  
+
+ E(L)C50  
+
+ for hver af de tre  
+
+ trofiske  
+
+ niveauer i basissættet  
+
+ (Basissættet = EC50  
+
+ værdier for fisk, krebsdyr, alger) 1000 Basissættet samt en  
+
+ langtids-NOEC  
+
+ eller ECx  
+
+  (enten  
+
+ fisk eller  
+
+ Daphnia  
+
+ eller en organisme der  
+
+ repræsenterer havmiljøet) 100 Basissættet samt to  
+
+ langtids-NOEC  
+
+ eller  
+
+ ECx  
+
+ for arter der repræsenterer to  
+
+ trofiske  
+
+ niveauer (fisk og/eller  
+
+ Daphnia  
+
+ eller en organisme, der repræsenterer havmiljøet  
+
+ og/eller alger) 50 Basissættet samt langtids  
+
+ NOECer  
+
+ eller  
+
+ ECx  
+
+ er  
+
+ for mindst tre arter  
+
+ (normalt fisk,  
+
+ Daphnia  
+
+ eller en organisme, der  
+
+ repræsenterer havmiljøet og alger), der repræsenterer tre  
+
+ trofiske  
+
+ niveauer 10 Fordelingsmodel af arternes følsomhed (Species  
+
+ sensitivity  
+
+ distribution (SSD)) (mindst 10  
+
+ NOECer  
+
+ eller  
+
+ ECx  
+
+ er  
+
+ for mindst 8 højere taksonomiske grupper) 1-5 Vurderes nøje fra  
+
+ sag til sag Andre tilfælde,  
+
+ bl.a. feltdata eller eksperimentelle modeløkosystemer Vurderes fra sag  
+
+ til sag Saltvand (Danske fjorde regnes generelt for  
+
+ saltvandsområder) UF Laveste  
+
+ korttids  
+
+ E(L)C50  
+
+ for ferskvands eller saltvands repræsentanter for tre taksonomiske grupper  
+
+ (alger, krebsdyr og fisk) fra tre  
+
+ trofiske  
+
+ niveauer 10000 Laveste  
+
+ korttids-E  
+
+ (L)C50  
+
+ for ferskvands eller saltvands repræsentanter for tre taksonomiske grupper  
+
+ (alger, krebsdyr og fisk) fra tre  
+
+ trofiske  
+
+ niveauer, + yderligere to marine taksonomiske grupper (f.eks.  
+
+ pighude  
+
+ og bløddyr) 1000 Basissættet samt en  
+
+ langtids-NOEC  
+
+ eller ECx  
+
+  for  
+
+ ferskvands eller saltvands krebsdyr reproduktions- eller fiske vækstforsøg 1000 Basissættet  
+
+ samt  
+
+ to  
+
+ langtids  
+
+ NOECer  
+
+ eller  
+
+ ECxer  
+
+ for ferskvands eller saltvands arter  
+
+ repræsenterende to  
+
+ trofiske  
+
+ niveauer (alger  
+
+ og/eller krebsdyr og/eller fisk) 500 Basissættet  
+
+ samt  
+
+ laveste  
+
+ langtids-NOECer  
+
+ eller  
+
+ ECx  
+
+ er  
+
+ for tre ferskvands eller  
+
+ saltvands arter (normalt alger og/eller krebsdyr og/eller fisk)  
+
+ repræsenterende tre  
+
+ trofiske  
+
+ niveauer 100 Basissættet  
+
+ samt  
+
+ to  
+
+ langtids-NOECer  
+
+ eller  
+
+ ECx  
+
+ er  
+
+ for ferskvands eller  
+
+ saltvands arter repræsenterende to  
+
+ trofiske  
+
+ niveauer  
+
+ (alger og/eller krebsdyr og/eller fisk) + en  
+
+ langtids-NOEC  
+
+ eller  
+
+ ECx  
+
+ for yderligere en marin  
+
+ taksonomisk gruppe (f.eks.  
+
+ pighude, bløddyr) 50 Basissættet  
+
+ samt  
+
+ laveste  
+
+ langtids  
+
+ NOECer  
+
+ eller  
+
+ ECx  
+
+ er  
+
+ for tre ferskvands eller  
+
+ saltvands arter (normalt alger og/eller krebsdyr og/eller fisk)  
+
+ repræsenterende tre  
+
+ trofiske  
+
+ niveauer + to  
+
+ langtids-NOECer  
+
+ eller  
+
+ ECxer  
+
+ for yderligere marine taksonomiske grupper  
+
+ (f.eks.  
+
+ pighude, bløddyr) 10 Fordelingsmodel af arternes følsomhed (Species  
+
+ sensitivity  
+
+ distribution (SSD)) (mindst 10  
+
+ NOECer  
+
+ eller  
+
+ ECx  
+
+ er  
+
+ for mindst 8 højere taksonomiske grupper) 1-5 Vurderes nøje fra  
+
+ sag til sag Andre tilfælde61), bl.a. feltdata eller  
+
+ eksperimentelle modeløkosystemer Vurderes fra sag  
+
+ til sag Som  
+
+ vist i tabellerne kan statistiske fordelingsmetoder også anvendes, om man har  
+
+ tilstrækkeligt med NOEC- eller  
+
+ ECx-  
+
+ værdier  
+
+ (  
+
+ TGDen  
+
+ nævner 10 værdier dækkende 8 større  
+
+ systematiske grupper). Se nærmere i  
+
+ TGDens  
+
+ afsnit  
+
+ 3.3.1.2.
+ Usikkerhedsfaktorerne  
+
+ vist i tabellerne ovenfor er dem, der tages udgangspunkt i, og de kan så evt.  
+
+ modificeres, hvis andre forhold retfærdiggør dette.  
+
+ TGDen  
+
+ nævner under fire pinde følgende forhold, som bl.a. kan  
+
+ retfærdiggøre en  
+
+ ændring af usikkerhedsfaktorerne i tabellerne (  
+
+ TGDens  
+
+ tabel 16 i afsnit 3.3.1.1):
+ -  
+
+ 	  
+
+ Oplysninger fra andre  
+
+ stoffer, der strukturelt ligner det pågældende stof.
+-  
+
+ 	  
+
+ Viden om virkemåde,  
+
+ herunder  
+
+ genotoksiske  
+
+ og hormonforstyrrende  
+
+ egenskaber.
+F.eks. hvis en given kemisk struktur medfører en specifik  
+
+ virkemekanisme.
+ -  
+
+ 	  
+
+ Tilgængelighed af  
+
+ værdier fra forsøg med et bredt udvalg af arter dækkende yderligere  
+
+ taksonomiske  
+
+ grupper ud over basis sættet (der består af EC50  
+
+ værdier for fisk,  
+
+ krebsdyr og alger).
+-  
+
+ 	  
+
+ Tilgængelighed af  
+
+ værdier fra forsøg med et antal arter dækkende basis sættet og mindst tre  
+
+ trofiske  
+
+ niveauer.
+En evt. mindskelse  
+
+ af  
+
+ UF  
+
+ kan kun ske, hvis der er et forøget  
+
+ antal af sådanne værdier fra den mest følsomme af de taksonomiske grupper.
+ Se  
+
+ endvidere i  
+
+ TGDens  
+
+ afsnit 3.3.1 og 4.3.1.3 og i  
+
+ noterne til dens tabeller 16 og 25 hvor der er yderligere en del  
+
+ retningslinier  
+
+ for modificering af UF.
+Et  
+
+ eksempel, hvor UF kan ændres, er, hvor der er et stort antal (f.eks. 10)  
+
+ EC50  
+
+ -værdier  
+
+ dækkende flere overordnede taksonomiske grupper end bare dem fra basissættet,  
+
+ men ingen  
+
+ NOEC-værdier.
+Her vil man kunne sænke UF,  
+
+ f.eks. fra faktor 1000 til 100, med mindre der er egenskaber, der taler imod  
+
+ dette som f.eks. tendens til bioakkumulering og  
+
+ persistens,  
+
+ langtidssundhedseffekter,  
+
+ homonlignende  
+
+ egenskaber  
+
+ m.m..
+ Dette  
+
+ er også i overensstemmelse med anbefalingerne fra EU's videnskabelige komité  
+
+ for toksikologi og økotoksikologi (CSTE  
+
+ ),  
+
+ der anbefalede at anvende faktor 100 på laveste EC50, hvis der  
+
+ haves  
+
+ en omfattende mængde af EC50er.
+I  
+
+ tilfælde, hvor det er højst sandsynligt, at man har data for en af de mest  
+
+ følsomme grupper, kan man ligeledes overveje at sænke faktoren, typisk med  
+
+ faktor 10. Dette vil f.eks. være tilfældet når det drejer sig om et  
+
+ insekticid,  
+
+ hvor man vil forvente, at leddyrene er de mest følsomme.
+Det kræver dog, at  
+
+ der  
+
+ faktisk er markant forskel i følsomhed mellem den mest følsomme gruppe og de  
+
+ andre grupper, f.eks. en faktor større end 10.  
+
+ QSAR-modeller,  
+
+ som kan modellere den specifikke virkning af et stof, vil kunne bruges som  
+
+ støtte  
+
+ i denne vurdering (US EPAs ECOSAR, som findes i deres  
+
+ QSAR-pakke  
+
+ EPI-Suite, vil oftest ikke kunne  
+
+ bruges til denne type stoffer, mens Miljøstyrelsens  
+
+ Multicase-modeller  
+
+ kan forudsige effekter af specifikt virkende stoffer). Det kræver endvidere,  
+
+ at  
+
+ man mindst har data for basissættet (EC50 for alger, krebsdyr og fisk).
+I  
+
+ de følgende afsnit er der angivet en række forhold, som kan ændre  
+
+ usikkerhedsfaktorens størrelse.
+Et givent forhold vil trække i en  
+
+ bestemt  
+
+ retning, dvs.  
+
+  
+
+ alt andet lige  
+
+  
+
+ vil det  
+
+ medføre at UF f.eks. øges med faktor 10. Det vil altid være alt andet lige,  
+
+ fordi man skal holde det op imod de øvrige forhold, som vist i eksemplet  
+
+ ovenfor, hvor tilstedeværelsen af mange data medfører lavere UF, medmindre  
+
+ det  
+
+ f.eks. er  
+
+ bioakkumulerende  
+
+ og  
+
+ persistent.  
+
+ Derfor bruges vendingen i det følgende, at det bør overvejes  .
+3.2 Bioakkumulering og nedbrydelighed Ifølge  
+
+ vandrammedirektivet skal muligheden for bioakkumulering og  
+
+ persistens  
+
+ tages i betragtning ved fastsættelsen af VKK.
+ I  
+
+ tilfælde, hvor der findes oplysninger om giftighed over for pattedyr og/eller  
+
+ fugle (når de spiser det) og/eller ADI og/eller TDI  
+
+  samt  
+
+ biokoncentrationsfaktoren  
+
+ og  
+
+ biomagnifikationsfaktoren  
+
+ (BCF og BMF  
+
+ ), vil det være muligt at beregne en  
+
+ PNECsec.pois.w  
+
+ og/eller PNEChhw.  
+
+  Disse værdier sammenlignes med  
+
+ VKK, som er baseret udelukkende på giftigheden for vandorganismer, og den  
+
+ laveste af disse tre værdier bruges som det endelige VKK.  
+
+ PNECsec.pois.w  
+
+ og  
+
+ PNEChhw  
+
+ anses for i tilstrækkeligt  
+
+ omfang at inddrage muligheden for bioakkumulering og opkoncentrering i  
+
+ fødekæden  
+
+ samt  
+
+ persistensen.
+ PNECsec.pois.w  
+
+ og  
+
+ PNEChhw  
+
+ beregnes kun, dersom BCF  
+
+³  
+
+  
+
+ 100 eller log  
+
+ Pow  
+
+³  
+
+  
+
+ 3 (Hvis man har en BCF  
+
+ bruges den).
+ Hvis  
+
+ der findes flere BCF- og/eller  
+
+ BMF-værdier, bruges  
+
+ den højeste af disse.
+ Beregningerne  
+
+ foretages i overensstemmelse med  
+
+ TGDens  
+
+ afsnit 3.8.3  
+
+ (  
+
+ Effects  
+
+ assessment  
+
+ for  
+
+ bioaccumulation  
+
+ and  
+
+ secondary  
+
+ poisoning  
+
+ ) og baseres overordnet på følgende sammenhæng:
+Koncentrationen  
+
+ i rovdyrets føde (mg/  
+
+ kg)  
+
+ = (koncentrationen  
+
+ i vandet (mg/l)) *BCF*BMF.
+ Det  
+
+ betyder at den koncentration i vandet, der skønnes ikke at have negative  
+
+ effekter på rovdyrene (  
+
+ PNECsec.pois.w  
+
+ ), er  
+
+ lig med den koncentration i rovdyrets føde, der skønnes ikke at have effekt  
+
+ på  
+
+ rovdyrene (  
+
+ PNECoral  
+
+ ) divideret med BCF og  
+
+ BMF:
+ PNECsec.pois.w  
+
+ = PNECoral  
+
+ /BCF*BMF.
+I  
+
+ saltvand regnes der med yderligere et led i fødekæden, så formlen bliver PNECsec.pois.w  
+
+ = PNECoral  
+
+ /BCF*BMF1*BMF2 PNECoral  
+
+ = NOEC (eller LC50  
+
+ ):UForal, hvor  
+
+ UForal  
+
+ kan ses i tabellen nedenfor, som stammer fra  
+
+ TGDen,  
+
+ tabel 23. NOEC  
+
+  er NOEC fra  
+
+ længerevarende undersøgelser af kronisk giftighed af stoffet i føden for  
+
+ fugle  
+
+ eller pattedyr.
+Værdi  
+
+ for giftighed Varighed  
+
+ af forsøg UForal LC50  
+
+ for fugle 5  
+
+ dage 3000 NOEC  
+
+ for fugle Kronisk 30 NOEC  
+
+ for pattedyr 28  
+
+ dage 90  
+
+ dage kronisk 300 90 30 Hvis  
+
+ der kun findes NOAEL  
+
+  -værdier  
+
+ og ingen NOEC værdier, kan NOEC skønnes udfra NOAEL ved hjælp af nogle  
+
+ omregningsfaktorer, som afhænger af, hvilken dyreart, der er brugt i  
+
+ forsøget.  
+
+ Omregningsfaktorerne fremgår af tabel 22 i  
+
+ TGDen.  
+
+ For mus er den 8,3, og for rotter er den 10 og 20 for forsøg udført i  
+
+ henholdsvis  
+
+£  
+
+  
+
+ 6 uger og >6 uger.
+ BMF1  
+
+ og BMF2 er  
+
+ biomagnifikationsfaktorerne  
+
+ for  
+
+ henholdsvis fisk (primærkonsumenter) og fiskeædere (sekundærkonsumenter).  
+
+ Hvis  
+
+ BMF værdierne ikke er målt, bruges nogle standardværdier, som ses i  
+
+ TGDens  
+
+ tabel 29 (og 21), som er gengivet nedenfor:
+log  
+
+ Kow BCF BMF1  
+
+ (= den BMF som bruges for ferskvandsorganismer) BMF2 <4,5 <2000 1 1 4,5  
+
+ - <5 2000  
+
+  5000 2 2 5  
+
+  8 >5000 10 10 >8  
+
+  9 2000  
+
+  5000 3 3 >9 <2000 1 1 Der  
+
+ regnes med, at organismer, der lever i vand, udgør  
+
+ 100%  
+
+ af rovdyrets føde.
+ For  
+
+ mennesker benyttes samme fremgangsmåde, men der regnes der med, at bidraget  
+
+ til  
+
+ TDI eller ADI fra fisk eller andre organismer, der lever i vand, højest udgør  
+
+ 10%  
+
+ af føden (TDI/10 eller ADI/10).
+ En  
+
+ gennemsnitsborger på 70 kg spiser 115 g fisk eller andre organismer, der  
+
+ lever  
+
+ i vand pr. dag.
+ Ofte  
+
+ vil det ikke være muligt at beregne  
+
+ PNECsec.pois.w  
+
+ og  
+
+ PNEChhw  
+
+ på grund af manglende data  
+
+ eller manglende ekspertise til bl.a. at fastsætte  
+
+ PNECoral,  
+
+ og det vil være relevant i stedet at overveje at bruge en ekstra UF (oftest  
+
+ 10). En ekstra faktor appliceres dersom, der er særlig bekymring for effekter  
+
+ højere op i fødekæden, defineret i dette tilfælde som, at stoffet er både  
+
+ ikke  
+
+ let nedbrydeligt, og at BCF  
+
+³  
+
+  
+
+ 500 eller log  
+
+ Pow  
+
+³  
+
+  
+
+ 4.
+Man  
+
+ bør dog være opmærksom på, om et  
+
+ bioakkumulerbart  
+
+ stof kan tænkes at være virksomt ved meget lave koncentrationer.
+Er dette  
+
+ tilfældet, vil en UF på 10 måske ikke beskytte mod effekter hos  
+
+ rovlevende  
+
+ dyr, og man bør tilstræbe at få skaffet data til  
+
+ beregning af  
+
+ PNECsec.pois.w  
+
+ og/eller  
+
+ PNEChhw.
+3.3 Andre faktorer CSTE  
+
+  anbefalede, at enhver faktor, der  
+
+ kan medvirke til faren ved et stof, skal tages med i betragtning ved  
+
+ beregning  
+
+ af VKK.
+Specifikt nævner de som eksempler  
+
+ carcinogene  
+
+ og mutagene egenskaber samt undvigeadfærd og  
+
+ sublethale  
+
+ effekter på bestande og samfund.
+ Hvor  
+
+ sådanne egenskaber/effekter er blevet noteret, bør det overvejes at applicere  
+
+ en ekstra faktor (oftest 10), specielt med stoffer, hvor flere af disse  
+
+ optræder sammen.
+ I  
+
+ de tilfælde, hvor ADI eller TDI danner basis for  
+
+ PNEChhw,  
+
+ anses effekter på pattedyr og fugle og effekter på mennesker, herunder  
+
+ carcinogene  
+
+ og mutagene effekter, for at være dækket.
+ NOEC-  
+
+ eller  
+
+ ECx-  
+
+ værdier  
+
+ fra undersøgelser over  
+
+ hormonlignende effekter i vanddyr (f.eks.  
+
+ vitellogenindannelse  
+
+ hos hanfisk,  
+
+ imposex  
+
+ forstyrrelser hos snegle og  
+
+ lignende) bruges direkte som øvrige standard  
+
+ NOEC-værdier  
+
+ fra længerevarende forsøg.
+Langtidsundersøgelser  
+
+ hos pattedyr eller fugle dækkende flere generationer anses for at tage højde  
+
+ for hormonlignende effekter på forplantningen.
+Når sådanne undersøgelser  
+
+ indgår  
+
+ i beregningen af  
+
+ PNECsec.pois.w  
+
+ og/eller  
+
+ PNEChhw, betragtes disse som dækkende for  
+
+ effekter på hvirveldyrs kønshormonsystemer, dvs. også for fisk.
+Hvis der er  
+
+ tegn på at et stof har hormonforstyrrende effekter og ingen af ovennævnte  
+
+ typer  
+
+ undersøgelser findes, bør en ekstra usikkerhedsfaktor overvejes i relation  
+
+ til  
+
+ de data, der i øvrigt foreligger, og som danner grundlag for PNEC  
+
+ beregningen.
+ Hvis  
+
+ der er effekter på adfærden, f.eks. undvigeadfærd, eller hvis stoffet kan  
+
+ smages eller lugtes, bør VKK være en vis faktor lavere end  
+
+ smags-/lugtgrænsen.
+Hvis  
+
+ stoffet kan lugtes eller smages i vand eller  
+
+ biota  
+
+ (f.eks. i fisk eller skaldyr), bruges en usikkerhedsfaktor mellem 2 - 10,  
+
+ dvs.  
+
+ VKK skal mindst være 2 til 10 gange mindre end lugt-/smagsgrænsen, som er den  
+
+ mindste koncentration, hvor der er statistisk sikker forskel fra kontrollen Hvis  
+
+ f.eks.
+NOEC for andre effekter er mere end 10 gange højere end  
+
+ lugt-/smagsgrænsen, vil det være rimeligt at anvende en faktor på 2.
+ Lugt-/smagsgrænsen  
+
+ i f.eks. fisk angives som den koncentration i vandet, der vil medføre, at  
+
+ stoffet kan lugtes/smages i fisk, der har opholdt sig i vandet.
+Jo  
+
+ flere negative egenskaber et stof besidder, des større er usikkerheden med  
+
+ hensyn til vurderingen af, ved hvilken koncentration, der ikke vil være  
+
+ uacceptable negative effekter.
+På den anden side vil en given faktor, der  
+
+ anvendes for at sikre mod én negativ egenskab, også beskytte mod en anden  
+
+ negativ egenskab.
+ Der  
+
+ bør derfor normalt ikke appliceres en samlet UF på over 1000 i ferskvand  
+
+ eller  
+
+ 10000  
+
+ i saltvand til laveste EC50  
+
+ eller LC50,  
+
+ og tilsvarende højeste samlede UF på 100 og 1000 til laveste NOEC eller  
+
+ EC10,  
+
+ jævnfør  
+
+ TGDen.
+3.4 Naturligt forekommende stoffer En  
+
+ række stoffer findes naturligt i miljøet, enten fordi de findes i mineralerne  
+
+ i  
+
+ jorden eller undergrunden, eller fordi de dannes der, hvad enten det er af  
+
+ levende organismer eller via  
+
+ abiotiske  
+
+ processer  
+
+ (f.eks. metaller, formaldehyd).
+ Den  
+
+ koncentration af et stof, der findes i et område, som ikke er tilført ved  
+
+ menneskelig aktivitet, er den naturlige baggrundskoncentration.
+ Naturligt  
+
+ forekommende stoffer, f.eks. metaller, optræder med vekslende koncentrationer  
+
+ fra område til område, og man må forvente, at de levende organismer i  
+
+ forskellig grad er tilpasset de omgivende koncentrationer af stoffet.
+Man  
+
+ vil således kunne komme ud for vandkvalitetskriterier, der er lavere end den  
+
+ naturlige baggrundskoncentration.
+Et sådant  
+
+ kvalitetskriterie  
+
+ vil selvfølgelig have en meget begrænset relevans.
+ I  
+
+ sådanne tilfælde kan man, som en pragmatisk løsning, vælge at bruge  
+
+ vandkalitetskriteriet  
+
+ (VKK) som en værdi, der føjes til den  
+
+ naturlige baggrundskoncentration,  
+
+ VKK-tilføjet  
+
+ (  
+
+ added  
+
+ approach).
+Brugen  
+
+ af en tilføjet værdi er en pragmatisk løsning uden en egentlig videnskabelig  
+
+ dokumentation, og da man i realiteten ikke kender sammenhængen mellem  
+
+ baggrundskoncentrationen og giftigheden af et  
+
+ stof ,  
+
+ og det meget vel kan tænkes, at organismerne nogle steder lever i  
+
+ koncentrationer, der er tæt på deres øvre  
+
+ tolerencegrænse,  
+
+ bør man også sætte en øvre grænse for VKK, hvor det skønnes berettiget.
+I de  
+
+ tilfælde, hvor  
+
+ PNECsec.pois.w  
+
+ /  
+
+ PNEChhw  
+
+ (se afsnittet om bioakkumulering) er større  
+
+ end VKK vil det f.eks. være rimeligt at lade  
+
+ PNECsec.pois.w  
+
+ /  
+
+ PNEChhw  
+
+ være den øvre grænse.
+Det  
+
+ understreges, at denne øvre grænse  
+
+  
+
+ ikke  
+
+  
+
+ er lig med  
+
+ korttidsvandkvalitetskriteriet  
+
+ (KVKK = MAC).
+3.5  
+
+ Abiotiske  
+
+ faktorer Abiotiske  
+
+ faktorer såsom pH, hårdhed og lignende kan påvirke giftigheden af  
+
+ nogle stoffer, ikke mindst metaller, og hvis der er tilstrækkeligt med  
+
+ oplysninger til at beregne sammenhængen mellem en bestemt  
+
+ abiotisk  
+
+ faktor og giftigheden, kan der tages højde for denne faktor ved beregningen  
+
+ af  
+
+ kvalitetskriteriet.
+Således  
+
+ er det for visse metaller muligt at beregne sammenhængen mellem vandets  
+
+ hårdhed  
+
+ og stoffets giftighed for vandorganismer.
+Her vil der f.eks.  
+
+ eventuelt være mulighed for  
+
+ at gøre kvalitetskriteriet afhængigt af hårdheden i vandet i et givent  
+
+ opland.  
+
+ Dette er der således taget højde for i EU's risikovurdering af cadmium og  
+
+ zink.
+3.6  
+
+ Korttids  
+
+ vandkvalitetskriterie  
+
+ (KVKK eller MAC) Koncentrationstoppe  
+
+ og koncentrationen i overfladevand efter kortvarige udledninger må ikke  
+
+ overstige  
+
+ korttidsvandkvalitetskriteriet  
+
+ (KVKK).
+ Når  
+
+ eksponeringen er kortvarig antages det, at det i de fleste tilfælde er de  
+
+ akutte effekter, som er relevante, og KVKK beregnes som  
+
+ Technical  
+
+ Guidance  
+
+ Documents  
+
+ PNEC for  
+
+ kortvarige udledninger (PNECintermittent  
+
+ )  
+
+ (Se dog TGD afsnit 3.3.2):
+ KVKK  
+
+ =  
+
+,  
+
+ hvor  
+
+ UF normalt er lig 100. UF = usikkerhedsfaktor =  
+
+ assessment  
+
+ factor (AF).
+Afhængigt  
+
+ af  
+
+ kvaliteten  
+
+ og typen af data kan UF sænkes eller hæves (se TGD afsnit 3.3.2). Hvis et  
+
+ stof  
+
+ er  
+
+ bioakkumulerende  
+
+ og ikke let nedbrydeligt og/eller  
+
+ har tendens til at bindes til aflejringer (sediment), vil en faktor 100 måske  
+
+ ikke give et tilstrækkeligt beskyttelsesniveau.
+KVKK kan dog ikke være mindre  
+
+ end VKK.
+ En  
+
+ korttidsudledning defineres som en udledning, der varer højst 24 timer, og  
+
+ som  
+
+ forekommer i gennemsnit gennem et år højst én gang om måneden og med minimum  
+
+ 6  
+
+ dage mellem de enkelte udledninger, der overskrider det generelle VKK.
+ For  
+
+ udledninger, der varer kortere tid end 24 timer kan man evt. i ganske særlige  
+
+ tilfælde beregne et såkaldt  
+
+ superakut  
+
+ KVKK, hvor der  
+
+ tages hensyn til sammenhængen mellem effekt og eksponeringstiden.
+ De  
+
+ nærmere overvejelser vedrørende KVKK og  
+
+ superakut  
+
+ KVKK kan ses i Bilag 1.
+ Da  
+
+ KVKK primært relaterer til spildevandsnærområdet, og da det almindelige VKK  
+
+ stadig skal overholdes, fastsættes der ikke særskilte KVKK for ferskvand og  
+
+ saltvand.
+4. Dokumentation Fastlæggelsen  
+
+ af vandkvalitetskriterier bør dokumenteres som vist i beregningseksemplerne i  
+
+ bilag 3, og kan ske efter følgende paradigma:
+Stoffets navn (CAS nr.).  
+
+  
+
+ Fastsættelse af  
+
+ kvalitetsgrænseværdier Strukturformel Vandkvalitetskriterie  
+
+
+, ferskvand: x µg/l Vandkvalitetskriterie  
+
+
+, saltvand: y µg/l Korttidsvandkvalitetskriterie  
+
+
+  
+
+ : z µg/l Opløselighed i vand  
+
+  
+
+ :
+ Giftighed overfor  
+
+ vandorganismer (EC50, NOEC,  
+
+ ECx,  
+
+ PNEC osv.):
+ Giftighed overfor pattedyr  
+
+ og fugle (NOEC, NOAEL,  
+
+ PNECoral  
+
+ (  
+
+ PNECføde  
+
+ ),  
+
+ hormonforstyrrende effekter osv.):
+ Giftighed overfor mennesker  
+
+ (ADI, TDI, hormonforstyrrende effekter, klassificering for kræft,  
+
+ reproduktionsskader  
+
+ og  
+
+ mutagenicitet  
+
+ ):
+ Nedbrydelighed og  
+
+ bioakkumulering (log  
+
+ Kow, BCF, BMF):
+ Naturlig forekomst:
+ Vandkvalitetskriterie, inkl. argumentation og kvalitetsvurdering af  
+
+ udslagsgivende undersøgelse:
+VKK,  
+
+ ferskvand:  
+
+ x  
+
+ µg/l VKK,  
+
+ saltvand:  
+
+ y  
+
+ µg/l KVKK = z µg/l Hvis  
+
+ fødekædeeffekter er inddraget skal det klart fremgå om dette er gjort ved  
+
+ beregning a muligheden for forgiftning gennem fødekæden eller ved anvendelse  
+
+ af  
+
+ en ekstra usikkerhedsfaktor.
+5. Ordforklaring ADI Acceptable  
+
+ dayly  
+
+ intake, acceptabel daglig indtagelse Assessment  
+
+ factor Usikkerhedsfaktor Basis sæt Fisk, krebsdyr og alger BCF Biokoncentrationsfaktor Biokoncentrationsfaktor Koncentrationen i organismen divideret med  
+
+ koncentrationen i vandet Biomagnification  
+
+ factor Koncentrationen i organismen divideret med  
+
+ koncentrationen i føden BLM Biotic  
+
+ ligand model.
+En model  
+
+ som bl.a. inddrager  
+
+ biotilgængelighed BMF Biomagnification  
+
+ factor CSTE EU's videnskabelige komité for toksikologi og  
+
+ økotoksikologi EC10 Effekt koncentration  
+
+ 10%  
+
+ = den  
+
+ konc., hvor der opstår 10 % effekt EC50 Effekt koncentration  
+
+ 50%  
+
+ = den  
+
+ konc., hvor der opstår 50 % effekt ECx Effekt koncentration  
+
+ x%  
+
+ = den  
+
+ konc., hvor der opstår  
+
+ x%  
+
+ effekt Endpoint Mål for effekten (EC50, NOEC osv.) Initialfortynding Den første opblanding efter udledningen Korttids  
+
+ vandkvalitetskriterie Vandkvalitetskriterie  
+
+ for  
+
+ kortvarige eksponeringer Korttidseksponering Kortvarige eksponeringer Kow Kow  
+
+ =  
+
+ Pow  
+
+ = koncentrationen i  
+
+ n-octanol  
+
+ divideret med koncentrationen i vand KVKK Korttids  
+
+ vandkvalitetskriterie  
+
+ = MAC LC10 Lethal  
+
+ concentration,  
+
+ 10%. Den koncentration ved hvilken  
+
+ 10%  
+
+ af organismerne dør LC50 Lethal  
+
+ concentration,  
+
+ 50%. Den koncentration ved hvilken  
+
+ 50%  
+
+ af organismerne dør Let nedbrydelighed 70%  
+
+ nedbrydning (  
+
+ mineralisering  
+
+ ) målt på opløst kulstof eller 60%  
+
+ nedbrydning målt ved CO2 produktion eller iltforbrug i 28 dages test  
+
+ (standard) med ikke tilpassede mikroorganismer.
+Se OECD rapport nr.27 fra  
+
+ serien  
+
+ Testing and  
+
+ Assessment Log  
+
+ Kow Logaritmen til  
+
+ Kow MAC Maximum  
+
+ acceptable  
+
+ concentration  
+
+ = KVKK Nedbrydelighed,  
+
+ let- Se Let nedbrydelighed NOAEL No  
+
+ Observed  
+
+ Adverse  
+
+ Effect  
+
+ Level  
+
+ (mg pr. kg legemsvægt pr. dag).
+NOEC No  
+
+ Observed  
+
+ Effect  
+
+ Concentration.
+Den  
+
+ højeste koncentration hvor effekten ikke er stor nok til den er statistisk  
+
+ signifikant forskellig fra kontrolforsøget.
+PEC Predicted  
+
+ Environmental  
+
+ Concentration.
+Den koncentration der skønnes at  
+
+ optræde i det pågældende miljø.
+PNEC Predicted  
+
+ No  
+
+ Effect  
+
+ Concentration.
+Den  
+
+ højeste koncentration ved hvilken det skønnes, at der ikke vil forekomme  
+
+ negative  
+
+ effekter på (vand)økosystemet vurderet alene  
+
+ udfra  
+
+ giftigheden af stoffet.
+PNEChh Den højeste koncentration i føden ved hvilken det skønnes,  
+
+ at der ikke vil forekomme negative effekter på menneskers sundhed PNEChh.w Den højeste koncentration i vandet ved hvilken det  
+
+ skønnes, at der ikke vil forekomme negative effekter på menneskers sundhed PNECsec.pois Den højeste koncentration i føden ved hvilken det  
+
+ skønnes, at der ikke vil forekomme negative effekter på rovdyr.
+PNECoral Den højeste koncentration i rovdyrs føde (f.eks. i fisk)  
+
+ ved hvilken det skønnes, at der ikke vil forekomme negative effekter på  
+
+ rovdyr PNECsec.pois.w Den højeste koncentration i vandet ved hvilken det  
+
+ skønnes, at der ikke vil forekomme negative effekter på rovdyr, der lever af  
+
+ vandorganismer.
+Pow Pow  
+
+ =  
+
+ Kow QSAR Quantitative  
+
+ Structure  
+
+ Activity  
+
+ Relations.  
+
+ Modeller til at forudsige stoffers egenskaber udfra deres struktur m.m.
+Taksonomisk gruppe Systematisk gruppe, som f.eks. fisk, krebsdyr, fugle osv.
+TDI Tolerabelt dagligt indtag TGD Technical  
+
+ Guidance  
+
+ Document.
+EU's vejledningsdokument knyttet til  
+
+ risikovurderingerne.
+UF Usikkerhedsfaktor Usikkerhedsfaktor Ved skønnet af PNEC (og VKK) divideres EC50 eller NOEC  
+
+ eller lignende mål for giftigheden med en UF.
+Jo større usikkerhed des større  
+
+ faktoren (og des mindre koncentration bliver PNEC sat til).
+Vandkvalitetskrav Vandkvalitetskravet er den koncentration i vandmiljøet  
+
+ som skal overholdes enten fordi det er fastsat i en regionalplan eller i den  
+
+ centrale lovgivning (bekendtgørelse). Vandkvalitetskravet vil normalt være  
+
+ lig med vandkvalitetskriteriet.
+Vandkvalitetskriterie Den koncentration i vand ved hvilken det skønnes, at der  
+
+ ikke vil forekomme negative effekter på vandøkosystemer vurderet udfra  
+
+ egenskaber som giftigheden, potentiale for bioakkumulering, nedbrydelighed,  
+
+ kræftfremkaldende egenskaber, lugt og smag m.m.
+VKK Vandkvalitetskriterie Bilag 1 Fastsættelse af vandkvalitetskriterier for  
+
+ kortvarige udledninger (KVKK) 1.1 Indledning I det følgende dækker udtrykket EC50  
+
+ over LC50  
+
+ eller EC50  
+
+ eller IC50  
+
+ som i øvrigt beskrevet i Boks 1.
+Boks 1 LC50 lethal  
+
+ concentration,  
+
+ 50%  
+
+ ; dvs. den koncentration ved hvilken 50% af organismerne  
+
+ dør.
+EC50 Effect  
+
+ concentration,  
+
+ 50%  
+
+ ; dvs. den koncentration ved hvilken, der er 50 %  
+
+ effekt.
+IC50 Immobility  
+
+ concentration,  
+
+ 50%  
+
+ ;  
+
+ dvs  
+
+ den koncentration  
+
+ ved hvilken 50% af organismerne holder op med at bevæge sig.
+EC10 Effect  
+
+ concentration,  
+
+ 10%  
+
+ ; dvs. den koncentration ved hvilken, der er 10 %  
+
+ effekt.
+NOEC No  
+
+ Observed  
+
+ Effect  
+
+ Concentration  
+
+ ; dvs. den testkoncentration ved  
+
+ hvilken den observerede effekt ikke er statistisk forskellig fra kontrollen.  
+
+ Ofte svarer NOEC ca. til EC10.
+a/c forhold Forholdet mellem akutte LC50  
+
+ værdier og  
+
+ kroniske NOEC (eller EC10  
+
+ ) værdier Vedvarende udledninger varierer med visse toppe nu og da,  
+
+ og en række udledninger, f.eks. fra kraftige regnvejr, medfører kortvarige  
+
+ tilledninger af stoffer til vandmiljøet i relativt høje koncentrationer.
+I en  
+
+ del tilfælde vil det medføre overskridelse af vandkvalitetskravene, som  
+
+ imidlertid er baseret på betragtninger over kroniske effekter og  
+
+ længerevarende  
+
+ eksponering.
+Jævnfør Miljøprojekt 690, 2002 er der en sammenhæng mellem  
+
+ eksponeringstiden og graden af giftvirkning.
+Ved de korte eksponeringstider  
+
+ vil  
+
+ de akutte effekter normalt være de vigtigste og giftvirkningen indtræder i de  
+
+ fleste tilfælde først ved en højere koncentration end den der er betydende  
+
+ for  
+
+ den kroniske effekt.
+Vandrammedirektivet henviser fastsættelse af VKK til en  
+
+ form for årlig gennemsnitsbetragtning, men man har også i EU arbejdet med  
+
+ gennemførelsen af direktivet på dette område erkendt, at der er behov for at  
+
+ forholde sig til kortvarige toppe i koncentrationerne og kortvarige  
+
+ udledninger  
+
+ og for at fastsætte retningslinier for hvor høje disse kan accepteres.
+Det er  
+
+ bl.a. blevet foreslået at indføre en   
+
+ Maximum  
+
+ Acceptable  
+
+ Concentration  
+
+  (MAC), som ikke må  
+
+ overskrides.
+ EUs risikovurderings vejledningspapir,   
+
+ Technical  
+
+ Guidance  
+
+ Document  
+
+  (TGD), forholder sig til, hvordan man skal skønne  
+
+ Predicted  
+
+ No  
+
+ Effect  
+
+ Concentration  
+
+ for akutte effekter ved kortvarigt optrædende  
+
+ udledninger (  
+
+ intermittent  
+
+ release  
+
+ ,  
+
+ PNECakut  
+
+ ), og  
+
+ Fraunhofer  
+
+ instituttet, der er EU kommissionens rådgiver, har i tilknytning til det nye  
+
+ vandrammedirektiv udarbejdet et udkast til forslag til metode for  
+
+ udarbejdelse  
+
+ af kvalitetskriterier,  
+
+ herunder for kortvarige udledninger.
+1.2. Definition  
+
+ af  
+
+ kortvarig  
+
+ udledning Under  
+
+ afsnittet  
+
+ Intermittent releases (2.3.3.4)  
+
+ definerer  
+
+ TGDen  
+
+ intermittent  
+
+ release  
+
+ som  
+
+ intermittent but only recurring  
+
+ infrequently i.e. less than once per month and for no more than 24  
+
+ hours.
+Hvad argumentationen, for  
+
+ TGDens  
+
+ forslag på 24 timer egentlig er, er uvist, og kunne umiddelbart undre i  
+
+ betragtning af at standard tests for akut giftighed normalt varer fra 48 (24)  
+
+ timer (  
+
+ Daphnia  
+
+ ) til 96 timer (fisk). Der kan ligge  
+
+ den pragmatiske/praktiske betragtning bag, at spildevandsprøver ofte udtages  
+
+ en  
+
+ gang i døgnet.
+Formentlig ligger der også det argument til grund, at et 24  
+
+ timers udslip medfører eksponering af miljøet i 24 timer plus i den tid  
+
+ stoffet  
+
+ forbliver i miljøet efter udslippet i mere eller mindre fortyndet grad.
+Det  
+
+ vil  
+
+ sige, at man må regne med at eksponeringen af et konkret vandområde bliver  
+
+ betydeligt længere end de 24 timer.
+72 timers testen med alger kan betegnes som en  
+
+ korttids  
+
+ kronisk test, hvor EC50  
+
+ betragtes som  
+
+ en akut værdi og NOEC som en kronisk værdi.
+Så hvis stoffet forbliver i  
+
+ miljøet  
+
+ i passende koncentration i op mod 72 timer vil man altså for en række  
+
+ organismer kunne opnå noget der ligner kroniske effekter.  Ofte vil  
+
+ effekten  
+
+ på algerne endda komme til udtryk før 72 timer.
+ Varigheden af høje koncentrationer af stoffer i miljøet  
+
+ vil afhænge dels af stoffernes egenskaber (f.eks. nedbrydeligheden) dels af  
+
+ fortyndingsforholdene i recipienten som f.eks. om det er stillestående eller  
+
+ rindende,  
+
+ vandføringen,  
+
+ størrelsen  
+
+ osv..
+I  
+
+ TGDen  
+
+ angives 15 dage som et  
+
+ konservativt skøn for halveringstiden (  
+
+ mineralisering  
+
+ )  
+
+ svarende til   
+
+ ready  
+
+ biodegradability  
+
+ ,  
+
+ og halveringstiden for en giftvirkning vil være kortere.
+For stoffer der ikke  
+
+ er  
+
+ letnedbrydelige  
+
+ vil halveringstiden være større.  
+
+ Fortyndingens betydning for at nedbringe giftvirkningen vil afhænge af de  
+
+ aktuelle fortyndingsforhold under udledningen til det konkrete vandområde.
+ Alt i alt synes det realistisk at selv let nedbrydelige  
+
+ stoffer ikke vil være tilstrækkeligt nedbrudt i løbet af et til to døgn efter  
+
+ udledningen, så man vil kunne få noget, der ligner kroniske effekter for en  
+
+ række organismer.
+1.3. Mindste tidsinterval mellem udledninger TGDens  
+
+ definition om at en  
+
+ kortvarig udledning ikke er længere end 24 timer følges, men én gang om  
+
+ måneden skal forstås som en gennemsnitsbetragtning over et år.
+Dog  
+
+ således at  
+
+ der bør sættes en nedre grænse for den tid der skal gå mellem to udledninger,  
+
+ da sandsynligheden for, at der opstår kroniske effekter, ellers bliver for  
+
+ stor.
+ Hvor kort tid der må være mellem to korttidsudledninger  
+
+ vil ret beset kun kunne besvares ved analyse af tilstrækkelige data fra  
+
+ tilstrækkeligt mange undersøgelser, hvor effekten af gentagne  
+
+ korttidseksponeringer  
+
+ på vandøkosystemer undersøges.
+Miljøstyrelsen har ikke sådanne data, og den valgte  
+
+ løsning er derfor i princippet et pragmatisk valg.
+I det følgende er givet de  
+
+ overvejelser, som er gjort i forbindelse med valget af tidsperiode mellem  
+
+ korttidsudledninger.
+ Det må forventes, at det antal dage, der bør gå mellem to  
+
+ eksponeringer, vil variere fra stof til stof afhængig af flere faktorer,  
+
+ f.eks.  
+
+ bioakkumuleringspotentiale  
+
+ og nedbrydelighed.
+ Alt andet lige kan en organisme tåle højere  
+
+ koncentrationer ved en korttidseksponering end ved en langtidseksponering,  
+
+ men  
+
+ hvis korttidseksponeringerne gentages med for korte mellemrum vil situationen  
+
+ nærme sig en længerevarende eksponering med kroniske effekter til følge.
+ Hvor kort tid der kan gå mellem eksponeringer, før det er  
+
+ at betragte som en kronisk eksponering, vil altså afhænge af stoffets  
+
+ virkemåde, nedbrydelighed,  
+
+ bioakkumuleringspotentiale  
+
+ herunder optagelses- og udskillelsesrater m.m. samt af fortyndingsgraden.
+Vi ved dog også, at for visse stoffer kan man ikke skelne  
+
+ mellem akut og kronisk virkning/eksponering, idet en korttidseksponering kan  
+
+ medføre kroniske effekter.
+Et eksempel på et sådant stof kan være et  
+
+ hormonlignende stof, der invirker på udviklingen af en organisme på et  
+
+ specifikt  
+
+ og kritisk stadie i organismens udvikling eller fysiologiske stadie.
+ Jævnfør  
+
+ Miljøprojekt  
+
+ 690, 2002 er forholdet mellem akut EC50  
+
+ og kronisk NOEC generelt omkr. 10  
+
+ med  
+
+ medianen for alle de undersøgte stoffer = 9. Den største  
+
+ midianværdi  
+
+ var for metalforbindelser og var 28.
+ Det betyder,  
+
+ at  
+
+ forudsat  
+
+ den laveste EC50  
+
+ er for den mest  
+
+ følsomme gruppe, og forudsat at den mest akut følsomme gruppe også er den  
+
+ mest  
+
+ kronisk følsomme, da vil KVKK være lavere end laveste noterede NOEC, idet  
+
+ KVKK  
+
+ =  
+
+, og i sådanne tilfælde vil man ikke forvente  
+
+ betydende  
+
+ effekter efter en korttidseksponering.
+ Miljøstyrelsen er ikke i besiddelse af tilstrækkelige  
+
+ data, der kan belyse ovennævnte problemstillinger, og for øjeblikket må et  
+
+ mere  
+
+ pragmatisk valg bruges.
+ Hvis den underliggende idé er, at 24 timers udledning  
+
+ svarer til omkr. 3 dages eksponering, så vil udledninger hver 3. dag klart  
+
+ repræsentere en kontinuert eksponering, og tiden mellem hver udledning bør  
+
+ derfor være betydeligt større, f.eks. det dobbelte.
+ Hvis minimumsintervallet sættes til 6 mellemliggende dage  
+
+ vil det svare til højst 5 gange i en given måned, og for resten af året  
+
+ gennemsnitligt mindre en én tilladt udledning pr. måned.
+Et af de vigtigste områder, hvor korttidsudledninger er  
+
+ reglen, er udløb af regnvand.
+Samtidig optræder en række miljøfarlige stoffer  
+
+ i  
+
+ regnvand i koncentrationer, der overstiger de hidtidige  
+
+ vandkvalitetskriterier.
+Regnafstrømningsproblemet  
+
+ er  
+
+ størst i juli og august, hvor åernes vandføring er lavest.
+I juli og august  
+
+ forekommer der mellem 0  11 regnhændelser  
+
+³  
+
+  
+
+ 3 mm med et gennemsnit i  
+
+ begge måneder på 5 hændelser.
+De største problemer opstår ved regnhændelser, der følger  
+
+ efter en vis tids tørke.
+Med 5 eller flere regnhændelser på en måned bliver  
+
+ der  
+
+ ikke megen tid til tørke.
+Man må formode, at yderligere  
+
+ regnhændelser ikke  
+
+ udgør et problem fordi de foregående hændelser har skyllet systemet rent.  
+
+ Endvidere  
+
+ vil hændelserne ikke være jævnt fordelt over måneden, så nogle vil ligge  
+
+ meget  
+
+ tæt Det anbefales derfor at  
+
+ TGDens  
+
+ definition på en korttidsudledning normalt følges dvs.  
+
+
+  
+
+ udledninger  
+
+ af højst 24 timers  
+
+ varighed ,  
+
+ der ikke må overskride  
+
+ KVKK.
+ Udledningerne må forekomme  
+
+  
+
+ i gennemsnit  
+
+ højst 1 gang om måneden, dog med intervaller på mindst 6 dage mellem hver  
+
+ udledning.
+1.4. Metode til beregning af et VKK for  
+
+ kortvarige udledninger (  
+
+ VKKakut  
+
+ eller KVKK) TGDen  
+
+ anbefaler en standard  
+
+ beregning af en  
+
+ PNECintermittent  
+
+ for et stof som den  
+
+ laveste EC50  
+
+ divideret med 100. I tilfælde hvor variationen i EC50  
+
+ er lille (mindre end en faktor 10 mellem største og mindste værdi) kan det  
+
+ overvejes at sænke faktoren til 10; og i tilfælde af  
+
+ bioakkumulerende  
+
+ stoffer kan det overvejes at hæve faktoren.
+ Fraunhofer  
+
+ foreslår, at man  
+
+ beregner  
+
+ Maximum  
+
+ Acceptable  
+
+ Concentration  
+
+ (MAC) som  
+
+ TGDens  
+
+ PNECintermittent.  
+
+ Dette udtryk er simpelt, gennemskueligt og baseret direkte på data om akutte  
+
+ effekter.
+ Det anbefales derfor at KVKK beregnes som  
+
+ laveste EC50  
+
+ /100 (= MAC, den maksimalt acceptable koncentration)  
+
+  
+
+ .
+ Denne værdi kan dog modificeres med en faktor 10 større  
+
+ eller mindre alt efter datas art og kvalitet som nævnt ovenfor.
+1.5.  
+
+ Superakut  
+
+ KVKK For eksponeringstider mindre end 24 timer er der  
+
+ toksikologisk grundlag for at antage at giftigheden af en række stoffer først  
+
+ indtræder ved endnu højere koncentrationer end de der er repræsenteret i  
+
+ standard korttidstests (se figurer nedenfor) og en vurdering af om en så  
+
+ kortvarig udledning sikrer opfyldelse af  
+
+ kvaliteskrav  
+
+ vil kunne ske på dette grundlag.
+Dersom der haves tilstrækkeligt med  
+
+ oplysninger til at kunne foretage de nødvendige beregninger, kan der i  
+
+ specifikke tilfælde beregnes et sådant  
+
+ KVKKsuperakut.
+Ved beregning af  
+
+ KVKKsuperakut  
+
+ sammenholder man eksponeringstiden med den giftighed, der opnås efter den  
+
+ givne  
+
+ eksponeringstid, som vist i følgende eksempel.
+Ved meget kort eksponeringstid  
+
+ vil de to kurver ligge meget tæt og meget små ændringer i eksponeringstiden  
+
+ vil  
+
+ give store ændringer i giftighedsgraden, og det anbefales ikke at operere med  
+
+ eksponeringstider under én time, da usikkerheden ellers bliver for stor.
+ Nogle eksempler på sammenhængen mellem giftighed  
+
+ eksponeringstid  
+
+ :
+Data from  
+
+ the US EPA  
+
+ Ecotox  
+
+ database (  
+
+ www.epa.gov/ecotox  
+
+ ) Data from  
+
+ the US EPA  
+
+ Ecotox  
+
+ database (  
+
+ www.epa.gov/ecotox  
+
+ ) Data from  
+
+ the US EPA  
+
+ Ecotox  
+
+ database (  
+
+ www.epa.gov/ecotox  
+
+ ) Data from  
+
+ Liber  
+
+ et al. 1994;  
+
+ Ferrando  
+
+ et al. 1992;  
+
+ Moffat  
+
+ et  
+
+ al. 1995;  
+
+ Crisinel  
+
+ et al. 1994;  
+
+ Halbach  
+
+ et al. 1983.
+Data from  
+
+ Vardia, H.K., P.S.  
+
+ Rao, and V.S.  
+
+ Durve, 1988 Mulig anvendelse af VVK, KVK og  
+
+ KVKKsuperacute  
+
+ Udslippene er faktiske målte koncentrationer af kobber i en å.
+Data er fra  
+
+ Ribe  
+
+ amt.
+Referencer Crisinel, A., L.  
+
+ Delaunay,  
+
+ D.  
+
+ Rossel, J.  
+
+ Tarradellas,  
+
+ H.
+Meyer, H.  
+
+ Saiah, P.
+Vogel, C.  
+
+ Delisle,  
+
+ and C.  
+
+ Blaise  
+
+ (1994).  
+
+ Environ.Toxicol.Water  
+
+ Qual. 9(4):317-326 ECETOC (1993).  
+
+ Aquatic Toxicity Data Evaluation.  
+
+ Technical Report No. 56.  
+
+ European Centre  
+
+ for  
+
+ Ecotoxicology  
+
+ and Toxicology of Chemicals.
+Ferrando,  
+
+ M.D., E.  
+
+ Andreu-Moliner, and A.
+Fernandez-  
+
+ Casalderrey  
+
+ (1992).  
+
+ J.Environ.Sci.Health  
+
+ B27(  
+
+ 5):511-522 Halbach, U.,  
+
+ M.
+Siebert, M.  
+
+ Westermayer, and C.
+Wissel.1983.  
+
+ Ecotoxicol.Environ.Saf.  
+
+ 7(5):484-513 Liber, K.,  
+
+ and K.R.
+Solomon (1994)  
+
+ Arch.Environ.Contam.Toxicol.  
+
+ 26(2):212-221.
+Moffat,  
+
+ B.D., and T.W.
+Snell.1995.Ecotoxicol.Environ.Saf.  
+
+ 30:47-53 Vardia,  
+
+ H.K., P.S.  
+
+ Rao, and V.S.  
+
+ Durve  
+
+ (1988)  
+
+ Proc.Indian  
+
+ Acad.Sci.Anim.Sci.  
+
+ 97(2):175-180.
+Bilag 2 Hyppigst anvendte opslagsværker og databaser i  
+
+ forbindelse med datasøgning ved klassificering og mærkning og beregning af  
+
+ kvalitetskriterier for kemikalier (miljøeffekter) European  
+
+ Chemicals  
+
+ Bureau (ECB),  
+
+ bl.a. med  
+
+ Annex  
+
+ 1 til  
+
+ Directiv  
+
+ 67/548 (  
+
+  
+
+ listen over farlige stoffer),  
+
+ dagsordener for møder  
+
+  
+
+ med vedhæftede links til d  
+
+  
+
+ okumenterne.  
+
+ http://ecb.jrc.it/classification-labelling/ Bekendtgørelse af  
+
+  
+
+ listen over farlige stoffer  
+
+  
+
+ , Bekendtgørelse nr. 439 af 3. juni 2002. Kan findes på følgende  
+
+ internetadresse under "kemikalier":  
+
+ http://www.mst.dk  
+
+ eller købes i Frontlinien.
+Miljøfareklassificeringsdatabasen  
+
+  
+
+ N-Class.
+Alle stoffer, der har været diskuteret i EU's arbejdsgrupper  
+
+ vedrørende miljøfareklassificering og pesticider (miljødel) er i denne  
+
+ database med diverse oplysninger inkl. referat fra møderne.
+Findes på  
+
+ internetadressen:  
+
+ www.kemi.se  
+
+ /  
+
+ nclass  
+
+ /  
+
+ default.asp K.  
+
+ Verschueren  
+
+ 1996  
+
+  
+
+ :  
+
+ Handbook  
+
+ of  
+
+ Environmental  
+
+ Data  
+
+ on  
+
+ Organic  
+
+ Chemicals, 3rd edition.  
+
+ Van  
+
+ Nostrand  
+
+ Reinhold P.H.
+Howard  
+
+ et  
+
+ al.1991  
+
+  
+
+ : Handbook of Environmental Degradation Rates.  
+
+ Lewis Publishers.
+P.H.
+Howard  
+
+  
+
+ : Handbook of Environmental Fate and Exposure Data for Organic Chemicals bind  
+
+ 1 - 5.  
+
+ Lewis Publishers.  
+
+ Bind 5  
+
+ udkom  
+
+ i  
+
+ 1997.
+E.  
+
+ Nikunen  
+
+ et al. 2000  
+
+  
+
+ : Environmental Properties of chemicals.
+Finnish Environment Institute,  
+
+ EDITA.  
+
+ (=  
+
+  
+
+ EnviChem  
+
+  
+
+ ). Også på  
+
+ internettet  
+
+ :  
+
+http://www.ymparisto.fi/default.asp?contentid=  
+
+ 68400&lan  
+
+ =EN IUCLID  
+
+  
+
+ databasen.
+Findes på CD.
+For at få databasen må man kontakte European  
+
+ Chemicals  
+
+ Bureau (ECB), Joint Research Centre - TP. 280,  
+
+ 21020  
+
+ Ispra  
+
+ (VA)  
+
+ Italy.
+Chemfinder  
+
+  
+
+ på internetadressen:  
+
+ http://chemfinder.cambridgesoft.com USEPAs  
+
+ ECOTOX  
+
+ -database  
+
+  
+
+ (indeholdende bl.a.  
+
+ AQUIRE-databasen  
+
+ ):
+http://www.epa.gov/ecotox/ den japanske database over især nedbrydningsforsøg (  
+
+  
+
+ MITI, nu CITI  
+
+  
+
+ ):
+http://www.cerij.or.jp/ceri_en/koukai/koukai_menu.html "  
+
+  
+
+ Acute Toxicity Database Search Forms  
+
+  
+
+ "  
+
+ fra  
+
+ Columbia  
+
+ Environmental  
+
+ Research  
+
+ Center  
+
+ :
+http://www.cerc.usgs.gov/data/acute/multiselect.asp The Pesticide Manual  
+
+  
+
+ , CDS Tomlin ed., 11.  
+
+ udgave  
+
+ 1997.
+BUA Reports.  
+
+ Gesellschaft  
+
+ Deutscher  
+
+ Chemiker  
+
+ (  
+
+ GDCh  
+
+ ) Advisory Committee on Existing Chemicals of Environmental Relevance  
+
+ (BUA).  
+
+ Kan indeholde  
+
+ økotoksikologiske  
+
+ og  
+
+ og  
+
+ humantoksikologiske data.
+Liste over rapporter kan ses på:  
+
+ http://www.gdch.de/taetigkeiten/bua/berichte.htm Environmental Hazard Classification  data collection and interpretation  
+
+ guide  
+
+  
+
+ (2nd  
+
+ edition).  
+
+ TemaNord  
+
+ 1995:581. ISBN 92 9120 711 X.  
+
+ Nordic  
+
+ Council  
+
+ of  
+
+ Ministers.
+Kan rekvireres fra Henning Clausen, Miljøstyrelsen, Strandgade 29,  
+
+ 1401 Copenhagen K. (  
+
+ hcl@mst.dk  
+
+ ) Environmental  
+
+ Fate  
+
+ Data  
+
+ Base,  
+
+ http  
+
+  
+
+ ://esc.syrres.com/efdb.htm  
+
+ Syracuse  
+
+ Research  
+
+ Corporations  
+
+ database, specielt vedrørende nedbrydning.
+Indeholder bl.a.   
+
+ Chemfate  
+
+  IPCS  
+
+  
+
+ (International Programme on Chemical Safety)  INCHEM.  
+
+ Der kan findes oplysninger om både miljø og  
+
+ sundhed:  
+
+ http  
+
+ ://www.inchem.org EU risikovurderinger  
+
+  
+
+ kan findes på internetadressen, hvor man skal klikke på   
+
+ Existing  
+
+ chemicals  
+
+  og derefter på   
+
+ Risk  
+
+ assessment  
+
+   
+
+ :  
+
+ http  
+
+ ://ecb.jrc.it/existing-chemicals OECD risikovurderingsrapporter  
+
+  
+
+ (SIDS rapporter):
+http://www.chem.unep.ch/irptc/sids/sidspub.html http://www.oecd.org/document/63/0,2340,en_2649_34379_1897983_1_1_1_1,00.html Towards the establishment of a  
+
+  
+
+ priority list of substances for further evaluation of their role in endocrine  
+
+ disruption  
+
+  
+
+ -- preparation of a candidate list of substances as a basis for  
+
+ priority-setting  
+
+  
+
+ :  
+
+  
+
+ http://europa.eu.int/comm/environment/docum/01262_en.htm#bkh Særligt  
+
+ for  
+
+ sundhed  
+
+  
+
+ :
+Patterson, J.; P.J. (Bert)  
+
+ Hakkinin  
+
+ & A.E.  
+
+ Wullenweber  
+
+ 2002:  
+
+  
+
+ Human Health  
+
+  
+
+ risk assessment: Selected internet and  
+
+ world wide web  
+
+ resources.
+Toxicology 173: 123-143 International Agency for Research on  
+
+  
+
+ Cancer  
+
+  
+
+ (IARC):  
+
+ www.iarc.fr Integrated Risk Information System  
+
+  
+
+ (IRIS),  
+
+  
+
+ US Environmental Protection Agency.  
+
+ En database  
+
+ om  
+
+ effekter  
+
+ på  
+
+ sundhed  
+
+ :  
+
+ www.epa.gov/iris Hazardous Substances Data Bank (  
+
+  
+
+ HSDB  
+
+  
+
+ ), US National Library of Medicine:  
+
+ www.toxnet.nlm.nih.gov Guidelines for Drinking Water Quality, Third edition, 2003  
+
+ :
+www.who.int/docstore/water_sanitation_health/GDWQ/draftchemicals/list.htm Summary of Evaluations Performed by the  
+
+  
+
+ Joint FAO/WHO Expert Committee on Food Additives:
+http://jecfa.ilsi.org/search.cfm Joint FAO/WHO Meeting on Pesticide Residues:
+www.who.int/pcs/jmpr/jmpr.htm Bilag 3 Beregningseksempler I det følgende er givet en række beregningseksempler.
+Eksemplerne er  
+
+ konstruerede sådan at de repræsenterer forskellige former for problematik.
+De  
+
+ problematikker, der er fokuseret på, er angivet i den kantede parentes ved  
+
+ hvert eksempel.
+Stof A  
+
+ (CAS nr.  
+
+   .) [Problematik bl.a.: Fødekædeeffekter,  
+
+ PNECsec.pois.w, kun NOEC for 2 grupper] Strukturformel Vandkvalitetskriterie, ferskvand: 0,3  
+
+ ng  
+
+ /l Vandkvalitetskriterie, saltvand: 0,03  
+
+ ng  
+
+ /l Korttidsvandkvalitetskriterie  
+
+  
+
+ :  
+
+  
+
+ 59  
+
+ ng  
+
+ /l Der er ingen EU eller OECD risikovurdering.
+ Følgende data er fundet og skønnet at være valide:
+ Opløselighed i vand m.m.  
+
+  
+
+ :
+Molvægt 260,8 Opløselighed i vand 3,2 mg/l Giftighed overfor vandorganismer:
+Art Taksonomisk gruppe Varighed Effekt «   
+
+ Endpoint  
+
+  » Værdi µg/l Ferskvand Brachydanio  
+
+ rerio Fisk 14 d NOEC 5 Pimephales  
+
+ promelas Fisk 28 d NOEC LOEC 6,5 13 Pimephales  
+
+ promelas Fisk 28 d larval  
+
+ survival  
+
+ and  
+
+ weight NOEC 6.5 Carassius  
+
+ auratus Fisk 67 d growth NOEC 9.6 Haematococcus  
+
+ pluralis Alger 4 h EC10 >2000 Scenedesmus  
+
+ subspicatus Alger 7 d EC3 >25000 Scenedesmus  
+
+ quadricauda Alger 8 d NOEC >25000 Scenedesmus  
+
+ quadricauda Alger 8 d Toxicity  
+
+ threshold >25000 Pimephales  
+
+ promelas Fisk 96 h LC50 90 Carassius  
+
+ auratus Fisk 96 h LC50 90 Oncorhynchus  
+
+ mykiss Fisk 192 h (8d) LC50 121 Asellus  
+
+ aquaticus Krebsdyr 96 h Mortality LC50 130 Lymnaea  
+
+ stagnalis Snegle 96 h Mortality LC50 210 Oncorhynchus  
+
+ mykiss Fisk 96 h LC50 320 Daphnia  
+
+ magna Krebsdyr 24 h LC50 500 Saltvand Mysidopsis  
+
+ bahia Krebsdyr 96 h LC50 59 Limanda  
+
+ limanda Fisk 96 h LC50 450 Eliminius  
+
+ modestus  
+
+ (  
+
+ nauplii  
+
+ ) Krebsdyr 48 h LC50 870 Cyprinodon  
+
+ variegatus Fisk 96 h LC50 3600 Giftighed overfor  
+
+ pattedyr og fugle:
+Art Type forsøg NOAEL Rotte, mus kronisk giftighed 0.2  
+
+ mg/kg  
+
+ lgv  
+
+ /d Rottte skade på forplantningen 20 mg/kg  
+
+ lgv  
+
+ /d Japansk vagtel sub-kronisk  
+
+ giftighed 3 mg/kg  
+
+ lgv  
+
+ /d Giftighed overfor  
+
+ mennesker:
+ Stoffet anses ikke for kræftfremkaldende, mutagent eller  
+
+ skadeligt for forplantningen.
+ Der er ingen oplysninger om ADI eller TDI.
+ Nedbrydelighed i  
+
+ vand:
+Halveringstiden er 4  52 uger.
+Stoffet regnes således for  
+
+ ikke let nedbrydeligt Bioakkumulering:
+ log  
+
+ Kow  
+
+ = 4,9. BCF =  
+
+ 17000  
+
+ (eneste værdi). Stoffet betragtes som  
+
+ bioakkumulerende.
+ Naturlig forekomst:
+ Stoffet forekommer ikke naturligt.
+ Vandkvalitetskriterie, diskussion og argumentation:
+Der findes kun NOEC værdier for fisk og alger.
+Den laveste  
+
+ NOEC  
+
+  
+
+ (fisk) =5µg/l Der findes EC50 værdier for 5 arter fisk, 4 arter krebsdyr  
+
+ og 1 art snegl, med laveste  
+
+  
+
+ EC50 (krebsdyr)  
+
+ = 59 µg/l  
+
+  
+
+ og næstlaveste værdi (fisk) =90 µg/l.
+ Der haves  
+
+  
+
+ NOAEL  
+
+  
+
+ fra  
+
+ kroniske  
+
+ tests for rotter, mus  
+
+ og japansk vagtel  
+
+ med laveste værdi på  
+
+  
+
+ 0,2 mg/kg  
+
+ legemsvægt/dag  
+
+  
+
+ for mus.
+BMF er ikke målt.
+Standard for stoffer med BCF > 5000  
+
+ er  
+
+  
+
+ BMF = 10.  
+
+  
+
+ (TGD tabel 21 og 29) Vandkvalitetskriteriet uden hensyn til bioakkumulering  
+
+ m.m. (  
+
+ VKKub  
+
+ ): Der er NOEC for fisk og  
+
+ alger, men ikke for  
+
+ Mysidopsis, der har den laveste  
+
+ EC50. EC50 for  
+
+ Mysidopsis  
+
+ er dog ikke væsentligt  
+
+ lavere end EC50 for fisk (59 henholdsvis 90 µg/l) og fiske NOEC er en faktor  
+
+ 10  
+
+ lavere end  
+
+ Mysidopsis  
+
+ EC50.
+Der vælges derfor en  
+
+  
+
+ U  
+
+ F = 50  
+
+  
+
+ for ferskvand.
+Da der for saltvand kun er repræsentanter for fisk og  
+
+ krebsdyr vælges  
+
+  
+
+ UF = 500  
+
+  
+
+ for  
+
+ saltvand.
+ Dette betyder at  
+
+ VKKub-fersvand  
+
+ = 0,1 µg/l og  
+
+ VKKub-saltvand  
+
+ = 0,01 µg/l.
+ Da BCF > 100 beregnes  
+
+ PNECsec.pois.water.  
+
+ Da der ingen ADI eller TDI værdier er beregnes  
+
+ PNEChumanhelth  
+
+ ikke.
+ NOAEL (0,2 mg/kg legemsvægt/  
+
+ dag)  
+
+ omregnes  
+
+ med en omregningsfaktor til  
+
+ NOECføde  
+
+ (  
+
+ NOECoral  
+
+ )  
+
+  
+
+ Omregningsfaktoren = 8,3  
+
+  
+
+ (TGD tabel  
+
+ 22).
+NOECføde  
+
+ = (0,2 mg/kg  
+
+ legemsvægt/dag)*8,3 =  
+
+  
+
+ 1,7 mg/kg føde PNECføde  
+
+ = PNECoral  
+
+ =  
+
+ NOECoral  
+
+ /UF.  
+
+ Jævnfør tabel 23 i TGD bliver UF her = 30, da data er fra kroniske forsøg.
+ PNECføde  
+
+ = 1,7 mg/kg/30 = 57 µg/ kg.
+Ferskvand:  
+
+  
+
+ PNECsec.pois.water
+  
+
+ =  
+
+ PNECoral  
+
+ /BCF*BMF  
+
+ = 57 µg/ kg/(17000*10)  
+
+  
+
+ = 0,3  
+
+ ng  
+
+ /l Saltvand:  
+
+ PNECsec.pois.water  
+
+ = PNECoral  
+
+ /BCF*BMF1*BMF2 = 57 µg/ kg/(17000*10*10) =  
+
+  
+
+ 0,03  
+
+ ng  
+
+ /l.
+Laveste EC50 er 59  
+
+m  
+
+  
+
+ g/l.
+Normalt beregnes KVKK  
+
+ som laveste EC50:100. Da stoffet dog er stærkt  
+
+ bioakkumulerende  
+
+ og svært nedbrydeligt, vælges faktor 1000.
+ Da  
+
+ PNECsec.pois.water  
+
+ er lavere end  
+
+ VKKub-fersvand  
+
+ og  
+
+ VKKub-saltvand  
+
+ bliver det endelige vandkvalitetskriterium:
+Ferskvand:  
+
+ VKK =  
+
+ PNECsec.pois.water  
+
+ = 0,3  
+
+ ng  
+
+ /l Saltvand:  
+
+ VKK  
+
+ =  
+
+ PNECsec.pois.water  
+
+ = 0,03  
+
+ ng  
+
+ /l KVKK  
+
+ = 59  
+
+
+
+m  
+
+  
+
+ g/  
+
+ l :  
+
+ 1000 = 59  
+
+ ng  
+
+ /l Stof B  
+
+ (CAS nr.  
+
+   .) [Problematik bl.a.: EU risikovurdering  
+
+ tilgængelig] Strukturformel Vandkvalitetskriterie,  
+
+ ferskvand: 50  
+
+m  
+
+  
+
+ g/l Vandkvalitetskriterie,  
+
+ saltvand: 50  
+
+m  
+
+  
+
+ g/l Korttidsvandkvalitetskriterie  
+
+ :  
+
+ 60  
+
+m  
+
+  
+
+ g/l En EU risikovurdering findes og data herfra anvendes:
+ Opløselighed i vand  
+
+ m.m.:
+Opløseligheden i vand = 50 mg/l Giftighed overfor  
+
+ vandorganismer:
+ Der er mange NOEC værdier fra mere end tre overordnede  
+
+ taksonomiske grupper og  
+
+ trofiske  
+
+ niveauer.
+ For havmiljøet er der NOEC værdier for fisk, krebsdyr,  
+
+ alger,  
+
+ pighude  
+
+ og  
+
+ havbørsteorme.
+ NOEC værdierne for ferskvandsorganismer og havorganismer  
+
+ dækker samme spand.
+ Giftighed overfor  
+
+ pattedyr og mennesker:
+Stoffet anses ikke for kræftfremkaldende, mutagent eller  
+
+ skadeligt for forplantningen.
+Der er ingen oplysninger om ADI eller TDI  
+
+ værdier.
+ Nedbrydelighed i  
+
+ vand:
+ Stoffet anses for let nedbrydeligt.
+ Bioakkumulering:
+ log  
+
+ Kow  
+
+ =2,9, stoffet anses  
+
+ altså ikke for  
+
+ bioakkumulerende.
+ Naturlig forekomst:
+ Forekommer ikke naturligt.
+ Vandkvalitetskriterie, diskussion og argumentation:
+ Risikovurderingen angiver PNEC for ferskvand = PNEC for  
+
+ saltvand = 50 µg/l.
+ Da log  
+
+ Kow  
+
+ < 3 ses  
+
+ der ikke på fødekædeeffekter.
+ Vandkvalitetskriteriet sættes dermed lig med PNEC:
+VKK i ferskvand = VKK i saltvand = PNEC VKK =  
+
+ PNEC =50 µg/l KVKK  
+
+ = 6 mg/l: 100 = 0,06 mg/l = 60 µg/l Stof  
+
+ C(CAS nr.  
+
+   .) [Problematik bl.a.: Manglende NOEC for  
+
+ gruppen med laveste EC50  
+
+ ] Strukturformel Vandkvalitetskriterie, ferskvand: 50  
+
+m  
+
+  
+
+ g/l Vandkvalitetskriterie, saltvand: 5  
+
+m  
+
+  
+
+ g/l Korttidsvandkvalitetskriterie  
+
+ : 85  
+
+m  
+
+  
+
+ g/l Der er ingen EU eller OECD risikovurdering.
+ Følgende data er fundet og skønnet at være valide:
+ Opløselighed i  
+
+ vand:
+ Opløseligheden i vand = 5 mg/l.
+ Giftighed overfor  
+
+ vandorganismer:
+Art Taksonomisk  
+
+ gruppe Varighed « Endpoint » Værdi mg/l Ferskvand Pimephales  
+
+ promelas Fisk 28 d NOEC 5 Scenedesmus  
+
+ subspicatus Alger 72 h NOEC 15 Scenedesmus  
+
+ subspicatus Alger 72 h EC50 70 Pimephales  
+
+ promelas Fisk 96 h LC50 90 Daphnia  
+
+ magna Krebsdyr 48 h EC50 8,5 Giftighed overfor  
+
+ pattedyr og mennesker:
+Stoffet anses ikke for kræftfremkaldende, mutagent eller  
+
+ skadeligt for forplantningen.
+Der er ingen oplysninger om ADI eller TDI  
+
+ værdier.
+ Nedbrydelighed i  
+
+ vand:
+ 50 % nedbrydning efter 28 dage i en OECD   
+
+ ready  
+
+ biodegradability  
+
+ test  
+
+ (nr. 301 A-F.  
+
+ Stoffet anses ikke for let nedbrydeligt.
+ Bioakkumulering:
+ log  
+
+ Kow  
+
+ =  
+
+ 2,1. Stoffet anses  
+
+ ikke for  
+
+ bioakkumulerende.
+ Naturlig forekomst:
+ Forekommer ikke naturligt.
+ Vandkvalitetskriterie, diskussion og argumentation:
+ Da log  
+
+ Kow  
+
+ <  
+
+ 3 ses der ikke  
+
+ på fødekædeeffekter.
+ Der er EC50 værdier for tre  
+
+ trofiske  
+
+ niveauer og der er NOEC værdier for fisk og alger.
+ Da den laveste EC50 er for  
+
+ Daphnia  
+
+ magna  
+
+ (omkr. en faktor 10 lavere end for fisk og  
+
+ alger) og der således ikke er en NOEC fra den organisme, der var mest følsom  
+
+ i  
+
+ de akutte tests, bruges faktor 100 på laveste NOEC (TGD tabel 16, note (b))  
+
+ for  
+
+ VKK i ferskvand.
+ Da der ikke er data for saltvandsorganismer og den laveste  
+
+ EC50 er for  
+
+ Daphnia  
+
+ magna  
+
+ (omkr. en faktor 10 lavere end for fisk og alger) og den laveste NOEC således  
+
+ ikke  
+
+ er fra den organisme, der var mest følsom i de akutte tests, bruges faktor  
+
+ 1000  
+
+ på laveste NOEC (TGD tabel 25, note (b)) for VKK i saltvand.
+ VKK i  
+
+ ferskvand = 5 mg/l:100 = 5000 µg/l:100 = 50 µg/l.
+VKK i  
+
+ saltvand = 5 mg/l:1000 = 5000 µg/l:1000 = 5 µg/l KVKK  
+
+ = 8,5 mg/  
+
+ l :  
+
+ 100 = 85  
+
+
+
+m  
+
+  
+
+ g/l Stof D  
+
+ (CAS nr.  
+
+   .) [Problematik bl.a.: Laveste EC50  
+
+ < laveste NOEC] Strukturformel Vandkvalitetskriterie, ferskvand: 40 µg/l Vandkvalitetskriterie, saltvand: 4 µg/l Korttidsvandkvalitetskriterie  
+
+ : 40 µg/l Der er ingen EU eller OECD risikovurdering.
+ Følgende data er fundet og skønnet at være valide:
+ Opløselighed i  
+
+ vand:
+Opløseligheden i vand = 5 mg/l Giftighed overfor  
+
+ vandorganismer:
+Art Taksonomisk  
+
+ gruppe Varighed « Endpoint » Værdi mg/l Ferskvand Pimephales  
+
+ promelas Fisk 28 d NOEC 5 Scenedesmus  
+
+ subspicatus Alger 72 h NOEC 15 Scenedesmus  
+
+ subspicatus Alger 72 h EC50 70 Pimephales  
+
+ promelas Fisk 96 h LC50 90 Daphnia  
+
+ magna Krebsdyr 48 h EC50 4 Giftighed overfor  
+
+ pattedyr og mennesker:
+Stoffet anses ikke for kræftfremkaldende, mutagent eller  
+
+ skadeligt for forplantningen.
+Der er ingen oplysninger om ADI eller TDI  
+
+ værdier.
+ Nedbrydelighed i  
+
+ vand:
+ 50 % nedbrydning efter 28 dage i en OECD   
+
+ ready  
+
+ biodegradability  
+
+ test (nr.  
+
+ 301 A-F  
+
+ ). Stoffet anses ikke for let nedbrydeligt.
+ Bioakkumulering:
+ log  
+
+ Kow  
+
+ = 2,1.  
+
+ Stoffet betragtes ikke for  
+
+ bioakkumulerende.
+ Naturlig forekomst:
+ Forekommer ikke naturligt.
+ Vandkvalitetskriterie, diskussion og argumentation:
+ Da log  
+
+ Kow  
+
+ < 3 ses  
+
+ der ikke på fødekædeeffekter.
+ Der er EC50 værdier for tre  
+
+ trofiske  
+
+ niveauer og der er NOEC værdier for fisk og alger.
+ Da der ikke er en NOEC for  
+
+ Daphnia  
+
+ magna  
+
+ og den laveste EC50 er for D.  
+
+ magna  
+
+ (omkr. en faktor 10 lavere end for fisk og alger),  
+
+ ville man for ferskvand normalt bruge faktor 100 på laveste NOEC (TGD tabel  
+
+ 16,  
+
+ note (b)). I dette tilfælde er den laveste EC50 dog lavere end den laveste  
+
+ NOEC, og derfor bruges faktor 100 på den laveste EC50 (TGD tabel 16, note  
+
+ (b))  
+
+ for VKK i ferskvand.
+ Da der ikke er data for saltvandsorganismer og den laveste  
+
+ EC50 er for  
+
+ Daphnia  
+
+ magna  
+
+ (omkr. en faktor 10 lavere end for fisk og alger) ville man for saltvand  
+
+ normalt bruge faktor 1000 på laveste NOEC (TGD tabel 16, note (b)). I dette  
+
+ tilfælde er den laveste EC50 dog lavere end den laveste NOEC, og derfor  
+
+ bruges  
+
+ faktor 1000 på den laveste EC50 (TGD tabel 25, note (b)) for VKK i saltvand.
+ VKK i  
+
+ ferskvand = 4 mg/l:100 = 4000 µg/l:100 = 40 µg/l.
+ VKK i  
+
+ saltvand = 4 mg/l:1000 = 4000 µg/l:1000 = 4 µg/l.
+KVKK  
+
+ = 4 mg/  
+
+ l :  
+
+ 100 = 40 µg/l Stof E  
+
+ (CAS nr.  
+
+   .) [Problematik bl.a.: Mange EC50, ingen  
+
+ oplysninger om havorganismer,  
+
+ carcinogent  
+
+ men ellers  
+
+ ingen oplysninger om pattedyr og fugle,  
+
+ bioakkumulerende,  
+
+ ikke let nedbrydeligt] Strukturformel Vandkvalitetskriterie, ferskvand: 8,5  
+
+m  
+
+  
+
+ g/l Vandkvalitetskriterie, saltvand: 0,85  
+
+m  
+
+  
+
+ g/l Korttidsvandkvalitetskriterie  
+
+ : 8,5  
+
+m  
+
+  
+
+ g/l Der er ingen EU eller OECD risikovurdering.
+ Følgende data er fundet og skønnet at være valide:
+ Opløselighed i  
+
+ vand:
+Opløseligheden i vand = 0,1 mg/l Giftighed overfor vandorganismer:
+Art Taksonomisk  
+
+ gruppe Varighed « Endpoint » Værdi mg/l Ferskvand Alger, 2  
+
+ arter  
+
+ (  
+
+ ferskvands  
+
+ -) Alger 72 h EC50 Mindste værdi 70 Fisk,  
+
+ 6 arter  
+
+ (  
+
+ ferskvands  
+
+ -) Fisk 96 h LC50 Mindste værdi 90 Krebsdyr,  
+
+ 4 arter  
+
+ (  
+
+ ferskvands  
+
+ -) Krebsdyr 48 h EC50 Mindste værdi 8,5 2  
+
+ arter bløddyr  
+
+ (  
+
+ ferskvands  
+
+ -) Bløddyr 96 h EC50 Mindste værdi 80 2  
+
+ arter insekter  
+
+ (  
+
+ ferskvands  
+
+ -) Insekter 96 h EC50 Mindste værdi 20 Giftighed overfor  
+
+ pattedyr og mennesker:
+Stoffet er klassificeret som havende kræftfremkaldende  
+
+ effekter  
+
+ (  
+
+ Carc.  
+
+ 2) Derudover er der ingen oplysninger om effekter på pattedyr  
+
+ og fugle og ej heller om ADI eller TDI værdier.
+ Nedbrydelighed:
+ 5 % nedbrydning efter 28 dage i en OECD   
+
+ ready  
+
+ biodegradability  
+
+ test (nr.  
+
+ 301 A-F  
+
+ ). Stoffet anses ikke for let nedbrydeligt.
+ Bioakkumulering:
+ log  
+
+ Kow  
+
+ = 4. Stoffet  
+
+ betragtes som  
+
+ bioakkumulerende.
+ Naturlig forekomst:
+ Forekommer ikke naturligt.
+ Vandkvalitetskriterie, diskussion og argumentation:
+ Der haves mange EC50 værdier fra korttidsforsøg på 16  
+
+ arter fra 5 overordnede taksonomiske grupper, derfor ville man normalt bruge  
+
+ faktor 100 på laveste EC50 for ferskvand.
+ Da ingen af arterne hører til i saltvand anvendes en  
+
+ faktor på  
+
+ 10000  
+
+ på laveste EC50 for VKK i saltvand.
+ I dette eksempel er stoffet dog ikke let nedbrydeligt, det  
+
+ regnes for at have potentiale for bioakkumulering og det er  
+
+ kræftfremkaldende.
+ Da der er en indikation af stærk tendens til  
+
+ bioakkumulering og stoffet er svært nedbrydeligt anvendes faktor ved  
+
+ beregning  
+
+ af KVKK.
+ Da log  
+
+ Kow  
+
+ >  
+
+ 3 bør fødekædeeffekter inddrages, men med de givne data er det ikke muligt at  
+
+ beregne  
+
+ PNECsecondarypoisoning,  
+
+ water  
+
+ eller  
+
+ PNEChumanhealth,  
+
+ water.
+ Derfor bruges en ekstra faktor 10, så den samlede faktor  
+
+ for ferskvand bliver 1000. For saltvand anvendes normalt ikke en større  
+
+ faktor  
+
+ end  
+
+ 10000.
+VKK i  
+
+ ferskvand = 8,5 mg/l:1000 = 8,5  
+
+
+
+m  
+
+  
+
+ g/l VKK i  
+
+ saltvand  
+
+ =  
+
+ 8,5 mg/l: 10000 = 0,85  
+
+
+
+m  
+
+  
+
+ g/l KVKK  
+
+ = 8,5 mg/  
+
+ l :  
+
+ 1000 = 8,5  
+
+
+
+m  
+
+  
+
+ g/l Stof F  
+
+ (CAS nr.  
+
+   .) [Problematik bl.a.: Data for havorganismer  
+
+ udover basissæt, mange NOEC] Strukturformel Vandkvalitetskriterie, ferskvand: 6  
+
+m  
+
+  
+
+ g/l Vandkvalitetskriterie, saltvand: 6  
+
+m  
+
+  
+
+ g/l Korttidsvandkvalitetskriterie  
+
+ : 6  
+
+m  
+
+  
+
+ g/l Der er ingen EU eller OECD risikovurdering.
+ Følgende data er fundet og skønnet at være valide:
+ Opløselighed i  
+
+ vand:
+Opløseligheden = 5 mg/l Giftighed overfor  
+
+ vandorganismer:
+Art Taksonomisk  
+
+ gruppe Varighed Effekt « Endpoint » Værdi µg/l Ferskvand Scenedesmus  
+
+ quadricauda Alger 72 t Vækstrate EC50 800 Daphnia  
+
+ magna Krebsdyr 48 t LC50 500 Pimephales  
+
+ promelas Fisk 96 t LC50 1200 Pimephales  
+
+ promelas Fisk 28 d Larve-overlevelse  
+
+ og  
+
+ vægt NOEC 100 Scenedesmus  
+
+ quadricauda Alger 72 t Vækstrate NOEC 200 Daphnia  
+
+ magna Krebsdyr 21 d Reproduktion NOEC 60 Saltvand Mysidopsis  
+
+ bahia Krebsdyr 96 t LC50 590 Limanda  
+
+ limanda Fisk 60 d Klækning og larvevægt NOEC 80 Echinus  
+
+ esculentus Søpindsvin 100 d Reproduktion NOEC 250 Hydrobia  
+
+ ulvae Snegl 96 d Reproduktion NOEC 150 Giftighed overfor  
+
+ pattedyr og mennesker:
+Stoffet anses ikke for kræftfremkaldende, mutagent eller  
+
+ skadeligt for forplantningen.
+Der er ikke fundet ADI eller TDI værdier.
+ Nedbrydelighed:
+ 80 % nedbrydning indenfor 10 dages vindue i 28 dages  
+
+ OECD test for   
+
+ ready  
+
+ biodegradability  
+
+   
+
+ (nr. 301 A-F  
+
+ ). Stoffet betragtes som  
+
+ let nedbrydeligt.
+ Bioakkumulering:
+ log  
+
+ Kow  
+
+ = 2. Stoffet  
+
+ betragtes ikke som  
+
+ bioakkumulerende.
+ Naturlig forekomst:
+ Stoffet forekommer ikke naturligt.
+ Vandkvalitetskriterie, diskussion og argumentation:
+ Da log  
+
+ Kow  
+
+ < 3 ses  
+
+ der ikke på fødekædeeffekter.
+ Da der er NOEC værdier for mere end 3 arter fra mere end  
+
+ tre overordnede taksonomiske grupper og alle EC50 værdier er større end NOEC  
+
+ værdierne vil man for VKK i ferskvand anvende UF = 10 på laveste NOEC.
+ Da der er NOEC værdier for mere end 3 arter fra mere end  
+
+ tre overordnede taksonomiske grupper og to af disse er for havorganismer, der  
+
+ ikke er fra basissættet vil man for VKK i saltvand anvende UF = 10 på laveste  
+
+ NOEC.
+VKK i  
+
+ ferskvand = VKK i saltvand = 60  
+
+
+
+m  
+
+  
+
+ g/l:10 = 6  
+
+
+
+m  
+
+  
+
+ g/l KVKK = 500  
+
+m  
+
+  
+
+ g/  
+
+ l :  
+
+ 100 = 5  
+
+m  
+
+  
+
+ g/l Da denne værdi er mindre end VKK sættes KVKK  
+
+ = VKK = 6  
+
+
+
+m  
+
+  
+
+ g/l Stof G  
+
+ (CAS nr.  
+
+   .) [Problematik bl.a.: Naturligt forekommende  
+
+ stof, f.eks. et metal] Strukturformel Vandkvalitetskriterie, ferskvand: 1  
+
+m  
+
+  
+
+ g/l  
+
+ tilføjet Vandkvalitetskriterie, saltvand: 1  
+
+m  
+
+  
+
+ g/l  
+
+ tilføjet Øvre grænser: 20  
+
+m  
+
+  
+
+ g/l  
+
+ i ferskvand og 2  
+
+m  
+
+  
+
+ g/l i  
+
+ saltvand Korttidsvandkvalitetskriterie  
+
+ : 1  
+
+m  
+
+  
+
+ g/l  
+
+ tilføjet Der er ingen EU eller OECD risikovurdering.
+ Følgende data er fundet og skønnet at være valide:
+ Opløselighed i  
+
+ vand:
+ Opløseligheden = 0,1 mg/l.
+ Giftighed overfor  
+
+ vandorganismer:
+EC50 NOEC Zebrafisk 200  
+
+m  
+
+  
+
+ g/l 50  
+
+m  
+
+  
+
+ g/l Daphnia  
+
+ magna 100  
+
+m  
+
+  
+
+ g/l 10  
+
+m  
+
+  
+
+ g/l Selenastrum  
+
+ capricornutum  
+
+ (alger) 90  
+
+m  
+
+  
+
+ g/l 20  
+
+m  
+
+  
+
+ g/l Søpindsvin 150  
+
+m  
+
+  
+
+ g/l 20  
+
+m  
+
+  
+
+ g/l Strandsnegle m  
+
+  
+
+ g/l 30  
+
+m  
+
+  
+
+ g/l Rygsvømmere (insekter) >200  
+
+m  
+
+  
+
+ g/l 100  
+
+m  
+
+  
+
+ g/l Giftighed overfor  
+
+ pattedyr og fugle:
+ 100 dages fodringsforsøg med vagtler: NOEC = 45 g/kg føde.
+ Giftighed overfor  
+
+ mennesker:
+ Er ikke noteret for at være kræftfremkaldende, mutagent  
+
+ eller skadeligt for forplantningen.
+ Nedbrydelighed:
+ Ikke let nedbrydeligt.
+ Bioakkumulering:
+BCF = 5500 Naturlig forekomst:
+ Naturlig baggrundskoncentration 1  3  
+
+m  
+
+  
+
+ g/l.
+ Vandkvalitetskriterie  
+
+ :
+ Der er langtids NOEC værdier for 5 overordnede  
+
+ systematiske, samt en  
+
+ korttids  
+
+ NOEC for alger, der  
+
+ dækker mindst 3  
+
+ trofiske  
+
+ niveauer, herunder de to  
+
+ havlevende  
+
+ grupper (udover basissættet) søpindsvin og  
+
+ strandsnegle.
+ VKKferskvand  
+
+ =  
+
+ VKKsaltvand,  
+
+ og der vælges en UF =  
+
+ 10, der bruges på laveste NOEC.
+ VKK bliver således 10  
+
+m  
+
+  
+
+ g/l:10 = 1  
+
+m  
+
+  
+
+ g/l.
+ Da BCF > 100 tages fødekædeeffekter i betragtning:
+ BMF sættes lig 10 (TGD tabel 21 og 29).
+ NOEC i fodringsforsøg med fugle var 45 g/kg føde.
+ PNECføde  
+
+ = NOEC:30  
+
+ (tabel 23 i TGD) = 45 g/kg føde:30 = 1,5 g/kg føde.
+ Ferskvand:  
+
+ PNECsec.pois.w  
+
+ =  
+
+ PNECføde  
+
+ :BCF*BMF  
+
+ = 1.500.000  
+
+m  
+
+  
+
+ g/l:5500*10  
+
+ = 27  
+
+m  
+
+  
+
+ g/l  
+
+»  
+
+  
+
+ 20  
+
+m  
+
+  
+
+ g/l.
+ Saltvand:  
+
+ PNECsec.pois.w  
+
+ = PNECføde  
+
+ :BCF*BMF1*BMF2 = 1.500.000  
+
+m  
+
+  
+
+ g/l:5000*10*10 = 2,7  
+
+m  
+
+  
+
+ g/l  
+
+»  
+
+  
+
+ 2  
+
+m  
+
+  
+
+ g/l.
+Stoffet er naturligt forekommende og det beregnede VKK vil  
+
+ være omkring eller under den naturlige baggrundskoncentration.
+Derfor bruges  
+
+ værdien som en værdi tilføjet den naturlige baggrundskoncentration.
+ Som øvre grænse for VKK bruges  
+
+ PNECsec.pois.w.
+ Korttidskvalitetskriteriet  
+
+ (KVKK) beregnes som laveste EC50  
+
+ : 100 = 90  
+
+m  
+
+  
+
+ g/l:100 = 0,9  
+
+m  
+
+  
+
+ g/l.  
+
+ Denne værdi er mindre end VKK, derfor sættes KVKK = VKK.
+VKKferskvand  
+
+ =  
+
+ VKKsaltvand  
+
+ = 1  
+
+m  
+
+  
+
+ g/l tilføjet Øvre grænse for ferskvand = 20  
+
+m  
+
+  
+
+ g/l og for saltvand = 2  
+
+m  
+
+  
+
+ g/l KVKK = 1  
+
+m  
+
+  
+
+ g/l  
+
+ tilføjet Stof H  
+
+ (CAS nr.  
+
+   .) [Problematik bl.a.: Manglende NOEC for  
+
+ gruppen med laveste EC50] Strukturformel Vandkvalitetskriterie, ferskvand: 2  
+
+ ng  
+
+ /l Vandkvalitetskriterie, saltvand: 2  
+
+ ng  
+
+ /l Korttidsvandkvalitetskriterie  
+
+ : 90  
+
+ ng  
+
+ /l Der er ingen EU eller OECD risikovurdering.
+ Følgende data er fundet og skønnet at være valide:
+ Opløselighed i  
+
+ vand:
+ Opløseligheden i vand = 0,1 mg/l.
+ Giftighed overfor  
+
+ vandorganismer:
+Art Taksonomisk  
+
+ gruppe Varighed « Endpoint » Værdi mg/l Ferskvand Pimephales  
+
+ promelas Fisk 28 d NOEC 0,01 Daphnia  
+
+ magna Krebsdyr 21d NOEC 0,008 Scenedesmus  
+
+ subspicatus Alger 72 h NOEC 0,02 Scenedesmus  
+
+ subspicatus Alger 72 h EC50 0,15 Pimephales  
+
+ promelas Fisk 96 h LC50 0,2 Daphnia  
+
+ magna Krebsdyr 48 h EC50 0,09 Giftighed overfor  
+
+ pattedyr og mennesker:
+Stoffet anses ikke for kræftfremkaldende, mutagent eller  
+
+ skadeligt for forplantningen.
+Der er fundet en WHO ADI på 0,2 µg pr. kg  
+
+ legemsvægt pr. dag.
+Der er ikke fundet yderligere data for pattedyr og fugle.
+ Nedbrydelighed i  
+
+ vand:
+ 50 % nedbrydning efter 28 dage i en OECD   
+
+ ready  
+
+ biodegradability  
+
+ test (nr.  
+
+ 301 A-F  
+
+ ). Stoffet anses ikke for let nedbrydeligt.
+ Bioakkumulering:
+ log  
+
+ Kow  
+
+ =  
+
+ 4,7. BCF = 2500.  
+
+ Stoffet anses for at være  
+
+ bioakkumulerende.
+ Naturlig forekomst:
+ Forekommer ikke naturligt.
+ Vandkvalitetskriterie, diskussion og argumentation:
+ Da log  
+
+ Kow  
+
+ > 3 ses  
+
+ der på fødekædeeffekter.
+ Der er EC50 værdier  
+
+ for tre  
+
+ trofiske  
+
+ niveauer og der er NOEC værdier for  
+
+ fisk, krebsdyr og alger.  
+
+ men ingen værdier for  
+
+ havlevende  
+
+ organismer.
+ VKK uden  
+
+ hensyntagen til bioakkumulering og  
+
+ persistens  
+
+ bliver  
+
+ derfor laveste NOEC divideret med 10 for ferskvand og divideret med 100 for  
+
+ saltvand:
+VKK i ferskvand =  
+
+ 8  
+
+ µg  
+
+ /l VKK i saltvand  
+
+ =  
+
+ 0,8 µg/L Der er ingen data for pattedyr og fugle, men der er fundet  
+
+ en WHO ADI værdi på 0,2 µg pr. kg legemsvægt pr. dag.
+ Bidraget via fisk og andre vandlevende udgør højst  
+
+ 10%, dvs. 0,2 µg pr. kg legemsvægt pr. dag:10 = 0,02 µg/kg  
+
+ lgv. pr. dag.
+ Der regnes med at en gennemsnitsborger er på 70 kg og at  
+
+ denne spiser 115 g fisk pr. dag.
+ Føden må således højst indeholde 0,02 µg*70 pr. kg pr. dag  
+
+ = 1,4 µg pr. kg/dag.
+Dette svarer til at koncentrationen i fisk (eller andre  
+
+ fødemidler fra havet) højst må være 1,4 µg:0,115 kg = 12,2 µg/kg fisk =  
+
+ PNECoral PNEChhw  
+
+ =  
+
+ PNECoral  
+
+ :BCF*BMF Ifølge tabel 21 i  
+
+ TGDen  
+
+ sættes  
+
+ BMF = 2 når BCF er mellem 2000 og 5000.
+ PNEChhw  
+
+ = 12,2 µg/kg  
+
+ fisk:2500*2 = 0,0024 µg/l  
+
+»  
+
+  
+
+ 2  
+
+ ng  
+
+ /l.
+ Da VKK i ferskvand og VKK i saltvand uden  
+
+ korrigering  
+
+ for bioakkumulering er større end  
+
+ PNEChhw, anvendes  
+
+ PNEChhw  
+
+ som det generelle VKK.

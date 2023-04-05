@@ -1,0 +1,228 @@
+1. Gyldighedsområde Cirkulæret giver - ud fra bestemmelserne i Cirkulære nr. 1  
+
+ (Landstransmissionsplanen) og Cirkulære nr. 21 (Trafikdirigering) -  
+
+ forskrifter for den transmissionsmæssige dimensionering af  
+
+ abonnentledningsnettet i det offentlige danske telefonnet.
+ Det eksisterende abonnentledningsnet skal i den udstrækning, de praktiske  
+
+ muligheder tillader det, bringes i overensstemmelse med cirkulærets  
+
+ bestemmelser.
+2. Dimensioneringsgrundlag Cirkulæret er baseret på, at det maksimalt tilladelige referenceækvivalent  
+
+ for en international telefonforbindelse er fordelt som vist i bilag 4, hvor  
+
+ der tillige er angivet betegnelser for de nationale delstrækningers dæmpning.
+ Cirkulæret er endvidere baseret på de af teleadministrationerne godkendte  
+
+ materialetyper og normalt anvendte metoder.
+3. Definitioner og betegnelser De i Cirkulærerne nr. 1 og nr. 21 angivne definitioner og betegnelser  
+
+ benyttes i nærværende cirkulære og er anført i de afsnit af cirkulæret, hvor  
+
+ de anvendes.
+ De i nærværende cirkulære anførte bilagsnumre henviser til en fælles  
+
+ bilagssamling for Cirkulære nr. 1 med tilhørende undercirkulærer.
+4. Dimensionering af abonnentledninger 4.0. Abonnentledning En abonnentledning omfatter - foruden ledningen - alt til denne knyttet  
+
+ udstyr, som måtte være indskudt mellem abonnentinstallationen og den central,  
+
+ under hvilken den pågældende abonnent hører.
+En abonnentledning forudsættes  
+
+ således at have sit ene afgrænsningspunkt i en centrals krydsfelt - normalt  
+
+ på dettes kabelside, men i givet fald dog på centralsiden af udstyr, som er  
+
+ anbragt i krydsfeltet, og som er nødvendig for tilpasning af  
+
+ abonnentledningens transmissionsmæssige egenskaber - og sit andet  
+
+ afgrænsningspunkt i første koblingspunkt hos abonnenten i den bygning, hvor  
+
+ hovedapparatet befinder sig.
+ Eksempelvis hører såvel en i en abonnentledning indskudt ledningsbegrænser  
+
+ (til besparelse i ledningsantallet) som de herved opståede ledningsafsnit med  
+
+ til abonnentledningen.
+ For en given central er rækkevidden af de forskellige  
+
+ abonnentledningstyper afhængig af disses dæmpning og sløjfemodstand.
+4.1. Dæmpningen,dA dB Dæmpningen af en abonnentledning, dA dB bestemmes ved:
+dA = a x l (dB), hvor a dB/km er regneværdien for dæmpningskonstanten, se bilag 2,  
+
+ og l km er ledningens længde.
+ Er abonnentledningen sammensat af dellængder med forskellige lederdiametre  
+
+ og/eller -materialer, beregnes dæmpningen som summen af dellængdernes  
+
+ dæmpning:
+ dA = a1 x l1 + a2 x l2 + ... (dB).
+ Såfremt der i abonnentledningen er indskudt en ledningsbegrænser, skal  
+
+ dennes dæmpning medtages.
+dAdB må ikke overkride den for en given central fastsatte værdi, dAmaxdB.
+ dAmaxdB bestemmes af:
+dAmax = Ammaxlok - t - M (dB) eller dAmax = Asmaxlok - t - S (dB), hvor Ammaxlok dB er den maksimalt tilladelige værdi for det lokale modtageækvivalent, der  
+
+ er til rådighed for abonnentledningsnettet under den pågældende central.
+Se  
+
+ punkt 5.
+Asmaxlok dB er den maksimalt tilladelige værdi for det lokale sendeækvivalent, der er  
+
+ til rådighed for abonnentledningsnettet under den pågældende central.
+t dB er den nominelle dæmpning af abonnentinstallationen, der beregnes som  
+
+ summen af dæmpningerne af ledningerne mellem abonnentledningens  
+
+ afgrænsningspunkt i abonnentinstallationen og telefonapparatets linieklemmer  
+
+ samt dæmpningen af eventuelle ekstrainstallationer og dertil hørende  
+
+ abonnenthjælpeudstyr.
+M dB er telefonapparatets modtageækvivalent.
+S dB er telefonapparatets sendeækvivalent.
+ Ved dimensionering af abonnentledninger sættes:
+t = 1,5 (dB), M = - 2,5 (dB) og S = 6,5 (dB).
+ Heraf fås:
+dAmax = Ammaxlok + 1 (dB) eller dAmax = Asmaxlok - 8 (dB).
+ Da de nationale delstrækningers dæmpning for hver enkelt central har samme  
+
+ værdi for sende- og modtageretning, se bilag 4, og da t, M og S ansættes som  
+
+ ovenfor anført, er S - M = 9 (dB).
+ Derfor er dAmax i det følgende alene bestemt ud fra Ammaxlok.
+En abonnentinstallation, for hvilken forudsætningerne for ansættelsen af  
+
+ de foran anvendte værdier for S, M og t ikke er til stede, må kun etableres,  
+
+ dersom en særlig undersøgelse med anvendelse af de foreliggende værdier for S, M og t viser, at betingelserne for dA er opfyldt.
+4.2. Sløjfemodstanden, ( R x l + r )  
+
+ohm ( R x l ) ohm er sløjfemodstanden af abonnentledningen og  
+
+ bestemmes af dennes ledningslængde l km og regneværdien for  
+
+ modstandskonstanten R ohm/km, som for de forskellige ledningstyper  
+
+ findes på bilag 2.
+ Er abonnentledningen sammensat af dellængder med forskellige lederdiametre  
+
+ og/eller -materialer, beregnes sløjfemodstanden som summen af dellængdernes  
+
+ sløjfemodstand:
+R x l = R1 x l 1 + R2 x l2 + ...(ohm) r ohm er sløjfemodstanden af alt, hvad der ud over (R x l ) ohm  
+
+ forekommer af seriemodstand i abonnentledningen, f.eks. i en  
+
+ ledningsbegrænser samt i givet fald sløjfemodstanden af ekstraapparatledning  
+
+ til et apparat uden for den bygning, i hvilken hovedapparatet befinder sig,  
+
+ såfremt apparatet benyttes uden lokal strømfødning.
+ Normalt dimensioneres abonnentledningsnettet under anvendelse af r = 0  
+
+ under forudsætning af, at hele abonnentinstallationen inklusive eventuelle  
+
+ ekstraapparater befinder sig i samme bygning, samt at ledningsbegrænser ikke  
+
+ foreligger.
+(R x l + r) må ikke overskride den for en given centraltype fastsatte værdi (R x l + r)max.
+Se bilag 1.
+5. Centralernes maksimale modtageækvivalent Den maksimalt tilladelige værdi for det lokale modtageækvivalent, Ammaxlok dB for en given lokalcentral fastsættes på grundlag af:
+ Beregningerne gennemføres som anført i punkterne 5.1 og 5.2.
+5.l.
+Forbindelse med firtrådsnettet opnås i centralen selv Der forekommer ikke totråds centralledninger på vejen mod N-centralen i  
+
+ København.
+Se bilag 4 fig. 1.
+ Man har:
+Ammaxlok = 10 - n x 0.5 - c(4-A)2 (dB), hvor Ammaxlok dB er den maksimalt tilladelige værdi for det lokale modtageækvivalent, der  
+
+ er til rådighed for abonnentledningsnettet under den pågældende central.
+Se  
+
+ bilag 5.
+n er det største antal sammenstillinger på talefrekvensbasis af  
+
+ firtrådsledninger, som kan forekomme mellem centralen og det internationale  
+
+ ledningsnet.
+ n-værdier for transitcentralerne, fremgår af bilag 5.
+ Såfremt centralen er en U-central, er n-værdien een større end n- værdien  
+
+ for den transitcentral, hvortil U-centralen er knyttet.
+c(4-A)2 dB er den del af centraltabet, som ved sammenstilling af en firtråds ledning  
+
+ med en abonnentledning forekommer i en centrals totråds kredsløb.
+Se bilag 1.
+5.2. Forbindelse med firtrådsnettet opnås ikke i centralen selv Der vil på vejen mod N-centralen i København forekomme en totråds  
+
+ centralledning.
+Se bilag 4, fig. 2.
+ Man har for transitcentralen:.
+Ammax = 10 - n x 0.5 - c(4-2C)2 (dB) og for den underordnede central:.
+Ammaxlok = Ammax - (d - k) - c(2C-A)2 (dB), hvor Ammax dB er den maksimalt tilladelige værdi for det modtageækvivalent, der i  
+
+ transitcentralen er til rådighed for det underliggende totrådsnet, bestående  
+
+ af totråds centralledninger, undercentraler og de til disse knyttede  
+
+ abonnentledningsnet.
+Se bilag 5.
+n er det største antal sammenstillinger på talefrekvensbasis af firtråds  
+
+ ledninger, som kan forekomme mellem centralen og det internationale  
+
+ ledningsnet.
+Se bilag 5.
+c(4-2C)2 dB er den del af centraltabet, som ved sammenstilling af en firtrådsledning  
+
+ med en totråds centralledning forekommer i transitcentralens totråds  
+
+ kredsløb.
+Se bilag 1.
+d dB er dæmpningen af totråds centralledningen inklusive eventuelle  
+
+ transformatortab.
+Se bilag 2.
+k dB er den eventuelle dæmpningskompensation af totråds centralledningen.
+Se  
+
+ cirkulære nr. 1C.
+c(2C-A)2 dB er det centraltab, som ved sammenstilling af en totråds centralledning med  
+
+ en abonnentledning forekommer i centralens totråds kredsløb.
+Se bilag 1.
+5.3. Specielle forhold Såfremt økonomiske og/eller praktiske grunde taler derfor, f.eks. hensynet  
+
+ til benyttelse af eksisterende totråds centralledninger (tværledninger) i  
+
+ nettet, jf.
+Cirkulære nr. 1B, kan værdien Ammaxlok for en central ansættes  
+
+ til en lavere værdi, end ovenstående beregning fører til.
+6. Pupinisering af abonnentledninger Abonnentledninger må kun undtagelsesvis pupiniseres.
+7. Dæmpningsforvrængning Dæmpningsforvrængningen i en abonnentledning er begrænset tilstrækkeligt,  
+
+ dersom ledningsnettet er dimensioneret i overensstemmelse med nærværende krav  
+
+ til de maksimalt tilladelige dæmpninger samt anvendelse af godkendt materiel.
+8. Særtilfælde Foranstående regler for dimensionering af abonnentledninger vil kunne  
+
+ benyttes i praktisk talt alle forekommende tilfælde.
+Ved eventuelle  
+
+ særtilfælde henvises til Cirkulære nr. 1 (Landstransmissionsplanen).
+ (* 1) I konsekvens af ændret arbejdsdeling på telekommunikationsområdet  
+
+ pr. 1.1.1991 ophæves cirkulæret som statslig forskrift, idet ansvaret for  
+
+ disse bestemmelser, der vedrører interne forhold i Tele Danmark A/S, er  
+
+ overgået til dette selskab.

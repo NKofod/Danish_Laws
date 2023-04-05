@@ -1,0 +1,1676 @@
+CIRKULÆRE NR. 1 LANDSTRANSMISSIONSPLAN 1974 Principper, retningslinier og foreskrifter for den transmissionsmæssige  
+
+ opbygning og funktion af talevejene i det offentlige danske telefonnet.
+ Nærværende plan skal følges i alle spørgsmål af transmissionsmæssig art og  
+
+ indeholder det transmissionsmæssige grundlag for Telefontilsynets øvrige  
+
+ cirkulærer.
+Oversigtsskema 2 +++SKEMA+++ Oversigtsskema 3 +++SKEMA+++ Tabel 1 anvendes ved trafik på tovejs og envejs afgående  
+
+  ledninger fra underordnet central af type LME (L.
+M.
+Ericsson) og KKT  
+
+ (Kristian Kirks Telefonfabriker) uden registre til overordnet central.  
+
+ Tabellen indeholder signaler for overføring af debitering samt tidsudløsning.
+ For tovejs-kredse anvendes tabel 4 for modsat trafikretning.
+Tabel 2 anvendes ved trafik på tovejs og envejs afgående  
+
+  ledninger fra underordnet central af type St.
+E (Standard Electric)  
+
+uden registre til overordnet central.
+Tabellen indeholder signaler for  
+
+ overføring af debitering samt tidsudløsning.
+ For tovejs-kredse anvendes tabel 4 for modsat trafikretning.
+Tabel 3 anvendes ved trafik på tovejs og envejs afgående  
+
+  ledninger fra registercentraler , hvortil svarsignal ikke skal  
+
+ overføres.
+Tabellen indeholder signaler for overføring af debitering samt  
+
+ tidsudløsning.
+ For tovejs-kredse anvendes normalt tabel 4 for modsat trafikretning, men  
+
+ tabel 3 kan undtagelsesvis anvendes på tværledninger, hvor svar ikke skal  
+
+ overføres i nogen af retningerne.
+ Tabel 4 anvendes ved trafik på tovejs og envejs afgående  
+
+  ledninger fra registercentraler , hvortil svarsignal skal overføres.  
+
+ Tabellen indeholder signaler for overføring af svar (talestilling) og  
+
+ B-pålægning.
+ Regler for mødende opkald på tovejs ledninger.
+På tovejs ledninger kan der blive foretaget opkald samtidigt i begge  
+
+ trafikretninger (mødende opkald). Hvor dette forekommer, har den  
+
+ trafikretning, som benytter tabel 4, præference.
+Den trafik, som benytter  
+
+ tabel 1, 2 eller 3 for afgående trafik, skal ved mødende opkald modtage det  
+
+ ankommende opkald og foretage sit afgående opkald på en anden ledning  
+
+ (omvalg).
+Anvendes tabel 4 i begge trafikretninger, bør det aftales, hvilken  
+
+ central, der skal foretage omvalg, således at tab af opkald ikke forekommer  
+
+ ved mødende opkald.
+Det anbefales, at omvalget foretages i den central, som  
+
+ har lavest rang i trafikdirigeringshierarkiet.
+Hvor dette ikke kan afgøres,  
+
+ anbefales det at foretage omvalget i den central, hvis navns  
+
+ begyndelsesbogstav kommer sidst i alfabetet.
+Det kan også forekomme, at tabel 3 undtagelsesvis anvendes i begge  
+
+ trafikretninger.
+For at undgå at begge centraler ved mødende opkald foretager  
+
+ omvalg, anbefales det i dette tilfælde at benytte samme regler som i de  
+
+ tilfælde, hvor tabel 4 anvendes i begge trafikretninger.
++++SKEMA+++ LANDSTRANSMISSIONSPLAN 1974 1. Indledning 1.0. Gyldighedsområde a.
+Nærværende cirkulære angiver principper, retningslinier og  
+
+ forskrifter for den transmissionsmæssige opbygning og funktion af talevejene  
+
+ i det offentlige fuldautomatiske danske telefonnet og indeholder det  
+
+ transmissionsmæssige grundlag for Telefontilsynets øvrige cirkulærer.
+ Visse forskrifter for trafikdirigeringen er bestemt af  
+
+ transmissionsmæssige forhold og derfor indbefattet i cirkulæret.
+ Det bemærkes, at cirkulæret også gælder for telefonistetablerede  
+
+ forbindelser i det fuldautomatiske telefonnet.
+b.
+De ved det eksisterende offentlige danske telefonnet  
+
+ foreliggende forhold, som ikke allerede måtte være i overensstemmelse med  
+
+ cirkulærets bestemmelser, skal i den udstrækning, de praktiske muligheder  
+
+ tillader det, ændres således, at cirkulærets krav tilfredsstilles med hensyn  
+
+ til såvel nettets opbygning som dets funktion.
+ c. Ændringer og udbygninger i delvist eller fuldt manuelt betjente  
+
+ områder skal i transmissionsmæssig henseende dimensioneres med kommende  
+
+ fuldautomatisering for øje og derfor ligeledes i overensstemmelse med  
+
+ cirkulærets bestemmelser.
+d.
+Ledningssammenstillinger i delvist eller fuldt manuelt betjente  
+
+ områder skal i størst mulig udstrækning foretages således, at den samlede  
+
+ forbindelse udviser overensstemmelse med cirkulærets bestemmelser.
+1.1. Relation til CCITT's anbefalinger a . Enhver forbindelse, som stilles mellem udlandet og en abonnent  
+
+ her i landet, skal etableres således, at den udviser overensstemmelse med  
+
+ internationalt anerkendte og vedtagne principper og anbefalinger for  
+
+ transmission.
+ Denne hovedregel skal - under iagttagelse af bestemmelserne under pkt.  
+
+ 1.0. - også følges, når der er tale om en rent national forbindelse mellem to  
+
+ abonnenter her i landet.
+ Nærværende cirkulæres indhold er derfor i alt væsentligt baseret på  
+
+ CCITT's anbefalinger, plenarforsamling V, Geneve 1972.
+b.
+Med hensyn til transmissionsmæssige forhold, som ikke er  
+
+ behandlet i cirkulæret eller kun berørt i dette, henvises til de foran nævnte  
+
+ anbefalinger fra CCITT, for så vidt de omfatter de pågældende forhold.
+2. Definitioner 2.0. Generelt a.
+De i nærværende cirkulære indførte definitioner, begreber,  
+
+ benævnelser og betegnelser påregnes kun anvendt i overensstemmelse med  
+
+ cirkulærets gyldighedsområde og tager kun sigte på de transmissionsmæssige  
+
+ forhold i det offentlige telefonnet og således kun på materiel, som indgår i  
+
+ dette.
+2.1. Ledninger a.
+Med hensyn til ledningers transmissionsmæssige egenskaber  
+
+ skelnes der principielt mellem totråds ledninger og firtråds  
+
+ ledninger.
+ Ved en totråds ledning forstås en ledning, over hvilken  
+
+talefrekvensområdet, 300-3400 Hz, uden frekvenstransformation kan  
+
+ overføres samtidigt i de to transmissionsretninger på et trådpar.
+Ved en firtråds ledning forstås en ledning, over hvilken  
+
+ talefrekvensområdet overføres i hver sin (enkeltrettede) kanal i de to  
+
+ transmissionsretninger.
+De hertil nødvendige to kanaler kan være kanaler i et  
+
+tids- eller frekvensmultiplekssystem, f.eks.  PCM  
+
+ kanaler på to trådpar eller bærefrekvenskanaler på et eller to  
+
+ trådpar.
+b.
+Med hensyn til ledningers driftsmæssige funktion skelnes der i  
+
+ det følgende mellem abonnentledninger og centralledninger.
+ Ved en abonnentledning forstås en ledning mellem en abonnentinstallation  
+
+ og den central, under hvilken den pågældende abonnent hører.
+ Ved en centralledning forstås en ledning mellem to centraler (vedrørende  
+
+ lednings- og centralafgrænsninger henvises til pkt. 2.4. i nærværende  
+
+ cirkulære).
+ En international ledning er en centralledning mellem to centraler,  
+
+ som er beliggende i hver sit land.
+ En ledning, som formidler trafik mellem en central og en lille central af  
+
+ karakter som en PABC eller et omstillingsbord (f.eks. en lille central på en  
+
+ lille ø), opfattes i nærværende cirkulære som en abonnentledning.
+ Abonnentledninger forudsættes indtil videre normalt at være totråds  
+
+ ledninger, jf. dog pkt. 3.1.b. i nærværende cirkulære.
+ Centralledninger kan være såvel firtråds som totråds ledninger.
+c.
+Ud over de foran i pkt. 2.1.b. nævnte abonnent- og  
+
+ centralledninger skal følgende mere specielle ledningstyper defineres.
+ Ved en ekstraapparatledning forstås en ledning, som forbinder et  
+
+ ekstraapparat med en PABC, et omstillingsbord eller en lignende  
+
+ abonnentinstallation.
+ Ved en abonnenttværledning forstås en ledning, som forbinder to  
+
+ abonnentinstallationer indbyrdes.
+ Selv om ledninger af sidstnævnte kategori måtte opfylde nærværende  
+
+ cirkulæres krav med hensyn til nettets transmissionsegenskaber, kan de af  
+
+ andre end transmissionsmæssige grunde være afskåret fra tilslutning til det  
+
+ offentlige net.
+2.2. Sammenstillinger a.
+Med hensyn til sammenstillingers transmissionsmæssige  
+
+ egenskaber skelnes der principielt mellem sammenstillinger på firtråds  
+
+ basis  og sammenstillinger på totråds basis.
+ Med undtagelse af visse faste sammenstillinger, jf. pkt. 2.3.g. i  
+
+ nærværende cirkulære, etableres sammenstillinger normalt ved hjælp af  
+
+ vælgere.
+ Ved sammenstillinger på firtråds basis anvendes firtråds vælgertrin,  
+
+ således at firtråds ledninger kan sammenstilles med bibeholdelse af adskilte  
+
+ transmissionsretninger.
+Totråds centralledninger, som i en central indgår direkte til firtråds  
+
+ vælgertrin, er i centralen forsynet med en fast gaffel med balance.
+Balancen  
+
+ er her en individuel balance. dvs. et netværk, som alene har til  
+
+ formål at balancere den pågældende totråds centralledning.
+ Opmærksomheden henledes på, at selv om en sammenstilling af totråds  
+
+ ledninger, som indgår til firtråds vælgertrin. baseres på fire tråde,  
+
+ betragtes sammenstillingen i transmissionsmæssig henseende som en del af  
+
+ centralens totråds kredsløb, fordi de to transmissionsretninger ikke er  
+
+ adskilt, jf. pkt. 3.1.b. i nærværende cirkulære.
+ Ved sammenstillinger på totråds basis anvendes totråds eller  
+
+ dobbelttotråds vælgertrin, således at firtråds ledninger ikke kan  
+
+ sammenstilles med bibeholdelse af adskilte transmissionsretninger.
+Firtråds ledninger, som i en central indgår direkte til totråds  
+
+ vælgertrin, er i centralen forsynet med en fast gaffel med balance.
+I dette  
+
+ tilfælde må balancen nødvendigvis være en fællesbalance. dvs. et netværk. som  
+
+ har til formål at balancere flere af de til centralen forbundne totråds  
+
+ ledninger.
+Dobbelttotråds sammenstillingen er i princippet en totråds  
+
+ sammenstilling, selv om den baseres på fire tråde, således at en individuel  
+
+ balance kan indkobles over to af disse ved sammenstilling af en firtråds med  
+
+ en totråds ledning.
+Firtråds ledninger, som i en central indgår direkte til  
+
+ dobbelttotråds vælgertrin, er i centralen forsynet med en fast gaffel uden  
+
+ balance.
+Der benyttes ringkobling (tail eating) til sammenstilling af  
+
+ to gafler.
+b.
+Der skelnes i cirkulæret principielt mellem tre forskellige  
+
+ kategorier af sammenstillinger mellem ledninger:
+ Abonnentledning-abonnentledning, i det følgende forkortet til AA  
+
+ (i anden omtale undertiden benævnt lokalforbindelse ).
+ Abonnentledning-centralledning, i det følgende forkortet til AC.
+ Centralledning-centralledning, i det følgende forkortet til CC (i anden  
+
+ omtale undertiden benævnt transitforbindelse eller  
+
+lokaltransitforbindelse ).
+ Det største antal CC sammenstillinger, der kan forekomme mellem  
+
+ international ledning og en central her i landet, benævnes centralens  
+
+CC-værdi.
+ Det største antal CC sammenstillinger af firtråds ledninger, der kan  
+
+ forekomme mellem international ledning og en central her i landet, benævnes  
+
+ centralens n-værdi.
+c.
+Ud over de foran i pkt. 2.2.b. nævnte sammenstillinger anføres  
+
+ i tilknytning til de under pkt. 2.1.c. definerede mere specielle ledninger  
+
+ følgende sammenstillinger:
+ Abonnentledning-ekstraapparatledning, forkortet til AE.
+ Ekstraapparatledning-ekstraapparatledning, forkortet til EE.
+ Abonnentledning-abonnenttværledning, forkortet til AT.
+ Ekstraapparatledning- abonnentværledning. forkortet til ET.
+ Abonnenttværledning-abonnenttværledning, forkortet til TT.
+ I analogi med, hvad der er anført under pkt. 2.1.c. om tilslutning af  
+
+ abonnenttværledninger til det offentlige net, gælder også her, at  
+
+ sammenstillinger af sidstnævnte kategorier af andre end transmissionsmæssige  
+
+ grunde kan være afskåret fra at måtte indgå i det offentlige net.
+2.3. Centraler a.
+I nærværende cirkulære er benyttet de i de følgende punkter  
+
+ anførte benævnelser for centraltyper i afhængighed af disses CC  
+
+ sammenstillingsmuligheder og -principper.
+b.
+En firtrådscentral er en centraltype, i hvilken CC  
+
+ sammenstillinger udelukkende foregår på firtråds basis.
+Alle AA og eventuelt  
+
+ nogle AC sammenstillinger foregår på totråds basis, medens alle henholdsvis  
+
+ resterende AC sammenstillinger foregår på totråds og firtråds basis i tandem.  
+
+ Et eksempel på principskema for en firtrådscentral er vist i fig. 1.
+c.
+En kombineret to- og firtrådscentral er en centraltype,  
+
+ i hvilken nogle CC sammenstillinger foregår på totråds basis, andre på  
+
+ firtråds basis og resterende på totråds og firtråds basis i tandem.
+Alle AA  
+
+ og nogle AC sammenstillinger foregår på totråds basis, medens resterende AC  
+
+ sammenstillinger foregår på totråds og firtråds basis i tandem.
+Et eksempel  
+
+ på principskema for en kombineret to- og firtrådscentral er vist i fig. 2.
+d.
+En totrådscentral er en centraltype, i hvilken CC  
+
+ sammenstillinger udelukkende foregår på totråds basis.
+AA og AC  
+
+ sammenstillinger foregår ligeledes på totråds basis.
+Et eksempel på  
+
+ principskema for en totrådscentral er vist i fig. 3.
+e.
+En dobbelttotrådscentral er en centraltype, i hvilken  
+
+ nogle CC sammenstillinger foregår på totråds basis og resterende på  
+
+ dobbelttotråds basis.
+Alle AA og nogle AC sammenstillinger foregår på totråds  
+
+ basis, medens resterende AC sammenstillinger foregår på totråds og  
+
+ dobbelttotråds basis i tandem.
+Et eksempel på principskema for en  
+
+ dobbelttotrådscentral er vist i fig. 4.
+f.
+En lokalcentral er en centraltype, i hvilken CC  
+
+ sammenstillinger ikke finder sted.
+AA og AC sammenstillinger foregår på  
+
+ totråds basis.
+Et eksempel på principskema for en lokalcentral er vist i fig.  
+
+ 5.
+g.
+Ud over de foran definerede centraltyper, i hvilke  
+
+ sammenstillinger af ledninger etableres ved hjælp af vælgere, regnes der i  
+
+ transmissionsmæssig henseende med, at en fast sammenstilling af to  
+
+ firtråds centralledninger eller af en firtråds og en totråds centralledning,  
+
+ jf. pkt. 2.4.a. og b. i nærværende cirkulære i sig selv udgør en central.
+2.4. Lednings- og centralafgrænsninger a.
+En firtråds centralledning forudsættes at have sine  
+
+afgrænsningspunkter, begyndelses- og endepunkt, i den på  
+
+ forstærkerstationen opstillede firtråds fordeler (FX), således at  
+
+ bl.a. gaflerne regnes indbefattet i centralerne.
+I tilfælde af, at en sådan fordeler ikke forefindes, skal der regnes med  
+
+ de punkter, i hvilke de tilsvarende relative niveauer for firtråds ledningen  
+
+ foreligger.
+Definitioner for de relative niveauer følger under pkt. 2.6. i  
+
+ nærværende cirkulære.
+Dersom en transmissionsvej mellem to centraler består af to eller flere  
+
+ fast sammenkoblede firtråds ledninger i tandem, f.eks. af to på  
+
+ talefrekvensbasis fast sammenkoblede bærefrekvensledninger, afgrænses de  
+
+ enkelte ledninger ligeledes som foran angivet. hvorved de dæmpningsled m.v.,  
+
+ som benyttes i hver sammenkobling, skal opfattes som en central. jf. pkt.  
+
+ 2.3.g., selv om denne er uden vælgersammenstilling.
+Der skal således regnes  
+
+ med, at der foreligger flere centralledninger i tandem med tilhørende faste  
+
+ CC sammenstillinger, jf. bl.a. pkt. 3.1.c., d. og f. i nærværende cirkulære.
+b.
+En totråds centralledning omfatter såvel den rene ledning som  
+
+ eventuelle til ledningen direkte forbundne linieauto- og  
+
+ linietransformatorer, totrådsforstærkere og andre til ledningen naturligt  
+
+ hørende komponenter, såsom sikringer, opbygningskondensatorer og lignende.
+En  
+
+ totråds centralledning forudsættes således at have afgrænsningspunkt i en  
+
+ centrals totråds fordeler ( krydsfelt, xf) - normalt på  
+
+ centralsiden af et udstyr for tilpasning af ledningens transmissionsmæssige  
+
+ egenskaber, f.eks. en linieauto- eller linietransformator, men i givet fald  
+
+ dog på krydsfeltets kabelside, hvis ledningen ikke i krydsfeltet er forbundet  
+
+ til et sådant udstyr.
+Dersom en transmissionsvej mellem to centraler består af en totråds  
+
+ ledning fast sammenkoblet i tandem med en firtråds ledning, afgrænses totråds  
+
+ ledningen som foran anført og firtråds ledningen som anført i pkt. 2.4.a..  
+
+ hvorved sammenkoblingsgaflen m.v. i nærværende cirkulære skal opfattes som en  
+
+ central, jf. pkt. 2.3.g., selv om denne er uden vælgersammenstilling.
+Der  
+
+ skal således regnes med, at der foreligger to centralledninger i tandem med  
+
+ en fast CC sammenstilling, jf. bl.a. pkt, 3.1.c., d. og f. i nærværende  
+
+ cirkulære.
+ Hvis en transmissionsvej mellem to centraler består af to eller flere  
+
+ totråds ledninger fast sammenkoblet i tandem, eventuelt ved hjælp af  
+
+ linieauto- eller linietransformatorer, totrådsforstærkere eller lignende,  
+
+ regnes med, at der foreligger een totråds centralledning, der således  
+
+ omfatter såvel de egentlige ledninger som de ved hver sammenkobling eventuelt  
+
+ anvendte transformatorer, forstærkere m.v.
+c.
+En abonnentledning omfatter - foruden den rene ledning - alt  
+
+ til denne knyttet udstyr. som måtte være indskudt mellem  
+
+ abonnentinstallationen og den central, under hvilken den pågældende abonnent  
+
+ hører.
+En abonnentledning forudsættes således at have sit ene  
+
+ afgrænsningspunkt i en centrals krydsfelt - normalt på dennes kabelside, men  
+
+ i givet fald dog på centralsiden af udstyr, som er anbragt i krydsfeltet, og  
+
+ som er nødvendigt for tilpasning af abonnentledningens transmissionsmæssige  
+
+ egenskaber - og sit andet afgrænsningspunkt i første koblingspunkt hos  
+
+ abonnenten, f.eks. en enkeltfordeler, en PABC's krydsfelt eller lignende i  
+
+ tilknytning til den bygning, i hvilken hovedapparatet i  
+
+ abonnentinstallationen befinder sig.
+ Eksempelvis hører såvel en på en abonnentledning indskudt  
+
+ledningsbegrænser eller annekscentral (til besparelse i  
+
+ ledningsantallet) som de herved opståede ledningsafsnit med til  
+
+ abonnentledningen.
+ Ligeledes må der f.eks. ved parallelkoblede telefonapparater med hver sin  
+
+ ledning regnes med, at abonnentledningen for hvert apparat ikke alene  
+
+ omfatter den fulde længde af ledning fra apparat til central, men også den  
+
+ shunt, som ledningen til det andet apparat repræsenterer på førstnævnte  
+
+ ledning, når dette andet apparat ikke benyttes (samtidig benyttelse af  
+
+ parallelkoblede apparater falder uden for gældende regler og garantier).
+d.
+I nærværende cirkulære opfattes flere centraludstyr som hørende  
+
+ til en og samme central, dersom udstyrenes indbyrdes afstand ikke i sig selv  
+
+ kræver anvendelse af jordkabel, luftlinie eller radioudstyr, men tillader  
+
+ anvendelse af stationskabel eller lignende til de indbyrdes forbindelser.  
+
+ Disse indgår i så fald som en del af centralen.
+ Ved sammenstilling af to ledninger regnes der med, at centralen i  
+
+ transmissionsmæssig henseende omfatter alt, hvad der er tilknyttet talevejen  
+
+ mellem de foran under pkt. 2.4.a., b. og c. anførte afgrænsningspunkter for  
+
+ ledningerne, dog med undtagelse af sådant  abonnenthjælpeudstyr , som  
+
+ forekommer mellem centralside og kabelside i en centrals krydsfelt for  
+
+ abonnentledninger, og som er nødvendigt for den rigtige funktion af visse  
+
+ekstrainstallationer hos abonnenter.
+2.5. Centraltab og -dæmpninger a.
+Ved en centrals centraltab forstås de utilsigtede tab,  
+
+ der forårsages af de i talevejen indgående og for sammenstillingsfunktionen  
+
+ nødvendige komponenter, såsom fødespoler, skillekondensatorer og  
+
+ -transformatorer, samt tabet i stationskabler og -tråde.
+b.
+I det følgende benyttes de nedenfor definerede betegnelser for  
+
+ centraltab:
+ c(4-4)4 dB er det centraltab, som ved sammenstilling af firtråds ledninger  
+
+ forekommer i en firtrådscentral eller en kombineret to- og firtrådscentral (i  
+
+ centralens firtråds kredsløb).
+ c(4-4)2x2 dB er det centraltab, som ved samstilling af to gafler  
+
+ forekommer ved ringkobling i en dobbelttotrådscentral.
+ c(4-2)4 dB er den del af centraltabet, som ved sammenstilling af en  
+
+ firtråds ledning med en totråds ledning forekommer i en centrals firtråds  
+
+ kredsløb.
+ c(4-2C)2 dB er den del af centraltabet, som ved sammenstilling af en  
+
+ firtråds ledning med en totråds centralledning forekommer i en centrals  
+
+ totråds kredsløb.
+ c(4-A)2 dB er den del af centraltabet, som ved sammenstilling af en  
+
+ firtråds ledning med en abonnentledning forekommer i en centrals totråds  
+
+ kredsløb.
+ c(2C-2C)2 dB er det centraltab, som ved sammenstilling af totråds  
+
+ centralledninger forekommer i en central (i totråds kredsløbet).
+ c(2C-A)2 dB er det centraltab, som ved sammenstilling af en totråds  
+
+ centralledning med en abonnentledning forekommer i en central (i totråds  
+
+ kredsløbet).
+ c(A-A)2 dB er det centraltab, som ved sammenstilling af abonnentledninger  
+
+ forekommer i en central (i totråds kredsløbet).
+c.
+Ved centraldæmpning forstås driftsdæmpningen for den  
+
+ under pkt. 2.4.d. definerede central ved 800 Hz og mellem nominelle  
+
+ impedanser, jf. pkt. 3.3.d. i nærværende cirkulære, samt ved et sendeniveau  
+
+ på 0 dBm (1 mVA).
+ Centraldæmpningen indbefatter således foruden det foran i pkt. 2.5.a.  
+
+ omtalte centraltab også dæmpningen i eventuelt indskudte dæmpningsled  
+
+ samt gaffeldæmpningen, g dB, i eventuelt i talevejen benyttede gafler.
+2.6. Transmissionsenhed og relative niveauer a.
+I nærværende cirkulære anvendes transmissionsenheden
+decibel  (dB) som mål for forholdet mellem to størrelser med samme  
+
+ fysiske dimension.
+ Forholdet mellem to effekter P1 og P2 watt udtrykkes vedtægtsmæssigt i  
+
+ decibel ved: (10 x log10 P1/P2) dB, medens forholdet mellem to elektriske  
+
+ spændinger U1 og U2 volt eller strømme I1 og I2 ampere - ligeledes  
+
+ vedtægtsmæssigt - udtrykkes ved henholdsvis: (20 x log10 U1/U2) dB og (20 x  
+
+ log10 I1/I2) dB.
+b.
+Ved et relativt niveau (e: relative level) i et punkt af  
+
+ en transmissionsvej forstås i nærværende cirkulære forholdet i decibel (i  
+
+ denne forbindelse betegnet: dBr) mellem den skineffekt (e: apparent power),  
+
+ som ved transmission af et signal forekommer i det pågældende punkt, og den  
+
+ skineffekt, der forekommer i et eller andet referencepunkt.
+ Hvis skineffekten P0 VA i en transmissionsvejs referencepunkt 0 for  
+
+ relativt niveau er udtrykt i forhold til 1 mVA ved:
+p0 dBm0 = (10 x log10 P0/10exp(-3)) dBmO, og skineffekten PX VA i et punkt X af samme transmissionsvej er udtrykt i  
+
+ forhold til 1 mVA ved:.
+qx dBm = (10 x log10 Px/10exp(-3)) dBm, er det relative niveau rx dBr i punktet X bestemt af:
+ rx dBr = qx dBm-p0 dBm0, dvs. rx = qx-p0.
+c.
+Hver enkelt firtråds ledning i en transmissionsvej er for hver  
+
+ transmissionsretning tillagt et bestemt referencepunkt (e: transmission  
+
+ reference point).
+ Beliggenheden af dette referencepunkt er i praksis bestemt ud fra det  
+
+ nominelle relative niveau i den pågældende firtråds lednings  
+
+ begyndelsespunkt.
+ Det nominelle relative niveau i begyndelsespunktet er på sin side fastsat  
+
+ og tilpasset et krav om, at transmissionssystemerne er dimensioneret til  
+
+ bl.a. belastningen i travl time.
+ Belastningen i travl time er i denne sammenhæng fastlagt konventionelt  
+
+ bl.a. ved en middeleffekt på 31,6 microW (-15dBm0), fordelt på en  
+
+ middelsignaleffekt på 10 microW og en middeltaleeffekt på 21,6 microW, i  
+
+ referencepunktet.
+ Denne belastning tillades og bør tilstræbes i referencepunktet ved  
+
+ dimensionering af signaleringsudstyr og abonnentnet.
+d.
+I det danske telefonnet skal en firtråds lednings  
+
+ begyndelsespunkt, jf. pkt. 2.4.a., have et nominelt relativt niveau på -8,0  
+
+ dBr, medens dens endepunkt, jf. pkt. 2.4.a., skal have et nominelt relativt  
+
+ niveau på +3,5 dBr.
+ En firtråds ledning skal altså være dimensioneret ud fra en belastning med  
+
+ bl.a. en middeleffekt på 5,0 microW svarende til -23 dBm (= -15 dBm0 - 8 dBr)  
+
+ i begyndelsespunktet.
+e.
+En firtråds lednings virtuelle afgrænsningspunkt (e:  
+
+ virtual switching point) for sending er det punkt med nominelt  
+
+ relativt niveau -3,5 dBr, som er beliggende foran og nærmest ved firtråds  
+
+ ledningens begyndelsespunkt, medens dens virtuelle
+afgrænsningspunkt for modtagning er det punkt med nominelt relativt  
+
+ niveau -4,0 dBr, som er beliggende efter og nærmest ved firtråds ledningens  
+
+ endepunkt.
+f.
+Kontrol af, om en transmissionsvej er korrekt indreguleret,  
+
+ foretages i princippet ved måleniveau (e: test level eller blot:  
+
+ level), der er det niveau, som forekommer i et punkt af en transmissionsvej,  
+
+ når der i dennes referencepunkt (0 dBr) for relativt niveau, jf. pkt. 2.6.c.,  
+
+ sendes en skineffekt på 1 mVA (0 dBm). Når andet ikke er angivet, foretages  
+
+ kontrollen i øvrigt ved en målefrekvens på 800 Hz.
+2.7. Referenceækvivalenter a.
+Ved en samtaleforbindelses referenceækvivalent forstås i  
+
+ princippet den dæmpning, som skal indskydes mellem sende- og modtageudstyr i  
+
+ den internationale normal for referenceækvivalent,
+NOSFER , således at der ved subjektiv sammenligning forekommer samme  
+
+ lydstyrke ved samtaleforbindelsens og normalens modtagere, når der fra en  
+
+ normeret afstand tales mod de to transmissionssystemers mikrofoner med samme  
+
+ talestyrke.
+b.
+Ved en abonnents referenceækvivalent for sending,  
+
+sendeækvivalentet, og modtagning, modtageækvivalentet, i et  
+
+ punkt af en samtaleforbindelse forstås referenceækvivalentet for det  
+
+ transmissionssystem, som fremkommer ved, at den del af samtaleforbindelsen,  
+
+ som findes mellem det pågældende punkt og abonnenten, tilsluttes  
+
+ modtageudstyret henholdsvis sendeudstyret i normalen.
+ Hvis det betragtede punkt er linieklemmerne på abonnentens telefonapparat,  
+
+ bestemmes her ved sende- og modtageækvivalent for telefonapparatet.
+c.
+Ved en transmissionsvejs referenceækvivalent forstås  
+
+ referenceækvivalentet for det transmissionssystem, som fremkommer ved, at den  
+
+ pågældende transmissionsvej indskydes mellem sende- og modtageudstyret i  
+
+ normalen.
+ I nærværende cirkulære forudsættes, at en transmissionsvejs  
+
+ referenceækvivalent er lig med dens nominelle dæmpning.
+d.
+Referenceækvivalenterne i et punkt af en samtaleforbindelse  
+
+ beregnes ud fra referenceækvivalenterne i et andet punkt af samme forbindelse  
+
+ ved addition eller subtraktion af referenceækvivalentet (dvs. den nominelle  
+
+ dæmpning jf. pkt. 2.7.c.) for transmissionsvejen mellem de to punkter.
+e.
+En samtaleforbindelses referenceækvivalent beregnes ud fra  
+
+ sende- og modtageækvivalenterne i et punkt af forbindelsen som summen af  
+
+ sendeækvivalentet for den ene og modtageækvivalentet for den anden abonnent.
+2.8. Kompensation af dæmpning a . Ved kompensation af dæmpning i en totråds ledning  
+
+ forstås indsætning af forstærkning på en sådan måde i det kredsløb, i hvilket  
+
+ totråds ledningen indgår, at den ved forstærkningen opnåede reduktion af  
+
+ dæmpningen i det samlede kredsløb kan betragtes som en reduktion, k dB, af  
+
+ den pågældende totråds lednings nominelle dæmpning.
+b.
+Ved en firtråds kompensation, k4 dB, indsættes lige stor  
+
+ forstærkning i hver transmissionsretning i et til totråds ledningen knyttet  
+
+ firtråds kredsløb enten ved hjælp af:
+reducerede dæmpningsled, dvs. ved reduktion af den normale  
+
+ dæmpning i dæmpningsleddene i en fast sammenstilling af en firtråds og en  
+
+ totråds centralledning, udskydelige dæmpningsled, dvs. ved udskydning, helt eller delvist,  
+
+ af dæmpningsleddene i en totråds-firtråds sammenstilling, eller forstærket gaffel, dvs. ved indsætning af forstærkere mellem  
+
+ gaffel og firtråds vælgertrin i en totråds-firtråds sammenstilling.
+c.
+Ved en totråds kompensation, k2 dB, indsættes en  
+
+ dobbeltrettet forstærkning i selve totråds ledningen enten ved hjælp af en  
+
+ konventionel totrådsforstærker eller en negistorforstærker.
+3. Transmissionsmæssige krav til talevejene 3.0. Anlæggenes opbygning a.
+En international ledning skal være en firtråds ledning.
+ Undtagelsesvis kan internationale totråds ledninger etableres, men disse  
+
+ må da kun føre rent lokalpræget trafik (grænsetrafik).
+b.
+Sammenstillinger af firtråds ledninger skal ske på firtråds  
+
+ basis.
+ Ringkobling, jf. pkt. 2.2.a., må derfor ikke anvendes til sammenstilling  
+
+ af firtråds ledninger.
+c.
+Totrådscentraler og dobbelttotrådscentraler må ikke anvendes  
+
+ ved nyanlæg.
+d.
+Indsætning af dæmpningsled i centralernes taleveje skal  
+
+ foretages i firtråds kredsløbet.
+3.1. Trafikdirigering a.
+Ved Tilrettelæggelsen af trafikdirigeringen og planlægningen af  
+
+ ledningsanlæggene skal der - uanset om der er tale om den direkte vej eller  
+
+ om mulige overløb over andre veje, og uanset om der er tale om selvvalg eller  
+
+ telefonistekspedition - sørges for, at antallet af ledningssammenstillinger  
+
+ mellem international ledning og abonnent og mellem to abonnenter inden for  
+
+ landets grænser begrænses mest muligt af hensyn til forbindelsens stabilitet  
+
+ og referenceækvivalenter, jf. pkt. 3.2. og 3.6. i nærværende cirkulære, og  
+
+ følgende krav skal i hvert fald overholdes:
+b.
+I internationale forbindelser må der højst forekomme een  
+
+ egentlig totråds-firtråds overgang (gaffel) mellem international ledning  
+
+ og en abonnent her i landet, og i nationale forbindelser må der højst  
+
+ forekomme to egentlige totråds-firtråds overgange mellem to  
+
+ abonnenter.
+ Gafler, som indgår i en ringkobling eller i en firtråds sammenstilling af  
+
+ totråds ledninger, samt eventuelle gafler i totråds forstærkere, henregnes i  
+
+ denne sammenhæng ikke under kategorien egentlig totråds-firtråds overgang.
+ Endvidere falder antilokalkoblinger i telefonapparater samt gafler i  
+
+ særlige lokale firtråds kredsløb såsom bilradioforbindelser og bærefrekvens-  
+
+ eller radioforbindelser til små øer uden for denne kategori, jf. pkt. 2.1.b.
+c.
+I internationale forbindelser må det største antal CC  
+
+ sammenstillinger, der kan forekomme mellem international ledning og en  
+
+ central her i landet, centralens CC-værdi, jf. pkt. 2.2.b., højst være  
+
+fire, og heraf må kun een være en CC sammenstilling af totråds  
+
+ ledninger.
+ I CC-værdien medregnes CC sammenstillingen i den central, til hvilken den  
+
+ internationale ledning er indført, samt eventuelle faste sammenstillinger af  
+
+ den art, som er omtalt i pkt. 2.4.a. og b.
+d.
+I nationale forbindelser må det største antal CC  
+
+ sammenstillinger, der kan forekomme mellem to centraler, højst være lig med  
+
+ summen af de pågældende centralers CC-værdier reduceret med een.
+I antallet  
+
+ af CC sammenstillinger medregnes eventuelle faste sammenstillinger.
+ Indeholder en national forbindelse en firtråds ledning, må der højst  
+
+ forekomme to CC sammenstillinger af totråds ledninger.
+ Indeholder en national forbindelse ingen firtråds ledning, må der  
+
+ forekomme indtil fire CC sammenstillinger af totråds ledninger.
+e.
+En centralledning, der benyttes på en sådan måde i nettet, at  
+
+ den ikke kan indgå i internationale forbindelser, må ikke i en central med en  
+
+ given CC-værdi, jf. pkt. 2.2.b., sammenstilles med en anden centralledning,  
+
+ hvis denne har sit andet afgrænsningspunkt i en central med en mindre  
+
+ CC-værdi.
+ Med anvendelse af begreber fra trafikdirigeringen kan denne regel  
+
+ udtrykkes ved, at en tværledning ikke må sammenstilles med en hierarkisk  
+
+ opadgående ledning, medmindre tværledningen og det berørte, hierarkisk  
+
+ underordnede telefonnet i transmissionsmæssig henseende er dimensioneret, som  
+
+ om tværledningen er en hierarkisk ledning under sammenstillingscentralen.
+f.
+En centralledning, der benyttes på en sådan måde i nettet, at  
+
+ den ikke kan indgå i internationale forbindelser, må ikke sammenstilles med  
+
+ en anden centralledning af samme kategori.
+ Som en undtagelse fra denne regel tillades dog faste sammenstillinger af  
+
+ den art, som er omtalt i pkt. 2.4.a. og b.
+Som en anden undtagelse fra denne regel tillades endvidere en enkelt sådan  
+
+ sammenstilling i en national forbindelse under forudsætning af, at  
+
+ sammenstillingen foretages i en central, i hvilken internationale  
+
+ forbindelser etableres via firtråds ledninger, og de maksimalt tilladelige  
+
+ referenceækvivalenter for de øvrige centraler, som forbindelsen vedrører, er  
+
+ bestemt, som om mindst den ene af de betragtede centralledninger kan indgå i  
+
+ internationale forbindelser via sammenstillingscentralen.
+Vedrørende de her  
+
+ omtalte maksimalt tilladelige referenceækvivalenter henvises til pkt. 3.6. i  
+
+ nærværende cirkulære.
+ Med anvendelse af begreber fra trafikdirigeringen kan disse regler  
+
+ udtrykkes ved, at en tværledning ikke må sammenstilles med en anden  
+
+ tværledning, medmindre der enten er tale om en fast sammenstilling, eller at  
+
+ mindst den ene af tværledningerne og det berørte, hierarkisk underordnede  
+
+ telefonnet i transmissionsmæssig henseende er dimensioneret, som om denne  
+
+ tværledning er en hierarkisk ledning under sammenstillingscentralen.
+3.2. Stabilitet og balancedæmpning a.
+Ved anvendelse af firtråds kredsløb skal den i frekvensområdet  
+
+ 300-3400 Hz forekommende laveste værdi af balancedæmpningen i de benyttede  
+
+ gafler være mindst 2,0 dB ved hver totrådsfirtråds overgang i en fuldt  
+
+ etableret samtaleforbindelse.
+ Under opkobling og nedkobling af en forbindelse, skal der enten sørges  
+
+ for, at samme krav til den laveste værdi af balancedæmpningen er opfyldt,  
+
+ eller at den samlede dæmpning i firtråds kredsløbets to  
+
+ transmissionsretninger i den central, hvor totråds- firtråds overgangen  
+
+ finder sted, er mindst 2,0 dB større end ved fuldt etableret  
+
+ samtaleforbindelse.
+ I tilfælde af, at kompensation af dæmpning i en totråds centralledning er  
+
+ foretaget ved firtråds kompensation, jf. pkt. 2.8.b., kræves dog, at den  
+
+ omtalte laveste værdi af balancedæmpningen er mindst to gange kompensationen  
+
+ i dB plus 2,0 dB (ved forstærket gaffel i dobbelttotrådscentraler dog: plus  
+
+ 4,0 dB i stedet for 2,0 dB).
+b.
+For hver gaffel, som benyttes ved sammenstilling af en firtråds  
+
+ ledning med en totråds ledning, skal den ved hver sammenstilling forekommende  
+
+ laveste værdi af balancedæmpningen inden for frekvensområdet 300-3400 Hz -  
+
+ når der foreligger fuldt etableret samtaleforbindelse - endvidere udvise en  
+
+ fordeling med en middelværdi på mindst 6,0 dB, hvis man betragter alle  
+
+ forbindelser, i hvilke denne gaffel kan indgå.
+ I tilfælde af, at kompensation af dæmpning i en totråds centralledning er  
+
+ foretaget ved firtråds kompensation, jf. pkt. 2.8.b., kræves dog, at den  
+
+ omtalte middelværdi af balancedæmpningen er mindst to gange kompensationen i  
+
+ dB plus 6,0 d B (ved forstærket gaffel i dobbelttotrådscentraler dog: plus  
+
+ 8,0 dB i stedet for 6,0 dB).
+ De her anførte krav til middelværdien af balancedæmpningen regnes for  
+
+ opfyldt, dersom kravet i pkt. 3.2.a. til den laveste værdi af  
+
+ balancedæmpningen er opfyldt, og abonnentinstallationernes impedanser  
+
+ opfylder kravene til tilpasningsdæmpningen over for 600 ohm, jf. pkt. 3.3.e.  
+
+ i nærværende cirkulære.
+c.
+Ud over de foran anførte krav til balancedæmpningen inden for  
+
+ frekvensområdet 300-3400 Hz skal det af hensyn til stabiliteten sikres, at  
+
+ den samlede dæmpning i et firtråds kredsløbs to transmissionsretninger ved  
+
+ enhver frekvens uden for frekvensområdet 300-3400 Hz er mindst 4,0 dB større  
+
+ end ved 800 Hz.
+ Dette krav regnes for opfyldt, dersom firtråds kredsløbet er etableret via  
+
+ PCM- eller bærefrekvenskanaler i forbindelse med transformatorgafler.
+ I tilfælde af, at kompensation af dæmpning i en totråds centralledning er  
+
+ foretaget ved hjælp af forstærket gaffel, jf. pkt. 2.8.b., eller ved totråds  
+
+ kompensation, jf. pkt. 2.8.c., skal den for kompensationen nødvendige  
+
+ forstærkning dog altid begrænses til frekvensområdet 300-3400 Hz, f.eks. ved  
+
+ hjælp af et båndpasfilter.
+3.3. Nominelle impedanser a.
+En firtråds ledning skal have en nominel impedans på 600 ohm.
+Dette krav regnes for opfyldt, dersom ledningens tilpasningsdæmpning over  
+
+ for 600 ohm er mindst 15 dB i frekvensområdet 300-600 Hz og mindst 20 dB i frekvensområdet 600-3400 Hz.
+b.
+En pupiniseret totråds centrallednings nominelle  
+
+ karakteristiske impedans skal ved ledningens indføring i en central omsættes  
+
+ til nominelt 600 ohm i en linieauto- eller linietransformator.
+ Som en undtagelse fra denne regel kan en pupiniseret totråds  
+
+ centralledning dog indføres til en central med nominel impedans, som afviger  
+
+ fra 600 ohm, under forudsætning af, at ledningen er forsynet med en fast  
+
+ gaffel, og at dennes totråds side har samme nominelle impedans som ledningen.
+c.
+En upupiniseret totråds ledning regnes i sig selv at have en  
+
+ nominel karakteristisk impedans på 600 ohm.
+d.
+En central skal have en nominel impedans på 600 ohm med den  
+
+ afvigelse, som følger af den foran i pkt. 3.3.b. omtalte undtagelse.
+ Dette krav regnes for opfyldt, dersom enhver talevej gennem centralen i  
+
+ ethvert afgrænsningspunkt har en impedans, hvis tilpasningsdæmpning over for  
+
+ 600 ohm (i undtagelsestilfældet over for den nominelle impedans) opfylder  
+
+ følgende krav, når talevejens andet (andre) afgrænsningspunkt(er) er  
+
+ afsluttet med 600 ohm (i undtagelsestilfældet med nominel impedans):
+Indeholder talevejen gennem centralen en sammenstilling af to firtråds  
+
+ ledninger skal tilpasningsdæmpningen være mindst 15 dB i frekvensområdet 300-600 Hz og mindst 20 dB i frekvensområdet 600-3400 Hz.
+Indeholder talevejen gennem centralen en sammenstilling af en totråds og  
+
+ en firtråds ledning eller af to totråds ledninger, skal tilpasningsdæmpningen  
+
+ være mindst 10 dB i frekvensområdet 300-600 Hz og mindst 15 dB i frekvensområdet 600-3400 Hz.
+ De i centralen indgående dæmpningsled, gafler og transformatorer skal i  
+
+ overensstemmelse hermed have en nominel impedans på 600 ohm.
+e.
+En abonnentinstallation skal i sit afgrænsningspunkt mod  
+
+ abonnentledningen have en nominel impedans på 600 ohm.
+Dette krav regnes for opfyldt, dersom abonnentinstallationens  
+
+ tilpasningsdæmpning over for 600 ohm er mindst 6 dB i frekvensområdet 300-600 Hz og mindst 9 dB i frekvensområdet 600-3400 Hz.
+3.4. Nominelle dæmpninger a.
+En firtråds lednings nominelle dæmpning er -11,5 dB, jf. pkt.  
+
+ 2.6.d.
+ For firtråds ledninger fremført i et bærefrekvenssystem skal den enkelte  
+
+ kanals driftsdæmpning som funktion af tiden udvise en fordeling med en  
+
+ middelværdi, der højst afviger 0,5 dB fra den nominelle dæmpning, -11,5 dB,  
+
+ og en standardafvigelse, som højst er 1,0 dB.
+ For firtråds ledninger fremført i et PCM system må den enkelte kanals  
+
+ driftsdæmpning på ethvert tidspunkt højst afvige 1,0 dB fra den nominelle  
+
+ dæmpning, -11,5 dB.
+ I de foran anførte forskrifter forudsættes driftsdæmpningerne målt mellem  
+
+ nominelle impedanser (600 ohm), jf. pkt. 3.3.a., samt ved 800 Hz og  
+
+ måleniveau, jf. pkt. 2.6.f.
+b.
+Ved sammenstilling af to firtråds ledninger skal  
+
+ centraldæmpningen nominelt være 12,0 dB.
+ I en central skal centraldæmpningerne ved sammenstilling af firtråds  
+
+ ledninger udvise en fordeling med en middelværdi, der højst afviger 0,3 dB  
+
+ fra den nominelle værdi 12,0 dB, og en standardafvigelse, som højst er 0,2  
+
+ dB.
+ I centraldæmpningen på 12,0 dB er indbefattet centraltabet c(4-4)4 dB, som  
+
+ normalt er 0,5 dB for firtrådscentraler og kombineret to- og  
+
+ firtrådscentraler, medens det er 0,0 dB for faste sammenstillinger, jf. bilag  
+
+ 1 til nærværende cirkulære.
+ De relative niveauer og nominelle dæmpninger for firtråds ledninger samt  
+
+ den nominelle centraldæmpning ved sammenstilling af disse er angivet i fig.  
+
+ 6.
+c.
+Ved sammenstilling af en firtråds ledning med en totråds  
+
+ centralledning skal centraldæmpningen nominelt være (6,5 + c(4-2C)2) dB for  
+
+ transmissionsretningen fra totråd til firtråd og (9,5 + c(4- 2C)2) dB for den  
+
+ modsatte transmissionsretning.
+ Ved sammenstilling af en firtråds ledning med en abonnentledning skal  
+
+ centraldæmpningen nominelt være (6,5 + c(4-A)2) dB for transmissionsretningen  
+
+ fra totråd til firtråd og (9,5 + c(4-A)2) dB for den modsatte  
+
+ transmissionsretning.
+ I en central skal centraldæmpningerne ved sammenstilling af firtråds  
+
+ ledninger med totråds ledninger udvise en fordeling med en middelværdi, der  
+
+ højst afviger 0,3 dB fra de nominelle værdier, og en standardafvigelse, som  
+
+ højst er 0,5 dB.
+ I de foran anførte talværdier, henholdsvis 6,5 og 9,5, er indbefattet  
+
+ gaffeldæmpningen g dB, som normalt er 3,5 dB, samt centraltabet c(4-2)4 dB,  
+
+ der normalt er 0,5 dB for firtrådscentraler og kombineret to- og  
+
+ firtrådscentraler og 0,0 dB for andre centraltyper, jf. bilag 1 til  
+
+ nærværende cirkulære.
+ Centraldæmpningerne, se fig. 7, er i disse tilfælde summen af een for hver  
+
+ transmissionsretning fastlagt dæmpning i centralens firtråds kredsløb og  
+
+ centraltabet i dens totråds kredsløb.
+ Regneværdier for centraltabene c(4-2C)2 og c(4-A)2 dB i forskellige  
+
+ centralkonstruktioner fremgår af bilag 1 til nærværende cirkulære.
+d.
+Ved sammenstilling af totråds ledninger skal der regnes med en  
+
+ nominel centraldæmpning på c(2C-2C)2, c(2C-A)2 eller c(A-A)2 dB, jf. fig. 8.
+ I en central skal centraldæmpningerne ved sammenstilling af totråds  
+
+ ledninger udvise en fordeling med en middelværdi, der højst afviger 0,3 dB  
+
+ fra de nominelle værdier, og en standardafvigelse, som højst er 0,5 dB.
+ I dette tilfælde er centraldæmpningen lig med centraltabet, jf. pkt. 2.5.
+ Regneværdier for centraltabene c(2C-2C)2, c(2C-A)2 og c(A-A)2 dB i  
+
+ forskellige centralkonstruktioner fremgår af bilag 1 til nærværende  
+
+ cirkulære.
+e.
+Den nominelle dæmpning d dB af en totråds centralledning  
+
+ beregnes som summen af den rene lednings dæmpning alphal dB og dæmpningen i  
+
+ eventuelle transformatorer, 0,25 dB for hver linieautotransformator og 0,6  
+
+ dB. for hver linietransformator.
+Den rene lednings dæmpning bestemmes af  
+
+ ledningens længde l km og regneværdien for dæmpningskonstanten alpha dB/km,  
+
+ som fremgår af bilag 2 til nærværende cirkulære.
+ Foreligger der en kompensation k dB af dæmpningen i totråds  
+
+ centralledningen, reduceres den nominelle dæmpning til (d-k) dB, jf. pkt.  
+
+ 2.8. a.
+ Mellem international ledning og en abonnentledning må kun forekomme  
+
+ totråds centralledning(er) med en (samlet) dæmpning (d1 + d2) dB på højst 8,5  
+
+ dB, heri ikke medregnet en eventuel kompensation af dæmpning.
+f.
+Den nominelle dæmpning dA dB af en abonnentledning beregnes som  
+
+ summen af den rene lednings dæmpning alpha1 dB og dæmpningen hidrørende fra  
+
+ eventuelt til abonnentledningen hørende udstyr eller parallelkoblede  
+
+ ledninger, jf. pkt. 2.4.c.
+Den rene lednings dæmpning bestemmes af ledningens  
+
+ længde l km og regneværdien for dæmpningskonstanten alpha dB/km, som fremgår  
+
+ af bilag 2 til nærværende cirkulære.
+g.
+Den nominelle dæmpning t dB af en abonnentinstallation beregnes  
+
+ som summen af dæmpningerne af de rene ledninger mellem abonnentledningens  
+
+ afgrænsningspunkt i abonnentinstallationen, jf. pkt. 2.4.c., og  
+
+ telefonapparatets linieklemmer samt dæmpningen af eventuelle  
+
+ ekstrainstallationer og dertil hørende abonnenthjælpeudstyr, jf. pkt. 2.4.d.  
+
+ De rene ledningers dæmpning bestemmes af ledningernes længde l km og  
+
+ regneværdien for dæmpningskonstanten alpha dB/km, som fremgår af bilag 2 til  
+
+ nærværende cirkulære.
+ Ved dimensionering af abonnentledningsnettet skal t dB normalt ansættes  
+
+ til 1,5 dB, som regnes at dække dæmpningen af ekstrainstallationer og  
+
+ abonnenthjælpeudstyr i normalt omfang samt dæmpningen af nødvendigt  
+
+ ledningsudstyr i samme bygning som hovedapparatet i abonnentinstallationen.
+3.5. Tilladelig dæmpningsforvrængning a.
+For firtråds ledninger fremført i bærefrekvenskanaler må  
+
+ middelværdien af driftsdæmpningen *Af dB ved frekvensen f Hz for alle kanaler  
+
+ i en gruppe (12 kanaler) højst afvige fra middelværdien af driftsdæmpningen  
+
+ *A800 dB ved 800 Hz for samme gruppe med værdier, som fremgår af fig. 9 og  
+
+ følgende betingelser:
+ For den enkelte bærefrekvenskanal må driftsdæmpningen Af dB ved frekvensen  
+
+ f Hz højst afvige fra driftsdæmpningen A800 dB ved 800 Hz med værdier, som  
+
+ fremgår af fig. 10 og følgende betingelser:
+ For firtråds ledninger fremført i PCM kanaler må driftsdæmpningen Af dB  
+
+ ved frekvensen f Hz for hver enkelt kanal højst afvige fra driftsdæmpningen  
+
+ A800 dB ved 800 Hz med værdier, som fremgår af fig. 11 og følgende  
+
+ betingelser:
+ I foran nævnte betingelser forudsættes kanalernes driftsdæmpninger målt  
+
+ mellem ledningernes begyndelses- og endepunkter, jf. pkt. 2.4.a., og mellem  
+
+ nominelle impedanser (600 ohm), jf. pkt. 3.3.a., samt ved måleniveau, jf.  
+
+ pkt. 2.6.f.
+ b . En centrals driftsdæmpning af dB ved frekvensen f Hz må højst  
+
+ afvige fra driftsdæmpningen a800 dB ved 800 Hz med værdier, som fremgår af  
+
+ fig. 12, 13 og 14 samt følgende betingelser:
+Ved sammenstilling af firtråds ledninger skal Ved sammenstilling af en firtråds og en totråds ledning skal Ved sammenstilling af totråds ledninger skal Centralens driftsdæmpninger forudsættes herved målt i begge  
+
+ transmissionsretninger mellem dens nominelle impedanser (600 ohm, jf. dog  
+
+ pkt. 3.3.d.) og ved et sendeniveau på 0 dBm (1 mVA).
+c.
+For totråds ledninger regnes dæmpningsforvrængningen begrænset  
+
+ tilstrækkeligt, dersom ledningsnettet er dimensioneret i overensstemmelse med  
+
+ kravene til de maksimalt tilladelige referenceækvivalenter, som fremgår af  
+
+ pkt. 3.6. i nærværende cirkulære.
+d.
+Såvel for den enkelte ekstrainstallation og det enkelte  
+
+ abonnenthjælpeudstyr som for den samlede abonnentinstallation må  
+
+ driftsdæmpningen ved enhver frekvens i frekvensområdet 300-3400 Hz højst være  
+
+ dobbelt så stor som driftsdæmpningen ved 800 Hz.
+ Dersom en abonnentinstallation omfatter en PABC, et omstillingsbord eller  
+
+ en lignende ekstrainstallation med lokalt strømfødningsarrangement, tillades  
+
+ dog, at driftsdæmpningen ved frekvenser i frekvensområdet 300-600 Hz i et  
+
+ sådant udstyr er indtil 2,0 dB større end driftsdæmpningen ved 800 Hz.
+ De foran omtalte driftsdæmpninger forudsættes målt i begge  
+
+ transmissionsretninger mellem 600 ohm og ved et sendeniveau på 0 dBm (1 mVA).
+3.6. Tilladelige referenceækvivalenter a . I det virtuelle afgrænsningspunkt for sending (relativt niveau  
+
+ -3,5 dBr, jf. pkt. 2.6.c.) ud på en international ledning er det maksimalt  
+
+ tilladelige nationale sendeækvivalent fastsat til 21,0 dB.
+ I det virtuelle afgrænsningspunkt for modtagning (relativt niveau - 4,0  
+
+ dBr, jf. pkt. 2.6.c.) fra en international ledning er det maksimalt  
+
+ tilladelige nationale modtageækvivalent fastsat til 12,0 dB.
+ I en international lednings begyndelsespunkt (relativt niveau -8,0 dBr) og  
+
+ endepunkt (relativt niveau +3,5 dBr) bliver de maksimalt tilladelige  
+
+ nationale sende- og modtageækvivalenter i overensstemmelse hermed, jf. pkt.  
+
+ 2.7.d., henholdsvis 25,5 dB og 19,5 dB.
+ b . I en central, hvor totråds-firtråds overgangen i forbindelser  
+
+ mellem international ledning og en totråds centralledning kan etableres,  
+
+ bestemmes det maksimalt tilladelige sendeækvivalent Asmax dB og det maksimalt  
+
+ tilladelige modtageækvivalent Ammax dB ved totråds centralledningens  
+
+ afgrænsningspunkt i centralen af: Asmax = 19,0-0,5 x n - c(4-2C)2 (dB), og  
+
+ Ammax = 10,0-0,5 x n - c(4-2C)2 (dB), hvor n er vedkommende centrals n-værdi,  
+
+ jf. pkt. 2.2.b., og c(4-2C)2 dB centraltabet i den samme central.
+ c . For centraler, hvor totråds-firtråds overgangen i forbindelser  
+
+ mellem international ledning og den betragtede centrals abonnentledninger  
+
+ altid etableres i centralen selv, bestemmes det maksimalt tilladelige lokale  
+
+ sendeækvivalent Asmaxlok dB henholdsvis modtageækvivalent A mmaxlok dB ved  
+
+ abonnentledningernes afgrænsningspunkter i centralen af: Asmaxlok = 19,0 -  
+
+ 0,5 x n - c(4-A)2 (dB), og Ammaxlok = 10,0 - 0,5 x n - c(4-A)2(dB), hvor n er  
+
+ vedkommende centrals n-værdi, jf. pkt. 2.2.b., og c(4-A)2 dB centraltabet i  
+
+ samme central.
+ For andre centraler bestemmes Asmaxlok og A mmaxlok dB ud fra de foran i  
+
+ pkt. 3.6.b. givne værdier for Asmax og Ammax dB af: Asmaxlok = Asmax - (d1-k)  
+
+ - c(2C-2C)2 - d2 - c(2C-A)2 (dB), og Ammaxlok = Ammax - (d1-k) - c(2C-2C)2 -  
+
+ d2 - c(2C-A)2 (dB).
+ d1 og d2 dB er her de nominelle dæmpninger af de - højst to - totråds  
+
+ centralledninger, som må forekomme mellem abonnentledninger og  
+
+ totråds-firtråds overgangen i en international forbindelse. k dB er en  
+
+ eventuel foretagen kompensation af dæmpningen i den totråds centralledning,  
+
+ der er nærmest totråds-firtråds overgangen. c(2C- 2C)2 dB er centraltabet i  
+
+ en eventuel indskudt central med totråds sammenstilling af centralledninger,  
+
+ og c(2C-A)2 dB er centraltabet i den central, for hvilken Asmaxlok og  
+
+ Ammaxlok dB skal bestemmes.
+Såfremt den central, for hvilken de maksimalt tilladelige  
+
+ referenceækvivalenter ønskes bestemt, kan - eller forudsættes at kunne, jf.  
+
+ pkt. 3.1.f. - etablere forbindelse med international ledning ad flere  
+
+ fremføringsveje med forskellige totråds dæmpninger: (d1 - k + d2 + c(2C-2C)2)  
+
+ dB, og måske også via centraler med forskellige Asmax- og Ammax-værdier, skal  
+
+ der ved ækvivalentbestemmelsen regnes med de mindste ækvivalenter,  
+
+ beregningerne giver.
+Dette gælder også, hvis der er forskellige totråds  
+
+ dæmpninger i samme fremføringsvej.
+ d . En abonnents lokale sendeækvivalent Aslok dB og lokale  
+
+ modtageækvivalent Amlok dB skal i abonnentledningens afgrænsningspunkt i den  
+
+ central, under hvilken den pågældende abonnent hører, være mindre end eller  
+
+ lig med de for den pågældende central bestemte maksimalværdier, henholdsvis  
+
+ Asmaxlok og Ammaxlok dB,jf. pkt.3.6.c.
+ Idet Aslok og Amlok dB bestemmes som summen af telefonapparatets  
+
+ sendeækvivalent S dB henholdsvis modtageækvivalent M dB,  
+
+ abonnentinstallationens dæmpning t dB jf. pkt. 3.4.g. og abonnentledningens  
+
+ dæmpning dA dB, jf. pkt. 3.4.f., gælder følgende betingelser.
+Asmaxlok >= Aslok = S + t + dA (dB), og Ammaxlok >= Amlok = M + t + dA (dB).
+ S og M dB er bestemt af telefonapparatets transmissionsegenskaber og  
+
+ driftsbetingelser ved henholdsvis:
+S = S0 + s x (R x l + r) + ms (dB), og M = M0 + mm (dB).
+S0 og M0 dB er regneværdier for telefonapparatets sendeækvivalent  
+
+ henholdsvis modtageækvivalent ved 0 km abonnentledning og er fastsat for hver  
+
+ telefonapparattype og strømfødningsarrangement, jf. bilag 3 til nærværende  
+
+ cirkulære. s dB/ohm er en regneværdi for sendeækvivalentets strømtabsfaktor,  
+
+ ligeledes fastsat for hver telefonapparattype og strømfødningsarrangement,  
+
+ jf. bilag 3 til nærværende cirkulære. ms og mm dB er margener for henholdsvis  
+
+ sende- og modtageækvivalent, fastsat for hver telefonapparattype og  
+
+ strømfødningsarrangement til dækning af de afvigelser fra de virkelige  
+
+ referenceækvivalenter, som anvendelsen af regneværdierne for S0, M0 og s  
+
+ giver anledning til, jf. bilag 3 til nærværende cirkulære.
+R x l ohm er  
+
+ sløjfemodstanden af abonnentledningen, bestemt af den rene lednings længde l  
+
+ km og regneværdien for ledningens sløjfemodstand pr. km, som fremgår af bilag  
+
+ 2 til nærværende cirkulære. r ohm er sløjfemodstand af alt, hvad der ud over  
+
+ R x l ohm forekommer af seriemodstand i abonnentledningen, f.eks. i en  
+
+ ledningsbegrænser eller annekscentral, samt i givet fald sløjfemodstanden af  
+
+ ekstraapparatledning til et apparat uden for den bygning, i hvilken  
+
+ hovedapparatet befinder sig, såfremt apparatet benyttes uden lokal  
+
+ strømfødning.
+ En abonnents referenceækvivalenter opfylder således kravene i nærværende  
+
+ cirkulære, hvis: Asmaxlok >= S0 + s x (R x l + r) + ms + t + dA (dB), og  
+
+ Ammaxlok >= M0 + mm + t + dA (dB).
+ Ved dimensionering af abonnentledningsnettet under fuldautomatiske  
+
+ centraler ansættes S og M dB normalt til henholdsvis 6,5 og -2,5 dB. medens t  
+
+ dB normalt ansættes til 1,5 dB. jf. pkt. 3.4.g., således at en  
+
+ abonnentlednings maksimalt tilladelige dæmpning dAmax dB bestemmes af: dAmax  
+
+ = Asmaxlok - 8,0 = Ammaxlok + 1,0 (dB).
+ En abonnentinstallation, for hvilken forudsætningerne for ansættelsen af  
+
+ de foran anvendte værdier for S, M og t ikke er til stede, må kun etableres,  
+
+ dersom en særlig undersøgelse med anvendelse af de foreliggende værdier for  
+
+ S, M, t og dA viser, at betingelserne for Aslok og Amlok er opfyldt.
+ e . En centralledning, der benyttes på en sådan måde i nettet, at  
+
+ den ikke kan indgå i en international forbindelse, jf. pkt. 3.1.e. og f., må  
+
+ højst medføre et referenceækvivalent på 33,0 dB for nationale forbindelser.
+ f . Ved telefonistetablering af såvel nationale som internationale  
+
+ forbindelser skal telefonistens sende- og modtageækvivalenter nominelt være  
+
+ henholdsvis 10,0 og 1,0 dB i de virtuelle afgrænsningspunkter i det firtråds  
+
+ kredsløb, over hvilket telefonisten etablerer forbindelsen.
+3.7. Tilladelig ubalance mod jord a . En central skal ved ledningernes afgrænsningspunkter, jf. pkt.  
+
+ 2.4., have jordbalancedæmpninger, som ved frekvensen f Hz er mindst:
+40 dB for 50 <= f < 600 (Hz), og mindst 46 dB for 600 <= f <= 3400 (Hz).
+ Disse krav skal være opfyldt for begge transmissionsretninger af enhver  
+
+ talevej gennem centralen, når jordbalancedæmpningerne bestemmes ved målinger  
+
+ som vist for den ene transmissionsretning i fig. 15 og 16, og målingerne  
+
+ foretages med afbryderen S såvel åben som lukket samt ved et sendeniveau på  
+
+ 10 dBm (U *- 5 kvadratroden af Zs/600) i fig. 15 og på 20 dBm (U *- 7,75) i  
+
+ fig. 16.
+I fig. 15 og 16 er a dB centraldæmpningen i den pågældende  
+
+ transmissionsretning.
+Zs ohm er lig med centralens nominelle impedans ved  
+
+ afgrænsningspunkterne på sendesiden, og Zm ohm er lig med centralens  
+
+ nominelle impedans ved afgrænsningspunkterne på modtagesiden.
++++SKEMA+++ Ved målemetoden i fig. 15 er jordbalancedæmpningen aj dB bestemt af: aj =  
+
+ 20 x log10(U/u) - a - 12 - 10 log10 (Zs/600) (dB), hvor U volt er den elektromotoriske kraft, der gennem Zs ohm påtrykkes  
+
+ stam kredsløbet, og u volt er den spænding, som på grund af ubalance mod jord  
+
+ overføres til belastningen 150 ohm på halvfirer kredsløbet.
+Ved målemetoden i fig. 16 er jordbalancedæmpningen aj dB bestemt af: aj =  
+
+ 20 x log10(U/u) - a + 10 x log10(Zm/600) (dB), hvor U volt er den elektromotoriske kraft, der gennem 150 ohm påtrykkes  
+
+ halvfirer kredsløbet, og u volt er den spænding, som på grund af ubalance mod  
+
+ jord overføres til belastningen Zmohm på stam kredsløbet.
+ Normalt er centralens nominelle impedans 600 ohm og sidste led i de  
+
+ anførte formler for aj bliver 0, men afviger centralens nominelle impedans  
+
+ fra 600 ohm - som tilladt i henhold til pkt. 3.3.b. og d. - er dette ikke  
+
+ tilfældet.
+b.
+En abonnentinstallation skal ved abonnentledningens  
+
+ afgrænsningspunkt, jf. pkt. 2.4.c., have jordbalancedæmpninger, som ved  
+
+ frekvensen f Hz er mindst:
+40 dB for 50 <= f < 600 (Hz), og mindst 46 dB for 600 <= f <= 3400 (Hz).
+ Disse krav skal være opfyldt, når jordbalancedæmpningerne bestemmes ved  
+
+ målinger som vist i fig. 17 og 18, og målingerne foretages med afbryderen S  
+
+ såvel åben som lukket samt ved et sendeniveau på 10 dBm (U *- 5) i fig. 17 og  
+
+ på 20 dBm (U *- 7,75) i fig. 18.
+Ved målemetoden i fig. 17 er jordbalancedæmpningen aj dB bestemt af: aj =  
+
+ 20 x log10(U/u) - 12 (dB), hvor U volt er den elektromotoriske kraft, der gennem 600 ohm påtrykkes  
+
+ stam kredsløbet, og u volt er den spænding, som på grund af ubalance mod jord  
+
+ overføres til belastningen 150 ohm på halvfirer kredsløbet.
+Ved målemetoden i fig. 18 er jordbalancedæmpningen aj dB bestemt af: aj =  
+
+ 20 x log10(U/u) (dB), hvor U volt er den elektromotoriske kraft, der gennem 150 ohm påtrykkes  
+
+ halvfirer kredsløbet, og u volt er den spænding, som på grund af ubalance mod  
+
+ jord overføres til belastningen 600 ohm på stam kredsløbet.
+c.
+En PABC, et omstillingsbord eller en lignende  
+
+ ekstrainstallation, som er indrettet til sammenstilling af ledninger, skal  
+
+ ved ledningernes afgrænsningspunkter opfylde de samme krav til  
+
+ jordbalancedæmpninger som foran i pkt. 3.7.a. anført for en central.
+3.8. Tilladelig krydstale a.
+For firtråds ledninger fremført i et bærefrekvenssystem skal  
+
+ krydstaleafstanden for forståelig krydstale mellem en kanal og enhver anden  
+
+ kanal i samme gruppe (12 kanaler) være mindst 65 dB i frekvensområdet  
+
+ 300-3400 Hz.
+ Mellem de to transmissionsretninger i en firtråds ledning fremført i et  
+
+ bærefrekvenssystem skal krydstaleafstanden for forståelig nærkrydstale være  
+
+ mindst 50 dB i frekvensområdet 300-3400 Hz.
+ Sædvanligvis kontrolleres de foreskrevne krydstaleafstande ved målinger på  
+
+ firtråds fordeleren (FX) ved 800 Hz og måleniveau, jf. pkt. 2.6.f.
+b.
+For firtråds ledninger fremført i et PCM system skal  
+
+ krydstaleafstanden for forståelig krydstale mellem en kanal og enhver anden  
+
+ kanal være mindst 65 dB ved enhver frekvens i frekvensområdet 700-1100 Hz,  
+
+ som ikke er subharmonisk til 8 kHz.
+ Mellem de to transmissionsretninger i en firtråds ledning fremført i et  
+
+ PCM system skal krydstaleafstanden for forståelig nærkrydstale være mindst 60  
+
+ dB ved enhver frekvens i frekvensområdet 300-3400 Hz.
+ De foreskrevne krydstaleafstande kontrolleres ved måleniveau, jf. pkt.  
+
+ 2.6.f., på firtråds fordeleren (FX).
+c.
+I en central skal krydstaleafstanden for forståelig krydstale  
+
+ mellem en forbindelse og enhver anden forbindelse gennem centralen være  
+
+ mindst 70 dB i frekvensområdet 300-3400 Hz.
+ Mellem de to transmissionsretninger i en firtråds forbindelse gennem en  
+
+ central skal krydstaleafstanden for forståelig krydstale være mindst 60 dB i  
+
+ frekvensområdet 300-3400 Hz.
+ Sædvanligvis kontrolleres de foreskrevne krydstaleafstande ved målinger på  
+
+ centralens firtråds fordeler (FX) og totråds fordeler (xf) ved 1100 Hz og  
+
+ måleniveau, jf. pkt. 2.6.f., eller et sendeniveau på 0 dBm (1 mVA), hvis der  
+
+ ikke er fastlagt et relativt niveau for det pågældende målepunkt.
+d.
+En PABC, et omstillingsbord eller en lignende  
+
+ ekstrainstallation, som er indrettet til sammenstilling af ledninger, skal  
+
+ ved ledningernes afgrænsningspunkter opfylde de samme krav til  
+
+ krydstaleafstande som foreskrevet foran i pkt. 3.8.c. for en central ved  
+
+ dennes totråds fordeler (xf).
+3.9. Tilladelig elektrisk støj a.
+I den enkelte kanal i et bærefrekvenssystem, hvor firtråds  
+
+ ledningernes længde l km er mindre end ca. 250 km, må den af lednings- og  
+
+ kanaludstyr indførte elektriske støj ikke i noget tidsrum af varighed een  
+
+ time medføre en psofometrisk middelstøjeffekt større end 2000 pW i et punkt  
+
+ med relativt niveau 0 dBr (-57 dBm0p), når kanalens afgrænsningspunkter er  
+
+ afsluttet med nominelle impedanser (600 ohm), jf. pkt. 3.3.a.
+Endvidere må  
+
+ middelværdien for alle kanaler i en gruppe (12 kanaler) af de således  
+
+ definerede psofometriske middelstøjeffekter for de enkelte kanaler ikke være  
+
+ større end 1000 pW.
+ I den enkelte kanal i et bærefrekvenssystem, hvor firtråds ledningernes  
+
+ længde l km er større end ca. 250 km, må den af lednings- og kanaludstyr  
+
+ indførte elektriske støj ikke i noget tidsrum af varighed een time medføre en  
+
+ psofometrisk middelstøjeffekt større end 4 x 1 pW i et punkt med relativt  
+
+ niveau 0 dBr, når kanalens afgrænsningspunkter er afsluttet med nominelle  
+
+ impedanser (600 ohm).
+b.
+I den enkelte kanal i et PCM system må den af lednings- og  
+
+ kanaludstyr indførte elektriske støj ikke på noget tidspunkt medføre en  
+
+ psofometrisk støjeffekt større end 316 pW i et punkt med relativt niveau 0  
+
+ dBr (-65 dBm0p), når kanalens afgrænsningspunkter er afsluttet med nominelle  
+
+ impedanser (600 ohm).
+ Den uvejede støjeffekt må endvidere ikke - målt selektivt - ved nogen  
+
+ enkelt frekvens i frekvensområdet 300-3400 Hz være større end 10.000 pW i et  
+
+ punkt med relativt niveau 0 dBr (-50 dBm0).
+c.
+I en forbindelse gennem en central må den af centraludstyret  
+
+ indførte elektriske støj ikke i noget tidsrum af varighed een time medføre  
+
+ hverken en psofometrisk middelstøjeffekt større end 200 pW eller en uvejet  
+
+ middelstøjeffekt større end 100 000 pW i et punkt med relativt niveau 0 dBr  
+
+ (henholdsvis -67 dBm0p og -40 dBm0).
+ Ved en ren totråds forbindelse gennem centralen regnes her med, at  
+
+ centralens afgrænsningspunkter har relativt niveau 0 dBr.
+ Ved måling af uvejet støjeffekt skal måleinstrumentet være  
+
+ frekvensuafhængigt i frekvensområdet 30-20 000 Hz.
+d.
+I en forbindelse gennem en PABC, et omstillingsbord eller en  
+
+ lignende ekstrainstallation, som er indrettet med lokalt  
+
+ strømfødningsarrangement eller til sammenstilling af ledninger, må den af  
+
+ ekstrainstallationen indførte elektriske støj ikke medføre større  
+
+ middelstøjeffekter ved ledningernes afgrænsningspunkter end foreskrevet foran  
+
+ i pkt. 3.9.c. for en totråds forbindelse gennem en central.
+e.
+Ved enhver samtaleforbindelse må den elektriske støj, som  
+
+ forårsages af nærføring mellem telefon- og stærkstrømsanlæg her i landet,  
+
+ højst medføre en psofometrisk elektromotorisk kraft på 1 mv ved  
+
+ linieklemmerne på telefonapparatet.
+ (* 1) I konsekvens af ændret arbejdsdeling på telekommunikationsområdet  
+
+ pr. 1.1.1991 ophæves cirkulæret som statslig forskrift, idet ansvaret for  
+
+ disse bestemmelser, der vedrører interne forhold i Tele Danmark A/S, er  
+
+ overgået til dette selskab.

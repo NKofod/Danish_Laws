@@ -1,0 +1,144 @@
+Bekendtgørelse om refusion af  
+
+ befordringsrabat til  
+
+ efterlønsmodtagere og overgangsydelsesmodtagere I medfør af § 4 i lov nr. 1015 af 3. december 1996 om  
+
+ befordringsrabat til efterlønsmodtagere m.fl., som senest er  
+
+ ændret ved lov nr. 446 af 7. juni 2001, fastsættes  
+
+ følgende:
+§ 1. Ved de transportansvarlige forstås i  
+
+ denne bekendtgørelse Hovedstadsområdets Trafikselskab (HT) og  
+
+ fælleskommunale trafikvirksomheder.
+I amter uden fælleskommunale  
+
+ trafikvirksomheder er det amtsrådet eller kommunalbestyrelsen.
+ § 2. De transportansvarlige yder rabat i henhold  
+
+ til loven ved efterlønsmodtageres og overgangsydelsesmodtageres  
+
+ køb af abonnementskort med billede til personligt brug.
+Stk. 2. Rabat kan ydes til abonnementskort med gyldighed i op  
+
+ til 12 måneder.
+Rabat kan dog kun ydes så længe, medlemmet  
+
+ får efterløn eller overgangsydelse.
+ Stk. 3. Rabatten udgør 50 pct. af den  
+
+ ordinære pris på abonnementskortet.
+§ 3. Ved salget af abonnementskortet skal de  
+
+ transportansvarlige se legitimation med billede for køber.
+Som  
+
+ legitimation kan køberen bruge kørekort, pas eller  
+
+ dankort.
+Stk. 2. Køberen skal også vise dokumentation for,  
+
+ at pågældende modtager efterløn eller overgangsydelse.  
+
+ Dokumentationen kan være den sidste udbetalingsspecifikation fra  
+
+ a-kassen.
+Købers personnummer skal fremgå af  
+
+ udbetalingsspecifikationen.
+Køberen kan også bruge en  
+
+ erklæring fra arbejdsløshedskassen om, at pågældende  
+
+ får efterløn eller overgangsydelse.
+Stk. 3. De transportansvarlige kan beslutte, at købere  
+
+ kan forny deres abonnementskort skriftligt.
+Ved fornyelsen skal  
+
+ køberen medsende dokumentation efter stk. 2.
+ Stk. 4. De transportansvarlige skal ved salget registrere  
+
+ køberens personnummer, abonnementskortets ordinære pris, kortets  
+
+ gyldighedsperiode og den ydede rabat.
+ § 4. Direktoratet refunderer 90 pct. af det  
+
+ beløb, der i medfør af § 2 er ydet i rabat.
+Stk. 2. De transportansvarlige skal bede direktoratet om  
+
+ refusion efter udløbet af hvert kvartal.
+Anmodningen skal være  
+
+ modtaget i direktoratet senest 3 måneder efter kvartalets  
+
+ udløb.
+ Stk. 3. De enkelte transportansvarlige skal sende deres  
+
+ opgørelse direkte til Arbejdsdirektoratet.
+§ 5. De transportansvarlige skal lægge en  
+
+ edb-læsbar diskette ved anmodningen om refusion.
+Oplysningerne på  
+
+ disketten skal opfylde kravene i bilag 1. Der skal være angivet  
+
+ køberens personnummer, abonnementskortets ordinære pris og  
+
+ kortets gyldighedsperiode samt den ydede rabat.
+ § 6. Den eksterne revisor for den enkelte  
+
+ transportansvarlige skal attestere anmodningen om refusion.
+Stk. 2. Ved attestationen skal revisoren erklære, at der  
+
+ er sikre forretningsgange hos den transportansvarlige.
+Det skal fremgå,  
+
+ at rabatten er ydet efter loven, og at rabatten er opgjort korrekt og i  
+
+ overensstemmelse med den transportansvarliges registreringer.
+Stk. 3. Såfremt revisoren på forhånd har  
+
+ erklæret, at der er sikre forretningsgange, jf. stk. 2, kan der  
+
+ uden attestation efter stk. 1 ske acontoafregning af refusion i  
+
+ løbet af kalenderåret.
+Efter kalenderårets udløb  
+
+ skal revisoren attestere, at alle betingelser i stk. 2 er opfyldt.
+ Stk. 4. Hvert år i januar skal Arbejdsdirektoratet have  
+
+ meddelelse om, hvem der er underskriftsberettiget for den enkelte  
+
+ transportansvarlige.
+ § 7. Arbejdsdirektoratet overfører  
+
+ refusionsbeløbet til en konto hos de transportansvarlige.
+ § 8. Bekendtgørelsen træder i kraft  
+
+ den 1. juli 2001.
+ Stk. 2. Samtidig ophæves Arbejdsdirektoratets  
+
+ bekendtgørelse nr. 51 af 27. januar 1998 om refusion af  
+
+ befordringsrabat til efterlønsmodtagere, overgangsydelsesmodtagere og  
+
+ seniorydelsesmodtagere.
+Arbejdsdirektoratet, den 22. juni  
+
+ 2001 Lisbeth Lollike /Jørgen Kappel Bilag 1 Krav: Komma-separeret ASCII-fil i DOS format, leveret  
+
+ på en 3 ½" HD-diskette med filnavnet INDDATA.TXT Filen skal opbygges således, at første linie (START-POST)  
+
+ indeholder oplysninger om, hvem der indleverer data.
+De efterfølgende  
+
+ linier (DATA-POSTER) indeholder oplysninger om hvert solgte kort og den ydede  
+
+ rabat.
+ START-POST:
+Feltnavn Længde Beskrivelse CVR-nummer 8 Firmaets CVR-nummer Firmanavn 100 Firmanavn DATA-POST Feltnavn Længde Beskrivelse Personnummer 10 Angives uden bindestreg Kort-pris 6 Kort-pris i øre Rabat 6 Rabat i øre Startdato 6 Angives i ÅÅMMDD Slutdato 6 Angives i ÅÅMMDD Eksempel:

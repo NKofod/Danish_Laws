@@ -1,0 +1,674 @@
+Vejledning om sikker elektronisk og telefonisk  
+
+  
+
+ kommunikation mv. i arbejdsløshedsforsikringen Indledning I bekendtgørelse nr. 369 af 26. maj 2003 er der fastsat  
+
+ regler om elektronisk og telefonisk kommunikation mv. i  
+
+ arbejdsløshedsforsikringen.
+I det følgende beskrives bekendtgørelsens regler, og nogle  
+
+ af dem uddybes med nærmere retningslinjer.
+Elektronisk sagsbehandling kræver  
+
+ både intern og ekstern sikring af informationerne.
+Grundlaget herfor skal  
+
+ derfor være opfyldt efter reglerne i bekendtgørelse om tilsynet med de  
+
+ anerkendte arbejdsløshedskassers administration.
+ Der henvises i øvrigt til Datatilsynets bekendtgørelse om  
+
+ sikkerhedsforanstaltninger til beskyttelse af personoplysninger, som  
+
+ behandles  
+
+ for den offentlige forvaltning (med tilhørende vejledning).
+Sikker internetkommunikation i  
+
+  
+
+ arbejdsløshedsforsikringen Til § 1 Kapitel 1 i bekendtgørelsen fastsætter regler om sikker  
+
+ internetkommunikation mellem a-kasserne og Arbejdsdirektoratet og a-kasserne  
+
+ indbyrdes.
+Den elektroniske kommunikation mellem medlemmerne og a-kasserne er  
+
+ reguleret i bekendtgørelsens kapitel 2.
+ Ved dokumentation forstås f.eks. dokumentation for  
+
+ medlemsanciennitet, indbetaling af efterlønsbidrag, afgørelser, høringer mv.
+Til § 2 Projektet om registrering af efterlønsbidrag betyder, at  
+
+ oplysninger om medlemmer udveksles elektronisk fra den 1. oktober 2001. Det  
+
+ er  
+
+ derfor et krav, at alle a-kasser fra dette tidspunkt har en sikker  
+
+ internetforbindelse, så kommunikationen mellem a-kasserne kan ske ved hjælp  
+
+ af  
+
+ e-post.
+ Det udvidede rådighedstilsyn betyder ifølge bemærkningerne  
+
+ til lov nr. 1035 af 17. december 2002 om ændring af lov om  
+
+ arbejdsløshedsforsikring m.v., at a-kasserne i begyndelsen af 2004 skal  
+
+ udveksle afgørelser og dokumenter om rådighed ved brug af en sikker  
+
+ internetforbindelse.
+Til § 3 Med autenticitet menes, at modtageren kan være sikker på, at  
+
+ meddelelsen stammer fra den angivne afsender.
+Dette kan kun opnås, hvis  
+
+ meddelelsen er signeret elektronisk.
+Staten har valgt at bruge Kommunedata og  
+
+ TDC internet som udbydere.
+Beskæftigelsesministeriet og dermed  
+
+ Arbejdsdirektoratet har valgt at bruge Kommunedata som udbyder.
+ Direktoratet vil derfor anbefale, at a-kasserne vælger den  
+
+ samme udbyder af certifikater til elektronisk signatur.
+Certifikaterne udløber normalt efter 2 år, og de skal derfor  
+
+ fornys.
+De udløbne certifikater skal opbevares på en sikker måde, jf.  
+
+ bekendtgørelsens § 13, stk. 1-3.
+Til § 4 Det fremgår af IT-sikkerhedsrådets vejledning fra maj 2000  
+
+ om praktisk brug af kryptering og digital signatur, at der sondres mellem 3  
+
+ forskellige niveauer for kryptering og digital signatur.
+Niveau I drejer sig  
+
+ om  
+
+ kritiske meddelelser.
+Til denne gruppe regnes meddelelser, der har  
+
+ retsvirkninger, f.eks. udstedelse af afgørelser om forbud eller påbud og  
+
+ afgivelse af meddelelser under strafansvar.
+Til gruppen regnes også  
+
+ meddelelser, der har økonomiske konsekvenser, uanset om de i sig selv har  
+
+ retsvirkninger.
+Ved udveksling af kritiske meddelelser skal der bruges stærk  
+
+ kryptering.
+Direktoratet har fastsat, at graden af kryptering følger den til  
+
+ enhver tid gældende vurdering.
+Det er for tiden 128 bits-kryptering.
+Udbetaling af arbejdsløshedsdagpenge mv.  
+
+  
+
+ på grundlag af elektroniske meddelelser Til § 5 I bekendtgørelsens § 5 står der, at grundlaget for at  
+
+ optage medlemmer og udbetale ydelser fra a-kasserne er medlemmets oplysninger  
+
+ på tro og love om arbejds- og indtægtsforhold mv. i udbetalingsperioden, som  
+
+ har betydning for retten til og størrelsen af ydelserne.
+Der kan f.eks. være tale om, at medlemmet som betingelse for  
+
+ at få arbejdsløshedsdagpenge skal udfylde et dagpengekort for hver  
+
+ udbetalingsperiode.
+Medlemmet skal på tro og love på dagpengekortet give  
+
+ oplysninger om ledighed og arbejds- og indtægtsforhold mv. i  
+
+ udbetalingsperioden.
+Medlemmet skal selv datere og underskrive kortet.
+Hvis medlemmet giver urigtige oplysninger på dagpengekortet,  
+
+ kan der blive tale om at betale dagpenge tilbage, jf. § 86, stk. 1,  
+
+ i  
+
+ lov om arbejdsløshedsforsikring m.v.
+Der kan også blive tale om at give  
+
+ medlemmet en sanktion efter lovens § 87, stk. 1 eller 3.
+Udbetaler en a-kasse dagpenge, uden at der foreligger et  
+
+ korrekt udfyldt dagpengekort, er a-kassen ansvarlig efter lovens § 86,  
+
+ stk. 4. Der henvises også til lovens § 79, stk. 3. Her står  
+
+ der,  
+
+ at krav på refusion bortfalder, og udbetalte beløb skal betales tilbage i det  
+
+ omfang, a-kassen ikke forelægger dokumentation i overensstemmelse med regler,  
+
+ der fastsættes af direktoratet.
+Der er tale om en objektiv regel.
+Det  
+
+ betyder,  
+
+ at hvis dokumentationen rent faktisk ikke findes, mister a-kassen retten til  
+
+ refusion.
+ Hvis den nødvendige dokumentation kan skaffes efterfølgende,  
+
+ bevarer a-kassen dog retten til refusion, og udbetalte beløb skal ikke  
+
+ betales  
+
+ tilbage.
+I dag sker udbetalingen af ydelser til medlemmer af a-kasser  
+
+ som hovedregel på grundlag af dokumentation i form af papir.
+Denne  
+
+ bekendtgørelse åbner mulighed for, at der nu kan ske udbetaling på grundlag  
+
+ af  
+
+ elektroniske meddelelser, f.eks. via internettet.
+Til § 6 Den teknologiske udvikling har gjort det muligt at bruge  
+
+ elektroniske erklæringer i stedet for udbetalingserklæringer på papir.
+Der er  
+
+ derfor behov for at have hjemmel til at udbetale på et sådant grundlag.
+ § 6, stk. 1, fastsætter derfor, at direktoratet  
+
+ kan tillade, at en a-kasse kan optage medlemmer og udbetale  
+
+ arbejdsløshedsdagpenge mv. på grundlag af elektroniske meddelelser eller  
+
+ blanketter.
+Den enkelte a-kasse skal altså søge om tilladelse til f.eks.  
+
+ at udbetale dagpenge på grundlag af elektroniske meddelelser eller  
+
+ blanketter.  
+
+ Tilladelsen vil som hovedregel i første omgang blive givet til en  
+
+ forsøgsperiode på et år.
+Hvis forsøget går godt, kan tilladelsen gøres varig.
+Tilladelsen kan gives til en eller flere af de ydelser, som  
+
+ den pågældende a-kasse udbetaler.
+Det gælder dog ikke godtgørelse efter lov  
+
+ om  
+
+ godtgørelse ved deltagelse i erhvervsrettet voksen- og efteruddannelse.
+I § 6, stk. 3, står der, at tilladelsen efter  
+
+ stk. 1 er betinget af, at a-kassen opfylder bestemte vilkår af  
+
+ administrativ og teknisk karakter.
+Der henvises også til § 7.
+Når der er tale om elektronisk optagelse, stilles der dog  
+
+ ikke så strenge krav som i § 7. Det skyldes, at a-kassen ikke kender den  
+
+ pågældende, når den modtager en anmodning om optagelse.
+Det er derfor ikke  
+
+ praktisk at etablere et system, der hviler på en pin-kode på 7 karakterer til  
+
+ den optagelsessøgende.
+Som følge heraf accepterer direktoratet til brug for  
+
+ optagelse en SSL-forbindelse med stærk kryptering, men uden identifikation  
+
+ ved  
+
+ hjælp af en pin-kode.
+Det er en betingelse, at a-kassen sørger for grundig og  
+
+ letforståelig information.
+Det skal sikres, at medlemmerne kender ordningen,  
+
+ hvis de vælger at give a-kassen oplysninger ved en elektronisk meddelelse.
+Til § 7 A-kassen skal ved valg af teknisk løsning tage hensyn til de  
+
+ på enhver tid foreliggende muligheder for at sikre, at 1)  
+
+ 	  
+
+    
+
+ meddelelsen ikke kan  
+
+ læses af andre end modtageren, 2)  
+
+ 	  
+
+    
+
+ meddelelsen ikke kan  
+
+ ændres undervejs til modtageren, og 3)  
+
+ 	  
+
+    
+
+ meddelelsen ikke kan  
+
+ være sendt af andre end den, der står som afsender.
+ Ønsker a-kassen f.eks. at bruge en kommunikationsprotokol  
+
+ kombineret med et givet krypteringsniveau, skal niveauet være så stort, at  
+
+ det  
+
+ ikke er sandsynligt, at der kan ske misbrug ved, at krypteringen brydes.
+ Systemet skal indrettes på en sådan måde, at medlemmerne som  
+
+ hovedregel først kan sende elektronisk eller sende rettelser den sidste dag i  
+
+ udbetalingsperioden.  
+
+ Den enkelte a-kasse afgør selv, hvor længe medlemmet efter  
+
+ udbetalingsperiodens  
+
+ udløb skal kunne sende meddelelsen elektronisk.
+ Det skal også kun være muligt et mindre antal gange at  
+
+ identificere sig forkert som en bestemt afsender, inden systemet lukker.
+Til § 8 Reglen indeholder kravene til erklæringen fra a-kassens  
+
+ statsautoriserede revisorer.
+Erklæringen skal foreligge som betingelse for,  
+
+ at  
+
+ direktoratet kan tillade udbetaling på grundlag af elektroniske meddelelser.
+Denne regel skal ses sammen med bekendtgørelsen om tilsynet  
+
+ med de anerkendte arbejdsløshedskassers administration.
+Der står heri, hvad  
+
+ revisorerne skal undersøge om beskrivelserne af a-kassernes administrative  
+
+ rutiner (forretningsgange).
+Til § 9 Oplysninger fra medlemmerne til a-kassen ved hjælp af  
+
+ elektroniske meddelelser er et tilbud.
+Der kan altså ikke være tale om, at  
+
+ a-kassen pålægger medlemmerne at bruge denne metode til at sende oplysninger.
+Der kan dog opstå behov for, at en a-kasse kan udelukke et  
+
+ medlem fra at bruge elektroniske meddelelser.
+Der tænkes her især på  
+
+ tilfælde,  
+
+ hvor medlemmet ikke har brugt ordningen korrekt, og tilfælde, hvor medlemmet  
+
+ tidligere har misbrugt ordningen.
+A-kassens beslutning efter § 9, stk. 2, er en  
+
+ afgørelse i lovens forstand.
+Den er derfor omfattet af de almindelige  
+
+ klageregler, jf. lovens § 98, stk. 1.
+ Telefonisk indtastning af dagpengekort mv.
+Til § 10 § 10, stk. 1, i bekendtgørelsen fastsætter, at  
+
+ direktoratet kan give en a-kasse tilladelse til, at den kan udbetale  
+
+ arbejdsløshedsdagpenge mv. på grundlag af telefonisk indtastede oplysninger.
+Den enkelte a-kasse skal søge tilladelse til f.eks. at  
+
+ udbetale arbejdsløshedsdagpenge på grundlag af telefonisk indtastede  
+
+ oplysninger.
+Tilladelsen til den enkelte a-kasse vil i første omgang blive  
+
+ givet til en forsøgsperiode på et år.
+Hvis forsøget går godt, kan tilladelsen  
+
+ gøres varig.
+Tilladelsen kan gives til en eller flere af de ydelser, som  
+
+ den pågældende a-kasse udbetaler.
+Det gælder dog ikke godtgørelse efter lov  
+
+ om  
+
+ godtgørelse ved deltagelse i erhvervsrettet voksen- og efteruddannelse.
+I bekendtgørelsens § 10, stk. 2, er det fastsat,  
+
+ at tilladelsen efter stk. 1 er betinget af, at a-kassen opfylder nærmere  
+
+ fastsatte vilkår af administrativ og teknisk karakter.
+Der henvises også til  
+
+ bekendtgørelsens § 12.
+Der vil for dagpenge kun blive givet tilladelse til  
+
+ telefonisk indtastning af 0-dagpengekort.
+Det vil sige, at medlemmet i hele  
+
+ udbetalingsperioden har været fuldt ledig og hverken har haft arbejde eller  
+
+ indtægter.
+ Det er også en betingelse, at a-kassen etablerer et godt  
+
+ informationssystem, der sikrer, at medlemmerne kender ordningen, hvis de  
+
+ vælger  
+
+ at afgive oplysninger ved telefonisk indtastning.
+For at undgå misbrug er det også en betingelse, at medlemmet  
+
+ ud over sit cpr. nr. også indtaster en firecifret pin-kode, der dannes på  
+
+ tilfældig vis af a-kassens edb-system.
+På denne måde forebygges det, at andre  
+
+ end medlemmet kan bede om dagpenge.
+A-kassen kan godt vælge at bruge en  
+
+ 7-cifret pin-kode for derved at kunne tilbyde medlemmerne at bruge samme  
+
+ pin-kode både ved telefonisk indtastning og ved elektroniske meddelelser.
+Der  
+
+ er ikke noget krav om, at pin-koden skal fornys efter en bestemt periode,  
+
+ eller  
+
+ hvis medlemmet skifter fra f.eks. dagpenge til efterløn.
+Telefonsystemet skal indrettes på en sådan måde, at der  
+
+ først kan ske telefonisk indtastning fra den sidste dag i  
+
+ udbetalingsperioden.  
+
+ Den enkelte a-kasse afgør selv, hvor længe medlemmet efter  
+
+ udbetalingsperiodens  
+
+ udløb skal kunne indtaste telefonisk.
+Det skal også kun være muligt et  
+
+ begrænset  
+
+ antal gange at taste pin-kode eller cpr. nr. forkert, inden systemet lukker  
+
+ for  
+
+ indtastning.
+ Telefonsystemet kan også indrettes sådan, at det er muligt  
+
+ at indtaste, at man også er ledig i næste udbetalingsperiode.
+ Endelig skal systemet indrettes sådan, at opkald fra  
+
+ udlandet bliver afvist.
+ Som nævnt kan der kun blive tale om at taste 0-dagpengekort.  
+
+ Spørgsmålet er herefter, hvad der kan anses for at være 0-kort:
+ Følgende anses for at være 0-kort:
+ 1. Medlemmet har opsparede overskydende timer, som udløser  
+
+ teknisk belægning i dagpengeperioden.
+ Medlemmet har ikke pligt til at oplyse herom på  
+
+ dagpengekortene, men a-kassen har pligt til at lave en teknisk belægning.
+ Det betyder, at et sådant dagpengekort kan anses for at være  
+
+ et 0-kort.
+ 2. Medlemmet har en effektiv karantæne stående, som medfører  
+
+ teknisk belægning i udbetalingsperioden.
+ Medlemmet har ikke pligt til at oplyse herom, men a-kassen  
+
+ har pligt til at lave en teknisk belægning.
+ Det betyder, at der her er tale om et 0-kort.
+ 3. Medlemmet har ret til godtgørelse for 1. og 2.  
+
+ ledighedsdag i dagpengeperioden.
+Medlemmet har pligt til at oplyse om ret til godtgørelse for  
+
+ 1. og 2. ledighedsdag på dagpengekortet.
+På den anden side har a-kassen pligt  
+
+ til teknisk belægning af dagpengekortene for disse dage og timer.
+ Det betyder, at der her er tale om et 0-kort.
+ 4. Medlemmet skal have eller får udbetalt feriedagpenge i  
+
+ dagpengeperioden.
+ Medlemmet har pligt til at oplyse om feriedagene på  
+
+ dagpengekortene.
+ Hvis a-kassens edb-system er sådan indrettet, at det er  
+
+ umuligt at udbetale feriedagpenge og arbejdsløshedsdagpenge for den samme  
+
+ periode, er der tale om automatisk teknisk belægning af dagpengekort.
+ Hvis dette er tilfældet, er der tale om et 0-kort.
+ 5. Medlemmet går fra en ydelse til en anden, f.eks. fra  
+
+ dagpenge til uddannelsesgodtgørelse.
+ Medlemmet har pligt til at oplyse herom på dagpengekort og  
+
+ erklæring til udbetaling af uddannelsesgodtgørelse.
+ Hvis a-kassens edb-system er sådan indrettet, at det er  
+
+ umuligt at udbetale to ydelser for den samme periode, er der tale om  
+
+ automatisk  
+
+ teknisk belægning af dagpengekort mv.
+ Hvis dette er tilfældet, er der tale om 0-kort.
+ Følgende anses ikke for at være 0-kort:
+ 1. Medlemmet har en fast månedlig pensionsindtægt.
+ Medlemmet har pligt til at oplyse herom på dagpengekortene.  
+
+ Da sådanne pensioner jævnligt reguleres og i øvrigt varierer en del, er det  
+
+ ikke muligt at tale om teknisk belægning.
+ Det betyder, at der ikke er tale om et 0-kort.
+ I visse tilfælde kan der dog være tale om 0-kort.
+Der er tale om 0-kort, hvis a-kassen får en fuldmagt fra  
+
+ medlemmet om, at den kan indhente pensionstilsagn og oplysning om regulering  
+
+ af  
+
+ pensionen direkte fra pensionsselskabet.
+I så fald kan a-kassen selv sørge  
+
+ for,  
+
+ at den altid har det korrekte beløb.
+A-kassen kan derfor lave en rigtig,  
+
+ automatisk  
+
+ belægning af dagpengekortet.
+ 2. Medlemmet har et fast månedligt honorar.
+ Medlemmet har pligt til at oplyse herom på dagpengekortene.  
+
+ Da der kan være tale om mange forskellige honorarer, hvor indtægten kan  
+
+ variere  
+
+ meget, er det ikke muligt at tale om teknisk belægning.
+ Det betyder, at der ikke er tale om et 0-kort.
+ 3. Medlemmet skal holde egen optjent ferie med godtgørelse i  
+
+ dagpengeperioden.
+ Medlemmet har pligt til at oplyse herom på dagpengekortet.
+ Medlemmet skal have feriekortet attesteret i a-kassen.
+ Det er i disse tilfælde ikke altid muligt at tale om  
+
+ automatisk, teknisk belægning, da det er medlemmet, der som udgangspunkt har  
+
+ pligt til at oplyse om ferien på dagpengekortene.
+ Det betyder, at der ikke er tale om et 0-kort.
+ Der er dog tale om 0-kort, hvis a-kassens forretningsgange  
+
+ og edb-system er sådan indrettet, at a-kassen ved attestationen af  
+
+ feriekortet  
+
+ skal lave en belægning for feriedagene i edb-systemet.
+Til § 11 Telefonisk indtastning af dagpengekort mv. er et tilbud til  
+
+ medlemmerne.
+Der kan altså ikke være tale om, at a-kassen pålægger  
+
+ medlemmerne  
+
+ at bruge denne metode til at afgive oplysninger.
+Der kan dog opstå behov for, at en a-kasse kan udelukke et  
+
+ medlem fra at bruge telefonisk indtastning.
+Der tænkes her især på tilfælde,  
+
+ hvor medlemmet ikke har brugt ordningen korrekt.
+Der tænkes også på tilfælde,  
+
+ hvor medlemmet tidligere har misbrugt ordningen.
+A-kassens afgørelse efter bekendtgørelsens § 11,  
+
+ stk. 2, er omfattet af de almindelige klageregler.
+Der henvises til  
+
+ lovens  
+
+ § 98, stk. 1.
+Til § 12 Reglen indeholder de krav til den erklæring fra a-kassens  
+
+ statsautoriserede revisorer, der skal foreligge som betingelse for, at  
+
+ direktoratet kan give tilladelse til telefonisk indtastning.
+Reglen skal ses sammen med bekendtgørelsen om tilsynet med  
+
+ de anerkendte arbejdsløshedskassers administration.
+Denne regel beskriver,  
+
+ hvad  
+
+ revisorerne skal undersøge for så vidt angår a-kassernes administrative  
+
+ rutiner  
+
+ (forretningsgange).
+Dokumentation og opbevaring Til § 13 Den almindelige opbevaringsregel på 5 år gælder også for  
+
+ udbetalingsmateriale efter denne bekendtgørelse.
+Systemet skal være indrettet sådan, at det ikke er muligt at  
+
+ ændre i elektronisk eller telefonisk indsendte dagpengekort mv., hverken af  
+
+ medlemmet eller a-kassen.
+Systemet skal også være sådan indrettet, at det er  
+
+ muligt på kort tid at danne en letforståelig udskrift af det elektronisk  
+
+ meddelte.
+Dette kan f.eks. ske til brug ved overflytninger og til brug for  
+
+ direktoratets tilsyn.
+A-kasserne skal opbevare dokumentationen i 5 år efter  
+
+ afslutningen af det regnskabsår, hvor materialet har dannet grundlag for  
+
+ udbetaling mv.
+Det fremgår af B-vejledning om dokumentation for  
+
+ arbejdsløshedskassernes administration af bestemmelserne i  
+
+ arbejdsløshedsforsikringsloven  
+
+ mv.
+ De særlige regler om opbevaring af dokumentation for ret til  
+
+ efterløn står i bekendtgørelse om dokumentation for medlemsanciennitet og  
+
+ indbetaling af efterlønsbidrag mv.
+ For opbevaring af dokumentation om udbetaling af dagpenge,  
+
+ ret til efterløn m.v. samt for opbevaring af tilhørende certifikater gælder  
+
+ det, at a-kasserne skal følge rutiner for registrering (logning) og  
+
+ journalisering (lagring), som er fastsat på en sådan måde, at dokumenternes  
+
+ bevisværdi sikres i opbevaringsperioden.
+Direktoratet anbefaler, at a-kasserne anvender systembevis.  
+
+ Anbefalingen understøttes af Statens Arkiver.
+Med systembevis forstås, at en  
+
+ meddelelse gemmes uden den tilknyttede signatur f.eks. i et  
+
+ dokumenthåndteringssystem.
+Samtidig logger a-kassen resultatet af den  
+
+ signaturkontrol, der er blevet foretaget og gemmer informationen i  
+
+ tilknytning  
+
+ til meddelelsen.
+Dokumentets bevisværdi er herefter knyttet til a-kassens  
+
+ evne  
+
+ til at bevise, at system og procedurer er bygget sådan op, at ingen i praksis  
+
+ har kunnet ændre i dokumentets indhold eller log.
+ Den enkelte a-kasse skal sikre, at de statsautoriserede  
+
+ revisorer undersøger, om system og procedurer er sådan udformede, at  
+
+ anvendelsen af nævnte systembevis sikrer dokumenternes bevisværdi på  
+
+ betryggende vis, jf. bestemmelserne i bekendtgørelse om tilsynet med de  
+
+ anerkendte arbejdsløshedskassers administration.
+ Denne vejledning erstatter følgende vejledninger:
+1)  
+
+ 	  
+
+    
+
+ vejledning nr. 156 af  
+
+ 28. august 2001 om sikker internetkommunikation i arbejdsløshedsforsikringen, 2)  
+
+ 	  
+
+    
+
+ vejledning nr. 71 af  
+
+ 18. maj 2000 om udbetaling af arbejdsløshedsdagpenge mv. på grundlag af  
+
+ elektroniske meddelelser og 3)  
+
+ 	  
+
+    
+
+ vejledning nr. 65 af  
+
+ 17. maj 2001 om telefonisk indtastning af dagpengekort mv.

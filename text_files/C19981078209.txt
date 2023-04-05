@@ -1,0 +1,567 @@
+Kundgørelse om forskrifter for  
+
+ Politiets Regnskabssystemer I henhold til § 4, stk. 2 og § 29, stk. 2 i  
+
+ Justitsministeriets lovbekendtgørelse nr. 654 af 20. september 1991 om  
+
+ offentlige myndigheders registre fastsættes følgende:
+ Kapitel 1.
+ Systemets navn og formål m.v.
+ § 1. Systemets navn er Politiets Regnskabssystem,  
+
+ der består af en Kasse- og Bogføringsdel samt en Bøde- og  
+
+ Omkostningsdel.
+ § 2. Rigspolitichefen er registeransvarlig  
+
+ myndighed.
+§ 3. Systemets formål er - til brug for  
+
+ politiets operative, administrative og statistikmæssige opgaver for så vidt angår Kasse- og  
+
+ Bogføringsdelen for så vidt angår Bøde- og  
+
+ Omkostningsdelen § 4. Systemet føres og opbevares på  
+
+ edb-udstyr, der er  opstillet hos CSC Danmark A/S/CSC Computer Management  
+
+ A/S.
+ Kapitel 2.
+ Systemets indhold, anvendelse og sletning m.v.
+ § 5. Systemet må kun indeholde oplysninger, der  
+
+ er af betydning for varetagelsen af politiets operative, administrative og  
+
+ statistikmæssige opgaver i henhold til gældende ret, herunder  
+
+ tjenesteforskrifter.
+ Stk. 2. Oplysningstyper fremgår af bilag 1. De i  
+
+ bilaget anførte identitetsoplysninger er fælles med tilsvarende  
+
+ oplysninger i politiets Journal- og Døgnrapportsystem.
+ § 6. Oplysningerne tilvejebringes ved opdatering og  
+
+ ajourføring fra det edb-udstyr, der er installeret og opstillet hos  
+
+ politiet.
+ Stk. 2. Ajourføring kan endvidere ske ved maskinel  
+
+ overførsel af regnskabsoplysninger fra Politiets Sagsstyrings Systemer  
+
+ eller Politiets Journal- og Døgnrapportsystem.
+ Stk. 3. Fra registeret kan der maskinelt overføres  
+
+ oplysninger til Politiets Journal- og Døgnrapportsystem.
+ § 7. Der skal foretages fornøden kontrol til  
+
+ sikring af, at der ikke registreres urigtige eller vildledende oplysninger.  
+
+ Oplysninger, der viser sig fejlagtige, vildledende eller mangelfulde, skal  
+
+ snarest muligt slettes eller berigtiges.
+ § 8. Systemet ajourføres løbende  
+
+ efterhånden, som de i § 3 nævnte oplysninger anvendes af  
+
+ politiet.
+ § 9. Fra systemet udskrives:
+a) standardskrivelser i forbindelse med sagsbehandlingen,  
+
+ herunder kvitteringer, kontoudtog, opkrævninger og rykkerskrivelser til  
+
+ debitorer samt lovpligtige oplysninger til skattemyndighederne, b) kasserapporter samt periodiske afstemnings- og  
+
+ restancelister samt c) regnskaber og statistik.
+ Stk. 2. Udskrivning af uddata må kun finde sted hos  
+
+ CSC Danmark A/S/CSC Computer Management A/S, eller politiet på de til  
+
+ systemet forbundne printere.
+ § 10. Registeroplysninger skal slettes, når de  
+
+ registrerede oplysninger på grund af deres alder eller af andre grunde  
+
+ har mistet deres betydning for varetagelse af registerets opgaver.
+ Stk. 2. Sager om bøde- og konfiskationsbeløb  
+
+ skal slettes senest 5 år efter det tidspunkt, da afgørelsen  
+
+ efter lovgivningens almindelige regler kunne fuldbyrdes, dog senest 10  
+
+ år efter for sager med konfiskationsbeløb, hvor retten ved  
+
+ kendelse har forlænget fristen.
+ Stk. 3. Sager, der vedrører erstatninger, herunder  
+
+ sagsomkostninger, told- og afgiftsbeløb samt skatteefterbetaling, skal  
+
+ slettes, når forældelse af de krav, sagerne vedrører, er  
+
+ indtrådt efter reglerne i lov nr. 274 af 22. december 1908 om  
+
+ forældelse af visse fordringer, dog senest 20 år efter den  
+
+ endelige fuldbyrdelse.
+ Kapitel 3.
+ Sikkerhedsforanstaltninger.
+§ 11. Rigspolitichefen har i  
+
+ "Sikkerhedshåndbog for politiet: Politiet og edb-sikkerhed"  
+
+ fastsat nærmere regler om sikkerhedsforanstaltninger for politiet til  
+
+ uddybning af de regler, som er fastsat i disse forskrifter.
+Reglerne omfatter  
+
+ navnlig en beskrivelse af den fysiske sikkerhed, tilrettelæggelsen af  
+
+ sikkerhedsarbejdet (sikkerhedsorganisation), adgangskontrolordning med hensyn  
+
+ til de lokaler, hvori der opstilles edb-arbejdspladser, samt bestemmelser om  
+
+ tilsynet med overholdelsen af de fastsatte regler og angivelse af, hvem der  
+
+ autoriseres til at indsætte og slette oplysninger i og rette  
+
+ forespørgsler til systemerne.
+ Stk. 2. Rigspolitichefen er ansvarlig for  
+
+ iværksættelsen og tilsynet med sikkerhedsforanstaltningerne i  
+
+ Rigspolitichefens afdelinger.
+ Stk. 3. Politimesteren (Politidirektøren i  
+
+ København) er ansvarlig for iværksættelsen af og tilsynet  
+
+ med sikkerhedsforanstaltningerne i den enkelte politikreds.
+ Stk. 4. Den i stk. 1 nævnte sikkerhedshåndbog,  
+
+ der er indsendt til Registertilsynet, er ikke offentlig  
+
+ tilgængelig.
+ § 12. For lokaler hos politiet, hvori der  
+
+ installeres edb-maskiner, som fører systemet, gælder de i bilag  
+
+ 2 nævnte sikkerhedsbestemmelser.
+ § 13. Ansatte, der autoriseres til at betjene  
+
+ edb-arbejdspladser skal forinden de anvender systemet tildeles en personlig  
+
+ autorisationskode (brugeridentifikation) med et tilhørende personligt  
+
+ og fortroligt kendeord.
+ Stk. 2. Det personlige og fortrolige kendeord skal  
+
+ udskiftes mindst 1 gang årligt.
+ Stk. 3. I  "Sikkerhedshåndbog for politiet:  
+
+ Politiet og edb-sikkerhed" kan der fastsættes et kortere interval  
+
+ for udskiftning af kendeord.
+ Stk. 4. Autorisationskoden og det personlige og fortrolige  
+
+ kendeord skal anvendes ved enhver ibrugtagning af en edb-arbejdsplads.
+ Stk. 5. Autorisationskoden og det personlige og fortrolige  
+
+ kendeord skal ligeledes anvendes ved ethvert operatørskift.
+ Stk. 6. Indtastning af det personlige og fortrolige  
+
+ kendeord skal ske ikke læsbart.
+ Stk. 7. Når edb-anlægget forlades, skal der  
+
+ træffes sådanne foranstaltninger (log-off), at fornyet opkald vil  
+
+ kræve indtastning af autorisationskode samt det personlige og  
+
+ fortrolige kendeord.
+ § 14. Rigspolitichefen og politimestrene  
+
+ (Politidirektøren i København) må kun autorisere  
+
+ medarbejdere som brugere, for hvem det er nødvendigt at benytte  
+
+ edb-systemet i forbindelse med udførelsen af deres arbejdsopgaver, og  
+
+ de enkelte brugere må ikke autoriseres til anvendelser, som de ikke har  
+
+ behov for.
+Stk. 2. Autorisationskoden skal angive, om  
+
+ terminaloperatøren har forespørgselsadgang, opdateringsadgang  
+
+ og/eller adgang til at ændre og slette oplysninger.
+Udskrivning af  
+
+ oplysninger om en større kreds af personer må kun udføres  
+
+ af særligt autoriserede medarbejdere.
+ Stk. 3. En medarbejder, der er autoriseret til at  
+
+ grundregistrere i Politiets Regnskabssystem må ikke samtidig være  
+
+ autoriseret til at grundregistrere i Politiets Journal- og  
+
+ Døgnrapportsystem.
+ Stk. 4. Udover de af Rigspolitichefen eller politimesteren  
+
+ (Politidirektøren i København) autoriserede personer har  
+
+ Justitsministeriets kasseinspektør ved politimesterembederne og  
+
+ Rigspolitichefens Revisionssektion forespørgselsadgang til  
+
+ systemet.
+ § 15. Udskrivning af oplysninger fra registeret,  
+
+ der ikke sker gennem anvendelse af edb-systemets terminaldel, skal ske i  
+
+ henhold til en driftsplan.
+Stk. 2. Driftsplanen skal være skriftlig.  
+
+ Politimesteren har ansvaret for den lokale driftsplan.
+Rigspolitichefen er  
+
+ ansvarlig for driftsplanen for den centrale drift hos politiet.
+Driftsplanen  
+
+ for CSC Danmark A/S/CSC Computer Management A/S fastsættes og sendes  
+
+ til Rigspolitichefen.
+Stk. 3. Andre udskrivninger, der ikke sker i henhold til  
+
+ driftsplanen, må kun ske efter skriftlig anmodning fra en af den  
+
+ registeransvarlige bemyndiget person.
+Det skal fremgå af driftsplanen  
+
+ eller et bilag til denne, hvem der er berettiget til at rekvirere udskrivning  
+
+ ud over driftsplanen.
+ § 16. CSC Danmark A/S/CSC Computer Management A/S  
+
+ skal iagttage de sikkerhedsforanstaltninger, der er anført i  
+
+ "Sikkerhedsforskrift for CSC Danmark A/S/CSC Computer Management  
+
+ A/S".
+ Stk. 2. CSC Danmark A/S/CSC Computer Management A/S skal  
+
+ gøres bekendt med, hvem der hos Rigspolitichefen er berettiget til at  
+
+ rekvirere udskrivning ud over driftsplanen.
+Stk. 3. CSC Danmark A/S/CSC Computer Management A/S skal  
+
+ adressere forsendelser til de personer, der i medfør af stk. 2 er  
+
+ berettiget til at rekvirere udskrifter.
+Det kan dog bestemmes, at visse  
+
+ forsendelser kan sendes direkte til adressaten.
+ § 17. Udskrifter må kun anvendes og opbevares  
+
+ efter reglerne i §§ 18 og 19 med mindre udskrifterne er en del af en konkret  
+
+ sag om enkelte registrerede personer.
+ § 18. Udskrifter skal opbevares på en  
+
+ sådan måde, at uvedkommende ikke kan få adgang til at  
+
+ gøre sig bekendte med de i udskrifterne indeholdte oplysninger.
+ Stk. 2. Udskrifterne skal opbevares aflåst,  
+
+ når de ikke benyttes.
+ § 19. Selvstændige udskrifter må  
+
+ højest opbevares i 5 år, hvorefter de skal  
+
+ tilintetgøres.
+§ 20. Der skal foretages registrering (logning) af  
+
+ alle uautoriserede adgangsforsøg.
+Disse udskrives mindst en gang  
+
+ dagligt, hvorefter der på den registeransvarliges foranledning  
+
+ foretages kontrol.
+Kontrollen udføres af den registeransvarlige eller  
+
+ den medarbejder, som den registeransvarlige har udpeget dertil.
+§ 21. Der skal foretages registrering (logning) af  
+
+ alle gennemførte transaktioner.
+Registreringen skal mindst indeholde  
+
+ oplysning om dato, tidspunkt, brugeridentifikation (personkode),  
+
+ transaktionstype, samt angivelse af den person eller det kriterium, der er  
+
+ anvendt som nøgle.
+ Stk. 2. Der skal en gang om måneden udskrives  
+
+ meddelelse om de transaktioner, hvorved en bruger har udskrevet oplysninger  
+
+ om et større antal personer (lister), og der skal foretages en  
+
+ stikprøvevis kontrol af formålet med disse transaktioner.
+ § 22. Den i §§ 20 og 21 nævnte registrering  
+
+ (log) skal opbevares i et år, hvorefter den slettes.
+ Stk 2. Den registeransvarlige myndighed skal foretage en  
+
+ stikprøvevis gennemgang og kontrol af loggen.
+§ 23. Der skal hvert halve år udskrives en  
+
+ benyttelsesstatistik.
+Denne skal for hver enkelt  bruger angive hvilke  
+
+ transaktioner den pågældende har anvendt eller forsøgt at  
+
+ anvende og antallet af gange, den enkelte transaktion har været anvendt  
+
+ eller forsøgt anvendt.
+ Stk. 2. Statistikken skal overgives til den  
+
+ registeransvarlige eller den medarbejder, som den registeransvarlige har  
+
+ udpeget hertil.
+ Stk. 3. Udskrift af dele af loggen skal efter anmodning  
+
+ udleveres til den registeransvarlige eller den medarbejder, som den  
+
+ registeransvarlige har udpeget dertil.
+ Kapitel 4.
+ Registrerede personers adgang til oplysninger om sig  
+
+ selv.
+ § 24. Fremsætter en registreret person  
+
+ begæring om at blive gjort bekendt med de oplysninger, der er  
+
+ registreret om vedkommende, skal der snarest muligt gives den registrerede  
+
+ meddelelse herom.
+Stk. 2. Udlevering af oplysninger må dog kun finde  
+
+ sted, når vedkommende har legitimeret sig behørigt eller,  
+
+ når der på anden måde er skabt sikkerhed for, at den, der  
+
+ fremsætter begæringen, er identisk med den person, som  
+
+ oplysningerne vedrører.
+Fremsættes begæringen af en anden  
+
+ end den registrerede, skal der skabes sikkerhed for, at den  
+
+ pågældende er berettiget til at handle på den registreredes  
+
+ vegne.
+ Stk. 3. En registreret person, der har fået  
+
+ meddelelse efter stk. 1, har ikke krav på ny meddelelse før 6  
+
+ måneder efter sidste meddelelse, medmindre den pågældende  
+
+ kan godtgøre en særlig interesse heri.
+ § 25. Tvivlsspørgsmål om retten til at  
+
+ få meddelt oplysninger efter § 24 kan indbringes for Registertilsynet.  
+
+ Tilsynets afgørelse kan ikke indbringes for anden administrativ  
+
+ myndighed.
+ Kapitel 5.
+ Videregivelse af oplysninger til private.
+ § 26. Oplysninger, som kan henføres til  
+
+ bestemte personer, må ikke videregives til private personer eller  
+
+ virksomheder, medmindre dette følger af reglerne i dette kapitel eller  
+
+ det følger af lov eller bestemmelser fastsat i henhold til lov, at  
+
+ oplysningerne skal videregives.
+ § 27. Oplysninger kan videregives, såfremt den  
+
+ registrerede har meddelt samtykke hertil.
+Stk. 2. Samtykke skal meddeles skriftligt og skal  
+
+ indeholde oplysning om, 1. hvilke typer oplysninger, der må videregives 2. hvem oplysningerne må videregives til, og 3. hvorledes oplysningerne må anvendes af den  
+
+ angivne modtager.
+ Stk. 3. Samtykket bortfalder efter et års  
+
+ forløb.
+ § 28. Oplysninger kan videregives, når  
+
+ videregivelsen sker til varetagelse af private eller offentlige interesser,  
+
+ der klart overstiger hensynet til de interesser, der begrunder  
+
+ hemmeligholdelse, herunder hensynet til den, oplysningerne angår.
+ § 29. Oplysningerne kan videregives, når  
+
+ videregivelsen er nødvendig for udførelsen af en persons eller  
+
+ virksomheds opgaver for det offentlige.
+ Stk. 2. Oplysningerne må ikke benyttes til andre  
+
+ formål end fastsat af den registeransvarlige.
+§ 30. Oplysningerne kan videregives på  
+
+ nærmere angivne vilkår og efter indhentet udtalelse fra  
+
+ Registertilsynet, når videregivelsen er nødvendig for  
+
+ udførelsen af videnskabelige eller statistiske undersøgelser af  
+
+ væsentlig samfundsmæssig betydning.
+Oplysningerne må ikke  
+
+ yderligere videregives.
+ Kapitel 6.
+ Videregivelse af oplysninger til andre offentlige  
+
+ myndigheder.
+ § 31. Oplysninger, der kan henføres til  
+
+ bestemte personer, må ikke videregives til andre offentlige  
+
+ myndigheder, med mindre dette følger af reglerne i dette kapitel eller  
+
+ det følger af lov eller bestemmelser, fastsat i henhold til lov, at  
+
+ oplysningerne skal videregives.
+§ 32. Oplysninger kan videregives, såfremt  
+
+ den registrerede har meddelt samtykke hertil.
+Samtykket skal opfylde kravene  
+
+ i § 27, stk. 2. Samtykket bortfalder efter 1 års forløb.
+ § 33. Oplysninger kan videregives, når  
+
+ videregivelsen sker til varetagelse af private eller offentlige interesser,  
+
+ der klart overstiger hensynet til de interesser, der begrunder  
+
+ hemmeligholdelse, herunder hensynet til den, oplysningerne angår.
+ § 34. Oplysningerne kan videregives, når  
+
+ videregivelsen er nødvendig for udførelsen af en myndigheds  
+
+ virksomhed eller påkrævet for en afgørelse, som en  
+
+ myndighed skal træffe.
+§ 35. Oplysningerne kan videregives på  
+
+ nærmere angivne vilkår og efter indhentet udtalelse fra  
+
+ Registertilsynet, når videregivelsen er nødvendig for  
+
+ udførelsen af videnskabelige eller statistiske undersøgelser af  
+
+ væsentlig samfundsmæssig betydning.
+Oplysningerne må ikke  
+
+ yderligere videregives.
+ Kapitel 7.
+ Straf og ikrafttræden.
+ § 36. Overtrædelse af § 16, stk. 1 straffes  
+
+ med bøde, medmindre højere straf er forskyldt efter  
+
+ lovgivningen i øvrigt.
+ § 37. Forskrifterne træder i kraft den 8. maj  
+
+ 1998.
+Rigspolitichefen, den 12. august  
+
+ 1998 Boye /Peter Carpentier Bilag 1 Oplysningstyper.
+(Rent edb-tekniske koder udelades) Identitetsoplysninger, såsom samt tilsvarende oplysninger, der tjener til korrekt  
+
+ identifikation af de personer eller virksomheder, der er optaget i  
+
+ systemet.
+Fordringsoplysninger, herunder oplysning om samt andre oplysninger, som er nødvendige for at  
+
+ sikre en korrekt administration af inddrivelsen.
+Myndighedsoplysninger, såsom samt andre oplysninger, der benyttes i forbindelse med  
+
+ oversendelse af fordringer til inddrivelse ved andre myndigheders  
+
+ foranstaltning, herunder andre politikredse samt domstolene og i forbindelse  
+
+ med afregning af indbetalte beløb, der tilfalder andre end  
+
+ statskassen.
+Kasse- og bogføringsoplysninger, herunder  
+
+ oplysninger om Skattetræksoplysninger, bl. a.
+ samt andre oplysninger, der er nødvendige ved  
+
+ udbetaling af honorarer og løn m.v. samt til brug for indberetning  
+
+ herom til andre myndigheder.
+Kreditoroplysninger, herunder og lignende oplysninger til brug for korrekt registrering  
+
+ og anvisning af betaling til leverandører m.v.
+Bilag 2 Sikkerhedsforskrifter for edb-anlægget.
+ § 1. Lokaler, der benyttes ved opbevaring og  
+
+ førelse af systemet, skal være indrettet med henblik på at  
+
+ forhindre uvedkommende adgang.
+ Stk. 2. Der skal etableres fornøden beskyttelse mod  
+
+ indbrud m. v.
+ § 2. Der skal udarbejdes skriftlige instrukser, som  
+
+ fastlægger ansvaret for og beskriver behandlingen af inddata,  
+
+ anvendelse af edb-anlægget hos politiet og behandling af uddata.
+ § 3. For de enkelte registre skal der udarbejdes  
+
+ skriftlige instrukser om antallet af kopier og generationer af registre,  
+
+ således at det samlede antal registerversioner er mindst muligt under  
+
+ hensyntagen til behovet for at kunne rekonstruere registeret.
+§ 4. Der skal foretages en registrering af alle  
+
+ ændringer i operativsystemet og systemsoftwaren samt alle fejlretninger  
+
+ i systemets programmer og alle backup kørsler.
+Registreringen skal  
+
+ opbevares i mindst 1 år, hvorefter den kan slettes.
+§ 5. Udtagelige lagringsmedier med  
+
+ personoplysninger skal være mærket og skal opbevares under opsyn  
+
+ eller under lås, når de ikke benyttes.
+Lagringsmedierne må  
+
+ kun udleveres til autoriserede medarbejdere.
+Stk. 2. Der skal føres fortegnelse over alle  
+
+ udtagelige lagringsmedier, der benyttes i forbindelse med registre.
+Der skal  
+
+ foretages løbende kontrol af beholdningen.
+ Stk. 3. Der skal udarbejdes skriftlige instrukser for  
+
+ destruktion af udskrifter og sletning af personoplysninger på  
+
+ lagringsmedier.
+§ 6. For udvikling og vedligeholdelse af programmer  
+
+ m.v., der behandler personoplysninger, skal der foreligge regler,  
+
+ således at der etableres den fornødne dokumentation, kontrol,  
+
+ afprøvning og godkendelse af registeret.
+Endvidere skal der udarbejdes  
+
+ en beskrivelse af registeret og en vejledning i anvendelse af systemet.

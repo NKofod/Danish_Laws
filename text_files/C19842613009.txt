@@ -1,0 +1,235 @@
+OKTOBER 1984 Trykt oktober 1985 1. Almindeligt En skematisk fremstilling af tilslutningen af en vagtcentral med fuld  
+
+ duplex 1200 bit/s til alarmsystemet er vist i fig. 1.
+Fig. 1: Tilslutning af vagtcentral med fuld duplex 1200 bit/s til alarmsystemet.
+Mellem det privatejede vagtcentraludstyr og modemet (V.23) er en  
+
+ grænseflade som vist på figuren.
+Specifikationen for denne grænseflade fås  
+
+ ved henvendelse til teleadministrationerne.
+ Til vagtcentralen stilles det generelle krav, at udstyret er konstrueret  
+
+ til at kommunikere med alarmsystemet over dette grænsesnit, dvs. kan udføre  
+
+ de for kommunikation nødvendige funktioner, der er beskrevet i det følgende.
+2. Funktionsbeskrivelse Vagtcentralen tilsluttes alarmsystemet via et modem og behandler  
+
+ meddelelser til og fra alarmsystemet.
+Information mellem vagtcentral og  
+
+ alarmsystem kan kun overføres ved hjælp af kommandoer fra primær station til  
+
+ sekundær station.
+Ved en primær station forstås en station, der tager  
+
+ initiativ til en samtale.
+Både vagtcentral og alarmsystem skal kunne fungere  
+
+ som primær station.
+Ved en sekundær station forstås en station, som tager  
+
+ imod kommandoer fra en primær station og sender en kvittering herfor.
+Både  
+
+ vagtcentral og alarmsystem skal kunne fungere som sekundær station.  
+
+ Vagtcentral og alarmsystem kommunikerer indbyrdes ved hjælp af asynkron linie  
+
+ kontrol protokol, som betegnes ALC-protokollen.
+3. Protokol I det følgende beskrives ALC-protokollen til fuld duplex dataoverførsel  
+
+ (ALC/FD).
+ Kommunikationsmediet antages at kunne overføre fuld duplex kommunikation,  
+
+ idet det betragtes som værende 2 simplex kanaler, hvor hver kanal forbinder  
+
+ en primær station med en sekundær station (4-tråds kredsløb).
+ Den primære station kontrollerer kanalen og sender kommandoer, som den  
+
+ sekundære station i den anden ende sender kvittering for.
+ Hver ende består altså af 2 stationer, en primær station og en sekundær  
+
+ station med 2 uafhængige kanaler.
+ Fig. 2: Kommunikation via ALC/fd.
+ALC/FD-protokollen sikrer enten, at information kan føres gennem  
+
+ kommunikationsmediet - uden at ændres - uden at forsvinde - uden at blive dubleret eller at informationsoverførslen opgives inden for endelig tid, hvis  
+
+ kommunikationsmediet er fejlhæftet i hele denne periode.
+ Det er et grundlæggende træk i ALC/FDprotokollen, at et skift i  
+
+ sekvensnummeret (DATA-0 til DATA-1 eller omvendt; ACK-0 til ACK-1 eller  
+
+ omvendt) indikerer korrekt tilstand, mens fejltilstande resulterer i uændret  
+
+ sekvensnummer.
+Den information, der sendes mellem vagtcentral og alarmsystemet, er opdelt  
+
+ i blokke.
+Blokformatet er specificeret i cirkulære nr. 29D.
+4. Kommandoer Kommandoer sendes fra primær station til sekundær station.
+ Følgende operationskoder anvendes til kommandoer:
+DATA-0 DATA- 1 ENQ Værdierne for de enkelte operationskoder er fastlagt i cirkulære nr. 29D.
+ DATA-0 og DATA-1 benyttes af den primære station til afsendelse af  
+
+ information (0 og 1 kaldes sekvensnumre).
+ ENQ benyttes af den primære station til afhentning af sidst afgivne  
+
+ kvittering fra den sekundære station.
+5. Kvitteringer Kvitteringer sendes fra sekundær station til primær station.
+ Følgende operationskoder anvendes til kvitteringer:
+ACK-0 ACK-1 RESET Værdierne for de enkelte operationskoder er fastlagt i cirkulære nr. 29D.
+ ACK-0 benyttes som accept af en modtaget DATA-0 blok.
+ ACK-1 benyttes som accept af en modtaget DATA-1 blok.
+ RESET benyttes som svar på en ENQ-blok efter en restart.
+6. Mulige protokolsekvenser 1 det følgende beskrives de mulige protokolsekvenser, dvs. de  
+
+ kvitteringer, den sekundære station kan sende på grundlag af en modtaget  
+
+ kommando.
+ Fig. 3: Mulige kvitteringer på ENQ-kommando.
+ Fig. 4: Mulige kvitteringer på DATA-kommando.
+7. Primær station I det følgende beskrives, hvordan den primære station fungerer under  
+
+ opstart, normal dataoverførsel og i fejlsituationer.
+ Under opstart sender den primære station med jævne mellemrum en  
+
+ ENQ-kommando til den sekundære station.
+ Fig. 5: Opstart af kommunikation.
+ Når den primære station modtager enten en RESET-kvittering eller en  
+
+ ACK-kvittering, er forbindelsen etableret.
+ Under normal dataoverførsel sender den primære station en DATA-blok  
+
+ indeholdende en brugermeddelelse og et sekvensnummer.
+ Derefter modtager den en kvittering, der indikerer, at blokken blev  
+
+ korrekt modtaget hos den sekundære station, hvorefter den kan sende en ny  
+
+ DATA-blok med en ny brugermeddelelse og et nyt sekvensnummer.
+ Fig. 6: Normal dataoverførsel.
+Imidlertid opstår der af og til transmissionfejl.
+En sådan fejl indebærer,  
+
+ at en blok forvanskes under transmissionen.
+ En forvansket blok er en blok, hvor mindst et af følgende er opfyldt:
+ - operationskoden er ukendt.
+ - checksummen er ikke korrekt.
+ - blokkens længde er ikke korrekt.
+ En forvansket blok må en station ikke kvittere for.
+ For den primære station har transmissionfejl den betydning, at den går i  
+
+ timeout på modtagelse af kvittering.
+ Ved timeout på modtagelse af kvittering sender den primære station en  
+
+ ENQ-kommando.
+Den primære station kan derefter modtage en ACK-kvittering.
+Hvis  
+
+ sekvensnummeret i ACK-kvitteringen er forskelligt fra sekvensnummeret i  
+
+ DATA-blokken, skal den retransmittere denne.
+Hvis sekvensnummeret i  
+
+ ACK-kvitteringen derimod er lig sekvensnummeret i DATA-blokken, fortsættes  
+
+ med normal dataoverføring.
+ Modtager den primære station ingen ACK-kvittering, går den atter i timeout  
+
+ på modtagelse af kvittering og sender en ny ENQ-kommando.
++++FIFUR+++ Fig. 7: Timeout på modtagelse af kvittering.
+hvor TO = Timeout-periode (s) BM = Maximal bloklængde (bit) KL = Kvitteringslængde (bit) TH = Transmissionshastighed (bit/s) PT = Procestid i den anden station (s) Eksempel.
+ Ved en maksimal bloklængde på 122 tegn a 12 bit, dvs. 1464 bit, en  
+
+ kvitteringslængde på 4 tegn a 12 bit, dvs. 48 bit, en transmissionshastighed  
+
+ på 1200 bit/s og en procestid i den anden ende på f.eks. 1 s fås en  
+
+ timeout-periode på 3,52 s.
+Timeout-perioden efter afsendelse af ENQkommando sættes til TO = BM + EB + 2 x KL +PT --------------------- TH hvor TO = Timeout-periode (s) BM = Maximal bloklængde (bit) EB = ENQ-bloklængde (bit) KL = Kvitteringslængde (bit) TH = Transmissionshastighed (bit/s) PT = Procestid i den anden station (s) Eksempel.
+ Ved ENQ-bloklængde på 4 tegn a 12 bit, dvs. 48 bit og samme størrelser som  
+
+ ovenfor, fås en timeout-periode på 2,34 s.
+ Den reducerede tilstands-handlingstabel for primær station er  
+
+ angivet på fig. 8.
+ I indgangen er brugt følgende notation:
+ SB betyder SendeBuffer, altså en buffer, hvori der står en blok, som skal  
+
+ sendes.
+ MB betyder ModtageBuffer, altså en buffer, hvori en modtaget blok skal  
+
+ placeres.
+ Under opstart udføres følgende:
+ 1. Sekvensnummer sættes til 1.
+ 2. Tilstand sættes til »afbrudt«.
+ 3. Handling 2 udføres (se nedenfor under handlinger).
+ 4. Antal transmissionsforsøg sættes til 0.
+ Fig. 8:
+ Tilstands-handlings-tabel for primær station.
+HANDLlNGER 0: Gør intet.
+ 1: Send SB tilbage til bruger med resultat »ingen forbindelse«.
+ 2: 2.1 Send ENQ.
+ 2.2 Start ENQ-timeout-periode.
+ 2.3 Antal transmissionsforsøg tælles een op.
+ 3: 3.1 Tæl sekvensnummer op (modulo 2).
+ 3.2 Send DATA-kommando med sekvensnummer.
+ 3.3 Gem SB som aktuel SB.
+ 3.4 Start DATA-timeout-periode.
+ 3.5 Antal transmissionsforsøg sættes til 0.
+ 3.6 Resultat i aktuel SB sættes til »afsendelse ok«.
+ 4: Sæt SB i kø til overførsel.
+ 5: Hvis sekvensnummeret i ACK-kvitteringen er lig med sekvensnummeret i  
+
+ den afsendte DATA-kommando, så udfør 5.1 og 5.2.
+ Hvis ikke, udføres intet.
+ 5.1 Send aktuel SB tilbage til bruger.
+ 5.2 Hvis SB kø er tom, så stop DATA-timeout-periode og gå i tilstand B.
+ Hvis ikke, tag SB fra kø, udfør 3 og gå i tilstand C.
+ 6: 6.1 Resultat i aktuel SB sættes til »måske dubleret«.
+ 6.2 Retransmitter sidste DATA-kommando. 6.3 Tæl antal transmissionsforsøg  
+
+ een op.
+ 6.4 Start DATA-timeout-periode.
+ 7: Hvis sekvensnummeret i ACK-kvitteringen er lig med sekvensnummeret i  
+
+ den afsendte DATA-kommando, så udfør 5.1 og 5.2.
+ Hvis ikke, så udfør 6.2, 6.3 og 6.4 og gå i tilstand C.
+ 8: Hvis antal transmissionsforsøg er større end eller lig med max. antal  
+
+ transmissionsforsøg, sa udfør 8.1, 8.2, 3.5 og 2 og gå i tilstand A.
+ Hvis ikke, udfør 2 og gå i tilstand D.
+ 8.1 Send aktuel SB tilbage til bruger med resultat »måske  
+
+ dubleret«.
+ 8.2 Send alle SB i køen tilbage til bruger med resultat »ingen  
+
+ forbindelse«.
+ 9: Sæt sekvensnummer til samme værdi som angivet i ACK-kvitteringen.
+8. Sekundær station Under normal dataoverførsel kvitterer den sekundære station for en  
+
+ DATA-kommando med en ACK-blok med samme sekvensnummer (se fig. 4).
+ Ved modtagelse af en forvansket kommando kvitterer den sekundære station  
+
+ ikke.
+ Hvis der ikke findes en MB til de læste data, kvitterer den sekundære  
+
+ station ikke.
+Ved modtagelse af en ENQ-kommando svarer den sekundære station med sidste  
+
+ kvittering, dvs.
+RESET, hvis stationen netop er startet op (se fig.
+ Under opstart udføres følgende:
+ 1. Tilstand sættes til »klar«.
+ 2. Sidste kvittering sættes til RESET.
+ Fig.9:
+ Tilstands-handlings-tabel for sekundær station.
+HANDLlNGER 1: Send sidste kvittering.
+ 2: Hvis MB findes, udføres 2.1, 2.2 og 2.3.
+ Hvis ikke, udføres intet.
+ 2.1 Input kopieres ind i MB, der sendes tilbage til bruger.
+ 2.2 ACK-kvittering med samme sekvensnummer som i DATA-kommandoen afsendes.
+ 2.3 Sidste kvittering sættes til operationskode for afsendt  
+
+ ACK-kvittering.

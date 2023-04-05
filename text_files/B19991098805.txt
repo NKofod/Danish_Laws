@@ -1,0 +1,309 @@
+Koldt- og varmtvandsmålere (Kontrolsystem for målere i drift) I henhold til Erhvervsfremme Styrelsens  
+
+ bekendtgørelse om kontrol med måling af leverance af koldt og  
+
+ varmt vand skal leverandøren etablere et kontrolsystem, der er  
+
+ opbygget således, at der gennem dets drift opnås  
+
+ tilstrækkelig sikkerhed for, at de i drift værende målere  
+
+ ikke overskrider det dobbelte af de maksimalt tilladelige fejl ved  
+
+ førstegangsverifikation.
+ De i dette MDIR anførte bestemmelser gælder  
+
+ for såvel en hovedmåler, hvorefter der afregnes over for  
+
+ vandværket som for bimålere, der anvendes som grundlag for  
+
+ fordeling.
+ Som minimumskrav for størrelsen af  
+
+ tilstrækkelig sikkerhed kan anses et kvalitetsniveau på AQL 4%  
+
+ for tilfredsstillende (AQL:  Acceptable Quality Level).
+ Kontrolsystemer, der baseres på  
+
+ stikprøveudtagning, kan opbygges ved hjælp af standarden DS/ISO  
+
+ 2859 "Metoder og Tabeller for stikprøveudtagning for inspektion ved  
+
+ alternativ måling", eller ISO 3951 "Sampling procedures and charts for  
+
+ inspection by variables for percent nonconforming".
+ Dette Måletekniske Direktiv har som grundlag taget  
+
+ udgangspunkt i DS/ISO 2859, AQL 4%, inspektionsniveau II.
+ Efterfølgende er der anført eksempel  
+
+ på et kontrolsystem baseret på inspektion ved alternativ  
+
+ måling, idet der for enkelt stikprøvekontrol ved partier under  
+
+ 90 målere er anvendt en lavere AQL værdi end 4%.
+ Ved anvendelse af inspektion ved kontinuert variation  
+
+ henvises til standarden ISO 3951. Det kan være hensigtsmæssigt at  
+
+ udtage en stikprøvestørrelse svarende til inspektion ved  
+
+ alternativ variation for i givet fald at kunne skifte til denne metode, hvis  
+
+ testresultaterne viser sig ikke at kunne betragtes som normalfordelt.
+ Nb. Ændring i forhold til udgave 3:
+ 2. afsnit denne side er tilføjet udgave 4.  
+
+ Yderligere er tilføjet pkt. 3.3 og pkt. 8.
+ STIKPRØVEKONTROL - ALTERNATIV MÅLING.
+ Stikprøven kan enten baseres på enkelt eller på dobbelt  
+
+ stikprøveudtagning.
+ 1.	Partiinddeling.
+Målerbestanden skal inddeles i partier med ensartede  
+
+ karakteristika således, at stikprøveresu atet kan betragtes som repræsentativt for det målerparti,  
+
+ som målerne er udtaget fra.
+ Eksempelvis:
+ -Målerne skal have samme måleprincip fx.  
+
+ vingehjulsmålere, magnetisk induktive   målere eller  
+
+ ultralydsmålere o.s.v.
+ -Samme målerstørrelse.
+ -Målerne skal have tilnærmelsesvis samme alder fra  
+
+ opsætningstidspunktet.
+ 2.	Parti- og stikprøvestørrelser.
+ Parti- og stikprøvestørrelser kan vælges, som  
+
+ anført i punkt 3.1 og 3.2. Større målerantal bør  
+
+ opdeles i flere partier, idet der dog for større partier kan anvendes  
+
+ sammenhængen mellem parti- og stikprøvestørrelse i  
+
+ henhold til DS/ISO 2859, AQL 4% og inspektionsniveau II.
+ 3.	Godkendelses-/forkastelseskriterier.
+ 3.1 	Enkelt stikprøve.
+Partistørrelse Max antal målere Stikprøve antal målere Godkendelse max antal målere med afvigelser 5 25 50 alle 5 8 0 0 0 AQL 2,5 AQL 2,5 AQL 1,5 90 150 280 500 1200 3200 13 20 32 50 80 125 1 2 3 5 7 10 AQL 4 3.2	Dobbelt stikprøve.
+Partistørrelse max.
+Antal målere Antal  i før- Ste stik- Prøve 1.
+Antal Total Antal I 1.+ 2.
+Godkendelse max. antal med afvigelser Forkastelse min. antal med afvigelser 8 0 2 90 16 1 2 13 0 3 150 26 3 4 20 1 4 280 40 4 5 32 2 5 500 64 6 7 1200 50 3 7 100 8 9 3200 80 5 9 160 12 13 3.3	Anden partistørrelse end de i tabellen anførte Det kan accepteres, at der foretages interpolation mellem de  
+
+ anførte tal for "Partistørrelse",  
+
+ "Stikprøvestørrelse"og "Godkendelsesantal"  
+
+ som grundlag for kontrollen.
+Det er en betingelse, at det derved beregnede  
+
+ tal for "max. antal målere med afvigelse" altid afrundes ned  
+
+ til nærmeste hele tal.
+ Eksempel, enkelt stikprøve:
+ Partiet indeholder 750 målere, dvs. en  
+
+ partistørrelse mellem 500 og 1200 målere som anført i  
+
+ tabellen pkt. 3.1. Beregning af stikprøvestørrelse og  
+
+ tilladelig antal målere med afvigelser:
+Stikprøvestørrelse ((80   50) divideret med (750   500)) + 50 =  10,7 + 50 =  
+
+ 60,7 afrundet til 61 målere.
+Godkendelsestal ((7   5) divideret med (750   500)) + 5 = 0.7 + 5 = 5,7 afrundet til 5  
+
+ målere.
+ 4.	Procedure for stikprøveudtagning.
+ Målerne i stikprøven skal være udtaget ved  
+
+ tilfældig udvælgelse fra det parti, som de tilhører.
+4.1	Målerne skal nedtages og bringes til målelaboratoriet  
+
+ på betryggende måde.
+Det kan eksempelvis indebære, at  
+
+ målerne ved nedtagning proppes, så de ikke tørrer ind.
+4.2	Af hensyn til at opnå det største udbytte af  
+
+ stikprøveresultatet bør særlige forhold ved  
+
+ installationen og nedtagningen noteres.
+Fx noteres filterets tilstand.
+4.3	Viser en måler tegn på transportskade, skal  
+
+ måleren udgå af stikprøven.
+Det kan derfor være  
+
+ hensigtsmæssigt at nedtage to målere flere end  
+
+ stikprøveplanen foreskriver.
+ 4.4	Anvendes en dobbelt stikprøveplan, skal målerne i  
+
+ anden stikprøveudtagning være udvalgt samtidig med, at  
+
+ målerne til første stikprøveudtagning udvælges.
+4.5	Udskiftes i et parti én eller flere vandmålere med nye  
+
+ målere (eller renoverede målere for så vidt de tilsvarende  
+
+ er verificerede) er det acceptabelt, at disse målere indgår i det  
+
+ gamle parti for så vidt, at antallet af de indsatte målere maks.  
+
+ udgør 15 % af den samlede partistørrelse.
+Udskiftningen kan fx  
+
+ foregå i forbindelse med udtagning af målerne for  
+
+ stikprøvekontrol eller i forbindelse med udskiftning af enkelte  
+
+ målere (fx defekte målere).  
+
+ I forbindelse med driftskontrol har systemet med at lade de nyindsatte  
+
+ målere indgå i det oprindelige parti naturligvis kun interesse  
+
+ såfremt driftskontrollen viser, at partiet kan sidde opsat endnu 4  
+
+ eller 8 år.
+Det bemærkes, at de anførte 15 % er totalt  
+
+ set.
+Dvs. det ikke er tilladt endnu engang at udskifte op til endnu 15 % af  
+
+ målerne.
+ 5.	Godkendelse/forkastelse af parti.
+ En måler anses for afvigende, dersom den overskrider  
+
+ grænseværdierne ved en af de prøvede volumenstrømme  
+
+ (flow).
+ 5.1 	Enkelt stikprøveudtagning.
+Partiet godkendes, dersom antallet af afvigende målere i  
+
+ stikprøven er mindre end eller lig med tabellernes godkendelsestal.
+ 5.2 	Dobbelt stikprøveudtagning.
+ Ved dobbelt stikprøveudtagning godkendes partiet efter  
+
+ 1.stikprøve, hvis antallet af afvigende målere er mindre 	end  
+
+ eller lig godkendelsesantallet for 1. stikprøve.
+ Partiet kasseres efter 1. stikprøve, hvis antallet af afvigende  
+
+ målere er større end eller lig med tallet for forkastelse (2.  
+
+ stikprøve undersøges derfor ikke).
+ Er antallet af afvigende målere ved 1. stikprøve  
+
+ større end godkendelsesantallet, men mindre end tallet for  
+
+ forkastelse, undersøges 2. stikprøve.
+ Partiet godkendes, dersom det samlede antal afvigende målere for  
+
+ 1. plus 2. stikprøve er mindre end eller lig med godkendelsestallet  
+
+ for 1. plus 2. stikprøve.
+6.	Kontrolsystemet 6.1	Generelt.
+Vandværket/varmtvandsleverandøren skal enten  
+
+ turnusudskifte eller stikprøvekontrollere sine målere med et  
+
+ tidsinterval på maks. 8 år Får leverandøren formodning om, at visse målere  
+
+ overskrider de tilladte grænser for måleunøjagtighed, skal  
+
+ leverandøren umiddelbart undersøge disse målere  
+
+ uafhængigt af det normale driftskontrolsystem.
+ Formodningen kan fx. være begrundet i reklamationer,  
+
+ målere opsat i et område med vand, der i særlig grad  
+
+ påvirker måleren, erfaring fra kontrol af partier med tilsvarende  
+
+ målere eller lignende.
+Giver stikprøvens resultater formodning om, at forkastelsen  
+
+ skyldes en særlig årsag, der kan henføres til en  
+
+ afgrænset del af partiet, kan partiet opdeles til mindre partier.
+Disse  
+
+ partier skal derefter umiddelbart kontrolleres hver for sig.
+ 6.2	Nøjagtighedskrav til volumenregistreringen.
+Maximalt acceptable grænser for måleunøjagtighed Volumenstrøm /flow Q nye og reverificerede målere målere i drift Qmin < Q < Qt + 5% + 10% Qt < Q < Qmax Koldtvandsmåler + 2% + 4% Varmtvandsmåler + 3% + 6% 6.3	Kalibreringsvolumenstrømme (kalibreringsflow).
+ Målere kalibreres ved mindst 2 volumenstrømme:
+ Som nedre målepunkt skal for målere med QN £
+15 m3/h måles med et flow mellem 0,1 og 0,12 gange  
+
+ Qn og for større målere mellem 0,3 og 0,35 gange  
+
+ QN .
+Som øvre målepunkt vælges altid mellem 0,9 og 1,0  
+
+ gange QN.
+Har man kendskab til, at måleren er kritisk ved en  
+
+ bestemt værdi eller at måleren typisk måler ved lavere  
+
+ værdier, skal driftskontrollen også omfatte sådanne  
+
+ værdier.
+7.	Fornyet kontrolperiode/Nedtagning 7.1	Målerpartier, der forkastes ved stikprøvekontrollen  
+
+ på grund af overskridelse af grænserne for  
+
+ måleunøjagtighed for målere i drift jf. punkt 6.2, skal  
+
+ nedtages for renovering eller udskiftning inden et år fra  
+
+ stikprøvetidspunktet.
+ 7.2	For målere der genopsættes renoveret og verificeret  
+
+ efter en forkastelse er tidsintervallet til næste  
+
+ stikprøvekontrol eller turnusudskiftning maks 6 år.
+ 7.3	Målerpartier, der godkendes ved stikprøvekontrollen i  
+
+ forhold til driftskontrolgrænserne jf. punkt 6.2 kan forblive opsat hos  
+
+ forbrugerne i endnu maks 4 år, før der igen udtages en  
+
+ stikprøve.
+ 7.4	Målerpartier, hvor godkendelseskriterierne for  
+
+ stikprøven kan anvendes på grænseværdierne for  
+
+ målenøjagtighed for nye og verificerede målere jf. punkt  
+
+ 6.2, kan for blive opsat hos forbrugerne i endnu maks. 8 år, før  
+
+ der igen udtages en stikprøve.
+ Bestemmelserne i afsnit 7 er opført i skemaform side 9.
+ 8.	Specielle forhold for mindre vandværker.
+ For mindre vandværker, som kun har få målere, kan disse  
+
+ målere nedtages for kassation efter maksimalt 8 år fra partiets  
+
+ opsætning uden, at der udføres stikprøvekontrol.  
+
+ For at dette er acceptabelt set fra styrelsens side, skal følgende  
+
+ være opfyldt:
+ 1.	Alle målere nedtages samtidig (indenfor et år).
+2.	Der har ikke været indikation i driftsperioden for problemer  
+
+ og 3.	Der opsættes ikke nye målere af samme type/fabrikat helt  
+
+ identisk med de nedtagne målere.
+ Begrundelsen for at stikprøvekontrol kan undlades  
+
+ er, at hvor de nye målere ikke direkte er sammenlignelige med de  
+
+ nedtagne, vil kontrolresultater fra en stikprøve ikke give  
+
+ vandværket oplysninger, som værket kan gøre brug af.

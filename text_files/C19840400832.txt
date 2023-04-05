@@ -1,0 +1,579 @@
+UDVIDELSE AF DATAINDHOLDET I BBR 1. Baggrund.
+Der har i de sidste par år fra mange sider været ønsker om at udvide  
+
+ dataindholdet i BBR.
+Efter aftale med Kommunernes Landsforening og Københavns  
+
+ og Frederiksberg kommuner samt en række statslige myndigheder er det herefter  
+
+ besluttet at udvide dataindholdet.
+Ved afvejning af ønskerne er det tillagt  
+
+ stor vægt, at de pågældende myndigheder aktivt bidrager til at tilvejebringe  
+
+ grundlaget for registreringen, eller at registreringen foregår ved edb-mæssig  
+
+ overførsel af data fra andre registreringer.
+ Samtlige kommuner kan påbegynde indberetning eller registrering til  
+
+ systemet ved ajourføringen i november 1984.
+ Af hensyn til registrets anvendelse til vurdering af fast ejendom anmodes  
+
+ kommunen om at tilrettelægge arbejdet således, at den udvidede registrering  
+
+ er gennenført inden udgangen af 1985.
+ Udvidelsen af dataindholdet omfatter følgende:
+ 1. Lovlig helårsbeboelse i sommerhusområder.
+ 2. Supplerende varmeinstallation.
+ 3. Energiattest og varmesynsrapport.
+ 4. Sikringsrum (antal pladser), fritliggende bygning.
+ 5. Fredningsforhold.
+ 6. Olietanke, gastanke mv.
+ 7. Arealer, der hverken benyttes til bolig eller  
+
+ erhverv.
+ 8. For en række eksisterende datafelter udvides  
+
+ registreringen:
+- varmeinstallation - felt 229 (udvides med oplysninger om varmepumpe og  
+
+ centralvarme med 2 fyringsenheder), - opvarmningsmiddel - felt 230 (særskilt registrering af halm og  
+
+ naturgas), - afløbsforhold - felt 104 (særskilt registrering af afløb til offentlig  
+
+ spildevandsanlæg og privat spildevandsanlæg osv.), - ydervægsmateriale - felt 211 (særskilt registrering af metalplader).
+2. DE NYE DATAFELTER 2.1.1. Disposition til lovlig helårsbeboelse i sommerhusområde Sommerhusloven pålægger kommunerne kontrol af, om sommerhuse ulovligt  
+
+ anvendes til helårsbeboelse.
+Det er forudsat ved lovens tilblivelse, at Det  
+
+ fælleskommunale Ejendomsdatasystem og BBR kunne anvendes i kommunernes  
+
+ arbejde.
+ I BBR er der oprettet et nyt felt (felt 379), hvor tilladelse (evt.  
+
+ tidsbegrænset) til helårsbeboelse i sommerhusområde kan registreres.
+Efter gennemførelse af en registrering kan Kommunedata via BBR-udtræk  
+
+ levere en liste over alle bygninger i kommunen, som er registreret som  
+
+ sommerhuse og med angivelse af, om adressen indenfor de sidste 27 måneder har  
+
+ haft CPR-tilmelding.
+Det angives ved hjælp af det nye felt, om der er givet  
+
+ dispensation til lovlig helårsbeboelse.
+ Der er oprettet et obligatorisk datafelt på enhedsniveau i  
+
+ BBR-stamregister (CR).
+ Til feltet indberettes følgende kodeværdier:
+ A.  Gammel helårsstatus eller ikke-tidsbegrænset dispensation til  
+
+ helårsbeboelse.
+ B.  Tidsbegrænset dispensation til helårsbeboelse.
+Dataindholdet i felt 203 og 307 skal ændres i overensstemmelse med den  
+
+ faktiske anvendelse.
+Hvis huset har permanent ophold/CPR-tilmelding, og der  
+
+ er givet dispensation til lovlig helårsbeboelse, registreres anvendelseskode  
+
+ 120 i felt 203 og 307.
+ Datafødsel skal ske i forbindelse med kommunernes administration af  
+
+ sommerhusloven.
+2.1.2. Årstal for tidsbegrænset dispensation I tilknytning til registrering af dispensation til helårsbeboelse i  
+
+ sommerhusområde er oprettet et datafelt (F 380) i BBR-stamregister til  
+
+ indberetning af årstal for udløb af en tidsbegrænset dispensation.
+ Oplysningen indberettes i tilknytning til en registrering af kode for  
+
+ »tidsbegrænset dispensation til helårsbeboelse«.
+ Indberetning er frivillig.
+2.2. Supplerende varmeinstallation Der er oprettet et obligatorisk datafelt på bygningsniveau (felt  
+
+ 239).
+ I prioriteret rækkefølge er kodeværdierne:
+1. Varmepumpe 2. Brændeovn (fast brændsel).
+ 3. Ovn (flydende brændsel, gas eller elektricitet).
+ 4. Solpaneler.
+ 9. Andet.
+ Koderne er udformet med henblik på, at registreringen både skal dække  
+
+ typen af supplerende varmeinstallation og opvarmningsmidlet, som anvendes.
+ Forekommer flere forskellige supplerende varmeinstallationer, anføres  
+
+ koden for den supplerende varmeinstallationer, der giver det væsentligste  
+
+ bidrag til opvarmningen.
+Varmepumbe (kode 1) omfatter jordvarme, luft/luft-anlæg mv.
+Varmepumpe er  
+
+ installationer, hvor der transporteres varme fra et sted til et andet ved  
+
+ hjælp af tilført energi, og hvor varmeafgivelsen sker ved en højere  
+
+ temperatur end varmeoptagelsen (se iøvrigt side 9).
+ Halmfyr registreres som brændeovn med fast brændsel (kode 2).
+ Supplerende omflyttelige ovne skal ikke registreres.
+Feltindholdet udskrives på BBR-ejermeddelelsen.
+Er feltet blankt  
+
+ udskrives: »Det er ikke oplyst, om bygningen har supplerende  
+
+ varmeinstallation«.
+ Indberetning til feltet er obligatorisk i forbindelse med  
+
+ byggesagsbehandlingen, eller såfremt kommunen på anden måde bliver gjort  
+
+ bekendt med ændringer af en bygnings varmeinstallation, når bygningen udover  
+
+ den hovedsagelige varmeinstallation (felt 229) tillige opvarmes af en  
+
+ supplerende varmekilde.
+ Feltet kan indberettes såvel til ændringsregistret (CS) som til  
+
+ stamregistret (CR). Feltet er dog ikke krævet ved overførsel fra CS ril CR.  
+
+ Overførsel af feltindhold fra CS til CR sker med ubetinget overførsel (1) ved  
+
+ ombygninger og med dominans (2) ved tilflytninger.
+2.3. Energiattest Der er oprettet et obligatorisk datafelt på bygningsniveau (felt  
+
+ 234).
+ I feltet registreres dato for udstedelse af energiattest.
+For alle bygninger, som har fået udstedt energiattest og som i forbindelse  
+
+ hermed har fået tilskud efter lov om begrænsning af energiforbruget, kan  
+
+ kommunerne vælge maskinel overførsel eller udskrift af lister fra  
+
+ Kommunedatas tilskudsregister, hvorefter kommunen selv kan indberette evt.  
+
+ efter revision af oplysningerne.
+Dato for udstedelse af energiattest vil i  
+
+ medfør af opbygningen af tilskudsregistret sættes lig med dato for udbetaling  
+
+ af statstilskud i den pågældende bygning.
+ Feltindholdet udskrives på BBR-ejermeddelelsen.
+ Feltet kan kun indberettes til BBR-stamregister (CR).
+2.4. Varmesynsrapport Der er oprettet et obligatorisk datafelt på bygningsniveau. (felt  
+
+ 235).
+ I feltet registreres obligatorisk dato for udstedelse af  
+
+ varmesystemsrapport.
+For alle bygninger, som har fået udstedt varmesynsrapport og som i  
+
+ forbindelse hermed har fået tilskud efter lov om begrænsning af  
+
+ energiforbruget kan kommunerne vælge en maskinel overførsel eller udskrift af  
+
+ lister fra Kommunedatas tilskudsregister, hvorefter kommunen selv kan  
+
+ indberette, evt. efter revision af oplysningerne.
+Dato for udstedelse af  
+
+ varmesynsrapport vil i medfør af opbygningen af tilskudsregistret sættes lig  
+
+ med dato for udbetaling af statstilskud første gang der i forbindelse med en  
+
+ tilskudssag på bygningen er indberettet, at bygningen har fået foretaget  
+
+ varmesyn.
+ Feltindholdet udskrives på BBR-meddelelse.
+ Feltet kan kun indberettes til BBR-stamregister (CR).
+2.5. Antal pladser i bygningens sikringsrum Der opretes et obligatorisk datafelt på bygningsniveau, (felt 236).
+ I feltet angives antal personpladser i bygningens sikringsrum.
+ Oplysninger om sikringsrum leveres fra den lokale civilforsvarskommisson  
+
+ for den eksisterende bygningsmasse.
+ For nybyggeriet tilvejebringes oplysningerne i forbindelse med  
+
+ byggesagsbehandlingen.
+Feltet kan indberettes både til BBR-ændringsregister (CS9 og  
+
+ BBR-stamregister (CR.
+Feltet er dog indtil videre ikke krævet ved overførsel  
+
+ fra CS til CR.
+Overførsel af feltindhold fra CS til CR skar ved addition (4).  
+
+ Ved om- og tilbygninger skal således indberettes ændringer i bygningens antal  
+
+ sikringsrumspladser.
+Feltindholdet udskrives på BBR-ejermeddelelsen.
+Er feltet blankt,  
+
+ udskrives intet.
+2.6. Bygningen er fritliggende Der er oprettet et frivilligt datafelt på bygningsniveau, (felt  
+
+ 237). Til feltet kan indberettes følgende kodeværdier:
+ 1. Bygningener fritliggende.
+ 2. bygningen har en eller flere sider sammenbygget med  
+
+ øvrige bygninger.
+ Indberetning til feltet er frivillig.
+Oplysningerne leveres af den lokale civilforsvarskommission indsamlet ud  
+
+ fra kortmateriale eller ved besigtigelse.
+Oplysninger om nybyggeriet  
+
+ fremskaffes i forbindelse med byggesagsbehandlingen.
+ Feltet kan indberettes både til BBR-stamregister (CR). Overførsel af  
+
+ feltindhold sker ubetinget (1).
+ Oplysningen udskrives ikke på BBR-ejermeddelelse.
+2.7. Fredningsforhold Der er oprettet et obligatorisk datafelt på bygningsniveau (felt  
+
+ 238).
+ Til feltet indberettes følgende kodeværdier:
+ 1. Bygningen (og kun bygningen) freder i henhold til  
+
+ bygningsfredningsloven.
+ 2. Som 1, med tinglyste bevaringsbestemmelser, jfr.  
+
+ lovens § 15.
+ 3. Tinglyst bevaringsdeklaration, men bygningen ikke  
+
+ fredet.
+ 4. Bygningens middelalderlige bygningsdele tinglyst  
+
+ fredningsbestemmelser.
+ 5. Bygningen indeholder middelalderlige bygningsdele.
+ 6. Bygningen og dens umiddelbare omgivelser fredet i  
+
+ henhold til bygningsfredningsloven.
+ 7. Som 6., men med tinglyst bevaringsdeklaration.
+ 8. Bygningen bevaringsværdig.
+ 9. Bygningen medtaget i registrant, bevaringsplan,  
+
+ m.m.
+ Kommunen vil løbende fra Fredningsstyrelsen modtage oplysninger om  
+
+ fredningssager (kode 1-7) med angivelse af ovenstående kodeværdier og vil på  
+
+ samme måde modtage oplysninger for allerede gennemførte fredninger mv.
+ En præcisering af de særlige forhold vedrørende bygningens bevaringsværdi  
+
+ (kode 8-9) vil blive meddelt senere.
+Indberetning til feltet af koderne 1-7 er obligatorisk, når  
+
+ kommunen modtager oplysninger fra fredningsstyrelsen.
+Indberetning af kode 8  
+
+ og 9 påbegyndes først senere, jfr. ovenfor.
+ Feltet kan alene indberettes til BBR-stamregister (CR).
+Oplysningerne udskrives på BBR-ejermeddelelsen med en tekst svarende til  
+
+ ovenstående kodeværdier.
+Når feltet er blankt udskrives intet.
+ 2.8. Olietanke, gastanke m.m.
+ Der oprettes 10 nye frivillige datafelter på ejendomsniveau (3  
+
+ gange 3 felter + 1). Samtidig nedlægges de eksisterende felter 105 og 175, og  
+
+ indholdet herfra indsættes maskinelt i nye felter.
+ I det første felt angives arten af tanken ved anvendelse af en af følgende  
+
+ 6 koder:
+A.
+Nedgravet olietank.
+B.
+Overjordisk olietank.
+C.
+Indendørs olietank.
+D.
+Gastank.
+E.
+Slanger til jordvarme.
+F.
+Afblændet/opfyldt tank.  For koderne A - D angives i det andet  
+
+ felt tankens størrelse ved en af følgende 3 koder:
+ For koderne E og F angives ikke størrelse.
+ I det tredie felt angives nedgravnings/installationsår.
+ I de følgende 2 x 3 felter kan tank nr. 2 og 3 registreres tilsvarende  
+
+ (felterne 113-118).
+ Ved en maskinelle konvertering overføres årstallet fra felt 105, der  
+
+ indsættes A i felt nr. 1 og den »gamle« værdi i felt 175 indsættes  
+
+ i 2. felt.
+ Endvidere gøres opmærksom på, at kode 4 i felt 175 (ingne tank)  
+
+ konverteres til 9 i felt 110. Herefter udskrives advis hvis felt 110 = 9 og  
+
+ et eller flere af felterne 111-119 er udfyldt.
+ Har ejenhdommen mere end 3 olietanke, kan det samlede antal tanke anføres  
+
+ i det sidste datafelt »Antal tanke på ejendommen i alt«, der  
+
+ oprettes med 2 positioner (F119).
+ På ejermeddelelse udskrives nedgravningsår/installationsår, type og  
+
+ størrelse for ejendommens tanke, ligesom det angives, om der er nedgravet  
+
+ slanger til jordvarme.
+ Felterne kan indberettes både til BBR-ændringsregister (CS) og  
+
+ BBR-stamregister (CR). Overførsel af dataindhold sker ubetinget (1).
+ Feltindholdet udskrives på BBR-ejermeddelelse.
+2.9. Arealer der hverken benyttes til bolig eller erhverv Der er oprettet et frivilligt felt på bygningsniveau (felt 225).
+ I feltet kan anføres arealer i bygningen, som ikke er oprettet på  
+
+ enhedsniveau, og som hverken benyttes til bolig eller erhverv.
+ Feltet skal bl.a. medvirke til at nedbringe antallet af fejludskrifter på  
+
+ bygningsniveau for bygninger, hvor der f.eks. er fællesarealer som  
+
+ barnevognsrum, der ikke kan henføres til boligenhederne. og som det heller  
+
+ ikke er naturligt at registrere som erhvervsareal.
+ Herefter vil det gælde ved korrekt opmåling af en bygning:
+ Ovenstående regnestykke er dog kun opfyldt, hvis der ses bort fra  
+
+ eventuelle arealer af åbne etager, porte, luftsluser og lign.
+ Hvis en erhvervsbygning ikke er opdelt i enheder, registreres  
+
+ erhvervsarealet fortsat i felt 218.
+ Feltet kan indberettes både til BBR-ændringsregister (CS) og  
+
+ BBR-stamregister (CR). Overførsel af dataindhold sker med addition (4).
+ Hvis feltet er udfyldt, udskrives på BBR-ejermeddelelsen:»Areal, som  
+
+ hverken benyttes til bolig eller erhverv«.
+2.10. Sammentællinger på ejendomsniveau Der er oprettet en række nye maskinelle sammentællingsfelter på  
+
+ ejendomsniveau, som bygger på en summation af oplysninger på bygnings- og  
+
+ enhedsniveau, som allerede i dag foretages i forbindelse med kontroller, men  
+
+ som hidtil ikke har været udskrevet.
+ Det drejer sig om følgende nye felter:
+ 1. Antal bygninger (excl. småbygninger).
+2. Antal småbygninger (dvs. antal med F203 = 910 -  
+
+ 930) 3. Antal ejerlejligheder (enheder med F306 udfyldt).
+ 4. Antal beboelseslejligheder (summen af F205).
+5. Antal enkeltværelser (summen af F206) 6. Antal erhvervsenheder (enheder med F307 = 210 - 390  
+
+ eller F307 = 610).
+ 7. Tilnærmet etageareal (jfr. sagsmappe).
+ 8. Bebygget areal (summen af F219).
+ 9. Samletboligareal (summen af F217).
+ 10. Samlet erhvervsareal (summen af F218).
+ 11. Samlet bygningsareal (summen af F216).
+ 12. Samlet småbygningsareal (summen af F219).
+ Feltindholdet udskrives ikke på BBR-ejermeddelelsen.
+3. Nye kodeværdier i eksisterende felter 3.1. Varmeinstallation, felt 229 Der er indført en række nye kodeværdier til registrering af  
+
+ varmeinstallation, og der er gennemført en mindre justering af den  
+
+ eksisterende kode 1 - (fjernvarme).
+ Nye koder:
+ - 5: Varmepumpe.
+ - 6: Centralvarme med to fyringsenheder.
+ Det samlede sæt af kodeværdier er:
+ 1. Fjernvarme/blokvarme (radiatorsystemer eller  
+
+ varmluftanlæg).
+ 2. Centralvarme fra eget anlæg, eet-kammer fyr  
+
+ (radiatorsystemer eller varmluftanlæg).
+ 3. Ovne (kakkelovne, kamin, elovne, elpaneler,  
+
+ gasradiatorer og lignende).
+ 5. Varmepumpe.
+ 6. Centralvarme med to fyringsenheder (fast brændsel  
+
+ og olie eller gas).
+ 9. Ingen varmeinstallation.
+ Den eksisterende kode 4 - ingen varmeinstallations - konverteres maskinelt  
+
+ til kode 9, og indberetning til kode 4 afvises.
+ Kode 1 og kode 2's definitioner er ændret, bl.a. fordi der har været  
+
+ usikkerhed om. hvor blokvarme skulle registreres - nogle kommuner har  
+
+ registret blokvarme under kode 1 og nogle under kode 2.
+ Det er nu fastsat, at blokvarme skal registreres under kode 1 -  
+
+ begrundelsen er, at det i lighed med fjernvarme betragtes som en kollektiv og  
+
+ centraliseret varmeinstallation.
+ Endvidere er kode 2's definition ændret ved, at kode 6 - centralvarme med  
+
+ to fyringsenheder - er udskilt som en selvstændig kodeværdi.
+ I det følgende gives mere udførlige definitioner af en række af  
+
+ koderne:
+ Kode 1: Bygninger, der varmeforsynes fra bygninger, som er en del af en  
+
+ anden ejendom, registreres med varmeinstallation fjernvarme/blokvarme.
+Kode 2: Bygninger som varmeforsynes fra eget anlæg eller anlæg i en  
+
+ bygning på samme ejendom.
+Fyret er et etkammer fyr, hvor kun et  
+
+ opvarmingsmiddel kan anvendes.
+Som et særligt eksempel kan det nævnes, at et  
+
+ halmfyr registreres under kode 2 - suppleret med angivelse af halm, som  
+
+ opvarmningsmiddel i f230.
+Kode 5: Bygningen er opvarmet ved et varmepumpeanlæg, som er  
+
+ karakteriseret ved, at det transporterer varme fra et sted til et andet ved  
+
+ hjælp af tilført energi, og at varmeafgivelsen sker ved højere temperatur end  
+
+ varmeoptagelse.
+Opvarmningsmidlet (230), som registreres i forbindelse med  
+
+ kode 5 (varmepumpe) kan være elektricitet, olie, gas m.v.
+Kode 6: Centralvarmeforsynede bygninger, hvor fyret har to fyringsenheder.  
+
+ Det drejer sig om et fyr med kedel, der både kan fyres med olie eller gas og  
+
+ fast brændsel.
+Ved registrering af varmeinstallation ved kode 6 registreres  
+
+ olie eller gas som opvarmningsmiddel, idet »fast brændsel« er  
+
+ underforstået.
+3.2. Opvarmningsmiddel (felt 230) Nye kodeværdier er:
+ 6. Halm.
+ 7. Naturgas.
+ Det samlede sæt af kodeværdier er:
+ 1. Elektricitet.
+ 2. Gasværksgas.
+ 3. Olie, petroleum, flaskegas.
+ 4. Fast brændsel (kul, koks, brænde m.m.).
+ 6. Halm.
+ 7. Naturgas.
+ 9. Andet.
+ Eksisterende kode 5 (andet) ændres maskinelt til kode 9, og fremtidig  
+
+ indberetning af kode 5 afvises maskinelt.
+Definitionen af kode 4 er ændret i forhold til den eksisterende  
+
+ registrering, da halm (kode 6) er udskilt.
+Der vil derfor i en  
+
+ overgangsperiode kunne være tale om en vis fejlregistrering under kode 4.
+ Feltet indberettes kun, når der i felt 229 er indberettet kodeværdierne 2,  
+
+ 3, 5 eller 6.
+ For varmepumpens drivmiddel, f.eks. kode 1 eller 3.
+ Når der i felt 229 er indberettet kode 6, indberettes i felt 230 den  
+
+ hovedsagelige energikilde, der anvendes.
+ I det omfang det er mulkigt, vil oplysninger om allerede gennemført  
+
+ naturgastilslutning blive overført maskinelt fra De Regionale  
+
+ Naturgasselskaber til Kommunedata.
+ I de tilfælde hvor dette ikke er muligt, vil naturgasselskabernevære  
+
+ behjælpelige med at levere lister til kommunerne med henblik på en manuel  
+
+ opdatering i kommunerne.
+ Den praktiske tilrettelæggelse af dette arbejde vil blive forhandlet  
+
+ mellem Kommunernes Landsforening og naturgasselskaberne.
+ En permanent maskinel overførselsprocedure fra naturgasselskaberne til BBR  
+
+ etableres pr. 1/1-1986.
+ Indtil den permanente maskinelle overførelsesprocedure er etableret, dvs.  
+
+ fra primo 1985 og senest ultimo 1985, giver naturgasselskaberne hvert kvartal  
+
+ oplysning om tilvæksten i antallet af bygninger med naturgasforsyning.
+3.3. Afløbsforhold - felt 104 De kodeværdier, der kan indberettes til feltet, udvides til følgende:
+ 1. Afløb til offentligt spildevandsanlæg.
+ 2. Afløb til samletank.
+ 3. Afløb til septiktank med nedsivningsanlæg.
+ 6. Afløb til privat spildevandsanlæg.
+ 7. Privat udledning direkte til vandløb, søer eller  
+
+ havet.
+ 8. Andet.
+ 9. Intet afløb.
+Anvendelsen af kode 2 og kode 3 er uændret i forhold til tidligere.
+Der er  
+
+ blot foretaget en ændring af teksten.
+ Den hidtidige kode 1 er delt op i den nye kode 1 (afløb til offentligt  
+
+ spildevandsanlæg) og kode 6 (afløb til privat spildevandsanlæg).
+ Dertil kommer kode 7, som er helt ny.
+Hensigten med opdelingen er, at man via registret skal kunne skelne mellem  
+
+ spildevandsanlæg, hvor ansvaret for drift og vedligeholdelse påhviler det  
+
+ offentlige, dvs. kommunen, og spildevandsanlæg, hvor drift og vedligeholdelse  
+
+ påhviler private.
+Der er med kode 1 og kode 6 udelukkende tale om  
+
+ spildevandsanlæg, hvortil der er tilsluttet mere end een ejendom.
+ Kode 7 indberettes for enkeltejendomme, der har særskilt, direkte  
+
+ udledning til vandløb, søer eller havet.
+ De gamle koder 4 og 5 (Andet og intetafløb) konverteres maskinelt til kode  
+
+ 8 og 9, og indberetning af kode 4 og 5 afvises maskinelt.
+ Hvis alt forekommende spildevand ikke afledes på samme måde, benyttes  
+
+ kodeværdi i følgende prioriteringsorden:
+ 1, 6, 2, 3, 7, 8, 9.
+ Der kan i påkommende tilfælde suppleres med indberetning på notatlinier.
+ Opdelingen er hermed præciseret i forhold til miljøbeskyttelseslovens  
+
+ bestemmelser, hvortil relationerne i større træk er følgende:
+ Kode 1 Spildevandsanlæg, der er omfattet af bestemmelserne om offentlige  
+
+ spildevandsanlæg i miljøministeriets bekendtgørelse nr. 174 af 29. marts 1974  
+
+ (spildevandsbekendtgørelsen).
+ Kode 2 Samletanke, der er omfattet af miljøministeriets bekendtgørelse nr.  
+
+ 173 af 29. marts 1974 om etablering af nedgravede samletanke for  
+
+ husspildevand.
+ Kode 3 Nedsivningsanlæg, der er omfattet af miljøministeriets  
+
+ bekendtgørelse nr. 139 af 15. april 1980 om afledning af spildevand til  
+
+ jorden.
+Kode 4 og 5 Kan ikke benyttes.
+ Kode 6 Spildevandsanlæg, der er omfattet af bestemmelserne om fælles  
+
+ private spildevandsanlæg i miljøministeriets bekendtgørelse nr. 174 af 29.  
+
+ marts 1974 (Spildevandsbekendtgørelsen).
+ Kode 7 Spildevandsanlæg for enkeltejendomme, der er omfattet af  
+
+ bestemmelserne om særskilt udledning til vandløb, søer eller havet i  
+
+ miljøministeriets bekendtgørelse nr. 174 af 29. marts 1974  
+
+ (Spildevandsbekendtgørelsen).
+ På grundlag af foreliggende oplysninger ændrer kommunen i de relevante  
+
+ tilfælde kode 8 til 6 eller 7.
+3.4. Ydervægsmateriale, (F211) Den eksisterende kode 7 »andet materiale« ændres maskinelt til  
+
+ kode 9.
+Som ny kode 8 kan herefter indberettes:  8. Metalplader Indberetning til kode 7 afvises maskinelt.
+3.5. Udvidelse af eksisterende felter Felterne 311, 313, og 323 udvides med 1 position (enhedens samlede areal,  
+
+ areal til erhverv, årlig husleje).
+4. Nye stamkort Nye stamkort udvskrives efter kommunens eget ønske efter, at der er åbnet  
+
+ for de nye datafelter.
+Kommunen kan hos Kommunedata vælge:

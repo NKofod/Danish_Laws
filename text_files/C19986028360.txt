@@ -1,0 +1,5879 @@
+Vejledning om beregning af ekstern støj  
+
+ fra virksomheder Fælles nordisk beregningsmetode Indhold Forord 1. Generelt 1.1 Anvendelsesområde 1.2 Vejledningens indhold 2. Udformning af støjvilkår og  
+
+ påbud 2.1 Generelt 2.2 Ny virksomhed 2.3 Eksisterende virksomhed 3. Kontrol af, at støjgrænser  
+
+ overholdes 3.1 Generelt 3.2 Beregningspunkter 3.3 Støjkilder 3.4 Nøjagtigheden af beregningsresultater 3.5 Ubestemthed og støjgrænser 4. Beregning af støjbelastning 4.1 Generelt 4.2 Måling eller beregning? 5. Beregningsmetoden 5.1 Struktur 5.1.1 Støjkilde 5.1.2 Transmissionsvej 5.1.3 Beregningspunkt 5.2 Beskrivelse af støjkilder 5.2.1 Kildestyrke, Lw(F  
+
+ ) 5.2.2 Korrektion for driftstid 5.2.3 Gruppering og opdeling af støjkilder 5.3 Transmissionsvej 5.3.1 Korrektionsled 5.3.2 Afstand, D  
+
+ Ld 5.3.3 Absorption i luft, D  
+
+ La 5.3.4 Refleksion, D  
+
+ Lr 5.3.5 Skærmning, D  
+
+ Ls 5.3.6 Bevoksning, D  
+
+ Lv 5.3.7 Terræn, D  
+
+ Lg 6. Måling af kildestyrke 6.1 Oversigt og generelle forhold 6.1.1 Måleudstyr 6.1.2 Afgrænsning af støjkilde 6.1.3 Målebetingelser 6.1.4 Korrektion for baggrundsstøj 6.1.5 Ækvivalent punktkilde 6.1.6 Nøjagtighed på bestemmelse af  
+
+ kildestyrke 6.2 Kuglemetoden 6.2.1 Måleflade 6.2.2 Vejrbetingelser 6.2.3 Primære målepunkter 6.2.4 Supplerende målepunkter 6.2.5 Måling af lydtrykniveau 6.2.6 Kontrol af omgivelsernes akustiske kvalitet 6.2.7 Beregning af kildestyrke 6.2.8 Eksempel, tagventilator 6.2.9 Eksempel, skorsten 6.3 Kassemetoden 6.3.1 Måleflade 6.3.2 Vejrbetingelser 6.3.3 Primære målepunkter 6.3.4 Supplerende målepunkter 6.3.5 Måling af lydtrykniveau 6.3.6 Kontrol af omgivelsernes akustiske kvalitet 6.3.7 Beregning af kildestyrke 6.3.8 Eksempel, køleaggregat 6.3.9 Eksempel, portåbning 6.4 Metode til procesanlæg 6.4.1 Afgrænsning af støjkilden 6.4.2 Målebetingelser 6.4.3 Målelinie og målepunkter 6.4.4 Måling af lydtrykniveau 6.4.5 Beregning af kildestyrke 6.4.6 Eksempel, asfaltblandeværk 6.5 Ekstrapolationsmetoden 6.5.1 Afgrænsning af støjkilden 6.5.2 Målebetingelser 6.5.3 Målepunkter 6.5.4 Måling af lydtrykniveau 6.5.5 Supplerende målepunkter 6.5.6 Beregning af kildestyrke 6.5.7 Eksempel, petrokemisk anlæg 7. Beregning af kildestyrke 7.1 Generelt 7.2 Kildestyrke af bygninger 7.2.1 Beregningsmetode 7.2.2 Lydtrykniveau i rummet 7.2.3 Reduktionstal 7.2.4 Retningskorrektion 7.3 Bevægelige støjkilder 8. Andre oplysninger 8.1 Generelt 8.2 Støjdatabogen 8.3 Støjdatabanken 9. Dokumentation og rapportering 10. Referencer Appendices 1. Symbolliste 2. IEC-kurve A 3. Skærmning - flere skærme 4. Virkningen af terræn, der ikke er vandret og  
+
+ plant, D  
+
+ Lg og D  
+
+ Ls 5. Intern spredning 6. Oversigt over fordelagtigste metode til bestemmelse af  
+
+ støjniveau Index Registreringsblad Forord Miljøstyrelsen udsendte i 1984 vejledning nr.  
+
+ 5/1984: "Ekstern støj fra virksomheder" og vejledning nr. 6/1984:  
+
+ "Måling af ekstern støj fra virksomheder". De nævnte  
+
+ vejledninger indeholder retningslinier for behandlingen af sager om ekstern  
+
+ støj fra virksomheder.
+Vejledningerne åbner mulighed for, at man  
+
+ kan basere sagsbehandlingen på beregnede værdier af  
+
+ støjniveauet.
+Denne vejledning er et supplement til de ovenfor  
+
+ nævnte vejledninger.
+Retningslinierne i denne vejledning skal lette  
+
+ sagsbehandlingen i tilfælde, hvor støjmålinger ikke kan  
+
+ gennemføres, eller hvor de i praksis er meget vanskelige at  
+
+ gennemføre.
+Administrationsgrundlaget er det samme, hvadenten  
+
+ støjbelastningen måles eller beregnes.
+Dette grundlag er  
+
+ beskrevet i vejledning nr. 5/1984, hvortil der henvises.
+Vejledningen her  
+
+ handler især om beregningsmetode og krav til dokumentation af  
+
+ beregningsforudsætninger m.v.
+Den beregningsmetode, som skal bruges, er udviklet som en  
+
+ fælles nordisk beregningsmetode.
+I denne vejledning er givet en samlet  
+
+ bearbejdet fremstilling af det system af metoder, der tilsammen udgør  
+
+ den fælles nordiske metode.
+Det tekniske grundlag er det samme som i de  
+
+ tilsvarende dele af det nordiske system af metoder.
+Fremstillingen er  
+
+ forenklet, og udformningen er bearbejdet for at gøre metoderne  
+
+ så overskuelige og let tilgængelige som muligt.
+Vejledningen er  
+
+ udarbejdet med assistance fra Miljøstyrelsens Referencelaboratorium  
+
+ for Støjmålinger, Lydteknisk Institut.
+Det forudsættes, at  
+
+ brugeren råder over det edb-program ILYD, Referencelaboratoriet har  
+
+ udviklet for Miljøstyrelsen, eller tilsvarende, selv om beregninger  
+
+ naturligvis godt kan udføres "manuelt". Det nævnte edb-program  
+
+ forhandles af Miljøstyrelsens Referencelaboratorium, som er Lydteknisk  
+
+ Institut i Lyngby.
+Nærmere oplysninger om edb-programmet ILYD og de  
+
+ sidste nye udviklinger af Nordtestmetoden for kildestyrkemåling NT-ACOM  
+
+ 080 kan fås på telefon 45 93 12 11.
+1. Generelt 1.1 Anvendelsesområde Denne vejledning indeholder retningslinier for behandling  
+
+ af sager om ekstern støj fra virksomheder svarende til  
+
+ anvendelsesområdet for Miljøstyrelsens vejledning nr. 5/1984.  
+
+ Der henvises til afsnit 1.3 i den pågældende vejledning.
+Beregnet støjbelastning Vejledningen her handler om de særlige forhold, der  
+
+ gør sig gældende, når sagsbehandlingen baseres på  
+
+ beregnede værdier af støjbelastningen i stedet for på  
+
+ målte værdier.
+Udførende instans Afhængigt af hvad resultatet af beregningerne skal  
+
+ anvendes til, bør der skelnes mellem, hvem der udfører  
+
+ arbejdet.
+Den tekniske forvaltning kan gennemføre både  
+
+ orienterende målinger og beregninger til støtte for  
+
+ tilsynsmyndighedens afgørelse af, om der foreligger væsentlige  
+
+ støjulemper.
+ Drejer det sig om forhold, hvor der skal meddeles forbud,  
+
+ i påbudssager med komplicerede støjforhold eller ved  
+
+ førstegangskontrol af en godkendt virksomheds støjvilkår  
+
+ anbefales det, at de støjmålinger, som lægges til grund  
+
+ for beregningerne, udføres af et laboratorium, som er akkrediteret af  
+
+ DANAK eller er godkendt til at udføre "Miljømålinger -  
+
+ ekstern støj". Beregningerne kan udføres af såvel en  
+
+ teknisk forvaltning som af et autoriseret eller godkendt laboratorium.
+I forbindelse med godkendelse af en virksomhed vil  
+
+ kildedata ofte være katalogværdier.
+Resultatet fra beregning af  
+
+ støjniveauerne fra en projekteret virksomhed, der skal godkendes,  
+
+ må derfor forventes at være behæftet med store  
+
+ ubestemtheder.
+Forudberegning Ved fastlæggelse af vilkår for godkendelse af  
+
+ en planlagt virksomhed er forudberegning af den forventede  
+
+ støjbelastning omkring virksomheden særligt vigtig.
+Ved  
+
+ behandling af sager om ekstern støj fra allerede eksisterende  
+
+ virksomheder kan beregnede værdier af støjbelastningen  
+
+ være et vigtigt grundlag i stedet for målte værdier.
+Det  
+
+ gælder for eksempel i tilfælde, hvor det er vanskeligt - og  
+
+ dermed kostbart - at gennemføre støjmålinger, fordi der  
+
+ er kraftig baggrundsstøj fra andre støjkilder.
+I sådanne  
+
+ tilfælde vil måleubestemtheden være stor.
+Man kan ikke på en enkel måde angive, i hvilke  
+
+ situationer det er mest hensigtsmæssigt at beregne  
+
+ støjbelastningen fra en eksisterende virksomhed, og hvornår det  
+
+ er mest hensigtsmæssigt at måle støjbelastningen.
+En  
+
+ vurdering må gennemføres i hvert enkelt tilfælde.
+Toner/impulser Det er svært at håndtere problemer som indhold  
+
+ af toner og impulser i støjen, jf. afsnit 4.2.
+1.2 Vejledningens indhold I afsnit 2 er det beskrevet, hvordan man bør  
+
+ udforme vilkår for godkendelse af nye virksomheder og påbud til  
+
+ eksisterende virksomheder om at formindske støjen i omgivelserne.
+ Afsnit 3 indeholder nogle synspunkter, der bør  
+
+ lægges til grund for valg af beregningspunkter, og nogle vejledende  
+
+ angivelser af usikkerheden på beregningsresultater til brug ved  
+
+ vurdering af, om støjgrænsen er overholdt eller overskredet.
+ I afsnit 4 omtales beregningerne ganske kort som baggrund  
+
+ for nogle synspunkter om, hvornår man bedst beregner  
+
+ støjbelastningen, og hvornår det er mere hensigtsmæssigt  
+
+ at måle den.
+Afsnit 5-9 for teknikere Afsnit 5, der indeholder selve beregningsmetoden, er  
+
+ sammen med afsnittene 6-8 især skrevet for de teknikere, der skal  
+
+ udføre beregninger i praksis.
+ Afsnit 9 beskriver, hvordan beregninger af ekstern  
+
+ støj rapporteres, så resultaterne udgør et  
+
+ tilstrækkeligt grundlag for den efterfølgende  
+
+ sagsbehandling.
+I en del afsnit findes vejledende angivelser af, hvordan  
+
+ man enkelt kan gennemføre beregninger af virkningen af komplicerede  
+
+ forhold.
+Hvis der i konkrete tilfælde er mere nøjagtige  
+
+ oplysninger til rådighed, kan disse bruges, hvis det i rapporten om  
+
+ beregningerne dokumenteres, at den brugte fremgangsmåde er mere korrekt  
+
+ end de vejledende angivelser.
+2. Udformning af støjvilkår og  
+
+ påbud 2.1 Generelt Ingen forskel Bortset fra, at ordet "målt" erstattes med ordet  
+
+ "beregnet", er der ingen forskel på udformningen af vilkår og  
+
+ påbud, når godkendelsesvilkår og påbud baseres  
+
+ på hhv. beregnede og målte værdier af  
+
+ støjbelastningen.
+I afsnit 2.2 og 2.3 er givet konkrete eksempler  
+
+ på udformningen af vilkår for godkendelse og af påbud om  
+
+ nedbringelse af støjen fra en virksomhed, som er etableret efter og  
+
+ før Miljøbeskyttelseslovens ikrafttræden.
+ Den lovmæssige baggrund og de forhold, der skal  
+
+ tages i betragtning ved fastsættelse af støjgrænser m.v.  
+
+ er omtalt i Miljøstyrelsens vejledning nr. 5/1984 afsnit 4 og 5. Der  
+
+ henvises til disse afsnit.
+Teknisk-økonomisk vurdering Fastsættelsen af støjgrænser i et  
+
+ konkret tilfælde skal ske på baggrund af en samlet  
+
+ teknisk-økonomisk vurdering.
+Oplysningerne i denne vejlednings afsnit  
+
+ 6-8 skal bruges ved den afvejning, miljømyndigheden skal foretage af  
+
+ miljøkonsekvenser over for omkostningerne til  
+
+ støjdæmpning m.v.
+Dokumentation Den dokumentation, virksomheden efter ibrugtagning skal  
+
+ levere for, at de fastsatte støjgrænser er overholdt, skal  
+
+ baseres på resultater af målinger af støjudsendelsen  
+
+ ("kildestyrken") fra virksomhedens anlæg og komponenter.
+Godkendt laboratorium I lighed med, hvad der gælder for  
+
+ støjmålinger, bør det kræves, at beregning af  
+
+ støjbelastningen udføres af et laboratorium, som er  
+
+ akkrediteret af DANAK eller godkendt af Miljøstyrelsen til at  
+
+ udføre "Miljømåling - ekstern støj".
+I vilkårene for en godkendelse skal det  
+
+ præciseres, at godkendelsens støjgrænser gælder for  
+
+ situationer med virksomheden i fuld drift, dvs. med størst mulig  
+
+ støjudsendelse under normale driftsforhold.
+Virksomheden eller dennes  
+
+ konsulent skal ved dokumentationen af, at støjgrænserne  
+
+ overholdes, redegøre for driftsbetingelser, herunder driftstidsrum  
+
+ m.v., for hver støjkilde.
+Højde over terræn Støjgrænserne skal som hovedregel overholdes  
+
+ i en højde af 1,5 m over terræn.
+Er lydudbredelsesforholdene  
+
+ mellem støjkilde og beregningspunkt komplicerede, f.eks. på  
+
+ grund af bygninger eller støjskærme, der giver væsentlig  
+
+ skærmende virkning, bør der fastsættes andre højder  
+
+ over terræn.
+Dette er særlig vigtigt, når en virksomhed  
+
+ medfører støjulemper ved etageboliger i omliggende  
+
+ områder.
+Når der fastsættes andre højder, skal disse  
+
+ højder tydeligt angives i støjvilkår/påbud.
+2.2 Ny virksomhed Godkendelse I det følgende er givet et eksempel på  
+
+ udformningen af vilkår for godkendelse af en ny virksomhed af en type,  
+
+ der er optaget på bilaget til Miljøbeskyttelsesloven.
+I  
+
+ almindelighed bør virksomheden have valgfrihed mellem måling og  
+
+ beregning af støjniveauet.
+Omfang af vilkår Vilkår om beregningsmæssig dokumentation af,  
+
+ at støjgrænserne overholdes, er især aktuelle ved  
+
+ udvidelse eller ændring af virksomheder.
+Det skal angives tydeligt, om  
+
+ vilkårene omfatter hele virksomheden, den ændrede del af  
+
+ virksomheden eller kun udvidelsen.
+Den godkendende myndighed er besluttende  
+
+ myndighed.
+Beregning af støjbelastningen er især relevant,  
+
+ når der kun fastsættes grænser for støjen fra  
+
+ udvidelsen.
+Da er det nemlig svært at kontrollere, om  
+
+ støjgrænserne overholdes, fordi der er baggrundsstøj fra  
+
+ den eksisterende del af virksomheden.
+ Godkendelsesvilkår kan for eksempel udformes  
+
+ sådan:
+Eksempel "Den planlagte virksomhed er beliggende i et blandet  
+
+ bolig- og erhvervsområde.
+Virksomhedens bidrag til  
+
+ støjbelastningen må i intet punkt i området - uden for  
+
+ virksomhedens egen grund - overstige værdierne i Tabel 1.
+Tabel 1 Tidsrum Støjgrænse Mandag-fredag Lørdag Lørdag Søn- og helligdage Alle dage Alle dage Dag kl. 07.00-18.00 kl. 07.00-14.00 kl. 14.00-18.00 kl. 07.00-18.00 Aften kl. 18.00-22.00 Nat kl. 22.00-07.00 55 dB(A) 55 dB(A) 45 dB(A) 45 dB(A) 45 dB(A) 40 dB(A) Støjbelastningen er det ækvivalente,  
+
+ korrigerede støjniveau i dB(A) beregnet i punkter i 1,5 m højde  
+
+ over det omgivende terræn.
+ Maksimalværdien af støjniveauet må om  
+
+ natten ikke overstige 55 dB(A).
+ De omliggende områder er alle boligområder med  
+
+ åben og lav boligbebyggelse1). Virksomhedens bidrag til  
+
+ støjbelastningen må i intet punkt i disse områder  
+
+ overstige værdierne i Tabel 2.
+ 1) Områdernes faktiske anvendelse, jf.  
+
+ vejledning nr. 5/1984.
+Tabel 2 Tidsrum Støjgrænse Mandag-fredag Lørdag Lørdag Søn- og helligdage Alle dage Alle dage Dag kl. 07.00-18.00 kl. 07.00-14.00 kl. 14.00-18.00 kl. 07.00-18.00 Aften kl. 18.00-22.00 Nat kl. 22.00-07.00 45 dB(A) 45 dB(A) 40 dB(A) 40 dB(A) 40 dB(A) 35 dB(A) Støjbelastningen er det ækvivalente,  
+
+ korrigerende støjniveau i dB(A) beregnet i punkter i 1,5 m  
+
+ højde over det omgivende terræn.
+ Maksimalværdien af støjniveauet må om  
+
+ natten ikke overstige 50 dB(A).
+ Virksomheden skal inden 3 måneder, efter at  
+
+ virksomheden er taget i brug, dokumentere over for den godkendende myndighed,  
+
+ at ovennævnte vilkår er overholdt, når virksomheden er i  
+
+ fuld, normal drift.
+Denne dokumentation kan ske i form af resultater af  
+
+ beregninger udført efter den nordiske beregningsmetode for ekstern  
+
+ støj fra virksomheder, Miljøstyrelsens vejledning nr. 5/1993.  
+
+ Dokumentationen skal indeholde de oplysninger om  
+
+ beregningsforudsætningerne, som er nødvendige for vurdering af  
+
+ rigtigheden af beregningsresultaterne.
+Specielt skal støjkilderne  
+
+ beskrives og deres kildestyrke angives.
+Som alternativ til den nævnte beregning kan  
+
+ dokumentationen ske ved måling af den støj, virksomheden  
+
+ påfører omgivelserne.
+Målingerne skal i så fald  
+
+ udføres som beskrevet i Miljøstyrelsens vejledning nr. 5/1984  
+
+ og nr. 6/1984.
+ Beregningerne eller målingerne skal udføres  
+
+ af et laboratorium, som er akkrediteret af DANAK eller godkendt af  
+
+ Miljøstyrelsen til "Miljømålinger - ekstern  
+
+ støj".
+Et eksemplar af rapporten med dokumentationen af  
+
+ måle- eller beregningsresultaterne indsendes til tilsynsmyndigheden, og  
+
+ ét eksemplar opbevares i mindst 3 år på virksomheden." 2.3 Eksisterende virksomhed Godkendelse Undertiden fastsættes vilkår for frivillig  
+
+ godkendelse af virksomheder, som er etableret før  
+
+ Miljøbeskyttelseslovens ikrafttræden.
+Vilkårene udformes  
+
+ på samme måde som for nye virksomheder.
+I afsnit 5 i vejledning  
+
+ nr. 5/1984 er angivet, hvordan de konkrete støjgrænser  
+
+ fastsættes.
+Påbud Tilsynsmyndigheden kan give en eksisterende virksomhed  
+
+ påbud om at formindske støjbelastningen i virksomhedens  
+
+ omgivelser.
+Et påbud kan for eksempel udformes således:
+Eksempel "Kommunen/Amtet har som tidligere meddelt modtaget klager  
+
+ over generende støj fra Deres virksomhed.
+For at få et grundlag  
+
+ for bedømmelsen af sagen har kommunen/amtet ladet foretage beregninger  
+
+ af støjen fra Deres virksomhed.
+Resultaterne af disse beregninger er  
+
+ beskrevet i rapport nr. ... af (dato). Det fremgår bl.a. af rapporten,  
+
+ at støjbelastningen overskrider Miljøstyrelsens vejledende  
+
+ grænseværdier væsentligt.
+Kommunen/Amtet bad Dem ved skrivelse (journ.nr.) af (dato)  
+
+ om at oplyse, hvilke omkostninger, fordele og ulemper et eventuelt  
+
+ påbud om støjdæmpende foranstaltninger ville  
+
+ indebære.
+Deres svar indgik til forvaltningen (dato).
+ Kommunalbestyrelsen/Amtsrådet behandlede sagen  
+
+ på sit møde (dato) og besluttede herunder at meddele Dem  
+
+ følgende påbud med hjemmel2) i  
+
+ Miljøbeskyttelseslovens § 41, stk. 1:
+ ... kommunalbestyrelse/amtsråd finder, at  
+
+ virksomheden ... giver anledning til væsentlig støjforurening.  
+
+ Derfor pålægger kommunalbestyrelsen/amtsrådet Deres  
+
+ virksomhed at gennemføre støjdæmpende foranstaltninger  
+
+ inden 4 måneder fra dato, så virksomhedens bidrag til  
+
+ støjbelastningen overalt i områderne for åben og lav  
+
+ boligbebyggelse nordvest og øst for virksomhedens areal ved fuld,  
+
+ normal drift af virksomheden er mindre end eller lig med værdierne i  
+
+ Tabel 3.
+ 2) Ved virksomheder, som ikke er omfattet af  
+
+ Miljøbeskyttelseslovens bilag, findes hjemmelen i  
+
+ Miljøbeskyttelseslovens § 42.
+Tabel 3 Tidsrum Støjgrænse Mandag-fredag Lørdag Lørdag Søn- og helligdage Aften Nat kl. 07.00-18.00 kl. 07.00-14.00 kl. 14.00-18.00 kl. 07.00-18.00 kl. 18.00-22.00 kl. 22.00-07.00 45 dB(A) 45 dB(A) 40 dB(A) 40 dB(A) 40 dB(A) 35 dB(A) Disse værdier gælder det ækvivalente,  
+
+ korrigerede støjniveau i dB(A) i frit felt, 1,5 m over  
+
+ terrænoverfladen.
+ Støjens maksimalværdi må om natten ikke  
+
+ overstige 50 dB(A).
+ Endvidere skal virksomhedens bidrag til  
+
+ støjbelastningen ved etageboligområderne sydvest for  
+
+ virksomhedens areal være mindre end eller lig med værdierne i  
+
+ Tabel 4.
+Tabel 4 Tidsrum Støjgrænse Mandag-fredag Lørdag Lørdag Søn- og helligdage Aften Nat kl. 07.00-18.00 kl. 07.00-14.00 kl. 14.00-18.00 kl. 07.00-18.00 kl. 18.00-22.00 kl. 22.00-07.00 50 dB(A) 50 dB(A) 45 dB(A) 45 dB(A) 45 dB(A) 40 dB(A) Disse værdier gælder det ækvivalente,  
+
+ korrigerede støjniveau i dB(A) i frit felt i samme højde over  
+
+ terræn som midtpunktet af vinduerne i øverste boligetage.
+ Støjens maksimalværdi må om natten ikke  
+
+ overstige 55 dB(A).
+Det pålægges endvidere Deres virksomhed senest  
+
+ 6 måneder fra dato over for kommunalbestyrelsen/amtsrådet at  
+
+ dokumentere, at de ovennævnte vilkår er overholdt.
+Denne  
+
+ dokumentation skal ske i form af resultater af støjmålinger  
+
+ udført efter Miljøstyrelsens vejledninger nr. 5 og 6/1984 eller  
+
+ af beregninger udført efter den nordiske beregningsmetode for ekstern  
+
+ støj fra virksomheder, Miljøstyrelsens vejledning nr. 5/1993.  
+
+ Er dokumentationen udført som beregning, skal den indeholde de  
+
+ oplysninger om beregningsforudsætningerne, som er nødvendige for  
+
+ kommunalbestyrelsens/amtsrådets vurdering af rigtigheden af  
+
+ beregningsresultaterne.
+Specielt skal støjkilderne beskrives og deres  
+
+ kildestyrke angives sammen med oplysning om den dæmpning af hver af  
+
+ kildernes støjudsendelse, som er opnået ved de  
+
+ gennemførte foranstaltninger.
+ Beregningerne eller målingerne skal  
+
+ gennemføres af et laboratorium, der er akkrediteret af DANAK eller  
+
+ godkendt af Miljøstyrelsen til at udføre  
+
+ "Miljømålinger - ekstern støj".
+Et eksemplar af rapporten med dokumentationen af  
+
+ beregningsresultaterne indsendes til kommunalbestyrelsen/amtsrådet, og  
+
+ ét eksemplar opbevares i mindst 3 år på virksomheden." 3. Kontrol af, at støjgrænser  
+
+ overholdes 3.1 Generelt Vilkår Når der er fastsat støjgrænser i  
+
+ vilkårene for godkendelse af en virksomhed, skal det kontrolleres, at  
+
+ støjgrænserne overholdes, efter at virksomheden er sat i  
+
+ drift.
+Påbud Det skal også kontrolleres, at påbud om  
+
+ formindskelse af støjbelastningen faktisk efterkommes.
+ En støjgrænse betragtes som overholdt,  
+
+ når den beregnede støjbelastning minus ubestemtheden på  
+
+ beregningsresultatet er mindre end støjgrænsen (se også  
+
+ afsnit 3.5).
+Kontrol Kontrollen kan baseres på beregningsresultater.
+Man kan måle støjudsendelsen fra hver enkelt  
+
+ støjkilde og derpå beregne dens bidrag til  
+
+ støjbelastningen.
+Dette kan som regel lade sig gøre, men det er  
+
+ undertiden for besværligt.
+I nogle tilfælde er det lettere at  
+
+ måle støjudsendelsen fra hele virksomheden under ét og  
+
+ bruge dette måleresultat ved beregning af støjbelastningen.
+Tilsyn Sommetider er det nok at vælge nogle af  
+
+ støjkilderne ud, specielt hvis der er sket ændringer af de  
+
+ støjmæssige forhold, og måle støjudsendelsen fra  
+
+ dem ved kontrollen.
+Hvis en sådan stikprøve viser, at  
+
+ støjudsendelsen er mindre, end det er forudsat ved beregningen af  
+
+ støjbelastningen, er støjgrænsen sandsynligvis overholdt.  
+
+ Denne måde at kontrollere på er især nyttig ved tilsyn med  
+
+ virksomheder.
+Kontrolpunkter Det anbefales, at der ved målingen af  
+
+ støjudsendelsen fra kilderne udpeges et veldefineret kontrolpunkt i  
+
+ nærheden af hver kilde, og at støjniveauet i disse punkter  
+
+ dokumenteres.
+Derved lettes den efterfølgende kontrol af, om  
+
+ støjudsendelsen har ændret sig.
+3.2 Beregningspunkter De mest støjbelastende punkter Støjniveauet skal beregnes i det mest  
+
+ støjbelastede punkt i hver type af område omkring virksomheden.  
+
+ Ved valget af det nødvendige antal beregningspunkter og placeringen af  
+
+ dem skal tages de samme hensyn som ved fastlæggelse af  
+
+ målepositioner for kontrolmåling af støjbelastningen.  
+
+ Dette er omtalt i afsnit 7.1 i Miljøstyrelsens vejledning nr. 5/1984,  
+
+ hvortil der henvises.
+Flere punkter i tvivlstilfælde Når vilkår eller påbud er udformet som  
+
+ angivet i afsnit 2, ligger ansvaret for udvælgelsen af  
+
+ beregningspunkterne hos den, der udfører beregningerne.
+Er der tvivl  
+
+ om, hvor den største støjbelastning forekommer i et  
+
+ område, skal støjbelastningen beregnes i de punkter, hvor der er  
+
+ mulighed for, at den største støjbelastning forekommer.
+1,5 m over terræn i frit felt Beregningspunkterne skal i almindelighed vælges 1,5  
+
+ m over terrænoverfladen.
+Støjbelastningen skal beregnes i frit  
+
+ felt, dvs. uden bidrag fra refleksioner fra bygninger uden for virksomheden  
+
+ nær ved beregningspunktet, se også afsnit 2.2.2 og 7.2 i  
+
+ Miljøstyrelsens vejledning nr. 5/1984.
+Hvis der undtagelsesvis er foreskrevet konkrete  
+
+ beregningspunkter i vilkår eller påbud, skal  
+
+ støjbelastningen også beregnes i disse punkter.
+De kan for  
+
+ eksempel være placeret mere end 1,5 m over terrænet, se afsnit  
+
+ 4.2 i Miljøstyrelsens vejledning nr. 5/1984.
+Hos klagere I sager om klager over støj fra en virksomhed skal  
+
+ støjbelastningen hos klageren også beregnes.
+3.3 Støjkilder Alle kilder bør medregnes men ofte er det  
+
+ unødvendigt Ved beregningen af støjniveauet skal man  
+
+ principielt medtage alle de støjkilder, vilkårene eller  
+
+ påbudet handler om.
+I praksis kan arbejdet ofte lettes ved, at man  
+
+ nøjes med at medtage bidragene fra de mest betydende kilder.
+Der  
+
+ må en vurdering til i hvert enkelt tilfælde, og i rapporten om  
+
+ beregningerne skal det dokumenteres, at de støjkilder, der udelades af  
+
+ beregningerne, kun ville give ubetydelige bidrag til støjbelastningen.  
+
+ Lettelsen ligger først og fremmest i, at man ikke behøver at  
+
+ måle og beskrive støjudsendelsen nøjagtigt for nogle  
+
+ kilder, der ikke bidrager til beregningsresultatet.
+Hvis støjen fra de  
+
+ mest støjende kilder senere dæmpes, kan det blive  
+
+ nødvendigt at tage hensyn til bidragene fra de mindre støjende  
+
+ kilder for at få et korrekt resultat.
+Gruppering af kilder Beregningsarbejdet - og især arbejdet med at  
+
+ måle støjudsendelsen fra kilderne - kan også lettes ved,  
+
+ at man behandler grupper af ensartede støjkilder, som for eksempel  
+
+ tagventilatorer, under ét.
+Dette er nærmere omtalt i afsnit  
+
+ 5.2.3.
+En af fordelene ved at beregne støjbelastningen i  
+
+ stedet for at måle den er, at man får oplysning om bidragene fra  
+
+ hver kilde eller gruppe af kilder.
+På dette grundlag kan man tage  
+
+ beslutning om støjdæmpning, hvis en støjgrænse  
+
+ overskrides.
+Det er praktisk at tage hensyn til dette ved gruppering af  
+
+ støjkilderne, for eksempel ved også at se på mulighederne  
+
+ for støjdæmpning ved vurdering af, om nogle støjkilder  
+
+ kan betragtes som ensartede.
+Dokumentation For at resultatet af beregningen skal blive  
+
+ nøjagtigt, må støjkilderne beskrives omhyggeligt, og  
+
+ deres kildestyrke bør måles efter metoderne i afsnit 6 eller 7.  
+
+ I rapporten om beregningerne skal findes dokumentation af  
+
+ støjkildernes type m.v., deres driftsforhold og de tidsrum,  
+
+ støjkilderne er i drift, jf. afsnit 9.
+Driftstilstand Hvis støjudsendelsen varierer, bør  
+
+ støjbelastningen bestemmes for forskellige driftstilstande, der hver  
+
+ for sig giver konstant støjudsendelse.
+Der henvises til afsnit 2 i  
+
+ Miljøstyrelsens vejledning nr. 6/1984.
+3.4 Nøjagtigheden af beregningsresultater Ubestemthed d Begrebet ubestemthed bruges i denne vejledning på  
+
+ samme måde som i afsnit 7.5 i vejledning nr. 5/1984 og afsnit 4 i  
+
+ vejledning nr. 6/1984. Der henvises til disse vejledninger for detaljer.
+ Ubestemtheden skyldes både usikkerhed ved  
+
+ bestemmelsen af kildestyrken og tilnærmelser gjort ved  
+
+ beregningerne.
+Den rigtige (sande) støjbelastning findes - med 90  
+
+ % sandsynlighed - i et interval omkring beregningsresultatet.
+Intervallets  
+
+ bredde er plus og minus ubestemtheden, "
+d  
+
+  [dB].
+I afsnit 3.5 angives nogle vejledende størrelser af  
+
+ værdien af d  
+
+ .
+Sand støjbelastning Den sande støjbelastning er den  
+
+ støjbelastning, man ville bestemme, hvis man målte  
+
+ støjbelastningen mange gange - under godkendte vejrforhold (jf.  
+
+ vejledning nr. 6/1984) - og beregnede middelværdien af  
+
+ måleresultaterne.
+3.5 Ubestemthed og støjgrænser Overskridelse af de i et påbud eller vilkår  
+
+ fastsatte støjgrænser I forbindelse med forvaltningen af  
+
+ Miljøbeskyttelsesloven er det et almindeligt princip, at der fra  
+
+ miljømyndighedernes side kun foretages indgreb over for en virksomhed,  
+
+ såfremt det med 95 % sandsynlighed kan dokumenteres, at der er tale om  
+
+ en overskridelse af den fastlagte støjgrænse.
+En støjgrænse betragtes som overskredet, hvis  
+
+ måleværdien minus ubestemtheden er større end  
+
+ støjgrænsen.
+Den sande værdi af virksomhedens bidrag til  
+
+ støjbelastningen er da med 95 % sandsynlighed større end  
+
+ støjgrænsen.
+ Hvis det konstateres, at fastsatte  
+
+ støjgrænser med 95 % sandsynlighed er overskredet, bør  
+
+ miljømyndighederne overveje, hvilke reaktioner der skal anvendes.
+Nøjagtighed Ved nøjagtigheden af et beregningsresultat,  
+
+ ubestemtheden d  
+
+ , forstås her den øvre grænse for forskellen mellem et  
+
+ beregningsresultat og den sande værdi af støjbelastningen.
+Vejledende værdier af d Det er svært at angive detaljeret, hvor stor  
+
+ ubestemtheden er.
+Ved sammenligninger af mange målte og beregnede  
+
+ støjbelastninger har man fået et erfaringsgrundlag.
+!  
+
+  3 dB Når kildestyrken er bestemt efter kuglemetoden  
+
+ (afsnit 6.2) eller ekstrapolationsmetoden (afsnit 6.5), er ubestemtheden ca.  
+
+ 3 dB.
+Den samme nøjagtighed opnås med metoden for  
+
+ procesanlæg (afsnit 6.4), når anlægget ikke har  
+
+ udpræget retningsafhængig støjudsendelse, og når  
+
+ kassemetoden (afsnit 6.3) bruges på virksomheder med mange  
+
+ støjkilder uden udpræget retningsvirkning, og hvor  
+
+ målebetingelserne i øvrigt er gode.
+!  
+
+  5 dB Når kassemetoden (afsnit 6.3) bruges på  
+
+ virksomheder med få støjkilder eller under ugunstige  
+
+ målebetingelser eller ved kilder med udpræget retningsvirkning,  
+
+ er ubestemtheden ca. 5 dB.
+Denne ubestemthed må også forventes,  
+
+ når støjkilderne er bevægelige (afsnit 7.3) eller placeret  
+
+ indendørs (afsnit 7.2).
+!  
+
+  5-10 dB Hvis oplysningerne om kildestyrken hentes i  
+
+ håndbøger og lignende (afsnit 8), må man regne med en  
+
+ ubestemthed på 5-10 dB.
+Mindst lige så god som en enkelt måling Et beregningsresultat har i almindelighed mindst lige  
+
+ så god nøjagtighed som resultatet af en enkelt måling af  
+
+ støjbelastningen.
+Det skyldes, at måleresultatet påvirkes  
+
+ af de meteorologiske forhold, som de er netop under målingen.
+En  
+
+ måling på en anden dag ville give et lidt andet resultat.  
+
+ Når man bruger gennemsnitsværdien af resultaterne af flere  
+
+ målinger, får man et mere nøjagtigt måleresultat.  
+
+ Beregningsmetoden er tilpasset, så man beregner for gennemsnitlige  
+
+ forhold.
+Beregningsreglerne er baseret på et stort erfaringsmateriale  
+
+ fra mange forskellige måleserier.
+Skærme I praksis domineres resultater af beregninger og  
+
+ målinger i reglen af bidrag fra støjkilder, der er  
+
+ uskærmede.
+Derfor er erfaringsmaterialet om virkningen af skærme  
+
+ begrænset, og det består især af resultater af  
+
+ eksperimenter udført med højttalere som støjkilde.
+Eksempel Hvis for eksempel ubestemtheden er 3 dB, betragtes  
+
+ en støjgrænse på 45 dB(A) som overholdt, hvis  
+
+ beregningsresultatet er mindre end 48 dB(A). Støjgrænsen er  
+
+ overskredet, hvis beregningsresultatet er 48 dB(A) eller mere.
+Acceptabel ubestemthed I relation til ovennævnte eksempel skal  
+
+ Miljøstyrelsen anføre, at i forbindelse med vurderingen af, om  
+
+ resultatet af en støjberegning opfylder fastsatte  
+
+ støjgrænser, anbefales det, at myndigheden accepterer  
+
+ ubestemtheder på til og med 3 dB(A).
+ Ubestemtheder over 3 dB(A) men mindre end 5 dB(A)  
+
+ bør ikke accepteres i miljøsager med overskridelse af fastsatte  
+
+ støjgrænser, medmindre der foreligger en redegørelse, der  
+
+ sandsynliggør, at ubestemtheden ikke kan nedbringes ved at vælge  
+
+ en anden metode til bestemmelse af støjniveauet fra virksomheden.
+ Ubestemtheder over 5 dB(A) kan ikke accepteres i  
+
+ miljøsager indeholdende påbud og forbud eller ved  
+
+ kontrolberegning af en virksomheds overholdelse af støjvilkår,  
+
+ hvis støjgrænsen overskrides.
+ Det skal i den forbindelse erindres, at efterhånden  
+
+ som ubestemtheden øges, bliver sandsynligheden for at de omboende  
+
+ bliver påført et støjniveau højere end den  
+
+ fastsatte støjgrænse stadigt større.
+4. Beregning af støjbelastning 4.1 Generelt Ved beregning af støjbelastningen tages  
+
+ udgangspunkt i den støj, der udsendes fra en virksomheds  
+
+ støjkilder.
+Til kildestyrken lægges virkningen af, hvad der sker  
+
+ under støjens udbredelse fra virksomheden.
+Derved bestemmes den  
+
+ støj, der når frem til områder omkring virksomheden.
+Beregningsmetoden og målemetoden i vejledning nr.  
+
+ 6/1984 er tilpasset hinanden.
+Man kommer derfor til den samme  
+
+ støjbelastning, hvad enten man måler eller beregner den.
+ Systemet er illustreret i Figur 4.1.
+Styrken af den udsendte støj fastlægges ved  
+
+ forskellige frekvenser.
+For at få nøjagtige beregningsresultater  
+
+ skal man måle kildestyrken efter målemetoderne omtalt i afsnit  
+
+ 6-7.
+ I specielle tilfælde kan man få fat i disse  
+
+ oplysninger på anden måde, for eksempel fra producenter af  
+
+ anlæg og komponenter, se afsnit 8.
+ Beregningerne af virkningerne af, hvad der sker under  
+
+ støjens udbredelse, sker lettest ved brug af EDB.
++++ FIGUR +++ Figur 4.1 Systemet: Ved måling og beregning  
+
+ opnås samme resultat.
+Måling eller beregning? Det må vurderes i hvert enkelt tilfælde, om  
+
+ det er mest hensigtsmæssigt at beregne eller at måle  
+
+ støjbelastningen fra en virksomhed.
+Som det fremgår af det  
+
+ foregående, kan man forvente nogenlunde den samme nøjagtighed af  
+
+ resultaterne.
+I det følgende er givet nogle retningslinier, se i  
+
+ øvrigt appendix 6.
+Måling hvis ukompliceret Det anbefales at måle støjbelastningen  
+
+ overalt, hvor det er muligt at gøre det på en ukompliceret  
+
+ måde.
+Måleteknikken er kendt og indøvet.
+Beregning hvis mange punkter I tilfælde, hvor støjbelastningen fra de  
+
+ samme støjkilder skal bestemmes i mange punkter omkring en virksomhed,  
+
+ kan det være lønsomt at måle støjudsendelsen og  
+
+ derpå bestemme støjbelastningerne ved beregning.
+Man  
+
+ undgår da at skulle besøge virksomheden gentagne gange for at  
+
+ opnå de rette kombinationer af vejrforhold, driftsbetingelser m.v.  
+
+ Dette er naturligvis især vigtigt ved virksomheder, hvor fuld, normal  
+
+ drift forekommer relativt sjældent, for eksempel ved visse  
+
+ motorsportsbaner.
+Beregning hvis kraftig baggrundsstøj I nogle tilfælde er der så kraftig  
+
+ baggrundsstøj - fra trafik eller fra andre virksomheder - at det er  
+
+ vanskeligt eller umuligt at opnå et pålideligt resultat af en  
+
+ måling af støjbelastningen fra en virksomhed.
+I sådanne  
+
+ situationer er det naturligt at beregne støjbelastningen.
+Beregning hvis afstanden stor I andre tilfælde ligger de relevante  
+
+ beregningspunkter så langt fra virksomheden, at  
+
+ støjmålinger er behæftet med betydelig ubestemthed, jf.  
+
+ vejledning nr. 6/1984. Dette gælder typisk for større  
+
+ procesanlæg, kraftværker m.v.
+Også i disse situationer vil  
+
+ sagsbehandlingen mest hensigtsmæssigt kunne baseres på den  
+
+ beregnede støjbelastning.
+Støjdæmpning I overvejelserne om valg af metode bør indgå,  
+
+ om resultaterne skal danne grundlag for projektering af afhjælpende  
+
+ foranstaltninger.
+Er dette tilfældet, vil kildestyrkemåling og  
+
+ brug af beregningsmetoden ofte være et økonomisk bedre  
+
+ udgangspunkt end en måling i beregningspunktet.
+Ikke toner Beregningsmetoden er ikke egnet til vurdering af, om der i  
+
+ et konkret tilfælde skal gives tillæg for tydeligt hørbare  
+
+ toner i støjen.
+Dette skyldes, at metoderne til måling af  
+
+ kildestyrken foreskriver målinger i 1/1-oktavbånd, og altså  
+
+ ikke smalbåndsanalyser, som er nødvendige for en objektiv  
+
+ afgørelse af, om støjen indeholder tydeligt hørbare  
+
+ toner.
+En del af beregningsmetodens korrektionsled er ligeledes baseret  
+
+ på erfaringsmateriale fra 1/1-oktavanalyser af bredbåndet  
+
+ støj.
+ Man kan derfor overveje at indbygge en sikkerhedsmargin  
+
+ på 5 dB ved forudberegning af støjbelastningen fra kilder, der  
+
+ erfaringsmæssigt kan give anledning til tillæg for tydeligt  
+
+ hørbare toner (ventilatorer, motorer, pumper).
+Ved beregningen af støj fra eksisterende  
+
+ virksomheder bør der i første omgang ved lytning i  
+
+ beregningspunkterne foretages en (subjektiv) vurdering af, om der skal gives  
+
+ tillæg for tydeligt hørbare toner.
+Hersker der tvivl, kan  
+
+ målemetoden til bestemmelse af tydeligt hørbare toner  
+
+ anvendes.
+Ikke impulser Tilsvarende forhold gør sig gældende for  
+
+ vurderingen af, om der skal gives tillæg for indhold af tydeligt  
+
+ hørbare impulser.
+Her er man henvist til en subjektiv vurdering eller  
+
+ til indbygning af en sikkerhedsmargin ved beregning af  
+
+ støjbelastningen fra virksomheder med støj, der  
+
+ erfaringsmæssigt indeholder tydeligt hørbare impulser  
+
+ (støj fra nitning, bankning, trykluftværktøj,  
+
+ trykluftafblæsning, ventilåbning).
+5. Beregningsmetoden 5.1 Struktur Beregningsmetodens struktur er illustreret i Figur 5.1.1.  
+
+ De virkelige støjkilder på virksomheden erstattes ved  
+
+ beregningen af tænkte, punktformede støjkilder.
+Bidragene fra  
+
+ hver støjkilde til støjen i beregningspunktet bestemmes, og  
+
+ bidragene lægges til slut sammen.
++++ FIGUR +++ Figur 5.1.1 Beregningsmetodens struktur.
+I  
+
+ eksemplet er der fire støjkilder med numrene j = 1 ... 4.
+ Beregningerne gennemføres for hvert af  
+
+ 1/1-oktavbåndene 63 Hz-8000 Hz.
+Der kan være mere end én transmissionsvej fra  
+
+ en støjkilde til beregningspunktet.
+Dette er vist i Figur 5.1.2, hvor  
+
+ der er to transmissionsveje: den ene via kanten af en skærm og den  
+
+ anden via refleksion fra en lodret flade, en bygningsfacade.
+Der beregnes et  
+
+ bidrag til støjen i beregningspunktet fra hver transmissionsvej.
+Terrænoverfladen er en særlig type  
+
+ lydreflekterende overflade.
+Dens virkning medtages i beregningen af  
+
+ terrænkorrektionen (afsnit 5.3.7).
+ Beregningsmetoden er oprindeligt beskrevet i [1].
++++ FIGUR +++ Figur 5.1.2 Eksempel.
+Der kan være mere  
+
+ end én transmissionsvej fra en støjkilde til et  
+
+ beregningspunkt.
+I dette eksempel beregnes et bidrag fra hver af  
+
+ transmissionsvejene t = 1 og t = 2 til støjen i beregningspunktet.
+ Note: I programmet ILYD arbejdes kun med  
+
+ én transmissionsvej fra en støjkilde til et beregningspunkt.  
+
+ Bidraget fra transmissionsvej nr. t = 2 behandles med ILYD som bidraget fra  
+
+ en anden støjkilde med samme placering.
+5.1.1 Støjkilde Hver af de virkelige støjkilder repræsenteres  
+
+ af en såkaldt ækvivalent punktkilde som vist i Figur 5.1.1.
+Ækvivalent punktkilde Hver af disse ækvivalente punktkilder karakteriseres  
+
+ ved sin placering og sin kildestyrke.
+ Kildestyrken er omtalt i afsnit 5.2. Her skal blot  
+
+ nævnes, at støjkildens styrke kan være forskellig i  
+
+ forskellige retninger, som vist i Figur 5.1.3.
+ Støjkildens styrke kan være forskellig ved  
+
+ forskellige driftsbetingelser.
+Oplysninger om de ækvivalente punktkilders styrke  
+
+ kan fremskaffes på forskellige måder.
+Dette er omtalt i afsnit  
+
+ 5.2 og afsnittene 6-8.
++++ FIGUR +++ Figur 5.1.3 Eksempel på støjkilde;  
+
+ et lille køletårn.
+Den ækvivalente punktkildes styrke er  
+
+ forskellig i forskellige retninger, karakteriseret ved vinklen F  
+
+  i en vandret plan.
+Referenceretningen 0° kan vælges tilfældigt,  
+
+ men den skal defineres i forhold til støjkilden.
+5.1.2 Transmissionsvej Overføringsfunktion Der beregnes et bidrag til støjen i  
+
+ beregningspunktet via hver transmissionsvej.
+Ved transmissionen sker der en  
+
+ ændring af den udsendte støj. Ændringen beskrives ved  
+
+ transmissionsvejens såkaldte overføringsfunktion, som beregnes.  
+
+ Den er i almindelighed afhængig af frekvensen.
+Der beregnes derfor et  
+
+ sæt af dB-værdier, én for hver oktavbånd, for hver  
+
+ transmissionsvej.
+Disse dB-værdier bestemmes ved at addere korrektioner  
+
+ for, hvad der sker med støjen langs transmissionsvejen.
+5.1.3 Beregningspunkt Bidrag til støj i beregningspunkt Ved addition af overføringsfunktionens  
+
+ dB-værdier til kildestyrken bestemmes bidraget til støjen i  
+
+ beregningspunktet.
+Resultatet er et tal (dB re 20 m  
+
+ Pa) for hvert oktavbånd.
+- fra hver støjkilde og hver  
+
+ transmissionsvej I hvert oktavbånd "sammenlægges" bidragene fra  
+
+ samtlige støjkilder og transmissionsveje som beskrevet i afsnit 10 i  
+
+ vejledning nr. 6/1984. Derved bestemmes den totale støj i  
+
+ beregningspunktet i hvert oktavbånd.
+A-korrektion LAeq Til slut korrigeres disse værdier med  
+
+ korrektionerne i IEC-vægtningskurve A, jf. appendix 2, og de  
+
+ korrigerede værdier "lægges sammen". Derved er det totale  
+
+ A-vægtede lydtrykniveau i beregningspunktet bestemt.
+Det er ofte mest  
+
+ hensigtsmæssigt at udføre A-korrektionen i støjkildens  
+
+ styrke.
+5.2 Beskrivelse af støjkilder Ækvivalent punktkilde Ved beregninger erstattes de virkelige støjkilder  
+
+ på virksomheden af ækvivalente punktkilder.
+En ækvivalent  
+
+ punktkilde er en tænkt, punktformet støjkilde som - betragtet  
+
+ fra beregningspunkterne - giver det samme lydtrykniveau som de virkelige  
+
+ støjkilder.
+En ækvivalent punktkilde karakteriseres alene ved  
+
+ sin placering og sin kildestyrke.
+Kildestyrken måles efter den til formålet  
+
+ bedst egnede af metoderne i afsnit 6. I nogle tilfælde er det  
+
+ nødvendigt at supplere målingerne med beregninger.
+Bygningsdele  
+
+ som støjkilder er beskrevet i afsnit 7.2 og bevægelige  
+
+ støjkilder (intern transport, rangerterræner, motorsportsbaner)  
+
+ i afsnit 7.3. Oplysninger om kildestyrke kan stamme fra en leverandørs  
+
+ garanterede støjdata.
+Ved planlægning er kravene til  
+
+ nøjagtigheden ofte begrænsede, og der kan derfor anvendes  
+
+ støjdata fra håndbøger, kataloger m.v., afsnit 8.
+5.2.1 Kildestyrke, LW(F  
+
+ ) Kildestyrken skal kendes i hvert 1/1-oktavbånd  
+
+ mellem 63 Hz og 8000 Hz, og den er i almindelighed forskellig i forskellige  
+
+ retninger.
+Lydeffektniveau I akustisk litteratur angives en støjkildes styrke  
+
+ ved dens lydeffektniveau.
+Lydeffektniveauet, der er et mål for den  
+
+ samlede støjudsendelse i alle retninger fra kilden, måles for  
+
+ eksempel efter ISO-standarder som ISO 3740-48.
+Kildestyrke Den støj, der udsendes opad fra en  
+
+ støjkilde, er i reglen uden betydning for den eksterne støj fra  
+
+ virksomheder.
+Støjen, der udsendes omkring vandret, er derimod  
+
+ relevant.
+Derfor benyttes i praksis en størrelse, der minder om  
+
+ lydeffektniveauet, men altså bestemmes af den støj, der udsendes  
+
+ omkring vandret, som mål for kildestyrken.
+Den kaldes ofte det  
+
+ immissionsrelevante lydeffektniveau, men dette udtryk accepteres ikke i  
+
+ standardsammenhæng.
+LW LW(F  
+
+ ) I denne vejledning bruges ordet kildestyrke.
+For den  
+
+ totale kildestyrke bruges symbolet LW, og for kildestyrken i  
+
+ retningen F  
+
+  bruges symbolet LW(F  
+
+ ).
+Det må fastlægges i hvert enkelt  
+
+ tilfælde, hvor overgangen fra støjkilde til transmissionsvej  
+
+ ligger.
+Dette er især relevant, når det skal afgøres, om  
+
+ virkningen af reflekterende eller afskærmende flader tæt ved  
+
+ støjkilden skal tages med i kildebeskrivelsen eller i  
+
+ transmissionsvejens overføringsfunktion.
+Det er sædvanligvis  
+
+ mest hensigtsmæssigt at medregne indflydelsen fra reflekterende eller  
+
+ afskærmende flader i støjkildens umiddelbare nærhed til  
+
+ kildebeskrivelsen; dette udtrykkes i retningskorrektionen D  
+
+ LF  
+
+ .
+D  
+
+ LF Retningskorrektionen er forskellen mellem det faktiske  
+
+ lydtrykniveau målt i en bestemt retning og afstand og det  
+
+ lydtrykniveau, en ideel punktkilde med samme lydeffektniveau (vandret) ville  
+
+ have frembragt i den samme retning og afstand og i samme højde over  
+
+ terrænet.
+Definitionen kan skrives:
+LW(F  
+
+ ) = LW + D  
+
+ LF
+  (5.2.1) LW(F  
+
+ ) er kildestyrken i retningen F  
+
+  [dB re 1 pW].
+ LW er støjkildens (totale)  
+
+ lydeffektniveau i en vandret plan [dB re 1 pW].
+ D  
+
+ LF  
+
+  er retningskorrektionen [dB].
+Retningskorrektionen indeholder i denne vejledning  
+
+ både information om, hvordan støjkilden - isoleret set -  
+
+ udsender støj i forskellige retninger, og om hvordan  
+
+ støjkildens umiddelbare omgivelser påvirker dens  
+
+ støjudsendelse3). Ved anvendelse af praktiske  
+
+ målemetoder (jf. afsnit 6) kan disse informationer ikke adskilles.
+I  
+
+ forbindelse med lydudstråling fra bygningsdele eller åbninger i  
+
+ bygninger er det ikke relevant at adskille dem (jf. afsnit 7.2).
+ 3) Definitionen af D  
+
+ LF  
+
+  afviger fra definitionen i [1].
+ Vurderingen af, om en støjkilde er så  
+
+ tæt ved en reflekterende flade, at refleksionen skal regnes med i D  
+
+ LF  
+
+ , sker ved hjælp af referenceboksen, som er defineret i afsnit 6.1.  
+
+ Hvis en støjkilde er så tæt på en (eller to)  
+
+ reflekterende flader, at referenceboksen skal slutte til disse flader,  
+
+ medregnes refleksionernes virkning i D  
+
+ LF  
+
+ . I modsat fald medtages refleksionernes virkning i korrektionsleddet D  
+
+ Lr, jf. afsnit 5.3.4.
+Skøn af D  
+
+ LF Støjkilder, hvis retningskorrektion ikke er kendt,  
+
+ og som er anbragt fjernt fra reflekterende (eller skærmende) flader,  
+
+ bortset fra terrænet, antages ved beregninger af have D  
+
+ LF  
+
+  = 0 dB. (Det giver naturligvis en unøjagtighed på  
+
+ beregningsresultater for kilder med retningsvirkning.) Står en  
+
+ sådan støjkilde umiddelbart foran en lodret reflekterende flade  
+
+ (som er stor i forhold til lydens bølgelængde, for eksempel en  
+
+ bygning), er D  
+
+ LF  
+
+  = 3 dB i alle retninger foran fladen.
+Fladen virker skærmende i  
+
+ retning mod punkter bag fladen.
+D  
+
+ LF  
+
+  beregnes som angivet i udtrykket (7.2.3) i afsnit 7.2.4. Hvis en  
+
+ støjkilde uden kendt retningskorrektion står umiddelbart foran  
+
+ to lodrette reflekterende flader, for eksempel et indadgående  
+
+ hjørne på en bygning, antages D  
+
+ LF  
+
+  = 6 dB ved beregninger i alle retninger foran fladerne.
+For retninger mod  
+
+ punkter bag fladerne beregnes D  
+
+ LF  
+
+  efter (7.2.3).
+ Når virkningen af de lodrette flader nær  
+
+ kilden er medtaget i D  
+
+ LF  
+
+ , ses der bort fra fladernes tilstedeværelse ved de videre  
+
+ beregninger.
+DI Retningskorrektionen D  
+
+ LF  
+
+  er forskellig fra retningsindeks (Directivity Index), DI, der blandt andet  
+
+ bruges i nogle ISO-målemetoder.
+Kendes DI for en støjkilde, for  
+
+ eksempel fra garanterede data eller fra laboratoriemålinger efter [2],  
+
+ og er støjkilden anbragt fjernt fra reflekterende flader (bortset fra  
+
+ terrænet), er D  
+
+ LF  
+
+  = DI - 3 dB (5.2.2) 5.2.2 Korrektion for driftstid Det er i almindelighed fordelagtigt at bestemme  
+
+ kildestyrken af intermitterende støjkilder i en veldefineret  
+
+ stationær driftstilstand.
+Dette gælder eksempelvis  
+
+ trykluftkompressorer og kølemaskiner.
+LAeq Resultatet af beregningerne skal ofte angives som  
+
+ det energiækvivalente lydtrykniveau, LAeq,T, i  
+
+ beregningspunktet over et referencetidsrum T (om aftenen for eksempel en  
+
+ time). Intermitterende støjkilders kildestyrker skal derfor korrigeres  
+
+ for driftstiden, inden de anvendes i beregningsmetoden.
+ Er en støjkilde i drift i tidsrummet ti  
+
+ i løbet af referencetidsrummet T, er den driftstidskorrigerede  
+
+ kildestyrke, L'W(F  
+
+ ):
+L'W(F  
+
+ ) = LW(F  
+
+ ) + 10 log(ti/T) 	(5.2.3) I afsnit 7.3 omtales en række eksempler på  
+
+ driftstidskorrektion, blandt andet i forbindelse med bevægelige  
+
+ støjkilder.
+For støjkilder, som er i uafbrudt drift i hele  
+
+ referencetidsrummet er L'W(F  
+
+ ) = LW(F  
+
+ ) 	(5.2.4) Eksempel En kompressor er i drift i 2 min. ad gangen hvert 10. min.  
+
+ Figur 5.2.1 viser det A-vægtede lydtrykniveau, LpA(t), som  
+
+ funktion af tiden t.
++++ FIGUR +++ Figur 5.2.1 Illustration af intermitterende  
+
+ støj.
+Kildestyrken bestemmes ved måling af lydtrykniveauet  
+
+ i et antal målepunkter tæt ved kompressoren, mens den er i drift.  
+
+ Der måles i driftstiden - 2 min. - i hvert punkt.
+Ud fra disse  
+
+ målinger bestemmes kildestyrken, LW(F  
+
+ ), for kompressoren i kontinuert drift.
+Med den aktuelle driftsform er  
+
+ kompressorens driftstidskorrigerende kildestyrke L'W(F  
+
+ ) = LW(F  
+
+ ) + 10 log(2/10) LW(F  
+
+ ) - 7 dB.
+5.2.3 Gruppering og opdeling af støjkilder Bidraget fra hver enkelt af en virksomheds  
+
+ støjkilder til lydtrykniveauet i beregningspunktet skal beregnes.
+Gruppering I praksis kan det ofte betale sig at slå grupper af  
+
+ ensartede støjkilder sammen og gennemføre én beregning  
+
+ for den resulterende støjkilde.
+Herved reduceres antallet af  
+
+ beregninger.
+Det er desuden i mange tilfælde muligt at se bort fra  
+
+ bidragene fra støjkilder, hvis kildestyrke og/eller placering  
+
+ bevirker, at deres indflydelse på lydtrykniveauet i beregningspunktet  
+
+ er uvæsentlig.
+ Ved vurderingen af, om det er muligt at slå en  
+
+ gruppe af ensartede støjkilder sammen til én ækvivalent  
+
+ punktkilde, uden at beregningsnøjagtigheden reduceres  
+
+ væsentligt, skal der lægges vægt på:
++++ FIGUR +++ Figur 5.2.2 Plan over en gruppe af ensartede  
+
+ støjkilder, som kan grupperes til én ækvivalent  
+
+ punktkilde i S, hvis d > R  
+
+ .
+ Under disse omstændigheder kan støjkilderne,  
+
+ hver med kildestyrken LW(F  
+
+ )j, slås sammen til én ækvivalent punktkilde  
+
+ med kildestyrken LW(F  
+
+ )res:
++++ +++ FORMEL +++ +++	(5.2.5) hvor M er antallet af støjkilder i gruppen.
+ Den ækvivalente punktkilde placeres i midtpunktet af  
+
+ gruppen, se Figur 5.2.2.
+Opdeling Det kan også komme på tale at opdele en  
+
+ udstrakt støjkilde i to eller flere delstøjkilder med hver sin  
+
+ ækvivalente punktkilde.
+Som eksempel på typer af  
+
+ støjkilder, hvor dette ofte vil komme på tale, kan nævnes  
+
+ bygningsfacader, rørledninger og transportbånd.
+Hvis den  
+
+ største udstrækning af støjkilden (R  
+
+ ) ikke er mindre end afstanden til beregningspunktet (d), skal  
+
+ støjkilden deles op i flere delkilder, som hver opfylder dette krav,  
+
+ se Figur 5.2.3.
++++ FIGUR +++ Figur 5.2.3 Opdeling af en bygningsfacade i  
+
+ delkilder, som hver overholder kriterietR  
+
+  < d.
+ En anden situation, hvor det også er  
+
+ nødvendigt at opdele en udstrakt støjkilde i flere delkilder,  
+
+ foreligger ved delvis skærmning, se Figur 5.2.4. I dette tilfælde  
+
+ skal støjkilden opdeles i en uskærmet og en skærmet  
+
+ delkilde.
++++ FIGUR +++ Figur 5.2.4 Opdeling af en bygningsfacade i en  
+
+ uskærmet og en skærmet del.
+ Afgrænsningen mellem den skærmede og den  
+
+ uskærmede del fastlægges normalt ved at projicere skærmen  
+
+ vinkelret ind på den udstrakte kilde.
+Kildehøjden Den ækvivalente punktkilde for en udstrakt  
+
+ støjkilde med jævnt fordelt støjudsendelse placeres 2/3  
+
+ oppe ad den lodrette linie, som deler fladen i to lige store dele, jf.
+Figur  
+
+ 5.2.3. I tilfælde, hvor støjudsendelsen fra en udstrakt  
+
+ støjkilde ikke er jævnt fordelt, vælges den placering af  
+
+ den ækvivalente punktkilde, som bedst repræsenterer  
+
+ støjkilden (det "akustiske tyngdepunkt"). Det kan overvejes at opdele  
+
+ støjkilden i delkilder, som hver for sig har jævnt fordelt  
+
+ støjudsendelse.
+5.3 Transmissionsvej I dette afsnit beskrives det, hvordan man beregner  
+
+ overføringsfunktionen for en transmissionsvej, dvs. det sæt af  
+
+ dB-værdier for oktavbåndene 63 Hz-8 kHz, som man skal lægge  
+
+ til en ækvivalent punktkildes styrke for at få bestemt denne  
+
+ kildes bidrag til støjen i et beregningspunkt.
+5.3.1 Korrektionsled Man beregner en transmissionsvejs  
+
+ overføringsfunktion ved at lægge en række korrektionsled  
+
+ sammen.
+Korrektionsleddene er den beregnede virkning af, hvad der sker med  
+
+ støjen under transmissionen fra kilde til beregningspunkt.
+I denne  
+
+ vejledning er brugt symbolet D  
+
+ L for korrektionsleddene. Årsagen til korrektionen angives ved et  
+
+ indeks.
+For eksempel er D  
+
+ Ls korrektionen for virkningen af skærme.
+I Tabel 5.3.1 er  
+
+ vist de korrektionsled, der bruges i beregningsmetoden.
+ Overføringsfunktionen, der har symbolet 3
+D  
+
+ L, bestemmes som angivet i ligning 5.3.1.
+E
+D  
+
+ L = D  
+
+ Ld + D  
+
+ La + D  
+
+ Ls + D  
+
+ Lr + D  
+
+ Lv + D  
+
+ Li + D  
+
+ Lg 	(5.3.1) Tabel 5.3.1 Oversigt over korrektionsled og symboler.
+Korrektion for virkningenaf Beskrivelse i afsnit D  
+
+ Ld D  
+
+ La D  
+
+ Lr D  
+
+ Ls D  
+
+ Lv D  
+
+ Li D  
+
+ Lg afstand (distance) absorption i luft reflekterende genstande skærmning bevoksning (vegetation) intern spredning terrænoverfladen (ground) 5.3.2 5.3.3 5.3.4 5.3.5 5.3.6 Appendix 5 5.3.7 Beregningsmetoden er indrettet sådan, at  
+
+ korrektionsleddene er middelværdier (på energibasis), dvs. man  
+
+ beregner den middelværdi af støjen i beregningspunktet, man  
+
+ ville kunne bestemme efter at have målt støjen mange gange under  
+
+ forskellige vejrforhold, der alle var inden for den ramme, som er angivet i  
+
+ vejledning nr. 6/1984.
+5.3.2 Afstand, D  
+
+ Ld D  
+
+ Ld er korrektionen for, at lydenergien spredes over et stadigt  
+
+ større areal på vej bort fra kilden.
+D  
+
+ Ld er -6 dB pr. fordobling af afstanden mellem kilde og  
+
+ beregningspunkt.
+D  
+
+ Ld har samme værdi ved alle frekvenser, og den er altid  
+
+ mindre end nul dB.
+D  
+
+ Ld beregnes ved hjælp af ligning (5.3.2). De  
+
+ størrelser, der skal bruges, er vist i Figur 5.3.1. Den vandrette  
+
+ referenceplan vælges i hvert konkret tilfælde.
+Det er lige meget,  
+
+ hvor den anbringes.
+Det er tit lettest at bruge terrænoverfladen  
+
+ på virksomheden som referenceplan, hvis denne er vandret.
+Bemærk, at højderne Hs og  
+
+ Hi måles fra referenceplanen.
+De kan være forskellige  
+
+ fra de højder, der bruges i afsnit 5.3.7.
++++ FIGUR +++ Figur 5.3.1 Lodret snit gennem kilde og  
+
+ beregningspunkt.
+D  
+
+ Ld = -10 log(4p  
+
+ (R2/(R0)2) [dB] 	(5.3.2) R2 = d2 + (Hs -  
+
+ Hi)2  [dB] D  
+
+ Ld	 = korrektion for afstand,  [dB] R 	= afstand mellem kilden S og beregningspunktet I,  
+
+  [m] Ro 	= referenceafstand = 1 m d 	= vandret projektion af R,  [m] Hs 	= kildens højde over den  
+
+ vandrette referenceplan,  [m] Hi 	= beregningspunktets højde over  
+
+ den vandrette referenceplan  [m] 5.3.3 Absorption i luft, D  
+
+ La D  
+
+ La er korrektionen for, at noget af lydenergien blandt andet  
+
+ omdannes til varme ved transmissionen.
+D  
+
+ La er forskellig ved forskellige frekvenser, og den afhænger  
+
+ af luftfugtigheden, atmosfærens tryk og temperaturen.
+D  
+
+ La er altid mindre end eller lig med nul dB.
+ I de situationer, denne vejledning handler om, beregnes  
+
+D  
+
+ La ved hjælp af ligning (5.3.3).
+D  
+
+ La 	= -a
+a @
+  
+
+  R [dB] (5.3.3) a
+a 	= koefficient fra Tabel 5.3.2, [dB/m] R 	= transmissionsvejens længde, Figur 5.3.1)  
+
+[m] Tabel 5.3.2 Dæmpningskoefficienter for 1/1-oktavbånd  
+
+ med centerfrekvens fc, for lufttemperatur 15 ?C og 70 % relativ  
+
+ luftfugtighed.
+63 125 250 500 1000 2000 4000 8000 a
+a [dB/m] 0,000 0,000 0,001 0,002 0,004 0,007 0,017 0,056 5.3.4 Refleksion, D  
+
+ Lr Dette afsnit handler om, hvordan man ved beregning  
+
+ tager hensyn til virkningen af, at støjen reflekteres fra lodrette  
+
+ flader som for eksempel facader af bygninger, se Figur 5.1.2. Støjen  
+
+ reflekteres også fra terrænet, men virkningen af dette tages med  
+
+ i korrektionen for terrænvirkning.
+Beregningsmetoden her behandler reflekterede  
+
+ støjbidrag som bidrag fra selvstændige støjkilder, der er  
+
+ spejlkilder af de rigtige kilder.
+Princippet er vist på planen i Figur  
+
+ 5.3.2. Bidraget, der kommer til punkt I efter at være blevet  
+
+ reflekteret fra bygningens facade, ser ud, som om det kommer fra spejlkilden  
+
+ Sm.
+Spejlkilde Man finder spejlkildens placering ved at gå  
+
+ vinkelret fra kilden S til den reflekterende flade og derefter videre lige  
+
+ så langt på den anden side af den reflekterede flade.
+I Figur  
+
+ 5.3.2 er forlængelsen af bygningens facade brugt ved  
+
+ fastlæggelsen af spejlkildens placering.
++++ FIGUR +++ Figur 5.3.2 Plan der viser, at bidrag til  
+
+ støjen i punkt I ankommer ad to veje.
+Man beregner  
+
+ støjbelastningen i punkt I ved at lægge støjen fra  
+
+ kilde n S sammen med støjen fra spejlkilden Sm.
+Ofte er det meget enkelt at tage bidraget fra refleksion  
+
+ med i beregningen, nemlig når transmissionsvejene nr. 1 og 2 i Figur  
+
+ 5.3.2 er nogenlunde ens, og når kildens retningskorrektion D  
+
+ LF  
+
+  er nul.
+Korrektionen D  
+
+ Lr beregnes ved hjælp af ligning (5.3.4), og D  
+
+ Lr lægges til overføringsfunktionen for  
+
+ transmissionsvej nr. 1. Der skal så ikke medregnes et særligt  
+
+ bidrag fra spejlkilden.
+D  
+
+ Lr er altid større end eller lig med nul dB.
+D  
+
+ Lr = 10 log (1 + r  
+
+ ) [dB] 	(5.3.4) r  
+
+  er refleksionskoefficienten for den reflekterende flade, se Tabel 5.3.3.
+Om transmissionsvejene nr. 1 og 2 er ens, må  
+
+ bedømmes i hvert enkelt tilfælde.
+Der kan ikke gives  
+
+ nøjagtige anvisninger, som er almengyldige.
+Skærmning, forskelle  
+
+ i terrænoverfladen, retningsvirkning hos støjkilden osv. kan  
+
+ give væsentlige forskelle mellem transmissionsvejene.
+ Når transmissionsvejene nr. 1 og 2 i Figur 5.3.2 er  
+
+ væsentligt forskellige, må man beregne bidraget fra spejlkilden  
+
+ Sm og lægge det sammen med de andre støjkilders  
+
+ bidrag til støjen i punkt I.
+ Kildestyrken LW(F  
+
+ )m af spejlkilden bestemmes ved hjælp af ligning  
+
+ (5.3.5).
+LW(F  
+
+ )m = LW(F  
+
+ ') + 10 log r  
+
+  [dB re 1 pW] 	(5.3.5) LW(F  
+
+ ') er styrken af kilden S i retning F  
+
+ ', se Figur 5.3.2-3, [dB re 1 pW].
+ r  
+
+  er refleksionskoefficienten for den reflekterende flade, se Tabel 5.3.3.
++++ FIGUR +++ Figur 5.3.3 Udsnit af Figur 5.3.2 med retning  
+
+F  
+
+ ' fra støjkilden S.
+Refleksionskoefficient I Tabel 5.3.3 er givet nogle værdier af  
+
+ refleksionskoefficienten r  
+
+ . Disse værdier bruges, medmindre det i helt specielle tilfælde  
+
+ kan vises, at andre værdier er mere korrekte.
+Tabel 5.3.3 Anbefalede værdier af refleksionskoefficienten r  
+
+ .
+Reflektionskoefficient r Plan og akustisk hård væg 1 Væg med vinduer og mindre uregelmæssigheder,  
+
+ fremspring o.lign.
+0,8 Væg med åbninger svarende til ca. 50 % af  
+
+ væggens areal, "tætte" installationer som rørledninger  
+
+ o.lign.
+0,4 Akustisk hård cylinder (tank, silo) (R
+o · sin(Y  
+
+ /2)) (2 · dsc) +++ FIGUR +++ R
+o = cylinderdiameter dsc = afstand fra kilde S til centrum C af  
+
+ cylinder dsc << dic Y  
+
+  = vinkel mellem linien SC og linien IC Krav til fladen Den reflekterende flade skal opfylde alle de  
+
+ følgende fem betingelser, før man skal medregne det  
+
+ reflekterede støjbidrag.
+Hvis bare én af betingelserne ikke er  
+
+ opfyldt, ses der bort fra den reflekterede støj ved beregningen.
+ 1. Fladens udstrækning i vandret retning, målt  
+
+ vinkelret på støjens udbredelsesretning, skal være  
+
+ større end lydens bølgelængde ved den betragtede  
+
+ frekvens, dvs.
+Io cos Q
+r > l
+c 	(5.3.6) Se også Figur 5.3.4.
+Io = vandret udstrækning af den  
+
+ reflekterende flade Q
+r = lydens indfaldsvinkel Undertiden skal der derfor medregnes et reflekteret  
+
+ støjbidrag ved høje frekvenser, mens der skal ses bort fra  
+
+ bidraget fra den samme flade ved lave frekvenser.
+ Den vinkel, fladen ses under fra kilden og/eller fra  
+
+ beregningspunktet, skal desuden være 5B  
+
+  eller større.
+ 2. Fladens højde Ho over referenceplanen  
+
+ skal være større end angivet i (5.3.7) eller (5.3.8).
+Ho > Hs + 1/16 dso  
+
+ 	(5.3.7) Ho > Hi + 1/16 dio  
+
+ 	(5.3.8) dso er den vandrette afstand fra kilden til den  
+
+ reflekterende flade.
+ dio er den vandrette afstand fra  
+
+ beregningspunktet til den reflekterende flade.
+Hs er kildens højde over  
+
+ referenceplanen, jf.
+Figur 5.3.1.
+Hi er beregningspunktets højde over  
+
+ referenceplanen, jf.
+Figur 5.3.1.
+ 3. Indfaldsvinklen Q
+r, Figur 5.3.4, skal være mindre end 85B  
+
+ .
+ 4. Refleksionen (punktet F i Figur 5.3.4) skal ske i en  
+
+ vandret afstand, som er l
+c eller mere, fra fladens kanter.
+ 5. Fladen skal være "massiv", dvs. der ses for  
+
+ eksempel bort fra åbne procesanlæg, bevoksninger o.lign.
++++ FIGUR +++ Figur 5.3.4 Plan, der viser nogle af de størrelser, der  
+
+ indgår i betingelserne for, at der skal medregnes reflekteret  
+
+ støjbidrag.
+Gentagne refleksioner Det er som regel nok at medregne støjbidrag, der  
+
+ når hen til beregningspunktet efter en enkelt refleksion, ud over  
+
+ eventuelle refleksioner fra flader tæt ved kilden.
+Der foreligger ikke tilstrækkeligt nøjagtige  
+
+ data om, hvad der sker, når støjen udbreder sig i områder  
+
+ med spredt bebyggelse.
+Dette volder ikke problemer, når  
+
+ beregningspunktet ligger ved "første husrække". I situationer,  
+
+ hvor det er vigtigt at vurdere dæmpningen af støjen ved  
+
+ udbredelse i åben bebyggelse, må der udføres  
+
+ målinger for at få fastlagt korrektioner i stil med D  
+
+ Lv og D  
+
+ Li, afsnit 5.3.6 og appendix 5.
+Refleksion ved beregningspunktet Støjgrænser fastsættes som  
+
+ "frit-felts-værdier". Derfor er refleksioner fra bygningsfacader  
+
+ nær ved beregningspunktet uden interesse ved beregning af støj  
+
+ fra virksomheder.
+Hvis man vil sammenligne beregnings- og  
+
+ måleresultater, må man naturligvis korrigere for virkningen af  
+
+ reflektioner, der sker tæt ved målepositionen.
+Der henvises til  
+
+ vejledning nr. 5/1984 og 6/1984.
+Refleksion ved kilden Virkningen af refleksioner fra flader tæt ved kilden  
+
+ kan være lidt vanskeligere at håndtere.
+Som hovedregel skal det  
+
+ vælges, om en flade tæt ved kilden hører med til kilden,  
+
+ eller om den hører med til det, der sker med støjen under  
+
+ udbredelsen.
+Hvis de kildedata, man har til rådighed, indeholder  
+
+ virkningen af en bygningsfacade tæt ved kilden, skal der selvsagt ikke  
+
+ tages hensyn til facadens virkning en gang til ved beregningen.
+Der henvises  
+
+ i øvrigt til afsnit 5.2.1.
+5.3.5 Skærmning, D  
+
+ Ls Én eller flere skærme Ved beregning af virkningen af skærme skelnes mellem  
+
+ to hovedtilfælde:
+a) Der er én skærm b) Der er mere end én skærm I det følgende beskrives den fremgangsmåde,  
+
+ der skal bruges, når der er én skærm.
+Beregningen af den  
+
+ kombinerede virkning af flere skærme er beskrevet i appendix 3.
+Beregningen gennemføres ved, at man  
+
+ fastlægger den omvej, støjen skal tilbagelægge mellem  
+
+ kilde og beregningspunkt, fordi den direkte vej er afskåret af  
+
+ skærmen.
+Ud fra omvejen fastlægges skærmens virkning.
+ Virkningen af en skærm afhænger af frekvensen.  
+
+ Korrektionen D  
+
+ Ls er altid mindre end eller lig med nul dB.
+ I Figur 5.3.5 er vist nogle af de størrelser, der  
+
+ bruges ved beregningen.
+ Figur 5.3.5 Lodret snit gennem kilde og  
+
+ beregningspunkt med nogle af de størrelser, der bruges ved beregning  
+
+ af skærmkorrektionen D  
+
+ Ls.
++++ FIGUR +++ D  
+
+ Ls Korrektionen D  
+
+ Ls for virkningen af en skærm beregnes ved hjælp af  
+
+ ligning (5.3.9). De indgående størrelser omtales i det  
+
+ følgende.
++++ +++ FORMEL +++ +++ D  
+
+ Ls er altid mindre end eller lig med 0 dB og må ikke  
+
+ medregnes med mindre end -20 dB uanset resultatet af beregningen efter  
+
+ (5.3.9).
+Ch I (5.3.9) er Ch en korrektion, der  
+
+ forhindrer, at man beregner en for stor virkning af lave skærme.  
+
+ Ch er altid større end nul.
+Hvis Ch beregnet ved  
+
+ hjælp af (5.3.10) bliver større end 1, sættes  
+
+ Ch lig med 1.
+Ch = (fc/250) (Ht -  
+
+ Hg) [-] (5.3.10) fc = centerfrekvensen i det betragtede  
+
+ oktavbånd, [Hz] Ht = højden af skærmens overkant,  
+
+[m] Hg = højden af den laveste del af  
+
+ terrænet tæt ved skærmen, [m] Ht og Hg måles over  
+
+ referenceplanen, Figur 5.3.5.
+Nv Nv en er hjælpestørrelse,  
+
+ der beskriver omvejen d
+v i den lodrette plan vist i Figur 5.3.5.
+Nv = 0,0047 · d
+v · fc 	(5.3.11) d
+v = omvej, [m], se (5.3.12) fc = 1/1-oktavbåndets centerfrekvens,  
+
+[Hz] Den værdi af Nv, man beregner ved  
+
+ indsættelse af 1/1-oktavbåndenes centerfrekvens i (5.3.11), er  
+
+ værdien af Nv ved centerfrekvensen i det laveste  
+
+ 1/3-oktavbånd i hver 1/1-oktav.
+d
+v d
+v bestemmes ved hjælp af (5.3.12). De indgående  
+
+ størrelser er vist i Figur 5.3.5.
++++ +++ FORMEL +++ +++ |ST| betyder afstanden mellem punkterne S og T i Figur  
+
+ 5.3.5 osv.
+S og I S er støjkilden, og I er beregningspunktet.
+T Punktet T er skæringspunktet mellem en lodret plan  
+
+ gennem S og I og skærmens overkant, se Figur 5.3.5.
+Q Punktet Q er skæringspunktet mellem skærmens  
+
+ plan og den bane, støjen ville have fulgt under udbredelsen, hvis  
+
+ skærmen ikke havde været der.
+Banen er med tilnærmelse  
+
+ cirkelformet.
+P Punktet P er skæringspunktet mellem den rette linie  
+
+ SI fra kilden til beregningspunktet og skærmens plan.
+D  
+
+ h Punktet Q ligger i højden D  
+
+ h over punktet P.
+D  
+
+ h = (d1 · d2)/(16 · d) [m] 	(5.3.13) d1 = vandret afstand fra kilde til skærm,  
+
+[m] d2 = vandret afstand fra beregningspunkt til  
+
+ skærm, [m] d = d1 + d2 er den vandrette afstand  
+
+ mellem kilde og beregningspunkt, [m] d1, d2 og d måles alle i de  
+
+ lodrette snit vist i Figur 5.3.5.
+Nr og NR Nr og NR  
+
+  er hjælpestørrelser, der beskriver den omvej, støjen  
+
+ må tilbagelægge for at komme rundt om skærmens ender i  
+
+ stedet for at udbrede sig ad den direkte vej fra kilde til  
+
+ beregningspunkt.
++++ +++ FORMEL +++ +++ d
+r og d
+R  
+
+  er omvejene højre og venstre om skærmens ender, se Figur 5.3.6  
+
+ og ligning (5.3.15), [m].
+ fc er centerfrekvensen i det betragtede  
+
+ 1/1-oktavbånd, [Hz].
+d
+r og d
+R +++ +++ FORMEL +++ +++ |SI| = R. |SPr| betyder afstanden fra punkt S  
+
+ til punkt Pr, Figur 5.3.6, osv.
+ Punkterne Pr og P? er projektionerne  
+
+ af punktet P på den højre og venstre kant af skærmen, set  
+
+ fra kilden.
++++ FIGUR +++ Figur 5.3.6 Støjens udbredelsesveje rundt  
+
+ om skærmens ender.
+he Afstanden fra punktet Q til punktet T i Figur 5.3.5  
+
+ er skærmens såkaldte effektive højde, he, dvs.  
+
+ afstanden fra skærmens overkant til den bane, støjen ville  
+
+ følge, hvis skærmen ikke var til stede.
+ he bruges ved beregningen af  
+
+ terrænkorrektionen, afsnit 5.3.7, og ved udvælgelsen af de mest  
+
+ effektive af flere skærme, appendix 3.
+Hvis punktet Q er under punktet T, er den effektive  
+
+ højde større end nul.
+Hvis Q er over T, er he mindre  
+
+ end nul.
++++ +++ FORMEL +++ +++ |PT| betyder afstanden fra punkt P til punkt T, Figur  
+
+ 5.3.5.
+Krav til skærme En skærm skal opfylde nogle krav, før den kan  
+
+ regnes for virksom:
+|PrPR  
+
+ | · sinQ
+s > l
+c = 340/fc (5.3.17) Q
+s er vinklen mellem skærmens plan og den lodrette plan  
+
+ gennem kilde og beregningspunkt.
++++ FIGUR +++ Figur 5.3.7 Plan, der viser  
+
+ skærmens vandrette udstrækning.
+Bygninger og andre skærmende genstande har tit en  
+
+ uregelmæssig form.
+Før man bestemmer de størrelser, der  
+
+ skal bruges i beregningen af D  
+
+ Ls, skal bygninger og genstande erstattes af tænkte, tynde  
+
+ skærme med lige kanter som vist i Figur 5.3.8. Sidekanterne er  
+
+ lodrette.
+Det ene hjørne kaldes L og det andet R.
+Overkanten LR af den  
+
+ tynde skærm er ikke altid vandret.
+Den tænkte, tynde skærm  
+
+ skal have samme højde som eller være lavere end den virkelige  
+
+ skærmende genstand.
++++ FIGUR +++ Figur 5.3.8 Tænkt, tynd  
+
+ skærm, der repræsenterer de virkelige skærm ved  
+
+ beregningen.
+Terræn som skærm Når et bakkedrag virker som skærm, beregnes  
+
+ virkningen som virkningen af en tynd skærm som angivet i appendix  
+
+ 4.
+ Almindeligvis repræsenteres en bygning af en enkelt  
+
+ skærm som vist øverst i Figur 5.3.9. Omvejene d
+r og d
+R  
+
+  bestemmes som vist i appendix 3. Når den vandrette udstrækning  
+
+ d12 er større end (0,2-0,3 · d) hvor d er afstanden fra  
+
+ kilden til beregningspunktet, repræsenteres bygningen ved to tynde  
+
+ skærme som vist nederst i Figur 5.3.9. D  
+
+ Ls beregnes da som beskrevet i appendix 3.
++++ FIGUR +++ Figur 5.3.9 Eksempler på, hvordan  
+
+ en bygning repræsenteres ved tænkte, tynde skærme ved  
+
+ beregningen af D  
+
+ Ls.
+5.3.6 Bevoksning, D  
+
+ Lv Virkningen af bevoksning beregnes ved hjælp af  
+
+ (5.3.18). D  
+
+ Lv afhænger af frekvensen og er altid mindre end eller lig  
+
+ med nul dB.
+D  
+
+ Lv = -nv · a
+v (5.3.18) nv er antallet af grupper af bevoksning,  
+
+[-].
+ a
+v er dæmpningskoefficienten pr. gruppe, [dB], Tabel  
+
+ 5.3.4.
+Tabel 5.3.4 Værdier af a
+v 63 125 250 500 1000 2000 4000 8000 a
+v pr. gruppe [dB/gruppe] 0 0 1 1 1 1 2 3 Korrektionen D  
+
+ Lv medtages i beregningen, når støjen udbreder sig  
+
+ gennem tæt bevoksning.
+Udbredelsen regnes at ske langs krumme baner som  
+
+ vist i Figur 5.3.10. Højden D  
+
+ h over den rette linie fra kilden S til beregningspunktet I er givet ved  
+
+ (5.3.13).
+ En gruppe træer og buske betragtes som tæt,  
+
+ når man ikke kan "se" gennem den, vel at mærke langs den krumme  
+
+ bane i Figur 5.3.10.
+ Bevoksningen skal være mindst 1 m højere end  
+
+ lydbanen.
+Der må højst medregnes 4 grupper af  
+
+ bevoksning ved bestemmelsen af D  
+
+ Lv.
+En skovbevoksning betragtes som et antal grupper af  
+
+ bevoksning. 50 m skovbevoksning medregnes som én gruppe.
+Antallet af  
+
+ grupper af bevoksning svarende til en skovstrækning med vandret  
+
+ udstrækning dv fastlægges som angivet i Figur  
+
+ 5.3.10.
+Værdierne af a
+v i Tabel 3.5.4 gælder for både sommer- og  
+
+ vinterforhold, blot kravet om ugennemsigtighed er opfyldt.
+Er bevoksningen  
+
+ ugennemsigtig om sommeren, men ikke om vinteren, sættes a
+v for vinterforhold lig med det halve af værdierne i Tabel  
+
+ 5.3.4.
++++ FIGUR +++ Figur 5.3.10 Eksempler på antallet  
+
+ nv af gruppen af bevoksning. a) nv = 2. b)  
+
+ nv = dv/50 Når der samtidigt forekommer skærmning og  
+
+ bevoksning, ændres Figur 5.3.10 som vist i Figur 5.3.11. Lydbanen fra  
+
+ skærmtoppen T til beregningspunktet I fastlægges på samme  
+
+ måde som i Figur 5.3.10, dvs. ved anvendelse af (5.3.13), idet punkt T  
+
+ betragtes som støjkilden.
++++ FIGUR +++ Figur 5.3.11 Illustration af  
+
+ ændringen af lydbanen og dermed af dv, når  
+
+ skærmning optræder samtidigt med bevoksning.
+5.3.7 Terræn, D  
+
+ Lg Virkningen af terrænoverfladen mellem kilden S og  
+
+ beregningspunktet I bestemmes som summen af tre korrektionsled:
+D  
+
+ Lg = D  
+
+ Lg,s + D  
+
+ Lg,i + D  
+
+ Lg,c (5.3.19) Korrektionsleddene beregnes ved hjælp af udtrykkene  
+
+ i Tabel 5.3.5. Korrektionsleddene afhænger af frekvensen og af  
+
+ terrænoverfladens karakter.
+Når terrænet er akustisk  
+
+ hårdt, er korrektionsleddene altid større end eller lig med nul  
+
+ dB.
+Når terrænoverfladen er porøs, er korrektionsleddene  
+
+ mindre end eller lig med nul dB, undtagen i 63 Hz-oktaven.
+Eksempler I Figur 5.3.12 er vist nogle eksempler på beregnede  
+
+ værdier af D  
+
+ Lg som funktion af frekvensen.
+Beregningerne er vist for den  
+
+ skitserede situation med 200 m afstand fra kilde til beregningspunkt.  
+
+ Kildehøjden var 2 m og beregningspunktets højde 1,5 m over  
+
+ terræn.
+Terrænets overflade blev varieret.
+Eksemplerne viser, at terrænkorrektionen er meget  
+
+ forskellig for hårdt og for porøst terræn, især ved  
+
+ 250 Hz og 500 Hz.
+I de valgte eksempler er forskellen op til godt 11 dB ved  
+
+ 500 Hz og godt 17 dB ved 250 Hz.
+Energimiddelværdi Beregningsmetoden er opbygget, så den giver  
+
+ middelværdien af de terrænkorrektioner, man kan bestemme ved  
+
+ målinger på forskellige dage, hvor lyden udbreder sig med vinden  
+
+ over typiske terrænoverflader.
+Terrænoverfladens karakter  
+
+ varierer, blandt andet afhængigt af årstid, nedbør  
+
+ osv.
+Man kan derfor ikke forvente at måle lige netop de  
+
+ beregnede terrænkorrektioner ved en enkelt eller nogle ganske få  
+
+ målinger.
+Udfører man mange målinger, kan man derimod  
+
+ forvente at måle middelværdier (på energibasis) svarende  
+
+ til de beregnede.
+D  
+
+ Lg,s I korrektionsleddet D  
+
+ Lg,s tages der hensyn til virkningen af terrænet nær  
+
+ ved kilden S.
+D  
+
+ Lg,s beregnes ved hjælp af udtrykkene i den midterste  
+
+ søjle i Tabel 5.3.5. Kildens højde hs over  
+
+ terrænoverfladen indsættes, hvor der står h i  
+
+ udtrykkene.
+D  
+
+ Lg,i Tilsvarende tages der i leddet D  
+
+ Lg,i hensyn til virkningen af terrænet nær ved  
+
+ beregningspunktet I.
+D  
+
+ Lg,i beregnes ved hjælp af udtrykkene i den midterste  
+
+ søjle i Tabel 5.3.5. Hvor der står h, indsættes  
+
+ beregningspunktets højde hi over  
+
+ terrænoverfladen.
++++ FIGUR +++ Figur 5.3.12 Eksempel på beregnede  
+
+ værdier af terrænkorrektionen.
+D  
+
+ Lg,c I leddet D  
+
+ Lg,c tages der hensyn til virkningen af den "centrale" del af  
+
+ terrænoverfladen, dvs. et område midt mellem kilden og  
+
+ beregningspunktet.
+D  
+
+ Lg,c beregnes ved hjælp af udtrykkene i den højre  
+
+ søjle i Tabel 5.3.5.
+Tabel 5.3.5 Udtryk til beregning af korrektionsleddene D  
+
+ Lg,s, D  
+
+ Lg,i og D  
+
+ Lg,c i forskellige oktavbånd.
+D  
+
+ Lg,s eller D  
+
+ Lg,i [dB] D  
+
+ Lg,c [dB] 63 1,5 3 m 5) 125 1,5 - G @  
+
+  a(h) 1) 3 m(1-Gc) 5) 250 1,5 - G · b(h) 2) 500 1,5 - G · c(h) 3) 1000 1,5 - G · d(h) 4) 2000 1,5 (1 - G) 4000 1,5 (1 - G) 8000 1,5 (1 - G) +++ +++ FORMEL +++ +++ G Størrelsen G i udtrykkene for D  
+
+ Lg i Tabel 5.3.5 afhænger af, om terrænoverfladen er  
+
+ porøs eller akustisk hård.
+ Når terrænoverfladen er porøs,  
+
+ sættes G lig med 1. Når terrænoverfladen er hård,  
+
+ sættes G lig med 0. Når en del af terrænoverfladen er  
+
+ hård, og en del er porøs, sættes G lig med andelen af  
+
+ porøs terrænoverflade.
+Opdeling af terrænet Når værdien af G skal fastlægges,  
+
+ opdeles terrænoverfladen mellem kilde og beregningspunkt i  
+
+ delområder som vist i Figur 5.3.13. Der fastlægges en værdi  
+
+ af G for hvert delområde.
+Dette sker let for plant terræn.  
+
+ Fremgangsmåden i andre situationer er omtalt i Appendix 4.
+Gs Kildedelen, dvs. delområdet nærmest  
+
+ kilden, har en udstrækning ds målt vandret fra kilden.  
+
+ ds er lig med 30 @  
+
+  hs, hvor hs er kildens højde over  
+
+ terrænet.
+Hvis afstanden d mellem kilde og beregningspunkt er mindre  
+
+ end 30 @  
+
+  hs, sættes ds lig med d.
+ Gs fastsættes som den porøse andel  
+
+ af terrænoverfladen inden for kildedelen.
+Gi Delområdet nær beregningspunktet har en  
+
+ udstrækning di målt vandret fra beregningspunktet.  
+
+ di er lig med 30 @  
+
+  hi, hvor hi er beregningspunktets højde over  
+
+ terrænet.
+Hvis afstanden d mellem kilde og beregningspunkt er mindre  
+
+ end 30 @
+  
+
+  hi, sættes di lig med d.
+ Gi fastsættes som den porøse andel  
+
+ af terrænoverfladen inden for delområdet nær  
+
+ beregningspunktet.
+Gc Den centrale del af terrænoverfladen er  
+
+ delområdet mellem kildedelen og delområdet nær  
+
+ beregningspunktet.
+Hvis afstanden mellem kilde og beregningspunkt er mindre  
+
+ end eller lig med 30 gange summen af kildehøjde og beregningspunktets  
+
+ længde, d #  
+
+  30 (hs + hi), eksisterer der ingen central del.
+Dette  
+
+ er vist nederst i Figur 5.3.13, hvor kildedel og beregningspunktdel  
+
+ overlapper hinanden mere eller mindre.
+ Figur 5.3.13 Lodret snit gennem kilde og  
+
+ beregningspunkt med opdeling af terrænoverfladen i  
+
+ delområder.
++++ FIGUR +++ Gc fastsættes som den porøse andel  
+
+ af den centrale del af terrænoverfladen.
+Hårdt terræn Asfalt, beton, brolægning, vand og  
+
+ terrænoverflader med mange genstande, der spreder lydenergien, er  
+
+ akustisk hårde.
+I reglen er terrænoverfladen på  
+
+ virksomheders areal akustisk hårdt.
+Dette gælder også for  
+
+ tage på industribygninger.
+Porøst terræn Alle terrænoverflader, hvor en bevoksning vil kunne  
+
+ gro, og hvor der samtidig kun findes få genstande, der spreder  
+
+ lydenergien, regnes for porøse.
+Det gælder for eksempel  
+
+ græsbevoksede flader, landbrugsjord med eller uden bevoksning, skove,  
+
+ hedestrækninger og haver.
+Delvis porøst terræn Der kan ikke regnes på virkningen af overflader som  
+
+ for eksempel gruspladser og -veje, der akustisk set er en mellemting mellem  
+
+ de hårde og de porøse flader.
+Alle delområder skal  
+
+ karakteriseres som enten hårde eller porøse.
+Grusbelagte  
+
+ kørearealer og lignende skal regnes som hårde.
+Virkningen af  
+
+ områder med både hårde og porøse delområder  
+
+ beregnes ved interpolation ved hjælp af faktoren G.
+Højde over terræn Højderne hs og hi af kilden  
+
+ og beregningspunktet er højderne over terrænoverfladen, i  
+
+ modsætning til højderne Hs og Hi (afsnit  
+
+ 5.3.5), der er højderne over en referenceplan.
+Funktionerne a(h) b(h) c(h) d(h) Funktionerne a(h), b(h), c(h) og d(h) i Tabel 5.3.5 bruges  
+
+ ved beregningen af korrektionerne for terrænets virkning i  
+
+ oktavbåndene 125-1000 Hz.
+Deres værdier er vist i Figur 5.3.14-15  
+
+ som funktion af afstanden d og med højden h eller hi +  
+
+ hs som parameter.
+ Figur 5.3.14 Funktionerne a(h), b(h),  
+
+ c(h) og d(h) fra Tabel 5.3.5 beregnet for forskellige værdier af h som  
+
+ funktion af afstanden d.
++++ FIGUR +++ Figur 5.3.15 Funktionen m fra Tabel 5.3.5  
+
+ beregnet for forskellige værdier af hs + hi som  
+
+ funktion af afstanden d.
++++ FIGUR +++ Skærmning og terræn Hvis kildehøjden hs er mindre end 5 m,  
+
+ og der samtidigt forekommer skærmning med positiv effektiv højde  
+
+ he af skærmen, indsættes en korrigeret  
+
+ kildehøjde Korrigeret højde hs + he (1 - dss/d)  
+
+ 	(5.3.20) i funktionerne i Tabel 5.3.5.
+ dss er afstanden fra kilde til skærm.
+ d er afstanden fra kilde til beregningspunkt.
+Korrektionen af kildehøjden bevirker en  
+
+ formindskelse af virkningen af terrænet.
+Hvis der indgår mere end  
+
+ én skærm i beregningen af D  
+
+ Ls, indsættes den effektive højde af den skærm,  
+
+ som er nærmest kilden i (5.3.20) På samme måde korrigeres beregningspunktets  
+
+ højde i funktionerne i Tabel 5.3.5 til hi + he (1 - dis/d)  
+
+ 	(5.3.21) dis er afstanden fra beregningspunktet til den  
+
+ nærmeste skærm.
+I Figur 5.3.16 er vist et eksempel på, hvad det kan  
+
+ betyde at korrigere højderne hs og hi.
+Figuren  
+
+ viser betydningen for D  
+
+ Lg af, at der bygges en 5 m høj skærm 10 m fra en  
+
+ støjkilde, der er 2 m over terræn.
+Afstanden d fra kilde til  
+
+ beregningspunkt er 50 m, og beregningspunktets højde er 1,5 m.  
+
+ Skærmen ændrer terrænkorrektionen med ca. 3 dB ved 250 Hz  
+
+ og 500 Hz.
+ Figur 5.3.16 Eksempel på D  
+
+ Lg med og uden skærm.
++++ FIGUR +++ 6. Måling af kildestyrke 6.1 Oversigt og generelle forhold Beregning af støjbelastningen i en virksomheds  
+
+ omgivelser foretages på grundlag af styrken af virksomhedens  
+
+ støjkilder.
+Kildestyrken af virksomhedens støjende anlæg  
+
+ skal måles under normal drift.
+Der forudsættes at være  
+
+ stationære støjforhold under kildestyrkemålingerne.
+I  
+
+ almindelighed skal kildestyrken måles ved anvendelse af en af de her  
+
+ omtalte metoder.
+I nogle tilfælde skal målingerne suppleres med  
+
+ beregninger, jf. afsnit 7, og i andre tilfælde - især i  
+
+ forbindelse med planlægning o.lign., hvor en mindre nøjagtighed  
+
+ kan accepteres - kan oplysninger fra håndbøger, kataloger m.v.  
+
+ anvendes.
+Det må fremhæves, at nøjagtigheden af  
+
+ den beregnede støjbelastning ikke er bedre end nøjagtigheden af  
+
+ de anvendte forudsætninger, herunder kildestyrken.
+Hvis kildestyrken er  
+
+ behæftet med en stor usikkerhed, vil den beregnede  
+
+ støjbelastning også være det.
+Til måling af kildestyrke skal en af de  
+
+ nedennævnte metoder benyttes.
+Metoderne har forskellige  
+
+ begrænsninger og benyttes til forskellige typer af støjkilder  
+
+ eller i forskellige situationer.
+Oversigt over målemetoder En række definitioner og generelle forhold, som er  
+
+ fælles for flere af de beskrevne metoder, er samlet i dette afsnit.
+Det  
+
+ drejer sig om:
+6.1.1 Måleudstyr Måleresultaterne er energiækvivalente  
+
+ lydtrykniveauer i 1/1-oktavbåndene med centerfrekvenser mellem 63 Hz og  
+
+ 8000 Hz, samt totalt A-vægtet.
+De anvendte måleinstrumenter skal  
+
+ være i stand til at registrere disse størrelser under de i  
+
+ praksis forekommende målebetingelser.
+Under gunstige  
+
+ omstændigheder kan måleresultaterne aflæses på  
+
+ stedet, for eksempel ved anvendelse af en integrerende lydtrykmåler  
+
+ tilkoblet et oktavbåndsfilter, men ofte benyttes der med fordel en  
+
+ målekæde, som mindst omfatter: mikrofon - båndoptager -  
+
+ frekvensanalysator (måleforstærker med oktavbåndsfilter,  
+
+ parallelanalysator eller lignende). Det må forventes, at  
+
+ intensitetsanalysator med probe og printer kan blive et nyttigt  
+
+ hjælpemiddel.
+Det skal altid angives i målerapporten, hvilke  
+
+ instrumenter der har været i brug ved dataindsamling og databehandling.  
+
+ Instrumenterne beskrives ved fabrikat, typenr. og identifikationsnr.
+Det  
+
+ angives, hvornår instrumentet senest er kontrolleret og/eller  
+
+ rekalibreret.
+ Instrumentindstillinger, som har særlig betydning  
+
+ for måleresultaterne, skal beskrives i målerapporten, for  
+
+ eksempel tidsvægtning, samplingprocedure og programmering af digitalt  
+
+ udstyr etc.
+ Alle instrumenter skal betjenes efter de retningslinier,  
+
+ som er givet af fabrikanten.
+Specifikationer Den samlede målekæde skal opfylde IEC  
+
+ publikation 804 for integrerende lydtrykmålere, type 1 instrument.
+I  
+
+ tilfælde, hvor der måles stationær støj, kan i  
+
+ stedet henvises til IEC publikation 651, type 1. Oktavbåndsfiltre,  
+
+ parallelanalysator eller frekvensanalysator skal opfylde IEC publikation  
+
+ 225.
+Mikrofonen bør under måling altid være  
+
+ forsynet med vindskærm.
+I tilfælde, hvor det er  
+
+ påkrævet at måle vindhastigheden (ekstrapolationsmetoden,  
+
+ kuglemetoden), anbefales det at anvende vindretnings- og  
+
+ vindhastighedsfølere koblet til en registrerende enhed, der  
+
+ muliggør bestemmelse af såvel middelvindretning som  
+
+ middelvindhastighed over 10 min. perioder.
+Kalibrering Måleopstillingen skal kalibreres af brugeren i  
+
+ overensstemmelse med fabrikantens anvisninger i betjeningsvejledningen for  
+
+ hvert enkelt instrument.
+ Hele det akustiske målesystem skal kalibreres ved  
+
+ mindst én frekvens med passende mellemrum; som minimum ved begyndelse  
+
+ og afslutning af en måling.
+Instrumentkontrol Instrumenterne skal kontrolleres jævnligt efter de  
+
+ til enhver tid gældende retningslinier, sædvanligvis én  
+
+ gang om året.
+Kontrollen skal give sporbar dokumentation for  
+
+ instrumenternes tilstand på tidspunktet for kontrollens  
+
+ udførelse.
+Nærmere oplysninger kan fås hos  
+
+ Miljøstyrelsen eller Referencelaboratoriet.
+Lydtrykmålere, mikrofoner, båndoptagere og  
+
+ oktavbåndsfiltre bør kontrolleres mindst én gang hvert  
+
+ andet år.
+Akustiske kalibratorer bør kontrolleres mindst  
+
+ én gang årligt.
+Overvågning Under målingerne bør det sikres, at  
+
+ signalernes vej gennem måleopstillingen er stabil samt fri for  
+
+ forvrængning og elektrisk støj.
+I tilfælde, hvor ikke alle instrumenter i en  
+
+ måleopstilling er udstyret med overstyringsindikatorer, er det  
+
+ hensigtsmæssigt at anvende spidsværdivisende instrumenter eller  
+
+ en anden form for indikation af overstyring af instrumenterne.
+Medhør  
+
+ - eventuelt ved hjælp af hovedtelefoner - vil på enkel vis kunne  
+
+ afsløre ustabile forbindelser, forvrængning samt elektrisk  
+
+ støj i måleopstillingen.
+Medhøret medvirker desuden til  
+
+ at sikre, at støj fra uvedkommende støjkilder ikke får  
+
+ indflydelse på måleresultaterne.
+6.1.2 Afgrænsning af støjkilde Støjkilden skal i almindelighed afgrænses,  
+
+ så den er så lille som muligt.
+Der opnås en bedre  
+
+ nøjagtighed ved at måle hver enkelt kilde i en gruppe og  
+
+ eventuelt efterfølgende slå kilderne sammen end ved at betragte  
+
+ flere støjkilder eller en udstrakt installation som én  
+
+ støjkilde.
+Praktiske forhold gør det imidlertid ofte  
+
+ nødvendigt at anvende den sidste fremgangsmåde.
+Referenceboks I flere af målemetoderne anvendes begrebet  
+
+ referenceboks til at afgrænse en støjkilde.
+ Referenceboksen er en tænkt flade, som netop  
+
+ omslutter støjkilden, og som ender på den eller de  
+
+ nærliggende reflekterende flade(r). Der ses bort fra dele af  
+
+ støjkilden, som ikke bidrager til støjudsendelsen.  
+
+ Referenceboksen har i almindelighed 3-6 frie sider, men den kan udarte til en  
+
+ enkelt flade, se Figur 6.1.1.
+Karakteristik dimension Referenceboksen karakteriseres ved størrelsen  
+
+ do (den karakteristiske dimension) vist i Figur 6.1.2.  
+
+ do beregnes efter (6.1.1).
++++ FORMEL +++ +++ FORMEL +++ +++ FORMEL +++ +++ FORMEL +++ Referenceboksen skal vælges så lille, at den  
+
+ netop indeholder de støjudstrålende dele.
+Den skal føres  
+
+ ind på nærliggende reflekterende flader, når det ikke med  
+
+ rimelighed er muligt at anbringe målepunkter mellem den reflekterende  
+
+ flade og støjkilden.
++++ FIGUR +++ Figur 6.1.1 Eksempel på referenceboks, angivet som prikket  
+
+ linie.
++++ FIGUR +++ Figur 6.1.2 Eksempler på  
+
+ referencebokse og angivelse af karakteristisk dimension, do.
+6.1.3 Målebetingelser For at der kan foretages en gyldig omregning fra de  
+
+ målte lydtrykniveauer rundt om en støjkilde til en kildestyrke,  
+
+ skal en række målebetingelser være opfyldt.
+Omgivelser Kuglemetoden (afsnit 6.2) og kassemetoden (afsnit 6.3) har  
+
+ som generelle forudsætninger, at lyden kan udbrede sig frit i de  
+
+ retninger, hvor lydudbredelsen ikke er hindret af reflekterende flader i  
+
+ nærheden af støjkilden.
+Der må altså ikke forekomme  
+
+ andre reflekterende flader end de flader, som referenceboksen ender  
+
+ på.
+Omgivelseskorrektion Svarer omgivelserne ikke hertil, skal  
+
+ måleresultaterne korrigeres for omgivelsernes indflydelse.
+Denne  
+
+ korrektion benævnes omgivelseskorrektionen, K, og angives i dB.
+Omgivelseskorrektionen kan måles som omtalt i det  
+
+ følgende, der er en videre bearbejdning af en metode specificeret i  
+
+[2].
+Der benyttes en referencelydkilde, hvis kildestyrke kendes fra en  
+
+ måling (kalibrering) udført i et frit felt over en reflekterende  
+
+ plan.
+Referencelydkilden placeres på støjkildens  
+
+ plads, og dens kildestyrke bestemmes ved måling i de samme  
+
+ målepositioner og i øvrigt på samme måde som ved  
+
+ målingen af støjkildens kildestyrke.
+Omgivelseskorrektionen  
+
+ bestemmes derpå som forskellen (pr. 1/1-oktav og pr. målepunkt)  
+
+ mellem den målte kildestyrke af referencelydkilden og kildestyrken  
+
+ bestemt ved kalibreringen korrigeret med 0 dB, +3 dB eller +6 dB  
+
+ afhængigt af, om støjkilden er placeret på en flade, ved  
+
+ en kant eller i et hjørne.
+ Hvis der er tvivl om, hvor det er bedst at placere  
+
+ referencelydkilden "på støjkildens plads", anbefales det at  
+
+ bruge flere placeringer og bestemme middelværdien af  
+
+ omgivelseskorrektionerne.
+Måling af omgivelseskorrektionen er i bedste fald  
+
+ meget omstændelig.
+Sædvanligvis skønnes dens  
+
+ størrelse på grundlag af teoretiske betragtninger.
+Som  
+
+ støtte for disse skal her anføres:
+K (63 Hz) = 0 dB K (125 Hz-8 kHzj  
+
+ - 3 dB	(6.1.2) K = 10 log [1 + (25 @  
+
+  te @  
+
+  S)/V] dB 	(6.1.3) Jo større værdi K antager, desto mindre er  
+
+ målenøjagtigheden.
+I kugle- og kassemetoden (afsnit 6.2 og 6.3)  
+
+ tillades ikke resultater opnået, hvor K har været 7 dB eller  
+
+ større.
+6.1.4 Korrektion for baggrundsstøj I forbindelse med måling af lydtrykniveauet i  
+
+ punkter rundt om en støjkilde skal baggrundsstøjniveauet i  
+
+ mindst ét af punkterne også måles.
+Baggrundsstøjniveauet kan måles ved at  
+
+ afbryde støjkilden.
+I tilfælde hvor dette ikke kan lade sig  
+
+ gøre, skal baggrundsstøjniveauet skønnes, og det skal  
+
+ anføres i rapporten.
+ Korrektion for baggrundsstøjen foretages som  
+
+ angivet i vejledning fra Miljøstyrelsen nr. 6/84 "Måling af  
+
+ ekstern støj fra virksomheder", afsnit 3.3.
+ I kuglemetoden, kassemetoden og ekstrapolationsmetoden  
+
+ kræves det, at baggrundsstøjniveauet skal være mindst 3 dB  
+
+ lavere end totalstøjniveauet (lydtrykniveauet fra støjkilden og  
+
+ baggrundsstøjen tilsammen). I procesanlægsmetoden er  
+
+ foreskrevet, at baggrundsstøjniveauet skal være mindst 6 dB  
+
+ lavere end totalstøjniveauet.
+Er disse betingelser ikke overholdt, kan korrektionen for  
+
+ baggrundsstøjens indflydelse ikke udføres med  
+
+ tilstrækkelig nøjagtighed.
+Målingerne må gentages  
+
+ på et tidspunkt eller i en afstand fra støjkilden, hvor  
+
+ baggrundsstøjens indflydelse er mindre.
+Hvis det ikke er muligt at  
+
+ gentage målingerne, anføres de ukorrigerede resultater tillige  
+
+ med en bemærkning om, at lydtrykniveauet er stærkt påvirket  
+
+ af baggrundsstøj.
+6.1.5 Ækvivalent punktkilde Ved beregning af ekstern støj fra virksomheder  
+
+ erstattes alle virkelige støjkilder på virksomheden med  
+
+ ækvivalente punktkilder.
+Hver ækvivalent punktkilde er  
+
+ karakteriseret ved sin kildestyrke og sin placering.
+Placering af ækvivalent punktkilde Sædvanligvis placeres den ækvivalente  
+
+ punktkilde noget højere end midtpunktet af referenceboksen.  
+
+ Punktkildens projektion på terrænoverfladen er punkt "O" i Figur  
+
+ 6.1.2, og højden er R
+3 H  
+
+  2/3. Hvis R
+3 er vinkelret på en lodret flade, anvendes i stedet  
+
+ afstanden R
+3/2 fra denne flade.
+Hvis støjkilden indeholder en identificerbar  
+
+ dominerende delstøjkilde, vælges dennes placering som den  
+
+ ækvivalente punktkildes placering.
+Valget og begrundelsen herfor  
+
+ rapporteres.
+6.1.6 Nøjagtighed på bestemmelse af  
+
+ kildestyrke En lang række faktorer har afgørende  
+
+ indflydelse på, hvor nøjagtig en måling af kildestyrken  
+
+ kan forventes at være.
+ Forhold som:
+medfører generelt en god nøjagtighed  
+
+ på bestemmelsen af kildestyrken.
+Under mindre gunstige  
+
+ omstændigheder er kildestyrken behæftet med en større  
+
+ ubestemthed.
+I mange tilfælde bevirker dårlige akustiske forhold,  
+
+ at kildestyrken bliver overestimeret.
+For støjkilder, som ikke sender lige meget lyd ud i  
+
+ alle retninger, opnås den bedste nøjagtighed ved brug af en  
+
+ målemetode, som gør det muligt at bestemme en retningskorrektion  
+
+ (kuglemetoden, afsnit 6.2, eller ekstrapolationsmetoden, afsnit 6.5). Den  
+
+ fejl, der begås ved ikke at tage hensyn til en støjkildes  
+
+ retningsegenskaber, kan være både positiv og negativ.
+Især  
+
+ kan positive fejl (overestimering af kildestyrken i nogle retninger)  
+
+ forekomme ved delvist afskærmede støjkilder, mens store negative  
+
+ fejl er mindre sandsynlige.
+ Der kan under gunstige omstændigheder regnes med en  
+
+ ubestemthed på omkring 3 dB på den totale A-vægtede  
+
+ kildestyrke og i de midterste 1/1-oktavbånd (250 Hz-2 kHz), mens  
+
+ ubestemtheden ved lave og høje frekvenser må forventes at  
+
+ være større, f.eks. 5 dB.
+Ved anvendelse af kuglemetoden eller  
+
+ ekstrapolationsmetoden kan det i de fleste tilfælde forventes, at  
+
+ ubestemtheden vil være omkring 3 dB.
+Metoden til procesanlæg  
+
+ (afsnit 6.4) kan i tilfælde, hvor den gennemsnitlige måleafstand  
+
+ er tilstrækkelig stor +++ FORMEL +++, forventes at give resultater med  
+
+ en tilsvarende ubestemthed.
+Kassemetoden (afsnit 6.3) må derimod i  
+
+ almindelighed forventes at give resultater med en ubestemthed på  
+
+ omkring 5 dB, fordi metoden især finder anvendelse i situationer med  
+
+ dårlige akustiske forhold.
+6.2 Kuglemetoden Kuglemetoden til måling af kildestyrke for  
+
+ industrielle støjkilder er oprindeligt beskrevet i [3] som "Long  
+
+ Distance Method". Den finder anvendelse på støjkilder, som er  
+
+ anbragt under så gode akustiske forhold, at målingerne kan  
+
+ gennemføres i en afstand fra støjkilden, som er større  
+
+ end 2 gange den karakteristiske dimension, do.
+Dette stiller dels  
+
+ krav til baggrundsstøjniveauet i omgivelserne, dels krav om  
+
+ uforstyrrede lydudbredelsesforhold.
+ Under sådanne forhold giver metoden de mest  
+
+ nøjagtige resultater af de her anførte målemetoder.  
+
+ Metoden giver desuden oplysninger om støjkildens  
+
+ retningsegenskaber.
+6.2.1 Måleflade Målefladen er en kugle, når der ikke er  
+
+ reflekterende flader i nærheden af referenceboksen.
+Dette  
+
+ tilfælde optræder sædvanligvis ved skorstene og frit  
+
+ placerede, høje luftafkast, jf. eksemplet i afsnit 6.2.9. Når  
+
+ referenceboksen ender på én reflekterende flade (f.eks.  
+
+ terrænet), er målefladen en halvkugle (Figur 6.2.1 a). For en  
+
+ referenceboks i en kant eller et hjørne er målefladen 1/4-kugle  
+
+ (Figur 6.2.1 b) henholdsvis 1/8-kugle (Figur 6.2.1 c).
+ Centrum for kuglefladen er midtpunktet af referenceboksen  
+
+ og dens spejlbilleder i de tilstødende reflekterende flader, punktet  
+
+ "O" i Figur 6.1.2.
+Kuglefladens radius R vælges så stor, som de  
+
+ praktiske forhold (baggrundsstøj, akustisk kvalitet af omgivelserne  
+
+ m.m.) tillader.
+Følgende krav skal opfyldes:
+R $  
+
+  2 · do 	(6.2.1) Desuden skal ethvert punkt på kuglefladen være  
+
+ mindst 1 m fra referenceboksen.
++++ FIGUR +++ Figur 6.2.1 Kugleformede måleflader  
+
+ for referenceboks på en plan, i en kant og et hjørne.  
+
+ Primære målepunkter er vist med åbne boller (lukkede boller  
+
+ angiver supplerende målepunkter).
+6.2.2 Vejrbetingelser Vejret under målingernes udførelse har  
+
+ også indflydelse på, hvor stor målefladens radius R kan  
+
+ vælges.
+Denne sammenhæng er angivet i Tabel 6.2.1.
+Tabel 6.2.1 Krav til vejret under målingen efter kuglemetoden  
+
+ og dertil hørende største værdi af R.
+Retning Temperaturgradient Største R [m] 2-6 Medvind (!  
+
+ 90)  
+
+ ) Uden betydning Ubegrænset 2-6 Modvind (!  
+
+ 90)  
+
+ ) Uden betydning 50 m 0-2 Uden betydning Positiv Ubegrænset 0-2 Uden betydning Negativ 50 m Vindhastigheden måles i et frit beliggende punkt, 2  
+
+ m over terrænoverfladen.
+Temperaturgradienten skønnes med  
+
+ tilstrækkelig nøjagtighed ud fra tidspunktet på  
+
+ døgnet: Om dagen er den negativ og om natten positiv.
+I denne  
+
+ forbindelse er dagtidsrummet mellem solopgang og solnedgang.
+6.2.3 Primære målepunkter Det kan være nødvendigt at ændre  
+
+ målepunkter eller helt at udelade enkelte punkter på grund af  
+
+ lokale forstyrrende forhold.
+Sådanne ændringer skal altid  
+
+ anføres i rapporten.
+Ved tilrettelæggelse af målingerne  
+
+ skal der lægges vægt på at undgå udeladelse af  
+
+ målepunkter i retninger mod særligt kritiske  
+
+ beregningspunkter.
+6.2.4 Supplerende målepunkter På en kugle- eller halvkugleformet måleflade  
+
+ skal der, hvis forskellen mellem det A-vægtede lydtrykniveau i to  
+
+ vilkårlige primære målepunkter overstiger 6 dB,  
+
+ vælges 4 supplerende målepunkter i samme højde som de  
+
+ primære og anbragt jævnt fordelt imellem dem.
+Jf.
+Figur 6.2.1  
+
+ a.
+På tilsvarende vis skal der for 1/4- og  
+
+ 1/8-kugleformede måleflader vælges to supplerende  
+
+ målepunkter.
+Disse placeres som vist med lukkede boller i Figur 6.2.1 b  
+
+ og c.
+6.2.5 Måling af lydtrykniveau I hvert af de valgte målepunkter måles det  
+
+ energiækvivalente lydtrykniveau i hvert 1/1-oktavbånd mellem 63  
+
+ Hz og 8 kHz samt totalt A-vægtet.
+For støjkilder, som udsender  
+
+ stationær støj, er det i reglen tilstrækkeligt at  
+
+ integrere over 1 minut.
+For intermitterende støjkilder skal der  
+
+ integreres over et helt antal perioder.
+Det er ofte fordelagtigt at foretage  
+
+ en båndoptagelse af støjen og gennemføre frekvensanalysen  
+
+ senere.
+ Desuden skal baggrundsstøjniveauet måles i  
+
+ mindst ét målepunkt.
+ Måleresultaterne korrigeres for baggrundsstøj  
+
+ (jf. afsnit 6.1.4), og energimiddelværdien beregnes:
++++ FORMEL +++ hvor N er antallet af målepunkter, og Lpi  
+
+ er det korrigerende lydtrykniveau pr. 1/1-oktav i målepunkt nr. i.
+6.2.6 Kontrol af omgivelsernes akustiske kvalitet Hvis der er tvivl om, hvorvidt de akustiske omgivelser er  
+
+ tilstrækkeligt ideelle, skal samtlige målinger gentages med en  
+
+ måleflade, hvis frie overfladeareal er omkring det dobbelte af den  
+
+ først valgte måleflades.
+ Hvis energimiddelværdien af de nye  
+
+ måleresultater (korrigeret for baggrundsstøj) er mindst 1 dB  
+
+ lavere end den tilsvarende middelværdi af de oprindelige resultater, er  
+
+ omgivelserne i orden.
+Hvis dette ikke er tilfældet, skal der bestemmes en  
+
+ korrektion, K, for omgivelsernes indflydelse efter anvisningerne i afsnit  
+
+ 6.1.3. Ofte er korrektionen forskellig i de forskellige målepunkter.
+I  
+
+ tilfælde, hvor der skal bestemmes en sådan korrektion, skal der  
+
+ beregnes en ny, korrigeret energimiddelværdi efter (6.2.3), der bruges  
+
+ i stedet for energimiddelværdien i (6.2.2).
++++ FORMEL +++ hvor N er antallet af målepunkter, Lpi er  
+
+ lydtrykniveauet korrigeret for baggrundsstøj i målepunkt nr. i,  
+
+ og Ki er den tilhørende omgivelseskorrektion.
+6.2.7 Beregning af kildestyrke Overfladearealet af den frie del af målefladen (S)  
+
+ bestemmes:
++++ FORMEL +++ Den totale kildestyrke er da:
+LW = p + 10 log S   [dB re 1 pW]  
+
+ (6.2.5) Retningskorrektionen D  
+
+ LF  
+
+  kan beregnes for retningerne fra støjkilden gennem  
+
+ målepunkterne.
+I tilfælde, hvor forskellen mellem det  
+
+ A-vægtede lydtrykniveau i to målepunkter overstiger 6 dB, skal  
+
+D  
+
+ LF  
+
+  beregnes.
++++ FORMEL +++ 6.2.8 Eksempel, tagventilator Kildestyrken af en tagventilator, som er anbragt nær  
+
+ kanten af et tag, skal bestemmes.
+Ventilatorens ydre mål og anbringelse  
+
+ er vist i Figur 6.2.2. Der er ikke forstyrrende reflekterende flader eller  
+
+ støjkilder umiddelbart i nærheden.
+ På grund af de gunstige akustiske omgivelser er det  
+
+ muligt at bruge kuglemetoden til målingen.
+ Tagfladen betragtes som reflekterende, og referenceboksen  
+
+ får dimensionerne R
+1 x R
+2 x R
+3 = 1,8 m x 1,8 m x 0,79 m og den karakteristiske dimension  
+
+ do = 1,5 m.
+ Den mindste måleafstand er R = 2 ·do = 3  
+
+ m og den hertil svarende højde (over taget) 1,8 m.
++++ FIGUR +++ Figur 6.2.2 Opstalt af tagventilator,  
+
+ mål i meter.
+På grund af ventilatorens symmetri er det ikke  
+
+ nødvendigt at måle i 4 punkter rundt om ventilatoren; der  
+
+ måles i 1-2 punkter, hvor omgivelserne er gunstigst.
+I Figur 6.2.3 er  
+
+ vist, hvilke reflekterende flader der kan have indflydelse.
++++ FIGUR +++ Figur 6.2.3 Plan over tagflade med  
+
+ ventilator og reflekterende flader.
+I den øverste og højre del af  
+
+ målefladen (se på Figur 6.2.3) vil der i større eller  
+
+ mindre grad forekomme lydrefleksion fra den runde beholder (kl. 11 - kl. 4),  
+
+ mens taghuset ikke bidrager med refleksion.
+Det meste af den venstre del af  
+
+ målefladen kan ikke benyttes, fordi den reflekterende flade mangler,  
+
+ hvilket giver anledning til målefejl (kl. 7 - kl. 11). Heraf ses, at  
+
+ det vil være fordelagtigt at udføre målinger i 1-2 punkter  
+
+ nederst på målefladen (mellem kl. 4 og kl. 7).
+6.2.9 Eksempel, skorsten Måling af kildestyrken af skorstensmundinger og  
+
+ tilsvarende støjkilder er et vanskeligt arbejde, hvilket ikke mindst  
+
+ skyldes problemerne med at anbringe og overvåge en målemikrofon i  
+
+ nærheden af skorstenstoppen.
+Den foreliggende viden tillader imidlertid  
+
+ ikke, at kildestyrken estimeres på grundlag af målinger af  
+
+ lydtrykniveauet inde i røgrøret.
+Skorstensåbninger har en betydelig lodret  
+
+ retningsvirkning; lydudstrålingen er forskellig målt i  
+
+ forskellige vinkler med lodret.
+Parametre som røggassens hastighed og  
+
+ temperatur og skorstenenes dimensioner har stor indflydelse på  
+
+ retningsvirkningen.
+ På det foreliggende grundlag anbefales  
+
+ følgende fremgangsmåde ved måling af  
+
+ skorstensåbningers kildestyrke:
+LW = p + 10 log (4p  
+
+  R2) (6.2.7) +++ FIGUR +++ Figur 6.2.4 Målepunkter ved  
+
+ måling af kildestyrken af skorsten.
+6.3. Kassemetoden Kassemetoden er især velegnet til støjkilder  
+
+ anbragt under mindre ideelle akustiske forhold, f.eks. på steder med  
+
+ højt baggrundsstøjniveau, eller hvor der er mange reflekterende  
+
+ flader.
+Ved store støjkilder og/eller tæt ved en  
+
+ støjkilde kræver den, at der måles i mange punkter.  
+
+ Målemetoden giver ikke oplysninger om støjkildens  
+
+ retningsegenskaber.
+ Under mindre ideelle akustiske forhold med reflekterende  
+
+ flader o.lign. kan intensitetsmålinger evt. benyttes, især  
+
+ når der foreligger en standardiseret målemetode.
+ Kassemetoden er oprindeligt beskrevet i [3] som "Short  
+
+ Distance Method".
+6.3.1 Måleflade Målefladen er kasseformet (måleboks). Den har  
+
+ på alle leder afstanden a ind til referenceboksen (jf.
+Figur 6.3.2).  
+
+ Måleboksen og referenceboksen er geometrisk ligedannede og slutter til  
+
+ de samme reflekterende flader.
+For en helt frit anbragt kilde, f.eks. en frit  
+
+ anbragt vibrationssigte, jf.
+Figur 6.3.1, anbringes måleboksen  
+
+ symmetrisk herom.
+Måleafstanden a kan vælges forholdsvis frit.  
+
+ Den skal være større end 0,15 m, den bør være  
+
+ større end 1 m og i øvrigt så stor som muligt.
+Anvendelse  
+
+ af en lille måleafstand medfører en forringelse af  
+
+ målenøjagtigheden, især ved lave frekvenser, samt at der  
+
+ skal måles i mange målepunkter (jf. afsnit 6.3.4).
++++ FIGUR +++ Figur 6.3.1 Måleboks med 6 frie  
+
+ sider og målepunkter. o: 4 primære målepunkter midt  
+
+ på hver lodret flade.
+D  
+
+ : 8 målepunkter i hjørnerne.
+6.3.2 Vejrbetingelser Principielt gælder samme vejrbetingelser for denne  
+
+ målemetode som for kuglemetoden, jf. afsnit 6.2.2. Imidlertid vil det  
+
+ kun undtagelsesvis forekomme, at der udføres målinger efter  
+
+ denne metode i større afstande end 50 m.
+Derfor er vejrbetingelserne i  
+
+ almindelighed uden betydning.
++++ FIGUR +++ Figur 6.3.2 Målebokse med 5, 4 og 3  
+
+ frie sider.
+ l  
+
+ : Primære målepunkter.
+ D  
+
+ : Yderligere målepunkter, som skal bruges, hvis måleboksen er  
+
+ tæt ved referenceboksen.
+6.3.3 Primære målepunkter Det kan være nødvendigt at ændre  
+
+ målepunkter eller helt at udelade enkelte punkter på grund af  
+
+ lokale forstyrrende forhold.
+Sådanne ændringer eller udeladelser  
+
+ skal anføres i rapporten.
+6.3.4 Supplerende målepunkter Supplerende målepunkter vælges, hvis det under  
+
+ målingernes udførelse viser sig nødvendigt.
+Det er  
+
+ tilfældet, når forskellen mellem det A-vægtede  
+
+ lydtrykniveau LpA i to vilkårlige målepunkter  
+
+ (primære og evt. yderligere målepunkter) overskrider 6 dB, og den  
+
+ vandrette afstand langs måleboksens overflade mellem  
+
+ målepunkterne samtidigt er større end 2 a.
+De supplerende målepunkter ligger jævnt  
+
+ fordelt i samme højde som de oprindelige og med den vandrette afstand  
+
+ langs måleboksens overflade mindre end 2 a.
+Hvis der er valgt en lille  
+
+ måleafstand, er det altså nødvendigt at måle i mange  
+
+ målepunkter.
+6.3.5 Måling af lydtrykniveau I hvert af de valgte målepunkter måles det  
+
+ energiækvivalente lydtrykniveau i hvert 1/1-oktavbånd mellem 63  
+
+ Hz og 8 kHz samt totalt A-vægtet.
+For støjkilder, som udsender  
+
+ stationær støj, er det i reglen tilstrækkeligt at  
+
+ integrere over 1 minut.
+For intermitterende støjkilder skal der  
+
+ integreres over et helt antal perioder.
+Det er ofte fordelagtigt at foretage  
+
+ en båndoptagelse af støjen og gennemføre frekvensanalysen  
+
+ senere.
+ Desuden skal baggrundsstøjniveauet måles i  
+
+ mindst ét målepunkt.
+ Måleresultaterne korrigeres for baggrundsstøj  
+
+ (jf. afsnit 6.1.4), og energimiddelværdien beregnes:
++++ FORMEL +++ hvor N er antallet af målepunkter, og Lpi  
+
+ er det korrigerede lydtrykniveau pr. 1/1-oktav i målepunkt nr. i.
+6.3.6 Kontrol af omgivelsernes akustiske kvalitet Hvis der er tvivl om, hvorvidt de akustiske omgivelser er  
+
+ tilstrækkeligt ideelle, skal samtlige målinger gentages med en  
+
+ måleflade, hvis frie overfladeareal er omkring fire gange så  
+
+ stort som den først valgte måleflades.
+ Hvis energimiddelværdien af de nye  
+
+ måleresultater, korrigeret for baggrundsstøj, er mindst 4 dB  
+
+ lavere end den tilsvarende middelværdi af de oprindelige resultater, er  
+
+ omgivelserne i orden.
+Hvis dette ikke er tilfældet, skal der bestemmes en  
+
+ korrektion, K, for omgivelsernes indflydelse efter anvisningerne i afsnit  
+
+ 6.1.3. Ofte er korrektionen forskellig i de forskellige målepunkter.
+I  
+
+ tilfælde, hvor der skal bestemmes en sådan korrektion, skal der  
+
+ beregnes en ny, korrigeret middelværdi efter (6.3.2), der bruges i  
+
+ stedet for energimiddelværdien efter (6.3.1):
++++ FORMEL +++ hvor N er antallet af målepunkter, og Lpi  
+
+ er lydtrykniveau korrigeret for baggrundsstøj i målepunkt nr. i,  
+
+ og Ki er den tilhørende omgivelseskorrektion.
+6.3.7 Beregning af kildestyrke Overfladearealet af den frie del af måleboksen (S)  
+
+ bestemmes:
++++ FORMEL +++ Overfladearealet af den frie del af referenceboksen  
+
+ (Sref) bestemmes tilsvarende.
+Ud fra forholdet mellem  
+
+ Sref og S fastlægges en korrektion, E, for  
+
+ nærfeltfejl.
+Tabel 6.3.1 Korrektion for nærfeltfejl, gyldig for  
+
+ ikke-retningsfølsomme mikrofoner.
+E 0-0,4 0 dB 0,4-0,7 1 dB 0,7-0,9 2 dB 0,9-1,0 3 dB Den totale kildestyrke er:
+LW = p + 10 log S - E [dB re 1 pW]  
+
+ (6.3.4) I retninger foran eventuelle reflekterende flader er  
+
+ retningskorrektionen D  
+
+ LF  
+
+  = 3 dB, når måleboksen slutter til én lodret  
+
+ reflekterende flade, og D  
+
+ LF  
+
+  = 6 dB, når måleboksen slutter til to lodrette reflekterende  
+
+ flader.
+6.3.8 Eksempel, køleaggregat Kildestyrken af et køleaggregat opstillet tæt  
+
+ uden for en fabriksbygning skal bestemmes.
+Støjen fra anlægget  
+
+ er dels kompressorstøj, som udstråles fra hele aggregatets  
+
+ overflade, og dels ventilatorstøj fra de to ventilatorer i toppen af  
+
+ aggregatet.
+Aggregatet står på en 2,4 m bred asfalteret vej, som  
+
+ grænser op til et bevokset areal.
+I Figur 6.3.3 er vist opstalt og plan  
+
+ af aggregatet og dets omgivelser.
++++ FIGUR +++ Figur 6.3.3 Opstalt og plan af  
+
+ køleaggregat og opstillet uden for fabriksbygning.
+Alle mål i  
+
+ meter.
+Da det ikke er muligt at måle imellem aggregatet og  
+
+ væggen, vælges en referenceboks, som slutter til to reflekterende  
+
+ flader, nemlig væggen og den asfalterede vej.
+Referenceboksens  
+
+ dimensioner bliver så: R
+1 x R
+2 x R
+3 = 2,0 m x 1,0 m x 1,4 m, og den karakteristiske dimension  
+
+ do = 2,0 m.
+Måleafstanden a kan vælges frit; den skal  
+
+ være større end 15 cm og i øvrigt så stor som  
+
+ muligt.
+Et godt valg i dette tilfælde er a = 1,4 m.
+Det er den  
+
+ største afstand, der kan vælges, uden at målepunkterne  
+
+ bliver beliggende over akustisk porøst terræn, hvilket  
+
+ medfører, at nøjagtigheden bliver begrænset, selv om der  
+
+ korrigeres (jf. afsnit 6.1.3).
+Lydtrykniveauet skal måles i 5 punkter, ét  
+
+ på hvert frit hjørne af måleboksen og ét midt  
+
+ på hver frie side, jf.
+Figur 6.3.4.
++++ FIGUR +++ Figur 6.3.4 Skitse af køleaggregat  
+
+ med angivelse af måleboks og målepunkter.
+6.3.9 Eksempel, portåbning Kildestyrken af en åben port i en virksomhed skal  
+
+ måles.
+Portens dimensioner er h x b = 4 x 6 m, og såvel gulvet  
+
+ inde i hallen som forpladsen er akustisk hårde, jf.
+Figur 6.3.5.
+Referenceboksen er en flade med samme mål som  
+
+ portåbningen.
+I sådanne tilfælde, hvor kildestyrken af en  
+
+ åbning skal bestemmes, er det fordelagtigt at anvende  
+
+ måleafstanden a = 0, selv om dette i princippet ikke er tilladt i  
+
+ metoden.
+Måleboksen er da sammenfaldende med den flade  
+
+ referenceboks.
++++ FIGUR +++ Figur 6.3.5 Opstalt og lodret snit i  
+
+ portåbning med angivelse af målepunkter.
+Lydtrykniveauet måles i et antal punkter fordelt  
+
+ tilfældigt over den øverste halvdel af åbningen.
+Som  
+
+ retningslinie for valg af antal målepunkter kan anføres +++  
+
+ FORMEL +++, hvor R
+1 og R
+2 er åbningens dimensioner i meter.
+I dette tilfælde  
+
+ anvendes 5 målepunkter som vist i Figur 6.3.5.
+Da måleboksen og referenceboksen har samme  
+
+ overfladeareal, er korrektionsstørrelsen E = 3 dB, jf.
+Tabel  
+
+ 6.3.1.
+6.4 Metode til procesanlæg I dette afsnit beskrives en metode beregnet til brug ved  
+
+ måling af kildestyrken af store industrianlæg med mange  
+
+ delstøjkilder, hvis væsentligste udstrækning er i den  
+
+ vandrette plan, og hvor lydudsendelsen forventes at være ligelig i alle  
+
+ retninger.
+Typiske eksempler på sådanne anlæg er åbne  
+
+ procesanlæg.
+Metoden indebærer, at lydtrykniveauet måles i  
+
+ et stort antal punkter på en lukket linie rundt om anlægget.  
+
+ Procesanlægmetoden kan beskrives som en version af kassemetoden (afsnit  
+
+ 6.3), som er særligt tilpasset store støjkilder.
+Metoden er  
+
+ under standardisering i ISO [4].
+6.4.1 Afgrænsning af støjkilden Støjkildens udstrækning beskrives ved  
+
+ grundfladen, Sp, og den gennemsnitlige højde, . Grundfladen  
+
+ er det mindste areal, som netop indeholder alle delstøjkilderne, se  
+
+ Figur 6.4.1. Den gennemsnitlige højde, , findes af udtrykket:
++++ FORMEL +++ hvor hj er højden til midtpunktet af  
+
+ delstøjkilde nr. j, og M er antallet af delstøjkilder.
+ Hvis anlægget indeholder mere end 10  
+
+ delstøjkilder, hvis højde er mindre end 2 m, kan deres  
+
+ gennemsnitlige højde sættes til 1 m og deres antal  
+
+ skønnes inden for "   
+
+  10 %.
+ For at metoden skal kunne anvendes, kræves det, at  
+
+ anlæggets største lineære dimension, R  
+
+ , skal være:
+16 m #
+R  
+
+  < ca. 320 m (6.4.2) Hvis anlægget er større end angivet, må  
+
+ det deles op i delkildeområder.
+Er anlægget mindre, vil det i  
+
+ almindelighed være muligt at bruge andre metoder, f.eks. kassemetoden  
+
+ (afsnit 6.3).
++++ FIGUR +++ Figur 6.4.1 Illustration af begreberne  
+
+ grundflade, Sp, og måleliniens fladeindhold,  
+
+ Sm.
++++ FIGUR +++ Figur 6.4.2 Illustration af gennemsnitlig  
+
+ højde, , og målehøjde, hm.
+6.4.2 Målebetingelser Følgende målebetingelser skal være  
+
+ opfyldt i videst muligt omfang under målingerne:
+Vindhastigheden og -retningen må ikke ændre  
+
+ sig signifikant under målingerne.
+Det er fordelagtigt at udføre  
+
+ målingerne om natten i stille vejr.
+6.4.3 Målelinie og målepunkter Rundt om anlægget fastlægges den enklest  
+
+ mulige målelinie, og på målelinien bestemmes et antal  
+
+ målepunkter med samme indbyrdes afstand, jf.
+Figur 6.4.1.  
+
+ Målelinien behøver ikke at være rektangulær, men  
+
+ følgende krav skal overholdes:
++++ FORMEL +++ Målelinien vælges, så afstanden til  
+
+ anlæggets grænse bliver så stor, som  
+
+ baggrundsstøjforholdene tillader.
+Målelinien skal desuden  
+
+ vælges, så lydtrykniveauet i målepunkterne er omtrent af  
+
+ samme størrelse, se afsnit 6.4.5. Op til 10 % af målepunkterne  
+
+ kan udelades, hvis lokale forhold umuliggør måling; er der behov  
+
+ for yderligere udeladelser, må der vælges en anden  
+
+ målelinie.
+ Måleliniens samlede længde, R
+m, og fladeindhold, Sm, bestemmes med en  
+
+ nøjagtighed på "  
+
+  5  %.
+ Målepunkternes højde over terrænet,  
+
+ hm, findes af:
++++ FORMEL +++ hm skal dog være mindst 5 m.
+Hvis  
+
+ praktiske forhold umuliggør måling i den herved fundne  
+
+ højde, skal målingerne udføres i den størst mulige  
+
+ højde, dog mindst 5 m.
+6.4.4 Måling af lydtrykniveau I hvert af de valgte målepunkter måles det  
+
+ energiækvivalente lydtrykniveau i hvert 1/1-oktavbånd mellem 63  
+
+ Hz og 8 kHz.
+For støjkilder, som udsender stationær støj,  
+
+ er det i reglen tilstrækkeligt at integrere over 1 minut.
+For  
+
+ intermitterende støjkilder skal der integreres over et helt antal  
+
+ perioder.
+ Desuden skal baggrundsstøjniveauet måles i  
+
+ hvert målepunkt i den udstrækning, det er praktisk  
+
+ gennemførligt.
+Under målingerne skal mikrofonens symmetriakse  
+
+ være vandret og vinkelret på målelinien.
+Hvis der anvendes  
+
+ en retningsfølsom mikrofon for at undertrykke baggrundsstøjens  
+
+ indflydelse, skal den vinkel, Q
+m, hvor følsomheden i forhold til symmetriaksen er aftaget  
+
+ med 3 dB, være større end !  
+
+  30°.
+6.4.5 Beregning af kildestyrke Måleresultaterne for hvert målepunkt  
+
+ korrigeres for baggrundsstøj (jf. afsnit 6.1.4), og  
+
+ energimiddelværdien beregnes:
++++ FORMEL +++ hvor N er antallet af målepunkter, og Lpi  
+
+ er det korrigerede lydtrykniveau pr. 1/1-oktav i målepunkt nr. i.
+Hvis et eller flere korrigerede lydtrykniveauer  
+
+ overskrider middelværdien p med mere end 10 dB, skal  
+
+ målingerne kasseres og en ny række målinger  
+
+ gennemføres på en ny målelinie med større afstand  
+
+ til anlæggets grænse.
+Er dette ikke praktisk  
+
+ gennemførligt, erstattes i stedet alle korrigerede lydtrykniveauer,  
+
+ som er højere end Lp + 5 dB med L?pi  
+
+ = Lp  + 5 dB.
+Herefter beregnes en ny, korrigeret  
+
+ energimiddelværdi:
++++ FORMEL +++ hvor N er antallet af målepunkter og  
+
+ L*pi er lig med Lpi, hvor denne værdi  
+
+ ikke overskrider p + 5 dB, og ellers p + 5 dB.
+ Den totale kildestyrke findes af:
++++ FORMEL +++ Hvis middelværdien L*p er  
+
+ beregnet, skal denne anvendes i stedet for L p.
+ D  
+
+ Lm er et mikrofonkorrektionsled, som beregnes af:
+D  
+
+ Lm = 3 (1 - Q  
+
+ /90°) dB	 (6.4.8) hvor Q  
+
+  er den vinkel, hvor mikrofonens følsomhed i forhold til  
+
+ følsomheden på symmetriaksen er aftaget med 3 dB.
+ For ikke-retningsfølsomme mikrofoner er D  
+
+ Lm = 0.
+ a
+a er dæmningskoefficienten for lydens absorption i luft, som  
+
+ er angivet i Tabel 5.3.2.
+6.4.6 Eksempel, asfaltblandeværk Støjen fra et asfaltblandeværk skulle  
+
+ bestemmes i et antal punkter i forskellige retninger omkring  
+
+ værket.
++++ FIGUR +++ Figur 6.4.3 Opstalt og plan af  
+
+ asfaltblandeværk.
+Ved et besøg på værket blev de  
+
+ dominerende støjkilder lokaliseret til: skorstenen, den skrå,  
+
+ roterende tørretromle og en åben oliebrænder for enden af  
+
+ tørretromlen.
+Mindre støjbidrag kom fra to  
+
+ sugetræksblæsere ved foden af skorstenen, et sigtetårn og  
+
+ en fødeluftblæser.
+ Det blev besluttet bl.a. at anvende  
+
+ procesanlægsmetoden til at bestemme kildestyrken af  
+
+ asfaltblandeværket, selv om antallet af kilder ikke er meget stort, og  
+
+ den væsentligste udstrækning ikke er i vandret plan.
+ Grundfladen af værket blev på en tegning  
+
+ opmålt til 12,3 m x 22,5 m, hvilket giver Sp = 276,8  
+
+ m2.
+Den gennemsnitlige afstand til målelinien, , skal  
+
+ derfor være imellem 0,8 m og 8,3 m.
+I første omgang blev  
+
+ målelinien med punkterne 1-14 på Figur 6.4.3 valgt.  
+
+ Målelinien ligger "skævt" i forhold til værkets grundflade,  
+
+ men nogenlunde ligeligt omkring brænderen og tromlen, som var de mest  
+
+ betydende støjkilder.
+Derfor kunne det forventes, at lydtrykniveauet  
+
+ skulle være omtrent lige stort på hele målelinien.
+For  
+
+ målelinien blev det beregnet, at  = 8,3 m, den totale længde  
+
+R
+m = 136 m og målehøjden hm = 8,7 m.
+Der blev gennemført målinger i de 14 ligeligt  
+
+ fordelte punkter.
+Afvigelserne i lydtrykniveau pr. 1/1-oktav i forhold til  
+
+ middelværdien var inden for +5 dB og -8 dB.
+Dette er inden for det  
+
+ tilladte variationsområde, jf. afsnit 6.4.5, men på det  
+
+ pågældende tidspunkt havde målemetoden en anden udformning,  
+
+ hvori der blev krævet mindre afvigelser.
+Derfor blev målingerne  
+
+ fra punkterne 1-4, hvor de store negative afvigelser forekom, forkastet og  
+
+ erstattet af nye målinger i punkterne 1A-3A, hvor lydtrykniveauet kunne  
+
+ forventes at være højere.
+Den beregnede kildestyrke  
+
+ ændredes ikke væsentligt ved ændringen af  
+
+ målelinien.
+For sammenligningens skyld blev kildestyrken for  
+
+ asfaltblandeværket desuden bestemt efter kuglemetoden, hvor  
+
+ lydtrykniveauet blev målt i 8 punkter i 50 m's afstand.
+Der blev ikke  
+
+ fundet signifikant forskel mellem kildestyrken bestemt på denne  
+
+ måde og efter procesanlægsmetoden.
+ Eksemplet er hentet fra [5], hvor flere detaljer kan  
+
+ findes.
+6.5 Ekstrapolationsmetoden Ekstrapolationsmetoden til måling af kildestyrken  
+
+ for store industrielle støjkilder er oprindeligt beskrevet i [6].  
+
+ Metoden forudsætter - i lighed med metoden til procesanlæg  
+
+ (afsnit 6.4) - at hele virksomheden eller anlægget betragtes som  
+
+ én ækvivalent punktkilde.
+Metoden giver imidlertid mulighed for  
+
+ en mere nøjagtig beskrivelse af støjkilder med forskellig  
+
+ kildestyrke i forskellige retninger end procesanlægsmetoden, og den  
+
+ indebærer målinger i betydeligt færre punkter.
+De til  
+
+ metoden knyttede målebetingelser er mere restriktive, især fordi  
+
+ målepunkterne er langt fra støjkilden.
+ Metoden er særligt velegnet til brug i  
+
+ tilfælde, hvor det er nødvendigt at beregne støjen i  
+
+ enkelte punkter eller i enkelte retninger ud fra virksomheden.
+6.5.1 Afgrænsning af støjkilden I lighed med kuglemetoden (afsnit 6.2) og kassemetoden  
+
+ (afsnit 6.3) afgrænses anlægget eller virksomheden af en  
+
+ referenceboks.
+6.5.2 Målebetingelser Følgende målebetingelser skal være  
+
+ opfyldt under målingerne:
+Tabel 6.5.1 Krav til vindhastigheden ved måling efter  
+
+ ekstrapolationsmetoden.
+Vindhastighedskomposant, 2 m højde Negativ Større end 3 m/s Neutral Større end 1 m/s Positiv Mellem -1 m/s og +2 m/s Temperaturgradienten kan skønnes ud fra tidspunktet  
+
+ på døgnet: mellem solopgang og solnedgang (dag) er den normalt  
+
+ negativ og om natten positiv.
+Når det er overskyet, er  
+
+ temperaturgradienten neutral (lille); især om sommeren kræves  
+
+ det, at skydækket er meget tæt.
+6.5.3 Målepunkter Der vælges et antal målepunkter, som  
+
+ overholder kravene til afstand fra støjkilden:
++++ FORMEL +++ hvor do er den karakteristiske dimension  
+
+ (afsnit 6.1.2), Ri er afstanden fra målepunkt nr. i til  
+
+ midtpunktet af referenceboksen, og ai er den korteste afstand fra  
+
+ målepunkt nr. i til kanten af referenceboksen, jf.
+Figur 6.5.1.
+ Målepunkterne behøver ikke at have samme  
+
+ afstand til midten af referenceboksen; placeringen kan indrettes efter lokale  
+
+ forhold.
+Hvis støjen skal beregnes i nogle få  
+
+ retninger ud fra virksomheden, vælges ét målepunkt i hver  
+
+ relevant retning.
+Skal den totale kildestyrke for virksomheden bestemmes,  
+
+ vælges der 4 målepunkter i retninger med 90º indbyrdes vinkel.  
+
+ Det kan være nødvendigt at vælge 4 supplerende  
+
+ målepunkter fordelt herimellem, jf. afsnit 6.5. Er kun  
+
+ lydudstrålingen i et begrænset vinkelområde af interesse,  
+
+ vælges et antal målepunkter inden for dette område.
+ Målepunkterne skal have samme højde over  
+
+ terrænet; højden skal være mellem 5 og 10 m.
++++ FIGUR +++ Figur 6.5.1 Illustration af referenceboks  
+
+ samt 4 jævnt fordelte målepunkter.
+6.5.4 Måling af lydtrykniveau I hvert af de valgte målepunkter måles det  
+
+ energiækvivalente lydtrykniveau i hvert 1/1-oktavbånd mellem 63  
+
+ Hz og 8 kHz samt totalt A-vægtet.
+Der skal i reglen integreres over  
+
+ 4-10 min.
+Det er i reglen nødvendigt at foretage en  
+
+ båndoptagelse af støjen og gennemføre frekvensanalysen  
+
+ senere.
+ Desuden skal baggrundsstøjen måles i hvert  
+
+ målepunkt i den udstrækning, det er praktisk muligt.
+6.5.5 Supplerende målepunkter Hvis kildestyrken af virksomheden skal bestemmes for et  
+
+ vinkelområde, og forskellen mellem de normaliserede A-vægtede  
+
+ lydtrykniveauer, LpAi(1 m), fra to målepunkter inden for  
+
+ vinkelområdet afviger mere end 6 dB fra hinanden, skal der  
+
+ udføres målinger i supplerende målepunkter.
+ Det normaliserede A-vægtede lydtrykniveau,  
+
+ LpAi(1 m), for målepunkt nr. i beregnes efter udtrykket:
+LpAi(1 m) = LpAi + 20 log  
+
+ Ri (6.5.2) hvori LpAi er det A-vægtede lydtrykniveau i  
+
+ målepunkt nr. i, Ri er afstanden fra midtpunktet af  
+
+ referenceboksen til målepunkt nr. i [m].
+Supplerende målepunkter vælges på  
+
+ vinkelhalveringslinierne mellem retningerne til de oprindelige  
+
+ målepunkter, jf.
+Figur 6.5.1. Afstandskravene i afsnit 6.5.3 skal  
+
+ overholdes.
+6.5.6 Beregning af kildestyrke Kildestyrken i retningen F
+i gennem målepunkt nr. i bestemmes af:
+LW(F
+i) = Lpi + 10 log 4p  
+
+  Ri2 - D  
+
+ La - D  
+
+ Lg [dB re 1 pW] (6.5.3) hvor Lpi er lydtrykniveauet i målepunkt  
+
+ nr. i, eventuelt korrigeret for baggrundsstøj, Ri er  
+
+ afstanden mellem midten af referenceboksen og målepunkt nr. i, D  
+
+ La er korrektionen for luftabsorption (afsnit 5.3.3), og D  
+
+ Lg er korrektionen for terrænvirkning (afsnit 5.3.7).
+ Er LW(F
+i) bestemt i N = 4 (eller 8) jævnt fordelte retninger  
+
+ omkring virksomheden, kan den samlede kildestyrke, LW,  
+
+ bestemmes:
++++ FORMEL +++ I dette tilfælde kan retningskorrektionen D  
+
+ LF  
+
+  for hver retning F
+i bestemmes som:
+D  
+
+ LF  
+
+  = LW(F
+i) - LW (6.5.5) Hvis LW(F
+i) er bestemt i et antal uregelmæssigt fordelte retninger  
+
+ fra virksomheden, kan LW(S
+D
+F  
+
+ ) for det undersøgte vinkelområde S
+D
+F  
+
+  bestemmes af:
++++ FORMEL +++ hvor D
+F
+i er det vinkelområde, som her repræsenteres af  
+
+ målepunkt nr. i.
+6.5.7 Eksempel, petrokemisk anlæg Støjen fra et petrokemisk anlæg skulle  
+
+ bestemmes i to punkter henholdsvis 600 m nord og 1080 m sydøst for  
+
+ anlægget, jf.
+Figur 6.5.2. Ved besøg på stedet kunne det  
+
+ bestemmes, at den helt dominerende støjkilde var selve  
+
+ procesanlægget (vist skraveret i Figur 6.5.2), som omfattede et  
+
+ fladeareal på 145 m x 350 m.
+Andre mindre anlægsdele  
+
+ støjede ubetydeligt i forhold hertil.
+ Den overvejende del af installationerne var anbragt mindre  
+
+ end 10 m over terrænet; enkelte destillationskolonner var 35 m og tre  
+
+ skorstene 90 m høje.
+ Referenceboksen, som omfatter hele procesanlægget  
+
+ inkl. skorstenene, har udstrækningen R
+1 x R
+2 x R
+3 = 145 m x 350 m x 90 m og den karakteristiske dimension  
+
+ do = 209 m.
+En aften udførtes støjmålinger i  
+
+ punkterne A og E, som ligger imellem det subjektivt bedømte  
+
+ "støjmæssige tyngdepunkt", So, af  
+
+ procesanlægget og de to beregningspunkter 1 og 2. Punkterne ligger  
+
+ henholdsvis 250 m og 540 m fra So og overholder afstandskravene i  
+
+ afsnit 6.5.3. De blev valgt dels ud fra dette kriterium, dels ud fra hensyn  
+
+ til lokale kilder til baggrundsstøj og til tilgængelighed.  
+
+ Således kunne punktet E have været valgt noget tættere ved  
+
+ procesanlægget.
+Fra begge punkter var der frit sigt til hele  
+
+ procesanlægget, på nær en mulig skærmning fra lave  
+
+ (2-4 m) tankvolde.
+For at undgå en eventuel indflydelse herfra blev  
+
+ støjmålingerne udført i 10 m højde.
+Vejret var klart og stille under målingerne, hvilket  
+
+ om natten sædvanligvis indebærer, at temperaturgradienten er  
+
+ positiv.
+De meteorologiske krav (afsnit 6.5.2) skønnedes at være  
+
+ overholdt.
+Det var ikke muligt at måle baggrundsstøjen i de to  
+
+ målepunkter.
+I hvert af de to målepunkter blev støjen  
+
+ optaget på bånd i 5-10 minutter.
+I laboratoriet blev  
+
+ båndene analyseret med en parallelanalysator, hvor perioder, som var  
+
+ forstyrret af baggrundsstøj (f.eks. trafikstøj) blev  
+
+ udeladt.
+ På grundlag af de herved opnåede værdier  
+
+ af lydtrykniveau pr. 1/1-oktav blev procesanlæggets kildestyrke i de to  
+
+ retninger bestemt ud fra udtrykket (6.5.3) i afsnit 6.5.6. Ved beregningen af  
+
+D  
+
+ Lg blev en skønnet "middelkildehøjde" hs  
+
+ på 10 m anvendt.
+Ved den efterfølgende beregning af støjen i  
+
+ punkterne 1 og 2 blev den samme kildehøjde anvendt.
+Der blev ikke  
+
+ regnet med, at tankene eller tankvoldene mellem punkt 1 og  
+
+ procesanlægget virkede som skærme.
+For tankvoldenes vedkommende  
+
+ var årsagen deres ringe højde i forhold til afstanden (jf.  
+
+ udtrykket (5.3.13), og for tankenes vedkommende, at de ikke udgør en  
+
+ ubrudt række.
++++ FIGUR +++ Figur 6.5.2 Plan over petrokemisk anlæg med målepunkter  
+
+ og "støjmæssigt tyngdepunkt" angivet.
+I punkterne 1 og 2 blev det A-vægtede lydtrykniveau  
+
+ i 1,5 m højde beregnet til LAeq = 54,5 dB re 20 m  
+
+ Pa henholdsvis LAeq = 45,1 dB re 20 m  
+
+ Pa.
+Ved direkte målinger af lydtrykniveauet i punkterne (om natten og  
+
+ under medvindsforhold) fandtes i punkt 1 LAeq = 51 dB re 20 m  
+
+ Pa og i punkt 2 LAeq = 47 dB re 20 m  
+
+ Pa.
+ Eksemplet og måleresultaterne er hentet fra [5],  
+
+ hvor flere detaljer kan findes.
+7. Beregning af kildestyrke 7.1. Generelt I tilfælde, hvor det ikke er muligt direkte at  
+
+ bestemme styrken af industrielle støjkilder, kan kildestyrken  
+
+ undertiden bestemmes ved supplerende beregninger.
+Den simpleste korrektion anvendes for støjkilder  
+
+ med intermitterende drift, f.eks. et kompressoranlæg, som kun er i  
+
+ drift en del af tiden.
+Hvis anlæggets kildestyrke under konstant drift  
+
+ er Lw, beregnes den driftstidskorrigerede kildestyrke ved  
+
+ hjælp af (5.2.3).
+ Tilsvarende beregninger anvendes for støjkilder,  
+
+ der bevæger sig, jf. afsnit 7.3 "Intern transport".
+ Kildestyrken af bygningsfacader kan enten bestemmes ved en  
+
+ direkte måling (sædvanligvis kassemetoden) eller ved en  
+
+ beregning, som er beskrevet i afsnit 7.2. Beregningen baseres på det  
+
+ lydtrykniveau, som måles inde i bygningen, og de lydisolerende  
+
+ egenskaber af facadekonstruktionen.
+7.2 Kildestyrke af bygninger Lydudstrålingen fra vægge og tag eller fra  
+
+ åbninger i industribygninger kan være af væsentlig  
+
+ betydning for støjbelastningen omkring en virksomhed.
+Kildestyrken af  
+
+ bygningsdele (vægge, vinduer, tag, porte osv.) og af åbninger kan  
+
+ måles direkte efter én af metoderne i afsnit 6. En række  
+
+ forhold betyder, at det ofte er mere fordelagtigt at beregne bygningsdelenes  
+
+ kildestyrke efter anvisningerne i dette afsnit.
+Dette kan f.eks. være tilfældet, når de  
+
+ akustiske forhold (baggrundsstøj, reflekterende flader) omkring  
+
+ bygningen gør en måling umulig eller i hvert fald meget  
+
+ unøjagtig.
+En anden årsag til at foretrække en beregnet  
+
+ kildestyrke frem for en målt kan være, at den målemetode  
+
+ (kassemetoden, afsnit 6.3), som hyppigst vil blive anvendt i disse  
+
+ tilfælde, ikke giver oplysninger om retningsvirkningen, men  
+
+ forudsætter, at støjkilden udsender lige meget støj i  
+
+ alle retninger.
+Ved beregning af kildestyrken kan anvisningerne i afsnit  
+
+ 7.2.4 om retningskorrektion udnyttes.
+7.2.1 Beregningsmetode Kildestyrken for bygningsdel (eller åbning) nr. n i  
+
+ retningen F  
+
+ , LW(F  
+
+ ,n), beregnes efter udtrykket:
+LW(F  
+
+ ,n) = Lp,i - Rn + 10 log Sn - 6 + D  
+
+ LF  
+
+  [dB re 1 pW] (7.2.1) hvor Lp,i, er middellydtrykniveauet (pr. 1/1-oktav)  
+
+ målt i rummet bagved bygningsdelen (eller åbningen), jf. afsnit  
+
+ 7.2.2 [db re 20 m  
+
+ Pa], Rn er reduktionstallet for bygningsdelen (eller  
+
+ åbningen) (pr. 1/1-oktav), jf. afsnit 7.2.3 [dB], Sn er bygningsdelens (eller åbningens)  
+
+ areal [m2], D  
+
+ LF  
+
+  er retningskorrektionen for bygningsdelen (eller åbningen), jf. afsnit  
+
+ 7.2.4 [dB].
+Principielt skal bidraget til lydtrykniveauet i  
+
+ beregningspunktet bestemmes for hver enkelt bygningsdel (eller åbning),  
+
+ jf.
+Figur 7.2.1. I praksis er det ofte fordelagtigt at gruppere de  
+
+ ækvivalente punktkilder, som repræsenterer de enkelte  
+
+ bygningsdele (eller åbninger), jf. afsnit 5.2.3.
++++ FIGUR +++ Figur 7.2.1 Illustration af ækvivalente  
+
+ punktkilder, som erstatter bygningsdele og åbninger.
+7.2.2 Lydtrykniveau i rummet Middellydtrykniveauet i rummet, Lp,i, er  
+
+ middelværdien af mindst 3 målinger.
+Målepunkterne skal  
+
+ vælges i nogen afstand fra støjkilderne i rummet (f.eks. mindst  
+
+ 2 m) og mindst 1 m fra vægge og andre reflekterende flader.  
+
+ Målepunkterne skal desuden være i forskellig afstand fra  
+
+ reflekterende flader, herunder gulvet.
+ I store rum vælges målepunkterne i den del af  
+
+ rummet, som er i nærheden af den pågældende  
+
+ bygningsdel.
+ Der kan ikke påregnes en tilstrækkelig  
+
+ nøjagtighed på LW, hvis lydtrykniveauet i rummet  
+
+ beregnes.
+7.2.3 Reduktionstal Det reduktionstal, som skal indsættes i udtrykket  
+
+ (7.2.1), skal karakterisere den aktuelle bygningsdel.
+I almindelighed er  
+
+ reduktionstallet for bygningsdele, når de måles under  
+
+ feltforhold, forskellige fra de laboratoriemålte reduktionstal, som kan  
+
+ findes i opslagsværker og håndbøger [7, 8].
+Årsagerne hertil er dels, at bygningsdelene i  
+
+ praksis monteres anderledes (ofte mindre omhyggeligt) end i laboratoriet, og  
+
+ dels at bygningsdelenes dimensioner er anderledes.
+Især for lette  
+
+ facadedele og for vinduer kan disse forhold bevirke, at reduktionstallet i  
+
+ praksis er betydeligt lavere end de laboratoriemålte.
+For massive  
+
+ bygningsdeles vedkommende gælder, at de er meget effektive til at  
+
+ omsætte strukturlyd til støj.
+En massiv væg vil derfor i  
+
+ praksis, hvor den påvirkes af såvel støj som af  
+
+ strukturlyd (vibrationer fra maskiner m.v.), udsende mere støj end  
+
+ forventet ud fra dens reduktionstal, som sædvanligvis er meget  
+
+ højt 4).
+ 4) Et mere nøjagtigt mål for  
+
+ kildestyrken af massive bygningsdele påvirket af såvel  
+
+ støj som vibrationer kan opnås ved at måle  
+
+ middelsvingningshastigheden på de pågældende bygningsdele.  
+
+ Er Lv middelsvingningshastighedsniveauet [dB re 10-9  
+
+ m/s] pr. 1/1-oktav over mindst 5 accelerometerpositioner, findes kildestyrken  
+
+ som:
+ LW = Lv + 10 log Sn - 34  
+
+[dB re 1 pW] (7.2.2).
+Det er naturligvis væsentligt at anvende realistiske  
+
+ værdier for reduktionstallet.
+I Tabel 7.2.1 er anført en  
+
+ række reduktionstal for almindelige bygningsdele.
+De er fastlagt efter  
+
+ anvisninger i [9] på grundlag af oplysninger om reduktionstal i [7, 8,  
+
+ 10].
+Andre reduktionstal bør kun anvendes, hvis det kan vises, at de  
+
+ udtrykker den pågældende bygningsdels lydisolationsevne i  
+
+ praksis.
+Tabel 7.2.1 Reduktionstal for almindelige bygningsdele.  
+
+ Værdierne er fastlagt under hensyn til den forringelse af  
+
+ reduktionstallet, som ofte forekommer i praksis, jf. [9].
+Reduktionstal, dB pr. 1/1-oktav Centerfrekvens, Hz 63 125 250 500 1000 2000 4000 8000 Åbning (åben port, ventilationsåbning) 0 0 0 0 0 0 0 0 Vindue med enkeltglas, utæt Vindue med enkeltglas, tæt Vindue med dobbeltglas, tæt 6 8 15 8 15 23 12 18 18 16 21 25 16 24 30 16 25 35 16 25 35 16 27 35 Ovenlysvindue, plast 8 8 12 17 22 25 25 25 Dør ell. port, uisoleret, utæt Dør ell. port, uisoleret eller isoleret med hårdt skum,  
+
+ tæt Dør ell. port, isoleret med porøst materiale, tæt 7 12 15 9 18 15 12 20 25 16 22 30 16 22 30 16 20 30 16 25 30 16 30 30 Væg/tag med pladebeklædning, enkelt (plan metalplade,  
+
+ eternit) Væg/tag med korrugeret plade, enkelt Væg/tag med pladebeklædning, isoleret 9 9 15 15 15 22 20 15 25 23 15 28 27 20 35 30 25 42 30 30 50 30 30 50 Væg af tegl ell. beton (ell. dobbelt letbeton) Væg af letbeton, enkelt Enkelt væg af tegl*) eller beton, påvirket af  
+
+ maskinvibrationer 30 25 20 35 30 22 37 33 25 42 30 30 50 35 35 55 40 40 60 48 45 60 52 45 7.2.4 Retningskorrektion Retningsafhængigheden af lydudstrålingen fra  
+
+ bygningsdele og åbninger er afhængig af bl.a. lydens frekvens, af  
+
+ bygningsdelens eller åbningens dimensioner og af bygningsdelens  
+
+ akustiske egenskaber.
+Sammenhængen mellem disse parametre og  
+
+ retningskorrektionen er omtalt i [9, 11].
+Det er imidlertid ikke muligt  
+
+ på dette grundlag at give enkle og entydige retningslinier for en  
+
+ beregning af retningskorrektionen.
+Derfor er det i denne sammenhæng valgt at  
+
+ tilnærme de virkelige forhold med en retningskorrektion, som er  
+
+ uafhængig af de omtalte parametre.
+Disse anvisninger baserer sig  
+
+ på sammenfatningerne i [9, 12].
+ Retningskorrektionen D  
+
+ LF  
+
+  beregnes tilnærmet efter følgende udtryk:
+Bygningsdele For bygningsdele (7.2.3):
+0° [
+F  
+
+  < 85°: D  
+
+ LF  
+
+  = -3 + (3 x F  
+
+ /42,5°) [dB] 85° [
+F
+[  
+
+  135°: D  
+
+ LF  
+
+  = 3 - 10 log [0,4(F  
+
+  - 90°) + 3] [dB] 135° < F
+[  
+
+  180°: D  
+
+ LF  
+
+  = -10 dB Åbninger For åbninger (7.2.4):
+0° [
+F  
+
+  < 45°: D  
+
+ LF  
+
+  = 4 dB 45° [
+F  
+
+  < 85°: D  
+
+ LF  
+
+  = 6 log [ (90° - F  
+
+ )/10 ] [dB] 85° [
+F
+[  
+
+   135°: D  
+
+ LF  
+
+  = -2 - 6 log [0,4(F  
+
+  - 90°) + 3] [dB] 135° < F
+[  
+
+  180°: D  
+
+ LF  
+
+  = -10 dB F  
+
+  er vinklen (i grader) mellem retningen til beregningspunktet I og  
+
+ bygningsdelens normal, jf.
+Figur 7.2.2 +++ FIGUR +++ Figur 7.2.2 Illustration af vinklen F  
+
+ , her vist for en åbning.
+I nogle situationer giver udtrykkene (7.2.3) og (7.2.4)  
+
+ for høje værdier af D  
+
+ LF  
+
+  bagved bygningen (F  
+
+  > 135º). Det kan eksempelvis være tilfældet for enkelte  
+
+ bygningsdele med særlig høj kildestyrke (for eksempel vinduer),  
+
+ og støjkilder monteret på en facade.
+Hvis det er  
+
+ væsentligt at beregne D  
+
+ LF  
+
+  præcist for sådanne støjkilder (for eksempel hvis der  
+
+ ikke forekommer andre, uskærmede støjkilder set fra det  
+
+ pågældende beregningspunkt), kan et mere nøjagtigt  
+
+ mål for  D  
+
+ LF  
+
+  fås ved at benytte beregningsmetoden for skærmning i afsnit  
+
+ 5.3.5 og beregne D  
+
+ LF  
+
+  = D  
+
+ Ls pr. 1/1-oktavbånd.
+Facaden betragtes da som en skærm.
+Det er en  
+
+ forudsætning for denne fremgangsmåde, at afstanden fra  
+
+ støjkilden til facadens kanter er større end lydens  
+
+ bølgelængde.
+Det skal desuden sikres, at der ikke forekommer  
+
+ transmissionsveje rundt om bygningen via refleksion.
+ D  
+
+ LF  
+
+  for bygningsdele og åbninger er vist grafisk i Figur 7.2.3 og  
+
+ 7.2.4.
++++ FIGUR +++ Figur 7.2.3 Retningskorrektion for  
+
+ bygningsdele.
++++ FIGUR +++ Figur 7.2.4 Retningskorrektion for  
+
+ åbninger.
+7.3 Bevægelige støjkilder Støjen fra transport med lastbiler, trucks,  
+
+ hjullastere etc. inden for virksomhedens grundgrænser er somme tider  
+
+ afgørende for den samlede støjbelastning.
+Tilsvarende kommer  
+
+ meget af støjen fra rangerbanegårde og stationsområder fra  
+
+ støjkilder, der bevæger sig.
+Næsten hele  
+
+ støjbelastningen omkring motorsportsbaner stammer fra  
+
+ støjkilder i bevægelse.
+Ved beregning af støjbelastningen fra kilder i  
+
+ bevægelse bruges en særlig fremgangsmåde, der beskrives i  
+
+ det følgende.
+Anvisningerne, der især bygger på [13], er  
+
+ ikke så gennemprøvede i praksis som metoderne i afsnit 6 til  
+
+ bestemmelse af kildestyrken.
+Der foreligger for eksempel ikke en egentlig  
+
+ standardiseret metode til måling af kildestyrken.
+Derfor er der i det  
+
+ følgende givet en samlet beskrivelse af, hvordan man kan måle  
+
+ støjen nær ved kilden og derpå beregne en kildestyrke til  
+
+ brug ved beregningen af støjbelastningen.
+Specielt hvad angår støj fra rangering og fra  
+
+ motorsport henvises til [13] og [14].
+I det følgende er i eksempelform  
+
+ givet nogle anvisninger, som er særligt betydningsfulde ved vurdering  
+
+ af støjen fra transport af materialer og produkter på  
+
+ virksomheder.
+Ved beregningen af støjbelastningen fra en kilde i  
+
+ bevægelse erstattes den virkelige kilde af en eller flere  
+
+ stillestående punktkilder.
+Derefter beregnes som beskrevet i afsnit 5.  
+
+ Hver af de stillestående punktkilder repræsenterer en del af den  
+
+ strækning eller det område, den virkelige kilde bevæger sig  
+
+ i.
+ Styrken af disse stillestående punktkilder  
+
+ karakteriseres ved den varighedskorrigerede kildestyrke, L'W af  
+
+ den bevægelige støjkilde.
+Eksempel I Figur 7.3.1 er vist et eksempel.
+På en virksomhed  
+
+ kører lastbiler ad den viste rute (stiplet linie).  
+
+ Støjbelastningen i punkt I skal beregnes fra den del af  
+
+ kørslen, der sker fra skellet mod den offentlige vej, til lastbilernes  
+
+ støj bliver skærmet af lagerhallen.
+I figurens nederste del er  
+
+ vist 5 delstrækninger.
+Bidragene til støjbelastningen i punkt I  
+
+ fra hver af punktkilderne S1 ... S5 beregnes og  
+
+ lægges sammen.
+Fra kilderne S2 ... S4 er der  
+
+ bidrag fra refleksion fra lagerhallens facade.
+ Opdelingen af køreveje i delstrækninger  
+
+ foretages efter disse retningslinier:
+ Retningslinierne kan også bruges, hvor man for  
+
+ eksempel for at reducere beregningernes omfang ønsker at behandle  
+
+ flere nærliggende delstrækninger som én punktkilde.
+Kildestyrken Hvis de lastbiler, der kører langs lagerhallen, har  
+
+ kildestyrken LW, bestemmes styrken af kilderne S1 ...  
+
+ S5 i figur 7.3.1 svarende til delstrækningerne 1-5 som:
+L'Wi = LW + 10 log ti/T =  
+
+ LW + 10 log R
+i/(v · T) (7.3.1) L'W = kildestyrke af delstrækning nr. i =  
+
+ varighedskorrigeret styrke af kilden [dB re 1 pW] tj = den tid, kilden er om at gennemkøre  
+
+ delstrækning nr. i [sek.] T = referencetidsrummets længde [sek.] R
+i = længden af delstrækningen nr. i [m] v = kildens (konstante) fart [m/s] +++ FIGUR +++ Figur 7.3.1 Eksempel på opdeling i  
+
+ delstrækninger, hver repræsenteret ved en punktkilde  
+
+ S1 ... S5.
+ Referencetidsrummet er i reglen 8 timer, 1 time (aften)  
+
+ eller 1/2 time (nat), men det kan vælges vilkårligt.
+ Hvis kildens fart varierer på en delstrækning,  
+
+ bruges gennemsnitsfarten.
+Kildestyrken LW for en kørende kilde kan  
+
+ bestemmes som vist i Figur 7.3.2. Støjen måles ved  
+
+ forbikørsel i (kort) afstand a [m] fra mikrofonen med farten v [m/s].  
+
+ Afstanden a til kørevejens midterlinie skal være omkring 5-10 m  
+
+ og mikrofonens højde 1,5-4 m.
+Der måles Leq,t for  
+
+ tidsrummet t [sek.] omkring forbikørslen pr. 1/1-oktav i området  
+
+ 63 Hz til 8 kHz.
+LW [dB re 1 pW] bestemmes af (7.3.2):
+LW = Leq,t + 10 log t + 10 log 4va -  
+
+D  
+
+ Lg	(7.3.2) I nogle tilfælde, for eksempel når man kun er  
+
+ interesseret i at bestemme den totale A-vægtede kildestyrke  
+
+ LWA til brug ved overslagsberegninger, kan man i stedet måle  
+
+ det maksimale lydtrykniveau, Lpmax, under forbikørslen og  
+
+ beregne kildestyrken efter udtrykket (7.3.3):
+LW = Lpmax + 10 log 4 p  
+
+  a2 - D  
+
+ Lg 	(7.3.3) Resultaterne opnået ved brug af denne metode er i  
+
+ det væsentligste i overensstemmelse med de resultater, der beregnes med  
+
+ udtrykket (7.3.2), men det må forventes, at ubestemtheden er  
+
+ større, især på kildestyrken pr. 1/1-oktav.
+D  
+
+ Lg er terrænvirkningen.
+Hvis terrænoverfladen mellem  
+
+ støjkilden og mikrofonen er hård, er D  
+
+ Lg = 3 dB.
+Dette bør foretrækkes.
+Hvis terrænet  
+
+ er delvist porøst, beregnes D  
+
+ Lg som angivet i afsnit 5.3.7.
++++ FIGUR +++ Figur 7.3.2 Måling af styrken af en  
+
+ bevægelig støjkilde.
+Målingen bør udføres på begge  
+
+ sider af kilden, og den største værdi af LW  
+
+ bør bruges ved beregningen.
+Som regel ved man nemlig ikke helt  
+
+ nøjagtigt, hvordan bevægelige kilder "færdes" på en  
+
+ virksomhed.
+Derfor bør man ikke tage hensyn til kildernes  
+
+ retningsvirkning, men i stedet regne med det værst tænkelige.
+Driftsbetingelserne for kilden (gearvalg, fart,  
+
+ acceleration m.v.) bør være "typiske". Der er som regel stor  
+
+ forskel på støjudsendelsen fra for eksempel lastbiler.  
+
+ Både bilens type osv. og førerens måde at køre  
+
+ på har betydning.
+Støjen bør måles ved mindst tre  
+
+ typiske passager af hver af tre forskellige køretøjer.  
+
+ Beregningen af LAeq baseres på middelværdien af alle  
+
+ LW-værdierne.
+Eksempel Et andet eksempel er vist i Figur 7.3.3. Støjkilden  
+
+ kører ikke langs en bestemt strækning, men bevæger sig  
+
+ inden for et afgrænset område, hvis største  
+
+ udstrækning er R  
+
+ . Det kan for eksempel være en hjullaster, der læsser grus  
+
+ på lastbiler i en grusgrav eller en dozer, der flytter kul på en  
+
+ kulplads ved et kraftværk.
+ Styrken af en sådan kilde kan somme tider bestemmes  
+
+ ved måling af støjen i afstand d fra områdets midte (d  
+
+ > R  
+
+ ). Lydtrykniveauet Lp varierer med tiden, både fordi  
+
+ afstanden mellem kilde og måleposition varierer, og fordi kildens  
+
+ støjudsendelse afhænger af, hvilken deloperation af sin  
+
+ arbejdsproces den udfører.
+ Leq,t bestemmes for tidsrummet t, som skal  
+
+ være langt nok til at indeholde præcist én eller flere end  
+
+ tre gentagelser af arbejdsprocessen.
++++ FIGUR +++ Figur 7.3.3 Måling af styrken af  
+
+ støjkilde, der arbejder inden for et område.
+ Kildestyrken bestemmes af (7.3.4):
+LW = Leq,t + 10 log (4 p  
+
+  R2) - D  
+
+ Lg 	(7.3.4) R er afstanden mellem arbejdsområdets midte og  
+
+ måleposition.
+R kan være lidt større end den vandrette  
+
+ afstand d, men i reglen er R ? d.
+ D  
+
+ Lg er terrænkorrektionen beregnet som angivet i afsnit  
+
+ 5.3.7.
+ Hvis målingerne udføres i så stor  
+
+ afstand fra støjkilden, at luftabsorptionen skønnes at influere  
+
+ væsentligt på måleresultatet, bør der korrigeres for  
+
+ dette ved beregningen af LW.
+ Den beskrevne fremgangsmåde svarer til at bruge  
+
+ ekstrapolationsmetoden fra afsnit 6.5. De krav til vejrforhold m.v., som er  
+
+ specificeret der, bør derfor overholdes ved målingerne.
+8. Andre oplysninger 8.1 Generelt I en række tilfælde er det ikke muligt eller  
+
+ ikke nødvendigt at måle eller beregne kildestyrken.
+Kildestyrke 8.2 Støjdatabogen Støjdatabogen, som indeholder afsnit om  
+
+ ventilatorer, trykluftkompressorer, kølekompressorer og  
+
+ kølekondensatorer, giver oplysninger om typiske støjdata for  
+
+ markedsførte støjkilder.
+ Ud over typiske støjdata findes også en  
+
+ simpel metode til overslagsmæssig beregning af kildestyrke i [15] kaldt  
+
+ immissionsrelevant lydeffektniveau.
+ I 1989 blev Støjdatabogen suppleret med et afsnit  
+
+ om støj fra køretøjer m.v., der anvendes til intern  
+
+ kørsel og transport på virksomheder.
+Støjdatabogens oplysninger er af generel art og  
+
+ må i almindelighed ikke benyttes som aktuelle data i konkrete  
+
+ beregninger.
+De vil dog kunne finde anvendelse til overslagsberegninger i  
+
+ forbindelse med planlægning m.v.
+Den primære anvendelse er til  
+
+ kontrol af beregningsforudsætninger.
+ Ved virksomheder, hvor der forekommer kørsel af  
+
+ mange forskellige lastbiler tilhørende forskellige vognmænd, er  
+
+ det ofte mere hensigtsmæssigt at bruge Støjdatabogens  
+
+ kildestyrker ved beregningerne end at gennemføre de omfattende  
+
+ målinger af kildestyrken, der vil være nødvendige for at  
+
+ få mere nøjagtige data end Støjdatabogens.
+8.3 Støjdatabanken Ved ELAB, Elektroniklaboratoriet ved Norges Tekniske  
+
+ Højskole, er der oprettet en databank for støjkilder.
+Ved  
+
+ opdateringen i 1980-81 indeholdt den veldokumenterede måleresultater  
+
+ for ca. 900 støjkilder.
+For en stor del af støjkilderne mangler der  
+
+ 1/1-oktavspektrum eller lydeffektniveau, og oplysningerne om disse kilder kan  
+
+ derfor ikke anvendes til beregning af støjbelastning.
+I  
+
+ tilfælde, hvor lydeffektniveauet for en relevant driftstilstand er  
+
+ angivet pr. 1/1-oktav i området 63 Hz-4 kHz (eller 8 kHz), kan dette  
+
+ anvendes til beregninger på samme betingelser som leverandørers  
+
+ katalogdata m.v.
+ Støjdatabanken er fælles nordisk.
+ Det er planen, at Støjdatabanken i Danmark skal  
+
+ administreres af Lydteknisk Institut, hvor enten enkelte oplysninger eller en  
+
+ komplet kopi af alle bankens data vil kunne rekvireres.
++++ FIGUR +++ Figur 8.3.1 Eksempel på udskrift  
+
+ fra støjdatabanken.
+Støjkilden er en stor råoliepumpe.  
+
+ "Other Level" er det A-vægtede middellydtrykniveau på  
+
+ målefladen, og "Frequency Spectrum" er det tilsvarende lineære  
+
+ 1/1-oktavspektrum.
+9. Dokumentation og rapportering Forudsætninger dokumenteres Resultater af beregning af ekstern støj fra  
+
+ virksomheder skal dokumenteres og rapporteres på tilsvarende måde  
+
+ som resultater af støjmålinger, jf.
+Miljøstyrelsens  
+
+ vejledning nr. 5/1984 og 6/1984. Det er i almindelighed ikke relevant at  
+
+ specificere, hvordan beregningerne er udført.
+Derimod skal  
+
+ beregningsforudsætningerne dokumenteres, dvs. de inddata, som er  
+
+ brugt.
+Måleresultater Iagttagelser Antagelser Alle de forhold, der har betydning for den eksterne  
+
+ støj fra virksomheden, skal dokumenteres.
+Det gælder såvel  
+
+ måleresultater (for eksempel kildestyrke), iagttagelser og oplysninger  
+
+ (for eksempel om virksomhedens driftsforhold) som skøn og antagelser.  
+
+ De mest betydende forhold skal beskrives i rapporten.
+Huskeliste Nedenfor anføres en huskeliste til hjælp for  
+
+ indsamling af oplysninger.
+Den omfatter en række forhold, som i  
+
+ konkrete tilfælde har haft væsentlig støjmæssig  
+
+ betydning.
+Dog er huskelisten ikke dækkende for enhver situation, og i  
+
+ meget enkle tilfælde vil den være for omfattende.
+Virksomheden Note: I tilfælde, hvor der gennemføres  
+
+ støjdæmpning af de mest betydende kilder, bliver andre kilder  
+
+ bestemmende for støjbelastningen.
+Støjkilder Identifikation af hver støjkilde, herunder  
+
+ placering, art/type, fabr.nr. og betragtet driftstilstand.
+Desuden  
+
+ dokumenteres kildens generelle tilstand (alder, slitage) og eventuelle  
+
+ støjdæmpende foranstaltninger.
+Ved måling af kildestyrke Anvendte måleinstrumenter, særligt  
+
+ væsentlige instrumentindstillinger, kalibrering og kontrol.  
+
+ Afgrænsning af støjkilden (i forhold til andre støjkilder  
+
+ og til reflekterende flader), beskrivelse af støjkildens omgivelser og  
+
+ evt. omgivelseskorrektion.
+Desuden specificeres:
+ For bygninger: Reduktionstal af facader, tage m.v.
+ For bevægelige støjkilder:  
+
+ Kørselsforhold under målingen.
+Kontrolmulighed For at lette senere kontrol bør lydtrykniveauet i  
+
+ et relevant og velspecificeret punkt i nærheden af hver  
+
+ støjkilde rapporteres.
+Andre oplysninger om kildestyrke Stammer oplysningerne om kildestyrken ikke fra  
+
+ veldokumenterede målinger af støjen fra de aktuelle kilder under  
+
+ relevante driftsforhold, skal det specificeres, hvorledes oplysningerne er  
+
+ fremkommet.
+Ubestemtheden ved anvendelse af oplysningerne i den  
+
+ pågældende situation vurderes.
+Beregningspunkter Punkternes beliggenhed og højde over lokalt  
+
+ terræn samt afstande fra virksomheden.
+Kort med målestok og  
+
+ nordpil.
+Punkternes omgivelser: Hvilke områder er repræsenteret  
+
+ af punkterne? Hvordan/hvorfor er netop disse punkter valgt? Lydudbredelsesforhold Beregningsresultat Som resultat af beregningerne fremkommer LAeq  
+
+ pr. støjkilde og ved summation LAeq for hele virksomheden.  
+
+ På grundlag af en subjektiv vurdering (eller måling efter  
+
+ anvisningerne i Miljøstyrelsens vejledning nr. 6/1984) afgøres  
+
+ det, om der skal gives tillæg for tydeligt hørbare impulser  
+
+ eller toner.
+Desuden skal ubestemtheden på resultaterne vurderes  
+
+ og anføres.
+Baggrundsstøjen i områderne omkring  
+
+ virksomheden beskrives på grundlag af måling, beregning eller  
+
+ vurdering.
+Rapport Dokumentationen af beregningerne skal anføres i  
+
+ rapporten i den udstrækning, det skønnes hensigtsmæssigt,  
+
+ evt. i et bilag.
+Hvis den fuldstændige dokumentation ikke er  
+
+ rapporteret, skal det anføres, at supplerende oplysninger kan  
+
+ indhentes hos den institution, der har udført beregningerne.
+10. Referencer [1] J.
+Kragh, J.
+Jakobsen, Bent Andersen: "Environmental  
+
+ Noise from Industrial Plants.
+General Prediction Method". Lydteknisk  
+
+ Institut, rapport nr. 32, Lyngby 1982.
+ [2] ISO 3744: "Acoustics - Determination of sound power  
+
+ levels of noise sources - Engineering method for freefield conditions over a  
+
+ reflecting plane". 1981.
+[3] H.
+Jonasson, L.
+Eslon: "Determination of Sound Power  
+
+ Levels of External Noise Sources". Statens Provningsanstalt SP-RAPP 1981:45,  
+
+ Borås 1981.
+ [4] Layout for International Standard ISO 8297: "Acoustics  
+
+ - Determination of Sound Power Levels of Multi-Source Industrial Plants for  
+
+ the Evaluation of the Sound Pressure Levels in the Environment - Engineering  
+
+ Method". 1990.
+[5] J.
+Jakobsen, B.
+Andersen: "Noise Immission from  
+
+ Industry.
+Measurement and Prediction of Environmental Noise from Industrial  
+
+ Plants". Lydteknisk Institut, rapport nr. 105, Lyngby 1983.
+[6] T.
+Lahti, H.T.
+Tuominen: "Second Draft Proposal for  
+
+ Measurement Procedure for the Emission of External Noise from Large  
+
+ Industrial Sources". Technical Research Centre of Finland, LVI/BK1, Espoo  
+
+ 1982.
+ [7] "Bygningsakustiske Laboratoriemålinger".  
+
+ Abonnementserie fra Lydteknisk Institut, ajourføres  
+
+ jævnligt.
+[8] A.
+Homb, S.
+Hveem, S.
+Strøm: "Lydisolerende  
+
+ konstruksjoner.
+Dataindsamling og beregningsmetode". Norges  
+
+ Byggforskningsinstitut, anvisning 28, Oslo 1983.
+[9] J.
+Jakobsen: "Prediction of Noise Emission from  
+
+ Facades of Industrial Buildings". Lydteknisk Institut, rapport nr. 25, Lyngby  
+
+ 1981.
+ [10] VDI 2571: "Schallausbreitung von Industriebauten".  
+
+ Düsseldorf, 1976.
+[11] D.J.
+Oldham, Y.
+Shen: "A Scale Model Investigation of  
+
+ Sound Radiation from Bulding Elements". Journal of Sound and Vibration (1983)  
+
+91 (3), p. 331-350.
+[12] E.
+Gerretsen, W.C.
+Verboom: "Geluidafstraling van  
+
+ wanden en gebouwen". Technisch Physische Dienst TNO-TH, rapport IL-HR-13-02,  
+
+ Delft 1982.
+[13] J.
+Jakobsen, J.
+Kragh: "Beregningsanvisninger for  
+
+ støj fra rangering". Lydteknisk Institut, Teknisk Rapport LI 922/83,  
+
+ Lyngby 1983.
+ [14] "Støj fra motorsportsbaner". Vejledning fra  
+
+ Miljøstyrelsen nr. 7/1984. København 1984.
+[15] "Støjdatabogen.
+Beskrivelse af industrielle  
+
+ støjkilder". Lydteknisk Institut, Lyngby 1986-89.
+Appendix 1 Symbolliste C 	[-] Centrum af cylinders grundflade Ch	 [-] Faktor afhængig af  
+
+ skærmhøjde DI 	[dB] Retningsindeks (Directivity Index) E 	[dB] Korrektion for nærfeltfejl F	 [-] Punkt, hvorfra støjen reflekteres.
+ G	 [-] Andelen af porøst terræn i:
+index 	s kildedelen i beregningspunktdelen c den centrale del af terrænet mellem kilde og  
+
+ beregningspunkt H 	[m] Højde over vandret referenceplan af:
+index 	g laveste terræn nær  
+
+ skærm i beregningspunkt o reflekterende genstand s støjkilde t overkant af skærm I 	[-] Beregningspunkt K 	[dB] Omgivelseskorrektion index 	i omgivelseskorrektion i målepunkt nr.  
+
+ i L 	[-] Venstre hjørne af skærm LAeq,T	[dB] Energiækvivalent,  
+
+ A-vægtet lydtrykniveau for referencetidsrummet T, reference 20 m  
+
+ Pa Leq,t 	[dB] Energiækvivalent  
+
+ lydtrykniveau for tidsrummet t, reference 20 m  
+
+ Pa Lp	[dB] Lydtrykniveau, reference 20 m  
+
+ Pa LpA 	[dB] A-vægtet lydtrykniveau,  
+
+ reference 20 m  
+
+ Pa LpAi(1 m) 	[dB] Normaliseret A-vægtet  
+
+ lydtrykniveau i retningen gennem målepunkt nr. i, reference 20 m  
+
+ Pa LpAmax 	[dB] Maksimalt A-vægtet  
+
+ lydtrykniveau, reference 20 m  
+
+ Pa Lpi	[dB] Lydtrykniveau i målepunkt nr.  
+
+ i, reference 20 m  
+
+ Pa Lp,i 	[dB] Lydtrykniveau indendørs  
+
+ (ved en bygningsdel eller åbning), reference 20 m  
+
+ Pa L*pi 	[dB] Korrigeret  
+
+ lydtrykniveau i målepunkt nr. i, reference 20 m  
+
+ Pa (Lp)i 	[dB] Lydtrykniveau i  
+
+ oktavbånd nr. i, reference 20 m  
+
+ Pa Lv 	[dB] Hastighedsniveau på  
+
+ bygningsdel, reference 10-9 m/s LW 	[dB] Kildestyrke, lydeffektniveau i en  
+
+ vandret plan, reference 1 pW LW(F  
+
+ )	[dB] Kildestyrke i retning F  
+
+ , reference 1 pW index 	j for støjkilde nr. j m for spejlkilde res for resulterende kildestyrke LW(F  
+
+ ,n) 	[dB] Kildestyrke i retningen F  
+
+  af bygningsdel eller åbning nr. n, reference i pW LW(S
+D
+F  
+
+ ) 	[dB] Kildestyrke i vinkelområdet S
+D
+F  
+
+ , reference 1 pW L'W 	[dB] Varighedskorrigeret kildestyrke,  
+
+ reference 1 pW Index	i for delstrækning nr. i L'W(F  
+
+ ) 	[dB] Driftstidskorrigeret kildestyrke i retningen F  
+
+ , reference 1 pW LR 	[-] Skærmkant M 	[-] Antal støjkilder i gruppe Antal delkilder N 	[-] Antal målepunkter N 	[-] Hjælpestørrelse (Fresneltal)  
+
+ svarende til omvejene:
+index 	R  
+
+  venstre om skærm r højre om skærm v i en lodret plan P	 [-] Skæringspunkt mellem skærm og ret  
+
+ linie mellem S og I index 	R  
+
+  projektion af P på venstre skærmkant r projektion af P på højre  
+
+ skærmkant R
+1 projektion af P på venstre kant af skærm nr. 1 r2 projektion af P på højre  
+
+ kant af skærm nr. 2 x  
+
+ PTx  
+
+  	[m] Afstand mellem P og T x  
+
+ PrPR
+x  
+
+ 	[m] Afstand mellem Pr og P? Q	[-] Skæringspunkt mellem skærm og  
+
+ krum lydbane mellem S og I x  
+
+ QIx  
+
+  	[m] Afstand fra Q til I R 	[-] Punkt, højre hjørne af  
+
+ skærm R 	[m] Afstand mellem støjkilde og  
+
+ beregningspunkt R 	[m] Afstand mellem midtpunkt af referenceboks og  
+
+ målepunkter index 	i til målepunkt nr. i o referenceafstand = 1 m R 	[dB] Reduktionstal index 	n for flade nr. n S	[-] Støjkilde index 	m spejlkilde 1 støjkilde, som repræsenterer  
+
+ delstrækning nr. 1 S 	[m2] Areal index 	- af måleflades fri overflade m af målelinies fladeindhold n af bygningsdel eller åbning nr. n p af grundflade af procesanlæg ref af referenceboksens frie overflade x  
+
+ SIx  
+
+  	[m] Afstand fra S til I = R x  
+
+ STx  
+
+  	[m] Afstand fra S til T x  
+
+ SQx  
+
+ 	[m] Afstand fra S til Q T 	[-] Skæringspunkt mellem overkant af  
+
+ skærm og lodret plan gennem S og I T	[sek] Referencetidsrum x  
+
+ TIx  
+
+  	[m] Afstand fra T til I V 	[m3] Rumvolumen a	[m] Afstand mellem referenceboks og kasseformet  
+
+ måleflade, vinkelret fra målepunkt til kørevej index 	vandret afstand mellem referenceboks og  
+
+ målepunkt nr. i vandret afstand mellem procesanlæg og  
+
+ målepunkt nr. i a(h) 	[-] Funktion, som indgår i beregning af  
+
+ terrænvirkning, D  
+
+ Lg, i 125 Hz oktavbåndet b(h)	[-] Funktion, som indgår i beregning af  
+
+ terrænvirkning, D  
+
+ Lg, i 250 Hz oktavbåndet c(h) 	[-] Funktion, som indgår i beregning af  
+
+ terrænvirkning, D  
+
+ Lg, i 500 Hz oktavbåndet d 	[m] Vandret afstand mellem støjkilde og  
+
+ beregningspunkt, vandret projektion af R index 	i vandret udstrækning af  
+
+ delområde nær beregningspunktet s vandret udstrækning af delområde  
+
+ nær støjkilden v vandret projektion af transmissionsvej gennem  
+
+ bevoksning o karakteristisk dimension af referenceboks 1 vandret afstand mellem støjkilde og  
+
+ skærm 2 vandret afstand mellem beregningspunkt og  
+
+ skærm ic vandret afstand mellem beregningspunkt og centrum  
+
+ af cylinder io vandret afstand mellem beregningspunkt og  
+
+ reflekterende flade is vandret afstand mellem beregningspunkt og den  
+
+ nærmeste skærm sc vandret afstand mellem støjkilde og centrum  
+
+ af cylinder so vandret afstand mellem støjkilde og  
+
+ reflekterende flade ss vandret afstand mellem støjkilde og den  
+
+ nærmeste skærm 1 2 vandret afstand mellem skærm nr. 1 og nr.  
+
+ 2 d(h) 	[-] Funktion, som indgår i beregning af  
+
+ terrænvirkning, D  
+
+ Lg, i 1000 Hz oktavbåndet fc 	[Hz] Centerfrekvens i  
+
+ oktavbånd h 	[m] Højde af målepunkter index 	e effektiv skærmhøjde i højde af beregningspunkt over terræn j højde af delstøjkilde nr. j i  
+
+ procesanlæg m højde af mikrofon/beregningspunkt s højde af støjkilde over terræn w højde af udstrakt (flade-) støjkilde 1 højde af målepunkter 2 højde af målepunkter h's 	[m] Højde af støjkilde  
+
+ over lokalt terræn R  
+
+  	[m] Udstrækning af gruppe af støjkilder eller af udstrakt  
+
+ (flade-) støjkilde Største lineære dimension af  
+
+ procesanlæg index 	i længde af delstrækning nr.  
+
+ i m længde af målelinie omkring  
+
+ procesanlæg o vandret udstrækning af reflekterende flade,  
+
+ diameter af cylinder 1 udstrækning af referenceboks, "længde" 2 udstrækning af referenceboks, "bredde" 3 udstrækning af referenceboks, "højde" m 	[-] Funktion, der indgår i beskrivelse af  
+
+D  
+
+ Lg,c nv 	[-] Antal grupper af vegetation t 	[s] Tid, tidsrum index 	e efterklangstid i driftstidsrum for intermitterende støjkilde v [m/s] Fart af bevægelig støjkilde D  
+
+ L 	[dB] Korrektion for:
+index 	Ai A-kurven (IEC) i  
+
+ oktavbånd nr. i a absorption i luft (overføringsfunktion) d afstand (overføringsfunktion) g terrænvirkning  
+
+ (overføringsfunktion) i intern spredning (overføringsfunktion) m retningsvirkning af mikrofon (måling,  
+
+ procesanlæg) r refleksion (overføringsfunktion) s skærmning (overføringsfunktion) v bevoksning (overføringsfunktion) g,s terræn nær kilden g,i terræn nær beregningspunkt g,c den centrale del af terrænet imellem kilde  
+
+ og beregningspunkt s1 skærmvirkning af skærm  
+
+ nærmest kilde s2,h skærmvirkning af skærm  
+
+ nærmest beregningspunkt, for hypotetisk kilde F  
+
+  retningsvirkning F  
+
+ i retningsvirkning i retningen gennem målepunkt nr. i D  
+
+ di 	[m] Vandret projektion af transmissionsvej gennem  
+
+ installationer D  
+
+ h 	[m] Højde af krum lydbane over den rette linie mellem kilde og  
+
+ beregningspunkt D
+F
+i 	[?] Vinkelområde omkring retningen gennem  
+
+ målepunkt nr. i Q  
+
+  	[?] Vinkel, retning index 	m vinkel, hvor en mikrofons følsomhed  
+
+ i forhold til følsomheden i symmetriaksen er aftaget med 3  
+
+ dB r indfaldsvinkel på en reflekterende flade s vinkel mellem en skærm og linien SI S
+D  
+
+ L 	[dB] Overføringsfunktion (sum af korrektioner) S
+D
+F  
+
+  	[?] Vinkelområde F  
+
+  	[?] Vinkel mellem referenceretningen og transmissionsvejens  
+
+ retning F
+i 	[?] Vinkel mellem referenceretningen og retningen gennem  
+
+ målepunkt nr. i F  
+
+ ' 	[?] Vinkel mellem referenceretningen og transmissionsvejen via en  
+
+ refleksion Y  
+
+  	[?] Vinkel mellem linierne SC og IC a
+a 	[dB/m] Koefficient for lydens absorption i luft a
+i 	[dB/m] Koefficient for lydens dæmpning ved udbredelse  
+
+ gennem installationer a
+v	[dB/gruppe] Koefficient for lydens dæmpning ved  
+
+ udbredelse gennem vegetation d  
+
+  	[m] Omvej ved transmission:
+index 	? venstre om en skærm r højre om en skærm v over en skærm l
+c 	[m] Lydens bølgelængde i luft ved frekvensen  
+
+ fc r  
+
+  	[-] Refleksionskoefficient Appendix 2 IEC-kurve A Hvis 1/1-oktavbånds lydtrykniveauer eller  
+
+ kildestyrker skal omregnes til A-vægtede niveauer, adderes IEC kurve A  
+
+ korrektionerne fra Tabel A.2.
+Tabel A.2   IEC kurve A korrektioner 1 2 3 4 5 6 7 8 Centerfrekvens fc [Hz] 65 125 250 500 1 k 2 k 4 k 8 k A-korrektion D  
+
+ LAi [dB] -26 -16 -9 -3 0 +1 +1 -1 Det totale A-vægtede lydtrykniveau LpA  
+
+ beregnes på grundlag af 1/1-oktavbåndsværdierne  
+
+ (Lp)i ved hjælp af udtrykket (A.2.1).
++++ FORMEL +++ Appendix 3 Skærmning - Flere skærme Når mere end én skærm påvirker  
+
+ støjens udbredelse fra kilde til beregningspunkt, beregnes deres  
+
+ samlede virkning som beskrevet i det følgende.
+ Hvis alle skærmene har negativ effektiv  
+
+ skærmhøjde, jf. (5.3.16), eller hvis kun én af  
+
+ skærmene har positiv effektiv højde, sættes den  
+
+ kombinerede virkning af alle skærmene lig med virkningen, jf. (5.3.9),  
+
+ af den ene skærm, der har den største omvej, d
+v, jf. (5.3.12). Dette er ofte, men ikke altid, den skærm,  
+
+ der har den største effektive højde.
+Metode Hvis to eller flere af skærmene har en positiv  
+
+ effektiv højde, udvælges de to, som er mest effektive, og den  
+
+ samlede virkning af disse to skærme beregnes som vist i Figur  
+
+ A.3.1.
+D  
+
+ Ls D  
+
+ Ls beregnes da som summen af to led.
+Det første led, D  
+
+ Ls1, beregnes som D  
+
+ Ls for skærm nr. 1 uden hensyntagen til, at skærm nr.  
+
+ 2 findes.
+Det andet led, beregnes som D  
+
+ Ls for skærm nr. 2 med en hypotetisk kilde placeret på  
+
+ toppen af skærm nr. 1.
+D  
+
+ Ls = D  
+
+ Ls1 + D  
+
+ Ls2,h 	(A.3.1) D  
+
+ Ls1 og D  
+
+ Ls2,h beregnes ved hjælp af udtrykket (5.3.9).
++++ FIGUR +++ Figur A.3.1 Lodret snit, der viser,  
+
+ hvordan den kombinerede virkning af to skærme beregnes.
+ I nogle tilfælde giver en beregning som vist i Figur  
+
+ A.3.2 en større skærmvirkning end beregningen vist i Figur  
+
+ A.3.1. Derfor skal begge beregninger udføres, og den mindste  
+
+ værdi af D  
+
+ Ls svarende til den største virkning af skærmene,  
+
+ skal bruges.
++++ FIGUR +++ Figur A.3.2 Alternativ beregning af den samlede  
+
+ virkning af skærm nr. 1 og 2. Virkningen D  
+
+ L2 af skærm nr. 2 beregnes uden hensyntagen til skærm  
+
+ nr. 1. Derefter beregnes virkningen D  
+
+ Ls1,h af skærm nr. 1 i et hypotetisk beregningspunkt  
+
+ på toppen af skærm nr. 2. Den samlede virkning er D  
+
+ L's.
+Den mindste værdi af D  
+
+ Ls og D  
+
+ L's i Figur A.3.1-2 bruges.
+Valg af to skærme For at kunne vælge de to mest effektive skærme  
+
+ anbefales5) det at beregne skærmkorrektionen for hver af  
+
+ skærmene alene.
+Beregningen sker ved hjælp af udtrykket (5.3.9).  
+
+ De to af skærmene, der har de mindste D  
+
+ Ls-værdier, vælges som skærm nr. 1 og 2 i Figur  
+
+ A.3.1-2.
+5) Denne fremgangsmåde afviger fra  
+
+ udvælgelsesmetoden i [1].
+Teoretisk kan udvælgelsen give  
+
+ forskellige resultater, men dette vurderes at være af mindre betydning  
+
+ i praksis.
+Fremgangsmåden, som er anbefalet her, er lettere at bruge  
+
+ end metoden i [1].
+En bred bygning repræsenteres ved netop to  
+
+ skærme, jf.
+Figur A.3.3. Virkningen beregnes ved hjælp af  
+
+ (A.3.1).
++++ FIGUR +++ Figur A.3.3 En bred bygning,  
+
+ repræsenteret ved to skærme.
+ Når en bygning repræsenteres ved kun én  
+
+ tynd skærm, beregnes omvejene d
+r og d
+? som de længste omkring bygningen, se Figur A.3.4.
++++ FIGUR +++ Figur A.3.4 Bygning repræsenteret  
+
+ ved én skærm.
+Omvejene dr og dl bestemmes ved d
+r = *  
+
+ SPr2*
+ + *  
+
+ Pr2I*  
+
+  - *  
+
+ SI* (A.3.2) d
+R  
+
+  = *  
+
+ SpR
+1*
+ + *  
+
+ PR
+1I*  
+
+  - *  
+
+ SI* Appendix 4 Virkningen af terræn, der ikke er vandret og  
+
+ plant, D  
+
+ Lg og D  
+
+ Ls Beregningen af terrænkorrektionen D  
+
+ Lger beskrevet i afsnit 5.3.7. Beregningsmetoden er udviklet for  
+
+ plant, vandret terræn ved tilpasning af beregningsudtrykkene i Tabel  
+
+ 5.3.5 til et stort antal måleresultater.
+Når terrænet ikke er plant og vandret, kan det  
+
+ undertiden være svært at fastsætte værdierne af  
+
+ højderne hs og hi.
+Forudsætningen om, at  
+
+ udstrækningen d s og di af delområderne  
+
+ nær kilde og beregningspunkt skal måles vandret, er ikke altid  
+
+ relevant.
+Udstrækningen ds og di af  
+
+ delområderne bruges ved fastlæggelse af værdien af faktoren  
+
+ G i Tabel 5.3.5, og ds og di bruges også ved  
+
+ fastlæggelse af højderne hs og hi.
+I Figur A.4.1 er for forskellige situationer vist, hvordan  
+
+ hs og hi fastsættes.
+Samtidigt er  
+
+ udstrækningen af delområderne af terrænoverfladen nær  
+
+ ved kilde og beregningspunkt vist.
+Den centrale del er området mellem  
+
+ disse.
+ Det understreges, at gyldigheden af beregningerne ikke er  
+
+ blevet verificeret i ekstreme tilfælde som for eksempel i del f) af  
+
+ Figur A.4.1. I tilfælde som i del f) anbefales det at se bort fra  
+
+ bidraget til D  
+
+ Lg fra det centrale delområde.
+I figurens del b) er h's kildens højde  
+
+ over den "lokale" terrænoverflade. 30 . h's strækker  
+
+ sig ud over den lavere terrænoverflade længere fra kilden.
+Derfor  
+
+ defineres en ny kildehøjde hs og et nyt kildenært  
+
+ delområde 30 . hs.
++++ FIGUR +++ Figur A.4.1 Snit, der viser højderne  
+
+ hs og hi og den tilhørende udstrækning af  
+
+ delområderne af terrænoverfladen.
+Når et bakkedrag virker som skærm, beregnes  
+
+D  
+
+ Ls for en tynd skærm placeret som vist i Figur A.4.2 a-b.  
+
+ Højdeforskellen Ht - Hg, jf.
+Figur 5.3.5,  
+
+ bestemmes som vist i figurens del b), idet der tænkes at eksistere en  
+
+ terrænoverflade som vist.
+ Ved beregning af terrænkorrektionen, se afsnit  
+
+ 5.3.7, fastlægges højderne hs og hi og  
+
+ delområderne af terrænoverfladen som vist i Figur A.4.2 c.
++++ FIGUR +++ Figur A.4.2 Parametre ved beregning af  
+
+ skærmvirkningen af et bakkedrag.
+Appendix 5 Intern spredning, DLi Der findes kun ganske få resultater af  
+
+ undersøgelser af spredningen af støjen under transmissionen  
+
+ gennem installationer på virksomheder.
+Det anbefales derfor i  
+
+ tilfælde, hvor denne virkning er af stor betydning for den samlede  
+
+ støjbelastning, at udføre målinger (ved hjælp af  
+
+ for eksempel højttalere som lydkilde) af lydtrykniveauets aftagen ved  
+
+ udbredelse mellem de konkrete installationer.
+Lydens udbredelse  
+
+ påvirkes af typen af installationer, deres tæthed, dimensioner og  
+
+ højde.
+ Hvis der medregnes en korrektion D  
+
+ Li for spredningen, skal der ikke medregnes korrektion for  
+
+ skærmning, D  
+
+ Ls eller refleksion, D  
+
+ Lr, fra installationerne.
+ De vejledende værdier, som er gengivet i Tabel  
+
+ A.5.1, kan bruges ved planlægning af åbne procesanlæg.  
+
+ Korrektionen D  
+
+ Li beregnes ved hjælp af (A.5.1).
+D  
+
+ Li = a
+i . D  
+
+ di	(A.5.1) Hvis D  
+
+ Li < -10 dB, sættes D  
+
+ Li lig med -10 dB.
+ a
+i er en dæmningskoefficient [dB/m].
+ D  
+
+ Li er længden af transmissionsvejen gennem installationen  
+
+[m].
+ D  
+
+ Li fastlægges på samme måde som dv  
+
+ for bevoksning, se Figur 5.3.12-13 og Figur A.5.
++++ FIGUR +++ Figur A.5 Længden DLi af  
+
+ transmissionsvej gennem installationer.
+ Tabel A.5 Vejledende værdier af a
+i.
+63 125 250 500 1000 2000 4000 8000 a
+i [dB/M] 0,00 0,02 0,05 0,05 0,05 0,05 0,05 0,05 Appendix 6 Oversigt over fordelagtigste metode til bestemmelse af  
+
+ støjniveau Selv om den nordiske beregningsmetode til bestemmelse af  
+
+ støj fra virksomheder har været kendt og brugt gennem nogle  
+
+ år, kan det ikke entydigt fastlås, hvornår beregning eller  
+
+ måling er mest fordelagtigt.
+Ud over indflydelsen af rent tekniske faktorer som  
+
+ tilstedeværelse af en veludbygget samling støjmåleudstyr  
+
+ eller af dataprogram og datamaskine vil også den enkelte persons rutine  
+
+ i forbindelse med anvendelse af måleudstyr eller anvendelse af  
+
+ dataudstyr spille ind ved valget mellem måling og beregning.
+Der er  
+
+ således også rent psykologiske faktorer, der vil spille ind i  
+
+ valget mellem måling og beregning.
+ Efter Miljøstyrelsens opfattelse skal  
+
+ beregningsmetoden betragtes som et tilbud og ikke som et krav om  
+
+ anvendelse.
+ Det er fordelagtigst at måle:
+ Det er fordelagtigst at beregne:

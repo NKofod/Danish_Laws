@@ -1,0 +1,69 @@
+INDHOLDSFORTEGNELSE 1. INDLEDNING 2. DEFINITIONER 3. TEKNISKE OPLYSNINGER 4. TEKNISKE KRAV 5. MÅLEOPSTILLINGER 1. INDLEDNING Digitale faste kredsløb tilbydes af teleadministrationerne udlejet som  
+
+ elektriske transmissionsveje, der via teleadministrationernes anlæg er fast  
+
+ etablerede mellem 2 geografisk adskilte termineringspunkter.
+ I forbindelse med PABC'er anvendes et digitalt fast kredsløb oftest til at  
+
+ forbinde 2 PABC'er eller forskellige delsystemer af een PABC.
+ Nærværende tekniske bestemmelser for tilslutning af PABC'er til digitale  
+
+ faste kredsløb indeholer følgende:
+ - Kapitel 2 indeholder definitioner af anvendte udtryk og begreber der  
+
+ ikke forudsættes almindelig kendte.
+ - Kapitel 3 indeholder tekniske oplysninger om de af det offentlige  
+
+ telefonnet tilbudte digitale faste kredsløb.
+ - Kapitel 4 beskriver de tekniske krav, der kræves opfyldt af en PABC  
+
+ eller delsystem heraf for at opnå typegodkendelse for direkte tilslutning til  
+
+ digitale faste kredsløb.
+ Generelt gælder, at der i en given PABC kun kræves opfyldelse af de krav,  
+
+ der er relevante for den specifikke PABC's funktioner.
+ - Kapitel 5 indeholder detailopstillinger til verifikation af de i kapitel  
+
+ 4 specificerede krav.
+2. DEFINITIONER A. 2,048 Mbit/s digitale faste kredsløb med standardiseret rammelåsning For definitioner henvises der til definitionerne i TB91-020 »Tekniske  
+
+ bestemmelser.
+Terminaludstyr for tilslutning til 2,048 Mbit/s digitale faste  
+
+ kredsløb med standardiseret rammelåsning«.
+3. TEKNISKE OPLYSNINGER A. 2,048 Mbit/s digitale faste kredsløb med standardiseret rammelåsning Der henvises til tekniske oplysninger i TB91-020 »Tekniske  
+
+ bestemmelser.
+Terminaludstyr for tilslutning til 2,048 Mbit/s digitale faste  
+
+ kredsløb med standardiseret rammelåsning«.
+4. TEKNISKE KRAV A. 2,048 Mbit/s digitale faste kredsløb med standardiseret rammelåsning En PABC eller delsystem heraf, der ønskes direkte tilsluttet et 2,048  
+
+ Mbit/s digitalt fast kredsløb med standardiseret rammelåsning, skal opfylde  
+
+ de krav, der er specificerede i de tekniske krav i TB91-020 »Tekniske  
+
+ bestemmelser.
+Terminaludstyr for tilslutning til 2,048 Mbit/s digitale faste  
+
+ kredsløb med standardiseret rammelåsning«, idet der dog gøres følgende  
+
+ undtagelse:
+ - I de tekniske kravs afsnit om taktstyring undlades kravet om, at  
+
+ sendetaktsignalet skal kunne vælges til at kunne styres fra takten i det  
+
+ indkommende signal.
+ Der stilles således ikke krav om, at PABC'en skal kunne synkroniseres fra  
+
+ takten i det indkommende signal.
+5. MÅLEOPSTILLINGER A. 2,048 Mbit/s digitale faste kredsløb med standardiseret rammelåsning Til verifikation af de stillede krav henvises der til målemetoderne i  
+
+ TB91-020 »Tekniske bestemmelser.
+Terminaludstyr for tilslutning til  
+
+ 2,048 Mbit/s digitale faste kredsløb med standardiseret rammelåsning«.
+ Som følge af undtagelsesbestemmelsen i nærværende kapitel 4 kan målingen  
+
+ af bithyppighed, når sendetakten styres af modtagetakten, undlades.

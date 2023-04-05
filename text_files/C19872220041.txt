@@ -1,0 +1,110 @@
+Læreplan for faget DISTRIBUEREDE SYSTEMER OG DATANET FORMÅL Faget skal give eleven et indgående, praktisk orienteret kendskab til de  
+
+ tekniske problemer, der er knyttet til kommunikation mellem datamater.
+ Endvidere skal de sikkerhedsmæssige, organisatoriske og arbejdsmæssige  
+
+ konsekvenser være belyst.
+MÅL Eleven skal være orienteret om datakommunikationssystemers opbygning og  
+
+ funktion.
+ Eleven skal være orienteret om markedsrelevante standarder for  
+
+ datakommunikation.
+ Eleven skal kunne anvende programmel til løsning af  
+
+ datakommunikationsopgaver.
+ Eleven skal kunne anvende de offentlige datatjenester.
+ Eleven skal være orienteret om de sikkerhedsmæssige aspekter ved  
+
+ datakommunikation.
+ Eleven skal være orienteret om distribuerede systemers opbygning og  
+
+ funktion.
+INDLÆRINGSDYBDE A.
+Eleven skal være orienteret om emnet.
+B.
+Eleven skal have opnået forståelse af og kendskab til emnet.
+C.
+Eleven skal have opnået indsigt i og dybere kendskab til emnet og  
+
+ kunne anvende sin viden i afvigende kombinationer.
+INDHOLD OG DELMÅL Datakommunikationssystemers arkitektur B Eleven skal opnå kendskab til de grundlæggende begreber indenfor  
+
+ datatransmission, såsom asynkron og synkron transmission, simpleks og dupleks  
+
+ transmission samt synkronisering af sender og modtager.
+A Eleven skal være orienteret om principperne i analog og digital  
+
+ transmission, samt principper for og udstyr til konvertering mellem disse  
+
+ former.
+A Eleven skal være orienteret om det maskinel og programmel, der er  
+
+ nødvendigt for overførsel af data mellem to datamater eller mellem en datamat  
+
+ og andet udstyr.
+B Eleven skal opnå kendskab til principperne i transmissionsprotokoller,  
+
+ samt til udbredte standarder for disse, som f.eks.
+BSC-protokoller, HDLC og  
+
+ X.25. A Eleven skal være orienteret om en udbredt arkitektur for  
+
+ datakommunikationssystemer, såsom ISO's syvlags-model for sammenkobling af  
+
+ åbne systemer.
+Standarder A Eleven skal være orienteret om væsentlige standardiseringsorganer, deres  
+
+ arbejdsområder og indbyrdes relationer.
+A Eleven skal være orienteret om adgangene til oplysninger om  
+
+ markedsrelevante standarder.
+A Eleven skal være orienteret om markedsrelevante standarder for fysisk  
+
+ sammenkobling af datamatisk udstyr.
+Brug af kommunikationsprogrammel C Eleven skal kunne anvende standardprogrammel til overførsel af data mellem  
+
+ to datamater.
+Distribuerede systemers arkitektur A Eleven skal orienteres om væsentlige problemer knyttet til distribuerede  
+
+ systemer, såsom problemer ved distribution af funktioner samt problemer ved  
+
+ distribution af data.
+B Eleven skal opnå kendskab til de driftsmæssige problemer knyttet til  
+
+ distribuerede systemer; specielt de sikkerhedsmæssige problemer er  
+
+ væsentlige.
+A Eleven skal være orienteret om opbygning og funktioner i et typisk  
+
+ distribueret system, f.eks. et distribueret filsystem.
+A Eleven skal være orienteret om standardiseringer vedrørende anvendelse af  
+
+ datanet, såsom FTAM, CASE, SASE og virtuelle terminaler.
+Offentlige datatjenester B Eleven skal opnå kendskab til opbygning af og funktioner i de offentlige  
+
+ datatjenester, såsom Datel, Datex og Datapak.
+C Eleven skal kunne vælge og anvende en offentlig datatjeneste til løsning  
+
+ af en given datakommunikationsopgave.
+Private net A Eleven skal være orienteret om eksempler (industristandarder, de fakto) på  
+
+ markedsrelevante standarder for private datanet.
+A Eleven skal være orienteret om opbygning og funktion af forskellige typer  
+
+ af lokalnet.
+Sikkerhed A Eleven skal være orienteret om de sikkerhedsmæssige, organisatoriske og  
+
+ arbejdsmæssige konsekvenser ved datakommunikation: A Eleven skal være orienteret om principperne i kryptering og dets  
+
+ anvendelse.
+SAMMENHÆNGEN TIL ANDRE FAG Undervisningen skal koordineres med undervisningen i lokalnet og  
+
+ sammenkobling af datamater i faget »Materiel og basisprogrammel, mindre  
+
+ datamater«.
+ Undervisningen vedrørende drift af distribuerede systemer og sikkerhed  
+
+ skal koordineres med undervisningen i drift af større systemer i faget  
+
+ »Materiel og basisprogrammel, større datamater«.

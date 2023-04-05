@@ -1,0 +1,611 @@
+Vejledning til bekendtgørelse om anvendelse af informations- og kommunikationsteknologi i offentligt byggeri Indholdsfortegnelse Læsevejledning til vejledningen Denne vejledning vedrører de krav, som bygherrer skal stille i henhold til »Bekendtgørelse om anvendelse af informations- og kommunikationsteknologi (IKT) i offentligt byggeri« (bekendtgørelse nr. 118 af 6. februar 2013).
+Vejledningen er disponeret efter bekendtgørelsens paragraffer.
+Således indeholder hvert kapitel bygherrekravets ordlyd, formålet med paragraffen, og hvor det giver mening, hvordan kravstillelsen bør gennemføres samt anbefalinger vedrørende den praktiske anvendelse.
+ Anbefalingerne vedrørende den praktiske anvendelse for bygherrer, rådgivere og udførende, er dels en uddybning af bekendtgørelsens ordlyd, dels konkrete forslag til opfyldelse, samt anbefalinger og eksempler.
+ Hensigten med vejledningen er at forklare bekendtgørelsens indhold på en sådan måde, at det bliver operationelt, både for bygherren, der skal stille de konkrete bygherrekrav, og for byggesagens parter, der skal opfylde kravene.
+Det skal understreges, at bygherrer og dennes leverandører  inden for bekendtgørelsens rammer  kan vælge andre løsninger, hvor dette skønnes hensigtsmæssigt.
+Bekendtgørelsens krav er alene minimumskrav.
+Desuden er løsningerne og arbejdsmetoderne i vejledningen kun vejledende, og intet står til hinder for at gennemføre bekendtgørelsens krav med andre og mere effektive måder, end dem, der er angivet i vejledningen.
+Indledning Baggrund for bekendtgørelsen Det Digitale Byggeri var et af initiativerne i den byggepolitiske handlingsplan »Staten som bygherre« fra 2003. Resultatet af Det Digitale Byggeri var dels en række bygherrekrav formuleret gennem IKT-bekendtgørelsen, dels et digitalt fundament bestående af en række konkrete standarder og værktøjer.
+Formålet med bygherrekravene var et ønske om »at trække IT-anvendelsen i byggeriet frem gennem ensartede krav fra de offentlige bygherrer«.
+Disse krav skulle så vidt muligt harmoniseres, så virksomhederne kunne høste fordele af IT-investeringerne gennem standardisering og genbrug af data.
+ Formålet med Det Digitale Fundament var at etablere et standardiseret grundlag, dels en fælles informationssystematik, som kunne forbedre vilkårene for overførsel af digitale data mellem byggeriets forskellige parter.
+De statslige bygherrer har sammen med en lang række aktører i byggeriet været drivkraften for Det Digitale Byggeri.
+IKT-bekendtgørelse nr. 1365 trådte i kraft den 1. januar 2007, og IKT-bekendtgørelse nr. 1381 har sidenhen været gældende for statsligt, og statsligt støttet, byggeri (det almene byggeri undtaget) siden 1. marts 2011.
+Folketinget vedtog i juni 2011 Lov om offentlig byggevirksomhed.
+Vedtagelsen medførte at kommuner og regioner skal omfattes af de samme produktivitetsfremmende og omkostningsbesparende værktøjer, som det statslige byggeri hidtidigt har været omfattet af, herunder IKT-bekendtgørelsen (nr. 1381).
+ Med afsæt i bl.a. den byggepolitiske handlingsplan »Bedre og billigere boliger« fra 2007 har Ministeriet for By, Bolig og Landdistrikter ønsket at gøre tilsvarende IKT-krav gældende for det almene boligbyggeri.
+For at imødekomme brugernes ønske om ensartet kravstillelse, har Bygningsstyrelsen og Ministeriet for By, Bolig og Landdistrikter derfor - i det omfang som det har været muligt - gennemført en harmonisering af de to IKT-bekendtgørelser for henholdsvis det almene byggeri og for stat, regioner og kommuner.
+Paragraf 3-11 i de to bekendtgørelser er således helt identiske.
+Bekendtgørelserne er forskellige fra hinanden i paragraf 1, 2 og 12, hvilket bl.a. er betinget af forskelle i anvendelsesområderne (hvem der er omfattet af reglerne) og overgangsbestemmelserne for det offentlige byggeri, idet de to bekendtgørelser har hjemmel i forskellige love, henholdsvis Almenboligloven og Lov om offentlig byggevirksomhed.
+Bekendtgørelsens formål Formålet med bekendtgørelsen er at påvirke til en harmoniseret og værdiskabende anvendelse af IKT i bygge-, renoverings-, drift- og vedligeholdelsesopgaver i den offentlige sektor og det offentligt støttede byggeri.
+Produktiviteten indenfor disse opgaver vurderes at kunne forøges væsentligt i de kommende år ved udvidet brug af IKT.
+Med dette formål omfatter bekendtgørelsen en række krav til IKT-anvendelsen samt til de metoder og processer, der knytter sig til disse.
+Rent praktisk er bekendtgørelsen udformet som en række krav, som bygherren i den konkrete byggesag skal stille til byggesagens parter.
+Disse krav omfatter:
+§ 3 IKT-koordinering § 4 Håndtering af digitale byggeobjekter § 5 Digital kommunikation og projektweb mv.
+§ 6 Anvendelse af digitale bygningsmodeller i projektkonkurrencer § 7 Anvendelse af objektbaseret bygningsmodellering under projektering og udførelse § 8. Digitalt udbud og tilbud § 9 Udbud med mængder § 10. Digital leverance ved byggeriets aflevering § 11. Digital mangelinformation Kravene kan overordnet set inddeles i tre typer af krav:
+ 1. Krav, som øger kvaliteten og produktiviteten hos bygherren.
+ 2. Krav, som øger driftsherrens produktivitet i driften.
+ 3. Krav, som øger kvaliteten og produktiviteten i leverancesystemet, som i denne sammenhæng omfatter rådgivere, projekterende, udførende, byggevareproducenter, it-udbydere m.v.
+ Byg-/driftsherren har en direkte egeninteresse i punkt 1 og 2 ovenfor, og skal stille krav på disse områder for direkte at opnå fordele hos sig selv  og i sine egne arbejdsprocesser.
+ Byg-/driftsherren har en indirekte interesse i at sikre, at hans leverancesystem  af hensyn til pris, tid og kvalitet  benytter redskaber og metoder, som påviseligt øger produktivitet og kvalitet i leverancesystemet.
+Kravstillelsen Bekendtgørelserne omfatter ikke krav til, hvordan bygherren skal stille kravene overfor byggesagens parter, men kravstillelsen vil typisk indgå som en integreret del af henholdsvis aftalerne med de deltagende rådgivere og med de udførende.
+ En specificering af kravene vil som oftest indgå i de ydelsesbeskrivelser, der knytter sig til rådgiveraftalen, og til byggesagsbeskrivelsen, der knytter sig til kontrakterne.
+ De rent IKT-tekniske forhold i forbindelse med håndtering af bygherrekravene kan enten indgå i ydelsesbeskrivelsen eller være beskrevet i særskilte IKT-specifikationer.
+Bekendtgørelsen § 1. Hvem er omfattet af reglerne? 1.1 Bygherrekravets ordlyd 1.2 Formål Bekendtgørelsen gælder for byggeri omfattet af Lov om offentlig byggevirksomhed (Lov nr. 623). Det vil sige nybyggeri, om- og tilbygning af/til byggeri, renovering og vedligeholdelse af byggeri, samt anlæg knyttet til det omfattede byggeri.
+Med anlæg knyttet til det omfattede byggeri menes der anlæg i umiddelbar tilknytning til byggeriet, dvs. eksempelvis tekniske anlæg, parkeringsanlæg og/eller -huse, der støder umiddelbart op til byggeriet, samt den del af rør og lignende der umiddelbart udgår fra bygningen i terræn (kloak, el, vand, etc.). Bekendtgørelsens anvendelsesområde omfatter således ikke terræn- og/eller landskabsarbejder generelt, men det kan dog i visse tilfælde være hensigtsmæssigt at inkludere disse i den digitale modellering alligevel.
+Bekendtgørelsen finder anvendelse for statsligt og statsligt støttet byggeri med en samlet anslået entreprisesum på 5 mio. kr. ekskl. moms eller derover.
+For regionalt og kommunalt byggeri, herunder byggeri som opføres helt eller delvist med lån eller tilskud fra region eller kommune samt byggeri til brug for institutioner, hvis drift helt eller delvist betales af staten, er beløbsgrænsen 20 mio. kr., ekskl. moms (anslået entreprisesum).
+Bekendtgørelsen finder desuden anvendelse for byggeri, der helt eller delvist finansieres ved lån eller tilskud fra stat, region eller kommune, når lånet eller tilskuddet udgør mindst 50 procent af entreprisesummen.
+Det samme gælder byggeri til institutioner, hvis drift helt eller delvist betales af stat, region eller kommune, når det samlede tilskud udgør mindst 50 procent.
+§ 2. Muligheder for fravigelse i forbindelse med renovering og vedligehold 2.1 Bygherrekravets ordlyd § 2. Bygherren kan i forbindelse med byggesager vedrørende renovering og vedligehold undlade at opfylde ét eller flere af bekendtgørelsens krav, hvis udgifterne forbundet med opfyldelse af det eller de pågældende krav ikke står mål med gevinsterne.
+ Stk. 2. Bygherren kan dog ikke fravige reglerne i § 8 om digitalt udbud og tilbud via et digitalt system.
+2.2 Formål Bygherren kan vælge at fravige ét eller flere af bekendtgørelsens krav på alle typer af renoverings- og vedligeholdelsesprojekter, uanset beløbsstørrelse.
+Dog kan bygherren ikke fravige reglerne vedrørende digitalt udbud og tilbud via et digitalt system (§ 8).
+Muligheden for fravigelse udspringer af en accept af, at der kan være beløbsmæssigt store renoverings- og vedligeholdelsesprojekter, hvor det ikke nødvendigvis altid giver mening at stille alle digitale krav.
+Det kunne eksempelvis være i forbindelse et stort vinduesrenoveringsprojekt med udskiftning af mange vinduer, hvor en digital bygningsmodel af byggeriet ikke tilfører projektet nævneværdig værdi.
+Et andet eksempel kunne være et byggeprojekt, hvor bygherren stort set kun har én part at kommunikere med, og hvor mængden af den digitale dokumentudveksling kan forudses at blive minimal.
+I en sådan situation vil kravet om brug af projektweb eksempelvis blive en unødig omkostning og dermed økonomisk ufordelagtigt for projektet.
+Har bygherren flere af sådanne projekter, kan det dog samlet set alligevel være en stor fordel at bruge projektweb, idet det giver bygherren et samlet overblik over det udarbejdede materiale.
+§ 3. IKT-koordinering 3.1 Bygherrekravets ordlyd 3.2 Formål Formålet med kravet er at sikre, at der gennem hele byggesagens forløb sker en koordinering af den samlede IKT-anvendelse på tværs af de relevante, involverede parter.
+3.3 Kravstillelse Bygherren skal sikre, og har ansvaret for, at der sker en IKT-koordinering gennem hele byggesagen.
+Koordineringen kan opnås ved at sikre, at der hele tiden er en specifik part, der har ansvaret for at koordinere det digitale samarbejde mellem alle byggesagens parter.
+ Funktionen som IKT-koordinator kan udøves og organiseres på mange forskellige måder.
+Funktionen kan være placeret hos bygherren, hos en af projektets rådgivere eller udførende eller hos en tredjepart, der alene varetager denne opgave.
+At placere opgaven hos en af byggesagens involverede parter har den fordel, at det bliver en part, der kender projektet indefra, som forestår IKT-koordineringen.
+På større byggesager kan IKT-koordineringsfunktionen opbygges som en IKT-organisation, hvor IKT-koordinatoren har ledelsen af organisationen, og hvor denne refererer til bygherren, i koordination med projekterings- og byggeledelsen.
+I IKT-organisationen kan alle parters IKT-ansvarlige deltage  herunder bygherrens IKT-ansvarlige.
+Er funktionen som IKT-koordinator placeret hos en af byggesagens rådgivere eller udførende, bør aftalen herom indgå i de aktuelle aftaler.
+Er funktionen placeret hos en tredjepart, må der træffes en særskilt aftale.
+ Det anbefales, at der til såvel rådgiveraftalen som til aftalen med en eventuel tredjepart knyttes en detaljeret IKT-ydelsesspecifikation, som beskriver de konkrete koordineringsydelser og opgaver, som IKT-koordinatoren skal varetage.
+ Bygherren kan i formuleringen af krav til IKT-koordineringen blandt andet lade sig inspirere af DANSKE ARK og FRIs »Ydelsesbeskrivelse for Byggeri og Planlægning 2012« samt bips paradigme for IKT-ydelsesspecifikationer, F102 og F202.
+ Er funktionen placeret hos bygherren, anbefales det, at funktionen også her varetages med udgangspunkt i en ydelsesbeskrivelse, og at denne er kendt af byggesagens øvrige parter.
+3.4 Anbefalinger vedr. den praktiske anvendelse At forestå den samlede IKT-koordinering på tværs af alle involverede parter, betyder i praksis, at IKT-koordinatoren har ansvaret for at organisere, koordinere, formidle og beskrive anvendelsen af IKT i det digitale samarbejde mellem parterne gennem hele byggesagens forløb.
+Bekendtgørelsernes henvisning til »den samlede IKT-anvendelse« sker for at understrege, at der ud over de krav, som bygherren stiller i henhold til denne bekendtgørelse, kan foreligge andre aftaler eller krav, der relaterer sig til anvendelsen af IKT i projektet, som koordineringen må inkludere.
+Det kan f.eks. være omkring 3D-arbejdsmetode eller CAD-anvendelse.
+ Som grundlag for IKT-koordineringen kan det anbefales, at der udarbejdes et sæt IKT-specifikationer til brug for byggesagens parter. (se bilag 1 for eksempel fra Bygningsstyrelsen på udformning af en IKT-aftale). Det vil være naturligt, at det er IKT- koordinatoren, der har ansvaret for at udarbejde disse specifikationer, som så skal godkendes af bygherren samt efterfølgende at sikre, at IKT-specifikationerne er tilgængelige for byggesagens parter samt at de overholdes.
+Såfremt bygherren allerede har et paradigme for IKT-specifikationer eller anvender paradigmet vedr.
+IKT-specifikationer fra foreningen bips, vil IKT-koordinatoren have til opgave at indføje nødvendige projektspecifikke specifikationer.
+En metode, som med fordel kan anvendes af flergangsbygherrer, kan således være at anvende bips IKT-ydelsesspecifikation, som grundlag for at opstille en »firmastandard« med generelle, ufravigelige krav.
+Den kan suppleres af underbilag for håndtering af digitale byggeobjekter, digital kommunikation, anvendelse af objektbaseret, digital bygningsmodellering, digitalt udbud og tilbud samt digitale leverancer undervejs og ved byggeriets aflevering.
+I disse underbilag kan man i detaljer aftale, hvad der skal gælde for den enkelte sag.
+Når bygherren har udarbejdet denne »IKT-firmastandard« kan den spredes i organisationen og sikre et ensartet minimumsgrundlag for håndteringen af de digitale data på forskellige byggesager.
+ Det er vigtigt, at IKT-bilag i kontrakterne med rådgivere og udførende, afsluttes samtidig med at hovedkontrakten underskrives.
+3.5 IKT-koordineringens indhold og omfang IKT-koordineringens indhold og omfang bør specifikt forholde sig til hovedelementerne i IKT-bekendtgørelsen, og bør især koncentrere sig om følgende:
+ IKT-koordinatorens opgaver i relation til håndtering af digitale byggeobjekter i byggesagen kan bl.a. være at:
+ IKT-koordinatorens opgaver i relation til den digitale kommunikation i byggesagen kan bl.a. være at:
+ IKT-koordinatorens opgaver i relation til den digitale kommunikation under byggesagen samt i forbindelse med digital leverance ved byggeriets aflevering kan bl.a. være at:
+ IKT-koordinatorens opgave kan i relation til anvendelse af bygningsmodeller være, at:
+Hvad angår organisering af fællesmodeller i den objektbaserede bygningsmodellering, omfatter IKT-koordinatorens rolle alene det IKT-mæssige.
+Det projekteringsfaglige, og dermed den tværfaglige koordinering samt kontrol af modelindholdet, påhviler projekteringsledelsen og projektets fagansvarlige.
+ IKT-koordinatorens opgave i relation til digitalt udbud og tilbud kan bl.a. være at:
+§ 4. Håndtering af digitale byggeobjekter 4.1. Bygherrekravets ordlyd 4.2 Formål Formålet med kravet er at sikre, at informationer om byggeobjekter og deres egenskaber i videst muligt omfang er til rådighed for bygherren og hans rådgivere og udførende under projekteringen og udførelsen, samt at driftsrelevante objekter og deres egenskaber står til rådighed for driftsherrens anvendelse ved byggeriets overdragelse i et nærmere specificeret omfang.
+Det er vigtigt, at dataudvekslingen kan ske så uhindret som muligt.
+Formålet er endvidere i videst muligt omfang at muliggøre en udnyttelse af fordelene ved objektbaseret modellering, i en situation hvor vi bevæger os fra dokumentbaserede arbejdsmetoder, over i en verden med anvendelse af digital, objektbaseret bygningsmodellering.
+Kombinationen af digital, objektbaseret bygningsmodellering og »den traditionelle«, dokumentbaserede verden, fordrer en bygningsmodellering, hvor alle objekter er éntydigt identificeret og navngivet, således at byggeobjekter i bygningsmodellen eksempelvis kan genfindes og identificeres udenfor modellen  f.eks. på tilbudslister, bygningsdelsbeskrivelser m.m. på tværs af fag, faser og aktører.
+Denne entydige identifikation af objekter kan og skal tilgodeses, også selv om der arbejdes med flere klassifikationssystemer.
+4.3 Kravstillelse Kravet skal stilles af bygherren og omfatter alle byggesagens parter.
+Kravet bør således indgå i aftalegrundlaget med disse.
+Det anbefales, at der i aftalegrundlaget specifikt henvises til den relevante og tilgængelige dokumentation for den valgte navngivning, kodning og klassifikation.
+4.4 Anbefalinger vedr. den praktiske anvendelse 4.4.1 Identifikation og navngivning af byggeobjekter gennem hele byggesagen Når man arbejder med objektbaseret modellering i såkaldte BIM-systemer, vil man ideelt set kunne udveksle objekter med egenskabsdata mellem forskellige systemer, og har ikke brug for hverken klassifikation eller specifik identifikation i form af navngivning af objekterne for at kunne arbejde med dem, eller for at kunne udveksle dem mellem forskellige typer af objektbaserede modelleringsapplikationer.
+Bindeleddet mellem de forskellige systemer er ISO-udvekslingsformatet, IFC, eventuelt støttet af en metodisk beskrivelse af formål og indhold af dataudvekslingen  en såkaldt IDM (Information Delivery Manual).
+I objektbaserede modelleringssystemer vil alle objekter internt være forsynet med en individuel identifikation  en såkaldt GUID (Global Unique Identifier)  og applikationen vil kende objektets type, funktion, relation og placering, og vil vide, hvilken IFC-objektklasse objektet tilhører, samt hvilke egenskaber, der knytter sig til det.
+Ved eksport af modelinformationer fra systemet via IFC, vil applikationen producere en fil, som alle andre IFC-kompatible applikationer kan læse og fortolke.
+Det modtagende system vil følgelig vide hvilke IFC-objektklasser den modtagne model indeholder, hvilke objekter det modtager, samt hvilke egenskaber, der knytter sig til objekterne.
+Fordi en IFC-fil er dokumenteret og læsbar for IT-teknikere, som vil kunne læse og forstå modellen og dens objekter, vil man tillige kunne konvertere modelfilen til andre applikationers filformater.
+Hvis man  som byggebranchen stadigvæk gør i dag - arbejder med en blanding af objektbaserede modelleringsværktøjer og »traditionelle« ikke-objektbaserede IT-systemer (Word, Excel, CAD, Acces-databaser mv.), er det praktisk at kunne navngive, klassificere eller kode byggeriets objekter, så man kan referere til, og arbejde med objekterne og deres egenskaber - også i systemer, som ikke er objekt- og modelorienterede, og som ikke kan læse, og fortolke eller eksportere IFC-filer.
+Det kan f.eks. dreje sig om følgende:
+ Typisk kan få af disse systemer i dag læse eller eksportere filer i IFC-formatet, så hvis man vil kunne håndtere objekterne og deres egenskaber i et blandet miljø af traditionelle IT-applikationer og objektbaserede modelleringsværktøjer, så må man sikre en ensartet navngivning, klassifikation eller kodning af objekterne i alle de systemer, hvor de optræder.
+De specifikke systemer, som man vil overføre data til eller fra, kan imidlertid stille krav om, at man skal identificere informationer (f.eks. sammenhængende klumper af tekst om et bestemt objekt), så de kan ind- og udlæses på en bestemt, ensartet måde.
+Det kan således være påkrævet, at en klassifikationskode (som refererer til et bestemt objekt og dets egenskaber) skal forsynes med yderligere kodning for at kunne indlæses med den tilsigtede mening i systemet.
+Det centrale i kravet om identifikation og navngivning af byggeobjekter gennem hele byggesagen er, at der gennem hele byggesagen holdes styr på alle byggeobjekter på en sådan måde, at de på en ensartet måde, og uden tab af information, kan udveksles mellem parterne og deres forskellige IKT-systemer.
+Dette kan i praksis ske på to måder:
+ Gennem en ensartet navngivning, klassifikation og kodning af alle byggeobjekter gennem hele byggesagen, eller  gennem anvendelse af flere forskellige klassifikations- eller kodningssystemer, som er kompatible, så man kan »mappe« benævnelser i det ene system entydigt til benævnelser i det andet system.
+4.4.2 Navngivningen skal være entydig, fuldt dokumenteret og tilgængelig Bekendtgørelsen stiller alene krav om anvendelse af en fælles navngivning, kodning, klassifikation og identifikation, men fastsætter ikke specifikke løsninger.
+Det skyldes bl.a. at det kan være relevant at arbejde med f.eks. forskellige klassifikations- og kodningssystemer i forskellige faser af projektforløbet, så der i tilstrækkelig grad kan tages højde for de forskellige behov der er undervejs i projektet.
+ Især ved digitale leverancer i forbindelse med byggeriets aflevering er det vigtigt at tilpasse afleveringsformen og indholdet til bygherrens og driftsherrens specifikke behov.
+ Det er derfor vigtigt, at der stilles krav om, at den løsning der vælges er éntydig, fuldt dokumenteret og tilgængelig for byggesagens parter.
+ At løsningen er entydig indebærer bl.a., at de enkelte objektklasser er klart definerede, og følger en fastlagt navngivning samt kodning.
+ At løsningen er fuldt dokumenteret betyder især, at der i arbejdet ikke på grund af manglende dokumentation må opstå tvivl om objekters tilhørsforhold til objektklasser, navngivning og kodning.
+ At løsningen er tilgængelig betyder, at der bør være adgang til denne fra projektets fælles kommunikationsplatform - eller ved et link fra denne.
+4.4.3 Inspiration til krav om navngivning, kodning, klassifikation og identifikation Formulering af krav i en given byggesag til navngivning, kodning, klassifikation og identifikation bør tage udgangspunkt i ISO-standarderne ISO 12006-2 og ISO/PAS 16739:2005 (IFC) og følge principperne heri.
+ På det konkrete plan, kan det anbefales at lade sig inspirere af nedennævnte systemer, som er kendte i byggeriet gennem en årrække, eller som er under udvikling.
+ Det drejer sig om følgende klassifikationssystemer, som foreligger på dansk:
+4.4.3.1 SfB-systemet Systemet har i en årrække været den gængse standard for klassifikation i byggesektoren, men er nu ved at have udspillet sin rolle.
+Dette skyldes, at SfB-systemet alene rummer tabeller for bygningsdele, konstruktion og ressourcer, og dermed ikke tabeller for øvrige objektklasser.
+Det skyldes endvidere, at SfB-systemet er opbygget og kodet med henblik på en dokumentbaseret arbejdsmetode, og dermed ikke på objektbaseret bygningsmodellering.
+SfB-bygningsdelstabellerne omfatter ikke egenskabsdata.
+SfB-systemet er i dag bl.a. tilgængelig fra www.hfb.dk.
+4.4.3.2 CCS Cuneco  center for produktivitet i byggeriet - har i 2011 fået til opgave at opbygge et nyt informationshåndteringssystem til støtte for byggeriets IKT-anvendelse.
+Intentionen med CCS er ifølge cuneco at udvikle et helhedsorienteret informationshåndteringssystem målrettet byggeriets domæne.
+Hensigten er, at CCS skal indeholde bl.a. klassifikation, identifikation, og struktureret håndtering af egenskaber til understøttelse af vedligehold og udveksling af informationer om bygværker, rum, bygningsdele, ressourcer og processer igennem hele byggeriets værdikæde.
+De første høringsudgaver af CCS publiceres i foråret 2013. Disse høringsudgaver vil medio 2013 blive efterfulgt af udgaver, der er revideret på grundlag af høringsforløbet.
+Den endelige udgave af CCS vil finde sted medio 2014. Information om CCS er tilgængelig på www.cuneco.dk.
+4.4.3.3 Forvaltnings Klassifikation Forvaltnings Klassifikationen (FK) er udviklet af Landsbyggefonden i samarbejde med Kommunernes Landsforening med henblik på digitalisering af ejendomsforvaltningen på det almene område, og er ikke udviklet med henblik på at understøtte evt. klassifikationsbehov under projektering og udførelse.
+FK indeholder bl.a. en systematik til beskrivelse af bygningsdelenes egenskaber.
+FK er en klassifikation, som tilgodeser kravet om systematisk håndtering af alle aktuelle objekttyper (bebyggelser, afdelinger, bygninger, rum, bygningsdele m.v.) i forvaltningsdomænet.
+Det er desuden en klassifikation, der sammen med nye kontoplaner for konto 115 og 116 (almindelig og planlagt vedligeholdelse) i den almene driftskontoplan danner en brugsmæssig helhed.
+Materiale vedr.
+FK er tilgængeligt på www.lbf.dk, herunder vejledning til Version 2.0 (9. bind).
+4.4.4 Egenskabsdata i en fastlagt og beskrevet struktur Ved et byggeobjekts egenskaber forstås dets iboende og funktionelle karakteristika samt relationer til andre objekter.
+Egenskabsdata er data om disse egenskaber.
+Til hver objektklasse knytter sig et sæt af egenskaber.
+Til objektklassen »bygning« knytter der sig f.eks. egenskaberne: Bygningsnummer, bygningsnavn, adgangsadresse og opførelsesår.
+Til objektklassen bygningsdele knytter sig fx egenskaberne: Fabrikat, produktnavn, placering, materiale og godkendelser.
+For at sikre en hensigtsmæssig anvendelse af egenskabsdata, placeres disse i en fastlagt struktur.
+Med fastlagt struktur menes der en ordning af rækkefølgen af de enkelte typer af egenskaber, som det besluttes at anvende  og som er ens gennem hele projektet  og dokumenterede.
+Rækkefølgen kan være en enkel alfabetisk oplistning, eller kan være mere udfoldet og kompleks.
+Da der knytter sig forskellige typer af egenskaber til de forskellige objektklasser, er det nødvendigt med et sæt af egenskabsdata for hver af disse.
+Bemærk, at den enkelte bruger naturligvis kun medtager de egenskabsdata, som er nødvendige for de konkrete anvendelser.
+I forbindelse med formuleringen af krav til hvilke egenskaber, der skal være tilgængelige for hvem og på hvilke tidspunkter i processen, er det vigtigt at holde sig for øje, at der kun skal stilles krav om tilstedeværelsen af egenskaber, som det med sikkerhed vides vil have anvendelse i projektet  eller hos byg- og driftsherren.
+Dette er i særlig grad vigtigt i forbindelse med formulering af kravene til digitale leverancer ved byggeriets afslutning mhp. anvendelse i bygningsforvaltningen.
+Her er det vigtigt kun at stille krav om forekomsten af objekter og egenskaber, som vides at skulle benyttes af driftsherrens processer og IT-systemer i hans Facilities Management.
+4.4.5 Detaljeringsgraden af byggeobjekttabeller og egenskabsdatasæt Informationsniveauer bruges bl.a. til at beskrive detaljeringen af indholdet i en digital bygningsmodel og dermed også detaljeringen af bygningsdele og egenskabsdata.
+Formålet med at stille krav til at specificere detaljeringen af bygningsdelsobjeker og egenskabsdata er på den ene side at sikre, at håndteringen af de digitale objekter indeholder den detaljering, der er nødvendig, på den anden side at undgå, at der arbejdes med en unødig stor detaljering.
+I løbet af en byggesag stiger informationsindholdet af byggeobjekterne og deres egenskaber.
+Det kan følgelig være relevant at overveje at arbejde med en stigende detaljeringsgrad for bygningsdele og egenskabsdata undervejs under projektering og udførelse.
+ Ved den digitale leverance i forbindelse med overdragelsen til driftsherrens FM-funktion gør særlige forhold sig gældende, og her vil informationsindholdet og detaljeringsgraden være markant anderledes end forud.
+Cuneco har i november 2012 udgivet en foreløbig høringsudgave for en »Metode og struktur for informationsniveauer«, som giver eksempler på, hvordan man kan specificere informationsniveauer, der entydigt specificerer informationsleverancers omfang samt konkretiserings- og detaljeringsniveau for bygningsdele, rum og processer.
+En specifikation for detaljeringsgraden af byggeobjekter og egenskabsdata kan evt. hente inspiration i dette arbejde.
+4.4.6 Klassifikation i forvaltning af det almene boligbyggeri I henhold til Ministeriet for By, Bolig og Landdistrikters bekendtgørelse om drift af almene boliger m.v. udformes vedligeholdelses- og fornyelsesplaner fra 2012 i overensstemmelse med et klassifikationssystem for forvaltning.
+Da forvaltningerne både under forløbet af byggesagen og ved afslutning af denne nyttiggør projektdata, skal disse, når de gøres tilgængelige for bygherren, være forsynet med navne, koder og egenskabsdata i henhold til denne.
+Mellem SfB, CCS og Forvaltnings Klassifikation forventes der langt hen ad vejen, at være overensstemmelse mellem byggeobjekterne og deres navngivning.
+Oprettes objekterne i SfB eller CCS, forventes det derfor, at det vil være muligt fra starten at påføre Forvaltnings Klassifikations kodning som en ekstra kode under egenskabsdata.
+ § 5. Digital kommunikation og projektweb mv.
+5.1 Bygherrekravets ordlyd 5.2 Formål Formålet med kravet er at sikre en effektiv formidling af strukturerede, digitale data, som kan anvendes til flere forskellige formål, under byggesagens forløb, og efter dens afslutning.
+Formålet er endvidere at systematisere, effektivisere og dokumentere den digitale kommunikation mellem byggesagens parter.
+Formålet er endvidere under hele byggesagens forløb at fungere som centralt arkivsystem for byggesagen, hvor al digital sagsinformation udveksles og arkiveres.
+Formålet er endelig at sikre, at det altid er fastlagt, hvilke parter der har ansvaret for hvilke dataleverancer, og hvornår de skal være tilgængelige for øvrige parter.
+5.3 Kravstillelse Kravet skal stilles af bygherren og omfatter alle byggesagens parter.
+Kravet skal således indgå i aftalegrundlaget med rådgivere, entreprenører og leverandører.
+Det anbefales, at der til aftalegrundlaget knyttes en IKT-ydelsesbeskrivelse samt evt. en IKT-specifikation.
+ Bygherren skal beslutte, om det er bygherren selv, en af byggesagens rådgivere eller entreprenører, eller måske en ekstern IT-udbyder, der skal stille systemet til rådighed.
+ I beslutningen om hvem der skal stille systemet til rådighed, kan det anbefales, at lade forhold som fleksibilitet, tilpasningsmuligheder til specifikke processer, oppetid, driftssikkerhed, brugervenlighed, datasikkerhed, support og pris indgå som væsentlige parametre.
+Placeres systemet hos en ekstern rådgiver, skal aftalen vedr. opsætning og drift af systemet indgå i rådgiveraftalen.
+Placeres det hos en IT-udbyder, vil der foreligge en selvstændig aftale.
+I begge tilfælde bør der til aftalen knytte sig en ydelsesbeskrivelse.
+ Det er væsentligt, at bygherren i sine aftaler sikrer sig fuld adgang og rettigheder til disse data  også efter sagens afslutning, og i forbindelse med eventuelle stridsspørgsmål.
+5.4 Anbefalinger vedr. den praktiske anvendelse 5.4.1 Information samlet ét sted Det centrale i dette krav er, at information, som benyttes af flere parter, ligger et kendt sted, hvorfra det kan hentes af dem, der har adgang til, og brug for det.
+Det kan eksempelvis dreje sig om tekstdokumenter, e-mails, tegninger, scannede breve, digitale, objektbaserede bygningsmodeller, digitale fotos, analyser, beregningsresultater, etc.
+Det centrale krav er endvidere, at information, der er relevant som dokumentation af byggesagen, er arkiveret på ét kendt sted, og i en kendt struktur.
+Ved en konsekvent og korrekt arkivering hér vil arkivet udgøre den samlede digitale proces- og produktdokumentation for hele byggesagen.
+Kravet kan eksempelvis opfyldes ved anvendelse af en såkaldt projektweb, som blot kan være et dokumenthåndteringssystem med adgang fra enhver computer via internettet med projektweb-adgangsrettigheder.
+Kravet kan også opfyldes med anvendelse af Cloud-computing eller af en Model-server-løsning, hvor al væsentlig information om bygningsdele knyttes direkte til de digitale byggeobjekter i den objektbaserede bygningsmodel, som er placeret på en modelserver.
+En modelserver er en server, der indeholder alle bygningsmodellens digitale byggeobjekter med deres geometri og alle øvrige egenskaber.
+ Adgangen til modelserveren er via internettet evt. via et link fra en projektweb eller en Cloud.
+ Sådanne løsninger kan også kombineres, og det er bygherrens opgave, i samråd med sine rådgivere, at vælge og beskrive den optimale løsning for det pågældende projekt.
+ Der stilles således ikke krav om at benytte en bestemt type af system, men om at der anvendes et system, som alle involverede parter kan arkivere information i samt hente information fra, når de har brug for den.
+Det anbefales, at der udarbejdes en samlet procesbeskrivelse for brug af systemet.
+Denne procesbeskrivelse bør ikke overlappe de regler, der er nedfældet i IKT-specifikationer m.v.
+5.4.2 Plan for datatilgængelighed Med en plan eller procesbeskrivelse for hvilke parter der skal gøre hvilke informationer tilgængelige i systemet og på hvilke tidspunkter, optimeres både nyttiggørelse og genbrug af data til gavn for alle byggesagens parter.
+Planen bør beskrive alle parters dataleverancer og understøtte alle parters krav og behov for informationer under projektforløbet.
+I den forbindelse er det særlig vigtigt at bygherren gør sig klart, hvilke informationer han leverer, og hvilke informationer han vil stille krav om at få leveret  samt til hvilke formål, og i hvilke IKT-systemer de skal benytte.
+ Bygherren må således have en plan for hvilke IKT-systemer han selv vil benytte i forbindelse med sin overvågning og styring af tid, økonomi og kvalitet under byggeprocessen, for hvordan han vil arkivere proces- og produktdokumentation, og hvordan, og med støtte fra hvilke IKT-systemer, han efterfølgende vil forvalte sit byggeri.
+Ud over krav til de enkelte parter bør procesbeskrivelsen indeholde en brugervejledning for selve anvendelsen af systemet.
+Hermed samles al information om brugen af systemet i en for byggesagen fælles manual, hvorefter det er forholdsvis let at formidle brug af systemet for alle projektdeltagere gennem hele forløbet - især når der løbende kommer nye projektdeltagere til.
+ Der kan henvises til procesbeskrivelsen gennem byggesagens IKT-specifikation.
+ Procesbeskrivelsen bør som minimum indeholde følgende afsnit:
+5.4.2.1 Projektinformation og dokumenttyper Procesbeskrivelsen bør indeholde generelle regler for, hvilke typer af sagsinformation og -dokumenter, der skal arkiveres og udveksles på systemet.
+Det bør afklares, om det kun skal omfatte tekniske og administrative sagsinformationer eller også kontraktuelle dokumenter og lignende.
+Alle beslutningsdokumenter bør arkiveres i systemet, således at alle relevante parter kan følge med i, hvilke beslutninger, der er truffet gennem byggesagen.
+Typiske beslutningsdokumenter er byggemøde- og teknikmødereferater, aftalenotater og tegninger samt breve og visse e-mails.
+ Almindelige breve og tegninger på papir indgår også som sagsdokumentation, og bør derfor scannes og konverteres til digitale dokumenter, for derefter at arkiveres på projektwebben.
+ Hvis e-mails indeholder relevant sagsdokumentation, bør de behandles som almindelige dokumenter, og skal arkiveres på projektwebben.
+ Det skal bemærkes, at data lagret i systemet skal overholde Persondataloven, og at dette skal indskrives i planen.
+5.4.2.2 Navngivning og journalisering Procesbeskrivelsen bør indeholde regler for navngivning af dokumenter og eventuelt regler for journaliseringsnummerering af dokumenterne.
+Navngivning og journalisering af byggesagsinformation og -dokumenter bør være i overensstemmelse med byggesagens andre projektmanualer, hvori der også angives regler for navngivning.
+Det gælder især BIM-manualer for navngivning af objektbaserede fag- og fællesmodeller, faste udtræk af bygningsmodellen, herunder tegningsfiler og »lister«.
+ For offentlige bygherrer som er omfattet af regler om brug af ESDH-systemer, er det nødvendigt i forbindelse med tilrettelæggelsen af navngivning og journalisering, at forholde sig til deres faktiske brug af ESDH-systemer.
+5.4.2.3 Metadata Til hver fil knyttes et bestemt sæt af metadata, som beskriver indholdet i filen.
+Metadata beskriver filens egenskaber og indhold.
+Metadata kan f.eks. være:
+Nogle metadata vil normalt blive genereret automatisk af systemet, mens andre udfyldes af den, som uploader filen.
+Aftalen om metadata angiver både hvilke metadata, der skal tilknyttes de enkelte filer, og hvem der er ansvarlig, for at det sker.
+5.4.2.4 Arkiv- og mappestruktur Mange vil foretrække, at filerne er ordnet i en mappestruktur, som man kender fra brugergrænsefladen fra almindeligt forekommende kontorsystemer.
+Mappestrukturen bør afspejle den struktur, som man vælger for sin samlede informationsmængde i byggesagen.
+Afhængig af hvilken type digitalt kommunikationssystem man vælger, vil det være muligt at benytte metadata til mere eller mindre automatisk at placere filer i de rigtige mapper.
+ Til inspiration for organiseringen og håndteringen af informationer og dokumenter i en byggesag kan man benytte det af bips i efteråret 2012 udgivne forslag til en dokumenthåndteringsstandard, bips A104, som kan være hjælp til at opsætte en systematik for, hvordan man ordner og klassificerer sine filer, herunder hvordan man forsyner de enkelte filer med metadata.
+5.4.3 Overførsel af informationer til andre systemer Under byggesagen udarbejdes projektinformation på IKT-systemer hos arkitekter, ingeniører, udførende m.v.
+Når informationer fra en part gøres tilgængelig for øvrige parter, vil de ofte skulle nyttiggøres i et andet IKT-system og dermed i et andet format end det de oprindelig er produceret i.
+Det er derfor vigtigt at der benyttes åbne og fuldt dokumenterede filformater, som kan læses og fortolkes af mange forskellige applikationer.
+ Det bør fra projektstart aftales, hvilke informations- og filoverførsler der ønskes mellem parterne, på hvilke tidspunkter og i hvilke filformater.
+Ved byggeriets overdragelse fra byg- til driftsherre gennemføres en digital leverance af bygnings- og driftsinformationer til driftsherren.
+Her vil der ofte være behov for at overføre data til driftsorganisationens systemer.
+Denne overførsel bør ligesom øvrige dataleverancer være sikret fra projektstart.
+Se i øvrigt § 10 vedr. digital leverance ved byggeriets aflevering.
+5.4.3.1 Åbne filformater Udveksling af digital information kan generelt lettes ved at anvende åbne filformater.
+For redigérbare »kontordokumenter« kan man eksempelvis anvende ODF-filformatet.
+ODF står for »Open Document Format« (for office pplications), som er en ISO-standard (ISO/IEC 26300:2006) for filformater for gængse »kontordokumenter«.
+For ikke-redigérbare dokumenter bør bygherren stille krav om brugen af filformatet PDF, som er en ISO-standard (ISO 19005:2005), og som derfor er veldokumenteret.
+Fordelen ved at anvende PDF-filformatet til ikke-redigérbare dokumenter er, at det er et filformat, som stort set alle kan læse, og som let kan udskrives på en printer.
+ Digitale, objektbaserede bygningsmodeller skal jf. §§ 6 og 7 arkiveres i det åbne filformat IFC, som er en ISO/PAS-standard (ISO/PAS 16739:2005). Det gælder uanset om bygningsmodellen skal viderebearbejdes eller blot arkiveres.
+ 3D PDF kan anvendes som filformat for 3D-geometri, og der findes flere gratis viewere, som kan anvendes til at se 3D-bygningsmodeller i dette format.
+5.4.4 Adgangskontrol, rettigheder, advisering og log Adgangskontrollen skal sikre, at brugere kun har adgang til de handlinger, som det er aftalt, at vedkommende skal kunne udføre.
+Handlinger kan f.eks. være:
+Et advis-system kan benyttes til at give advis på mail eller SMS og dermed sikre, at personer, som deltager i en byggesag, bliver opmærksomme på upload af nye informationer til systemet.
+Systemet kan med fordel være indrettet, så den enkelte selv definerer, i hvilke tilfælde advis ikke ønskes.
+Det er således modtageren, der er ansvarlig for at kende den seneste information, og for at anvende de nyeste, relevante versioner og revisioner af de informationer, som systemet indeholder.
+Derfor er dokumentation af systemet samt fastlæggelse og formidling af processer og procedurer overordentlig vigtigt.
+En log er en automatisk registrering af, hvad der er foretaget i systemet.
+Loggen bør være indrettet, så ingen kan ændre indholdet i den.
+Af loggen fremgår det, hvem der har ændret hvad, hvornår samt hvornår nyt indhold er lagt op  og hvem der har set det.
+ Adgangskontrollen fastlægger, hvem der har rettigheder til at se hvad i loggen.
+ Procesbeskrivelsen bør indeholde en definition af de forskellige parters adgangsrettigheder til systemets samlede informationsmængde.
+ Adgangsrettighederne defineres ud fra, hvilke informationer, filer og mapper den enkelte bruger skal kunne arkivere, slette, se og ændre.
+Det kan ikke anbefales at give alle generel adgang til alle informationer.
+Det er under alle omstændigheder nødvendigt at adgangsrettigheder differentieres, således at både upload og download af dokumenter begrænses.
+5.4.5 Versionsstyring Da samme information ofte vil ligge på systemet i flere versioner og revisioner, er det nødvendigt, at det digitale kommunikationssystem kan håndtere versions- og revisionsstyring.
+I forbindelse med en sådan styring vil det tillige være muligt at skelne mellem informationens status  f.eks. »under udarbejdelse« og »godkendt«.
+ Til inspiration for fastlæggelsen af forskellige statustyper, kan man hente inspiration i bips dokumenthåndteringsstandard, A104.
+5.4.6 Sikkerhed Det er af afgørende betydning, at der omkring systemet er den fornødne sikkerhed.
+Det bør derfor indgå i ydelsesbeskrivelsen for drift af systemet:
+§ 6. Anvendelse af digitale bygningsmodeller i projektkonkurrencer 6.1 Bygherrekravets ordlyd 6.2 Formål Formålet med kravet er, at der i projektkonkurrencer etableres et beslutningsgrundlag, der er med til at sikre den bedst mulige formidling af forslagenes arkitektoniske, funktionelle og tekniske forhold.
+ Med en digital, objektbaseret bygningsmodel får bygherren, bedømmelsesudvalget og brugerne bedre mulighed for at danne sig et rumligt overblik over projektet, vurdere om det præsenterede projekt lever op til bygherrens krav til arkitekturen, funktioner, arealbehov, volumener, lysforhold, energi- og miljøforhold, højdegrænseplaner m.v., samt udføre visualiseringer og simuleringer af projektet og dets omgivelser.
+6.3 Kravstillelse Da der i projektkonkurrencer ikke foreligger nogen aftale mellem parterne, indgår bygherrekravet alene i konkurrenceprogrammet eller i et bilag til dette.
+En opfyldelse af bygherrekravet vil således være en betingelse for, at de fremsendte forslag kan betragtes som konditionsmæssige.
+ Såfremt konkurrenceprogrammet udarbejdes af en ekstern rådgiver, må det indgå i bygherrens aftale med denne, at bygherrekravet skal indgå i programmet.
+6.4. Anbefalinger vedr. den praktiske anvendelse 6.4.1 Kravene til  bygningsmodellen i konkurrencer En objektbaseret bygningsmodel er en model, der indeholder digitale byggeobjekter, som repræsenterer de fysiske objekter i »den virkelige verden«.
+Disse byggeobjekter kan i modellen forsynes med egenskabsdata, som gør det muligt med anvendelsen af forskellige objektbaserede modellerings- og analyseværktøjer at analysere, simulere og visualisere modellen ud fra helt specifikke formål.
+I en projektkonkurrence er det primært arkitektur, funktioner og areal der bedømmes.
+For at optimere bedømmelseskomiteens muligheder for at foretage en retfærdig og troværdig bedømmelse på disse områder, er det hensigtsmæssigt at stille krav om udarbejdelsen af en objektbaseret bygningsmodel, som indeholder objekter som understøtter netop vurderingen af disse forhold.
+I nogle konkurrencer kan det også have interesse at få andre forhold belyst.
+Bl.a. for at sikre konkurrencedeltagernes fokus på det væsentlige  den arkitektoniske og funktionelle udformning  er det vigtigt ikke at stille for ambitiøse krav til den objektbaserede bygningsmodel, og kun stille krav inden for områder, hvor man har besluttet, at dommerkomiteen skal foretage specifikke vurderinger.
+6.4.1.1 Modellens indhold Den digitale, objektbaserede bygningsmodel kan nyttiggøres i bedømmelsen af forslagene ved at danne grundlag for visualisering og dataudtræk, som etablerer datagrundlaget for analyser af netop de forhold, som man i forbindelse med bedømmelsen af konkurrenceforslagene ønsker at fokusere på - f.eks. arkitektur, funktioner, arealer, volumener, lysforhold, energi og indblik mv.
+Der bør derfor stilles krav til den objektbaserede model, som sikrer, at den alene indeholder de objekttyper samt egenskabsdata knyttet til disse, som skal være til stede for at kunne understøtte vurderingen af de indkomne konkurrenceforslag.
+F.eks. vil der ved et krav om, at modellen skal omfatte objekttypen »rum« kunne foretages analyser af arealer og volumen, tæthed af funktioner mv. mhp. at sikre, at rumprogrammet er opfyldt.
+Analyser hvis resultater igen kan indgå i overordnede beregninger af f.eks. energiforbrug, lysforhold mv.
+Stilles der krav om visualisering af forslagets indpasning i omgivende bygninger og terræn, anbefales det at bygherren stiller en digital terrænmodel med bygningsvolumener til rådighed for konkurrencedeltagerne.
+Hvis opgaven omfatter renovering eller tilpasning til eksisterende bygninger, bør der også stilles bygningsmodeller af disse til rådighed i en detaljeringsgrad, som modsvarer kravene til det der skal afleveres.
+6.4.1.2 Modellens detaljering (modellens informationsniveau) Formålet med at stille krav til detaljeringsgraden af modellen er dels at sikre, at modellen indeholder den detaljering, der er nødvendig for at vurdere forslaget, dels at imødegå at modellen udføres med en unødig stor deltaljering og dermed med unødige omkostninger for forslagsstillerne og for bygherren.
+I projektkonkurrencer vil der ofte være et særligt fokus på arkitektur, funktioner, funktionssammenhænge, rummelighed, lysforhold, indeklima og energi på et overordnet plan.
+Det er derfor vigtigt at sikre sig, at de bygningsmodeller man kræver udarbejdet og afleveret som en del af konkurrenceforslaget, er velegnede til at understøtte netop analyser på disse områder  men på et specifikt og overordnet plan.
+For bygningsdelsobjekter vil en lav detaljeringsgrad ofte være tilstrækkelig, mens det for rumobjekter ofte vil være hensigtsmæssigt at stille krav om, at objekterne er forsynet med informationer om areal, volumen, anvendelse og form.
+Det vil ofte være tilstrækkeligt at stille krav om, at modellen skal indeholde nogle få bygningsdelsobjekter, og disses geometri kan evt. være enkle volumner uden detaljering og med meget få tilknyttede egenskaber.
+Kravene skal altså stilles specifikt i forhold til den anvendelse og de analyser man vil foretage på konkurrencemodellerne under bedømmelsen.
+Kravene må følgelig ikke være åbne og generelle.
+Der bør kun stilles få men præcise og specifikke krav, som afspejler de elementer man vil vurdere under bedømmelsen, og de IKT-værktøjer man vil anvende.
+Begrebet informationsniveau kan bruges til at beskrive detaljeringsgraden af indholdet i en digital bygningsmodel.
+Som inspiration for fastlæggelsen af et relevant informationsniveau i en projektkonkurrence kan henvises til sædvanlig praksis i branchen, som den bl.a. udøves i henhold til Arkitektforeningens konkurrenceregler og anvisninger.
+ Ved fastlæggelsen og beskrivelsen af detaljeringsgraden kan man evt. hente inspiration i bips/CUNECO forslaget: »Metode og struktur for informationsniveauer« af november 2012.
+ Solstrålingsstudie, Teknologisk Institut/Henning Larsen Architects:
+Eksempel på brug af digital bygningsmodel i forbindelse med projektkonkurrence.
+Simulering af solenergi på bygningens facader kan bruges til optimering af bygningskrop, vinduesplacering og vinduesarealer, og kan være et vigtigt parameter i »passive« designstrategier i forhold til det termiske og visuelle indeklima i bygningen.
+6.4.2 Krav til visualisering Kravene til visualiseringer bør være tilpasset opgavens karakter samt de krav til detaljering, der i øvrigt fremgår af konkurrenceprogrammet/udbudsmaterialet.
+Kravene kan således være meget forskellige alt efter opgavetype.
+F.eks. kan der i forbindelse med nybyggeri være behov for at anskueliggøre samspillet mellem nybyggeri og eksisterende bygninger, rumudformning mv., mens der i renoveringsopgaver kan være behov for at vise, hvordan nye altangange eller elevatortårne ser ud, ligesom der kan være behov for at vise, hvordan f.eks. nye facadeelementer påvirker en boligs funktionalitet, lysforhold, udsyn og indblik.
+ Under alle omstændigheder bør kravene formuleres, så de understøtter bedømmelseskriterierne, og at de udarbejdede visualiseringer reelt styrker bedømmelsesgrundlaget.
+6.4.3 Visualiseringer på basis af modellernes 3D-geometri Formålet med at stille krav om, at visualiseringerne skal være baserede på digitale, objektbaserede bygningsmodeller, er primært at sikre, at geometrien i visualiseringerne med eventuelt tilhørende omgivelser er korrekt.
+Dette har bl.a. betydning for bedømmelsesudvalgets vurdering af indpasning af nybyggeri i eksisterende omgivelser.
+ At modellen er objektbaseret sikrer endvidere muligheden for kunne gennemføre kvalitetskontrol i forhold til byggeprogrammet (antal kvadratmetre, afstande mellem rum/funktioner m.m.) - samt på et overordnet niveau - energiforbrug, indeklima, dagslys/skyggeforhold, tilgængelighed m.m., hvis der stilles specifikke krav herom.
+6.4.4 Visualiseringernes antal og placering Det kan anbefales, at det i forbindelse med kravet anføres, hvor mange visualiseringer der ønskes.
+Formålet med dette er bl.a. at sikre, at antallet af visualiseringer står i et fornuftigt forhold til opgavens størrelse og kompleksitet.
+Det kan tillige være hensigtsmæssigt at anføre positioner for visualiseringerne for derved at tilgodese ønsket om sammenlignelighed mellem de indsendte forslag.
+Det må dog i den konkrete konkurrence vurderes, om en sådan sammenlignelighed giver mening.
+6.4.5 Hvad skal med i visualiseringerne? Som bilag til et konkurrenceprogram/udbudsmateriale kan der i visse tilfælde medleveres digitale bygningsmodeller med 3D-geometri af omgivelserne.
+I andre tilfælde leveres der alene et traditionelt tegningsmateriale f.eks. i form af situationsplaner.
+Foreligger der digitale bygningsmodeller med 3D-geometri af omgivelserne, kan det være formålstjenligt at stille krav om, at konkurrenceforslagets model indarbejdes i den medleverede model af omgivelserne, og at visualiseringerne tager udgangspunkt i den samlede model.
+Er omgivelserne alene beskrevet i traditionelt tegningsmateriale, bør det grundigt overvejes, om forslagsstillerne selv skal opbygge en model med 3D-geometri af disse, da dette kan være meget omfattende.
+Stilles her krav om, at visualiseringerne skal omfatte omgivelserne, må bedømmelsesudvalget gøre sig klart, at geometrien af disse kan være behæftet med usikkerhed.
+I konkurrenceprogrammet/udbudsmaterialet kan anføres, i hvilket omfang visualiseringerne må - eller skal - omfatte gadeinventar, træer, personer, biler m.v.
+Et sådant krav kan på den ene side tilgodese ønsket om sammenlignelighed forslagene imellem, men kan på den anden side også svække konkurrencedeltagernes kreative udfoldelse.
+6.4.6 Aflevering i IFC-format Formålet med at stille krav om aflevering i IFC-format er at sikre, at filer er umiddelbart læsbare for bedømmelsesudvalget, uafhængigt af softwareplatforme, og dermed at sikre, at bestemte aktører ikke hindres i at deltage i konkurrencer på grund af deres brug af specifikke softwareplatforme.
+ Gennem IFC-formatet, får bedømmelsesudvalget direkte adgang til den objektbaserede model, der kan indlæses i en række programmer og viewere, som udleveres af bygherren.
+IFC er en kompleks specifikation, og implementeres ikke altid lige godt af forskellige modellerings- og analyseapplikationer.
+Forskellig software kan derfor have problemer med at oversætte bygningsmodellerne korrekt fra deres interne format til IFC.
+Det kan give problemer i både import og eksport.
+Det kan derfor anbefales at teste den involverede softwares IFC-kompabilitet, og altid at teste de modeller, der eksporteres, f.eks. i en IFC-viewer, ligesom det anbefales, at beskrive for konkurrencedeltagerne, hvilke applikationer bygherren og dommerne vil anvende i forbindelse med vurderingen af de indkomne forslag.
+6.4.7 Eksempel på niveau for krav til 3D-bygningsmodel i konkurrencer Bygningsstyrelsen har i de sidste år draget nyttige erfaringer i forhold til kravstillelse til niveau for brug af 3D-bygningsmodeller i konkurrencer.
+For Bygningsstyrelsens implementering af 3D-arbejdsmetoder i konkurrencer har det været vigtigt - for at opnå de tilsigtede gevinster - at formulerer præcise krav til konkurrencedeltagerne.
+ Krav i BYGST-konkurrenceprogram:
+ Ovenstående eksempel på bygningsmodel i lav detaljeringsgrad med rumkategori og arealer.
+ Eksempel på IFC-model placeret i bymodel, således at konkurrenceforslaget kan vurderes bygningsmæssigt i relation til sine omgivelser.
+§ 7. Anvendelse af digitale bygningsmodeller i projektering og udførelse 7.1 Bygherrekravets ordlyd 7.2 Formål Formålet med kravet om anvendelse af objektbaseret bygningsmodellering - dvs. at arbejde med objektbaserede, digitale bygningsmodeller - under projektering og udførelse, er at etablere et bedre styrings- og beslutningsgrundlag for bygherren, samt at drage nytte af mulighederne for at øge produktivitet og kvalitet i projektering og udførelse.
+Formålet er endvidere at udnytte det potentiale for at forbedre kvalitetssikringen af det samlede projektmateriale, som bygningsmodellerne udgør gennem hele projektforløbet.
+Det grundlæggende princip i arbejdet med objektbaseret bygningsmodellering er at opbygge et projektmateriale, hvor byggeinformationer er knyttet til objekterne i den objektbaserede, digitale bygningsmodel, og hvor disse er entydigt identificeret og placeret i bygningsmodellen.
+Der tilvejebringes herved en projektinformation med en sammenhængende, velstruktureret og entydig beskrivelse af det, der efterfølgende skal bygges.
+Der tilvejebringes endvidere et digitalt grundlag for en effektiv planlægning og udførelse af byggeriet.
+ Endelig etableres der forbedrede muligheder for løbende at kontrollere og sikre, at projektet udvikler sig i overensstemmelse med bygherrens ønsker og krav, som de er formuleret i byggeprogrammet.
+7.3 Kravstillelse Kravet skal stilles af bygherren og omfatter principielt alle byggesagens parter.
+Kravet bør således indgå i aftaler med rådgivere og udførende, herunder i tilhørende IKT-aftaler.
+Bygherren kan som hjælp til kravformuleringen eventuelt tage udgangspunkt i FRI og DANSKE ARKs bilag til ydelsesbeskrivelsen »Byggeri og Planlægning 2012«, »Vejledning om digital projektering« samt i bips skabeloner for IKT-ydelsesspecifikationer og IKT-tekniske specifikationer, F102 og F202.
+7.4 Anbefalinger vedr. den praktiske anvendelse 7.4.1 Fagmodeller En fagmodel er en bygningsmodel, der indeholder projektinformation knyttet til et specifikt fagligt område.
+Det kan eksempelvis være rum, konstruktioner, bygningskomplettering, ventilationssystemer eller el-installationer.
+Anvendelsen af fagmodeller giver bl.a. de projekterende mulighed for, at hver disciplin kan vælge de bedst egnede softwareværktøjer til det pågældende fag.
+Ingeniørfagene vil dermed ikke være underlagt de faglige begrænsninger, som ligger i software, der er bedst egnet til arkitektur  eller omvendt.
+Mange væsentlige beslutninger, der har store konsekvenser for byggeprojektet, træffes tidligt i projekteringsforløbet.
+Det er derfor vigtigt allerede fra projektets begyndelse, at bygherren sikrer, at modellerne tages aktiv i anvendelse.
+ Bygherren bør sikre, at fagmodeller anvendes til at understøtte arbejdsprocesser, hvor de bruges aktivt til at opstille løsningsforslag, og ikke alene anvendes til dokumentation af allerede besluttede løsninger og produktion af traditionelle byggesagsdokumenter.
+Bygherren bør endvidere sikre, at fagmodellerne i alle projektets faser, og i videst muligt omfang, anvendes til visualisering og simulering af løsningsforslag.
+Omfanget af visualisering og simulering bør præciseres i projektets IKT-ydelsesspecifikation.
+Beslutningen om hvilke simuleringer, og på hvilket niveau de skal foregå, er meget afhængig af det konkrete projekts karakter og kompleksitet.
+Hvis bygherren har et omfattende krav til visualisering og simulering, skal dette være beskrevet i udbudsmaterialet for rådgivningsydelserne.
+ Bygherren bør tillige sikre, at fag- og fællesmodeller i videst muligt omfang benyttes i dialogen mellem de projekterende og de udførende om bygbarhed, og at de er velegnede til at understøtte de udførendes produktions- og udførelsesplanlægning  herunder, at de er velegnede til at understøtte en effektiv logistik og et jævnt workflow på byggepladsen.
+Bygherren bør endelig sikre, at fagmodellerne anvendes aktivt i dialogen mellem de projekterende, bygherren og brugerne.
+Bygherren og brugerne bør således have mulighed for at kommentere og tage stilling til løsningsforslag på baggrund af adgang til bygningsmodellerne.
+ Eksempel på to fagmodeller for hhv. ventilation og VVS fra digital bygningsmodel af bygning på Syddansk Universitet (Illustrationer venligst udlånt af Exigo).
+7.4.2 Modellernes detaljeringsgrad (informationsniveauer) I løbet af en byggesag vil detaljeringsgraden af bygningsmodellerne stige i takt med at projektet bliver specificeret, analyseret, og beslutninger tages.
+Det betyder, at mængden af information vedrørende rum, bygningsdele og deres egenskaber samt om materialer m.v. løbende bliver mere detaljeret.
+En del af denne detaljering retter sig mod forskellige, specifikke formål, bl.a. simuleringer mv.
+Formålet med at stille krav til detaljeringsgraden af modellerne er således dels at sikre, at de indeholder netop den grad af detaljering, der er nødvendig for at understøtte de specifikke formål, som projektets forskellige parter har  og som skaber værdi for dem og dermed for projektet - dels at imødegå at modellen udføres med en unødig stor deltaljering og dermed med unødige omkostninger for projektets parter og for bygherren.
+Ved tilrettelægningen af detaljeringsniveauet under detailprojekteringen, er det afgørende vigtigt at være opmærksom på de behov for detaljering, som kan understøtte de udførendes produktionsplanlægning og udførelsen på fabrik og byggeplads.
+Her kan det anbefales i videst muligt omfang at  og tidligst muligt  at inddrage de udførende i en dialog om hvilke objekter og egenskaber, der skal være til stede i modellen for at den kan understøtte deres processer.
+Kravene til modellernes indhold og detaljeringsgrad må altså også hér stilles specifikt i forhold til den konkrete anvendelse og de analyser og simuleringer, man vil foretage på modellerne.
+Kravene må følgelig ikke være åbne og generelle.
+Der bør kun stilles få og præcise og specifikke krav, som afspejler parternes konkrete ønsker og behov, og de værktøjer man vil anvende.
+Begrebet informationsniveau kan også hér bruges til at beskrive detaljeringsgraden af indholdet i en digital fag- eller fællesmodel.
+Som inspiration for fastlæggelsen af et relevant informationsniveau kan henvises til sædvanlig praksis i branchen, som den bl.a. udøves i henhold til de projekterendes og de udførendes ydelsesspecifikationer.
+ Ved fastlæggelsen og beskrivelsen af detaljeringsgraden kan man evt. også hér hente inspiration i bips/Cuneco forslaget: »Metode og struktur for informationsniveauer« af november 2012.
+7.4.3 Fællesmodeller En fællesmodel er en model, der samler flere  eller måske alle  fagmodeller i én model.
+Formålet med fællesmodellen er at minimere konflikter og sikre konsistens mellem de enkelte parters fagmodeller.
+Fællesmodellen er dermed et vigtigt redskab i bestræbelserne på at sikre kvaliteten af projektet og dets informationer både hos den enkelte part og som et samlet hele.
+ Fællesmodellen anvendes tillige til at formidle et samlet billede af projektet til både bygherre og projektets parter.
+Bygherren bør sikre, at der udpeges en ansvarlig for etableringen af en eller flere fællesmodeller.
+Den ansvarlige for fællesmodellen får en central rolle på projektet som modelkoordinator på tværs af fagene.
+Ansvaret for opbygning og vedligeholdelse af både fælles- og fagmodeller bør entydigt fremgå af IKT-ydelsesspecifikationen, ikke mindst fordi fagmodellerne ofte opbygges af forskellige parter i projektet.
+Ansvaret herfor kan tildeles IKT-koordinatoren, eller kan være beskrevet som en særlig opgave for en af projektdeltagerne.
+Se § 3 og § 4.
+ Eksempel på 4 fagmodeller (VVS, konstruktion, el og ventilation) fra Syddansk Universitet, der sammensættes til én fællesmodel (Illustrationer venligst udlånt af Exigo).
+7.4.4 Simuleringer Formålet med kravet om simuleringer er at sikre udnyttelse af bygningsmodellernes muligheder for at understøtte projektets koncept- og løsningsudvikling, og dermed beslutningsprocesserne.
+Simuleringer kan f.eks. laves i forbindelse med anskueliggørelse af rumlige forhold, konstruktioner, indeklima, energiforbrug, brand, akustik, lys, statik, økonomi, logistik, byggepladsstyring, handicaptilgængelighed, kødannelse etc.
+ I beslutninger om omfanget af simuleringer under projektforløbet bør indgå en vurdering af, om de skaber værdi for de projekterende selv, for projektet som helhed, og om nyttiggørelsen på rimelig vis modsvarer ressourceforbruget ved udarbejdelsen af grundlaget for at gennemføre de enkelte simuleringer.
+7.4.5 Kollisions- og konsistenskontrol Gennemførsel af kollisions- og konsistenskontroller giver øgede muligheder for på et tidligt stade at finde fejl og inkonsistens i projektet og i informationsmaterialet inden fejlene udføres på byggepladsen.
+Kollisioner mellem de respektive fags bygningsdele og manglende konsistens i projektmaterialet kan medvirke til overskridelse af den samlede byggetid og af budgettet.
+På dette område ligger derfor et stort potentiale for betydelige besparelser på byggepladsen ved at kvaliteten af den løbende kontrol og kvalitetssikring øges og processerne lettes.
+ Kollisions- og konsistenskontrol har en række fordele, blandt andet:
+ Bygherren bør sikre at:
+I beslutningerne om omfanget af konsistens- og kollisionskontroller under projektforløbet bør indgå en samlet vurdering af, om de skaber værdi for de projekterende selv, for projektet som helhed, og om nyttiggørelsen på rimelig vis modsvarer ressourceforbruget ved udarbejdelsen af grundlaget for at gennemføre de enkelte simuleringer.
+Beslutninger herom bør skrives ind i den samlede plan for IKT-anvendelsen i projektet, jvf. § 3 og § 4.
+ Afhængig af projektets kompleksitet, organisering og de involverede rådgiveres IKT-modenhed kan bygherren eventuelt vælge at supplere de projekterendes og de udførendes konsistens- og kollisionskontrol med en kontrol gennemført af en uafhængig tredjepart.
+ Eksempel på kollision mellem to forskellige rørføringer (Illustration venligst udlånt af Exigo).
+7.4.6 Mængdeudtag Der er store potentielle rationaliseringsgevinster forbundet med kalkulation og opgørelse af mængder på baggrund af udtræk fra objektbaserede bygningsmodeller.
+I de tidlige faser af et projekt kan der typisk foretages kalkulationer på baggrund af bygningens samlede areal eller for bygningens volumener.
+Længere fremme i forløbet kan priser på mængder fx opgøres i forhold til samlede bygningsafsnit eller for råhus, komplettering og installationer.
+I forbindelse med udbud vil rådgiverne typisk opgøre udbudsmængder i forhold til bygningsdele og dermed forbundne ydelser.
+Modelleringen kan med fordel gennemføres sådan, at disse formål understøttes.
+For de udførende kan der kalkuleres på de mængder af bygningsdele, hvor et fags ydelser på en bygningsdel, kombineret med fagets hjælpemidler til udførelsen i form af materialer og materiel, definerer bygningsdelene og de tilhørende mængder.
+Disse kalkulationsmængder vil ofte være delmængder af udbudsmængderne.
+Mængderne kan også udgøres af andre mængder end dem, der kan udtrækkes direkte fra den digitale bygningsmodels byggeobjekter og deres geometri.
+Der kan være mængder, der ikke eksplicit indgår i bygningsmodellen, fordi byggeobjektet ikke er modelleret i bygningsmodellen, men hvor der foreligger en bygningsdelsbeskrivelse af objektet.
+Dette kunne f.eks. være fuger eller generelle arbejder og ydelser, som f.eks. overdækning, stillads mv.
+I sådanne tilfælde kan mængden ofte udledes af, eller være opført i, bygningsdelsbeskrivelsen, eller kan udledes af det relaterede objekt, f.eks. et vindue i modellen.
+De fleste objektbaserede modelleringsværktøjer kan udtrække mængdelister fra deres egne fagmodeller, herunder modeller baseret på IFC.
+Modellerne indeholder ofte for meget information, hvorfor mængdelisterne skal defineres, bearbejdes, struktureres og summeres inden de kan overføres til en digital tilbudsliste.
+Det er en stor fordel for bygherren at sikre, at den objektbaserede bygningsmodellering sker på en sådan måde, at udbud med mængder kan understøttes.
+Det anbefales derfor, at bygherren stiller krav om, at modelleringen sker på en sådan måde, at det er muligt at gennemføre digitalt udbud baseret på mængder udtaget af den digitale bygningsmodel.
+Undtagelse herfra vil være, hvor det ikke er fordelagtigt at udbyde med mængder.
+I arbejdet med at specificere kravene til modellen under hensyn til mængdeudtag, kan man lade sig inspirere af bips publikation F110  opmålingsregler 2008, der giver en detaljeret beskrivelse af arbejdet med udtagning af mængder fra objektbaserede bygningsmodeller, og hvilke forudsætninger der skal være til stede, værktøjs- som arbejdsmetodemæssigt, for at dette kan lade sig gøre.
+Der henvises i øvrigt til cunecos arbejde med videreudvikling af opmålingsreglerne.
+7.4.7 Digitale leverancer Arbejdet med simuleringer, konsistens- og kollisionskontrol, samt evt. udtagning af mængder fra bygningsmodellen kan alle give anledning til digitale leverancer i form af illustrationer og rapporter fra de pågældende aktiviteter.
+ Bygherren eller hans IKT-koordinator skal sikre, at disse digitale leverancer indgår i den samlede plan for levering af digitale leverancer i henhold til § 3, og han bør tillige tilkendegive, hvordan han vil benytte de pågældende leverancer  herunder hvilke IKT-systemer han påtænker at benytte for at se og arkivere dem.
+7.4.8 Aflevering i IFC-format Bygningsmodellerne skal som minimum afleveres i IFC-format.
+Formålet med at stille krav om aflevering i IFC-format er at sikre, at filer er umiddelbart læsbare for alle projektets parter uafhængigt af softwareplatform, og dermed at sikre, at bestemte aktører ikke hindres i at deltage i modelleringen eller i at udnytte modellernes potentiale på grund af deres brug af specifikke applikationer.
+ Formålet er endvidere at sikre modellernes langtidsholdbarhed og læsbarhed for bygherren, samt at sikre modellernes mulige anvendelse til efterfølgende formål i Facilities Management og i bygningsdriften  f.eks. modernisering, ombygning og bygningsrenovering.
+§ 8. Digitalt udbud og tilbud 8.1 Bygherrekravets ordlyd 8.2 Formål Formålet med kravet er at effektivisere processerne omkring udbuds- og tilbudsprocessen, både i forhold til udarbejdelse, fremsendelse og modtagelse af udbuds- og tilbudsmateriale, i forhold til genanvendelse af tilbudsinformationerne i forbindelse med behandling og præsentation, og under og efter udbuds- og tilbudsprocessen.
+8.3 Kravstillelse Krav om digitalt udbud og tilbud skal stilles af bygherren og omfatter de af byggesagens rådgivere, der forestår udbud, samt de aktuelle tilbudsgivere.
+Kravet skal således indgå i aftalegrundlaget med de aktuelle rådgivere samt indgå i udbudsmaterialet.
+Af hensyn til entydighed vil det være nødvendigt, at der til aftalegrundlaget knytter sig en ydelsesbeskrivelse, der specificerer kravet.
+ Såfremt bygherren selv forestår udbud, vil kravet være gældende for denne.
+Digitalt udbud forløber principielt på samme måde som ved et papirbaseret udbud.
+Blot leveres udbudsmaterialet og tilbuddene digitalt via en udbudsportal.
+Kravet til fortrolighed og sikkerhed samt kommunikationen omkring udbud, tilbud og licitationen er helt det samme ved digitalt udbud som ved et »traditionelt« papirbaseret udbud.
+Bygherren gør udbudsmaterialet tilgængeligt på udbudsportalen.
+Hvis det er offentligt udbud, skal alle interesserede have adgang til udbudsmaterialet.
+Er det derimod begrænset udbud (indbudt licitation), skal de bydende registreres på udbudsportalen for at få adgang til udbudsmaterialet, evt. efter prækvalifikation.
+ For at sikre, at der ikke kan opstå tvivl om, at bygherren inden licitationstidspunktet kan gå ind og se allerede afgivne bud, bør håndteringen af tilbudsmodtagelsen teknisk organiseres sådan at kun tilbudsgiver kan læse og redigere i tilbud indtil licitationstidspunktet, hvor de fastlåses.
+8.4 Anbefalinger vedr. den praktiske anvendelse Systemet eller »udbudsportalen« kan være en del af et projektwebsystem eller et dedikeret udbuds- og tilbudssystem.
+Udbudsportalen skal kunne håndtere fortrolighed og sikkerhed, således at en licitation kan gennemføres på lovlig vis, dvs. iht.
+Udbudsdirektivet og Tilbudslovens krav til elektroniske udbudssystemer.
+Bygherren skal udbyde sit udbudsmateriale på udbudsportalen, hvorfra de bydende henter materialet.
+De bydende fremsender deres tilbud til portalen, hvorefter der afholdes licitation.
+Det er et krav, at de bydende ikke kan se andre bydendes tilbud, ligesom bygherren heller ikke må kunne se de indkomne tilbud før licitationstidspunktet.
+De bydende skal umiddelbart efter licitationstidspunktet have fremsendt oplysninger om alle andre bydendes navne, hovedsummer og eventuelle forbehold.
+ I forbindelse med valg af udbudsportal, bør bygherren sikre, at der kan ske en fastlåsning af de versioner af udbudsmaterialet, som er brugt ved tilbudsafgivelsen, og de efterfølgende versioner af tegnings- og beskrivelsesmaterialet, som løbende bliver ajourført.
+ Udbudsmaterialet struktureres i henhold til kravene i § 4, § 6, § 7 og § 10.
+8.4.1 Aftale med de projekterende Bygherren bør fra starten af projektet indgå aftale med de projekterende om, at projekteringsmaterialet skal struktureres, så det kan indgå som udbudsmateriale for digitalt udbud med mængder med mindre det ikke vil være fordelagtigt at udbyde med mængder, i henhold til bekendtgørelsens § 9.
+Bygherren skal også afklare, hvem der skal forestå udbudsprocessen.
+Sædvanligvis er det projekteringsledelsen, der har opgaven at håndtere udbudsprocessen for udførelsesentrepriserne.
+Derfor kan det være fornuftigt, at projekteringsledelsen også får opgaven at tilrettelægge og gennemføre det digitale udbud af udførelsesentrepriserne.
+Aftalen om digitalt udbud bør indgå i projektets IKT-aftale.
+Der kan hentes inspiration til udformning af IKT-aftaler og IKT-specifikationer i bips paradigme for en IKT-aftale, F102 »Byggeriets IKT-specifikationer  anvisning« og F202 »Byggeriets IKT-specifikationer  basisbeskrivelse«.
+8.4.2 Fremgangsmåde Udarbejdelse af udbudsmateriale til digitalt udbud kræver en god datadisciplin af de projekterende og klare aftaler om, hvordan udbudsmaterialet skal struktureres, og i hvilken detaljeringsgrad evt. udbudsmængder skal angives.
+Udbuddets projektmateriale og evt. mængder bør være baseret på en objektbaseret bygningsmodel (med eller uden 3D geometri), som indeholder de objekter (bygningsdele) der skal udføres, og som evt. mængdesættes.
+Denne model skal gøres tilgængelig for de bydende.
+Der skal således være overensstemmelse mellem udbudsmaterialets objekter, beskrivelsen af objekternes egenskaber med tilhørende arbejdsprocesser og tilbudslistens positioner og mængder.
+ Illustration over sammenhængen mellem bygningsmodeller, bygningsdelsbeskrivelser, tilbudslister, mængdelister og andre mængder.
+ De udførende skal kunne orientere sig i den digitale bygningsmodel og kunne genfinde alle opmærkede objekter i tilbudslisten til støtte for tilbudsgivningen.
+ Et byggeprojekts beskrivelser består af en byggesagsbeskrivelse samt et antal arbejdsbeskrivelser.
+Fra de digitale bygningsmodeller udtrækkes informationer om hver af modellens byggeobjekter.
+Nogle specifikke typer af byggeobjekter indgår ikke i den digitale bygningsmodel, men indgår derimod i bygningsdelsbeskrivelserne.
+Tilsvarende indgår generelle ydelser og arbejder normalt heller ikke i bygningsmodellerne.
+Dog skal det sikres, at begge dele alligevel medtages i mængdelisterne.
+ Eksempel på bygningsdelsbeskrivelse.
+I udtrækket af byggeobjekter fra den objektbaserede, digitale bygningsmodel indgår en identifikator (GUID - Global Unique IDentifier), som hvert byggeobjekt tildeles ved udtræk fra bygningsmodellen.
+Hvordan dette i praksis foregår, er i høj grad systemafhængigt.
+Dermed kan listen over byggeobjekter spores tilbage til bygningsmodellen, og det kan gennem navngivning, klassifikation eller kodning sikres, at der er den krævede overensstemmelse mellem udbudsmaterialets objekter, beskrivelsen af objekternes egenskaber med tilhørende arbejdsprocesser og tilbudslistens positioner og eventuelle mængder.
+ Ligeledes kan de bydende gennem identifikatoren (GUIDen)  som optræder i tilbudslisten - direkte finde byggeobjekterne i den objektbaserede bygningsmodel.
+ I forbindelse med udarbejdelsen af udbudsmaterialet skal omfanget af de digitale leverancer i forbindelse med den digitale aflevering angives.
+8.4.3 Redigérbare tilbudslister Tilbudslisterne bør være redigérbare, så de steder, hvor de udførende skal tilføje deres informationer, kan benyttes af de udførende i forbindelse med dialogen om prissætning med underentreprenører og leverandører.
+Desuden medfører redigérbarheden, at tilbudslisterne kan underopdeles, behandles og analyseres af bygherren og hans rådgivere i forbindelse med tilbudsvurderingen.
+Underentreprenører og leverandører skal også kunne orientere sig i den digitale bygningsmodel, og kunne genfinde alle opmærkede objekter i tilbudslisten til støtte for deres deltagelse i tilbudsgivningen.
+ For nærværende vil de fleste udførende samt bygherrer og rådgivere benytte standardkontorapplikationer i disse processer, eksempelvis i regnearksformaterne . xlsx og . csv eller de åbne PDF- og ODF-formater.
+8.4.4.1 Projektwebsystem til udbud Ved digitalt udbud på et projektwebsystem anvendes projektwebsystemets informationsarkiv som digitalt platform for formidling af udbudsmaterialet og for indhentning af tilbud.
+Bygherren skal gøre sit udbudsmateriale tilgængeligt på projektwebsystemet, hvorfra de bydende kan hente (downloade) materialet.
+De bydende skal registreres i projektwebsystemet, før de kan aflevere et tilbud.
+De får tildelt et sikkert område på projektwebsystemet, hvori de kan aflevere (uploade) deres tilbudsinformationer og -dokumenter.
+Projektwebsystemets adgangssystem sikrer, at tilbuddene holdes fortrolige, og at ingen andre end de bydende selv kan se deres tilbud inden licitationstidspunktet.
+På licitationstidspunktet lukkes de bydendes adgang for redigering i deres tilbudsdokumenter, og bygherren får efterfølgende adgang til alle de indkomne tilbud.
+Projektwebsystemet skal kunne håndtere denne proces automatisk via deres adgangs- og sikkerhedssystem, og ikke gennem projektwebadministratorers manuelle flytning af dokumenter fra de bydendes mapper til bygherrens mapper.
+Den manuelle flytteproces medfører stor risiko for fejl, som f.eks. at bygherren ikke modtager alle de bydendes dokumenter.
+8.4.4.2 Dedikerede udbuds- og tilbudssystemer Der findes en række dedikerede digitale udbuds- og tilbudssystemer, der understøtter håndteringen af udbuds- og tilbudsprocessen mere specifikt og målrettet end projektwebsystemerne.
+ Udbudsmaterialets tilbudsliste kan direkte importeres og eksporteres i udbuds- og tilbudssystemerne, og dermed udgør tilbudslisten i sig selv en del af systemet.
+De bydende skal angive deres tilbudspriser direkte i udbuds- og tilbudssystemet.
+Dette gøres ved, at den bydende indtaster sine priser direkte i systemet eller ved, at den bydende eksporterer tilbudslisten fra tilbuds- og udbudssystemet til eget kalkulationssystem, for derefter at importere en udfyldt tilbudsliste tilbage i tilbuds- og udbudssystemet.
+Flere af udbuds- og tilbudssystemerne kan også uddelegere tilbudsgivningen, således at den bydende entreprenør kan bede flere af sine underentreprenører om selv at indtaste deres del af tilbuddet i systemet.
+I nogle systemer kan den bydende entreprenør indhente flere deltilbud for samme arbejder fra forskellige underentreprenører, og derefter udvælge det bedste deltilbud til det endelige tilbud.
+De bydendes tilbudspriser er fortrolige indtil licitationstidspunktet, men tilbuds- og udbudssystemerne kan i udbudsperioden løbende informere bygherren om processens status.
+Eksempelvis om hvor mange bydende, der er ved at afgive tilbud, og hvor langt de er nået i tilbudsprocessen, dvs. hvor stor en del af tilbudslisten de har udfyldt.
+Efter licitationstidspunktet kan udbuds- og tilbudssystemerne hjælpe bygherren med at sammenligne de indkomne tilbudspriser.
+De fleste systemer har flere analysefunktioner, der automatisk kan sammenligne de indkomne tilbud fra tilbudslisterne og grafisk visualisere fordeling og forskelle mellem tilbuddene.
+Dette giver bygherren et hurtigt og godt overblik over de indkomne tilbud og deres prisforskelle.
+ De bydendes forbehold behandles dog på sædvanlig måde, hvorfor udbuds- og tilbudssystemernes analyseresultater skal sammenholdes med de bydendes forbehold, før der træffes en endelig afgørelse.
+8.4.5 Krav til udbudsportalen Digitalt udbud betegnes som elektronisk udbud i såvel Udbudsdirektivet som i den danske Tilbudslov.
+ I Udbudsdirektivets bilag X er der opstillet et antal krav til elektronisk udbud, og i kapitel 11 i Vejledning til Tilbudsloven fra Konkurrence- og Forbrugerstyrelsen er stort set de samme krav oplistet.
+ De følgende retningslinjer er udarbejdet iht. de gældende regler på området, herunder overholdelse af det centrale ligebehandlingsprincip.
+8.4.5.1 Fortrolighed Ved licitation i en udbudsportal skal der etableres mulighed for, at tilbud kan afleveres løbende i perioden indtil selve licitationstidspunktet.
+ De afleverede tilbud skal være sikret mod åbning af såvel bygherren og hans rådgivere, som af de andre bydende.
+Når tilbuddene er åbnet, skal de bydende kunne se de primære oplysninger om alle de afgivne tilbud.
+Det vil sige navn på den bydende, hovedsummen og eventuelle forbehold.
+Resten af tilbudsoplysningerne forbliver fortrolige mellem den bydende og bygherren.
+ Det er vigtigt, at den digitale proces giver de samme oplysninger, som ved papirbaseret udbud, hvorved at den digitale udbudsproces vil blive opfattet som gennemsigtig af de bydende.
+8.4.5.2 Sikkerhed Ved indkøb og etablering af en udbudsportal skal bygherren sikre at de rette sikkerhedsmæssige foranstaltninger er understøttet, og at udbyderen kan garantere for systemets troværdighed.
+Det bør kræves, at udbyderen er DS484 og/eller ISO 27001 certificeret.
+For at sikre en sikker anvendelighed af udbudsportalen, bør udbudsportalen som minimum:
+Såfremt teknikken svigter i udbudsportalen, og der ikke kan afgives bud på det meddelte tidspunkt, er der risiko for, at hele udbuddet skal gå om.
+Det er derfor af afgørende betydning, at den tekniske løsning er sikker med hensyn til funktionalitet.
+De bydende skal have tildelt et sikkert adgangs-login til udbudsportalen, hvor tilbuddet skal afgives.
+Hertil kan anvendes et gældende identifikationssystem (digital signatur eller NemID), der er tilknyttet til den bydende virksomheds CVR-nummer.
+ Hvis identifikationssystemet ikke kan anvendes i udbudsportalen, eller hvis den bydende er en udenlandsk virksomhed, skal udbudsportalen som minimum håndtere et adgangs-login bestående af et brugernavn og password.
+ Udbudsportalen bør afsende en kvittering til den bydende, når det registreres, at der er modtaget et tilbud.
+Den bydende bør op til licitationstidspunktet kunne fortryde sit tilbud og trække det tilbage.
+Også i denne situation skal den bydende modtage en kvittering herfor.
+Den bydende bør også efterfølgende have mulighed for at fremsende et nyt gældende tilbud, så længe licitationstidspunktet ikke er overskredet.
+ For at overholde § 7 i Tilbudsloven om retten til at være til stede ved åbning af tilbuddene, skal alle bydende have fremsendt en række centrale oplysninger, som tilgår bygherren når licitationen finder sted.
+ Ifølge Konkurrence- og Forbrugerstyrelsens tolkning er en virtuel tilstedeværelse tilstrækkelig, hvis alle bydende får samme oplysninger fremsendt, som de ville have fået, hvis de havde overværet en papirbaseret licitation.
+ Det vil derfor være en fordel for bygherren at påkræve overfor de bydende, at alle indkomne tilbudsbreve udelukkende indeholder de rette oplysninger, således at tilbudsbrevene kan fremsendes direkte til de bydende.
+ Konkurrence- og Forbrugerstyrelsen har tilkendegivet, at hvis alle de indkomne tilbudsbreve indeholder navn, pris og forbehold kan de fremsendes til alle bydende, hvormed tilbudslovens § 7, om de bydendes ret til at være til stede og få udleveret budsummer og eventuelle forbehold, er opfyldt.
+§ 9. Udbud med mængder 9.1 Bygherrekravets ordlyd 9.2 Formål Formålet med at gennemføre udbud med mængder er primært at udnytte de unikke muligheder, der ligger i at udtage mængder fra de objektbaserede bygningsmodeller, og derved frigøre de tilbudsgivende fra det traditionelle og ressourcekrævende opmålingsarbejde.
+ Et andet formål er også at forbedre de bydende entreprenørers tilbudsproces, og derved minimere entreprenørernes forbehold og risikotillæg.
+Endvidere er formålet at tilgodese ønsket om ensartethed og dermed sammenlignelighed af de indkomne tilbud.
+Et forhold som vil betyde en markant effektivisering af processen omkring vurdering af disse.
+9.3 Kravstillelse Udbud med mængder forudsætter, at de aktuelle digitale modeller reelt er egnede til at generere de nødvendige mængder, eller alternativt at der kan foretages de nødvendige opmålinger.
+Det forudsætter tillige, at de tilgængelige opmålingsregler er egnede og tilstrækkelig dokumenterede til den aktuelle opmåling.
+ I forhold til kravet om, at udbudsmaterialet for den enkelte entreprise skal omfatte relevante, digitale, objektbaserede bygningsmodeller, hvoraf mængder kan udlæses, kan der godt være situationer, hvor der ikke foreligger 3D-geometri, men hvor det alligevel kan være hensigtsmæssigt og muligt at udbyde med mængder.
+ Der bør være en nøje sammenhæng og konsistens mellem udbudsmaterialets bygningsdelsbeskrivelser, tilbudslistens mængder og de objektbaserede, digitale bygningsmodeller, som beskrevet i ovenstående afsnit 8.4.2 - Fremgangsmåde.
+Med formuleringen »i det omfang der udbydes med mængder« tager bekendtgørelsen højde for, at bygherren i nogle situationer kan ønske at udbyde dele eller hele udbuddet i totalentreprise eller som funktionsudbud.
+Det kan fx være i forbindelse med udbud af tekniske entrepriser eller totalentrepriser, hvor det er tilbudsgivers opgave at projektere og udføre den tekniske entreprise, fx ét stk. ventilationsanlæg.
+I disse situationer giver det ikke megen mening at stille krav om udbud med detaljerede mængder på baggrund af udtræk fra digitale bygningsmodeller.
+ Bygherren har således mulighed for at vælge mellem 3 forskellige, overordnede udbudsformer:
+Statslige byggesager har siden 1. januar 2007 været omfattet af IKT-bekendtgørelsen i forskellige udformninger, herunder med krav om at der altid skal udbydes med mængder i fag- og hovedentreprise.
+Den nye IKT-bekendtgørelse stiller ikke krav om, at der i alle tilfælde skal udbydes med mængder.
+Statslige byggesager kan dog med fordel fortsat udbyde relevante (ikke funktionsudbud) projekter med udbudsmængder, da dette efter 6 års praksis forudsættes allerede at være en integreret del af den statslige byggepraksis.
+Det anbefales som princip at udbyde med mængder med mindre udbudsformen taler imod dette.
+9.4 Anbefalinger vedr. den praktiske anvendelse De fleste objektbaserede modelleringsværktøjer kan udtrække mængdelister fra deres egne fagmodeller.
+Modellerne indeholder ofte for meget information, og mængdelisterne skal derfor defineres, bearbejdes, struktureres og summeres inden den kan overføres til en digital tilbudsliste.
+ Eksempel på mængdeliste fra udtræk fra en fagmodel.
+I mængdelisterne optræder som nævnt i afsnit 8.4.2 en identifikator for det enkelte objekt, som henviser til - eller er - objektets interne identifikationsnummer i den objektbaserede fagmodel.
+Ved hjælp af denne identifikator kan man identificere og fremfinde det pågældende objekt i fagmodellen.
+Mængderne kan også udgøres af andre mængder end dem, der kan udtrækkes direkte fra den digitale bygningsmodels byggeobjekter og deres geometri.
+Der kan være mængder, der ikke eksplicit indgår i bygningsmodellen, fordi byggeobjektet ikke er modelleret i bygningsmodellen, men hvor der foreligger en bygningsdelsbeskrivelse af objektet.
+Dette kunne f.eks. være fuger eller generelle arbejder og ydelser, som f.eks. overdækning, stillads mv.
+I sådanne tilfælde kan mængden ofte udledes af, eller være opført i, bygningsdelsbeskrivelsen, eller kan udledes af det relaterede objekt, f.eks. et vindue, i modellen.
+ Alle typer af mængder bør overføres til mængdelisten, hvor en yderligere bearbejdning i form af strukturering og summering af mængder skal finde sted, inden de overføres til selvstændige poster på tilbudslisten.
+ Mængdelisterne bør indgå i udbudsmaterialet, idet mængdelisterne indeholder de rå mængder, der er udtrukket fra bygningsmodellerne.
+I tilbudslisten skal der angives, hvilke opmålingsregler der er anvendt.
+Ofte er det nok blot at skrive, hvilken enhed mængden er opgjort efter.
+Det kan være stk., længde, areal eller volumen.
+De fleste objektbaserede modelleringsværktøjer genererer mængdelister efter de gængse regler inden for det fagområde hvor værktøjet benyttes.
+Disse opmålingsregler skal beskrives i udbudsmaterialet for at sikre den fornødne entydighed.
+ Til inspiration for beskrivelsen af anvendte opmålingsregler kan man f.eks. anvende bips publikation F111, »Opmålingsregler 2008  Anvisning«, hvor der er angivet en række generelle opmålingsregler, som kan anvendes direkte eller henvises til for dokumentation af de benyttede opmålingsregler.
+Tilbudslisten skal indeholde poster for hver bygningsdelstype.
+Det er hensigtsmæssigt, at der sker en sortering og summering af posterne i mængdelisten, så mængderne for alle poster i tilbudslisten bliver summeret i henhold til den bygningsdelsstruktur som anvendes i byggesagen.
+ Tilbudslisten indeholder de bearbejdede mængder, og skal være opstillet i den struktur, som man ønsker at tilbuddet skal afleveres i.
+ Eksempel på tilbudsliste.
+9.5 Dokumentation af opmålingsregler/-metoder Formålet med at opmålingsregler og -metoder skal være dokumenterede, er at sikre, at alle tilbud afgives på et ensartet grundlag.
+Formålet er tillige at sikre, at der ikke efter kontrakters indgåelse opstår usikkerhed med deraf følgende tvister om hverken opmålingsregler eller -metoder.
+Såfremt mængderne er udtaget af geometrien i en objektbaseret, digital bygningsmodel må der redegøres for, hvordan mængderne er udtaget, så det er muligt for den udførende at kontrollere dette, og så det er muligt efter kontraheringen og under byggeriet, at korrigere for ændrede mængder.
+ Det anbefales, at udbyder i forbindelse med de endelige kontraktforhandlinger stiller krav om, at den valgte entreprenør inden for en given tidsfrist kontrollerer de udbudte mængder, og at der efterfølgende kontraheres på grundlag af kontrollerede mængder, som der er enighed om.
+§ 10. Digital leverance ved byggeriets aflevering 10.1 Bygherrekravets ordlyd 10.2 Formål Formålet med kravet om digital leverance ved byggeriets aflevering er primært at sikre en optimal og rationel bygningsforvaltning og bygningsdrift, i videst muligt omfang baseres på systematisk genbrug af digitale byggeobjekter og projektinformationer.
+Digital aflevering er dermed et vigtigt led i visionen om, at den objektbaserede bygningsmodel nyttiggøres i byggeriet »fra vugge til grav«.
+ Formålet med digital aflevering er endvidere at sikre, at de digitale data, der er blevet arkiveret under sagsforløbet, og som dokumenterer projekterings- og byggeprocessen og produktet  det færdige byggeri  foreligger tilgængeligt for bygherren med henblik på anvendelse i forbindelse med 1 og 5 års eftersyn samt Byggeskadefondens eftersynsordning hvad angår det almene boligbyggeri.
+ Formålet er desuden at sikre en langsigtet tilgængelighed og læsbarhed af den samlede sagsdokumentation til anvendelse i forbindelse med renoveringer, om- og tilbygninger m.v.
+Der tages i denne vejledning ikke konkret stilling til, hvordan dette krav i detaljer skal udmøntes i praksis, fordi det i høj grad er afhængigt af, hvilke IKT-systemer byg- og driftsherren besidder, og hvordan han anvender dem.
+Ofte vil det være hensigtsmæssigt at gennemføre en udsortering  eller en filtrering  af informationer fra den digitale bygningsmodel og fra eventuelle, relevante dokumenter, og konvertere dem til et format, som kan importeres i driftsherrens FM-system.
+10.3 Kravstillelse Omfanget af den digitale leverance ved byggeriets aflevering bør specificeres i en IKT-ydelsesspecifikation, som indgår i udbudsmaterialet til rådgivere og udførende.
+Hertil kan der eventuelt findes inspiration i bips skabeloner, F102 og F202.
+Den digitale leverance skal som minimum indeholde en objektbaseret bygningsmodel i IFC-formatet.
+Herved kan modellen indgå i driftsherrens bygningsforvaltnings- og driftssystemer uafhængigt af softwareplatform.
+ Det er afgørende vigtigt, at kravene til indhold og form på den digitale leverance ved byggeriets afslutning tager direkte udgangspunkt i bygherrens og driftsherrens IKT-anvendelse og hans konkrete IKT-systemer til støtte for projekt- og bygningsforvaltningen  eller i hans konkrete strategier og planer på dette område.
+ Kravstillelsen bør således tage konkret udgangspunkt i byg-/driftsherrens eksisterende IKT-systemer, så det sikres, at de afleverede, digitale informationer kan indlæses i de pågældende systemer, og det bør i den forbindelse sikres, at de nødvendige byggeobjekter forefindes tilgængelige i den digitale leverance med de nødvendige egenskabsdata.
+ Om den digitale leverance i henhold til dette bygherrekrav sker ved en fysisk aflevering på et transportabelt medie eller ved en direkte overførsel fra byggesagens internetbaserede system til digital kommunikation (projektweb), må aftales mellem parterne.
+ Struktur, formater, navngivning, klassifikation og kodning af projektmaterialet i forbindelse med den digitale leverance ved byggeriets aflevering, vil for den objektbaserede bygningsmodels vedkommende allerede være fastlagt i § 4 vedr. håndtering af digitale byggeobjekter.
+10.3.1 Afleveringsfrister Bygherren bør i samråd med driftsherren udarbejde en samlet plan for, hvornår specifikationerne på de forskellige krav til den digitale aflevering skal være udarbejdet, og hvem der skal forestå opgaven hermed, samt for hvornår de forskellige informationer og bygningsmodeller skal leveres, samt hvilken overdragelsesmetode der skal anvendes.
+ Det er vigtigt, at procesmodellen foreligger i god tid inden den/de første digitale leverancer gennemføres - helst et par måneder før - så der er tid til at teste, om de metoder og dataformater der er stillet krav om, er tilstrækkelige, om dataleverandørene faktisk er i stand til at gennemføre den aftalte, digitale leverance - og om driftsherrens system faktisk kan modtage de leverede data.
+ Bygherren bør udpege en ansvarlig for gennemførelse af den digitale aflevering af dokumentation af byggeriet, byggesagen og drift-, vedligeholdelses- og ejendomsforvaltningsinformation.
+ Oftest er det projekteringsledelsen, der bliver ansvarlig for denne opgave, men bygherren kan også overdrage opgaven til de udførende.
+De øvrige parter i byggesagen bør hver især udpege én ansvarlig for udarbejdelse af deres respektive del af den digitale aflevering.
+Den afleveringsansvarlige bør koordinere parternes indsats, og sikre, at de øvrige parter også afleverer deres materiale i den aftalte form og format samt inden for den aftalte tidsperiode.
+ Den afleveringsansvarlige bør sikre at IKT-ydelsesspecifikationer udfyldes og opdateres i henhold til det aftalte med bygherreherren, ligesom den afleveringsansvarlige bør sikre, at der tages højde for drift-, vedligeholdelses- og forvaltningsinformationer i byggesagens arbejdsbeskrivelser.
+Den digitale leverance af informationer om proces og produkt, bør foreligge på »låste« formater  som f.eks.
+PDF  så der ikke er mulighed for at manipulere med dataindholdet.
+Derved kan det indgå som dokumentation f.eks. i forbindelse med tvister.
+10.4. Anbefalinger vedr. den praktiske anvendelse 10.4.1 »Projektdatabasen« I en ideel verden ville al information omkring byggesagen være en del af den objektbaserede bygningsmodel, som kunne tilgås af alle byg- og driftsherreres IKT-systemer.
+ Sådan forholder det sig dog ikke i dag, hvor den objektbaserede bygningsmodel som regel blot udgør en del af den samlede informationsmængde.
+Som det fremgår af § 4, vil data blive produceret i mange forskellige applikationstyper, og vil skulle anvendes i tilsvarende forskellige applikationer.
+Her beskrives tillige hvilke krav til strukturering, navngivning, klassifikation og kodning, der skal stilles til projektparterne for at sikre, at dataleverancen ved aflevering kan indlæses og gøres aktivt i bygherrens og driftsherrens forskellige systemer.
+ I praksis er det således hensigtsmæssigt at opdele den digitale leverance af den samlede (virtuelle) »projektdatabase« i tre forskellige dele:
+10.4.1.1 Produktdokumentation for det afleverede byggeri Produktdokumentation for det afleverede byggeri vil dels bestå i en række dokumentfiler og evt. i en objektbaseret bygningsmodel, evt. i form af en fællesmodel og flere fagmodeller.
+For begge deles vedkommende vil der foreligge IKT-specifikationer, som i detaljer beskriver indhold, navngivning, klassifikation og kodning samt format udarbejdet af IKT-koordinatoren i henhold til anvisningerne i § 4 jvf. § 6 og § 7. For den dokumentbaserede del gælder de samme forhold som beskrevet i nedenstående afsnit 10.4.1.2.
+ For den digitale, objektbaserede bygningsmodel bør det i henhold til anvisningerne i § 4 jvf. § 6 og § 7 nøjere specificeres, hvordan bygningsmodellen afleveres, så det sikres, at den er tilgængelig for byg- og driftsherren i dokumentationsøjemed og til evt. anvendelse som grundlag for om- og tilbygning samt renovering.
+ Skal byg- og/eller driftsherren overtage bygningsmodellen ved at overtage det digitale kommunikationssystem, som er benyttet under projektet, skal det sikres, at modellen foreligger i IFC-format, og at der foreligger dokumentation af modellen/modellerne, som f.eks. gør det muligt for byg- og/eller driftsherren at vedligeholde en kopi heraf til eget, fremtidig brug.
+10.4.1.2 Procesdokumentation for byggesagens forløb Dokumentationen af byggesagens forløb vil hovedsagligt foreligge som digitale dokumenter i projektets digitale kommunikationssystem, herunder i form af filer fra kontorapplikationer.
+Filerne med deres metadata vil typisk ligge i en af IKT-koordinatoren specificeret (mappe)struktur, og byg- og/eller driftsherren kan i praksis vælge, om han i forbindelse med byggeriets afslutning vil overtage projektets samlede, digitale kommunikationssystem og drive det videre, og dermed fortsat have adgang til projektets informationer, eller om han vil kræve materialet afleveret i en samlet og dokumenteret struktur på et fysisk datamedie (DVD, USB mv.).
+Hvis byg-/driftsherren har sit eget IKT-system til arkivering af projektinformationer, kan han overveje at stille krav om en afleveringsform, som muliggør indlæsning af projektdata i dette system.
+Har byg- og/eller driftsherren ikke i forvejen en anvendelig struktur for arkivering af projektinformationer vedr. procesdokumentation for byggesagens forløb, kan han lade sig inspirere af bips publikation vedr. mappestruktur og dokumenthåndtering A 104. Han kan endvidere lade sig inspirere af Bygherreforeningens Kravkonfigurator.
+Alle data, der afleveres på digital form, bør afleveres i åbne dataformater.
+For kontorapplikationer drejer det sig eksempelvis om ODF (Open Document Format), og PDF-formatet.
+For objekt- og modelinformationer drejer det sig om IFC-formatet.
+For PDF-dokumenter anbefales det at dokumenterne gøres søgbare gennem OCR-genkendelse.
+10.4.1.3 Forvaltningsinformationer og informationer til bygningsdrift Ejendomsforvaltning er en fællesbetegnelse for en lang række af de aktiviteter, der knytter sig til forvaltning af ejerskabet og anvendelsen af bygninger efter, at disse er taget i anvendelse.
+Det kan bl.a. være porteføljestyring, administration af bolig-/erhvervsenheder, styring af energiforbrug og miljø, vedligehold, pasning, overvågning og styring af tekniske anlæg, renovering og renhold, kommunikations- og kontorservice mv.
+Et væsentligt udgangspunkt for disse aktiviteter er anvendelsen af ejendomsdata.
+Disse data er i dag typisk placeret i et eller flere digitale driftssystemer, hvor der for bygninger, enheder, lejemål og bygningsdele mv. er den nødvendige tekstinformation suppleret med tegningsmateriale i form af »traditionelle« plantegninger evt. suppleret med snit og facader samt diagrammer.
+Med IKT-bekendtgørelsernes krav om levering af en objektbaseret bygningsmodel i bygge- og renoveringsopgaver er vejen åbnet for også i ejendomsforvaltningen at nyttiggøre den objektbaserede, digitale bygningsmodel.
+Modellen vil her - som under forløbet af byggesagen - sikre et struktureret og sammenhængende grundlag for bygningsforvaltningen, som vil medvirke til at styrke byg- og driftsherrens forvaltningsprocesser.
+Lad os for nemheds skyld kalde den »driftsmodellen«, selv om den  lige som andre specifikke modeller, der benyttes undervejs i projekt  reelt består af én eller flere specifikke, driftsorienterede fagmodeller.
+Som beskrevet under § 4 anvendes der i dag ofte flere forskellige IKT-applikationer til støtte for bygningsforvaltningen.
+Disse systemer vil ofte være objektbaserede i den forstand, at de håndterer en specifik forvaltningsgrens relevante objekter med deres specifikke egenskaber.
+De vil ofte ikke være modelbaserede, og vil ofte ikke kunne læse eller udlæse og fortolke IFC-filer.
+Det er derfor afgørende nødvendigt at specificere objektindhold og tilhørende egenskaber  og herunder detaljeringsgrad  for de bygnings- og forvaltningsobjekter, som byg-/driftsherren benytter i sine forvaltnings- og driftssystemer.
+Denne beskrivelse skal danne grundlag for IKT-koordinatorens beskrivelse af den digitale leverance i henhold til § 4. Her er det særlig vigtigt, at bygherren tager stilling til med hvilken detaljeringsgrad (på hvilket informationsniveau) han vil bruge og vedligeholde den digitale, objektorienterede driftsmodel og de tilknyttede informationer i driften.
+Driftsmodellen vil ofte være langt enklere end som udført-modellen, og vil oftest indeholde langt færre objekter og egenskaber end de fagmodeller, som udarbejdes under projektering og udførelse.
+Det er vigtigt at understrege, at det ikke giver mening at stille krav om en mere detaljeret driftsmodel, end den, som summen af de eksisterende (og planlagte) driftssystemer repræsenterer.
+Den model som kræves afleveret skal direkte reflektere det objekt- og egenskabsdataindhold, som driftsherren vil benytte, og som man har ressourcer til løbende at vedligeholde.
+Disse principper skal iagttages i forbindelse med specifikationen af den digitale leverance ved aflevering i henhold til § 4.
+Ved beskrivelsen af driftsherrens specifikke IKT-systemer og ved specifikationen af forvaltnings- og driftsobjekter med tilhørende egenskaber kan der hentes inspiration i rapporterne fra to projekter i Bygherreforeningen. (BHF, 1.3 Modelstrategi for BIM og 3.2 Fra papir til BIM), som udkom ultimo januar 2013, og kan hentes på www.bygherrebim.dk.
+Det sidstnævnte projekt beskriver en række typiske driftsapplikationer, deres funktioner, objekter, egenskaber og dataformater, og det førstnævnte projekt beskriver relationerne mellem forvaltnings- og driftsfunktioner, deres tilhørende objekter, og disses egenskaber, og kan benyttes som grundlag for at stille krav om digital aflevering af modelobjekter og deres egenskaber.
+For det almene byggeri anbefales det at lægge Forvaltningsklassifikation til grund for specifikationen af forvaltningsfunktioner, driftsobjekter og deres egenskaber samt for navngivning og klassifikation af objekter og egenskaber.
+Information og specifikationer vedr.
+Forvaltningsklassifikation kan hentes på Landsbyggefondens hjemmeside: www.lbf.dk (søg efter Forvaltningsklassifikation).
+10.4.1.4 Datablade og driftsanvisninger I forbindelse med den traditionelle aflevering bliver der afleveret bunker af datablade, kataloger samt vedligeholds- og udskiftningsanvisninger mv.
+Ofte er kun en mindre del af dette materiale relevant at anvende i driften.
+Den gode driftsmodel vil indeholde den nødvendige, driftsorienterede dokumentation af de enkelte driftsobjekter, herunder information om objektets vedligeholdsplan.
+I praksis vil situationen endnu ofte være den, at driftsherren har en enkel driftsmodel med et udvalg af driftsobjekter med relativt få egenskaber tilknyttet.
+I en sådan situation vil det være fornuftigt at etablere et struktureret, databasebaseret dokumenthåndteringssystem kun med den nødvendige dokumentation om de enkelte objekter, til hvilket der kan linkes fra driftsmodellen, som hermed kan støtte udarbejdelsen af vedligeholdsplaner mv.
+Opmærksomheden skal henledes på, at nogle af de objekter, som driftsherren ønsker at vedligeholde, og som optræder i hans driftssystem f.eks. ventiler, pumper, filtre, udearealer med specifikke belægninger mv., ikke nødvendigvis findes i den objektbaserede model, som udarbejdes under projekteringen.
+Er det tilfældet, skal det indgå i IKT-specifikationerne, at disse skal etableres, dokumenteres og afleveres som en del af den digitale leverance.
+§ 11. Digital mangelinformation 11.1. Bygherrekravets ordlyd 11.2 Formål Formålet med kravet om brug af digitale mangellister er at sikre, at der sker en systematisk og effektiv identifikation og dokumentation mhp. at understøtte en systematisk udbedring af mangler.
+ Et sekundært formålet er at sikre, at mangelinformation får en form og et indhold som støtter systematisk erfaringsopsamling og opbevaring af informationer om manglers opståen og behandling i tilknytning til afleveringsforretningen og 1- og 5-årseftersynet.
+11.3 Kravstillelse Identifikation og dokumentation af mangler skal ske i den samme objektstruktur, efter en fastlagt og dokumenteret systematik, og på en sådan måde, at mangelinformationerne knyttes til de byggeobjekter der er bærere af, eller repræsenterer, den pågældende mangel.
+ Håndtering af mangler skal indgå i den samlede beskrivelse af håndteringen af det samlede informationsflow i den objektbaserede bygningsmodellering i henhold til § 4.
+ Dokumentationen af mangler skal have en form, et indhold og et format, som gør det muligt at indlæse informationerne i byg-/driftsherrens dertil anskaffede og indrettede IKT-systemer  eller til systemer, som han er forpligtet til indberette til.
+ På det almene byggeris område, skal afleveringen af mangelinformationer til Byggeskadefonden således følge dennes til enhver tid gældende anvisninger.
+11.4 Anbefalinger vedr. den praktiske anvendelse IKT-systemet til håndtering af fagmodellen for mangelinformation kan være en del af de systemer, der i øvrigt anvendes i byggesagen, eller det kan være et selvstændigt system.
+Hvis der er tale om et selvstændigt system, er det af afgørende betydning, at dette umiddelbart ved registrering af mangler kan importere de aktuelle, digitale byggeobjekter inkl. egenskabsdata fra den objektbaserede bygningsmodel.
+ Det anbefales at registrere mangelinformation i en fagmodel knyttet til byggesagens objektbaserede fællesmodel.
+Det kan alternativt overvejes at anvende, eller støtte sig til, et af de på markedet værende mangelhåndteringssystemer, hvoraf nogle er selvstændige applikationer, mens andre er en integreret del af mere bredt dækkende digitale kommunikationsløsninger eller projektweb.
+Flere af disse mangellistesystemer er avancerede, internetbaserede flerbrugersystemer tilgængelige på web, mobil og tablets med integrationsmuligheder til anden projektdokumentation, og med mulighed for at tilknytte fotos, plottede tegninger, GPS-koordinater mv.
+Nogle af disse systemer er bl.a. inspireret af nedennævnte bips-publikationer.
+ Vælges en sådan løsning, skal det sikres, at løsningen lever op til nærværende paragrafs hovedkrav, og at den objekttilknyttede mangelinformation kan udlæses på et åbent og dokumenteret format.
+Til støtte og inspiration for kravformuleringen henvises der til to bips-publikationer, bips C207 og U104, som giver forslag til indhold af mangellister, og som foreskriver krav til digital udveksling af mangellister.
+I skrivende stund er bips i gang med at sammenskrive de to publikationer.
+Til støtte og inspiration for kravformuleringen kan der endvidere henvises til et arbejde i Byggeskadefonden/Landsbyggefonden mhp. at specificere indholdet af mangelinformation for det almene byggeri.
+Der er dels tale om en specifikation af felter for mangelens type, tilknytning til byggeobjekt, alvor, faglige tilhørsforhold mv., dels tale om specifikation af et format for aflevering af mangelinformation til en fælles erfarings- og mangeldatabase i Byggeskadefonden.
+11.5 Eksempel på anvendelse af digitale mangellister hos BYGST Bygningsstyrelsen har bl.a. på universitetsbyggeriet Københavns Universitet Amager anvendt digital mangelregistrering, hvor op til 60 mangelregistreringer pr. time pr. tablet blev foretaget på byggepladsen med præcis dokumentation og lokationsbestemmelse direkte i bygningsmodellen.
+ Ovenfor til venstre ses eksempel på registrering af mangelinformation med foto dokumentation direkte i den objektbaserede bygningsmodel med tablet.
+ Til højre ses tilgang til mangelregistreringen på web eller som udprintet rapport til entreprenør/håndværker.
+§ 12. Ikrafttræden og overgangsbestemmelser 12.1. Bygherrekravets ordlyd 12.2 Ikrafttræden og overgangsbestemmelser Bekendtgørelsen træder i kraft den 1. april 2013 og erstatter bekendtgørelse nr. 1381 af 13. december 2010.
+ Bekendtgørelsen gælder for byggesager, der starter efter denne dato, dvs. ved offentliggørelse af rådgiverudbud/totalentreprenørudbud.
+Begrebsliste Formål Formålet med begrebslisten er at sikre en éntydige opfattelse af bekendtgørelsesteksten.
+Der har i udarbejdelsen været anvendt en lang række kilder. . Sproget, og dermed begrebsdannelsen, er i stadig forandring, og nye ord dukker hele tiden op.
+Derfor må denne begrebsliste ikke betragtes som et endegyldigt resultat, men som en liste i fortsat udvikling.

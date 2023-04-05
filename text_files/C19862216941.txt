@@ -1,0 +1,114 @@
+ Studieplanen har virkning fra august 1983 (genoptryk).
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+ 1. Formål.
+ Systemdesign opfattes her som informationsanalyse, dvs. analyse af data og  
+
+ processer, som afsluttes med en begrebsmæssig, brugervendt beskrivelse af  
+
+ informationssystemet.
+Beskrivelsen er normalt implementeringsuafhængig og kan bestå af modeller  
+
+ af - data-strukturen - data-strøm-strukturen - procesbeskrivelse.
+ Dette design vil således være grundlaget for det efterfølgende  
+
+ konstruktionsarbejde:
+- teknologi-valg - programafgrænsning/konstruktion - filkonstruktion.
+ Kurset har til formål at give den studerende viden om begreber, problemer,  
+
+ metoder og værktøjer indenfor systemdesign, samt at sætte den studerende i  
+
+ stand til at vælge og anvende en eller flere passende metoder til brug i egne  
+
+ omgivelser.
+ 2. Indhold.
+ 2.1 Systemudvikling.
+ Her diskuteres forskellige systemudviklingsmodeller samt forskellen mellem  
+
+ traditionel og experimentel systemudvikling.
+ Endvidere behandles begreber som MODELLER, ABSTRAKTION, STRUKTURERING og  
+
+ FORMALITET, idet disse er af central betydning i al systemudvikling.
+ Professor Børje Langefors's princip for arbejde med uoverskuelige systemer  
+
+ diskuteres og belyses v.h.a. eksempler.
+ 2.2 Design-metoder.
+ Systemdesign-metoder kan bl.a. deles op efter deres orientering mod  
+
+ processer eller data.
+ 2.2.1. Procesorienteret systemdesign.
+Som et eksempel på en procesorienteret metode gennemgås ISAC.
+Denne metode  
+
+ er en svensk systemeringsmetode udviklet af Mats Lundeberg og Gøran Goldkuhl  
+
+ m.fl., Stockholm Universitet.
+ Specielt fokuseres på de problemorienterede metodetrin  
+
+ Forandringsanalysen, virksomhedsstudier og ikke mindst informationsanalyse  
+
+ samt de tilhørende værktøjer.
+ 2.2.2. Dataorienteret systemdesign.
+Professor G.M.
+Nijssen har ledet udviklingen af en  
+
+ informationsanalyse-metode som bærer navnet NIAM (=Nijssen Information  
+
+ Analysis Method). Metoden koncentrerer sig primært om dataanalysen og  
+
+ opstilling af en begrebsmæssig datamodel (ISD). Hovedvægten lægges på  
+
+ opstilling af informationsstrukturdiagram- merne.
+ Endvidere orienteres om de automatiske hjælpemidler, der understøtter  
+
+ metoden i såvel analysefasen som verifikationsfasen under brug af prototyper.
+ Metoden er udviklet i et kommercielt miljø (Control Data A/S).
+ 2.3 Databasedesign.
+ Databasedesign kan opfattes som en systemuafhængig metode, der  
+
+ koncentrerer sig om at opstille en begrebsmæssig model, som kan afbilde  
+
+ virksomhedens totale behov for data.
+ Inspireret af ANSI/SPARC arbejdes der i tre niveauer:
+ På kurset vil vi koncentrere os om den begrebsmæssige datamodel, idet de  
+
+ to andre niveauer bliver naturligt behandlet på 2.6 databasesystemer.
+ Således vil vi anvende Chen's entitets-relations-diagram til at afbilde  
+
+ den generelle data-struktur i virksomheden.
+ Modellen, som er implementeringsuafhængig, kan siden omdannes til en  
+
+ logisk model, netværks-relation-hierarkisk model, som svarer til  
+
+ datastrukturen i det valgte data base management system.
+ 2.4 Konsekvensvurdering.
+ Indføring af et nyt edb-system er et eksempel på påvirkning af  
+
+ organisationens teknologi-niveau.
+ Når man skal vurdere de positive og negative konsekvenser ved indføring af  
+
+ et nyt edb-system vil man ofte dele ind i det, som kan værdisættes, f.eks.
+lønsomhed, betalingsevne, servicegrad (også kaldet de hårde værdier) og forhold, som ikke kan værdisættes, f.eks.
+ arbejdsmiljø, de enkelte arbejdspladser og job (også kaldet de bløde  
+
+ værdier).
+Både de hårde og bløde værdier bliver diskuteret.
+Endvidere fokuseres på  
+
+ begrebet brugerindflydelse: hvorfor, hvordan, om hvad? 2.5 Projektarbejde omkring en udvalgt design-metode.
+ Som et alternativ til de under afsn. 2.2 omtalte design-metoder vil der  
+
+ blive mulighed for at arbejde med een af de andre metoder som behandles i  
+
+ litt. 1.
+ Resultatet af dette gruppearbejde dokumenteres i en rapport, som er  
+
+ grundlaget for en forelæggelse for resten af klassen.
+ Rapporten bygges op omkring beskrivelsesrammen, som er omtalt i  
+
+ systemdesign-noterne, afsnit 1.3.
+ 3. Forkundskaber.
+ Kurset bygger specielt på den viden, som kan erhverves på organisation og  
+
+ 3.1 virksomhedsanalyse.

@@ -1,0 +1,173 @@
+Vejledning om nye regler om lagring af cookies og lignende teknologier - Vejledning til bekendtgørelse om krav til information og samtykke ved lagring af eller adgang til oplysninger i slutbrugeres terminaludstyr Forord I forbindelse med revisionen af de europæiske teledirektiver i 2008/2009 vedtog Europa-Parlamentet en ændring af e-databeskyttelsesdirektivets artikel 5, stk. 3, der omhandler lagring af eller adgang til oplysninger i brugeres terminaludstyr, fx computere, smartphones eller tablets. Ændringen bestod bl.a. i indførelse af krav til indhentning af samtykke fra brugerne i forbindelse med lagring af eller adgang til oplysninger i deres terminaludstyr.
+ Ændringen af direktivbestemmelsen skyldtes et ønske fra Europa-Parlamentet om at øge beskyttelsen af brugernes privatsfære, når de færdes i en digital verden samt en bekymring om, at den daværende bestemmelse ikke i tilstrækkelig grad opfyldte dette formål  især i forbindelse med digitale tjenesters brug af cookies og lignende teknologier.
+Derfor er det især reglernes betydning for brugen af cookies, der har påkaldt sig stor opmærksomhed.
+Cookies sidestilles ofte med programmel eller software såsom virus, spyware eller malware, der er i stand til at interagere og manipulere med brugernes terminaludstyr og de oplysninger, der ligger herpå.
+Cookies i almindelighed er dog passive filer, der kan lagres eller tilgås i brugeres terminaludstyr, men ikke interagere eller manipulere med udstyr eller oplysninger.
+Cookies sætter imidlertid tjenesteudbydere eller andre, der lagrer eller tilgår cookies, i stand til bl.a. at identificere brugerne på tværs af individuelle besøg på en given tjeneste.
+Dermed bliver tjenesteudbydere i stand til at tilegne sig en detaljeret viden om brugernes adfærd og præferencer, som de kommer til udtryk på tjenesten.
+I nogle tilfælde kan brugerne også identificeres på tværs af besøg på forskellige tjenester, fx ved brug af 3. parts cookies.
+Denne viden kan benyttes til en lang række forskellige formål, fx personalisering og udvikling af mere brugervenlige tjenester, generering af analyser om brugen af en hjemmeside eller målretning af adfærdsbaseret markedsføring til brugerne.
+Afhængig af den enkelte brugers personlige holdninger kan disse formål enten være ønskværdige eller ikke-ønskværdige for brugeren.
+Brugernes mulighed for selv at beslutte, om de vil identificeres via cookies og lignende teknologier i deres terminaludstyr, er derfor et væsentligt element i beskyttelsen af deres privatsfære i en stadig mere digital verden.
+Denne vejledning retter sig primært mod udbydere af tjenester, der benytter sig af cookies og lignende teknologier.
+Derfor bruges begreberne tjenester og tjenesteudbydere ofte i vejledningen, men reglerne gælder for alle, der lagrer eller opnår adgang til oplysninger i brugeres terminaludstyr.
+Eksemplerne i vejledningen fokuserer tilsvarende på brugen af cookies, men reglerne begrænser sig som nævnt ikke hertil.
+Formålet med vejledningen er at understøtte bl.a. tjenesteudbydere i den praktiske implementering og efterlevelse af reglerne i bekendtgørelsen.
+Brugere af tjenesterne kan også med fordel læse vejledningen og derigennem opnå bedre kendskab til deres rettigheder.
+Vejledningen er ikke en definitiv anvisning på, hvorledes vi vil administrere reglerne i en konkret sag.
+Det må bero på de konkrete omstændigheder i den enkelte sag.
+Derimod er vejledningen tænkt som en angivelse af hvilke grundlæggende forhold, der vil indgå i administrationen af bekendtgørelsen, hvorved vejledningen dermed vil kunne udgøre en hjælp til at efterleve reglerne.
+Kompleksiteten og mangfoldigheden af digitale tjenester i dag gør det ikke muligt at beskrive i detaljen, hvordan reglerne skal efterleves, men bekendtgørelsen tegner, sammen med denne vejledning, en ramme eller et mulighedsrum, hvori tjenesteudbydere kan finde løsninger, der passer til deres konkrete kontekst.
+Tjenesteudbyderne selv vil have de bedste forudsætninger for at kunne tilvejebringe nye, innovative og brugervenlige løsninger, der øger gennemsigtigheden og kontrollen for brugerne, og reglerne skaber mulighed herfor.
+ Udvikling af løsninger inden for reglernes anvendelsesområde går hurtigt og vejledningen forventes derfor løbende opdateret, når der foreligger ny viden, der kan tjene som inspiration for andre.
+Den danske telemyndighed December 2011 1. Indledning Bekendtgørelse om krav til information og samtykke ved lagring af eller adgang til oplysninger i slutbrugeres terminaludstyr er udstedt i medfør af § 9 og § 81, stk. 2, i lov nr. 169 af 3. marts 2011 om elektroniske kommunikationsnet og -tjenester.
+Bekendtgørelsen implementerer artikel 5, stk. 3 i e-databeskyttelses-direktivet, direktiv 2002/58/EF, som ændret ved direktiv 2009/136/EF.
+ Links til ovennævnte lovgivning og direktiver kan findes sidst i vejledningen.
+ Den danske telemyndighed uddyber i denne vejledning reglerne i bekendtgørelsen på følgende områder:
+ Formål og afgrænsning  Krav til information og samtykke  Undtagelser  Selvregulering  Inspiration til processkridt  Tilsyn med reglerne  Links til lovgivning og direktiver 2. Formål og afgrænsning Hvad beskytter reglerne? Reglerne har til formål at beskytte brugernes privatsfære.
+Med reglerne anlægges den betragtning, at brugernes terminaludstyr udgør en del af deres privatsfære, og at denne skal beskyttes mod uretmæssig indtrængen.
+Ved terminaludstyr forstås fx computere, smartphones, tablets m.v., hvori der kan lagres oplysninger eller opnås adgang til allerede lagrede oplysninger, jf. bekendtgørelsens § 2, stk. 1, nr. 1.
+Hvilke handlinger er omfattet? Bekendtgørelsen vedrører alene den handling, der består i lagring af eller adgang til allerede lagrede oplysninger i en brugers terminaludstyr.
+ Handlinger, der finder sted før eller efter lagringen af eller adgangen til oplysninger i en brugeres terminaludstyr, er ikke omfattet af reglerne i bekendtgørelsen.
+Hvilke oplysninger er omfattet? Bekendtgørelsen vedrører enhver type af oplysninger, der lagres eller opnås adgang til i en brugers terminaludstyr.
+Der sondres således ikke mellem oplysninger og personhenførbare oplysninger.
+Det er ligeledes uden betydning, om oplysningerne er semantisk meningsfulde, uforståelige tekststrenge, kode eller om oplysningerne er krypterede.
+ Afhængig af det konkrete tilfælde og den behandling af oplysninger, der i øvrigt finder sted, herunder især den type af oplysninger, der behandles, kan reglerne i persondataloven finde anvendelse.
+Hvilke teknologier er omfattet? Bekendtgørelsen er teknologineutral.
+Bekendtgørelsen rækker dermed ud over lagring af eller adgang til oplysninger i brugeres terminaludstyr, der finder sted i forbindelse med en opkobling til internettet, og omfatter også lagring af eller adgang til oplysninger fra eksterne medier som fx USB-nøgler, CDer, CD-ROMer, eksterne harddiske eller lignende.
+ For så vidt angår den form, det format eller den standard, oplysninger lagres i, omfatter bekendtgørelsen ikke blot »klassiske« http-cookies, men enhver form for lignende teknologi, herunder også fx Flash-cookies (Local Shared Objects), Web Storage (HTML5) eller cookies sat ved brug af Microsoft Silverlight.
+ Bekendtgørelsen omfatter også enhver form for virus, spyware og malware samt web bugs, beacons eller andre skjulte identifikationsmekanismer, der lagres eller tilgås i brugeres terminaludstyr.
+Hvem gælder reglerne for? Alle, der lagrer eller opnår adgang til oplysninger i brugeres terminaludstyr, er omfattet af reglerne (se også det efterfølgende afsnit om hvor hvilke regler gælder).
+ Udbyderen af en tjeneste er ligeledes forpligtet efter reglerne i forbindelse med 3. parts lagring af eller adgang til oplysninger i brugeres terminaludstyr, hvis dette sker via udbyderens tjeneste, fx ved hjælp af indlejret kode eller lignende.
+ Tjenesteudbyderen behøver ikke selv stå for den praktiske og tekniske efterlevelse af reglerne (informering og indhentning af et samtykke fra brugeren), men kan aftale, at 3. part håndterer dette på vegne af tjenesteudbyderen.
+ Ansvaret for at reglerne overholdes, vil dog altid ligge hos udbyderen af en tjeneste (1. part), uanset hvad denne måtte have aftalt med 3. part.
+Hvor gælder hvilke regler? Europa-Kommissionen har tilkendegivet, at det inden for EU er lovgivningen i det land, hvori udbyderen af en tjeneste er etableret, der er gældende.
+Hvis udbyderen af en tjeneste etableret i Danmark lagrer eller opnår adgang til oplysninger i en brugers terminaludstyr, er tjenesteudbyderen forpligtet efter de danske regler.
+De danske regler finder ligeledes anvendelse, hvor udbyderen af en tjeneste, etableret i Danmark, lader en 3. part, der er etableret i et andet land, lagre eller opnå adgang til oplysninger i en brugers terminaludstyr via udbyderens tjeneste.
+ Er udbyderen af en tjeneste derimod etableret uden for EU gælder lovgivningen i det land, hvor lagringen af eller adgangen til oplysninger i en brugers terminaludstyr finder sted.
+3. Krav til information og samtykke I bekendtgørelsens § 3 stilles krav til information og samtykke ved lagring af eller adgang til oplysninger i brugeres terminaludstyr:
+ Kravene til henholdsvis fyldestgørende information og samtykke bør ses som to komplementære elementer, der understøtter hinanden i en samlet beskyttelse af brugernes terminaludstyr, forstået som en del af deres privatsfære.
+Reglerne forbyder ikke lagring af eller adgang til oplysninger i brugeres terminaludstyr, men reglerne fastsætter krav hertil.
+Opfyldes kravene, er det tilladt at lagre eller opnå adgang til oplysninger i brugerens terminaludstyr.
+ I det følgende uddybes de enkelte krav, men det vil fortsat være op til den enkelte tjenesteudbyder at vurdere, hvordan kravene bedst muligt efterleves på netop deres tjeneste.
+Hvilke krav stilles til fyldestgørende information? Af bekendtgørelsens § 3, stk. 2, fremgår de krav, der som minimum skal være opfyldt, før informationen kan siges at være fyldestgørende.
+Der stilles krav til karakteren, indholdet og tilgængeligheden af informationen.
+Informationen skal udgøre et vidensgrundlag, der sætter brugerne i stand til at træffe reelle informerede valg.
+I nogle tilfælde bør det derfor også overvejes at medtage yderligere information, end der kræves i bekendtgørelsen, hvis dette er nødvendigt for, at brugerne kan forstå konsekvenserne af deres valg.
+ § 3, stk. 2, nr. 1, fastsætter krav til, at informationen fremstår i et klart, præcist og letforståeligt sprog eller tilsvarende billedskrift.
+ Det indebærer bl.a., at informationen ikke bør formuleres i unødigt teknisk eller juridisk sprog, samt at brugeren let kan danne sig et overblik.
+ Brug af tabeller eller billedsprog, fx i form af piktogrammer, kan supplere eller erstatte mere traditionel tekst og gøre informationen lettere at forstå.
+Bestemmelsen indeholder ikke krav til, på hvilket sprog informationen skal gives.
+Valg af sprog bør dog ske under hensynstagen til, hvilke brugere en tjeneste retter sig imod, herunder især hvor disse brugere befinder sig geografisk.
+ § 3, stk. 2, nr. 2, fastsætter krav til, at informationen indeholder oplysning om formål med lagringen af eller adgangen til oplysninger i slutbrugerens terminaludstyr.
+ Brugere har ret til at få oplyst, hvorfor der lagres eller tilgås oplysninger, og det er ikke tilstrækkeligt blot at oplyse, at det sker.
+Informationen om formål med lagringen af eller adgangen til oplysninger er helt central og skal understøtte, at brugerne er bevidste om, hvilke konsekvenser deres valg har.
+Formålet bør derfor altid beskrives meget præcist og dækkende.
+Har lagringen af eller adgangen til oplysninger mere end ét formål, skal der oplyses om samtlige formål.
+Lagres eller tilgås der flere oplysninger med samme formål eller af flere omgange, vil det almindeligvis være tilstrækkeligt at beskrive formålet én gang og ikke for hver oplysning, der lagres eller opnås adgang til.
+ § 3, stk. 2, nr. 3, fastsætter krav til, at informationen indeholder oplysninger, der identificerer enhver fysisk eller juridisk person, der foranstalter lagringen af eller adgangen til oplysningerne.
+Brugere skal være i stand til at identificere den, der foranstalter lagringen.
+Det vil i mange tilfælde være udbyderen af tjenesten, men hvor udbyderen af en tjeneste lader 3. part lagre eller opnå adgang til oplysninger i en brugers terminaludstyr via udbyderens tjeneste, skal 3. part også kunne identificeres.
+ For så vidt angår oplysninger, der lagres eller tilgås i brugeres terminaludstyr, af en organisation, fx en virksomhed eller anden juridisk person, angives oplysninger, som identificerer organisationen, og ikke dens medarbejdere.
+ Hvilke konkrete informationer, der skal være til stede, for at brugere kan identificere de(n), der foretager lagringen, vil variere fra tjeneste til tjeneste og afhænger af de parter, der er involveret.
+ § 3, stk. 2, nr. 4, fastsætter krav til, at informationen indeholder en umiddelbart tilgængelig adgang for slutbrugeren til at afslå samtykke eller tilbagekalde samtykke til lagringen af eller adgangen til oplysninger samt en klar, præcis og letforståelig vejledning om, hvordan slutbrugeren anvender en sådan adgang.
+Brugere skal have mulighed for at afslå samtykke eller tilbagekalde et allerede givet samtykke.
+Dette skal understøtte reel brugerkontrol og frivilligheden af brugeres samtykke.
+Til dette formål skal der være en umiddelbart tilgængelig adgang og en klar, præcis og letforståelig vejledning om, hvordan brugere kan anvende en sådan adgang.
+Det kan i nogle tilfælde være relevant at henvise til eksempelvis vejledninger og værktøjer, andre har udarbejdet.
+Der stilles i bekendtgørelsen ingen krav til, at vejledninger eller værktøjer til at afgive, afslå eller tilbagekalde et samtykke skal forefindes på tjenesten, der lagrer eller tilgår oplysninger.
+Det er adgangen til vejledning og værktøjer, som tjenesten er forpligtet til at gøre umiddelbart tilgængelig for brugeren.
+§ 3, stk. 2, nr. 5, fastsætter krav til, at informationen er umiddelbart tilgængelig for slutbrugeren ved samlet og tydeligt at blive meddelt denne.
+Desuden skal informationen, når der sker lagring af eller adgang til oplysninger i slutbrugerens terminaludstyr igennem en informations- og indholdstjeneste, være vedvarende tilgængelig for slutbrugeren ved en direkte og tydeligt markeret adgang på den pågældende informations- og indholdstjeneste.
+For at sikre reel brugerkontrol er det nødvendigt, at informationen er umiddelbart tilgængelig for brugere og kan tilgås uden besvær.
+Dette er desuden en forudsætning for, at brugere også kan tilbagekalde et allerede afgivet samtykke.
+Hvordan informationen bedst gøres tilgængelig vil bl.a. afhænge af tjenestens design og struktur, hvorfor det vil variere fra tjeneste til tjeneste.
+Det kan være hensigtsmæssigt at benytte sig af lagdelt eller trinvist givet information, således at brugere kort og præcist får de væsentligste informationer om fx formål med lagringen samtidig med, at der stilles en mulighed til rådighed for at få mere detaljerede informationer.
+Brugen af piktogrammer eller andre tydeligt markerede indgange til informationen kan understøtte dette.
+ En tjeneste kan desuden vælge at skelne mellem, hvordan informationen præsenteres for brugere, inden brugeren afgiver eller afslår samtykke, og hvordan informationen præsenteres efter, at brugere har afgivet eller afslået samtykke.
+ På informations- og indholdstjenester, herunder hjemmesider og andre online tjenester, der lagrer eller tilgår oplysninger i en brugeres terminaludstyr, skal informationen være vedvarende tilgængelig for brugere ved en direkte og tydeligt markeret adgang på den pågældende informations- og indholdstjeneste.
+Dette indebærer, at brugere ved anvendelse af sådanne tjenester til enhver tid skal have adgang til informationen, og en sådan adgang bør være let at finde og anvende.
+Det kan bl.a. overvejes at opfylde dette krav ved at placere en sådan adgang i sammenhæng med øvrige vedvarende elementer på en tjeneste.
+Brug af piktogrammer eller lignende kan også overvejes i denne sammenhæng.
+Indhentning af samtykke Bekendtgørelsen stiller krav til, at brugeren skal give samtykke til, at der lagres eller tilgås oplysninger i brugeres terminaludstyr.
+Samtykke defineres i bekendtgørelsens § 2, stk. 1, nr. 8, som:
+ Da tjenester og deres brugere er vidt forskellige, vil der være stor forskel på, hvordan et samtykke bedst indhentes.
+Kravet om samtykke skal understøtte, at brugere får reel kontrol med, hvorvidt der lagres eller tilgås oplysninger i deres terminaludstyr.
+Når samtykket skal indhentes, er det derfor væsentligt at holde sig brugeres kontrolmuligheder for øje.
+ Reglerne giver tjenester et stort mulighedsrum til at vælge, hvordan samtykket bedst kan indhentes på en måde, der fungerer i deres konkrete kontekst.
+At samtykket skal være frivilligt indebærer bl.a., at brugere skal have et faktisk valg.
+I frivilligheden af samtykket ligger også, at brugere skal have mulighed for at tilbagekalde et allerede afgivet samtykke, jf. også kravet til information i bekendtgørelsens § 3, stk. 2, nr. 4.
+At samtykket skal være specifikt indebærer bl.a., at samtykket skal være præcist og velafgrænset.
+Samtykket behøver imidlertid ikke relatere sig til hver enkelt lagring af eller adgang til oplysninger i brugernes terminaludstyr.
+I stedet bør samtykket knytte sig an til det formål, der ligger til grund for lagringen af eller adgangen til oplysningerne, jf. også kravet til information i bekendtgørelsens § 3, stk. 2, nr. 2.
+ Hvis lagring af eller adgang til oplysninger på et senere tidspunkt benyttes til formål, der rækker ud over, hvad der tidligere er indhentet samtykke til, skal der indhentes et nyt samtykke, der omfatter det nye formål.
+At samtykket skal være informeret understøttes af kravene til information i bekendtgørelsens § 3, stk. 2, hvor ikke mindst formålet med lagringen er væsentligt.
+Som del af et informeret samtykke bør brugere også oplyses om konsekvenserne af deres (fra)valg.
+Sådanne konsekvenser kan fx være, at brugere ikke kan få adgang til (dele af) tjenesten, hvis samtykket afslås, eller at et samtykke medfører, at 3. parter får mulighed for at lagre eller tilgå allerede lagrede oplysninger i brugeres terminaludstyr.
+Brugeres viljetilkendegivelse står helt centralt i indhentningen af et samtykke.
+En tjenesteudbyder har pligt til at identificere en handling fra sine brugere, der med rimelighed kan tages til indtægt for en tilkendegivelse af deres vilje på et informeret grundlag.
+Det skal dog understreges, at vilje kan tilkendegives på en lang række forskellige måder, og at reglerne i bekendtgørelsen ikke tager stilling til, hvordan denne skal komme til udtryk.
+ En viljestilkendegivelse kan være mange ting, herunder eksempelvis:
+  afkrydsning af en boks, klik på en knap eller udfyldelse af en formular i sammenhæng med relevant information på en tjeneste.
+  aktiv brug af en tjeneste, hvor det må forventes, at brugeren er informeret om, at der vil ske lagring af eller adgang til oplysninger (såfremt dette ikke er afslået).
+Der vil være stor forskel på, hvordan samtykket bedst kan indhentes.
+Det er den enkelte tjeneste selv, der har de bedste forudsætninger for at vælge en løsning, der overholder samtykkekravet og giver tjenestens brugere reel mulighed for at tilkendegive deres vilje på et informeret grundlag.
+Kompleksiteten og mangfoldigheden af digitale tjenester gør det ikke muligt at definere præcist, hvordan brugere i konkrete tilfælde skal tilkendegive sin vilje.
+Bekendtgørelsens samtykkekrav giver derfor tjenester et stort mulighedsrum til at udvikle nye og innovative løsninger, der øger brugerkontrollen og gennemsigtigheden.
+Sådanne løsninger kan forbedre brugerens oplevelse af en tjeneste og behøver ikke afbryde det flow, der kendetegner interaktionen mellem en digital tjeneste og dennes brugere.
+ Hvis brugere vælger ikke at give samtykke til lagringen af oplysninger eller vælger at tilbagekalde et samtykke, stilles der i bekendtgørelsen ikke noget krav til, at brugere fortsat skal have adgang til indhold på en tjeneste.
+4. Undtagelser Bekendtgørelsens § 4 indeholder to undtagelser til kravene i § 3 om information og samtykke:
+ § 4, stk. 1, nr. 1, er alene møntet på udbydere af internetforbindelser og den lagring af eller adgang til oplysninger i brugeres terminaludstyr, der måtte finde sted som en del af opkoblingen til internettet og vedligeholdelse heraf.
+ § 4, stk. 1, nr. 2, har et bredere anvendelsesområde og vedrører de situationer, hvor lagringen af eller adgangen til oplysninger er påkrævet for at sætte tjenesteyderen af en informationssamfundstjeneste, som slutbrugeren udtrykkelig har anmodet om, i stand til at levere denne tjeneste.
+Hvem er undtaget, jf. bekendtgørelsens § 4, stk. 1, nr. 2 For at være omfattet af undtagelsesbestemmelsen i § 4, stk. 1, nr. 2, skal to krav være opfyldt.
+For det første skal brugere udtrykkeligt have anmodet om tjenesten.
+For det andet skal lagringen af eller adgangen til oplysninger i brugerens terminaludstyr være påkrævet.
+§ 4, stk. 2, uddyber, hvornår lagring af eller adgang til oplysninger i brugeres terminaludstyr er påkrævet.
+Såfremt lagringen af eller adgangen til oplysninger ikke er nogen teknisk forudsætning for at kunne levere en tjeneste (eller dele heraf), der fungerer i overensstemmelse med tjenesten formål, kan undtagelsen ikke anvendes.
+ Med hensyn til tjenestens formål, bør der lægges vægt på det formål, med hvilket brugere tilgår tjenesten.
+Undtagelsesbestemmelsen i § 4, stk. 1, nr. 2, finder eksempelvis anvendelse i forbindelse med brugen af elektroniske indkøbskurve i webshops, hvor det er nødvendigt at kunne genkende brugeren på tværs af sideskift (genindlæsninger af webshoppen), da indkøbskurven ellers vil være tom ved visning af en ny side.
+Lagring af fx en cookie eller lignende teknologi er dermed en teknisk forudsætning for at kunne levere den tjeneste (e-handel), som brugeren udtrykkeligt har anmodet om (tilgået webshoppen og lagt varer i indkøbskurven). Indkøbskurven fungerer desuden i overensstemmelse med det formål (at købe varer), med hvilket brugeren tilgår webshoppen.
+ Lignende tjenester (eller dele heraf), som eksempelvis betalingsgateways, bookingsystemer, webformularer o.l., kan også være omfattet af undtagelsesbestemmelsen.
+ Et eksempel på, hvor undtagelsen ikke finder anvendelse, er brugen af fx cookies eller lignende teknologier til webstatistik eller anden analyse af brugernes adfærd på en tjeneste (eller dele heraf). Webstatistik er sjældent en teknisk forudsætning for at levere en tjeneste og sjældent det formål, med hvilket brugere tilgår en tjeneste.
+5. Selvregulering Kompleksiteten og mangfoldigheden af digitale tjenester gør det ikke muligt eller effektivt at definere præcist, hvordan reglerne skal efterleves.
+De danske regler tegner, sammen med denne vejledning, en ramme eller et mulighedsrum, hvor tjenesteudbydere kan arbejde med at finde løsninger, der passer til deres konkrete kontekst.
+Tjenesteudbyderne selv vil have de bedste forudsætninger for at kunne tilvejebringe nye, innovative og brugervenlige løsninger, der øger gennemsigtigheden og brugerkontrollen.
+Europa-Kommissionen har, på denne baggrund tilkendegivet, at den gerne ser udvikling af selvregulering, som en del af efterlevelsen af reglerne.
+Selvregulering initieret af fx brancheorganisationer eller andre aktører har, hvis de etableres på fornuftig vis, en række fordele, herunder fx  større fleksibilitet og omstillingsmulighed i forhold til udvikling og tilpasning af løsninger,  større praktisk og teknisk indsigt i det felt, som reglerne regulerer,  bredere beskyttelse af brugere af tjenester i forhold til minimumsreglerne i lovgivningen  øget gennemsigtighed, genkendelighed og ensformighed for brugere af de tjenester, der udbydes samt  øget tillid til de tjenester, der udbydes.
+Hvilke elementer bør selvregulering indeholde? Europa-Kommissionen har tilkendegivet, at den som minimum ser følgende elementer inkluderet i selvregulering på området:
+  Information og gennemsigtighed omkring hvad der sker i brugeres terminaludstyr.
+  Indhentning af samtykke på en passende måde.
+  Brugervenlige løsninger.
+ Effektiv håndhævelse, herunder Bekendtgørelsen tager hensyn til og skaber rum for Europa-Kommissionens ønske om udvikling af selvregulering, som en del af efterlevelsen af reglerne.
+6. Inspiration til processkridt Mange tjenester vil skulle tilpasses i større eller mindre grad for at kunne efterleve reglerne.
+I dette afsnit skitseres nogle overordnede processkridt, der kan bruges som afsæt for den enkelte tjenesteudbyder.
+For de tjenester, der kræver tilpasning, kan fx særlige organisatoriske, forretningsmæssige og tekniske forhold have betydning for den proces, der skal gennemgås.
+Derfor er det vigtigt at tilrettelægge en proces, der også holder sig disse forhold for øje.
+ 1. Undersøg om din tjeneste lagrer eller tilgår oplysninger, fx cookies, i brugeres terminaludstyr.
+Ikke alle tjenester lagrer eller tilgår oplysninger i brugeres terminaludstyr.
+Hvis din tjeneste ikke lagrer eller tilgår oplysninger, er reglerne og de følgende processkridt ikke relevante for dig.
+Undersøg derfor som det første, om din tjeneste lagrer eller tilgår oplysninger i brugeres terminaludstyr.
+Den, der »hoster« din hjemmeside eller udbyderen af det CMS-system, du benytter, kan muligvis hjælpe dig.
+Ellers findes der også flere forskellige tjenester på internettet, der screener for cookies, ligesom det også er muligt at installere plug-ins i visse browsere, der kan vise, hvilke cookies der bliver sat.
+ 2. Undersøg om de oplysninger, der eventuelt lagres eller tilgås i brugeres terminaludstyr, overhovedet er nødvendige.
+Mange hjemmesider sætter fx cookies, som umiddelbart ikke har nogen betydning for, om hjemmesiden eller dele heraf fungerer.
+Prøv eventuelt at blokere for alle cookies i en browser og se, om din hjemmeside stadig virker.
+Hvis den stadig virker kan du overveje at fjerne de cookies, der ikke er nødvendige.
+ 3. Undersøg om din tjenestes lagring af eller adgang til oplysninger i brugeres terminaludstyr er undtaget kravene til information og samtykke.
+Det er ikke al lagring af eller adgang til oplysninger i brugeres terminaludstyr, der er omfattet af kravene til information og samtykke.
+Se særligt vejledningens afsnit 4 om undtagelser fra kravene til information og samtykke.
+ 4. Beslut dig for, hvordan du giver brugere fyldestgørende information og indhenter samtykke.
+ Hvis din tjeneste er omfattet af kravene til information og samtykke, skal du beslutte dig for, hvordan du på din tjeneste vil overholde kravene.
+Reglerne giver rum til, at du kan vælge løsninger til overholdelse af kravene, der er egnet til netop din tjeneste.
+Du kan desuden overveje at undersøge, om der eksisterer løsninger rettet mod efterlevelse af kravene, som du har mulighed for at benytte dig af på din tjeneste.
+ Du er forpligtet til at give din tjenestes brugere fyldestgørende information og indhente et samtykke fra din tjenestes brugere, hvis du fortsat ønsker at lagre eller tilgå oplysninger i brugeres terminaludstyr.
+ Kravene til information og samtykke bør ses som to komplementære elementer, der understøtter hinanden, og et generelt råd vil være at sætte sig i brugernes sted, når løsninger skal udvikles og implementeres.
+7. Tilsyn med reglerne Den danske telemyndighed fører tilsyn med, at reglerne i bekendtgørelsen overholdes, jf. § 20, i lov nr. 169 af 3. marts 2011 om elektroniske kommunikationsnet og -tjenester.
+Den danske telemyndighed er ikke underlagt instrukser fra erhvervs- og vækstministeren, når det handler om myndighedens tilsynsvirksomhed.
+ Manglende efterlevelse af reglerne i bekendtgørelsen kan straffes med bøde, jf. bekendtgørelsens § 5.
+8. Links til lovgivning og direktiver Bekendtgørelse om krav til information og samtykke ved lagring af eller adgang til oplysninger i slutbrugeres terminaludstyr:
+https://www.retsinformation.dk/Forms/R0710.aspx?id=139279 Direktiv om databeskyttelse inden for elektronisk kommunikation (e-databeskyttelsesdirektivet, 2002/58/EF):
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:DA:NOT Direktiv 2009/136/EF, der bl.a. reviderer e-databeskyttelsesdirektivet:
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32009L0136:DA:NOT Lov nr. 169 af 3. marts 2011 om elektroniske kommunikationsnet og tjenester (teleloven):
+https://www.retsinformation.dk/forms/r0710.aspx?id=136073 Direktiv om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger (databeskyttelsesdirektivet, 95/46/EC):
+http://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!CELEXnumdoc&lg=en&numdoc=31995L0046 Lov om behandling af personoplysninger (persondataloven):

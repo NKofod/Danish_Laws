@@ -1,0 +1,2322 @@
+STANDAT V 1.1 Indholdsfortegnelse Forord STANDAT, del I Indledning Baggrunden for STANDAT STANDAT s opbygning og indhold Administration af STANDAT STANDAT, del II Indledning 1. Kodelister 1.1. Emnekodelisten 1.2. Typekodelisten 1.3. Koblingskodeliste 1.4. Værdikodelister.
+2. Formatet for STANDAT-filer 2.1. Header-delen 2.2. Definitions-delen 2.3. Data-delen 3. Eksempler 3.1. Eksempel 1 3.2. Eksempel 2 4. Tilføjelser til kodelisterne 5. Datatransport 6. STANDAT - syntaks ADRESSE- OG TELEFONLISTE BILAG A Formater BILAG B Tegnsæt BILAG C Skemaer Forord Udveksling af miljødata bliver et mere og mere  
+
+ centralt led i moderne miljøadministration.
+Det er helt centralt, at  
+
+ miljødata samlet og bearbejdet af mange forskellige kilder kan  
+
+ føres sammen, så vi kan få et samlet billede af  
+
+ miljøets tilstand, belastningerne af miljøet og resultaterne af  
+
+ miljøindsatsen.
+Det gælder både på nationalt plan og  
+
+ i forhold til EU og andre internationale organer.
+Der skal bl.a. indberettes  
+
+ data i forbindelse med EU's direktiver, men også det kommende arbejde  
+
+ med det europæiske miljøagentur, gør det meget vigtigt at  
+
+ kunne sammenstille de nationale data til brug for samlede indberetninger til  
+
+ EU-systemet.
+Disse behov er årsagen til, at Miljøstyrelsen  
+
+ sammen med fagdatacentrene og Kommunedata har udviklet "STANDAT", der er en  
+
+ standard for elektronisk udveksling af miljødata.
+Siden STANDAT blev  
+
+ indført i 1990, har systemet fundet stadig større anvendelse  
+
+ inden for en lang række forskelligartede områder; fra  
+
+ overførsel af oplysninger om affalds-transport til overførsel  
+
+ af data med grundvandskemi-analyser.
+En lang række edb-systemer, der er  
+
+ kommercielt tilgængelige, indeholder derfor moduler til import og  
+
+ eksport af STANDAT-filer, således at miljødata ofte vandrer  
+
+ på STANDAT-format fra de fødes i laboratoriernes  
+
+ måleinstrumenter, til de indlægges i en af de statslige  
+
+ fagdatacentres databaser.
+Næsten alle data, der overføres til  
+
+ Miljøstyrelsen i dag, er på STANDAT-format.
+Stort set alle nye  
+
+ aftaler om overførsel af miljødata til Miljøstyrelsen  
+
+ sker inden for rammerne af STANDAT.
+For at sikre at STANDAT bliver videreudviklet med  
+
+ udgangspunkt i brugernes behov, er der nedsat en STANDAT-styringsgruppe, hvor  
+
+ de væsentligste interessenter er repræsenteret.
+I  
+
+ Miljøstyrelsen er der et STANDAT-sekretariat, som står for  
+
+ udviklings-aktiviteterne i forbindelse med den fremtidige anvendelse af  
+
+ STANDAT.
+Den daglige administration af STANDAT løses i et samarbejde  
+
+ mellem STANDAT-sekretariatet og Kommunedata.
+STANDAT er et brugerstyret system.
+Det er brugerne, der  
+
+ selv ansøger om at få oprettet nye emner i STANDAT.
+Det er  
+
+ også brugerne, der selv er ansvarlige for, at systemet er ført a  
+
+ jour i forhold til udviklingen.
+Miljøstyrelsen er derfor meget  
+
+ interesseret i at få brugernes kommentarer til anvendelsen af STANDAT.  
+
+ Udgivelsen af denne reviderede STANDAT-vejledning er blandt andet et resultat  
+
+ af de kommentarer, STANDAT-sekretariatet har modtaget.
+Den nye udgave  
+
+ indeholder således en uddybende og præciserende beskrivelse  
+
+ på en række områder.
+Derudover er rapporten udvidet med en  
+
+ beskrivelse af nogle mindre tilføjelser til STANDAT-systemet.
+STANDAT er blevet endnu mere aktuel nu, hvor EU's  
+
+ miljøagentur skal i gang.
+Miljøstyrelsen ser derfor frem til et  
+
+ fortsat konstruktivt samarbejde omkring udviklingen og anvendelsen af  
+
+ STANDAT.
+STANDAT, del I Indledning Hermed foreligger anden udgave af STANDAT-vejledningen.  
+
+ STANDAT er et dataudvekslingsformat for udveksling af data på  
+
+ miljøområdet, udviklet af Miljøstyrelsen i nært  
+
+ samarbejde med Kommunedata I/S, og på baggrund af forslag og ideer fra  
+
+ amter, kommuner, fagdatacentre, og producenter af edb-systemer inden for  
+
+ miljøområdet.
+Baggrund Baggrunden for at udvikle en standard for dataudveksling  
+
+ på miljøområdet har været et ønske om at  
+
+ sikre, at data om det ydre miljø kan udveksles hurtigt, sikkert og  
+
+ problemløst mellem de instanser, der indsamler og anvender data.
+Det  
+
+ er ikke umiddelbart muligt i en situation, hvor de forskellige instanser  
+
+ anvender forskellige registrerings- og udvekslingssystemer.
+Hvornår skal STANDAT anvendes STANDAT definerer det format, som benyttes ved  
+
+ indberetning af data til Miljøstyrelsen.
+Formatet er imidlertid  
+
+ generelt anvendeligt, og kan også benyttes til at sikre en problemfri  
+
+ dataudveksling mellem f.eks. to amtskommuner, eller mellem en kommune og en  
+
+ miljø- og levnedsmiddelkontrolenhed.
+Gennem implementeringen og  
+
+ anvendelsen af STANDAT er der således tilvejebragt et system, som  
+
+ åbner mulighed for, at alle miljødata fremover kan få en  
+
+ fælles snitflade, så de umiddelbart og uden problemer kan  
+
+ udveksles på tværs af administrative grænser, og anvendes i  
+
+ sammenhæng.
+Opbygningen af STANDAT-vejledningen Den foreliggende præsentation af STANDAT indeholder  
+
+ to dele.
+I første del beskrives baggrunden for udviklingen af STANDAT  
+
+ og systemets fremtidige administration.
+Denne del indeholder desuden en  
+
+ kortfattet introduktion til STANDATs opbygning og indhold.
+I anden del beskrives den tekniske side af STANDATs  
+
+ opbygning.
+De elementer, der indgår i opbygningen af en STANDAT-fil  
+
+ bliver præsenteret, og overførsel af data skrevet i  
+
+ STANDAT-formatet bliver gennemgået via en række eksempler.  
+
+ Endelig indeholder anden del af præsentationen de tekniske  
+
+ specifikationer for de medier, der kan anvendes til dataoverførslen  
+
+ (disketter, bånd osv.).
+Baggrunden for STANDAT Flere data Flere systemer Igennem de seneste år er der blevet indsamlet en  
+
+ stadigt stigende mængde data indenfor miljøområdet.
+Disse  
+
+ data indsamles bl.a. som led i kontrol- og tilsynsopgaver, og for at blive  
+
+ anvendt som beslutningsgrundlag.
+Sideløbende med udviklingen i  
+
+ mængden af de data der indsamles, er der sket en forøgelse i  
+
+ anvendelsen af de edb-baserede systemer til registrering, lagring og  
+
+ behandling af disse data.
+Dataindsamlingen på miljøområdet  
+
+ foretages næsten udelukkende af de decentrale myndigheder som led i  
+
+ udøvelsen af de opgaver, som amter og kommuner er pålagt.  
+
+ Miljøstyrelsen er i høj grad afhængig af disse data til  
+
+ brug for løsning af de overordnede funktioner, men styrelsen  
+
+ forestår som hovedregel ikke selv dataindsamling.
+Det forhold, at  
+
+ forskellige myndigheder har skullet indsamle og behandle mange forskellige  
+
+ typer af miljødata med forskellige formål, har ført til,  
+
+ at der i de seneste år er blevet udviklet og anvendt en række  
+
+ forskellige edb-baserede registrerings- og behandlingssystemer indenfor  
+
+ miljøområdet.
+Det har derfor været nødvendigt at lave  
+
+ aftaler om udvekslingsformater, hver gang der har skullet finde en  
+
+ overførsel af data sted mellem to systemer, f.eks. fra et  
+
+ amtskommunalt registersystem til et landsdækkende register i  
+
+ Miljøstyrelsen.
+En sådan aftale har bl.a. skullet omfatte  
+
+ enighed om, hvilke data der skulle overføres, hvilken detaljeringsgrad  
+
+ der var nødvendig, hvilken form data skulle have, hvilke koder der  
+
+ skulle anvendes, og hvilket medie data skulle overføres på.
+Til  
+
+ og med har data fra forskellige systemer ofte haft en så uensartet  
+
+ form, at det i praksis har været umuligt at sammenstille data fra  
+
+ ét system med data fra andre systemer.
+Behov for en standard Med de seneste års interesse for at sikre et  
+
+ datagrundlag, der gør det muligt at foretage mere omfattende  
+
+ helhedsvurderinger af miljøets tilstand, er behovet aktualiseret for  
+
+ en standard, der åbner for at data fra mange forskellige  
+
+ miljødatasystemer bliver i stand til at arbejde sammen.
+ Gennem fastlæggelsen af et standardiseret  
+
+ udvekslingsformat er der tilvejebragt et samlet koncept, som muliggør,  
+
+ at al udveksling af miljødata principielt vil kunne fungere  
+
+ uafhængigt, af hvilke edb-systemer dataleverandøren og  
+
+ datamodtageren anvender.
+Målsætning for udviklingen af STANDAT De overordnede målsætninger for systemet er at  
+
+ sikre:
+Ved at fastlægge en ramme for hvilke  
+
+ miljødata, der kan udveksles, og i hvilken form de skal udveksles, er  
+
+ der skabt sikkerhed for, at alle data på miljøområdet  
+
+ fremover vil have en ensartet snitflade.
+Ved den praktiske anvendelse af  
+
+ STANDAT-formatet definerer man, hvilke typer af data der kan  
+
+ overføres, hvilken detaljeringsgrad informationerne skal have, hvilke  
+
+ koder der skal anvendes, og hvilket medie der skal anvendes ved  
+
+ overførslen.
+Bedre ressourceudnyttelse Når STANDATs retningslinier anvendes af  
+
+ producenterne af edb-systemer inden for miljøområdet som  
+
+ generelt dataimport- og dataeksportformat, giver den fælles snitflade  
+
+ mellem de miljørelaterede edb-systemer en bedre ressourceudnyttelse,  
+
+ fordi dataudvekslingen mellem systemerne kan finde sted umiddelbart.
+Det vil  
+
+ således ikke være nødvendigt at ændre på  
+
+ dataenes form i forhold til, hvilke systemer de skal udveksles til, inden  
+
+ overførslen kan finde sted.
+Det kræver dog, at kommuner og amter  
+
+ fremover stiller krav til systemleverandørerne om, at de ved  
+
+ udviklingen af miljørelaterede edb-systemer overholder kravene i  
+
+ STANDAT.
+Ved at lade STANDATs principper indgå som grundlag for  
+
+ udviklingen af fremtidige miljøinformationssystemer, falder til  
+
+ gengæld en del unødigt dobbeltarbejde bort.
+Sikring af sammenhæng Via STANDAT er der samtidig sikret en høj grad af  
+
+ sammenhæng mellem miljøinformationssystemerne.
+Det er ikke  
+
+ mindst vigtigt, når miljødata skal bruges til større,  
+
+ sammenhængende vurderinger af tilstandene i det ydre miljø. Der  
+
+ åbnes desuden mulighed for lokalt at kunne sammenstille oplysninger om  
+
+ en lang række miljømæssige forhold ud fra én  
+
+ indfaldsvinkel som f.eks. informationer knyttet til en bestemt  
+
+ vandløbsstrækning - uanset at oplysninger måske skal  
+
+ hentes fra flere forskellige edb-systemer.
+STANDATs opbygning og indhold Når man skal udveksle miljødata, skrevet i  
+
+ STANDAT-formatet, skal man være i besiddelse af følgende:  
+
+ vejledningen i hvordan STANDAT-filer opbygges, en samling kodelister samt et  
+
+ passende transportmedium som f.eks. diskette, magnetbånd eller  
+
+ modem.
+I det følgende gives der en generel beskrivelse af  
+
+ kodelisternes indhold og funktion.
+Endvidere ridses hovedtrækkene i  
+
+ STANDAT fil-formatet op.
+Detailoplysninger kan søges i den mere  
+
+ tekniske beskrivelse i del II, hvor også spørgsmålet om,  
+
+ hvilke edb-medier der kan anvendes til udveksling, behandles.
+Kodelister Kodelisterne spiller en helt central rolle i  
+
+ STANDAT-konceptet, idet de så at sige sætter rammen for, hvilke  
+
+ miljødata der overhovedet kan udveksles.
+Der findes fire forskellige  
+
+ slags kodelister, nemlig emnekodelisten, typekodelisten, koblingskodelisten  
+
+ samt værdikodelisterne.
+Emnekodeliste I emnekodelisten opregnes, hvilke emner der kan  
+
+ overføres data om.
+Et emne er en gruppe af oplysninger, der logisk set  
+
+ hører sammen.
+F.eks. er "virksomhedsregister" et emne, hvori der bl.a.  
+
+ indgår oplysninger om virksomhedens adresse, telefonnummer og en  
+
+ eventuel kontaktpersons navn.
+Alle emner indgår i en struktur; der er relationer  
+
+ mellem emnerne.
+F.eks. kan der for hver virksomhed være etableret flere  
+
+ tilsyn.
+Eller i tilknytning til en grundvandsboring kan der være  
+
+ udført en række pejlinger af grundvandsspejlets niveau på  
+
+ forskellige tidspunkter.
+Den struktur, der findes mellem emnerne i STANDAT,  
+
+ er hierarkisk opbygget, på samme måde som det bl.a. kendes fra  
+
+ hierarkiske databasesystemer.
+Alle emner i STANDAT indgår i det samme  
+
+ hierarki.
+I den hierarkiske struktur har hvert emne et og kun et overliggende  
+
+ emne.
+Undtaget herfra er toppen af hierarkiet; hierarkiets rod.
+I STANDAT er  
+
+ virksomhedsemnet hierarkiets rod.
+I nedenstående figur er vist et lille  
+
+ udsnit af emne-hierarkiet i STANDAT - i STANDAT var der pr. 1/12-1993 godt  
+
+ 250 emner der alle indgår i det samlede hierarki.
++++FIGUR+++ Hvert emne tildeles i emnekodelisten et entydigt 8-cifret  
+
+ nummer, f.eks. har "Vandløbs afmærkning" emnenummeret 00005110,  
+
+ med det overordnede emne 00005100.
+1               2  
+
+   3              4               5               6               7  
+
+     8 12345678901234567890123456789012345678901234567890123456789012345678901234567  
+
+ 890123456789 00000000 Virksomhedsregister  
+
+                                                  F 00000000 00000100  Sagsbehandling  
+
+                                                     F 00000000 .
+ .
+00005100  Vandløbs regulativer  
+
+                                                           F 00000000 00005110  Vandløbs afmærkning  
+
+                                                             F 00005100 00005111  Vandløbs bred/ejerforhold  
+
+                                                     F 00005100 .
+ .
+Typekodeliste De enkelte typer af oplysninger, der indgår i  
+
+ emnerne, nummereres og beskrives i typekodelisten.
+Eksempelvis har  
+
+ kontaktpersonens navn og UTM-koordinaterne typenumrene 00000045, 00000047 og  
+
+ 00000048.
+2  
+
+                  2 1                 2                  3  
+
+                   4                 5                    3  
+
+  4 1234567890123456789012345678901234567890123456789012345689  
+
+    012345678901234567 .
+ .
+ .
+00000044  D  
+
+         Virksomhedens etablerings da 00000045  S  35  
+
+        Kontaktpersonens navn.
+00000046  S  14  
+
+        Henvisning til kortmateriale 00000047  N  6.0  
+
+       UTM centerkoordinat X-værdi, 00000048  N  7.0  
+
+       NUTM centerkoordinat Y-værdi, 00000049  N  2.3                           STD00009  
+
+  Branchekode for primært form .
+ .
+ .
+Koblingskodeliste En oplysningstype kan indgå i flere forskellige  
+
+ emner, f.eks. kan typen "kontaktpersonens navn" indgå i såvel  
+
+ emnet "virksomhedsregister" som emnet "tilsyn". Sammenhængen mellem  
+
+ emner og typer beskrives i koblingskodelisten, idet der her for hvert emne i  
+
+ emnekodelisten opregnes, hvilke typer fra typekodelisten der indgår.  
+
+ Emnet 00000000 ("virksomhedsregister") vil blandt andet bestå af  
+
+ typerne 00000044 og 00000045, og emnet 00000200 ("tilsyn") af blandt andet  
+
+ typen 00000045.
+1 12345678901234567 · · 00000000  00000041 00000000  00000042 00000000  00000044 00000000  00000045 · · 00000200  00000043 00000200  00000045 00000200  00000067 · · Ud over sammenhængen mellem emner og typer kan der  
+
+ eksistere en mere overordnet sammenhæng, nemlig mellem emnerne  
+
+ indbyrdes.
+F.eks. kan der for hver virksomhed være etableret flere  
+
+ tilsyn.
+Emnet "tilsyn" siges derfor at være underordnet emnet  
+
+ "virksomhedsregister". Denne form for sammenhæng registreres i  
+
+ emnekodelisten, idet der her for hvert emne angives et eventuelt overordnet  
+
+ emne.
+I emnekodelisten vil "virksomhedsregister" således blive angivet  
+
+ som overordnet emne for emnet "tilsyn", mens emnet "virksomhedsregister" ikke  
+
+ vil have defineret et overordnet emne.
+Værdikodeliste Den fjerde og sidste form for kodeliste, nemlig  
+
+ værdikodelisterne, opregner de værdier, som udvalgte  
+
+ oplysningstyper kan antage.
+F.eks. findes der en værdikodeliste for  
+
+ oplysningstypen "postnummer". Denne kodeliste har navnet STD00002 og  
+
+ beskriver samtlige gyldige, danske postnumre.
+0               Ikke oplyst 1000         København K 1001         København K · · · 9960       Østerby Havn 9970       Strandby 9981       Jerup 9982       Ålbæk 9990       Skagen Kodelisterne er dynamiske Kodelisterne fastlægger som nævnt  
+
+ indledningsvist rammen for, hvilke informationer der kan udveksles via  
+
+ STANDAT.
+Kodelisterne er dynamiske i den forstand, at der til stadighed kan  
+
+ tilføjes nye emner, typer værdikoder m.v. ifølge den  
+
+ procedure, der beskrives i del II, kapitel 4.
+... og statiske Når en kode først er oprettet i  
+
+ STANDAT-kodelisterne kan den ikke slettes igen.
+Undtaget fra denne regel er  
+
+ egentlige fejlrettelser.
+Med tiden kan eksisterende koder imidlertid blive  
+
+ forældede.
+Postnumre udgår, målemetoder bliver erstattet af  
+
+ nye målemetoder etc.
+I tilknytning til de enkelte koder i  
+
+ værdikodelisterne er der derfor oprettet et system til registrering af  
+
+ forældelsesdatoer.
+Systemet indebærer, at værdikoder der  
+
+ ikke længere bør anvendes ved nyregistrering, tilføjes en  
+
+ forældelsesdato som vist nedenfor i et udsnit af kodeliste STD00126  
+
+ "Badevandskvalitet foranstaltninger":
+0                 1                   2                  3  
+
+                  4                  5                  6  
+
+  7 12345678901234567890123456789012345678901234567890123456789012345678901234567  
+
+ 89 000  Ikke oplyst 001  Ingen planer 002  Forhold undersøges 003  Prøvetal øges til 10  
+
+                           04/10/1993 004  Prøvetal øges til 20  
+
+                           04/10/1993 .
+017 Badeforbud ophæves 999 Andet Hvor i værdikodelisten forældelsesdatoen er  
+
+ placeret, fremgår af beskrivelses-filen.
+Værdikoder der er  
+
+ forældet, kan fortsat anvendes ved udveksling af miljødata via  
+
+ STANDAT.
+F.eks. kan det være relevant at udveksle oplysninger om  
+
+ vandkemianalyser, der er udført med en nu forældet  
+
+ analysemetode.
+Indtil videre er det kun værdikoder, der kan  
+
+ forældes.
+Man kan altså ikke forælde hele  
+
+ værdikodelister, typer, emner eller koblinger.
+Hvis det i fremtiden  
+
+ viser sig at blive relevant, så vil STANDAT-sekretariatet også  
+
+ indføre forældelsesdatoer for denne type koder.
+Foruden forældelse af værdikoder er det muligt  
+
+ at "låse" eksisterende emner. når et emne er låst,  
+
+ indebærer det, at emnet ikke mere må benyttes i forbindelse med  
+
+ nyudvikling.
+Der kan således ikke knyttes nye typer til låste  
+
+ emner.
+Låste emner kan imidlertid fortsat benyttes ved udveksling af  
+
+ miljødata.
+ Tilføjelse af nye emner, forældelsesmarkering  
+
+ og lignende modifikationer af kodelisterne kan kun ske i overensstemmelse med  
+
+ den procedure, der beskrives i afsnittet om administrationen af  
+
+ STANDAT-systemet.
+Opbygningen af STANDAT-filen Ud over kodelisterne omfatter STANDAT også et format  
+
+ for opbygning af filer.
+En central ide i dette format er, at strukturen af de  
+
+ data, der skal overføres, angives umiddelbart før selve data.  
+
+ Dette giver en fleksibilitet i opbygningen af data, som ikke kunne  
+
+ opnås med et fast format.
+Strukturen af data beskrives i den  
+
+ såkaldte definitions-del af STANDAT-filen.
+Her angives det (i  
+
+ overensstemmelse med kodelisterne) hvilke emner, der skal overføres,  
+
+ og hvad sammenhængen er mellem disse emner med hensyn til over- og  
+
+ underordning.
+Endvidere specificeres, hvilke typer oplysninger inden for  
+
+ hvert emne, der ønskes overført.
+ Efter definitionsdelen følger datadelen, hvor de  
+
+ relevante data angives i den definerede rækkefølge.  
+
+ STANDAT-filen indledes med en såkaldt "HEADER", der indeholder  
+
+ administrative oplysninger om afsender, modtager, udtrækstidspunkt  
+
+ m.m.
+ Enhver STANDAT-fil består altså af  
+
+ følgende hovedelementer:
+Header Definition Data I vejledningens del II, kapitel 3, gives der nogle  
+
+ eksempler på, hvorledes STANDAT-filer kan se ud i praksis.
+ Ved at benytte kodelisternes beskrivelser af emner, typer  
+
+ og sammenhænge samt vejledningen i opbygning af STANDAT-filer, kan  
+
+ miljødata beskrives på en form, der muliggør  
+
+ standardiseret udveksling.
+Administration af STANDAT For at STANDAT kan fungere bedst muligt for brugerne, er  
+
+ det vigtigt, at der sker en central ajourføring af oversigten over  
+
+ systemets forskellige versioner, kodelister og abonnenter.
+Denne  
+
+ ajourføring vil ske i et samarbejde mellem Miljøstyrelsen,  
+
+ Kommunedata og fagdatacentrene på miljøområdet.
+Abonnement Det er vigtigt at sikre, at brugerne af STANDAT altid har  
+
+ en ajourført udgave af standarden til deres rådighed.
+Der vil  
+
+ derfor blive lavet en abonnementsordning, som sikrer, at brugerne hvert halve  
+
+ år får den seneste ajourførte udgave tilsendt.
+Denne  
+
+ ordning administreres af Kommunedata.
+Abonnement fås ved henvendelse  
+
+ til et af Kommunedatas regionale centre.
+STANDAT-sekretariatet i Miljøstyrelsen Det videre arbejde omkring det standardiserede  
+
+ dataudvekslingsformat bliver koordineret af et mindre STANDAT-sekretariat i  
+
+ Miljøstyrelsen, der koordinerer aktiviteterne med fagdatacentre,  
+
+ amter, kommuner samt de respektive producenter af edb-baserede systemer inden  
+
+ for miljøområdet.
+Fagdatacentre Fagdatacentrene får - koordineret af  
+
+ Miljøstyrelsen - det overordnede ansvar for at vedligeholde,  
+
+ kvalitetssikre og videreudvikle de kodelister, som vedrører deres  
+
+ respektive fagområder.
+Kommunedata skal opfange de behov for  
+
+ ændringer af kodelister m.v., der måtte opstå i amter,  
+
+ kommuner (inkl. miljø- og levnedsmiddelkontrolenheder),  
+
+ rådgivende ingeniørfirmaer og lignende.
+Al anden kontakt til  
+
+ brugerne i forbindelse med STANDAT er fordelt på samme måde:
++++FIGUR+++ Amter og kommuner (miljø- og  
+
+ levnedsmiddelkontrolenheder medregnet) kan altså henvende sig til  
+
+ Kommunedata via de regionale centraler, mens rådgivende  
+
+ ingeniørfirmaer og lignende kan kontakte Kommunedatas  
+
+ Projektgruppe-Miljø direkte på udviklingscenteret i Odense.
+Ansvaret for at indholdet i kodelisterne er konsistent,  
+
+ ligger hos STANDAT-sekretariatet.
+Det indebærer, at alle opdateringer  
+
+ af kodelisterne skal behandles af STANDAT-sekretariatet.
+Hvis der tale om  
+
+ miljø-faglige kodelister, sendes opdateringerne til høring hos  
+
+ de relevante fagdatacentre.
+De ændringer i kodelisterne, som godkendes af  
+
+ STANDAT-sekretariatet, indgår i den førstkommende  
+
+ halvårlige ajourføring af STANDAT.
+Akutte behov for  
+
+ ændringer i værdikodelisterne kan gennemføres efter  
+
+ telefonisk kontakt til Kommunedata eller til STANDAT-sekretariatet.
+Hvis det  
+
+ ved den efterfølgende faglige behandling viser sig, at den akutte  
+
+ oprettelse ikke er faglig forsvarlig, kan STANDAT-sekretariatet beslutte at  
+
+ slette oprettelsen igen.
+Først med den efterfølgende  
+
+ halvårlige udgivelse af STANDAT-kodelisterne, bliver akutte  
+
+ ændringer af værdikodelisterne endelige.
+Se i øvrigt  
+
+ kapitel 4 i del II af vejledningen.
+Vedligeholdelse af kodelisterne Kommunedata vedligeholder mappen med oversigten over de  
+
+ forskellige kodelister samt de tilhørende disketter.
+Kommunedata  
+
+ står også for salget af abonnementer på STANDAT, der  
+
+ omfatter mappe og disketter, samt opdatering af disketterne.
+Optagelse af nye  
+
+ emner, typer og kodelister er omfattet af abonnementet, dog forudsætter  
+
+ optagelsen sekretariatets godkendelse.
+Rådgivning og konsulentbistand i  
+
+ forbindelse med anvendelse af STANDAT er ikke med i abonnementet, men kan  
+
+ udføres af Kommunedata mod betaling fra rekvirenten.
+Et abonnement  
+
+ på STANDAT tegnes for minimum 2 år, og prisen udgør i  
+
+ 1990-priser 1000 kr. pr. halvår.
+STANDAT, del II Indledning Vejledningens del II indeholder den tekniske beskrivelse  
+
+ af STANDAT.
+I første kapitel beskrives, hvordan de såkaldte  
+
+ kodelister indgår som en del af STANDAT, hvordan kodelisterne benyttes  
+
+ og hvorledes de er opbygget.
+Kapitel 2 indeholder retningslinierne for  
+
+ opbygningen af selve STANDAT-filen, hvilke elementer den består af,  
+
+ samt en beskrivelse af de i STANDAT-sammenhæng reserverede ord.
+I  
+
+ kapitel 3 beskrives det ved hjælp af eksempler, hvordan en STANDAT-fil  
+
+ fremstilles helt fra bunden.
+Fjerde kapitel redegør for, hvordan nye  
+
+ emner og typer optages i STANDAT, og femte kapitel, hvilke edb-medier der  
+
+ skal benyttes, når data skal udveksles v.h.a.
+STANDAT.
+Endelig  
+
+ indeholder kapitel 6 en formel beskrivelse af syntaksen for  
+
+ STANDAT-filer.
+ Indledningsvis skal det nævnes, at der i de  
+
+ følgende afsnit er benyttet fed skrift for alle STANDATs reserverede  
+
+ ord, samt at alle variable er skrevet som <variabelnavn>.
+1. Kodelister Brug af koden i hverdagen Biologer har igennem tiden benyttet latinske navne,  
+
+ når planter og dyr skulle navngives.
+Disse latinske navne er i  
+
+ virkeligheden koder, og samlingen af latinske navne for et biologisk  
+
+ område kan opfattes som en kodeliste.
+Ved brugen af disse navne er  
+
+ biologer verden over sikre på, at de taler om det samme.
+I dag er vi  
+
+ så vænnet til brugen af disse navne, at vi ikke længere  
+
+ tænker over, at de i virkeligheden er en form for koder.
+Fordele ved koder Andre eksempler på brug af koder i dagligdagen er  
+
+ brugen af postnumre og kommunenumre.
+Disse er på samme måde som  
+
+ biologernes latinske navne så integrerede i vores hverdag, at vi ikke  
+
+ tænker over, at det er en slags kodelister.
+Den daglige brug af disse  
+
+ numre sikrer, at lokale stavemåder ikke skaber forvirring.
+Specielt  
+
+ på edb-området vil forskellige stavemåder medføre,  
+
+ at edb-programmerne ikke kan sammenstille oplysningerne rigtigt.
+ Tilsvarende åbner brugen af kodelister i STANDAT  
+
+ mulighed for, at brugerne af de lokale systemer kan benytte egne forkortelser  
+
+ eller navne, i og med at det lokale system kan lagre informationer om den  
+
+ lokale tilpasning.
+ Endelig vil brugen af koder i større systemer  
+
+ betyde, at den plads, der skal benyttes i forbindelse med lagring, vil  
+
+ være væsentlig mindre, end hvis koder ikke blev benyttet.  
+
+ Eksempelvis fylder det firecifrede postnummer markant mindre end et typisk  
+
+ bynavn.
+ Kodelister kan endvidere benyttes til at fastsætte  
+
+ rammerne for, hvad der kan registreres, og hvordan det, der registreres, skal  
+
+ lagres.
+STANDAT kodelister Det centrale element i STANDAT er brugen af kodelister.  
+
+ Kodelisterne fastlægger, hvilken kode der skal anvendes for en bestemt  
+
+ type information.
+Kodelisterne danner desuden rammerne for, hvilke  
+
+ informationer, der kan udveksles, deres sammenhæng med andre  
+
+ informationer, hvilket format informationerne har, samt i nogle  
+
+ tilfælde de mulige værdier en information kan have.
+Tre af kodelisterne, nemlig emne-, type-, og  
+
+ koblingskodelisterne, er væsentlige for STANDATs funktion og skal kort  
+
+ beskrives her.
+De resterende kodelister (værdikodelisterne) beskriver  
+
+ det mulige indhold af en oplysningstype og beskrives under ét.
+1.1. Emnekodelisten Emner Denne kodeliste beskriver, hvilke emner (datagrupper) der  
+
+ kan udveksles ved hjælp af STANDAT.
+Et emne skal i  
+
+ STANDAT-sammenhæng forstås som en samling af oplysninger, der  
+
+ logisk hører sammen.
+Eksempelvis er der i STANDAT defineret et emne,  
+
+ som beskriver en virksomhed.
+Dette emne indeholder administrative oplysninger  
+
+ om en given virksomhed, bl.a. dens adresse, ejer osv.
+Relationer Et emne kan have en tilknytning til eller  
+
+ afhængighed af et andet emne.
+Se eksempel i afsnit 2.2.1. Specifikation  
+
+ af emner.
+ Emnekodelisten består for hvert emne af fire  
+
+ felter:
+ emnenummer: 	Et 8-cifret nummer, der entydigt  
+
+ identificerer emnet.
+ (pos. 1 - pos. 8).
+emnebeskrivelse: 	Navnet på emnet (pos. 10 - pos. 73).
+lås: 	Specificeret om emnet må benyttes  
+
+ eller ej.
+Dette felt er oprettet for at give mulighed for på et senere  
+
+ tidspunkt at låse et emne for videre brug.
+Låsen kan være  
+
+ "F" for fri og "L" for låst. (pos. 75 - pos. 75).
+overordnet emne: 	Beskriver nummeret på et  
+
+ eventuelt overliggende emne, som emnet er afhængigt af.
+Hvis feltet  
+
+ indeholder det samme nummer som <emnenummer>, findes der  
+
+ intet overordnet emne.
+ (pos. 77 - pos. 84).
+Under beskrivelsen af felterne i emnekodelisten refereres  
+
+ til positionsnumre for felterne.
+Disse positionsnumre er kolonne-numre for  
+
+ felternes position i den fil (på disketten med kodelisterne), der  
+
+ indeholder emnekodelisten.
+Nedenstående figur viser et udsnit af  
+
+ emne-kodelisten, 1                  2  
+
+            3                  4                 5                   6  
+
+          7                  8 12345678901234567890123456789012345678901234567890123456789012345678901234567  
+
+ 8901234 00000000  Virksomhedsregister  
+
+                                                                     F  
+
+ 00000000 00000100  Sagsbehandling  
+
+                                                                       F  
+
+ 00000000 · · 00005100  Vandløbs regulativer  
+
+                                                                             F  
+
+ 00000000 00005110  Vandløbs afmærkning  
+
+ F 00005100 00005111  Vandløbs bred/ejerforhold  
+
+                                                                        F  
+
+ 00005100 · · I beskrivelsesfilen, som følger med på  
+
+ disketten med kodelisterne, er emnekodelisten beskrevet således:
+FILE emner.txt RELATION emnekodeliste DESCRIPTION Emnekodeliste FIELD emnenummer integer 1 8 FIELD emnebeskrivelse string 10 73 FIELD laas string 75 75 FIELD overordnet emne integer 77 84 1.2. Typekodelisten Typer Denne kodeliste beskriver, hvilke oplysninger der kan  
+
+ indgå i et emne.
+Disse oplysninger kaldes i STANDAT for  
+
+ oplysningstyper.
+Med oplysningstyperne fastlægges koderne for de typer  
+
+ oplysninger, et emne kan omfatte.
+Oplysningstyperne beskriver også,  
+
+ hvilket format oplysningen har samt eventuelt værdimængden for  
+
+ oplysningen.
+ I relationsdatabase-sammenhæng svarer en  
+
+ oplysningstype til en attribut i en relation.
+ Typekodelisten består for hver oplysningstype af fem  
+
+ felter:
+Oplysningstypenummer: 	Et 8-cifret nummer, der entydigt  
+
+ identificerer oplysningstypen over for STANDAT (pos. 1 - pos. 8).
+ type: 	Beskriver hvilken datatype oplysningstypen  
+
+ har.
+ Typen kan være:
+"D" (dato) "N" (number, decimal- eller heltal) "S" (string).
+(pos. 10 - pos. 10) Uddybende beskrivelse af typerne findes i Bilag A.
+Format: 	Angiver for tal (Type = "N") hvor mange tegn  
+
+ der kan være før og efter decimalpunktummet.
+F.eks. angiver  
+
+ 4.2, at tallet kan ligge mellem -9999.99 og 9999.99. Formatet  
+
+ angiver det maksimale antal cifre før  
+
+ decimal-punktummet (her 4), og det maksimale antal cifre efter decimalpunktummet (her 2). Et eventuelt minustegn  
+
+ regnes ikke med i formatets længde.
+Heltal angives ved, at antal cifre efter punktummet er  
+
+ nul, og da må decimal-punktummet ikke benyttes.
+For tekst (Type = "S") angiver formatet, hvor mange  
+
+ tegn teksten må indeholde. (pos. 12 - pos. 21) Værdikodeliste:	Hvis der her angives en  
+
+ værdikodeliste, betyder det, at typen kun kan antage de værdier, der er angivet i den  
+
+ nævnte værdikodeliste. (pos. 23 - pos. 30.) Beskrivelse: 	Beskrivelse af oplysningstypen, herunder  
+
+ eventuel begrænsning i værdisættet.
+(pos. 32 - pos. 247) Under beskrivelsen af felterne i typekodelisten refereres  
+
+ til positionsnumre for felterne.
+Disse positionsnumre er kolonne-numre for  
+
+ felternes position i den fil (på disketten med kodelisterne), der  
+
+ indeholder typekodelisten.
+Nedenstående figur viser et udsnit af  
+
+ typekodelisten, 2  
+
+      2 1                  2  
+
+            3                  4                  5                     3  
+
+              4 12345678901234567890123456789012345678901234567890123456789  
+
+ 012345678901234567 · · · 00000044  D  
+
+                   Virksomhedens etablerings da 00000045  S 35  
+
+                 Kontaktpersonens navn.
+00000046  S 14  
+
+                 Henvisning til kortmateriale 00000047  N 6.0  
+
+                 UTM centerkoordinat X-værdi, 00000048  N 7.0  
+
+                 UTM centerkoordinat Y-værdi, 00000049  N 2.3  
+
+ STD00009  Branchekode for primært form · · · I beskrivelsesfilen som følger med på  
+
+ disketten med kodelisterne er typekodelisten beskrevet således:
+FILE typer.txt RELATION typekodeliste DESCRITTION Typekodeliste FIELD typenummer inter 1 8 FIELD felttype string 10 10 FIELD format_paa_felt float 12 21 FIELD reference_til_vaerdikode string 23 30 FIELD informationstypen string 32 247 1.3. Koblingskodelisten Kobling mellem emner og typer Koblingskodelisten beskriver for hvert emne i  
+
+ emnekodelisten, hvilke oplysningstyper emnet indeholder.
+Denne kodeliste  
+
+ består af to felter, nemlig <emnenummer> og  
+
+ <typenummer>.
+Emnenummer: 	Et 8-cifret nummer, der angiver emnet.  
+
+ (pos. 1 - pos. 8) Typenummer: 	Et 8-cifret nummer, der angiver  
+
+ oplysningstypen.
+(pos. 10 - pos. 17) Under beskrivelsen af felterne i koblingskodelisten  
+
+ refereres til positionsnumre for felterne.
+Disse positionsnumre er  
+
+ kolonne-numre for felternes position i den fil (på disketten med  
+
+ kodelisterne), der indeholder koblingskodelisten.
+ I relationel sammenhæng definerer koblingskodelisten  
+
+ hvilke, attributter der indgår i hver enkelt relation.
+ Nedenstående figur viser et udsnit af  
+
+ koblingskodelisten.
+1 12345678901234567 · · 00000000  00000041 00000000  00000042 00000000  00000044 00000000  00000045 · · 00000200  00000043 00000200  00000045 00000000  00000067 · · I beskrivelsesfilen, som følger med på  
+
+ disketten med kodelisterne, er koblingskodelisten beskrevet  
+
+ således:
+FILE kobling.txt RELATION koblingskodeliste DESCRIPTION Koblingskodeliste FIELD emnenummer integer 1 8 FIELD typenummer integer 10 17 1.4. Værdikodelister Værdier Disse kodelister beskriver for udvalgte oplysningstyper,  
+
+ hvilke værdier de pågældende oplysningstyper kan antage.
+En  
+
+ værdikodeliste kan f.eks. være kodelisten STD00002, som beskriver  
+
+ alle postnumre i Danmark.
+Eksempelvis henviser oplysningstype 00000756 i  
+
+ typekodelisten til denne værdikodeliste, hvilket betyder, at de  
+
+ værdier, der angives for oplysningstype 00000756, kun må  
+
+ overføres, hvis værdierne findes i værdikodelisten  
+
+ STD00002.
+ I relationsdatabase-sammenhæng kan man sige, at  
+
+ værdikodelisterne definerer domænerne for udvalgte  
+
+ attributter.
+ Oversigt over kodelister findes beskrevet i mappen  
+
+ Kodelister til STANDAT, som kan anskaffes ved henvendelse til Kommunedata.  
+
+ Derudover findes selve kodelisterne på edb-medium (3 1/2'' disketter).  
+
+ I særlige tilfælde kan diskette-formatet ændres til 5  
+
+ 1/4''. Dette kan dog kun ske efter udtrykkelig aftale med Kommunedata.
+På disketten findes også en beskrivelsesfil,  
+
+ der angiver alle kodelisternes opbygning.
+F.eks. er værdikodeliste  
+
+ STD00002 - Postnummertabellen, beskrevet således:
+ FILE std00002.
+RELATION std00002 DESCRIPTION Postnummertabel FIELD kode integer 1 4 FIELD postdistrikt string 6 25 FIELD forældelses_dato 27 36 Filen hedder STD00002 og er postnummertabel, første  
+
+ felt er postnummerkoden - et heltal fra position 1-4, andet felt  
+
+ postdistriktet - en tegnstreng fra position 6-25, og i position 27-36  
+
+ følger tredje felt gammel (forældelsesdato), som er udfyldt i de  
+
+ tilfælde, hvor en værdi ikke mere må benyttes til  
+
+ overførsel af data.
+ 2. Formatet for STANDAT-filer.
+STANDAT-filens 3 blokke Dataudveksling i STANDAT-format foregår ved  
+
+ udveksling af tekst-filer i ASCII-format.
+Tekst-filen er delt i blokke, der  
+
+ hver har sin funktion i STANDAT.
+Første blok kaldes HEADERen.
+HEADERen  
+
+ indeholder administrative oplysninger om filen, f.eks. om hvem der har  
+
+ fremstillet den, hvornår den er fremstillet m.m.
+Anden blok indeholder  
+
+ en beskrivelse af hvilke data, der er indeholdt i filen.
+Yderligere beskriver  
+
+ anden blok sammenhængen mellem de data, der skal udveksles.
+Tredje blok  
+
+ indeholder selve dataene, skrevet i overensstemmelse med definitionen i  
+
+ definitionsblokken.
+Header Definition Data For alle tre blokke gælder, at hver tekstlinie  
+
+ starter i første position.
+Efter nøgleordene GROUP og  
+
+FIELD angives nummeret for gruppen eller feltet.
+2.1. Header-delen Administrative oplysninger HEADERen indeholder en del administrative oplysninger, der  
+
+ gør det muligt på et senere tidspunkt at afgøre, hvem der  
+
+ har lavet filen, hvem den er beregnet for, hvilken version af STANDAT den er  
+
+ skrevet i osv.
+HEADERen indledes med "HEADER" og afsluttes med  
+
+"END HEADER". Mellem disse to nøgleord består HEADERen af  
+
+ følgende oplysninger i den nedenfor viste rækkefølge.
+Det  
+
+ skal bemærkes, at alle oplysninger skal være tilstede.
+Den  
+
+ verbale beskrivelse kan dog udelades.
+HEADER Versionsnummer Tegnsæt Dato format Afsender Afsender kommunenummer Afsender sagsbehandlernavn Modtager Modtager kommunenummer Modtager sagsbehandlernavn Udtræksdato Udtrækstidspunkt timer Udtrækstidspunkt minutter Stedbestemmelse Zone Verbal beskrivelse END HEADER De følgende afsnit beskriver indholdet af de  
+
+ enkelte elementer i HEADERen samt deres format.
+Forskellige versioner af STANDAT Versionsnummer: For at STANDAT skal kunne fungere på  
+
+ længere sigt, er der indført versionsnumre.
+Herved sikres det,  
+
+ at STANDAT i fremtiden ikke er låst til sin nuværende form.
+Man  
+
+ kan godt forestille sig, at HEADERen eller DEFINITIONs-delen på et  
+
+ tidspunkt skal ændres for at tilgodese nye behov.
+ En sådan ændring/tilføjelse til STANDAT  
+
+ vil kræve definition af en ny version for at sikre, at allerede  
+
+ udviklede systemer stadig kan fungere.
+ Importprogrammer, der udvikles i overensstemmelse med de  
+
+ her beskrevne retningslinier, bør teste, om versionsnummeret er  
+
+ "V1.1", hvilket tilkendegiver, at STANDAT-filen er skrevet af et tilsvarende  
+
+ eksportprogram, udviklet til at skrive "V1.1" STANDAT-filer.
+Tegnsæt Tegnsæt: Det er i STANDAT fastlagt, at  
+
+ dataoverførslen sker v.h.a.
+ASCII-filer, hvilket skal sikre, at data  
+
+ almindeligvis kan forstås af både afsender og modtager.
+Det er  
+
+ dog ikke nok for en entydig dataudveksling at opstille dette krav, det  
+
+ bør yderligere specificeres, hvilken ASCII- tabel der benyttes, da de  
+
+ forskellige maskinleverandører benytter sig af forskellige  
+
+ tabeller.
+ EDB-verdenen befinder sig i øjeblikket i en  
+
+ overgangsfase mellem to ASCII-tabeller, nemlig den gamle udgave hvor  
+
+ tegnsættet blev beskrevet v.h.a. 7 bit (i alt 128 forskellige tegn  
+
+ (DS/ISO 646)), og den nye udgave hvor tegnsættet er beskrevet v.h.a. 8  
+
+ bit (i alt 256 forskellige tegn (de facto standard)).
+ Endvidere er der for de forskellige  
+
+ maskinleverandører forskel på tegnsæt af samme type, eller  
+
+ sagt på en anden måde: ikke alle maskinleverandører lever  
+
+ helt op til de internationale standarder på området.
+For at STANDAT skal kunne fungere efter hensigten, er det  
+
+ derfor nødvendigt at overføre information fra afsender til  
+
+ modtager om, hvilket tegnsæt der er brugt ved skrivning af  
+
+ STANDAT-filen.
+Importprogrammet har herved mulighed for at konvertere  
+
+ STANDAT-filen til det tegnsæt, som modtageren benytter.
+ I Bilag B findes der en oversigt over, hvilke  
+
+ ASCII-tegnsæt der kan benyttes til dataudveksling i  
+
+ STANDAT-formatet.
+ Det valgte tegnsæt angives ved at skrive navnet  
+
+ på tegnsættet i den relevante linie i HEADERen (se listen over de  
+
+ gyldige navne forrest i bilag B). Hvis en dataleverandør ved  
+
+ udvekslingen af data ønsker at benytte et tegnsæt, der ikke er  
+
+ registreret i STANDAT, kan dette tegnsæt søges optaget ved  
+
+ henvendelse til Kommunedata.
+Dato-format Dato-format: Typisk er der i forskellige programmer brugt  
+
+ forskellige formater for, hvordan datoer skrives.
+For at sikre at dette ikke  
+
+ skaber problemer i forbindelse med udveksling af data, beskrives det i denne  
+
+ HEADER-linie, hvilket dato-format, der er benyttet ved skrivning af  
+
+ datoer.
+ I beskrivelsen af dato-formatet skal følgende  
+
+ benyttes:
+- YYYY eller YY 	for årstal - MM 	for måned - DD 	for dag Acceptable formater for dato er:
+- YYYYMMDD, DDMMYY, YYMMDD, DD/MM/YYYY Der skal dog opfordres til, at formatet YYYYMMDD benyttes  
+
+ som standard, specielt i forbindelse med udviklingen af nye systemer.
+At  
+
+ netop dette format anbefales, skyldes dels, at vi hurtigt nærmer os  
+
+ årtusindskiftet, og dels, at datoer skrevet i formatet, umiddelbart kan  
+
+ sorteres automatisk, hvilket kan være en fordel i  
+
+ edb-sammenhæng.
+Afsender Afsender: Her skrives navnet på den virksomhed eller  
+
+ institution, som har fremstillet STANDAT-filen.
+Feltet må maksimalt  
+
+ være 80 bogstaver langt.
+Kan angives som en blank linie.
+Afsender kommunenummer Afsender kommunenummer: Her skrives nummeret på den  
+
+ kommune, afsenderen tilhører.
+I mappen "Kodelister til STANDAT",  
+
+ findes der i kodeliste nummer STD00001 en oversigt over de danske  
+
+ kommunenumre.
+Kan angives til "0" hvis kommunenummeret ikke oplyses.
+Afsender sagsbehandlernavn Afsender sagsbehandlernavn: Her skrives navnet på  
+
+ den sagsbehandler, som har fremstillet STANDAT-filen.
+Feltet må  
+
+ maksimalt være 80 bogstaver langt.
+Kan angives som en blank linie.
+Modtager Modtager: Her skrives navnet på den virksomhed eller  
+
+ institution, der skal modtage STANDAT-filen.
+Feltet må maksimalt  
+
+ være 80 bogstaver langt.
+Kan angives som en blank linie.
+Modtager kommunenummer Modtager kommunenummer: Her skrives nummeret på den  
+
+ kommune, hvor modtageren af STANDAT-filen er hjemmehørende.
+I mappen  
+
+ "Kodelister til STANDAT" findes der i kodeliste nummer STD00001 en oversigt  
+
+ over de danske kommunenumre.
+Kan angives til "0" hvis kommunenummeret ikke  
+
+ oplyses.
+Modtager sagsbehandlernavn Modtager sagsbehandlernavn: Her skrives navnet på  
+
+ den sagsbehandler, der skal modtage STANDAT-filen.
+Feltet må maksimalt  
+
+ være 80 bogstaver langt.
+Kan angives som en blank linie.
+Udtræksdato Udtræksdato: Her skrives datoen for, hvornår  
+
+ STANDAT-filen er fremstillet.
+Udtræksdatoen skrives i overensstemmelse  
+
+ med det dato-format, der tidligere er beskrevet.
+Hvis udtræksdatoen er  
+
+ ukendt, kan den angives til "19000101". (Dette gælder for dato-formatet  
+
+ "YYYMMDD", samme dato benyttes for øvrige formater.) Udtrækstime Udtrækstime: Her skrives time-tidspunktet for,  
+
+ hvornår STANDAT-filen er fremstillet.
+Timetidspunktet er et tal mellem  
+
+ 00 og 23, idet 00 opfattes som midnat.
+Kan angives til "0" hvis ukendt.
+Udtræksminut Udtræksminut: Her skrives minut-tidspunktet for,  
+
+ hvornår STANDAT-filen er fremstillet.
+Minut-tidspunktet er et tal  
+
+ mellem 00 og 59. Kan angives til "0" hvis ukendt.
+Stedsbestemmelse Stedsbestemmelse: Beskrivelse af hvilken  
+
+ koordinatsætning, der er benyttet ved overførsel af koordinater.  
+
+ Koordinatsætningen er enten "UTM" eller "System 34". Hvis der ikke  
+
+ anvendes geografiske koordinater, angives "UTM".
+Zone Zone: Hvis der benyttes UTM-koordinater, beskrives her  
+
+ hvilken zone, der benyttes som udgangspunkt.
+Zonen angives som enten "33"  
+
+ eller "32". Hvis stedsbestemmelsen er system 34, angives det, om der er tale  
+
+ om Bornholm ("45") eller resten af Danmark ("34"). Kan ikke udelades, men  
+
+ angives til "32" hvis der ikke anvendes geografiske koordinater.
+Verbal beskrivelse Verbal beskrivelse: Et vilkårligt antal linier af 80  
+
+ bogstaver til fri anvendelse, f.eks. applikationens navn eller en anden  
+
+ meddelelse fra afsender til modtager.
+Der kan maksimalt være 1000  
+
+ linier.
+Den verbale beskrivelse kan udelades helt.
+2.2. Definitions-delen Beskrivelse af hvilke data, der skal  
+
+ overføres I definitionsdelen beskrives, hvilke informationer (data)  
+
+ der skal overføres, samt hvilke sammenhænge de overførte  
+
+ informationer (data) har.
+Af emnekodelisten fremgår det, hvilke emner  
+
+ det på et givet tidspunkt kan lade sig gøre at udveksle.
+ Definitionsdelen indledes med "DEFINITION" og  
+
+ afsluttes med "END DEFINITION".
+DEFINITION · · · END DEFINITION Mellem disse to nøgleord beskrives, hvilke emner  
+
+ afsenderen ønsker at overføre til modtageren.
+ 2.2.1. Specifikation af emner.
+Emner Mellem start og slutmærket er det muligt at  
+
+ specificere, hvilke emner der skal overføres.
+De emner, det på  
+
+ nuværende tidspunkt kan lade sig gøre at overføre, findes  
+
+ i emnekodelisten.
+I denne findes også de kodenumre, der skal benyttes i  
+
+ forbindelse med udarbejdelsen af definitionsdelen.
+ Emnerne kan i definitionsdelen kobles sammen på  
+
+ flere forskellige måder, f.eks. kan flere emner overføres  
+
+ uafhængigt af hinanden.
+DEFINITION GROUP · END GROUP GROUP <emnenummer2> <omfang> · END GROUP END DEFINITION Emne-nr 1 Emne-nr 2 Relationel Beskrivelse I ovenstående eksempel har de to emner ingen  
+
+ indbyrdes sammenhæng.
+Hvis emnerne har en indbyrdes sammenhæng,  
+
+ (denne sammenhæng fremgår af emnekodelistens felt <overordnet  
+
+ emne>) og afsenderen ønsker, at informationen om denne  
+
+ sammenhæng skal overføres, er det muligt at indlejre et emne i  
+
+ et andet, således at sammenhængen mellem de to emner  
+
+ beskrives.
+ Nedenstående eksempel viser udformningen af  
+
+ DEFINITIONs-delen, hvis to emner skal overføres, hvor det ene emne (1)  
+
+ har nul, en eller flere forekomster af det andet emne (2).
+Bemærk også, at det samme emne ikke kan  
+
+ angives mere end én gang i DEFINITIONs-delen, dvs. et emnenummer  
+
+ må ikke forekomme to gange deri.
+Dette skal ikke forvekles med, at det  
+
+ samme emnenummer sagtens kan angives mange gange i DATA-delen.
+DEFINITION GROUP · GROUP emnenummer 2> <omfang> · END GROUP END GROUP END DEFINITION Emne-nr 1 Emne-nr 2 Relationel Beskrivelse De to ovenstående eksempler kan kobles sammen,  
+
+ således at mere komplekse strukturer kan beskrives.
+Det skal dog  
+
+ bemærkes, at STANDAT rent relationelt kun kan bruges til at beskrive  
+
+ en-til-en og en-til-mange sammenhænge mellem emner.
+Et emne kan have tilknytning til eller afhængighed  
+
+ af et andet emne.
+Hvis man har brug for at overføre oplysninger  
+
+ hørende til emnet "Tilsyn" med emne nummer 00000200, og man ikke har  
+
+ brug for oplysninger hørende til dettes overordnede emne (som er emne  
+
+ nummer 00000000), kan man nøjes med at overføre oplysningerne  
+
+ til "Tilsyn". I dette tilfælde vil udseendet af DEFINITIONs-delen blive  
+
+ følgende:
+DEFINITION GROUP FIELD <typenummer 1> FIELD <typenummer 2> · · · END GROUP END DEFINITION Har man på den anden side brug for at  
+
+ overføre oplysninger hørende til "Virksomhedsregisteret" med  
+
+ emne nummer 00000000 og oplysninger hørende til "Udførte  
+
+ tilsyn" med emne nummer 00000201 (som er underordnet emnet "Tilsyn" med emne  
+
+ nummer 00000200), skal man overføre oplysninger til alle tre emner.  
+
+ Dvs. i dette tilfælde bliver udseendet af DEFINITIONs-delen  
+
+ følgende:
+DEFINITION GROUP FIELD <typenummer> · · · GROUP 00000200 <Omfang> FIELD <typenummer> · · · GROUP 00000201 <Omfang> FIELD <typemummer> · · · END GROUP END GROUP END GROUP END DEFINITION emne nummer 00000200 kan ikke udelades her.
+ 2.2.2. Specifikation af typer.
+Oplysningstyper For hvert emne skal det specificeres, hvilke  
+
+ oplysningstyper emnet indeholder, samt hvilken rækkefølge  
+
+ typerne kommer i.
+Kun de kombinationer af emne og oplysningstype, der  
+
+ fremgår af koblingskodelisten, er lovlige.
+ Det er således muligt at begrænse  
+
+ dataoverførslen til kun at omfatte de oplysningstyper, der er  
+
+ relevante i den givne situation.
+ Bemærk, at den samme typekode ikke kan specificeres  
+
+ mere end én gang indenfor samme emne.
+DEFINITION GROUP FIELD <typenummer 1> FIELD <typenummer 2> · · · END GROUP END DEFINITION 2.2.3. Specifikation af udtræksmåde.
+Nøgler i STANDAT I mange tilfælde vil de emner, der egentlig  
+
+ ønskes overført, være indlejrede i andre emner, som  
+
+ derfor også skal overføres.
+Det vil i den situation være  
+
+ naturligt at vælge kun at overføre de oplysningstyper for de  
+
+ overliggende emner, der er nødvendige for at identificere de  
+
+ indlejrede emner.
+Eller med andre ord kun at overføre de  
+
+ nøgleoplysninger for overliggende emner, der er nødvendige for,  
+
+ at de egentlige oplysninger kan placeres korrekt i modtagerens database.
+Derfor angives udtrækkets "omfang" for hvert  
+
+ emne."Omfang" kan være "DAT" for et egentligt dataindhold eller  
+
+"REF", hvis der for emnet kun er udtrukket den nødvendige  
+
+ nøgleinformation.
+Det er afsenderens ansvar at sikre, at den udtrukne  
+
+ nøgleinformation også af modtagerens programmel opfattes som  
+
+ tilstrækkelig for at få data på plads.
+Det er derimod importprogrammellets opgave at sikre, at  
+
+ kun emner, der er mærket med "DAT", gemmes.
+I modsat fald kunne  
+
+ ufuldstændige oplysninger overskrivede eksisterende data.
+DEFINITION GROUP FIELD <typenummer 1> FIELD <typenummer 2> · · · END GROUP END DEFINITION 2.3. Data-delen Data Data-delen indeholder informationer struktureret i  
+
+ overensstemmelse med de specifikationer, der er angivet i definitions-delen.  
+
+ I nedenstående eksempel er vist, hvordan to emner kan være  
+
+ indlejret i hinanden, samt hvordan flere forekomster af de afhængige  
+
+ emner overføres.
+Data indledes med "DATA" op afsluttes med  
+
+"END DATA" DATA GROUP <data til emne nr 1> <data til emne nr 1> · · · GROUP <emnenummer 2> <data til emne nr 2> · · · END GROUP GROUP <emnemummer 2> <data til emne nr 2> · · · END GROUP END GROUP END  DATA Den overførte DATA-del skal være struktureret  
+
+ i overensstemmelse med DEFINITIONs-delens specifikationer.
+Dette betyder  
+
+ blandt andet, at hvis DEFINITIONs-delen indeholder følgende:
+DEFINITION GROUP FIELD 00000001 FIELD 00000002 FIELD 00000003 END GROUP END DEFINITION skal DATA-delen (under data hørende til emnet  
+
+ 00000000) indeholde værdier for typekoderne: 00000001, 00000002 og  
+
+ 00000003 i netop denne rækkefølge.
+Dvs. typekodernes  
+
+ værdier må ikke angives i en anden rækkefølge, og  
+
+ ingen linier for dem må udelades - der skal altid angives 3 linier for  
+
+ emnet 00000000 med denne DEFINITIONs-del.
+ Et emne kan desuden udelades, hvis der ikke  
+
+ overføres data fra emnet og alle dets underordnede emner, idet man har  
+
+ en DEFINITIONs-del med udseendet:
+DEFINITION GROUP FIELD 00000001 FIELD 00000002 GROUP  00000200 DAT FIELD 00000043 FIELD 00000045 END GROUP END GROUP END  DEFINITION kan DATA-delen indeholde data hørende til emnet  
+
+ 00000000, som ikke har nogen data for emnet 00000200. DATA-delen kan til  
+
+ gengæld også indeholde data til emnet 00000000, hvori der er  
+
+ angivet et eller flere sæt data hørende til emnet 00000200. Det  
+
+ følgende er derfor en gyldig DATA-del hørende til  
+
+ ovenstående DEFINITIONs-del:
+DATA GROUP 257 3 END GROUP GROUP 00000000 257 3 GROUP 00000200 04222323 Hugo Rasmussen END GROUP END GROUP GROUP 00000000 257 3 GROUP 00000200 04222323 Hugo Rasmussen1 END GROUP GROUP 00000200 04222323 Hugo Rasmussen2 END GROUP END GROUP END DATA Med den viste DEFINITIONs-del er det derimod ikke tilladt  
+
+ kun at angive data hørende til emnet 00000200, idet de overordnede  
+
+ emner som er angivne i DEFINITIONs-delen, altid skal medtages i  
+
+ DATA-delen.
+ Endelig er rækkefølgen af emnerne i  
+
+ DATA-delen ikke bundet af rækkefølgen af emnerne i  
+
+ DEFINITIONs-delen (modsat tilfældet for typekoderne), hvilket betyder,  
+
+ at med følgende DEFINITIONs-del:
+DEFINITION GROUP FIELD 00000033 END GROUP GROUP 80000000 DAT FIELD 00000033 END GROUP END DEFINITION kan der i DATA-delen angives data hørende til emnet  
+
+ 00000000, efterfulgt af data hørende til emnet 80000000, som igen  
+
+ bliver efterfulgt af data til emnet 00000000, osv.
+Dette gælder  
+
+ generelt for sideordnede emner.
+3. Eksempler I det følgende gives der nogle eksempler på  
+
+ opbygning af definitionsdelen i en STANDAT-fil.
+I første eksempel  
+
+ vises, hvordan et overordnet emne overføres, samt hvordan det er  
+
+ muligt at begrænse mængden af informationer ved  
+
+ overførslen.
+I eksempel 2 vises, hvordan et emne, der er  
+
+ afhængigt af et andet emne, kan overføres.
+ 3.1. Eksempel 1.
+Overførsel af et emne Lad os antage, at en kommune ønsker at  
+
+ overføre oplysninger om, hvilke virksomheder der er i kommunen, samt  
+
+ at kommunen ønsker at overføre alle oplysninger registreret om  
+
+ virksomhederne.
+HEADER V1.1 CODE PAGE 850 YYYYMMDD Kommune A 000 Bjarne Hansen Miljøstyrelsen 015 Hans Jørgensen 19890101 12 30 UTM 32 Hermed oplysninger om kommunens virksomheder END HEADER Definition I definitionsdelen skal det specificeres, i hvilken  
+
+ rækkefølge informationerne forekommer.
+Af emnekodelisten  
+
+ fremgår, at virksomhedsregisteret har kode 00000000, samt at det ikke  
+
+ tilhører noget overordnet emne (virksomhedsregisteret er et overordnet  
+
+ emne i sig selv). I emnekodelisten har feltet <overordnet emne> derfor  
+
+ samme værdi som feltet <emne>, nemlig 00000000 for  
+
+ virksomhedsregisteret.
+Oplysningerne om virksomhederne kan således  
+
+ overføres direkte til modtageren.
+Kommunen kunne ønske kun at  
+
+ overføre følgende oplysninger fra virksomhedsregisteret:
+ 00000001,00000002,00000003,00000012 og 00000039.
+ Definitionsdelen vil da komme til at se ud på  
+
+ følgende måde:
+DEFINITION GROUP FIELD 00000001 FIELD 00000002 FIELD 00000003 FIELD 00000012 FIELD 00000039 END GROUP END DEFINITION Start definition Virksomhedsregisteret Beliggenhedskommune Ejendommens løbenummer Matrikelnummer Arbejdsgivernummer Virksomhedens navn Slut emne Slut definition Kommentaren i rammen til højre må dog ikke  
+
+ indgå i den færdige STANDAT fil.
+Bemærk også at der  
+
+ skal være præcist et blanktegn mellem ordet GROUP og  
+
+ emnenummeret, henholdsvis ordet FIELD og typenummeret samt mellem  
+
+ emnenummeret og "omfang".
+Data Oplysningerne fra kommunens virksomhedsregister skrives nu  
+
+ i overensstemmelse med specifikationerne i definitionsdelen, med én  
+
+ oplysning på hver linie i samme rækkefølge som beskrevet i  
+
+ definitionsdelen.
+DATA GROUP 257 00000003 d43f445 00000022 Allinge Grødfabrik END GROUP END DATA Virksomhedsregisteret Kommunenummer Ejendommens løbenummer Matrikelnummer Arbejdsgivernummer Virksomhedens navn STANDAT fil Nu er HEADER-, DEFINITION- og DATA-delen fremstillet, og  
+
+ de tre elementer kan samles til en hel fil, der viser hvad kommunen vil  
+
+ overføre.
+HEADER V1.1 CODE PAGE 850 YYYYMMDD Kommune A 000 Bjarne Hansen Miljøstyrelsen 015 Hans Jørgensen 19890101 12 30 UTM 32 Hermed oplysninger om kommunens virksomheder END HEADER DEFINITION GROUP 00000000 DAT FIELD 00000001 FIELD 00000002 FIELD 00000003 FIELD 00000012 FIELD 00000039 END GROUP END DEFINITION DATA GROUP 00000000 257 00000003 d43f445 00000022 Allinge Grødfabrik END GROUP END DATA Versionsnummer Tegnsæt Datoformat Afsender virksomhed Afsender kommunenummer Afsender sagsbehandler Modtager virksomhed Modtager kommunenummer Modtager sagsbehandler Udtræksdato Udtrækstime Udtræksminut Stedsbestemmelse Zone Virksomhedsregisteret Beliggenhedskommune Ejendommens løbenummer Matrikelnummer Arbejdsgivernummer Virksomhedens navn Slut emne Virksomhedsregisteret Kommunenummer Ejendommens løbenummer Matrikelnummer Arbejdsgivernummer Virksomhedens navn Kommentarerne i rammen til højre indgår dog  
+
+ ikke i den fil, der overføres 3.2. Eksempel 2 Overførsel af et indlejret emne Lad os nu antage, at kommunen ønsker at  
+
+ overføre oplysninger om, hvilke tilsyn der er ført på de  
+
+ pågældende virksomheder, samt at kommunen ønsker at  
+
+ overføre alle oplysninger, der er registreret om tilsynene på  
+
+ virksomhederne.
+Derimod ønsker kommunen ikke at overføre  
+
+ oplysninger om selve virksomheden, udover de nødvendige  
+
+ nøgleinformationer.
+HEADER Headeren vil i dette eksempel ligne headeren fra  
+
+ første eksempel, på nær at tekstfeltet indeholder andre  
+
+ oplysninger.
+HEADER V1.1 CODE PAGE 850 YYYYMMDD Kommune A 000 Bjarne Hansen Miljøstyrelsen 015 Hans Jørgensen 19890101 12 30 UTM 32 Hermed oplysninger om de tilsyn vi fører med  
+
+ virksomhederne i kommunen.
+END HEADER Definition I definitionsdelen skal det som i eksempel 1 defineres,  
+
+ hvilke emner der ønskes overført, samt disse emners  
+
+ rækkefølge.
+Af emnekodelisten fremgår det, at tilsyn har  
+
+ kode 00000200 og at det tilhørende overordnede emne er  
+
+ virksomhedsregisteret (emne nummer 00000000).
+ Dvs. at for at kommunen kan overføre oplysninger  
+
+ om, hvilke tilsyn den har ført, skal den også overføre  
+
+ nøgleoplysningerne om, hvilke virksomheder den har ført disse  
+
+ tilsyn med.
+ F.eks. kunne kommunen ønske kun at overføre  
+
+ følgende nøgleoplysninger fra virksomhedsregisteret: 00000001  
+
+ og 00000002, samt følgende oplysninger fra tilsynsregisteret:  
+
+ 00000043, 00000045, 00000067, 00000070, 00000071, 00000072, 00000073 og  
+
+ 00000086.
+ Definitionsdelen vil da komme til at se ud på  
+
+ følgende måde.
+DEFINITION GROUP FIELD 00000001 FIELD 00000002 GROUP 00000200 DAT FIELD 00000043 FIELD 00000045 FIELD 00000067 FIELD 00000070 FIELD 00000071 FIELD 00000072 FIELD 00000073 FIELD 00000086 END GROUP END GROUP END DEFINITION Start definition Virksomhedsregisteret Beliggenhedskommune Ejendommens løbenummer Tilsyn Kontakt telefonnummer Navn Initialer Tilsynetype Udførende instans Uger mellem tilsyn Antal tilsyn om året Dato for sidste tilsyn Slut tilsyn Slut virksomhedsreg.
+Slut definition Data Oplysningerne fra kommunens virksomhedsregister og  
+
+ tilsynsregister skrives nu i overensstemmelse med specifikationerne i  
+
+ definitionsdelen, med én oplysning på hver linie i samme  
+
+ rækkefølge som beskrevet i definitionsdelen.
+Hvis kommunen har  
+
+ registreret to tilsyn om en virksomhed, vil dataene i filen se ud som  
+
+ følger DATA GROUP 257 00000003 GROUP 00000020 04333323 Hugo Rasmussen HR 2 3 4 12 19890201 END GROUP GROUP 00000200 04222323 Hugo Rasmussen HR 2 3 4 12 19890201 END GROUP END GROUP END DATA ugo HuHuugo Rasmussen Start data Virksomhedsregisteret Beliggenhedskommune Ejendommens løbenummer Tilsyn Kontakt telefonnummer Navn Initialer Tilsynstype Udførende instans Uger mellem tilsyn Antal tilsyn om året Dato for sidste tilsyn Slut tilsyn Tilsyn Kontakt telefonnummer Navn Initialer Tilsynstype Udførende instans Uger Mellem tilsyn Antal tilsyn om året Dato for sidste tilsyn Slut tilsyn Slut virksomhedsreg.
+Slut data STANDAT fil Nu er HEADER-, DEFINITION- og DATA-delen fremstillet, og  
+
+ de tre elementer kan samles til en hel fil, der viser, hvad kommunen vil  
+
+ overføre.
+Også her er rammen til højre kommentarer, der  
+
+ ikke indgår i den fil der overføres.
+HEADER V1.1 CODE PAGE 850 YYYYMMDD Kommune A 000 Bjarne Hansen Miljøstyrelsen 015 Hans Jørgensen 19890101 12 30 UTM 32 Hermed oplysninger om kommunens virksomheder END HEADER DEFINITION GROUP 00000000 REF FIELD 00000001 FIELD 00000002 GROUP 00000200 DAT FIELD 00000043 FIELD 00000045 FIELD 00000067 FIELD 00000070 FIELD 00000071 FIELD 00000072 FIELD 00000073 FIELD 00000086 END GROUP END GROUP END DEFINITION DATA GROUP 00000000 257 00000003 GROUP 00000200 04222323 Hugo Rasmussen HR 2 3 4 12 19890201 END GROUP GROUP 00000200 04222323 Hugo Rasmussen HR 2 3 4 12 19890201 END GROUP END GROUP END DATA Versionsnummer Tegnsæt Datoformat Afsender virksomhed Afsender kommunenummer Afsender sagsbehandler Modtager virksomhed Modtager kommunenummer Modtager sagsbehandler Udtræksdato Udtrækstime Udtræksminut Stedsbestemmelse Zone Start definition Virksomhedsregisteret Beliggenhedskommune Ejendommens løbenummer Tilsyn Kontakt telefonnummer Navn Initialer Tilsynstype Udførende instans Uger mellem tilsyn Antal tilsyn om året Dato for sidste tilsyn Slut tilsyn Slut virksomhedsreg.
+Slut definition Start data Virksomhedsregisteret Beliggenhedskommune Ejendommens løbenummer Tilsyn Kontakt telefonnummer Navn Initialer Tilsynstype Udførende instans Uger mellem tilsyn Antal tilsyn om året Dato for sidste tilsyn Slut tilsyn Tilsyn Kontakt telefonnummer Navn Initialer Tilsynstype Udførende instans Uger mellem tilsyn Antal tilsyn om året Dato for sidste tilsyn Slut tilsyn Slut virksomhedsreg.
+Slut data 4. Tilføjelser til kodelisterne.
+Administration af kodelisterne Et væsentligt element i STANDAT er som tidligere  
+
+ nævnt brugen af kodelister.
+Administrationen af disse skal - som  
+
+ beskrevet i del I - varetages i et samarbejde mellem de relevante  
+
+ fagdatacentre, Miljøstyrelsen og Kommunedata.
+Ud over at sikre at de  
+
+ kodelister, der tilhører STANDAT, altid er konsistente, skal  
+
+ optagelsen af nye emner i emnekodelisten administreres gennem dette  
+
+ samarbejde.
+Det samme gælder for nye typer i typekodelisten,  
+
+ koblingerne mellem emner og typer i koblingskodelisten og tilføjelser  
+
+ til eksisterende værdikodelister eller optagelse af helt nye  
+
+ værdikodelister.
+ Som tidligere nævnt er det Miljøstyrelsen og  
+
+ fagdatacentrene, der står for den indholdsmæssige administration  
+
+ af STANDAT, dvs. at i de fleste tilfælde er det dem, der i forbindelse  
+
+ med en kravspecifikation på et område, står for oprettelsen  
+
+ af nye emner i STANDAT.
+ Det er dog også muligt for amter, kommuner eller  
+
+ systemudviklere at få optaget nye emner med dertil hørende typer  
+
+ på emne- og typekodelisterne, ligesom det er muligt at få optaget  
+
+ nye værdier på værdikodelisterne.
+ Kommunedata varetager det praktiske arbejde med  
+
+ vedligeholdelsen og udsendelsen af kodelisterne.
+ I det følgende beskrives retningslinierne for,  
+
+ hvordan nye emner og typer optages på henholdsvis emne- og  
+
+ typekodelisterne, hvordan helt nye værdikodelister optages eller  
+
+ eksisterende udvides, samt hvilke formatmæssige krav, der skal  
+
+ være opfyldt, for at optagelsen kan ske.
+Hvornår kan der oprettes nye emner og typer Der kan optages nye emner eller typer på STANDATs  
+
+ emne- og typekodelister i tre tilfælde.
+ Hvis fagdatacentrene definerer nye emner og typer i  
+
+ forbindelse med en kravspecifikation på et område.
+Hvis et allerede eksisterende system, opbygget før  
+
+ udviklingen af STANDAT, skal kunne udveksle data v.h.a.
+STANDAT.
+ Hvis en systemudvikler uden for fagdatacentrene har  
+
+ udviklet/vil udvikle et system, der registrerer oplysninger, som endnu ikke  
+
+ er optaget på STANDATs kodelister.
+Krav til emner og typer For alle de tre områder skal der i forbindelse med  
+
+ optagelsen af nye emner/oplysningstyper leveres følgende:
+ En kort beskrivelse af det pågældende system,  
+
+ herunder en beskrivelse af det eller de emner, der ønskes optaget,  
+
+ samt på hvilken måde emnerne hænger sammen.
+En oversigt over de typer, emnerne indeholder, samt deres  
+
+ mulige indhold.
+Hvis typen allerede eksisterer i STANDATs typekodelisten,  
+
+ refereres der dog til denne.
+Hvis en oplysningstype skal valideres mod en ny  
+
+ værdikodeliste, skal denne ligeledes beskrives.
+ Oplysningerne sendes på de dertil indrettede  
+
+ ansøgningsskemaer "Ansøgning om optagelse af emne" hhv.  
+
+ "Ansøgning om optagelse af oplysningstype" til STANDATs sekretariat  
+
+ (se adresselisten bagerst i vejledningen).
+ For værdikodelisternes vedkommende kan der blive  
+
+ tale om tilføjelser i to tilfælde:
+Tilføjelse til en eksisterende  
+
+ værdikodeliste.
+F.eks. kan en MLK-enhed ønske at benytte en  
+
+ målemetode, der ikke er beskrevet i værdikodelisten for  
+
+ målemetoder.
+ Oprettelse af en ny værdikodeliste, f.eks. i  
+
+ forbindelse med indførelse af en ny oplysningstype.
+I det første tilfælde (optagelse af en ny  
+
+ værdi på en værdikodeliste) vil ønsket i de fleste  
+
+ tilfælde kunne imødekommes rent administrativt ved en  
+
+ henvendelse til STANDATs administration (se adresselisten), hvor man kan  
+
+ få tildelt en kode for den nye værdi.
+Rekvirenten indføjer  
+
+ herefter denne kode i sin egen kodeliste, og de øvrige abonnenter  
+
+ modtager koden ved den førstkommende halvårlige opdatering.
+I det andet tilfælde (optagelse af en ny  
+
+ værdikodeliste) indsendes der en beskrivelse af den nye liste til  
+
+ STANDATs sekretariat.
+Ved beskrivelsen af kodelisten benyttes  
+
+ ansøgningsskemaet "Ansøgning om optagelse af  
+
+ værdikodeliste". Endvidere skal skemaet "Dataindhold for  
+
+ værdikodeliste" udfyldes med de værdier, kodelisten skal  
+
+ indeholde.
+5. Datatransport Data, der er skrevet i STANDAT-format, er rettet mod  
+
+ udveksling via magnetiske medier eller via modem.
+Standarden er derimod ikke  
+
+ udviklet med henblik på udveksling af data via eksempelvis udskrevne  
+
+ lister.
+Medier For at sikre størst mulig tilgængelighed af  
+
+ filer, skrevet i STANDAT-format, anbefales det at anvende et af  
+
+ følgende medier:
+- 3 1/2'' diskette format 1.44 Mb ("IBM-format") - 5 1/4'' diskette format 360 Kb ("IBM-format") - 5 1/4'' diskette format 1.2 Mb ("IBM-format") - Modem Ovennævnte liste skal kun opfattes som en anbefaling  
+
+ vedrørende valg af transportmedium.
+Det kan sagtens lade sig  
+
+ gøre at udveksle data via andre medier, f.eks magnetbånd skrevet  
+
+ i 800, 1600 eller 6250 bpi, eller 8'' disketter.
+Hvis disse medier benyttes,  
+
+ må det dog ske på baggrund af en aftale mellem  
+
+ data-leverandør og data-modtager.
+Med de medier, som anbefales i STANDAT, vil der være  
+
+ en rimelig sikkerhed for, at alle dataleverandører og -modtagere er i  
+
+ besiddelse af de krævede læse- og skrivefaciliteter.
+Hvis dette  
+
+ ikke er tilfældet, findes der firmaer, som mod betaling kan konvertere  
+
+ fra et medium til et andet.
+6. STANDAT - syntaks Syntaks-beskrivelsen er en kombination af en forklaring af  
+
+ STANDAT-filernes format i sammenhæng med de mere formelle  
+
+ syntaksdiagrammer.
+Syntaksdiagrammerne er en grafisk afbildning med en  
+
+ indgang og en udgang, der beskriver de mulige rækkefølger af  
+
+ reserverede ord og variable.
+Reserverede ord STANDAT-filernes specielle ord:
+DATA DEFINITION FIELD GROUP HEADER END DATA END DEFINITION END GROUP END HEADER er  reserverede , hvilket betyder at ordene ikke kan  
+
+ benyttes i anden sammenhæng i en STANDAT-fil.  
+
+ F.eks. kan ordene ikke benyttes i HEADER-delens beskrivelses-linier.  
+
+ Ordene er dog kun  reserverede , når de starter i kolonne 1.  
+
+ Bemærk endelig at alle de  reserverede ord skal skrives med store  
+
+ bogstaver, og at  END DATA ,  END DEFINITION ,  END GROUP  og  END HEADER  
+
+  skal angives med præcist et blanktegn efter  END . Der kan angives  
+
+ blanktegn efter de  reserverede ord, men anden tekst må ikke  
+
+ forekomme.
+Angivelse af omfang I modsætning til ovenstående reserverede ord  
+
+ sker angivelsen af   Omfang  ikke ved brug af reserverede ord.
+Ordene  REF  
+
+  og  DAT  kan altså anvendes uden begrænsninger i den  
+
+ øvrige  STANDAT-fil.
+Angivelse af emne- og type-numre Ved angivelse af emne- og type-numre skal altid angives  
+
+ otte cifre, så f.eks.  virksomhedsregisteret  altid angives ved  
+
+ emnenummeret 00000000, og ikke angives ved blot: 0.
+Linieorienteret format STANDAT-filer er linieorienterede, hvilket vil sige, at en  
+
+ enkelt oplysning står på en enkelt linie for sig.
+Dvs. en  
+
+ oplysning kan ikke sprede sig over flere linier, og to (eller flere)  
+
+ oplysninger kan ikke angives på en og samme linie.
+I de følgende  
+
+ syntaksdiagrammer er linieskift vist ved brug af symbolet (¿  
+
+ ).
+Bemærk at det varierer, hvordan linieslut angives  
+
+ på forskellige datamaskiner.
+For nogle datamaskiner (f.eks. pc'ere og  
+
+ Unix®-maskiner) er det et bestemt tegn, mens det for andre  
+
+ (f.eks.
+VAX/VMS ®-maskiner) kan være angivet på  
+
+ anden måde.
+Filafslutning Ved linien med "END DATA" skal STANDAT-filen være slut, dvs. der må ikke  
+
+ følge tekst efter denne linie.
+Bemærk at det varierer hvordan filafslutning angives  
+
+ på forskellige datamaskiner.
+På pc'ere er det f.eks.  
+
+ sædvanligt at afslutte tekst-filer med tegnet Ctrl/Z, mens andre  
+
+ datamaskiner kan angive filafslutningen på anden vis.
+Blanktegn På linierne i DEFINITIONs-delen med angivelsen af  
+
+  GROUP <emnenummer> <omfang>  og med angivelsen af   FIELD  
+
+ <typenummer> , og i DATA-delen ved angivelsen af  GROUP  
+
+ <emnenummer>   benyttes blanktegn til at skille de enkelte elementer  
+
+ på linien.
+I alle disse tilfælde skal der være  
+
+ præcist et blanktegn.
+Linierne i HEADER'en kan indeholde blanktegn i starten og  
+
+ slutningen af linien.
+Det er derfor tilladt at angive versions-nummeret  
+
+ som:
+3
+£
+£  
+
+ V1.1£
+£
+¿ (hvor  4  
+
+   angiver starten af linien,  £  
+
+   et blanktegn, og  ¿  
+
+   liniens slutning), men det er ikke tilladt med ekstra blanktegn i  
+
+ oplysningens tekst (på nær for modtager- og afsender-navn,  
+
+ henholdsvis modtager- og afsenderbehandler). Dvs. følgende er  
+
+ikke en tilladt angivelse af tegnsæt:
+|  
+
+ CODE£
+£  
+
+ PAGE£  
+
+ 850 Blanklinier Der kan ikke angives blanke linier i STANDAT-filen, på nær i HEADER-delens  
+
+ beskrivelses-linier, og i DATA-delen's datalinier.
+F.eks. er en blank linie  
+
+ mellem  END HEADER  og  DEFINITION  ikke gyldig.
+Store og små bogstaver De reserverede ord skal angives med store  
+
+ bogstaver, hvorimod oplysninger som  REF ,  DAT ,  V1.1 ,  CODE PAGE 850  
+
+  osv. anbefales angivet med store bogstaver, men kan angives med små  
+
+ bogstaver.
+Med hensyn til brugen af store og små bogstaver i  
+
+ data-linierne, er der ingen restriktioner.
+Syntaksdiagrammer I det følgende vises de formelle syntaksdiagrammer.  
+
+ Tegnet GRAFIK benyttes til angivelse af liniernes slutning (dvs. af  
+
+ linieskift).
+ STANDAT-filens generelle struktur:
++++FIGUR+++ DEFINITIONs-delens struktur:
++++FIGUR+++ DATA-delens struktur:
++++FIGUR+++ HEADER-delens struktur:
++++FIGUR+++ Adresse- og telefonliste Miljøstyrelsen STANDAT-sekretariatet Strandgade 29 1401 København K.
+Tlf. 32 66 01 00 Kommunedata STANDAT-administrationen Projektgruppe Miljø Niels Bohrs Allé 185 Postboks 560 5220 Odense Ø Tlf. 66 15 63 68 ------------------------ FAGDATACENTRE:
+ Naturfredningsområdet:
+Skov- og Naturstyrelsen Haraldsgade 53 2100 København Ø Tlf. 39 47 20 00 Emittent- og recipientdata vedrørende  
+
+ kystvandene:
+Danmarks Miljøundersøgelser Havmiljø og Mikrobiologi Frederiksborgvej 399 Postbox 358 4000 Roskilde Tlf. 46 30 12 00 Ferskvandsdata:
+Danmarks Miljøundersøgelser Ferskvandsøkologi Vejlsøvej 25 8600 Silkeborg Tlf. 89 20 14 00 Jordvand, drænvand og jordbrugsstatistiske data:
+Danmarks miljøundersøgelser Terrestrisk økologi Vejlsøvej 25 8600 Silkeborg Tlf. 89 20 14 00 Hydrometeorologiske data:
+Meteorologisk Institut Lyngbyvej 100 2100 København Ø Tlf. 31 29 21 00 Hydrometriske data:
+Hedeselskabets Hydrometriske Undersøgelser Ringstedvej 20 4000 Roskilde Tlf. 46 30 03 10 Borings-, grundvands- og drikkevandsdata:
+Danmarks Geologiske Undersøgelse Thoravej 8 2400 København NV Tlf. 31 10 66 00 Jord- og skovressourcedata samt landbrugets- og havebrugets plantevækst, -produktion og -kvalitet:
+Landbrugsministeriets Arealdatakontor/ Statens Planteavlsforsøg Enghavevej 2 7100 Vejle Tlf. 75 83 23 44 BILAG A Dato format Datoer angives altid ifølge formatet, som  
+
+ specificeres i HEADER-delen.
+Hertil skal knyttes følgende regler for  
+
+ angivelse af datoer:
+YYYY 	Angiver fire cifre for et årstal efter  
+
+ år nul.
+Der skal altid angives fire cifre.
+YY	Angiver to cifre for årstallet i det 20.  
+
+ århundrede (fra 1900 til 1999). Der skal altid angives to cifre, dvs.  
+
+ år 1901 skal angives med:  01 (og ikke kun  1  eller   1 ).
+MM	Angiver månedsnummeret mellem  01  (for  
+
+ januar) og  12 (for december). Som for YY skal der altid angives to  
+
+ cifre, dvs.
+ januar måned kan ikke skrives som  1 .
+DD 	Angiver datoen i måneden (mellem  01  og op  
+
+ til  31 ). Som angivelsen af årstal og måned, skal der  
+
+ altid angives to cifre.
+Datoværdien skal ikke nødvendigvis starte i  
+
+ datafilens kolonne 1, men dette anbefales.
+Der må desuden ikke  
+
+ anvendes mellemrum imellem datoens dele.
+Datoværdier kan udelades fra  
+
+ datafilen (ved at der i stedet angives en tom eller blank linie) - dette  
+
+ betyder, at datoen er ukendt eller uoplyst.
+ Følgende datalinier er eksempler på angivelse  
+
+ af datoer med datoformat  YYYYMMDD  ( 1  angiver liniens start):
+ Gyldige værdier:
+x  
+
+         19920201 x  
+
+ 19920201 x Ugyldige værdier:
+x  
+
+ 1992 02 01 x  
+
+ 19920230 x  
+
+ 920201 Heltals format Heltal angives ved formater som f.eks.  N7.0 , hvor tallet  
+
+ efter punktummet er nul.
+Dette format angiver, at datalinien højst kan  
+
+ indeholde 7 cifre.
+Derudover kan angives et foranstillet minustegn.
+Tallet  
+
+ behøver ikke at starte i datafilens kolonne 1, men dette anbefales.  
+
+ Der må desuden ikke forekomme mellemrum mellem tallets cifre, eller  
+
+ mellem fortegn og cifre.
+Endelig kan tallet udelades fra datafilen (ved at  
+
+ der i stedet angives en tom eller blank linie) - dette betyder, at tallet er  
+
+ ukendt eller uoplyst.
+ Følgende datalinier er eksempler på angivelse  
+
+ af tal følgende format  N7.0  ( x  
+
+   angiver liniens start):
+ Gyldige værdier:
+x  
+
+            0000001 x  
+
+ 1 x  
+
+                      -1 x  
+
+ -01 x Ugyldige værdier:
+x  
+
+ 0000001 x  
+
+ +1 x  
+
+ 1.0 x  
+
+  1.
+Kommatals format Kommatal angives ved formater som f.eks.  N7.3 , hvor  
+
+ tallet efter punktummet ikke er nul.
+Dette format angiver, at  
+
+ datalinien højst kan indeholde 7 cifre foran et decimal-punktum, og  
+
+ højst kan indeholde 3 cifre efter decimal-punktummet.
+Derudover kan  
+
+ angives et foranstillet minustegn.
+Tallet behøver ikke at starte i  
+
+ datafilens kolonne 1, men dette anbefales.
+Der må desuden ikke  
+
+ forekomme mellemrum mellem tallets cifre, eller mellem fortegn og cifre.  
+
+ Endelig kan tallet udelades fra datafilen (ved at der i stedet angives en tom  
+
+ eller blank linie) - dette betyder, at tallet er ukendt eller uoplyst.
+ Følgende datalinier er eksempler på angivelse  
+
+ af tal følgende format  N7.3  ( 1  angiver liniens start):
+ Gyldige værdier:
+x  
+
+      0000001 x  
+
+          1 x  
+
+ 1.000 x  
+
+ .1 x  
+
+ 1.
+x  
+
+                  -1 x  
+
+ -01 Ugyldige værdier:
+x  
+
+ 00000001.000 x  
+
+ 1.000 x  
+
+ 1,000 x  
+
+ +1 x  
+
+ 1.0E+3 Tekststrengs format Tekster angives ved formater som f.eks.  S3 , som angiver,  
+
+ at teksten kan være mellem nul og tre tegn lang.
+Teksten regnes  
+
+ startende fra kolonne 1 i datafilen.
+I normale tilfælde kan en tekst  
+
+ikke udelades fra datafilen, selv om dens linie kan være blank -  
+
+ dette fortolkes blot som en blank tegnstreng.
+Kun hvis feltet er tilknyttet  
+
+ en værdikodeliste, vil en blank linie i datafilen for et tekstfelt  
+
+ blive fortolket som ukendt eller uoplyst tekst.
+ Følgende datalinier er eksempler på angivelse  
+
+ af tekster følgende format  S3  ( x  
+
+   angiver liniens start,  ¿  
+
+   angiver liniens slutning, og  £  
+
+   angiver et blanktegn):
+ Gyldige værdier:
+x  
+
+ a¿ x  
+
+ a£
+£
+¿ x
+£
+£  
+
+ a¿ x  
+
+ abc¿ x
+¿ Ugyldige værdier:
+x
+£
+£
+£  
+
+ a¿ x  
+
+ a£
+£
+£
+¿ x  
+
+ abcdefg¿ BILAG B Dette bilag indeholder en oversigt over de tegnsæt,  
+
+ der p.t. kan benyttes i forbindelse med STANDAT.
+DS/ISO  
+
+ 646 	- Bilag B1 CODE  
+
+ PAGE 850		- Bilag B2 CODE  
+
+ PAGE 865		- Bilag B3 ISO  
+
+ Latin 		- Bilag B4 DEC  
+
+ Multinational 	- Bilag B5 Disse navne på tegnsæt skal benyttes i  
+
+ HEADER-delen af STANDAT-filer.
+ I tegnsæt-skemaerne beskrives hvert tegn som i  
+
+ følgende eksempel:
+A 101 65 41 Tegnets udseende vises i den venstre del af kassen, og  
+
+ hvis tegnet ikke har en grafisk repræsentation angives i stedet tegnets  
+
+ navn.
+Den højre del af kassen indeholder nummeret på tegnet,  
+
+ angivet henholdsvis oktalt (her 101), decimalt (her 65) og hexadecimalt (her  
+
+ 41).
+Nogle tegn er vist uden grafisk repræsentation eller  
+
+ navn, og disse tegn er da udefinerede.
+Mellemrumstegnet er vist med navnet  
+
+sp (for   space ).
+Visse tegn er vist skraverede, hvilket betyder, at det  
+
+ pågældende tegn ikke findes i alle gyldige tegnsæt.  
+
+ Anvender man derfor et af de skraverede tegn, kan man ikke være sikker  
+
+ på, at enhver modtager af STANDAT-filen kan anvende indholdet.
+Denne  
+
+ sammenligning medtager dog ikke tegnsættet DS/ISO 646, som kun  
+
+ indeholder halvt så mange tegn som de øvrige tegnsæt.
+Endelig skal bemærkes at tegnsættet DS/ISO 646  
+
+ ikke indeholder de danske tegn æ, ø, å, Æ, Ø  
+
+ og Å.
+En normal tilpasning heraf til danske forhold er, at man i stedet  
+
+ anvender tegnene {,x  
+
+ , }, [, \ og ].
+Denne anvendelse af de seks tegn er dog ikke  
+
+ accepteret i STANDAT.
+DS/ISO 646    - Bilag B1 ASCII Tegnsæt 7-bit del NUL 0 0 0 DLE 20 16 10 SP 40 32 20 0 60 48 30 @ 100 64 40 P 120 80 50 ΄ 140 96 60 p 160 112 70 SOH 1 1 1 DC1 21 17 11 ! 41 33 21 1 61 49 21 A 101 65 41 Q 121 81 51 a 141 97 61 q 161 113 71 STX 2 2 2 DC2 22 18 12 " 42 34 22 2 62 50 32 B 102 66 42 R 122 82 52 b 142 98 62 r 162 114 72 STX 3 3 3 DC3 23 19 13 # 43 35 23 3 63 51 33 C 103 67 43 S 123 83 53 c 143 99 63 s 163 115 73 EOT 4 4 4 DC4 24 20 14 $ 44 36 24 4 64 52 34 D 104 68 44 T 124 84 54 d 144 100 64 t 164 116 74 ENQ 5 5 5 NAK 25 21 15 % 45 37 25 5 65 53 35 E 105 69 45 U 125 85 55 e 145 101 65 u 165 117 75 ACK 6 6 6 SYN 26 22 16 & 46 38 26 6 66 54 36 F 106 70 46 V 126 86 56 f 146 102 66 v 166 118 76 BEL 7 7 7 ETB 27 23 17 ΄ 47 39 27 7 67 55 37 G 107 71 47 W 127 87 57 g 147 103 67 w 167 119 77 BS 10 8 8 CAN 30 24 18 ( 50 40 28 8 70 56 38 H 110 72 48 X 130 88 58 h 150 104 68 x 170 120 78 HT 11 9 9 EM 31 25 19 ) 51 41 29 9 71 57 39 I 111 73 49 Y 131 89 59 i 151 105 69 y 171 121 79 LF 12 10 A SUB 32 26 1A * 52 42 2A :
+72 58 3A J 112 74 4A Z 132 90 5A j 152 106 6A z 172 122 7A VT 13 11 B ESC 33 27 1B + 53 43 2B ; 73 59 3B K 113 75 4B [ 133 91 5B k 153 107 6B { 173 123 7B FF 14 12 C FS 34 28 1C , 54 44 2C < 74 60 3C L 114 76 4C \ 134 92 5D l 154 108 6C x 174 124 7C CR 15 13 D GS 35 29 1D - 55 45 2D = 75 61 3D M 115 77 4D ] 135 93 5D m 155 109 6D } 175 125 7D SO 16 14 E RS 36 30 1E .
+56 46 2E > 76 62 3E N 116 77 4D ^ 136 94 5E n 156 110 6E i 176 126 7E SI 17 15 F US 37 31 1F / 57 47 2F ? 77 63 3F O 117 79 4F _ 137 95 5F o 157 111 6F 177 127 7F CODE PAGE 850    - Bilag B2 Code Page 850 Tegnsæt 7-bit del 0 0 0 4 20 16 10 SP 40 32 20 0 60 48 30 @ 100 64 40 P 120 80 50 ΄ 140 96 60 p 160 112 70 ? 1 1 1 3 21 17 11 ! 41 33 21 1 61 49 21 A 101 65 41 Q 121 81 51 a 141 97 61 q 161 113 71 ? 2 2 2 ? 22 18 12 " 42 34 22 2 62 50 32 B 102 66 42 R 122 82 52 b 142 98 62 r 162 114 72 ? 3 3 3 !! 23 19 13 # 43 35 23 3 63 51 33 C 103 67 43 S 123 83 53 c 143 99 63 s 163 115 73 ¨ 4 4 4 ¶ 24 20 14 $ 44 36 24 4 64 52 34 D 104 68 44 T 124 84 54 d 144 100 64 t 164 116 74 § 5 5 5 § 25 21 15 % 45 37 25 5 65 53 35 E 105 69 45 U 125 85 55 e 145 101 65 u 165 117 75 ª 6 6 6 _ 26 22 16 & 46 38 26 6 66 54 36 F 106 70 46 V 126 86 56 f 146 102 66 v 166 118 76 · 7 7 7 × 27 23 17 ΄ 47 39 27 7 67 55 37 G 107 71 47 W 127 87 57 g 147 103 67 w 167 119 77 3 10 8 8 ? 30 24 18 ( 50 40 28 8 70 56 38 H 110 72 48 X 130 88 58 h 150 104 68 x 170 120 78 ¢ 11 9 9 ? 31 25 19 ) 51 41 29 9 71 57 39 I 111 73 49 Y 131 89 59 i 151 105 69 y 171 121 79 Ò 12 10 A ? 32 26 1A * 52 42 2A :
+72 58 3A J 112 74 4A Z 132 90 5A j 152 106 6A z 172 122 7A ? 13 11 B ? 33 27 1B + 53 43 2B ; 73 59 3B K 113 75 4B [ 133 91 5B k 153 107 6B { 173 123 7B ? 14 12 C Ö 34 28 1C , 54 44 2C < 74 60 3C L 114 76 4C \ 134 92 5D l 154 108 6C x 174 124 7C * 15 13 D ? 35 29 1D - 55 45 2D = 75 61 3D M 115 77 4D ] 135 93 5D m 155 109 6D } 175 125 7D ? 16 14 E 5 36 30 1E .
+56 46 2E > 76 62 3E N 116 77 4D ^ 136 94 5E n 156 110 6E i 176 126 7E R 17 15 F 6 37 31 1F / 57 47 2F ? 77 63 3F O 117 79 4F _ 137 95 5F o 157 111 6F 177 127 7F CODE  PAGE  850 Tegnsæt 8-bit del G 200 128 80 I 220 144 90 á 240 160 A0 ¦ 260 176 B0 + 300 192 C0 [ 320 208 D0 Ó 340 224 E0 _ ü 201 129 81 æ 221 145 91 Í 241 161 A1 ¦ 261 177 B1 z 301 193 C1 w 321 209 D1 b 341 225 E1 ± 360 240 F0 é 202 130 82 Æ 222 146 92 ó 242 162 A2 ¦ 262 178 B2 S 302 194 C2 Ê 322 210 D2 Ô 342 226 E2 = 361 241 F2 Â 203 131 83 Ô 223 147 93 ú 243 163 A3 | 263 179 B3 d 303 195 C3 Ë 323 211 D3 Ò 343 227 E3 ¾ 363 243 F3 Ä 204 132 84 Ö 224 148 94 ñ 244 164 A4 ¦ 264 180 B4 - 304 196 C4 È 324 212 D4 Ö 344 228 E4 ¶ 364 244 F4 à 205 133 85 ò 225 149 95 Ñ 245 165 A5 Á 265 197 C5 3 305 197 C5 1 325 213 D5 Ö 345 229 E5 § 365 245 F5 å 206 134 86 û 226 150 96 a 246 166 A6 Â 266 198 C6 n 306 198 C6 Í 326 214 D6 m 346 230 E6 ÷ 366 246 F6 H 207 135 87 Ù 227 151 97 o 247 167 A7 À 267 167 B7 } 307 199 C7 Î 327 215 D7 z 347 231 E7 , 367 247 F7 L 210 136 88 ÿ 230 152 98 ¿ 250 168 A8 © 270 184 B8 + 310 200 C8 Ï 330 216 D8 y 350 232 E8  370 248 F8 N 211 137 89 Ö 231 153 99 ® 251 169 A9 ¦ 271 185 B9 + 311 201 C9 Ø 331 217 D9 Ú 351 233 E9 ¨ 371 249 F9 P 212 138 8A Ü 232 154 9A × 252 170 AA ¦ 272 186 BA - 312 202 CA Õ 332 218 DA Û 352 234 EA .
+372 250 FA U 213 139 8B Ø 233 155 9B ½ 253 171 AB + 273 187 BB - 313 203 CB ¦ 333 219 DB Ù 353 235 EB ¹ 373 251 FB T 214 140 8C £ 234 156 9C ¼ 254 172 AC + 274 188 BC ¦ 314 204 CC _ 334 220 DC ý 354 236 EC ³ 374 252 FC W 215 141 8D Ø 235 157 9D ! 255 173 AD ¢ 275 189 BD - 315 205 CD ¦ 335 221 DD Ý 355 237 ED ² 375 253 FD ? 216 142 8F X 236 158 9E « 256 174 AE ¥ 276 190 BE + 316 206 CE Ì 336 222 DE _ 356 238 EE _ 376 254 FE Å 217 143 8F f 237 159 9F » 257 175 AF + 277 191 BF ¤ 317 207 CF _ 337 223 DF 5 357 239 EF 377 255 FF CODE PAGE 865   Bilag B3 Code Page 865 Tegnsæt 7-bit del 0 0 0 4 20 16 10 SP 40 32 20 0 60 48 30 @ 100 64 40 P 120 80 50 ΄ 140 96 60 p 160 112 70 ? 1 1 1 3 21 17 11 ! 41 33 21 1 61 49 21 A 101 65 41 Q 121 81 51 a 141 97 61 q 161 113 71 ? 2 2 2 ? 22 18 12 " 42 34 22 2 62 50 32 B 102 66 42 R 122 82 52 b 142 98 62 r 162 114 72 ? 3 3 3 !! 23 19 13 # 43 35 23 3 63 51 33 C 103 67 43 S 123 83 53 c 143 99 63 s 163 115 73 ¨ 4 4 4 ¶ 24 20 14 $ 44 36 24 4 64 52 34 D 104 68 44 T 124 84 54 d 144 100 64 t 164 116 74 § 5 5 5 § 25 21 15 % 45 37 25 5 65 53 35 E 105 69 45 U 125 85 55 e 145 101 65 u 165 117 75 ª 6 6 6 _ 26 22 16 & 46 38 26 6 66 54 36 F 106 70 46 V 126 86 56 f 146 102 66 v 166 118 76 · 7 7 7 × 27 23 17 ΄ 47 39 27 7 67 55 37 G 107 71 47 W 127 87 57 g 147 103 67 w 167 119 77 3 10 8 8 ? 30 24 18 ( 50 40 28 8 70 56 38 H 110 72 48 X 130 88 58 h 150 104 68 x 170 120 78 ¢ 11 9 9 ? 31 25 19 ) 51 41 29 9 71 57 39 I 111 73 49 Y 131 89 59 i 151 105 69 y 171 121 79 Ò 12 10 A ? 32 26 1A * 52 42 2A :
+72 58 3A J 112 74 4A Z 132 90 5A j 152 106 6A z 172 122 7A ? 13 11 B ? 33 27 1B + 53 43 2B ; 73 59 3B K 113 75 4B [ 133 91 5B k 153 107 6B { 173 123 7B ? 14 12 C Ö 34 28 1C , 54 44 2C < 74 60 3C L 114 76 4C \ 134 92 5D l 154 108 6C x 174 124 7C * 15 13 D ? 35 29 1D - 55 45 2D = 75 61 3D M 115 77 4D ] 135 93 5D m 155 109 6D } 175 125 7D ? 16 14 E 5 36 30 1E .
+56 46 2E > 76 62 3E N 116 77 4D ^ 136 94 5E n 156 110 6E i 176 126 7E R 17 15 F 6 37 31 1F / 57 47 2F ? 77 63 3F O 117 79 4F _ 137 95 5F o 157 111 6F 177 127 7F Code Page 865 Tegnsæt 8-bit del G 200 128 80 I 220 144 90 á 240 160 A0 ¦ 260 176 B0 + 300 192 C0 - 320 208 D0 " 340 224 E0 - 360 240 F0 ü 201 129 81 æ 221 145 91 Í 241 161 A1 ¦ 261 177 B1 z 301 193 C1 - 321 209 D1 b 341 225 E1 ± 361 241 F1 é 202 130 82 Æ 222 146 92 ó 242 162 A2 ¦ 262 178 B2 S 302 194 C2 - 322 210 D2 ' 342 226 E2 = 362 242 F2 â 203 131 83 ô 223 147 93 ú 243 163 A3 | 263 179 B3 d 303 195 C3 + 323 211 D3 ( 343 227 E3 = 363 243 F3 ä 204 132 84 ö 224 148 94 ñ 244 164 A4 ¦ 264 180 B4 - 304 196 C4 + 324 212 D4 Σ 344 228 E4 ? 364 244 F4 à 205 133 85 ò 225 149 95 Ñ 245 165 A5 ¦ 265 197 C5 3 305 197 C5 + 325 213 D5 Σ 345 229 E5 ) 365 245 F5 å 206 134 86 û 226 150 96 a 246 166 A6 ¦ 266 198 C6 ¦ 306 198 C6 + 326 214 D6 m 346 230 E6 ÷ 366 246 F6 H 207 135 87 ù 227 151 97 o 247 167 A7 + 267 167 B7 ¦ 307 199 C7 + 327 215 D7 Τ 347 231 E7 Ë 367 247 F7 L 210 136 88 ÿ 230 152 98 ¿ 250 168 A8 + 270 184 B8 + 310 200 C8 + 330 216 D8 Ф 350 232 E8  370 248 F8 N 211 137 89 Ö 231 153 99 + 251 169 A9 ¦ 271 185 B9 + 311 201 C9 Ø 331 217 D9 Θ 351 233 E9 371 249 F9 P 212 138 8A Ü 232 154 9A + 252 170 AA ¦ 272 186 BA - 312 202 CA Õ 332 218 DA ? 352 234 EA .
+372 250 FA U 213 139 8B ø 233 155 9B ½ 253 171 AB + 273 187 BB - 313 203 CB ¦ 333 219 DB Δ 353 235 EB Ö 373 251 FB T 214 140 8C £ 234 156 9C ¼ 254 172 AC + 274 188 BC ¦ 314 204 CC _ 334 220 DC ¥ 354 236 EC h 374 252 FC W 215 141 8D Ø 235 157 9D ! 255 173 AD + 275 189 BD - 315 205 CD z 335 221 DD Φ 355 237 ED ² 375 253 FD ? 216 142 8F Pt 236 158 9E « 256 174 AE + 276 190 BE + 316 206 CE y 336 222 DE Ε 356 238 EE ¯ 376 254 FE Å 217 143 8F f 237 159 9F ¤ 257 175 AF + 277 191 BF - 317 207 CF ¯ 337 223 DF n 357 239 EF 377 255 FF ISO Latin     -   Bilag      B4 ISO Lation Alphabet Nr 1 Tegnsæt 7-bit del NUL 0 0 0 DLE 20 16 10 SP 40 32 20 0 60 48 30 @ 100 64 40 P 120 80 50 ` 140 96 60 p 160 12 70 SOH 1 1 1 DC1 21 17 11 ! 41 33 21 1 61 49 31 A 101 65 41 Q 121 81 51 a 141 97 61 q 161 113 71 STX 2 2 2 DC2 22 18 12 " 42 34 22 2 62 50 22 B 102 66 42 R 122 82 52 b 142 98 62 r 162 114 72 STX 3 3 3 DC3 23 19 13 # 43 35 23 3 43 35 33 C 103 67 43 S 123 83 53 c 143 99 63 s 163 115 73 EOT 4 4 4 DC4 24 20 14 $ 44 36 24 4 64 52 34 D 104 68 44 T 124 84 54 d 144 100 64 t 164 116 74 ENQ 5 5 5 NAK 25 21 15 % 45 37 25 5 65 53 35 E 105 69 45 U 125 85 55 e 145 101 65 u 165 117 75 ACK 6 6 6 SYN 26 22 16 & 46 38 26 6 66 54 36 F 106 70 46 V 126 86 56 f 146 102 66 v 166 118 76 BEL 7 7 7 ETB 27 23 17 ' 47 39 27 7 67 55 37 G 107 71 47 W 127 87 57 g 147 103 67 w 167 119 77 BS 10 8 8 CAN 30 24 18 ( 50 40 28 8 70 56 38 H 110 72 48 X 130 88 58 h 150 104 68 x 170 120 78 HT 11 9 9 EM 31 25 19 ) 51 41 29 9 71 57 39 I 111 73 49 Y 131 89 59 i 151 105 69 y 171 121 79 LF 12 10 A SUB 32 26 1A * 52 42 2A :
+72 58 3A J 112 74 4A Z 132 90 5A j 152 106 6A z 172 122 7A VT 13 11 B ESC 33 27 1B + 53 43 2B ; 73 59 3B K 113 75 4B [ 133 91 5B k 153 107 6B { 173 123 7B FF 14 12 C FS 34 28 1C , 54 44 2C < 74 60 3C L 114 76 4C \ 134 92 5C l 154 108 6C | 174 124 7C CR 15 13 D GS 35 29 1D - 55 45 2D = 75 61 3D M 115 77 4D ] 135 93 5D m 155 109 6D } 175 125 7D SO 16 14 E RS 36 30 1E .
+56 46 2E > 76 62 3E N 116 78 4E ^ 136 94 5E n 156 110 6E ~ 176 126 7E SI 17 15 F US 37 31 1F / 57 47 2F ? 77 63 3F O 117 79 4F _ 137 95 5F o 157 111 6F DEL 177 127 7F ISO Latin Alphabet Nr 1 Tegnsæt 8-bit del 200 128 80 DCS 220 144 90 NBSP 240 160 A0 ° 260 176 B0 À 300 192 C0 Đ 320 208 D0 à 340 224 E0 õ 360 240 F0 201 129 81 PU1 221 145 91 ! 241 161 A1 ± 261 177 B1 Á 301 193 C1 Ñ 321 209 D1 á 341 225 E1 ñ 361 241 F1 202 130 82 PU2 222 146 92 ¢ 242 162 A2 2 262 178 B2 Â 302 194 C2 Ò 322 210 D2 â 342 226 E2 ò 362 242 F2 203 131 83 STS 223 147 93 £ 243 163 A3 3 263 179 B3 Ā 303 195 C3 Ó 323 211 D3 ã 343 227 E3 ó 363 243 F3 IND 204 132 84 CCH 224 148 94 ¤ 244 164 A4 ` 264 180 B4 Ä 304 196 C4 Ô 324 212 D4 ä 344 228 E4 ô 364 244 F4 NEL 205 133 85 MW 225 149 95  245 165 A5 µ 265 181 B5 Å 305 197 C5 Õ 325 213 D5 å 345 229 E5 õ 365 245 F5 SSA 206 134 86 SPA 226 150 96 | 246 166 A6 ¶ 266 182 B6 Æ 306 198 C6 Ö 326 214 D6 æ 346 230 E6 ö 366 246 F6 ESA 207 135 87 EPA 227 151 97 § 247 167 A7 · 267 183 B7 Ç 307 199 C7 ´ 327 215 D7 ç 347 231 E7 ÷ 367 247 F7 HTS 210 136 88 230 152 98 " 250 168 A8 270 184 B8 È 310 200 C8 Ø 330 216 D8 è 350 232 E8 ø 370 248 F8 HTJ 211 137 89 231 153 99 © 251 169 A9 1 271 185 B9 É 311 201 C9 Ù 331 217 D9 é 351 233 E9 ù VTS 212 138 8A 232 154 9A a 252 170 AA O 272 186 BA Ê 312 202 CA Ú 332 218 DA ê 352 234 EA ú PLD 213 139 8B CSI 233 155 9B « 253 171 AB » 273 187 BB Ë 313 203 CB Û 333 219 DB ë 353 235 EB û PLU 214 140 8C ST 234 156 9C ¬ 254 172 AC ¼ 274 188 BC Ì 314 204 CC Ü 334 220 DC ì 354 236 EC ü RI 215 141 8D OSC 235 157 9D _ 255 173 AD ½ 275 189 BD Í 315 205 CD Ý 335 221 DD í 355 237 ED ý SS2 216 142 8E PM 236 158 9E ® 256 174 AE ¾ 276 190 BE Î 316 206 CE Þ 336 222 DE î 356 238 EE þ SS3 217 143 8F APC 237 159 9F _ 257 175 AF ¿ 277 191 BF Ï 317 207 CF ß 337 223 DF ï 357 239 EF ÿ DEC Multinational    -Bilag  B5 DEC Multinational Tegnsæt 7-bit del NUL 0 0 0 DLE 20 16 10 SP 40 32 20 0 60 48 30 @ 100 64 40 P 120 80 50 ` 140 96 60 p 160 112 70 SOH 1 1 1 DC1 21 17 11 ! 41 33 21 1 61 49 31 A 101 65 41 Q 121 81 51 a 141 97 61 q 161 113 71 STX 2 2 2 DC2 22 18 12 " 42 34 22 2 62 50 32 B 102 66 42 R 122 82 52 b 142 98 62 r 162 114 72 STX 3 3 3 DC3 23 19 13 # 43 35 23 3 63 51 33 C 103 67 43 S 123 83 53 c 143 99 63 s 163 115 73 EOT 4 4 4 DC4 24 20 14 $ 44 36 24 4 64 52 34 D 104 68 44 T 124 84 54 d 144 100 64 t 164 116 74 ENQ 5 5 5 NAK 25 21 15 % 45 37 25 5 65 53 35 E 105 69 45 U 125 85 55 e 145 101 65 u 165 117 75 ACK 6 6 6 SYN 26 22 16 & 46 38 26 6 66 54 36 F 106 70 46 V 126 86 56 f 146 102 66 v 166 118 76 BEL 7 7 7 ETB 27 23 17 ` 47 39 27 7 67 55 37 G 107 71 47 W 127 87 57 g 147 103 67 w 167 119 77 BS 10 8 8 CAN 30 24 18 ( 50 40 28 8 70 56 38 H 110 72 48 X 130 88 58 h 150 104 68 x 170 120 78 HT 11 9 9 EM 31 25 19 ) 51 41 29 9 71 57 39 I 111 73 49 Y 131 89 59 i 151 105 69 y 171 121 79 LF 12 10 A SUB 32 26 1A * 52 42 2A :
+72 58 3A J 112 74 4A Z 132 90 5A j 152 106 6A z 172 122 7A VT 13 11 B ESC 33 27 1B + 53 43 2B ; 73 59 3B K 113 75 4B [ 133 91 5B k 153 107 6B { 173 123 7B FF 14 12 C FS 34 28 1C , 54 44 2C < 74 60 3C L 114 76 4C \ 134 92 5C l 154 108 6C | 174 124 7C CR 15 13 D GS 35 29 1D - 55 45 2D = 75 61 3D M 115 77 4D ] 135 93 5D m 155 109 6D } 175 125 7D SO 16 14 E RS 36 30 1E .
+56 46 2E > 76 62 3E N 116 78 4E ^ 136 94 5E n 156 110 6E ~ 176 126 7E SI 17 15 F US 37 31 1F / 57 47 2F ? 77 63 3F O 117 79 4F _ 137 95 5F o 157 111 6F DEL 177 127 7F DEC Multinational Tegnsæt 8-bit del 200 128 80 DCS 220 144 90 240 160 A0 ° 260 176 B0 À 300 192 C0 320 208 D0 à 340 224 E0 360 240 F0 201 129 81 PU1 221 145 91 ¡ 241 161 A1 ± 261 177 B1 Á 301 193 C1 Ñ 321 209 D1 á 341 225 E1 ñ 361 241 F1 202 130 82 PU2 222 146 92 ¢ 242 162 A2 2 262 178 B2 Â 302 194 C2 Ò 322 210 D2 â 342 226 E2 ò 362 242 F2 203 131 83 STS 223 147 93 £ 243 163 A3 3 263 179 B3 Ā 303 195 C3 Ó 323 211 D3 ã 343 227 E3 ó 363 243 F3 IND 204 132 84 CCH 224 148 94 244 164 A4 264 180 B4 Ä 304 196 C4 Ô 324 212 D4 ä 344 228 E4 ô 364 244 F4 NEL 205 133 85 MW 225 149 95 ¥ 245 165 A5 µ 265 181 B5 Å 305 197 C5 Õ 325 213 D5 å 345 229 E5 õ 365 245 F5 SSA 206 134 86 SPA 226 150 96 246 166 A6 ¶ 266 182 B6 Æ 306 198 C6 Ö 326 214 D6 æ 346 230 E6 ö 366 246 F6 ESA 207 135 87 EPA 227 151 97 § 247 167 A7 · 267 183 B7 Ç 307 199 C7 327 215 D7 ç 347 231 E7 æ 367 247 F7 HTS 210 136 88 230 152 98 ¤ 250 168 A8 270 184 B8 È 310 200 C8 Ø 330 216 D8 è 350 232 E8 ø 370 248 F8 HTJ 211 137 89 231 153 99 © 251 169 A9 1 271 185 B9 É 311 201 C9 Ù 331 217 D9 é 351 233 E9 ù 371 249 F9 VTS 212 138 8A 232 154 9A a 252 170 AA o 272 186 BA Ê 312 202 CA Ú 332 218 DA ê 352 234 EA ú 372 250 FA PLD 213 139 8B CSI 233 155 9B « 253 171 AB » 273 187 BB Ë 313 203 CB Û 333 219 DB ë 353 235 EB û 373 251 FB PLU 214 140 8C ST 234 156 9C 254 172 AC ¼ 274 188 BC Ì 314 204 CC Ü 334 220 DC ì 354 236 EC ü 374 252 FC RI 215 141 8D OSC 235 157 9D 255 173 AD ½ 275 189 BD Í 315 205 CD ¨Y 335 221 DD í 355 237 ED ÿ 375 253 ED SS2 216 142 8E PM 236 158 9E 256 174 AE 276 190 BE Î 316 206 CE 336 222 DE î 356 238 EE 376 254 FE SS3 217 143 8F APC 237 159 9F 257 175 AF ¿ 277 191 BF Ï 317 207 CF b 337 223 DF ï 357 239 EF 377 255 FF BILAG C På de følgende sider er gengivet de skemaer,  
+
+ der skal benyttes ved ansøgning om optagelse af nyt EMNE, ny  
+
+ OPLYSNINGSTYPE, og ny VÆRDIKODELISTE i STANDAT, samt om  
+
+ tilføjelse af en oplysningstype til et eksisterende emne.
+ Eksemplarer af ansøgningsskemaerne fås ved  
+
+ henvendelse til enten STANDAT-sekretariatet eller STANDAT-administrationen  
+
+ (se Adresse- og telefonlisten).

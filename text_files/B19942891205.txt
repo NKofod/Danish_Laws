@@ -1,0 +1,359 @@
+Gyldighedsområde Disse tekniske bestemmelser specificerer de tekniske krav og tilhørende  
+
+ prøvningsforskrifter som radioanlæg (sendere og modtagere) til personalarm  
+
+ skal overholde, for at kunne typegodkendes.
+ Bestemmelserne gælder for såvel anlæg med udvendig antennestik som for  
+
+ anlæg uden udvendigt antennestik (anlæg med integreret antenne). Sendeanlæg  
+
+ med integreret antenne skal af hensyn til prøvningen være forsynet med et,  
+
+ eventuelt midlertidigt monteret, 50 Omega antennestik.
+ Hjemmelsgrundlaget for disse tekniske bestemmelser fremgår af § 4 i  
+
+ Ministeriet for Kommunikation og Turismes bekendtgørelse nr. 126 af 18. marts  
+
+ 1993 om radioanlæg i forbindelse med landmobile og andre landbaserede  
+
+ radiotjenester.
+Ikrafttræden Disse tekniske bestemmelser træder i kraft 15. juni 1994 Typegodkendelse Fremgangsmåden for opnåelse af typegodkendelse fremgår af § 5 i  
+
+ Ministeriet for Kommunikation og Turismes bekendtgørelse nr. 126 af 18. marts  
+
+ 1993 om radioanlæg i forbindelse med landmobile og andre landbaserede  
+
+ radiotjenester.
+ Tekniske krav og prøvningsforskrifter.
+1. PRØVNINGSBETINGELSER 1.1 Normale og særlige prøvningsbetingelser Prøvningsmålingerne foretages under normale samt, hvor det er nævnt, under  
+
+ særlige prøvningsbetingelser (pkt. 1.3 til 1.5).
+1.2 Spændingsforsyning Under prøvningerne forsynes udstyret fra en udvendig spændingskilde, der  
+
+ kan levere forsyningsspændinger som beskrevet i pkt. 1.3.2 og 1.4.2.  
+
+ Spændingsforsyningens impedans skal være så lav, at dens indflydelse på  
+
+ måleresultaterne er uden betydning.
+ Forsyningsspændingen måles på udstyrets indgangsklemmer.
+ Hvis udstyret er monteret med fast forbundet fødekabel, måles  
+
+ forsyningsspændingen, hvor dette kabel er tilsluttet udstyret.
+ Ved udstyr for indbyggede batterier tilsluttes spændingskilden så tæt som  
+
+ muligt ved batteriklemmerne.
+ Under prøvningen holdes forsyningsspændingen inden for +/- 3% af den  
+
+ nominelle værdi.
+ Fabrikanten opgiver for hvilken eller hvilke nominelle  
+
+ forsyningsspændinger, udstyret er beregnet.
+1.3. Normale prøvningsbetingelser 1.3.1 Normal temperatur og fugtighed Prøvning under normale prøvningsbetingelser foretages i et almindeligt  
+
+ laboratorium uden særlig kontrol af temperatur og fugtighed, d.v.s. ved  
+
+ temperaturer mellem +15 grader C og +35 grader C og relative fugtigheder  
+
+ mellem 5% og 75%.
+1.3.2 Forsyningsspændinger ved prøvning under normale  
+
+ prøvningsbetingelser 1.3.2.1 Forsyning fra nettet Ved prøvning under normale prøvningsbetingelser tilføres udstyr beregnet  
+
+ for tilslutning til det almindelige forsyningsnet en forsyningsspænding lig  
+
+ forsyningsnettets nominelle spænding med frekvensen 50 +/-1 Hz.
+1.3.2.2 Andre forsyningsspændinger For udstyr, der benytter andre typer spændingsforsyninger end ovennævnte,  
+
+ f.eks. primærbatterier (ikke-genopladelige batterier), opgives  
+
+ prøvningsspændingen af fabrikanten.
+1.4 Særlige prøvningsbetingelser 1.4.1 Temperaturer ved prøvning under særlige betingelser Ved prøvning under særlige betingelser foretages målingerne i  
+
+ overensstemmelse med pkt. 1.5 ved temperaturerne -10 grader C og +55 grader  
+
+ C.
+1.4.2 Forsyningsspænding ved prøvning under særlige betingelser 1.4.2.1 Forsyning fra nettet For udstyr, der er beregnet for tilslutning til det normale forsyningsnet,  
+
+ vil prøvningsspændingerne under særlige betingelser være forsyningsnettets  
+
+ nominelle spænding +/-10% med frekvensen 50 +/-1 Hz.
+1.4.2.2 Andre forsyningssspændinger For udstyr, der benytter andre typer spændingsforsyninger end ovennævnte,  
+
+ f.eks. primærbatterier (ikke-genopladelige batterier), vil  
+
+ forsyningsspændingen ved prøvning under særlige prøvningsbetingelser være:
+ 1. For almindelige tør-batterier og lithium-batterier:  
+
+ 0,85 gange den nominelle batterispænding.
+ 2. For kviksølv-batterier: 0,9 gange den nominelle  
+
+ batterispænding.
+ 3. For andre typer batterier: Opgives  
+
+ minimumspændingen af fabrikanten.
+1.5 Temperaturprøver 1.5.1 Fremgangsmåde Før hver prøvning påbegyndes, sørges for, at udstyret er i termisk  
+
+ ligevægt ved den ønskede temperatur i klimakammeret, idet den termiske  
+
+ ligevægt sikres opnået enten gennem konstatering ved målinger eller ved, at  
+
+ der forløber mindst 1 time, før prøvningen indledes.
+Udstyret holdes afbrudt,  
+
+ indtil den termiske ligevægt er opnået.
+ Når prøvningen foretages ved høj temperatur, skal senderen være  
+
+ »tastet« i 1 minut, efterfulgt af 4 minutter i stilling  
+
+ »modtage«, hvorefter udstyret skal overholde de specificerede krav.
+ Under prøvning ved lav temperatur skal udstyret efter opnåelse af termisk  
+
+ ligevægt tændes i stilling »modtage« i 1 minut, hvorefter de  
+
+ specificerede krav til udstyret skal kunne overholdes.
+1.6 Kunstantenne Prøvningen af senderens frekvenstolerance og nabokanaleffekt foretages med  
+
+ en kunstantenne tilsluttet udstyrets antenneklemmer.
+Kunstantennen består af  
+
+ en afskærmet rent reel belastning på 50 Omega.
+1.7 Prøvesignal på senderens indgang Ved prøvninger hvor senderen skal moduleres tilføres denne et prøvesignal  
+
+ repræsentativt for den anvendte modulationsform.
+Prøvesignalets  
+
+ karakteristika opgives af fabrikanten.
+2. SENDER 2.1 Frekvenser Anlægget må alene være indrettet til at sende på en eller flere af  
+
+ følgende frekvenser:
+2.2 Frekvenstolerance 2.2.1 Definition Frekvenstolerancen er afvigelsen mellem den umodulerede senders  
+
+ bærebølgefrekvens og den nominelle bærebølgefrekvens.
+2.2.2 Målemetode Bærebølgefrekvensen måles med senderen umoduleret (hvis dette er muligt)  
+
+ og tilsluttet en kunstantenne (pkt. 1.6).
+ Målingerne foretages under normale samt under særlige prøvningsbetingelser  
+
+ (pkt. 1.3 og 1.4).
+2.2.3 Krav Frekvenstolerancen må ikke overskride:
+2.3 Modulation Alle modulationsarter er tilladt, når blot kravet om nabokanaleffekt, pkt.  
+
+ 2.5 er overholdt.
+2.4 Sendeeffekt 2.4.1 Definition Som mål for senderens bærebølgeeffekt anvendes her den effekt, som skal  
+
+ tilføres en halvbølgedipol for at få samme feltstyrke i den retning, hvor  
+
+ feltstyrken fra senderen er størst under nærmere specificerede  
+
+ målebetingelser.
+2.4.2 Målemetode Senderen forbindes til den tilhørende antenne og den effektivt udstrålede  
+
+ effekt måles efter metoden beskrevet i afsnit 4.
+2.4.3 Krav Den effektivt udstrålede effekt (ERP) må ikke overskride:
+100 mW for 32 MHz anlæg 10 mW for 146 MHz og 224 MHz anlæg 100 mW for 448 MHz anlæg 2.5 Nabokanaleffekt 2.5.1 Definition Nabokanaleffekten er den del af senderens totale udgangseffekt, der under  
+
+ nærmere definerede modulationsforhold falder i gennemgangsområdet for en  
+
+ modtager specificeret efter systemet og afstemt til en af nabokanalerne.  
+
+ Nabokanaleffekten er summen af middeleffekten frembragt af modulation og  
+
+ effektbidrag hidrørende fra brum og støj fra senderen.
+2.5.2 Målemetode Nabokanaleffekten måles med en effektmålemodtager, der opfylder  
+
+ betingelserne i afsnit 5. Senderudgangen forbindes til effektmålemodtagerens  
+
+ indgang via et dæmpningsled og evt. et impedanstilpasningsled således, at der  
+
+ er impedanstilpasning til senderudgangen og således, at indgangsniveauet på  
+
+ effektmålemodtageren er passende.
+Senderen moduleres med et prøvesignal jfr.  
+
+ pkt. 1.7.
+Effektmålemodtageren afstemmes til senderens nominelle frekvens og  
+
+ finjusteres til maksimum udslag på det tilsluttede voltmeter.
+Det variable dæmpningsled indstilles således, at man får en aflæsning på modtageren,  
+
+ der er ca. 5 dB over dens eget støjniveau.
+Indstillingen af det variable dæmpningsled noteres.
+Effektmålemodtageren skal nu justeres væk fra bærebølgefrekvensen således,  
+
+ at målemodtagerens 6 dB-punkt nærmest senderen (se fig.1 i afsnit 5),  
+
+ bliver lokaliseret 17 kHz fra senderens nominelle frekvens.
+Det variable  
+
+ dæmpningsled indstilles således, at samme modtagervisning som tidligere  
+
+ opnås.
+2.5.3 Krav Nabokanaleffekten må ikke overstige 200 nW.
+2.6 Uønsket udstråling 2.6.1 Definition Uønsket udstråling er udstråling på andre frekvenser end  
+
+ bærebølgefrekvensen og de sidebånd, der fremkommer ved normal modulation.
+2.6.2 Målemetode Senderens uønskede udstråling måles med den umodulerede sender forbundet  
+
+ til den tilhørende antenne efter metoden beskrevet i afsnit 4.
+ Målingerne gentages med senderen moduleret jfr. pkt. 1.7.
+2.6.3 Krav Effekten af de enkelte uønskede signaler må ikke på nogen frekvens  
+
+ overstige 250 nW på frekvenser under 1000 MHz når bortses fra et frekvensbånd  
+
+ på 50 kHz centeret omkring senderens bærebølgefrekvens.
+3. MODTAGER 3.1 Uønsket udstråling fra modtageren 3.1.1 Definition Al udstråling fra modtageren er, uanset frekvens, uønsket udstråling.
+3.1.2 Målemetode Modtageren forbindes til sin tilhørende antenne og den uønskede udstråling  
+
+ måles som anført i afsnit 4.
+3.1.3 Krav Effekten af den uønskede udstråling fra modtageren må ikke overstige 2 nW  
+
+ på frekvenser under 1000 MHz.
+4 MÅLEMETODE TIL MÅLING AF EFFEKTIVT UDSTRÅLET EFFEKT 4.1 Måleplads og måleopstilling Målepladsen skal være beliggende på et rimeligt plant areal.
+På  
+
+ målepladsen skal der findes et ledende jordnet med en diameter på mindst 5  
+
+ meter, i hvis midtpunkt der anbringes en understøtning, jfr. pkt. 4.1.1. og  
+
+ 4.1.2, hvorpå måleobjektet placeres.
+Målepladsen skal være så stor, at det er  
+
+ muligt at anbringe en måleantenne i en afstand på en halv bølgelængde eller 3  
+
+ meter, hvad der måtte være størst, fra centeret af jordnettet.
+Det skal  
+
+ sikres, at refleksioner fra uvedkommende genstande på målepladsen ikke  
+
+ generer målingerne.
+ 4.1.1 Understøtning for personbåret udstyr.
+For personbåret udstyr, d.v.s. udstyr der af fabrikanten angives at være  
+
+ beregnet til at blive båret på en person, skal understøtningen bestå af et  
+
+ plastrør fyldt med en saltvandsopløsning (9 g NaC1 pr. liter vand).  
+
+ Plastrøret skal have en højde på 1,5 meter, og den inderste diameter skal  
+
+ være 10 +/- 0,5 cm.
+Den øverste ende af røret skal lukkes med en metalplade  
+
+ på 15 cm. i diameter, og metalpladen skal være i kontakt med vandet.
+ 4.1.2 Understøtning for ikke-personbåret udstyr.
+ For udstyr, der af fabrikanten angives ikke at være beregnet til at blive  
+
+ båret på en person, består understøtningen af et ikke elektrisk ledende eller  
+
+ magnetisk afskærmende materiale (trækasse eller lignende) med en højde på  
+
+ minimum 60 cm. og maximum 1 meter, hvorpå måleobjektet placeres.
+4.1.3 Måleantenne og målemodtager Måleantennen benyttes til at måle udstråling fra såvel udstyret under  
+
+ måling som fra substitutionsantennen.
+ Måleantennen, der skal kunne orienteres såvel vandret som lodret,  
+
+ anbringes på en mast, hvor dens højde over jordplanet kan varieres mellem 1  
+
+ og 4 meter.
+ Målemodtageren behøver ikke at være absolut kalibreret, men skal være i  
+
+ stand til at måle relative signalniveauer.
+4.1.4 Substitutionsantennen Substitutionsantennen skal bestå af en halvbølgedipol afstemt til  
+
+ målefrekvensen.
+Dipolen placeres normalt således, at dens midtpunkt er  
+
+ sammenfaldende med det sted på måleobjektet, hvor antennen er forbundet til  
+
+ kabinettet.
+ Ved måling på så lave frekvenser, at en sådan placering ikke er mulig,  
+
+ eller hvor afstanden mellem substitutionsantennens ydre ende og jorden ville  
+
+ blive mindre end 30 cm ved lodret polarisation, hæves den lodret polariserede  
+
+ substitutionsantenne dog således, at en afstand på 30 cm opnås.
+ Substitutionsantennen forbindes til en målesender under anvendelse af  
+
+ egnede impedanstilpasnings- og balanceringsled.
+4.1.5 Målemetode Under måling skal måleobjektet placeres på understøtningen med antennen  
+
+ lodret opad.
+Senderen skal være umoduleret.
+Målemodtageren afstemmes til senderens  
+
+ frekvens, og måleantennen indstilles til vertikal polarisation.
+Ved variation  
+
+ af måleantennens højde mellem 1 og 4 meter opsøges den højde, hvor størst  
+
+ signal opnås.
+Understøtningen og udstyret, hvorpå der måles, erstattes med den under  
+
+ pkt. 4.1.4 omtalte substitutionsantenne, og højden af modtageantennen  
+
+ varieres for igen at sikre maksimalt signal.
+Signalniveauet på  
+
+ substitutionsantennens klemmer justeres, indtil samme udslag som tidligere,  
+
+ subsidiært et udslag, der står i et kendt forhold til dette opnås.
+ Den udstrålede effekt er da lig rådighedseffekten på  
+
+ substitutionsantennens klemmer og/eller rådighedseffekten korrigeret med  
+
+ ovennævnte kendte forhold.
+5 SPECIFIKATION FOR MÅLEMODTAGEREN Måling af nabokanaleffekten foretages med en effektmålemodtager, som  
+
+ opfylder følgende krav:
+Effektmålemodtageren skal bestå af en blander, et krystalfilter, et  
+
+ variabelt dæmpningsled, en forstærker og et effektivværdimålende voltmeter,  
+
+ alt forbundet i serie, samt lokaloscillator.
+Lokaloscillatoren kan evt. bestå  
+
+ af en signalgenerator.
+ Ud fra senderens nominelle frekvens, skal filterets båndbredde være  
+
+ følgende:
+Dæmpningsleddet skal have et variationsområde på mindst 80 dB i 1 dB  
+
+ spring.
+Fejlen på dæmpningsleddets kalibrering må ikke være større end +/-0,5  
+
+ dB.
+ Forstærkerens støjtal må ikke være større end 4 dB, og dens  
+
+ amplitudefrekvenskarakteristik må ikke variere mere end 1 dB inden for  
+
+ krystalfiltrets 6 dB båndbredde.
+ Krystalfiltrets dæmpning uden for den 90 dB båndbredde, der er foreskrevet  
+
+ i tabellen ovenfor, skal være større end eller lig med 90 dB.
+ Voltmetrets udslag skal være bestemt af effektivværdien af signaler med en  
+
+ topfaktor på op til 10. Det er ikke nødvendigt, at voltmetret er kalibreret.
+ Måleudstyret skal være således, at nøjagtigheden af effektmålingerne er  
+
+ bedre end 1,5 dB, selv om modtagerens indgangsniveau hæves til 100 dB over  
+
+ det mindst målelige signal.
+6 KRAV TIL MÅLEUDSTYRETS NØJAGTIGHED Tolerancer på måleudstyrets nøjagtighed er anført nedenfor:
+ Rekvirering af love, bekendtgørelser, standarder m.v.
+ Love, bekendtgørelser og tekniske bestemmelser kan fås ved henvendelse til  
+
+ Telestyrelsen.
+ETSI standarder og rapporter kan købes hos Telestyrelsen ITU rekommandationer kan købes direkte hos ITU, Place des Nations, CH-1211  
+
+ Geneve 20, tlf.: +41 22 730 51 11, fax: +41 22 730 51 94 eller +41 22 733 72  
+
+ 56 eller eventuelt gennem Telestyrelsen.
+ CEPT rekommandationer og NET standarder kan købes hos Office de Liaison  
+
+ CEPT, Case postale, CH-3001 Berne, Schweiz, tlf.: +41 31 338 15 01, fax: +41  
+
+ 31 338 2078 eller eventuelt gennem Telestyrelsen.
+ ISO/CEN/CENELEC/IEC/DS standarder kan købes hos Dansk Standard,  
+
+ Baunegaardsvej 73, 2900 Hellerup, tlf.: 39 77 01 01, fax: 39 77 02 02.

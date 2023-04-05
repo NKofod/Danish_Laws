@@ -1,0 +1,787 @@
+Bilag 1 Bilag 2 Bilag 3 Bilag 4 Vejledning om registrering og indberetning af data på beskæftigelsesområdet til det statistiske datavarehus og det fælles datagrundlag i Arbejdsmarkedsstyrelsen Indledning Beskæftigelsesministeriet har udstedt bekendtgørelse nr. 441 af 13. maj 2011 om registrering og indberetning af data på beskæftigelsesområdet til det statistiske datavarehus og det fælles datagrundlag i Arbejdsmarkedsstyrelsen.
+I den forbindelse er nærværende vejledning udarbejdet.
+Vejledningen præciserer hvilke data, der skal registreres og i hvilken form disse data skal indberettes.
+For ikrafttrædelsesbestemmelser henvises til kapitel 12 i bekendtgørelsen.
+ Nærværende vejledning erstatter Arbejdsmarkedsstyrelsens vejledning af 19. oktober 2006 til brug for indberetning af informationer om arbejdsmarkedspolitiske foranstaltninger (AMFORA), jf. lovbekendtgørelse nr. 741 af 29. juni 2006.
+ Kommunerne skal for de relevante kapitler indberette oplysninger vedr. personer som kommunen har handlepligt overfor, jf. § 9 i lov om retssikkerhed og administration på det kommunale område.
+Data skal indberettes via webservice eller FTP server.
+Indberetningsform og frekvens er beskrevet i de enkelte kapitler.
+Betydningen af korrekt registrering Hvis registrering ikke foretages korrekt eller ikke fortages betids kan dette give problemer for borgerne, for a-kasserne og andre aktører i beskæftigelsesindsatsen samt for jobcentrene/kommunen selv.
+Desuden vil det i mange tilfælde have betydning for beregning af rettidighed og falddatoer samt for refusion og beregning af den kommunale medfinansiering af arbejdsløshedsdagpenge.
+ Især i følgende situationer skaber det problemer, hvis registrering ikke foretages korrekt og betids:
+ 1) Jf. databekendtgørelsens bestemmelser om, at »data skal registreres på en sådan måde, at data kan overføres i elektronisk form «  se fx §§ 11, 18 & 24 m.fl.
+Dette gælder fx ved registrering af en sygemelding: Der er set eksempler på, at registreringsdatoen er angivet som første sygedag og den korrekte dato for første sygedag blot er anført i et tekstfelt ved siden af.
+Hvis ikke datoerne registreres i de korrekte felter, kan der ikke tages højde for sygeperioden i forbindelse med beregning af rettidighed og falddatoer.
+Hvis det drejer sig om en forsikret ledig, vil en forkert angivet dato gå videre til a-kassen, som dermed får ekstra administration.
+Hvis fejlen ikke opdages af a-kassen risikerer den ledige at få fejludbetalt ydelse og det vil endvidere betyde ekstra administration i det kommunale ydelsescenter.
+ 1) Se databekendtgørelsens kapitel 11.
+ Forkerte eller manglende registrering vil her have betydning for beregning af rettidighed og falddatoer samt for refusion og beregning af den kommunale medfinansiering af arbejdsløshedsdagpenge.
+Alle registreringer i forbindelse med aktiviteter for forsikrede ledige vedr. aktive tilbud efter lov om en aktiv beskæftigelsesindsats kap. 10 til 12 går digitalt videre til den pågældendes a-kasse.
+Oplysningerne anvendes bl.a. af a-kassen til beregning af dagpengeret og til sikring mod fejludbetalinger.
+Forskellige a-kasser har oplyst overfor Arbejdsmarkedsstyrelsen, at forkerte eller manglende registreringer i en række tilfælde har betydet at kassen måtte rejse tilbagebetalingskrav overfor borgere pga. forkert udbetalt ydelse.
+Fejludbetalinger, der kunne være undgået ved korrekt og betids registrering fra jobcenterets side1).
+1) Jf.
+Lov om en aktiv beskæftigelsesindsats § 27 og Bekendtgørelse om en aktiv beskæftigelsesindsats § 36, stk. 2 samt databekendtgørelsens §§ 46 & 57.
+Arbejdsmarkedsstyrelsen har fået henvendelser fra a-kasser med eksempler på Jobplaner flere af de nævnte oplysninger har manglet.
+Dette er uheldigt i forhold til borgerens motivation for deltagelse i tilbuddet.
+A-kasserne har desuden en vejledningsforpligtigelse overfor deres medlemmer i forbindelse med Jobplaner og deltagelse i tilbud.
+Hvis oplysningerne i Jobplanen er mangelfulde, har de ikke mulighed for at opfylde denne forpligtigelse.
+Som udgangspunkt regnes en arbejds- eller aktiveringsuge for at være 37 timer.
+Det betyder, at det samlede antal aktiveringstimer i ugen ikke bør være mere end 37 timer.
+Ved overlappende forløb er det derfor vigtigt at timerne registreres korrekt og at start- og slutdato er retvisende.
+Der er set eksempler på personer, der i perioder er registreret som værende i aktivering i lange over 37 timer om ugen.
+Da det ikke er realistisk at en person aktiveres meget mere end 37 timer, betyder det, at antal forløb overvurderes.
+I databehandlingen nedskrives den samlede aktivering til 37 timer forholdsmæssigt, og det risikeres herved at de enkelte aktiveringsforløb nedskrives til et forkert antal timer, eller at forløb nedskrives fordi andre overlappende forløb ikke er afsluttet korrekt.
+ For ændringer i antal timer eller start- og slutdatoen er det derfor vigtigt at disse ændringer også registreres i sagsbehandlingssystemerne, og at jobcentret forholder sig til det samlede antal aktiverings timer ved registrering af tilbud.
+I forbindelse med opfølgning overfor personer i tilbud, kan jobcentret have behov for at kunne udsøge enkelte personer.
+Det er vigtigt at aktiveringstilbud ikke benyttes til dette, med mindre der i sagsbehandlingssystemer er mulighed for at registrere tilbud, der ikke indsendes til Arbejdsmarkedsstyrelsen  dette skal være angivet specifikt.
+ Benyttes tilbud til en sådan markering, selv om det kun er en time om ugen, vil det indgå som en aktivitet i alle opgørelser.
+Kapitel 1 Webservicer 1.1. Webserviceaftaler Arbejdsmarkedsstyrelsen bruger (blandt andet) webservicer til at udveksle informationer mellem it-systemer.
+Webservicer bruges til at sende informationer mellem sagsbehandlingssystemerne, fx mellem Arbejdsmarkedsportalen, kommunale fagsystemer, Jobnet og det it-baserede fælles datagrundlag.
+For at få adgang til Arbejdsmarkedsstyrelsens webservicer, skal der indgås en tilslutningsaftale med Arbejdsmarkedsstyrelsen.
+Se nærmere på www.ams.dk under menupunktet IT og undermenuen Webservices.
+Direkte link: http://www.ams.dk/It/Webservicer/Arbejdsmarkedsportal-Webservicer-og-defi.aspx.
+ 2.1 og 3.1. Der er ikke yderligere vejledning til §§ 2 og 3.
+4.1. Ændringer eller udskiftninger af administrative systemer i kommunen Ændringer eller udskiftninger i it systemerne kan have stor betydning for datakvaliteten.
+Derfor skal Arbejdsmarkedsstyrelsen underrettes skriftligt senest 40 arbejdsdage forinden.
+Dette gælder fx, hvis kommunen skifter fra en it leverandørs system til en anden.
+Arbejdsmarkedsstyrelsen skal ligeledes informeres om hvordan data fra de forskellige it systemer skal behandles.
+Såfremt alle data konverteres til det nye system, skal dette ligeledes meddeles.
+ Det er kommunens ansvar at underretningen finder sted; men opgaven kan overlades til en leverandør efter aftale med kommunen.
+Hvis en ændring foretages på baggrund af en af Arbejdsmarkedsstyrelsen varslet ændring i en webservice, er det ikke nødvendigt at underrette om denne ændring.
+Hvis der i sammenhæng med en sådan ændring også introduceres andre ændringer i et givet it system, som kan have betydning for datakvaliteten, skal der dog ske underretning.
+Kapitel 2 Registrering og indberetning af målgrupper m.v. og ved til- og afmelding som arbejdssøgende 5.1. Kontaktgrupper Kontaktgrupper er en samle betegnelse for de grupperinger, som er omfattet af et kontaktforløb i jobcenteret.
+Det er dels målgrupper efter lov om en aktiv beskæftigelsesindsats samt andre grupperinger efter denne lov og dels grupperinger efter andre lovgivninger (integrationsloven). Se yderligere i vejledningens punkt 6.1.
+5.2. Til- og afmelding Dagpengemodtagere, ansøgere og modtagere af kontant- og starthjælp samt introduktionsydelse kan tilmelde sig på Jobnet; men kan også vælge at anmode jobcenteret om at foretage tilmeldingen.
+Ved tilmelding på Jobnet effektueres denne først når borgeren efterfølgende henvender sig på første åbningsdag efter tilmelding på Jobnet.
+For dagpengemodtagere effektueres tilmeldingen dog umiddelbart på Jobnet.
+Formålet med at ansøgere af kontant-, starthjælp og introduktionsydelse kan tilmelde sig på Jobnet er, at de dermed får mulighed for at udfærdige deres cv og gøre det tilgængeligt allerede inden fremmøde i jobcentret.
+Dagpengemodtagere kan endvidere anmode deres a-kasse om at foretage tilmeldingen.
+Hvis en borger henvender sig i jobcenteret med anmodning om at blive tilmeldt, skal jobcenteret være behjælpelig hermed.
+I første omgang med hjælp til, at borgeren selv foretager tilmeldingen på Jobnet, men hvis dette ikke kan lade sig gøre, skal jobcenteret tilmelde borgeren  dvs. registrere tilmeldingen i et it-system, som overfører oplysningerne til det fælles datagrundlag.
+Se endvidere bekendtgørelse om en aktiv beskæftigelsesindsats §§ 2, 5 og 9.
+6.1. Kontaktgrupper  definition og afgrænsning Formålet med kontaktgrupperegistreringen er på den ene side, at alle sagsbehandlere, der varetager beskæftigelsesindsatsen for en ledig, kan se hvilket kontaktforløb en person er omfattet af  hvad enten sagsbehandleren sidder i et jobcenter (også andre jobcentre end der, hvor den ledige »hører til«), hos en anden aktør eller i a-kassen.
+På den anden side er formålet, at it-systemerne kan beregne kontaktforløbet  mhp. indkaldelse til jobsamtale, rettidighedsopgørelse, opfølgning m.v., og således lette en del af sagsbehandlingen.
+ Kontaktgrupperne er defineret ud fra lovgivningen; men er opdelt således, at det er teknisk muligt at beregne kontaktforløb m.v. for de enkelte grupper.
+ Om de enkelte grupper:
+  Kontaktgruppe 1 svarer til lovens definition af målgruppe i § 2, nr. 1  dvs. dagpengemodtagere.
+ Kontaktgruppe 2  dvs. kontant- og starthjælpsmodtagere.
+NB: En person, der er visiteret til et fleksjob og som modtager kontanthjælp som eneste ydelse, er omfattet af lov om en aktiv beskæftigelsesindsats § 2, nr. 2 eller 3 og dermed af kontaktgruppe 2.
+  Kontaktgruppe 3 er ikke omfattet af lov om en aktiv beskæftigelsesindsats, men Integrationsloven  der er tale om personer omfattet af integrationsloven og som ansøger om eller modtager introduktionsydelse.
+ Kontaktgruppe 4 og 5 er en underopdeling af lovens målgruppe i § 2, nr. 4  dvs. hhv. revalidender og forrevalidender.
+Bemærk: En person, der deltager i et forrevalideringsforløb og som modtager kontanthjælp er omfattet af lovens målgruppe § 2, nr. 4 og er i kontaktgruppe 5.
+  Kontaktgruppe 6 svarer til lovens målgruppe i § 2, nr. 5  dvs. sygedagpengemodtagere.
+  Kontaktgruppe 7 svarer til lovens målgruppe i § 2 nr. 7  dvs. personer, der er visiteret til et fleksjob og som modtager ledighedsydelse eller særlig ydelse.
+ Kontaktgruppe 8 er borgere, der ønsker at stå tilmeldt jobcenteret uden at modtage offentlig ydelse.
+Denne gruppe indgår ikke i de grupper, som jobcentret skal følge op på med hensyn til kontaktforløb og aktivering.
+Særligt vedrørende personer ansat i seniorjob i kommunen, se afsnit 19.2.
+ Dimittender er ikke en kontaktgruppe; men vil stå tilmeldt med kontaktgruppen »uden ydelse« og med »dimittend« som tilmeldekategori.
+Dette betyder, at når der modtages digital besked fra a-kassen om, at personen har dagpengeret, skifter it-systemet automatisk personen til kontaktgruppen »dagpengemodtager« (NB: Dette sker dog ikke, hvis dimittenden er registreret med en anden kontaktgruppe, fx kontant- eller starthjælpsmodtager).
+Det bestemmende for hvilken kontaktgruppe en person er omfattet af, er hvorvidt jobcenteret varetager beskæftigelsesindsatsen for personen samt hvilken lovgivning, der regulerer personens kontaktforløb.
+Dette vil normalt være bestemt af, hvilken af lovgivningens målgrupper personen er omfattet af, hvilket igen normalt bestemmes af hovedydelsen.
+En person er kun omfattet af ét kontaktforløb, selvom der udbetales flere typer forsørgelsesydelser.
+ Heraf følger bl.a., at hvis en person modtager en ydelse; men dette ikke medfører, at jobcenteret varetager en aktiv beskæftigelsesindsats med et kontaktforløb på baggrund af den eller de love, der regulerer dette, skal der ikke indberettes en mål-/kontaktgruppe for vedkommende og dermed er personen fx heller ikke omfattet af matchmodellen.
+Hvis en person modtager mere end én form for ydelse eller på anden måde kan siges at være omfattet af mere end én målgruppe, vil personen kun være omfattet af den kontaktgruppe, som følger af reglerne for kontaktforløbet.
+I bilag 1 er angivet en række af disse situationer.
+Bilaget angiver, hvilken kontaktgruppe en person er omfattet af, hvis han modtager mere end én ydelse.
+7.1. Registrering og indberetning af en persons kontaktgruppe Så snart det kommer til kommunens kendskab, at en person er omfattet af en kontaktgruppe, skal dette registreres og indberettes.
+Der kan nævnes en række eksempler, som dog ikke er udtømmende:
+ at en borger første gang henvender sig med anmodning om hjælp,  at et medlem af en a-kasse melder sig ledig i jobcenteret,  at kommunen træffer en afgørelse om, at en person visiteres til et fleksjob eller et revalideringsforløb,  at en revalidend ikke længere kan følge jobplanen og derfor ikke længere kan modtage revalideringsydelse; men skal have kontanthjælp i stedet.
+Registreringen skal ske, når det kommer til kommunens kendskab, at en person nu er omfattet af en given kontaktgruppe.
+Kommunen skal i denne sammenhæng forstås således, at det er den forvaltning, der får kendskabet først, der har forpligtigelsen til at sikre registreringen  dvs. hvad enten det er jobcenteret, ydelsescenteret eller en tredje forvaltning.
+ Særligt vedrørende oprettelse af kontaktgruppe 6 (sygedagpengemodtager) gælder følgende: Kontaktgruppen oprettes når kommunen opretter en sygedagpengeopfølgningssag  dog senest ved første opfølgningssamtale.
+Teknisk kan registrering af en kontaktgruppe ikke ske bagud i tid.
+Hvis kommunen først får kendskab til, at en person skal omfattes en kontaktgruppe efter, at hændelsen er indtruffet, skal registreringen ske på den dato, hvor kommunen får dette kendskab.
+Kommunen må sikre, at en forvaltning, der har adgang til registrering og indberetning til det fælles datagrundlag, får oplysningen hurtigst muligt.
+7.2. Ophør af ydelse eller kontaktgruppe Ophør af kommunal ydelse til én personer medfører, at personen ikke længere er omfattet af den givne kontaktgruppe.
+Der kan også være andre hændelser, der medfører, at en person ikke længere er omfattet af en given kontaktgruppe  fx at en dagpengemodtager afmeldes uden at blive omfattet af en anden kontaktgruppe.
+De situationer, hvor en person ikke længere er omfattet af en given kontaktgruppe, skal så vidt muligt registreres og indberettes på hændelsesdatoen.
+Hvis det først kommer til kommunens kendskab efter hændelsesdatoen, skal registreringen ske på den dato, hvor kommunen (jf. pkt. 7.1) får dette kendskab.
+7.3. Første henvendelse med anmodning om hjælp Når en borger henvender sig i jobcenteret med anmodning om hjælp (i forbindelse med introduktionsydelse, kontant- og starthjælp), skal der registres en jobsamtale eller en samtale af typen »anden samtale«.
+Det er forskelligt alt efter hvilket it-system det enkelte jobcenter anvender, hvordan denne registrering foretages.
+Borgeren registreres i første omgang som ansøger af den pågældende ydelse.
+Uanset om ansøgeren tilmeldes eller ej, vil Ydelsescentret hermed elektronisk få besked om, at borgeren har henvendt sig og søgt om hjælp.
+Desuden underrettes Ydelsescentret om evt. tilmelding.
+Borgerne registreres som tilmeldte eller ikke tilmeldte ansøgere af den pågældende ydelse, og Ydelsescentret har herefter 15 arbejdsdage til at vurdere sagen og elektronisk melde tilbage, om hvorvidt, der kan gives ydelsesbevilling eller ej.
+De 15 arbejdsdages frist for Ydelsescentret starter ved registreringsdatoen af borgerens første henvendelse i jobcentret eller for skift af kontaktgruppe.
+Godkendes ansøgningen, sendes elektronisk besked til jobcenteret, og ydelses-/tilmeldekategorien ændres automatisk til tilmeldt eller ikke-tilmeldt ydelsesmodtager.
+Afslås ansøgningen eller modtager jobcenteret ikke besked fra Ydelsescentret inden for fristen, ændres kontaktgruppen automatisk til »Uden ydelse«, og der dannes et brev til tilmeldte ansøgere om, at der ikke foreligger en bevilling.
+Der gennemføres en automatisk afmelding 14 dage efter, med mindre borgeren kontakter/møder i jobcenteret og fortsat ønsker at være tilmeldt.
+7.4. Opholdskommune og bopælskommune Der er ikke yderligere vejledning til stk. 4.
+7.5.1. Informationer, der skal registreres og indberettes For personer anført i bekendtgørelsens § 6 skal der registreres og indberettes nedenstående oplysninger hver gang en person omfattes af en given kontaktgruppe.
+Dvs. når en person første gang omfattes af en kontaktgruppe, eller hvis en person skifter fra en kontaktgruppe til en anden.
+Det skal ligeledes registreres og indberettes, hvis en person ophører med at være omfattet af en kontaktgruppe, uden at der sker et skifte til en anden kontaktgruppe.
+ Indberetningen skal indeholde følgende informationer:
+1. Identifikationsoplysninger for personen Indberetningen skal indeholde CPR-nummer på personen.
+2. Dato for registrering Systemskabt dato for registreringen i kommunens it system.
+3. Kontaktgruppen Angiver den kontaktgruppe personen fremover omfattes af.
+Hvis der er tale om, at personen ikke længere skal være omfattet af en given gruppe og heller ikke skifter til en ny, er det den kontaktgruppe, personen har været i til registreringstidspunktet, der skal angives.
+4. Startdato for at personen er omfattet af kontaktgruppen Det er pt. ikke teknisk muligt at angive en dato her, der er forskellig fra registreringsdatoen.
+Det vil indtil videre derfor være den systemskabte dato for registreringen i kommunens it system.
+5. Slutdato, hvis en person ophører med at være omfattet af en kontaktgruppe Det er pt. ikke teknisk muligt at angive en dato her, der er forskellig fra registreringsdatoen.
+Det vil indtil videre derfor være den systemskabte dato for registreringen i kommunens it system.
+7.5.2. Formater For indberetning via webservice henvises til den til en hver tid gældende webservice specifikation.
+Webservice specifikationen findes på følgende link:
+http://www.ams.dk/It/Webservicer/Arbejdsmarkedsportal-Webservicer-og-defi.aspx 8.1. Tilmelding som dagpengemodtager Dagpengemodtagere har mulighed for selv at registrere tilmeldingen via Jobnet.
+En dagpengemodtager kan dog også anmode jobcenteret eller a-kassen om at fortage tilmeldingen.
+I sidstnævnte tilfælde, har jobcenteret eller a-kassen forpligtigelse til at vejlede dagpengemodtageren om rettigheder og pligter, der følger af tilmeldingen.
+8.2. Tilmelding som ansøger af kontanthjælp, starthjælp eller introduktionsydelse Personer, der ikke aktuelt modtager en af de nævnte ydelser, tilmeldes først som ansøger af ydelsen.
+Det er først, når kommunens ydelsescenter digitalt melder tilbage, at der er givet bevilling, at ydelses-/tilmeldekategorien automatisk skiftes til tilmeldt eller ikke-tilmeldt modtager af den pågældende ydelse.
+For nærmere beskrivelse heraf se afsnit 7.3.
+ Modtagere af kontanthjælp, starthjælp eller introduktionsydelse, der er blevet afmeldt pga. manglende bekræftelse af jobsøgning kan dog gentilmelde sig direkte som modtagere på Jobnet, hvis dette sker inden 7. dagen efter afmeldingen.
+8.3. Tilmelding som modtager af kontanthjælp, starthjælp eller introduktionsydelse Tilmeldingen som modtager af en af de nævnte ydelser foretages af jobcenteret eller ydelsescenteret og skal ske i flg. situationer:
+  Når kommunens ydelsescenter bevilger ydelsen til en person, der står som ansøger.
+  Når matchvurderingen for en modtager af en af de nævnte ydelser ændres fra match 2 eller 3 til match 1  se nærmere under pkt. 8.4.
+  Når en modtager af en af de nævnte ydelser er blevet afmeldt pga. manglende bekræftelse af jobsøgning og henvender sig med henblik på gentilmelding.
+8.4. Til- og afmelding i forbindelse med skift af matchvurdering Hvis en ansøger eller modtager af kontanthjælp, starthjælp eller introduktionsydelse matchvurderes til match 1, svarer dette til, at personen vurderes at ansøge om eller modtage hjælpen alene på grund af ledighed efter lov om en aktiv beskæftigelsesindsats § 2, nr. 2. Personen skal derfor tilmeldes i henhold til lov om en aktiv beskæftigelsesindsats § 11.
+ Hvis en ansøger eller modtager af kontanthjælp, starthjælp eller introduktionsydelse matchvurderes til match 2 eller 3, og personen står tilmeldt, skal personen afmeldes.
+ Spørgsmålet om matchvurdering af introduktionsydelsesmodtagere behandles nærmere under pkt. 13.2.
+8.5.1. Informationer, der skal registreres og indberettes For personer anført i bekendtgørelsens § 6 skal der registreres og indberettes nedenstående oplysninger i forbindelse med tilmeldingen.
+1. Identifikationsoplysninger for personen Indberetningen skal indeholde CPR-nummer på personen.
+2. Dato for registrering Systemskabt dato for registreringen i kommunens it system.
+3. Tilmeldekategorien Der findes pt. følgende tilmeldekategorier:
+1. Dagpengemodtager 2. Kontanthjælpsmodtager 3. Tilmeldt uden ydelse 4. Kontanthjælpsansøger 5. Dimittend 6. Introduktionsydelsesansøger 7. Introduktionsydelsesmodtager Tilmeldekategorien »dimittend« finder anvendelse, når en person er færdiguddannet med en uddannelse, der berettiger til optagelse i en a-kasse og endnu ikke er dagpengeberettiget.
+Personen er omfattet af kontaktgruppe 1, »dagpengemodtager« i karensperioden.
+Hvis personen imidlertid er omfattet af en af de øvrige kontaktgrupper  fx hvis personen modtager kontanthjælp i karensperioden  kan tilmeldekategorien »dimittend« ikke anvendes.
+Når en a-kasse har optaget en dimittend som medlem, og beregnet datoen for hvornår personen er dagpengeberettiget, sender a-kassen en digitale besked til jobcenteret  en såkaldt »MT« hændelse.
+Dette betyder, at personens tilmeldekategori automatisk skiftes til »dagpengemodtager« på datoen for opnåelsen af retten til dagpenge.
+NB: Hvis personen i karensperioden er omfattet af en af de øvrige kontaktgrupper, sker der ikke et automatisk skift.
+I den situation skal jobcenteret manuelt skifte tilmeldekategorien til »dagpengemodtager« på den angivne dato.
+ Anvendelsen af de øvrige tilmeldekategorier er behandlet i de foregående punkter.
+4. Startdato for tilmeldingen En tilmelding skal registreres på tilmeldedagen.
+Hvis en ledig henvender sig og kan dokumentere, at han har forsøgt at tilmelde sig; men at det ikke er lykkedes, skal tilmeldingen foretages på henvendelsestidspunktet, og der skal anføres en kommentar, der angiver den korrekte dato for tilmeldingsforsøget, samt at dette kan dokumenteres.
+5. Ledighedsgrad Det skal angives, hvorvidt personen er:
+ Fuldt ledig,  Delvis ledig,  Ikke ledig, eller  Under arbejdsfordeling 6. Stillingsbetegnelser på job som personen søger Der skal angives mindst én stillingsbetegnelse på job, som personen søger.
+8.5.2. Formater For indberetning via webservice og FTP server henvises til den til en hver tid gældende webservice specifikation.
+Webservice specifikationen findes på følgende link:
+http://www.ams.dk/It/Webservicer/Arbejdsmarkedsportal-Webservicer-og-defi.aspx Ved anvendelse af den browserbaserede registreringsløsning i Arbejdsmarkedsportalen, er indberetning af korrekte formater automatiseret.
+8.6.1. Informationer, der skal registreres og indberettes i forbindelse med afmelding For personer anført i bekendtgørelsens § 6 skal der registreres og indberettes nedenstående oplysninger i forbindelse med afmeldingen.
+1. Identifikationsoplysninger for personen Indberetningen skal indeholde CPR-nummer på personen.
+2. Dato for afmelding (afmeldedato) Afmelding kan finde sted på registreringsdatoen og op til 30 dage frem i tid.
+3. Afmeldeårsag Der findes pt. flg. afmeldeårsager:
+1. I arbejde 2. Sygdom 3. Manglende reaktion på ajourføringsbrev 4. Ordinær uddannelse 5. Uddannelse i udlandet 6. Aftjener værnepligt 7. Barsel 8. Børnepasningsorlov 9. Pension 10. Andet 11. Efterløn 15. E 303 (Jobsøgning i udlandet) 16. Fejltilmeldt 17. Manglende gyldig postadresse 18. Ændret CPR-status 19. Afmeldt - fritaget for tilmelding 20. Afmeldt grundet ikke jobklar 21. Ungeindsats 22. Ændret ydelseskategori 23. Afslag på bevilling 26. Manglende bekræftelse af jobsøgning (med nok påmindelser til en direkte afmelding) 27. Manglende reaktion på påmindelse 28. A-Kasse: Dagpengeophør 29. A-Kasse: Medlemsafgang 30. Sygdom i mindst 21 dage 31. Rotationsvikarer 32. Manglende henvendelse ved Jobnet tilmelding Det er ikke samtlige årsager, der kan vælges af brugeren i alle it systemer.
+Desuden påføres visse årsager automatisk af it systemet, når bestemte hændelser indtræffer.
+Fx anvendes »29. A-Kasse: Medlemsafgang«, hvis en a-kasse digitalt oplyser, at en person ikke længere er medlem af den pågældende a-kasse og ikke er overgået til en anden a-kasse.
+8.6.2. Formater Se pkt. 8.5.2.
+ 9.1. Der er ikke yderligere vejledning til § 9.
+ 10.1. Der er ikke yderligere vejledning til § 10.
+11.1. Indberetningsmetode Kommunen skal indberette data til Arbejdsmarkedsstyrelsen elektronisk i de formater, som er beskrevet i afsnit 8.5.2.
+11.2. Indberetningsløsninger Jobcentre, der er gået over til at anvende et kommunalt it system for forsikrede ledige, skal indberette oplysningerne for alle kontaktgrupper via den webservice, som stilles til rådighed af Arbejdsmarkedsstyrelsen.
+ Jobcentre, der anvender Arbejdsmarkedsportalen for forsikrede ledige, skal anvende den browserbaserede registreringsløsning i Arbejdsmarkedsportalen for kontaktgruppe 1 (dagpengemodtagere). For øvrige kontaktgrupper skal oplysningerne indberettes via ovennævnte webservice fra det kommunale it system.
+11.3. Indberetningsfrekvens Indberetning skal ske umiddelbart og automatisk, når en given hændelse registreres i sagsbehandlingssystemet.
+Særlige bestemmelser og forhold, vedrørende hvornår hændelser skal registreres, er angivet under de foregående punkter i forbindelse med de enkelte hændelser.
+Kapitel 3 Registrering og indberetning vedr. matchvurdering 12.1. Jobsamtaler og matchvurdering I henhold til bekendtgørelse om matchvurdering, skal der foretages matchvurdering:
+ ved første henvendelse med anmodning om hjælp,  ved alle jobsamtaler i kontaktforløbet, samt  hvis der på andre tidspunkter fremkommer oplysninger, der betyder, at matchvurderingen bør ændres.
+Der skal således ske registrering og indberetning af alle jobsamtaler og den ved samtalen foretagne matchvurdering.
+Der skal desuden ske registrering og indberetning af matchvurderinger fortaget på andre tidspunkter end ved en jobsamtale.
+13.1. Personkreds For definition af de enkelte kontaktgrupper  se pkt. 6.1.
+13.2. Forhold vedr. introduktionsydelsesmodtagere (kontaktgruppe 3) Det har været planen, at introduktionsydelsesmodtagere skulle omfattes af matchmodellen.
+Integrationsministeriet har imidlertid meddelt, at der ikke er udstedt en bekendtgørelse herom, da spørgsmålet om, hvorledes en matchmodel kan anvendes for introduktionsydelsesmodtagere er under drøftelse med KL.
+Det er derfor - på nuværende tidspunkt - ikke obligatorisk at matche introduktionsydelsesmodtagere.
+Bestemmelsen i databekendtgørelsens § 13, stk. 2 er derfor udformet således, at hvis jobcenteret foretager matchvurdering af en introduktionsydelsesmodtager, så skal denne registreres og indberettes2).
+ Registreringsmulighederne i forhold til introduktionsydelsesmodtagere fremgår af bilag 3.
+14.1.1 Informationer, der skal registreres og indberettes For personer anført i bekendtgørelsens § 13 skal der registreres og indberettes nedenstående oplysninger i forbindelse med matchvurdering.
+1. Identifikationsoplysninger for personen Indberetningen skal indeholde CPR-nummer på personen.
+2. Dato for samtalens afholdelse Datoen for den faktiske afholdelse af jobsamtalen.
+Se også pkt. 14.2.
+3. Samtaleformen I henhold til lov om en aktiv beskæftigelsesindsats skal jobsamtalen afholdes som en individuel samtale (dvs. med personligt fremmøde). Dog kan samtalen afholdes telefonisk, digitalt (fx via e-mail, Messenger ell. lign.) eller på anden måde, hvis personen deltager i et aktivt tilbud eller hvis det i øvrigt er hjemlet i lovgivningen.
+ Det er derfor muligt, at indberette jobsamtaler med følgende samtaleformer:
+ 1. Personligt fremmøde: Der er personlig kontakt med borgeren.
+ 2. Telefonisk: Borgeren eller ansvarlig sagsbehandler henvender sig telefonisk.
+ 3. Brev: Borgeren eller ansvarlig sagsbehandler henvender sig skriftligt.
+ 4. E-mail: Borgeren eller ansvarlig sagsbehandler henvender sig pr. e-mail eller andet digitalt kommunikationsmedie.
+ 5. Andet: Normalt informationer, der modtages fra 3. person  anvendes fx i situationer, hvor der er anden form for kontakt i henhold til lov om en aktiv beskæftigelsesindsats § 18, stk. 3.
+4. Aftalen mellem personen og jobcenteret om det fortsatte kontaktforløb I henhold til bekendtgørelse om en aktiv beskæftigelsesindsats skal der ved hver jobsamtale aftales det fortsatte kontaktforløb samt andre aktiviteter, som personen eller jobcenteret forventes at gennemføre inden næste jobsamtale.
+Formålet med indberetningen af aftalen er, at denne kan vises på »Min side« på Jobnet.
+Pt. kan aftalen kun vises for personer, der er tilmeldt.
+På sigt vil aftalen kunne vises for alle kontaktgrupper.
+5. Resultatet af matchvurderingen i form af matchgruppen Matchgruppen i henhold til bekendtgørelse om matchvurdering.
+14.1.2. Formater Se pkt. 8.5.2.
+14.2. Tilbagedatering af samtaletidspunkt Det er muligt at registrere en dato for jobsamtalens afholdelse, der ligger højest 7 dage forud for registreringsdatoen.
+Tilbagedateringsmuligheden er indført af hensyn til at lette jobcenterets administration.
+Af hensyn til at borgeren skal kunne se oplysningerne fra samtalen på »Min Side« er tilbagedateringsmuligheden begrænset til 7 dage.
+Af tekniske årsager er det ikke muligt at tilbagedatere matchgruppen.
+Dette skyldes, at en lang række registreringsmuligheder afhænger af en persons matchgruppe.
+15.1.1. Informationer, der skal registreres og indberettes Det er samme oplysninger som efter § 14  se pkt. 14.1.1. Forskellen er, at det ikke efter § 15 er obligatorisk at indberette en aftale, da denne ikke er obligatorisk ved andre samtaletyper end jobsamtaler.
+15.1.2. Formater Se pkt. 8.5.2.
+ 16.1. Der er ikke yderligere vejledning til § 16.
+ 17.1. Der er ikke yderligere vejledning til § 17.
+18.1. Indberetningsmetode Kommunen skal indberette data til Arbejdsmarkedsstyrelsen elektronisk i de formater, som er beskrevet i afsnit 8.5.2.
+18.2. Indberetningsløsninger Jobcentre, der er gået over til at anvende et kommunalt it system for forsikrede ledige, skal indberette oplysningerne for alle kontaktgrupper via den webservice, som stilles til rådighed af Arbejdsmarkedsstyrelsen.
+ Jobcentre, der anvender Arbejdsmarkedsportalen for forsikrede ledige, skal anvende den browserbaserede registreringsløsning i Arbejdsmarkedsportalen for kontaktgruppe 1 (dagpengemodtagere). For øvrige kontaktgrupper skal oplysningerne indberettes via ovennævnte webservice fra det kommunale it system.
+18.3. Indberetningsfrekvens Indberetning skal ske umiddelbart og automatisk, når en given hændelse registreres i sagsbehandlingssystemet.
+Særlige bestemmelser og forhold, vedrørende hvornår hændelser skal registreres, er angivet under de foregående punkter i forbindelse med de enkelte hændelser.
+Kapitel 4 Registrering og indberetning af fravær og fritagelser m.v.
+19.1. Fravær og fritagelser Borgere kan have forskellige grunde til i perioder at være undtaget fra rådighed, aktivering og/eller kontaktforløb.
+Det kan skyldes udefra kommende forhold, fx sygdom, eller at en sagsbehandler bevilger en fritagelse i henhold til regler eller rettigheder.
+Fravær og fritagelser skal registreres.
+Der er flere grunde til denne registrering:
+  Så alle sagsbehandlere, der varetager beskæftigelsesindsatsen for en ledig, kan se hvad den ledige er fritaget for  hvad enten sagsbehandleren sidder i et jobcenter (også andre jobcentre end der, hvor den ledige »hører til«), hos en anden aktør eller i a-kassen.
+  Som dokumentation for at en fritagelse er bevilget (når registreringen er i sagsbehandlingssystemet og lagt i de fælles data behøver den ikke blive noteret i journalen).
+  Fremover vil det blive muligt for den ledige selv at se sine fravær og fritagelser på »Min side« i Jobnet.
+  Så adviser, opgaver og søgeprogrammer kan finde ud af, hvem der skal indkaldes til jobsamtale og til aktivering.
+  Så opgørelser af, om jobcenteret afholder jobsamtaler og aktiverer til tiden, kan opgøres.
+Fravær drejer sig om situationer, hvor en ledig har en ret til ikke at opfylde en eller flere af de forpligtigelser, han normalt er omfattet af, og hvor jobcenteret ikke skal tage stilling til, om betingelserne for fraværet er opfyldt.
+Fx har en dagpengemodtager ret til at holde ferie, hvis han melder det senest 14 dage forinden og ikke er indkaldt til jobsamtale eller aktivering.
+Fritagelser er situationer, hvor jobcenteret skal vurdere, hvorvidt forudsætningerne er til stede.
+Her skal sagsbehandleren med andre ord bevilge fritagelsen.
+Fx om en kontanthjælpsmodtager er så syg, at han ikke skal aktiveres.
+ Hjemlen til, at en person kan være omfattet af et fravær eller en fritagelse findes i følgende love:
+  Lov om en aktiv beskæftigelsesindsats.
+  Lov om aktiv socialpolitik.
+  Lov om integration af udlændinge i Danmark (integrationsloven).
+  Lov om sygedagpenge (sygedagpengeloven).
+ Derudover kan der være regler om fravær og fritagelser i bekendtgørelser udstedt i medfør af de nævnte love.
+Særligt vedrørende fritagelser Fritagelser anvendes kun, hvis der er tale om kortvarige, midlertidige forhold.
+Hovedreglen er, at en borger matches om, hvis det vurderes, at borgeren ikke længere lever op til forudsætningerne for at være i en bestemt matchgruppe.
+Det er kun, hvis årsagen til at personen ikke kan matches til en bestemt gruppe, er kortvarig og midlertidig, at der skal registreres en fritagelse.
+ På samme måde som selve matchvurderingen skal alle fritagelser vurderes ved hver jobsamtale, dvs. senest efter 3 måneder, og der er lagt tilsvarende varighedsbegrænsning ind i den it-mæssige registreringsmulighed.
+ Det betyder, at rammes en borger i match 1 fx af kortvarig sygdom, der forhindrer aktivering - se oversigten i bilag 2 (dvs. med en forventet varighed mindre end tre måneder), fritages borgeren, og han forbliver i match 1. Rammes en borger derimod af langvarig sygdom (dvs. med en forventet varighed af mere end tre måneder), matches borgeren til en anden matchgruppe.
+Der findes dog undtagelser, hvor en borger kan fritages for en periode længere end tre måneder.
+Fx bevarer en kontant- eller starthjælpsmodtager, der går på barsel, sin matchgruppe og fritages i hele barselsperioden.
+Det kan også være ledige, der er fritaget for rådighed under deltagelse i tilbud, der varer mere end tre måneder.
+Hvem kan have et fravær eller en fritagelse og for hvad? Det er forskelligt, alt efter hvilken målgruppe (kontaktgruppe) og matchgruppe en ledig er i, hvilke fravær og fritagelser han har ret til, eller kan bevilges.
+It systemerne er indrettet således, at det kun er muligt at registrere de fravær og fritagelser, som er »lovlige« for en borger - fx kan en dagpengemodtager ikke fritages på grund af pasning af handicappede børn.
+Sammenhæng mellem mulighed for fravær/fritagelse og kontaktgruppe samt matchgruppe fremgår af bilag 2. Her ses hvilke årsager til fravær, fritagelser og andre periodiske forhold, der kan registreres for de enkelte mål-/kontaktgrupper alt efter matchgruppen.
+Hvem kan registrere fravær og fritagelser? En række af fraværstyperne kan den ledige selv registrere via Jobnet  hvis han har lov til det.
+Fx kan en dagpengemodtager ikke få lov til at melde ferie, hvis han er indkaldt til jobsamtale eller aktivering i den periode, hvor han ønsker at holde ferie.
+ Sagsbehandleren i jobcenteret kan registrere alle fraværstyper; men en sagsbehandler hos anden aktør eller en a-kasse har også mulighed for at registre flere typer.
+ De egentlige fritagelser, som skal bevilges, er det kun en sagsbehandler i jobcenteret, der kan registrere.
+ Hvem der har mulighed for at registrere de forskellige typer af fravær og fritagelser, kan ses dette i »vejledning til registrering hos jobcenteret m.v.«  se: https://info.jobcentre.dk/?id=521.
+Ved skift af mål-/kontaktgruppe checker it systemet automatisk, om der er registreret et fravær eller en fritagelse, som ikke er i overensstemmelse med mulighederne for den nye kontaktgruppe.
+Det betyder, at sagsbehandleren skal afslutte den pågældende fraværsregistrering før det er muligt at registrere den nye mål-/kontaktgruppe.
+Sagsbehandleren skal advares i disse tilfælde.
+De fleste fraværsregistreringer kræver en slutdato.
+Fravær er midlertidigt og skal løbende tages op til vurdering i kontaktforløbet.
+I de fleste tilfælde vil det derfor ikke være muligt at registrere et fravær mere end 100 dage frem i tiden, dvs. at en evt. forlængelse skal besluttes ved næste jobsamtale.
+Der findes dog undtagelser, hvor en person kan fritages i en periode, der er længere end tre måneder.
+Dette gælder fx en kontanthjælpsmodtager på barsel, hvor fritagelsen dækker i hele barselsperioden.
+ Hvis sagsbehandleren registrerer en fritagelse, som fritager den ledige for at stå tilmeldt, vil it systemet automatisk afmelde ham.
+Særligt vedrørende sygdom - sygemelding Ved en almindelig sygemelding - »sygdom  sygemelding« - kan der i sagens natur normalt ikke sættes en slutdato - dog sætter it-systemet så automatisk en slutdatoen 100 dage fra registreringsdatoen.
+Personer, der er tilmeldt, modtager et brev efter 14 dages sygemelding, om at de bliver afmeldt i løbet af 7 dage, hvis de ikke melder sig rask forinden.
+Hefter afmeldes de automatisk efter 21 dages sygdom og der sendes et afmeldebrev.
+For start- og kontanthjælpsmodtagere betyder dette ikke, at kontakten med jobcentret afsluttes.
+For dagpengemodtagere skal fraværsregistreringen afsluttes, og han skal afmeldes, da borgeren jo nu er sygedagpengemodtager og underlagt reglerne om kontakt for denne målgruppe.
+Dette skal ske i sammenhæng med, at sygedagpengesagen oprettes.
+Se i øvrigt bilag 1.
+ For de øvrige grupper bliver sygemeldingen stående også efter afmeldingen.
+ Hvis personen er så syg, at han er forhindret i at arbejde og/eller deltage i tilbud, skal der registreres en af de øvrige fritagelser vedr. sygdom - se bilag 2.
+Det er vigtigt, at den første sygedag angives korrekt.
+For dagpengemodtagere sendes denne dato til a-kassen og forkert angivelse af dato kan have betydning for personens mulighed at ansøge om sygedagpenge til tiden.
+19.2. Seniorjob I henhold til lov om seniorjob, skal en person ansat i seniorjob stå til rådighed for henvist arbejde, være tilmeldt som arbejdssøgende og have et aktivt CV på Jobnet.
+Ansatte i seniorjob skal dog ikke bekræfte aktiv jobsøgning og er heller ikke omfattet af et kontaktforløb  se nærmere i »vejledning til lov om seniorjob«.
+Når en person ansættes i seniorjob i kommunen, skal jobcenteret tilmelde personen med kontaktgruppe 8: »Tilmeldte uden ydelse«; og samtidig registrere fraværsårsagen »seniorjob«.
+Kommunen må sikre, at information om en ansættelse tilgår jobcenteret.
+ Med registreringen sikres, at personer ansat i seniorjob er søgbare i forbindelse med henvisninger til job.
+20.1. Personkreds For definition af de enkelte kontaktgrupper  se pkt. 6.1.
+ For registreringen af personer ansat i seniorjob, se pkt. 19.2.
+21.1.1. Informationer, der skal registreres og indberettes Registrering og indberetning skal finde sted samme dag, som årsagen til fraværet kommer til kommunens kendskab eller godkendelse af en fritagelsen finder sted.
+Hvis oplysningen om et fravær kommer til kommunens kendskab i en anden enhed end jobcenteret (fx et kommunalt projekt eller ydelsescenteret), er kommunen ansvarlig for at sikre, at registreringen alligevel kan finde sted samme dag.
+ De årsager, der i henhold til de under pkt. 19.1 nævnte love findes for fravær og fritagelser, er anført i et skema i bekendtgørelsens bilag 1. De kommunale it systemer og det fælles datagrundlag styrer, hvad en given årsag konkret fritager for med hensyn til en persons forpligtigelser til at stå til rådighed samt deltage i aktive tilbud og i et kontaktforløb med jobsamtaler.
+ I bilag 2 til denne vejledning er skemaet gengivet med tilføjelse af kolonner, der dels angiver de tekniske begrænsninger på slutdatoer for en given registrering, og dels angiver hvad en given registrering fritager for.
+21.1.2. Formater Se pkt. 8.5.2.
+ 22.1. Der er ikke yderligere vejledning til § 22.
+ 23.1. Der er ikke yderligere vejledning til § 23.
+24.1. Indberetningsmetode Kommunen skal indberette data til Arbejdsmarkedsstyrelsen elektronisk i de formater, som er beskrevet i afsnit 8.5.2.
+24.2. Indberetningsløsninger Jobcentre, der er gået over til at anvende et kommunalt it system for forsikrede ledige, skal indberette oplysningerne for alle kontaktgrupper via den webservice, som stilles til rådighed af Arbejdsmarkedsstyrelsen.
+ Jobcentre, der anvender Arbejdsmarkedsportalen for forsikrede ledige, skal anvende den browserbaserede registreringsløsning i Arbejdsmarkedsportalen for kontaktgruppe 1 (dagpengemodtagere). For øvrige kontaktgrupper skal oplysningerne indberettes via ovennævnte webservice fra det kommunale it system.
+24.3. Indberetningsfrekvens Indberetning skal ske umiddelbart og automatisk, når en given hændelse registreres i sagsbehandlingssystemet.
+Særlige bestemmelser og forhold, vedrørende hvornår hændelser skal registreres, er angivet under de foregående punkter i forbindelse med de enkelte hændelser.
+Kapitel 5 Registrering og indberetning af indkaldelser til samtaler m.v.
+ 25.1. Indkaldelser til samtaler m.v.
+ Der skal registreres og indberettes oplysninger vedr. alle indkaldelser, der vedrører samtaler og møder m.v., hvortil der er mødepligt for personen.
+Formålet med indberetningen er, at oplysningerne om indkaldelsen kan vises på »Min side« på Jobnet, ligesom det er forudsætningen for, at borgeren kan angive at have set indkaldelsen samt eventuelt opdatere mødetidspunktet.
+Pt. kan aftalen kun vises for personer, der er tilmeldt.
+På sigt vil aftalen kunne vises for alle kontaktgrupper.
+25.2 og 3. Indretning af kommunens it-system i forbindelse med selvbooking Med hjemmel i § 60, stk. 5 i lovbekendtgørelse nr. 731 af 15. juni 2010 om ansvaret for og styringen af den aktive beskæftigelsesindsats er der ved en udbygning af »Min side« på Jobnet etableret et fælles selvbooking-system for jobcentrene.
+I dag skal en ledig rette henvendelse til jobcenteret for at ændre på samtaletidspunktet i en mødeindkaldelse fra jobcenteret.
+Fremover skal borgeren angive at han/hun har set mødeindkaldelsen på »Min side« eller vælge - hvis jobcenteret kan tilbyde andre tidspunkter - et andet mødetidspunkt.
+Det vil herudover være muligt for jobcenteret i det fælles selvbooking-system at indkalde borgere til møde i jobcenteret.
+Dette kan bl.a. ske ved, at der fra jobcenterets it-system overføres lister til det fælles booking system, hvor indkaldelserne udformes på baggrund af en ressourceplanlægnings funktionalitet.
+Borgerens markering at have set mødeindkaldelsen eller oplysninger om ændret mødetidspunkt registreres i det fælles datagrundlag i Arbejdsmarkedsstyrelsen og videregives til jobcenterets it-system ved hjælp af en landsdækkende webservice.
+Tilsvarende overføres oplysninger om mødeindkaldelser til jobcenteret.
+ Ansvaret for databehandlingen i forbindelse med selvbooking finder sted med hjemmel i § 58, stk. 5 og 6 i ovenfor anførte lov.
+ Jobcenterets it-system skal således kunne modtage oplysninger om, at borgeren har angivet at have set indkaldelsen på Jobnet eller ændret mødetidspunktet, jf. § 60, stk. 8, i ovenfor anførte lov, således at mødetidspunkt m.v. opdateres med det samme i jobcenterets eget it-system.
+26.1. Personkreds For definition af de enkelte kontaktgrupper  se pkt. 6.1.
+27.1.1 Informationer vedr.
+Indkaldelser og selvbooking For personer anført i bekendtgørelsens § 27 skal der registreres og indberettes nedenstående oplysninger i forbindelse med indkaldelse til samtaler med videre.
+1. Identifikationsoplysninger for personen Indberetningen skal indeholde CPR-nummer på personen.
+2. Dato og tidspunkt for samtalens-/opfølgnings afholdelse Dato og tidspunkt for samtalens afholdelse således som det fremgår af indkaldelsesbrevet til personen.
+3. Samtale- eller opfølgningsformen Se pkt. 14.1.1. om samtaleformer.
+Normalt bør type 5 »Andet« ikke anvendes i fm. indkaldelser medmindre der er tale om, at personen selv skal foretage kontakten på en form, der ikke er dækket af de øvrige typer.
+I så fald bør formen beskrives i indkaldelsesbrevet.
+4. Samtale- eller opfølgningstypen (jobsamtale, sygedagpengeopfølgning m.v.) Det skal fremgå af indkaldelsen hvilken type samtale der er tale om.
+For tiden findes følgende typer:
+ NB: Afholdte samtaler skal kun indberettes, når der er tale om en jobsamtale, en opfølgningssamtale, en cv samtale eller en samtale af typen »Anden samtale«, som beskrevet i afsnit 14.1.1.
+5. Samtale-/opfølgningssted (lokationsoplysninger) Adresse oplysninger og andre oplysninger om, hvor personen skal møde frem til samtalen.
+6. Personens kontaktmuligheder i forbindelse med samtalen Oplysninger om, hvor og hvordan personen skal henvende sig i forbindelse med samtalen  fx, hvis personen ønsker at melde afbud, har spørgsmål til samtalens indhold m.v.
+Her kan fx angives e-mail adresse, telefonnumre eller andet.
+27.2. Registrering og indberetning af indkaldelsen Indberetningen af indkaldelsen skal være automatiseret i kommunens it system således, at indberetningen automatisk finder sted, når personen meddeles om dette, eller når indkaldelsesbrevet til personen udskrives og sendes  hvilket skal være samme dag, som brevet er dateret.
+27.3. Ændringer til indkaldelser Hvis der sker ændringer i forhold til en indkaldt samtale/opfølgning, skal dette registreres og indberettes senest samme dag, som indkaldelsen meddeles til personen.
+Ved skriftlig indkaldelse er dette, når ændringsbrevet gives eller sendes til borgeren.
+Dette skal ske ved alle ændringer til oplysninger, der fremgår af indkaldelsen til borgeren og som er af betydning for, hvorvidt borgeren har mulighed for at møde frem til rette tid og sted.
+ Formålet med bestemmelsen er at sikre, at borgeren med det samme har mulighed for at se ændringerne til samtalen på »Min Side« på Jobnet.
+28.1. Yderligere oplysninger i forbindelse med selvbooking En indkaldelse skal endvidere indeholde følgende oplysninger:
+1) Alternative tidspunkter for samtalens afholdelse Hvis der er tale om en indkaldelse, hvor der er mulighed for selvbooking, skal de datoer og tidspunkter, der er åbne for selvbooking også angives  det vil sige de tidspunkter, som en borger kan vælge som alternativer til den oprindelige indkaldelses tidspunkt.
+2) Navn på den medarbejder, der skal stå for samtalen eller mødet Normalt vil der være tale om den medarbejder, der skal afholde samtalen.
+3) Angivelse af, om selvbooking er mulig En angivelse af, hvorvidt den ledige skal have mulighed for at vælge mellem alternative tidspunkter for samtalens eller mødet afholdelse.
+4) Eventuel frist for selvbooking Hvis der er tale om en indkaldelse, hvor selvbooking er mulig, angives her det seneste tidspunkt for den indkaldtes mulighed for at vælge et alternativt tidspunkt for samtalens eller mødets afholdelse.
+5) Status og årsagsoplysninger vedr. samtalen/mødet Ved status forstås, hvorvidt samtalen er indkaldt eller aflyst.
+Hvis en samtale aflyses, skal der også angives en årsag hertil.
+ Bemærk: Selvom en kommune ikke tilbyder selvbooking som en service for sine ledige borgere, skal disse datafelter altid indgå i en indkaldelse.
+28.2. Overførsel af lister Hvis jobcenteret ønsker at indkalde en gruppe af personer via det fælles selvbooking-system, kan der overføres en liste med cpr. nr., som herefter indkaldes, og de enkelte indkaldelser overføres til jobcenterets sagsbehandlingssystem, jf. § 29.
+29. Jobcenterets modtagelse af oplysninger fra det fælles bookingsystem Jobcenterets it-system kunne modtage disse oplysninger fra det fælles booking-system.
+Jobcenterets it-system skal være indrettet således, at indkaldelser, der modtages, kan integreres  og behandles på samme måde som indkaldelser oprettet i eget system.
+1) De i §§ 27 og 28 anførte oplysninger 2) Markering af, at borgeren har set indkaldelsen Jobcenterets it-system skal kunne modtage en markering af, at borgeren har set indkaldelsen.
+3) Borgerens angivelse af et nyt mødetidspunkt Ved en indkaldelse, hvor selvbooking er mulig, får borgeren mulighed for at vælge mellem et antal alternative mødetidspunkter for samtalens eller mødets afholdelse.
+Når borgeren vælger et af disse alternative tidspunkter, skal jobcenterets it-system kunne modtage og integrere disse med henblik på den videre sagsbehandling.
+ 30.1. Der er ikke yderligere vejledning til § 30.
+ 31.1. Der er ikke yderligere vejledning til § 31.
+32.1. Indberetningsmetode Kommunen skal indberette data til Arbejdsmarkedsstyrelsen elektronisk i de formater, som er beskrevet i afsnit 8.5.2.
+32.2. Indberetningsløsninger Jobcentre, der er gået over til at anvende et kommunalt it system for forsikrede ledige, skal indberette oplysningerne for alle kontaktgrupper via den webservice, som stilles til rådighed af Arbejdsmarkedsstyrelsen.
+ Jobcentre, der anvender Arbejdsmarkedsportalen for forsikrede ledige, skal anvende den browserbaserede registreringsløsning i Arbejdsmarkedsportalen for kontaktgruppe 1 (dagpengemodtagere). For øvrige kontaktgrupper skal oplysningerne indberettes via ovennævnte webservice fra det kommunale it system.
+32.3. Indberetningsfrekvens Indberetning skal ske umiddelbart og automatisk, når en given hændelse registreres i sagsbehandlingssystemet.
+Særlige bestemmelser og forhold, vedrørende hvornår hændelser skal registreres, er angivet under de foregående punkter i forbindelse med de enkelte hændelser.
+Kapitel 6 Registrering og indberetning af opfølgningssamtaler med sygemeldte afholdt af kommunen samt visitationskategorier 33.1. Personer omfattet af bekendtgørelsens § 31 (sygedagpengemodtagere) Kommunen skal for alle sygedagpengemodtagere registrere og indberette visitationskategori samt opfølgningssamtaler afholdt af kommunen efter kapitel 6 i sygedagpengeloven.
+Der skal registreres og indberettes for personer i kontaktgruppe 6, dvs. personer omfattet af lov om aktiv beskæftigelsesindsats, § 2, nr. 5 Opfølgningssamtaler skal forstås brede, dvs. også opfølgning der ikke foregår ved samtale skal registreres.
+34.1.1. Informationer der skal indberettes For personer anført i bekendtgørelsen § 33 skal der registreres og indberettes nedenstående oplysninger for hver opfølgningssamtale/opfølgning.
+ Indberetningen skal indeholde følgende informationer:
+1. Identifikationsoplysninger for personen Indberetningen skal indeholde CPR-nummer på personen, der er afholdt opfølgningssamtale med.
+2. Kommunekode for indberettende kommune Der skal indberettes kommunenummer for indberettende kommune.
+3. Dato for afholdelse af opfølgningssamtale/opfølgning Datoen for de opfølgningssamtaler der afholdes af kommunen skal indberettes.
+Kun datoen for de opfølgningssamtaler/opfølgninger der afholdes i henhold til kapitel 6 i sygedagpengeloven skal indberettes.
+4. Samtaleform/opfølgningsform Ved alle opfølgninger holder kommunen som udgangspunkt en individuel samtale.
+Opfølgningen kan dog ske telefonisk, hvis den sygemeldtes helbredssituation skønnes uproblematisk, og tilbagevenden på fuld tid sker inden for 14 dage regnet fra det tidspunkt, hvor samtalen skal finde sted, hvis den sygemeldte er i tilbud eller har genoptaget arbejdet delvist, eller hvis sygdommen forhindrer en individuel samtale.
+Opfølgningen kan ske ved brev eller e-mail hvis sygdommen forhindre en samtale, jf. nedenstående tabel:
+5. Visitationskategori Kommunen skal på baggrund af oplysningsskemaet og evt. andre oplysninger foretage en visitation af den sygemeldte, jf. sygedagpengeloven § 12. Den visitationskategori, kommunen vurderer den sygemeldte at tilhøre, registreres og indberettes.
+Endvidere skal kommunen ved hver opfølgningssamtale foretage en revisitation.
+Vurderer kommunen at den sygemeldte har skiftet visitationskategori siden sidste opfølgningssamtale registreres og indberettes den nye visitationskategori.
+Hvis kommunen vurderer, at den sygemeldte ikke har skiftet visitationskategori siden sidste opfølgningssamtale, (gen)indberettes den samme kategori.
+ Kommunen skal indberette én af nedenstående kategorier, jf. vejledning om visitationskategorier mv. https://www.retsinformation.dk/Forms/R0710.aspx?id=131790.
+ Visitationskategorierne hentes frem til 26. april 2010 fra Sygedagpengeregistret, herefter hentes visitationskategorien for personen udelukkende fra sagsbehandlingssystemet.
+34.1.2. Formater Se pkt. 8.5.2.
+34.2. Registrering og indberetning af opfølgningssamtalen Indberetningen af opfølgningssamtalen skal være automatiseret i kommunens it system således, at indberetningen automatisk finder sted når opfølgningssamtalen er afholdt og registreret.
+34.3. Aftaler vedr. sygeopfølgningen I lighed med oplysningerne vedr. aftaler om det videre kontaktforløb ved jobsamtaler, har jobcenteret mulighed for at indberette aftaler vedr. den videre sygeopfølgning.
+Det er på nuværende tidspunkt ikke obligatorisk at indberette aftalerne i fm. sygeopfølgningen  i modsætning til jobsamtaler, hvor registrering og indberetning af oplysningerne er obligatorisk.
+Aftalen fra samtalen vedr. sygeopfølgning kan endnu ikke ses af borgeren på »Min side«.
+Det forventes, at det på et senere tidspunkt vil blive muligt for sygedagpengemodtagere, at se aftalen på »Min side« på Jobnet.
+I den forbindelse forventes det, at registrering og indberetning af aftalen vil blive obligatorisk for sygedagpengemodtagere.
+ 35.1. Der er ikke yderligere vejledning til § 35.
+36.1. Indberetningsfrekvens Indberetningerne skal ske via web-service fra 26. april 2010. Oplysningerne for opfølgningssamtalen skal registreres og indberettes senest 7 dage efter afholdt samtale.
+Indberetning skal ske umiddelbart og automatisk ved registrering i sagsbehandlingssystemet.
+ Registreringer for samtaler afholdt i perioden 5. oktober 2009 frem til og med 25. april 2010, indberettes til Arbejdsmarkedsstyrelsen efter aftale mellem Arbejdsmarkedsstyrelsen og de kommunale it-leverandører.
+37.1. Indberetningsmetode Kommunen skal indberette data til Arbejdsmarkedsstyrelsen elektronisk i de formater som er beskrevet i afsnit 7.5.2.
+Kapitel 7 Registrering og indberetning af samtaler om cv afholdt af kommunen samt godkendelsesstatus for cvet 38.1. Der skal således indberettes oplysninger om cv samtalen samt cvets godkendelsesstatus, jf. § 38.
+ 39.1. Personkredsen drejer sig således om kontaktgrupperne 2 og 3, jf. kapitel 2 i denne vejledning.
+40.1.1. Informationer der skal indberettes For personer anført i bekendtgørelsens § 39, skal der registreres og indberettes nedenstående oplysninger for hver gennemført samtale eller ændring af godkendelsesstatus.
+Såfremt der sker ændringer i oplysninger i tidligere indberettede samtaler, skal disse ændringer ligeledes indberettes.
+Godkendelsesstatus for cvet kan indberettes uafhængig af cv-samtalen.
+I disse tilfælde skal der ikke indberettes en dato for afholdelse af samtalen.
+ Indberetningen skal indeholde følgende informationer:
+1. Identifikationsoplysninger for personen Indberetningen skal indeholde CPR-nummer på personen, der deltager i samtalen.
+2. Kommunekode for indberettende kommune Der skal indberettes kommunenummer for indberettende kommune.
+3. Dato for afholdelse af samtale Datoen for afholdelse af samtalen skal indberettes. Ændringer i tidligere indberettede samtaler skal altid indberettes.
+4. Godkendelsesstatus for cvet Der skal indberettes hvorvidt cvet er godkendt eller ej.
+40.1.2. Formater Se pkt. 8.5.2.
+40.2. Registrering og indberetning af cv-samtalen Indberetningen af cv-samtalen skal være automatiseret i kommunens it system således, at indberetningen automatisk finder sted når cv-samtalen er afholdt og registreret.
+40.3. Aftaler fra cv-samtalen I lighed med oplysningerne vedr. aftaler om det videre kontaktforløb ved jobsamtaler, har jobcenteret mulighed for at indberette aftaler fra cv-samtalen  fx aftaler om hvilke ændringer personen skal foretage i sit cv.
+Det er på nuværende tidspunkt ikke obligatorisk at indberette disse aftaler  i modsætning til jobsamtaler, hvor registrering og indberetning af oplysningerne er obligatorisk.
+Aftalen fra cv-samtalen kan endnu ikke ses af borgeren på »Min side« på Jobnet.
+Det forventes, at det på et senere tidspunkt vil blive muligt for kontant- og starthjælpsmodtagere samt modtagere af introduktionsydelse, at se aftalen på »Min side« på Jobnet.
+I den forbindelse forventes det, at registrering og indberetning af aftalen vil blive obligatorisk.
+ 41.1. Der er ikke yderligere vejledning til § 41.
+42.1. Indberetningsfrekvens Oplysningerne for cv-samtalen skal registreres og indberettes senest 7 dage efter afholdt samtale.
+Indberetning skal ske umiddelbart og automatisk ved registrering i sagsbehandlingssystemet.
+Registrering og indberetning af skift i godkendelsesstatur skal ske umiddelbart når det konstateres, at cvet ikke længere er fyldestgørende.
+43.1. Indberetningsmetode Kommunen skal indberette data til Arbejdsmarkedsstyrelsen elektronisk i de formater som er beskrevet i afsnit 7.5.2.
+Kapitel 8 Registrering og indberetning af beskæftigelsesforanstaltninger for modtagere af arbejdsløshedsdagpenge samt beskæftigede mv.
+ 44.1. Der er ikke yderligere vejledning til § 44.
+45.1. Personer omfattet af bekendtgørelsens § 45 Der skal indberettes for personer i følgende personkreds:
+1. Personer omfattet af § 2, nr. 1, i lov om en aktiv beskæftigelsesindsats, dvs. ledige, der modtager dagpenge efter lov om arbejdsløshedsforsikring m.v.
+Heri indgår ledige, som modtager indsats efter forsøgsbekendtgørelsen (bekendtgørelse om forsøgsordninger efter lov om ansvar for og styringen af den aktive beskæftigelsesindsats, lov om en aktiv beskæftigelsesindsats og lov om sygedagpenge), hvor der fraviges fra bl.a. varighedsbegrænsningen i §§ 34-35 i lov om en aktiv beskæftigelsesindsats.
+ 2. Personer omfattet af lov om en aktiv beskæftigelsesindsats §§ 98c  98g (tilskud til virksomheder, der indgår uddannelsesaftale med voksne).
+Dette gælder såvel voksenelever der kommer fra ledighed som voksenelever, der kommer fra beskæftigelse.
+Der skelnes mellem disse to grupperinger ved hjælp af anvendelse af korrekt aktiveringstype  se nærmere i afsnittet vedrørende aktiveringstyper.
+ Kommuner der benytter Jobplanmodulet i Arbejdsmarkedsportalen eller som benytter Jobplanmodulet i Workbase skal indberette efter dette kapitel, mens øvrige kommuner skal indberette efter kapitel 9.
+3. Beskæftigede omfattet af lov om en aktiv beskæftigelsesindsats, dvs. personer, der er beskæftigede og som modtager indsats efter § 99 i lov om en aktiv beskæftigelsesindsats.
+Omfatter alle beskæftigede, der får denne indsats, uanset forudgående målgruppe i henhold til § 2 i lov om en aktiv beskæftigelsesindsats.
+Heri indgår beskæftigede, som modtager indsats efter forsøgsbekendtgørelsen (bekendtgørelse om forsøgsordninger efter lov om ansvar for og styringen af den aktive beskæftigelsesindsats, lov om en aktiv beskæftigelsesindsats og lov om sygedagpenge), hvor der fraviges fra bl.a. kravet om en bestemt forudgående ledighedsperiode i § 99 i lov om en aktiv beskæftigelsesindsats.
+46.1. Informationer der skal indberettes For personer anført i bekendtgørelsen § 45 skal der indberettes én record (item) for hver foranstaltning personen deltager i.
+Der skal indberettes for igangværende, afsluttede og planlagte forløb.
+Såfremt der sker ændringer i oplysninger i tidligere indberettede forløb, skal disse ændringer ligeledes indberettes.
+ Endvidere skal alle forløb indberettes, uanset om personen er fraflyttet kommunen eller fx ophørt på ydelsen.
+For nedenstående punkter angives en række kodelister.
+Kodelisterne opdateres løbende og ændringer eller tilføjelser varsles i henhold til webserviceaftalerne.
+ For formater til de enkelte oplysninger, der skal indberettes, henvises til afsnit 46.3.
+ Indberetningen skal indeholde følgende informationer:
+ 1. For alle foranstaltninger: Identifikationsoplysninger for personen, der deltager i foranstaltningen.
+ Indberetningen skal indeholde CPR-nummer på personen, der deltager i foranstaltningen.
+2. For alle foranstaltninger: Kommunekode for indberettende kommune Der skal indberettes kommunenummer for indberettende kommune 3. For alle foranstaltninger: Ansvarligt jobcenter Der skal indberettes ansvarligt jobcenter eller subjobcenter hvis et sådant findes.
+Indberetningen skal være i henhold til jobcenterregistret i det fælles datagrundlag.
+ Der angives flg. systemskabte oplysninger:
+4. For alle foranstaltninger: Registrerende jobcenter Der angives de samme oplysninger som ved ansvarligt jobcenter.
+Ved samarbejde mellem jobcentre kan et jobcenter foretage registreringer på vegne af andre jobcentre.
+Det er derfor også nødvendigt at indberette registrerende jobcenter.
+5. For alle foranstaltninger: Unik nøgle for den enkelte foranstaltning (kursus, løntilskudsansættelse mv.) Der skal angives en unik systemgenereret identifikationsnøgle for den enkelte foranstaltning af typen GUID.
+6. For alle foranstaltninger: Startdato for den enkelte foranstaltning Startdato for den foranstaltning personen deltager i, skal indberettes.
+Startdatoen er den første dag i forløbet.
+For planlagte forløb indberettes den planlagte startdato.
+ Ændringer i startdatoen vedr. tidligere indberetningsperioder skal altid indberettes.
+7. For alle foranstaltninger: Slutdato for den enkelte foranstaltning Slutdato for den foranstaltning personen deltager i, skal indberettes.
+Slutdatoen er den sidste dag i forløbet.
+ For planlagte og igangværende forløb indberettes den planlagte slutdato.
+ Ændringer i slutdatoen vedr. tidligere indberetningsperioder skal altid indberettes.
+8. For alle foranstaltninger: Gennemsnitligt ugentlige timetal for den enkelte foranstaltning Det gennemsnitlige ugentlige timetal for den foranstaltning personen deltager i skal indberettes.
+ Timer per uge skal indberettes i størrelsen 1 til 37 timer.
+ Der skal indberettes antal minutter pr. uge i størrelsen 0 - 59 minutter.
+Hvis flere forløb overlapper inden for samme uge og tilsammen overstiger 37 timer, nedskrives antallet af timer i hvert af forløbene forholdsmæssigt inden indberetningerne benyttes til statistikformål.
+Nedskrivningen foretages af Arbejdsmarkedsstyrelsen.
+ Ændringer i gennemsnitligt ugentlig timetal vedr. tidligere indberetningsperioder skal altid indberettes.
+9. For alle foranstaltninger: Aktiveringstype (økonomisk ramme m.v.) Der skal indberettes en Aktiveringstype, der angiver typen af den aktivitet den ledige deltager i.
+Af hensyn til at kunne skille oplysninger vedr. tilbud fra andre typer af aktiviteter, der også registreres i de administrative sagsbehandlingssystemer, findes også typer for aktiviteter, der ikke er omfattet af LAB kap. 10  12.
+Når en aktivitet oprettes, skal det ske med en aktiveringstype, der er gyldig på oprettelsestidspunktet i forhold til nedenstående start- og slutdatoer.
+Når en aktivitet én gang er oprettet og indberettet, må der ikke ændres i aktiveringstypen.
+Hvis der er sket fejl i registreringen, må aktiviteten annulleres og genoprettes med korrekt aktiveringstype.
+Alle foranstaltninger skal indberettes med den type der var gældende på det tidspunkt hvor foranstaltningen var i gang.
+Således er også udgåede typer medtaget.
+Disse er markeret med en slutdato før eller lig med 2010.
+ Særligt vedr. voksenelever:
+ Sagsbehandleren skal ved oprettelsen af et voksenelevforløb (løntilskud til uddannelsesaftaler) tage stilling til, om vokseneleven kommer fra ledighed (anvend aktiveringstypen »Løntilskud og virksomhedspraktik« for personer der modtager en forsørgelsesydelse) eller fra beskæftigelse (anvend aktiveringstypen »Voksenelev, beskæftigelse«) på det tidspunkt, hvor uddannelsesaftalen er indgået.
+ Der skal indberettes med følgende koder med tilhørende tekster:
+Kode Aktiveringstype Start dato Slutdato Bemærkning 10. For jobplan: Unik nøgle Der skal angives en unik systemgenereret identifikationsnøgle af typen GUID.
+11. For jobplan: Dato for oprettelse Dato for hvornår denne version af jobplanen er oprettet.
+12. For jobplan: Dato for revision Dato for hvornår den pågældende version af jobplanen senest er revideret.
+13. For jobplan: Beskæftigelsesmål Det beskæftigelsesmål der er angivet i jobplanen skal indberettes.
+Der skal anvendes en kode fra Disco klassifikationen.
+Beskæftigelsesmålet kan angives på niveau 1 (stillingsbetegnelser) eller niveau 2 (delområde) i Disco klassifikationen.
+Der er mulighed for at indberette historiske stillingskoder, når blot den historisk gældende periode for stillingskoden overlapper den periode som indberetningen vedrører.
+14. For virksomhedsrettede foranstaltninger: Jobordreident fra Jobnet, hvis en sådan findes Hvis den virksomhedsrettede foranstaltning har været oprettet som jobordre i Jobnet, findes der en identifikationsoplysning på denne jobordre, som i så fald skal indberettes.
+15. For virksomhedsrettede foranstaltninger: Type af virksomhedsrettede tilbud (jobordretype) For alle virksomhedsrettede foranstaltninger indberettes en jobordretype.
+ Jobordretypen angiver en typeinddeling af virksomhedsrettede tilbud på baggrund af gældende lovgivning og ud fra den begrebsmodel for jobplan området, som er aftalt mellem KL og AMS.
+ Typeinddelingen har primært til formål beskæftigelsesfagligt og teknisk at angive de job- og aktivitetstyper, der skal anvendes på tværs af myndigheder og på tværs af de it-systemer, der anvendes i beskæftigelsesindsatsen.
+De enkelte typer og deres anvendelse fremgår af nedenstående skema.
+En del af jobordretyperne der er angivet gælder også ikke-forsikrede.
+Indberetning efter dette kapitel gælder dog kun personer omfattet af § 43. Historiske jobordretyper skal kun indberettes såfremt de historiske jobordretyper var gældende på tidspunkt for oprettelse af aktiviteten.
+Historiske typer er angivet med H; Gældende med G:
+16. For virksomhedsrettede foranstaltninger: Aktivitetsudbyder ved CVR- og P-nummer Der skal indberettes CVR-nummer og P-nummer på den virksomhed hos hvem foranstaltningen finder sted.
+ Hvis virksomheden ikke er registreret med et CVR- og P-nummer; men driver lovlig virksomhed i Danmark og der er tale om løntilskudsansættelse eller virksomhedspraktik, kan angivelse af CVR- og P-nummer finde sted som følger:
+  Hvis ansættelsen er på en udenlandsk ambassade i Danmark: Anvendes udenrigsministeriets CVR- og P-nummer og jobordretypen angives til en af de i ovennævnte typer, der vedrører ansættelse i privat virksomhed  dette er vigtigt af hensyn til opgørelse af løntilskudskvoter m.v.
+  Hvis ansættelsen er på en privat virksomhed, der driver lovlig virksomhed i Danmark; men som ikke har et dansk CVR- og P-nummer: Her anvendes jobcenterets CVR- og P-nummer og jobordretypen angives til en af de i ovennævnte typer, der vedrører ansættelse i privat virksomhed  dette er vigtigt af hensyn til opgørelse af løntilskudskvoter m.v.
+17. For ansættelse med løntilskud i statslige institutioner: Ministerområde Ved alle tilbud om ansættelse med løntilskud i en statslig institution eller en selvejende institution, der regnes som statslig, skal angives hvilket ministerområde institutionen hører under.
+Der gælder følgende for registreringen:
+  Ved nyoprettelse af tilbudsaktiviteter er det kun ministerområder, hvor slutdatoen ikke er overskredet, der skal kunne vælges af sagsbehandlere.
+  Udgåede områder skal stadig kunne vises for sagsbehandlere.
+  Ved opdatering af tilbud oprettet før implementeringen af den nye liste, skal der IKKE skiftes ministerområde selvom stillingen er flyttet til ny ressort.
+  Ligeledes, skal der også fortsat indberettes med »gamle« områder, hvis tilbudsaktiviteten er oprettet før implementeringen.
+ NB: Til hjælp for sagsbehandlere har AMS udstillet en institutionsoversigt over statslige institutioner.
+ Der findes pt. følgende ministerområder:
+Ministerområde Startdato Slutdato 18. For virksomhedsrettede foranstaltninger: Stillingsbetegnelse på den foranstaltning personen deltager i Der skal indberettes en stillingsbetegnelse.
+Der skal der anvendes en kode for en konkret stillingsbetegnelse i Disco klassifikationen.
+Der er mulighed for, at indberette historiske stillingskoder når blot den historisk gældende periode for stillingskoden overlapper den periode som indberetningen vedrører.
+19. For kursusforløb: Kursustype (afholdelseskategori) Såfremt Aktiveringstypen har nr. 8 Øvrig uddannelsesindsats, 18 Opkvalificering ved ansættelse, ikke forsikrede eller 19 Opkvalificering ved ansættelse, forsikrede (se evt. punkt 9 i afsnit 44.1), så skal der indberettes en kursus afholdelseskategori type, jf. nedenstående skema:
+ Forløb registreret og indberettet med koderne 25-29 regnes for ordinære uddannelsesforløb efter § 32, stk. 1, nr. 1, i LAB, og skal således registreres i overensstemmelse med kapitel 7 i bekendtgørelse om en aktiv beskæftigelsesindsats.
+ Påbegyndte forløb registreret 11. oktober 2010 eller derefter skal registreres med ovenstående afholdelseskategorier.
+ Igangværende forløb indberettes fortsat med afholdelseskategorier i nedenstående skema.
+20. For kursusforløb: CVR-nummer og P-nummer på den virksomhed der udbyder aktiviteten Der skal indberettes CVR-nummer og P-nummer på den virksomhed/kursusudbyder hos hvem foranstaltningen finder sted.
+ Særligt vedrørende vejledning og opkvalificering (kursusforløb) i udlandet: Hvis virksomhed/kursusudbyder ikke har et dansk CVR- og P-nummer anvendes jobcenterets CVR- og P-nummer.
+21. For kursusforløb: Hold ID Der skal angives en unik systemgenereret identifikationsnøgle for det enkelte kursushold.
+Der skal også angives en identifikationsnøgle for enkeltpladser.
+46.2. Yderligere oplysninger, der ikke er indberetningspligtige I forbindelse med registreringerne i sagsbehandlingssystemer er en række yderligere oplysninger nødvendige af administrative hensyn.
+Disse oplysninger er ikke indberetningspligtige; men er begrebsmæssigt standardiseret af hensyn til udveksling af oplysninger mellem systemerne  fx når en borger flytter mellem kommuner, der anvender forskellige systemer.
+Disse oplysninger fremgår af webservice specifikationen.
+46.3. Formater For indberetning via webservice og FTP server henvises til den til en hver tid gældende webservice specifikation.
+Webservice specifikationen findes på følgende link:
+http://www.ams.dk/It/Webservicer/Arbejdsmarkedsportal-Webservicer-og-defi.aspx 47.1. Der er ikke yderligere vejledning til § 47.
+48.1. Indberetningsfrekvens Indberetningerne skal ske hver fredag senest kl. 06.00.
+Kommuner der anvender Jobplanmodulet i Arbejdsmarkedsportalen Kommuner der benytter Jobplanmodulet i Arbejdsmarkedsportalen skal sikre sig, at alle forløb i Jobplanmodulet registreres.
+Kommuner der anvender Jobplanmodulet i de kommunale it-systemer Kommuner der benytter Jobplanmodulet i de kommunale it-systemer skal sikre at indberetningen indeholder fulde datamængder, således at alle forløb i Jobplanmodulet indberettes.
+Alle forløb, planlagte, igangværende og afsluttede, som indgår i en åben jobplan på tidspunktet for konvertering til et andet it-system eller flytning til en anden kommune, skal indberettes.
+Fra jobplaner oprettet efter konverteringstidspunktet indberettes ligeledes planlagte forløb.
+For aktiviteter oprettet udenfor en jobplan indberettes både planlagte, igangværende og afsluttede aktiviteter.
+Således skal både konverterede og nyoprettede forløb indberettes.
+ Alle indberetninger skal være ajourført med kommunens registreringer af aktiveringsindsatsen.
+ 49.1. Der er ikke yderligere vejledning til § 49.
+Kapitel 9 Registrering og indberetning af beskæftigelsesforanstaltninger for ikke-forsikrede mv.
+ 50.1. Der er ikke yderligere vejledning til § 50.
+51.1. Personer omfattet af bekendtgørelsens § 51 Der skal indberettes for personer i følgende målgrupper, jf. lov om en aktiv beskæftigelsesindsats (LAB) § 23) :
+2. Personer, der modtager kontanthjælp eller starthjælp efter lov om aktiv socialpolitik (LAS) alene på grund af ledighed, heri indgår ledige, som modtager indsats efter forsøgsbekendtgørelsen (bekendtgørelse om forsøgsordninger efter lov om ansvar for og styringen af den aktive beskæftigelsesindsats, lov om en aktiv beskæftigelsesindsats og lov om sygedagpenge), hvor der fraviges fra bl.a. varighedsbegrænsningen i §§ 34-35 i lov om en aktiv beskæftigelsesindsats, 3. personer, der modtager kontanthjælp eller starthjælp efter LAS ikke alene på grund af ledighed, 4. personer med begrænsning i arbejdsevnen, som er omfattet af kapitel 6 i LAS, bortset fra personer der er omfattet af nr. 5 (revalidender og forrevalidender), 5. personer der modtager dagpenge under sygdom efter lov om sygedagpenge, 6. personer, under 65 år med varige begrænsninger i arbejdsevnen, der modtager førtidspension efter lov om socialpension, 7. personer med varige begrænsninger i arbejdsevnen, der ikke modtager førtidspension efter lov om social pension, og som ikke er i stand til at fastholde eller opnå beskæftigelse på normale vilkår på arbejdsmarkedet, dvs. personer der er visiteret til fleksjob og som modtager ledighedsydelse eller særlig ydelse, 8. personer med handicap, der har gennemført en uddannelse af mindst 18 måneders varighed, som kan berettige til optagelse i en arbejdsløshedskasse, og som ikke har opnået ansættelse efter op til 2 år efter uddannelsens afslutning, og som mangler erhvervserfaring inden for det arbejdsområde, som uddannelsen kvalificerer til, 9. personer under 18 år, som har behov for en uddannelses- og beskæftigelsesfremmende indsats, og 10. personer, der ikke er i beskæftigelse, og som ikke kan opfylde betingelserne for at modtage dagpenge efter lov om arbejdsløshedsforsikring m.v. eller kontant- og starthjælp efter LAS.
+ Derudover omfatter bekendtgørelsen de personer som kommunen stiller aktiveringstilbud og danskundervisning m.v. til rådighed for, som er på introduktionsydelse og/eller er selvforsørgende:
+1. Personer der modtager introduktionsydelse, jf. § 25 i Integrationsloven, 2. personer som modtager danskundervisning eller anden form for tilbud, men ikke modtager introduktionsydelse, jf. § 16, stk. 2, og § 23, stk. 5, i Integrationsloven, 3. personer der er selvforsørgede med forsørgerpligt, jf. § 28, stk. 2, i Integrationsloven, 4. personer der er omfattet af § 30 i LAS, dvs. personer som deltager i et tilbud og hvor ægtefællen har en indkomst der overstiger maksimum for udbetaling af offentlig forsørgelse.
+ Efter aftale med de kommunale it-leverandører skal der ligeledes indberettes for nedenstående personkreds som er omfattet af bekendtgørelsens § 43.
+1. Personer omfattet af lov om en aktiv beskæftigelsesindsats §§ 98c  98g (tilskud til virksomheder, der indgår uddannelsesaftale med voksne). Dette gælder såvel voksenelever der kommer fra ledighed som voksenelever, der kommer fra beskæftigelse.
+Der skelnes mellem disse to grupperinger ved hjælp af anvendelse af korrekt foranstaltning og hovedydelse  se nærmere i afsnittene herom.
+Kommuner der benytter Jobplanmodulet i Arbejdsmarkedsportalen eller som benytter Jobplanmodulet i Workbase skal indberette efter denne vejlednings kapitel 8, mens øvrige kommuner skal indberette efter dette kapitel.
+ 2. Kommunerne skal registrere og indberette oplysninger om personer, der er omfattet af tilskud til personlig assistance til personer med handicap, jf. §§ 4, 5 og 14 i lov om kompensation til handicappede i erhverv mv. samt personer, der er omfattet af tilskud til personlig assistance, jf. § 76, stk. 4, i lov om en aktiv beskæftigelsesindsats.
+3. Kommunerne skal registrere og indberette oplysninger om personer, der er omfattet af mentorfunktionen til enkeltpersoner, jf. § 80, stk. 2, 1. punktum, i lov om en aktiv beskæftigelsesindsats.
+Oplysningerne vedrører således mentorfunktion, der bevilges til konkrete enkeltpersoner (1. punktum) og ikke oplysninger om mentorfunktion bevilget pr. plads i stedet for den enkelte person (2. punktum). Afgrænsningen skyldes alene, at der relativt hurtigere kan stilles en teknisk indberetningsløsning til rådighed for oplysninger på individniveau fra kommunernes administrative systemer.
+ For brugere af Medialogics administrative systemer skal registrering og indberetning af oplysninger om personlig assistance og mentor ske fra 1. januar 2011, idet implementeringen af it understøtningen er sket medio december 2010. Brugere af KMDs administrative systemer skal registrere og indberette oplysninger om personlig assistance og mentor fra 9. maj 2011, idet implementeringen er sket primo maj 2011. Der er ikke krav om tilbageregistrering, men alene om registrering og indberetning af bevillinger fra og med disse tidspunkter.
+ I den forbindelse skal der tages højde for, at igangværende bevillinger om personlig assistance kan være givet indtil videre, men registrering skal så ske i forbindelse med, at jobcentrene senest et år efter at bevillingen er givet, skal tage stilling til, om bevillingen kan fortsætte, jf. § 15, stk. 4, i bekendtgørelse om kompensation til personer med handicap i erhverv m.v.
+52.1. Informationer der skal indberettes For personer anført i bekendtgørelsen § 51 skal der indberettes én record pr. person for hver foranstaltning personen deltager i.
+Der skal indberettes for igangværende, afsluttede og planlagte forløb.
+Såfremt der sker ændringer i oplysninger i tidligere indberettede forløb, skal disse ændringer ligeledes indberettes.
+ Endvidere skal alle forløb indberettes, uanset om personen er fraflyttet kommunen eller fx ophørt på ydelsen.
+For nedenstående punkter angives en række kodelister.
+Kodelisterne opdateres løbende og varsles i henhold til webserviceaftalerne.
+ For formater til de enkelte oplysninger, der skal indberettes, henvises til afsnit 52.2.
+ Indberetningen skal indeholde følgende informationer:
+1. For alle foranstaltninger: Identifikationsoplysninger for personen, der deltager i foranstaltningen Indberetningen skal indeholde CPR-nummer på personen, der deltager i foranstaltningen.
+2. For alle foranstaltninger: Kommunekode for indberettende kommune Der skal indberettes kommunenummer for indberettende kommune.
+3. For alle foranstaltninger: Foranstaltningstype med underliggende kategorier Der skal indberettes en foranstaltningskode, der angiver den foranstaltning personen deltager i.
+Foranstaltningen, der skal indberettes skal fordeles på følgende foranstaltninger og underforanstaltninger med tilhørende koder:
+ Forløb registreret og indberettet med koderne 160-164 regnes for ordinære uddannelsesforløb efter § 32, stk. 1, nr. 1, i LAB, og skal således registreres i overensstemmelse med kapitel 7 i bekendtgørelse om en aktiv beskæftigelsesindsats.
+ Påbegyndte forløb registreret 11. oktober 2010 eller derefter skal registreres med ovenstående foranstaltninger.
+ Igangværende forløb indberettes fortsat med foranstaltninger angivet i nedenstående skema.
+Særligt vedr. voksenelever Kun personer der indgår i et voksenelevforløb efter §§ 98 c  98 g i LAB skal registreres og indberettes med kode 150. Personer der er over 25 år og som deltager i en elevuddannelse, som ikke er omfattet af §§ 98 c  98 g i LAB, skal registreres og indberettes med den ydelse de modtager, jf. punkt 7, og med foranstaltningskode 160-164 for ordinær uddannelse, såfremt forløbet er påbegyndt efter 11. oktober 2010 eller 13. december 2010 (afhængig af kommunens it-leverandør), eller med kode 112, såfremt forløbet var i gang eller afsluttet pr. 11. oktober 2010 eller 13. december 2010 (afhængig af kommunens it-leverandør).
+4. For alle foranstaltninger: Startdato for det enkelte tilbud Startdato for den foranstaltning personen deltager i, skal indberettes.
+Startdatoen er den første dag i forløbet.
+5. For alle foranstaltninger: Slutdato for det enkelte tilbud Slutdato for den foranstaltning personen deltager i, skal indberettes.
+For afsluttede forløb skal slutdato være den sidste dag personen deltog i forløbet.
+For igangværende forløb indberettes den planlagte slutdato.
+For lange forløb, fx fleksjob hvor slutdatoen ikke altid er fastsat, indberettes datoen for hvornår personen forventes at gå på folkepension.
+ Ændringer i start- og slutdatoer vedr. tidligere indberetningsperioder skal altid indberettes.
+6. For alle foranstaltninger: Gennemsnitligt ugentligt timetal for den enkelte foranstaltning Det gennemsnitlige ugentlige timetal for den foranstaltning personen deltager i skal indberettes.
+Hvis flere forløb overlapper, og de den overlappende periode til sammen overstiger 37 timer om ugen i gennemsnit, nedskrives antallet af timer i hvert af forløbene forholdsmæssigt inden indberetningerne benyttes til statistikformål.
+Nedskrivningen foretages af Arbejdsmarkedsstyrelsen.
+ Ændringer i gennemsnitligt ugentlig timetal vedr. tidligere indberetningsperioder skal altid indberettes.
+7. For alle foranstaltninger: Hovedydelse for personen i foranstaltningen Det forsørgelsesgrundlag personen modtager i forbindelse med tilbuddet (herunder selvforsørgelse) skal indberettes fordelt efter nedenstående forsørgelsesgrundlag med tilhørende koder.
+Særligt vedr. personer i løntilskud Som udgangspunkt modtager en person i løntilskud løn under forløbet.
+Der skal derfor angives den ydelse personen ville have været berettiget til hvis personen ikke havde deltaget i løntilskud.
+Således skal en person, der er selvforsørget, jf.
+LAB § 2, nr. 10, og som deltager i et aktiveringstilbud, indberettes med ydelsen »Selvforsørgede«, dvs. kode 80.
+ Særligt vedr. voksenelever:
+Sagsbehandleren skal ved oprettelsen af et voksenelevforløb indgået efter §§ 98 c  98 g i LAB tage stilling til, om vokseneleven kommer fra ledighed (anvend hovedydelse 20 hvis personen er dagpengemodtagere eller anvend hovedydelse 10 eller 37, hvis personen er kontant- hhv. starthjælpsmodtager) eller fra beskæftigelse (anvend hovedydelse 90) på det tidspunkt, hvor uddannelsesaftalen er indgået.
+Kommer vokseneleven hverken fra ledighed eller beskæftigelse anvendes hovedydelse 88 »Ingen ydelse«.
+Modtager personen en anden ydelse ved oprettelsen af voksenelevforløbet, er det den ydelse der skal indberettes.
+Særligt vedr. unge mellem 15-17 år Unge mellem 15-17 år, som ikke er i uddannelse, og som efter kommunens vurdering har behov herfor, kan deltage i uddannelses- eller beskæftigelsesrettede foranstaltninger, jf.
+LAB § 2, stk. 1, nr. 9. Den unge modtager ikke ydelse fra kommunen under forløbet, men for at kunne følge og udskille de unge, skal de registreres og indberettes med hovedydelse 87. Kun unge mellem 15-17 år må registreres med denne hovedydelse.
+8. For alle foranstaltninger: Angivelse af, om der er tale om et åbent tilbud Det skal indberettes om tilbuddet er et åbent tilbud, dvs. et tilbud, jf.
+LAS § 41 stk. 3, som skal gives i forbindelse med en afgørelse om, at hjælpen ophører.
+Tilbuddet afbrydes ikke hvis personen udebliver.
+Personen får foretaget fradrag i hjælpen for de dage, hvor personen helt eller delvist er udeblevet fra tilbuddet, jf.
+LAS § 36.
+ Start- og slutdatoen for åbne tilbud skal indberettes.
+ Åbne tilbud optræder i overvejende grad blandt kommunernes egne projekter og tilbud, men kan også optræde hos private arbejdsgivere.
+9. For jobplan: Unik nøgle Der skal for hver jobplan angives en unik systemgenereret identifikationsnøgle af typen GUID.
+ Oplysningen indberettes når der udviklet en teknisk løsning der sikre at data kan modtages af Arbejdsmarkedsstyrelsen.
+10. For jobplan: Dato for oprettelse Dato for hvornår jobplanen er oprettet.
+Datoen angives af systemet.
+ Oplysningen indberettes når der udviklet en teknisk løsning der sikre at data kan modtages af Arbejdsmarkedsstyrelsen.
+11. For jobplan: Dato for revision Dato for hvornår den pågældende version af jobplanen senest er revideret.
+ Oplysningen indberettes når der udviklet en teknisk løsning der sikre at data kan modtages af Arbejdsmarkedsstyrelsen.
+12. For jobplan: Beskæftigelsesmål Det beskæftigelsesmål der er angivet i jobplanen skal indberettes.
+Der skal der anvendes en kode fra Disco klassifikationen.
+Beskæftigelsesmålet kan angives på niveau 1 (stillingsbetegnelser) eller niveau 2 (delområde) i Disco klassifikationen.
+Der er mulighed for, at indberette historiske stillingskoder når blot den historisk gældende periode for stillingskoden overlapper den periode som indberetningen vedrører.
+ Oplysningen indberettes når der udviklet en teknisk løsning der sikre at data kan modtages af Arbejdsmarkedsstyrelsen.
+13. For virksomhedsrettede foranstaltninger: Stedkode for hvor foranstaltningen foregår Der skal indberettes en stedkode for hvor tilbuddet foregår, jf. nedenstående opdeling og koder.
+Stedkoden skal angive hvor og hvem, der udbyder tilbuddet, og om det foregår i privat eller offentligt regi.
+ Offentlige arbejdsgivere defineres som: kommuner, kommunale fællesskaber, regioner, statsinstitutioner samt organisationer, foreninger, selskaber, institutioner og lignende med mindst 50 pct. i offentligt tilskud.
+14. For virksomhedsrettede foranstaltninger: Aktivitetsudbyder ved CVR- og P-nummer Der skal indberettes CVR-nummer og P-nummer på det sted/den virksomhed el.lign., hvor foranstaltningen finder sted.
+ Ved virksomhedsrettede foranstaltninger forstås virksomhedspraktik, løntilskud, fleksjob og voksenelevforløb.
+ Hvis virksomheden ikke er registreret med et CVR- og P-nummer; men driver lovlig virksomhed i Danmark og der er tale om løntilskudsansættelse eller virksomhedspraktik, kan angivelse af CVR- og P-nummer finde sted som følger:
+  Hvis ansættelsen er på en udenlandsk ambassade i Danmark: Anvendes udenrigsministeriets CVR- og P-nummer og stedkoden efter punkt 13 i dette afsnit angives til en kode, der vedrører ansættelse i privat virksomhed  dette er vigtigt af hensyn til opgørelse af løntilskudskvoter m.v.
+  Hvis ansættelsen er på en privat virksomhed, der driver lovlig virksomhed i Danmark; men som ikke har et dansk CVR- og P-nummer: Her anvendes jobcenterets CVR- og P-nummer og stedkoden efter punkt 13 i dette afsnit angives til en kode, der vedrører ansættelse i privat virksomhed  dette er vigtigt af hensyn til opgørelse af løntilskudskvoter m.v.
+ Særligt ved virksomhedspraktik i udlandet for sygedagpengemodtagere: Hvis virksomheden ikke har et dansk CVR- og P-nummer anvendes jobcenterets CVR- og P-nummer.
+ Særligt vedr. mentor:
+ CVR- og P-nummer et knyttet til den virksomhed, hvor aktiviteten, kurset eller ansættelsen er, og ikke den virksomhed som mentoren kommer fra.
+ Særligt vedr. personlig assistance:
+ Ved personlig assistance, hvor assistenten ikke er ansat i virksomheden, hvor personen med handicap arbejder, skal CVR- og P-nummer være knyttet til den virksomhed, hvor den handicappede arbejder, og ikke den virksomhed (vikar- eller tolkebureau) som assistenten kommer fra.
+15. For virksomhedsrettede foranstaltninger: Adresse på arbejdssted ved manglende CVR- og/eller P-nummer Der kan i enkelte tilfælde være situationer, hvor der ikke kan fremskaffes et P-nummer, fx på kommunens egne projekter o. lign.
+I disse tilfælde skal CVR-nummer samt navn og adresse på aktiveringsstedet indberettes.
+Navn Adresse Postnr.
+By 16. For løntilskud i statslige institutioner: Ministerområde Ved alle tilbud om ansættelse med løntilskud i en statslig institution eller en selvejende institution, der regnes som statslig, skal angives hvilket ministerområde institutionen hører under.
+Der gælder følgende for registreringen:
+  Ved nyoprettelse af tilbudsaktiviteter er det kun ministerområder, hvor slutdatoen ikke er overskredet, der skal kunne vælges af sagsbehandlere.
+  Udgåede områder skal stadig kunne vises for sagsbehandlere.
+  Ved opdatering af tilbud oprettet før implementeringen af den nye liste, skal der IKKE skiftes ministerområde selvom stillingen er flyttet til ny ressort.
+  Ligeledes, skal der også fortsat indberettes med »gamle« områder, hvis tilbudsaktiviteten er oprettet før implementeringen.
+ NB: Til hjælp for sagsbehandlere har AMS udstillet en institutionsoversigt over statslige institutioner.
+ Der findes pt. følgende ministerområder:
+Ministerområde Startdato Slutdato Kode 17. For virksomhedsrettede foranstaltninger: Stillingsbetegnelse på den foranstaltning personen deltager i Der skal indberettes en stillingsbetegnelse på den foranstaltning personen deltager i.
+Stillingsbetegnelsen skal indberettes i forbindelse med virksomhedspraktik og ansættelse med løntilskud samt fleksjob, jf. kapitel 11-13 i LAB.
+Endvidere skal der indberettes stillingsbetegnelse for voksenelevforløb.
+Stillingsbetegnelsen skal være gældende i henhold til DISCOWEB, DISCOAMS eller DISCO 88 klassificeringskoder.
+Hele klassificeringskoden skal indberettes.
+Klassificeringskoden skal være gældende i hele eller dele af foranstaltningen.
+DISCOWEB opdateres løbende og lægges ud således at alle it-leverandører har adgang til gældende versioner.
+Arbejdsmarkedsstyrelsen sikre dette.
+Det samme er gældende for DISCOAMS.
+DISCO-88 opdateres løbende af Danmarks Statistik.
+Der henvises derfor til nedenstående link fra Danmarks Statistiks hjemmeside for en liste over stillingsbetegnelser:
+http://www.dst.dk/Vejviser/Portal/loen/DISCO/DISCO-88/Fagbetegnelser.aspx 18. For kursusforløb: CVR-nummer og P-nummer på den virksomhed der udbyder aktiviteten Der skal indberettes CVR-nummer og P-nummer på den virksomhed/kursusudbyder hos hvem foranstaltningen finder sted.
+ Særligt vedrørende vejledning og opkvalificering (kursusforløb) i udlandet: Hvis virksomhed/kursusudbyder ikke har et dansk CVR- og P-nummer anvendes jobcenterets CVR- og P-nummer.
+19. For kursusforløb: Hold ID Der skal angives en unik systemgenereret identifikationsnøgle for det enkelte kursushold.
+Der skal også angives en identifikationsnøgle for enkeltpladser.
+52.2. Formater For indberetning via webservice og FTP server henvises til den til en hver tid gældende webservice specifikation.
+Webservice specifikationen findes på følgende link:
+http://www.ams.dk/It/Webservicer/Arbejdsmarkedsportal-Webservicer-og-defi.aspx Indberetninger via Arbejdsmarkedsportalen server skal følge nedenstående parameterværdier og formater:
+ 53.1. Der er ikke yderligere vejledning til § 53.
+54.2. Indberetningsfrekvens Indberetningerne skal ske hver fredag senest kl. 06.00.
+Kommunen skal sikre sig, at indberetningerne indeholder fulde datamængder fra 1. januar 2007, og løbende ajourføres med kommunens registreringer af aktiveringsindsatsen.
+Kun aktiveringsforløb, der er registreret i de kommunale sagsbehandlingssystemer, vil blive indberettet til Arbejdsmarkedsstyrelsens og anvendt af det statistiske datavarehus samt af det fælles datagrundlag, dvs. kun forløb registreret i de kommunale sagsbehandlingssystemer vil indgå i styring og opfølgning.
+55.1. Indberetningsmetode Kommunen skal indberette data til Arbejdsmarkedsstyrelsen elektronisk i formater som beskrevet i afsnit 52.2.
+ Oplysningerne skal indberettes på én af følgende måder:
+ 1) Indberetning via en webservice som stilles til rådighed af Arbejdsmarkedsstyrelsen.
+ 2) Indberetning via en web id på Arbejdsmarkedsportalen, hvor brugeren kan uploade en fil i et fastlagt format (flad fil  fx i form af eksport af et Excel ark). Websiden validerer formatet af den uploadede fil.
+ 3) Indberetning via FTP-server.
+ Yderligere præciseringer og information om den elektroniske indberetning kan findes på Arbejdsmarkedsstyrelsens hjemmeside, AMS.dk på følgende link:
+http://www.ams.dk/It/Indberetning-af-data/Indberetning-af-informationer-om-arbejds.aspx Kapitel 10 Registrering og indberetning vedr. hjælpemidler 56.1. Tilskud omfattet af bekendtgørelsen Som følge af etableringen af det enstrengede kommunale beskæftigelsessystem pr. 1. august 2009 har kommunerne overtaget administrationen og finansieringen af ordningerne vedr. hjælpemidler for personer, der er medlem af en arbejdsløshedskasse.
+Brugen af hjælpemidler er steget meget i flere år, og der findes i dag ikke aktivitetsoplysninger for området.
+Der er derfor behov for at opgøre aktiviteten for alle personer (både for de der er medlem af en arbejdsløshedskasse og de der ikke er medlem af en arbejdsløshedskasse).
+ Tilskud til hjælpemidler ydes i henhold til lov om en aktiv beskæftigelsesindsats.
+57.1. Oplysninger der skal indberettes Kommunen skal indberette oplysninger om bevillinger af tilskud til hjælpemidler, jf. lov om en aktiv beskæftigelsesindsats.
+Der skal ikke oplyses om udlån af hjælpemidler.
+ Der skal indberettes særskilt for to typer hjælpemiddel, der ydes tilskud til, dvs. for dels undervisningsmateriale (jf. § 57, stk. 1, nr. 1) samt arbejdsredskaber og mindre arbejdspladsindretninger (jf. § 57, stk. 1, nr. 2).
+Kommunen skal indberette oplysninger om både personen, der anvender hjælpemidler, og virksomheden, hvis det er virksomheden der modtager tilskuddet Indberetningen skal indeholde følgende oplysninger:
+1. Kommunekode for indberettende kommune Der skal indberettes kommunekode for indberettende kommune.
+2. CVR-nummer og P-nummer på virksomheden, hvis det er virksomheden modtager tilskuddet Der skal indberettes CVR-nummer og P-nummer på virksomheden, hvis det er virksomheden der modtager tilskuddet.
+3. Dato for godkendelse af bevilling af tilskud Godkendelsesdatoen for bevillingen skal indberettes.
+4. Identifikationsoplysninger for personen, der anvender hjælpemidlerne Der skal indberettes identifikationsoplysninger for personen, der anvender hjælpemidler.
+Som udgangspunkt skal indberetningen indeholde CPR-nummer på personen, der anvender hjælpemidler.
+For personer, der ikke har et CPR-nummer indberettes anden identifikationsoplysning, fx udlændingenummer.
+ 57.2. Formater:
+ Indberetningerne skal følge nedenstående parameterværdier og formater:
+58.1. Indberetningsfrekvens Der skal løbende indberettes oplysninger om bevillinger, når en teknisk indberetningsløsning er releaset.
+ Kommunen skal indberette oplysninger om planlagte, igangværende og afsluttede bevillinger.
+ 59.1. Der er ikke yderligere vejledning til § 59.
+60.1. Indberetningsmetode Oplysningerne vedr. hjælpemidler registreres, når en teknisk indberetningsløsning er releaset.
+Kapitel 11 Digital kommunikation fra jobcentre til arbejdsløshedskasser 61.1. Formålet med den digitale kommunikation fra jobcentre til a-kasser er:
+  At a-kasserne får (hurtig) besked om, at de skal foretage en rådighedsvurdering.
+  At a-kasserne kan foretage en korrekt udbetaling af dagpenge til den ledige.
+  At a-kasserne med den information, som de får i underretningerne, så vidt muligt har et tilstrækkeligt og ensartet grundlag for deres sagsbehandling  og dermed spare både a-kassen og jobcenteret for overflødig administration og yderligere »manuel« kommunikation i form af telefonopkald, breve og fax m.v.
+ Hændelser eller oplysninger, der skal sendes til den lediges a-kasse, registreres på en af følgende måder:
+  Af den ledige selv i Jobnet.
+  Af en jobcentermedarbejder i et kommunalt sagsbehandlingssystem eller i Arbejdsmarkedsportalen.
+  Af en medarbejder hos en anden aktør i et kommunalt sagsbehandlingssystem eller i Arbejdsmarkedsportalen.
+  Af en medarbejder i en a-kasse i a-kassens it-system eller i Arbejdsmarkedsportalen.
+ Beskederne sendes til a-kassens it-system via det fælles datagrundlag.
+62.1. Personkreds For definition af de enkelte kontaktgrupper  se pkt. 6.1.
+Udover ledige dagpengemodtagere, skal der også indberettes når et medlem af en a-kasse ansættes i et fleksjob.
+Denne indberetning skal finde sted, hvad enten personen kommer fra en offentlig forsørgelsesydelse eller fra beskæftigelse.
+ 62.2. Se vejledningen til § 64.
+63.1. En række forskellige hændelser i kontakten med en ledig kan betyde, at der på baggrund af bestemmelserne i bekendtgørelse om en aktiv beskæftigelsesindsats, skal sendes en besked (underretning eller servicemeddelelse) til personens a-kasse.
+Eksempler på hændelser, hvor der skal sendes besked til a-kassen:
+  Udeblivelse fra en indkaldt jobsamtale.
+  Ophør i et tilbud uden at det er aftalt med jobcenteret.
+  Manglende ajourføring af cv.
+  Afslag på henvist arbejde.
+  Jobcenteret er i tvivl om, personen står til rådighed.
+ En samlet oversigt over hændelsestyper findes i bilag 4 til nærværende vejledning.
+ Hændelser efter § 63 skal ikke registreres og indberettes for medlemmer af en a-kasse, der ansættes i et fleksjob.
+64.1. § 107 i bekendtgørelse om en aktiv beskæftigelsesindsats fastsætter, at jobcenteret skal underrette den lediges a-kasse, når pågældende påbegynder og afslutter et tilbud.
+Bestemmelserne i § 64, stk. 1, præciserer, hvornår disse underretninger skal registreres og indberettes.
+ Ad. nr. 1. Bestemmelsen præciserer, hvornår underretning til a-kassen om påbegyndelse af et tilbud skal finde sted.
+ Ad. nr. 2. Dette skal foregå automatisk, jf. § 66.
+ Ad. nr. 3. Ændringer i løbet af tilbuddet:
+ Hvis der i løbet af tilbuddet sker ændringer i tilbuddets start- og eller slutdato, er der tale om afgivelse af et nyt tilbud, og den ledige skal orienteres herom.
+Indgår tilbuddet i en jobplan, skal denne revideres.
+ Hvis der i løbet af tilbuddet sker ændringer i det gennemsnitlige ugentlige timetal lukkes aktiviteten  dvs. den afbrydes med årsagen »revision af plan« eller tilsvarende.
+Slutdatoen sættes til den sidste dag med det »gamle« timetal.
+Der oprettes en ny aktivitet med det nye timetal og med startdato den dag, som det nye timetal er gældende fra.
+Ad.
+Nr. 4 og 5. Ændringer efter at den oprindeligt registrerede slutdato er overskredet:
+ Hvis der er tale om, at et forløb forlænges og, at dette først registreres efter den oprindelige slutdato samt, at forløbet er igangværende på registreringstidspunktet, skal der sendes en underretning.
+I dette tilfælde er der tale om afgivelse af et nyt tilbud til den ledige.
+Dette kan ske på én af to måder:
+  Hvis forløbet faktisk er slut, og der således er tale om en korrektion af datoer fremsendes blot en ny underretning.
+ 64.2. Der er ikke yderligere vejledning til stk. 2.
+65.1. Informationer, der skal indberettes 1. Identifikationsoplysninger for personen Indberetningen skal indeholde CPR-nummer på personen.
+2. Kommunekode for indberettende kommune Der skal indberettes kommunenummer for indberettende kommune.
+3. Hændelsesdatoen Hændelsesdatoen er den dato, hvor den begivenhed, der har forårsaget, at der skal sendes en besked til a-kassen, har fundet sted.
+Eksempler på hændelsesdatoer:
+  Ved udeblivelse fra en jobsamtale, er det den dato, hvor samtalen skulle være afholdt  og hvor den ledige ikke mødte frem.
+  Ved en annullering af et tilbud, er det den dato, hvor jobcenteret besluttede at annullere tilbuddet.
+  Hvis et tilbud afbrydes er det den faktiske dato personen er stoppet i tilbuddet.
+ Bemærk: Hændelsesdatoen kan være forskellig fra den dato hændelsen registreres i kommunens sagsbehandlingssystem.
+4. Hændelsestypen Hændelsestypen angiver den begivenhed, der har forårsaget, at der skal sendes en besked til a-kassen.
+Hændelsestypen vil (i de fleste tilfælde) dannes automatisk.
+En samlet oversigt over hændelsestyper og deres hjemmel findes i bilag 4 i nærværende vejledning.
+5. Eventuel årsag for hændelsen Ved en række hændelser registreres der en årsag til hændelsen i jobcenterets sagsbehandlingssystem.
+Fx hvis en borger, uden at det er aftalt med jobcenteret, udebliver fra (dvs. afbryder) et tilbud, registreres årsagen »Afbrudt af borger«.
+For en række hændelser er det obligatorisk at registrere en årsag.
+Hvilke hændelser, der obligatorisk skal have en årsag registreret, fremgår af bilag 4 til nærværende vejledning.
+6. Eventuel forklarende kommentar til hændelsen i fritekst Ved en række hændelser eller beskeder er det muligt at registrere en bemærkning eller kommentar i fritekst, som sendes med til a-kassen.
+For en række hændelser er det obligatorisk at registrere en bemærkning, der overfor a-kassen uddyber hændelsen.
+Hvilke hændelser, der obligatorisk skal have en fritekst registreret, fremgår af bilag 4 til nærværende vejledning.
+ 65.2. Udover oplysningerne efter stk. 1, skal der i forbindelse med henvisninger med henblik på ansættelse i ordinær beskæftigelse eller løntilskud/virksomhedspraktik indberettes oplysninger om virksomheden og jobbet:
+1. Identifikationsoplysninger for virksomheden Indberetningen skal indeholde virksomhedens navn, adresse, kontaktoplysninger i form af telefon, fax eller e-mail.
+2. Oplysninger om jobbet Indberetningen skal indeholde ordrenummeret fra Jobnet samt oplysninger om virksomhedens kontaktperson i forbindelse med jobbet (navn samt telefon eller e-mail).
+ 65.3. Udover oplysningerne efter stk. 1, skal der for indberetninger vedr. deltagelse i tilbud indberettes følgende oplysninger:
+1. Identifikationsoplysninger for virksomheden Indberetningen skal indeholde virksomhedens CVR- og P-nummer.
+Hvis virksomheden ikke er registreret med et CVR- og P-nummer; men driver lovlig virksomhed i Danmark, kan angivelse af CVR- og P-nummer finde sted som følger:
+  Hvis ansættelsen er på en udenlandsk ambassade i Danmark: Anvendes Udenrigsministeriets CVR- og P-nummer og jobordretypen angives til en af de i ovennævnte typer, der vedrører ansættelse i privat virksomhed  dette er vigtigt af hensyn til opgørelse af løntilskudskvoter m.v.
+  Hvis ansættelsen er på en privat virksomhed, der driver lovlig virksomhed i Danmark, men som ikke har et dansk CVR- og P-nummer: Her anvendes jobcenterets CVR- og P-nummer og jobordretypen angives til en af de i ovennævnte typer, der vedrører ansættelse i privat virksomhed  dette er vigtigt af hensyn til opgørelse af løntilskudskvoter m.v.
+2. Aktuel status for aktiviteten Der skal her indberettes den status, aktiviteten har på registrerings-/indberetningstidspunktet.
+For gyldige status angivelser henvises til webservicespecifikationen.
+3. Start- og slutdato for aktiviteten Tilbuddets aktuelle og faktiske start- og slutdato på registrerings-/indberetningstidspunktet skal indberettes.
+Bemærk, at hændelsesdatoen kan være forskellig fra registreringstidspunktet.
+ Hvis en aktivitet ikke påbegyndes, skal den annulleres og indberettes med de oprindelige start- og slutdatoer; men med status »Annulleret« eller tilsvarende.
+Hvis en aktivitet afbrydes (dvs. personen er påbegyndt; men stopper inden den planlagte slutdato), skal der ske underretning med status »Afbrudt« eller tilsvarende.
+Her er slutdatoen den faktiske dato personen er stoppet i tilbuddet.
+4. Gennemsnitligt ugentligt timetal for aktiviteten Af hensyn til a-kassens beregning af den lediges ret til dagpenge, skal tilbuddets gennemsnitlige ugentlige time- og minuttal indberettes.
+ 66.1. Bestemmelsen indebærer en forpligtigelse for kommunen til, at det it-system, der anvendes i sagsbehandlingen i jobcenteret, lever op til kravet om automatisk indberetning.
+ 67.1. Der er ikke yderligere vejledning til § 67.
+ 68.1. Der er ikke yderligere vejledning til § 68.
+69.1. Indberetningsmetode Kommunen skal indberette data til Arbejdsmarkedsstyrelsen elektronisk i de formater, som er beskrevet i afsnit 8.5.2.
+69.2. Indberetningsløsninger Jobcentre, der er gået over til at anvende et kommunalt it system for forsikrede ledige, skal indberette oplysningerne for alle kontaktgrupper via den webservice, som stilles til rådighed af Arbejdsmarkedsstyrelsen.
+ Jobcentre, der anvender Arbejdsmarkedsportalen for forsikrede ledige, skal anvende den browserbaserede registreringsløsning i Arbejdsmarkedsportalen for kontaktgruppe 1 (dagpengemodtagere). For øvrige kontaktgrupper skal oplysningerne indberettes via ovennævnte webservice fra det kommunale it system.
+69.3. Indberetningsfrekvens Indberetning skal ske umiddelbart og automatisk, når en given hændelse registreres i sagsbehandlingssystemet.
+Særlige bestemmelser og forhold, vedrørende hvornår hændelser skal registreres, er angivet under de foregående punkter i forbindelse med de enkelte hændelser.
+Arbejdsmarkedsstyrelsen, den 25. august 2011 Klaus Henrik Langager Bilag 1 Der er rejst spørgsmål om, hvilken mål-/kontaktgruppe, der skal indberettes online til det fælles datagrundlag  og dermed foretages match i forhold til  hvis en person kan siges at være omfattet af mere end én mål-/kontaktgruppe eller modtager mere end én form for ydelse (fx supplerende kontanthjælp).
+Hovedprincippet for at afgøre dette er, hvorvidt jobcenteret varetager beskæftigelsesindsatsen for personen samt hvilken lovgivning, der regulerer personens kontaktforløb.
+Dette vil normalt være bestemt af hvilken af lovgivningens målgrupper personer er omfattet af, hvilket igen normalt bestemmes af hovedydelsen.
+ Heraf følger bl.a., at hvis en person modtager en ydelse; men dette ikke medfører, at jobcenteret varetager en aktiv beskæftigelsesindsats med et kontaktforløb på baggrund af den eller de love, der regulere dette, skal der ikke indberettes en mål-/kontaktgruppe for vedkommende og dermed er personen heller ikke omfattet af fx matchmodellen.
+ Spørgsmålet er altså afgørende for både at finde ud af, hvilke regler en person er omfattet af mht. kontaktforløb, match, aktivering m.v. og dermed også for design af diverse it-systemer til registrering, opfølgning m.v.
+ Nr.
+Gruppe/ Ydelse Gruppe/ Ydelse Kommentar AMS svar Bilag 2 Vejledning til bekendtgørelsens bilag 1 Fravær & fritagelser Skemaerne i dette bilag angiver hvilke årsager til fravær, fritagelser og periodiske forhold, der skal registreres og indberettes for de enkelte kontaktgrupper alt efter hvilken matchgruppe en person befinder sig i.
+Desuden angives regler om slutdatoer og det anføres hvilke fritagelser et givet forhold medfører.
+ Hjemlen til, at en person kan være omfattet af et fravær, en fritagelse eller et periodisk forhold findes i følgende love:
+  Lov om en aktiv beskæftigelsesindsats.
+  Lov om aktiv socialpolitik.
+  Lov om integration af udlændinge i Danmark (integrationsloven).
+  Lov om sygedagpenge (sygedagpengeloven).
+  Samt i bekendtgørelser udstedt i medfør af de nævnte love.
+ Skemaet indeholder endvidere forhold, der udelukkende er administrative.
+Hvad betyder en fraværs- eller fritagelsesregistrering Rådighedsområdet:
+Dækker over tilmelding som arbejdssøgende, bekræft aktiv jobsøgning, CV samt rådighed for henvist arbejde.
+Det er i skemaet specificeret, hvad der er gældende i den konkrete situation for en person i en given kontaktgruppe og match.
+ Aktivering:
+  For personer i kontaktgruppe 1 (dagpengemodtagere) anvendes begrebet »Aktivering« i forhold til reglerne om »ret og pligt« til tilbud, jf. lov om en aktiv beskæftigelsesindsats kapitel 16.
+  For personer i kontaktgruppe 2 (ansøgere og modtagere af kontant- eller starthjælp) anvendes begrebet »Aktivering« både i forhold til reglerne om »ret og pligt« til tilbud, jf. lov om en aktiv beskæftigelsesindsats kapitel 17 og i forhold til hvorvidt personen i øvrigt har pligt til at stå til rådighed for tilbud efter lov om en aktiv beskæftigelsesindsats efter lov om aktiv socialpolitik § 13, stk. 3.
+  Personer i kontaktgruppe 3 (ansøgere og modtagere af introduktionsydelse) har ikke »ret og pligt« til tilbud efter lov om en aktiv beskæftigelsesindsats; så her anvendes begrebet kun om, hvorvidt de har pligt til at stå til rådighed for tilbud efter integrationsloven.
+  Personer i kontaktgruppe 4 og 5 (revalidender og forrevalidender) har ikke »ret og pligt«; så her anvendes begrebet kun om, hvorvidt de  i henhold til lov om aktiv socialpolitik § 13, stk. 3 og § 53  har pligt til at tage imod tilbud efter lov om en aktiv beskæftigelsesindsats.
+  Personer i kontaktgruppe 6 (sygedagpengemodtagere) har ikke »ret og pligt« så her anvendes begrebet kun om, hvorvidt de har pligt til at stå til rådighed for tilbud efter sygedagpengeloven § 21, stk. 1.
+  Personer i kontaktgruppe 7 (fleksjobvisiterede, der modtager ledighedsydelse eller særlig ydelse) har ikke »ret og pligt«; så her anvendes begrebet kun om, hvorvidt de - i henhold til lov om aktiv socialpolitik § 74b og g - har pligt til at stå til rådighed for tilbud efter lov om en aktiv beskæftigelsesindsats.
+ NB: Personer i match 3 kan ikke deltage i en aktiv indsats efter LAB, da manglende evne til at deltage i tilbud er kriteriet for at være i match 3. Personer i match 3 er dermed fritaget for aktivering som sådan.
+ Kontaktforløb:
+ Angiver hvorvidt personen er omfattet af det kontaktforløb, der gælder for den givne målgruppe.
+ Årsag til fravær eller fritagelse m.v.
+Skal registreres for følgende kontaktgrupper Dato regler Fritager for Bilag 3 Registrering af introduktionsydelsesmodtagere i det fælles datagrundlag  hvad kan lade sig gøre? Registreringer i jobcenteret af introduktionsydelsesmodtager i fm. beskæftigelsesindsatsen er reguleret af Bekendtgørelse om registrering og indberetning af data på beskæftigelsesområdet til det statistiske datavarehus og det fælles datagrundlag i Arbejdsmarkedsstyrelsen (Bek. 441 af 13. maj 2011)  herefter forkortet: BRI.
+ Desuden findes bestemmelser i Bekendtgørelse om en aktiv beskæftigelsesindsats (Bek. 58 af 27. januar 2011)  herefter forkortet BAB.
+I det følgende findes en oversigt over, hvad der kan lade sig gøre af registreringer for introduktionsydelsesmodtagere i det fælles datagrundlag - dvs., hvad der kan indberettes til datagrundlaget fra de kommunale it-systemer.
+Det er fra det fælles datagrundlag, at der trækkes statistiske opgørelser til Jobindsats.dk o.a.
+ Oversigten er baseret på, hvad der findes af valideringer i de webservicer, som modtager data til det fælles datagrundlag og siger således ikke noget om, hvad det enkelte kommunale it-system tillader af registreringer.
+Tilmelding, afmelding og mål-/kontaktgruppe Jobcenteret har pligt til at registrere eller sikre registrering af introduktionsydelsesmodtagere i det fælles datagrundlag i flg. situationer:
+Jobsamtaler & matchvurdering Der er ikke pligt til at foretage registrering af jobsamtaler og matchvurdering af introduktionsydelsesmodtagere i det fælles datagrundlag.
+ Hvis der foretages en matchvurdering af introduktionsydelsesmodtagere, skal dette imidlertid registreres i det fælles datagrundlag (BRI §§ 12 & 13).
+ Jobsamtaler kan kun registreres i det fælles datagrundlag, hvis der samtidig registreres en matchvurdering.
+ Hvis jobcenteret derfor ikke ønsker at foretage en matchvurdering af introduktionsydelsesmodtagere, vil registrering af jobsamtaler skulle foretages i den kommunale journal, på papir eller tilsvarende.
+Fravær og fritagelser Jobcenteret har pligt til at registrere oplysninger om fravær og fritagelser i det fælles datagrundlag (BRI §§ 19 & 20).
+ Fravær og fritagelser kan kun registreres i det fælles datagrundlag, hvis der samtidig findes registrering af en matchkategori  dog er det ikke nødvendigt, at der er registreret en jobsamtale.
+ For at registrere fravær og fritagelser er det derfor nødvendigt for brugeren først at registrere en matchvurdering.
+ Indkaldelser til samtaler m.v.
+ Jobcenteret har pligt til at registrere indkaldelser til jobsamtaler m.v. (BRI §§ 25 & 26).
+ Der er ingen problemer i det fælles datagrundlag i ft. denne registrering.
+CV samtaler Jobcenteret har pligt til at registrere afholdte CV samtaler samt CV godkendelsesstatus (BRI § 38 & 39).
+ Der er ingen problemer i det fælles datagrundlag i ft. denne registrering.
+Beskæftigelsesforanstaltninger (tilbud m.v.) Jobcenteret har pligt til at registrere oplysninger vedr. beskæftigelsesforanstaltninger m.v. (BRI §§ 50 & 51).
+ Der er ingen problemer i det fælles datagrundlag i ft. denne registrering.
+Bilag 4 Hændelsestyper (koder) i den digitale kommunikation fra jobcentre til a-kasser - oversigt Vedr. andre aktører: Når det i skemaet fremgår, at registreringen kan foretages af en anden aktør, forudsætter dette, at denne registrering er en del af de opgaver, der er udlagt til den pågældende aktør for en given person.
+T: Hændelsestyper for tilmelding A: Hændelsestyper for afmeldinger Kode Hændelse Registrering  hvem kan foretage den? Supplerende obligatoriske oplysninger F: Hændelsestyper, der vedrører henvisninger og henvisningsrelevante oplysninger samt servicemeddelelser Kode Hændelse Registrering  hvem kan foretage den? Supplerende obligatoriske oplysninger R: Øvrige underretningspligtige hændelser omkring rådighed Kode Hændelse Registrering  hvem kan foretage den? Supplerende obligatoriske oplysninger I: Hændelsestyper vedrørende deltagelse i tilbud  Der sendes en I-P ved påbegyndelse eller ændringer i et tilbud.
+  Tilsvarende sendes en I-A ved afslutning, annullering, afbrydelse af et tilbud.
+  Ved opdatering af et tilbud. hvor der allerede er sendt en IA, sendes en ny I-A med de nye oplysninger (se vejledningens pkt. 64.1).
+  I hændelsen kan have nedenstående værdier, der er udtryk for hvilket tilbud der er tale om og har dermed for a-kassens udbetaling af ydelser.
+Kode Hændelse Registrering  hvem kan foretage den? Supplerende obligatoriske oplysninger V: Henvendelse efter tidligere udeblivelse C: CV nummer Grundoplysninger Kvitteringer til a-kassen Hændelsestyper (koder) i den digitale kommunikation fra a-kasser til jobcentre - oversigt 1) Arbejdsmarkedsstyrelsen er klar over, at der også har været tekniske problemer i visse it-systemer mht. korrekt afsendelse af underretninger til a-kasserne.
+Det ovenfor nævnte drejer sig om situationer, der alene kan henføres til fejlagtig eller manglende registreringer fra jobcentre.
+ 2) Det kan til orientering oplyses, at for så vidt angår bestemmelser i databekendtgørelsen, der også omfatter introduktionsydelsesmodtagere, findes der bemyndigelse i lov om ansvaret for og styringen af den aktive beskæftigelsesindsats til, at Beskæftigelsesministeriet kan udstede disse.
+ 3) Nummereringen nedenfor følger nummereringen i LAB § 2.

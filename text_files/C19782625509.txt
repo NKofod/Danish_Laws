@@ -1,0 +1,1691 @@
+Del I: ALMINDELIGE BESTEMMELSER I.1. Gyldighedsområde De i dette cirkulære anførte betingelser og specifikationer for  
+
+ abonnentlinienettets signaleringsmæssige egenskaber og for liniesignalering  
+
+ på abonnentledninger beskriver den seneste udformning af det eksisterende på  
+
+ elektromekanisk teknik og analog transmission baserede net.
+ Cirkulærets bestemmelser gælder for den fremtidige udbygning af centraler  
+
+ (så vidt der findes bestemmelser herom i cirkulæret) og abonnentledninger og  
+
+ -installationer i dette net, og eksisterende anlæg skal i den udstrækning, de  
+
+ praktiske og økonomiske muligheder tillader det, bringes i overensstemmelse  
+
+ med nærværende cirkulæres bestemmelser.
+ Desuden skal de interfacebetingelser, der kan udledes af  
+
+ specifikationerne, være gældende, hvor der sker overgang fra digitalteknik  
+
+ til det på nærværende cirkulære baserede analognet eller omvendt.
+1.2. Miljøkrav De i dette afsnit anførte miljøkrav er beregnet for udstyr, der anbringes  
+
+ i ikke kontrolleret miljø.
+ For udstyr der kun anvendes i lokaler med klimaanlæg kan der fraviges fra  
+
+ nærværende krav.
+ 1.2.1 Udstyr på telefoncentraler samt PABC'er.
+ Temperatur og fugtighedsområde for udstyret fremgår af fig. 1.2.1. Der  
+
+ kræves korrekt funktion i hele udstyrets levetid inden for område A og heraf  
+
+ i min. 10000 timer inden for område B, forudsat der ikke indtræffer  
+
+ kondensation.
+ Temperatur og fugtighed måles 1 m over gulv og 0.35 m fra udstyret.
+ I.2.2 Abonnentudstyr der anvendes indendørs.
+Temperatur- og fugtighedsområde for udstyret fremgår af fig.
+I.2.2. Der  
+
+ kræves korrekt funktion i hele udstyrets levetid inden for område A og heraf  
+
+ i min. 10000 timer inden for område B.
+ I.2.3. Abonnentudstyr der anvendes udendørs.
+Temperatur- og fugtighedsområde for udstyret fremgår af fig.
+I.2.3. Der  
+
+ kræves korrekt funktion i hele udstyrets levetid inden for område A og heraf  
+
+ i min. 10000 timer inden for område B.
+I.3. Forudsætninger De i nærværende cirkulære anførte bestemmelser om abonnentlinienettets  
+
+ egenskaber og specifikationer for liniesignaleringen på abonnentledninger er  
+
+ udarbejdet under forudsætning af nedennævnte strømfødningskriterier.
+ I.3.1. Fødespænding fra offentlig central.
+Nominelt 48 volt med variationsområde 44-56 volt.
+Pluspolen er forbundet  
+
+ til neutral jord.
+ I.3.2. Fødespænding fra PABC'er.
+ Nominelt 48 volt med variationsområde 44-56 volt.
+ I.3.3. Fødespolemodstande.
+ Normalt 2 x 250 ohm +/- 10% og/eller 2 x 400 ohm +/- 10%.
+I linieblokadetilstand kan det tillades, at fødemodstanden har en større  
+
+ værdi.
+Fødestrømmen bør dog altid være større end 10 mA.
+ I.4. Strømfødning af abonnentudstyr.
+ I.4.1. Strømfødning fra linien.
+Strømfødning af telefonapparater må generelt foretages fra linien under  
+
+ forudsætning af, at den ækvivalente jævnstrømsmodstand af det samlede apparat  
+
+ ikke overstiger 400 ohm.
+Såfremt telefonapparatet indeholder  
+
+ ekstraudstyrsfunktioner må den ækvivalente jævnstrømsmodstand af apparatet  
+
+ under visse forudsætninger opgå til max. 600 ohm.
+Se afsn.
+III.2.1.1.
+ I.4.2. Strømfødning fra ekstern spændingskilde.
+ Ud over den under I.4.1. anførte strømfødningsmulighed kan der f.
+eks. anvendes strømfødning fra lysnettet eller eksternt batteri.
+Angående  
+
+ regler herfor henvises til specielle bestemmelser og cirkulærer I.5. Generelle definitioner og begreber.
+ Nedenfor er anført en række generelle definitioner og begreber vedrørende  
+
+ abonnentlinienettet således som de er anvendt i nærværende cirkulære.  
+
+ Specielle definitioner og begreber er anført i de respektive afsnit.
+Abonnentlinienet Ved et abonnentlinienet forstås de dele af et telefonanlæg, der er  
+
+ tilsluttet i abonnentkrydsfeltets centralside og som afsluttes hos  
+
+ abonnenterne.
+Centralens tilslutningsklemmer i krydsfeltet betegnes som  
+
+ abonnentlinienettets begyndelsespunkt.
+ Abonnentlinie.
+ En abonnentlinie omfatter de dele af abonnentlinienettet, der er  
+
+ tilknyttet et bestemt korepar i krydsfeltets centralside.
+ Abonnenthjælpeudstyr.
+ Abonnenthjælpeudstyr omfatter de dele af abonnentlinien, der er placeret  
+
+ mellem krydsfeltets central- og linieside, f. eks. medløbstællertransformator  
+
+ o.lign.
+ I de tilfælde hvor centralen er indrettet på en sådan måde, at tilsvarende  
+
+ udstyr indgår som en integrerende del af centralen og indkaldes efter behov,  
+
+ henregnes dette til centralen.
+ Abonnentledning.
+En abonnentledning er afgrænset af krydsfeltets linieside og første  
+
+ koblingspunkt hos abonnenten, f.eks. enkeltfordeler.
+Er der i  
+
+ abonnentledningen indskudt omstillere i form af ledningsbegrænsere eller  
+
+ lignende, henregnes dette udstyr til abonnentledningen.
+ Abonnentinstallation.
+ En abonnentinstallation indeholder de dele af abonnentlinien, der er  
+
+ placeret efter abonnentledningens afgrænsningspunkt hos abonnenten.
+ Abonnentudstyr.
+ Ved abonnentudstyr forstås udstyr der indgår i en abonnentinstallation  
+
+ f.eks. telefonapparat, telefonsvarer, modemudstyr, medløbstæller m.v.
+ Rotilstand.
+ I rotilstand er de telefonapparater eller andet abonnentudstyr, der indgår  
+
+ i den pågældende abonnenttlinie, i en tilstand, der svarer til pålagt  
+
+ mikrotelefon.
+ Taletilstand.
+ I taletilstand er et og kun et af de telefonapparater eller andet  
+
+ abonnentudstyr, der indgår i den pågældende abonnentlinie, i en tilstand, der  
+
+ svarer til afløftet mikrotelefon og med nummerskiven eller tastaturet i  
+
+ normal hvilestilling.
+Signaleringstilstand Ved signaleringstilstand forstås den tilstand en abonnentlinie befinder  
+
+ sig i, når der fra abonnenten sendes cifferinformation til centralen ved  
+
+ hjælp af nummerskive, tonekodestatatur eller lignende.
+ Under sending af cifferinformation fra abonnenten må der kun være  
+
+ tilsluttet een ciffersender og talekredsen skal være bortkoblet.
+ Ved nummerskivesignalering benævnes impulssenderens to tilstande som  
+
+ »åben sløjfe« og »lukket sløjfe« svarende til henholdsvis  
+
+ afbrudt og sluttet impulseringskontakt.
+Del II: ABONNENTLINIENETTETS ELEKTRISKE EGENSKABER SET FRA  
+
+ CENTRALEN I nærværende del II til cirkulære nr. 2 er der foretaget en beskrivelse af  
+
+ abonnentlinienettets »worst case« elektriske egenskaber således som  
+
+ de tager sig ud set fra den offentlige central.
+ II.1. Jævnstrømsegenskaber.
+ II.1.1. Sløjfemodstand.
+ Definition:
+ Ved sløjfemodstand Rs1 forstås den samlede ækvivalente jævnstrømsmodstand  
+
+ af abonnentlinien set fra dennes tilslutningspunkt i krydsfeltets  
+
+ centralside.
+Sløjfemodstanden skal måles med den på fig.
+II.1.1 viste opstilling.
+Taletilstand Med abonnentlinien i taletilstand vil sløjfemodstanden ligge i følgende  
+
+ interval:
+0 ohm <=Rsl <= R2000 ohm Signaleringstilstand:
+ Med abonnentlinien i signaleringstilstand vil sløjfemodstanden ligge i  
+
+ følgende interval:
+ Tonekodetastatursignalering:
+0 ohm <= Rsl<= 2000 ohm Nummerskivesignalering:
+a. åben sløjfe 33 kohm <= Rsl<= »uendeligt« b. lukket sløjfe 0 ohm <= Rsl <= 1700 ohm Rotilstand:
+ Med abonnentlinien i rotilstand vil sløjfemodstanden ligge i følgende  
+
+ interval:
+50 kohm <= Rsl< »uendeligt« II.1.2. Jordsløjfemodstand.
+ Definition:
+ Ved jordsløjfemodstand Rjsl forstås den samlede ækvivalente  
+
+ jævnstrømsmodstand mellem den ene af abonnentliniens tilslutningspunkter i  
+
+ krydsfeltets centralside og neutral jord i den tilstand, hvor abonnenten  
+
+ signalerer med jord som retur.
+Jordsløjfemodstanden skal måles med den på fig.
+II.1.2. viste  
+
+ måleopstilling.
+ Værdiområde:
+ Under signalering med jord som retur vil jordsløjfemodstanden ligge i  
+
+ følgende interval:
+0 ohm <= Rjsl <= 1700 ohm II.1.3. Isolationsmodstand.
+ Definition:
+ Ved isolationsmodstand forstås den samlede virkning af afledningsmodstande  
+
+ i kabler og abonnentinstallation i rotilstand.
+ Værdiområde:
+Isolationsmodstandens sammensætning er vist på fig.
+II.1.3.1.
+Målt med den i fig.
+II.1.3.2. viste måleopstilling og centralens  
+
+ driftspænding som målespænding vil abonnentlinienettet derfor i rotilstand  
+
+ opfylde følgende betingelser for jævnstrømmens tilladelige variationsområde:
+ II.2. Abonnentlinienettets transiente egenskaber.
+ II.2.1 Definition.
+ Informationsudveksling mellem abonnentinstallation og central er ofte  
+
+ baseret på ændringer i sløjfestrømmens størrelse og/eller retning, forårsaget  
+
+ af springvise ændringer af sløjfens påtrykte spænding eller af  
+
+ sløjfemodstanden.
+En idealiseret sløjfestrømsændring med hensyn til informationsudveksling  
+
+ er vist fuldt optrukket i fig.
+II.2.1.1. I sløjfen indgår der imidlertid  
+
+ såvel kapacitive som induktive elementer, hvorfor sløjfestrømmen i praksis  
+
+ vil være tidsafhængig umiddelbart efter en tilstandsændring, således som  
+
+ antydet punkteret i fig.
+II.2.1.1.
+ Den i praksis forekommende afvigelse mellem strømmens øjebliksværdi og  
+
+ strømmen i det idealiserede tilfælde med samme værdier for de stationære  
+
+ strømme IA og IB benævnes i det følgende den transiente strøm.
+ Er »i« lig med strømmens øjebliksværdi gælder derfor:
+ hvor it er den transiente strøm.
+Abonnentlinienettets transiente egenskaber overfor forskellige  
+
+ tilstandsændringer er i nærværende cirkulære angivet ved indhyllingskurver  
+
+ for den transiente strøm og måles ved hjælp af det måleprincip, der er  
+
+ angivet i fig.
+II.2.1.2., idet der forudsættes, at der opnås stationære  
+
+ tilstande mellem de enkelte målinger.
+Størrelsen af den transiente strøm er imidlertid afhængig af  
+
+ centralspændingen E, ligesom abonnentudstyrs forvrængende egenskaber kan være  
+
+ maksimale ved forskellige spændinger.
+Indhyllingskurvernes strømakse for den  
+
+ transiente strøm er derfor ikke angivet direkte i myA, men som forholdet it/E  
+
+ (myA/V), hvor E er centralspændingen, idet det forudsættes at bl.a.  
+
+ abonnentudstyr kontrolleres inden for hele spændingsområdet 44-56 volt.
+Som eksempel på anvendelse af indhyllingskurverne for den transiente strøm  
+
+ er der på skitsen fig.
+II.2.1.3., vist forholdene ved sending af en  
+
+ nummerskiveimpuls.
+ II.2.2. Sløjfebrydning ved signalering med nummerskiveimpulser.
+ Installationsform:
+ Alle abonnentlinienet.
+ Tilstandsændring:
+ Sløjfebrydning ved signalering med nummerskiveimpulser d.v.s.  
+
+ tilstandsændringen fra lukket sløjfe til åben sløjfe.
+ Måleprincip:
+ Værdiområde.
+Det tilladelige variationsområde for den transiente strøm ved  
+
+ sløjfebrydning fremgår af fig.
+II.2.2.
++++TABEL+++ II.2.3. Sløjfeslutning ved signalering med nummerskiveimpulser Installationsform:
+ Alle abonnentlinienet.
+ Tilstandsændring:
+ Sløjfeslutning ved signalering med nummerskiveimpulser d.v.s.  
+
+ tilstandsændringen fra åben sløjfe til lukket sløjfe.
+ Måleprincip:
+ Værdiområde:
+Det tilladelige variationsområde for den transiente strøm ved  
+
+ sløjfeslutning fremgår af fig.
+II.2.3.
++++TABEL+++ II.2.4. Polvending uden spærreled.
+ Installationsform:
+Abonnentlinienet med abonnentudstyr uden spærreled.
+Tilstandsændring:
+ Polvending fra talepolaritet til modsat polaritet eller omvendt.
+ Måleprincip:
+ Værdiområde:
+Det tilladelige variationsområde for den transiente strøm ved polvending  
+
+ uden spærreled fremgår af fig.
+II.2.4.
++++TABEL+++ II.2.5. Polvending med spærreled fra ledende til spærret diode.
+ Installationsform:
+ Abonnentlinienet med abonnentudstyr med spærreled.
+ Tilstandsændring:
+ Polvending fra ledende til spærret diode.
+ Måleprincip:
+ Værdiområde:
+Det tilladelige variationsområde for den transiente strøm ved polvending  
+
+ fra ledende til spærret diode fremgår af fig.
+II.2.5.
++++TABEL+++ II.2.6. Polvending med spærreled fra spærret til ledende diode.
+ Installationsform:
+ Abonnentlinienet med abonnentudstyr med spærreled.
+ Tilstandsændring:
+ Polvending fra spærret til ledende diode.
+ Måleprincip:
+ Værdiområde:
+Det tilladelige variationsområde for den transiente strøm ved polvending  
+
+ fra spærret til ledende diode fremgår af fig.
+II.2.6.
++++TABEL+++ II.2.7. Genindkobling af talekredsløb eller fødebro.
+ Installationsform:
+ Alle abonnentlinienet.
+ Tilstandsændring:
+ Genindkobling af talesæt eller fødebro.
+ Måleprincip:
+ Værdiområde:
+ Da sending af cifferinformation med nummerskivesignalering skal foregå i  
+
+ tilnærmelsesvis rent ohmsk sløjfe, genindkobles telefonapparatets talesæt,  
+
+ der ofte er induktivt, i sløjfen ved afslutningen af en impulsserie.
+ Ved retransmission af nummerskiveimpulser fra registerløse landcentraler  
+
+ og PABC'er genindkobles ofte en selvinduktion i sløjfen ved afslutning af en  
+
+ impulsserie.
+Inkobling af sådanne induktive kredsløb kan medføre et dyk i  
+
+ sløjfestrømmen.
+Ved genindkobling af talesæt eller fødebro vil summen af den  
+
+ statiske strøm og den transiente strøm dog opfylde følgende betingelser:
+ (It + IB)/E >= 250 micro A/V for t >= 2 ms.
+ II.2.8. Transiente egenskaber under ringning.
+ Installationsform:
+ Alle abonnentlinienet.
+ Tilstandsændring:
+ Indkobling og udkobling af ringegenerator d.v.s. springvis ændring af  
+
+ spændingen over abonnentlinien i ringetilstand.
+ Måleprincip:
+ Værdiområde:
+ Det tilladelige variationsområde for den transiente strøm fremgår af fig.  
+
+ II.2.8.
++++TABEL+++ II.3. Egenskaber ved ringefrekvens.
+ II.3.1. Sløjfeimpedans.
+ For ringespændinger mellem 30 volt og 120 volt og frekvenser på 25 Hz +/-  
+
+ 5 Hz og 50 Hz +/-5 Hz vil den numeriske værdi af abonnentliniens impedans  
+
+ opfylde følgende betingelser:
+/ Z / = / a + jb / >= 2000 ohm a >= 1000 ohm II.3.2. Jævnstrømskomponent under ringning.
+ Under ringning fra den offentlige central, hvor ringespændingen er  
+
+ overlejret en jævnspænding, kan der, på grund af afledningsmodstande,  
+
+ elektroniske føleranordninger i abonnentudstyret og lign., forekomme en  
+
+ resulterende jævnstrøm i abonnentsløjfen.
+ Når eventuelle indsvingningsfænomener er overstået, vil der for denne  
+
+ strøm gælde følgende betingelse:
+ For ringespændinger mindre end 120 volt overlejret med en jævnspænding på  
+
+ 44-56 volt vil den resulterende jævnstrøm under ringning, taget som  
+
+ middelværdi over en hel periode, være <= 2,5 mA.
+ II.3.3. Indsvingningsforløb.
+Hvis ringespændingen ikke indkobles ved nulgennemgang men på tilfældigt  
+
+ tidspunkt, kan indkoblingen medføre en springvis ændring af spændingen på  
+
+ abonnentlinien med deraf følgende strømimpuls i ringetripperelæet.
+Størrelse  
+
+ og længde af denne strømimpuls fremgår af afsnit II.2.8.
+ II.4. Egenskaber ved talefrekvenser.
+ II.4.1. Tilpasningsdæmpning ved abonnentliniernes centralside.
+ Forudsætning:
+ Tilpasningsdæmpningen af abonnentudstyrets resulterende impedans over for  
+
+ 600 ohm 0 grader er større end eller lig med 6 dB (0,7 Np) i frekvensområdet  
+
+ 300-600 Hz og større end eller lig med 9 dB (1 Np) i frekvensområdet 600-3400  
+
+ Hz.
+ Dette vil være opfyldt for alle normalt forekommende  
+
+ abonnentinstallationer.
+ Værdiområde:
+Ved empiriske metoder er det fundet, at der opnås den bedst mulige  
+
+ tilpasningsdæmpning mellem abonnentlinienettes impedanser set fra centralen  
+
+ og en enkelte impedans Ze, når denne er opbygget af 500 ohm i serie med en  
+
+ parallelkombination af en modstand på 300 ohm og en kondensator på 0,2  
+
+ microF.
+De beregnede minimumstilpasningsdæmpninger mellem Ze og  
+
+ abonnentliniernes impedanser er vist på fig.
+II.4.1.1, II.4.1.2 og II.4.1.3.
+ II.4.2 Jordbalancedæmpning.
+ II.4.2.1 Værdiområde.
+ I såvel tale- som signaleringstilstand (signalering med jordsløjfe  
+
+ undtaget) skal abonnentlinien være balanceret i forhold til jord.  
+
+ Jordbalancedæmpningen, defineret og målt som angivet i afsnit II.4.2.2. vil i  
+
+ frekvensområdet 50-3400 Hz opfylde følgende betingelser:
+ Frekvensområder 50-600 Hz:
+Aja >= 35 dB Ajb >= 35 dB Frekvensområder 600-3400 Hz:
+Aja >= 40 dB Ajb >= 40 dB II.4.2.2. Måling af jordbalancedæmpning.
+Jordbalancedæmpningen skal måles ved hjælp af de måleprincipper, der er  
+
+ vist i nedenstående figurer nr.
+II.4.2.1. og II.4.2.2.
+Ved målemetoden i fig.
+II.4.2.1. er jordbalancedæmpningen Aja bestemt af:
+Aja = (20 * log10 * (U/u)) - 12 (dB), hvor U = 5 volt er den elektromotoriske kraft, der gennem 600 ohm  
+
+ påtrykkes stam kredsløbet (sendeniveau 10 dBm), og u volt er den spænding,  
+
+ som på grund af ubalance mod jord overføres til belastningen 150 ohm på  
+
+ halvfirer kredsløbet.
+Ved målemetoden i fig.
+II.4.2.2. er jordbalancedæmpningen Ajb bestemt af:
+Ajb = (20 * log10 * (U/u)) (dB), hvor U = 7,75 volt er den elektromotoriske kraft, der gennem 150 ohm  
+
+ påtrykkes halvfirer kredsløbet (sendeniveau 20 dBm), og u volt er den  
+
+ spænding, som på grund af ubalance mod jord overføres til belastningen 600  
+
+ ohm på stam kredsløbet.
+Del III: BETINGELSER OG SPECIFIKATIONER FOR ABONNENTLINIENETTETS  
+
+ OPBYGNING I nærværende del III til cirkulære nr. 2 er anført betingelser og  
+
+ specifikationer for abonnentlinienettets opbygning.
+ III.1. Abonnentledning.
+ III.1.1. Sløjfemodstand.
+Jævnstrømssløjfemodstanden af en abonnentledning skal opfylde nedenstående  
+
+ betingelse.
+Er der i abonnentledningen indskudt omstillere, f.eks.  
+
+ ledningsbegrænser o.lign., skal sløjfemodstanden herfra medregnes i  
+
+ kabelmodstanden.
+ Rsl <= 1400 ohm.
+ III.1.2. Isolationsmodstand.
+ Isolationsmodstanden mellem de to ledere i en abonnentledning, samt  
+
+ isolationsmodstanden mellem de enkelte ledere og jord eller centralminus skal  
+
+ under alle driftsforhold opfylde nedenstående krav.
+ III.2. Abonnentinstallationer uden lokalstrømfødning.
+ III.2.1. Forholdene ved jævnstrøm.
+ III.2.1.1. Abonnentinstallationens og evt. abonnenthjælpeudstyrs  
+
+ bidrag til den samlede sløjfemodstand.
+ Definition:
+ Ved sløjfemodstand Rsl forstås den samlede ækvivalente jævnstrømsmodstand  
+
+ af abonnentinstallationen og eventuelt abonnenthjælpeudstyr.
+Sløjfemodstanden skal måles med den på fig.
+III.2.1.1. viste  
+
+ måleopstilling.
+ Taletilstand:
+ I taletilstand (herunder opkaldstilstand) må den samlede ækvivalente  
+
+ jævnstrømsmodstand af abonnentinstallationen og evt. abonnenthjælpeudstyr  
+
+ ikke overstige 600 ohm.
+ Den ækvivalente jævnstrømsmodstand fordeles normalt på følgende måde:
+Telefonapparat: max. 400 ohm Seriemodstand i ekstrainstallationer, apparatkabel og evt.  
+
+ abonnenthjælpeudstyr: max. 200 ohm Anvendes elektroniske telefonapparater, d.v.s. telefonapparater for analog  
+
+ transmission, men med aktive komponenter, vil modstanden være strømafhængig,  
+
+ og for sådanne apparater gælder, at liniestrømmen ved måling som angivet i  
+
+ fig.
+III.2.1.1.a. ikke må være mindre end 15.7 mA.
+Lader dette krav sig med  
+
+ et givet telefonapparat ikke opfylde, vil apparatet dog kunne anvendes,  
+
+ såfremt betingelsen, strøm ikke mindre end 15,7 mA er opfyldt ved måling som  
+
+ angivet i fig.
+III.2.1. 1.b.
+I sidstnævnte tilfælde skal det være  
+
+ foreskrevet, at seriekoblet udstyr kun må tilknyttes efter nærmere  
+
+ undersøgelse, som skal dokumentere, at kravet er opfyldt for det aktuelle  
+
+ tilfælde.
+I givet fald må kravet bringes til at at være opfyldt ved  
+
+ særforanstaltning (batteri-booster, loop extender eller lign.).
+Disse krav til elektroniske apparater stilles for at sikre, at sådanne  
+
+ apparater uden særlig undersøgelse lader sig placere overalt uden at give  
+
+ anledning til gener.
+Således som specifikationen er formet, vil en -  
+
+ nødvendig - undersøgelse af, om strømkravet er opfyldt, kunne begrænses til  
+
+ de få tilfælde, hvor der bliver tale om seriekoblet ekstrainstallationsudstyr  
+
+ eller særudstyr i forbindelse med sådanne apparater.
+ Signaleringstilstand:
+ 1. Tonekodetastatursignalering:
+ Under signalering med tonekodetastatur gælder de under  
+
+ »Taletilstand« anførte betingelser.
+ 2. Nummerskivesignalering.
+ Under nummerskiveimpulsering eller ciffersending fra impulserende tastatur  
+
+ må den samlede ækvivalente jævnstrømsmodstand af abonnementinstallationen og  
+
+ evt. abonnementhjælpeudstyr ikke overstige følgende værdier :
+a. Åben sløjfe: min. 67 kohm b.
+Lukket sløjfe: max. 300 ohm Den ækvivalente jævnstrømsmodstand under betingelsen lukket sløjfe skal  
+
+ fordeles på følgende måde:
+Telefonapparat: max. 100 ohm Seriemodstand i ekstrainstallationer, apparatkabel og evt.
+abonnenthjælpeudstyr: max. 200 ohm Anvendes elektroniske telefonapparater, d.v.s. telefonapparater for analog  
+
+ transmission, men med aktive komponenter under nummerskivesignalering gælder,  
+
+ at liniestrømmen ved måling som angivet i fig.
+III.2.1.1.a. ikke må være  
+
+ mindre end 17.6 mA. lader dette krav sig med et givet telefonapparat ikke  
+
+ opfylde, kan måling efter fig.
+III.2.1.1.b. anvendes i analogi med de  
+
+ betingelser, som er anført i stykket »Taletilstand«.
+Også i dette  
+
+ tilfælde gælder, at strømmen ikke må være mindre end 17,6 mA.
+ Rotilstand:
+ I rotilstand skal den samlede ækvivalente jævnstrømsmodstand af  
+
+ abonnentinstallationen være større end 200 kohm.
+ III.2.1.2. Isolationsmodstand.
+ I rotilstand skal isolationsmodstanden af den samlede abonnentinstallation  
+
+ opfylde følgende krav:
+Isolationsmodstand mellem a- og b-leder: min. 200 kohm Isolationsmodstand mellem a- henholdsvis b-leder og jord: min. 10 Mohm III.2.1.3. Jordsløjfemodstand.
+ Definition:
+ Ved jordsløjfemodstanden Rjsl af abonnentinstallationen forstås den  
+
+ samlede ækvivalente jævnstrømsmodstand mellem den ene af abonnentudstyrets  
+
+ tilslutningsklemmer til abonnentledningen og neutral jord i den tilstand,  
+
+ hvor abonnenten signalerer med jord som retur.
+ Værdiområde:
+Jordsløjfemodstanden skal måles med den på fig.
+III.2.1.3. viste  
+
+ opstilling og under signalering med jord som retur opfylde følgende  
+
+ betingelser:
+0 <= Rjsl <= 700 ohm Overgangsmodstanden mellem abonnentinstallationens jordklemme og neutral  
+
+ jord skal være mindre end 100 ohm.
+ III.2.2. Forholdene ved ringefrekvens.
+ III.2.2.1. Impedans mellem a- og b-leder.
+ For ringe spændinger mellem 30 og 120 volt og med frekvenserne 25 Hz +/- 5  
+
+ Hz og 50 Hz +/- 5 Hz skal den numeriske værdi af abonnentinstallationens  
+
+ parallelimpedans hidrørende fra klokker, tilslutningsrelæer o.lign. samt  
+
+ eventuel parallelimpedans i abonnenthjælpeudstyr opfylde følgende betingelse:
+/ Z / = / a + jb / >= 2000 ohm a >= 1000 ohm Såfremt der i abonnentinstallationen eller eventuelt abonnenthjælpeudstyr  
+
+ findes serieimpedanser, der indgår under ringningen, skal den samlede værdi  
+
+ af disse impedanser ligge inden for det impedansområde, der er angivet i fig.  
+
+ III.2.2.1.
+ Parallelimpedans i eventuelt abonnementhjælpeudstyr skal som ovenfor nævnt  
+
+ medregnes i den samlede parallelimpedans, men skal desuden opfylde følgende  
+
+ betingelse:
+/ Z / = / a + jb / >= 10 kohm III.2.2.2. Impedans mellem a/b-leder og jord.
+ Impedansen mellem abonnentinstallationens kortsluttede linieklemmer og  
+
+ jord/stel skal normalt have en numerisk værdi på mindst 1 Mohm ved  
+
+ vekselspændinger med effektværdi op til 120 volt og frekvenser op til 55 Hz.
+ Såfremt der anvendes ringning med jord som retur, skal den numeriske værdi  
+
+ af abonnementinstallationens parallelimpedans hidrørende fra klokker,  
+
+ tilslutningsrelæer o.lign. målt mellem a/b-leder og neutral jord opfylde de  
+
+ betingelser, der er angivet under afsnit III.2.2.1.
+Findes der serieudstyr i abonnentinstallationen eller i eventuelt  
+
+ abonnenthjælpeudstyr, skal impedansen af dette udstyr ligge inden for det  
+
+ impedansområde, der er angivet på fig.
+III. 2.2.1.
+ III.2.2.3. Jævnstrømskomponent under ringning.
+ Når eventuelle indsvingningsforløb er overstået, skal den resulterende  
+
+ jævnstrøm under ringning opfylde følgende krav:
+ For ringespændinger mellem 30 og 120 volt overlejret med en jævnspænding  
+
+ på 44-56 volt skal den samlede jævnstrøm, taget som middelværdi over en hel  
+
+ periode, være mindre end 1,5 mA.
+ III.2.2.4. Ringeimpedansens transiente egenskaber.
+ Ringeimpedansen skal overfor påtrykte spændingsspring opfylde de krav, der  
+
+ er angivet i afsnit III.2.4.7.
+ III.2.2.5. Minimum ringespænding.
+ Såfremt betingelserne i ovenstående afsnit er opfyldt, kan der garanteres  
+
+ en ringespænding på min. 40 volteff over ringeimpedansen.
+ III.2.3. Forholdene ved talefrekvenser.
+ III.2.3.1. Tilpasningsdæmpning af abonnentinstallation.
+ Tilpasningsdæmpningen af abonnentinstallationens impedans overfor 600 ohm  
+
+ / 0 grader skal i frekvensområdet 300-3400 Hz og for liniestrømme mellem  
+
+ (44/(2200 + Rsl)) A og (56/(500 + Rsl))A, hvor Rsl er abonnentinstallationens  
+
+ ækvivalente sløjfemodstand, i såvel taletilstand som under signalering med  
+
+ tonekodetastatur opfylde følgende krav:
+At >= 6 dB (svarer til 0,7 Np) i frekvensområdet 300-600 Hz At >= 9 dB (svarer til 1,0 Np) i frekvensområdet 600-3400 Hz idet At er defineret ved:
+At = 20 log10 ((Z+600)/(Z-600)) dB III.2.3.2. Driftsdæmpning af abonnent- og abonnenthjælpeudstyr.
+ For liniestrømme som angivet under afsnit III.2.3.1. og med 600 ohm 0  
+
+ grader som afslutningsimpedanser, skal driftsdæmpningen Ad af det samlede  
+
+ abonnent- og abonnenthjælpeudstyr, målt ved frekvensen 800 Hz henholdsvis i  
+
+ frekvensområdet 300-3400 Hz og med et sendeniveau på 0 dBm, opfylde følgende  
+
+ betingelser:
+Ad 800 Hz <= 1,5 dB Ad 300-3400 Hz <= 2 * Ad 800 Hz III.2.3.3. Jordbalancedæmpning af abonnentinstallation.
+ I såvel tale- som signaleringstilstand (signalering med jordsløjfe  
+
+ undtaget) skal abonnentinstallationen være balanceret i forhold til jord.
+ Jordbalancedæmpningen, defineret og målt som angivet i afsnit III.2.3.4.,  
+
+ skal i frekvensområdet 50-3400 Hz opfylde følgende betingelser:
+Aja > = 40 dB ) i frekvensområdet Ajb > = 40 dB ) 50-600 Hz Aja > = 46 dB ) i frekvensområdet Ajb > = 46 dB ) 600-3400 Hz.
+ III.2.3.4. Måling af jordbalancedæmpning.
+Jordbalancedæmpningen skal måles ved hjælp af de måleprincipper, der er  
+
+ vist i nedenstående figurer nr.
+III.2.3.4.1. og III.2.3.4.2.
+Ved målemetoden i fig.
+III.2.3.4.1. er jordbalancedæmpningen Aja bestemt  
+
+ af:
+Aja = 20 * log10 * (U/u) - 12 (dB), hvor U = 5 volt er den elektromotoriske kraft, der gennem 600 ohm  
+
+ påtrykkes stam kredsløbet (sendeniveau 10 dBm), og u volt er den spænding,  
+
+ som på grund af ubalance mod jord overføres til belastningen 150 ohm på  
+
+ halvfirer kredsløbet.
+Ved målemetoden i fig.
+III.2.3.4.2. er jordbalancedæmpningen Ajb bestemt  
+
+ af:
+Ajb = 20 * log10 * (U/u) (dB) hvor U = 7,75 volt er den elektromotoriske kraft, der gennem 150 ohm  
+
+ påtrykkes halvfirer kredsløbet (sendeniveau 20 dBm), og u volt er den  
+
+ spænding, som på grund af ubalance mod jord overføres til belastningen 600  
+
+ ohm på stam kredsløbet.
+ III.2.4. Transiente egenskaber for abonnentinstallation uden  
+
+ retransmission af nummerskiveimpulser.
+Ved ændringer i sløjfetilstanden i forbindelse med en abonnentinstallation  
+
+ uden retransmission af nummerskivesignaleringen, skal den transiente strøm  
+
+ for abonnentinstallation og evt. abonnenthjælpeudstyr ligge inden for givne  
+
+ variationsområder.
+Måling af den transiente strøm ved forskellige  
+
+ tilstandsændringer skal foretages efter det måleprincip, der er angivet i  
+
+ fig.
+III.2.4.
+E = 44-56 volt Kabel = 0 og 1400 ohm Anvendes kunstkabel skal dette være udformet med jordkapaciteter.
+Fig.
+III.2.4.
+Målingerne skal foretages med såvel langt som kort kabel og de givne  
+
+ spændingstolerancer.
+Det forudsættes, at der opnås stationære strømme mellem  
+
+ de enkelte målinger.
+For definition af transient strøm henvises til afsnit  
+
+ II.2.1.
+ III.2.4.1. Sløjfebrydning ved nummerskiveimpulsering.
+ Installationsform:
+ Abonnentinstallation uden kredse for retransmission af  
+
+ nummerskiveimpulser.
+ Tilstandsændring:
+ Sløjfebrydning ved nummerskiveimpulsering dvs. tilstandsændringen fra  
+
+ lukket sløjfe til åben sløjfe.
+ Måleprincip:
+ Værdiområde.
+Det tilladelige variationsområde for den transiente strøm ved  
+
+ sløjfebrydning fremgår af fig.
+III.2.4.1.
++++TABEL+++ III.2.4.2. Sløjfeslutning ved nummerskiveimpulsering.
+ Installationsform:
+ Abonnentinstallation uden kredse for retransmission af  
+
+ nummerskiveimpulser.
+ Tilstandsændring:
+ Sløjfeslutning ved nummerskiveimpulsering, dvs. tilstandsændringen fra  
+
+ åben sløjfe til lukket sløjfe.
+ Måleprincip:
+ Værdiområde:
+ Det tilladelige variationsområde for den transiente strøm fremgår af fig.  
+
+ III.2.4.2.
++++TABEL+++ III.2.4.3. Polvending uden spærreled.
+ Installationsform:
+ Abonnementinstallation uden spærreled.
+ Tilstandsændring:
+ Polvending fra talepolaritet til modsat polaritet eller omvendt.
+ Måleprincip:
+ Værdiområde:
+Det tilladelige variationsområde for den transiente strøm ved polvending  
+
+ fremgår af fig.
+III.2.4.3.
++++TABEL+++ III.2.4.4. Polvending med spærreled fra ledende til spærret diode.
+ Installationsform:
+ Abonnementinstallation med spærreled.
+ Tilstandsændring:
+ Polvending fra ledende til spærret diode.
+ Måleprincip:
+ Værdiområde:
+Det tilladelige variationsområde for den transiente strøm ved polvending  
+
+ fra ledende til spærret diode fremgår af fig.
+III.2.4.4.
++++TABEL+++ III.2.4.5. Polvending med spærreled fra spærret til ledende diode.
+ Installationsform:
+ Abonnentinstallation med spærreled.
+ Tilstandsændring:
+ Polvending fra spærret til ledende diode.
+ Måleprincip:
+ Værdiområde:
+Det tilladelige variationsområde for den transiente strøm ved polvending  
+
+ fra spærret til ledende diode fremgår af fig.
+III.2.4.5.
++++TABEL+++ III.2.4.6. Genindkobling af talekredsløb eller fødebro.
+ Installationsform:
+ Alle abonnentinstallationer.
+ Tilstandsændring:
+ Genindkobling af talekredsløb eller fødebro.
+ Måleprincip:
+ Værdiområde:
+ Da sending af cifferinformation med nummerskivesignalering skal foregå i  
+
+ tilnærmelsesvis rent ohmsk sløjfe, genindkobles telefonapparatets talesæt,  
+
+ der ofte er induktivt, i sløjfen ved afslutningen af en impulsserie.
+ Ved retransmission af nummerskiveimpulser fra registerløse landcentraler  
+
+ og PABC'er genindkobles ofte en selvinduktion i sløjfen ved afslutning af en  
+
+ impulsserie.
+Indkobling af disse induktive kredsløb kan medføre et dyk i  
+
+ sløjfestrømmen.
+Ved genindkobling af talesæt eller fødebro skal summen af den  
+
+ statiske strøm og den transiente strøm dog opfylde følgende betingelser:
+(it + IB)/E) >= 250 mikroA/V for t >= 2 ms III.2.4.7. Transiente egenskaber under ringning.
+Installationsform:
+ Alle abonnentinstallationer.
+ Tilstandsændring:
+ Ind- og udkobling af ringegenerator d.v.s. springvis ændring af spændingen  
+
+ over abonnentinstallationen.
+ Måleprincip:
+ Værdiområde:
+ Det tilladelige variationsområde for den transiente strøm fremgår af fig.  
+
+ III.2.4.7.
++++TABEL+++ III.3. Abonnentinstallationer med talebro og lokalstrømfødning.
+ III.3.1. Forholdene ved jævnstrøm.
+ III.3.1.1. Sløjfemodstand af PBC-installation og evt.  
+
+ abonnenthjælpeudstyr.
+ Definition:
+ Ved sløjfemodstand Rsl forstås den samlede ækvivalente jævnstrømsmodstand  
+
+ af PBC-installationen, set fra linieklemmerne, og evt. abonnenthjælpeudstyr.
+Sløjfemodstanden skal måles med den på fig.
+III.3.1.1. viste  
+
+ måleopstilling.
+ Taletilstand:
+ I taletilstand (herunder opkaldstilstand) må den samlede ækvivalente  
+
+ jævnstrømsmodstand af PBC-installationen ikke overstige 400 ohm.
+ Såfremt der i forbindelse med PBC'en anvendes abonnenthjælpeudstyr f.eks.  
+
+ medløbstællertransformator eller lignende, må den samlede ækvivalente  
+
+ jævnstrømsseriemodstand af dette udstyr ikke overstige 100 ohm.
+ Signaleringstilstand:
+ 1. Tonekodetastatursignalering:
+ Under signalering med tonekodetastatur må den samlede ækvivalente  
+
+ jævnstrømsmodstand af PBC-installationen og evt. abonnenthjælpeudstyr ikke  
+
+ overstige 500 ohm.
+ Den samlede ækvivalente jævnstrømsmodstand fordeles på følgende måde:
+ 2. Signalering med nummerskiveimpulser.
+ Under signalering med nummerskiveimpulser skal den samlede ækvivalente  
+
+ jævnstrømsmodstand af PBC-installationen og evt. abonnenthjælpeudstyr  
+
+ overholde følgende betingelser:
+ Den ækvivalente jævnstrømsmodstand under betingelsen lukket sløjfe  
+
+ fordeles på følgende måde:
+ Rotilstand:
+ I rotilstand skal den samlede ækvivalente jævnstrømsmodstand af PBC-  
+
+ installationen være større end 200 kohm.
+ Såfremt der i eksisterende PABC'er anvendes strømvending kan det tillades,  
+
+ at der under nedkobling af en forbindelse testes på liniepolaritet med et  
+
+ strømretningsfølsomt relæ. Den ækvivalente jævnstrømsmodstand af dette relæ  
+
+ skal være større end 12 kohm og relæet skal være bortkoblet senest 500 ms  
+
+ efter opnåelse af ropolaritet.
+ I nye PABC-konstruktioner bør man anvende elektroniske føleranordninger i  
+
+ stedet for strømretningsfølsomme relæer, idet anvendelse af sådanne relæer  
+
+ kan give anledning til falske opkald mod centralen.
+ III.3.1.2. Isolationsmodstand.
+ I rotilstand skal isolationsmodstanden af den samlede PBC- installation  
+
+ opfylde følgende krav:
+ III.3.1.3. Jordsløjfemodstand.
+ Definition:
+ Ved jordsløjfemodstand Rjsl af PBC-installationen forstås den samlede  
+
+ ækvivalente jævnstrømsmodstand mellem den ene af PBC-installationens  
+
+ tilslutningsklemmer til abonnentledningen og neutral jord i den tilstand,  
+
+ hvor der fra abonnentudstyret signaleres med jord som retur mod offentlig  
+
+ central.
+ Værdiområde:
+Jordsløjfemodstanden skal måles med den på fig.
+III.3.1.3 viste  
+
+ måleopstilling og under signalering med jord som retur ligge mellem følgende  
+
+ grænser:
+0 <= Rjsl <= 700 ohm Overgangsmodstand mellem abonnentudstyrets jordklemme og neutral jord:  
+
+ max. 100 ohm.
+ III.3.2. Forholdene ved ringefrekvens.
+ III.3.2.1. Impedans mellem a- og b-ledec.
+ For ringespændinger mellem 30 og 120 volt med frekvenserne 25 Hz +/- 5 Hz  
+
+ og 50 +/- 5 Hz overlejret med en jævnspænding på 44-56 volt skal den  
+
+ numeriske værdi af PBC-installationens impedans opfylde følgende betingelse:
+Z = (a + jb) >= 2000 ohm a >= 1000 ohm Såfremt der i abonnentlinien indgår abonnenthjælpeudstyr med serie- eller  
+
+ parallelimpedanser, skal dette udstyr opfylde følgende betingelse:
+Z serie <= 400 ohm Z parallel >= 10 kohm III.3.2.2. Impedans mellem a/b-leder og jord.
+ Impedans mellem abonnentinstallationens kortsluttede linieklemmer og  
+
+ jord/stel skal have en numerisk værdi på mindst 1 Mohm ved vekselspændinger  
+
+ med effektivværdi op til 120 volt og frekvenser op til 55 Hz.
+ III.3.2.3. Jævnstrømskomponent under ringning.
+ Når eventuelle indsvingningsforløb er overstået, skal den resulterende  
+
+ jævnstrøm under ringning opfylde følgende betingelse:
+ For ringespændinger mellem 30 og 120 volt overlejret med en jævnspænding  
+
+ på 44-56 volt skal den samlede jævnstrøm, taget som middelværdi over en hel  
+
+ periode, være mindre end 1,5 mA.
+ III.3.2.4. Ringekompleksets transiente egenskaber.
+ Ringekomplekset skal opfylde de krav, der er angivet i afsnit III.2.4.7.
+ III.3.2.5. Minimum ringespænding.
+ Såfremt betingelserne i ovenstående afsnit er opfyldt, vil den minimale  
+
+ ringespænding over PBC-installationens tilslutningsklemmer som funktion af  
+
+ impedansen opfylde de betingelser, der er vist i figur III.3.2.4.
+III.3.3. Forholdene ved talefrekvenser III.3.3.1. Tilpasningsdæmpning.
+ Tilpasningsdæmpningen At af abonnentudstyrets impedans overfor en impedans  
+
+ på 600 ohm < 0 grader i frekvensområdet 300-3400 Hz og for liniestrømme  
+
+ mellem (44/(2200 + Rsl)) A og (56/(500 + Rsl)) A, hvor Rsl er  
+
+ abonnentinstallationens ækvivalente sløjfemodstand, skal i taletilstand og  
+
+ under signalering med tonekodetastatur opfylde følgende betingelse:
+At <= 6 dB (ca. svarer til 0,7 Np) i frekvensområdet 300-600 Hz At <= 9 dB (ca. svarer til 1 Np) i frekvensområdet 600-3400 Hz idet At er defineret ved:
+ III.3.3.2. Jordbalancedæmpning.
+I såvel tale- som signaleringstilstand skal abonnentudstyret være  
+
+ balanceret i forhold til jord.
+Jordbalancedæmpningen, defineret og målt  
+
+ således som angivet i afsnit III.3.3.3., skal for begge  
+
+ transmissionsretninger gennem PBC'en i frekvensområdet 50-3400 Hz opfylde  
+
+ følgende betingelser:
+ III.3.3.3. Måling af jordbalancedæmpning.
+ Jordbalancedæmpningen skal måles ved hjælp af de måleprincipper, der er  
+
+ vist i figurerne III.3.3.3.1. og III.3.3.3.2., og med afbryderen S såvel åben  
+
+ som lukket.
+Ved målemetoden i fig.
+III.3.3.3.1. er jordbalancedæmpningen Aja bestemt  
+
+ af:
+Aja = (20 * log10 * (U/u)) - a - 12 (dB) hvor U (ca.)= 5 volt er den elektromotoriske kraft, der gennem 600 ohm  
+
+ påtrykkes stam kredsløbet (sendeniveau 10 dBm), og u volt er den spænding som  
+
+ på grund af ubalance mod jord overføres til belastningen 150 ohm på halvfirer  
+
+ kredsløbet.
+Ved målemetoden i fig.
+III.3.3.3.2. er jordbalancedæmpningen Ajb bestemt  
+
+ af:
+Ajb = (20 * log10 * (U/u)) - a (dB) hvor U (ca.)= 7,75 volt er den elektromotoriske kraft, der gennem 150 ohm  
+
+ påtrykkes halvfirer kredsløbet (sendeniveau 20 dBm), og u volt er den  
+
+ spænding, som på grund af ubalance mod jord overføres til belastningen 600  
+
+ ohm på stam kredsløbet.
+ III.3.4. Transiente egenskaber for abonnentinstallation med  
+
+ retransmission af nummerskiveimpulser.
+ Ved retransmission af nummerskiveimpulser i PABC'er eller andet  
+
+ abonnentudstyr med retransmissionskredse, skal den transiente strøm for  
+
+ abonnentudstyret ligge inden for givne variationsområder ved forskellige  
+
+ tilstandsændringer.
+Måling af den transiente strøm ved forskellige tilstandsændringer skal  
+
+ foretages efter det måleprincip, der er angivet i fig.
+III.3.4.
+Målingerne foretages med såvel langt som kort kabel og de givne  
+
+ spændingstolerancer.
+Det forudsættes, at der opnås stationære strømme mellem  
+
+ de enkelte målinger.
+ For definition af transient strøm henvises til afsnit II.2.1.
+ Variationsområderne for den transiente strøm i forbindelse med  
+
+ retransmission af nummerskiveimpulser er vist i afsnit III.3.4.1- III.3.4.3.,  
+
+ medens der for øvrige tilstandsændringer henvises til afsnit  
+
+ III.2.4.3.-III.2.4.7.
+ III.3.4.1. Sløjfebrydning ved nummerskiveimpulsering med  
+
+ retransmission for abonnentudstyr af type I.
+Installationsform Abonnentudstyr af type I (Se endv. afsnit IV.5.) med kredse for  
+
+ retransmission af nummerskiveimpulser.
+ Tilstandsændring:
+ Sløjfebrydning ved nummerskiveimpulsering, d.v.s. tilstandsændringen fra  
+
+ lukket sløjfe til åben sløjfe.
+ Værdiområde.
+Det tilladelige variationsområde for den transiente strøm ved  
+
+ sløjfebrydning fremgår af fig.
+III.3.4.1.
++++TABEL+++ III.3.4.2. Sløjfebrydning ved nummerskiveimpulsering med  
+
+ retransmission for abonnentudstyr af type II.
+ Installationsform:
+ Abonnentudstyr af type II (se endv. afsnit IV.5) med kredse for  
+
+ retransmission af nummerskiveimpulser.
+ Tilstandsændring:
+ Sløjfebrydning ved nummerskiveimpulsering, d.v.s: tilstandsændringen fra  
+
+ lukket sløjfe til åben sløjfe.
+ Måleprincip:
+ Værdiområde:
+Det tilladelige variationsområde for den transiente strøm ved  
+
+ sløjfebrydning fremgår af fig.
+III.3.4.2:
++++TABEL+++ III.3.4.3. Sløjfeslutning ved nummerskiveimpulsering med  
+
+ retransmission for abonnentudstyr af type I og II.
+ Installationsform:
+ Abonnentudstyr af type I og II (Se endv. afsnit IV.5.) med kredse for  
+
+ retransmission af nummerskiveimpulser.
+ Tilstandsændring:
+ Sløjfeslutning ved nummerskiveimpulsering, d.v.s. tilstandsændringen fra  
+
+ åben sløjfe til lukket sløjfe.
+ Måleprincip:
+ Værdiområde:
+Det tilladelige variationsområde for den transiente strøm ved  
+
+ sløjfeslutning fremgår af fig.
+III.3.4.3.
++++TABEL+++ Del IV: DRIFTSSPECIFIKATIONER FOR JÆVNSTRØMSSIGNALERING PÅ  
+
+ ABONNENTLEDNINGER IV.1. Polaritetsskema.
+ Nedenstående polaritetsskema skal være opfyldt på centraludstyrets  
+
+ tilslutningsklemmer.
+ Ro- og linieblokadetilstand:
+ IV.2. Spærringspolvending.
+ Definition:
+ Spærringspolvending sendes på abonnentledninger ved afgående, opkald og  
+
+ består af en vending af polariteten fra registerpolaritet til omvendt  
+
+ polaritet og tilbage til registerpolaritet.
+ Formål:
+Formålet med udsendelse af spærringspolvendingssignal er at skabe mulighed  
+
+ for såvel fast som abonnentstyret spærring.
+Signalet kan endvidere anvendes  
+
+ til at foretage kontrol af formuetilstand ved opkald fra mønttelefoner.
+ Signalkode:
+Såfremt man af støjhensyn afsender signalet med skrå flanker fra  
+
+ centralen, defineres signallængden som angivet på fig.
+IV.2.
+ Signalprogram:
+ Tidspunktet for udsendelse af spærringspolvending skal være afhængig af  
+
+ abonnentkategorien på følgende måde:
+a.
+Ved kategorien »tastaturapparat« skal spærringspolvending  
+
+ sendes før klartone og påbegyndes min. 60 ms/max. 120 ms efter opnåelse af  
+
+ registerpolaritet.
+b.
+Ved kategorien »nummerskiveapparat« skal spærringspolvending  
+
+ sendes enten før klartone eller mellem 1. og 2. ciffer.
+ Udsendes signalet før klartone, skal det påbegyndes min. 60 ms/max. 120 ms  
+
+ efter opnåelse af registerpolaritet.
+ Udsendes signalet mellem 1. og 2. ciffer, skal det være afsluttet senest  
+
+ 275 ms efter bagkant af sidste impuls i 1. ciffer.
+c.
+Ved kategorien »mønttelefon med nummerskive« skal  
+
+ spærringspolvending sendes mellem 1. og 2. ciffer og være afsluttet senest  
+
+ 275 ms efter bagkant af sidste impuls i 1. ciffer.
+d.
+Ved kategorien »mønttelefon med tonekodetastatur« er der  
+
+ endnu ikke taget stilling til, om der skal udsendes polvending.
+ IV.3. Valgslutsginal.
+ Definition:
+Valgslutsignalet sendes på abonnentledninger ved afgående opkald, hvor  
+
+ registerudkoblingen ikke er forårsaget af A-pålægning.
+Signalet består af en  
+
+ kortvarig topolet afbrydelse af fødestrømmen.
+ Formål:
+ Valgslutsignalet anvendes i PABC'er, omstillingsborde m.v. for at markere  
+
+ det tidspunkt, hvorefter der skal være mulighed for tilbagekald.
+ Signalet kan endvidere anvendes i PABC'er til at styre udkobling af et  
+
+ evt. indskudt ventilkompleks for spærringsformål, udkobling af automatisk  
+
+ nummersender med tonekode m.v.
+ Signalkode:
+ Valgslutsignalet består af en topolet afbrydelse af fødestrømmen i:
+150 ms +35ms/-25ms Såfremt man af støjhensyn ønsker at afsende signalet med skrå flanker fra  
+
+ centralen, skal signalet opfylde de betingelser, der er angivet på fig.
+IV.3.
+ Signalprogram:
+ Valgslutsignalet skal sendes så tidigt som muligt efter, at registret har  
+
+ konstateret, at komplet cifferinformation foreligger; dog tidligst 250 ms  
+
+ efter bagkant af sidste impuls i sidste ciffer.
+ Ved tidsudløsning af registret skal valgslutsignalet sendes umiddelbart  
+
+ før udkobling af registret finder sted: dog tidligst 250 ms efter bagkant af  
+
+ sidste impuls i sidst modtagne ciffer.
+ IV.4.Sending af cifferinformation fra nummerskive eller automatisk  
+
+ nummersender. (Note 1.).
+ Definition:
+ Ved sending af cifferinformation fra nummerskive eller automatisk  
+
+ nummersender forstås sending af cifre i form af brydninger af sløjfen mod  
+
+ centralen.
+ Signalalfabet:
+ Cifferværdien svarer til antallet af afbrydelser, idet dog ciffer 0 består  
+
+ af 10 afbrydelser.
+ Signalkode:
+ 10 Hz nominelt:
+ Alle slutninger skal ligge indenfor intervallet 27-41 ms.
+ Alle brydninger skal ligge indenfor intervallet 56-80 ms.
+ 16 Hz nominelt:
+ Alle slutninger skal ligge indenfor intervallet 17-26 ms.
+ Alle brydninger skal ligge indenfor intervallet 35-50 ms.
+ 20 Hz nominelt:
+ Alle slutninger skal ligge indenfor intervallet 14-21 ms.
+ Alle brydninger skal ligge indenfor intervallet 28-40 ms.
+ Signalprogram:
+ Sending fra nummerskive:
+ Mellem 2 impulsserier, d.v.s. fra bagkant af sidste impuls i et ciffer til  
+
+ forkant af første impuls i det følgende ciffer, skal der - ud over  
+
+ opvindingstiden - være en konstruktionsbestemt mellemcifferperiode på min. 90  
+
+ ms.
+ Sending fra automatisk nummersender:
+ Mellem 2 impulsserier skal der være et tidsinterval (mellemcifferperiode)  
+
+ på min. 450 ms.
+ Bortkobling af apparatimpedans:
+ Under sendingen af cifferinformation skal apparatimpedansen være  
+
+ bortkoblet og genindkobling må tidigst foretages 5 ms efter bagkant af sidste  
+
+ impuls i et ciffer.
+ Note 1. Vedr. signalering af tonekodetastatur henvises til TU's cirkulære  
+
+ nr. 20, specifikation nr. 13.
+ IV.5. Sending af cifferinformation i form af nummerskiveimpulser fra  
+
+ PBC'er med fødebro.
+ Definition:
+ Ved sending af cifferinformation fra PBC'er med fødebro forstås sending af  
+
+ cifre fra PBC'ens retransmissionsrelæ i form af brydninger af sløjfen mod den  
+
+ offentlige central.
+ Signalalfabet:
+ Cifferværdien skal svare til antallet af afbrydelser, idet dog ciffer 0  
+
+ svarer til 10 afbrydelser.
+ Signalkode:
+a.
+PBC'er af typen nr.
+I. (Se afsnit III.3.4.1.) Bortkobling af fødebro m.v. (Evt. shuntning med ohmsk modstand) skal  
+
+ foretages enten før eller under 1. afbrydelse i et ciffer.
+Genindkobling må  
+
+ tidligst foretages 5 ms efter bagkant af sidste afbrydelse i et ciffer.
+Alle slutte- og brydetider skal, målt på retransmissionskredsens kontakt,  
+
+ være beliggende indenfor det areal, der er angivet på fig.
+IV.5.1.
+b.
+PBC'er af type nr.
+II. (Se afsnit III.3.4.2.) Bortkobling af fødebro m.v. (Evt. shuntning med ohmsk modstand) skal  
+
+ foretages enten før eller under 1. afbrydelse i et ciffer.
+Genindkobling må  
+
+ tidligst foretages 5 ms efter bagkant af sidste afbrydelse i et ciffer.
+Bortkobles fødebroen før 1. afbrydelse i et ciffer, skal alle slutte- og  
+
+ brydetider, målt på retransmissionskredsens kontakt, være beliggende inden  
+
+ for det areal, der er angivet på fig.
+IV.5.1.
+Bortkobles fødebroen under 1. afbrydelse i et ciffer, skal alle slutte- og  
+
+ brydetider, målt på retransmissionskredsens kontakt, være beliggende inden  
+
+ for det areal, der er angivet på fig.
+IV.5.2.
+ IV.6. Modtagning i lokalregistre af nummerskiveimpulser.
+ Definition:
+ Ved modtagning i lokalregistre af nummerskiveimpulser forstås modtagning  
+
+ af cifre i form af afbrydelser af sløjfen fra telefonapparat eller PBC'en mod  
+
+ den offentlige central.
+ Signalalfabet:
+ Cifferværdien svarer til antallet af afbrydelser, idet dog ciffer 0 svarer  
+
+ til 10 afbrydelser.
+ Signalkode:
+ Strømkriterier:
+ Liniestrømme mindre end 8,5 mA skal opfattes som afbrydelser.
+ Liniestrømme større end 12 mA skal opfattes som slutninger.
+ Liniestrømme større end 8,5 mA men mindre end 12 mA må opfattes som  
+
+ afbrydelser.
+ Såfremt centralkonstruktionen åbner mulighed herfor, kan følgende  
+
+ alternativ benyttes, hvor E betyder centralens driftsspænding:
+ Liniestrømme mindre end (10 * E/48 - 1,5) mA skal opfattes som  
+
+ afbrydelser.
+ Liniestrømme større end (10 * E/48 + 1,5) mA skal opfattes som  
+
+ slutninger.
+ Liniestrømme større end (10 * E/48 - 1,5) mA men mindre end (10 * E/48 +  
+
+ 1,5) mA må opfattes som afbrydelser.
+ Tidskriterier:
+Slutte- og brydetider beliggende inden for det vandret skraverede areal på  
+
+ fig.
+IV.6. skal opfattes.
+Slutte- og brydetider beliggende inden for det skråt skraverede areal på  
+
+ fig.
+IV.6. må ikke opfattes.
+ Slutte- og brydetider beliggende mellem de to beskrevne arealer må  
+
+  opfattes.
+ Signalprogram:
+ Sluttetider større end 275 ms skal opfattes som  
+
+ mellemcifferperioder.
+ Sluttetider mindre end 275 ms men større end 75 ms må opfattes som  
+
+ mellemcifferperioder.
+ Brydetider større end 300 ms skal opfattes som A-pålægning.
+ Brydetider mindre end 300 ms men større end 90 ms må opfattes som  
+
+ A-pålægning.
+ IV.7. Jævnstrømssignalering med jord som retur.
+ Definition:
+ Ved jævnstrømssignalering med jord som retur forstås, at der signaleres  
+
+ fra abonnenten mod centralen ved at forbinde den ene eller begge ledere til  
+
+ jord.
+ Signalprogram:
+ Jævnstrømssignalering med jord som retur må kun foretages i forbindelse  
+
+ med op- og nedkobling samt omstilling af forbindelser.
+ IV.8. Ringetripning.
+ Definition:
+ Ved ringetripning forstås den bortkobling af ringespændingen, der skal  
+
+ foretages, når abonnenten løfter mikrotelefonen af efter tilringning og der  
+
+ opnås sløjfeslutning.
+ Signalprogram:
+ Ringetripning, der skal kunne foretages såvel under ringning som i  
+
+ ringepausen, skal foretages hurtigst muligt og senest 150 ms efter opnået  
+
+ sløjfeslutning.
+ Falsk ringetripning:
+ Der må hverken ske falsk ringetripning under ringning eller i ringepausen  
+
+ ved belastning af en abonnentlinie med længden 0 med en impedans på 1600 ohm  
+
+ -50 grader (1000 ohm i serie med 5 mikroF) parallelkoblet med en modstand på  
+
+ 17 kohm.
+ IV.9. Prel på signalkontakter og falske afbrydelser af  
+
+ fødestrømmen.
+ Definition:
+ Ved prel forstås de utilsigtede kortvarige afbrydelser og slutninger, der  
+
+ kan forekomme ved slutning eller brydning af en relækontakt.
+ IV.9.1. Prel på impulseringskontakter:
+ Ved såvel slutning som brydning af en nummerskivekontakt, signalkontakt i  
+
+ automatiske nummersendere og PBC'ers retransmissionskredsløb må der maksimalt  
+
+ være en preltid på 1,5 ms.
+ Prel ved slutning af en signalkontakt regnes med til kontaktens sluttetid,  
+
+ medens prel ved brydning af en signalkontakt regnes med til kontaktens  
+
+ brydetid.
+ IV.9.2. Prel på øvrige signalkontakter.
+ Ved såvel slutning som brydning af øvrige signalkontakter må der maksimalt  
+
+ være prel i 5 ms.
+ Prel ved slutning af en signalkontakt regnes med til kontaktens sluttetid,  
+
+ medens prel ved brydning af en signalkontakt regnes med til kontaktens  
+
+ brydetid.
+ IV.9.3. Falske afbrydelser af fødestrømmen.
+ Ud over valgslutsignalet må der ikke under kobling af en forbindelse  
+
+ forekomme afbrydelser af fødestrømmen af større varighed end 5 ms.
+ IV.10. Sending af »register recall« signal.
+ Definition:
+ Ved sending af »register recall« signal forstås sending af en  
+
+ tidsbestemt afbrydelse af fødestrømmen med det formål at genindkalde et  
+
+ register i den offentlige central eller en PBC under samtaletilstand.
+ Signalkode:
+ »Register recall« signalet skal bestå af en afbrydelse af  
+
+ fødestrømmen i 90 ms +/- 40 ms.
+ IV.11. Opbygning og nedkobling af telefonforbindelser.
+ Under opbygning og nedkobling af en telefonforbindelse samt under samtale  
+
+ skal forbindelsen kontrolleres som angivet nedenfor.
+ IV.11.1. Registerstilling.
+ A-abonnenten skal frigøres senest 500 ms efter A-pålægning.
+ A-abonnenten skal kobles på linieblokade, såfremt der hengår mere end 15 s  
+
+ +/- 20% fra klartone til drejning af første ciffer eller mere end 15 s +/-  
+
+ 20% mellem to på hinanden følgende cifre.
+ Ud over ovennævnte tidsovervågning bør der i registret være en  
+
+ katastrofeovervågning på 90 s +/- 20% af den samlede registerbelægningstid.
+ Hvis registret modtager spærsignal under opbygning af en forbindelse, skal  
+
+ der på centraler med linieblokadetelefonvagt eller hvor  
+
+ linieblokadetilstanden ikke er impulseringssikker udsendes optagettone fra  
+
+ registret i 15 s +/- 20%, hvorefter abonnenten skal kobles på linieblokade  
+
+ med optagettone.
+Såfremt registret modtager optagetsignal, skal der på centraler med  
+
+ linieblokadetelefonvagt udsendes optagettone fra registret i 15 s +/- 20%,  
+
+ hvorefter abonnenten kobles på linieblokade med optagettone.
+Under øvrige  
+
+ centraler skal abonnenten kobles på linieblokade med optagettone umiddelbart  
+
+ efter, at registret har modtaget optagetsignal.
+ IV.11.2. Samtalestilling.
+ Centraler uden »register recall« funktion:
+ A-pålægninger mindre end 150 ms må ikke opfattes.
+ A-pålægninger større end 300 ms skal opfattes.
+ A-pålægninger større end 150 ms men mindre end 300 ms må opfattes.
+ Centraler med »register recall« funktion:
+Afbrydelser mindre end 15 ms må ikke opfattes.
+Afbrydelser i  
+
+ intervallet 15-30 ms må opfattes som »register recall«  
+
+ signal.
+ Afbrydelser i intervallet 30-140 ms skal opfattes som  
+
+ »register recall« signal.
+ Afbrydelser i intervallet 140-200 ms må opfattes som »register  
+
+ recall« signal eller som A-pålægning.
+ Afbrydelser større end 200 ms skal opfattes som A-pålægning.
+ B-pålægning skal medføre, at forbindelsen nedkobles efter 90 s +/-  
+
+ 30 s, hvorefter A-abonnenten kobles på linieblokade med optagettone.
+ Såfremt B-abonnenten ikke besvarer tilringning i løbet af 90 s +/- 30 s,  
+
+skal forbindelsen nedkobles og A-abonnenten kobles på linieblokade med  
+
+ optagettone.
+Del V: DRIFTSSPECIFIKATION FOR RINGESIGNALER FRA OFFENTLIGE  
+
+ AUTOMATISKE CENTRALER Definition:
+ Ved ringesignaler fra offentlige automatiske centraler forstås  
+
+ ringespændinger, der sendes fra den offentlige central mod telefonapparat  
+
+ eller PBC.
+ Signalkode:
+Ringefrekvens: 25 Hz +/- 2,5 Hz Ringespænding målt over ubelastet abonnentledning og med ringegeneratoren  
+
+ belastet fra tomgang til fuld last: max. 120 Veff Ringespænding målt over abonnentledning med længde 0 og afsluttet med 4000  
+
+ ohm i serie med 20 (my)F og med ringegeneratoren belastet fra tomgang til  
+
+ fuld last: min. 80 Veff Psofometrisk værdi af ringespænding målt over abonnentledning med længde 0  
+
+ og afsluttet med 4000 ohm i serie med 20 (my)F og med ringegeneratoren  
+
+ belastet fra tomgang til fuld last: max. 1 volt Målt over en abonnentledning med længde 0 og afsluttet med 4000 ohm i  
+
+ serie med 20 (my)F og med ringegeneratoren belastet fra tomgang til fuld  
+
+ last, må en enkelt overtones amplitude ikke udgøre mere end 10% af  
+
+ grundtonens amplitude.
+Del VI: DRIFTSSPECIFIKATION FOR TONESIGNALER VI.1. Almindeligt.
+De i nærværende cirkulære nr. 2, del VI angivne driftsspecifikationer for  
+
+ tonesignaler kræves overholdt under alle i del I angivne miljøbetingelser.
+Af  
+
+ hensyn til bl. a. elektroniske telefonapparater skal abonnentlinien  
+
+ være påtrykt fødespænding medens tonesignalerne sendes.
+ VI.2. Klartone.
+ Definition:
+ Klartone angiver, at abonnenten er blevet tilsluttet et register, og at  
+
+ nummervalget kan begynde.
+ Signalkode:
+Tonefrekvens: 425 Hz +/- 25 Hz Klirfaktor målt over en abonnentledning med længde 0 og afsluttet med 600  
+
+ ohm: max. 10% Toneniveau målt over en en abonnentledning med længde 0 og afsluttet med  
+
+ 600 ohm: -9 dBm +/-2,5 dB Signalprogram:
+ Klartonen består af en ubrudt tone, der skal påbegyndes når registret er  
+
+ klar til at modtage cifferinformation og vedvare til cifferregistreringen er  
+
+ påbegyndt.
+ VI.3. Optagettone.
+ Definition:
+ Optagettone angiver, at det valgte abonnentnummer eller den valgte retning  
+
+ er optaget.
+ Signalkode:
+ Som under afsnit VI.2.
+ Signalprogram:
+ Optagettonen er et periodisk tonesignal med skiftevis 250 ms +/- 25 ms  
+
+ tone og 250 ms +/- 25 ms pause.
+Tone: 250 ms 250 ms 250 ms Pause: 250 ms 250 ms Optagettone skal udsendes snarest muligt efter, at registret har modtaget  
+
+ optaget- eller spærsignal.
+Se endvidere del IV.11.1.
+ VI.4. Ringetone.
+ Definition:
+ Ringetone angiver, at der er sket indstilling til den kaldte abonnent og  
+
+ at der udsendes ringning.
+ Signalkode:
+ Som under afsnit VI.2.
+ Signalprogram:
+ Straksringetonen, der normalt afsendes fra afgangscentralens register,  
+
+ skal udsendes snarest muligt efter, at der er sket indstilling til den kaldte  
+
+ abonnent.
+ VI.5. Henvisningstone:
+ Definition:
+ Henvisningstone angiver, at den valgte abonnent eller retning ikke er  
+
+ tilgængelig.
+ Ved indstilling til talemaskine bør henvisningstone udsendes i pauserne  
+
+ mellem meldingerne.
+ Signalkode:
+ Henvisningstonen er opbygget af 3 toner med frekvenserne:
+f1 = 950 Hz +/- 50 Hz f2 = 1400 Hz +/- 50 Hz f3 = 1800 Hz +/- 50 Hz Klirfaktor for de enkelte toner målt over en abonnentledning med længde 0  
+
+ afsluttet med 600 ohm: max. 10% Toneniveau for de enkelte toner målt over en abonnentledning med længde 0  
+
+ afsluttet med 600 ohm: -9dBm +/-2,5dB Niveauforskel mellem de enkelte toner: max. 3 dB Signalprogram:
+ Toneperiode:
+Tone med frekvens f1: 330 ms +/- 70 ms Tone med frekvens f2: 330 ms +/- 70 ms Tone med frekvens f3: 330 ms +/- 70 ms Pause mellem de enkelte toner: max. 30 ms Pause:
+Mellem hver toneperiode bestående af de tre toner skal der være en pause  
+
+ på 1000 ms +/- 250 ms VI.6. Gældstillingstone.
+ Definition:
+ Gældstillingstone anvendes i forbindelse med mønttelefoner og angiver, at  
+
+ mønttelefonen står i gældstilling.
+ Gældstillingstone I.
+ Anvendes normalt i forbindelse med mønttelefoner.
+ Signalkode:
+ Som under afsnit VI.5. henvisningstone.
+ Signalprogram:
+ Som under afsnit VI.5. henvisningstone.
+ Gældstillingstone II.
+ Kan anvendes i ældre udstyr og i øvrigt hvor forholdene taler derfor.
+ Signalkode:
+ Som under afsnit VI.2. klartone.
+ Signalprogram:
+ Gældstillingstone II er et periodisk tonesignal bestående af 10 (i digital  
+
+ udførelse 8) tonestød med 60 +/- 6 ms tone og 100 +/- 10 ms pause gentaget  
+
+ med 600 +/- 60 ms intervaller.
+ VI.7. Adviseringssignal.
+ Som adviseringssignal kan anvendes advarselstone eller tikkertone.
+ VI.7.1. Advarselstone:
+ Definition:
+ Advarselstone anvendes i forbindelse med parallelapparater m.v. og  
+
+ angiver, at der fra det ene parallelapparat lyttes ind på bestående samtale.
+ Signalkode:
+Tonefrekvens. 150 Hz +/- 15 Hz Klirfaktor målt over generatorklemmerne afsluttet med 600 ohm: max. 10% Toneniveau målt over generatorklemmerne afsluttet med 600 ohm: 0 dBm +/-  
+
+ 2,5 dB Signalprogram:
+ Advarselstonen, der er en ubrudt tone, skal påbegyndes senest 100 ms  
+
+ efter, at det ene parallelapparat løftes af, medens der føres bysamtale fra  
+
+ det andet apparat.
+ VI.7.2. Tikkersignal.
+ Definition:
+ Tikkersignal anvendes i forbindelse med omstillingsborde, PABC'er m.v. og  
+
+ angiver, at der f.eks. fra omstillingsbordet lyttes ind på bestående samtale.
+ Signalkode:
+ Som under afsnit VI.2.
+ Signalprogram:
+ Tikkersignalet er et periodisk tonesignal med skiftevis 5-10 ms tone og  
+
+ 500 ms +/- 50 ms pause.
+Tone: 5 ms 5 ms 5ms Pause: 500 ms 500 ms VI.8. Hylertone.
+ Definition:
+Hylertone er et ubrudt kraftigt tonesignal, der kan udsendes på en  
+
+ abonnentledning for at advisere en abonnent om, at mikrotelefonen ikke er  
+
+ lagt på.
+Endvidere kan signalet anvendes til at kalde en abonnent, der er på  
+
+ linieblokadetelefonvagt.
+ Signalkode:
+Tonefrekvens: 2000 Hz +/- 200 Hz Toneniveau målt over en abonnentledning med længde 0 og afsluttet med 600  
+
+ ohm: max. 10 dBm For at forbedre effektiviteten af signalet kan det tillades, at 2000 Hz  
+
+ tonen moduleres med en frekvens på 5-10 Hz.
+ Signalprogram:
+ Hylertonen skal begynde med et niveau på ca. 0 dBm og vokse op til max.  
+
+ niveau i løbet af ca. 4s.
+Del VII: DRIFTSSPECIFIKATION FOR SIGNALERING MED FREKVENSER UDEN FOR  
+
+ FREKVENSOMRÅDET 300 - 3400 Hz VII.1. Signalering med 50 Hz vekselspænding mod medløbstæller.
+ Definition:
+ Ved signalering med 50 Hz vekselspænding mod medløbstæller forstås  
+
+ overføring af takstimpulser med 50 Hz vekselspænding over halvfireren fra  
+
+ offentlig central til medløbstæller hos abonnent.
+ Signalkode:
+Signalfrekvens: 50 Hz +/- 2,5 Hz Psofometrisk værdi af signalspænding målt over par afsluttet med 600 ohm  
+
+ og tilsluttet medøbstæller: max. 1 mV Signalspænding målt over halvfireren: 100 V +/- 10 V Signalprogram:
+ Modtageren skal fungere korrekt for takstimpulser på 150 ms +/- 40 ms  
+
+ afsendt med en maksimal hastighed på 2 takstimpulser pr. sekund.
+ Modtagerspecifikation:
+ Modtageren skal fungere korrekt ved påtrykning af en signalspænding på 80  
+
+ volt fra sendetransformatoren gennem et kunstigt kabel på 2 x 700 ohm.
+ Modtageren må ikke fungere for signalspændinger mindre end 10 volt.
+ Modtageren må ikke fungere for 25 Hz ringespændinger på 0-130 volt påtrykt  
+
+ modtagerens tilslutningsklemmer mellem L1 og jord henholdsvis L2 og jord.
+ Indgangsimpedans af modtager set fra halvfireren: >= 10 kohm.
+ VII.2. Signalering med frekvenser >= 3400 Hz.
+ Definition:
+ Ved signalering på abonnentledninger med frekvenser >= 3400 Hz forstås  
+
+ signalering i forbindelse med mønttelefoner, medløbstællere m.v. hvor  
+
+ signalfrekvenserne kun forekommer på abonnentledningen og ved hjælp af filtre  
+
+ forhindres i at nå centraludstyret.
+ Frekvenser:
+ Frekvensbåndet deles op i følgende frekvenser:
+f1: 6kHz +/- 150 Hz f2: 8kHz +/- 150 Hz f3: 10kHz +/- 150 Hz f4: 12kHz +/- 150 Hz f5: frekvenser >= 14 kHz Niveauer:
+ For de enkelte frekvenser skal det afgivne effektniveau overholde følgende  
+
+ betingelser:
+f1: max. 0 dB/1 mW f2: max. 5 dB/1 mW f3: max. 10 dB/1 mW f4: max. 13 dB/1 mW f5: max. 15 dB/1 mW Anvendelsesområde:
+ De enkelte frekvensers anvendelsesområde fremgår af nedenstående:
+ Niveaubegrænsning:
+ Mod centralen:
+På centralen skal der indkobles et balanceret filter mellem central og  
+
+ abonnentlinie.
+Filteret skal have en driftsdæmpning, der er så stor, at  
+
+ niveauet for den pågældende signalfrekvens på centralsiden er begrænset til -  
+
+ 25 dB/l mW.
+Filterets driftsdæmpning i frekvensområdet 300-3400 Hz, målt med  
+
+ 600 ohms afslutning, skal være mindre end 0,45 dB.
+ Mod abonnenten:
+ Såfremt signaleringen foregår i taletilstand, skal der mellem  
+
+ telefonapparat og signaleringsudstyr indskydes et filter med en  
+
+ driftsdæmpning overfor den anvendte signaleringsfrekvens på min. 35 dB.  
+
+ Filterets driftsdæmpning i frekvensområdet 300-3400 Hz, målt med 600 ohms  
+
+ afslutningsimpedanser, skal være mindre end 0,25 dB.
+ (* 1) I konsekvens af ændret arbejdsdeling på telekommunikationsområdet  
+
+ pr. 1.1.1991 ophæves cirkulæret som statslig forskrift, idet ansvaret for  
+
+ disse bestemmelser, der vedrører interne forhold i Tele Danmark A/S, er  
+
+ overgået til dette selskab.

@@ -1,0 +1,372 @@
+A.2.1 Udfyldning af  
+
+ fortoldningsangivelsen Udfyldningen af fortoldningsangivelsen samt betalingen af told og  
+
+ afgifter afhænger af, hvilken toldmæssig status varerne  
+
+ har.
+Ikke-EU-varer - i praksis benævnt T 1-varer - er varer,  
+
+ der kommer fra lande uden for EU.
+Der skal som hovedregel betales såvel  
+
+ told mv. som moms af disse varer.
+EU-varer - i praksis  
+
+ benævnt T 2-varer - er varer, der har oprindelse i eller er fortoldet i et  
+
+ EU-land, se dog nedenfor.
+Varer, hvortil der er ydet eksportrestitution  
+
+ fra EU, har dog samme status, som ikke-EU-varer.
+EU-varer -  
+
+ varer med T 2 F-status - er varer, der har oprindelse de steder indenfor  
+
+ EU's toldområde, hvor EU's 6. momsdirektiv ikke er gældende, f.eks.
+De  
+
+ Kanariske Øer, De Franske Oversøiske Departementer - Fransk Guyana,  
+
+ Martinique, Guadeloupe og Réunion -, Kanaløerne - Jersey og Guernsey-,  
+
+ Ålandsøerne, Athos bjerget i Grækenland og flere andre  
+
+ steder.
+For visse varer er der mulighed for  
+
+ præferencetoldbehandling, dvs. at varerne på visse betingelser kan  
+
+ indføres mod nedsat told eller toldfrit.
+De varer, hvor der  
+
+ er mulighed for at opnå præferencetoldbehandling, fremgår af Toldtariffens  
+
+ bind 4 og 5, se  
+
+ A.8 . Fortoldningsangivelsen er  
+
+ udformet efter EU's regler om det administrative enhedsdokument, se  
+
+ bilag 5 . Fortoldningsangivelsen er  
+
+ fremstillet som et blanketsæt, der anvendes i samtlige EU- og EFTA-lande,  
+
+ samt visse Østeuropæiske lande.  Enhedsdokumentet består  
+
+ af hovedoplysninger - rubrikkerne 1-30, 49 og 54; varepostoplysninger -  
+
+ rubrikkerne 31-46 og beregningsoplysninger - rubrik  
+
+ 47.
+For fuldstændig ekspres anføres: FuE Der henvises i øvrigt til Toldtariffens vejledning om anvendelse af  
+
+ varekoder og tillægskoder.
+Første karakter skal være 1 = start, 2 = løbende leverancer eller 9 =  
+
+ slut.
+De næste 4 karakterer angiver løbe-nr. for delsendingen og de sidste  
+
+ 3 karakterer anvendes til at angive den supplerende  
+
+ enhed.
+Erklæringer i forbindelse med anmodning om toldlempelse mv. afgives  
+
+ her.
+Når varerne er omfattet af visse varebestemmelser angivet i  
+
+ rubrik 44.3, skal supplerende vareoplysninger ligeledes  
+
+ angives.
+Værdien af det lagredes art (softwaren) på informationsmedier (varekode  
+
+ 3706 - mastere til film, 4906 00 00 - tegninger og 8524 - disketter,  
+
+ videokassetter mv.) skal angives.
+For massefremstillet software angives:  
+
+ MASSE: værdi af softwaren og for specialfremstillet software angives:  
+
+ SPEC: værdi af softwaren.
+Som hovedregel er toldværdien den pris, der skal betales for varerne,  
+
+ dvs. fakturaprisen med fradrag af eventuel kontantrabat.
+Værdien  
+
+ angives i hele danske kroner og med mindsteværdien = 1 kr.
+Er varerne faktureret i udenlandsk valuta, anvendes omregningskurser,  
+
+ der gælder for en måned ad gangen.
+De kurser, der fastsættes af  
+
+ Nationalbanken den næstsidste onsdag i en måned, skal anvendes i hele den  
+
+ efterfølgende kalendermåned.
+Er der store kursudsving i perioden, anvendes ændrede kurser efter  
+
+ særlige regler.
+For valutaer, der ikke noteres i Nationalbanken, anvendes  
+
+ den senest noterede sælgerkurs, som importøren må søge oplysning om hos et  
+
+ pengeinstitut.
+Skal der betales værditold af en vare, og har forsendelsen en samlet  
+
+ værdi på over 40.000 kr., skal der afgives en toldværdideklaration  
+
+ (14.007), se  
+
+ bilag 4 . På bagsiden af deklarationen specificeres  
+
+ de beløb, der skal tages hensyn til ved værdiansættelsen.
+Toldværdi  
+
+ er nærmere beskrevet i  
+
+ afsnit A.6  samt  
+
+ Vejledning om Toldværdi .
+Beregningsgrundlaget ved told mv. (linieart 0 og 1): Her angives  
+
+ det grundlag i hele tal, hvoraf told- eller landbrugsafgifter skal  
+
+ beregnes.
+Såfremt toldværdien skal anvendes som grundlag, anvendes denne i  
+
+ overensstemmelse med EU's regler om varers toldværdi, dvs. den værdi, der  
+
+ er angivet som statistisk værdi i rubrik 46.
+ Beregningsgrundlaget ved moms (linieart 2): Som grundlag angives  
+
+ summen af toldværdier, interne EU-forsendelsesomkostninger fra (rubrik 12)  
+
+ samt summen af toldbeløbene, for alle de vareposter, der er omfattet af  
+
+ fortoldningsangivelsen.
+Moms angives kun i den sidste varepost i fortoldningsangivelsen, og  
+
+ grundlaget angives i hele kroner, nedrundet.
+Ved angivelse af  
+
+ oplysninger via edb, angiver systemet automatisk momsgrundlaget i rubrik  
+
+ 47.2.
+ Punktafgifter (linieart 3): Såfremt linieart = 3 udfyldes  
+
+ rubrikken beregningsart med punktafgiftskoden, se  
+
+ bilag 123 .
+Ved angivelse af oplysninger via edb, angiver systemet som hovedregel  
+
+ automatisk told- og momssats i rubrik 47.3. Såfremt toldsatsen ikke kan  
+
+ findes systemmæssigt må registratoren dog selv angive  
+
+ toldsats.
+Toldsatsen skal angives med den sats, som fremgår af  
+
+ Toldtariffen, for den pågældende varekode for varer med toldmæssig status  
+
+ T 1.
+ Ved satsangivelse skal der tages hensyn til, om varen kan være omfattet  
+
+ af antidumpingtoldordninger, præference-, kontingent-, suspensions- eller  
+
+ andre toldlempelsesordninger.
+Er der ikke i Toldtariffen anført en toldsats, men alene markeringen  
+
+ "le", "tts" eller "ttm", der angiver, at varen er belagt med  
+
+ landbrugselement, tillægstold for sukker eller tillægstold for mel,  
+
+ angives denne sats.
+For varer, der begæres indført toldfrit i henhold  
+
+ til toldloven/EU-forordning (f.eks flyttegods, returvarer mm.) angives 0  
+
+ som sats.
+Såfremt toldsatsen er to-leddet (både procent og øre), eller der  
+
+ skal beregnes mere end en slags told, anføres satsen (-erne) på 2 linier  
+
+ med anførsel af samme linieart.
+Sidstnævnte kan f.eks være tilfældet, når varen udover told er belagt  
+
+ med landbrugselement eller antidumpingtold.
+Hvor minimum - eller  
+
+ maksimumtoldsatser kommer til anvendelse, anføres den pågældende sats.
+ Alle satser anføres i % eller i øre pr kilo, stk, liter mv., uanset om  
+
+ satsen er fastsat f.eks. i kr. og øre pr. 100 kg eller pr. 1000 liter.  
+
+ Satsen kan angives med 3 decimaler.
+ Eksempelvis angives 10,50 kr pr. kg som 105 000 og 100,344 kr. pr.  
+
+ 100 kg som 10 034,4.
+Told- og momssatserne anføres med den sats, der er gældende den dag,  
+
+ hvor fortoldningsangivelsen modtages på varemodtagerens hjemtoldcenter  
+
+ (eller såfremt indlevering er tilladt til et andet toldcenter end  
+
+ hjemtoldcentret, den dag indleveringstoldcentret har modtaget angivelsen)  
+
+ i korrekt udfyldt stand indenfor ekspeditionstiden.
+I visse tilfælde skal  
+
+ anvendes den sats, der var gældende den dag, angivelsen senest skulle have  
+
+ været indleveret, jf. afsnittet om  
+
+ satsdag.
+ Det beregnede beløb angives med 2 decimaler afrundet til nærmeste  
+
+ lavere ørebeløb, deleligt med 10, dvs sidste ciffer i ørebeløbet skal  
+
+ altid være 0.
+ Såfremt der ikke skal betales told eller moms angives beløbet med  
+
+ 0. Ved tilførsel af punktafgiftspligtige varer skal beregnet beløb  
+
+ ikke angives.
+ Hvis det er speditøren, der har underskrevet, er det stadig  
+
+ varemodtageren, der hæfter for told og afgifter.
+ Efter ansøgning kan toldcentret give varemodtagere/speditører  
+
+ tilladelse til maskinel underskrift af fortoldningsangivelsen.
+A.2.1.1 Rubrikker, som skal udfyldes ved  
+
+ fuldstændig ekspresfortoldning A.2.1.2 Rubrikker, som skal udfyldes ved  
+
+ forenklet ekspresfortoldning A.2.1.3 Rubrikker, som skal udfyldes ved  
+
+ supplerende angivelse A.2.1.4 Rubrikker, som skal udfyldes ved  
+
+ statistisk tærskelværdi/ekspresproceduren A.2.1.5 Rubrikker, som skal udfyldes ved  
+
+ oplæggelse på midlertidigt oplag A.2.1.6 Rubrikker, som skal udfyldes ved  
+
+ standardfortoldning A.2.1.7 Rubrikker, som skal udfyldes ved  
+
+ statistisk tærskelværdi/standardproceduren A.2.2 Ekspeditionstider og gebyrer uden for  
+
+ ekspeditionstiden Reglerne for ekspeditionstider og gebyrer uden for ekspeditionstiden  
+
+ findes i bekendtgørelse om toldbehandling §§ 137 - 144.
+ Der er ikke ekspeditionstid på søn- og helligdage.Grundlovsdag  
+
+ og juleaftensdag er ekspeditionstiden kl. 08.00-12.00, dog er  
+
+ ekspeditionstiden kl. 07.00-12.00 ved de ekspeditionssteder, der normalt  
+
+ har ekspeditionstid fra kl. 07.00.
+Eksempel 1 Her bortfalder tilkaldegebyret, da gebyrerne for de udførte  
+
+ ekspeditioner overstiger  
+
+ tilkaldegebyret(minimumsbeløbet).Eksempel 2 Her betales alene tilkaldegebyret (minimumsbeløbet), da gebyrerne af de  
+
+ udførte ekspeditioner ikke overstiger tilkaldegebyret.Der skal  
+
+ betales ét gebyr pr. toldforretning.Kræver toldforretningen, at  
+
+ der er personale til stede ud over 1 time, betales der dog 221 kr. pr.  
+
+ påbegyndt time.
+Gebyret betales af rekvirenten.Ved flere  
+
+ rekvirenter betales et tilkaldegebyr pr.  
+
+ rekvirent.
+A.
+Oplæggelse på midlertidigt oplag
+For angivelse til midlertidig oplæggelse på  
+
+ midlertidigt oplag er grundgebyret pr. ekspedition 61 kr.
+
+B.
+Udførsel
+For ekspedition af udførselsangivelse ved  
+
+ afgangstoldstedet er grundgebyret 15 kr. pr. udførselsangivelse,  
+
+ d.v.s. enhedsdokument.
+Hvis afgangs- og udpassagetoldstedet er det  
+
+ samme, betales kun ét gebyr.
+Ved udpassage alene betales  
+
+ ikke gebyr.
+
+C.
+Forsendelse
+Ved påbegyndt - start af - forsendelse (dog ikke ved  
+
+ godkendt afsender) er grundgebyret 61 kr. pr. forsendelse, d.v.s.  
+
+ pr. enhedsdokument.Ved start af forsendelse på TIR-ordningen  
+
+ er grundgebyret 61 kr. pr. forsendelse, d.v.s. pr.  
+
+ carnet.For afslutning af forsendelse (dog ikke ved godkendt  
+
+ modtager) er grundgebyret 61 kr. pr. forsendelse, d.v.s. pr.  
+
+ enhedsdokument.
+For afslutning af forsendelse på TIR-ordningen er  
+
+ grundgebyret 61 kr. pr. forsendelse, d.v.s. pr. carnet.Ved  
+
+ afstempling af TIR-carnet samt udstedelse af grænseovergangsattest  
+
+ ved grænsepassage opkræves ikke særskilt gebyr.
+
+D.
+Fortoldning
+For fortoldning på fortoldningsangivelse -  
+
+ enhedsdokument - (ekspres, forenklet ekspres og standard) er  
+
+ grundgebyret 61 kr. pr. fortoldningsangivelse.
+
+E.
+Proviantering
+Ved proviantering af skibe eller fly er grundgebyret  
+
+ 15 kr. pr. angivelse.
+Beløbet skal dog kun betales i det omfang, der  
+
+ sker en ekspedition af proviantangivelsen uden for  
+
+ ekspeditionstid.
+
+F.
+Andet
+Ved start af/afslutning af ATA-carnet er grundgebyret  
+
+ 25 kr. pr. carnet.Ved afstempling af ATA-carnet - uden  
+
+ start/afslutning samtidig - opkræves ikke særskilt gebyr.
+
+Andre bemærkninger
+Ved toldbehandling, der inkluderer flere procedurer,  
+
+ skal der betales gebyr for hver enkelt procedure.For at  
+
+ toldekspeditionen kan udløse et gebyr, er det en forudsætning, at  
+
+ der er foretaget en ekspedition (afstempling, behandling  
+
+ o.lign.).Der opkræves ikke specielle gebyrer for samtidig  
+
+ behandling af f.eks. oprindelsescertifikater og licenser.  
+
+Der betales ikke gebyr i forbindelse med en ekspedition, der  
+
+ foretages alene som følge af, at ToldCSkat ønsker at foretage  
+
+ kontrol i forbindelse med den pågældende  
+
+ ekspedition.

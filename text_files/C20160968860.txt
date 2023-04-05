@@ -1,0 +1,159 @@
+Vejledning til bekendtgørelse om krav til a-kassernes kontrol og administration Indledning I bekendtgørelse nr. 986 af 29. juni 2016 er der fastsat regler om statens krav til a-kassernes kontrol og administration.
+ I denne vejledning beskrives og uddybes bekendtgørelsens regler.
+Kapitel 1 Anvendelsesområde og formål Til § 2 Bekendtgørelsen fastsætter minimumskrav.
+Hvis en a-kasse vurderer, at der gør sig særlige forhold gældende, som nødvendiggør særlige initiativer for at sikre en korrekt administration, skal a-kassen indrette sin administration og kontrol herefter.
+Generelle krav til a-kassernes it-anvendelse Til § 3 Dagpengesystemet skal så vidt mulig baseres på digital administration.
+A-kasserne skal i sagsbehandlingen anvende registerdata i forbindelse med oplysning af sagerne og den løbende opfølgning.
+Den digitale understøttelse af sagsbehandlingen giver mulighed for effektivisering, øget automatisering og større ensartethed, således at administrationen i størst mulig omfang er baseret på objektive data og med en digitaliseret kontrol.
+Til § 3, stk. 2 Der må udelukkende foretages opslag i registre på enkeltpersoners data, såfremt der er et legitimt behov herfor i forbindelse med konkret sagsbehandling eller validering af data.
+I de tilfælde, hvor der ikke eksisterer registeroplysninger, skal der, så vidt det er muligt, indhentes dokumentation, fx fra arbejdsgivere.
+I øvrige tilfælde lægges der vægt på medlemmets egne oplysninger, som afgives på tro og love.
+Kapitel 2 Et ensartet opgørelsesgrundlag (tællere) Til §§ 4 og 5 Formålet er, at data skal opgøres ens for alle forsikrede på tværs af a-kasser.
+Det gælder fx, hvordan der tælles indkomst til beregning af dagpengesats, eller tælles forbrug af dagpengeret.
+Disse tællere skal opgøres ensartet på tværs af a-kasser og stilles til fuld rådighed for både a-kasser, kommuner, det enkelte medlem og relevante centrale myndigheder.
+Uanset a-kasse (IT-leverandør) skal opgørelser/resultater af tællere være ens ud fra et ens datagrundlag.
+Data/resultater/opgørelser skal løbende overføres af a-kasserne til Styrelsen for Arbejdsmarked og Rekrutterings register Det fælles datagrundlag (DFDG) i det format og med den frekvens som styrelsen specificerer, jf. reglerne i bekendtgørelse om det fælles datagrundlag og det statistiske datavarehus på beskæftigelsesområdet.
+ Såfremt der sker fejludbetaling på grund af forkert beregnet tæller finder reglerne om a-kassernes ansvar anvendelse med hensyn til fejludbetalinger.
+Til §§ 6 og 7 For at sikre, at samtlige tællere på tværs af a-kasser når til samme resultater, skal a-kasserne gennemføre testcases efter nærmere retningslinjer.
+I tilknytning til hver enkelt testcase udarbejdes et konkret testdatasæt, som i den konkrete testsammenhæng fungerer som tællerløsningens inddata.
+Testdata skal i videst mulig udstrækning være identiske på tværs af a-kasser for at sikre, at den enkelte a-kasses tællerløsninger indhenter, behandler, opgør, afleverer og viser tæller-data korrekt og ensartet.
+Styrelsen for Arbejdsmarked og Rekruttering udarbejder i tilknytning til hver enkelt testcase et konkret resultat-datasæt  dvs. det konkrete output, som hver enkelt tæller skal vise.
+For hver enkelt testcase/testdatasæt regner styrelsen de enkelte tælleres konkrete resultater igennem på forhånd, således at a-kasserne har et facit-ark at holde egne testoutput op imod.
+Styrelsen vil udmelde tests, når styrelsen finder det nødvendigt for at sikre korrekt og ensartet administration i a-kasserne.
+Det kan fx være i forbindelse med ændringer i reglerne eller i forbindelse med en årlig tematest.
+Der skal endvidere gennemføres tests, når en a-kasse skifter it-leverandør eller system, der har betydning for a-kassens tællere.
+I disse situationer kan styrelsen stille krav om, at a-kassens revisor attesterer, at a-kassen har gennemført testcasene efter de udsendte retningslinjer.
+Scenarierne skal dels sikre, at tællerne og dagpengebeløb udregnes korrekt og dels, at de forskellige tællere m.v. indberettes korrekt til DFDG i styrelsen.
+ Den udmeldte test kan i konkrete situationer gennemføres som systemtest i a-kasser med samme system fremfor tests i hver enkelt a-kasse.
+Kapitel 3 A-kassens egenkontrol Til § 8 A-kasserne skal som udbetalings- og kontrolansvarlige sikre, at der sker en korrekt administration og udbetaling af dagpenge, og at eventuelle fejl opfanges så hurtigt som muligt, samt at processer, som er uhensigtsmæssige for en smidig og hurtig sagsbehandling, fx uklarheder i vejledningstekster som misforstås af medlemmer, opfanges og ændres.
+Herudover skal a-kasserne sikre, at der sker den fornødne erfaringsopsamling til brug for optimering af kontrollen.
+A-kassernes revisorer skal medvirke til og påse, at a-kasserne udfører og afrapporterer kontrollen og resultaterne i overensstemmelse med lovgivningen og de af Styrelsen for Arbejdsmarked og Rekruttering fastsatte retningslinjer, bl.a. gennem stikprøver af afgjorte sager og eftersyn af a-kassernes beregningssystemer og oplysningernes rigtighed.
+Til § 9, stk. 1 En øget digitalisering af udbetalingerne giver også nye muligheder for at automatisere og digitalisere kontrollen, og at gentænke en lang række af de manuelle kontroller.
+En kontrolmodel skal i praksis fungere som pejlemærke for tilrettelæggelsen af a-kassernes kontrolaktiviteter.
+A-kassernes kontrol skal derfor baseres på en model, hvor de registrerede oplysninger så vidt mulig lægges til grund for administrationen, og således at der indarbejdes kontroltrin vedrørende ansøgningsprocessen, udbetalingsprocessen og opfølgningsprocessen i forhold til sager med særlig risiko for fejl.
+Til § 9, stk. 2 Dette kontroltrin vedrører processen fra medlemmet påbegynder en digital ansøgning om ydelser, og indtil der er truffet en afgørelse om tildeling eller afslag (Kontroltrin 1).
+ Eksempler på faste kontroller i trin 1:
+A-kassens opgørelse af indkomstkravet A-kassen skal på baggrund af oplysningerne i indkomstregisteret automatisk beregne, om medlemmet har haft tilstrækkelig indkomst inden for en given periode til at være berettiget til dagpenge.
+Hvis medlemmet ikke opfylder kravet via indkomstregisterets oplysninger, og hvis medlemmet har supplerende oplysninger om fx udenlandsk indtægt, skal oplysningerne om indtægt udtages til manuel behandling i a-kassen, og medlemmet skal dokumentere oplysningerne med lønsedler, ansættelseskontrakter m.m.
+Har medlemmet andre arbejdsgivere? A-kassen skal kontrollere, om medlemmet har andre arbejdsgivere end den, som medlemmet har ledigmeldt sig fra.
+I det omfang medlemmet har haft andre arbejdsgivere samtidig med den arbejdsgiver, som medlemmet har ledigmeldt sig fra, vil dette fremgå af indkomstregistret.
+I det omfang medlemmet har anden lønnet beskæftigelse, skal oplysningen udtrækkes til manuel behandling med henblik på at vurdere, om arbejdsforholdet er omfattet af et opsigelsesvarsel, og om der skal indhentes en frigørelsesattest.
+Til § 9, stk. 3 På kontroltrin 2 føres der kontrol med medlemmets fortsatte berettigelse til ydelsen i forbindelse med ændringer i medlemmets forhold.
+Såfremt der er forhold, der ændrer sig i et omfang, der har betydning for udbetaling af ydelser, skal medlemmet høres, og a-kassen skal eventuelt træffe afgørelse om at stoppe eller ændre ydelsen.
+ Eksempel på faste kontroller i trin 2:
+Det har betydning for retten til dagpenge, hvis medlemmet driver selvstændig virksomhed.
+Hvis a-kassen konstaterer, at medlemmet under ledighed tilmelder sig CVR med en virksomhed, skal oplysninger fra CVR forelægges medlemmet med hensyn til, hvilken betydning virksomhedsudøvelse har for den fortsatte dagpengeudbetaling.
+Til § 9, stk. 4 De efterfølgende kontroller rette sig mod udbetalinger, hvor der kan være særlig risiko for fejl, fx sager, hvor der udbetales på medlemmets tro- og love oplysninger, eller hvor der på anden måde kan være sket ændringer i udbetalingsgrundlaget og dermed tvivl om udbetalingen, og hvor der derfor er anledning til at indlede en kontrolsag.
+ Eksempler på faste kontroller i trin 3:
+Regulering Hvis a-kassen bliver bekendt med, at der er sket rettelser i eller forsinkede indberetninger til indkomstregisteret, gælder der særlige bestemmelser for regulering af dagpengene, jf. lovens § 85 e, stk. 1. De samlede arbejdstimer for perioden sammenholdes med dagpengekortet og en eventuel tidligere afgørelse om regulering.
+A-kassen skal udsende en meddelelse om den planlagte regulering til medlemmet, der skal kunne gøre indsigelse.
+Til § 9, stk. 5 og 6 Der vil blive fastsat nærmere regler om rollefordelingen i de faste kontroller således, at a-kassen har ansvaret for at gennemføre kontrollerne før, under og efter udbetalingerne, og a-kassens revisor har ansvaret for at påse, at a-kassen gennemfører kontrollerne og har reageret på fejl og uhensigtsmæssigheder.
+Resultaterne af disse kontroller indrapporteres til Styrelsen for Arbejdsmarked og Rekruttering.
+Styrelsen kan udmelde fælles kontroltemaer til a-kasserne og kan i øvrigt fastsætte krav til a-kassernes fremtidige kontrol.
+Kapitel 4 A-kassens rådighedskontrol Til § 10 Med beskæftigelsesreformen er der indført en digital joblog, hvor alle jobparate ledige siden 1. juli 2015 har skullet registrere deres jobsøgningsaktiviteter.
+Dermed er det blevet muligt at udføre rådighedstilsynet på baggrund af registerbaserede oplysninger om jobsøgning.
+Det er således nu muligt, at tilsynet kan omfatte alle jobparate lediges jobsøgning.
+Der opnås samtidig en større grad af gennemsigtighed i forhold til lediges jobsøgning.
+Det kan bidrage til at styrke rådighedskontrollen.
+Jobloggen gør det muligt at udsøge informationer om jobsøgning for alle jobparate ledige og kombinere oplysningerne ud fra udvalgte søgekriterier.
+Kapitel 5 A-kassernes forretningsgange Til § 11 Hensigten med forretningsgange og øvrige tilgængelige arbejdsbeskrivelser er bl.a. at sikre en ensartet og korrekt administration i den enkelte a-kasse.
+Forretningsgange skal indeholde en beskrivelse af a-kassens procedurer og foranstaltninger, som skal forhindre eller begrænse fejludbetalinger.
+Anvendelse af indkomstregisteret, CPR og CVR skal indgå som centrale dele af a-kassernes forretningsgange.
+ Forretningsgangene er også et redskab, når Styrelsen for Arbejdsmarked og Rekruttering og a-kassernes revisorer fører kontrol med a-kassernes administration.
+Til § 12 Det skal af forretningsgangsbeskrivelserne klart fremgå, at den enkelte bruger i a-kassen skal have særlig adkomst til at indhente oplysninger fra de offentlige registre, som anvendes af a-kassen, ligesom det skal fremgå, hvilke sikkerhedsregler, der gælder for brugen af det enkelte register.
+Kapitel 6 Krav til a-kassernes it-systemer og sikkerhed Til § 13, stk. 1 Der er i lovens § 90 b adgang for a-kasserne til indkomstregisteret, CPR og CVR uden samtykke fra medlemmet, og oplysningerne kan anvendes for nuværende og tidligere medlemmer og for perioder, som vedrører en aktuel medlemsperiode og perioder, der ligger forud herfor.
+ Til § 13, stk. 3.
+ Brugeren bør underskrive en sikkerhedserklæring, hvoraf det dels fremgår, at den pågældende erklærer sig indforstået med at være underlagt tavshedspligt, dels fremgår, hvilke betingelser der gælder for brug af registeret, samt endelig hvad konsekvenserne er af et eventuelt misbrug, fx. de ansættelsesretlige konsekvenser, herunder at videregivelse eller udnyttelse af de fortrolige oplysninger kan få konsekvenser i relation til straffelovens § 152 (bøde, hæfte eller fængsel i op til 6 måneder).
+Til § 13 stk. 4 Der skal i a-kassernes it-systemer ske en registrering (logning), der indebærer, at det til enhver tid kan konstateres, hvem der har søgt oplysninger på hvilke medlemmer (cpr.nr.).
+Til § 15 De nævnte punkter i beskrivelserne er mindstekrav, idet forhold i den enkelte a-kasse eller it-systemernes indretning kan medføre, at beskrivelserne bør indeholde flere detaljer.
+Til § 15 stk. 3 En databehandler, er en fysisk eller juridisk person, der på vegne af a-kassen varetager funktioner, som a-kassen ellers selv skulle udføre.
+Til § 16, stk. 1 En it-sikkerhedspolitik er a-kassens egne overordnede krav til it-sikkerheden, de nødvendige organisatoriske rammer, og hvor ansvaret er placeret i a-kassen.
+Det eneste formkrav til it-sikkerhedspolitikken er, at den skal være skriftlig.
+De individuelle forhold i a-kasserne afgør, hvad der er nødvendigt og hensigtsmæssigt for at sikre it-sikkerheden.
+ A-kassen kan tage udgangspunkt i vejledning nr. 37 af 2. april 2001 til bekendtgørelse nr. 528 af 15. juni 2000 om sikkerhedsforanstaltninger til beskyttelse af personoplysninger, som behandles for den offentlige forvaltning samt Dansk Standards Norm for informationssikkerhed ISO27001. A-kassen kan supplere normen i det omfang, a-kassen skønner, at den ikke er tilstrækkelig, og fravige normen i det omfang a-kassen vurderer, at det er forsvarligt.
+ Følgende er eksempler på, hvilke overvejelser a-kassen kan foretage i forbindelse med it-sikkerhedspolitikken:
+ risikovurdering af it-brugen,  nødplaner som modvirker driftsforstyrrelser,  ændringsstyring til it-anvendelsen, infrastruktur og applikationer,  oplysning om procedurer for afvikling af it-driften,  retningslinjer for fejlregistrering og -håndtering,  procedurer for brugeradministration, tildeling af brugerrettigheder og løbende kontrol af ændringer,  retningslinjer for krav til dokumentation af it-systemer, og  oplysning om funktionsadskillelser i a-kasserne.
+En it-sikkerhedspolitik har kun værdi, hvis den er aktuel.
+A-kassen skal derfor løbende følge sin it-sikkerhedspolitik op.
+Ved vurderingen af, om it-sikkerhedspolitikken skal føres ajour, skal a-kassen tage højde for forandringer af betydning for it-sikkerheden i a-kassen.
+A-kassen skal også vurdere, om it-sikkerhedspolitikken virker efter hensigten.
+Kapitel 7 A-kassernes revisorer Til § 17 Det er a-kassernes ansvar at sørge for, at deres revisorer undersøger og vurderer kvaliteten af a-kassernes forretningsgange, kontrolstrategier, it-systemer og it-sikkerhedspolitik, samt om forretningsgangene stemmer overens med de faktiske forhold.
+Kapitel 8 Opbevaring og dokumentation Til § 18, stk. 1 Alt materiale der indhentes, udgør dokumentation i lovens forstand.
+Til brug for vurderingen af om et medlem opfylder en betingelse i en materiel regel i arbejdsløshedsforsikringslovgivningen, skal en a-kasse indhente det materiale, som er nødvendigt.
+Materiale, som er nødvendigt, kan både være oplysninger fra myndigheder eller tredjemand, f.eks. årsag til et arbejdsophør, bortforpagtningskontrakter, eller tro og love oplysninger fra medlemmet, fx . ejerskabsforhold af selskaber eller beskæftigelse i egen virksomhed.
+Der henvises i øvrigt til bekendtgørelsen om kravene til arbejdsløshedskassernes sagsbehandling og afgørelser.
+Som eksempel kan nævnes, at a-kasserne - udover det ydelseskort, som var den umiddelbare anledning til udbetalingen - skal opbevare den ledighedserklæring, som ligger til grund for medlemmets ret til ydelser.
+Det materiale, som a-kasserne har indhentet i forbindelse med en ledighedserklæring, skal også opbevares.
+Det kan fx. være dokumentation for løn, arbejdstimer og arbejdsophør m.v.
+Når et medlem er overgået fra en ydelse til en anden ydelse, skal dokumentationen for medlemmets ret til overgang opbevares indtil 5 år efter afslutningen af det kalenderår, hvor medlemmet ophørte med at modtage ydelsen.
+Det bemærkes dog, at dokumentationsmateriale, som indgår ved opgørelsen af forbrug af dagpengeperioden, skal opbevares i 8 år.
+For medlemmer, der vil kunne opfylde betingelserne for ret til efterløn, skal oplysninger om medlemsanciennitet og betaling af efterlønsbidrag opbevares i 5 år efter udgangen af det regnskabsår, hvori medlemmet når folkepensionsalderen, jf. lov om social pension, eller er afgået ved døden.
+Der henvises til bekendtgørelse om dokumentation for anciennitet i en a-kasse.
+Hvis der opstår en sag på et medlem, må a-kasserne ikke kassere noget materiale vedrørende medlemmet, før sagen er endeligt afgjort.
+A-kasserne skal opbevare alt det materiale, der har ligget til grund for afgørelser i 5 år fra det endelige afgørelsestidspunkt.
+Til § 18, stk. 2 Det fremgår af de materielle regler, hvordan og i hvilket omfang indkomstregistret skal anvendes ved administrationen af forsikringssystemet.
+ Der kan undtagelsesvist og midlertidigt anvendes anden dokumentation, som fx. lønsedler eller erklæringer fra arbejdsgivere.
+ Det skal dog bemærkes, at a-kassen efter § 4, stk. 5, i lov om et indkomstregister har pligt til at meddele indkomstregisteret, såfremt der konstateres fejl i arbejdsgiveres indberetninger af lønindkomster og arbejdstimer.
+Til § 18, stk. 3 Der kan fx. være tale om meget sendrægtige arbejdsgivere, udenlandske arbejdsforhold eller ganske særlige arbejdsforhold med præg af selvstændig virksomhed.
+Der kan imidlertid også være tale om sort arbejde eller anden form for snyd.
+Hvis et arbejdsforhold ikke er registreret i indkomstregistret, kan der være risiko for fejlagtige lønoplysninger fra enten arbejdsgiver eller medlem.
+Det er derfor meget vigtigt, at a-kasserne udviser agtpågivenhed og underkaster den efterfølgende fremlagte dokumentation fra medlem eller arbejdsgiver en grundig prøvelse.
+For så vidt angår udenlandske arbejdsforhold skal a-kasserne så vidt muligt sikre sig, at der er tale om reelle ansættelsesforhold på de løn- og arbejdsvilkår, som gælder i arbejdslandet.
+Dokumentationsreglerne findes i bekendtgørelse om arbejdsløshedsforsikring ved arbejde m.v. inden for EØS, Færøerne og i det øvrige udland.
+Om nødvendigt skal a-kasserne opbevare hele eller delvise oversættelser af materialet til brug for Styrelsen for Arbejdsmarked og Rekrutterings tilsyn.
+Til § 18, stk. 4 Hvis et arbejdsforhold ikke er registreret i indkomstregistret, og hvis det ikke er muligt at indhente oplysninger fra arbejdsgiveren, er der risiko for, at der kan være tale om et fiktivt arbejdsforhold, sort arbejde eller lignende.
+Det er derfor meget vigtigt, at a-kasserne udviser agtpågivenhed og underkaster eventuelle lønsedler og ansættelsesbevis en grundig prøvelse.
+ Hvis der er omstændigheder ved arbejdsforholdet og den fremlagte løndokumentation, der skaber tvivl om, hvorvidt der har været tale om et reelt ansættelsesforhold, kan a-kassen afkræve medlemmet yderligere dokumentation i form af bankudskrift, hvoraf det fremgår, at lønnen rent faktisk har været udbetalt og hvor øvrige transaktioner viser, at lønnen indgår til sædvanlige leveomkostninger, fx husleje og dagligt forbrug.
+For så vidt angår udenlandske arbejdsforhold skal a-kasserne så vidt muligt sikre sig, at der er tale om reelle ansættelsesforhold på de løn- og arbejdsvilkår, som gælder i arbejdslandet.
+Dokumentationsreglerne findes i bekendtgørelse om arbejdsløshedsforsikring ved arbejde m.v. inden for EØS, Færøerne og i det øvrige udland.
+Til § 19, stk. 1 A-kassen skal som hovedregel opbevare dokumentation i 5 år.
+Der er dog i § 19, stk. 4, fastsat krav om opbevaring i 8 år, når der er tale om dokumentationsmateriale, som indgår ved opgørelse af forbrug af dagpengeperioden.
+Til § 19, stk. 2 Logning af oplysninger fra indkomstregistret dokumenterer, at a-kassen har anvendt oplysningen i sin sagsbehandling.
+En oplysning fra et givent tidspunkt kan genskabes, uanset at den senere er ændret.
+Registreringen kan i øvrigt ske ved et modtagestempel på det fysiske dokument, ved en registrering i forbindelse med indscanning eller på anden vis, fx. i a-kassernes it-systemer.
+Registreringen skal kunne tjene som bevis for modtagelsestidspunktet, herunder i sager om klagefrist.
+Til § 19, stk. 3 A-kasserne skal opbevare alt materiale vedrørende medlemmerne på en sikker og forsvarlig måde.
+ A-kasserne skal således påse, at materialet behandles i overensstemmelse med lov om behandling af personoplysninger (persondataloven), herunder særligt, at der kun gives adgang til materialet, når der er lovhjemmel dertil.
+A-kasserne skal også påse, at materialet opbevares på en måde, som sikrer, at samtlige oplysninger er tilgængelige med kort varsel i den periode, hvor a-kasserne er forpligtet til at opbevare materialet.
+Hvis der fx. er valgt en elektronisk opbevaringsform, skal a-kasserne påse, at data ikke forsvinder eller forvanskes, og at der til stadighed findes et medie, som kan gengive oplysningerne.
+Samtidig skal a-kasserne påse, at oplysningerne ikke kan ændres.
+Til § 20 Musikere og artister, der kan anses for lønmodtagere, kan anvende anden dokumentation.
+Her kan bureaukontrakter eller aftalebekræftelser bruges som hel eller delvis arbejdsgiverdokumentation.
+Det er dog en forudsætning, at kontrakten eller aftalen indeholder beskrivelse af parterne, tidspunktet for arrangementet og honorarets størrelse, herunder betaling for kørsel, og at arrangøren erklærer, at arrangementet er udført, og at medlemmet har kvitteret for modtagelse af honoraret.
+Kapitel 9 Oplysninger fra arbejdsgivere til en a-kasse.
+Til § 21 Hvis indkomstregistret ikke indeholder de nødvendige oplysninger, eller hvis oplysningerne er fejlbehæftede, skal arbejdsløshedskasserne indhente de nødvendige oplysninger hos arbejdsgiveren.
+I bestemmelsen nævnes nogle typiske tilfælde, hvor en arbejdsgiver kan blive pålagt at give oplysninger til brug for administration af forsikringssystemet.
+Opremsningen er ikke udtømmende, idet en arbejdsgiver kan blive anmodet om at give yderligere oplysninger, som fx. :
+ om en ansat på nedsat tid er omfattet af et opsigelsesvarsel eller ej,  nærmere vilkår for udbetaling af en fratrædelsesgodtgørelse,  antallet af arbejdstimer,  årsag til eventuelt fravær, og  udbetaling af dagpengegodtgørelse i henhold til § 84 i lov om arbejdsløshedsforsikring m.v.
+ Oplysningspligten gælder både for nuværende og tidligere ansatte.
+Til § 23 Arbejdsløshedsforsikringslovens § 101 fastslår, at en arbejdsgiver, som ikke opfylder sin pligt til at afgive oplysninger til brug for administrationen af forsikringssystemet i henhold til lovens § 91, straffes med bøde.
+ Endvidere fastslår lovens § 102 bl.a., at en arbejdsgiver, som ikke opfylder sin pligt til at betale dagpengegodtgørelse efter § 84 eller de pligter, som påhviler ham efter § 90 a, straffes med bøde.
+Overtræder en arbejdsgiver bekendtgørelsens §§ 21 og 22 kan arbejdsgiveren ifølge lovens § 101 politianmeldes.
+Styrelsen for Arbejdsmarked og Rekruttering går dog ud fra, at det som udgangspunkt vil være muligt gennem forhandling med en arbejdsgiver at tilvejebringe de nødvendige oplysninger.
+ Styrelsen skal i den forbindelse indskærpe, at arbejdsgiverens oplysningspligt i størst muligt omfang begrænses til at omfatte de nødvendige oplysninger, og at der ved indhentelse af arbejdsgiveroplysninger præcist angives for hvilke(n) periode(r), der ønskes oplysninger.
+ Retningslinjer i tilfælde, hvor henvendelse til en arbejdsgiver om oplysninger om løn, beskæftigelse, dagpengegodtgørelse m.v. sker forgæves.
+ 1. Hvis de i bekendtgørelsens § 21 omhandlede oplysninger m.v. ikke kommer frem senest 10 hverdage efter, at a-kassen har fremsat begæring herom, skal a-kassen på ny, ved anbefalet brev, rette henvendelse til arbejdsgiveren for at få oplysningerne.
+ I det anbefalede brev underrettes arbejdsgiveren samtidig om, at sagen vil blive overgivet til politiet, hvis oplysningerne ikke kommer frem senest 3 hverdage efter, at den nye begæring er fremsat.
+ 2. Er oplysningerne fortsat ikke kommet frem efter fristernes udløb, skal arbejdsløshedskassen, ved anbefalet brev på ny rette henvendelse til arbejdsgiveren for at få oplysningerne.
+ I det anbefalede brev underrettes arbejdsgiveren samtidig om, at sagen vil blive overgivet til politiet, hvis oplysningerne ikke kommer frem senest 5 hverdage efter, at den nye begæring er fremsat.
+ 3. Er oplysningerne i punkterne 1 og 2 fortsat ikke kommet frem efter fristernes udløb, skal a-kassen, indgive politianmeldelse i henhold til arbejdsløshedsforsikringslovens § 101. Samtidig kan a-kassen anmode om, at arbejdsgiveren, hvis det er nødvendigt, under tvang af fortløbende bøder i henhold til retsplejelovens § 997, stk. 3, tilpligtes at fremsende oplysningerne.
+ 4. Politianmeldelsen skal være ledsaget af dokumentation for, at der mindst to gange over for arbejdsgiveren har været fremsat begæring om afgivelse af oplysningerne.
+ 5. Arbejdsgiveren underrettes skriftligt om den foretagne politianmeldelse.
+ Opmærksomheden henledes i øvrigt på, at begæringen om oplysninger anses for fremsat over for arbejdsgiveren, når begæringen er kommet frem til arbejdsgiveren, og at dage, hvor virksomhedens lønadministration eller lignende er lukket, fx på grund af ferie, forlænger de oven for nævnte frister.
+ Fastsættelse af bødestraf og anvendelse af tvangsbøder.
+ I tilfælde, hvor det er nødvendigt at foretage politianmeldelse af en arbejdsgiver i henhold til lovens § 101, bør der fastsættes en bødestraf på 3 gange den maksimale dagpengesats for fuldtidsforsikrede medlemmer, afrundet til nærmeste hele hundrede kroner.
+ Der bør som hovedregel stilles krav om pålæg af bøde, uanset om arbejdsgiveren - efter at politiet er inddraget i sagen - efterfølgende berigtiger forholdet.
+ Ved politianmeldelse bør der derfor stilles forslag om bødepåstand i overensstemmelse med foranstående.
+ Det fremgår af retsplejelovens § 997, stk. 3, at man, når nogen ved dom pålægges at opfylde en forpligtelse mod det offentlige, som tvangsmiddel kan fastsætte en fortløbende bøde, der tilfalder statskassen.
+ Det er styrelsens opfattelse, at denne bestemmelse i retsplejeloven, hvorved der ved dom er mulighed for under tvang af fortløbende bøder at pålægge en arbejdsgiver at opfylde sin oplysningspligt i henhold til arbejdsløshedsforsikringslovens § 91, bør tages i anvendelse i de formentlig meget få tilfælde, hvor en arbejdsgiver, efter at politiet har fremsat anmodning herom, fortsat nægter at fremkomme med de ønskede oplysninger.
+ Styrelsen finder, at der bør fastsættes fortløbende ugentlige bøder, der svarer til 1 gang den maksimale dagpengesats for fuldtidsforsikrede medlemmer, afrundet til nærmeste hele hundrede kroner.
+ Efter styrelsens opfattelse bør der i disse tilfælde således dels nedlægges bødepåstand i henhold til arbejdsløshedsforsikringslovens § 101, stk. 1, dels nedlægges påstand om fortløbende bøder i henhold til retsplejelovens § 997, stk. 3.
+ I forbindelse med en politianmeldelse af en arbejdsgiver bør politiets opmærksomhed derfor henledes på denne bestemmelse i retsplejeloven med bemærkning om, at bestemmelsen om nødvendigt tages i anvendelse.
+ Indgivelse af politianmeldelse i henhold til lovens § 102 (dagpengegodtgørelse).
+ Opfylder en arbejdsgiver ikke sin pligt til at oplyse om udbetaling af dagpengegodtgørelse efter § 90 a, i lov om arbejdsløshedsforsikring m.v., kan arbejdsgiveren ifølge lovens § 102 politianmeldes.
+ I tilfælde, hvor der er indgivet politianmeldelse i henhold til lovens § 102, bør der nedlægges påstand om en individuelt fastsat bøde for den enkelte arbejdsgiver.
+ Der bør som hovedregel nedlægges påstand om bødestraf, uanset om arbejdsgiveren - efter at politiet er inddraget i sagen - efterfølgende berigtiger forholdet.
+ Endvidere finder styrelsen, at der i de tilfælde, hvor en arbejdsgiver, efter at politiet har fremsat anmodning herom, fortsat nægter at indrette sine lønsedler i overensstemmelse med kravene i § 90 a, i lov om arbejdsløshedsforsikring m.v., bør nedlægges påstand om tvangsbøder efter retsplejelovens § 997, stk. 3.
+ Tvangsbøderne bør fastsættes individuelt for den enkelte arbejdsgiver.
+ I tilfælde, hvor det er nødvendigt at foretage politianmeldelse af en arbejdsgiver i henhold til arbejdsløshedsforsikringslovens §§ 101 og 102, indstiller a-kassen til politiet, at der fastsættes en bødestraf på 8 gange den maksimale dagpengesats for fuldtidsforsikrede medlemmer, afrundet til nærmeste hele hundrede kroner.
+Kapitel 10 Ikrafttræden Til § 24 Denne vejledning erstatter fra 1. juli 2017 vejledning nr. 10383 af 15. december 2014 om oplysninger om løn, beskæftigelse m.v. til brug for administrationen af forsikringssystemet.

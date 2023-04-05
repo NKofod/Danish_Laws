@@ -1,0 +1,1521 @@
+Beregning af støj fra  
+
+ jernbaner Fælles nordisk beregningsmetode Indholdsfortegnelse 1. Introduktion 2. Forudsætninger og begrænsninger 3. Metodens opbygning, LAeq,24h 4. Basisværdien, LAeq,basis 5. Korrektion for togtypen, D  
+
+ Ltype 6. Korrektion for farten, D  
+
+ Lfart 7. Korrektion ved delstrækning, D  
+
+ Ldelstr.
+8. Korrektion for terræn, D  
+
+ Lterræn 9. Korrektion for skærmning, D  
+
+ Lskærm 10. Diverse korrektioner, D  
+
+ Ldiv.
+11. Summation af bidrag til LAeq,24h 12. Eksempel og beregningsskema 13. Metodens opbygning, LpAmax 14. Basisværdien, LpAmax,basis 15. Korrektion for togtypen, D  
+
+ #type 16. Korrektion for farten, D  
+
+ #fart 17. Korrektion for terræn, D  
+
+ #terræn 18. Korrektion for skærmning, D  
+
+ #skærm 19. Diverse korrektioner, D  
+
+ #div.
+20. Eksempel og beregningsskema 21. Referencer Appendix 1: Formeludtryk til beregning af  
+
+ jernbanestøj Registreringsblad 1. Introduktion Ved hjælp af denne beregningsmetode kan det  
+
+ A-vægtede lydtrykniveau af den udendørs støj fra  
+
+ jernbanetrafik bestemmes.1) Som beregningsresultat fås enten  
+
+ det energiækvivalente A-vægtede lydtrykniveau på  
+
+ døgnbasis, LAeq,24h eller maksimalværdien  
+
+ LpAmax af det A-vægtede lydtrykniveau ved en togpassage.
+1) Beregningsmetoden er oprindeligt udarbejdet som en  
+
+ fælles nordisk metode, ref. [1].
+Den her foreliggende version er en  
+
+ omarbejdet version af ref. [1].
+Ved omarbejdningen er anvisningerne på  
+
+ bestemmelse af LAeq,24h  og LpAmax givet i hver sin  
+
+ selvstændige del.
+Dette er gjort for at lette brugeren i situationer,  
+
+ hvor kun den ene størrelse skal bestemmes.
+Flere af korrektionerne er  
+
+ identiske for de to beregningsstørrelser.
+De to dele er dermed  
+
+ stedvist næsten identiske.
+De dele af ref. [1], som er medtaget i  
+
+ nærværende beregningsmetode er identiske med ref. [1] med  
+
+ undtagelse af typekorrektionerne i afsnit 5 og 15.
+Beregningsmetoden er et alternativ til de relativt  
+
+ omfattende målinger, som normalt er nødvendige for at bestemme  
+
+ støjniveauet med rimelig nøjagtighed.
+Den er tænkt som  
+
+ hjælpemiddel ved planlægning af områder langs  
+
+ banestrækninger i forbindelse med fastlæggelse af bl.a.
+ Metoden kan også bruges ved vurdering af de  
+
+ støjmæssige virkninger af ændringer af trafikken.
+Lydteknisk Institut har omarbejdet ref. [1] til  
+
+ nærværende beregningsmetode.
+I forbindelse med det nordiske  
+
+ projektgruppearbejde, hvis foreløbige resultat er denne  
+
+ beregningsmetode, udarbejdede Lydteknisk Institut endvidere et supplement,  
+
+ ref. [2], der indeholder anvisninger på beregning af støjen fra  
+
+ stationsområder, rangerterrænet og godsterminaler.
+De formeludtryk, som er angivet i appendix 1, stammer fra  
+
+ ref. [3].
+Der er ikke helt overensstemmelse mellem resultater af beregninger  
+
+ udført ved brug af hhv. nomogrammerne fra ref. [1] og  
+
+ beregningsudtrykkene.
+Afvigelser på op til 1 dB kan optræde,  
+
+ især i forbindelse med beregning af skærmkorrektionen.
+Det  
+
+ anbefales at anse resultater af beregninger efter formeludtrykkene for  
+
+ korrekte og resultater aflæst i nomogrammer for tilnærmelser.
+2. Forudsætninger og begrænsninger Beregningsmetoden forudsætter bl.a.
+I situationer uden skærmning har vejret i  
+
+ almindelighed kun ringe indflydelse på støjniveauet mindre end  
+
+ ca. 25 m fra sporet.
+Ved større afstande vil almindeligt forekommende  
+
+ variationer i vejrforholdene kunne bevirke forandringer på 10 dB eller  
+
+ mere af det A-vægtede lydtrykniveau.
+For bl.a. at undgå disse  
+
+ store usikkerheder, gælder beregningerne for medvindsforhold.  
+
+ Eventuelle kontrolmålinger må udføres under tilsvarende  
+
+ forhold.
+Kontrolmålinger bør i øvrigt  
+
+ udføres sådan, at man opnår at bestemme  
+
+ gennemsnitsværdier for et antal togpassager.
+Forskellige tog af samme  
+
+ type kan give anledning til væsentligt forskellige støjniveauer.  
+
+ Dette gælder især for korte tog.
+Man bør i almindelighed  
+
+ bestemme den aritmetiske middelværdi af LpAmax ved  
+
+ forbikørsel og energimiddelværdien af LAeq  
+
+ -måleresultater.
+Støjen fra hjul/skinnekontakten dominerer ofte over  
+
+ støjen fra andre delkilder.
+Datagrundlaget er da relativt  
+
+ pålideligt.
+Datagrundlaget om støjen fra nogle typer af  
+
+ lokomotiver er mindre omfattende.
+De angivne korrektioner for togtypen i  
+
+ afsnit 5 og 15 er baseret på middelværdier af danske  
+
+ måleresultater, ref. [4].
+ Metoden vil i de fleste enkle beregningssituationer have  
+
+ en nøjagtighed på +/- 2 dB for LAeq,24h og +/- 5 dB  
+
+ for LpAmax.
+3. Metodens opbygning, LAeq,24h Ved beregning af LAeq,24h  
+
+ fastsættes først en basisværdi, som er gyldig i en  
+
+ bestemt, enkel situation.
+ Basisværdien korrigeres derpå for  
+
+ beregningssituationens afvigelser (f.eks. terrænforhold) fra denne  
+
+ enkle situation.
+Beregningen udføres ved hjælp af udtrykket LAeq,24h = LAeq,basis + D  
+
+ Ltype + D  
+
+ Lfart + D  
+
+ Ldelstr. + D  
+
+ Lterræn + D  
+
+ Lskærm + D  
+
+ Ldiv. [3.1] LAeq,basis er basisværdien [dB re 20  
+
+m  
+
+ Pa] D  
+
+ L-værdierne er korrektioner [dB] for togtypen 	D  
+
+ Ltype togenes fart 	D  
+
+ Lfart delstrækningens længde 	D  
+
+ Ldelstr.
+terrænoverfladens virkning 	D  
+
+ Lterræn skærmes virkning 	D  
+
+ Lskærm forskellige andre faktorer 	D  
+
+ Ldiv.
+ Forekommer der på en strækning flere  
+
+ forskellige togtyper eller tog med forskellig fart, beregnes bidragene for  
+
+ hver type eller fart separat, og bidragene lægges sammen, jf. afsnit  
+
+ 11.
+4. Basisværdien, LAeq, basis Basisværdien bestemmes ved hjælp af  
+
+ figur 1. Som indgangsparametre anvendes den samlede toglængde i meter  
+
+ pr. døgn for den pågældende togtype, se også  
+
+ Miljøstyrelsens vejledning: "Støj og vibrationer fra  
+
+ jernbaner", og afstanden af til spormidten målt vinkelret på  
+
+ sporet.
+Ved fastsættelse af afstanden a forudsættes  
+
+ støjkilden at være placeret midt på sporet, 0.5 m over  
+
+ skinneoverkanten.
+Da støjkilden og beregningspunktet ofte er i  
+
+ forskellig højde, er a ofte lidt større end den vandrette  
+
+ afstand fra spormidte til beregningspunkt.
+Ved kurver og hvor terrænforholdene varierer i  
+
+ sporets længderetning opdeles banen i delstrækninger.
+Afstanden a  
+
+ fastlægges som vist i figur 3.
+5. Korrektion for togtypen, D  
+
+ Ltype Korrektionen D  
+
+ Ltype fastlægges ved hjælp af tabel 1.
+ Tabel 1. Korrektionen D  
+
+ Ltype for forskellige togtyper, til brug ved  
+
+ LAeq-beregninger.
+D  
+
+ Ltype [dB] Person- og godstog med MX-, MY- MA-, ME- og MA- lokomotiv samt motorvogne (MO) MR- og Y-tog S-tog -1 -9 -5 +++ FIGUR +++ Figur 1. Basisværdien, LAeq,basis, i  
+
+ afhængighed af toglængde og afstand fra spormidte.
+ Basisværdien er LAeq,24h ved en uendelig  
+
+ lang, retlinet banestrækning med langskinnespor på plant,  
+
+ hårdt terræn, trafikeret af tog med fart 80 km/h.
+6. Korrektion for farten, D  
+
+ Lfart Korrektionen D  
+
+ Lfart for togenes fart fastlægges ved hjælp af figur  
+
+ 2.
++++ FIGUR +++ Figur 2. Korrektionen D  
+
+ Lfart som funktion af togenes fart.
+ 7. Korrektion ved delstrækning, D  
+
+ Ldelstr.
+Ofte bidrager trafikken på nogle dele af en  
+
+ banestrækning mere til LAeq,24h end trafikken på andre  
+
+ dele af strækningen.
+Dette sker for eksempel, når  
+
+ terrænforholdene varierer langs strækningen.
+Før beregningen må banestrækningen  
+
+ opdeles i retlinede delstrækninger.
+Disse vælges, sådan at  
+
+ banens retning, terrænforhold, vegetation m.v. kun varierer lidt langs  
+
+ hver delstrækning.
+Dette er illustreret i figur 3.
+ Bidragene til LAeq,24h beregnes for hver  
+
+ delstrækning og summeres, jf. afsnit 11.
+ For hver delstrækning bestemmes den vinkel a  
+
+ , hvorunder delstrækningen ses fra beregningspunktet M, for eksempel  
+
+ vinklen a
+1 for delstrækning nr. 1 i figur 3. Vinklen a  
+
+  ligger i det plan, der bestemmes af delstrækningen og punktet M.  
+
+ Korrektionen D  
+
+ Ldelstr. bestemmes ved hjælp af figur 4.
+ Afstanden a fra spormidte til beregningspunkt M bestemmes  
+
+ for hver delstrækning, for eksempel a1 for  
+
+ delstrækning nr. 1 i figur 3.
++++ FIGUR +++ Figur 3. Illustration af opdeling i retlinede  
+
+ delstrækninger nr. 1, 2 og 3.
++++ FIGUR +++ Figur 4. Korrektionen D  
+
+ Ldelstr. som funktion af vinklen a  
+
+ .
+8. Korrektion for terræn, D  
+
+ Lterræn Hvis terrænoverfladen er hård, dvs. den  
+
+ består af beton, asfalt, vand eller lignende, er korrektionen D  
+
+ Lterræn lig med 0 dB.
+ Er terrænoverfladen porøs, dvs. agerjord,  
+
+ græsbevoksning eller lignende, bestemmes korrektionen D  
+
+ Lterræn ved hjælp af figur 5. Afstanden d  
+
+ fastlægges som vist i figur 6. Lydbanens højde bestemmes som  
+
+ vist i figur 7.
++++ FIGUR +++ Figur 5. Korrektion D  
+
+ Lterræn som funktion af lydbanens gennemsnitshøjde og  
+
+ afstanden d fra spormidten, jf. fig. 6.
+Fastlæggelsen af afstanden d er vist i figur 6.  
+
+ Figur 6a viser et tilfælde, hvor en delstrækning ligger på  
+
+ den ene side af en linie gennem beregningspunktet vinkelret på sporet.  
+
+ Figur 6b viser et tilfælde, hvor delstrækningen ligger på  
+
+ begge sider af denne linie.
+I specialtilfældet en uendelig lang  
+
+ delstrækning bliver d = a/cos 45E   1.4 @ a.
++++ FIGUR +++ Figur 6a.
+Afstanden d til brug ved bestemmelse af D  
+
+ Lterræn for delstrækningen A-B måles langs  
+
+ vinkelhalveringslinien for vinklen a  
+
+ .
++++ FIGUR +++ Figur 6b.
+Afstanden d til brug ved bestemmelse af D  
+
+ Lterræn for delstrækningen A-B måles langs  
+
+ vinkelhalveringslinien for den største af vinklerne a
+1 og a
+2.
+Fastlæggelsen af lydbanens gennemsnitlige  
+
+ højde over terræn er illustreret i figur 7. Et lodret snit  
+
+ lægges gennem beregningspunktet langs vinkelhalveringslinien, som er  
+
+ vist i den relevante del af figur 6. Højderne h1,  
+
+ h2, h3, ..., 0,5 m (kildehøjden)  
+
+ fastlægges i et antal jævnt fordelte punkter, og  
+
+ gennemsnitsværdien beregnes.
+Ved plant terræn bruges  
+
+ middelværdien af støjkildens og beregningspunktets højde  
+
+ over terrænet.
+Ved stærkt kuperet terræn er en finere  
+
+ inddeling nødvendig, i visse tilfælde med intervaller på  
+
+ nogle få meter.
++++ FIGUR +++ Figur 7. Illustration af data til brug ved bestemmelsen  
+
+ af lydbanens gennemsnitlige højde.
+Lodret snit langs d, se figur  
+
+ 6.
+ Hvis der forekommer skærmning, justeres  
+
+ terrænkorrektionen som angivet i afsnit 9.
+9. Korrektion for skærmning, D  
+
+ Lskærm Skærmning kan for eksempel forekomme,  
+
+ når banen forløber i afgravning eller gennemskæring, ved  
+
+ egentlige støjskærme og bag bygninger.
+ Ved bestemmelse af skærmvirkning fastlægges  
+
+ først omvejen e ved hjælp af udtrykket [9.1], se også  
+
+ figur 8. Dernæst bestemmes korrektionen D  
+
+ Lskærm ved hjælp af figur 9.
+e = ON + NM - OM 	[9.1] OM er afstanden langs vinkelhalveringslinien, d, som blev  
+
+ benyttet ved beregning af D  
+
+ Lterræn O er støjkilden, 0.5 m over skinneoverkant,  
+
+ midt i sporet M er beregningspunktet N er toppen af skærmen +++ FIGUR +++ Figur 8. Lodret snit langs vinkelhalveringslinien vist  
+
+ i figur 6.
+Korrektionen D  
+
+ Lskærm for en skærm, som er reflekterende på den  
+
+ side, der vender mod banen, afhænger af den vinkelrette afstand  
+
+ as fra spormidte til skærm som vist i figur 9. Er denne  
+
+ skærmflade i stedet lydabsorberende, benyttes kurven svarende til  
+
+ afstanden større end eller lig med 15 m i alle tilfælde.
+Dette  
+
+ gælder for eksempel altid, når banen forløber i afgravning  
+
+ med skrå sider og ved jordvolde med skrå sider.
++++ FIGUR +++ Figur 9. Korrektionen D  
+
+ Lskærm som funktion af omvejen e langs  
+
+ vinkelhalveringslinien vist i figur 6 med den vinkelrette afstand  
+
+ as mellem spormidte og skærm som parameter.
+ Når skærmkorrektionen, D  
+
+ Lskærm, er - 4 dB eller større, medregnes hele  
+
+ terrænkorrektionen, D  
+
+ Lterræn.
+ Når skærmkorrektionen, D  
+
+ Lskærm, er mindre end - 4 dB, men større end eller  
+
+ lig med - 10 dB, medregnes den halve værdi af terrænkorrektionen,  
+
+D  
+
+ Lterræn.
+ Når skærmkorrektionen, D  
+
+ Lskærm, er mindre end - 10 dB, sættes  
+
+ terrænkorrektionen, D  
+
+ Lterræn, lig med 0 dB.
+ 10. Diverse korrektioner, D  
+
+ Ldiv.
+D  
+
+ Lbane Ved banestrækninger med sammenlaskede skinner  
+
+ øges LAeq,24h, fordi der udsendes mere støj end ved  
+
+ langskinnespor.
+Ved beregningen korrigeres bidraget fra den  
+
+ pågældende delstrækning med + 3 dB.
+Ved banestrækninger på stålbro uden  
+
+ skærveballast forøges støjudsendelsen ligeledes.
+Ved  
+
+ beregningen korrigeres bidraget fra en delstrækning svarende til  
+
+ brolængden med + 6 dB.
+ Forekommer begge disse situationer samtidigt, medregnes  
+
+ kun den af korrektionerne, som giver den største værdi af  
+
+ LAeq,24h.
+D  
+
+ Lbygn Foran bygninger øges LAeq,24h  
+
+ på grund af bidrag fra reflekteret lydenergi.
+Ved beregningen  
+
+ korrigeres med + 3 dB, når beretningspunktet ligger fra 0.5 m til 10-15  
+
+ m fra bygningsfacader.
+11. Summation af bidrag til LAeq,24h Når det ved beregningerne har været  
+
+ nødvendigt at bestemme bidrag fra forskellige togtyper eller tog med  
+
+ forskellig fart, samt når det har været nødvendigt at  
+
+ opdele i delstrækninger, må de fastlagte bidrag summeres.
+Summen af to bidrag bestemmes på følgende  
+
+ måde: Først bestemmes forskellen mellem bidragene.
+I tabel 2  
+
+ findes derpå et tillæg i dB, som lægges til det  
+
+ største af de to bidrag.
+Derved er summen bestemt.
+ På samme måde kan et tredje bidrag  
+
+ lægges til summen af de to første, osv.
+ Tabel 2. Tillæg til brug ved summation af bidrag  
+
+ til LAeq,24h.
+[dB] 0-1 2-3 4-9 > 9 Tillæg til det største bidrag [dB] 3 2 1 0 12. Eksempel og beregningsskema I det følgende er givet et eksempel på en  
+
+ beregning af LAeq,24h.
+Et ikke udfyldt beregningsskema findes side  
+
+ 17.
+På planen i figur 10 er vist en banestrækning,  
+
+ som forløber retlinet på et plant, græsbevokset  
+
+ terræn.
+Langs en del af strækningen findes en 3 m høj  
+
+ skærm, 5 m fra spormidten.
+Sporet er et langskinnespor med  
+
+ skinneoverkant 1 m over terræn.
+Støjkildens højde over  
+
+ det porøse terræn er derfor 1.5 m.
+Støjniveauet  
+
+ LAeq,24h skal beregnes i et punkt 3 m over terræn ved en  
+
+ husfacade 40 m fra spormidten.
+Der findes ingen andre væsentlige  
+
+ skærmende eller reflekterende flader i nærheden.
++++ FIGUR +++ Figur 10. Plan og snit.
+Eksempel,  
+
+ LAeq,24h.
+Banestrækningen ligger nær ved en station.
+De  
+
+ tog, som er standset ved stationen, accelererer, når de passerer  
+
+ bygningen.
+ De tog, som skal standse på stationen, decelererer,  
+
+ når de passerer bygningen.
+Trafikken er fordelt på togtyper som angivet i tabel  
+
+ 3. MR-togene standser ved stationen.
+De øvrige tog er  
+
+ gennemgående.
+I beregningsskemaerne, tabel 4 og 5, er oplysningerne fra  
+
+ tabel 3 indført, idet MR-togene er opdelt i hhv. accelererende og  
+
+ decelererende tog.
+Banestrækningen opdeles i delstrækningerne 1:  
+
+ skærmet og 2: uskærmet.
+Disse ses fra beregningspunkterne under  
+
+ vinklerne hhv. a
+1 = 120E og a
+2 = 60E.
+Bidragene fra hver  
+
+ delstrækning beregnes separat i hhv. tabel 4 og 5. Afstanden a er 40 m  
+
+ i begge tabeller.
+Afstanden, d, for delstrækning 1 bestemmes som vist i  
+
+ figur 6b til d1 = a/cos 45E = 57 m.  
+
+ For delstrækning 2 bliver d2 = a/cos 60E = 80 m.
+ For delstrækning 1 bestemmes omvejen e, se figur 8,  
+
+ i et snit langs halveringslinien for den rette vinkel (langs afstanden  
+
+ d1): e = 0.14 m.
+ Lydbanens gennemsnitlige højde er for begge  
+
+ delstrækninger (1.5 + 3.0)/2 = 2.3 m.
+Tabel 3. Trafikdata.
+Eksempel  
+
+ LAeq,24h Fart [km/h] Toglængde [m/døgn] B C C E F Gennemgående persontog med 	MY- eller  
+
+ MZ-lokomotiv Lokaltog, MR, accelererende Lokaltog, MR, decelererende Godstog Hurtige godstog 120 60 60 80 100 1200 495 495 4000 800 Basisværdien, LAeq,basis, bestemmes for  
+
+ hver togtype ved hjælp af figur 1 og indføres i tabel 4 (og  
+
+ 5).
+ Typekorrektionen D  
+
+ Ltype aflæses i tabel 1 og indføres i tabel 4 (og  
+
+ 5).
+ Fartkorrektionen D  
+
+ Lfart bestemmes for hver togtype ved hjælp af figur 2 og  
+
+ indføres i tabellerne.
+ Korrektionen D  
+
+ Lbane er nul, fordi sporet er langskinnespor uden skiftespor.
+Summen LAeq,basis = D  
+
+ Lfart + D  
+
+ Lbane bestemmes for hver togtype i tabellerne.
+Disse summer  
+
+ adderes ved brug af tabel 2.
+ Korrektionerne D  
+
+ Ldelstr. for udstrækningen af delstrækning 1 og 2  
+
+ bestemmes ved hjælp af figur 4 og indføres i tabellerne.
++++ FIGUR +++ Figur 1. Basisværdien, LAeq,basis i  
+
+ afhængighed af toglængde og afstand fra spormidte.
++++ FIGUR +++ Figur 2. Korrektionen D  
+
+ Lfart som funktion af togenes fart.
++++ FIGUR +++ Figur 4. Korrektionen D  
+
+ Ldelstr. som funktion af vinklen a  
+
+ .
+ Skærmkorrektionen D  
+
+ Lskærm er nul for delstrækning 2. For  
+
+ delstrækning 1 bestemmes D  
+
+ Lskørm . -6 dB ved hjælp  
+
+ af figur 9 for en reflekterende skærm, idet afstanden fra spormidte til  
+
+ skærm er as = 5 m.
++++ FIGUR +++ Figur 9. Korrektionen D  
+
+ Lskærm som funktion af omvejen e langs  
+
+ vinkelhalveringslinien vist i figur 6 med den vinkelrette afstand mellem  
+
+ spormidte og skærm som parameter.
+ Terrænkorrektionen D  
+
+ Lterræn bestemmes ved hjælp af figur 5. For  
+
+ delstrækning 1 medregnes D  
+
+ Lterræn kun med den halve værdi i tabel 4, fordi  
+
+ skærmkorrektionen er mellem -5 dB og -10 dB, jf. afsnit 9. For  
+
+ delstrækning 2 medregnes den fulde værdi, idet der ikke  
+
+ forekommer skærmning.
++++ FIGUR +++ Figur 5. Korrektion D  
+
+ Lterræn som funktion af lydbanens gennemsnitshøjde og  
+
+ afstanden d fra spormidten.
+Delstrækningernes bidrag er bestemt i hver tabel og  
+
+ de to bidrag er summeret i tabel 5. Fritfelts-værdien af  
+
+ LAeq,24h er 57 dB re 20 m  
+
+ Pa. Ønsker man at sammenligne beregningsresultatet med resultatet af  
+
+ en måling af støjen i punktet M, må beregningsresultatet  
+
+ før sammenligningen korrigeres for virkningen af reflektion fra  
+
+ bygningsfacaden.
+Korrektionen D  
+
+ Lbygn er 3 dB.
+Derved bliver den værdi af  
+
+ LAeq,24h, der skal sammenlignes med måleresultatet, 60 dB re  
+
+ 20 m  
+
+ Pa.
++++ FIGUR +++ Tabel 4. Beregningsskema med beregning af bidraget fra  
+
+ delstrækning 1 til LAeq,24h.
++++ FIGUR +++ Tabel 5. Beregningsskema med beregning af bidraget fra  
+
+ delstrækning 2 til LAeq,24h samt summation af bidragene fra  
+
+ delstrækning 1 og 2.
++++ FIGUR +++ 13. Metodens opbygning, LpAmax Ved beregning af LpAmax fastsættes  
+
+ først en basisværdi, som er gyldig i en bestemt, enkel  
+
+ situation.
+ Basisværdien korrigeres derpå for  
+
+ beregningssituationens afvigelser (f.eks. terrænforhold) fra denne  
+
+ enkle situation.
+Beregningen udføres ved hjælp af udtrykket LpAmax = LpAmax,basis + D  
+
+ #type + D  
+
+ #fart + D  
+
+ #terræn + D  
+
+ #skærm + D  
+
+ #div. [13.1] LpAmax,basis er basisværdien [dB re 20  
+
+m  
+
+ Pa] D  
+
+ #-værdierne er korrektioner [dB] for togtypen 	D  
+
+ #type togenes fart 	D  
+
+ #fart terrænoverfladens virkning 	D  
+
+ #terræn skærmes virkning 	#skærm forskellige andre faktorer 	D  
+
+ #div.
+Forekommer der på en strækning flere  
+
+ forskellige togtyper eller tog med forskellig fart, beregnes  
+
+ LpAmax for hver type eller fart separat, og den største  
+
+ værdi vælges som beregningsresultat.
+Dette valg kan ofte  
+
+ foretages tidligt i beregningen, se afsnit 14.
+14. Basisværdien, LpAmax Basisværdien bestemmes ved hjælp af  
+
+ figur 11. Som indgangsparametre anvendes toglængden i meter, se  
+
+ også Miljøstyrelsens vejledning "Støj og vibrationer fra  
+
+ jernbaner", og afstanden a eller b til spormidten.
+Toglængden sættes normalt lig med  
+
+ længden af det længste tog, som regelmæssigt anvendes  
+
+ på banestrækningen.
+Hvis denne type tog kører  
+
+ væsentligt langsommere end andre tog på strækningen,  
+
+ bestemmes basisværdien for flere togtyper.
+LpAmax bestemmes  
+
+ af den togtype, der giver den højeste værdi, efter at  
+
+ basisværdien er korrigeret for togtype og fart.
+ Basisværdien for dieseldrevne tog kan ikke blive  
+
+ mindre end svarende til den punkterede kurve i figur 11, selv om  
+
+ toglængden er mindre end 100 m.
+ Basisværdien er LpAmax ved passage med 80  
+
+ km/h på en banestrækning med langskinnespor på plant,  
+
+ hårdt terræn.
+ Hvis terrænforholdene ikke varierer langs banen,  
+
+ anvendes den vinkelrette afstand a fra beretningspunktet M til  
+
+ spormidten.
+I tilfælde, hvor terrænforholdene varierer  
+
+ langs banen, kan det være nødvendigt at gennemføre flere  
+
+ beregninger af LpAmax og vælge den største  
+
+ resulterende værdi som beregningsresultat.
+Dette er illustreret i figur  
+
+ 12.
++++ FIGUR +++ Figur 11. Basisværdien, LpAmax,basis,  
+
+ i afhængighed af toglængde og afstand fra spormidte.
+I figur 12 a er vist en banestrækning i et kuperet  
+
+ terræn.
+Når toget befinder sig i positionen A, er  
+
+ beregningspunktet skærmet.
+Når toget befinder sig i position B,  
+
+ har det netop passeret overgangen (O) mellem to delstrækninger.
+Mens  
+
+ toget passerer delstrækningen til venstre for punktet O, er  
+
+ skærmningen ubetydelig.
+I dette eksempel må der  
+
+ gennemføres to beregninger af LpAmax.
+ For situationen, hvor toget befinder sig i position A,  
+
+ bruges afstanden a som indgangsparameter i figur 11. Der korrigeres for  
+
+ togtype, fart, terræn, skærm osv.
+For situationen, hvor toget befinder sig i position B,  
+
+ anvendes beregningsafstanden b som vist i figur 12 b.
+Den fundne  
+
+ basisværdi korrigeres for togtype, fart, terræn osv.
+Den højeste af de fundne værdier af  
+
+ LpAmax er det endelige beregningsresultat for beregningspunkt M.
+I  
+
+ mere komplicerede situationer kan det måske være  
+
+ nødvendigt at gennemføre beregninger for mere end to  
+
+ placeringer af toget.
+Ved fastsættelse af afstanden a eller b  
+
+ forudsættes støjkilden at være placeret midt på  
+
+ sporet, 0.5 m over skinneoverkanten.
+Da støjkilden og  
+
+ beregningspunktet ofte er i forskellig højde, er afstanden ofte lidt  
+
+ større end den vandrette afstand fra spormidte til  
+
+ beregningspunkt.
++++ FIGUR +++ Figur 12 a.
+Bane i kuperet terræn.
+Det er uklart,  
+
+ om LpAmax forekommer når toget passerer position A i  
+
+ gennemskæringen eller position B, hvorfra støjen udbreder sig  
+
+ uskærmet til beregningspunktet M.
++++ FIGUR +++ Fig 12 b.
+Detalje af figur 12 a med toget i position B.  
+
+ Beregningsafstanden b fastlægges som afstanden fra punktet M til  
+
+ spormidten, målt langs halveringslinien for den vinkel, ß,  
+
+ hvorunder toget ses fra punkt M.
+15. Korrektion for togtypen, D  
+
+ #type Korrektionen D  
+
+ #type fastlægges ved hjælp af tabel 6.
+ Tabel 6. Korrektionen D  
+
+ #type for forskellige togtyper, til brug ved beregning af  
+
+ LpAmax.
+D  
+
+ #type [dB] Person- og godstog med MX-, MY- MZ-, ME- og MA- lokomotiv samt motorvogne (MO) MR- og Y-tog S-tog +1 -9 -2 16. Korrektion for farten, D  
+
+ #fart Korrektionen D  
+
+ #fart, for togenes fart fastlægges ved hjælp af figur  
+
+ 13.
++++ FIGUR +++ Figur 13. Korrektionen D  
+
+ #fart som funktion af togenes fart.
+17. Korrektion for terræn, D  
+
+ #terræn Hvis terrænoverfladen er hård, dvs. den  
+
+ består af beton, asfalt, vand eller lignende, er korrektionen D  
+
+ #terræn lig med 0 dB.
+ Er terrænoverfladen porøs, dvs. agerjord,  
+
+ græsbevoksning eller lignende, bestemmes korrektionen D  
+
+ #terræn ved hjælp af figur 14. Afstanden a eller b  
+
+ fastlægges som beskrevet i afsnit 14. Lydbanens højde bestemmes  
+
+ som vist i figur 15. Det kan som nævnt være nødvendigt at  
+
+ beregne for mere end en placering af toget.
++++ FIGUR +++ Figur 14. Korrektion D  
+
+ #terræn som funktion af lydbanens gennemsnitshøjde og  
+
+ afstanden a eller b fra spormidten, jf. fig. 12.
+Fastlæggelsen af lydbanens gennemsnitlige  
+
+ højde over terræn er illustreret i figur 15. Et lodret snit  
+
+ lægges gennem beregningspunktet langs afstanden a eller b, som er vist  
+
+ i figur 12. Højderne h 1, h2, h3,  
+
+ ..., 0,5 m (kildehøjden) fastlægges i et antal jævnt  
+
+ fordelte punkter, og gennemsnitsværdien beregnes.
+Ved plant  
+
+ terræn bruges middelværdien af støjkildens og  
+
+ beregningspunktets højde over terrænet.
+Ved stærkt kuperet  
+
+ terræn er en finere inddeling nødvendig, i visse tilfælde  
+
+ med intervaller på nogle få meter.
++++ FIGUR +++ Figur 15. Illustration af data til brug ved  
+
+ bestemmelsen af lydbanens gennemsnitlige højde.
+Lodret snit langs a  
+
+ eller b, se figur 12.
+ Hvis der forekommer skærmning, justeres  
+
+ terrænkorrektionen som angivet i afsnit 18.
+18. Korrektion for skærmning, D  
+
+ #skærm Skærmning kan for eksempel forekomme,  
+
+ når banen forløber i afgravning eller gennemskæring, ved  
+
+ egentlige støjskærme og bag bygninger.
+ Ved bestemmelse af skærmvirkning fastlægges  
+
+ først omvejen ê ved hjælp af udtrykket [18.1], se  
+
+ også figur 16. Dernæst bestemmes korrektionen D  
+
+ #skærm ved hjælp af figur 17.
+ê = ON + NM - OM [18.1] OM er den afstand, a eller b, som blev benyttet ved  
+
+ beregning af D  
+
+ #terræn, jf. figur 12.
+O er støjkilden, 0.5 m over skinneoverkant, midt i  
+
+ sporet M er beregningspunktet N er toppen af skærmen +++ FIGUR +++ Figur 16. Lodret snit langs a eller b, som vist i figur  
+
+ 12.
+ Korrektionen D  
+
+ #skærm for en skærm, som er reflekterende på den  
+
+ side, der vender mod banen, afhænger af den vinkelrette afstand  
+
+ as fra spormidte til skærm som vist i figur 17. Er denne  
+
+ skærmflade i stedet lydabsorberende, benyttes kurven i figuren svarende  
+
+ til afstanden større end eller lig med 15 m i alle tilfælde.  
+
+ Dette gælder for eksempel altid, når banen forløber i  
+
+ afgravning med skrå sider og ved jordvolde med skrå sider.
++++ FIGUR +++ Figur 17. Korrektionen D  
+
+ #skærm som funktion af omvejen ê langs a eller b vist  
+
+ i figur 12 med den vinkelrette afstand as mellem spormidte og  
+
+ skærm som parameter.
+ Når skærmkorrektionen, D  
+
+ #skærm, er -4 dB eller større, medregnes hele  
+
+ terrænkorrektionen, D  
+
+ #terræn.
+ Når skærmkorrektionen, D  
+
+ #skærm, er mindre end -4 dB, men større end eller lig  
+
+ med -10 dB, medregnes den halve værdi af terrænkorrektionen,  
+
+D  
+
+ #terræn.
+ Når skærmkorrektionen, D  
+
+ #skærm, er mindre end -10 dB, sættes  
+
+ terrænkorrektionen, D  
+
+ #terræn, lig med 0 dB.
+ 19. Diverse korrektioner, D  
+
+ #div.
+D  
+
+ Lbane Ved banestrækninger med sammenlaskede skinner  
+
+ øges LpAmax, fordi der udsendes mere støj end ved  
+
+ langskinnespor.
+Ved beregningen korrigeres med + 3 dB.
+ Tilsvarende korrigeres med + 6 dB ved  
+
+ banestrækninger med skiftespor.
+ Ved banestrækninger på stålbro uden  
+
+ skærveballast korrigeres med + 6 dB.
+De nævnte korrektioner må indgå i  
+
+ vurderingen (se også afsnit 14) af hvilken placering af toget, der  
+
+ giver anledning til LpAmax.
+Forekommer flere af de nævnte  
+
+ situationer samtidigt, medregnes kun den ene af korrektionerne, som giver den  
+
+ største værdi af LpAmax.
+D  
+
+ Lbygn Foran bygninger øges LpAmax  
+
+ på grund af bidrag fra reflekteret lydenergi.
+Ved beregningen  
+
+ korrigeres med + 3 dB, når beregningspunktet ligger fra 0.5 m til 10-15  
+
+ m fra bygningsfacader.
+20. Eksempel og beregningsskema I det følgende er givet et eksempel på  
+
+ beregning af LpAmax.
+Et ikke udfyldt beregningsskema findes side  
+
+ 30.
+På planen i figur 18 er vist en banestrækning,  
+
+ som forløber retlinet på et plant, græsbevokset  
+
+ terræn.
+Langs en del af strækningen findes en 3 m høj  
+
+ skærm, 5 m fra spormidten.
+Sporet er et langskinnespor med  
+
+ skinneoverkant 1 m over terræn.
+Støjniveauet LpAmax  
+
+ skal beregnes i et punkt 3 m over terræn ved en husfacade 40 m fra  
+
+ spormidten.
+Der findes ingen andre væsentlige skærmende eller  
+
+ reflekterende flader i nærheden.
+ Trafikken antages at være den samme som i eksemplet  
+
+ i afsnit 12. Fart og gennemsnitlig toglængde fremgår af tabel  
+
+ 7.
+Tabel 7. Trafikdata.
+Eksempel LpAmax.
+Fart [km/h] Toglængde [m] B C E F Gennemgående persontog med MY- eller  
+
+ MZ-lokomotiv Lokaltog, MR Godstog Hurtige godstog 120 60 80 100 150 140 500 200 Det er umiddelbart klart, at LpAmax forekommer,  
+
+ når enten et gennemgående persontog eller et godstog passerer.  
+
+ Lokaltogene giver lavere støjniveauer.
+Det er derimod ikke umiddelbart  
+
+ klart, om de 500 m lange godstog ved 80 km/t giver et højere  
+
+ LpAmax end 200 m godstog ved 100 km/t eller 150 m lange persontog  
+
+ ved 120 km/t.
+Data fra tabel 7 om trafikken er indført i  
+
+ beregningsskemaet i tabel 8.
+ I første omgang betragtes alene situationen, hvor  
+
+ toget befinder sig netop ud for beregningspunktet, i positionen A i figur 18.  
+
+ Basisværdierne bestemmes ved hjælp af figur 11 for a = 40 m.  
+
+ Disse er indført i tabel 8.
++++ FIGUR +++ Figur 18. Plan og snit.
+Eksempel LpAmax.
+ Korrektionen D  
+
+ #type tages fra tabel 6, korrektionen D  
+
+ #fart for farten fra figur 13, mens korrektionen D  
+
+ #bane er nul for langskinnespor uden skiftespor.
+Summerne af basisværdi og korrektionerne for togtype  
+
+ og fart i tabel 8 viser, at persontogene (type B) giver anledning til  
+
+ LpAmax.
+I det følgende betragtes alene støjen fra et  
+
+ af disse tog.
+Først bestemmes LpAmax ved togets  
+
+ passage af position A.
+For at terrænkorrektionen kan bestemmes,  
+
+ må lydbanens gennemsnitlige højde fastlægges.
+I dette  
+
+ tilfælde er gennemsnitshøjden (1.5 + 3)/2 
+ 2.3 m). Terrænkorrektionen D  
+
+ #terræn bestemmes ved hjælp af figur 14 til -2 dB.  
+
+ Skærmkorrektionen bestemmes ved hjælp af figur 17. Omvejen  
+
+ ê bestemmes ud fra geometrien i snittet i figur 18: ê = 0.19 m.  
+
+ Afstanden fra spormidte til den reflekterende skærm er as =  
+
+ 5 m.
+Figur 17 giver da D  
+
+ #skærm = -7 dB.
+Terrænkorrektionen skal derfor kun  
+
+ medregnes med sin halve værdi jf. afsnit 18.
+ Korrigeres der endelig for tilstedeværelsen af  
+
+ bygningsfacaden med D  
+
+ #bygn = 3 dB, fås den værdi af LpAmax, man  
+
+ må forvente at kunne måle i punkt M: LpAmax = 86 dB re  
+
+ 20 m  
+
+ Pa.
++++ FIGUR +++ Figur 11. Basisværdien,  
+
+ LpAmax,basis.
++++ FIGUR +++ Figur 13. Korrektionen D  
+
+ #fart.
++++ FIGUR +++ Figur 14. Korrektion D  
+
+ #terræn, som funktion af lydbanens gennemsnitshøjde  
+
+ og afstanden a eller b fra spormidten.
++++ FIGUR +++ Figur 17. Korrektionen D  
+
+ #skærm som funktion af omvejen ê langs a eller b, vist  
+
+ i figur 12, med den vinkelrette afstand as mellem spormidte og  
+
+ skærm som parameter.
++++ FIGUR +++ Tabel 8. Beregningsskema med beregning af  
+
+ LpAmax for tog i position A.
+For at sikre, at støjniveauet ikke overskrider  
+
+ denne beregnede værdi, når toget har passeret skærmen,  
+
+ gennemføres en beregning med toget i position B, se figur 19. På  
+
+ grundlag af geometrien kan afstanden b bestemmes til 162 m.
+I figur 11  
+
+ aflæses basisværdien, som overføres til tabel 9. I tabel 9  
+
+ er derefter korrigeret for togtype, fart og bane som i tabel 8.  
+
+ Terrænkorrektionen bestemmes ved hjælp af figur 14, idet b = 162  
+
+ m og lydbanens gennemsnitlige højde ligesom ved position A er 2.3 m.  
+
+ Skærmningen er nul.
+Det ses, at LpAmax er 5 dB lavere end  
+
+ når toget er i position A.
++++ FIGUR +++ Figur 19. Plan, som viser et tog af type B i position  
+
+ B.
++++ FIGUR +++ Tabel 9. Beregningsskema med beregning af  
+
+ LpAmax for tog af type B i position B.
++++ FIGUR +++ 21. Referencer [1] M.
+Ringheim:
+"Støy fra skinnegående trafikk.
+En enkel  
+
+ felles-nordisk beregningsmetode utarbeidet for Nordisk Ministerråds  
+
+ støygruppe, NBG", Kilde rapport 67, 2. utgave, Voss, Desember  
+
+ 1983.
+[2] J.
+Jakobsen og J.
+Kragh:
+ "Beregningsanvisninger for støj fra rangering",  
+
+ Lydteknisk Institut rapport LI 922/83, Lyngby 1983.
+[3] T.
+Lahti:
+ "Outdoor noise measurements compared with predictions by  
+
+ Nordic models", Technical Research Centre of Finland, manuscript 6. february  
+
+ 1984, Esbo 1984.
+Ligning (11) i denne reference er rettet i  
+
+ nærværende beregningsmetode i overensstemmelse med brev af 13.  
+
+ februar 1984 fra M.
+Ringheim til T.
+Lahti.
+[4] J.
+Jakobsen og J.
+Kragh:
+"Vejledning om støj fra jernbaner.  
+
+ Beregningsmetode.
+Korrektion for togtype". Teknisk Notat LI 631/84,  
+
+ Lydteknisk Institut, Lyngby 1984.
+ Appendix 1:
+Formeludtryk til beregning af jernbanestøj A.1.1. Generelt A.1.2. LAeq,24h A.1.3. LpAmax A.1.4. Symbolliste A.1.1. Generelt For at undgå aflæsningsunøjagtigheder  
+
+ ved brug af nomogrammer kan beregninger udføres ved brug af de  
+
+ formeludtryk, der findes i dette appendix.
+Ikke alle formeludtrykkene fra  
+
+ ref. [3] giver fuldstændig overensstemmelse med nomogrammerne (fra ref.  
+
+ Det anbefales at anse resultater af beregninger efter formeludtrykkene  
+
+ for korrekte.
+I tilfælde, hvor der skal foretages mange beregninger,  
+
+ vil det være fordelagtigt at udarbejde et EDB-program på grundlag  
+
+ af formeludtrykkene.
+I dette appendix angives formeludtrykkene til beregning af  
+
+ basisværdier og korrektioner for LAeq og LpAmax  
+
+ på grundlag af trafikale oplysninger og topografiske data.
+Der angives  
+
+ også formeludtryk til beregning af de indgående højder og  
+
+ afstande, men det vil i mange tilfælde være fordelagtigt at  
+
+ fastlægge disse størrelser på grundlag af kortskitser og  
+
+ længdesnit, før støjberegningerne foretages.
+A.1.2. LAeq,24h LAeq,basis = 50 dB + 10 log (L/100) -10  
+
+ log (a/10) hvor L er den totale toglængde pr. døgn, og a  
+
+ er afstanden - målt vinkelret på - mellem et punkt 0.5 m over  
+
+ spormidte (O) og beregningspunktet (M).
++++ FORMEL+++ (A1-2) hvor av er den vandrette afstand - målt  
+
+ vinkelret på sporet - mellem O og M, og hM og hO  
+
+ er højderne af M og O over en vandret referenceplan.
+D  
+
+ Lfart = 23.5 log (v/80) (A1-3) hvor v er togets fart [km/h]. v regnes aldrig mindre end  
+
+ 30 km/h, og for accelererende dieseltog aldrig mindre end 80 km/h.
+D  
+
+ Ldelstr. = 10 log (a  
+
+ /180) (A1-4) hvor a  
+
+  er vinklen (i grader), hvorunder den pågældende  
+
+ delstrækning ses fra M.
+D  
+
+ Lterræn = -12 log (d/1+d/10) + 3 log h + 7,76 dB (A1-5) hvor h er den gennemsnitlige lydbanehøjde [m] over  
+
+ terrænoverfladen, og d [m] er den skrå afstand til den  
+
+ pågældende delstrækning målt langs halveringslinien  
+
+ til vinklen a  
+
+ . Hvis normalen til sporet fra M deler vinklen a  
+
+  måles d langs halveringslinien for den største af delvinklerne.  
+
+D  
+
+ Lterræn skal altid være nul eller negativ.
+h = 1/N (0,5 + hN-1 + ... + h2 +  
+
+ h1), og (A1-6) d = a/cos d  
+
+  (Al-7) Når a  
+
+  strækker sig på begge sider af normalen til sporet gennem M, og  
+
+ den største del af synsvinklen er a
+1, fås d  
+
+  = 1/2 @ a
+1 (A1-7a) Når hele synsvinklen ligger på samme side af  
+
+ normalen til sporet gennem M, og vinklen mellem normalen og en linie gennem M  
+
+ og enden af delstrækningen nærmest M er a
+2 fås:
+d  
+
+  = a
+2 + 1/2 @ a  
+
+  (A1-7b) D  
+
+ Lskærm = -10 log as (A1-8) +++ FORMEL +++ hvor as er den vandrette afstand mellem  
+
+ spormidte og skærm målt vinkelret på sporet; dog er  
+
+ as begrænset til 5 m # og  
+
+ as #  15 m.
+Hvis den side af  
+
+ skærmen, som vender imod sporet, er absorberende, sættes  
+
+ as altid = 15 m.
+ e er omvejen over skærmtoppen målt i den  
+
+ lodrette plan, hvori d bestemmes (se A1-7).
+(A1-9) +++ FORMEL +++ (A1-10) hvor d og d  
+
+  er defineret i ligningerne (A1-7) - (A1-7b), og hM, hN  
+
+ og hO er højderne af punkterne M, N og O over en vandret  
+
+ referenceplan.
+I ligning (A-10) benyttes den faktiske, ubegrænsede  
+
+ størrelse af a s.
+ Hvis den effektive skærmhøjde er negativ,  
+
+ dvs. at punktet N ligger under linien MO, ændres fortegnet på  
+
+ e:
+(A1-9a) e = *OM* - *ON* - *NM* Efter beregning af D  
+
+ Lskærm skal D  
+
+ Lterræn modificeres således:
+ (A1-11a) Når D  
+
+ Lskærm < -10 dB sættes D  
+
+ Lterræn til nul.
+ (A1-11b) Når D  
+
+ Lskærm er i intervallet -10 dB # D  
+
+ Lskærm < -4 dB sættes D  
+
+ Lterræn til halvdelen af det i ligning (A1-5) fundne.
+ (A1-11c) Når D  
+
+ Lskærm $ -4 dB medregnes den  
+
+ fulde værdi af D  
+
+ Lterræn.
+ Når bidrag til LAeq fra flere togtyper  
+
+ på samme delstrækning skal adderes, eller når bidrag fra  
+
+ flere delstrækninger skal adderes, benyttes udtrykket:
+(A1-12) +++ FORMEL +++ (A1-13) hvor LAeq,1, LAeq,2 osv. er  
+
+ de enkelte bidrag.
+A.1.3. LpAmax LpAmax,basis = 10 log (10A/10  
+
+ + 10B/10), (A1-13a) +++ FORMEL +++ (A1-13b) +++ FORMEL +++ hvor R  
+
+  er længden af det længste, jævnligt forekommende tog.  
+
+R  
+
+  er aldrig mindre end 100 m for dieseltrukne tog. b er afstanden fra  
+
+ beregningspunktet M til toget målt langs halveringslinien til den  
+
+ vinkel ß, hvorunder toget ses fra M.
+Når midten af toget befinder  
+
+ sig på normalen til sporet gennem M, er (A1-14a) b = a Når vinklen mellem normalen til sporet gennem M og  
+
+ en linie gennem M og den nærmeste ende af toget er a
+3, bestemmes b af (A1-14b) b = a / (cos (a
+3 + ß/2)) idet vinklen, hvorunder toget ses fra M er ß, og  
+
+a
+3 regnes negativ, når ß omslutter normalen.
+(A1-15) D  
+
+ #fart = 30.5 log (v/80) hvor v er farten af toget [km/h]. v regnes aldrig mindre  
+
+ end 30 km/h, og for accelererende dieseltog aldrig mindre end 80 km/h.
+ D  
+
+ #terræn og D  
+
+ #skærm beregnes efter formlerne (A1-5) henholdsvis (A1-8). I  
+
+ stedet for den skrå afstand d (A1-7) benyttes afstanden b  
+
+ (A1-14a-b).
+ Således fås:
+D  
+
+ #terræn = -12 log ((b / 1 + b/10)) + 3 log h + 7,76 dB  
+
+ (A1-16) D  
+
+ #skærm = -10 log as (A1-17) +++ FORMEL +++ hvor h er den gennemsnitlige lydbanehøjde over  
+
+ terrænet langs den linie, hvor b måles. as er den  
+
+ vinkelrette, vandrette afstand mellem spormidte og skærm. as  
+
+ er begrænset, så 5 m # as
+# 15 m.
+Såfremt den side af skærmen,  
+
+ som vender mod sporet, er absorberende, sættes as = 15 m.  
+
+ ê er omvejen over skærmtoppen målt i den lodrette plan,  
+
+ hvori b måles:
+(A1-18) +++ FORMEL +++ I formel (A1-18) indregnes den faktiske, ubegrænsede  
+
+ værdi af as.
+ Hvis den effektive skærmhøjde er negativ,  
+
+ dvs. at punktet N ligger under linien MO, ændres fortegnet på  
+
+ ê.
+ Efter beregning af D  
+
+ #skærm skal D  
+
+ #terræn modificeres som angivet i udtrykkene (A1-11a til  
+
+ c).
+A.1.4. Symbolliste Bidrag til LpAmax,basis	[dB re 20m  
+
+ Pa]	A:
+Position af tog	[-] Bidrag til LpAmax,basis	[dB re 20m  
+
+ Pa]	B:
+Position af tog	[-] Total forbipasserende toglængde pr.  
+
+ døgn	[m]	L:
+ Energiækvivalent A-vægtet lydtrykniveau over  
+
+ et	LAeq,24h:
+Døgn	[dB re 20m  
+
+ Pa] Det maksimale A-vægtede  
+
+ lydtrykniveau	LpAmax:
+(tidsvægtning:S) som optræder flere gange  
+
+ på et døgn	[dB re 20m  
+
+ Pa] Beregningspunkt	[-]	M:
+ Punkt på skærmtop	[-]	N:
+ Kildepunkt, beliggende 0,5 m over  
+
+ spormidte	[-]	O:
+Overgang mellem delstrækninger	[-] Afstand mellem beregningspunkt og spormidte,	a:
+målt vinkelret på spor	[m] Den vandrette, vinkelrette afstand  
+
+ mellem	as:
+spormidte og skærm	[m] Den vandrette projektion af a	[m]	av:

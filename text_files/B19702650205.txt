@@ -1,0 +1,732 @@
+GENERALDIREKTORATET FOR POST- OG TELEGRAFVÆSENET.
+Typegodkendelse af MF/HF enkeltsidebåndsanlæg for radiotelefoni til brug ombord i skibe.
+Sendere.
+ Målemetoder og specifikationer m.m.
+ April 1970. Indledning .
+ Nærværende specifikationer repræsenterer de minimumskrav, som sendere for  
+
+ enkeltsidebånds-radiotelefoni i mellem- og kortbølgebåndet må opfylde, for at  
+
+ de af post- og telegrafvæsenet kan godkendes til brug ombord i danske skibe.
+ Ved udarbejdelsen af disse specifikationer og målemetoder er der taget  
+
+ vidtgående hensyn til det internationale arbejde, post- og telegrafvæsenet  
+
+ sammen med andre landes administrationer deltager i for opnåelse af en  
+
+ harmonisering af specifikationer for maritime enkeltsidebåndsanlæg.
+ Det må forventes, at nærværende bestemmelser kan blive underkastet  
+
+ ændringer som følge af de fortsatte bestræbelser på, at opnå internationalt  
+
+ ensartede målemetoder og specifikationer, eller som følge af eventuelle andre  
+
+ forhold, f.eks. af teknisk eller operationel art, som kan nødvendiggøre  
+
+ ændringer.
+Nærværende bestemmelser er gældende indtil videre og vil med øjeblikkelig  
+
+ virkning blive benyttet ved afprøvning af maritime enkeltsidebåndsanlæg.  
+
+ Indholdsfortegnelse.
+Side 1. Almindelige regler for anvendelse af  
+
+ enkeltsidebånds- telefonisendere i den maritime tjeneste . 5 1.1.  
+
+ Frekvensområder. 1.2. Bølgetyper og bærebølgeniveau. 1.3. Sidebånd. 1.4. Nød-  
+
+ og kaldefrekvensen 2182 kHz. 1.5. Antal sendefrekvenser. 1.6. Bemærkning. 2.  
+
+ Almindelige krav til opbygningen. 7 3. Målebetingelser . 12 3.1. Normale  
+
+ målebetingelser. 3.2. Specielle målebetingelser. 3.3 Kunstantenne. 4.  
+
+ Udgangseffekt . 14 4.1. Definition. 4.2. Målemetode. 4.3. Krav til størrelsen  
+
+ af udgangseffekten i frekvensområdet 1605 - 4000 kHz. 4.4. Krav til  
+
+ størrelsen af udgangseffekten i frekvensområdet 4 - 27,5 MHz. 4.5.  
+
+ Effektreduktion. 5. Kompression og begrænsning . 16 5.1. Målemetode. 5.2.  
+
+ Krav. 6. Intermodulation . 17 6.1. Målemetode. 6.2. Krav. 6.3. Driftstid ved  
+
+ udstyring med et totonesignal. 7. Bærebølgeundertrykkelse . 18 7.1.  
+
+ Definition. 7.2. Målemetode. 7.3. Krav. 8. Uønsket udstråling . 19 8.1.  
+
+ Definition. 8.2. Målemetode. 8.3. Krav. 9. Modulationskarakteristik . 20 9.1.  
+
+ Definition. 9.2. Målemetode. 9.3. Krav. 10. Tolerance og korttidsstabilitet .  
+
+ 21 10.1. Definition. 10.2. Målemetode. 10.3. Krav. 10.4. Definition. 10.5.  
+
+ Krav. 11. Støj og brum . 22 11.1. Definition. 11.2. Målemetode. 11.3. Krav.  
+
+ 12. Uønsket frekvensmodulation. 22 1 3 .
+ Bestemmelser vedrørende godkendelse af anlæg. 23 13.1. Indsendelse af  
+
+ anmodning om afprøvning. 13.2. Indsendelse af anlæg til afprøvning. 13.3.  
+
+ Godkendelse. 1. Almindelige regler for anvendelse af  
+
+ enkeltsidebåndstelefonisendere i den maritime tjeneste . 1.1. Frekvensområder  
+
+ .
+ Afhængigt af brugen skal senderen kunne afstemmes til et antal frekvenser  
+
+ (se pkt. 1.5.) i frekvensområdet 1605 - 4000 kHz, herunder nød- og  
+
+ kaldefrekvensen 2182 kHz, og/eller frekvensområdet 4 - 27,5 MHz, sidstnævnte  
+
+ område i følgende bånd:
+ Senderen skal kunne udsende følgende bølgetyper:
+A3J (bærebølge undertrykt mindst 40 dB) A3A (bærebølge undertrykt 16 +/- 2 dB) A3H (fuld bærebølge). 1.3. Sidebånd .
+ Øvre sidebånd skal benyttes. 1.4. Nød- og kaldefrekvensen 2182 kHz .
+ På nød- og kaldefrekvensen 2182 kHz må bølgetype A3A og A3J ikke kunne  
+
+ benyttes. 1.5. Antal sendefrekvenser .
+For så vidt angår antallet af mulige kanalfrekvenser skelnes for  
+
+ enkeltsidebåndssendere mellem de 2 kategorier A og B, hvor kategori B  
+
+ repræsenterer minimumskravet for alle skibe.
+I betragtning af den stadigt  
+
+ stigende trafikmængde og de væsentlige fordele, der også for brugeren ligger  
+
+ i, at man i størst muligt omfang kan udnytte de foreliggende  
+
+ frekvensmuligheder, således at korrespondancen kan afvikles under de bedst  
+
+ mulige betingelser, skal man meget kraftigt anbefale, at der anvendes anlæg  
+
+ hørende til kategori A. 1.5.1. Antal sendefrekvenser 1605 - 4000 kHz .
+ Sendere, som i frekvensområdet 1605 - 4000 kHz indeholder mulighed for  
+
+ afstemning til mindst 20 kanalfrekvenser, betegnes som henhørende til  
+
+ kategori A .
+Senderen skal i frekvensområdet 1605 - 4000 kHz indeholde mulighed for  
+
+ afstemning til mindst 9 kanalfrekvenser.
+Sendere, som opfylder denne  
+
+ specifikation uden at kunne henregnes til kategori A, betegnes som hørende  
+
+ til kategori B . 1.5.2. Antal sendefrekvenser 4 - 27,5 MHz .
+ Sendere, som i hvert af frekvensbåndene 4, 8, 12, 16 og 22 MHz indeholder  
+
+ mulighed for afstemning til mindst 8 kanalfrekvenser, og som i hvert af  
+
+ båndene 6 og 25 MHz har mulighed for afstemning til mindst 4 kanalfrekvenser,  
+
+ betegnes som hørende til kategori A .
+Senderen skal indrettes, så den i frekvensbåndene 4, 6, 8, 12, 16, 22 og  
+
+ 25 MHz indeholder mulighed for afstemning til mindst 3 kanalfrekvenser i  
+
+ hvert bånd.
+Sendere, som opfylder denne specifikation uden at kunne henregnes  
+
+ til kategori A, betegnes som henhørende til kategori B . 1.6. Bemærkning .
+ Såfremt senderens frekvensindstilling er baseret på frekvenssyntese, skal  
+
+ der i udstyret være indbygget foranstaltninger, som umuliggør udsendelse på  
+
+ andre frekvenser end de tildelte, medmindre udstyret er installeret i et  
+
+ telegrafipligtigt skib og betjenes af en telegrafist.
+ +++TAST+++ 2.5. Opvarmningstid.
+ 2.5.1. Senest 1 minut efter at være tilsluttet forsyningsspændingen skal  
+
+ senderen være fuldt driftsklar, hvorved forstås, at samtlige krav i  
+
+ nærværende specifikationer skal være opfyldt.
+ 2.5.2. Er udstyret forsynet med krystalovn eller andre kredsløb, som  
+
+ kræver større opvarmningstid end 1 minut, tillades for disse kredse en  
+
+ opvarmningstid på maksimalt 30 minutter, forudsat at den nødvendige  
+
+ forsyningsspænding til de pågældende kredse ikke kan afbrydes med de(n) på  
+
+ senderens kabinet anbragte normale driftsafbryder(e). Disse kredse skal  
+
+ således kunne tilføres forsyningsspænding uden at senderen iøvrigt aktiveres,  
+
+ og i betjeningsvejledningen skal den nødvendige opvarmningstid tydeligt  
+
+ anføres.
+ 2.5.3. Ovennævnte kredsløb skal være dimensioneret for kontinuerlig drift,  
+
+ og såfremt der på senderens kabinet findes en særlig afbryder for disse  
+
+ kredse, skal denne afbryders funktion klart fremgå af opmærkningen, og i  
+
+ betjeningsvejledningen skal være anført, at disse kredsløb normalt skal være  
+
+ tilsluttet forsyningsspænding, således at senderens opvarmningstid ikke  
+
+ overskrider 1 minut. 2.6. Driftstid.
+ Senderen skal, når den moduleres med et talesignal, kunne anvendes i  
+
+ kontinuerlig drift. 2.7. Frekvensskift.
+ Skift fra een frekvens til en anden indenfor hvert af områderne 1605 -  
+
+ 4000 kHz og 4 - 27,5 MHz skal kunne ske i løbet af højst 15 sekunder. 2.8.  
+
+ Frekvensvalg .
+ Der skal være mulighed for, at sendefrekvenserne kan vælges uafhængigt af  
+
+ modtagefrekvenserne. 2.9. Skift mellem bølgetyper.
+ Skift fra een bølgetype til en anden bølgetype skal kunne foretages ved  
+
+ hjælp af kun eet betjeningsgreb.
+ Den normale driftsform ved korrespondance med kyststationer er duplex, og  
+
+ udstyret skal derfor være indrettet herfor. 2.11. Skift mellem sending og  
+
+ modtagning .
+ 2.11.1. Samtlige installationer skal være således indrettet, at den tid,  
+
+ der i de tilfælde, hvor duplex ikke anvendes, er nødvendig for overgang  
+
+ mellem sending og modtagning, bliver så kort som mulig.
+2.11.2. For at muliggøre hurtig overgang fra sending til modtagning og  
+
+ omvendt skal, når manuel omstilling anvendes, skifteanordningen være en ikke  
+
+ låsende omskifter indbygget i mikrotelefonen eller mikrofonen.
+Når  
+
+ omskifteren ikke er nedtrykket, skal anlægget være i modtagestilling. 2.12  
+
+ Forsinket indkobling af spændinger .
+ Hvis senderen er indrettet således, at det er nødvendigt at forsinke  
+
+ indkoblingen af visse spændinger i forhold til tidspunktet for tilslutningen  
+
+ af forsyningsspændingen, skal dette ske automatisk, f. eks. ved hjælp af  
+
+ tidsforsinkede relæer. 2.13. Uønsket udstråling fra kabinet m.m .
+ 2.13.1. HF-udstrålingen fra senderens kabinet skal ved hjælp af passende  
+
+ afskærmning gøres mindst mulig.
+ 2.13.2. HF-spændinger, som forekommer på senderens forsyningsterminaler,  
+
+ skal gøres mindst mulige. 2.14. Antenneamperemeter .
+ Senderen skal være forsynet med et instrument, der viser antennestrømmen.  
+
+ En fejl i instrumentet må ikke give anledning til en afbrydelse af  
+
+ antennekredsen. 2.15. Indikation for at senderen er tastet .
+ Senderen skal være således indrettet, at det er muligt ved simpel  
+
+ ledningsføring at tilslutte en indikator til fjernvisning af, at senderen er  
+
+ tastet. 2.16. Opmærkning m.m .
+ 2.16.1. Funktionen af alle måleinstrumenter, kontrollamper,  
+
+ tilslutningsklemmer, betjeningsgreb samt betjeningsgrebenes positioner skal  
+
+ være tydeligt angivet på senderen.
+2.16.2. Senderen skal være mærket med fabrikat, typebetegnelse og  
+
+ løbenummer.
+Dette gælder også det eksemplar, der indleveres til  
+
+ typegodkendelse.
+Mærkningen skal være således placeret på senderen, at den er  
+
+ let synlig, når senderen er anbragt i normal position.
+ 2.16.3. Mærkningen skal være mekanisk solid og holdbar og kan f. eks. ske  
+
+ ved gravering eller prægning eller ved anvendelse af metalskilt. 2.17.  
+
+ Alarmsignal.
+ 2.17.1. Hvis der i senderen er indbygget en signalanordning for automatisk  
+
+ udsendelse af det radiotelefoniske alarmsignal, kan senderen kun  
+
+ typegodkendes, såfremt signalanordningen opfylder de i punkterne 2.17.2 -  
+
+ 2.17.8. anførte betingelser.
+ 2.17.2. Anordningen skal kunne frembringe det radiotelefoniske  
+
+ alarmsignal, bestående af to vekslende toner med frekvensen 1300 Hz +/- 1,5%,  
+
+ henholdsvis 2200 Hz +/- 1,5%.
+ Varigheden af hver tone skal være 250 millisekunder +/- 50 millisekunder.  
+
+ Mellemrummet mellem tonerne må ikke overstige 50 millisekunder, og forholdet  
+
+ mellem den kraftigere og den svagere tones amplitude skal være inden for  
+
+ grænserne 1 - 1,2.
+ 2.17.3. Anordningen skal hurtigt kunne sættes i drift og skal uden  
+
+ yderligere regulering kunne modulere senderen uafbrudt i mindst 30 sekunder  
+
+ med en modulationsgrad på mindst 70%.
+ 2.17.4. Anordningen skal til enhver tid kunne tages ud af drift for  
+
+ øjeblikkelig udsendelse af nødmelding.
+ 2.17.5. Anordningen skal være behørigt sikret mod tilfældig start og skal  
+
+ være indrettet på en sådan måde, at muligheden for utilsigtet udsendelse af  
+
+ det radiotelefoniske alarmsignal er gjort mindst mulig.
+ 2.17.6. Funktionen skal kunne kontrolleres hørligt, uden at senderen  
+
+ nødvendigvis holdes i drift.
+ 2.17.7. Alle indstillingsorganer, der har indflydelse på signalets  
+
+ karakteristik, skal være fast indstillet og må ikke være tilgængelige fra  
+
+ senderens yderside.
+ 2.17.8. Betingelserne skal være opfyldt under »normale  
+
+ målebetingelser« (pkt. 3.1.) og under »specielle  
+
+ målebetingelser« (pkt. 3.2.). 3. Målebetingelser .
+Om radioudstyr til brug ombord i skibe gælder det almindeligt, at udstyret  
+
+ skal kunne modstå og stadigt være fuldt funktionsdygtigt under de vekslende  
+
+ ydre forhold, der kan optræde ombord på skibe.
+Hvor intet andet er nævnt,  
+
+ skal specifikationerne være opfyldt for omgivelsestemperaturer mellem O  
+
+ grader C og +40 grader C, samt for forsyningsspændinger indenfor +/- 10% i  
+
+ forhold til nominel værdi.
+ Ved typegodkendelsesmålingerne anvendes nedenstående »Normale  
+
+ målebetingelser« og »Specielle målebetingelser«, sidstnævnte  
+
+ dog kun i det omfang, det er nævnt under de enkelte specifikationer. 3.1.  
+
+ Normale målebetingelser .
+ Temperatur: +15 grader C til +35 grader C.
+ Relativ fugtighed: 45% til 75%.
+ Lufttryk: 860 mbar til 1060 mbar.
+ Forsyningsspænding: Den nominelle værdi +/- 2%. 3.2. Specielle  
+
+ målebetingelser .
+ 3.2.1 Temperatur: +40 grader C, tolerance +/- 2 grader C.
+ Forsyningsspænding: Nominel værdi -10%, tolerance +/- 2%.
+ 3.2.2. Temperatur: +40 grader C, tolerance +/- 2 C.
+ Forsyningsspænding: Nominel værdi + 10%, tolerance +/- 2%.
+ 3.2.3. Temperatur: 0 grader C, tolerance +/- 2 grader C.
+ Forsyningsspænding: Nominel værdi -10%, tolerance -+ 2%.
+ 3.2.4. Temperatur: 0 grader C, tolerance +/- 2 grader C.
+ Forsyningsspænding: Nominel værdi +10%, tolerance +/- 2%.
+ 3.2.5. Temperatur: +15 grader C til +35 grader C (normal rumtemperatur).
+ Forsyningsspænding: Nominel værdi -10%, tolerance +/- 2%.
+ 3.2.6. Temperatur: +15 grader C til +35 grader C (normal rumtemperatur).
+ Forsyningsspænding: Nominel værdi +10%, tolerance +/- 2%. Bemærkning.
+ Når der foretages de for målingerne nødvendige ændringer i senderens  
+
+ omgivelsestemperatur, foretages ingen målinger tidligere end 1 time fra det  
+
+ øjeblik, den nye omgivelsestemperatur er nået.
+ 3.3. Kunstantenne .
+ 3.3.1. I frekvensområdet 1605 - 4000 kHz benyttes ved  
+
+ typegodkendelsesmålingerne en kunstantenne bestående af en serieforbindelse  
+
+ af en rent ohmsk modstand på 10 ohm og en kondensator på 250 pF.
+ 3.3.2. I frekvensområdet 4 - 27,5 MHz benyttes ved  
+
+ typegodkendelsesmålingerne en kunstantenne bestående af en rent ohmsk  
+
+ modstand på 50 ohm.
+ 3.3.3. Herudover skal senderen kunne tilpasses og fungere fuldt  
+
+ tilfredsstillende på alle almindeligt forekommende skibsantenner. 4.  
+
+ Udgangseffekt .
+ Senderens udgangseffekt ved bølgetyperne A3A, A3J og A3H skal af  
+
+ fabrikanten opgives som den P.E.P. (forkortelse fra engelsk: Peak Envelope  
+
+ Power), der afsættes i belastningen specificeret under pkt. 3.3.1,  
+
+ henholdsvis pkt. 3.3.2, ved modulation med de i punkt 5 til 8 specificerede  
+
+ to- og fire-tonesignaler.
+ Udgangseffekten skal opgives for et sådant antal bærebølgefrekvenser, at  
+
+ dens variation med frekvensen er anskueliggjort. 4.1. Definition .
+ Ved P.E.P. forstås den middeleffekt, der tilføres belastningen over en  
+
+ periode af radiofrekvenssignalet ved den højeste værdi af  
+
+ modulationsindhyllingskurven. 4.2. Målemetode .
+ Senderen indstilles til at udsende et umoduleret signal med en  
+
+ middeludgangseffekt på ca 1/4 af den opgivne udgangseffekt (normalt anvendes  
+
+ bærebølgen i et umoduleret A3H signal, men et A3J signal, hvor modulationen  
+
+ består af en enkelt tone, kan også anvendes), og middeludgangseffekten Pm og  
+
+ dens tilhørende spidsspænding U1 over belastningen måles.
+ Senderens udgangseffekt (P.E.P.) under en vilkårlig modulation kan  
+
+ derefter bestemmes ved måling af den tilhørende spidsspænding U2 over  
+
+ belastningen, idet udgangseffekten (P.E.P) = Pm (U2/U1)exp2 4.3. Krav til  
+
+ størrelsen af udgangseffekten i frekvensområdet 1605 - 4000 kHz .
+Når senderen er justeret som beskrevet i fabrikantens  
+
+ betjeningsvejledning, skal udgangseffekten målt på en hvilken som helst  
+
+ frekvens i frekvensområdet 1605 - 4000 kHz være mindst 60 watt P.E.P. og ikke  
+
+ over 400 watt P.E.P.
+Udgangseffekten måles under »normale  
+
+ målebetingelser« (pkt. 3.1.) og under »specielle  
+
+ målebetingelser« (pkt. 3.2.). 4.4. Krav til størrelsen af  
+
+ udgangseffekten i frekvensområdet 4 - 27,5 MHz .
+Når senderen er justeret som beskrevet i fabrikantens  
+
+ betjeningsvejledning, skal udgangseffekten målt på en hvilken som helst  
+
+ frekvens i de under pkt. 1.1. anførte frekvensbånd i frekvensområdet 4 - 27,5  
+
+ MHz være mindst 60 watt P.E.P. og højst 1500 watt P.E.P.
+Udgangseffekten  
+
+ måles under »normale målebetingelser« (pkt. 3.1.) og under  
+
+ »specielle målebetingelser« (pkt. 3.2.). 4.5. Effektreduktion .
+ Hvis senderens opgivne udgangseffekt er større end 100 watt P.E.P, skal  
+
+ det være muligt at reducere udgangseffekten til en værdi mindre end 60 watt  
+
+ P.E.P. 5. Kompression og begrænsning .
+ Ved konstruktionen af senderen skal der være taget forholdsregler mod, at  
+
+ senderen kan udstyres til en udgangseffekt, som er større end den opgivne  
+
+ udgangseffekt.
+Kredsløbene for kompression og begrænsning af udgangseffekten skal være  
+
+ virksomme ved samtlige de bølgetyper, senderen er beregnet for.
+Alle  
+
+ indstillingsorganer, der har indflydelse på funktionen af disse kredsløb,  
+
+ skal være fast indstillede og må ikke være tilgængelige fra senderens  
+
+ yderside. 5.1. Målemetode (bølgetype A3J).
+Senderen moduleres med et firetonesignal bestående af fire sinusspændinger  
+
+ med samme amplitude og frekvenser omkring 700 Hz, 1100 Hz, 1700 Hz og 2500  
+
+ Hz.
+Det samlede modulationsniveau indstilles således, at der i belastningen  
+
+ afsættes en udgangseffekt, som er 3 dB under den opgivne udgangseffekt, og  
+
+ dette modulationsniveau benyttes under målingen som referenceniveau.
+ Derefter forøges det samlede modulationsniveau til 3 dB over  
+
+ referenceværdien, og udgangseffekten måles.
+ Endelig forøges det samlede modulationsniveau til 20 dB over  
+
+ referenceniveauet, og udgangseffekten måles igen. 5.2. Krav (bølgetype A3J).
+ 5.2.1. En forøgelse af modulationsniveauet på 3 dB relativt til  
+
+ referenceniveauet skal give anledning til en forøgelse af udgangseffekten på  
+
+ mindst 1,5 dB.
+ 5.2.2. En forøgelse af modulationsniveauet på 20 dB relativt til  
+
+ referenceniveauet må ikke forøge udgangseffekten mere end 3 dB.
+ 5.2.3. For at undgå utilsigtet forstærkning af baggrundsstøj skal der  
+
+ tilstræbes en lineær sammenhæng mellem modulationsniveau og udgangseffekt ved  
+
+ modulationsniveauer lavere end referenceniveauet. 6. Intermodulation . 6.1.  
+
+ Målemetode .
+ Kredsløbene for kompression og begrænsning af den til antennen tilførte  
+
+ effekt frakobles.
+Senderen moduleres med to tonefrekvenser på henholdsvis 700 Hz og 1700 Hz,  
+
+ hvis amplitudeværdier indstilles således, at de to tonefrekvenser danner  
+
+ grundfrekvenser af samme amplitude over belastningen.
+Modulationen øges, til  
+
+ udgangseffekten er lig med den opgivne udgangseffekt. 6.2. Krav .
+ Når senderen udstyres til den opgivne udgangseffekt med et totonesignal,  
+
+ skal intermodulationsprodukterne være undertrykt mindst 25 dB relativt til  
+
+ hvert af signalerne ved grundfrekvenserne. 6.3. Driftstid ved udstyring med  
+
+ et totone signal.
+ Senderen skal, uden at tage skade og uden at udgangseffekten reduceres  
+
+ væsentligt, i mindst 15 minutter kunne udstyres til den opgivne udgangseffekt  
+
+ med et totonesignal. 7. Bærebølgeundertrykkelse . 7.1. Definition.
+ Bærebølgeundertrykkelsen er forholdet i dB mellem senderens opgivne  
+
+ udgangseffekt og bærebølgeeffekten. 7.2. Målemetode .
+ Med et totonesignal som beskrevet under pkt. 6.1. moduleres senderen til  
+
+ den opgivne udgangseffekt.
+ Herefter fjernes modulationen, og bærebølgeeffekten måles. 7.3. Krav .
+ 7.3.1. Ved bølgetype A3J skal bærebølgeundertrykkelsen være mindst 40 dB.
+ 7.3.2. Ved bølgetype A3A skal bærebølgeundertrykkelsen være 16 +/- 2 dB.
+ 7.3.3. Ved bølgetype A3H skal bærebølgeundertrykkelsen være mellem 4 1/2  
+
+ og 6 dB.
+ 7.3.4. Bærebølgeundertrykkelsen måles under »normale  
+
+ målebetingelser« (pkt. 3.1.) og under »specielle  
+
+ målebetingelser« (pkt. 3.2.). 8. Uønsket udstråling . 8.1. Definition .
+ Ved uønsket udstråling forstås udsendelse af signal på een eller flere  
+
+ frekvenser uden for det nødvendige bånd, og hvor det om niveauet af signalet  
+
+ gælder, at en formindskelse af dette ikke influerer på den ønskede udsendelse  
+
+ af information.
+Det nødvendige bånd er ved bølgetype A3A og A3H Fa - 1400 Hz til Fa + 1300  
+
+ Hz, hvor Fa er den tildelte frekvens beliggende 1400 Hz højere end  
+
+ bærebølgefrekvensen.
+Ved bølgetype A3J er det nødvendige bånd Fa - 1050 Hz til Fa + 1300 Hz.
+ Uønsket udstråling omfatter således harmonisk udstråling, parasittisk  
+
+ udstråling og intermodulationsprodukter, men omfatter ikke den udstråling i  
+
+ umiddelbar nærhed af det nødvendige bånd, som er et resultat af den for  
+
+ udsendelse af information nødvendige modulationsproces. 8.2. Målemetode .
+ Senderen moduleres med et totonesignal bestående af to sinusspændinger med  
+
+ frekvenser omkring 700 Hz og 2500 Hz, indstillet som beskrevet under pkt.  
+
+ 6.1. 8.3. Krav .
+ Ved bølgetype A3A, A3J og A3H skal effkten af ethvert uønsket signal, som  
+
+ afsættes i belastningen ved en hvilken som helst frekvens, tilfredsstille de  
+
+ krav, der er angivet i nedenstående skema.
+ Ved en senders modulationskarakteristik forstås amplitudekarakteristikken  
+
+ af det til udgangen overførte modulationsfrekvensspektrum. 9.2. Målemetode .
+9.2.1. Kredsløbene for kompression og begrænsning af den til antennen  
+
+ tilførte effekt frakobles, og senderen moduleres med en tonefrekvens.
+Ved at  
+
+ variere modulationssignalets frekvens opsøges den frekvens, ved hvilken  
+
+ effekten afsat i belastningen har sin maksimale værdi (for konstantholdt  
+
+ modulationsniveau).
+9.2.2. Ved denne frekvens øges herefter modulationsniveauet, indtil  
+
+ effekten afsat i belastningen er 6 dB under den opgivne udgangseffekt. 9.3.  
+
+ Krav 9.3.1. Når niveauet af modulationssignalet (indstillet som beskrevet under  
+
+ pkt. 9.2.2.) holdes konstant, og frekvensen varieres fra 350 Hz til 2700 Hz,  
+
+ må den afsatte effekt i belastningen højst variere 6 dB.
+ 9.3.2. Når niveauet af modulationssignalet (indstillet som beskrevet under  
+
+ pkt. 9.2.2.) holdes konstant, og frekvensen varieres fra 400 Hz til 3400 Hz  
+
+ og derover, må effekten afsat i belastningen ikke overstige de i tabellen  
+
+ anførte værdier.
+ +++SKEMA+++ 10. Tolerance og korttidsstabilitet af bærebølgefrekvensen .  
+
+ 10.1. Definition .
+ Ved tolerancen af bærebølgefrekvensen forstås bærebølgefrekvensens  
+
+ absolutte afvigelse fra den nominelle bærebølgefrekvens angivet i Hz. 10.2.  
+
+ Målemetode .
+ Frekvensmålinger foretages med måleudstyr, hvis målenøjagtighed er +/- 3  
+
+ Hz eller bedre. 10.3. Krav.
+Når senderen er driftsklar (pkt. 2.5.), skal tolerancen af  
+
+ bærebølgefrekvensen til enhver tid være indenfor +/- 100 Hz.
+Ved  
+
+ typegodkendelsesmålingerne måles bærebølgefrekvensen under »normale  
+
+ målebetingelser« (pkt. 3.1.) og under »specielle  
+
+ målebetingelser« (pkt. 3.2.). 10.4. Definition.
+Ved korttidsstabiliteten af bærebølgefrekvensen forstås  
+
+ bærebølgefrekvensens maksimale variation i Hz over en periode på 15 minutter.  
+
+ 10.5. Krav.
+Når senderen er driftsklar (pkt. 2.5.), skal korttidsstabiliteten  
+
+ af bærebølgefrekvensen til enhver tid være indenfor +/- 40 Hz.
+Ved  
+
+ typegodkendelsesmålingerne måles korttidsstabiliteten under »normale  
+
+ målebetingelser« (pkt. 3.1.) og under »specielle  
+
+ målebetingelser« (pkt. 3.2.). 11. Støj og brum . 11.1. Definition .
+ Ved støj og brum forstås her støj- og brumspændinger i det udsendte signal  
+
+ forårsaget af uønsket modulation. 11.2. Målemetode .
+ Ved typegodkendelsesmålingerne måles støj- og brumspændinger over  
+
+ kunstantennen med en målemodtager med en båndbredde på 3 kHz. 11.3. Krav .
+ Uden modulationssignal og med senderen indstillet til at udsende bølgetype  
+
+ A3J skal det målte signal være mindst 40 dB under spændingen svarende til den  
+
+ opgivne udgangseffekt. 12. Uønsket frekvensmodulation.
+ 12.1. Den uønskede frekvensmodulation af bærebølgen skal være så lille, at  
+
+ den ikke giver anledning til generende forvrængning. 13. Bestemmelser  
+
+ vedrørende godkendelse af anlæg .
+ Radioanlæg for enkeltsidebånds-radiotelefoni i mellem- og kortbølgebåndet,  
+
+ som efter 1. juni 1970 installeres i skibe under dansk flag, skal være  
+
+ godkendt af post- og telegrafvæsenet efter nærværende specifikationer. 13.1.  
+
+ Indsendelse af anmodning om afprøvning.
+ 13.1.1. Når et anlæg ønskes afprøvet med henblik på godkendelse, rettes af  
+
+ en dansk fabrikant eller en dansk repræsentant skriftlig henvendelse herom  
+
+ til Post- og telegrafvæsenet, den tekniske tjeneste Radioingeniørtjenesten  
+
+ Nørrebrogade 10, 2200 København N.
+ 13.1.2. Anmodningen om afprøvning skal være ledsaget af en komplet  
+
+ beskrivelse og et komplet sæt tegninger af det pågældende anlæg.
+13.1.3. Endvidere skal medsendes en målerapport indeholdende fabrikkens  
+
+ måleresultater omfattende alle relevante punkter i nærværende  
+
+ specifikationer.
+Er der ved de af fabrikken foretagne målinger anvendt  
+
+ sådanne målemetoder eller målebetingelser, at direkte sammenlignelighed med  
+
+ de af post- og telegrafvæsenet foretagne målinger ikke kan påregnes, skal  
+
+ målerapporten endvidere i fornødent omfang indeholde oplysninger herom.
+ 13.1.4. Endelig skal vedlægges en fyldestgørende praktisk anvisning på,  
+
+ hvorledes ud- og indkobling af kredsløbene for kompression og begrænsning af  
+
+ senderens udgangseffekt foretages.
+ 13.1.5. Det fremsendte materiale skal indeholde oplysninger om anlæggets  
+
+ totale vægt og dimensioner, effektforbrug, effektfaktor, mikrofonimpedans  
+
+ samt øvrige tekniske oplysninger, der er nødvendige for afprøvning af  
+
+ anlægget.
+ 13.1.6. Målerapporter, tegninger og beskrivelser indleverede med henblik  
+
+ på typeafprøvning af anlæg er post- og telegrafvæsenets ejendom. 13.2.  
+
+ Indsendelse af anlæg til afprøvning.
+ 13.2.1. Anlægget, som ønskes afprøvet indsendes, når der fra post- og  
+
+ telegrafvæsenet foreligger anmodning herom, til Post- og telegrafvæsenet, den  
+
+ tekniske tjeneste Radioingeniørtjenesten Islands Brygge 83 C 4. sal 2300  
+
+ København S.
+ 13.2.2. Al transport til og fra radioingeniørtjenesten påhviler  
+
+ rekvirenten.
+ 13.2.3. Post- og telegrafvæsenet kan forlange, at rekvirenten opstiller,  
+
+ tilslutter og klargør anlægget til afprøvning.
+ 13.2.4. Når et anlæg indsendes til afprøvning, skal det kunne afstemmes  
+
+ til mindst 4 frekvenser i frekvensområdet 1605 - 4000 kHz (1 frekvens i den  
+
+ laveste del af båndet, 1 frekvens i den mellemste del af båndet, 1 frekvens i  
+
+ den højeste del af båndet samt 2182 kHz) og/eller mindst 1 frekvens i hvert  
+
+ af de i pkt. 1.1. nævnte maritime bånd indenfor frekvensområdet 4 - 27,5 MHz.  
+
+ 13.3. Godkendelse .
+ 13.3.1. Godkendelse kan efter generaldirektoratets afgørelse i hvert  
+
+ enkelt tilfælde gives enten som en typegodkendelse eller som en godkendelse  
+
+ af enkelte eksemplarer.
+ 13.3.2 Alle anlæg af godkendt type skal opfylde nærværende bestemmelser og  
+
+ minimumsspecifikationer, og en typegodkendelse forudsætter, at samtlige  
+
+ fremstillede anlæg af typen både med hensyn til strømskemaer, komponenter og  
+
+ montering er identiske med det afprøvede.
+13.3.3. Anlæg, der ikke i radiomæssig og væsentlige andre henseender er  
+
+ identiske, må ikke bære samme typebetegnelse.
+Foretages der ændringer, må der  
+
+ gives ny typebetegnelse, hvilket vil medføre krav om ny afprøvning, såfremt  
+
+ ændringerne relation til de gældende bestemmelser.
+Post- og telegrafvæsenet  
+
+ forbeholder sig ved skøn at afgøre, om anlæg er identiske i henhold til  
+
+ ovenstående, og om ny afprøvning er nødvendig.
+13.3.4. Det er en forudsætning for opretholdelse af en typegodkendelse, at  
+
+ post- og telegrafvæsenet med henblik på kontrolmålinger på et hvilket som  
+
+ helst tidspunkt kan udvælge eksemplarer fra lager hos fabrikant eller  
+
+ importør, eventuelt forhandler, af vedkommende anlægstype.
+Ifald det herved  
+
+ eller på anden måde konstateres, at anlæggene ikke opfylder de gældende  
+
+ bestemmelser, eller såfremt godkendelsens vilkår i øvrigt tilsidesættes, kan  
+
+ godkendelsen annulleres både for allerede ibrugtagne anlæg og for ikke  
+
+ ibrugtagne anlæg af vedkommende type.
+ 13.3.5. Givne godkendelser kan annulleres, f. eks. ved kundgørelse i  
+
+ Statstidende.
+ 13.3.6. Godkendelsen omfatter kun forhold, der angår de af  
+
+ generaldirektoratet fastsatte bestemmelser og tager ikke sigte på generelt at  
+
+ omfatte andre myndigheders eventuelle krav til anlæggene og deres  
+
+ installation.

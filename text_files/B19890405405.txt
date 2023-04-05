@@ -1,0 +1,789 @@
+Indledning.
+Ikrafttrædelse § 1  Gyldighedsområde § 2  Idriftsætning.
+2.1 Almindeligt 2.2 Isolationsprøve 2.3 Kontrol af ekstrabeskyttelse § 3  Installationer i drift.
+3.1 Almindeligt 3.2 Forhold over for installationer § 4  Udskiftning af sikringer og genindkobling af  
+
+ automatiske afbrydere.
+4.1 Almindeligt § 5  Konstatering af fejl.
+5.1 Forholdsregler ved konstatering af fejl 5.2 Afbrydelse af forsyningen § 6  Arbejde på eller i nærheden af installationer.
+6.1 Almindeligt 6.2 Reparations- og vedligeholdelsesarbejder 6.3 Tavleanlæg 6.4 Installationer i våde og eksplosionsfarlige områder samt sprængstofrum 6.5 Højspændingsinstallationer § 7  Sikkerhedsforanstaltninger ved arbejde på eller  
+
+ nær ved spændingsløse tavleanlæg.
+7.1 Gyldighedsområde 7.2 Personale 7.3 Frakobling 7.4 Sikring mod indkobling 7.5 Kontrol af spændingsløs tilstand 7.6 Før arbejdets begyndelse 7.7 Ophævelse af sikkerhedsforanstaltninger § 8  Sikkerhedsforanstaltninger ved arbejde på eller  
+
+ nær ved tavleanlæg under spænding (L-AUS).
+8.1 Personale 8.2 Nødvendigt mandskab 8.3 Værktøj og udrustning 8.4 sikkerhedsforanstaltninger 8.5 Før arbejdets begyndelse 8.6 Under arbejdet 8.7 Efter arbejdet § 9  Reparation af materiel.
+9.1 Almindeligt 9.2 Kontrol af isolation 9.3 Forholdsregler ved konstatering af fejl 9.4 Eksplosionsbeskyttet materiel Bilag 1 (Disponibel) 2 Almindelig vejledning vedrørende gennemførelse af installationseftersyn 3 Værktøj og udrustning for L-AUS Stikordsregister Indledning Afsnit 11, 3. udgave, er udgivet af Elektricitetsrådet med gyldighed fra  
+
+ 1. januar 1979 og erstatter 2. udgave.
+Eventuelle fremtidige ændringer og nye bestemmelser vil, indtil en ny  
+
+ udgave udgives, fremkomme på erstatningsblade, hvorpå de vil blive markeret i  
+
+ margenen med angivelse af ikrafttrædelsesdato.
+Udsendelse af erstatningsblade  
+
+ vil blive offentliggjort i ELRÅD-meddelelser og i de tekniske blade.
+ Forklaringer og henvisninger er sat med skrifttypen »petit«.
+ Den 1. juli 1989 indeholder afsnittet følgende erstatningsblade:
+Idriftsætning, drift, eftersyn og vedligeholdelse af installationer § 1 Gyldighedsområde 1.1 Afsnit 11 gælder for lavspændingsinstallationer samt for primære og  
+
+ sekundære højspændingsinstallationer i den udstrækning, hvori de kan finde  
+
+ anvendelse på hver af disse kategorier.
+§ 2 Idriftsætning 2.1 Almindeligt.
+ 2.1.1 Elektroinstallatøren skal drage omsorg for, at installationen  
+
+ efterses og afprøves, før den sættes i drift.
+ 2.2 Isolationsprøve.
+ 2.2.1 Inden idriftsætning af en installation skal der foretages måling af  
+
+ installationens isolationsmodstand, og tilslutning må kun foretages i  
+
+ overensstemmelse med § 2.2.3.
+ Bestemmelsen omfatter også udvidelser eller omlægninger af bestående  
+
+ installationer.
+ 2.2.2 Isolationsmodstanden skal måles med et prøveapparat, der i tomgang  
+
+ giver en jævnspænding på 500-1000 V, og som kan afgive mindst 1 mA ved en  
+
+ udgangsspænding, der er lig med installationens nominelle driftsspænding.
+ Undtagelse:
+ Der kan anvendes højere prøvespænding end 1000 V, såfremt der anvendes  
+
+ DEMKO-godkendte stødspændingsprøveapparater.
+ Der må ikke foretages isolationsmåling i en lokalitet på tidspunkter, hvor  
+
+ lokaliteten er klassificeret som mere eksplosionsfarlig, medmindre der  
+
+ anvendes DEMKO-godkendte prøveapparater i egensikker udførelse.
+ 2.2.3 Isolationsmodstanden for en stikledning, hovedledning eller gruppe  
+
+ skal hver for sig være mindst 0,5 Mo.
+ 2.2.4 Isolationsmodstanden skal måles mellem elførende ledere og jord.
+ Isolationsmålingen kan foretages mellem forsyningsnettets nulleder og  
+
+ installationens elførende ledere.
+ Isolationsmålingen kan foretages samlet på alle ledere.
+ Hvis isolationsmodstanden er mindre end den foreskrevne værdi, kan  
+
+ målingen gentages på hver leder for sig.
+ 2.3 Kontrol af ekstrabeskyttelse.
+ 2.3.1 Inden idriftsætning af en installation skal det kontrolleres, at en  
+
+ etableret ekstrabeskyttelse er virksom, og at den er udført i  
+
+ overensstemmelse med bestemmelserne i afsnit 10.
+ Kontrol foretages ved eftersyn og ved prøvning eller beregning efter  
+
+ bestemmelserne i §§ 2.3.2 - 2.3.5. Spændingen på ydre steldele må ved  
+
+ prøvningen ikke overstige 50 V.
+ Undtagelse:
+ Der må ikke foretages kontrol af ekstrabeskyttelse ved prøvning i en  
+
+ lokalitet på tidspunkter, hvor der er eksplosionsfare.
+ Eksplosionsfare kan forekomme i følgende lokaliteter:
+ - Revisionsgrave og kældre.
+ - Mindre eksplosionsfarlige lokaliteter.
+ - Mere eksplosionsfarlige lokaliteter.
+ - Sprængstofrum.
+ 2.3.2 Ekstrabeskyttelse ved nulling:
+ Ved nulling kræves alene foretaget et eftersyn af ledningsforbindelserne.
+ 2.3.3. Ekstrabeskyttelse ved fejlstrømsafbrydere:
+ Det skal ved måling kontrolleres, at fejlstrømsafbryderen udkobler ved en  
+
+ spænding på højst 50 V i forhold til neutral jord.
+ I stedet for at måle spændingen i forhold til neutral jord kan spændingen,  
+
+ når forsyningsnettet er i normal driftstilstand, måles i forhold til  
+
+ nullederen eller med fasespændingen som reference.
+ Hvor det efter bestemmelsen i afsnit 10, § 10.5, er tilladt at udelade  
+
+ jordelektrode og beskyttelsesleder, skal det i stedet kontrolleres, at  
+
+ fejlstrømsafbryderen udkobler ved en strøm, der ikke overstiger  
+
+ mærkeudløsestrømmen.
+ 2.3.4 Ekstrabeskyttelse ved fejlspændingsafbrydere:
+Det skal ved måling kontrolleres, at fejlspændingsafbryderen udkobler ved  
+
+ en spænding på højst 50 V i forhold til neutral jord.
+Prøvestrømmen må  
+
+ herunder ikke overstige 5 A.
+ I stedet for at måle spændingen i forhold til neutral jord kan spændingen,  
+
+ når forsyningsnettet er i normal driftstilstand, måles i forhold til  
+
+ nullederen eller med fasespændingen som reference.
+ Undtagelse:
+Hvis kontrollen ikke kan udføres på grund af brugsgenstandens naturlige  
+
+ jordforbindelse, skal det ved måling og beregning eftervises, at  
+
+ fejlspændingsafbryderen udkobler ved en spænding på højst 50 V.
+Målingen kan  
+
+ udføres ved, at der sendes en strøm på højst 5 A gennem de ydre steldele til  
+
+ jord samtidig med, at spændingen Us på de ydre steldele i forhold til neutral  
+
+ jord og strømmen Ib i beskyttelseslederen måles.
+Strømmen If i beskyttelseslederen ved en spænding på 50 V på stel kan  
+
+ beregnes af formlen If = 50 Us Ib mA hvor: Ib er den målte strøm i milliampere i beskyttelseslederen.
+ Us er den målte spænding i volt på de ydre steldele.
+ Den således beregnede strøm If i beskyttelseslederen skal være større end  
+
+ eller lig med fejlspændingsafbryderens udløsestrøm.
+ 2.3.5 Ekstrabeskyttelse ved jording:
+ 1. Jording til jordelektrode uden supplerende  
+
+ ledningsforbindelse til transformerstationens jordingsanlæg for driftsmæssig  
+
+ jordforbindelse:
+Det skal ved måling kontrolleres, at jordelektrodens overgangsmodstand til  
+
+ jord ikke er større end 50 ohm Ia hvor: Ia er brydeorganets udløsestrøm i ampere ved en udløsetid på 5  
+
+ sekunder.
+ 2. Jording til jordelektrode med supplerende  
+
+ ledningsforbindelse til transformerstationens jordingsanlæg for driftsmæssig  
+
+ jordforbindelse:
+Det skal ved måling kontrolleres, at jordelektrodens overgangsmodstand til  
+
+ jord ikke er større end 2 ohm.
+Endvidere skal det ved måling eller beregning  
+
+ kontrolleres, at sløjfeimpedansen i kredsen bestående af beskyttelseslederen  
+
+ fra dennes tilslutningsklemme på den beskyttede del til transformerstationen  
+
+ og tilbage gennem faselederen til den beskyttede del ikke er større end Uf ohm Ia hvor: Uf er fasespændingen i volt, Ia er brydeorganets udløsestrøm i ampere ved en udløsetid på 1 sekund.
+§ 3 Installationer i drift 3.1 Almindeligt.
+ 3.1.1 Installationer i drift skal være i overensstemmelse med de på  
+
+ tidspunktet for udførelsen eller de ved senere omlægninger gældende  
+
+ bestemmelser for installationers udførelse.
+ 3.1.2 Hvis en lokalitet skifter anvendelse eller beskaffenhed, skal  
+
+ forhåndenværende installation bringes i overensstemmelse med bestemmelserne  
+
+ svarende til den nye anvendelse eller beskaffenhed.
+ Skifter en lokalitet anvendelse eller beskaffenhed i forbindelse med  
+
+ tilslutning af en brugsgenstand, må tilslutning ikke foretages, før  
+
+ installationen i hele lokaliteten er bragt i overensstemmelse med  
+
+ bestemmelserne svarende til den nye anvendelse eller beskaffenhed.
+ 3.1.3 Elektricitetsrådet kan kræve, at driften af en installation ledes af  
+
+ en driftsleder med de kvalifikationer, som rådet måtte fastsætte i det  
+
+ enkelte tilfælde.
+ 3.2 Forhold over for installationer.
+ 3.2.1 Ejeren (brugeren) af enhver installation (herunder også  
+
+ monteringsmateriel og brugsgenstande med tilhørende ledninger) skal udvise  
+
+ påpasselighed med hensyn til at afværge, at installationen udsættes for  
+
+ overlast.
+ Ejeren (brugeren) er ansvarlig for installationens tilstand og  
+
+ vedligeholdelse og skal lade fejl og mangler afhjælpe snarest muligt samt  
+
+ foranledige, at der hurtigst muligt træffes foranstaltninger for at hindre,  
+
+ at fejl eller mangler kan foranledige fare for personer eller gods.
+ 3.2.2 Elektriske maskiner og apparater skal holdes i god stand og renses  
+
+ med passende mellemrum.
+For transportable motordrevne og elektromagnetisk drevne håndværktøjer,  
+
+ der benyttes jævnligt, anses ovenstående bestemmelse i almindelighed kun for  
+
+ opfyldt, dersom apparatet med højst 2 måneders mellemrum (for  
+
+ dobbeltisolerede apparaters vedkommende dog 6 måneder), og i øvrigt når det  
+
+ viser tegn på en fejl, underkastes kyndigt eftersyn, hvorved fejl, som kan  
+
+ forårsage fare, afhjælpes på betryggende måde.
+Under ugunstige omstændigheder  
+
+ kan hyppigere eftersyn være påkrævet.
+ 3.2.3 Hvor maskiner eller apparater hyppigt afvaskes, eller hvor spuling  
+
+ foretages (f. eks. i levnedsmiddelbranchen), skal der udvises påpasselighed  
+
+ således, at elektriske dele (såsom afbrydere o. lign.) på maskiner eller  
+
+ apparater eller i rummet i øvrigt ikke udsættes for skadelig påvirkning fra  
+
+ rengøringsmidlerne.
+ 3.2.4 Termiske apparater samt lamper må ikke anvendes på en sådan måde, at  
+
+ de kan bevirke skadelig opvarmning af omgivelserne.
+ 3.2.5 Letantændelige genstande eller stoffer må ikke forefindes i farlig  
+
+ nærhed af lamper eller maskiner og apparater.
+3.2.6 Tilledninger må ikke anvendes på en sådan måde, at de udsættes for  
+
+ mekanisk, kemisk eller termisk beskadigelse.
+Ledninger, som er i en sådan  
+
+ tilstand, at fortsat benyttelse af dem kan medføre fare, må ikke anvendes.
+ 3.2.7 I lokaliteter for sprøjtemaling og lakering under anvendelse af  
+
+ brandfarlige væsker må der ikke være indsat stikpropper i stikkontakter, så  
+
+ længe sprøjtemaling foregår.
+ Se justitsministeriets bekendtgørelse af 1. oktober 1978.
+§ 4 Udskiftning af sikringer og genindkobling af automatiske afbrydere 4.1 Almindelig.
+ 4.1.1 Smeltesikringer, automatsikringer eller automatiske afbrydere til  
+
+ overstrømsbeskyttelse af ledninger eller brugsgenstande må kun udskiftes  
+
+ eller genindkobles een gang efter overbrænding eller automatisk udkobling.
+ Sker der straks igen en sikringsoverbrænding eller automatisk udkobling,  
+
+ skal den eventuelle fejl fjernes, og ny sikringsudskiftning eller  
+
+ genindkobling må ikke foretages, før isolationsmodstanden er målt til en  
+
+ forskriftsmæssig værdi.
+ Undtagelse:
+ Bestemmelsen gælder ikke, hvor en sikringsoverbrænding eller automatisk  
+
+ udkobling skyldes en kortvarig overbelastning, f. eks. ved start eller drift  
+
+ af en motor.
+ Isolationsmåling kan udelades for den faste installation, hvis fejlen er i  
+
+ en brugsgenstand eller dens tilledning, som straks adskilles fra  
+
+ installationen, og tilslutning ikke foretages, før fejlen er fjernet.
+ 4.1.2 Udskiftning af knivsikringer i spændingsførende tilstand må kun  
+
+ foretages af en sagkyndig person og under anvendelse af et dertil konstrueret  
+
+ isolerende håndtag.
+ 4.1.3 Ejeren (brugeren) af en installation skal sørge for, at der i  
+
+ sikringsholderne ikke er anbragt andre genstande end dertil bestemte  
+
+ sikringer.
+Denne bestemmelse anses i almindelighed kun for opfyldt, dersom han  
+
+ foretager eller lader foretage eftersyn af sikringer og sikringsholdere 1. med højst 1/2 års mellemrum i bedrifter eller  
+
+ større husholdninger, hvor ansatte gør brug af installationen og har adgang  
+
+ til sikringerne, 2. når han som ejer eller bruger overtager en  
+
+ forhåndenværende installation, 3. når fremmede håndværkere el. lign. (dog ikke  
+
+ elektroinstallatører) har gjort brug af installationen og haft adgang til  
+
+ sikringerne.
+§ 5 Konstatering af fejl 5.1 Forholdsregler ved konstatering af fejl.
+ 5.1.1 Hvis en elektroinstallatør eller hans personale under sit arbejde  
+
+ konstaterer fejl eller mangler (herunder isolationsfejl) ved en installation  
+
+ og ikke afhjælper disse, skal han gøre ejeren (brugeren) bekendt med disse og  
+
+ med den fare og det ansvar, som er forbundet med ikke at lade fejl eller  
+
+ mangler afhjælpe.
+ 5.2 Afbrydelse af forsyningen.
+ 5.2.1 Bliver elleverandøren bekendt med en fejl ved en installation og  
+
+ skønner, at fejlen medfører væsentlig fare, er han berettiget til at afbryde  
+
+ forsyningen til installationen, såfremt fejlen ikke er afhjulpet inden for en  
+
+ af elleverandøren fastsat rimelig frist.
+§ 6 Arbejde på eller i nærheden af installationer 6.1 Almindeligt.
+ 6.1.1 Under udførelsen af arbejde i nærheden af elektriske installationer  
+
+ skal der udvises påpasselighed for at afværge, at disse udsættes for  
+
+ overlast.
+ 6.1.2 Når en installation eller en del af denne gøres spændingsløs før  
+
+ arbejde på eller i nærheden af installationen, skal der udvises agtpågivenhed  
+
+ og omtanke for at sikre, at afbrydningen foretages således, at installationen  
+
+ ikke kommer under spænding ved arbejdets udførelse.
+1985-10-01 6.1.3 Arbejde på eller nær ved elektriske installationer under spænding må  
+
+ kun udføres af personer, der er fyldt 18 år.
+1988-07-01 Betjening af prøvetavler i forbindelse med afprøvning af brugsgenstande og  
+
+ hjælpeapparater under spænding kan udføres af personer, der er under  
+
+ uddannelse og fyldt 16 år, når de er instrueret og under opsyn af en  
+
+ sagkyndig person.
+ 6.2 Reparations- og vedligeholdelsesarbejder.
+ 6.2.1 Hvis en installation ved reparations- og vedligeholdelsesarbejder  
+
+ ikke straks kan blive bragt fuldstændig i orden, skal elektroinstallatøren  
+
+ drage omsorg for, at konstaterede mangler inden for den del af  
+
+ installationen, som berøres af hans arbejde, ikke medfører nærliggende fare  
+
+ for personer eller gods.
+ 6.3 Tavleanlæg.
+ 6.3.1 Under arbejde på tavleanlæg i installationer skal alle dele i  
+
+ arbejdsområdet være spændingsløse.
+Ved arbejdsområde forstås - et tavleområde, hvorpå der arbejdes.
+ - andre dele, der ikke ved isolation eller passende afskærmning eller på  
+
+ anden måde er beskyttet imod en under arbejdet opstående mulighed for farlig  
+
+ berøring (direkte eller gennem værktøj m.m.) eller for kortslutning eller  
+
+ jordslutning, f.eks. gennem nedfaldende metalgenstande.
+1983-07-01 Udskiftning af sikringer, betjening af afbrydere o.l., hvor der ikke  
+
+ gribes ind i anlæggets udførelse, betragtes ikke som arbejde på tavleanlæg.  
+
+ Heller ikke de sikkerhedsforanstaltninger, der skal udføres, før arbejdet  
+
+ påbegyndes, indgår i begrebet arbejde på tavleanlæg, for så vidt  
+
+ foranstaltningerne kan udføres uden risiko.
+ Undtagelser:
+ Bestemmelsen kan fraviges i nedennævnte tilfælde under forudsætning af  
+
+ overholdelse af bestemmelserne i § 8.
+ 1. Ved fejlsøgning, justering og måling, hvortil  
+
+ spænding er nødvendig.
+ 2. Ved opsætning og udskiftning af målere.
+ 3. Ved arbejde i arbejdsområder, hvori alle  
+
+ spændingsførende dele er beskyttet af maksimalt 63A sikringer.
+ 4. I sådanne undtagelsestilfælde, hvor det ikke er  
+
+ muligt på noget tidspunkt at afbryde uden alvorlige følger for en virksomhed.
+ Ved »alvorlige følger« forstås i denne forbindelse afbrydning af  
+
+ livsvigtige funktioner (f.eks. på hospitaler o.l.) eller driftsstandsninger,  
+
+ der medfører kostbar ødelæggelse, f.eks. af en igangværende produktion.
+1983-07-01 Ved arbejde på Er udgået.
+ Om udskiftning af knivsikringer i spændingsførende tilstand, se § 4.1.2.
+ 6.4 Installationer i våde og eksplosionsfarlige områder samt  
+
+ sprængstofrum.
+ 6.4.1 I våde og eksplosionsfarlige områder samt sprængstofrum må der ikke  
+
+ foretages arbejde på elektriske installationer under spænding.
+ Undtagelser:
+1983-07-01 I eksplosionsfarlige områder må der arbejdes på egensikre strømkredse,  
+
+ såfremt egensikkerheden ikke påvirkes.
+ I våde områder må der arbejdes på installationer, der er tilsluttet  
+
+ sikkerhedsspænding.
+1980-07-01 6.4.2 Ved åbning af kapslinger for eksplosionsbeskyttet materiel skal  
+
+ strømforsyningen til materiellet være afbrudt.
+ Kapslinger, der kan åbnes hurtigere end den tid, der er nødvendig for  
+
+ afladning af indbyggede kondensatorer eller afkøling af indkapslede  
+
+ komponenter, er mærket med den nødvendige forsinkelsestid for åbning af  
+
+ kapslingen.
+ 6.5 Højspændingsinstallationer.
+ 6.5.1 Primære og sekundære højspændingsinstallationer skal være  
+
+ spændingsløse, når der arbejdes på dem.
+1983-07-01 § 7 Sikkerhedsforanstaltninger ved arbejde på eller nær ved spændingsløse  
+
+ tavleanlæg 7.1 Gyldighedsområde.
+ 7.1.1 Bestemmelserne omfatter de sikkerhedsforanstaltninger, der skal  
+
+ foretages, dels for at gøre den del af en tavle, hvorpå der skal arbejdes  
+
+ (arbejdsområde), spændingsløs, dels for at indkoble denne efter arbejdets  
+
+ afslutning.
+ 7.2 Personale.
+ 7.2.1 Den, som skal udføre arbejdet, skal have nødvendig instruktion om  
+
+ anlægget og arbejdets art, således at vedkommende kan vurdere den risiko, der  
+
+ er til stede og medvirke til, at de nødvendige sikkerhedsforanstaltninger  
+
+ iværksættes.
+ 7.3 Frakobling.
+ 7.3.1 Tavler eller dele heraf skal frakobles alle steder, hvorfra disse  
+
+ kan sættes under spænding.
+ Frakobling skal således også ske imod andre installationsdele, som  
+
+ automatisk eller manuelt kan komme under spænding fra f.eks.  
+
+ nødgeneratoranlæg, vindmøller samt eventuel styrespænding og  
+
+ installationsdele, der automatisk kan indkobles.
+ 7.4 Sikring mod indkobling.
+ 7.4.1 Sikring mod indkobling skal foretages på en sådan måde, at  
+
+ utilsigtet indkobling kan anses for udelukket.
+Sikring mod indkobling kan f.eks. foretages - ved anbringelse af hængelås i afbryderhåndtag eller tavlelåger, - ved fjernelse af sikringer, - ved demontering af ledninger, når dette kræver brug af værktøj, eller - ved adskillelse af lasker.
+Alle frakoblingssteder skal være tydeligt markeret med skilt om, at der  
+
+ arbejdes på tavlen.
+Skiltet må kun fjernes af den for arbejdet ansvarlige  
+
+ person.
+ 7.5 Kontrol af spændingsløs tilstand.
+ 7.5.1 Det skal på forsvarlig måde konstateres, at alle delene i  
+
+ arbejdsområdet er spændingsløse.
+ 7.6 Før arbejdets begyndelse.
+7.6.1 Ingen må påbegynde arbejde på eller nær ved spændingsløse  
+
+ tavleanlæg, før - frakobling, - sikring mod indkobling, - kontrol af spændingsløs tilstand er gennemført.
+ 7.7 Ophævelse af sikkerhedsforanstaltninger.
+ 7.7.1 Ingen sikkerhedsforanstaitning må ophæves, før alle ved arbejdet  
+
+ beskæftigede er blevet gjort bekendt med, at sikkerhedsforanstaltningerne vil  
+
+ blive ophævet, og at arbejdsområdet herefter skal betragtes som  
+
+ spændingsførende.
+ 7.7.2 Indkobling må først finde sted, når alle de for arbejdet trufne  
+
+ sikkerhedsforanstaltninger er ophævet.
+§ 8 Sikkerhedsforanstaltninger ved arbejde på eller nær ved tavleanlæg under  
+
+ spænding (L-AUS) 8.1 Personale.
+ 8.1.1 Arbejde på tavleanlæg under spænding skal udføres af personer, der  
+
+ har kendskab til og erfaring i de arbejdsoperationer, der skal udføres.
+ De pågældende personer skal instrueres i L-AUS bestemmelserne mindst en  
+
+ gang om året.
+ Undtagelse:
+ Personer under oplæring kan udføre L-AUS under tilsyn af en erfaren  
+
+ person.
+ 8.2 Nødvendigt mandskab.
+ 8.2.1 Ved L-AUS, der udføres af en person, skal der altid findes en anden  
+
+ person så nær ved arbejdspladsen, at han efter behov hurtigt kan gribe ind.  
+
+ Denne person skal instrueres om, hvordan han bedst muligt kan gribe ind.
+ Undtagelse:
+ Følgende arbejder tillades udført af een person, uden at der er en anden  
+
+ person til stede:
+ - Fejlsøgning, justering og måling, hvortil spænding er nødvendig.
+ - Opsætning og udskiftning af målere, hvor klemmerne er beskyttet af  
+
+ maksimalt 63 A sikringer.
+ - Arbejde i arbejdsområder, hvor alle spændingsførende dele er beskyttet  
+
+ af maksimalt 63 A sikringer.
+ 8.3 Værktøj og udrustning.
+ 8.3.1 Værktøj og udrustning skal være egnet til anvendelse ved det  
+
+ foreliggende arbejde og periodisk kontrolleres i betryggende omfang for  
+
+ eventuelle fejl og mangler.
+ I bilag 3 er angivet retningslinier for opfyldelse af bestemmelsen.
+ 8.4 Sikkerhedsforanstaltninger.
+8.4.1 Der skal gennemføres hensigtsmæssige sikkerhedsforanstaltninger for  
+
+ under arbejdet at sikre, - at kortslutning eller jordslutning ikke forårsages af værktøj eller  
+
+ materiel, og - at ingen kommer i direkte berøring med spændingsførende dele.
+ 8.4.2 Afhængig af anlæggets og arbejdets art skal der anvendes et eller  
+
+ flere af følgende beskyttelsesmidler:
+ - Personlig beskyttelsesudrustning, herunder bl.a. isolerende handsker,  
+
+ eventuelt suppleret med beskyttelseshandsker.
+ - Isolerende afskærmning.
+ - Isolerende værktøj.
+ 8.5 Før arbejdets begyndelse.
+8.5.1 L-AUS-montøren skal - orientere sig om arbejdets omfang, - orientere sig om arbejdspladsens afgrænsning, - kontrollere, at værktøj og beskyttelsesudrustning er i overensstemmelse  
+
+ med bilag 3 og andre gældende bestemmelser, - orientere eventuelle hjælpere eller medarbejdere og andre personer, der  
+
+ berøres af L-AUS, om arbejdets omfang og varighed, - orientere sig om, hvad der skal foretages, såfremt uheld indtræffer, - orientere sig om nærliggende spændingsførende eller jordede dele.
+ 8.6 Under arbejdet.
+ 8.6.1 Arbejdet skal afbrydes, såfremt der under arbejdet indtræffer  
+
+ omstændigheder, der gør afbrydelse påkrævet.
+ Eksempler:
+ Vejrforholdene gør det uforsvarligt at fortsætte arbejdet.
+ Der opstår fejl på isolerende værktøj og udrustning.
+ 8.7 Efter arbejdet.
+ 8.7.1 Det skal påses, at værktøj og udrustning fjernes ved arbejdets  
+
+ afslutning.
+§ 9 Reparation af materiel 9.1 Almindeligt.
+ 9.1.1 Reparation af brugsgenstande og hjælpeapparater skal såvel i  
+
+ elektroteknisk som i håndværksmæssig henseende udføres forsvarligt og godt.  
+
+ Brugsgenstande og hjælpeapparater må ved reparationen ikke bringes i en  
+
+ tilstand, der strider imod bestemmelserne for materiel af den pågældende art.
+ 9.2 Kontrol af isolation.
+ 9.2.1 Isolationsmodstanden skal efter reparationen måles med et  
+
+ prøveapparat, der opfylder bestemmelserne i § 2.2.2.
+ Isolationsmodstanden i forhold til metalliske ydre steldele skal for  
+
+ reparerede brugsgenstande og hjælpeapparater mindst være 0,5 M ohm.
+ 9.2.2 Er der foretaget reparation eller fornyelse af en vikling eller et  
+
+ varmelegeme i en brugsgenstand eller et hjælpeapparat, skal der foretages en  
+
+ spændingsprøve, som angivet i § 9.2.3.
+ Undtagelse:
+ Spændingsprøven kræves ikke foretaget på brugsgenstande og  
+
+ hjælpeapparater, hvori der anbringes fabriksnye komponenter, der er således  
+
+ konstrueret, at der ikke kan fremkomme utilstrækkelig isolation på grund af  
+
+ forhold ved anbringelsen.
+ Angående udførelse og drift af spændingsprøveapparat, se afsnit 9, § 11.3.
+9.2.3 Ved spændingsprøvning skal spændingen reguleres jævnt op fra højst  
+
+ 500 V til den i følgende tabel angivne værdi og holdes på denne værdi i 1  
+
+ minut.
+Anvendelse af højere prøvespænding end foreskrevet eller påvirkning  
+
+ med prøvespændingen i for lang tid må ikke finde sted, da isolationen derved  
+
+ kan ødelægges.
+ For separate motorer kan anvendes de prøvespændinger, som er angivet i  
+
+ DS/IEC 34-1.
+ Udskiftes alle elektriske komponenter i brugsgenstande og hjælpeapparater,  
+
+ skal isolationen kunne modstå de prøvespændinger, der er foreskrevet for  
+
+ tilsvarende nye brugsgenstande og hjælpeapparater.
+ Ved prøven må der ikke ske gennemslag.
+ 9.3 Forholdsregler ved konstatering af fejl.
+ 9.3.1 Hvis reparatøren har konstateret, at brugsgenstanden eller  
+
+ hjælpeapparatet ikke har foreskreven isolationsmodstand, eller at den på  
+
+ anden måde ikke er i overensstemmelse med stærkstrømsreglementets  
+
+ bestemmelser, skal han gøre ejeren (brugeren) opmærksom på de konstaterede  
+
+ mangler og på den fare og det ansvar. som er forbundet med ikke at lade disse  
+
+ afhjælpe.
+1980-07-01 9.4 Eksplosionsbeskyttet materiel.
+ 9.4.1 Reparation af eksplosionsbeskyttet materiel må kun foretages under  
+
+ ansvar af et firma, der fremstiller eksplosionsbeskyttet materiel af den  
+
+ pågældende art.
+ Se også afsnit 50, § 25.2.
+ Undtagelse:
+ Reparationsarbejder. som ikke vedrører den eksplosionssikre kapsling. kan  
+
+ udføres af kvalificerede firmaer under ansvar af sagkyndige personer.
+ Elektroinstallatører er berettiget til at påtage sig ansvaret for  
+
+ udskiftning af sådanne enkeltdele i eksplosionsbeskyttet materiel, som ifølge  
+
+ materiellets konstruktion er beregnet til udskiftning på stedet med dele af  
+
+ tilsvarende udførelse.
+1985-10-01 Bilag 1 Bilaget er udgået.
+Bilag 2 Almindelig vejledning vedrørende gennemførelse af installationseftersyn 1 Almindeligt.
+ Ved eftersynet skal der foretages en grundig gennemgang af  
+
+ installationerne for påvisning af eventuelle fejl og mangler, hvis  
+
+ afhjælpning vil være påkrævet.
+ Installationerne skal være i overensstemmelse med de på tidspunktet for  
+
+ udførelsen eller de ved senere omlægninger gældende bestemmelser for  
+
+ installationers udførelse, se dog nedenfor vedrørende ekstrabeskyttelse.
+ Opmærksomheden henledes på bestemmelserne i § 5 med hensyn til afhjælpning  
+
+ af eventuelle fejl og mangler, som konstateres ved andre installationer end  
+
+ de af eftersynet omfattede i forbindelse med eftersynet.
+ 2 Ledninger i fast installation.
+ Ledningerne besigtiges i størst muligt omfang.
+Det påses, - at ledningerne ikke er beskadiget, - at ledningerne ikke er udsat for beskadigelse.
+ 3 Tilledninger.
+ Ledningerne besigtiges i størst muligt omfang.
+Det påses, - at ledningerne ikke er beskadiget, - at ledningerne ikke er udsat for beskadigelse, - at ledningerne er tilsluttet monteringsmateriellet på forskriftsmæssig  
+
+ måde.
+ 4 Monteringsmateriel, tavler, kanal- og skinnesystemer.
+ Materiellet besigtiges i størst muligt omfang.
+Det påses, - at materiellet er fastgjort solidt til underlaget, - at bestemmelserne vedrørende mærkning er opfyldt, - at bestemmelserne vedrørende berøringsbeskyttelse og kapsling er  
+
+ opfyldt, - at materiellet er omfattet af ekstrabeskyttelse i den udstrækning, dette  
+
+ kræves.
+ 5 Brugsgenstande.
+ Brugsgenstandene besigtiges i størst muligt omfang.
+Det påses, - at bestemmelserne vedrørende berøringsbeskyttelse og kapsling er  
+
+ opfyldt, - at brugsgenstandene er ekstrabeskyttet i den udstrækning, dette kræves.
+ 6 Overstrømsbeskyttelse.
+ Hvor der ved eftersynet fremkommer oplysninger eller konstateres forhold,  
+
+ der kan vække mistanke om ukorrekt overstrømsbeskyttelse, kontrolleres  
+
+ sikringernes mærkestrøm og overstrømsafbrydernes indstilling.
+Opmærksomheden skal være særlig henledt på - ledningernes varmeafledningsforhold og omgivelsestemperatur samt  
+
+ antallet af sideløbende ledere, - sikringer og overstrømsafbrydere for motorer til arbejdsmaskiner.
+ 7 Ekstrabeskyttelse.
+ Ekstrabeskyttelse udført ved fejlstrømsafbryder, fejlspændingsafbryder,  
+
+ nulling eller jording kontrolleres i videst muligt omfang efter  
+
+ bestemmelserne i afsnit 11, § 2.3.
+ Effektiviteten af ekstrabeskyttelsen skal altid kontrolleres, hvor der ved  
+
+ eftersynet fremkommer oplysninger eller konstateres forhold, der kan vække  
+
+ mistanke om, at ekstrabeskyttelsen ikke er effektiv.
+ Hvor monteringsmateriel eller flere brugsgenstande er ekstrabeskyttet med  
+
+ fælles fejlstrømsafbryder eller fælles fejlspændingsafbryder, kan en krævet  
+
+ udløseprøve foretages alene ved en enkelt af de ekstrabeskyttede dele.
+ 8 Isolationsmåling.
+ Der foretages isolationsmåling af installationer og brugsgenstande, hvor  
+
+ der ved eftersynet fremkommer oplysninger eller konstateres forhold, der kan  
+
+ vække mistanke om isolationsfejl.
+ Der skal altid foretages isolationsmåling af dele, der som følge af fugt,  
+
+ mekanisk beskadigelse, ældning eller termisk påvirkning kan være behæftet med  
+
+ fejl.
+ 9 Øjeblikkelige foranstaltninger.
+ Såfremt der ved eftersynet konstateres fejl eller mangler (herunder  
+
+ isolationsfejl), som skønnes at medføre væsentlig fare, skal  
+
+ installationsejeren (brugeren) gøres bekendt med disse og med det ansvar, som  
+
+ er forbundet med ikke at lade fejlene eller manglerne afhjælpe øjeblikkeligt,  
+
+ eller med ikke at lade den pågældende del af installationerne afbryde  
+
+ øjeblikkeligt.
+1983-07-01 Bilag 3 Værktøj og udrustning for L-AUS Almindeligt.
+ I henhold til § 8.3.1 skal værktøj og udrustning være egnet til anvendelse  
+
+ ved det foreliggende arbejde og periodisk kontrolleres i betryggende omfang.
+ Til vejledning for opfyldelse af bestemmelsen angives nedenstående  
+
+ retningslinier.
+ Isolerende håndværktøj.
+ Der kan anvendes isolerende håndværktøj, der er i overensstemmelse med  
+
+ publikation IEC 900, den svenske standard SEN 21 50 02 (1977-07-01) eller den  
+
+ tyske standard VDE 0680, Teil 2/3.78.
+ Isolerende handsker.
+ Der kan anvendes isolerende handsker, der er i overensstemmelse med  
+
+ publikation IEC 903. På anlæg med spænding på maksimalt 1 000 V vekselstrøm  
+
+ kan desuden anvendes isolerende handsker der er afprøvet i overensstemmelse  
+
+ med den svenske standard SEN 21 50 01 (1976-11-15) eller den tyske standard  
+
+ VDE 0680, Teil 1a/1.77, eller den engelske standard BS 697: 1977.
+ Beskyttelseshandsker.
+Anvendes supplerende handsker til beskyttelse af de isolerende handsker,  
+
+ skal disse beskyttelseshandsker være udformet på en sådan måde, at de ikke  
+
+ under brugen kan beskadige de isolerende handsker.
+Manchetten på  
+
+ beskyttelseshandskerne skal være kortere end manchetten på de isolerende  
+
+ handsker.
+ Sikkerhedshjelm.
+ Sikkerhedshjelme skal være type B-hjelme, fabrikeret og afprøvet efter DS  
+
+ 973.1. Hjelme skal tillige være isolerende.
+ Ansigtsskærm.
+ Indtil IEC norm foreligger, kan der anvendes ansigtsskærme, som er  
+
+ fabrikeret og afprøvet i overensstemmelse med den tyske VDE-norm 0680, Teil  
+
+ 1a/1.77.
+ Afskærmninger.
+ Indtil IEC norm foreligger, kan der anvendes isolerende afskærmninger af  
+
+ følgende typer:
+ - Isolerende skærmduge med en isolertykkelse på mindst 0,5 mm.
+ - Isolerende rørformede afdækninger eller formstøbte afdækninger med en  
+
+ isolertykkelse på mindst 1,0 mm.
+ - Isolerende beskyttelsesmåtter med en isolertykkelse på mindst 2,5 mm.  
+
+ Måtterne bør ikke være mindre end 1 x 1 m og bør være skridsikre på begge  
+
+ sider.
+ Periodisk kontrol.
+ Den periodiske kontrol skal afpasses efter omfanget af brugen af værktøj  
+
+ og udrustning, dog skal kontrollen foretages mindst en gang om året.  
+
+ Kontrollen skal udføres af sagkyndigt personale.
+ Kontrollen skal omfatte en særlig omhyggelig undersøgelse af værktøj og  
+
+ udrustning med henblik på i rimeligt omfang at konstatere, hvorvidt værktøj  
+
+ og udrustning er i god stand og fremdeles opfylder gældende normer og øvrige  
+
+ anvisninger.
+Eksempelvis bør kontrollen af isolerende handsker omfatte - en grundig besigtigelse af handskerne, - en strækning af handskerne, - en afprøvning af handskerne med luftpumpe til konstatering af, hvorvidt  
+
+ handskernes isolerende evne og mekaniske styrke er til stede.
+ Konstaterede fejl og mangler, som kan forårsage fare, skal afhjælpes på  
+
+ betryggende måde, eller det skal sikres, at det pågældende materiel ikke  
+
+ anvendes til L-AUS.
+ For så vidt angår kontrol af transportable motordrevne og elektromagnetisk  
+
+ drevne håndværktøjer henvises til bestemmelserne i afsnit 11, § 3.2.2. med  
+
+ tilhørende note.

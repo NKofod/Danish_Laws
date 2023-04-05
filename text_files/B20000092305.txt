@@ -1,0 +1,202 @@
+Bekendtgørelse om sikkerhedskrav m.v.  
+
+ til nøglecentre1) I medfør af § 5, stk. 3, § 6, stk. 3, § 8,  
+
+ stk. 4, § 9, stk. 5 og § 10, stk. 4, i lov nr. 417  
+
+ af 31. maj 2000 om elektroniske signaturer fastsættes:
+Kapitel 1 Anvendelsesområde § 1. Denne bekendtgørelse  
+
+ omfatter:
+ 1)	Sikkerhedskrav m.v. til nøglecentres virksomhed.
+ 2)	Identitetskontrol af underskriveren forud for udstedelsen af et  
+
+ kvalificeret certifikat.
+ 3)	Oplysningsforpligtelse i forbindelse med indgåelse af  
+
+ kundekontrakter.
+ 4)	Katalog- og tilbagekaldelsestjeneste vedrørende kvalificerede  
+
+ certifikater.
+Kapitel 2 Sikkerhedskrav m.v. til nøglecentres  
+
+ virksomhed § 2. Et nøglecenter skal i en  
+
+ certifikatpolitik (»CP«) angive det sikkerhedsniveau, nøglecentret  
+
+ anvender i forbindelse med udstedelse og administration af kvalificerede  
+
+ certifikater.
+Nøglecentrets certifikatpolitik skal være  
+
+ offentligt tilgængelig.
+ Stk. 2. Nøglecentret skal endvidere i en  
+
+ certificeringspraksis (»CPS«) beskrive de procedurer, som nøglecentret  
+
+ og de virksomheder og myndigheder, som nøglecentret har outsourcet  
+
+ opgaver til, anvender i forbindelse med udstedelse og administration af  
+
+ kvalificerede certifikater.
+ Stk. 3. Nøglecentrets certificeringspraksis eller dele  
+
+ heraf skal være offentligt tilgængelig med henblik på at  
+
+ give underskrivere og tredjemand mulighed for at vurdere, hvorvidt  
+
+ procedurerne heri overholder kravene i nøglecentrets  
+
+ certifikatpolitik.
+ Stk. 4. Et nøglecenters certifikatpolitik og  
+
+ certificeringspraksis skal godkendes af nøglecentrets daglige  
+
+ ledelse.
+§ 3. Nøglecentret skal træffe  
+
+ passende foranstaltninger for at sikre, at nøglecentrets drift  
+
+ hurtigst muligt kan genoptages i tilfælde af systemnedbrud,  
+
+ såfremt nøglecentrets private nøgle er blevet  
+
+ kompromitteret, eller der er mistanke herom.
+Nøglecentret skal  
+
+ fastsætte procedurer for det tilfælde, at nøglecentret  
+
+ ophører med sin virksomhed.
+ § 4. Nøglecentret skal kontrollere, at  
+
+ ledere og medarbejdere, der skal udføre betroede opgaver i eller for  
+
+ nøglecentret, ikke er straffet for en forbrydelse, der gør dem  
+
+ uegnede til at bestride deres hverv.
+§ 5. Et nøglecenter skal tegne en  
+
+ forsikring eller en garanti, der dækker mod skader opstået i  
+
+ forbindelse med dets virksomhed.
+Dækningssummen på denne  
+
+ sikkerhed skal stå i et rimeligt forhold til omfanget og karakteren af  
+
+ de aktiviteter, som nøglecentret udøver.
+Sikkerhedsstiller kan  
+
+ være et forsikringsselskab, et pengeinstitut eller andet finansielt  
+
+ institut, hvis garanti indebærer en tilsvarende sikkerhed.  
+
+ Telestyrelsen kan dispensere fra kravet i 1. pkt., såfremt  
+
+ nøglecentret er en offentlig myndighed, der er selvforsikret.
+Kapitel 3 Identitetskontrol § 6. Forud for udstedelse af et kvalificeret  
+
+ certifikat skal underskriveren over for nøglecentret fremvise relevant  
+
+ legitimation, der mindst skal omfatte navn, adresse, CPR-nummer, eller anden  
+
+ lignende dokumentation, hvis den pågældende ikke har CPR-nummer,  
+
+ samt dokumentation for andre forhold vedrørende underskriveren, som  
+
+ skal fremgå af certifikatet.
+ Stk. 2. Underskriveren skal være fysisk tilstede i  
+
+ forbindelse med, at identitetskontrollen foretages, jf. dog stk. 3.
+ Stk. 3. Såfremt nøglecentret på  
+
+ forhånd har kendskab til underskriverens person, kan kravet i  
+
+ stk. 2 dog fraviges.
+ § 7. Nøglecentret kan anvende andre  
+
+ betryggende procedurer til at foretage identitetskontrol i forbindelse med  
+
+ fornyelse af et kvalificeret certifikat, såfremt underskriveren anmoder  
+
+ herom inden udløbet af certifikatets gyldighedsperiode, og  
+
+ certifikatet på tidspunktet for anmodningen ikke er spærret eller  
+
+ suspenderet.
+ § 8. Nøglecentret kan udpege andre  
+
+ virksomheder eller myndigheder som lokale registreringsenheder til at  
+
+ foretage den i §§ 6 og 7 nævnte identitetskontrol af  
+
+ underskriveren på vegne af nøglecentret.
+ § 9. Nøglecentret skal offentliggøre  
+
+ oplysning om de procedurer, som nøglecentret anvender i relation til  
+
+ identitetskontrol, jf. §§ 6-8.
+Kapitel 4 Oplysningsforpligtelse i forbindelse med indgåelse  
+
+ af kundekontrakter § 10. I forbindelse med indgåelse af en  
+
+ aftale om udstedelse af et kvalificeret certifikat skal nøglecentret,  
+
+ udover hvad der kræves i medfør af § 8, stk. 1-3, i  
+
+ lov om elektroniske signaturer, oplyse underskriveren om:
+1)	Dennes ansvar og pligter, 2)	nøglecentrets certifikatpolitik og underskriverens adgang til  
+
+ nøglecentrets certificeringspraksis, jf. § 2, stk. 3, 3)	underskriverens, nøglecentrets og eventuelt andre personers  
+
+ mulighed for at spærre eller suspendere et certifikat, 4)	udløb af certifikatet, 5)	nøglecentrets opbevaring af oplysninger om certifikatet,  
+
+ herunder opbevaringsperioden, 6)	nøglecentrets ansvar og pligter, 7)	en eventuel lokal registreringsenheds ansvar og pligter, 8)	mulighed for overdragelse af certifikatet og 9)	eventuelt tredjemands ansvar og pligter.
+Kapitel 5 Katalog- og tilbagekaldelsestjeneste § 11. Nøglecentret skal sikre adgang til  
+
+ dets katalog- og tilbagekaldelsestjeneste 24 timer i døgnet.
+Stk. 2. Nøglecentret skal spærre eller eventuelt  
+
+ suspendere et kvalificeret certifikat straks efter at have modtaget anmodning  
+
+ herom fra underskriveren eller en anden person, som er berettiget hertil.  
+
+ Såfremt omstændighederne i øvrigt tilsiger dette, skal  
+
+ nøglecentret straks spærre eller suspendere et kvalificeret  
+
+ certifikat.
+Nøglecentret skal som minimum sørge for, at  
+
+ anmodninger om spærring eller suspendering kan ske telefonisk.
+Stk. 3. Nøglecentret skal mindst en gang dagligt  
+
+ offentliggøre en liste over spærrede eller suspenderede  
+
+ kvalificerede certifikater.
+Det skal fremgå af listen, hvornår  
+
+ den vil blive opdateret næste gang, samt at nøglecentret kan  
+
+ foretage en ekstraordinær opdatering af listen før det angivne  
+
+ tidspunkt.
+ Stk. 4. Nøglecentret skal offentliggøre  
+
+ oplysning om de procedurer, som nøglecentret anvender i relation til  
+
+ dets katalog- og tilbagekaldelsestjeneste.
+Kapitel 6 Ikrafttrædelse § 12. Bekendtgørelsen træder i kraft  
+
+ den 16. oktober 2000.
+Forskningsministeriet, den 5. oktober  
+
+ 2000 Birte Weiss /Sune Rahn 1)   Denne  
+
+ bekendtgørelse gennemfører dele af Europa-Parlamentets og  
+
+ Rådets direktiv 1999/93/EF af 13. december 1999 om en  
+
+ fællesskabsramme for elektroniske signaturer (EF-Tidende 2000 nr.
+L 13,  
+
+ s. 12).

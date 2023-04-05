@@ -1,0 +1,4786 @@
+Indledning.
+Ikrafttrædelse 1 Almindeligt.
+1.1 Gyldighedsområde 1.2 Formål 1.3 Ekstra brugerkrav 1.4 Almindelige betingelser for funktion, transport og oplagring 1.4.1 Omgivelsestemperatur 1.4.2 Højde over havet 1.4.3 Atmosfæriske forhold 1.4.4 Installations- og driftsforhold 1.4.5 Transport og oplagring 2 Definitioner.
+2.1 Elektronisk materiel 2.2 Sammenbygning 2.3 Kapsling 2.4 Ledningskanal 2.5 Beskyttelsesrør 2.6 Spændingsførende del 2.7 Udsat del 2.8 Beskyttelsesleder 2.9 Beskyttelseskreds 2.10 Effektkreds 2.11 Styrekreds 2.12 Signalkreds 2.13 Komponent 2.14 Koblingsapparat 2.15 Styremateriel 2.16 Styreorgan 2.17 Mærkning 2.18 Referencebetegnelse 2.19 Serviceplan 2.20 Instruerede personer 2.21 Sagkyndige personer 3 Advarselstegn, mærkning, referencebetegnelse og teknisk dokumentation.
+3.1 Advarselstegn, mærkning og referencebetegnelse 3.1.1 Advarselstegn på kapslinger 3.1.2 Mærkning af sammenbygninger 3.1.3 Mærkning af styremateriel 3.1.4 Mærkning af udskiftelige komponenter 3.1.5 Referencebetegnelser for komponenter, materiel, klemmer, ledninger  
+
+ og ledere 3.1.6 Funktionsmærkning af styreorganer 3.2 Teknisk dokumentation 3.2.1 Almindeligt 3.2.2 Fortegnelse over de forskellige typer dokumentation 3.2.3 Krav gældende for alle dokumenter 3.2.4 Krav til de enkelte dokumenter 3.2.4.1 Installationstegning 3.2.4.2 Oversigtsskema 3.2.4.3 Kredsskema 3.2.4.4 Beskrivelse af funktionsrækkefølge og/eller sekvensdiagram 3.2.4.5 Ydre forbindelsesskema 3.2.4.6 Stykliste 3.2.4.7 Vedligeholdelsesinstruktion 3.2.4.8 Bestykningsskema eller -tabel 3.2.4.9 Fortegnelse over slid- og reservedele 4 Almindelige bestemmelser.
+4.1 Komponenter og indretninger 4.1.1 Bestemmelser 4.1.2 Begrænsning i anvendelse 4.2 Forsyning 4.3 Tilslutning til forsyningsnettet 5 Beskyttelsesforanstaltninger.
+5.1 Beskyttelse mod elektrisk chok 5.1.1 Beskyttelse mod direkte berøring 5.1.1.1 Beskyttelse ved kapsling 5.1.1.2 Beskyttelse ved isolation af spændingsførende dele 5.1.2 Beskyttelse mod indirekte berøring 5.1.2.1 Beskyttelse ved automatisk afbrydelse af forsyningen 5.1.2.1.1 Beskyttelseskredse, almindeligt 5.1.2.1.2 Beskyttelseskredsens sammenhæng 5.1.2.1.3 Forbud mod indretninger, der kan koble eller afbryde  
+
+ beskyttelseskredsen 5.1.2.1.4 Afbrydelse af beskyttelseskredsen med stikprop 5.1.2.1.5 Beskyttelseskredsens ledertværsnit 5.1.2.1.6 Klemme for den ydre beskyttelsesleder (hovedjordklemme) 5.1.2.1.7 Manuelle styreorganer 5.1.2.1.8 Dele, som ikke nødvendigvis skal forbindes med  
+
+ beskyttelseskredsen 5.1.2.2 Beskyttelse ved anvendelse af materiel af klasse II eller med  
+
+ tilsvarende isolation 5.1.2.3 Beskyttelse ved anvendelse af funktionsmæssig ekstra lav spænding  
+
+ (FELV) 5.1.2.4 Beskyttelse ved separat strømkreds 5.1.3 Beskyttelse mod både direkte og indirekte berøring ved anvendelse af  
+
+ ekstra lav maskinspænding (MELV) 5.1.4 Restspændinger 5.2 Kortslutningsbeskyttelse 5.2.1 Generel beskyttelse 5.2.2 Beskyttelse af strømkredse og afgreninger 5.2.2.1 Beskyttelse med sikringer eller maksimalafbrydere 5.2.2.2 Beskyttelse med relæer 5.2.3 Mærke- og indstillingsværdier for indretninger til  
+
+ kortslutningsbeskyttelse 5.2.4 Ledninger mellem afgreningspunkter og afgreningens  
+
+ beskyttelsesindretning 5.3 Overbelastningsbeskyttelse 5.3.1 Motorbeskyttelse 5.3.2 Automatisk genstart 5.3.3 Beskyttelse af stikkontakter 5.4 Beskyttelse mod automatisk genstart efter spændingsbortfald 5.5 Underspændingsbeskyttelse 5.6 Nødstop og forsyningsadskiller 5.6.1 Nødstop 5.6.2 Forsyningsadskiller 5.7 Beskyttelse ved fejl 5.8 Radiostøj 6 Styre- og signalkredse.
+6.1 Forsyning og beskyttelse af styre- og signalkredse 6.1.1 Anvendelse af transformere 6.1.2 Direkte tilslutning til forsyningen 6.1.3 Flere transformere 6.1.4 Overstrømsbeskyttelse 6.2 Styrekredse 6.2.1 Foretrukne værdier for styrespændinger 6.2.2 Beskyttelse mod utilsigtet funktion ved jordfejl 6.2.3 Forbindelse af spoler, kontakter, indgangs- og udgangsenheder 6.2.3.1 Forbindelse af spoler og kontakter 6.2.3.2 Forbindelse af indgangs- og udgangsenheder 6.2.4 Beskyttende tvangskoblinger 6.2.4.1 Drift af hjælpefunktioner 6.2.4.2 Tvangskobling mellem forskellige arbejdsoperationer 6.2.4.3 Tvangskobling mellem modsat rettede bevægelser 6.2.4.4 Modstrømsbremsning 6.2.4.5 Hastighedsbeskyttelse af jævnstrømsmotorer 6.2.4.6 Begrænsning af bevægelser 6.2.4.7 Beskyttende afskærmninger 6.2.5 Start- og stopfunktioner 6.2.6 Start af arbejdscyklus 6.2.6.1 Start af arbejdscyklus med flere trykknapper 6.2.6.2 Automatisk stop efter afslutning af en arbejdscyklus og  
+
+ forhindring af arbejdscyklens gentagelse 6.2.6.3 Tohåndsbetjening 6.2.6.4 Start af motorer fra een station 6.2.7 Nødstop 6.2.8 Manuel betjening af automatiske maskiner 6.2.9 Styring af rækkefølge ved automatisk drift 6.2.9.1 Elektrisk overvågning af bevægelser 6.2.9.2 Kontrol af, at visse arbejdsoperationer er udført 6.2.9.3 Indbyrdes afhængige bevægelser 6.3 Signalkredse 7 Mekanisk udførelse, placering af elektrisk materiel.
+7.1 Bestemmelser gældende for alt elektrisk materiel 7.1.1 Placering af elektrisk materiel 7.1.2 Tilgængelighed 7.1.3 Krybestrækninger og luftafstande 7.2 Sammenbygninger 7.2.1 Kapslingsklasser 7.2.2 Åbninger 7.2.3 Døre 7.2.4 Anbringelse af elektrisk materiel 7.2.5 Ikke-elektriske dele og indretninger 7.2.6 Montering og håndtering af sammenbygninger 8 Styremateriel.
+8.1 Almindeligt 8.1.1 Placering og montering 8.1.2 Beskyttelse 8.1.3 Plug-in styremateriel 8.1.4 Positionsfølere (incl. berøringsfri følere) 8.1.5 Elektromagneter 8.1.6 Tryk- og temperaturfølere 8.2 Signallamper og håndbetjente styrekontakter 8.2.1 Kontakters tilgængelighed 8.2.2 Beskyttelse mod ydre påvirkninger 8.2.3 Trykknapper 8.2.3.1 Trykknappers indbyrdes placering 8.2.3.2 Farver på trykknapper 8.2.3.2.1 Stop-, ud- eller nødstop-trykknapper 8.2.3.2.2 Start- eller ind-trykknapper 8.2.3.2.3 Start/stop eller ind/ud i samme trykknap 8.2.3.2.4 Resettrykknapper 8.2.3.2.5 Anbefalet eller forskrevet anvendelse af farver på trykknapper 8.2.3.3 Mærkning af trykknapper 8.2.3.4 Paddehattrykknapper 8.2.4 Signallamper 8.2.4.1 Anvendelsesmåde 8.2.4.2 Blinkende lamper 8.2.4.3 Farver på signallamper 8.2.5 Trykknapper med indbygget lys 8.2.5.1 Almindeligt 8.2.5.2 Anvendelsesmåder 8.2.5.3 Anvendelse 9 Ledninger og ledere.
+9.1 Ledertyper og ledningstyper 9.2 Ledningsisolation 9.3 Ledertværsnit 9.3.1 Strømværdi 9.3.2 Spændingsfald 9.3.3 Mindste ledertværsnit for kobberledere 10 Ledningssystemets udførelse.
+10.1 Almindeligt 10.1.1 Forbindelser 10.1.2 Ledningsføring 10.1.3 Forbindelser til bevægelige dele 10.1.4 Ledere i forskellige strømkredse 10.1.5 Forbindelser ved lodning 10.1.6 Klemmer og dåser 10.2 Identifikation af ledere 10.2.1 Identifikation af beskyttelsesledere (PE) og nulledere (N) 10.2.2 Identifikation af andre ledere 10.3 Ledningssystemer inde i kapslinger 10.3.1 Indre ledningskanaler 10.3.2 Forbindelsesklemmer og stikkontaktforbindelser 10.3.3 Målepunkter 10.4 Ledningssystemer uden for kapslinger 10.4.1 Ydre ledningskanaler 10.4.2 Forbindelser til maskindele, der bevæger sig 10.4.3 Forbindelser mellem maskinens elektriske indretninger 10.4.4 Stikkontaktforbindelser 10.4.5 Demontering for transport 10.4.6 Reserveledere 11 Elektromotorer.
+11.1 Almindelige bestemmelser 11.2 Dimensioner 11.3 Driftsegenskaber 11.4 Kapslingstype 11.5 Mekaniske vibrationer 11.6 Startmetode 11.7 Montage 11.8 Mærkeskilt 12 Tilslutning af tilbehør og maskinbelysning.
+12.1 Tilslutning af tilbehør 12.1.1 Forsyning 12.1.2 Beskyttelse 12.2 Arbejdsbelysning 12.2.1 Forsyning 12.2.2 Beskyttelse af belysningskredse 12.2.3 Belysningsarmaturer 12.2.4 Lysstofrør 13 Prøvning.
+13.1 Isolationsprøve 13.2 Spændingsprøve 13.3 Beskyttelseskredsens sammenhæng 13.4 Funktionsprøver 13.4.1 Rutineprøve med maskinen i tomgang 13.4.2 Typeprøve af maskinens funktion under belastning 14 Spørgeskema Tillæg A Spørgeskema for elektrisk materiel på industrimaskiner B Strømværdi og kortslutningsbeskyttelse af ledninger med isolation af  
+
+ polyvinylklorid (PVC) i elektrisk materiel på industrimaskiner B1 Strømværdier for ledninger B2 Kortslutningsbeskyttelse af ledninger C Sammenligning af ledertværsnit i British Standard Wire Gauge (SWG) og  
+
+ American Wire Gauge (AWG) med mm2, in2 og circular mils D Referencebetegnelse E Eksempler på tegninger, tabeller og instruktioner F Fortegnelse over internationale publikationer, hvortil der henvises i  
+
+ afsnit 15-1 (EN 60 204-1) G Original tekst fra gyldighedsområde i IEC 204-1 (1981) GD Original IEC-tekst til paragraffer, som er ændret af CENELEC (excl. 1,  
+
+ se tillæg G) Stikordsregister Indledning Afsnit 15-1, 1. udgave, er udgivet af Elektricitetsrådet med gyldighed fra  
+
+ 1. oktober 1986 og erstatter afsnit 15, 1. udgave.
+ Afsnit 15-1 er en oversættelse af den af CENELEC udgivne europæiske  
+
+ standard:
+EN 60204-1 Electrical equipment of industrial machines Part 1: General requirements (EN 60 204, Part 1, May 1984) Den europæiske standard er baseret på publikation IEC 204-1, Second  
+
+ edition, 1981, men har i forhold til denne en række fælles CENELEC-ændringer.
+ Oversættelsen gælder som danske bestemmelser, med de forklaringer, der er  
+
+ anført på særlige blade.
+Eventuelle fremtidige ændringer og nye bestemmelser vil, indtil en ny  
+
+ udgave udgives, fremkomme på erstatningsblade, hvorpå de vil blive markeret i  
+
+ margenen med angivelse af ikrafttrædelsesdato.
+Udsendelse af erstatningsblade  
+
+ vil blive offentliggjort i ELRÅD-meddelelser og i de tekniske blade.
+ Forskellige skrifttyper er anvendt for:
+Bestemmelser for elektronisk materiel Bestemmelser for andet elektrisk materiel Ekstra brugerkrav Forklaringer I dette afsnit er der henvist til en række internationale publikationer,  
+
+ se fortegnelsen i tillæg F.* * En fortegnelse over de publikationer, som er oversat og indført i  
+
+ stærkstrømsreglementet findes på side 12b.
+ En fortegnelse over de publikationer, som er harmoniseret i henhold til  
+
+ Lavspændingsdirektivet og indført som Dansk Standard, findes som bilag i  
+
+ afsnit 1.
+ Afsnittet indeholder følgende DK-forklaringsblade:
+Afsnit 15-1 Elektrisk materiel på industrimaskiner Del 1 Almindelige bestemmelser 1 Almindeligt 1.1 Gyldighedsområde.
+ Afsnit 15-1 gælder for elektrisk og elektronisk materiel på  
+
+ industrimaskiner, som ikke holdes i hånden under arbejdsprocessen, og som  
+
+ benyttes til at udføre industrielle processer på materialer eller emner.  
+
+ Afsnittet omfatter ikke alle de bestemmelser (f.eks. for afskærmning,  
+
+ tvangskobling og styring), som kan være nødvendige eller krævet (f.eks. i  
+
+ andre standarder eller forskrifter) for at beskytte personalet mod andre  
+
+ farer end elektriske, f.eks. hidrørende fra farlige maskindele, udslyngning  
+
+ af dele fra selve maskinen eller fra de bearbejdede emner.
+DK-forklaringer 1.1 Forklaring:
+ Hvor der i dette afsnit er henvist til internationale publikationer,  
+
+ henvises der, hvor tilsvarende bestemmelser er indført i  
+
+ stærkstrømsreglementet, i stedet til nedennævnte afsnit.
+1.1 Forklaring:
+ Arbejdstilsynet har supplerende bestemmelser.
+slut I disse bestemmelser betyder udtrykket elektrisk både elektrisk og  
+
+ elektronisk, f.eks. betyder elektrisk materiel, både det elektriske og det  
+
+ elektroniske materiel.
+ Bestemmelser, som kun gælder for elektronisk materiel, er trykt med  
+
+ halvfed skrift.
+ Ekstra brugerkrav er trykt med kursiv, se 1.3.
+Disse bestemmelser omfatter materiel, som er placeret efter det sted, hvor  
+
+ forsyningen er sluttet til maskinen, se 4.3.3. Bestemmelserne gælder for  
+
+ materiel, der forsynes med vekselspænding med en nominel spænding på  
+
+ maksimalt 1 000 V vekselstrøm mellem faserne og med en nominel frekvens på  
+
+ maksimalt 200 Hz.
+Ved frekvenser over 200 Hz kan opfyldelsen af særlige krav  
+
+ være nødvendig.
+ Bestemmelserne gælder også for strømkredse, hvis spænding ikke overstiger  
+
+ 1 000 V vekselstrøm selv om maskinens nominelle forsyningsspænding er højere  
+
+ end 1 000 V vekselstrøm mellem faserne.
+ For materiel, der forsynes med jævnspænding med en nominel spænding, som  
+
+ ikke overstiger 1 500 V jævnstrøm kan disse bestemmelser anvendes som  
+
+ vejledning.
+ Bestemmelserne omfatter, men deres anvendelse er ikke begrænset til, det  
+
+ elektriske materiel på maskiner til:
+ - Metalbearbejdning.
+ - Træbearbejdning.
+ - Støbning og ekstrudering af plast.
+ - Fremstilling af plastprodukter.
+ - Tekstil og beklædningsindustri.
+ - Fremstilling af læderprodukter.
+ - Fremstilling af gummiprodukter.
+ - Fremstilling af papirprodukter o.l.
+ - Grafisk industri.
+ - Nærings- og nydelsesmiddelindustri.
+ - Emballering.
+ Endvidere er det elektriske materiel på automatiske maskiner til montage,  
+
+ materialehåndtering (f.eks. transportbånd) og kontrol omfattet, når det hører  
+
+ til ovennævnte maskiner.
+Automatiske maskiner til montage kan indeholde svejsemateriel.
+For dette  
+
+ henvises til de bestemmelser, der gælder for elektrisk og elektronisk  
+
+ materiel for svejsning, skæring og tilhørende processer.
+Det elektriske og elektroniske materiel skal opfylde yderligere og  
+
+ specielle betingelser i overensstemmelse med de relevante standarder,  
+
+ forskrifter eller anerkendt praksis, når maskinen - anvendes i det fri, - anvender eller producerer eksplosive materialer, f.eks. maling eller  
+
+ savsmuld, - anvendes i miner, - anvendes i eksplosionsfarlige områder, - giver anledning til særlig risiko ved for- eller bearbejdning af visse  
+
+ materialer.
+ Disse bestemmelser gælder ikke for:
+ - Effektkredse, hvor den elektriske effekt direkte anvendes som værktøj  
+
+ (f.eks. svejsning, gnistbearbejdning, elektrokemiske processer).
+ - Elektrisk og elektronisk materiel, der anvendes ved produktion og  
+
+ fordeling af elektrisk energi.
+ - Maskiner, der anvendes til transport af personer.
+ - Kraner, elevatorer og transportbånd (medmindre de indgår som en del af  
+
+ en industrimaskine).
+ Bestemmelserne kan dog anvendes som grundlag for kravene til elektrisk  
+
+ materiel på maskiner eller dele af maskiner, som ligger uden for disse  
+
+ bestemmelsers gyldighedsområde.
+ Samspillet (interface) mellem den numeriske styring og den styrede maskine  
+
+ er behandlet i IEC 550.
+ 1.2 Formål.
+ Formålet med disse bestemmelser er at give detaljerede specifikationer af  
+
+ det elektriske materiel på industrimaskiner for at fremme:
+ Høj effektivitet må ikke opnås på bekostning af disse tre grundlæggende  
+
+ faktorer.
+ Formålet med spørgeskemaet i tillæg A er at lette aftalen mellem bruger og  
+
+ fabrikant om det elektriske materiels grundlæggende data.
+ 1.3 Ekstra brugerkrav.
+I disse bestemmelser er valgfri brugerkrav trykt med kursiv.
+Det drejer  
+
+ sig om ekstra krav, der har følgende formål:
+ - At lette vedligeholdelse og reparation af det elektriske materiel og af  
+
+ selve maskinen.
+ - At øge maskinens driftssikkerhed.
+ Et eksempel på anvendelse af disse ekstra krav er industrimaskiner, som  
+
+ indgår i større produktionslinier (transfermaskiner), maskiner til  
+
+ masseproduktion osv., hvor selv en kortvarig fejl kan have alvorlige  
+
+ økonomiske konsekvenser.
+Hvis disse ekstra brugerkrav skal opfyldes, skal der foreligge en aftale  
+
+ mellem bruger og fabrikant.
+Hvis en sådan aftale ikke er indgået, gælder de  
+
+ ekstra brugerkrav ikke.
+Hvis det er foreskrevet, at de ekstra brugerkrav skal  
+
+ overholdes, skal alle krav være opfyldt uden undtagelse.
+ 1.4 Almindelige betingelser for funktion, transport og oplagring.
+ 1.4.1 Omgivelsestemperatur.
+ Elektrisk materiel skal kunne fungere i omgivelsestemperaturer mellem +5  
+
+ og +40 graderC, og gennemsnitstemperaturen i en periode på 24 timer må ikke  
+
+ overstige 35 graderC.
+ Elektrisk materiel beregnet til drift i omgivelsestemperaturer over +40  
+
+ graderC (f.eks. i smedier og i tropiske lande) eller under +5 graderC skal  
+
+ enten være udført i overensstemmelse med de aktuelle temperaturforhold, som  
+
+ skal være angivet af brugeren, eller eventuelt skal materiellet anvendes ved  
+
+ en belastning, som er lavere end mærkeværdien, i overensstemmelse med  
+
+ fabrikantens anvisninger.
+ Fabrikanten skal tage hensyn til temperaturstigninger, der skyldes  
+
+ materiellets kapsling.
+ 1.4.2 Højde over havet.
+ Elektrisk materiel skal kunne fungere korrekt i højder op til 2 000 m over  
+
+ havoverfladen.
+ For elektronisk materiel er grænsen 1 000 m.
+ Elektrisk materiel, som kan blive brugt i større højder end 2 000 m, eller  
+
+ 1 000 m for elektronisk materiel, skal være konstrueret til den aktuelle  
+
+ anvendelseshøjde, som skal være angivet af brugeren, eller det skal anvendes  
+
+ ved en lavere belastning end mærkeværdien i overensstemmelse med fabrikantens  
+
+ anvisning af hensyn til luftens reducerede gennemslagsfeltstyrke og dens  
+
+ reducerede køleeffekt.
+ 1.4.3 Atmosfæriske forhold.
+Elektrisk materiel skal kunne fungere korrekt ved en relativ fugtighed,  
+
+ som - ved 40 graderC ikke overstiger 50 pct. og - ved 20 graderC og derunder ikke overstiger 90 pct.
+ Hvis der kan forekomme større relativ fugtighed eller unormalt store  
+
+ mængder støv, syre, ætsende luftarter, salte osv., er det nødvendigt, at der  
+
+ træffes en særlig aftale mellem fabrikant og bruger.
+ Luft med en relativ fugtighed på 50 pct. ved en temperatur på 40 graderC  
+
+ vil blive mættet (100 pct. relativ fugtighed), hvis den nedkøles til 28  
+
+ graderC.
+ Skadelige påvirkninger ved lejlighedsvis kondensdannelse skal undgås ved  
+
+ hensigtsmæssig udformning af materiellet og/eller, hvis det er nødvendigt,  
+
+ ved passende supplerende foranstaltninger, f.eks. ved indbygning af  
+
+ luftbehandlingsaggregat.
+ 1.4.4 Installations- og driftsforhold.
+Elektrisk materiel skal installeres og anvendes i overensstemmelse med  
+
+ fabrikantens anvisninger.
+Hvor særlige forhold forekommer, skal brugeren  
+
+ oplyse fabrikanten herom, se også tillæg A, spørgsmål 5.
+ 1.4.5 Transport og oplagring.
+Elektrisk materiel skal konstrueres, så det kan tåle opbevaring og  
+
+ transport ved temperaturer i området -25 til +55 graderC og i perioder, der  
+
+ ikke overstiger 24 timer, op til +70 graderC.
+Der skal tages passende  
+
+ forholdsregler for at forebygge ødelæggelse på grund af fugt,  
+
+ vibrationspåvirkninger og mekaniske stød.
+ Hvis det forventes, at ekstreme betingelser vil kunne forekomme, eller  
+
+ hvis det drejer sig om særlig følsomt materiel, skal der anbringes passende  
+
+ advarselsmærkning på transportemballagen, se også IEC 68-2-6, IEC 68-2-31 og  
+
+ IEC 68-2-32.
+2 Definitioner For disse bestemmelser gælder definitionerne i 2.1 til 2.21.
+ 2.1 Elektronisk materiel:
+ Del af det elektriske materiel, som indeholder kredse, hvor  
+
+ elektrontransporten foregår gennem et vakuum, en luftart eller en halvleder.
+ Eksempler på elektronisk materiel:
+ - Materiel med halvledere eller ventiler.
+ - Indikeringsindretninger, f.eks. for måling og kobling.
+ - Elektroniske styreenheder.
+ - Magnetiske forstærkere og mætningsreaktorer.
+ - Industrielt databehandlingsudstyr.
+ - Materiel og dele, der elektrisk eller mekanisk er sammenkoblet med  
+
+ elektroniske strømkredse (transducere, transformere, modstande,  
+
+ potentiometre, positionsfølere, dele til automatisk regulering osv.).
+Engelsk IEC-betegnelse: »Electronic equipment.« 2.2 Sammenbygning:
+ Kombination af et eller flere koblingsapparater med tilhørende materiel  
+
+ til styring, måling, beskyttelse og regulering, komplet monteret med alle  
+
+ indre elektriske og mekaniske forbindelser, stel og kapslinger.
+Engelsk IEC-betegnelse: »Controlgear assembly.« 2.3 Kapsling:
+ Del, som omslutter materiellet og beskytter personer mod direkte berøring  
+
+ af de omsluttede spændingsførende dele, og som beskytter det omsluttede  
+
+ elektriske materiel mod visse fastsatte ydre påvirkninger.
+ En kapsling kan være:
+ - Et skab eller en kasse, som enten er monteret på maskinen eller anbragt  
+
+ separat.
+ - Et lukket hulrum i maskinen.
+ - Et lukket rum i en bygning.
+Engelsk IEC-betegnelse: »Enclosure.« 2.4 Ledningskanal:
+ Kanal, der er beregnet til fremføring og beskyttelse af elektriske  
+
+ ledninger, og som kun anvendes til dette formål.
+Engelsk IEC-betegnelse: »Duct.« 2.5 Beskyttelsesrør:
+ Stift eller bøjeligt rør af metal eller isolermateriale.
+Engelsk IEC-betegnelse: »Conduit.« 2.6 Spændingsførende del:
+ Enhver leder eller ledende del, som er spændingsførende ved normal brug.
+ Spændingsførende dele omfatter også nullederen og de ledende dele, som  
+
+ denne er forbundet til.
+Engelsk IEC-betegnelse: »Live part.« 2.7 Udsat del:
+ Ledende del, som let kan berøres, og som ikke er spændingsførende, men som  
+
+ kan blive spændingsførende i tilfælde af en fejl.
+Engelsk IEC-betegnelse: »Exposed conductive part.« 2.8 Beskyttelsesleder:
+ Leder, som anvendes ved beskyttelse mod elektrisk chok i tilfælde af en  
+
+ fejl, og som forbinder udsatte dele med følgende dele:
+ - Andre udsatte dele.
+ - Fremmede ledende dele (som ikke er en del af det elektriske materiel).
+ - Jordelektroder og jordforbundne ledere (PE- og PEN-ledere).
+Engelsk IEC-betegnelse: »Protective Conductor.« 2.9 Beskyttelseskreds:
+ Det system, der består af beskyttelsesledere og ledende dele, og som er en  
+
+ del af beskyttelsen mod følgerne af jordfejl.
+Engelsk IEC-betegnelse: »Protective circuit.« 2.10 Effektkreds:
+ Strømkreds, der overfører energi fra forsyningsnettet til materiel, der  
+
+ anvendes i produktionsprocessen (f.eks. til elektromotorer).
+Engelsk IEC-betegnelse: »Power circuit.« 2.11 Styrekreds:
+ Strømkreds, der anvendes til styring af maskinens funktioner og til  
+
+ beskyttelse af effektkredse.
+ Strømkredse, som forsyner magnetventiler og koblinger. kan betragtes som  
+
+ hørende til styrekredsen.
+Engelsk IEC-betegnelse: »Control circuit.« 2.12 Signalkreds:
+ Strømkreds, der anvendes til styring af signalindretninger, f.eks.  
+
+ signallamper, sirener osv.
+Engelsk IEC-betegnelse: »Signalling circuit.« 2.13 Komponent:
+ En i et elektrisk materiel indgående bestanddel, der normalt er  
+
+ karakteriseret ved sin funktion, men som kan anvendes til forskellige formål.
+ Eksempler:
+ Modstande kondensatorer, transistorer, integrerede kredse, kredskort,  
+
+ transducere.
+Engelsk IEC-betegnelse: »Component.« 2.14 Koblingsapparat:
+ Indretning, konstrueret til at slutte eller bryde strømmen i en eller  
+
+ flere elektriske strømkredse.
+Engelsk IEC-betegnelse: »Switching device.« 2.15 Styremateriel:
+ Indretning, som er forbundet til styrekredse og anvendt til styring af  
+
+ maskinens funktioner, f.eks. positionsfølere, manuelle styrekontakter,  
+
+ relæer, magnetventiler osv.
+Engelsk IEC-betegnelse: »Control device.« 2.16 Styreorgan:
+ Den del af styremateriellet, som er genstand for den ydre påvirkning.
+ Styreorganet kan f.eks. være et håndtag, en drejeknap, en trykknap, en  
+
+ rulle eller en trykstang.
+Engelsk IEC-betegnelse: »Actuator.« 2.17 Mærkning:
+ Tegn eller tekst, som af fabrikanten er anbragt på komponenten eller  
+
+ enheden.
+Engelsk IEC-betegnelse: »Marking.« 2.18 Referencebetegnelse:
+ Særlig kode, der tjener til at identificere en komponent eller enhed på et  
+
+ skema, i en liste, på et diagram og på materiellet.
+ Referencebetegnelsen anbringes i nærheden af eller direkte på komponenten  
+
+ eller enheden før eller under montage i koblingsmateriellet eller på  
+
+ maskinen.
+Engelsk IEC-betegnelse: »Item designation.« 2.19 Serviceplan:
+ Det plan, som servicepersonen står på ved service på det elektriske  
+
+ materiel.
+Engelsk IEC-betegnelse: »Servicing level.« 2.20 Instruerede personer:
+ Personer, som er tilstrækkeligt instrueret eller under opsyn af  
+
+ sagkyndige, således at de er i stand til at undgå de farer, som  
+
+ elektriciteten kan medføre (betjenings- og vedligeholdelsespersonale).
+Engelsk IEC-betegnelse: »Instructed persons.« 2.21 Sagkyndige personer:
+ Personer, der har teknisk viden eller tilstrækkelig erfaring til at undgå  
+
+ de farer, som elektriciteten kan medføre (elektroingeniører og  
+
+ elektroteknikere).
+Engelsk IEC-betegnelse: »Skilled persons.« 3 Advarselstegn, mærkning, referencebetegnelse og teknisk dokumentation 3.1 Advarselstegn, mærkning og referencebetegnelse.
+ 3.1.1 Advarselstegn på kapslinger:
+ Hvor det ikke er indlysende, at en kapsling indeholder elektrisk materiel,  
+
+ skal den være mærket med en sort siksak-pil (symbol 417-IEC-5036) på gul  
+
+ baggrund i en trekant med dimensioner som ISO 3864, symbol 13.
+ 3.1.2 Mærkning af sammenbygninger.
+Sammenbygninger skal være tydeligt og holdbart mærket, således at  
+
+ mærkningen let kan ses, når materiellet er installeret.
+Hvor det er muligt,  
+
+ skal sammenbygninger være forsynet med et fastsiddende mærkeskilt med  
+
+ følgende oplysninger:
+ - Fabrikantens navn eller varemærke.
+ - Mærkespændinger med angivelse af jævn- eller vekselspænding,  
+
+ mærkefrekvenser og for vekselspænding antallet af faser (for hver forsyning,  
+
+ hvis der er flere).
+ - Mærkestrømme.
+ - Serienummer eller anden identifikation af materiellet.
+De mærkestrømme, som er angivet på mærkeskiltet, må ikke være lavere end  
+
+ summen af fuldlaststrømmene til alle motorer og andet materiel, som kan være  
+
+ i drift samtidig under normale driftsbetingelser.
+Hvor unormale belastninger,  
+
+ intermittens osv. kræver forøget ledertværsnit, skal den krævede  
+
+ belastningsevne være medtaget i den mærkestrøm, der er angivet på maskinens  
+
+ mærkeskilt.
+ For ukompliceret elektrisk materiel (f.eks. bestående af en enkelt  
+
+ startindretning for en motor), eller for elektrisk materiel, der er anbragt i  
+
+ et hulrum i maskinkapslingen, kan maskinens mærkeskilt også tjene som  
+
+ mærkeskilt for det elektriske materiel, hvis skiltet er synligt og indeholder  
+
+ de krævede oplysninger.
+ 3.1.3 Mærkning af styremateriel.
+ Alt styremateriel skal mindst være forsynet med følgende mærkning:
+ Desuden skal følgende mærkning være anbragt enten direkte på materiellet  
+
+ eller på dets spole, således at mærkningen er synlig, når spolen er monteret  
+
+ i materiellet:
+ Udskiftelige spoler skal endvidere være forsynet med fabrikantens navn  
+
+ eller varemærke, ligesom der skal være angivet en typebetegnelse eller et  
+
+ referencemærke.
+ Undtagelse.
+ Hvis materiellet er så småt, at der ikke er plads til mærkningen, kan den  
+
+ krævede information angives på et skema eller i en liste.
+ 3.1.4 Mærkning af udskiftelige komponenter.
+ Komponenter skal være forsynet med holdbar mærkning efter følgende  
+
+ retningslinier:
+ - Hvis der eksisterer en international kode til angivelse af mærkeværdier,  
+
+ tolerancer osv., skal mærkningen være udført i overensstemmelse med denne  
+
+ kode (f.eks. farvekode for modstande).
+- I andre tilfælde skal komponenterne være forsynet med individuel  
+
+ mærkning, der angiver fabrikantens navn og tilstrækkelige tekniske  
+
+ oplysninger til at identificere komponenterne ved udskiftning.
+Hvor det ikke  
+
+ er muligt at udføre en god mærkning på grund af komponentens ringe størrelse,  
+
+ skal komponenten kunne identificeres i skemaer og tilhørende styklister.
+ 3.1.5 Referencebetegnelse for komponenter, materiel, klemmer, ledninger og  
+
+ ledere.
+ Hvis der benyttes referencebetegnelser for de enkelte dele, skal  
+
+ referencebetegnelserne være i overensstemmelse med tillæg D.
+ Materiel og klemmer, hvortil der skal tilsluttes ledninger i forbindelse  
+
+ med installation eller efter vedligeholdelse, skal være forsynet med en  
+
+ holdbar mærkning med den referencebetegnelse, der er anvendt i skemaerne.
+Alle klemmer, ledninger og ledere skal, uanset om de er anbragt inde i  
+
+ eller uden for kapslinger, være forsynet med en holdbar mærkning.
+Mærkningen  
+
+ af ledninger og ledere kan udføres med (ikke metalliske) fastsiddende tyller  
+
+ eller manchetter, eller med klæbebånd, som er modstandsdygtige over for  
+
+ kulbrinter.
+Vedrørende mærkning af ledninger og ledere se også tillæg E.
+Hver enkelt del af det elektriske materiel skal være forsynet med  
+
+ referencebetegnelse i henhold til tillæg D, anbragt nær den pågældende del  
+
+ eller helst direkte på denne.
+Hvis denne mærkning ikke er fysisk mulig, skal  
+
+ dette være angivet i den tekniske dokumentation.
+ 3.1.6 Funktionsmærkning af styreorganer.
+Manuelle styreorganer, såsom trykkontakter, omskiftere osv. skal være  
+
+ tydeligt og holdbart mærket med funktion, enten på eller i nærheden af  
+
+ styreorganet.
+Sådanne mærkninger skal være på det sprog, som i  
+
+ ordrekontrakten er aftalt mellem bruger og fabrikant.
+Det anbefales  
+
+ imidlertid at anvende grafiske symboler efter IEC 417 og ISO 7 000.
+DK-forklaringer 3.1.6 Forklaring:
+ Mærkning af sikkerhedsmæssig betydning skal være på dansk.
+slut 3.2 Teknisk dokumentation.
+ 3.2.1 Almindeligt.
+Den information, der er nødvendig for at installere, anvende og  
+
+ vedligeholde maskinens elektriske materiel, skal medleveres i form af  
+
+ tegninger, skemaer, diagrammer, tabeller og instruktioner.
+Informationen skal  
+
+ være på det sprog, der er aftalt mellem bruger og fabrikant i  
+
+ ordrekontrakten.
+DK-forklaringer 3.2.1 Forklaring:
+ Informationer af sikkerhedsmæssig betydning skal være på dansk.
+slut Omfanget af den information, der skal gives, afhænger af omfanget og  
+
+ kompleksiteten af det pågældende elektriske materiel.
+ For ukompliceret materiel kan den nødvendige dokumentation stå i eet  
+
+ dokument, forudsat at dette viser alle dele af det elektriske materiel og  
+
+ muliggør korrekt tilslutning til forsyningsnettet.
+ Hovedleverandøren (som er ansvarlig for en god koordination af det  
+
+ elektriske og elektroniske materiel med selve maskinen) skal sørge for, at  
+
+ der med hver enkelt maskine leveres kopier af komplet og velkoordineret  
+
+ teknisk dokumentation, der omfatter det elektriske og det elektroniske  
+
+ materiel.
+For elektrisk materiel, som kun har nogle få elektroniske komponenter, og  
+
+ hvor disse komponenter let kan identificeres ved vedligeholdelse, udskiftning  
+
+ eller justering, kan den krævede information indgå som en del af det  
+
+ elektriske hovedstrømsskema.
+Indgår komponenterne i sammenbygninger, kan de  
+
+ punkter, hvor sammenbygningen forbindes med det øvrige elektriske materiel,  
+
+ være angivet på det elektriske hovedstrømsskema, og en separat tegning kan  
+
+ angive den nødvendige information om disse sammenbygninger.
+For elektrisk materiel, der indeholder et betydeligt antal elektroniske  
+
+ komponenter, skal der leveres skemaer, som viser de elektroniske komponenter  
+
+ og deres sammenhæng med maskinens øvrige elektriske materiel.
+Enhver  
+
+ elektronisk komponent skal kunne identificeres og genfindes i  
+
+ elektronikskemaerne og vice versa.
+Hvis den samme type elektroniske komponent  
+
+ anvendes på adskillige steder i materiellet, skal skemaet angive den  
+
+ individuelle referencebetegnelse for hver enkelt af disse komponenter.
+ 3.2.2 Fortegnelse over de forskellige typer dokumentation.
+ Den tekniske dokumentation skal indeholde følgende:
+ - Installationstegninger, se 3.2.4.1.
+ - Oversigtsskema, hvis det er nødvendigt, se 3.2.4.2.
+ - Kredsskema, se 3.2.4.3.
+ - Beskrivelse af operationsrækkefølge og/eller sekvensdiagrammer eller  
+
+ tabeller og/eller enhver anden egnet metode til at forklare funktionen, hvis  
+
+ det er nødvendigt, se 3.2.4.4.
+ - Ydre forbindelsesskema eller tilsvarende tabel eller egnet  
+
+ krydsreference mellem skemaerne, som gør det muligt at følge kredsene i hele  
+
+ udstyret, hvis det er nødvendigt, se 3.2.4.5.
+ - Stykliste, se 3.2.4.6.
+ - Vedligeholdelsesinstruktioner og justeringsforskrifter, hvor det er  
+
+ nødvendigt, se 3.2.4.7.
+ - Enhver relevant oplysning, hvor dette er nødvendigt, især om sådanne  
+
+ egenskaber (data), som er krævet i andre standarder eller forskrifter, som  
+
+ vedrører sikkerheden ved maskinens drift.
+ - Fortegnelse over slid- og reservedele, som det normalt må anbefales at  
+
+ føre på lager, hvis det er nødvendigt, se 3.2.4.9.
+ Den tekniske dokumentation skal også indeholde:
+ - Bestykningstegninger eller -tabeller, se 3.2.4.8.
+ Hvis en vigtig del af maskinens funktion styres af hydraulisk eller  
+
+ pneumatisk materiel, er maskinens fabrikant ansvarlig for, at der medfølger  
+
+ et skema over de hydrauliske og pneumatiske kredse svarende til de krav, der  
+
+ er anført i 3.2.
+ 3.2.3 Krav gældende for alle dokumenter.
+ For systematisering af de forskellige dokumenter skal fabrikanten vælge  
+
+ een af følgende to metoder:
+ - Hvert dokument skal for krydsreference indeholde referencenumrene for  
+
+ alle øvrige dokumenter for det elektriske materiel.
+ - Alle dokumenter skal være angivet i en fortegnelse med referencenumre og  
+
+ titler opstillet i tabelform.
+ Tegninger, skemaer, diagrammer, tabeller og instruktioner skal udføres i  
+
+ ISO A-format, i overensstemmelse med ISO 216, maksimalt A1. Det anbefales at  
+
+ benytte formater med en dimension på 297 mm (højde af A4). Længden bør så  
+
+ vidt muligt ikke overstige 840 mm (fire gange bredden af A4).
+ I skemaer kan fabrikanten selv vælge mellem enstregs- eller  
+
+ flerstregstegnemåde i overensstemmelse med IEC 113-1.
+ De symboler, der anvendes i tegninger, skemaer, diagrammer og tabeller, må  
+
+ ikke være forskellige i de forskellige dokumenter og skal vælges blandt dem,  
+
+ der er angivet i IEC 117 og IEC 617.
+ Komponenter, enheder, klemmer og ledere skal have samme  
+
+ referencebetegnelse i alle dokumenter og på det elektriske materiel, se  
+
+ 3.1.5.
+ 3.2.4 Krav til de enkelte dokumenter.
+ 3.2.4.1 Installationstegning.
+ Installationstegninger skal give alle informationer, der er nødvendige for  
+
+ at forberede maskinens opstilling.
+ De skal indeholde alle data, som er nødvendige for at kunne vælge type,  
+
+ karakteristik, mærkestrøm eller indstillingsstrøm for den  
+
+ overstrømsbeskyttelsesindretning, der skal installeres i udgangspunktet for  
+
+ forsyningsledningen til det elektriske materiel, se 5.2.1.
+Der skal være tydelig angivelse af placering og dimension af de ledninger,  
+
+ der skal installeres på stedet.
+Endvidere skal ledertværsnit være angivet,  
+
+ hvis det ikke fremgår af mærkestrømmen.
+Hvis der skal anvendes specielle  
+
+ ledningstyper, skal dette være angivet.
+ Hvor det er nødvendigt, skal der være en detaljeret angivelse af  
+
+ størrelse, anvendelse og placering af ledningskanaler, som brugeren skal  
+
+ udføre i fundamentet.
+ Hvor der kræves plads til udskiftning af eller service på det elektriske  
+
+ materiel, skal dette være angivet.
+Hvis der ikke udføres et separat ydre forbindelsesskema, skal  
+
+ installationstegningen også vise detaljer for fremføring af hovedkanaler og  
+
+ ledningsføringer.
+Yderligere skal installationstegningen vise placeringen af  
+
+ styremateriel anbragt uden for kapslinger og placering af det  
+
+ forbindelsesmateriel, der benyttes til sammenkoblingen af forskellige dele af  
+
+ det elektriske materiel, som har været demonteret under transport.
+ Eksempel:
+ Se tillæg E, skema E 100.
+ 3.2.4.2 Oversigtsskema.
+Oversigtsskemaet skal lette forståelsen af maskinens funktion ved hjælp af  
+
+ en relativt enkel fremstilling.
+Det er et skema, hvor det elektriske materiel  
+
+ og dets indbyrdes funktionsmæssige sammenhæng er angivet med symboler,  
+
+ bloksymboler eller figurer.
+Oversigtsskemaet behøver ikke at vise alle  
+
+ forbindelser.
+ Eksempel:
+ Se tillæg E, skema E 310.
+ 3.2.4.3 Kredsskema.
+ Kredsskemaet skal lette forståelsen af det elektriske materiels virkemåde.  
+
+ Det angiver ved hjælp af symboler hele det elektriske materiel, eller dele af  
+
+ dette med de tilhørende elektriske forbindelser og andre forbindelser, som  
+
+ har betydning for materiellets funktion.
+Kredsskemaet letter forståelsen af detaljerne i de operationer, der  
+
+ udføres af maskinen.
+Det viser ved hjælp af symboler de elektriske dele og  
+
+ alle forbindelser, især alle elektriske forbindelser, der vedrører maskinens  
+
+ funktion.
+Apparaterne vises i spændingsløs tilstand, og binære logiske  
+
+ systemer vises i reset-tilstand.
+Mekaniske indretninger, som f.eks.  
+
+ afbrydere, vises i den position, der går forud for begyndelsen af en cyklus.
+På skemaet anbefales det, at effektkredse, styrekredse og signalkredse  
+
+ angives hver for sig, hvis de er elektrisk adskilt.
+Det anbefales, at alle  
+
+ forbindelsesklemmer, der er indbyrdes forbundet med ledere, og som derfor har  
+
+ samme potentiale, forsynes med samme mærkning.
+ Symboler for forbindelsesklemmer (klemrækker) må ikke være de samme som  
+
+ symboler for klemmer på de elektriske apparater.
+ Eksempel:
+ Se tillæg E, skema E 110, og, hvis det er nødvendigt, IEC 113-3.
+ For elektronisk materiel kan kredsskemaet erstattes af en tegning svarende  
+
+ til oversigtsskemaet, dog med angivelse af sammenhængen mellem indgang og  
+
+ udgang for de binære logikelementer (f.eks. med sandhedstabeller).
+ Eksempel:
+ Se tillæg E, skema E 311 til E 315.
+ Det anbefales at kredsskemaerne bl.a. indeholder oplysninger om følgende:
+ - Polariteter.
+ - Spændinger, frekvenser og antallet af faser for de forskellige  
+
+ forsyninger.
+ - Beskrivelse af styremateriel, hvis dette er nødvendigt for forståelse af  
+
+ dets funktion (f.eks. størrelsen af modstande, kondensatorer osv.).
+ - Aktiveringsmidler og virkemåde for indretninger, som ikke er rent  
+
+ elektriske (positionsfølere, håndbetjente kontakter, timere, elektrisk  
+
+ betjente hydraulik- og luftventiler).
+ Oplysningerne kan f.eks. angives som en beskrivelse på skemaet.
+ Hvor en maskine kan gennemløbe flere sekvenser (eventuelt fra forskellige  
+
+ udgangspositioner), skal skemaet klart angive, hvilken sekvens, der er vist.
+ Dokumentationen skal udføres efter IEC 113-1, som følger:
+De forskellige strømkredse skal vises således, at det letter såvel  
+
+ forståelse som servicearbejde og fejlfinding.
+Strømkredse skal vises hver for  
+
+ sig (dvs. på forskellige steder) på skemaet, - hvis de er elektrisk adskilt, - hvis de vedrører forskellige arbejdsoperationer.
+ Effektkredse angives ved en eller flere linier, hvorfra afgreninger (med  
+
+ tilhørende beskyttelseindretninger) til hver effektforbrugende enhed (motorer  
+
+ osv.) afgår under rette vinkler.
+ Hver af de enkelte kredse vises mellem to eller flere parallelle linier,  
+
+ vinkelret på disse og så vidt muligt med en eller flere rette linier.
+ Forsyninger til styrekredse skal også angives.
+ Det anbefales at effektforbrugende indretninger (spoler, elektromagneter  
+
+ osv.) vises tæt ved den linie, som de tilsluttes, og som forudses  
+
+ jordforbundet, mens styrekontakter forbindes til den anden linie, se 6.2.3.
+ For nemt at kunne læse skemaet anbefales det, at successive operationer  
+
+ angives i rækkefølge fra venstre mod højre eller oppefra og nedad.
+ Det skal klan angives, hvad der er hensigten med hver strømkreds i  
+
+ relation til maskinens funktion.
+ Vedrørende eksempler på sådanne angivelser, se tillæg E, teksten øverst på  
+
+ skema E 110 eller E 210, eller på højre side af E 211. Endvidere E 140 med  
+
+ hensyn til trykknapper.
+Når signalkredse forsynes adskilt fra styrekredse, anbefales det, at  
+
+ signalkredsene angives vinkelret mellem to eller flere parallelle linier.
+Det  
+
+ anbefales, at signallamper og advarselsindretninger vises tæt ved den linie,  
+
+ som de tilsluttes, og som forudses jordforbundet, mens styrekontakter  
+
+ forbindes til den anden linie.
+ Eksempel:
+ Se tillæg E, skema E 210 og E 211 og, hvis det er nødvendigt, IEC 113-4.
+3.2.4.4 Beskrivelse af funktionsrækkefølge og/eller sekvensdiagram.
+Denne  
+
+ information kræves kun for elektrisk materiel, som udfører flere indbyrdes  
+
+ afhængige funktioner.
+ Beskrivelsen af funktionsrækkefølgen kan kompletteres med eller erstattes  
+
+ af sekvensdiagrammer.
+ Informationen skal være så fuldstændig, at funktionsrækkefølgen for  
+
+ maskinens forskellige dele kan forstås ved henvisning til kredsskemaet.
+ Når funktionsrækkefølgen eller andre tilhørende data er programstyrede,  
+
+ skal der gives alle de oplysninger om programsystemet, som er nødvendige for  
+
+ drift, fejlfinding og vedligeholdelse.
+ Der skal gives alle oplysninger, der er nødvendige for forståelsen af den  
+
+ elektriske funktion i sammenhæng med den mekaniske, hydrauliske, pneumatiske  
+
+ og eventuelle andre funktioner.
+ Hvis maskinen kan udføre flere sekvenser, skal funktionsbeskrivelsen  
+
+ indeholde en beskrivelse af hver enkelt sekvens.
+ Eksempel:
+ Se tillæg E, skema E 120 og E 121.
+ 3.2.4.5 Ydre forbindelsesskema.
+Det ydre forbindelsesskema viser forbindelserne mellem forskellige enheder  
+
+ af det elektriske materiel.
+Det kan eventuelt angive forløbet af hver enkelt  
+
+ leder.
+ Det skal give fuldstændig information om de ydre forbindelser mellem alt  
+
+ elektrisk materiel, som hører til maskinen.
+Hvis det elektriske materiel er beregnet til at fungere ved to eller flere  
+
+ spændinger, skal det ydre forbindelsesskema angive de forbindelser m.v der  
+
+ skal ændres for at skifte spænding.
+Det ydre forbindelsesskema skal vise  
+
+ beskyttelseskredsens forbindelser og de tilhørende klemmer.
+ Eksempel:
+ Se tillæg E, skema E 130 og, hvis det er nødvendigt, IEC 113-5.
+De ydre forbindelser til sammenbygninger skal angives på et skema eller i  
+
+ form af forbindelsestabeller.
+Tilslutningen(erne) til forsyningen(erne) skal  
+
+ være angivet.
+ Det ydre forbindelsesskema skal for ydre forbindelser til sammenbygninger  
+
+ eller indretninger indeholde oplysninger om lederne (antal, tværsnit og  
+
+ isolation) og om eventuelle særlige forhold, såsom anvendelse af  
+
+ beskyttelsesrør eller ledninger med skærm (med angivelse af placeringen af  
+
+ skærmenes stelforbindelser, hvis denne placering er væsentlig).
+ 3.2.4.6 Stykliste.
+ Styklisten er en oversigt over alle elektriske komponenter, indretninger  
+
+ og sammenbygninger, med de oplysninger, som er nødvendige for at kunne  
+
+ rekvirere reservedele.
+ Styklisten skal for hver enkelt komponent eller indretning indeholde  
+
+ følgende:
+ - Referencebetegnelse.
+ - Mærkning.
+ - Almindelige egenskaber (effekt, drejningsmoment, hastighed, spænding,  
+
+ strøm, frekvens, kapslingsklasse, isolationsklasse osv.).
+ - Fabrikantens(ernes) navn(e) (en forkortet form kan anvendes) og dennes  
+
+ (disses) betegnelse for komponenten eller indretningen.
+ - Antallet af identiske komponenter og indretninger, der er anvendt i  
+
+ materiellet.
+ Listen skal også indeholde særlige oplysninger om specielle ledningstyper  
+
+ (tværsnit, type, isolation) med fabrikanthenvisning.
+ Eksempel.
+ Se tillæg E, blad E 140 og E 141.
+ 3.2.4.7 Vedligeholdelsesinstruktion.
+ Vedligeholdelsesinstruktionen skal omfatte følgende:
+ - Tidsplan for forebyggende vedligeholdelse.
+ - Instruktioner for vedligeholdelsesarbejde herunder dem, som er  
+
+ nødvendige for at udføre særlige udskiftninger.
+ - Justeringsanvisninger.
+ Det anbefales at angive, hvor hyppigt sliddele skal udskiftes.
+ 3.2.4.8 Bestykningsskema eller -tabel.
+Bestykningsskemaet eller -tabellen skal indeholde detaljerede oplysninger  
+
+ om placeringen af de enkelte dele af det elektriske materiel, f.eks.  
+
+ klemrækker, plug-in enheder, sammenbygninger, moduler osv.
+Der skal anvendes  
+
+ samme referencebetegnelse som på de tilhørende skemaer og tabeller.
+ Der skal være angivelse af den plads, der er reserveret til senere  
+
+ ændringer såvel som placeringen af ledningskanaler og beskyttelsesrør, som  
+
+ anvendes til sammenbygningers ledningsføring.
+ Bestykningsskemaet behøver ikke at være målfast.
+ Eksempel:
+ Se tillæg E, skema E 150.
+ 3.2.4.9 Fortegnelse over slid- og reservedele.
+ Fortegnelsen over slid- og reservedele skal angive de dele, som det  
+
+ normalt anbefales at have på lager.
+ Hvis udskiftning af dele er anført i vedligeholdelsesinstruktionen, skal  
+
+ fortegnelsen indeholde de oplysninger, der er nødvendige for at kunne  
+
+ rekvirere delene.
+ Eksempel:
+ Se tillæg E, blad E 260.
+4 Almindelige bestemmelser 4.1 Komponenter og indretninger.
+ 4.1.1 Bestemmelser.
+ Elektriske komponenter og indretninger skal være egnet til industribrug og  
+
+ skal opfylde de pågældende IEC-standarder, hvis sådanne findes.
+ Der skal fortrinsvis anvendes komponenter og indretninger, som kan leveres  
+
+ fra mere end een leverandør under den samme betegnelse og så vidt muligt med  
+
+ samme referencenummer.
+Det anbefales, at der ikke foretages speciel udvælgelse af komponenter, og  
+
+ at disse ikke ændres.
+Hvis dette ikke kan undgås for komponenter, som ved  
+
+ fejl skal kunne udskiftes på stedet, skal der i styklisten eller på  
+
+ tegningerne være anført fuldstændig information om sådanne specielle valg  
+
+ eller ændringer.
+ Komponenter og indretninger, hvis kapslingsklasse ikke medfører  
+
+ tilstrækkelig beskyttelse, skal have en ekstra beskyttelse, f.eks. en  
+
+ selvstændig kapsling inde i sammenbygningen.
+ Vedrørende mærkning af udskiftelige komponenter, se 3.1.4.
+ 4.1.2 Begrænsning i anvendelse.
+Alle komponenter og indretninger skal benyttes inden for de grænser, som  
+
+ er angivet af fabrikanten.
+Dette gælder såvel grænser for spænding, strøm,  
+
+ temperatur osv., som beskyttelse mod slag, vibrationer, oliedampe, væskedampe  
+
+ osv. samt krav til køling.
+ 4.2 Forsyning.
+Det elektriske materiel skal være konstrueret til drift ved de  
+
+ forsyningsspændinger og frekvenser, der er angivet af brugeren.
+Det skal  
+
+ fungere tilfredsstillende, såvel under fuld belastning som uden belastning i  
+
+ området 90 til 110 pct. af nominel forsyningsspænding og med en  
+
+ frekvensafvigelse på +/-2 pct. af mærkefrekvensen.
+ Hvis det er nødvendigt med en mindre frekvenstolerance end +/-2 pct. for  
+
+ at sikre nøjagtigheden af visse indretninger (f.eks. tidskredse), skal dette  
+
+ være angivet af fabrikanten.
+ Motorer skal ifølge IEC 34-1 kunne afgive mærkeeffekt i området 95 til 105  
+
+ pct. af deres mærkespænding.
+ 4.2.1 Elektronisk materiels funktion må ikke forringes af følgende:
+- Spændingsbortfald i op til 10 millisekunder.
+Dette gælder dog ikke for  
+
+ effektelektronik.
+- Spændingsfald med en varighed på højst 0,5 sekund, og som ikke  
+
+ overstiger 15 pct. af den nominelle forsyningsspænding, - Spændingsspidser, med en varighed på højst 1,5 millisekunder, og hvis  
+
+ topværdi ikke overstiger 200 pct. af den nominelle effektivværdi af  
+
+ spændingen mellem faserne.
+ Hvis en numerisk styring forsynes fra strømforsyningen til det  
+
+ elektroniske materiel, gælder kravene i IEC 550, § 6.5.
+ 4.2.2 Hvor sikkerheden eller den kontinuerlige drift er afhængig af  
+
+ elektronisk materiel, og dette kan fejlfungere ved spændingsbortfald, som er  
+
+ så kortvarige, at andet materiel ikke kan nå at reagere, skal der være  
+
+ tvangskoblinger, som kan stoppe de pågaeldende operationer.
+ 4.2.3 Det forudsættes, at vekselspændingsforsyningen er praktisk taget  
+
+ sinusformet (mindre end 7 pct. total harmonisk forvrængning), og at  
+
+ spændingen mellem faserne i flerfasesystemer højst er 5 pct. under den  
+
+ største værdi.
+ 4.3 Tilslutning til forsyningsnettet.
+ 4.3.1 Det anbefales, at maskinens elektriske materiel kun forsynes fra een  
+
+ tilslutning.
+ Hvis det er nødvendigt at forsyne visse dele af materiellet med en anden  
+
+ spænding eller fra et andet spændingssystem (elektronisk styring,  
+
+ elektromagnetiske koblinger osv.), skal denne anden spænding (eller dette  
+
+ andet system) så vidt muligt leveres fra enheder (såsom transformere,  
+
+ ensrettere, omformere osv.), som udgør en del af maskinens elektriske  
+
+ materiel.
+4.3.2 Det elektriske materiel må ikke forudsætte tilslutning til nulleder  
+
+ (N), hvis det ikke er aftalt med brugeren.
+Hvis der anvendes nulleder, skal  
+
+ dette klart fremgå af den tekniske dokumentation for maskinen, f.eks. ved  
+
+ angivelse på installationstegninger og i kredsskemaet.
+Der må ikke være nogen  
+
+ intern forbindelse mellem nullederen (N) og beskyttelseskredsen (PE), og der  
+
+ må ikke anvendes kombineret beskyttelses- og nulleder (PEN-leder) internt i  
+
+ det elektriske materiel.
+4.3.3 Hvis maskinen ikke er udført for stikkontakttilslutning (se 5.6.2,  
+
+ pkt. d), anbefales det at tilslutte lederne fra forsyningen direkte til  
+
+ forsyningsadskillerens klemmer.
+Hvis dette ikke er hensigtsmæssigt, skal der  
+
+ være særlige tilslutningsklemmer, se også 5.6.2.5 og 7.2.4, sidste del.
+ Der skal være en klemme, som er forbundet til stel og beregnet for  
+
+ tilslutning af den ydre beskyttelsesleder (PE). Den skal være placeret i  
+
+ nærheden af de tilhørende faseklemmer, se også 5.1.2.1.6.
+ Hvis der anvendes nulleder (N), skal der for denne være en separat og  
+
+ isoleret nulklemme, se 6.1.2 og 12.
+ 4.3.4 Alle klemmer for tilslutning af forsyningen skal være tydeligt  
+
+ mærket i overensstemmelse med IEC 445. Vedrørende PE-klemmen, se dog  
+
+ 5.1.2.1.6.
+5 Beskyttelsesforanstaltninger 5.1 Beskyttelse mod elektrisk chok.
+ Det elektriske materiel skal sikre beskyttelse af personer mod elektrisk  
+
+ chok i følgende tilfælde:
+ - Direkte berøring.
+ - Indirekte berøring.
+DK-forklaringer 5.1 Forklaringer:
+ Beskyttelse mod direkte berøring er foranstaltninger, der forhindrer, at  
+
+ personer eller husdyr kan berøre farlige spændingsførende dele under normal  
+
+ drift.
+ Beskyttelse mod inddirekte berøring er foranstaltninger, der forhindrer,  
+
+ at personer eller husdyr udsættes for elektrisk chok ved berøring af udsatte  
+
+ dele, der er blevet spændingsførende på grund af en fejl.
+slut Denne beskyttelse skal opnås ved anvendelse af de metoder, som er  
+
+ beskrevet i 5.1.1 og 5.1.2. Beskyttelsesmetoderne i henholdsvis 5.1.1 og  
+
+ 5.1.2, skal anvendes for enhver strømkreds eller for enhver del af det  
+
+ elektriske materiel.
+Imidlertid sikrer anvendelsen af ekstra lav  
+
+ maskinspænding (MELV) efter 5.1.3 beskyttelse både mod direkte berøring og  
+
+ mod indirekte berøring.
+Beskyttelsen mod restspændinger efter 5.1.4 er en supplerende beskyttelse,  
+
+ som skal udføres, hvor det er nødvendigt.
+Fabriksfremstillede  
+
+ sammenbygninger, der er udført efter IEC 439, opfylder bestemmelserne i 5.1.
+ 5.1.1 Beskyttelse mod direkte berøring.
+ Denne beskyttelse, som også kaldes den grundlæggende beskyttelse, skal  
+
+ beskytte personer mod fare ved direkte berøring af spændingsførende dele.
+ For enhver strømkreds eller del af det elektriske materiel, skal  
+
+ foranstaltningerne efter mindst et af punkterne 5.1.1.1 og 5.1.1.2 være  
+
+ udført.
+ 5.1.1.1 Beskyttelse ved kapsling.
+ Spændingsførende dele skal anbringes inde i kapslinger, der opfylder  
+
+ bestemmelserne i 7.
+ Det må kun være muligt at åbne en kapsling (dør, låge, dæksel o.l.) når  
+
+ een af betingelserne a, b eller c er opfyldt:
+Spændingsførende dele på indersiden af døre skal være beskyttet mod  
+
+ utilsigtet berøring, når dørene er åbne.
+Spændingsførende dele inde i  
+
+ kapslinger, som kan berøres ved tilbagestillingsmanøvrer, skal være beskyttet  
+
+ mod utilsigtet berøring med en finger eller med nogen anden del af legemet.
+Note 1 Når andre end sagkyndige og instruerede personer skal have adgang, f.eks.  
+
+ for at udskifte sikringer, skal en af metoderne b eller c anvendes.
+Note 2 Hvor rum i bygninger benyttes som kapsling for elektrisk materiel, og hvor  
+
+ kun sagkyndige har adgang, gælder særlige bestemmelser, se IEC 364 eller IEC  
+
+ 439.
+Note 3 En forhindring eller barriere, der har til formål at forhindre utilsigtet  
+
+ berøring af spændingsførende dele (eller berøring ved uheld), forhindrer ikke  
+
+ tilsigtet berøring ved omgåelse af forhindringen.
+ Dette kan opnås ved tvangskobling mellem døren(e) og en adskiller (f.eks.  
+
+ forsyningsadskilleren, se 5.6.2), således at dørene kun kan åbnes, når  
+
+ adskilleren er åben, og således at adskilleren kun kan sluttes, når alle døre  
+
+ er lukket.
+Imidlertid kan en særlig indretning gøre det muligt for sagkyndige  
+
+ personer at ophæve tvangskoblingen og sætte materiellet under spænding med  
+
+ dørene åbne, forudsat at tvangskoblingen automatisk retableres, når dørene  
+
+ lukkes.
+Bestemmelserne i 5.6.2.6 vedrørende beskyttelse mod utilsigtet  
+
+ berøring gælder for alle dele, der forbliver spændingsførende.
+ 5.1.1.2 Beskyttelse ved isolation af spændingsførende dele.
+ Spændingsførende dele skal være fuldstændig dækket af isolation, der kun  
+
+ kan fjernes ved ødelæggelse.
+Denne isolation skal varigt kunne modstå de mekaniske, elektriske og  
+
+ termiske påvirkninger, som den kan blive udsat for under drift.
+Maling,  
+
+ imprægnering, lak og lignende midler, anvendt alene, anses normalt ikke for  
+
+ at yde tilstrækkelig beskyttelse mod direkte berøring.
+ Eksempler:
+ Isolerede ledere.
+ Elektriske komponenter indstøbt i isolermateriale.
+ 5.1.2 Beskyttelse mod indirekte berøring.
+ Denne beskyttelse har til formål at beskytte personer, hvis der opstår en  
+
+ isolationsfejl mellem spændingsførende dele og udsatte dele.
+ Der skal for hver strømkreds og for hver del af det elektriske materiel  
+
+ være udført foranstaltninger efter mindst en af bestemmelserne 5.1.2.1 til  
+
+ 5.1.2.4.
+ 5.1.2.1 Beskyttelse ved automatisk afbrydelse af forsyningen.
+ Automatisk afbrydelse af forsyningen, efter at der er opstået en fejl,  
+
+ skal forhindre, at en berøringsspænding opretholdes i så lang tid, at den  
+
+ kunne medføre personfare.
+Denne beskyttelsesmetode omfatter - både forbindelse af udsatte dele med beskyttelseskredsen, se 5.1.2.1.1 til 5.1.2.1.8, - og beskyttelsesindretninger for automatisk afbrydelse af forsyningen ved  
+
+ en fejl.
+ Denne beskyttelsesmetode gør det nødvendigt at koordinere den anvendte  
+
+ type systemjording og egenskaberne af beskyttelsesudstyret for automatisk  
+
+ afbrydelse af forsyningen som angivet i IEC 364, § 413.1.
+DK-forklaringer 5.1.2.1 Forklaring:
+ I stedet for bestemmelserne i IEC 364, § 413.1, kan bestemmelserne i  
+
+ afsnit 6 og 10 anvendes.
+slut Note 1 Korrekt valg og indstilling af disse beskyttelsesindretninger afhænger af  
+
+ forsyningsnettets systemjord, dets impedanser (især jordforbindelsens  
+
+ impedans) og impedanserne i de interne strømkredse i maskinens elektriske  
+
+ materiel.
+Note 2 Under alle omstændigheder gælder bestemmelsarne i IEC 364, § 413.1,  
+
+ vedrørenda valg og indstilling af beskyttelsesindretninger.
+Note 3 I praksis vælges beskyttelsesindretningen til automatisk afbrydelse af  
+
+ forsyningen ved en fejl på følgende måde:
+DK-forklaringer 5.1.2.1 Forklaring:
+slut Beskyttelsesindretningerne er en del af forsyningskredsen, dvs. anbragt  
+
+ foran maskinens elektriske materiel, og de falder derfor uden for  
+
+ fabrikantens ansvarsområde.
+ * Se tillæg A, spørgsmål 10.
+Hver strømkreds skal have sin egen (sine egne) beskyttelsesindretning(er),  
+
+ f.eks. kortslutningsbeskyttelsesudstyr efter 5.2.2, eller som en alternativ  
+
+ løsning i TN-S-systemer, fejlstrømsafbrydere.
+I strømkredse med relativt  
+
+ store ledertværsnit kan det være hensigtsmæssigt at udnytte den generelle  
+
+ beskyttelse af det elektriske materiel efter 5.2.1. Denne kan være anbragt i  
+
+ forsyningsledningens udgangspunkt.
+Det anbefales, at fabrikanten benytter en af de metoder, som er nævnt  
+
+ ovenfor under b.
+Den som udfører installationen har ansvar for, at alle  
+
+ beskyttelsesindretninger er indbyrdes samordnede.
+ Hver af de separate strømkredse skal være beskyttet af sin egen (eller  
+
+ sine egne) beskyttelsesindretning(er), f.eks. af fejlstrømsafbrydere eller af  
+
+ indretninger for kortslutningsbeskyttelse efter 6.1.4.2.
+ 5.1.2.1.1 Beskyttelseskredse, almindeligt.
+Beskyttelseskredsen består af beskyttelsesledere og/eller ledende dele af  
+
+ kapslinger og/eller maskinen.
+Den skal forbinde alle udsatte dele på det  
+
+ elektriske materiel og på selve maskinen (incl. maskinstellet) med  
+
+ hovedjordklemmen efter 5.1.2.1.6.
+ 5.1.2.1.2 Beskyttelseskredsens sammenhæng.
+ Beskyttelseskredsens sammenhæng skal sikres ved effektive forbindelser,  
+
+ dvs. med beskyttelsesledere eller med direkte forbindelser gennem steldele.
+ Hvor der anvendes kapslinger eller ledere af aluminium eller  
+
+ aluminiumslegeringer, skal der tages særligt hensyn til risikoen for  
+
+ galvanisk korrosion.
+ Hvis der ikke er fastgjort elektrisk materiel på dæksler, døre, dækplader  
+
+ osv., eller hvis der kun forekommer strømkredse efter 5.1.2.3, anses  
+
+ almindelige metalhængsler o.l. for at være tilstrækkelige til at sikre  
+
+ beskyttelseskredsens sammenhæng.
+ 5.1.2.1.3 Forbud mod indretninger, der kan koble eller afbryde  
+
+ beskyttelseskredsen.
+ Beskyttelseskredsen må hverken indeholde indretninger til kobling eller  
+
+ overstrømsbeskyttelse (afbrydere, sikringer osv.), eller midler til  
+
+ strømdetektion for sådanne indretninger.
+ De eneste midler, der må indskydes i beskyttelseskredsen for visse prøver  
+
+ eller målinger, er skillestykker, som kun må kunne åbnes af sagkyndige eller  
+
+ instruerede personer, fortrinsvis ved brug af værktøj.
+ 5.1.2.1.4 Afbrydelse af beskyttelseskredsen med stikprop.
+ Hvis forbindelsen til beskyttelseskredsen kan afbrydes med stikprop eller  
+
+ anden stikforbindelse, må forbindelsen først brydes, efter at de  
+
+ spændingsførende ledere er afbrudt, og forbindelsen til beskyttelseskredsen  
+
+ skal retableres, før nogen af de spændingsførende ledere får forbindelse.  
+
+ (Dette gælder også for aftagelige eller udtrækbare dele).
+ Metalliske kapslinger på stikpropforbindelser og andre stikforbindelser  
+
+ skal forbindes til beskyttelseskredsen, medmindre der benyttes ekstra lav  
+
+ spænding efter 5.1.2.3 eller 5.1.3.
+ 5.1.2.1.5 Beskyttelseskredsens ledertværsnit.
+Alle dele af beskyttelseskredsen skal være således udformet, at de kan  
+
+ modstå de største termiske og mekaniske påvirkninger, som kan frembringes af  
+
+ de jordfejlstrømme, der kan forekomme i den pågældende del af  
+
+ beskyttelseskredsen.
+Beskyttelseslederens tværsnit skal fastlægges efter IEC  
+
+ 364-5-54, § 543.1, eller efter IEC 439, tillæg B.
+Imidlertid kan værdierne i  
+
+ tabel I anvendes i normale tilfælde uden yderligere undersøgelser.
+ Hvis der anvendes et andet ledermateriale end kobber, må det ikke have en  
+
+ elektrisk modstand pr. længdeenhed, som er større end modstanden for den  
+
+ tilladte kobberleder.
+ Steldele må anvendes som en del af beskyttelseskredsen, hvis delenes  
+
+ tværsnit mindst er elektrisk ækvivalent med ovennævnte minimumstværsnit.
+Tabel I Ledertværsnit for beskyttelsesledere af kobber 5.1.2.1.6 Klemme for den ydre beskyttelsesleder (hovedjordklemme).
+ Hele beskyttelseskredsen skal forbindes til en klemme beregnet for  
+
+ tilslutning af den ydre beskyttelsesleder efter 4.3.3. Medmindre andet er  
+
+ angivet, skal denne klemme have en størrelse, der giver mulighed for  
+
+ tilslutning af en ydre beskyttelsesleder af kobber med et tværsnit som  
+
+ angivet i tabel II.
+ Klemmen for den ydre beskyttelsesleder skal være mærket på en af følgende  
+
+ måder:
+- Med symbolet 417-IEC-5019 (jordtegn) - Med bogstaverne PE - Tofarvet grøn/gul 5.1.2.1.7 Manuelle styreorganer.
+ Manuelle styreorganer for elektrisk materiel (knapper, håndtag, hjul osv.)  
+
+ skal opfylde en af følgende betingelser:
+Dele af manuelle styreorganer, der normalt gribes om ved betjening, skal  
+
+ fortrinsvis være udført efter a.
+Lakerede og emaljerede metaldele anses ikke  
+
+ for at opfylde a.
+ 5.1.2.1.8 Dele, som ikke nødvendigvis skal forbindes med  
+
+ beskyttelseskredsen.
+Det er ikke nødvendigt at forbinde udsatte dele med beskyttelseskredsen,  
+
+ hvis delene er anbragt således, at de ikke udgør nogen fare, - enten fordi de ikke har større flader, som kan berøres, - eller fordi der ikke kan gribes om dem med hånden, - eller fordi de har små dimensioner (mindre end ca. 50 x 50 mm), - eller fordi de er placeret således, at de ikke kan komme i kontakt med  
+
+ spændingsførende dele eller dele, der kan komme under spænding ved en  
+
+ isolationsfejl.
+ Dette gælder både små dele, som f.eks. skruer, nitter, navneskilte, og  
+
+ dele inde i en kapsling uanset størrelse, som f.eks. elektromagneter på  
+
+ kontaktorer eller relæer, mekaniske dele af apparater osv.
+ 5.1.2.2 Beskyttelse ved anvendelse af materiel af klasse II eller med  
+
+ tilsvarende isolation.
+ Formålet ved denne metode er at forhindre, at der opstår farlige  
+
+ spændinger på tilgængelige dele ved en fejl i grundisolationen.
+Denne beskyttelse skal opnås, - enten ved anvendelse af elektrisk materiel med dobbelt eller forstærket  
+
+ isolation (materiel af klasse Il efter IEC 536), - eller ved anvendelse af fabriksfremstillede sammenbygninger, der har  
+
+ totalisolation efter IEC 439, § 7.4.2.2.3, DK-forklaringer 5.1.2.2 Forklaring:
+ Totalisolation indebærer, at der er opnået en udførelse svarende til  
+
+ klasse II.
+slut - eller ved anvendelse af beskyttende eller forstærket isolation efter IEC  
+
+ 364-4-41, § 413.2.
+DK-forklaringer 5.1.2.2 Forklaring:
+ Vedrørende beskyttende og forstærket isolation, se også afsnit 10, §§ 2.19  
+
+ og 2.21.
+slut For at opnå den sikkerhed, som kræves i 6.2.2 og 6.2.3, anbefales det, i  
+
+ overensstemmelse med IEC 536, § 3.3, note 5, at forbinde ledende (men ikke  
+
+ spændingsførende) dele anbragt inde i isolerende kapslinger med  
+
+ beskyttelseskredsen.
+ 5.1.2.3 Beskyttelse ved anvendelse af funktionsmæssig ekstra lav spænding  
+
+ (FELV).
+ Formålet med denne metode er at forhindre, at der kan komme farlig  
+
+ spænding på udsatte dele ved en isolationsfejl i strømkredse med ekstra lav  
+
+ spænding efter IEC 364-4-41, § 411.3.
+ Den højeste spænding i strømkredse, der er beskyttet efter denne metode,  
+
+ må ikke overstige 50 V vekselstrøm (effektivværdi) eller 120 V jævnstrøm med  
+
+ en pulsationsspænding (ripplespænding) på maksimalt 10 pct.
+ Værdier for jævnspændinger med højere puisationsspænding er under  
+
+ overvejelse.
+ Herudover skal een af betingelserne a eller b være opfyldt:
+ Transformere, der anvendes til en sådan separat forsyning, skal opfylde  
+
+ bestemmelserne for sikkerhedstransformere i IEC 742.
+ Stikpropper og stikkontakter, der anvendes i sådanne strømkredse, skal  
+
+ opfylde følgende:
+ - Stikpropper må ikke kunne indsættes i stikkontakter i strømkredse, der  
+
+ ikke er i overensstemmelse med 5.1.2.3.
+ - Stikkontakter skal forhindre indsætning af stikpropper fra strømkredse,  
+
+ der ikke er i overensstemmelse med 5.1.2.3.
+ Selv om strømkredse efter 5.1.3 opfylder bestemmelserne i 5.1.2.3, må  
+
+ stikpropper og stikkontakter ikke kunne give forbindelse mellem de to typer  
+
+ strømkredse.
+ 5.1.2.4 Beskyttelse ved separat strømkreds.
+ Formålet med at anvende en separat strømkreds er at forhindre, at der kan  
+
+ opstå chokstrømme ved berøring af udsatte dele, som er sat under spænding ved  
+
+ en fejl i grundisolationen i den separate strømkreds.
+ For denne type beskyttelse gælder bestemmelserne i IEC 364-4-41, § 413.5.
+DK-forklaringer 5.1.2.4 Forklaring:
+ Bestemmelserne i afsnit 10, § 9, kan anvendes.
+slut 5.1.3 Beskyttelse mod både direkte og indirekte berøring ved anvendelse af  
+
+ ekstra lav maskinspænding (MELV).
+ Formålet med denne beskyttelse er at beskytte personer mod farer ved  
+
+ direkte berøring af spændingsførende dele såvel som mod farer ved  
+
+ isolationsfejl mellem spændingsførende dele og udsatte dele.
+ Strømkredse, hvor visse spændingsførende dele ikke er beskyttet mod  
+
+ direkte berøring under normal drift, skal opfylde alle betingelser angivet  
+
+ under a til h:
+Note 1 Lavere spændinger kan være nødvendige under særlige forhold, f.eks. i våde  
+
+ områder.
+Note 2 Værdier for jævnspændinger med højere pulsationsspænding er under  
+
+ overvejelse.
+ - Stikpropper må ikke kunne indsættes i stikkontakter i strømkredse, der  
+
+ ikke opfylder alle bestemmelser for ekstra lav maskinspænding (MELV).
+ - Stikkontakter skal forhindre indsætning af stikpropper fra strømkredse,  
+
+ der ikke er i overensstemmelse med bestemmelserne i 5.1.3.
+ 5.1.4 Restspændinger.
+Hvis materiellet indeholder dele, som efter afbrydelse kan bibeholde  
+
+ farlig elektrisk ladning (f.eks. kondensatorer med en energi større end 0,1  
+
+ J*, anbefales det, at spændingen ved hjælp af aflademodstande reduceres til  
+
+ under 120 V (topværdi) inden 5 sekunder.
+Hvis dette ikke er muligt, skal der  
+
+ anbringes et advarselsskilt på døren eller barrieren.
+Hvis den farlige  
+
+ spænding forekommer uden for kapslingen, skal den imidlertid altid reduceres  
+
+ til under 120 V (topværdi) inden 5 sekunder.
+ * For energien gælder:
+ 5.2 Kortslutningsbeskyttelse.
+ 5.2.1 Generel beskyttelse.
+Medmindre det specielt er angivet af brugeren, påhviler det ikke  
+
+ fabrikanten af det elektriske materiel at sørge for kortslutningsbeskyttelse  
+
+ i det punkt, hvor forsyningen er sluttet til det elektriske materiel.
+Normalt  
+
+ er denne beskyttelse udført i udgangspunktet for de ledninger, der forsyner  
+
+ maskinen.
+ Fabrikanten af det elektriske materiel skal på installationstegningen give  
+
+ de oplysninger, der er nødvendige for valg af type, egenskaber, og mærke-  
+
+ eller indstillingsstrømmen for indretninger til generel beskyttelse, se  
+
+ 3.2.4.1 og 5.2.3.
+ Den generelle beskyttelse må ikke udkoble under den længste starttid, som  
+
+ tillades af motorernes overbelastningsbeskyttelse.
+ Hvis den generelle beskyttelse har momentanudløsning, skal den indstilles  
+
+ på mindst 110 pct. af den samlede største strøm til alle motorer og  
+
+ apparater, der kan indkobles, startes eller fungere samtidig.
+ 5.2.2 Beskyttelse af strømkredse og afgreninger.
+ Alle ledere skal være beskyttet mod kortslutninger med  
+
+ beskyttelsesindretninger, som er valgt efter 5.2.3. Indretninger til  
+
+ detektion og afbrydelse af kortslutningsstrømme skal være anbragt i alle  
+
+ spændingsførende ledere.
+ Det er imidlertid ikke nødvendigt at anbringe materiel til detektion eller  
+
+ afbrydelse af kortslutningsstrømmen i en eventuel nulleder (N) (eller  
+
+ midtleder (M)), se 4.3.2, hvis den er direkte forbundet til jord (TN- eller  
+
+ TT-system), og har mindst samme tværsnit som de tilhørende faseledere.
+ Vedrørenda nulledere med et mindre ledertværsnit end faselederne, se IEC  
+
+ 364.4.473, § 473.3.2.1, pkt. b.
+ Det anbefales stærkt at undgå anvendelse af nulledere, der ikke er direkte  
+
+ jordforbundet (som i IT-systemer). Anvendes der alligevel en ikke  
+
+ jordforbunden nulleder henvises til IEC 364-4-473, § 473.3.2.2.
+ Se tillæg A. spørgsmål nr. 10.
+ Beskyttelsesledere (PE) må ikke indeholde indretninger for detektion eller  
+
+ afbrydelse, se 5.1.2.1.3.
+ En beskyttelsesindretning kan beskytte flere afgreninger mod kortslutning.
+ 5.2.2.1 Beskyttelse med sikringer eller maksimalafbrydere.
+DK-forklaringer 5.2.2.1 Forklaring:
+ Betegnelsen maksimalafbryder dækker alle former for automatisk  
+
+ overstrømsafbryder, altså både automatsikringer, afbrydere med  
+
+ overstrømsudløsning osv.
+slut Hvis der anvendes sikringer, skal der vælges en type, der nemt kan fås i  
+
+ det pågældende land.
+ Brydeevnen skal mindst være lig med den prospektive kortslutningsstrøm på  
+
+ installationsstedet.
+En mindre brydeevne er tilladt, hvis der er installeret en anden  
+
+ beskyttelsesindretning på forsyningssiden (f.eks. den generelle beskyttelse)  
+
+ med den nødvendige brydeevne.
+I dette tilfælde skal de anvendte  
+
+ beskyttelsesindretningers egenskaber være koordineret således, at den energi,  
+
+ der slippes igennem af de to seriekoblede indretninger, ikke kan beskadige  
+
+ beskyttelsesindretningen på belastningssiden og de beskyttede ledere.
+Den  
+
+ ikke forsinkede momentanudløsning af indretningen på forsyningssiden skal  
+
+ være indstillet på en værdi, der er mindst 20 pct. lavere end den strøm, der  
+
+ med sikkerhed kan afbrydes af beskyttelsesindretningen på belastningssiden.
+ 5.2.2.2 Beskyttelse med relæer.
+I afgreninger er det tilladt at benytte momentane overstrømsrelæer, som  
+
+ styrer indretninger med tilstrækkelig brydeevne.
+En sådan brydeindretning kan  
+
+ være - enten en afbryder for en eller flere strømkredse eller afgreninger, - eller indretninger for generel beskyttelse, - eller et nødstop, se 5.6.
+ 5.2.3 Mærke- og indstillingsværdier for indretninger til  
+
+ kortslutningsbeskyttelse.
+ Mærkestrømmen for sikringer eller indstillingsværdien for andre  
+
+ indretninger til kortslutningsbeskyttelse skal vælges så lav som mulig, men  
+
+ alligevel så høj, at de ikke bryder for overstrømme ved start af motorer  
+
+ eller indkobling af transformere m.v.
+Mærkestrømmen for sikringer eller indstillingsværdien for indretninger til  
+
+ kortslutningsbeskyttelse bestemmes af det mindste ledertværsnit, som skal  
+
+ beskyttes, og fastlægges som angivet i tillæg B, pkt.
+B2.
+Note 1 PVC-isolerede ledninger vil normalt være kortslutningsbeskyttet, hvis  
+
+ indretningens totale brydetid (incl. tolerancer eller spredning), ved den  
+
+ strøm, som er anført i tillæg B, tabel B III, for det mindste ledertværsnit,  
+
+ aldrig overstiger den tid, der er anført i samme linie af tabel B III.
+Note 2 Hvis det af hensyn til indkoblingsstrømme eller af andre grunde er  
+
+ nødvendigt at anvende større mærkestrømme eller større indstillingsværdier  
+
+ end tilladt efter tillæg B, pkt.
+B2, eller ovenstående note 1, skal ledernes  
+
+ tværsnit øges tilsvarende.
+Note 3 Vedrørende fastlæggelse af ledernes tværsnit, specielt for isolerede  
+
+ ledninger, se 9.3.
+Note 4 Ledningsføring for elektroniske kredse med stationære strømme under 2 A,  
+
+ som er anbragt inde i en kapsling for elektronisk materiel, såvel som ledere  
+
+ i elektroniske laveffektkredse på kredskort eller inde i komponenter, behøver  
+
+ ikke at opfylde andet stykke af 5.2.3 eller note 1 til 3.
+Note 5 Kortslutningsbeskyttelsen skal ikke blot vælges for at beskytte lederne,  
+
+ men også for at opfylde behovet for koordination med andre elektriske  
+
+ indretninger.
+Vedrørende kortslutningsbeskyttelse af elektronisk materiel  
+
+ henvises til fabrikantans anvisninger.
+ 5.2.4 Ledninger mellem afgreningspunkter og afgreningens  
+
+ beskyttelsesindretning.
+Hvis ledningen mellem et afgreningspunkt og afgreningens  
+
+ beskyttelsesindretning har reduceret ledertværsnit, kræves ingen speciel  
+
+ kortslutningsbeskyttelse af denne ledning forudsat, - at ledertværsnittet mindst er det samme som kræves for ledere efter  
+
+ beskyttelsesindretningen, - at ledningen ikke er længere end 3 m, - at ledningen er beskyttet mod ydre påvirkninger, med en kapsling eller  
+
+ en ledningskanal, og - at ledningen ikke er anbragt i nærheden af brændbart materiale.
+ 5.3 Overbelastningebeskyttelse.
+ Overbelastningsbeskyttelse af ledere kræves kun for strømkredse, der  
+
+ forsyner stikkontakter, se 5.3.3.
+ 5.3.1 Motorbeskyttelse.
+Alle motorer over 1 kW, som normalt er i kontinuert drift, skal være  
+
+ overbelastningsbeskyttet.
+Desuden anbefales det at overbelastningsbeskytte  
+
+ alle andre motorer, især motorer for pumper til kølemidler.
+Der skal være indretninger til detektion af overbelastning (bortset fra  
+
+ indbygget termisk beskyttelse) og brydekontakter i alle spændingsførende  
+
+ ledere, bortset fra nullederen (N) eller midtlederen (M). Alle kontakter i  
+
+ brydeindretningen for en motor skal slutte og bryde samtidig.
+I visse  
+
+ tilfælde kan antallet af indretninger til detektion af overbelastning dog  
+
+ reduceres, hvis dette er godkendt skriftligt af brugeren.
+ Hvis motorer starter og bremser hyppigt, kan det være vanskeligt at opnå  
+
+ en overbelastningsbeskyttelse med en tidskonstant svarende til den pågældende  
+
+ viklings termiske tidskonstant (eksempler herpå er motorer, som anvendes til  
+
+ hurtige forskydninger, låsning, hurtig reversering, specielle boreoperationer  
+
+ osv.). I disse tilfælde kræves kun kortslutningsbeskyttelse.
+ Hvis effekten overstiger 2 kW, anbefales det imidlertid at anvende  
+
+ specielle beskyttelsesindretninger, såsom ikke-termiske inverstidsrelæer,  
+
+ termiske relæer forsynet gennem mætningstransformere, eller indbygget termisk  
+
+ beskyttelse.
+ Det anbefales også at anvende indbygget termisk beskyttelse for motorer,  
+
+ hvor kølingen kan blive forringet, f.eks. som følge af forurening fra  
+
+ omgivelserne.
+Indbygget termisk beskyttelse kan (afhængig af motortype) ikke altid sikre  
+
+ beskyttelse ved blokeret rotor.
+Under sådanne forhold kan det være nødvendigt  
+
+ at anvende et ekstra overbelastningsbeskyttelsesrelæ.
+ 5.3.2 Automatisk genstart.
+ Hvor der kan opstå en farlig situation ved automatisk genstart af en  
+
+ motor, efter at overbelastningsbeskyttelsen har udløst, f.eks. efter afkøling  
+
+ af et termisk udløseelement, skal der tages passende forholdsregler for at  
+
+ forhindre automatisk genstart.
+ 5.3.3 Beskyttelse af stikkontakter.
+Alle spændingsførende ledere, der forsyner stikkontakter til almindelige  
+
+ formål, skal være beskyttet mod overbelastning.
+Nullederen behøver dog ikke  
+
+ at have selvstændig overbelastningsbeskyttelse.
+ 5.4 Beskyttelse mod automatisk genstart efter spændingsbortfald.
+ Hvor automatisk genstart af en motor eller af andre apparater efter  
+
+ spændingsbortfald kan medføre risiko for personalet, beskadigelse af maskinen  
+
+ eller af det igangværende arbejde, skal automatisk genstart være forhindret.
+Påvirkes maskinens drift ikke af spændingsbortfald, som kun varer i  
+
+ brøkdele af et sekund, kan den forsynes med en underspændingsindretning med  
+
+ tidsforsinkelse.
+Hvor der anvendes kontaktorer, må den forsinkede udkobling  
+
+ og genindkoblingen på ingen måde forhindre momentan udkobling over  
+
+ styremateriellet (positionsfølere eller endestop, relæer, trykknapper osv.).
+ 5.5 Underspændingsbeskyttelse.
+ I de tilfælde, hvor et gradvis tiltagende spændingsfald vil kunne  
+
+ forårsage fejlfunktion i det elektriske materiel, og dette kunne medføre  
+
+ risiko for personer, maskinen eller det igangværende arbejde, skal maskinen  
+
+ være udrustet med en underspændingsindretning, der sikrer passende  
+
+ beskyttelse ved et forudbestemt spændingsniveau.
+ Hvor automatisk genstart af en motor eller af andre apparater efter et  
+
+ stop forårsaget af en underspændingsbeskyttelse, kan indebære fare for  
+
+ personer eller risiko for beskadigelse af maskinen eller igangværende  
+
+ arbejde, skal automatisk genstart være udelukket.
+ 5.6 Nødstop og forsyningsadskiller.
+En maskines elektriske materiel skal indeholde indretninger, som kan - stoppe maskinen i tilfælde af fare og, hvis det er nødvendigt, reversere  
+
+ visse bevægelser for at tilvejebringe en frigørelse, - adskille det elektriske materiel fra forsyningen.
+ Hvis begge funktioner sker ved afbrydelse af de samme strømkredse, kan der  
+
+ anvendes een indretning, som opfylder alle bestemmelserne i 5.6.1 og 5.6.2,  
+
+ til begge funktioner.
+ 5.6.1 Nødstop.
+ Hvor det er nødvendigt for at undgå skade på personale eller beskadigelse  
+
+ af maskinen, skal betjening af nødstoppet standse maskinens farlige dele  
+
+ eller hele maskinen, så hurtigt som det er praktisk muligt.
+ En af metoderne a eller b skal anvendes:
+ Hvor flere kontaktorer er serieforbundet, som f.eks. kontaktorer for  
+
+ reversering og stjernetrekantkobling af den samme motor, skal alle  
+
+ kontaktorers spoler gøres spændingsløse.
+ Anvendes der imidlertid modstrømsbremsning ved nødstop eller  
+
+ motorreversering for frigørelse, må de tilhørende effektkredse først  
+
+ afbrydes, når disse sikkerhedsfunktioner er afsluttet.
+ Hvor modstrømsbremsning anvendes ved nødstop, må der tages forholdsregler  
+
+ for at undgå enhver fare ved motorreversering, se også 6.2.4.4.
+Det signal, som styrer afbrydelsen, skal overføres til brydeindretningerne  
+
+ enten ved direkte mekanisk forbindelse eller ved afbrydelse af en styrekreds,  
+
+ der normalt er under spænding.
+Sådanne strømkredse skal være efter 5.7.
+5.6.1.1 Nødstopafbryderen efter 5.6.1, pkt. a, skal kunne bryde den  
+
+ største strøm, som forekommer, når den største motor på maskinen er blokeret,  
+
+ samtidig med, at det øvrige materiel optager normal strøm.
+Afbryderen for  
+
+ styrekredsen efter 5.6.1, pkt. b, skal have tilstrækkelig brydeevne til at  
+
+ bryde styrestrømmen (AC 11 efter IEC 337). De brydeindretninger, som udløses  
+
+ af styreordren i b, skal have samme brydeevne, som er krævet for afbryderen  
+
+ under a, men kun i relation til de apparater, som forsynes igennem dem.
+Hvis brydeindretningerne i nødstoppet efter metode a eller b  
+
+ (effektafbrydere, kontaktorer) har tilstrækkelig brydeevne, kan de være  
+
+ forsynet med udløsere eller relæer og samtidig tjene til beskyttelse mod  
+
+ overbelastning og/eller kortslutning.
+Kontakterne på håndbetjente nødstop  
+
+ skal have positiv brydefunktion, se 8.1.4.
+ 5.6.1.2 Nødstoppets funktion må ikke medføre fare for personale eller  
+
+ risiko for maskinen, og må ikke medføre afbrydelse af forsyningen til  
+
+ hjælpeudstyr, som skal fortsætte med at fungere selv i nødsituationer, såsom  
+
+ magnetiske holde- eller bremseindretninger.
+ Hvor det er nødvendigt af hensyn til personalets sikkerhed, skal  
+
+ aktivering af nødstoppet igangsætte frigørelsesbevægelser.
+ Tilbagestilling af nødstoppet må ikke genstarte nogen del af maskinen.
+ 5.6.1.3 Styreorganer for nødstop kan være:
+ - Håndtaget på nødstopafbryderen.
+ - En eller flere trykknapper af paddehattype.
+ - En eller flere liner ført langs det område, der skal beskyttes, og som  
+
+ udløser nødstoppet, både ved træk og ved brud.
+ - En eller flere stopskinner eller pedaler (uden mekanisk beskyttelse).
+- Enhver anden indretning, som er mere egnet til formålet.
+Sådanne  
+
+ styreorganer skal anbringes således, at operatøren let kan se dem og nå dem  
+
+ fra sine arbejds- og betjeningspositioner.
+Hvis der er flere  
+
+ arbejdspositioner eller betjeningspladser ved en maskine, eller andre  
+
+ kritiske steder, skal det fra alle disse være nemt at nå et styreorgan for  
+
+ nødstop, og det anbefales at anbringe styreorganer alle disse steder.  
+
+ Styreorganer for nødstop skal være røde.
+Eventuelle flader bag eller under  
+
+ håndtag og trykknapper skal være gule, så styreorganet står i klar kontrast.
+ Hvis der er flere styreorganer, må det først være muligt at genstarte  
+
+ maskinen, når alle de betjente styreorganer er tilbagestillet manuelt, f.eks.  
+
+ skal styreorganer til fjernbetjente nødstopindretninger forsynes med en  
+
+ mekanisk holdemekanisme.
+ 5.6.2 Forsyningsadskiller.
+Med en håndbetjent adskiller skal det være muligt at adskille alt det  
+
+ elektriske materiel på maskinen fra forsyningen, f.eks. ved - rengøring af maskinen, - vedligeholdelse og reparationer, - langvarige driftsstandsninger.
+ Imidlertid kan store maskiner med flere mekanisk uafhængige sektioner, der  
+
+ hver har sit eget elektriske materiel, være forsynet med en adskiller for  
+
+ hver enkelt sektion.
+Hvis der er mere end een effektforsyning (se 4.3.1), kan hver forsyning  
+
+ have sin adskiller.
+Hvis betjening af en enkelt adskiller kan medføre fare  
+
+ eller forårsage skade, skal strømkredsene være tvangskoblet på en sadan måde,  
+
+ at dette er forhindret.
+ Forsyningsadskillere skal være en af følgende typer og desuden opfylde  
+
+ bestemmelserne i 5.6.2.1 til 5.6.2.3:
+ 5.6.2.1 Hvis en forsyningsadskiller er anbragt inden for operatørens  
+
+ rækkevidde, skal den for tilfælde a og c i 5.6.2 mindst have den brydeevne,  
+
+ som kræves for nødstopafbrydere.
+ Hvis en stikkontaktforbindelse anvendes som forsyningsadskiller, skal den  
+
+ have en brydeevne, der mindst er lig med maskinens mærkestrøm ved  
+
+ mærkespænding.
+ 5.6.2.2 Den forsyningsadskiller, som er nævnt i 5.6.2 under a, b og c  
+
+ (lastadskiller, adskiller eller effektafbryder), skal opfylde følgende  
+
+ bestemmelser:
+- Dens grundlæggende funktion er at adskille det elektriske materiel fra  
+
+ forsyningen.
+Den må kun have een ude- og een inde-stilling, tydeligt mærket  
+
+ med I og 0 (symbolerne 417-IEC-5007 og 5008).
+ - Den skal have synligt skillested, eller være forsynet med en  
+
+ stillingsindikator, som ikke kan vise ude, før alle kontakter er helt åbne,  
+
+ og der er opnået en tilstrækkelig isolationsafstand mellem alle kontakter i  
+
+ overensstemmelse med IEC 408.
+- Den skal have et udvendigt betjeningsgreb, se dog undtagelsen i 5.6.2.3.  
+
+ Hvis adskilleren ikke samtidig tjener som afbryder (se 5.6, sidste stykke),  
+
+ må betjeningsgrebet ikke være rødt.
+Farverne sort eller grå anbefales.
+ - Den skal kunne låses i åben stilling, f.eks. med hængelås.
+- Den skal adskille alle spændingsførende ledere i forsyningskredsen.
+Hvis  
+
+ der er flere forsyninger (se 5.6.2), skal der være en adskiller for hver  
+
+ forsyning.
+I TN-systemer kræves dog ikke adskillelse i nullederen, se også  
+
+ 4.3.2.
+ Se tillæg A, spørgsmål 10.
+ I visse lande kræves adskillelse af en eventuel nulleder.
+DK-forklaringer 5.6.2.2 Forklaring:
+ I Danmark kræves ikke adskillelse af nullederen i TN-systemer.
+slut 5.6.2.3 Afbrydere, der manøvreres elektrisk, med trykluft e.l., kan  
+
+ anvendes som adskillere, hvis de samtidig opfylder følgende bestemmelser:
+ - De skal have et håndtag for manuel betjening (dette behøver ikke at  
+
+ kunne betjenes ude fra, hvis der udvendigt er andre midler til udkobling af  
+
+ afbryderen).
+ - Når afbryderen er aflåst i ude-stilling, skal såvel manuel som  
+
+ fjernstyret indkobling være udelukket.
+ 5.6.2.4 Forsyningsadskillerens håndtag skal være let tilgængeligt og  
+
+ anbragt mellem 0,6 og 1,9 m over gulv eller serviceplan.
+ 5.6.2.5 Forsyningen til følgende strømkredse kræves ikke ført gennem  
+
+ forsyningsadskilleren:
+ - Strømkredse for belysning, der benyttes ved vedligeholdelse og  
+
+ reparation.
+ - Strømkredse med stikkontakter, som udelukkende anvendes for tilslutning  
+
+ af reparations- og vedligeholdelsesværktøj, som f.eks. håndboremaskiner.
+- Strømkredse for underspændingsudløsere, der udelukkende anvendes til  
+
+ automatisk udkobling ved fejl i forsyningen.
+Dette gælder uanset spænding.
+ - Styrekredse efter 5.6.2.7.
+ I alle disse tilfælde skal en advarselsmærkning være anbragt i nærheden af  
+
+ forsyningsadskilleren, og en bemærkning i vedligeholdelsesinstruktionen skal  
+
+ advare om, at visse strømkredse fortsat kan være i forbindelse med en  
+
+ forsyning, selv om adskillerne er åbne.
+ Det anbefales, at sådanne strømkredse har deres egen adskiller.
+5.6.2.6 Under alle omstændigheder skal alle dele, som stadig er  
+
+ spændingsførende, efter at adskillerne er åbne, have en særskilt afdækning,  
+
+ der hindrer utilsigtet berøring selv når låg, dæksler eller barrierer, der  
+
+ giver adgang til spændingsløst materiel, er fjernet.
+Sådanne særskilte  
+
+ afdækninger skal være mærket med et advarselstegn efter 3.1.1.
+ Undtaget fra denne bestemmelse er tilslutningsklemmerne på  
+
+ forsyningsadskilleren, når denne er monteret alene i en separat kapsling.
+ Bestemmelserne i 5.6.2.6 gælder ikke for strømkredse med ekstra lav  
+
+ spænding efter 5.1.2.3 og 5.1.3.
+5.6.2.7 Til styrekredse for tvangskobling, som forsynes ude fra, og som  
+
+ vedbliver at være spændingsførende, når forsyningsadskilleren er åben,  
+
+ anbefales det at anvende ledere med orangefarvet isolation.
+Bestemmelserne i  
+
+ 5.6.2.6 gælder ikke for disse strømkredse, hvis de er forsynet med  
+
+ advarselsmærkning.
+ 5.7 Beskyttelse ved fejl.
+ Hvis en fejl i det elektriske materiel kan medføre fare, skal der træffes  
+
+ passende forholdsregler for at undgå dette, f.eks. ved at anvende:
+ - Mekaniske sikkerhedsforanstaltninger på maskinen.
+ - Passende tvangskobling mellem elektriske strømkredse, der styrer  
+
+ mekaniske bevægelser.
+ - Supplerende strømkredse for sikkerhedsfunktioner.
+ - Redundans.
+ I denne forbindelse kan redundans opnås f.eks. ved dublering eller  
+
+ triplering af strømkredse, kombineret med en styrefunktion, som kun tillader  
+
+ styring, hvis mindst to af signalerne er identiske.
+ En eller flere af ovennævnte metoder, eller andre metoder kan anvendes  
+
+ samtidig.
+ Særlig opmærksomhed skal rettes mod fejl i tilbagekoblede signaler, f.eks.  
+
+ afbrydelse.
+ 5.7.1 Hvis mellemrelæer anvendes i sikkerhedskredse (dvs. hvor fejl i  
+
+ sådanne relæer kan gøre særlige sikkerhedsfunktioner uvirksomme), skal der  
+
+ opnås redundans ved anvendelse af parvis fungerende relæer, idet hvert relæs  
+
+ kontakter skal indgå i de relevante strømkredse på en sådan måde, at  
+
+ sikkerhedskredsen fortsat fungerer effektivt, selv ved fejl i eet relæ.
+ Sådanne relæer skal kontrolleres automatisk for slutte- og brydefunktion  
+
+ mindst een gang i hver inde-/ude-cyklus for maskinen.
+ 5.7.2 Særlige strømkredse til sikkerhedsfunktioner skal ved fejl antage en  
+
+ sikker tilstand.
+ En fejl på en vilkårlig komponent eller et vilkårligt apparat i en sådan  
+
+ strømkreds, afbrydelse eller kortslutning i kredsen, eller afbrydelse af  
+
+ kredsens forsyning skal f.eks. medføre:
+ - Øjeblikkeligt stop.
+ - Standsning og reversering af farlige deles bevægelser, før skade kan  
+
+ opstå, hvor dette er nødvendigt.
+ - At en eventuel mekanisk beskyttelse forbliver i en sådan stilling, at  
+
+ den forhindrer adgang til det farlige område, hvor dette er nødvendigt.
+ Desuden skal disse strømkredse være udformet således, at fejl ikke  
+
+ medfører fare for personer.
+ 5.8 Radiostøj.
+5.8.1 Radiostøjen fra det elektroniske materiel skal være reduceret til et  
+
+ minimum.
+Vedrørende tilladte grænser og metoder til måling af radiostøj se  
+
+ CISPR 11 og CISPR 14. Se også EF-direktiv af 1. april 1975 (76/889/EØF).
+ 5.8.2 Uønskede virkninger af elektrostatiske og elektromagnetiske  
+
+ forstyrrelser skal undgås, f.eks. ved anvendelse af passende filtre og  
+
+ tidsforsinkelser, valg af passende effektniveau, passende ledningstyper,  
+
+ fremføringsmåder osv.
+ Følgende forholdsregler kan i visse tilfælde reducere forstyrrelser, især  
+
+ hvor der anvendes transducere med lille udgangseffekt:
+ - Referencepotentialkreds eller fælles tilslutninger:
+ Hver fælles tilslutning behandles som en selvstændig strømkreds og  
+
+ forbindes til et eller flere centrale referencepunkter, som er jordforbundet  
+
+ med isolerede ledere med stort tværsnit.
+ - Stelforbindelser:
+I hver del af materiellet føres alle stelforbindelser til et fælles punkt,  
+
+ og bevægelige dele forbindes til kapslingen med flettede ledere med stort  
+
+ tværsnit.
+Forbindelser til stel udføres så korte som muligt.
+ - Signaltransmission:
+ Der anvendes elektrostatiske og elektromagnetiske skærme, snoede ledere og  
+
+ hensigtsmæssig placering (krydsning af ledere foregår så vidt muligt under  
+
+ store vinkler) i den udstrækning, som er nødvendig for at hindre, at  
+
+ signaltransmissionen forstyrres af styre- eller effektledninger.
+ - Separat anbringelse af materiel:
+ Følsomt materiel (dele, der abejder med impulser og/eller lave niveauer)  
+
+ anbringes separat eller skærmes fra koblingsmateriel, såsom elektromagnetiske  
+
+ relæer, tyristorer osv.
+6 Styre- og signalkredse 6.1 Forsyning og beskyttelse af styre- og signalkredse.
+ 6.1.1 Anvendelse af transformere.
+For maskiner, der ikke er helt ukomplicerede, f.eks. med mere end fem  
+
+ spoler (kontaktorer, relæer, ventiler osv.), eller hvis styremateriel eller  
+
+ instrumenter er anbragt uden for kapslingen, skal der anvendes transformere  
+
+ til forsyning af styre- og signalkredse.
+Transformerne skal have adskilte  
+
+ viklinger og tilsluttes forsyningsadskillerens belastningsside, fortrinsvis  
+
+ mellem to faseledere.
+ Hvis der både anvendes styrekredse med vekselspænding og styrekredse med  
+
+ jævnspænding, skal de forsynes fra hver sin vikling med tilstrækkelig  
+
+ isolation mellem viklingerne.
+ Til forsyning af elektroniske styre- og signalkredse skal der altid  
+
+ anvendes transformere.
+ Anvendelse af transformere til styrekredse er obligatorisk.
+ Transformere til forsyning af styre- og signalkredse må kun forsyne  
+
+ sådanne kredse, og de skal have en reservekapacitet på mindst 25 pct. af  
+
+ hensyn til senere udvidelser.
+ 6.1.2 Direkte tilslutning til forsyningen.
+Ved direkte tilslutning af styrekredse til forsyningen må de særlige  
+
+ forholdsregler i 6.2.2, fjerde stykke, kun udelades, hvis forsyningen har  
+
+ jordforbundet nulleder.
+Styrekredsen skal i dette tilfælde være tilsluttet  
+
+ mellem en faseleder og den jordforbundne nulleder.
+ Separate startindretninger med egen kapsling tillades anvendt, selv om de  
+
+ ikke opfylder 6.2.2.
+ 6.1.3 Flere transformere.
+Hvis flere transformere til forsyning af styrekredse er i kontinuerlig  
+
+ drift, skal hver enkelt transformer så vidt muligt forsyne styrekredsene for  
+
+ afgrænsede mekaniske enheder.
+Derved kan styrekredsene udformes således, at  
+
+ der ikke opstår fare for personale, for maskinen eller for beskadigelse af  
+
+ igangværende arbejde, hvis en af strømkredsene er ude af drift.
+ Hvis en maskine indeholder flere transformere til forsyning af styre-  
+
+ eller signalkredse, og disse transformere giver samme spænding(er), anbefales  
+
+ det at tilslutte primærsiden, så lederne på sekundærsiden er i fase (dvs. at  
+
+ de på ethvert tidspunkt har samme potentiale).
+ 6.1.4 Overstrømsbeskyttelse.
+ 6.1.4.1 Styre- og signalkredse, der er direkte tilsluttet forsyningen,  
+
+ samt strømkredse, der forsyner transformere for styre- og signalkredse, skal  
+
+ være kortslutningsbeskyttet efter 5.2.2 og 5.2.3.
+ Ved valg af beskyttelsesindretning bør beskyttelsen af hjælpekontakter mod  
+
+ svejsning ved kortslutning også tages i betragtning.
+ 6.1.4.2 Når styre- og signalkredse forsynes fra en transformer, hvor  
+
+ sekundærviklingens ene side er forbundet til beskyttelseskredsen, kræves der  
+
+ kun kortslutningsbeskyttelse i sekundærkredsens anden leder.
+ 6.1.4.3 Der kræves ikke overbelastningsbeskyttelse af styre- og  
+
+ signalkredse.
+ 6.1.4.4 Det anbefales, at ventiler, koblinger og andre spoler forsynes fra  
+
+ en separat styrekreds, der er selvstændigt beskyttet og er uden forbindelse  
+
+ med styrekredse, der forsyner relæer og kontaktorer.
+ 6.2 Styrekredse.
+ 6.2.1 Foretrukne værdier for styrespændinger.
+ For styrekredse, som er forbundet direkte til forsyningen, enten mellem  
+
+ faser eller mellem fase og nul (for ukompliceret materiel), kan der ikke  
+
+ foreskrives nogen foretrukken spænding, da spændingen er den samme som  
+
+ forsyningens.
+ For styrekredse med vekselspænding, som forsynes fra en transformer, er de  
+
+ foretrukne sekundærspændinger:
+24 V, 50 eller 60 Hz 48 V, 50 eller 60 Hz På grund af ulemper ved anvendelsen af meget lave spændinger især i kredse  
+
+ med kontakter, som er udsat for atmosfærens påvirkninger, anbefales 48 V  
+
+ eller højere spændinger.
+110 V, 50 Hz 115 V, 60 Hz 220 V, 50 Hz 230 V, 60 Hz For værktøjsmaskiner er de foretrukne spændinger:
+110 V, 50 Hz 115 V, 60 Hz For styrekredse med jævnspænding er de foretrukne spændinger:
+24, 48, 110, 220 eller 250 V Andre lave spændinger er tilladt til forsyning af elektroniske kredse og  
+
+ elektroniske enheder, som kun forekommer for sådanne lave spændinger, Ved store maskiner, ved lange ledningstrækninger eller hvor der er mange  
+
+ kontakter i serie, kan styrespændinger på 24 eller 48 V ikke anbefales på  
+
+ grund af spændingsfaldet.
+ 6.2.2 Beskyttelse mod utilsigtet funktion ved jordfejl.
+ Jordfejl i en styrekreds må ikke medføre utilsigtet start, farlige  
+
+ bevægelser eller forhindre maskinens standsning.
+ For at opfylde denne bestemmelse anbefales det, at den ene side af  
+
+ styrekredsen forbindes til beskyttelseskredsen, og at spoler og kontakter  
+
+ forbindes som angivet i 6.2.3.
+ For elektroniske kredse kan utilsigtet funktion forhindres ved at forbinde  
+
+ styrekredsens ene side med beskyttelseskredsen, Hvor dette ikke hjælper,  
+
+ eller hvor det af andre årsager ikke er muligt at forbinde den elektroniske  
+
+ kreds til beskyttelseskredsen, skal der udføres andre foranstaltninger for at  
+
+ opnå samme sikkerhedsniveau.
+ Når styrekredsen er forbundet direkte til forsyningen, enten mellem to  
+
+ faser eller mellem en fase og en nulleder, som ikke er jordforbundet, eller  
+
+ som er jordforbundet over en stor impedans, skal der anvendes topolede  
+
+ styrekontakter til start og stop af de maskinfunktioner, som kan medføre fare  
+
+ for personale eller for maskinen, ved utilsigtet start eller når stop er  
+
+ forhindret.
+ Styrekredse, som forsynes fra en transformer, og som ikke er forbundet med  
+
+ beskyttelseskredsen, skal have en indretning til isolationsovervågning, der  
+
+ enten indikerer en eventuel jordfejl eller automatisk afbryder strømkredsen  
+
+ ved en jordfejl.
+ Der gøres opmærksom på, at den udeladelse af forbindelsen mellem  
+
+ materiellets udsatte dele og beskyttelseskredsen, som er tilladt efter  
+
+ 5.1.2.2 til 5.1.2.4 og 5.1.3, kan medføre, at de sikkerhedsforanstaltninger,  
+
+ som er beskrevet i 6.2.2 og 6.2.3, ikke bliver effektive.
+ Der bør også tages hensyn til forhold, såsom isolationsovervågning,  
+
+ følgerne af fejlfunktion ved jordfejl osv.
+ 6.2.3 Forbindelse af spoler, kontakter, indgangs- og udgangsenheder.
+ 6.2.3.1 Forbindelse af spoler og kontakter.
+I styrekredse, hvor den ene side er forbundet (eller er beregnet til et  
+
+ blive forbundet) med beskyttelseskredsen, skal en klemme på spolen på hver  
+
+ elektromagnetisk indretning eller en klemme på andre elektriske apparater  
+
+ forbindes direkte til denne side af styrekredsen.
+Sådanne klemmer skal så  
+
+ vidt muligt have samme mærkning.
+Alle kontakter i styreindretninger, der  
+
+ styrer spolen (indretningen eller apparatet), skal være forbundet mellem  
+
+ spolens (indretningens eller apparatets) anden klemme og den side af  
+
+ styrekredsen, som ikke er forbundet til beskyttelseskredsen.
+ Følgende undtagelser fra denne regel er tilladt:
+ Undtagelsen under b forudsætter en meget omhyggelig udformning for at  
+
+ undgå, at fejl medfører fare.
+ 6.2.3.2 Forbindelse af indgangs- og udgangsenheder.
+ For at undgå farlige situationer skal indgangs- og udgangsenheder  
+
+ forbindes med den side af styrekredsen, som ikke er forbundet med  
+
+ beskyttelseskredsen, og som ikke har et referencepotentiale.
+ 6.2.4 Beskyttende tvangskoblinger.
+ 6.2.4.1 Drift af hjælpefunktioner.
+ Hvis en motor eller en indretning for en hjælpefunktion (såsom smøring,  
+
+ fjernelse af kølemidler og spåner) ikke fungerer, og dette kan forringe  
+
+ personalets sikkerhed, forårsage beskadigelse af maskinen eller forstyrre  
+
+ produktionen, skal utilsigtet stop af en sådan hjælpefunktion, for eksempel  
+
+ ved udløsning af et overbelastningsrelæ, medføre standsning af alle andre  
+
+ motorer, der kan forårsage en ulykke, hvis de ikke standser samtidig.
+ Særlige indretninger, f. eks. trykfølere, skal kontrollere, at udstyr til  
+
+ hjælpefunktioner fungerer korrekt.
+ 6.2.4.2 Tvangskobling mellem forskellige arbejdsoperationer.
+ Passende tvangskoblinger skal forhindre samtidig funktion af forskellige  
+
+ arbejdsoperationer, hvis samtidig funktion kan medføre beskadigelse.
+ 6.2.4.3 Tvangskobling mellem modsat rettede bevægelser.
+ Alle kontaktorer, relæer og elektroniske enheder, som styrer dele på  
+
+ maskinen, der kan medføre fare, hvis de aktiveres samtidig, for eksempel hvis  
+
+ de medfører modsatte bevægelser, skal være beskyttet mod fejlfunktion.  
+
+ Reverseringskontaktorer, som styrer en motors omløbsretning, skal være  
+
+ tvangskoblet på en sådan måde, at der under normal drift ikke kan opstå  
+
+ kortslutning ved omkobling.
+ 6.2.4.4 Modstrømsbremsning.
+ Hvis modstrømsbremsning af en motor, kan indebære fare for personalet  
+
+ eller risiko for beskadigelse af igangværende arbejde, hvis motoren går i  
+
+ gang med modsat omløbsretning efter bremsningen, skal der træffes effektive  
+
+ forholdsregler for at hindre dette.
+ Til dette formål må der ikke anvendes en indretning, hvis funktion  
+
+ udelukkende er tidsafhængig.
+ Styrekredse skal være udført således, at drejning af akslen, manuelt eller  
+
+ på anden måde, ikke kan medføre utilsigtet start.
+ 6.2.4.5 Hastighedsbeskyttelse af jævnstrømsmotorer.
+Jævnstrømsmotorer, der kan løbe løbsk, skal forsynes med en  
+
+ hastighedsbeskyttelse.
+For shunt- og fremmedmagnetiserede motorer kan der i  
+
+ stedet anvendes beskyttelse mod manglende magnetisering.
+ 6.2.4.6 Begrænsning af bevægelser.
+ Hvis en for lang bevægelse kan medføre fare, skal alle positionsfølere,  
+
+ der har deres normale funktion i en arbejdsoperation, være dubleret med en  
+
+ grænsepositionsføler, der som et minimum er i stand til at stoppe den  
+
+ pågældende bevægelse på en sikker måde.
+ Det anbefales, at denne supplerende positionsføler direkte afbryder  
+
+ effektforsyningen til den pågældende motor, eller udløser standsning af hele  
+
+ maskinen.
+ 6.2.4.7 Beskyttende afskærmninger.
+ Hvis maskinen standser ved fjernelse af beskyttelsesskærme m.m der  
+
+ forhindrer adgang til farlige dele eller områder, må genanbringelse af  
+
+ skærmene ikke medføre, at maskinen starter, hvis dette kan føre til en farlig  
+
+ situation.
+ 6.2.5 Start- og stopfunktioner.
+ I almindelighed gælder følgende:
+ Hvis et eller flere af disse krav i helt specielle tilfælde undtagelsesvis  
+
+ ikke er opfyldt, skal fuld sikkerhed være opnået på anden måde.
+ For yderligere information om anvendelse af binære elektroniske elementer,  
+
+ se IEC 113-7.
+ 6.2.6 Start af arbejdscyklus.
+ Start af en arbejdscyklus eller en arbejdsoperation må kun være mulig,  
+
+ hvis alle sikkerhedsforanstaltninger for personalet, maskinen og det  
+
+ igangværende arbejde er effektive, og alt udstyr til hjælpefunktioner er i  
+
+ drift.
+Der skal være passende tvangskoblinger til at sikre den rigtige rækkefølge  
+
+ af arbejdscykler og arbejdsoperationer.
+Når det er nødvendigt af hensyn til  
+
+ indkøring, kan der være særlige midler, der muliggør individuel funktion, men  
+
+ herunder skal tvangskoblinger til sikring af personalet så vidt muligt stadig  
+
+ være effektive.
+ Strømkredse, som sikrer funktionerne efter 6.2.6.1, 6.2.6.2 og 6.2.6.3,  
+
+ skal være således udført, at enhver fejl i disse strømkredse medfører, at der  
+
+ ikke kan udløses en startordre.
+ 6.2.6.1 Start af en arbejdscyklus med flere trykknapper.
+ For maskiner, der betjenes af mere end en operatør, og hvor det er  
+
+ nødvendigt, at alle operatører er færdige, før den næste arbejdscyklus  
+
+ startes, skal hver operatør have en trykknap for start af arbejdscyklus.  
+
+ Maskinen må kun kunne starte, hvis alle disse trykknapper er aktiveret  
+
+ samtidig.
+ Der kan dog anvendes en nøglebetjent omskifter, der tillader samtidig brug  
+
+ af visse stationer eller fastlægger en bestemt betjeningsrækkefølge af  
+
+ knapperne, for at starte en arbejdscyklus.
+ 6.2.6.2 Automatisk stop efter afslutning af en arbejdscyklus og  
+
+ forhindring af arbejdscyklens gentagelse.
+Hvis en uventet eller utilsigtet gentagelse af en arbejdscyklus kan  
+
+ medføre fare, skal strømkredsene være således udformet, at dette ikke kan  
+
+ ske, selv om et vilkårligt styreorgan forbliver aktiveret af operatøren(rne).  
+
+ Maskinen skal stoppe ved udløbet af en arbejdscyklus uden indgreb fra  
+
+ operatøren.
+Det skal være nødvendigt at betjene alle styreorganer på ny for  
+
+ at starte en ny arbejdscyklus.
+ Når der er foreskrevet tohåndsbetjening, skal denne tvangskobling altid  
+
+ findes.
+ 6.2.6.3 Tohåndsbetjening.
+ Denne metode skal benyttes sammen med 6.2.6.2.
+Hvis betjening med begge hænder, og kun med begge hænder, er nødvendig for  
+
+ operatørers sikkerhed (dvs. hvor operatører skal tvinges til at fjerne  
+
+ hænderne fra farlige zoner), skal hver operatør have to trykknapper for start  
+
+ af arbejdscyklus.
+Alle disse trykknapper skal samtidig holdes i den  
+
+ aktiverede stilling under hele processen eller mindst indtil det tidspunkt,  
+
+ hvor den fortsatte arbejdsoperation ikke længere er farlig.
+ Hvert par trykknapper skal være anbragt således, at betjening kræver, at  
+
+ operatører bruger begge hænder.
+For at metoden skal være effektiv, kan det endvidere være nødvendigt, at  
+
+ begge trykknapper i hvert par betjenes inden for et begrænset tidsrum.
+Dette  
+
+ tidsrum skal være angivet af brugeren i overensstemmelse med de relevante  
+
+ nationale standarder og forskrifter.
+Det anbefales at vælge en af følgende  
+
+ værdier:
+0,2, 0,5 eller 1 sekund Styrekredsen skal være således udformet, at begge trykknapper i et par  
+
+ skal frigøres og derpå atter indtrykkes for start af arbejdscyklen, hvis  
+
+ denne tid er overskredet.
+ 6.2.6.4 Start af motorer fra een station.
+Ved automatisk drift, må der kun være een station i drift for start af de  
+
+ motorer, som skal være startet før begyndelsen af en arbejdscyklus.
+Derimod  
+
+ kan der anvendes flere stopknapper, hvis det er nødvendigt.
+ 6.2.7 Nødstop.
+Efter enhver betjening af et nødstop under en automatisk arbejdscyklus  
+
+ skal det være muligt - enten at fuldføre den igangværende arbejdscyklus, - eller at returnere maskinen til genstartbetingelser.
+ Vedrørende nødstop, se 5.6.1.
+ 6.2.8 Manuel betjening af automatiske maskiner.
+ Hvis det er nødvendigt, skal maskiner for automatisk drift også have en  
+
+ mulighed for manuel individuel betjening af de forskellige dele for  
+
+ afprøvning og justering.
+ Under automatisk drift skal trykknapper beregnet til manuel drift enten  
+
+ være ude af funktion, eller virke på en sådan måde, at det er umuligt at  
+
+ forstyrre rækkefølgen i den automatiske arbejdscyklus ved betjening af disse  
+
+ trykknapper.
+ Ved manuel drift skal enhver mulighed for at starte en automatisk  
+
+ arbejdscyklus være forhindret.
+Normale start- og sikkerhedsbetingelser skal være sikret både ved manuel  
+
+ og automatisk drift.
+Under afprøvning og justering skal disse  
+
+ sikkerhedsforanstaltninger forblive effektive, i den udstrækning dette er  
+
+ muligt.
+ For industrimaskiner, hvor en uønsket ændring af driftsformen skal være  
+
+ forhindret, skal omskiftere kunne låses med nøgle i den valgte stilling  
+
+ (manuel/automatisk).
+Hver position af omskifteren må kun svare til een driftsmåde.
+For  
+
+ maskiner, der har flere arbejds-, måle- eller andre stationer (f.eks.  
+
+ transfermaskiner), skal hver station være forsynet med en individuel styring  
+
+ for manuel betjening af de enkelte dele.
+Det skal være indlysende, hvilke  
+
+ manuelle styreorganer, såsom trykknapper eller håndtag, der hører til en  
+
+ station.
+For at forhindre utilsigtet indgriben i den automatiske  
+
+ arbejdscyklus, skal hver station eller hver gruppe af stationer være forsynet  
+
+ med en nøglebetjent omskifter, som tillader manuel styring fra disse  
+
+ stationer.
+ 6.2.9 Styring af rækkefølge ved automatisk drift.
+ 6.2.9.1 Elektrisk overvågning af bevægelser.
+ Hvis den fortløbende arbejdsoperation indebærer bestemte  
+
+ stillingsændringer, f.eks. forskydning af et bord, skal disse  
+
+ stillingsændringer af sikkerhedsgrunde overvåges direkte ved den virkelige  
+
+ position ved hjælp af endestop eller positionsfølere, se 8.1.4.
+ Hvis der anvendes en trykføler til at overvåge forskydningen af en  
+
+ hydraulisk betjent del, skal trykfølerens signal verificeres af en  
+
+ positionsføler, der overvåger den virkelige forskydning og frigiver den  
+
+ efterfølgende arbejdsoperation.
+Tidsforsinkende indretninger må kun anvendes til at overvåge tidsafhængige  
+
+ arbejdsoperationer.
+De må aldrig anvendes til at begrænse maskindeles  
+
+ bevægelse.
+ 6.2.9.2 Kontrol af, at visse arbejdsoperationer er udført.
+ Der skal være en tvangskobling, der forhindrer start af en ny  
+
+ arbejdscyklus, hvis bestemte arbejdsoperationer ikke er udført  
+
+ (tilbageføring, svingning, kontrolmåling, bevægelse af revolverhoved osv.).
+ Hvor der anvendes hukommelse, skal korrekt funktion i tilfælde af fejl ved  
+
+ forsyningen være sikret, f.eks. ved anvendelse af en hukommelse, som ikke  
+
+ slettes ved afbrydelse af forsyningen, eller ved at benytte en tvangskobling,  
+
+ som forhindrer automatisk start, når forsyningen vender tilbage.
+ 6.2.9.3 Indbyrdes afhængige bevægelser.
+ Hvis der af hensyn til sikkerhed eller kontinuerlig drift skal være en  
+
+ sammenkædning af visse funktioner på maskinen, skal dette være sikret ved god  
+
+ koordination.
+ 6.3 Signalkredse.
+Hvis der anvendes en separat signalkreds (ikke forbundet med styrekredsen)  
+
+ er den foretrukne spænding 24 V vekselstrøm eller 24 V jævnstrøm.
+De  
+
+ tilhørende lamper er da for 24 til 28 V.
+Hvor der anvendes signallamper med indbygget transformer, bør lamperne  
+
+ være for 6 V (foretrukken værdi) eller 24 V.
+I dette tilfælde kan  
+
+ signalkredsene være forbundet til styrekredsen.
+ Elektroniske signalkredse med spændinger under 24 V er tilladt.
+7 Mekanisk udførelse, placering af elektrisk materiel 7.1 Bestemmelser gældende for alt elektrisk materiel.
+ 7.1.1 Placering af elektrisk materiel.
+Det elektriske materiel skal så vidt muligt samles i en eller flere  
+
+ sammenbygninger.
+Kun det materiel, hvis placering er bestemt af sin funktion,  
+
+ såsom trykknapper, operatørbetjente afbrydere, positionsfølere (endestop),  
+
+ koblinger, motorer osv. må fordeles over maskinen.
+ Store maskiner kan for selvstændige sektioner have individuelle  
+
+ sammenbygninger.
+Varmeproducerende materiel (f.eks. modstande) skal anbringes således, at  
+
+ temperaturstigningen for alt materiel inde i kapslingen holder sig inden for  
+
+ de for materiellet tilladte grænser.
+Materiel, som producerer en væsentlig  
+
+ varmemængde, som f.eks. startmodstande til motorer, skal anbringes separat og  
+
+ med ventilation, hvis det er nødvendigt.
+ 7.1.2 Tilgængelighed.
+Alt elektrisk materiel skal være installeret således, at det er  
+
+ tilgængeligt for eventuel udskiftning.
+Det skal være anbragt således, at det  
+
+ kan identificeres, uden at selve materiellet eller ledningsforbindelserne  
+
+ flyttes.
+Hvor det er nødvendigt at overvåge, at materiellets funktion er  
+
+ korrekt, eller hvor der kan være behov for udskiftning af materiellet, skal  
+
+ dette kunne foregå uden at demontere andet materiel eller andre dele af  
+
+ maskinen, bortset fra åbning af døre og fjernelse af dæksler.
+I tilfælde,  
+
+ hvor specialværktøj er nødvendigt for at fjerne en enhed, skal dette værktøj  
+
+ leveres med det elektriske materiel.
+Hvor det elektriske materiel skal være  
+
+ tilgængeligt for vedligeholdelse eller justering, skal det være anbragt  
+
+ mellem 0,4 og 2 m over serviceplanet.
+Tilslutningsklemmerne på alt materiel og klemmerne til ydre forbindelser  
+
+ skal anbringes mindst 0,2 m over serviceplanet.
+Yderligere skal klemmerne  
+
+ være således placeret, at ledninger nemt kan tilsluttes.
+ Alle elektriske apparater og mindre sammenbygninger skal monteres således,  
+
+ at fastgøringsmidlerne er tilgængelige forfra, for at muliggøre nem  
+
+ udskiftning uden demontering af understøtninger e.l.
+ 7.1.3 Krybestrækninger og luftafstande.
+ Ved anbringelse af materiellet skal de foreskrevne krybestrækninger og  
+
+ luftafstande være overholdt, idet der tages hensyn til de aktuelle  
+
+ driftsforhold.
+ I beskyttende kapslinger efter 5.1.1.1 må afstande mellem de mekaniske  
+
+ beskyttelsesmidler og de beskyttede spændingsførende dele ikke være mindre  
+
+ end de værdier for krybestrækninger og luftafstande, der er angivet i IEC  
+
+ 158-1, tillæg B, tabel 1, kolonne L-A, medmindre der anvendes  
+
+ isolermateriale.
+ 7.2 Sammenbygninger.
+ Sammenbygninger skal opfylde både bestemmelserne i 7.2.1 til 7.2.6 og  
+
+ bestemmelserne i 7.1 i den udstrækning, de kan finde anvendelse.
+ 7.2.1 Kapslingsklasser.
+ Af hensyn til beskyttelse mod direkte berøring af spændingsførende dele og  
+
+ mod indtrængning af faste fremmedlegemer, skal kapslingsklassen mindst være  
+
+ IP2X efter IEC 529, dog skal let tilgængelige vandrette overflader mindst  
+
+ have kapslingsklassen IP4X.
+Både beskyttelsen mod indtrængning af faste fremmedlegemer og beskyttelsen  
+
+ mod indtrængning af væske skal være valgt under hensyn til de ydre  
+
+ påvirkninger, hvorunder maskinen skal fungere, dvs. placering og  
+
+ miljøforhold, og beskyttelsen skal f.eks være tilstrækkelig mod støv,  
+
+ kølemidler, spåner og mod mekanisk beskadigelse.
+Følsomheden af de indbyggede  
+
+ komponenter kan desuden være afgørende for hvilken kapslingsklasse, der er  
+
+ nødvendig.
+ Hvis døre eller dæksler i kapslinger skal kunne åbnes under normal drift,  
+
+ f.eks. for at give adgang til justeringsknapper eller greb på visse  
+
+ styrekontakter, skal kapslingen fortsat have en passende kapslingsklasse,  
+
+ mindst IP2X, også når døre og dæksler er åbne.
+Ventilationsåbninger skal være beskyttet mod vandsprøjt, oliesprøjt,  
+
+ spåner osv. ved supplerende midler, f.eks. ved anvendelse af filtre eller ved  
+
+ passende placering og orientering.
+Når et separat lukket rum tjener som  
+
+ beskyttende kapsling for koblingsmateriel, skal vægge, døre osv. have en  
+
+ passende kapslingsklasse mod indtrængning af faste fremmedlegemer, væsker og  
+
+ støv.
+Note 1 Kapslingsklasse mod mekanisk beskadigelse er under overvejelse.
+Note 2 Nogle eksempler på sammenbygninger og tilhørende kapslingsklasser er  
+
+ angivet i følgende liste, men en anden kapslingsklasse kan være nødvendig,  
+
+ afhængig af forholdene på installationsstedet:
+- Ventileret hulrum, kun med startmodstande for motorer og andet stort  
+
+ materiel IP22 - Ventileret hulrum, med andet materiel IP33 - For maskiner, som anvendes i normale mekaniske værksteder og i  
+
+ metalindustri IP43 - For maskiner, som anvendes i industrielle områder, hvor der foregår  
+
+ bearbejdning af tekstiler eller træ IP54 - For maskiner, som anvendes i områder, hvor der foregår rengøring med  
+
+ vandstråle (spuling) IP55 - For maskiner, som skal være beskyttet mod fint støv IP65 7.2.2 Åbninger.
+Alle åbninger i kapslingen incl. åbninger mod gulv, fundament eller mod  
+
+ andre dele af maskinen, skal være lukket af fabrikanten, så der opnås den  
+
+ kapslingsklasse, der er angivet for materiellet.
+Det skal være nemt at udføre  
+
+ åbninger til kabelindføring på opstillingsstedet.
+Der må ikke være åbninger mellem kapslinger, der indeholder elektrisk  
+
+ materiel, og hulrum der indeholder kølemidler, smøremidler eller  
+
+ hydraulikolie, eller hulrum hvor olie, andre væsker eller støv kan trænge  
+
+ ind.
+Denne bestemmelse gælder ikke for elektrisk materiel, som er specielt  
+
+ konstrueret til at fungere i olie, såsom elektromagnetiske koblinger, eller  
+
+ for elektrisk materiel, hvori der anvendes kølemidler.
+ Der kan dog være en passende åbning i bunden af kapslingen inde i  
+
+ maskinen, således at eventuelt kondensvand kan drænes bort.
+ Hvis kapslingen har huller til fastgørelse, skal der drages omsorg for, at  
+
+ disse ikke forringer den krævede kapsling efter montagen.
+ 7.2.3 Døre.
+Det anbefales at forsyne døre i kapslinger med lodrette hængsler,  
+
+ fortrinsvis af en type, hvor dørene kan løftes af.
+Det anbefales, at  
+
+ åbningsvinklen er mindst 95 grader.
+Døre skal så vidt muligt ikke være  
+
+ bredere end 0,9 m.
+ Hvis døre lukkes ved hjælp af skruer eller bolte, skal disse være af en  
+
+ type, der ikke kan falde af.
+ Hvis en kunde ønsker, at indersiden af en dør skal have en anden farve end  
+
+ ydersiden, anbefales det, at indersiden farves orange.
+ 7.2.4 Anbringelse af elektrisk materiel.
+ I sammenbygninger udført efter kundespecifikationer anbefales det at  
+
+ afsætte mindst 10 pct. ekstra plads til senere ændringer eller mindre  
+
+ udvidelser.
+ Intet materiel må monteres på døre, bortset fra manuelt betjente  
+
+ styrekontakter, signal- og måleindretninger.
+ Alt materiel, som er direkte sluttet til forsyningen, skal fortrinsvis  
+
+ være anbragt for sig og ikke sammen med materiel, der udelukkende er under  
+
+ styrespænding.
+Den forsyningsadskiller, som er angivet i 5.6.2, pkt. a, b eller c, skal  
+
+ anbringes i den øverste del af sammenbygningen, fortrinsvis i højre side, med  
+
+ betjeningsgrebet på forsiden af kapslingen eller på sidevæggen.
+Der må ikke  
+
+ være anbragt andet materiel over forsyningsadskilleren.
+ 7.2.5 Ikke-elektriske dele og indretninger.
+Ikke-elektriske dele og indretninger såsom - mekaniske dele til hvilke, der skal være adgang under normal drift af  
+
+ maskinen, - bevægelige dele (f.eks. roterende aksler), - midler til mekanisk justering, som ikke er knyttet til elektrisk  
+
+ materiel, må under ingen omstændigheder anbringes i kapslinger med elektrisk  
+
+ materiel.
+ Elektrisk materiel skal anbringes således, at det ikke generer mekanisk  
+
+ justering af maskinen eller vedligeholdelsen af mekanisk, hydraulisk eller  
+
+ pneumatisk udstyr.
+ 7.2.6 Montering og håndtering af sammenbygninger.
+ Montagerammer og -plader i det elektrisk materiel skal have sådanne  
+
+ dimensioner, at de frit kan passere gennem kapslingens åbninger.
+ Tunge og store sammenbygninger, der skal adskilles fra maskinen under  
+
+ transport, eller som opstilles adskilt fra maskinen, skal være forsynet med  
+
+ passende midler til håndtering med kran e.l.
+8 Styremateriel 8.1 Almindeligt.
+ 8.1.1 Placering og montering.
+Så vidt muligt skal styremateriel installeres i tørre og rene områder og  
+
+ være let tilgængeligt for betjening og vedligeholdelse.
+Det skal monteres  
+
+ således, at der er minimal risiko for beskadigelse ved materialehåndtering  
+
+ eller fra andet bevægeligt udstyr.
+Det skal placeres mindst 0,2 m over serviceplanet.
+Denne bestemmelse  
+
+ gælder dog ikke for positionsfølere og fodbetjente styrekontakter.
+Vedrørende  
+
+ manuelt betjente styrekontakter, se 8.2.1.
+ 8.1.2 Beskyttelse.
+ Alt styremateriel, der befinder sig uden for kapslinger (såsom  
+
+ positionsfølere, magnetventiler, trykfølere osv.) skal beskyttes mod alle  
+
+ påvirkninger hidrørende fra de omgivelser, hvori maskinen skal fungere, og  
+
+ mod mekanisk beskadigelse.
+ Denne beskyttelse kan opnås ved hjælp af en eller flere af følgende  
+
+ metoder:
+ - Passende placering af styremateriellet.
+ - Anvendelse af egnede materialer og hensigtsmæssig konstruktion, som kan  
+
+ tåle de forekommende mekaniske påvirkninger.
+ - Anvendelse af afdækninger og andre midler, som giver en passende  
+
+ beskyttelse mod indtrængning af spåner, støv, olie eller kølemidler.
+ Sammenføjninger og/eller pakninger for afdækninger, kapslinger osv. skal  
+
+ være modstandsdygtige over for kemiske påvirkninger fra de aggressive væsker,  
+
+ dampe eller gasser, der anvendes i maskinen.
+ For de indretninger, der ikke er omfattet af 8.1.4 til 8.1.6, skal  
+
+ kapslingsklassen mindst være IP54 efter IEC 529.
+ 8.1.3 Plug-in styremateriel.
+ Hvis styremateriel er tilsluttet med plug-in systemer, skal deres  
+
+ tilhørsforhold fremgå klart, enten af deres type (form), mærkning og/eller  
+
+ betegnelse.
+ Plug-in materiel, som benyttes under normal drift, skal være udført, så  
+
+ forveksling er udelukket.
+ 8.1.4 Positionsfølere (incl. berøringsfri følere).
+ Mekanisk aktiverede positionsfølere, skal være udført således, at de ikke  
+
+ beskadiges ved for lang bevægelse.
+Mekanisk aktiverede positionsfølere, der anvendes i sikkerhedskredse, skal  
+
+ have positiv brydefunktion, som angivet i IEC 337-1A, dvs. der skal være  
+
+ sikkerhed for, at alle brydekontakter er i åben stilling, når styreorganet er  
+
+ i den stilling, som svarer til åben stilling.
+Denne stilling svarer til den  
+
+ bevægelse, der af fabrikanten er angivet for tilstrækkelig kontaktåbning.  
+
+ Endvidere skal styreorganet i denne stilling være i påvirket tilstand og ikke  
+
+ i fri tilstand.
+Armen skal påvirkes direkte med faste mekaniske midler.
+ Hvis der anvendes andet end mekanisk påvirkede positionsfølere til  
+
+ sikkerhedsformål, skal de give samme sikkerhedsniveau.
+ Positionsfølere med permanente magneter må ikke anvendes til  
+
+ sikkerhedsformål, såsom begrænsning af bevægelser efter 6.2.4.6.
+ Det anbefales at anvende positionsfølere med kontakter af momentan type,  
+
+ undtagen i det tilfælde, hvor positionsfølerens kontakter indgår i  
+
+ sikkerhedskredse (hvor bestemmelserne i andet stykke af 8.1.4 gælder).
+Hvis positionsfølerne ikke har indbyggede midler til justering, skal  
+
+ anslaget på maskinen være justerbart.
+Aflange huller, som er beregnet til  
+
+ fastgøring af følerne, må ikke anvendes til justering.
+Positionsfølere på maskinen må kun have enten een skiftekontakt eller een  
+
+ slutte- og een brydekontakt.
+Dog kan positionsfølere med tre stillinger, og  
+
+ med aktivering i to retninger, have et kontaktsæt for hver retning.
+Hvor  
+
+ flere kontakter er nødvendige, skal der anvendes et relæ. Hvor kontakter på  
+
+ sådanne mellemrelæer anvendes i sikkerhedskredse gælder 5.7.1.
+ Positionsfølere skal være konstrueret således, at kapslingsklassen også  
+
+ under drift mindst er IP55.
+ Hvor det for at opnå tilstrækkelig tilgængelighed og beskyttelse mod vand,  
+
+ olie spåner osv. er nødvendigt at anbringe positionsfølere i en vis afstand  
+
+ fra de bevægelige dele, der skal overvåges, skal der være en mekanisk  
+
+ transmission mellem den bevægelige del og positionsfølerens styreorgan.
+ 8.1.5 Elektromagneter.
+Alle elektromagneter skal, efter at have opnået deres normale  
+
+ driftstemperatur, fungere korrekt ved spændinger mellem 85 og 110 pct. af  
+
+ deres mærkespænding.
+For koblinger gælder dog værdierne 90 og 110 pct uanset  
+
+ om de har justerbart luftgab.
+ Ved den normale driftstemperatur forstås den temperatur, som forekommer  
+
+ under konstant drift ved mærkespænding med den forudsete intermittens.
+ Spolerne må ikke blive beskadiget ved konstant drift med den forudsete  
+
+ intermittens og ved en spænding, der ligger 10 pct. over mærkespændingen.
+Spoler i elektromagneter på materiel, der er monteret på maskinen (såsom  
+
+ ventiler, bremser, koblinger), skal være passende beskyttet mod påvirkninger  
+
+ fra kondensvand.
+Tilslutningdåser, spolekapslinger eller spolerne selv, skal  
+
+ mindst have kapslingsklassen IP55 efter IEC 529.
+ For vekselspændingsspoler skal der være et passende element, f.eks. et  
+
+ fleksibelt led, mellem elektromagneten og den påvirkede del, således at det  
+
+ sikres, at den magnetiske kreds er helt lukket.
+ 8.1.6 Tryk- og temperaturfølere.
+ Kontaktelementer i tryk- og temperaturfølere skal være af den momentant  
+
+ virkende type og være monteret i en kapsling, der mindst er IP55 efter IEC  
+
+ 529.
+De skal enten have een skiftekontakt eller een slutte- og een  
+
+ brydekontakt.
+Hvor flere kontakter er nødvendige, skal der anvendes et relæ.  
+
+ Hvor kontakter på sådanne mellemrelæer anvendes i sikkerhedskredse gælder  
+
+ 5.7.1.
+ 8.2 Signallamper og håndbetjente styrekontakter.
+ Vedrørende sammenhængen mellem bevægelsesretning og styreorganers relative  
+
+ stilling, se IEC 447.
+ 8.2.1 Kontakters tilgængelighed.
+Håndbetjente styrekontakter skal monteres inden for en bekvem rækkevidde  
+
+ for operatøren, regnet fra dennes normale arbejdsposition og ikke lavere end  
+
+ 0,6 m over det plan, som operatøren står på.
+De skal være anbragt således, at  
+
+ de kan nås af operatøren, uden at denne kommer i nærheden af bevægelige  
+
+ maskindele eller andre farlige dele.
+ Styreorganerne skal være således udformet og anbragt, at der er minimal  
+
+ risiko for utilsigtet betjening.
+ 8.2.2 Beskyttelse mod ydre påvirkninger.
+ Der skal træffes forholdsregler mod støv og, hvor det er nødvendigt, mod  
+
+ olie, udsprøjtende kølemiddel eller dråber, som kan indvirke på funktionen af  
+
+ styrekontakter og signallamper eller forkorte isolationens levetid for disse.
+ Kapslinger for styreorganer, styrekontakter og signallamper skal mindst  
+
+ have kapslingsklassen IP54 efter IEC 529. For styreorganer gælder dette krav  
+
+ også, når de betjenes.
+ Kapslingsklassen skal mindst være IP55.
+ 8.2.3 Trykknapper.
+ 8.2.3.1 Trykknappers indbyrdes placering.
+Det anbefales at montere sammenhørende start- eller indtrykknapper og  
+
+ stop- eller ud-trykknapper ved siden af hinanden.
+Stop- eller ud-trykknapper  
+
+ skal enten sidde under eller til venstre for start- eller ind-trykknapper,  
+
+ undtagen når to start- eller ind-trykknapper (eller to grupper start- eller  
+
+ indtrykknapper) styrer modsat rettede bevægelser.
+Stop- eller ud-trykknapper  
+
+ kan i dette tilfælde placeres mellem disse (for yderligere oplysninger, se  
+
+ IEC 447).
+ 8.2.3.2 Farver på trykknapper.
+ 8.2.3.2, 8.2.4 og 8.2.5.2 svarer til de tilsvarende paragraffer i IEC 73.
+ 8.2.3.2.1 Stop-, ud- eller nødstop-trykknapper.
+Rød farve må kun benyttes til stop, ud- eller nødstop-trykknapper.
+Stop-,  
+
+ ud- og nødstop-trykknapper skal være røde.
+Den røde farve er således  
+
+ reserveret til stopfunktionen eller til afbrydelse af en hovedkreds.
+Dette  
+
+ indebærer, at aktivering af den røde trykknap skal medføre, at maskinen  
+
+ standser, materiellet gøres spændingsløst, en brandalarm udløses e.l.
+ 8.2.3.2.2 Start- eller ind-trykknapper.
+ Den foretrukne farve for start- eller ind-trykknapper (der indkobler  
+
+ afbrydere) er grøn, men det er også tilladt at anvende de neutrale farver  
+
+ sort, hvid eller grå.
+ 8.2.3.2.3 Start/stop eller ind/ud i samme trykknap.
+ 8.2.3.2.4 Resettrykknapper.
+ Resettrykknapper (som bl.a. anvendes på beskyttelsesrelæer) skal være blå,  
+
+ sorte, hvide eller grå, bortset fra resettrykknapper, der også fungerer som  
+
+ stop- eller ud-trykknapper, der skal være røde.
+ 8.2.3.2.5 Anbefalet eller foreskrevet anvendelse af farver på trykknapper.
+De anbefalede farver på trykknapper er vist i tabel III.
+Nogle af kravene  
+
+ i 8.2.3.2.1 til 8.2.3.2.4 indgår også i tabel III.
+Tabel III Farver på trykknapper og farvernes betydning 8.2.3.3 Mærkning af trykknapper.
+ Som tilføjelse til funktionsangivelsen i 3.1.6 anbefales det at mærke  
+
+ trykknapperne med symboler efter IEC 417, tæt ved og helst direkte på  
+
+ knapperne, f.eks:
+- Trykknapper, der ved gentagen betjening skiftevis virker som start og  
+
+ stop (eller ind og - Trykknapper, der medfører en bevægelse, når de betjenes, og stop af  
+
+ bevægelsen, når de frigives symbol 417-IEC-5011 8.2.3.4 Paddehattrykknapper.
+Røde paddehattrykknapper må kun anvendes til nødstop.
+Dette gælder både  
+
+ ved automatisk og ved manuel drift.
+Paddehattryk med andre farver kan anvendes til start af arbejdscyklus ved  
+
+ drift med tohåndsbetjening (6.2.6.3) eller til maskiner udstyret med mekanisk  
+
+ beskyttelsesgitter.
+I disse tilfælde må trykkontakterne ikke være røde.
+Sort  
+
+ eller grå anbefales.
+ 8.2.4 Signallamper.
+ Signallamper til og med 24 V anbefales udført med bajonetfatning.  
+
+ Skruegevind må ikke anvendes.
+ 8.2.4.1 Anvendelsesmåde.
+ Formålet med lysende signallamper (og lysende tegn i almindelighed) er at  
+
+ give følgende information:
+ At tiltrække operatørens opmærksomhed eller at angive, at en bestemt  
+
+ handling skal foretages af operatøren.
+ Farverne rød, gul, grøn og blå anvendes normalt til disse formål.
+ At kvittere for en ordre, en tilstand eller en betingelse, eller at  
+
+ kvittere for afslutningen af en ændring eller en overgangsperiode.
+Farverne blå og hvid bruges normalt til dette formål.
+Grøn kan anvendes i  
+
+ visse tilfælde.
+ 8.2.4.2 Blinkende lamper.
+ For at gøre signalerne tydeligere, eller for at give yderligere  
+
+ information, især hvor der ønskes en særlig fremhævelse, kan der anvendes  
+
+ blinkende lamper, f.eks. til følgende formål:
+ - For at tiltrække yderligere opmærksomhed.
+ - Hvor der kræves øjeblikkeligt indgreb.
+ - Til at angive afvigelse mellem en beordret tilstand og en aktuel  
+
+ tilstand i det tilhørende materiel.
+ - Til at angive en ændring i processens fremadskriden (blink i en  
+
+ gennemgangsfase).
+ Hvis der anvendes lamper med forskellige blinkfrekvenser for at give  
+
+ information med forskellig prioritet, anbefales det at anvende det hurtigst  
+
+ blinkende lys til den information, som har den højeste prioritet.
+ Vedrørende angivelse om blinkhyppighed og impulspauseforhold  
+
+ (on/off-tidsforhold), se IEC 73.
+ 8.2.4.3 Farver på signallamper.
+Når farverne rød, gul og grøn anvendes for signallamper, skal dette ske  
+
+ som angivet i tabel IV, kolonne 2. Disse tre farver må ikke anvendes med  
+
+ nogen anden betydning.
+Til andre formål skal farverne blå og hvid anvendes  
+
+ som vist i tabel IV.
+Tabel IV Farver på signallamper og farvernes betydning 8.2.5 Trykknapper med indbygget lys.
+ 8.2.5.1 Almindeligt.
+Denne bestemmelse omfatter kun trykknapper med indbygget lys, - der kun viser een og samme farve, uanset om lyset er tændt eller  
+
+ slukket, - der går tilbage til hvilestillingen, når aktiveringen ophører.
+ Farvernes betydning skal være helt i overensstemmelse med tabel V og i de  
+
+ tilfælde, der ikke er omfattet af denne tabel, med 8.2.3.2 og 8.2.4. Hvor  
+
+ dette ikke er muligt for trykknapper med indbygget lys, skal der anvendes  
+
+ separate trykknapper og signallamper.
+ Trykknapper med indbygget lys må aldrig bruges til rykkebevægelser  
+
+ (ryk-knapper) eller til nødstopfunktioner.
+ Lamper, der anvendes som signallamper, men som er således udformet, at det  
+
+ ved indtrykning kan kontrolleres, at lampen kan lyse, betragtes ikke som  
+
+ trykknapper med indbygget lys.
+ 8.2.5.2 Anvendelsesmåder.
+ 1. Indikering.
+En knap lyser for at vise operatøren, at knappen skal betjenes af  
+
+ operatøren, eller ved særlige anvendelser, at operatøren skal udføre en  
+
+ særlig opgave og derpå betjene trykknappen.
+Modtagelse af eller udførelse af  
+
+ ordren (angivet ved tryk på knappen) bekræftes ved, at lyset slukkes.  
+
+ Rækkefølge: Først lyser knappen, derpå indtrykkes den.
+Note 1 Farverne gul, grøn og blå anvendes normalt til dette formål.
+Note 2 Et blinkende lys kan anvendes for at tiltrække operatørens opmærksomhed,  
+
+ f.eks. ved en alarm.
+Ved denne anvendelse kan tryk på knappen skifte fra  
+
+ blinkende lys til konstant lys.
+Herudover må knappen kun have den funktion,  
+
+ der er angivet i 8.2.3.2. Det konstante lys skal forblive tændt, indtil  
+
+ årsagen til alarmen er fjernet ved et separat indgreb.
+ 2. Kvittering.
+Når der afgives en ordre ved betjening af en knap uden lys, tændes lyset  
+
+ som kvittering for, at ordren er modtaget eller udført.
+Lyset forbliver  
+
+ tændt, indtil en modsat ordre følger.
+Rækkefølge: Først betjenes knappen, derpå tændes lyset.
+Note 1 Farven hvid anvendes normalt til dette formål.
+Note 2 Hvide trykknapper kan have blinkende lys for dobbelt kvittering.
+Når der  
+
+ trykkes på knappen, begynder lyset at blinke som bekræftelse på, at en  
+
+ startfunktion, en sekvens eller en overgangsperiode er påbegyndt.
+Når dette  
+
+ forløb er fuldført, skifter lyset automatisk til konstant lys som kvittering  
+
+ for, at normale driftsbetingelser er etableret.
+ 8.2.5.3 Anvendelse.
+ En oversigt over den anbefalede anvendelse af farver på trykknapper med  
+
+ lys til forskellige funktioner er angivet i tabel V.
+Tabel V Anbefalet anvendelse af farver på trykknapper med lys Hvis de alligevel anvendes, skal deres betydning nøje følge 8.2.3.2.
+9 Ledninger og ledere Når der på bygningsdele oplægges forbindelsesledninger mellem forskellige  
+
+ maskindele, skal disse forbindelsesledninger have en isolation svarende til  
+
+ IEC 227-1 (med ændringer) eller IEC 245-1 (med ændringer). Ledernes tværsnit  
+
+ skal fastlægges efter IEC 364, kapitel 52.
+DK-forklaringer 9 Forklaring:
+ Strømværdierne i afsnit 6, § 7.4, kan også benyttes.
+slut Ledninger, der føres - i kapslinger, - i ledningskanaler af metal mellem flere kapslinger hørende til den samme  
+
+ maskine, - mellem kapslinger og maskinen, - mellem forskellige maskindele, - på og i selve maskinen, skal følge 9.1 til 9.3.
+ 9.1 Ledertyper og ledningstyper.
+Ledninger med stive ledere må kun anvendes mellem fast monterede ikke  
+
+ bevægelige dele.
+Hvor der kan forekomme vibrationer, og til alle andre  
+
+ anvendelser, skal der anvendes flertrådet eller bøjelig leder.
+ Alle ledninger med et tværsnit på 0,5 mm2 og derover skal have flertrådet  
+
+ eller bøjelig leder.
+ Alle forbindelser, som er udsat for hyppige bevægelser, skal være  
+
+ bøjelige.
+ Anvendelse af uisolerede ledere er tilladt på forsyningsadskillerens  
+
+ belastningsside, forudsat at deres lederdiameter mindst er 3 mm (rund leder),  
+
+ eller deres ledertykkelse mindst er 2 mm (flad leder). Uisolerede ledere skal  
+
+ være fast monteret mellem ikke bevægelige dele og være tilstrækkelig  
+
+ beskyttet mod direkte berøring, se 5.1.1.
+ 9.2 Ledningsisolation.
+ Ledningsisolation skal have en kemisk modstandsdygtighed (f.eks. mod  
+
+ smøremidler og væsker, der benyttes i maskinen), som ikke er ringere end for  
+
+ normal PVC.
+ Ledninger, som er udsat for særlige påvirkninger, f.eks. høje temperaturer  
+
+ eller påvirkninger fra væsker og opløsningsmidler skal have en isolation, der  
+
+ er egnet til disse driftsbetingelser.
+ Isolationens mekaniske styrke og tykkelse skal være således, at den ikke  
+
+ kan blive beskadiget under drift eller ved oplægning, hvilket specielt gælder  
+
+ for ledninger, der trækkes i ledningskanaler.
+DK-forklaringer 9.2 Forklaring:
+ Hvor der er risiko for gnaverangreb på ledninger, som føres på  
+
+ bygningsdele eller på maskiner, kan den mekaniske beskyttelse f.eks. udføres  
+
+ ved anvendelse af armerede kabler.
+ Isolationens gennemslagsfeltstyrke skal være tilstrækkelig til at klare  
+
+ den prøvespænding, der forlanges i de relevante IEC-standarder, dog mindst 1  
+
+ 500 V vekselstrøm for ledninger i drift med højere spænding end 50 V  
+
+ vekselstrøm (effektivværdi) eller 120 V jævnstrøm (topværdi).
+ 9.3 Ledertværsnit.
+ Ledertværsnittet skal være tilstrækkeligt til at føre den største  
+
+ stationære strøm, der kan forekomme under normale driftsforhold, under hensyn  
+
+ til omgivelsesbetingelserne (f.eks. køling, nærliggende varmeproducerende  
+
+ komponenter og enheder). Det kan være nødvendigt at reducere den maksimalt  
+
+ tilladelige ledertemperatur af hensyn til termisk påvirkning af nærliggende  
+
+ komponenter og enheder.
+ Ledertværsnittet i isolerede ledninger skal opfylde bestemmelserne i 9.3.1  
+
+ til 9.3.3, se også 5.2.3, note 2.
+ Ledninger i elektroniske strømkredse med stationær strøm under 2 A, som er  
+
+ anbragt i det elektroniske materiels kapsling, behøver ikke at opfylde 9.3.1  
+
+ og 9.3.3.
+ 9.3.1 Strømværdi.
+Ledertværsnittet skal vælges efter tillæg B, pkt.
+B1.3.1, tabel BII,  
+
+ kolonne 2 og 3, afhængig af den størst mulige stationære strøm i den  
+
+ pågældende strømkreds ved normale driftsbetingelser.
+Den reducerede strømbelastning af ledninger svarende til tillæg B, pkt.  
+
+ B1.3.1, tabel BII, kolonne 4 og 5, skal anvendes.
+For intermitterende drift  
+
+ kan effektivværdien af den termisk ækvivalente strøm anvendes til at bestemme  
+
+ ledertværsnittet, hvis driftsperioderne i den periodiske drift er meget  
+
+ kortere end tidskonstanten for ledningens opvarmning.
+ 9.3.2 Spændingsfald.
+For at undgå for store spændingsfald f.eks. ved indkobling af spoler til  
+
+ vekselstrømsmagneter, ved start af motorer eller på grund af andre  
+
+ strømtoppe, kan det være nødvendigt at anvende større tværsnit end angivet i  
+
+ 9.3.1, især hvor der forekommer lange forbindelser eller små ledertværsnit.
+I  
+
+ sådanne tilfælde skal der tages hensyn til ledningens impedans, strømtoppe,  
+
+ spændingsfaldet i forsyningspunktet og det tilladelige spændingsfald på de  
+
+ strømforbrugende apparaters klemmer.
+ 9.3.3 Mindste ledertværsnit for kobberledere.
+Af hensyn til den mekaniske styrke må der ikke anvendes ledninger med  
+
+ mindre ledertværsnit end angivet i tabel Vl.
+Hvor det af konstruktionsmæssige  
+
+ årsager er nødvendigt, kan der dog anvendes mindre ledertværsnit, forudsat at  
+
+ funktionen ikke forringes.
+Tabel VI Mindste ledertværsnit for ledninger 10 Ledningssystemets udførelse 10.1 Almindeligt, 10.1.1 Forbindelser.
+ Alle forbindelser, især i beskyttelseskredse, skal være effektivt sikret  
+
+ mod at gå løs.
+ Forbindelsesmateriellet skal være velegnet til type, art og ledertværsnit  
+
+ af de ledere, der skal forbindes.
+ Til visse typer klemmer, der ikke er egnet til forbindelse af små  
+
+ flertrådede ledere, kan der anvendes rørformede bøsninger, som skydes ind  
+
+ over lederenderne for at sikre god forbindelse.
+Det anbefales, at der kun forbindes een leder i hver klemme.
+Forbindelse  
+
+ af to eller flere ledere i samme klemme er kun tilladt, hvis klemmen er  
+
+ beregnet til det.
+ Forbindelse af ledere skal ske med almindeligt accepterede metoder og med  
+
+ en egnet teknik, f.eks. fastklemning (skrueklemmer), presning, lodning,  
+
+ viklet forbindelse (wire wrapping), idet den korrekte procedure for disse  
+
+ metoder nøje skal følges.
+ Hvis det er sandsynligt, at der i forbindelse med vedligeholdelse vil være  
+
+ behov for at fjerne, omlægge eller erstatte forbindelser, som er udført med  
+
+ en eller flere af disse metoder, skal der findes passende instruktioner, der  
+
+ gør det muligt for brugeren at skaffe den nødvendige udrustning og  
+
+ sagkundskab for at kunne udføre denne vedligeholdelse.
+ 10.1.2 Ledningsføring.
+10.1.2.1 Alle ledninger skal gå ubrudt fra klemme til klemme uden  
+
+ mellemliggende forbindelser.
+Afgreninger er kun tilladt i let tilgængelige,  
+
+ lukkede dåser efter 10.1.6.
+ For at lette montering og demontering skal ledningsenderne inde i dåserne  
+
+ have tilstrækkelig ekstra længde.
+DK-forklaringer 10.1.2.1 Forklaring:
+ Som dåser betragtes også kapslinger, som indeholder elektrisk materiel.
+slut 10.1.2.2 Afslutningerne på flerlederkabler skal aflastes, hvis  
+
+ lederenderne kan blive udsat for skadelige træk- og vridningspåvirkninger.
+ 10.1.2.3 Det anbefales, at beskyttelseslederen anbringes i nærheden af de  
+
+ tilhørende spændingsførende ledere for at mindske sløjfeimpedansen i en  
+
+ eventuel fejlstrømskreds.
+ 10.1.3 Forbindelser til bevægelige dele.
+Forbindelser til materiel, der er monteret på døre eller på andre  
+
+ bevægelige dele, skal udføres med bøjelige ledere, der tillader hyppig og let  
+
+ åbning af døren uden risiko for beskadigelse.
+Ledningerne skal være fastgjort  
+
+ til såvel den faste som den bevægelige del, uafhængig af lederendernes  
+
+ fastgørelse i klemmerne.
+ Se også 10.4.2.
+ 10.1.4 Ledere i forskellige strømkredse.
+Ledere, der hører til forskellige strømkredse, kan placeres ved siden af  
+
+ hinanden, i samme ledningskanal eller i samme ledning.
+Hvis disse strømkredse  
+
+ har forskellig spænding, skal de enten være separeret med passende barrierer  
+
+ eller alle ledere skal være isoleret for den højest forekommende spænding på  
+
+ lederne i samme ledningskanal eller ledning.
+Strømkredse, der ikke forsynes  
+
+ gennem forsyningsadskilleren (se 5.6.2.5), skal anbringes separat fra  
+
+ strømkredse, der forsynes gennem forsyningsadskilleren.
+ 10.1.5 Forbindelser ved lodning.
+Kabelsko til lodning bør undgås.
+De må ikke anvendes, hvor der forekommer  
+
+ kraftige vibrationer under normal drift.
+Loddeforbindelser er kun tilladt på materiel, som er forsynet med klemmer  
+
+ beregnet til lodning.
+Hvis materiellet er udsat for kraftige vibrationer  
+
+ under normal drift, skal ledningerne være mekanisk fastgjort i nærheden af  
+
+ klemmen.
+ 10.1.6 Klemmer og dåser.
+Alle klemmer skal være anbragt i let tilgængelige kapslinger.
+Dåser og  
+
+ maskinens indføringsåbninger skal mindst have kapslingsklasse 1P54 efter IEC  
+
+ 529. Pakninger, der anvendes ved dæksler o.l skal kunne modstå de kemiske  
+
+ påvirkninger fra aggressive væsker, dampe og gasser, som anvendes i maskinen.
+Det anbefales at benytte dåser uden udslagblanketter.
+Hvis der alligevel  
+
+ anvendes dåser med udslagsblanketter, skal de mindst have kapslingsklassen  
+
+ IP54, også efter at de er blevet udsat for de mekaniske påvirkninger, som  
+
+ forekommer på opstillingsstedet.
+ Ovenstående krav om kapslingsklasse skal være opfyldt, uanset hvorledes  
+
+ dåserne anbringes.
+ 10.2 Identifikation af ledere.
+ 10.2.1 Identifikation af beskyttelsesledere (PE) og nulledere (N).
+Beskyttelsesledere skal være let genkendelige ved deres form, ved deres  
+
+ placering eller ved farvemærkning.
+Ved farvemærkning skal grøn/gul (tofarvet)  
+
+ anvendes.
+Isolation på isolerede enleder beskyttelsesledninger skal over hele  
+
+ længden have farvekombinationen grøn/gul.
+ Farvemærkningen grøn/gul må kun benyttes til beskyttelsesledere.
+I effektkredse skal nul- og midtledere let kunne genkendes ved deres form,  
+
+ ved deres placering eller ved deres farvemærkning.
+Som farvemærkning skal der  
+
+ anvendes den lyseblå farve.
+ Hvis en effektkreds indeholder en nul- eller en midtleder, må farven  
+
+ lyseblå ikke anvendes til andre ledere i strømkredsen.
+ Der skal på en passende måde tages hensyn til resultaterne af arbejdet i  
+
+ IEC/TC16 vedrørende identifikation af ledere ved hjælp af farver eller andre  
+
+ midler.
+DK-forklaringer 10.2.1 Forklaring Eventuelle ændrede regler for identifikation, som er resultatet af arbejde  
+
+ i IEC/TC 16, vil blive meddelt og indført som forklaring eller bestemmelser.
+slut 10.2.2 Identifikation af andre ledere.
+ Hvis der anvendes farvekode til enlederledninger, anbefales følgende:
+- Effektkredse for veksel- eller jævnspænding sort - Styrekredse for vekselspænding rød - Styrekredse for jævnspænding blå - Tvangskoblingskredse for veksel- eller jævnspænding efter 5.6.2.7 orange Denne farvekode anbefales specielt til værktøjsmaskiner.
+Note 1 Ledere i styrekredse, som er forbundet til beskyttelseskredsen eller  
+
+ nullederen, er normalt ikke mærket grøn/gul, og hvis der benyttes  
+
+ vekselspænding, heller ikke blå.
+Forbindelsen mellem styrekredsen og  
+
+ beskyttelseskredsen efter 6.2.2 mærkes dog grøn/gul.
+Note 2 Den blå farve anbefales således både for jævnstrømsstyrekredse og for  
+
+ nulledere (lyseblå). Den samme blå farve kan anvendes til begge formål.
+Der  
+
+ kræves ikke forskel i farvenuance, idet forveksling mellem effektkredse og  
+
+ jævnstrømsstyrekredse bør være forebygget med andre midler (f.eks. ved  
+
+ placering og ved mærkning af klemmerne).
+For enlederledninger er farverne grøn, gul og kombinationer af flere  
+
+ farver ikke tilladt.
+I flerlederkabler og ledningsbundter kan dog anvendes  
+
+ en- eller flerfarvede ledninger med vilkårlig farve.
+ I flerlederkabler kan lederne også være mærket med tal eller farver.
+ 10.3 Ledningssystemer inde i kapslinger.
+ Det elektriske materiel skal være således udformet, at ændringer af  
+
+ ledningssystemet kan foretages fra kapslingens forside.
+ 10.3.1 Indre ledningskanaler.
+ Ledningskanaler inde i kapslinger må ikke udfyldes med mere end 90 pct. af  
+
+ deres kapacitet for at tillade senere udvidelser.
+ Ledningskanaler inde i kapslinger må ikke udfyldes med mere end 70 pct. af  
+
+ deres kapacitet.
+ Ledninger, der ikke føres i ledningskanaler, skal være understøttet på en  
+
+ passende måde.
+ 10.3.2 Forbindelsesklemmer og stikkontaktforbindelser.
+Der skal være forbindelsesklemmer eller stikkontaktforbindelser til alle  
+
+ ledninger i styre- og signalkredse, hvor der føres mere end ti ledere ind i  
+
+ en kapsling.
+Dette forbindelsesmateriel skal være mærket med  
+
+ referencebetegnelse efter 3.1.5. Effektledninger og ledninger i målekredse  
+
+ kan tilsluttes direkte til apparaternes klemmer.
+ Forbindelser til elektrisk materiel, som er monteret på aftagelige døre,  
+
+ skal ske med forbindelsesklemmer eller stikkontaktforbindelse, som er  
+
+ fastgjort på stellet, på kapslingen eller på døren.
+ 10.3.3 Målepunkter.
+For elektronisk materiel anbefales det, at fejlfinding og justering  
+
+ lettes, f.eks, ved at kredskort er forsynet med målepunkter.
+Når sådanne  
+
+ findes, skal de - være angivet på de relevante skemaer med symbolet for målepunkter,  
+
+ 117-IEC-73C - symbol - være let tilgængelige, - være tilstrækkeligt isoleret, - give tilstrækkelig plads for tilslutning af prøveledninger.
+ Der skal være passende midler (f.eks. spændingsdelere), således at  
+
+ spændingerne mellem disse målepunkter eller mellem målepunkterne og  
+
+ beskyttelseskredsen ikke overstiger 1 000 V topværdi.
+ 10.4 Ledningssystemer uden for kapslinger.
+ 10.4.1 Ydre ledningskanaler.
+ Ledninger uden for kapslinger, bortset fra ledninger, som er tilstrækkelig  
+
+ beskyttet, skal være placeret i ledningskanaler, der yder en tilstrækkelig  
+
+ beskyttelse mod mekaniske påvirkninger, indtrængning af væsker, spåner og  
+
+ støv.
+ Vedrørende mekaniske data for ledningskanaler af stål og beskyttelsesrør,  
+
+ se ISO 65, IEC 423 og IEC 614-1.
+ 10.4.1.1 Det anbefales at vælge dimensionerne på ledningskanaler således,  
+
+ at det er nemt at lægge flere ledninger (bortset fra effektledninger) på et  
+
+ senere tidspunkt.
+ 10.4.1.2 Der må ikke være risiko for, at ledningernes isolation beskadiges  
+
+ af skarpe kanter, ru overflader eller skarpe gevind.
+ 10.4.1.3 Ledninger kan anbringes i ledningskanaler inden for maskinstellet  
+
+ uden yderligere forholdsregler, forudsat at beskyttelsen mod indtrængning af  
+
+ væsker, metalspåner og støv mindst er IP54 efter IEC 529.
+ 10.4.1.4 Ledningskanaler skal være placeret og sikret således, at de ikke  
+
+ bliver udsat for mekanisk beskadigelse eller slid.
+ Det anbefales at anbringe ledningskanaler på en sådan måde, at de ligger  
+
+ fjernt fra væsker og fra områder, hvor der foregår bearbejdning, samt at  
+
+ montere dem således, at de er beskyttet mod eventuel beskadigelse forårsaget  
+
+ af håndteringsudrustning.
+Ydre ledningskanaler, som anvendes til at føre ledninger mellem maskine og  
+
+ kapslinger eller mellem maskiner indbyrdes, skal være solidt fastgjort og  
+
+ anbragt i tilstrækkelig afstand fra maskindele, der bevæger sig.
+I områder,  
+
+ hvor der skal være passage, skal den fri højde være mindst 2 m.
+ Hvis bygningsdele anvendes til fastgørelse af ledningskanaler og  
+
+ ledninger, skal der tages hensyn til IEC 364, kapitel 52.
+DK-forklaringer 10.4.1.4 Forklaring:
+ At der skal tages hensyn til IEC 364, kapitel 52, indebærer i princippet,  
+
+ at ledninger anbragt på bygningsdele skal følge de nuværende bestemmelser i  
+
+ afsnit 6.
+slut 10.4.1.5 For at forhindre forveksling mellem beskyttelsesrør for  
+
+ elektriske ledninger og olie- eller vandrør anbefales det, at der ikke  
+
+ placeres rør, der indeholder elektriske ledninger, i nærheden af rør, der  
+
+ benyttes til ikke elektriske formål.
+Hvor dette ikke kan undgås, skal rørene  
+
+ forsynes med en passende mærkning.
+ 10.4.1.6 Ledningskanaler skal opfylde følgende bestemmelser:
+ - Hvis der anvendes stål, skal pladetykkelsen mindst være 1 mm, og hvis et  
+
+ andet materiale anvendes, skal det have tilsvarende styrke.
+- Kapslingsklassen skal mindst være IP33 efter IEC 529. Hvis der  
+
+ imidlertid er anbragt klemmer i ledningskanaler, skal hele ledningskanalen  
+
+ mindst have kapslingsklassen IP54, og klemmerne skal være således anbragt, at  
+
+ ledningerne ikke kan beskadiges.
+For værktøjsmaskiner er det ikke tilladt at  
+
+ anbringe klemmer i ledningskanaler.
+- De skal have aftageligt låg.
+De må ikke have andre åbninger end dem, der  
+
+ er nødvendige for de ledninger, som hører til maskinen.
+ 10.4.2 Forbindelser til maskindele, der bevæger sig.
+ Forbindelser til elektrisk materiel i maskindele, der bevæger sig eller  
+
+ forskydes i forbindelse med justering, skal udføres med bøjelige ledninger.
+ Ledningens kappe skal kunne tåle eventuelle termiske påvirkninger og  
+
+ påvirkningerne fra mekaniske bevægelser, olie, kølemidler og spåner uden at  
+
+ blive beskadiget.
+ 10.4.2.1 Ledninger, der er udsat for bevægelse, skal aflastes, så der ikke  
+
+ forekommer mekanisk træk eller skarpe bøjninger i tilslutningspunkterne.
+ Den nedhængende sløjfe skal have tilstrækkelig længde til at sikre en  
+
+ bøjningsradius på mindst ti gange ledningens ydre diameter.
+Hvor bevægelige ledninger kommer i nærheden af dele, der bevæger sig, skal  
+
+ der træffes forholdsregler, så der altid er mindst 25 mm mellem ledningerne  
+
+ og de bevægelige dele.
+Hvis dette ikke er praktisk muligt, skal der være  
+
+ anbragt faste barrierer mellem ledningerne og de bevægelige dele, 10.4.2.2 Kapslinger må ikke hænge i de elektriske ledninger.
+ 10.4.2.3 Bøjelige beskyttelsesrør skal yde passende beskyttelse mod  
+
+ indtrængning af olie, kølemiddel og støv, f.eks. have nedadvendte åbninger.
+ Metalslangerør må ikke anvendes, hvis de kan blive udsat for hurtige eller  
+
+ hyppige bevægelser.
+ Beskyttelsesrør af metal skal i begge ender have god elektrisk forbindelse  
+
+ med jordforbundne maskindele.
+ 10.4.3 Forbindelser mellem maskinens elektriske indretninger.
+Når komplicerede maskiner har flere koblingsindretninger (positionsfølere,  
+
+ trykknapper osv.), som er forbundet i serie og/eller i parallel, anbefales  
+
+ det at føre disse forbindelser over mellemliggende klemmer, der er egnede som  
+
+ målepunkter.
+Disse klemmer skal være let tilgængelige og beskyttet med en  
+
+ passende kapsling.
+Klemmerne skal være vist på de tilhørende skemaer.
+ 10.4.4 Stikkontaktforbindelser.
+ I stikkontaktforbindelser skal stikkontakten, apparatkontakten eller  
+
+ forlængerleddet være nærmest forsyningen.
+10.4.4.1 I strømkredse, der ikke følger 5.1.2.3 eller 5.1.3, skal  
+
+ stikforbindelsen udføres således, at forbindelsen til beskyttelseskredsen er  
+
+ etableret før forbindelsen til spændingsførende kredse.
+Forbindelsen til  
+
+ beskyttelseskredsen må ikke brydes, før forbindelsen til alle  
+
+ spændingsførende kredse er brudt.
+ 10.4.4.2 Stikpropper, apparatindtag, stikkontakter, apparatkontakter og  
+
+ forlængerled skal være af en type, hvor utilsigtet berøring med  
+
+ spændingsførende dele til enhver tid er udelukket, også under stikproppens  
+
+ indsætning eller udtagning.
+10.4.4.3 Stikpropper, apparatindtag, stikkontakter, apparatkontakter og  
+
+ forlængerled skal have passende dimension og give tilstrækkeligt kontakttryk  
+
+ og have tilstrækkelig kontaktrensning, således at vedvarende elektrisk  
+
+ forbindelse er sikret i alle strømkredse.
+Afstande mellem kontakter skal være  
+
+ tilstrækkelige til de anvendte spændinger.
+Afstandene skal også være til  
+
+ stede under indsætning og udtagning.
+ 10.4.4.4 stikpropper, apparatindtag, stikkontakter, apparatkontakter og  
+
+ forlængerled, der skal vedblive at være sammenkoblede under normal drift,  
+
+ skal være af en type med en holdeindretning, som forhindrer utilsigtet  
+
+ afbrydelse, under normal drift.
+ 10.4.4.5 Stikkontakter, apparatindtag og forlængerled, som har en  
+
+ mærkestrøm på 25 A og derover, eller som er placeret i områder, hvor der  
+
+ kræves en højere kapslingsklasse end 1P43, skal være forsynet med låg, der  
+
+ hindrer indtrængning af støv, væsker osv., når stikproppen er udtaget.
+10.4.4.6 Når der anvendes mere end een stikprop eller eet apparatindtag,  
+
+ eller een stikkontakt, een apparatkontakt eller eet forlængerled i det  
+
+ elektriske materiel, skal de være tydeligt mærket.
+Det anbefales at anvende  
+
+ et mekanisk kodesystem for at undgå forkert sammenkobling.
+ 10.4.4.7 Industristikkontakter efter IEC 309 og stikkontakter for boliger,  
+
+ må ikke anvendes i styrekredse.
+ 10.4.5 Demontering for transport.
+Når dele af en maskine skal demonteres før forsendelse, skal de være  
+
+ forsynet med egnede klemmer eller konnektorer til de elektriske ledninger,  
+
+ der skal demonteres.
+Sådanne klemmer eller konnektorer skal have en passende  
+
+ kapsling.
+Lederne skal være forsynet med samme mærkning som de tilhørende  
+
+ klemmer.
+ 10.4.6 Reserveledere.
+ Hvor mange ledere er samlet under samme mekaniske beskyttelse (bortset fra  
+
+ effektledninger) bør det overvejes at placere ekstra ledere med henblik på  
+
+ ændringer og reparationer.
+11 Elektromotorer 11.1 Almindelige bestemmelser.
+ Alle motorer skal opfylde bestemmelserne i IEC 34.
+ 11.2 Dimensioner.
+ Motorers dimensioner skal så vidt muligt være efter IEC 72.
+ 11.3 Driftsegenskaber.
+Motorers egenskaber skal vælges i overensstemmelse med de aktuelle  
+
+ driftsbetingelser.
+I denne forbindelse skelnes der mellem følgende  
+
+ driftsformer:
+ - Motorer for kontinuert drift.
+ - Motorer med hyppig start og modstrømsbremsning.
+ - Motorer der driver maskiner med stort inertimoment, og som derfor må  
+
+ have et passende slip (f.eks. motorer til presser).
+ Fabrikanten skal tage særligt hensyn til følgende punkter:
+ - Motorens startmoment og laveste drejningsmoment i startperioden i  
+
+ forhold til maskinens belastningsmoment.
+ - Det nødvendige maksimalmoment.
+ - Drejningsmomentet under kontinuert drift.
+ - Muligheden for overbelastning.
+ - Start- og bremsehyppighed.
+ - Tidsafhængige belestningsvariationer.
+ Motorers isolation skal mindst være af klasse 120 (E) efter IEC 85. Det  
+
+ anbefales, at reverserende motorer og motorer med effekt over 7,5 kW  
+
+ overbelastningsbeskyttes med indbygget termisk beskyttelse e.l.
+11.4 Kapslingstype, Der bør fortrinsvis anvendes vekselstrømsmotorer, med eller uden  
+
+ kappekøling, som har en kapslingsklasse på mindst IP44. I visse tilfælde kan  
+
+ fremmedventilation være nødvendig.
+ Indbygningsmotorer skal indbygges således, at de er passende mekanisk  
+
+ beskyttet, og således, at deres temperaturstigning holdes inden for de  
+
+ grænser, der er angivet i IEC 34.
+ 11.5 Mekaniske vibrationer.
+ Hvis det er nødvendigt, at visse motorers vibrationsstrenghed ligger inden  
+
+ for specificerede grænser, for at maskinen kan fungere korrekt, skal dette  
+
+ fremgå af motorernes mærkeplade og af styklisten for det elektriske materiel.
+ 11.6 Startmetode.
+ I de tilfælde, hvor der ikke foreligger præcise oplysninger i tillæg A,  
+
+ spørgsmål 21, kan fabrikanten gå ud fra, at trefasede kortslutningsmotorer  
+
+ med effekter op til 11 kW (15 hk) kan startes direkte, bortset fra motorer  
+
+ med et unormalt stort forhold mellem start- og driftstrøm, hvor denne grænse  
+
+ skal reduceres tilsvarende.
+ Brugerens opmærksomhed henledes på følgende faktorer, der kan medføre en  
+
+ lavere grænse:
+ - Forsyningsnettets egenskaber i det punkt, hvor maskinen forsynes.
+ - Forsyningstransformerens størrelse.
+ - Elleverandørens krav.
+DK-forklaringer 11.6 Forklaring:
+ At elleverandørens krav skal opfyldes indebærer bl.a., at  
+
+ Fællesregulativets krav skal være opfyldt.
+slut 11.7 Montage.
+Enhver motor skal monteres således, at den er let tilgængelig for  
+
+ inspektion, vedligeholdelse og smøring, og det skal være muligt at frakoble  
+
+ lederne og udtage motoren.
+Det skal være let at stramme eller udskifte remme  
+
+ og kæder, og at justere koblinger.
+ Især skal fastgøringsbolte, klemmer og smørepunkter, samt eventuelle  
+
+ slæberinge og børster være let tilgængelige.
+ Der må ikke være risiko for beskadigelse ved udskiftning.
+ Hulrum, der indeholder motorer, skal være rene og tørre og være forsynet  
+
+ med ventilationsåbninger direkte til maskinens yderside.
+ Disse ventilationsåbninger skal være anbragt tilstrækkelig højt over gulv  
+
+ eller serviceplan, således at der ved fejning eller anden rengøring ikke  
+
+ trænger støv, spåner eller vand ind i kapslingen.
+ Der må ikke være åbninger mellem hulrum, der indeholder motorer, og andre  
+
+ dele af maskinen, som ikke opfylder ovennævnte bestemmelser.
+ 11.8 Mærkeskilt.
+ Når en motor er indbygget i en maskine, eller når dens mærkeplade ikke er  
+
+ synlig, skal der i nærheden af motoren være anbragt et ekstra mærkeskilt, som  
+
+ let kan ses.
+ Når en forkert omløbsretning kan medføre fare for personalet eller for  
+
+ beskadigelse af maskinen, skal der på maskinen være anbragt et mærkeskilt,  
+
+ der angiver motorens omløbsretning.
+12 Tilslutning af tilbehør og maskinbelysning 12.1 Tilslutning af tilbehør.
+ 12.1.1 Forsyning.
+Når det elektriske materiel eller selve maskinen har een eller flere  
+
+ stikkontakter til forsyning af tilbehør, kan sådanne stikkontakter være  
+
+ forsynet, enten fra forsyningsadskillerens belastningsside eller fra  
+
+ sekundærsiden af en transformer.
+Stikkontakter skal være med jord, bortset  
+
+ fra strømkredse efter 5.1.2.3 eller 5.1.3.
+Når spændingen tages fra en transformer, skal transformerens sekundære  
+
+ mærkeeffekt være på mindst 100 VA.
+Foretrukne værdier for transformerens  
+
+ sekundærspænding er:
+110V, 50 Hz 115V, 60 Hz 220V, 50 Hz 230V, 60 Hz Hvor der af sikkerhedsgrunde kræves ekstra lav spænding, anbefales  
+
+ nominelle spændinger på 24 eller 48 V, 50 eller 60 Hz, se også 5.1.2.3 og  
+
+ 5.1.3.
+ 12.1.2 Beskyttelse.
+Alle ikke jordforbundne ledere i strømkredse, der forsyner stikkontakter  
+
+ for tilslutning af tilbehør, skal være kortslutningsbeskyttet.
+Hvis der  
+
+ anvendes stikkontakter af de typer, som er anført i 10.4.4.7, skal lederne  
+
+ endvidere være overbelastningsbeskyttet (se 5.3.3).
+1988-01-01 Beskyttelsen kan udføres med sikringer eller maksimalafbrydere, og  
+
+ beskyttelsen må ikke omfatte andre kredse end de, som forsyner stikkontakter  
+
+ for tilslutning af tilbehør.
+ 12.2 Arbejdsbelysning.
+ 12.2.1 Forsyning.
+ Det anbefales, at strømkredse til arbejdsbelysning forsynes fra en  
+
+ transformer med adskilte viklinger.
+ Fast anbragte eller indbyggede lamper kan forsynes direkte med  
+
+ forsyningsspænding, men de må ikke tilsluttes højere spænding end 250 V.
+I visse lande (f.eks. i Nordamerika) er det kun tilladt at benytte  
+
+ spændinger til og med 150 V og i andre højst 24 V (f.eks.
+USSR).
+ Tilledninger til transportable armaturer skal indeholde  
+
+ beskyttelsesledere, medmindre de forsynes efter 5.1.2.3 eller 5.1.3.
+Note 1 For transportable armaturer kræver visse lande (f.eks.
+Danmark) klasse II  
+
+ eller klasse III, se IEC 536.
+DK-forklaringer 12.2.1 Forklaring:
+Note 1 erstattes af For transportable armaturer kræver visse lande klasse II eller klasse III,  
+
+ se IEC 536.
+ Det tidligere danske forbud mod at anvende transportable armaturer af  
+
+ klasse I er bortfaldet.
+slut Note 2 Se også 5.6.2.5 (forsyningsadskiller).
+ 12.2.2 Beskyttelse af belysningskredse.
+1988-01-01 Alle ikke jordforbundne ledere i belysningskredse skal være  
+
+ kortslutningsbeskyttet med sikringer eller maksimalafbrydere, som ikke må  
+
+ omfatte andet end belysningskredse.
+ 12.2.3 Belysningsarmaturer.
+ Indstillelige armaturer skal være egnet til værkstedsbrug.
+ Fatningerne skal være af isolermateriale og skal yde beskyttelse mod  
+
+ utilsigtet berøring af lampesoklen.
+Der må ikke være indbygget afbryder i fatning eller tilledning, hvis  
+
+ forsyningsspændingen overstiger 50 V.
+Afbryder kan dog anbringes på  
+
+ armaturet.
+ Reflektorer skal fastgøres med beslag og ikke på fatningen.
+ 12.2.4 Lysstofrør.
+ Når der anvendes lysstofrør, skal der træffes forholdsregler for at  
+
+ minimere stroboskopeffekter.
+13 Prøvning Alt elektrisk materiel på hver enkelt maskine skal gennemgå følgende  
+
+ rutineprøver og kontrol:
+ - Isolationsprøve efter 13.1.
+ - Spændingsprøve efter 13.2.
+ - Kontrol af beskyttelseslederens sammenhæng efter 13.3.
+ - Rutineprøve med maskinen i tomgang efter 13.4.1.
+ En maskine af hver type skal endvidere gennemgå følgende typeprøve:
+ - Funktionsprøve med maskinen under belastning efter 13.4.2.
+ 13.1 Isolationsprøve.
+ Isolationsmodstanden skal være mindst 1 M ohm, målt ved 500 V jævnstrøm  
+
+ mellem de kortsluttede ledere i effektkredsene, herunder alle styre- og  
+
+ signalkredse, som er forbundet med effektkredse, og beskyttelseskredsen  
+
+ (herunder maskinstellet). Hvor styre- og signalkredse ikke er forbundet med  
+
+ effektkredse, skal der udføres følgende separate isolationsprøver:
+ - Mellem effektkredsene og beskyttelseskredsen.
+ - Mellem effektkredse og styre- og signalkredse.
+ - Mellem styre- og signalkredse og beskyttelseskredsen.
+ For elektrisk materiel af større omfang er det tilladt at udføre prøverne  
+
+ sektionsvis.
+ Hvor komponenter og indretninger kan blive beskadiget af den  
+
+ prøvespænding, der eventuelt kan forekomme på klemmerne, kan klemmerne  
+
+ kortsluttes under prøven.
+Styre- og signalkredse med nominelle spændinger under 50 V incl.
+FELV- og  
+
+ MELV-kredse efter 5.1.2.3 og 5.1.3 skal prøves, medmindre de indeholder  
+
+ elektroniske komponenter.
+Strømkredse, der ikke prøves, skal være forbundet  
+
+ med beskyttelseskredsen under prøverne af de øvrige strømkredse.
+Under prøverne skal enhver tilsigtet sammenkobling af effekt-, styre- og  
+
+ signalkredse med beskyttelseskredsen være åben.
+Efter prøverne skal disse  
+
+ forbindelser retableres.
+ 13.2 Spændingsprøve.
+ Det elektriske materiel skal i 1 minut udsættes for en prøvespænding under  
+
+ følgende forhold:
+ - Mellem de kortsluttede ledere i effektkredsene, herunder styre- og  
+
+ signalkredse, som er forbundet med effektkredsene, og beskyttelseskredsen,  
+
+ herunder maskinstellet.
+ - Mellem styre- og signalkredse med nominelle spændinger på 50 V og  
+
+ derover, som ikke er forbundet med effektkredse, og beskyttelseskredsen, hvis  
+
+ det er muligt.
+ Prøvespændingen skal være 85 pct. af den laveste prøvespænding, som alle  
+
+ komponenter og indretninger allerede har været prøvet med inden indbygning.  
+
+ Prøvespændingen skal mindst være 1 500 V vekselstrøm.
+ Prøvespændingen skal tages fra en transformer, der har en mærkeeffekt på  
+
+ mindst 500 VA.
+ For elektrisk materiel af større omfang er det tilladt at udføre prøverne  
+
+ sektionsvis.
+Komponenter og indretninger, som ikke er beregnet til at kunne modstå så  
+
+ høje prøvespændinger (ensrettere, kondensatorer, elektroniske apparater  
+
+ osv.), må frakobles under prøven.
+Dog må støjkondensatorer, som er placeret  
+
+ mellem spændingsførende dele og udsatte dele, ikke frakobles, og de skal  
+
+ kunne bestå denne prøve.
+ 13.3 Beskyttelseskredsens sammenhæng.
+ Det skal ved inspektion kontrolleres, at beskyttelseskredsen opfylder  
+
+ bestemmelserne i 5.1.2.1.1 til 5.1.2.1.7.
+ I tvivlstilfælde skal det ved måling kontrolleres, at modstanden mellem  
+
+ hovedjordklemmen efter 4.3.3 og 5.1.2.1.6 og enhver udsat ledende del på det  
+
+ elektriske materiel såvel som på maskinen, ikke overstiger 0,1 ohm.
+ 13.4 Funktionsprøver.
+ 13.4.1 Rutineprøve med maskinen i tomgang.
+ Med det elektriske materiel tilsluttet forsyningen under de foreskrevne  
+
+ betingelser (f.eks. maksimal afvigelse på forsyningsspændingen) skal det  
+
+ påvises, at alle dele af det elektriske materiel fungerer korrekt, og at  
+
+ funktionernes rækkefølge er korrekt.
+ Det skal især kontrolleres, at nødstopindretningerne fungerer korrekt.
+ 13.4.2 Typeprøve af maskinens funktion under belastning.
+ Når maskinen arbejder ved normal belastning, enten kontinuerligt eller med  
+
+ en specificeret intermittens, og i den omgivelsestemperatur, hvori maskinen  
+
+ skal fungere, må delenes temperaturstigning ikke overstige de værdier, der er  
+
+ angivet i relevante IEC-standarder.
+Det skal kontrolleres, at alle dele af det elektriske materiel fungerer  
+
+ korrekt, herunder specielt, at afbrydelse og retablering af forsyningen ikke  
+
+ indebærer fare for personer eller medfører skade på maskinen eller dens  
+
+ elektriske materiel.
+Det skal kontrolleres, at nødstop af motorer under  
+
+ belastning foregår sikkert ved hjælp af de stopindretninger, der er beskrevet  
+
+ i 5.6.1. Hvis denne prøve indebærer risiko for beskadigelse, skal der træffes  
+
+ særlige forholdsregler for at undgå dette.
+14 Spørgeskema Det anbefales, at benytte spørgeskemaet i tillæg A til at fastlægge de  
+
+ grundlæggende data og særlige bestemmelser for det elektriske materiel.
+Tillæg A Spørgeskema for elektrisk materiel på industrimaskiner Der bør foreligge følgende oplysninger for at maskinen kan blive forsynet  
+
+ med hensigtsmæssigt elektrisk materiel:
+ Svar præcist på spørgsmålene, så fejl undgås.
+Tillæg B Strømværdi og kortslutningsbeskyttelse af ledninger med isolation af  
+
+ polyvinylklorid (PVC) i elektrisk materiel på industrimaskiner B 1 Strømværdier for ledninger B1.1 Isolationstyper.
+ Dette tillæg gælder for en- eller flerlederledninger, med PVC-isolation  
+
+ uden metallisk kappe, med en tilladelig arbejdstemperatur (dvs. en tilladelig  
+
+ driftstemperatur på lederen under kontinuerlig drift) på 70 graderC.
+ Hvis andre isolationstyper anvendes, skal sådanne ledninger anvendes i  
+
+ overensstemmelse med de relevante IEC-publikationer, eller med gældende  
+
+ standarder, eller hvis sådanne ikke findes, i overensstemmelse med  
+
+ ledningsfabrikantens anvisninger.
+ For yderligere information, se IEC 364, kapitel 52.
+DK-forklaringer B1.1 Forklaring:
+ De strømværdier, der er angivet i afsnit 6, kan normalt anvendes.
+slut B1.2 Temperaturer og omgivende lufttemperatur.
+B1.2.1 For en- og flerlederledninger med kobberleder og uden metallisk  
+
+ kappe kan strømværdierne i tabel BII anvendes ved en omgivelsestemperatur på  
+
+ 30 graderC.
+For ledninger med aluminiumledere anvendes omregningsfaktoren  
+
+ efter B1.3.2.
+ Kolonne 2 og 4 gælder for ledninger i ledningskanaler, hvor  
+
+ omgivelsestemperaturen måles uden for ledningskanalen.
+Kolonne 3 og 5 gælder for ledninger, hvor omgivelsestemperaturen måles  
+
+ mellem ledningerne, f.eks. inde i kapslinger til styreindretninger, eller i  
+
+ maskinhulrum.
+Omgivelsestemperaturen skal måles mellem ledningerne og de  
+
+ vægge eller barrierer, som begrænser luftcirkulationen omkring ledningerne.
+B1.2.2 De temperaturer, der skal benyttes, er sluttemperaturerne under  
+
+ normale fuldlastbetingelser.
+De måles, efter at maskinen har været i drift så  
+
+ længe, at sluttemperaturerne er nået.
+ B1.2.3 Medmindre brugeren kræver en udformning, som er beregnet for højere  
+
+ omgivelsestemperaturer, skal temperaturerne omkring ledningskanaler og  
+
+ omkring ledninger på maskinen og i selve det elektriske materiel være baseret  
+
+ på en lufttemperatur på 30 graderC i maskinens og materiellets omgivelser.
+ Hvor omgivelsestemperaturen nogle få dage om året har en middelværdi, der  
+
+ målt over 24 timer ikke overstiger 35 graderC, og en maksimumsværdi, der  
+
+ aldrig overstiger 40 graderC, anses disse temperaturer for at svare til den  
+
+ konventionelle værdi af omgivelsestemperaturen, 30 graderC.
+ B1.2.4 Hvor lufttemperaturen omkring ledningskanalen er over 30 graderC,  
+
+ uanset om det skyldes varmeudstråling fra materiel, skal strømværdien  
+
+ reduceres ved anvendelse af reduktionsfaktorer, som angivet i tabel BI.
+Tabel BI Reduktionsfaktorer for højere omgivelsestemperaturer * Faktorerne er de samme, som er angivet for PVC-isolerede ledninger i IEC  
+
+ 448, tabel VI.
+ B1.3 Strømværdier for fuldt belastede ledninger.
+ B1.3.1 Strømværdier for ledninger med kobberledere.
+ Tabel BII angiver maksimalt tilladelige strømme under normale  
+
+ driftsbetingelser for en- eller flerlederledninger med PVC-isolerede  
+
+ kobberledere uden metallisk kappe, med en tilladelig driftstemperatur på 70  
+
+ graderC og med en nominel omgivelsestemperatur på 30 graderC, se også B1.2.
+Værdierne i tabellen er vejledende og gælder for et vilkårligt antal  
+
+ sideløbende ledninger.
+I særlige tilfælde (f.eks. ved kontinuerlige  
+
+ processer) og i snævre hulrum, skal strømværdierne reduceres, se IEC  
+
+ 364-5-523.
+DK-forklaringer B1.3.1 Forklaring:
+ Den i afsnit 6 angivne metode kan normalt anvendes.
+ For flerlederledninger med sektorformede ledere (med stort tværsnit) skal  
+
+ strømværdierne i denne tabel reduceres med 6A.
+Tabel BII Ledninger med kobberledere 3)Virkeligt tværsnit 47 mm2.
+ For ledertværsnit over 1 mm2 er strømværdierne beregnet ved hjælp af  
+
+ formlen:
+I = a . s0,625 hvor: I er strømværdien for en leder med tværsnittet s mm2 A s er ledertværsnittet mm2 a er konstant, hvis værdi svarer til strømværdien for en leder med  
+
+ tværsnittet 1 mm2 Strømværdierne i kolonne 2 for ledere med tværsnit fra 1 til 120 mm2 er de  
+
+ samme, som er angivet i IEC 448, tabel I, for tre belastede kobberledere.  
+
+ Strømværdierne i kolonne 3 for ledere med tværsnit fra 1 til 240 mm2 er de  
+
+ samme, som er angivet i IEC 448, tabel III, for tre belastede kobberledere.
+ Værdierne i tabel BII kan på de fleste maskiner benyttes til et vilkårligt  
+
+ antal ledere, fordi der ikke samtidig vil være fuld belastning på alle ledere  
+
+ i de forskellige strømkredse selv ved sideløbende fremføring. Årsagen hertil  
+
+ er, at f.eks. intermittens, ikke fuldt belastede motorer og anvendelse af  
+
+ standardtværsnit normalt medfører reservekapacitet.
+ I kritiske tilfælde må det dog anbefales at kontrollere, at  
+
+ ledertemperaturan ligger inden for tilladelige grænser.
+B1.3.2 Hvis der anvendes ledninger med aluminiumledere i stedet for  
+
+ kobberledere, skal værdierne i tabel BII multipliceres med faktoren 0,78.  
+
+ Aluminium er kun tilladt i faste forbindelser.
+Specielt er det ikke tilladt  
+
+ at anvende aluminiumledere til dele, der bevæger sig.
+B2 Kortslutningsbeskyttelse af ledninger B2.1 Alle ledere skal være kortslutningsbeskyttet med  
+
+ beskyttelsesindretninger anbragt i alle spændingsførende ledere, således at  
+
+ enhver kortslutningsstrøm i ledningen bliver afbrudt, inden lederne har  
+
+ antaget en farlig temperatur, hvilket for PVC-isolerede ledere med en  
+
+ driftstemperatur på 70 graderC vil være tilfældet, når de opvarmes fra 70 til  
+
+ 160 graderC.
+Kortslutningens varighed må ikke overstige 5 sekunder.
+ Vedrørende nullederen (N), se 5.2.2.
+ B2.2 I praksis anses bestemmelsen i B2.1 for at være opfyldt, hvis  
+
+ beskyttelsesindretningen, når den gennemløbes af strømmen Im, som er angivet  
+
+ i tabel BIII, kolonne 3, medfører afbrydelse af strømkredsen inden for en  
+
+ total brydetid, der ikke er større end tiden t i tabel BIII, kolonne 3.  
+
+ Værdierne af Im og t vælges i overensstemmelse med strømkredsens  
+
+ ledertværsnit.
+ I tabel BIII er værdierne af tiden t beregnet ved hjælp af formlen:
+1988-01-01 t = (115 . s I)2 hvor: t er den maksimalt tilladelige totale brydetid i kolonne 3 ...  
+
+ sekund s er ledertværsnittet ... mm2 I er strømmen Im i kolonne 2 ... A B2.3 Den lavest forekommende kortslutningsstrøm Ib skal dog beregnes i  
+
+ følgende tilfælde:
+ - Ved lave spændinger.
+ - Ved lange forsyningsledninger.
+ - Ved små tværsnit.
+ - Hvor strømkredse forsynes fra transformere med begrænset effekt, f.eks.  
+
+ i styrekredse.
+ - Hvor strømkredse forsynes gennem beskyttelsesindretninger med høj  
+
+ impedans.
+ Hvis Ib er mindre end Im i tabel BIII, kolonne 2, skal Ib benyttes til at  
+
+ fastlægge kortslutningsbeskyttelsen, og brydeindretningens største totale  
+
+ brydetid skal være mindre end tb, som beregnes ved hjælp af formlen:
+t = (Im Ib)2 . t hvor: tb er den beregnede maksimalt tilladelige totale brydetid.
+ Im er værdien i tabel BIII, kolonne 2.
+ Ib er den beregnede laveste kortslutningsstrøm.
+ t er værdien i tabel BIII, kolonne 3.
+ B2.4 Maksimalafbrydere, der anvendes til beskyttelse af ledninger med små  
+
+ tværsnit, skal dimensioneres således, at den energi, som de slipper igennem  
+
+ ved kortslutning, ikke overstiger ledningens maksimalt tilladelige termiske  
+
+ belastningsværdi (i2t). Værdien kan bestemmes ved at multiplicere kvadratet  
+
+ på strømmen Im i tabel BIII, kolonne 2, med tiden t i samme tabels kolonne 3.
+ B2.5 Kortslutningsbeskyttelsen for ledninger med kobberledere kan  
+
+ fastlægges ved hjælp af tabel BIII.
+ Denne tabel er kun vejledende, eftersom værdierne af Im konventionelt er  
+
+ sat til 20 gange værdierne i tabel BII, kolonne 2. Specielt skal det  
+
+ kontrolleres, at lederne ikke er så lange, at kortslutningsstrømmen i det  
+
+ fjerneste punkt bliver lavere end Im, se B2.3.
+Tabel BIII Maksimalt tilladelig total brydetid for materiel til  
+
+ kortslutningsbeskyttelse af ledninger med kobberleder og mærkestrømme for  
+
+ sikringer 1988-01-01 B2.6 Tilsvarende værdier for ledninger med aluminiumsledere er under  
+
+ overvejelse.
+Tillæg C Sammenligning af ledertværsnit Tabel CI Sammenligning af ledertværsnit i British Standard Wire Gauge (SWG) og  
+
+ American Wire Gauge (AWG) med mm2, in2 og circular mils * 1 mil er arealet af en cirkel med diameter 0,001 inch (= 1 milliinch).
+Tillæg D Referencebetegnelse Bestemmelser er under overvejelse.
+Indtil endelige bestemmelser  
+
+ foreligger, anbefales det at benytte IEC 204-2, Second edition. 1984.
+Tillæg E Eksempler på tegninger, tabeller og instruktioner Bestemmelser er under overvejelse.
+Indtil endelige bestemmelser  
+
+ foreligger, anbefales det at benytte IEC 204-2, Second edition, 1984.
+Tillæg F Fortegnelse over internationale publikationer, hvortil der henvises i  
+
+ afsnit 15-1 (EN 60 204-1) Denne publikation er under revision, eller der foreligger en revideret  
+
+ udgave.
+ Betegner EF-direktiver, som er udgivet i 1976 og 1977.
+Tillæg G Original tekst fra gyldighedsområde i IEC 204-1 (1981) 1.1 Gyldighedsområde.
+ Denne standard gælder for elektrisk og elektronisk materiel på  
+
+ industrimaskiner, som ikke holdes i hånden under arbejdsprocessen, og som  
+
+ benyttes til at udføre industrielle processer på materialer eller emner.
+ I denne standard betyder udtrykket »elektrisk« både elektrisk og  
+
+ elektronisk, f.eks. betyder »elektrisk materiel«, både det  
+
+ elektriske og det elektroniske materiel.
+ Bestemmelser, som kun gælder for elektronisk materiel er trykt med halvfed  
+
+ skrift.
+ Ekstra brugerkrav er trykt med kursiv, se § 1.3.
+Denne standard omfatter materiel, som er placeret efter det sted, hvor  
+
+ forsyningen er sluttet til maskinen, se § 4.3.3. Denne standard gælder for  
+
+ materiel, der forsynes med vekselspænding med nominelle spændinger på  
+
+ maksimalt 1000 V vekselstrøm mellem faserne og med en nominel frekvens på  
+
+ maksimalt 200 Hz.
+Ved frekvenser over 200 Hz kan særlige krav være gældende.
+ Denne standard omfatter, men er ikke begrænset til, det elektriske  
+
+ materiel på maskiner til følgende processer:
+ - Metalbearbejdning.
+ - Træbearbejdning.
+ - Støbning og ekstrudering af plast.
+ - Fremstilling af plastprodukter.
+ - Tekstil- og beklædningsindustri.
+ - Fremstilling af læderprodukter.
+ - Fremstilling af gummiprodukter.
+ - Fremstilling af papirprodukter o.l.
+ - Grafisk industri.
+ - Nærings- og nydelsesmiddelindustri.
+ - Emballering.
+ Endvidere er det elektriske materiel på automatiske maskiner til montage,  
+
+ materialehåndtering (f.eks. transportbånd) og kontrol omfattet, når det hører  
+
+ til ovennævnte maskiner.
+ Automatiske maskiner til montage kan indeholde svejsemateriel, for hvilket  
+
+ der henvises til de standarder, der gælder for elektrisk og elektronisk  
+
+ materiel for svejsning, skæring og tilhørende processer.
+ På maskiner, som anvender eller producerer eksplosive materialer, f.eks.  
+
+ maling eller savsmuld, skal det elektriske materiel opfylde yderligere krav.  
+
+ Hvor bearbejdningen. af visse materialer indebærer en særlig risiko, skal  
+
+ særlige sikkerhedsforanstaltninger være udført.
+ Samspillet (interface) mellem den numeriske styring og den styrede maskine  
+
+ er behandlet i IEC 550.
+ Denne standard gælder ikke for effektkredse, hvor elektriciteten direkte  
+
+ anvendes som værktøj (f.eks. svejsning, gnistbearbejdning, elektrokemiske  
+
+ processer), hvis der findes andre standarder for disse effektkredse.
+Denne standard omfatter ikke elektrisk materiel, som anvendes - til produktion og distribution af elektrisk energi, - i miner, - i det fri, - i eksplosionsfarlig atmosfære, - til maskiner for produktion af råmaterialer (metaller, cement,  
+
+ kemikalier, papir osv.), - til store metalvalseværker, - til kraner, elevatorer, transportbånd (undtagen, hvis de medvirker i  
+
+ produktionsprocessen).
+ Denne standard kan dog anvendes som grundlag for kravene til elektrisk  
+
+ materiel for maskiner eller dele af maskiner, som ligger uden for denne  
+
+ standards gyldighedsområde.
+Tillæg GD Original IEC-tekst til paragraffer som er ændret af CENELEC (excl. § 1, se tillæg G) EN 60 204-1 Pkt. 3.1.5 Hver enkelt del af det elektriske materiel skal være forsynet  
+
+ med referencebetegnelse i henhold til tillæg D, anbragt nær den pågældende  
+
+ del eller helst direkte på denne.
+Hvis denne mærkning ikke er fysisk mulig,  
+
+ skal dette være angivet i den tekniske dokumentation.
+IEC 204-1 Hver enkelt del af det elektriske materiel skal være forsynet med  
+
+ referencebetegnelse i henhold til tillæg D, anbragt nær den pågældende del  
+
+ eller helst direkte på denne.
+EN 60 204-1 Pkt. 3.1.6 Manuelle styreorganer, såsom trykkontakter, omskiftere osv., skal være  
+
+ tydeligt og holdbart mærket med funktion, enten på eller i nærheden af  
+
+ styreorganet.
+Sådanne mærkninger skal være på det sprog, som i  
+
+ ordrekontrakten er aftalt mellem bruger og fabrikant.
+Det anbefales  
+
+ imidlertid at anvende grafiske symboler efter IEC 417 og ISO 7000.
+IEC 204-1 Manuelle styreorganer, såsom trykkontakter, omskiftere osv., skal være  
+
+ tydeligt og holdbart mærket med funktion, enten på eller i nærheden af  
+
+ styreorganet.
+Sådanne mærkninger skal være på det sprog, som i  
+
+ ordrekontrakten er aftalt mellem bruger og fabrikant.
+Det anbefales  
+
+ imidlertid at anvende grafiske symboler efter IEC 417 og ISO R 369.
+EN 60 204-1 Pkt. 3.2.2 - Enhver relevant oplysning, hvor dette er nødvendigt, især om sådanne  
+
+ egenskaber (data), som er krævet i andre standarder eller forskrifter, som  
+
+ vedrører sikkerheden ved maskinens drift.
+IEC 204-1 (Ingen tilsvarende tekst) EN 60 204-1 Pkt. 3.2.2 Den tekniske dokumentation skal indeholde følgende - Fortegnelse over slid- og reservedele, som det normalt må anbefales at  
+
+ føre på lager, hvis det er nødvendigt, se 3.2.4.9.
+IEC 204-1 Den tekniske dokumentation skal også indeholde:
+ - Fortegnelse over slid- og reservedele, som det normalt må anbefales at  
+
+ føre på lager, hvis det er nødvendigt, se 3.2.4.9.
+EN 60 204-1 Pkt. 3.2.4.1 Der skal være tydelig angivelse af placering og dimension af de ledninger,  
+
+ der skal installeres på stedet.
+Endvidere skal ledertværsnit være angivet,  
+
+ hvis det ikke fremgår af mærkestrømmen.
+Hvis der skal anvendes specielle  
+
+ ledningstyper, skal dette være angivet.
+IEC 204-1 Der skal være tydelig angivelse af placering og dimension af de ledninger,  
+
+ der skal installeres på stedet.
+Endvidere skal ledertværsnit være angivet,  
+
+ hvis det ikke fremgår af mærkestrømmen.
+EN 60 204-1 Pkt. 3.2.4.9 Fortegnelse over slid- og reservedele skal angive de dele, som det normalt  
+
+ anbefales at have på lager.
+IEC 204-1 EN 60 204-1 Pkt. 4.3.2 Det elektriske materiel må ikke forudsætte tilslutning til nulleder (N),  
+
+ hvis det ikke er aftalt med brugeren.
+Hvis der anvendes nulleder, skal dette  
+
+ klart fremgå af den tekniske dokumentation for maskinen, f.eks. ved angivelse  
+
+ på installationstegninger og i kredsskemaet.
+Der må ikke være nogen intern  
+
+ forbindelse mellem nullederen (N) og beskyttelseskredsen (PE), og der må ikke  
+
+ anvendes kombineret beskyttelses- og nulleder (PEN-leder) internt i det  
+
+ elektriske materiel.
+IEC 204-1 Det elektriske materiel må ikke forudsætte tilslutning til nulleder (N),  
+
+ hvis det ikke er aftalt med brugeren.
+Hvis der anvendes nulleder, skal dette  
+
+ klart fremgå af den tekniske dokumentation for maskinen, f.eks. ved angivelse  
+
+ på installationstegninger og i kredsskemaet.
+Der må ikke være nogen intern  
+
+ forbindelse mellem nullederen (N) og beskyttelseskredsen (PE) i det  
+
+ elektriske materiel.
+EN 60 204-1 Pkt. 5.1.1.1 Spændingsførende dele på indersiden af døre skal være beskyttet mod  
+
+ utilsigtet berøring, når dørene er åbne.
+Spændingsførende dele inde i  
+
+ kapslinger, som kan berøres ved tilbagestillingsmanøvrer, skal være beskyttet  
+
+ mod utilsigtet berøring med en finger, eller med nogen anden del af legemet.
+IEC 204-1 Spændingsførende dele på indersiden af døre skal være beskyttet mod  
+
+ utilsigtet berøring, når dørene er åbne.
+EN 60 204-1 Pkt. 5.1.2.1 Hver strømkreds skal have sin egen (sine egne) beskyttelsesindretning(er),  
+
+ f.eks. kortslutningsbeskyttelsesindretninger efter 5.2.2, eller, som en  
+
+ alternativ løsning i TN-S-systemer, fejlstrømsafbrydere.
+I strømkredse med  
+
+ relativt store ledertværsnit kan det være hensigtsmæssigt at udnytte den  
+
+ generelle beskyttelse af det elektriske materiel efter 5.2.1. Denne kan være  
+
+ anbragt i forsyningsledningens udgangspunkt.
+IEC 204-1 Hver strømkreds skal have sin egen (sine egne) beskyttelsesindretning(er),  
+
+ f.eks. kortslutningsbeskyttelsesindretninger efter § 5.2.2, eller i  
+
+ TN-S-systemer, fejlstrømsafbrydere.
+I strømkredse med relativt store  
+
+ ledertværsnit kan det være hensigtsmæssigt at udnytte den generelle  
+
+ beskyttelse af det elektriske materiel efter § 5.2.1. Denne kan være anbragt  
+
+ i forsyningsledningens udgangspunkt.
+EN 60 204-1 Pkt. 5.1.2.1.2 IEC 204-1 EN 60 204-1 Pkt. 5.1.2.3 Transformere, der anvendes til en sådan separat forsyning, skal opfylde  
+
+ bestemmelserne for sikkerhedstransformere i IEC 742 IEC 204-1 Transformere, der anvendes til en sådan separat forsyning, skal opfylde  
+
+ bestemmelserne for sikkerhedstransformere (under overvejelse).
+EN 60 204-1 Pkt. 5.5 Hvor automatisk genstart af en motor eller andre apparater efter  
+
+ et stop forårsaget af en underspændingsbeskyttelse, kan indebære fare for  
+
+ personer eller risiko for beskadigelse af maskinen eller igangværende  
+
+ arbejde, skal automatisk genstart være udelukket.
+IEC 204-1 (Ingen tilsvarende tekst).
+EN 60 204-1 Pkt. 5.6.1.1 Kontakterne på håndbetjente nødstop skal have positiv brydefunktion, se  
+
+ 8.1.4.
+IEC 204-1 (Ingen tilsvarende tekst).
+EN 60 204-1 Pkt. 5.6.2 IEC 204-1 EN 60 204-1 Pkt. 5.8.1 Radiostøjen fra det elektroniske materiel skal være reduceret til et  
+
+ minimum.
+Vedrørende tilladte grænser og metoder til måling af radiostøj se  
+
+ CISPR 11 og CISPR 14. Se også EF-direktiv af 1. april 1975 (76/889/EØF).
+IEC 204-1 Radiostøjen fra det elektroniske materiel skal være reduceret til et  
+
+ minimum.
+Vedrørende tilladte grænser og metoder til måling af radiostøj se  
+
+ CISPR 11 og CISPR 14.
+EN 60 204-1 Pkt. 6.1.1 For maskiner, der ikke er helt ukomplicerede, f.eks. med mere end fem  
+
+ spoler (kontaktorer, relæer, ventiler osv.) eller hvis styremateriel eller  
+
+ instrumenter er anbragt uden for kapslinger, skal der anvendes transformere  
+
+ til forsyning af styre- og signalkredse.
+Transformerne skal have adskilte  
+
+ viklinger og tilsluttes forsyningsadskillerens belastningsside, fortrinsvis  
+
+ mellem to faseledere.
+ Hvis der både anvendes styrekredse med vekselspænding og styrekredse med  
+
+ jævnspænding, skal de forsynes fra hver sin vikling med tilstrækkelig  
+
+ isolation mellem viklingerne.
+IEC 204-1 For maskiner, der ikke er helt ukomplicerede, f.eks. med mere end fem  
+
+ spoler (kontaktorer, relæer, ventiler osv.) eller hvis styremateriel eller  
+
+ instrumenter er anbragt uden for kapslinger, anbefales det at anvende  
+
+ transformere til at forsyne styre- og signalkredse.
+Sådanne transformere skal  
+
+ have adskilte viklinger og tilsluttes forsyningsadskillerens belastningsside,  
+
+ fortrinsvis mellem to faseledere.
+ (Ingen tilsvarende tekst).
+EN 60 204-1 Pkt. 6.1.3 Flere transformere.
+Hvis flere transformere til forsyning af styrekredse er i kontinuerlig  
+
+ drift, skal hver enkelt transformer så vidt muligt forsyne styrekredsene for  
+
+ afgrænsede mekaniske enheder.
+På denne måde kan styrekredsene udformes  
+
+ således, at der ikke opstår fare for personale, for maskine eller for  
+
+ igangværende arbejde, hvis en af strømkredsene er ude af drift.
+ Hvis en maskine indeholder flere transformere til forsyning af styre-  
+
+ eller signalkredse, og disse transformere giver samme spænding(er), anbefales  
+
+ det at tilslutte primærsiden, så lederne på sekundærsiden er i fase (dvs. på  
+
+ ethvert tidspunkt har samme potentiale).
+IEC 204-1 Flere transformere.
+Hvis flere transformere til forsyning af styrekredse er i kontinuerlig  
+
+ drift, skal hver enkelt transformer så vidt muligt forsyne styrekredsene for  
+
+ afgrænsede mekaniske enheder.
+På denne måde kan styrekredsene udformes  
+
+ således, at der ikke opstår fare for personale, for maskine eller for  
+
+ igangværende arbejde, hvis en af strømkredsene er ude af drift.
+ Hvis en maskine indeholder flere transformere til forsyning af styre-  
+
+ eller signalkredse, og disse transformere giver samme spænding(er), anbefales  
+
+ det at tilslutte primærsiden, så lederne på sekundærsiden er i fase (dvs. på  
+
+ ethvert tidspunkt har samme potentiale).
+EN 60 204-1 Pkt. 6.2.2 Der gøres opmærksom på, at den udeladelse af forbindelsen mellem  
+
+ materiellets udsatte dele og beskyttelseskredsen, som er tilladt efter  
+
+ 5.1.2.2 til 5.1.2.4 og 5.1.3, kan medføre, at de sikkerhedsforanstaltninger,  
+
+ som er beskrevet i 6.2.2 og 6.2.3, ikke bliver effektive.
+ Der bør også tages hensyn til forhold, såsom isolationsovervågning,  
+
+ følgerne af fejlfunktion ved jordfejl osv.
+IEC 204-1 Der gøres opmærksom på, at den udeladelse af forbindelsen mellem  
+
+ materiellets udsatte dele og beskyttelseskredsen, som er tilladt efter §§  
+
+ 5.1.2.2 til 5.1.2.4 og 5.1.3, kan medføre, at de sikkerhedsforanstaltninger,  
+
+ som er beskrevet i §§ 6.2.2 og 6.2.3, ikke bliver effektive.
+EN 60 204-1 Pkt. 6.2.4.7 Beskyttende afskærmninger.
+ Hvis maskinen standser ved fjernelse af beskyttelsesskærme m.m., der  
+
+ forhindrer adgang til farlige dele eller områder, må genanbringelse af  
+
+ skærmene ikke medføre, at maskinen starter hvis dette kan føre til en farlig  
+
+ situation.
+IEC 204-1 (Ingen tilsvarende tekst).
+EN 60 204-1 Pkt. 6.2.6.3 Tohåndsbetjening.
+(Denne metode skal benyttes sammen med 6.2.6.2.) Hvis betjening med begge hænder, og kun med begge hænder, er nødvendig for  
+
+ operatørers sikkerhed (dvs. hvor operatører) skal tvinges til at fjerne  
+
+ hænderne fra farlige zoner), skal hver operatør have to trykknapper for start  
+
+ af arbejdscyklus.
+Alle disse trykknapper skal samtidig holdes i den  
+
+ aktiverede stilling under hele processen eller mindst indtil det tidspunkt,  
+
+ hvor den fortsatte arbejdsoperation ikke længere er farlig.
+ Hvert par trykknapper skal være anbragt således, at betjening kræver, at  
+
+ operatører bruger begge hænder.
+For at metoden skal være effektiv, skal det endvidere være nødvendigt, at  
+
+ begge trykknapper i hvert par betjenes inden for et begrænset tidsrum.
+Dette  
+
+ tidsrum skal være angivet af brugeren i overensstemmelse med de relevante  
+
+ nationale standarder og forskrifter.
+Det anbefales at vælge en af følgende  
+
+ værdier:
+0,2 0,5 eller 1 sekund Styrekredsen skal være således udformet, at begge trykknapper i et par  
+
+ skal frigøres og derpå atter indtrykkes for start af arbejdscyklen, hvis  
+
+ denne tidsgrænse er overskredet.
+IEC 204-1 Tohåndsbetjening.
+(Denne metode skal benyttes sammen med § 6.2.6.2.) Hvis betjening med begge hænder, og kun med begge hænder, er nødvendig for  
+
+ operatørers sikkerhed (dvs. hvor operatører) skal tvinges til at fjerne  
+
+ hænderne fra farlige zoner), skal hver operatør have to trykknapper for start  
+
+ af arbejdscyklus.
+Alle disse trykknapper skal samtidig holdes i den  
+
+ aktiverede stilling under hele processen eller mindst indtil det tidspunkt,  
+
+ hvor den fortsatte arbejdsoperation ikke længere er farlig.
+ Hvert par trykknapper skal være anbragt således, at betjening kræver, at  
+
+ operatører bruger begge hænder.
+For at metoden skal være effektiv, skal det endvidere være nødvendigt, at  
+
+ begge trykknapper i hvert par betjenes inden for et begrænset tidsrum.
+Dette  
+
+ tidsrum skal være angivet af brugeren.
+Det anbefales at vælge en af følgende  
+
+ værdier:
+0,2 0,5 eller 1 sekund Styrekredsen skal være således udformet, at begge trykknapper i et par  
+
+ skal frigøres og derpå atter indtrykkes for start af arbejdscyklen, hvis  
+
+ denne tidsgrænse er overskredet.
+EN 60 204-1 Pkt. 6.2.8 Manuel betjening af automatiske maskiner.
+ Hvis det er nødvendigt, skal maskiner for automatisk drift også have en  
+
+ mulighed for manuel individuel betjening af de forskellige dele for  
+
+ afprøvning og justering.
+ Under automatisk drift skal trykknapper beregnet til manuel drift enten  
+
+ være ude af funktion, eller virke på en sådan måde, at det er umuligt at  
+
+ forstyrre rækkefølgen i den automatiske arbejdscyklus ved betjening af disse  
+
+ trykknapper.
+ Ved manuel drift skal enhver mulighed for at starte en automatisk  
+
+ arbejdscyklus være forhindret.
+Normale start- og sikkerhedsbetingelser skal være sikret både ved manuel  
+
+ og automatisk drift.
+Under afprøvning og justering, skal disse  
+
+ sikkerhedsforanstaltninger forblive effektive, i den udstrækning dette er  
+
+ muligt.
+ For industrimaskiner, hvor en uønsket ændring af driftsformen skal være  
+
+ forhindret, skal omskiftere kunne låses med nøgle i den valgte stilling  
+
+ (manuel/ automatisk).
+ Hver position af omskifteren må kun svare til een driftsmåde.
+For maskiner, der har flere arbejds-, måle- eller andre stationer (f.eks.  
+
+ transfermaskiner), skal hver station være forsynet med en individuel styring  
+
+ for manuel betjening af de enkelte dele.
+Det skal være indlysende, hvilke  
+
+ manuelle styreorganer, såsom trykknapper eller håndtag, der hører til en  
+
+ station.
+For at forhindre utilsigtet indgriben i den automatiske  
+
+ arbejdscyklus, skal hver station eller hver gruppe af stationer være forsynet  
+
+ med en nøglebetjent omskifter, som tillader manuel styring fra disse  
+
+ stationer.
+IEC 204-1 Manuel betjening af automatiske maskiner.
+ Hvis det er nødvendigt, skal maskiner for automatisk drift også have en  
+
+ mulighed for manuel individuel betjening af de forskellige dele for  
+
+ afprøvning og justering.
+ Under automatisk drift skal trykknapper beregnet til manuel drift enten  
+
+ være ude af funktion, eller virke på en sådan måde, at det er umuligt at  
+
+ forstyrre rækkefølgen i den automatiske arbejdscyklus ved betjening af disse  
+
+ trykknapper.
+ Ved manuel drift skal enhver mulighed for at starte en automatisk  
+
+ arbejdscyklus være forhindret.
+ Normale start- og sikkerhedsbetingelser skal være sikret både ved manuel  
+
+ og automatisk drift.
+ (Ingen tilsvarende tekst).
+ (Ingen tilsvarende tekst).
+For maskiner, der har flere arbejds-, måle- eller andre stationer (f.eks.  
+
+ transfermaskiner), skal hver station være forsynet med en individuel styring  
+
+ for manual betjening af de enkelte dele.
+Det skal være indlysende, hvilke  
+
+ manuelle styreorganer, såsom trykknapper eller håndtag, der hører til en  
+
+ station.
+For at forhindre utilsigtet indgriben i den automatiske  
+
+ arbejdscyklus, skal hver station eller hver gruppe af stationer være forsynet  
+
+ med en nøglebetjent omskifter, som tillader manuel styring fra disse  
+
+ stationer.
+EN 60 204-1 Pkt. 8.2.3.2.3 Start/stop eller ind/ud i samme trykknap.
+IEC 204-1 Start/stop eller ind/ud i samme trykknap.
+EN 60 204-1 Pkt. 8.2.4.2 Vedrørende angivelse om blinkhyppighed og impuls-pause-forhold  
+
+ (on/off-tidsforhold) se IEC 73.
+IEC 204-1 Værdier for blinkhyppighed og impulspause-forhold (on/off -tidsforhold),  
+
+ er under overvejelse.
+EN 60 204-1 Pkt. § 9 § 9 Ledninger og ledere Når der på bygningsdele oplægges forbindelsesledninger mellem forskellige  
+
+ maskindele. skal disse forbindelsesledninger have en isolation svarende til  
+
+ IEC 227-1 (med ændringer) eller IEC 245-1 (med ændringer). Ledernes tværsnit  
+
+ skal fastlægges efter IEC 364, kapitel 52.
+Ledninger, der føres - i kapslinger, - i ledningskanaler af metal mellem flere kapslinger hørende til den samme  
+
+ maskine, - mellem kapslinger og maskinen, - mellem forskellige maskindele, - på og i selve maskinen, skal følge 9.1 til 9.3.
+IEC 204-1 § 9 Ledninger og ledere (Tilsvarende tekst står i §§ 9.3 og 9.3.9).
+EN 60 204-1 Pkt. 9.3 Ledertværsnit.
+ Ledertværsnittet skal være tilstrækkeligt til at føre den største  
+
+ stationære strøm, der kan forekomme under normale driftsforhold, under hensyn  
+
+ til omgivelsesbetingelserne (f.eks. køling, nærliggende varmeproducerede  
+
+ komponenter og enheder). Det kan være nødvendigt at reducere den maksimalt  
+
+ tilladelige ledertemperatur af hensyn til termisk påvirkning af nærliggende  
+
+ komponenter og enheder.
+Ledertværsnittet i isolerede ledninger (Tilsvarende tekst står i 9).
+ skal opfylde bestemmelserne i 9.3.1 til 9.3.3, se også 5.2.3, note 2.
+ Ledninger i elektroniske strømkredse med stationær strøm under 2A, som er  
+
+ anbragt i det elektroniske materiels kapsling, behøver ikke at opfylde 9.3.1  
+
+ og 9.3.3.
+IEC 204-1 Ledertværsnit.
+ Ledertværsnittet skal være tilstrækkeligt til at føre den største  
+
+ stationære strøm, der kan forekomme under normale driftsforhold, under hensyn  
+
+ til omgivelsesbetingelserne (f.eks. køling, nærliggende varmeproducerede  
+
+ komponenter og enheder). Det kan være nødvendigt at reducere den maksimalt  
+
+ tilladelige ledertemperatur af hensyn til termisk påvirkning af nærliggende  
+
+ komponenter og enheder.
+Ledertværsnittet i isolerede ledninger, der føres - i kapslinger, - mellem flere kapslinger hørende til den samme maskine, - mellem kapslinger og maskinen, - mellem forskellige maskindele, - på og i selve maskinen, skal opfylde bestemmelserne i alle de tre paragraffer 9.3.1 til 9.3.3, se  
+
+ også § 5.2.3, note 2.
+ Ledninger i elektroniske strømkredse med stationær strøm under 2A, som er  
+
+ anbragt i det elektroniske materiels kapsling, behøver ikke at opfylde §§  
+
+ 9.3.1 og 9.3.3.
+EN 60 204-1 Pkt. 9.3.1 Strømværdi.
+Ledertværsnittet skal vælges efter tillæg B, pkt.
+B1.3.1, tabel BII,  
+
+ kolonne 2 og 3, afhængig af den størst mulige stationære strøm i den  
+
+ pågældende strømkreds ved normale driftsbetingelser.
+ Den reducerede strømbelastning af ledninger svarende til tillæg B, pkt.  
+
+ B1.3.1, tabel BII, kolonne 4 og 5 skal anvendes.
+ (Tilsvarende tekst står i 9).
+ For intermitterende drift kan effektivværdien af den termisk ækvivalente  
+
+ strøm anvendes til at bestemme ledertværsnittet, hvis driftsperioderne i den  
+
+ periodiske drift er meget kortere end tidskonstanten for ledningens  
+
+ opvarmning.
+IEC 204-1 Strømværdi.
+Ledertværsnittet skal vælges efter tillæg B, pkt.
+B1.3.1, tabel BII,  
+
+ kolonne 2 og 3, afhængig af den størst mulige stationære strøm i den  
+
+ pågældende strømkreds ved normale driftsbetingelser.
+ Den reducerede strømbelastning af ledninger svarende til tillæg B, pkt.  
+
+ B1.3.1, tabel BII, kolonne 4 og 5, skal anvendes.
+ Anbringes ledninger på bygningsdele, skal tværsnittet for disse ledere  
+
+ være fastlagt efter IEC 364, kapitel 52.
+ For intermitterende drift kan effektivværdien af den termisk ækvivalente  
+
+ strøm anvendes til at bestemme ledertværsnittet, hvis driftsperioderne i den  
+
+ periodiske drift er meget kortere end tidskonstanten for ledningens  
+
+ opvarmning.
+EN 60 204-1 Pkt. 10.2.1 Der skal på passende måde tages hensyn til resultatet af arbejdet i IEC/TC  
+
+ 16 vedrørende mærkning af ledere ved hjælp af farver eller andre midler.
+IEC 204-1 (Ingen tilsvarende tekst).
+EN 60 204-1 Pkt.
+Tillæg B B1.3.1 Strømværdier for ledninger med kobberledere.
+Værdierne i tabellen er vejledende og gælder for et vilkårligt antal  
+
+ sideløbende ledninger.
+I særlige tilfælde (f.eks. ved kontinuerlige  
+
+ processer) og i snævre hulrum, skal strømværdierne reduceres, se IEC  
+
+ 364-5-523.
+IEC 204-1 Strømværdier for ledninger med kobberledere.
+ Værdierne i tabellen gælder for et vilkårligt antal sideløbende ledninger.
+DK-forklaringer Forklaring:

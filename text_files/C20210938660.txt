@@ -1,0 +1,76 @@
+Verifikation af de sikkerheds- og miljøkritiske elementer på anlæg, tilsluttet infrastruktur og rørledninger ved offshore olie- og gasaktiviteter At-vejledning 65.1.9 Maj 2021 De vigtigste regler om uafhængig verifikation af sikkerheds- og miljøkritiske elementer på anlæg, tilsluttet infrastruktur og rørledninger, herunder valg af verifikator, udførelse af verifikationen og beskrivelse af verifikationsordningen ved anmeldelse af design og ansøgning om tilladelser Vejledningen henvender sig til operatører og ejere, som har pligt til at indføre en verifikationsordning, men verifikatorer kan også drage nytte af vejledningen.
+ Denne vejledning omhandler kun verifikation af sikkerheds- og miljøkritiske elementer på anlæg, tilsluttet infrastruktur og rørledninger.
+ Verifikationsordningen for brøndaktiviteter er beskrevet i AT-vejledning 65.2.2.
+ Bemærk - Resultaterne af den uafhængige verifikation berører ikke det ansvar, som operatøren/ejeren bærer for, at det verificerede udstyr og de verificerede systemer fungerer korrekt og sikkert, jf. offshoresikkerhedslovens (OSL) § 21, stk. 2.
+ Verifikationsordningen for SECE er en del af operatørens/ejerens ledelsessystem.
+ Der skal være en verifikationsordning gennem hele et anlægs levetid, men omfang og kompleksitet af ordningen vil til enhver tid afhænge af de aktuelle sikkerheds- og miljøkritiske elementer.
+ Det er operatør/ejer, som har ansvaret for at etablere og vedligeholde verifikationsordningen.
+Definitioner Begrebet anlæg er defineret i OSL § 3, stk. 1, nr. 1:
+En fast eller mobil indretning, som bruges til offshore olie- og gasaktiviteter, herunder indkvarteringsfaciliteter på tilknyttede fartøjer, som den ansatte efter omstændighederne har adgang til i forbindelse med arbejdet på den faste eller mobile indretning, eller en kombination af sådanne indretninger, som permanent er indbyrdes forbundet ved hjælp af broer eller andre strukturer.
+Fartøjer anses ikke for anlæg, bortset fra boreskibe, flydende produktions-, lager- og afskibningsenheder og fartøjer, hvorfra der udføres offshore olie- og gasaktiviteter, der indebærer risici for større ulykker, og hvor offshore olie- og gasaktiviteterne udføres uden tilknytning til et anlæg.  Begrebet tilsluttet infrastruktur er defineret i OSL § 3, stk. 1, nr. 29:
+ Tilsluttet infrastruktur:
+ Begrebet sikkerheds- og miljøkritiske elementer er defineret i OSL § 3, stk. 1, nr. 25:
+Elementer, herunder computerprogrammer, hvis formål er at forebygge eller begrænse følgerne af en større ulykke, og som, hvis de svigter, kan forårsage eller bidrage væsentligt til en større ulykke.  Begrebet uafhængig verifikation er defineret i OSL § 3, stk. 1, nr. 30:
+En vurdering og bekræftelse af gyldigheden af bestemte skriftlige erklæringer foretaget af en virksomhed eller en organisatorisk del af operatøren eller ejeren, som ikke er kontrolleret eller påvirket af den virksomhed eller den organisatoriske del, der anvender disse erklæringer.  Begreberne er beskrevet nærmere i AT-vejledning 65.1.1-2 om begreber ved offshore olie- og gasaktiviteter.
+Indhold 1. Verifikationsordning for sikkerheds- og miljøkritiske elementer 1.1 Formål Formålet med verifikationsordningen er at skabe sikkerhed for, at de sikkerheds- og miljøkritiske elementer, der er identificeret i risikovurderingen, forebygger eller begrænser følgerne af en større ulykke, og at tidsplanen for undersøgelse og prøvning af elementerne er ajourført og fungerer efter hensigten og i øvrigt er i overensstemmelse med krav fastsat i ledelsessystemet, jf.
+OSL § 21, stk. 1.
+1.2 Pligter og ansvar ved etablering af en verifikationsordning Operatøren/ejeren har ansvaret for at etablere en verifikationsordning for sikkerheds- og miljøkritiske elementer, samt for at ordningen opretholdes i hele anlæggets, den tilsluttede infrastrukturs og rørledningens levetid.
+Ordningen omfatter alle sikkerheds- og miljøkritiske elementer på anlægget, den tilsluttede infrastruktur eller rørledningen. jf.
+OSL § 21, stk. 1, og styringsbekendtgørelsens § 52, stk. 1, og § 53, stk. 2.
+ Verifikator skal have mulighed for at udtale sig om ordningen under dennes udarbejdelse, og der skal udarbejdes et notat om ethvert forbehold, verifikator måtte udtrykke om indholdet af ordningen, jf. styringsbekendtgørelsens § 52, stk. 1.
+For nye produktionsanlæg, faste ikke-produktionsanlæg, tilsluttet infrastruktur og rørledninger, skal verifikationsordningen for sikkerheds- og miljøkritiske elementer være indført inden designet af anlægget færdiggøres, jf.
+OSL § 21, stk. 5, og styringsbekendtgørelsens § 52, stk. 1, nr. 3. At verifikationsordningen skal være indført inden designet af anlægget færdiggøres betyder ikke, at alle sikkerheds- og miljøkritiske elementer i alle faser af anlæggets levetid skal være fastlagt på tidspunktet, men at der skal være indført en verifikationsordning, hvori rammerne for ordningen er fastlagt og de til enhver tid relevante afsnit af verifikationsordningen er fastlagt.
+ Verifikationsordningens livscyklus for et produktionsanlæg, et fast ikke-produktionsanlæg, tilsluttet infrastruktur og en rørledning fremgår af bilag 1.
+For mobile ikkeproduktionsanlæg (borerigge, beboelsesrigge m.v.) skal verifikationsordningen for sikkerheds- og miljøkritiske elementer være indført, inden olie- og gasaktiviteter påbegyndes, jf.
+OSL § 21, stk. 5 og styringsbekendtgørelsens § 52, stk. 1, nr. 4.
+ Verifikationsordningens livscyklus for mobile ikke-produktionsanlæg fremgår af bilag 2.
+1.3 Beskrivelse af verifikationsordningen Operatøren/ejeren skal udarbejde en beskrivelse af verifikationsordningen, jf. styringsbekendtgørelsens § 53.
+Beskrivelsen skal i sin helhed fremgå af ledelsessystemet for sikkerhed og sundhed for anlægget og fremgå af beskrivelsen af ledelsessystemet i anlæggets sikkerheds- og sundhedsredegørelse og mindst indeholde Beskrivelsen skal endvidere mindst indeholde en beskrivelse af foranstaltningerne til verifikation, som skal omfatte oplysninger om de principper, der vil blive anvendt ved udførelsen af funktionerne under ordningen, og for løbende at bedømme ordningen i hele anlæggets levetid, herunder følgende:
+Beskrivelsen skal endvidere mindst indeholde en redegørelse om, hvilke foranstaltninger operatøren/ejeren har iværksat som følge af rapporterne, og hvilke anbefalinger, der ikke er gennemført, og begrundelsen herfor.
+Dette betyder, at operatør/ejer i beskrivelsen skal have fastlagt, hvordan man vil følge op på verifikators rapporter.
+1.4 Styring af verifikation Styring af verifikation er operatørens/ejerens redskab til at sørge for, at verifikationsordningen efterleves, og at der følges op på verifikators rapporter.
+ De styrende dokumenter kan være:
+1.5 Gennemgang og ændring af verifikationsordningen En verifikationsordning vil udvikle sig over tid.
+Operatøren/ejeren skal derfor sikre, at verifikationsordningen gennemgås regelmæssigt og om nødvendigt, ændres, jf. styringsbekendtgørelsens § 52, stk. 1, nr. 5.
+Operatørs/ejers gennemgang af ordningen kan omfatte, men er ikke begrænset til  verifikators uafhængighed og kompetence, herunder dennes vedligehold af kompetence og fortsatte uafhængighed,  overholdelsen af ordningen og om denne er fyldestgørende og effektiv,  ændrede forudsætninger for de sikkerheds- og miljøkritiske elementer,  forhold, der kunne påvirke den tilpassede verifikationsordning,  forhold, som kunne påvirke hyppighed af verifikationen eller måden den gennemføres på, og  operatørs/ejers opfølgning på verifikators rapporter og anbefalinger.
+Gennemgangen kan indikere, at der er behov for en ændring af verifikationsordningen.
+Dette kan eksempelvis være som følge af  kombineret drift, jf.
+OSL § 29 a, hvis de sikkerheds- eller miljøkritiske elementer ændres,  at sikkerheds- og miljøkritiske elementer er under en større reparation,  at sikkerheds- og miljøkritiske elementer ændres, udskiftes, indføres eller fjernes, herunder midlertidigt sikkerheds- og miljøkritisk udstyr eller mobilt udstyr, der anvendes i korte perioder,  at der er tilføjelser til verifikationsordningen, der skal sikre elementernes egnethed,  at ændrede eller reparerede elementer skal verificeres, før de sættes i drift,  at der er ændringer i operationsgrænser,  at der er ændringer i parametre for udstyr tilknyttet de sikkerheds- og miljøkritiske elementer.
+Ændring af ordningen kan også være påkrævet, når driften af anlægget, den tilsluttede infrastruktur eller rørledningen ændres.
+Risikovurderinger, der udføres som følge af sådanne ændringer, kan indikere, at krav til elementernes design og ydelse (performance standarder) skal ændres.
+ Væsentlige ændringer af de sikkerheds- og miljøkritiske elementer skal forelægges den uafhængige verifikator med henblik på yderligere verifikation i overensstemmelse med ordningen for uafhængig verifikation, og resultaterne af denne yderligere verifikation meddeles efter anmodning til Arbejdstilsynet, jf. styringsbekendtgørelsens § 55.
+2. Valg af verifikator 2.1 Verifikators uafhængighed Operatøren/ejeren skal sikre, at verifikator er uafhængig i forhold til det projekt, de dele af projektet eller den driftsaktivitet, der skal verificeres.
+Verifikationen skal foretages af en virksomhed eller en organisatorisk del af operatøren eller ejeren, som ikke er kontrolleret eller påvirket af den virksomhed eller den organisatoriske del, der anvender disse erklæringer, jf.
+OSL § 3, stk. 1, nr. 30.
+ Operatør/ejer skal sikre, at verifikator ikke undersøger et sikkerheds- og miljøkritisk element, hvis verifikator tidligere har været involveret, eller hvor verifikators objektivitet kan være i fare, jf. styringsbekendtgørelsens § 60, stk. 1, nr. 1.
+ Fx kan en verifikator ikke verificere design af et anlæg, hvis verifikator selv har været rådgiver på, eller deltaget i design af anlægget.
+Det er altid en konkret vurdering, om en verifikationsordning opfylder kriterierne.
+I tvivlstilfælde, kan Arbejdstilsynet kontaktes.
+ Ligeledes skal operatør/ejer sikre, at verifikator er tilstrækkeligt uafhængig af den del af ledelsessystemet, som har ansvaret for komponenter omfattet af ordningen, så verifikator kan udføre sit arbejde objektivt, jf. styringsbekendtgørelsens § 60, stk. 1, nr. 2.
+Der er ikke krav om, at operatør/ejer vælger samme verifikator til hele verifikationsordningen.
+Der er mulighed for, at vælge forskellige verifikatorer til hver enkelt del af den samlede ordning.
+2.2 Verifikators kompetence Operatøren/ejeren skal sikre, at verifikator har passende teknisk kompetence og den nødvendige erfaring og kvalifikation, jf. styringsbekendtgørelsens § 60, stk. 2.
+ Operatør/ejer skal endvidere sikre, at verifikators personale, der tildeles opgaverne, er tilstrækkeligt kvalificeret og erfarent, jf. styringsbekendtgørelsens § 60, stk. 2.
+2.3 Beføjelser til verifikator Operatøren/ejeren skal sikre, at verifikator tildeles passende beføjelser til at udføre sine funktioner effektivt, jf. styringsbekendtgørelsens § 60, stk. 2, nr. 4.
+ Dette kan bl.a. omfatte:
+ at verifikator får tildelt nødvendige ressourcer og tid til at færdiggøre arbejdet, herunder udføre eventuelle prøvninger,  at verifikator får adgang til al relevant information,  at verifikator får alle oplysninger, der er nødvendige for, at verifikator kan danne sig en selvstændig vurdering af egnetheden af verifikationsordningen.
+3. Udførelse af verifikation 3.1 Verifikationsplan Eksempler på sikkerheds- og miljøkritiske elementer på et anlæg er angivet i Kommissionens gennemførelsesforordning EU 1112/2014, Afsnit C.
+ Verifikationsgrundlaget for de enkelte elementer kan indeholde:
+Det er op til operatøren/ejeren at tilrettelægge verifikationen så den passer bedst til det konkrete anlæg, og de forhold der skal verificeres.
+Faser i et anlægs levetid i forbindelse med verifikation omfatter typisk design, drift, aktiviteter, aktiviteter i kombination med andre anlæg, større ændringer og demontering af anlægget.
+3.2 Rapport om udført verifikation Verifikator skal udarbejde en rapport om verifikationen, som skal forelægges operatør/ejer, jf. styringsbekendtgørelsens § 54.
+Rapporten skal redegøre for 1) de udførte undersøgelser og prøvninger, 2) afvigelser fra specifikationerne i § 53, stk. 2, nr. 2, og 3) anbefalinger af foranstaltninger til korrektion af afvigelser, jf. nr. 2.
+ Da operatør/ejer skal følge op på verifikationer, anbefales det, at verifikators rapport ikke udelukkende består af tjeklister uden uddybende forklaringer.
+ Verifikators rapporter skal normalt ikke fremsendes til Arbejdstilsynet, men Arbejdstilsynet kan forlange at få disse tilsendt i forbindelse med tilsyn.
+3.3 Opfølgning på verifikators rapport Operatøren/ejeren skal træffe og dokumentere passende foranstaltninger på baggrund af resultatet af verifikationen, herunder eventuelle afvigelser og anbefalinger og udarbejde en redegørelse herom, jf.
+OSL § 21, stk. 3 og styringsbekendtgørelsens § 54, stk. 2.
+ I forbindelse med afvigelser fra specifikationerne, skal operatøren/ejeren træffe de nødvendige foranstaltninger til at sikre, at risikoen for større ulykker er nedbragt i henhold til ALARP-princippet, mens afvigelserne korrigeres, jf. styringsbekendtgørelsens § 54, stk. 3.
+Operatøren/ejeren skal opbevare verifikationsrapporter samt redegørelser for de på basis af rapporterne trufne foranstaltninger i mindst fem år efter afslutningen af de olie- og gasaktiviteter, som er omfattet af verifikationen, jf.
+OSL § 21, stk. 4.
+4. Beskrivelse af verifikationsordningen til Arbejdstilsynet ved anmeldelser 4.1 Anmeldelse af planlagt design eller flytning af anlæg Ved indsendelse af en designanmeldelse efter OSL § 27, stk. 1, eller en flytteanmeldelse efter OSL § 27, stk. 2, skal der bl.a. fremsendes en beskrivelse af de uafhængige verificeringsordninger og en foreløbig liste over sikkerheds- og miljøkritiske elementer og disses påkrævede ydeevne, jf. styringsbekendtgørelsens § 66, stk. 4 og bilag 3, punkt 1, nr. 9.
+5. Verifikation af sikkerheds- og miljøkritiske elementer ved brøndaktiviteter Brøndaktiviteter skal verificeres i henhold til OSL § 21, stk. 1, nr. 2, (som omhandler brøndaktiviteter), mens sikkerheds- og miljøkritiske elementer skal verificeres i henhold til OSL § 21, stk. 1, nr. 1 (som omhandler elementer).
+ De brøndaktiviteter, som er omfattet af verifikationsordningen for brønde i OSL § 21, stk. 1, nr. 2, er de brøndaktiviteter, som kræver Arbejdstilsynets godkendelse i henhold til OSL § 28 a, dvs. de brøndaktiviteter, som medfører risiko for utilsigtet udslip af stoffer og materialer, der kan føre til en større ulykke, samt efterfølgende væsentlige ændringer af brøndaktiviteterne.
+Læs også  At-vejledning 65.1.1-2 om begreber ved offshore olie- og gasaktiviteter.
+  At-vejledning 65.2.2 om verifikation i forbindelse med godkendelse af offshore brøndaktiviteter.
+Arbejdstilsynet, den 28. maj 2021 Bilag 1 Verifikationsordningens livscyklus for produktionsanlæg m.v.
+Bilag 2 Verifikationsordningens livscyklus for mobile ikke-produktionsanlæg.

@@ -1,0 +1,784 @@
+Direktoratet for Statens Indkøb Af Finansministeriets cirkulære af 10. februar 1986 om Direktoratet for  
+
+ Statens Indkøb og om statslige myndigheders indkøbsvirksomhed fremgår, at  
+
+ direktoratet skal medvirke til, at statens indkøb foretages på et  
+
+ forretningsmæssigt grundlag, og at statsinstitutionerne foretager deres  
+
+ indkøb så økonomisk fordelagtigt som muligt.
+Det er endvidere direktoratets  
+
+ opgave at udarbejde generelle retningslinier for statsinstitutionernes  
+
+ indkøbsvirksomhed.
+I overensstemmelse hermed har direktoratet i samarbejde med  
+
+ Kammeradvokaten og Administrations- og Personaledepartementet udarbejdet  
+
+ denne standardkontrakt til brug ved køb af standardiserede edb-systemer.
+Den  
+
+ nye standardkontrakt supplerer Statens Standardkontrakt for  
+
+ Edb-totalleverancer fra 1987, således at der nu foreligger standardiserede  
+
+ vilkår for anskaffelse af både specialudviklede systemer og standardiserede  
+
+ systemer.
+Ud over selve standardkontrakten er der udarbejdet en vejledning,  
+
+ som har til formål at hjælpe brugerne af standardkontrakten til at anvende og  
+
+ udfylde den rigtigt.
+ Standardkontraktens tekst fremgår som almindelig trykt tekst i det te  
+
+ hefte, men den er også lagt ind på den edb-diskette (5 1/4 tommer DOS), som  
+
+ er placeret i lommen bagest i heftet.
+Det er tanken at revidere både standardkontrakten og vejledningen inden  
+
+ for et par år.
+Brugere af standardkontrakten anmodes derfor om til  
+
+ direktoratet løbende at indsende erfaringer fra kontraktens anvendelse, som  
+
+ kan nyttiggøres ved dens revision.
+Preben Klit Jakobsen Indholdsfortegnelse 1. Indledning 2. Kommentarer til standardkontrakten - Generelt - Behovsopgørelse - Driftsprøve - Vedligeholdelse - Øvrige bestemmelser - Rådgivning om anvendelse af standardkontrakten 3. Orientering om udarbejdelse af standardkontraktens  
+
+ bilag - Generelt - Hovedtidsplan (Bilag 1) - Behovsopgørelse med eventuelle aftalte ændringer og forbehold (Bilag 2) - Konfiguration (Bilag 3) - Samling af leverandørens beskrivelser af udstyr og programmel, herunder  
+
+ allerede eksisterende dokumentation (Bilag 4) - Specifikation af udstyr (Bilag 5) - Specifikation af basisprogrammel (Bilag 6) - Specifikation af anvendelsesprogrammel (Bilag 7) - Andre ydelser (Bilag 8) - Lokaleindretning mv. (Bilag 9) - Specifikation af vedligeholdelsesforpligtelser (Bilag 10) - Overtagelsesprøve (Bilag 11) - Licensbetingelser vedrørende standardprogrammel og udstyr (Bilag 12) - Svartider og måling af samme (Bilag 13) - Bestillingsblanket (Bilag 14) - Bilag 5 - Bilag 6 - Bilag 7 - Bilag 8 - Bilag 11 - Bilag 13 4. K17 - Statens standardkontrakt for standardiserede  
+
+ edb- systemer 1. Indledning Standardkontrakt K17 sigter mod anskaffelse af edb-systemer, der ikke i  
+
+ større omfang kræver specialudviklet eller tilrettet program mel.
+Standardkontrakten er en såkaldt systemkontrakt, hvilket vil sige, at den  
+
+ retter sig mod leverancer af udstyr og programmel, som til sammen skal  
+
+ fungere som en selvstændig helhed et edb-system.
+Kontrakten kan således ikke  
+
+ uden meget betydelige ændringer anvendes ved anskaffelser, der består af  
+
+ enten udstyr eller programmel.
+ Der er i forbindelse med udformningen af standardkontrakten lagt vægt på  
+
+ at opnå en balance mellem købers og sælgers rettigheder og forpligtelser.  
+
+ Kontrakten bygger på Statens Standardkontrakt for Edb-totalleverancer (K33)  
+
+ og på de kommercielle vilkår, som indgår i de statslige edb-indkøbsaftaler.
+Kontrakten kan anvendes, hvor leverandøren i al væsentlighed kan opfylde  
+
+ kundens behov ved levering af standardprogrammel og udstyr.
+Kundens særlige  
+
+ behov kan medføre, at leverandøren må tilrette standardprogrammerne eller  
+
+ specialudvikle mindre programdele.
+Kontrakten vil også kunne anvendes i disse  
+
+ tilfælde, forudsat at udviklingsarbejdet er af begrænset omfang.
+ Hvis der i betydeligt omfang skal specialudvikles programmel, anbefales  
+
+ det at benytte standardkontrakten K33. Denne kontrakt er velegnet til  
+
+ anskaffelse af systemer, hvori indgår et betydeligt omfang af  
+
+ udviklingsarbejde.
+ Det er udviklingsarbejdets omfang og ikke selve kontraktsummen, der er  
+
+ afgørende for, hvilken af de to standardkontrakter der skal danne grundlag  
+
+ for anskaffelsen.
+K17 er også velegnet at anvende ved anskaffelse af systemer, som købes via  
+
+ de statslige edb-indkøbsaftaler.
+Anskaffelse af udstyr, programmel m.v., der  
+
+ er omfattet af edb-indkøbsaftalerne, kan ske uden forudgående  
+
+ udbudsforretning, idet indkøbsaftalerne har været udbudt i henhold til de  
+
+ internationale regler om statslige indkøb.
+Det nødvendige grundlag for at  
+
+ indgå en aftale kan umiddelbart tilvejebringes ved at indhente  
+
+ løsningsforslag fra en eller flere af de leverandører, der er omfattet af  
+
+ aftalerne.
+2. Kommentarer til standardkontrakten Generelt Ved indhentning af tilbud eller løsningsforslag anbefales det, at  
+
+ standardkontrakten vedlægges institutionens udbudsmateriale med opfordring  
+
+ til tilbudsgiverne om i tilbudet at nævne eventuelle forbehold til de  
+
+ kontraktlige vilkår, som synes uhensigtsmæssige i den konkrete sag.  
+
+ Institutionen har tilsvarende adgang til at foreslå tilføjelser eller  
+
+ ændringer til standardkontrakten.
+ Tilbudsgivernes eventuelle kontraktmæssige forbehold bør indgå i  
+
+ institutionens samlede vurdering af tilbudene.
+ I tilfælde, hvor det - grundet anskaffelsens karakter - er nødvendigt at  
+
+ foretage tilpasninger i kontraktteksten, bør man være opmærksom på, at  
+
+ integrationen i kontrakten ikke ændres, at parternes beføjelser fortsat er  
+
+ sikret tilfredsstillende, og at de er entydigt beskrevet.
+Selve kontrakten indeholder en række forhold, der skal afklares/udfyldes  
+
+ inden aftalen indgås.
+Det drejer sig om afsnittene 4, 8.2, 8.3, 8.4, 8.5,  
+
+ 10.3, 12.1 og 13.3. Det anbefales, at institutionen - efter at disse forhold  
+
+ er afklaret - udarbejder det endelige kontraktforslag ved at indføje det, der  
+
+ er opnået enighed om i standardkontrakten.
+Institutionen kan derefter  
+
+ forelægge forslaget til godkendelse for den valgte leverandør.
+Bilagsmaterialet indeholder både et antal bilag med standardiserede  
+
+ bestemmelser og et antal bilag, der skal udfyldes af parterne.
+Under  
+
+ vejledningens punkt 3 er givet en række råd og forslag til, hvorledes  
+
+ bilagene bør udformes.
+Behovsopgørelse Institutionens krav, ønsker og forventninger til systemet skal indeholdes  
+
+ i en behovsopgørelse.
+Det forudsættes ikke som i K33, at institutionen udarbejder en egentlig  
+
+ kravspecifikation med en meget detaljeret beskrivelse af kravene til de  
+
+ enkelte dele i systemet.
+Det skyldes, at de produkter, der tænkes anskaffet  
+
+ under K17, overvejende er standardiserede produkter.
+Behovsopgørelsen skal indeholde en beskrivelse af de funktioner v., som  
+
+ systemet skal kunne udføre.
+Beskrivelsen skal være så deltaljeret som mulig  
+
+ og indeholde samtlige krav til systemet.
+Det kan f.eks. være krav vedrørende  
+
+ funktioner, transaktioner, svartider, driftseffektivitet, brugervenlighed,  
+
+ sikkerhed, kommunikationsstandarder og udbygningsmuligheder.
+I tilfælde, hvor  
+
+ der ønskes specialudviklet eller tilrettet programmel, skal beskrivelsen være  
+
+ meget deltaljeret.
+ Det er vigtigt, at institutionen er omhyggelig med udarbejdelsen af  
+
+ behovsopgørelsen, og at samtlige krav, ønsker og forventninger er beskrevet.  
+
+ Det skyldes, at krav, der ikke er udtrykt i behovsopgørelsen, som  
+
+ udgangspunkt ikke efterfølgende kan kræves opfyldt.
+ Det anbefales, at behovsopgørelsen knyttes til udbudsmaterialet som et  
+
+ særskilt bilag, idet denne opgørelse - eventuelt i revideret form - senere  
+
+ skal indgå i kontrakten.
+ Den udbredte standardisering inden for udstyr og programmel åbner i dag  
+
+ store muligheder for, at institutionerne kan vælge perifert udstyr fra andre  
+
+ leverandører og/eller bibeholde eksisterende udstyr, samtidig med at det er  
+
+ rimeligt at forlange, at leverandøren af hovedleverancen påtager sig  
+
+ systemansvaret for det samlede system - jf. kontraktens punkt 2.6.
+I tilfælde, hvor institutionen ønsker at stå frit ved valg af perifert  
+
+ udstyr eller bibeholde eksisterende udstyr, bør det fremgå af  
+
+ udbudsgrundlaget.
+Tilbudsgiverne bør i den forbindelse opfordres til at  
+
+ oplyse, hvilke krav der stilles til det perifere udstyr, for at der kan opnås  
+
+ fuld funktionalitet, og for at tilbudsgiveren kan påtage sig det samlede  
+
+ systemansvar.
+De samme oplysninger skal gives, hvis der indhentes  
+
+ løsningsforslag fra statsaftaleleverandørerne.
+ En mere fyldestgørende beskrivelse af behovsopgørelsens indhold kan bl.a.  
+
+ findes i »Vejledning om anskaffelse af edb-ydelser« udgivet af  
+
+ Administrations- og Personaledepartementet.
+Driftsprøve En driftsprøve, der består af måling af driftseffektivitet og svartider,  
+
+ bør som hovedregel afholdes.
+For at driftsprøven kan have en reel værdi, er  
+
+ det en forudsætning, at brugerne kender systemet, at an tallet af brugere på  
+
+ de enkelte delsystemer modsvarer normalbe lastningen af systemet, at der er  
+
+ indlagt data i tilstrækkeligt omfang, og at der er tale om en  
+
+ »normal« arbejdssituation.
+Gennemførelsen af en driftsprøve er ressourcekrævende.
+Man bør overveje at  
+
+ afstå fra at gennemføre den i tilfælde, hvor der er tale om en lille  
+
+ installation (få arbejdspladser, små datamængder), og/eller hvor  
+
+ driftseffektiviteten og svartiderne ikke er kritiske.
+At kunden undlader at  
+
+ foretage en driftsprøve, fritager ikke leverandøren for de forpligtelser og  
+
+ garantier, der er gældende i henhold til kontrakten.
+ Retningslinierne for afholdelse af driftsprøven er beskrevet i kontraktens  
+
+ punkt 10, og der er normalt ikke behov for at udfærdige et særligt bilag  
+
+ herom.
+Vedligeholdelse Vedligeholdelse af det anskaffede udstyr og programmel er en integreret  
+
+ del af kontrakten.
+Leverandørens misligholdelse af  
+
+ vedligeholdelsesbestemmelserne vil således som udgangspunkt være en  
+
+ misligholdelse af hele kontrakten.
+Til kontrakten er knyttet standardbestemmelser om udførelse af  
+
+ vedligeholdelse både i abonnement og efter regning.
+Disse bestem melser - der  
+
+ er indeholdt i bilag 10 - vil i de fleste tilfælde være tilstrækkelige sammen  
+
+ med bestemmelserne i selve kontrakten.
+Når der er tale om mindre anlæg, er det efterhånden almindeligt, at  
+
+ vedligeholdelse udføres efter regning, specielt på perifere enheder.
+I  
+
+ forbindelse med service efter regning er der anført et maksimalt timetal,  
+
+ inden for hvilket leverandøren er forpligtet til at påbegynde reparationen.
+ I tilfælde, hvor der ikke indgås aftale om vedligeholdelse, bør kravet til  
+
+ systemets svartider alligevel anføres i kontrakten - jf. punkt 12.2 - idet  
+
+ leverandørens garantier på dette område altid vil være gældende 1 år regnet  
+
+ fra overtagelsesdagen.
+Øvrige bestemmelser I det følgende gives en kort orientering om de væsentligste af K17's  
+
+ øvrige bestemmelser.
+Systemet skal leveres til et forud fastsat tidspunkt (punkt 7) og til en  
+
+ fast pris (punkt 8). Det er således leverandørens risiko, hvis det tager  
+
+ længere tid eller kræver flere ressourcer end beregnet at færdiggøre  
+
+ systemet.
+K17 forudsætter, at systemet leveres og afprøves samlet (punkt 10).  
+
+ Systemet er overtaget af kunden, når overtagelsesprøven er bestået (punkt  
+
+ 11).
+I kontraktens punkt 13 garanterer leverandøren, at systemet vil opfylde  
+
+ alle de i kontrakten stillede krav, herunder kravene til driftseffektivitet  
+
+ og svartider.
+Hvis kravene ikke opfyldes, skal leverandøren uden beregning og  
+
+ inden for kontraktens tidsfrister levere sådant andet eller yderligere udstyr  
+
+ og programmel, som er nødvendigt for at opfylde kontrakten.
+Leverandørens  
+
+ garanti for driftseffektivitet og svartider er gældende i hele  
+
+ vedligeholdelsesperioden.
+Kontraktens punkt 14-16 fastlægger kundens beføjelser i anledning af  
+
+ leverandørens misligholdelse.
+I tilfælde af mangler kan kunden under nærmere  
+
+ specificerede omstændigheder især kræve afhjælpning, bod, erstatning og  
+
+ ophævelse af kontrakten.
+Ved forsinkelse er misligholdelsesbeføjelserne bod,  
+
+ erstatning og ophævelse.
+Misligholdelsesbeføjelserne er ikke primært  
+
+ begrundet i kundens interesse i f.eks. at kunne oppebære bod, men formålet er  
+
+ at give leverandøren et incitament til at sætte alle kræfter ind på at  
+
+ opfylde kontrakten rigtigt.
+Hvis systemet skal leveres i delleverancer (faseopdelt), skal adskillige  
+
+ af kontraktens bestemmelser omarbejdes.
+Hvilke konkrete ændringer, der skal  
+
+ foretages, afhænger af faktorer som antallet af delleverancer, disses  
+
+ størrelse og vigtighed i relation til den samlede leverance.
+Rådgivning om anvendelse af standardkontrakten Spørgsmål om anvendelse af kontrakten kan rettes til Direktoratet for  
+
+ Statens Indkøb.
+Desuden vil Kammeradvokaten kunne yde juridisk bistand mod  
+
+ sædvanligt honorar.
+3. Orientering om udarbejdelse af standardkontraktens  
+
+ bilag Generelt Kontrakten udgør den generelle del af det samlede kontraktgrundag, mens  
+
+ bilagene udgør den specifikke del, hvor den konkrete leverance skal  
+
+ beskrives.
+Det er derfor vigtigt, at alle relevante forhold er indeholdt i  
+
+ bilagene, og at hvert enkelt forhold er placeret i det rigtige bilag, således  
+
+ at der opnås både sammenhæng og overskuelighed.
+Ved en grundig behandling og  
+
+ detaljeret udfyldelse af bilagene kan man reducere mulighederne betydeligt  
+
+ for at der senere opstår uoverensstemmelser mellem kunde og leverandør, idet  
+
+ forhold, som parterne ikke har været opmærksomme på under de forudgående  
+
+ forhandlinger, ofte dukker op i forbindelse med udfyldelse af bilagene.
+Det frarådes at indføje juridiske bestemmelser i bilagene.
+Ud over  
+
+ uoverskuelighed kan det meget let medføre uoverensstemmelser mellem  
+
+ kontrakttekst og bilag med fortolkningstvivl til følge.
+ Følgende bilag indeholder standardbestemmelser:
+ - Bilag 9: Lokaleindretning m.v.
+- Bilag 10: Specifikation af vedligeholdelsesforpligtelser - Bilag 14: Bestillingsblanket Det anbefales, at der anvendes en fortløbende nummerering af de enkelte  
+
+ enheder i bilagene 5, 6, 7 og 14.
+ Til støtte ved udarbejdelsen af bilagsmaterialet er der i det følgende  
+
+ givet en række råd og forslag til, hvorledes de enkelte bilag bør udformes.
+Hovedtidsplan (Bilag 1) Tidsplanen bør indeholde samtlige aktiviteter, der skal udføres i  
+
+ forbindelse med leveringen af systemet.
+Aktiviteterne bør anføres i uge- og  
+
+ datoorden i den rækkefølge, hvori de skal udføres.
+ Som eksempler på aktiviteter kan nævnes: påbegyndelse og færdiggørelse af  
+
+ lokaler, besigtigelse af lokaler, installation af systemet, påbegyndelse og  
+
+ afslutning af overtagelsesprøve, konvertering af tekstfiler, nedtagning af  
+
+ eksisterende anlæg samt afholdelse af kurser.
+Behovsopgørelse med eventuelle aftalte ændringer og forbehold (Bilag 2) Umiddelbart før kontrakten underskrives, bør kunde og leverandør sammen  
+
+ gennemgå kundens behovsopgørelse med henblik på en tilretning af denne i  
+
+ forhold til det system, der blev det endelige resultat af de førte  
+
+ drøftelser.
+Tilretningen kan ske enten ved en konkret ændring af  
+
+ behovsopgørelsen eller ved, at de aftalte ændringer/forbehold anføres i et  
+
+ tillæg til behovsopgørelsen.
+ Se i øvrigt kommentarerne under vejledningens punkt 2 samt kontraktens  
+
+ punkt 2 og 12.2.
+Konfiguration (Bilag 3) Dette bilag skal vise et diagram over den samlede konfiguration, herunder  
+
+ sammenhænge mellem de enkelte enheder.
+Diagrammet bør også vise, på hvilke  
+
+ enheder de forskellige dele af programmellet er placeret, eventuelt suppleret  
+
+ med en beskrivelse af, hvor afviklingen af programmellet sker.
+ Konfigurationsdiagrammet bør endvidere vise mulighederne for at udvide  
+
+ konfigurationen inden for nærmere aftalte rammer.
+ Se i øvrigt kontraktens punkt 2.1.
+Samling af leverandørens beskrivelser af udstyr og programmel,  
+
+ herunder allerede eksisterende dokumentation (Bilag 4) Dette bilag skal indeholde de dele af leverandørens tilbud, og den  
+
+ efterfølgende korrespondance, der konkret beskriver det system, der skal  
+
+ leveres og mulighederne for at udvide dette.
+ Det anbefales, at kunden og leverandøren umiddelbart før kontratens  
+
+ underskrift gennemgår det samlede materiale, og at leverandøren på baggrund  
+
+ heraf tilretter materialet, så at det i så høj grad som muligt fremstår som  
+
+ en samlet og overskuelig beskrivelse af systemet.
+Leverandørens dokumentation til systemet samt de af leverandørens  
+
+ brochurer, der udgør et hensigtsmæssigt supplement til tilbudets beskrivelse  
+
+ af systemet, bør knyttes til dette bilag.
+Dette kan ske enten ved at  
+
+ materialet vedlægges bilaget eller ved en henvisning til det konkrete  
+
+ materiale med angivelse af version, nummer etc.
+ Se i øvrigt kontraktens punkt 2.1.
+Specifikation af udstyr (Bilag 5) I bilag 5 specificeres arten, mængden og priserne for udstyr med  
+
+ tilhørende dokumentation og installation.
+ I tilfælde, hvor kundens eksisterende anlæg helt eller delvist indgår i  
+
+ handelen, specificeres dette ligeledes i bilag 5.
+ På side 20 findes et forslag til udformning af bilag 5. Nedenstående  
+
+ bemærkninger refererer til dette forslag.
+ Se i øvrigt kontraktens punkter 2.5, 3 og 8.
+ Købspris:
+I bilagets priskolonner anføres den samlede listepris, rabatsatsen og den  
+
+ samlede købspris (listeprisen fratrukket rabatter) ud for hver enkelt  
+
+ position.
+Også i tilfælde, hvor en enhed leveres vederlagsfrit skal dette  
+
+ anføres i priskolonnen.
+Priskolonnen »Købspris« sammentælles nederst på bilaget til en  
+
+ totalsum, der sammen med totalsummerne for bilag 6, 7 og 8 skal indgå i  
+
+ beregningen af den samlede kontraktsum.
+Den samlede kontraktsum anføres i  
+
+ kontraktens punkt 8.2.
+ Se i øvrigt kontraktens punkt 8.1.
+Specifikation af basisprogrammel (Bilag 6) I bilag 6 specificeres alt basisprogrammel med tilhørende dokumentation og  
+
+ installation.
+ På side 21 findes et forslag til udformning af bilag 6. Nedenstående  
+
+ bemærkninger refererer til dette forslag.
+ Vedrørende bilagets udfyldelse med priser henvises til bemærkningerne  
+
+ under bilag 5. Eventuelle løbende licensafgifter, der skal betales efter  
+
+ systemets overtagelse, bør beskrives i bilag 10.
+ Se i øvrigt kontraktens punkt 1 og 8.
+Specifikation af anvendelsesprogrammel (Bilag 7) I bilag 7 specificeres alt anvendelsesprogrammel med tilhørende  
+
+ dokumentation og installation.
+ På side 22 findes et forslag til udformning af bilag 7. Nedenstående  
+
+ bemærkninger refererer til dette forslag.
+ Vedrørende bilagets udfyldelse med priser henvises til bemærkningerne  
+
+ under bilag 5. Eventuelle løbende licensafgifter, der skal betales efter  
+
+ systemets overtagelse, bør beskrives i bilag 10.
+ Se i øvrigt kontraktens punkt 1 og 8.
+Andre ydelser (Bilag 8) I bilag 8 anføres aftaler om ydelser, der ikke er omfattet af bilagene 5,  
+
+ 6 og 7.
+ Tidspunkterne for udførelsen af disse ydelser bør anføres i  
+
+ hovedtidsplanen - bilag 1.
+ På side 23 findes et forslag til udformning af bilag 8. Nedenstående  
+
+ bemærkninger refererer til dette forslag.
+ Vedrørende bilagets udfyldelse med priser henvises til bemærkningerne  
+
+ under bilag 5.
+ Se i øvrigt kontraktens punkt 2.2 og 8.
+Lokaleindretning mv (Bilag 9) Kontraktens bilag 9 indeholder standardbestemmelser.
+I bilaget skal installationsadressen indføjes, og det skal fremgå, hvilke  
+
+ opgaver kunden henholdsvis leverandøren skal udføre i lokalet forud for  
+
+ installation af anlægget.
+Alle krav til lokalernes installationer skal fremgå  
+
+ af dette bilag, herunder eventuelle krav om undersøgelse af kundens  
+
+ eksisterende installationer.
+Henvisninger til generelle  
+
+ installationsvejledninger bør undgås, idet dette kan vanskeliggøre afgørelsen  
+
+ af eventuelle tvister.
+ Den samlede el-installation bør specificeres således, at den også  
+
+ umiddelbart kan anvendes ved senere ændringer eller udbygninger af systemet.
+ Hvis leverandøren skal forestå etableringen af installationen - eventuelt  
+
+ via 3. part - anføres prisen herfor i bilag 5.
+ Se i øvrigt kontraktens punkt 3.
+Specifikation af vedligeholdelsesforpligtelser (Bilag 10) Kontraktens bilag 10 indeholder standardbestemmelser om udfø relse af  
+
+ vedligeholdelse.
+ Hvis der i særlige tilfælde er behov for at foretage ændringer eller  
+
+ tilføjelser til standardbestemmelserne i bilag 10, bør man være opmærksom på,  
+
+ om integrationen med hovedkontrakten fortsat er til stede.
+I bilaget er der en række punkter, der skal udfyldes.
+Da kontrakten åbner  
+
+ mulighed for, at kunden kan indgå aftale om vedligeholdelse frem til  
+
+ garantiperiodens udløb, bør der i bilag 10A fastsættes  
+
+ vedligeholdelsesafgifter for samtlige enheder i systemet.
+Dette bør ske,  
+
+ uanset om der ved kontraktens indgåelse er aftalt vedligeholdelse af samtlige  
+
+ af systemets enheder eller kun dele heraf.
+De i bilagene 5,6 og 7 anvendte  
+
+ positionsnumre, antal og betegnelser bør overføres til bilag 10A som  
+
+ specifikation af de enkelte enheder.
+I tilfælde, hvor der skal betales løbende licensafgifter, skal såvel  
+
+ afgifternes størrelse som ydelsens omfang beskrives i bilag 10A.
+I de løbende  
+
+ licensafgifter er ofte inkluderet både fejlretning og nye udgaver af  
+
+ programmellet.
+Man bør derfor være opmærksom på dette, når der indgås aftale  
+
+ om vedligeholdelse af hele systemet, således at man ikke betaler flere gange  
+
+ for den samme ydelse.
+ Se i øvrigt kommentarerne under vejledningens punkt 2 samt kontraktens  
+
+ punkt 4, 5, 8.3, 8.4, 8.5, 12, 13 og 14.
+Overtagelsesprøve (Bilag 11) I bilag 11 fastlægges de nærmere retningslinier for gennemførelse af  
+
+ overtagelsesprøven.
+ På side 24 og 25 findes et eksempel på udformning af bilag 11.
+Det anbefales, at man altid aftaler at gennemføre en overtagelsesprøve,  
+
+ idet kundens rettigheder og pligter i vidt omfang er knyttet til en af kunden  
+
+ godkendt overtagelsesprøve.
+Det vil ofte være hensigtsmæssigt, at en  
+
+ repræsentant for kunden, f.eks. systemadministratoren, har haft lejlighed til  
+
+ at arbejde med systemet i et par dage inden den formelle overtagelsesprøve  
+
+ afholdes.
+Ved gennemførelse af overtagelsesprøven kan man med fordel lægge  
+
+ hovedvægten på afprøvning af eventuelle aftalte ændringer i  
+
+ standardprogrammel, integrationen mellem de enkelte programmer, aftalte  
+
+ tilpasninger i menusystemet og systemadministrative funktioner.
+Det bør også  
+
+ kontrolleres, at eventuelle data fra det »gamle« system er  
+
+ konverteret korrekt.
+For så vidt angår kendte standardprogrampakker vil det være tilstrækkeligt  
+
+ at konstatere disses tilstedeværelse ved, at brugerne har adgang til dem.
+En  
+
+ eventuelt afprøvning kan begrænses til enkelte hovedfunktioner.
+I skemaet - der er indeholdt i forslaget til bilag 11 - er vist eksempler  
+
+ på elementer, der typisk afprøves under overtagelsesprøven.
+Hvilke konkrete  
+
+ elementer, der skal afprøves, og hvorledes dette skal ske, må afhænge af det  
+
+ valgte system.
+Dette betyder, at skemaet i de konkrete situationer skal  
+
+ tilpasses eller suppleres med en mere detaljeret beskrivelse f.eks. i form af  
+
+ en egentlig afprøvningsplan.
+ Se i øvrigt kontraktens punkt 10 og 11.
+Licensbetingelser vedrørende standardprogrammel og udstyr (Bilag 12) Til bilag 12 knyttes rettighedsindehaverens licensbetingelser samt aftalte  
+
+ ændringer hertil.
+Endvidere kan man anføre begrænsninger i rettighederne til  
+
+ reeksport af systemet.
+Disse begrænsninger bør ikke gå videre, end at  
+
+ leverandøren kun er berettiget til at nægte medvirken til reeksport, hvis  
+
+ dette forhindres af offentligretlige eksportforbud, som kan dokumenteres.
+Bilaget bør tillige indeholde en beskrivelse af eventuelle  
+
+ deponeringsordninger for kildetekster til standardprogrammellet.
+En  
+
+ deponering bør omfatte kildetekster udskrevet både på papir og på  
+
+ maskinlæsbart medie.
+Deponeringen bør endvidere omfatte al tilhørende  
+
+ programdokumentation, herunder anvisninger på, hvilket oversætterprogram der  
+
+ skal anvendes for at oversætte kildeprogrammet til objektkode.
+ Se i øvrigt kontraktens punkt 6 og 21.
+Svartider og måling af samme (Bilag 13) I bilag 13 fastlægges kravene til systemets svartider, og hvorledes de  
+
+ måles.
+Det anbefales, at institutionen meget nøje overvejer, hvilke krav man vil  
+
+ stille til systemets svartider, således at disse bliver så realistiske som  
+
+ muligt i forhold til institutionens konkrete behov.
+Man bør i den forbindelse  
+
+ også være opmærksom på, at kravene til svartider ud over at danne grundlaget  
+
+ for systemets dimensionering også har indflydelse på systemets pris.
+ På baggrund af den meget store spændvidde i de systemer, der kan anskaffes  
+
+ i henhold til (K17), er det ikke fundet hensigtsmæssigt at udarbejde  
+
+ egentlige standardiserede bestemmelser om svartider.
+ På side 26, 27 og 28 findes et eksempel på udformning af bilag 13.  
+
+ Eksemplet kan bruges som udgangspunkt for institutionens over vejelser og  
+
+ efterfølgende forhandlinger med leverandøren.
+ Opmærksomheden henledes på, at eksemplet ikke indeholder en beskrivelse af  
+
+ den prøvesituation, der skal danne grundlag for målingen af svartiderne.  
+
+ Denne beskrivelse udarbejdes af kunden og leverandøren i fællesskab ud fra  
+
+ den belastningssituation, som fastlægges i bilag 13.
+En sådan beskrivelse svarer til en drejebog, hvor samtlige medvirkende får  
+
+ deres roller beskrevet detaljeret i relation til brugen af systemet og de  
+
+ målinger, der skal foretages.
+Beskrivelsen knyttes til bilagets punkt 3.
+ Se i øvrigt kontraktens punkt 12.
+Bestillingsblanket (Bilag 14) Kontraktens bilag 14 indeholder dels standardbestemmelser og dels en række  
+
+ punkter, der skal udfyldes.
+ Se i øvrigt kontraktens punkt 29.
+Bilag 5: Specifikation af udstyr Hvis antallet af arbejdspladser øges ud over ..., skal kunden betale for  
+
+ yderligere programmellicenser i grupper a ... brugere.
+Bilag 7: Specifikation af anvendelsesprogrammel Bilag 11: Overtagelsesprøve Formålet med overtagelsesprøven er at konstatere, om samtlige enheder -  
+
+ jf. bilag 5, 6 og 7 - fungerer i overensstemmelse med, hvad der er aftalt, og  
+
+ hvad kunden med føje kan forvente.
+Tidspunktet for overtagelsesprøven fremgår  
+
+ af hovedtidsplanen - bilag 1.
+Kunden skal inden overtagelsesprøven have sammenholdt kontraktens  
+
+ specifikation af udstyr og dokumentation med leverandørens følgesedler og det  
+
+ faktisk leverede.
+I tilfælde, hvor kunden har konstateret mangler, skal dette  
+
+ fremgå af den protokol, der udarbejdes af parterne i forbindelse med  
+
+ overtagelsesprøven - jf. næste side.
+ Selve overtagelsesprøven gennemføres af leverandøren i samarbejde med  
+
+ kunden.
+ Kunden skal stille lokaler, personale og datamateriale til rådighed for  
+
+ prøvens gennemførelse.
+ Prøven indledes med en kontrol af, at alle skærme kan tændes, at alle  
+
+ tastaturer virker, at pc'er kan startes, og at alle skrivere virker.
+ Endvidere konstateres det, om det i bilag 6 aftalte maksimale antal  
+
+ brugere kan logge sig ind på systemet, samt om antallet af samtidige brugere  
+
+ pr. delsystem svarer til det aftalte - jf. bilag 7.
+Kunden skal uden ugrundet ophold efter overtagelsesprøvens afslutning  
+
+ skriftlig meddele leverandøren, om 1. prøven er bestået med angivelse af evt. fejl i en  
+
+ mangelliste 2. prøven ikke er bestået.
+ Overtagelsesprøve den ---- /---- 19----.
+ Til denne protokol er knyttet ---- bilag.
+Tekstbehandling - dokumentoprettelse, indskrivning - dokumentlagring - dokumentfremfinding, ændring - udskrivning Regneark - oprettelse, indlægning af data - simulering/beregning Menusystem - trinvis skift mellem billeder - springvis skift mellem billeder Rapportgenerator Kalender On-line Brugerstyrede funktioner Ekstern kommunikation Sagssystem - sagsoprettelse - sagsvedligeholdelse - sagsafslutning - søgning - sagsstyring - udskrivning af lister, rapporter - statistik Systemadministrative funktioner - fejldiagnosticering - selvkonfigurering - filtest - adgangskontrol, sikkerhedssystem - logningssystem - selvstartsprogram (efter ikke planlagt strømafbrydelse) Integration mellem forskellige programmer Eventuel konvertering af gamle data til nyt system Bilag 13: Svartider og måling af samme 1. Generelt 1.1 Ved svartid skal forstås tidsintervallet, fra brugeren sender sin  
+
+ kommando, til systemet er klar til modtagelse af næste kommando.
+Ved kommando  
+
+ forstås den meddelse, der sendes til systemet, når Enter/Returntast,  
+
+ funktionstast eller tilsvarende tast aktiveres.
+ 1.2 Ved kommandoer, hvor svaret strækker sig over flere skærmbilleder,  
+
+ skal svartiden opfattes som tiden, indtil det første skærmbillede er modtaget  
+
+ i hele sit omfang.
+ 1.3Svartidsgarantien er baseret på, at der ikke samtidigt foretages  
+
+ egentlige batch-kørsler som f.eks. reorganisering af større registre og  
+
+ back-up, medmindre sådanne batchkørsler er en del af de normale daglige  
+
+ driftsopgaver - jf. bilag 2.
+2. Specifikke krav og forudsætninger 2.1 Opgavesammensætningen hos kunden forudsættes at være følgende:
+ 2.2 De aktive brugere må hver maksimalt igangsætte --- transaktioner pr.  
+
+ minut, hvor en transaktion skal forstås som den databehandling, der  
+
+ igangsættes af en kommando.
+ Transaktionerne fordeler sig procentvis på simple funktioner, på  
+
+ middelkomplekse funktioner og på komplekse funktioner som anført i skemaets  
+
+ punkt 5.
+3. Måling af svartider (*) Svartiderne måles manuelt med stopur (helst digitalt). Tastaturet skal  
+
+ betjenes af en øvet bruger, som igangsætter den pågældende transaktion  
+
+ samtidig med, at en anden person starter stopuret.
+Der foretages et passende antal målinger af samme funktion.
+Hvis  
+
+ variationen forekommer stor, eller svartiderne er nær kravene, gennemføres et  
+
+ større antal målinger for at opnå et bedre bedømmelsesgrundlag.
+4. Svartidsgaranti Leverandøren garanterer, at svartiderne for samtlige aktive brugere vil  
+
+ være mindre end eller lig med de i punkt 5 anførte svartider for minimum 95%  
+
+ af transaktionerne.
+ Leverandøren garanterer endvidere, at markøren ikke må kunne  
+
+ »overhales« af brugere med op til 300 anslag pr. minut.
+ Såfremt en eller begge af ovennævnte garantier ikke opfyldes, anses  
+
+ kravene til svartider for ikke at være overholdt.

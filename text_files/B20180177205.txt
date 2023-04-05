@@ -1,0 +1,28 @@
+Bekendtgørelse om ændring af bekendtgørelse om indberetning af oplysninger til lægemiddelstatistik § 1 I bekendtgørelse nr. 193 af 1. februar 2011 om indberetning af oplysninger til lægemiddelstatistik, som ændret ved bekendtgørelse nr. 43 af 18. januar 2012, bekendtgørelse nr. 1540 af 12. december 2016 og bekendtgørelse nr. 1753 af 26. december 2017 foretages følgende ændringer:
+ 1. Indledningen affattes således:
+»I medfør af § 11, stk. 1, nr. 8, § 58, stk. 4, og § 61 d, stk. 2, i lov om apoteksvirksomhed, jf. lovbekendtgørelse nr. 801 af 12. juni 2018, og § 84, stk. 1, i lov om lægemidler, jf. lovbekendtgørelse nr. 99 af 16. januar 2018 med senere ændringer, fastsættes efter bemyndigelse i henhold til § 1, stk. 4, i bekendtgørelse nr. 797 af 17. august 2009 om indberetning af oplysninger om omsætning m.v. af lægemidler m.v.:« 2. Bilag 1, punkt 3.1 affattes som bilag 1 til denne bekendtgørelse.
+ 4. Bilag 1, punkt 3.2, felt 13 affattes som bilag 2 til denne bekendtgørelse.
+ 5. Bilag 2, punkt 4.2 affattes som bilag 3 til denne bekendtgørelse.
+ 6. Bilag 2, punkt 2.10 affattes som bilag 4 til denne bekendtgørelse.
+§ 2 Bekendtgørelsen træder i kraft den 1. januar 2019.
+Sundhedsdatastyrelsen, den 20. december 2018 Lisbeth Nielsen / Steen Heilmann Bilag 1 »3.1 Generelle bemærkninger Der anvendes samme snitflade vedrørende felterne 1 - 43 for alle indberetningspligtige og for alle typer indberetninger.
+Som de eneste skal sygehusapoteker herudover, også indberette tre ekstra felter, felt 44, 45 og 46.
+ Felter, der ikke kan udfyldes, skal være blanke.
+ Der skal indberettes foranstillede nuller i alle felter, der udfyldes, medmindre andet er angivet.
+ Det er ekspeditionsdatoen, dvs. datoen for gennemført kassetransaktion/debitering, der er afgørende for, hvilken måned ekspeditionen vedrører.
+Alle beløbsfelter og antal pakninger indberettes med negativt fortegn (-) ved tilbageførsler.
+Det eventuelle fortegn placeres i feltets første position.
+Ved udligning af for meget eller for lidt udbetalt medicintilskud indberettes nogle af beløbsfelterne med negativt fortegn.
+Hvis patienten har fået udbetalt for lidt i medicintilskud, indberettes det yderligere tilskud positivt i felt 20, mens tilbagebetalingen til patienten indberettes negativt i felt 17. Korrigeres der samtidig for meget udbetalt kommunalt tilskud, indberettes tilbagebetaling af kommunalt tilskud negativt i felt 23. Hvis patienten i stedet skal tilbagebetale medicintilskud, indberettes det tilbagebetalte medicintilskud negativt, patientens yderligere betaling positivt og et eventuelt yderligere kommunalt tilskud positivt.
+Ved udligning gælder det, at medicintilskud + patientens egenbetaling + kommunalt tilskud = 0.
+Ved salg af dosisdispenserede lægemidler til enkeltpersoner skal det receptekspederende apotek indberette én linje for hvert lægemiddel (varenummer), som indgår i dosispakningen  herunder hvor mange enheder af hvert lægemiddel, der indgår i pakningen.
+Dosisekspeditionsgebyret og dosispakningsgebyret indberettes på hver sin linje.
+Der anvendes ekspeditionstypen DD og et af varenumrene fra bilag 2.10.
+Ved salg af dosispakninger mellem to apoteker indberetter det apotek, som pakker dosispakningen, den solgte dosispakning på én linje med varenummeret 688000. Afregning af dosispakningsgebyret indberettes ligeledes på én linje.
+Der anvendes ekspeditionstypen SD.
+Ved salg af opsplittede lægemiddelpakninger til veterinært brug skal det receptekspederende apotek indberette én linje for hvert lægemiddel (varenummer) og ny pakning.
+Splittes et lægemiddel til flere pakninger skal der indberettes én linje pr. ny pakning.
+Afregning af opsplitningsgebyr indberettes ligeledes på én linje.
+Der anvendes ekspeditionstypen ID og et varenummer fra bilag 2.10.« Bilag 2 « 3.3 Oversigt over felternes placering i filen, samt felternes type og længde Positionen i nedenstående feltoversigt angiver felternes placering i filen.
+ Der skelnes mellem to typer felter: N, der er numeriske felter (udelukkende cifre) og A, der er alfanumeriske felter (tekst, eventuelt bogstaver og cifre i kombination). Feltets længde (antal karakterer) følger umiddelbart efter feltets type (fx N4 eller A6).
+Bilag 3 »4.2. Øvrige tabeller Varenumre, som skal anvendes ved indberetning af salg af lægemidler, når lægemiddelpakningen ikke er forsynet med et nordisk varenummer, herunder varenumre til brug ved indberetning af gebyrer, udligning af tilskud mv.

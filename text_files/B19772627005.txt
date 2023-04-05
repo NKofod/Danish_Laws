@@ -1,0 +1,258 @@
+1. Generelle målebetingelser Målingerne foretages på laboratoriet eller målepladsen ved den vilkårlige  
+
+ omgivelsestemperatur, der er på disse steder.
+Der vil dog ikke blive  
+
+ foretaget målinger, såfremt temperaturen ligger udenfor området + 5 grader -  
+
+ + 40 grader C.
+ Ved afprøvninger tilføres udstyr, der er beregnet til det almindelige  
+
+ forsyningsnet, en forsyningsspænding lig forsyningsnettets nominelle spændig.
+ For udstyr, der benytter anden form for spændingsforsyning end ovennævnte,  
+
+ opgives afprøvningsspændingen af fabrikanten.
+Hvor der i det følgende kræves anvendelse af en kunstantenne, skal denne  
+
+ bestå af en rent ohmsk, afskærmet belastning.
+Dens impedans skal være lig den  
+
+ senderen er beregnet for (opgives af fabrikanten, normalt 50 ohm). Senderens  
+
+ udgangseffekt på antennebøsning 2.1. Definition Senderens udgangseffekt er normaltbærebølgeeffekten målt på  
+
+ antennebøsningen med umoduleret sender.
+ Hvor det ikke er muligt at frakoble modulationen uden indgreb i selve  
+
+ anlægget, bestemmes senderens udgangseffekt som den totale udgangseffekt med  
+
+ moduleret sender.
+2.2. Målemetode Anlæggets antenneklemmer forbindes til en kunstantenne, og den afsatte  
+
+ effekt måles.
+ 3. Senderens udstrålede effekt fra den fast monterede  
+
+ antenne (teleskopantenne).
+ 3.1. Definition.
+Som mål for senderens udgangseffekt anvendes her den udstrålede effekt i  
+
+ den retning, hvor feltstyrken under nærmere specificerede målebetingelser er  
+
+ størst.
+Effekten bestemmes normalt ved umoduleret bærebølge.
+Hvor det ikke er  
+
+ muligt at frakoble modulationen uden indgreb i selve anlægget, bestemmes  
+
+ senderens udgangseffekt som den totale udgangseffekt med moduleret sender.
+ 3.2. Måleplads og måleopstilling.
+ 3.2.1. Måleplads.
+Målepladsen skal være beliggende på et rimelig plant areal.
+På målepladsen  
+
+ skal der findes et ledende jordnet med en diameter på mindst 5 meter, i hvis  
+
+ midtpunkt der anbringes en understøtning, hvorpå måleobjektet placeres som  
+
+ omtalt under pkt. 3.3. Understøtningen består af et plastrør fyldt med en  
+
+ saltvandsopløsning (9 g.
+NaCl pr. liter vand). Plastrøret har en højde på 1,5  
+
+ meter og den indre diameter skal være 10 +/- 0,5 cm.
+Den øverste ende af  
+
+ røret er lukket med en metalplade på 15 cm. i diameter og metalpladen er i  
+
+ kontakt med vandet.
+Den nederste ende af røret er ligeledes lukket med en  
+
+ metalplade.
+ Målepladsen skal være så stor, at det er muligt i en afstand på 30 meter  
+
+ fra centret af jordnettet at anbringe en måleantenne.
+ Det skal sikres, at reflektioner fra uvedkommende genstande på målepladsen  
+
+ ikke generer målingerne.
+ 3.2.2. Måleantenne og målemodtager.
+ Måleantennen benyttes til at måle udstrålingen fra såvel udstyret under  
+
+ måling som fra substitutionsantennen.
+ Måleantennen, der skal kunne orienteres såvel vandret som lodret,  
+
+ anbringes på en mast, hvor dens højde over jordplanet kan varieres mellem 1  
+
+ og 5 meter.
+ Målemodtageren behøver ikke at være absolut kalibreret, men skal være i  
+
+ stand til at måle relative signalniveauer.
+ 3.2.3. Substitutionsantenne.
+Substitutionsantennen skal bestå af en halvbølgedipol afstemt til  
+
+ målefrekvensen.
+Dipolen placeres normalt således, at dens midtpunkt er  
+
+ sammenfaldende med det sted på måleobjektet, hvor antennen er forbundet til  
+
+ kabinettet, jfr. pkt. 3.3.
+ Ved måling på 27 MHz og eventuelle andre frekvenser, hvor en sådan  
+
+ placering ikke er mulig, eller hvor afstanden mellem substitutionsantennens  
+
+ nedre ende og jorden ville blive mindre end 30 cm. ved lodret polarisation,  
+
+ hæves den lodret polariserede substitutionsantenne dog således, at en afstand  
+
+ på 30 cm opnås.
+ Substitutionsantennen forbindes til en målesender under anvendelse af  
+
+ egnede impedanstilpasnings- og balanceringsled.
+3.3. Målemetode Under målingen skal måleobjektet placeres på understøtningen omtalt i pkt.  
+
+ 3.2.1. med antennen lodret opad.
+Målemodtageren afstemmes til senderens  
+
+ frekvens og måleantennen indstilles til vertikal polarisation.
+Ved variation  
+
+ af måleantennens højde mellem 1 og 5 meter opsøges den højde, hvor størst  
+
+ signal opnås.
+Understøtningen og udstyret under måling erstattes med den under pkt.  
+
+ 3.2.3. omtalte substitutionsantenne, og højden af modtageantennen varieres  
+
+ for igen at sikre maksimalt signal.
+Signalniveauet på substitutionsantennens  
+
+ klemmer justeres indtil samme udslag som tidligere - subsidiært et udslag der  
+
+ står i et kendt forhold til dette - opnås.
+Den udstrålede effekt er da lig rådighedseffekten på  
+
+ substitutionsantennens klemmer, eller rådighedseffekten korrigeret med  
+
+ ovennævnte kendte forhold.
+Nabokanaleffekt 4.1. Definition.
+Nabokanaleffekten er den del af senderens totale udgangseffekt, der under  
+
+ nærmere definerede modulationsforhold, falder i gennemgangsområdet for en  
+
+ modtager med den i det følgende nævnte filterkarakteristik og afstemt til en  
+
+ af nabokanalerne.
+Ved nabokanalerne forstås her de kanaler, hvis  
+
+ centerfrekvens afviger 10 kHz fra senderens nominelle frekvens.
+ Nabokanaleffekten er summen af middeleffekterne frembragt i den enkelte  
+
+ nabokanal af modulationen og effektbidrag hidrørende fra brum og støj fra  
+
+ senderen.
+4.2. Målemetode 4.2.1. Udstyr med antennebøsning Nabokanaleffekten måles med en effektmålemodtager (modtager med  
+
+ effekttivværdivisende voltmeter) forsynet med et filter, der har følgende  
+
+ specifikationer (* 1):
+6 dB båndbredde nominelt 8,5 kHz 70 dB båndbredde ikke større end 17,5 kHz 90 dB båndbredde ikke større end 25,0 kHz Senderens udgang forbindes til effektmålemodtagerens indgang via et  
+
+ impedanstilpasningsnetværk således, at impedansen set fra senderen er lig med  
+
+ den af fabrikanten foreskrevne belastning.
+Endvidere justeres signalet på  
+
+ målemodtagerindgangen til et passende niveau, og senderen moduleres med  
+
+ anlæggets eget modulationssignal.
+Effektmålemodtageren afstemmes til senderens nominelle frekvens, og dens  
+
+ variable dæmpningsled indstilles således, at man på målemodtageren får en  
+
+ aflæsning, der er ca. 5 dB over dens eget støjniveau.
+Modtageren afstemmes  
+
+ derefter til den nominelle frekvens for en af nabokanalerne, og det variable  
+
+ dæmpningsled indstilles således, at samme modtagervisning som tidligere  
+
+ opnås.
+Differencen mellem det variable dæmpningsleds indstilling ved måling i  
+
+ henholdsvis centerkanalen og nabokanalen er da forholdet i dB mellem  
+
+ senderens udgangseffekt og nabokanaleffekten.
+Nabokanaleffekten er derved  
+
+ bestemt, idet senderens udgangseffekt er kendt (pkt. 2).
+ Målingen gentages for den anden nabokanal.
+ 4.2.2. Udstyr med fast monteret antenne.
+ Målemetoden er identisk med den beskrevet under pkt. 4.2.1. bortset fra,  
+
+ at effektmålemodtageren forsynes med signal fra en sonde, der anbringes i  
+
+ senderens udstrålingsfelt i en sådan afstand fra antennen, at et konstant,  
+
+ passende signalniveau opnås.
+ 5. Senderens frekvensafvigelse.
+ 5.1. Definition.
+ Senderens frekvensafvigelse er differensen mellem den målte  
+
+ bærebølgefrekvens og dennes nominelle værdi.
+ 5.2. Målemetode.
+ Bærebølgefrekvensen måles normalt med senderen umoduleret og tilsluttet en  
+
+ kunstantenne.
+ Hvor det ikke er muligt at frakoble modulationen uden indgreb i selve  
+
+ anlægget, bestemmes senderens frekvensafvigelse ved f.eks. på en  
+
+ spektrumanalysator at sammenligne bærebølgefrekvensen med en kendt frekvens.
+ Ved udstyr med fast monteret antenne udtages et signal af passende  
+
+ størrelse som beskrevet under pkt. 4.2.2.
+ 6. Uønsket udstråling over antennebøsningen.
+ 6.1. Definition.
+ Den uønskede udstråling fra senderen bestemmes som den udstråling, der med  
+
+ moduleret sender, radieres over antennebøsningen på frekvenser udenfor den  
+
+ kanal, senderen arbejder på og de to tilstødende nabokanaler.
+ Ved den uønskede udstråling fra modtageren forstås her al udstråling, som  
+
+ under modtagning radieres over antennebøsningen.
+ 6.2. Målemetode.
+Måling af de enkelte uønskede signaler foretages med en selektiv  
+
+ målemodtager eller en spektrumanalysator, der via et  
+
+ impedanstilpasningsnetværk forbindes til anlæggets antennebøsning.
+Impedansen  
+
+ set fra senderen skal svare til den af fabrikanten forskrevne.
+ Såvel sender som modtager måles i frekvensområdet 100 kHz - 2000 MHz.
+7. Uønsket udstråling fra fast monteret antenne og  
+
+ kabinet Denne måling foretages normalt kun på anlæg med fast monteret antenne.
+ 7.1. Definition.
+ Den uønskede udstråling fra senderen bestemmes som den udstråling, der med  
+
+ moduleret sender radieres fra udstyret på frekvenser udenfor den kanal,  
+
+ senderen arbejder på, og de to tilstødende nabokanaler.
+ Ved den uønskede udstråling fra modtageren forstås her al udstråling, som  
+
+ radieres fra udstyret under modtagning.
+ 7.1. Målemetode.
+ Måleobjektet placeres på understøtningen som omtalt under punkt 3.
+ Ved hver frekvens, hvor der er udstråling, måles den udstrålede effekt ved  
+
+ brug af substitutionsantennen omtalt under punkt 3.2.3.
+ Såvel den horisontalt polariserede som den vertikalt polariserede  
+
+ udstråling måles, og den største af de to målte værdier er da anlæggets  
+
+ uønskede udstråling ved den givne frekvens.
+ Udstrålingen fra såvel sender som modtager måles.
+Bilag BLOKDIAGRAM AF POST- OG TELEGRAFVÆSENETS MÅLEOPSTILLING TIL MÅLING AF NABOKANALEFFEKT (* 1) Blokdiagram og filterkarakteristik for den af post- og  
+
+ telegrafvæsenet anvendte effektmålemodtager er vist i bilaget.

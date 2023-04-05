@@ -1,0 +1,707 @@
+Bekendtgørelse om indberetning af  
+
+ oplysninger til lægemiddelstatistik I medfør af § 11, stk. 1, nr. 6, § 58, stk. 4,  
+
+ og § 72, stk. 2, i lov om apoteksvirksomhed, jf.  
+
+ lovbekendtgørelse nr. 657 af 28. juli 1995, og § 9, stk. 3,  
+
+ og § 44, stk. 2, i lov om lægemidler, jf.  
+
+ lovbekendtgørelse nr. 656 af 28. juli 1995, som ændret bl.a. ved  
+
+ lov nr. 1043 af 23. december 1998, fastsættes efter bemyndigelse i  
+
+ henhold til § 1, stk. 2, i bekendtgørelse nr. 198 af 24.  
+
+ marts 1995 om indberetning af oplysninger om omsætning m.v. af  
+
+ lægemidler m.v.:
+ § 1. Indberetning af omsætningsoplysninger  
+
+ til lægemiddelstatistikregistret i henhold til bekendtgørelse om  
+
+ indberetning af oplysninger om omsætning mv. af lægemidler mv.  
+
+ skal foretages som anført i bilag 1 og 2 til denne  
+
+ bekendtgørelse.
+ § 2. Følgende personer, virksomheder m.m.  
+
+ skal indberette omsætningsoplysninger til  
+
+ Lægemiddelstyrelsen:
+ 1)	Apotekere.
+ 2)	Sygehusapoteker.
+ 3)	Statens Serum Institut.
+ 4)	Statens Veterinære Serumlaboratorium.
+ 5)	Statens Veterinære Institut for Virusforskning.
+ § 3. Lægemiddelstyrelsen kan herudover i  
+
+ medfør af lægemiddellovens § 9, stk. 4, kræve,  
+
+ at virksomheder, der fremstiller, indfører, udfører, oplagrer,  
+
+ forhandler, udleverer, fordeler eller emballerer lægemidler, og disse  
+
+ virksomheders foreninger og brancheorganisationer indsender oplysninger i  
+
+ maskinlæsbar form om omsætning m.v. af lægemidler.
+ § 4. Med bøde straffes den, der  
+
+ overtræder § 1 eller § 2.
+ Stk. 2. Der kan pålægges selskaber m.v. (juridiske  
+
+ personer) strafansvar efter reglerne i straffelovens 5. kapitel.
+ § 5. Bekendtgørelsen træder i kraft  
+
+ den 1. marts 2000.
+ Stk. 2. Bekendtgørelse nr. 158 af 19. februar 1997 om  
+
+ indberetning af oplysninger til lægemiddelstatistik  
+
+ ophæves.
+Lægemiddelstyrelsen, den 27. januar  
+
+ 2000 Mogens Bjørnbak-Hansen /Lasse Larsen Bilag 1 Beskrivelse af de oplysninger, der månedsvis skal  
+
+ indsendes til Lægemiddelstyrelsen i maskinlæsbar form 1. Generelle bemærkninger 1.1 På grundlag af oplysninger indsamlet fra  
+
+ apoteker, sygehusapoteker, serumlaboratorier og medicinalfirmaer mv.,  
+
+ etableres en lægemiddelstatistikdatabase til brug for udarbejdelse af  
+
+ statistik, analyser, prisindeks og overvågning af  
+
+ lægemiddelforbruget.
+Formålet er at styrke myndighedernes  
+
+ beslutningsgrundlag.
+ Afsnit 2 angiver de tekniske og indholdsmæssige krav  
+
+ til disketter og filer.
+ Afsnit 3 er en beskrivelse af oplysningerne, der skal  
+
+ indberettes.
+Afsnit 4 er en samlet oversigt over oplysninger, der skal  
+
+ indberettes, herunder hvilke oplysninger, der skal indsendes af apotekere og  
+
+ af øvrige indberetningspligtige.
+Af afsnittet fremgår de enkelte  
+
+ felters placering i filen, længde og type mv.
+ Afsnit 5 indeholder en oversigt over koder og  
+
+ tabeller.
+2. Krav til disketter og filer 2.1 Indberetning skal ske på disketter til Lægemiddelstyrelsen Statistisk Afdeling Frederikssundsvej 378 2700 Brønshøj.
+ 2.2 Følgende disketteformat kan anvendes: 3,5''  
+
+ (1,44 Mb, HD). Anvendelse af andre formater eller medier forudsætter  
+
+ Lægemiddelstyrelsens tilladelse.
+ 2.3 Hver diskette skal udvendigt, på en  
+
+ label, påføres følgende oplysninger:
+ -	Den indberetningspligtiges navn og nummer.
+ -	Oplysning om, hvilken måned og år indberetningerne  
+
+ vedrører.
+ -	Diskettens nummer og månedens samlede antal disketter.
+ -	Navn på en kontaktperson.
+ Hver diskette må kun indeholde én fil og ingen  
+
+ katalogstruktur.
+ 2.4 Filnavnet skal være i overensstemmelse  
+
+ med de oplysninger, der fremgår af diskettens label og af 1. linie i  
+
+ filen på disketten (jf. nedenfor):
+NUMFIXY.MM hvor NUM er den indberetningspligtiges nummer (3 cifre, evt. med  
+
+ foranstillede nuller), FI er enhedsnummer for underenheder, fx. filial eller apoteksudsalg (2  
+
+ cifre), X er diskettens nummer ud af en sekvens på Y disketter og MM er månedens nummer (2 cifre).
+ 2.5 Den første linie i filen skal have  
+
+ følgende indhold:
+ Nr.
+Type Fra Til Lgd.
+Beskrivelse af feltindhold F1 A 1 6 6 Snitfladeidentifikation F2 A 7 21 15 Edb-leverandøridentifikation F3 A 22 26 5 Edb-systemets godkendelsesnummer F4 N 27 32 6 Udskriftsdato (ÅÅMMDD) F5 N 33 37 5 Den indberetningspligtiges nummer F6 N 38 41 4 Omsætningsmåned/år (ÅÅMM) F7 N 42 42 1 Det totale antal disketter (1-Z). Ved indsendelse af mere end 9 disketter  
+
+ anvendes bogstaver, således at feltet ved indsendelse af 10 disketter  
+
+ udfyldes med A, ved 11 disketter med B o.s.v.
+F8 N 43 43 1 Diskettens nummer (1-Z) F9 N 44 48 5 Månedens totale antal records (1-99999) F10 N 49 53 5 Antal records på disketten (1-99999) 2.6 I filen følger herefter linievis de i  
+
+ afsnit 3 specificerede oplysninger pr. ekspederet varenummer.
+Alle linier i filen skal have samme længde, jf.  
+
+ afsnit 4 nedenfor.
+Hver linie i filen afsluttes med CR og LF (ASCII 13 og  
+
+ ASCII 10).
+ 2.7 Felterne F1, F2 og F3 i første linie i  
+
+ filen udfyldes efter følgende retningslinier:
+ Nr.
+Feltindhold Udfyldelse F1 Snitfladeidentifikation STAT03 F2 Edb-leverandøridentifikation Indholdet fastlægges af den indberetningspligtiges  
+
+ edb-leverandør og meddeles Lægemiddelstyrelsen, Statistisk  
+
+ Afdeling.
+F3 Edb-systemets godkendelsesnummer Indholdet fastlægges af den indberetningspligtiges  
+
+ edb-leverandør.
+Feltet skal bl.a. anvendes ved fejlretning mv. i  
+
+ forbindelse med indberetning.
+Feltet skal altid udfyldes og opdateres ved  
+
+ ibrugtagning af nye programversioner på apoteket.
+3. Beskrivelse af oplysninger, der skal indberettes 3.1 Ekspeditionsdato FELT01 Ekspeditionsdato Dato for gennemført kassetransaktion/debitering.
+3.2 Ekspeditionsnummer FELT02 Ekspeditionsnummer Feltet skal altid udfyldes, når der til enkeltpersoner ekspederes de  
+
+ i § 4 i bekendtgørelse om recepter nævnte lægemidler.  
+
+ Må gerne udfyldes ved andre ekspeditioner.
+3.3 Ekspeditionstype FELT03 Ekspeditionstype Apoteker Enkeltpersoner Receptursalg, farmaceutiske specialiteter	EI Receptursalg, magistrelle lægemidler	EM Leverancer til sygehuse mv.
+Receptursalg, farmaceutiske specialiteter	LI Receptursalg, magistrelle lægemidler	LM Dyrlægeordinationer Receptursalg, erhverv, farmaceutiske specialiteter	DI Receptursalg, erhverv, magistrelle lægemidler	DM Receptursalg, ej erhverv, farmaceutiske specialiteter	ID Receptursalg, ej erhverv, magistrelle lægemidler	MD Andet Apoteksforbeholdte håndkøbslægemidler	HA Frihandelsvarer	HF Salg til andre apoteker, lægemidler	SL Salg til andre apoteker, andet	SA Andre driftsindtægter	AD Udligning af for meget eller for lidt udbetalt tilskud (CTR)	UL Danskeres køb i Norden	NO FELT03 Ekspeditionstype (fortsat) Sygehusapoteker mv.
+Leverancer til sygehusafdelinger -	farmaceutiske specialiteter	AI -	magistrelle lægemidler	AM Salg til sygehusapoteker mv.
+-	farmaceutiske specialiteter	SI -	magistrelle lægemidler	SM Salg til private apoteker -	farmaceutiske specialiteter	PI -	magistrelle lægemidler	PM Salg til andre -	læger	LL -	dyrlæger	LD -	andre	LA Ved større samlede leverancer anføres ekspeditionstypen pr.  
+
+ varenummer.
+3.4 Den indberetningspligtiges nummer FELT04 Den indberetningspligtiges nummer Entydig identifikation af den indberetningspligtige.
+ Apoteksnumre angives ved 3 cifre efterfulgt af et apoteks enhedsnummer  
+
+ angivet ved 2 cifre.
+ Reglerne for tildeling af enhedsnummeret er:
+00 Hovedapoteket 01   09 Filialenheder 10   99 Apoteksudsalg Lægemiddelstyrelsen tildeler øvrige indberetningspligtige  
+
+ numre.
+3.5 Udleveringssted FELT05 Udleveringssted Følgende kodeværdier anvendes:
+0 Hovedapotek, filial eller apoteksudsalg 1 Håndkøbsudsalg 2 Medicinudleveringssted 3.6 Identifikation af modtager FELT06 Identifikation af modtageren af lægemidlet Feltet udfyldes med patientens CPR-nummer ved receptsalg til  
+
+ enkeltpersoner på apoteker.
+ For udlændinge, danske børn, som endnu ikke har fået  
+
+ tildelt et CPR-nummer og andre uden CPR-nummer udfyldes feltet ved  
+
+ ekspedition af tilskudsberettigede lægemidler med det fiktive  
+
+ CPR-nummer, som tildeles af Lægemiddelstyrelsens Centrale  
+
+ Tilskudsregister.
+ For danske statsborgere bosiddende i Danmark, hvor CPR-nummeret ikke er  
+
+ korrekt, anvendes ved ekspeditioner af ikke tilskudsberettigede  
+
+ lægemidler erstatningskoden 4000000995. For udlændinge anvendes  
+
+ erstatningskoden 4000000618. For asylansøgere anvendes  
+
+ erstatningskoden 4000005555. Feltet må gerne udfyldes med personens  
+
+ fiktive CPR-nummer, såfremt det kendes.
+ Feltet udfyldes med 3200000000 ved udlevering af medicin til læge  
+
+ til brug i egen praksis.
+Feltet udfyldes med 330000 efterfulgt af et 4-cifret praksisnummer ved  
+
+ udlevering af medicin til dyrlæge til brug i egen praksis.
+For  
+
+ dyrlægeassistenter anvendes nummeret til den praksis de er tilknyttet.  
+
+ Praksisnummeret fremgår af recepten.
+Ved ukendt praksisnummer udfyldes  
+
+ feltet med 3300000000. For udenlandske dyrlæger udfyldes feltet med  
+
+ 3300009999.
+ Feltet udfyldes med 3400000000 ved udlevering af medicin til  
+
+ tandlæger til brug i egen praksis.
+ Feltet udfyldes med 40000 efterfulgt af apotekets nummer og enhedsnummmer  
+
+ ved leverance af lægemidler til andre apoteker, herunder  
+
+ sygehusapoteker.
+Feltet udfyldes med 450 efterfulgt af sygehus/afdelingskode ved levering  
+
+ af lægemidler til sygehusafdelinger, jf.
+Sundhedsstyrelsens  
+
+ sygehusklassifikation (7 cifre uden punktum). Ved leverance til  
+
+ fællesafdelinger, medicindepoter o.lign., som ikke er anført i  
+
+ sygehusklassifikationen anvendes 450 efterfulgt af sygehusets 4-cifrede  
+
+ nummer efterfulgt af 999. Ved manglende afdelingskode udfyldes feltet med 450  
+
+ efterfulgt af sygehuskoden efterfulgt af 000. Ved manglende sygehus- og  
+
+ afdelingskode anvendes erstatningskoden 4500000000.
+ Feltet udfyldes med 4600000000 ved leverance til fælles  
+
+ lægemiddellagre på plejehjem og andre lignende institutioner.
+ Ved udlevering af dyrlægeordineret medicin til erhverv udfyldes  
+
+ feltet på følgende måde:
+Ved ordination til dyrehold med CHR-nummer udfyldes feltet med det  
+
+ 6-cifrede CHR-nummer, som fremgår af recepten, med foranstillede  
+
+ nuller.
+Ved uoplyst CHR-nummer anføres i stedet for dette  
+
+ erstatningskoden 0000999999.
+3.7 Barnets alder FELT07 Barnets alder Feltet udfyldes med barnets alder, hvis ordinationen er til en person  
+
+ under 18 år, og indberetning til lægemiddelstatistikken sker  
+
+ på et fiktivt CPR-nummer, et af forældrenes CPR-numre eller en  
+
+ erstatningskode.
+ For børn under 2 år anføres alder i måneder  
+
+ (00M-23M). Hvis barnet er 2 år eller derover, anføres alder i  
+
+ år (02Y-17Y).
+3.8 Identifikation af receptudsteder FELT08 Identifikation af receptudsteder Feltet skal udfyldes, uanset om ordinationen er tilskudsberettiget eller  
+
+ ej.
+For alment praktiserende læger, vagtlæger, tandlæger og  
+
+ speciallæger indberettes ydernummer.
+Hvis ydernummeret ikke er  
+
+ modulus-11-korrekt anvendes erstatningskoden 0990019. Hvis ydernummeret ikke  
+
+ kan fremskaffes, eller receptudstederen ikke har et ydernummer, anvendes  
+
+ erstatningskoden 0990027.
+For sygehuslæger indberettes sygehus/afdelingskode, jf.  
+
+ Sundhedsstyrelsens sygehusklassifikation.
+Ved manglende sygehus/afdelingskode  
+
+ anvendes erstatningskoden 0990027.
+For dyrlæger anvendes Veterinærdirektoratets  
+
+ autorisationsnummer.
+For at undgå sammenfald mellem ydernummer og  
+
+ autorisationsnummer, indberettes autorisationsnummer med V som 1. karakter i  
+
+ feltet, efterfulgt af det 6-cifrede autorisationsnummer med foranstillede  
+
+ nuller.
+Ved uoplyst autorisationsnummer benyttes erstatningskoden V000000.
+For udenlandske dyrlæger benyttes erstatningskoden V999999.
+Ved leverance til sygehusafdelinger udfyldes feltet med  
+
+ sygehus/afdelingskode, jf.
+Sundhedsstyrelsens sygehusklassifikation.
+Ved  
+
+ leverance til fællesafdelinger, medicindepoter o.lign., som ikke er  
+
+ anført i sygehusklassifikationen anvendes sygehusets 4-cifrede nummer  
+
+ efterfulgt af 999. Ved manglende sygehus/afdelingskode anvendes  
+
+ erstatningskoden 0990027.
+Ved leverance til fælles lægemiddellagre på plejehjem og  
+
+ lignende institutioner udfyldes feltet med den ordinerende læges  
+
+ ydernummer.
+Ved manglende oplysning om ydernummeret anvendes erstatningskoden  
+
+ 4600000.
+3.9 Lægens CPR-nummer FELT09 Lægens CPR-nummer Lægens CPR-nummer skal indberettes, når der til enkeltpersoner  
+
+ ekspederes de i § 4 i bekendtgørelse om recepter nævnte  
+
+ lægemidler på recepter, der er modtaget elektronisk, via telefax  
+
+ eller telefonisk.
+ Ved ordinationer foretaget af læger med dansk autorisation uden  
+
+ dansk CPR-nummer udfyldes feltet med en af følgende  
+
+ landeafhængige erstatningskoder:
+4000000006	Norge 4000000014	Sverige 4000000022	Island 4000000030	Finland 4000000049	Grønland 4000000057	Færøerne 4000000065	Danmark (f.eks. diplomat) 4000000081	Tyrkiet 4000000200	Grænsearbejder (bosat i et andet  
+
+ EU-land, arbejdstager i Danmark) 4000000332	Storbritannien 4000000340	Italien 4000000359	Holland 4000000367	Belgien 4000000375	Luxembourg 4000000383	Frankrig 4000000391	Tyskland 4000000405	Irland 4000000413	Grækenland 4000000421	Spanien 4000000448	Portugal 4000000456	Østrig 4000000464	Lichtenstein 4000000618	Øvrige udlændinge Ved rekvisitioner foretaget af skibsførere udfyldes feltet med  
+
+ erstatningskoden 4000000103.
+3.10 Det ordinerede varenummer FELT10 Det ordinerede varenummer Når der ekspederes lægemidler på recept, udfyldes feltet  
+
+ med varenummeret på det ordinerede lægemiddel.
+Hvis det ordinerede lægemiddel er markedsført direkte  
+
+ forhandlet og parallelimporteret med samme navn, indberettes et af disse  
+
+ varenumre.
+Hvis lægen på recepten har tilkendegivet, at  
+
+ ordinationen kun gælder et af disse lægemidler med samme navn,  
+
+ indberettes varenummeret på dette.
+3.11 Receptens løbenummer FELT11 Receptens løbenummer Receptens løbenummer skal indberettes, når der til  
+
+ enkeltpersoner ekspederes de i § 4 i bekendtgørelse om recepter  
+
+ nævnte lægemidler på særligt udformede  
+
+ receptblanketter.
+3.12 Det udleverede varenummer FELT12 Det udleverede varenummer Varenumrene på farmaceutiske specialiteter følger  
+
+ pakningernes varenumre.
+Magistrelle lægemidler m.v., der leveres fra  
+
+ sygehusapoteker, skal indberettes på de i bilag 2 anførte  
+
+ varenumre. Øvrige varenumre følger apotekeres og grossisters  
+
+ fælles varenumre.
+000001-199999	Farmaceutiske specialiteter med nordisk  
+
+ varenummer 200000-249999	Frihandelsvarer/mærkevarer 250000-369999	Råvarer, kemikalier, droger 370000-599999	Farmaceutiske specialiteter med nordisk  
+
+ varenummer 600000-659999	Galenika (bulk) 660000-679999	Frihandelsvarer 680000-684999	Til internt brug i virksomheder 685000-689999	Diverse, fx magistrelle  
+
+ lægemidler 690000-699999	Til internt brug i virksomheder 700000-749999	Mærkevarer og enkelte specialiteter  
+
+ (SAD) 750000-799999	Frihandelsvarer/mærkevarer 800000-999999	Til internt brug i virksomheder Ved ekspeditioner, hvor varenummer er uoplyst, anvendes følgende  
+
+ varenumre:
+111111	Håndkøb, V-mærket 222222	Håndkøb, frihandelsvare 333333	Håndkøb, apoteksforbeholdt 555555	Industrispecialitet 666666	Paragraf 4 (magistrel) 685800	Farmaceutiske specialiteter på  
+
+ udleveringstilladelse i henhold til lægemiddellovens § 25,  
+
+ stk. 2 (varenummer 555555 kan også benyttes hertil) 777777	Sprit (magistrel) 888888	Magistrelle lægemidler, jf. dog bilag  
+
+ 2 999999	Uden avance FELT12 Det udleverede varenummer (fortsat) Følgende varenumre benyttes for gebyrer:
+100000	Telefonreceptgebyr 100025	EDB-gebyr 100030	Udbringningsgebyr 100035	Administrationsgebyr 100050	Vagtgebyr 100090	Leverancehonorar 925016	Dosispakningsgebyr Recepturgebyr indgår i ekspeditionens pris, jf. punkt 3.16  
+
+ nedenfor.
+ Færdigbehandlingsgebyr og fremstillingsgebyr indgår i AUP.
+ Følgende varenumre benyttes for udligning og danskeres køb  
+
+ af lægemidler i Norden:
+100015	Udligning af for meget eller for lidt udbetalt  
+
+ tilskud (CTR) 100040	Indberetning af danskeres køb af  
+
+ lægemidler i Norden 3.13 Antal pakninger FELT13 Antal pakninger af det ekspederede varenummer Ved udligning af for meget eller for lidt udbetalt tilskud og indberetning  
+
+ af danskeres køb af lægemidler i Norden udfyldes feltet med  
+
+ 1.
+3.14 Reiterationsnummer FELT14 Reiterationsnummer Nummeret angiver, hvilken gang en ordination er udleveret.
+00	Éngangsordination 01-99	Aktuelt nummer på udlevering af flergangsordination 3.15 Feltet udgår 3.16 Ekspeditionens samlede pris FELT16 Ekspeditionens samlede pris i ører inkl. moms For receptekspeditioner til enkeltpersoner på apoteker beregnes  
+
+ ekspeditionens samlede pris som:
+(AUP + recepturgebyr) * antal pakninger Ved AUP forstås lægemidlets pris inkl. moms, ekskl.  
+
+ recepturgebyr (dvs. prisen i Specialitetstaksten).
+ I de tilfælde, hvor der ikke udløses recepturgebyr, medregnes  
+
+ recepturgebyr ikke.
+ For sygehusapoteker mv. anføres afregningspris i ører inkl.  
+
+ moms.
+3.17 Patientens betaling FELT17 Patientens betaling i ører inkl. moms 3.18 Amtskommunenummeret FELT18 Nummeret på den refusionsgivende amtskommune Ved receptekspeditioner til enkeltpersoner defineres amtskommunens nummer  
+
+ ud fra den sikredes adresse.
+Ved ekspedition af lægemidler til brug i  
+
+ praksis defineres amtskommunens nummer ud fra praksisadressen.
+ Følgende amtskommunekoder skal anvendes:
+013	Københavns Kommune 014	Frederiksberg Kommune 015	Københavns Amt 020	Frederiksborg Amt 025	Roskilde Amt 030	Vestsjællands Amt 035	Storstrøms Amt 040	Bornholms Amt 042	Fyns Amt 050	Sønderjyllands Amt 055	Ribe Amt 060	Vejle Amt 065	Ringkøbing Amt 070	Århus Amt 076	Viborg Amt 080	Nordjyllands Amt Er den sikrede fra Norden eller EU, anføres 041.
+3.19 Amtskommunalt regelnummer FELT19 Det regelnummer, hvorefter patienten er berettiget til  
+
+ amtskommunalt tilskud Amtskommunale regelnumre til enkeltpersoner:
+41	Alm. offentlig sygesikring 42	Enkelttilskud 43	Forhøjet tilskud 44	Udligning af tilskud (CTR) 45	Ernæringspræparater 46	Antikonception 59	Uspecificeret tilskud Amtskommunale regelnumre til brug i praksis:
+11	Rekvisition af lægemidler fra alment praktiserende  
+
+ læger og vagtlæger 13	Rekvisition af lægemidler fra speciallæger 14	Rekvisition af forbindsstoffer fra speciallæger 16	Rekvisition af forbindsstoffer fra alment praktiserende  
+
+ læger og vagtlæger Hvis flere regelnumre anvendes (eksempelvis 41 og 43), indberettes det  
+
+ højeste regelnummer.
+ Hvis patienten er berettiget til tilskud, men befinder sig på den  
+
+ del af tilskudsskalaen, hvor der er fuld egenbetaling, udfyldes feltet med  
+
+ det korrekte regelnummer, felt 20 udfyldes med 0, felt 18 udfyldes med  
+
+ amtskommunekoden og felt 34 udfyldes med patienttypen.
+3.20 Amtskommunalt tilskud FELT20 Amtskommunens tilskud i ører inkl. moms 3.21 Kommunenummer FELT21 Nummeret på den refusionsgivende kommune 3.22 1. kommuneregelnummer FELT22 Regelnummer, hvorefter kommunen har ydet tilskud nr. 1 Gyldige kommunale regelnumre:
+61	Lov om social service § 28 62	Lov om social service § 84 63	Lov om social service § 97 64	Lov om social service § 107 71	Lov om integration § 36 72	Lov om aktiv socialpolitik § 82 75	Pensionslovens § 17, stk. 1 76	Pensionslovens § 17, stk. 3 79	Uspecificeret tilskud 3.23 1. kommunale tilskud FELT23 1. kommunale tilskud i ører inkl. moms 3.24 2. kommuneregelnummer FELT24 Regelnummer, hvorefter kommunen har ydet tilskud nr. 2 Se bemærkningerne under punkt 3.22 ovenfor.
+ Hvis flere regelnumre anvendes, indberettes laveste regelnummer.
+3.25 2. kommunale tilskud FELT25 2. kommunale tilskud i ører inkl. moms Et eventuelt 2. tilskud fra kommunen anføres her.
+3.26 Andre refusionsordninger FELT26 Andre refusionsordninger Feltet anvendes til nuværende og fremtidige refusioner, der ikke kan  
+
+ indpasses i øvrige felter.
+ Følgende kodeværdi er i anvendelse:
+21	Forsvaret 3.27 Andre tilskud FELT27 Eventuelle andre tilskud anføres her i ører inkl.  
+
+ moms 3.28 Korrektionskode FELT28 Korrektionskode Korrektionskoden angiver, om en post er en annullering af en tidligere  
+
+ indberettet post.
+ Kodeværdier:
+0	Normal post 1	Korrektionspost Hvis korrektionskoden er 1 betragtes beløb og varemængde som  
+
+ negative.
+ Feltet udfyldes ikke af apotekere.
+3.29 Fravalg af generisk substitution FELT29 Fravalg af generisk substitution Feltet udfyldes med et »G« for fravalg af generisk substitution, hvis der  
+
+ på recepten er anført »Ej G«.
+3.30 Fravalg af original substitution FELT30 Fravalg af original substitution Feltet udfyldes med et »O« for fravalg af original substitution, hvis der på recepten er anført »Ej O«.
+3.31 Fravalg af substitution FELT31 Fravalg af substitution Feltet udfyldes med et »S« for fravalg af substitution, hvis der på  
+
+ recepten er anført »Ej S«.
+3.32 Fravalg af analog substitution FELT32 Fravalg af analog substitution Feltet udfyldes med et »A« for fravalg af analog substitution, hvis der  
+
+ på recepten er anført »Ej A«.
+3.33 Tidsstempel FELT33 Tidsstempel Klokkeslæt for gennemført  
+
+ kassetransaktion/debitering.
+3.34 Patienttype FELT34 Patienttype Ved ekspedition af lægemidler, hvor patienten er berettiget til  
+
+ tilskud, udfyldes feltet med følgende koder:
+00	Almen, voksen 01	Almen, barn 10	Kroniker, voksen 11	Kroniker, barn 99	Terminalpatient 3.35 Beregningsgrundlagspris FELT35 Beregningsgrundlagspris i ører inkl. moms Det beløb, der ligger til grund for beregning af  
+
+ sygesikringstilskud.
+ Beløbet beregnes ud fra den beregningsgrundlagspris, som er angivet  
+
+ i Specialitetstaksten (BGP * antal pakninger). Hvis der er tale om  
+
+ forhøjet tilskud eller terminaltilskud er beregningsgrundlagspris dog  
+
+ lig ekspeditionspris.
+ Feltet udfyldes, når patienten er berettiget til amtskommunalt  
+
+ tilskud   også selvom patienten befinder sig på den del af  
+
+ tilskudsskalaen, hvor der er fuld egenbetaling.
+3.36 Dyreart FELT36 Dyreart Ved dyrlægers ordination til erhverv udfyldes feltet med dyreart  
+
+ efter følgende koder, der fremgår af recepten :
+Kvæg	12 Får, geder	13 Svin	15 Mink	24 Fjerkræ	30 Aquakulturer51 Andre produktionsdyr	95 Ved dyrlægers ordination til hobby-/kæledyr udfyldes feltet  
+
+ med dyreart efter følgende koder, der fremgår af recepten:
+Heste	11 Andre kæledyr	90 Ved dyrlægers ordination af lægemidler til brug i egen praksis  
+
+ udfyldes feltet med en af ovenstående koder for den dyreart, som  
+
+ lægemidlet forventes anvendt på.
+Koden fremgår af  
+
+ recepten.
+3.37 Aldersgruppe FELT37 Aldersgruppe Ved dyrlægers ordination til erhverv udfyldes feltet med  
+
+ følgende koder for aldersgrupper, der fremgår af recepten:
+Svin	Pattegrise, polte, avlsdyr	55 Fravænningsgrise	56 Slagtesvin, salgspolte	57 Kvæg	Køer, tyre	61 Kalve < 12 mdr.	62 Ungdyr, stude > 12 mdr	63 Får, geder	Dyr > 12 mdr.	68 Lam/kid < 12 mdr.	69 Fjerkræ	Slagtefjerkræ	75 Æglæggere	76 Opdræt	77 For andre produktionsdyr, heste og kæledyr udfyldes feltet med  
+
+ erstatningskoden 00, der fremgår af recepten.
+3.38 Ordinationsgruppe FELT38 Ordinationsgruppe Ved dyrlægers ordination til svin, kvæg, får, geder og  
+
+ mink anvendes følgende ordinationsgrupper, der fremgår af  
+
+ recepten:
+Reproduktion, urogenitalsystem	10 Yver	11 Gastrointestinale lidelser	12 Respirationsvejslidelser	13 Led, lemmer, klove, centralnervesystem, hud	14 Stofskifte, fordøjelse, kredsløb	15 Andet (kan kun anvendes ved mink)	16 Ved dyrlægers ordination til aquakulturer anvendes følgende  
+
+ ordinationsgrupper, der fremgår af recepten:
+Rødmundesyge	20 Furunkulose	21 Yngelsyndrom	22 Andet	23 Ved dyrlægers ordination til fjerkræ anvendes følgende  
+
+ ordinationsgrupper, der fremgår af recepten:
+ Bughinde- og bughuleorganer:
+Coccidiose	30 Enteritis	31 Hepatitis	32 Salpingitis	33 Andet	34 Respirationsveje og  organer35 Ved dyrlægers ordination til andre produktionsdyr, heste og  
+
+ kæledyr udfyldes feltet med erstatningskoden 00, der fremgår af  
+
+ recepten.
+ Ved dyrlægers ordination af vacciner og sera udfyldes feltet med  
+
+ erstatningskoden 99, der fremgår af recepten.
+3.39 Takseringsdato FELT39 Takseringsdato Dato for prisfastsættelse af lægemiddelekspeditionen.
+4. Oversigt over oplysninger, der skal indberettes, og felternes  
+
+ placering 4.1. Nedenfor gives en samlet oversigt over  
+
+ oplysninger, der indberettes.
+Positionen angiver felternes placering i  
+
+ filen.
+ Der anvendes samme snitflade for alle  
+
+ indberetningspligtige og for alle typer indberetninger.
+ Der skelnes mellem to typer felter: N, der er numeriske  
+
+ felter (udelukkende tal) og A, der er alfanumeriske felter (tekst, eventuelt  
+
+ bogstaver og tal i kombination). Feltets længde (antal karakterer)  
+
+ følger umiddelbart efter feltets type (fx N4 eller A6). Med mindre  
+
+ andet er angivet, skal der indberettes foranstillede nuller i alle felter,  
+
+ der udfyldes.
+ Felterne er som udgangspunkt blanke.
+Apotekere indberetter alle beløbsfelter og antal  
+
+ pakninger med negativt fortegn (-) ved tilbageførsler.
+Det eventuelle  
+
+ fortegn placeres i feltets første position.
+Ved udligning af for meget eller for lidt udbetalt  
+
+ sygesikringstilskud (CTR) indberettes nogle af beløbsfelterne med  
+
+ negativt fortegn.
+Hvis patienten har fået udbetalt for lidt i  
+
+ amtskommunalt tilskud indberettes det yderligere amtskommunale tilskud  
+
+ positivt i felt 20, mens tilbagebetalingen til patienten indberettes negativt  
+
+ i felt 17. Korrigeres der samtidig for for meget udbetalt kommunalt tilskud  
+
+ indberettes tilbagebetaling af kommunalt tilskud negativt i felt 23. Hvis  
+
+ patienten i stedet skal tilbagebetale amtskommunalt tilskud indberettes det  
+
+ tilbagebetalte amtskommunale tilskud negativt, patientens yderligere betaling  
+
+ positivt, og et eventuelt yderligere kommunalt tilskud positivt.
+Ved  
+
+ udligning gælder det, at amtskommunalt tilskud + patientens  
+
+ egenbetaling + kommunalt tilskud = 0.
+ Det er ekspeditionsdatoen, dvs. dato for gennemført  
+
+ kassetransaktion/debitering, der er afgørende for, hvilken måned  
+
+ ekspeditionen vedrører.
+4.2 Feltoversigt Felt nr.
+Beskrivelse Type/ Lgd Position Typiske værdimængder 01 Ekspeditionsdato N6 1- 6 ÅÅMMDD:000101-991231 02 Ekspeditionsnummer A5 7-11 00001-99999 03 Ekspeditionstype A2 12-13 04 Indberetters nummer N5 14-18 00000-99999 05 Udleveringssted N1 19-19 0, 1, 2 06 Modtager af lægemiddel N10 20-29 07 Barnets alder A3 30-32 00M-23M, 02Y-17Y 08 Receptudsteder A7 33-39 09 Læges CPR-nummer N10 40-49 10 Ordineret varenummer N6 50-55 11 Receptens løbenummer A7 56-62 12 Udleveret varenummer N6 63-68 13 Pakningsantal N4 69-72 14 Reiterationsnummer N2 73-74 16 Ekspeditionspris N10 75-84 0000010025, -000010025 17 Patientbetaling N10 85-94 0000010025, -000010025 18 Amtskommunens nummer N3 95-97 19 Amtskommunalt regelnummer N2 98-99 20 Amtskommunalt tilskud N10 100-109 0000010025, -000010025 21 Kommunenummer N3 110-112 22 Kommune, 1. regel N2 113-114 23 Kommune, 1. tilskud N10 115-124 0000010025, -000010025 24 Kommune, 2. regel N2 125-126 25 Kommune, 2. tilskud N10 127-136 0000010025, -000010025 26 Anden refusion N2 137-138 27 Andre tilskud N10 139-148 0000010025, -000010025 28 Korrektionskode N1 149-149 0,1 29 Fravalg af G-substitution A1 150-150 G eller blankt 30 Fravalg af O-substitution A1 151-151 O eller blankt 31 Fravalg af substitution A1 152-152 S eller blankt 32 Fravalg af A-substitution A1 153-153 A eller blankt 33 Tidsstempel N4 154-157 TTMM:0000-2359 34 Patienttype N2 158-159 00, 01,10, 11, 99 35 Beregningsgrundlagspris N10 160-169 0000010025, -000010025 36 Dyreart N2 170-171 11, 12, 13, 95 37 Aldersgruppe N2 172-173 00, 55, 56, 77 38 Ordinationsgruppe N2 174-175 00, 10, 11, 99 39 Takseringsdato N6 176-181 ÅÅMMDD:000101-991231 4.3 Den følgende tabel (4.4 Feltudfyldelse)  
+
+ viser, hvilke felter der - såfremt oplysninger foreligger - skal  
+
+ udfyldes ved henholdsvis:
+ 1.	Apotekeres salg af receptpligtige lægemidler og  
+
+ receptordinerede håndkøbslægemidler ordineret af alment  
+
+ praktiserende læger, vagtlæger, speciallæger,  
+
+ tandlæger og sygehuslæger til enkeltpersoner og til brug i egen  
+
+ praksis (ekspeditionstyperne EI og EM).
+ 2.	Apotekeres salg af dyrlægeordinerede lægemidler  
+
+ (ekspeditionstyperne DI, ID, DM og MD).
+ 3.	Apotekeres salg af håndkøbslægemidler og  
+
+ frihandelsvarer mv. (ekspeditionstyperne HA, HF og SA).
+ 4.	Apotekeres leverancer af lægemidler til sygehusafdelinger,  
+
+ plejehjem m.m. (ekspeditionstyperne LI og LM).
+ 5.	Apotekeres salg af lægemidler til andre apoteker  
+
+ (ekspeditionstype SL).
+6.	Apotekernes udligning af for meget eller for lidt udbetalt tilskud  
+
+ (CTR) (ekspeditionstype UL) 7.	Apotekernes indberetning af danskeres køb af lægemidler  
+
+ i Norden (ekspeditionstype NO).
+ 8.	Apotekeres ekspedition af gebyrer (ekspeditionstype AD).  
+
+ Administrationsgebyrerne kan dog indberettes på én samlet linie  
+
+ pr. måned.
+ 9.	Øvrige indberetningspligtiges salg af lægemidler  
+
+ (ekspeditionstyperne AI, AM, SI, SM, PI, PM, LL, LD og LA).
+Ved ekspedition af de i § 4 i bekendtgørelse om recepter  
+
+ nævnte lægemidler til enkeltpersoner skal samtlige mulige felter  
+
+ udfyldes.
+Dog indberettes kun enten receptens løbenummer eller  
+
+ lægens CPR-nummer.
+Priser skal anføres i ører inkl. moms.
+Ved momsfrit salg  
+
+ skal det indberettede beløb være tillagt moms.
+4.4 Feltudfyldelse Felt nr.
+Beskrivelse 1. Apoteker, receptsalgtil enkeltpersoner mv.
+2. Apoteker, salg af dyrlægeordinerede  
+
+ lægemidler 3. Apoteker, salg af  
+
+ håndkøbslægemidler/frihandelsvarer 4. Apoteker, leverancer af lægemidler 5. Apoteker, salg af lægemidler til andre  
+
+ apoteker 6. Apoteker, udligning af for meget eller for lidt udbetalt  
+
+ tilskud 7. Apoteker, indberetning af danskeres køb af  
+
+ lægemidler i Norden 8. Apoteker, gebyrer 9. Øvrig indberetningspligtige 01 Ekspeditionsdato + + + + + + + + + 02 Ekspeditionsnummer 03 Ekspeditionstype + + + + + + + + + 04 Indberetters nummer + + + + + + + + + 05 Udleveringssted + + + + + + + + 06 Modtager af lægemiddel + + + + + + + + 07 Barnets alder + + 08 Receptudsteder + + + + 09 Læges CPR-nummer 10 Ordineret varenummer + + 11 Receptens løbenummer 12 Udleveret varenummer + + + + + + + + + 13 Pakningsantal + + + + + + + + + 14 Reiterationsnummer + + 16 Ekspeditionspris + + + + + + + + 17 Patientbetaling + + + + + + + + 18 Amtskommunens nummer + + + 19 Amtskommunalt regelnummer + + + 20 Amtskommunalt tilskud + + + 21 Kommunenummer + + + + 22 Kommune, 1. regel + + + + 23 Kommune, 1. tilskud + + + + 24 Kommune, 2. regel + + + + 25 Kommune, 2. tilskud + + + + 26 Anden refusion + 27 Andre tilskud + 28 Korrektionskode + 29 Fravalg af G-substitution + + 30 Fravalg af O-substitution + + 31 Fravalg af substitution + + 32 Fravalg af A-substitution + + 33 Tidsstempel + + + + + + + + 34 Patienttype + + + 35 Beregningsgrundlagspris + + 36 Dyreart + 37 Aldersgruppe + 38 Ordinationsgruppe + 39 Takseringsdato + + + + + + + + 5. Koder og tabeller 5.1 Lægemiddelstyrelsen, Statistisk  
+
+ Afdeling koordinerer og fastlægger gennem denne bekendtgørelse  
+
+ anvendelsen af koder og tabeller.
+En række tabeller af mindre omfang er  
+
+ angivet i feltbeskrivelserne i afsnit 3 ovenfor.
+ 5.2 Øvrige tabeller:
+a.
+For apotekeres vedkommende anvendes de gældende apoteksnumre.  
+
+ Enhedsnumre til apoteker, filialer og apoteksudsalg skal meddeles til  
+
+ Lægemiddelstyrelsen.
+b.
+Numre på øvrige indberetningspligtige (sygehusapoteker,  
+
+ serumlaboratorier mv.) vil blive fastlagt af Lægemiddelstyrelsen.
+c.
+Sundhedsstyrelsens sygehusklassifikation anvendes til identifikation  
+
+ af sygehuse og sygehusafdelinger.
+d.
+Indenrigsministeriets tabel over kommune- og amtskoder anvendes,  
+
+ hvor kommune skal indberettes.
+e.
+Til identifikation af receptudsteder anvendes Sygesikringens  
+
+ identifikation.
+For dyrlæger anvendes Veterinærdirektoratets  
+
+ autorisationskoder.
+f.
+Til identifikation af farmaceutiske specialiteter på  
+
+ pakningsniveau anvendes varenumre.
+Lægemidler uden varenummer tildeles  
+
+ et varenummer.
+g.
+Til identifikation af dyrehold anvendes  
+
+ Fødevareministeriets CHR-numre.
+Bilag 2 Varenumre til magistrelle lægemidler mv. fra sygehusapoteker Varenummer Lægemiddel Form Styrke 685503 Additivservicepræparater i ATC-gruppe J01 685511 Additivservicepræparater udenfor ATC-gruppe J01 685529 Akutbakker 685735 Alteplase inj. vsk.
+1 mg/ml 685537 Bupivacain-morphin blandinger 685545 Calciumacetat tab.
+350 mg 685552 Calciumcarbonat tab.
+450 mg 685560 Cefuroxim øjendrb.
+685578 Cymevene-blandinger 685586 Cystisk fibrose, kure til 685594 Cytostatika-blandinger 685610 Dosisdispenserede lægemidler, excl. akutbakker 685628 Foscovir-blandinger 685644 Ganciclovir-blandinger 685651 Heparin 200 IE/ml 685669 Heparin 500 IE/ml 685677 Hæmodialysekoncentrater 685636 Immunglobulin-blandinger 685685 Infusionsvæsker til børn 685693 Morfin inj. vsk.
+40 mg/ml 685602 Peritonealdialysevæsker 685701 Smertepumper excl. bupivacain-morphin blandinger 685719 Total Parenteral Ernæring 685727 Østersskaller tab.

@@ -1,0 +1,501 @@
+INDHOLDSFORTEGNELSE 1. INDLEDNING 2. DEFINITIONER 3. TEKNISKE OPLYSNINGER 4. TEKNISKE KRAV 5. MÅLEOPSTILLINGER 1. INDLEDNING Analoge ledninger mod det fastkoblede telefonnet udlejes af  
+
+ teleadministrationerne som analoge abonnerede privatledninger (APL'er). En  
+
+ analog APL er en elektrisk transmissionsvej, der via teleadministrationernes  
+
+ anlæg er fast etableret mellem 2 geografisk adskilte terminalpunkter med det  
+
+ formål at forbinde 2 terminaludstyr f.eks. 2 PABC'er.
+ Nærværende tekniske bestemmelser for tilslutning af PABC'er til analoge  
+
+ ledninger mod det fastkoblede telefonnet indeholder følgende:
+ - Afsnit 2 indeholder definitioner af anvendte udtryk og begreber der ikke  
+
+ forudsættes almindelig kendte.
+ Definition af visse begreber er yderligere anskueliggjorte i tilhørende  
+
+ definitionsskitser.
+- Afsnit 3 indeholder tekniske oplysninger om de forskellige typer af  
+
+ analoge ledninger mod det fastkoblede telefonnet.
+De beskrevne ledningstyper  
+
+ tilbydes generelt af alle teleadministrationer, som tekniske begrænsninger  
+
+ kan forekomme, hvorfor det anbefales at indhente yderligere oplysninger hos  
+
+ de enkelte teleadministrationer.
+- Afsnit 4 beskriver, for hver enkelt ledningstype mod det fastkoblede  
+
+ telefonnet, de tekniske krav, de kræves opfyldt af en PABC for at opnå  
+
+ typegodkendelse for tilslutning til den pågældende ledningstype.
+Generelt  
+
+ gælder, at der i en given PABC kun kræves opfyldelse af de krav, der er  
+
+ relevante for den specifikke PABC's funktioner.
+ - Afsnit 5 indeholder generelle retningslinier for  
+
+ typegodkendelsesmålinger samt detailopstillinger til verifikation af de i  
+
+ afsnit 4 specificerede krav.
+2. DEFINITIONER MAGNETOLEDNING:
+ En magnetoledning er en 2-tråds transmissionsstrækning - kabel eller  
+
+ multiplekssystem - mellem en PABC og det fastkoblede telefonnets  
+
+ transmissionsudstyr, med ringesignalering.
+4-TRÅDSLEDNING MED E/M-SIGNALERING En 4-trådsledning med E/M-signalering er en 8-tråds forbindelse - kabel  
+
+ eller multiplekssystem - mellem en PABC og det fastkoblede telefonnets  
+
+ transmissionsudstyr.
+ De to trådpar anvendes til overførsel af tale/data og to andre trådpar til  
+
+ signaleringsformål.
+Tale modtage-PABC Ved tale modtage-trådpar (Tma/b p) forstås PABC'ens taletråde til  
+
+ modtagelse af tale fra transmissionsudstyrets tale sende tråd.
+Tale modtage-transmissionsudstyr DEFINITIONSSKITSE MAGNETOLEDNINGER DEFINITIONSSKITSE 4-TRÅDSLEDNINGER MED E/M-SIGNALERING 3 TEKNISKE OPLYSNINGER 1. JÆVNSTRØMSFORHOLD 1.1. FØDESPÆNDING Der strømfødes ikke på sådanne ledninger fra det fastkoblede telefonnet.
+1.2. LEDNINGSMODSTAND Magneto ledninger er normalt fremført som metaltrådsledninger - kobber  
+
+ eller aluminium - i jordkabel; i nogle tilfælde dog som pupiniserede  
+
+ ledninger eller via multiplekssystemer.
+Den samlede ækvivalente jævnstrømsmodstand af magnetoledningen, set fra  
+
+ dennes tilslutningspunkter i det fastkoblede telefonnets linieside til de  
+
+ tilsvarende punkter i PACB-installationen, vil ligge i intervallet 0-1600 ohm 1.3. ISOLATIONSMODSTAND Definition:
+ Ved isolationsmodstand forstås den samlede virkning af afledningsmodstande  
+
+ i kabler.
+ Værdiområde:
+ Isolationsmodstandens sammensætning er vist på fig. 1.3.
+2. EGENSKABER VED RINGEFREKVENS 2.1. JÆVNSTRØMSKOMPONENT UNDER RINGNING Under ringning fra det fastkoblede telefonnet kan ringespændingen være  
+
+ overlejert en jænvspænding på -44 til -56 volt i forhold til jord.
+3. DRIFTSSPECIFIKATION FOR RINGESIGNAL FRA DET FASTKOBLEDE TELEFONNET Definition:
+ Ved ringesignal fra det fastkoblede telefonnet forstås ringespænding, der  
+
+ sendes fra det fastkoblede telefonnet mod PABC.
+ Signalkode:
+ Ringespænding målt over ubelastet ledning og med ringegeneratoren belastet  
+
+ for tomgang til fuld last max. 120 V eff.
+ Ringespænding målt over ledningen med længde 0 og afsluttet med 4000 ohm i  
+
+ serie med 20 myF og med ringegeneratoren belastet fra tomgang til fuld last  
+
+ min. 80 V eff.
+ Signalprogram:
+ Ringning (et signal) min. 500 ms.
+2. 4-TRÅDSLEDNINGER MED E/M SIGNALERING 1. JÆVNSTRØMSFORHOLD 1.1. SLØJFEMODSTAND PR.
+TRÅDPAR 4-trådsledninger med E/M signalering er normalt fremført som  
+
+ metaltrådsledninger - kobber eller aluminium - i jordkabel; i nogle tilfælde  
+
+ dog som pupiniserede ledninger eller via multiplekssystemer.
+ Den samlede akvivalente jævnstrømsmodstand pr. trådpar af 4-trådsledningen  
+
+ med E/M signalering, set fra dennes tilslutningspunkter i det fastkoblede  
+
+ telefonnets linieside til de tilsvarende punkter i PABC-installationen, vil  
+
+ ligge i intervallet:
+0-1600 ohm 1.2. ISOLATIONSMODSTAND Definition Ved isolationsmodstand forstås den samlede virkning pr. trådpar af  
+
+ afledningsmodstanden i kabler.
+ Værdiområde:
+ Isolationsmodstandens sammensætning er vist i fig. 1.2.
+4. SIGNALFORVRÆNGNING Den maximale signalforvrængning på en forbindelse gennem det fastkoblede  
+
+ telefonnet er 16 ms.
+5. SIGNALFORSINKELSE Ved signalering på en forbindelse gennem det fastkoblede telefonnet kan  
+
+ forekomme følgende signalforsinkelser:
+4 TEKNISKE KRAV INDHOLDSFORTEGNELSE 1. MAGNETOLEDNINGER 1. JÆVNSTRØMSFORHOLD 1.1. ISOLATIONSMODSTAND 1.2. STRØMFØDNING 2. FORHOLDENE VED RINGEFREKVENS 2.1. IMPEDANS MELLEM A- OG B-LEDER 2.2. IMPEDANS MELLEM A/B-LEDER OG JORD 2.3. ELEKTRISK BELASTNING VED RINGESPÆNDING 3. RINGNING MOD DET FASTKOBLEDE TELEFONNET 3.1. RINGNING 3.2. ELEKTRISK BELASTNING - KORTSLUTNING 4. MAXIMALE NIVEAUER MOD DET FASTKOBLEDE TELEFONNET 4.1. MAXIMALE NIVEAUER - SPIDSVÆRDIER 4.2. MAXIMALE NIVEAUER - TALE OG MUSIK 4.3. MAXIMALE NIVEAUER - KODESIGNALER 4.4. MAXIMALE NIVEAUER - ØVRIGE SIGNALER 2. 4-TRÅDSLEDNINGER MED E/M SIGNALER 1. JÆVNSTRØMSFORHOLD FOR TALETRÅDE 1.1. ISOLATIONSMODSTAND FOR TALETRÅDE 1.2. MAXIMALE SPÆNDINGER 2. MAXIMALE NIVEAUER MOD DET FASTKOBLEDE TELEFONNET 2.1. MAXIMALE NIVEAUER - SPIDSVÆRDIER 2.2. MAXIMALE NIVEAUER - TALE OG MUSIK 2.3. MAXIMALE NIVEAUER - KODESIGNALER 2.4. MAXIMALE NIVEAUER - ØVRIGE SIGNALER 3. JÆVNSTRØMSFORHOLD FOR SIGNALTRÅDE 3.1. ISOLATIONSMODSTAND 3.2. E -SIGNALMODTAGER p 3.3. M -SIGNALGIVER p 1. MAGNETOLEDNINGER 1. JÆVNSTRØMSFORHOLD 1.1. ISOLATIONSMODSTAND I rotilstand skal isolationsmodstanden af den samlede PABC-installation  
+
+ opfylde følgende krav:
+ Isolationsmodstand mellem a- og b-leder og jord > 10 Mohm.
+ Princip for målingen er anført i måleopstilling 2.1.1.
+ Dersom PABC-installationen er sikret mod overspændinger ved hjælp af  
+
+ overspændingsafledere mellem a- og b-lederne og mellem hver af disse og jord,  
+
+ skal ovennævnte krav til isolationsmodstandene dog kun være opfyldt, når  
+
+ overspændingsaflederne er slukkede.
+ Overspændingsaflederne skal have en tændspænding på min. 250 volt og en  
+
+ slukkespænding på mindst 60 volt.
+ Målinger for verifikation af ovennævnte, fortages som anført i  
+
+ måleopstillingerne 2.1.2. og 2.1.3.
+1.2. STRØMFØDNING Der må ikke foretages DC strømfødning af magnetoledningen, hvilket skal  
+
+ kunne dokumenteres.
+2. FORHOLDENE VED RINGEFREKVENS 2.1. IMPEDANS MELLEM A- OG B-LEDERE For ringespændinger mellem 30 og 120 volt med frekvenserne 20-55 Hz  
+
+ overlejret med en jævnspænding på - 44 til -56 volt må  
+
+ strøm-spændingskarakteristikken ikke overskride de i fig. 2.1 viste kurver.
+ Strøm-spændingskarakteristikken kontrolleres som angivet i måleopstilling  
+
+ 2.1.4.
+2.2. IMPEDANS MELLEM A/B-LEDER OG JORD Impedansen mellem magnetoledningskredsens kortsluttede linieklemmer og  
+
+ jord/stel skal have en numerisk værdi på mindst 1 Mohm ved vekselspændinger  
+
+ med effektivværdi op til 120 V og frekvenser op til 55 Hz.
+ Princip for målingen er anført i måleopstilling 2.1.5.
+2.3 ELEKTRISK BELASTNING VED RINGESPÆNDING Magnetoledningskredsen skal - uden at forårsage sekundære skader - kunne  
+
+ tåle den energi, der tilføres, når der i 3000 ms efter etablering af  
+
+ samtaletilstand påtrykkes linieklemmerne en jævnspænding på 56 V overlejret  
+
+ med en 55 Hz vekselspænding på 130 V eff. gennem en modstand på 500 ohm.
+ Princip for målingen er anført i måleopstilling 2.1.6.
+3. RINGNING MOD DET FASTKOBLEDE TELEFONNET 3.1. RINGNING Definition Ved ringesignal forstås ringespænding, der sendes mod det fastkoblede  
+
+ telefonnet fra PABC'en.
+ Ringespændingen må være overlejret med en jævnspændding, der er PABC'ens  
+
+ fødespænding, i intervallet 0 til - 56 volt.
+ Signalkode:
+ Målt over en ledning med længde 0 og afsluttet med 4000 ohm i serie med 20  
+
+ microF og med ringegeneratoren belastet fra tomgang til fuld last, må en  
+
+ enkelt overtones amplitude ikke udgøre mere end 10% af grundtonens amplitude.
+ Princip for måling er anført i måleoptillinger 2.1.8.
+3.2. ELEKTRISK BELASTNING-KORTSLUTNING Magnetoledningskredsen - skal uden at forårsage sekundære skader - kunne  
+
+ tåle kortslutning eller jording af linieklemmerne under ringning.
+ Princip for målingen er anført i måleopstillinger 2.1.9.
+ 4. MAXIMALE NIVEAUER MOD DET FASTKOBLEDE TELEFONNET.
+4.1 MAXIMALE NIVEAUER-SPIDSVÆRDIER Fra magnetoledningskredsen må der ikke afgives vekselspændinger med  
+
+ øjebliksværdier, der overstiger 3,5 V mellem linieklemmerne.
+ Princip for målingen som anført i måleopstillinger 2.1.10.
+4.2 MAXIMALE NIVEAUER-TALE OG MUSIK Fra magnetoledningskredsen i samtaletilstand må der, ved sending af  
+
+ vekselstrømme hidrørende fra tale og musik, ikke afgives effekter, som i  
+
+ middel i noget tidsrum af 3s varighed overstiger 100 microW (-10dBm), når  
+
+ linieklemmerne er belastet med en modstand på 600 ohm.
+ Princip for målingen er anført i måleopstilling 2.1.11.
+4.3. MAXIMALE NIVEAUER-KODESIGNALER Fra magnetoledningskredsen i samtaletilstand må der, ved sending af  
+
+ kodesignaler i form af vekselstrømme, ikke afgives effekter, som i middel i  
+
+ noget tidsrum af 0,2s varighed overstiger 100 microW, når linieklemmerne er  
+
+ belastet med en modstand på 600 ohm.
+ Princip for målingen er anført i måleopstillinger 2.1.12.
+4.4. MAXIMALE NIVEAUER-ØVRIGE SIGNALER Det skal kunne dokumenteres, at kravene er overholdt for alle  
+
+  indbyggede signaler.
+ Anvendes eksterne signalkilder dokumenteres, at kravene ved hjælp af  
+
+ installationsdokumentation eller lignende - kan overholdes.
+2. 4-TRÅDS LEDNINGER MED E/M SIGNALERING 1. JÆVNSTRØMSFORHOLD FOR TALETRÅDE 1.1. ISOLATIONSMODSTAND FOR TALETRÅDE I rotilstand skal isoleringsmodstanden, for hver af de to taleretninger,  
+
+ opfylde følgende krav:
+ Isolationsmodstand mellem a- og b-leder og jord > 10 Mohm.
+ Princip for målingen er anført i måleopstilling 2.2.1.
+ Dersom ledningerne er sikret mod overspændinger ved hjælp af  
+
+ overspændingsafledere mellem a/b-lederne og jord, skal ovennævnte krav til  
+
+ isoleringsmodstanden dog kun være opfyldt, når overspændingsaflederne er  
+
+ slukkede.
+ Overspændingsaflederne skal have en tændspænding på min. 250 volt og en  
+
+ slukkespænding på mindst 60 volt.
+ Princip for målingen er anført i måleopstilling 2.2.2.
+1.2. MAXIMALE SPÆNDINGER Mellem linieklemmerne for hver af de to taleretninger, må der ikke  
+
+ forekomme jævnspændinger, hvilket skal kunne dokumenteres.
+2. MAXIMALE NIVEAUER MOD DET FASTKOBLEDE TELEFONNET 2.1. MAXIMALE NIVEAUER-SPIDSVÆRDIER Fra 4-trådsledningskredsen må der ikke afgives vekselspændinger på  
+
+ dendetrådene med øjebliksværdier der overstiger 3.5 V mellem linieklemmerne.
+ Princip for målingen som anført i måleopstilling 2.2.3.
+2.2. MAXIMALE NIVEAUER - TALE OG MUSIK Fra 4-trådsledningskredsen i samtaletilstand må der ved sending - på tale  
+
+ sende trådene - af vekselstrømme hidrørende fra tale og musik ikke afgives  
+
+ effekter, som i middel i noget tidsrum af 3 s varighed overstiger 100 microW  
+
+ (-10 dBm), når linieklemmerne er belastet med en modstand på 600 ohm.
+ Princip for målingen er anført i måleopstilling 2.2.4.
+2.3. MAXIMALE NIVEAUER-KODESIGNALER Fra 4-trådsledningskredsen i samtaletilstand, må der ved sending - på tale  
+
+ sende trådene - af kodesignaler i form af vekselstrømme ikke afgives  
+
+ effekter, som i middel i noget tidsrum af 0,2s varighed overstiger 100 microW  
+
+ (-10 dBm), når linieklemmerne er belastet med en modstand på 600 ohm.
+ Princip for måling er anført i måleopstilling 2.2.5.
+2.4. MAXIMALE NIVEAUER ØVRIGE SIGNALER Det skal kunne dokumenteres, at kravene er overholdt for alle  
+
+  indbyggede signaler.
+ Anvendes eksterne signalkilder dokumenteres, at kravene - ved hjælp af  
+
+ installationsdokumentation eller lignende - kan overholdes.
+3. JÆVNSTRØMSFORHOLD FOR SIGNALTRÅDE 3.1. ISOLATIONSMODSTAND I rotilstand skal isolationsmodstanden af signaltrådene opfylde følgende  
+
+ krav:
+ Princip for måling er anført i måleopstilling 2.2.6.
+ Dersom PABC-installationen er sikret mod overspændinger ved hjælp af  
+
+ overspændingsafledere mellem hvert signalpars to ledere og jord, skal  
+
+ ovennævnte krav til isolationsmodstandene dog kun være opfyldt, når  
+
+ overspændingsaflederne er slukkede.
+ Overspændingsaflederne skal have en tændspænding på min. 250 volt og en  
+
+ slukkespænding på mindst 60 volt.
+ Princip for måling er anført i måleopstilling 2.2.7.
+3.2. Ep-SIGNALMODTAGER 0 til -56 V, og have en indre modstand på min 2000 ohm.
+ Princip for måling er anført i måleopstilling 2.2.8.
+3.3. Mp-SIGNALGIVER kontaktslutninger - og åbninger gennem henholdsvis max. 200 ohm og min.  
+
+ 100 Kohm.
+ Princip for måling er anført måleopstillilng 2.2.9.
+5 MÅLEOPSTILLINGER 1. Generelt De i figurerne angivne måleprincipper er vejledende.
+ Andre måleopstillinger kan anvendes hvis kravene kan verificeres.
+ De angivne diskrete værdier for uafhængige variabler - f.eks. strøm og  
+
+ frekvens - er minimumskrav til antallet af målepunkter.
+1.1. KONDITIONERING Hvis intet andet er angivet, skal PABC'en være tændt i 30 min. inden  
+
+ målingerne påbegyndes.
+ Vedrører målingerne statiske forhold i åben eller lukket sløjfe, skal  
+
+ PABC'en være bragt i den pågældende tilstand i så god tid før målingen, at  
+
+ tilstanden er stabil.
+ Alle målinger foretages på PABC'ens linieklemmer-tilslutningspunkter for  
+
+ ledningen.
+ Rekvirenten medsender specifikation af tilslutningspunkter samt eventuelt  
+
+ nødvendigt stikmateriel.
+1.2. FUNKTIONSPRØVE Som en simpel kontrol af PABC'en inden den egentlige afprøvning, foretages  
+
+ en funktionsprøve, der gentages før og efter belastnings- og miljøprøver.
+ Rekvirenten angiver hvorledes funktionsprøven skal gennemføres, idet denne  
+
+ skal omfatte såvel afgående som ankommende kald.
+1.3. JORD/STEL Alle terminaler som er eller kan være vekselstrømsmæssigt jordforbundne  
+
+ under normal drift, skal være forbundet til stel eller udvendigt tilgængelige  
+
+ metaldele under målinger, der benytter jord/stel.
+Rekvirenten angiver  
+
+ hvorledes disse terminaler forbindes.
+ Hvis der ikke findes stel eller udvendigt tilgængelige metaldele anbringes  
+
+ PABC'en på en metalplade af mindst samme størrelse, som udstyrets grundflade.  
+
+ Eventuelle jordforbundne terminaler og målepunkter forbindes til metalpladen.
+1.4. JÆVNSTRØMSFØDNING Jævnstrømsfødning med samtidig påtrykning af vekselspænding kan foregå på  
+
+ flere måder, f.eks. ved hjælp af de i fig. 1.4. viste måleopstillinger, i  
+
+ hvilke den numeriske værdi af jævnstrømskildens impedans principielt er 0  
+
+ ohm.
+1.5. MÅLEUSIKKERHED Det forudsættes, at målingerne sker med den nødvendige nøjagtighed.
+Er der  
+
+ tvivl om, at kravene opfyldes, pålægges det den prøvende instans at redegøre  
+
+ for målingernes nøjagtighed.
+1.6. ANVENDTE SYMBOLER 2. MÅLEOPSTILLINGER 2.1. MAGNETOLEDNINGER 2.1.1. ISOLATIONSMODSTAND Måleopstillinger:
+ Procedure:
+ Isolationsmodstanden måles med PABC'en både i ro og samtaletilstand, med  
+
+ målespændingen 250 v og omskifteren i begge stillinger.
+ Parametergrænser:
+U - > 10 Mohm 1 Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord eller stel.
+2.1.2. ISOLATIONSMODSTAND MELLEM A- OG B-LEDER -  
+
+ OVERSPÆNDINGAFLEDER Måleopstilling:
+ Procedure:
+E forøges (højst 500 V) indtil overspændingsaflederen tænder.
+Herefter  
+
+ afbrydes E inden 0,5 s, og det kontrolleres, at kravet er overholdt.
+Dette  
+
+ gentages med omskifter i anden stilling.
+ Parametergrænser:
+ Tænding af overspændingsafleder min 250 V.
+ Slukning af overspændingsafleder min. 60 V.
+ 2.1.3. ISOLATIONSMODSTAND MELLEM A/B-LEDER OG JORD -  
+
+ OVERSPÆNDINGSLEDER.
+ Måleopstilling:
+ Procedure:
+Herefter afbrydes E inden 0,5 s, og det kontrolleres, at kravet er  
+
+ overholdt.
+Dette gentages med omskifter i anden stilling.
+ Parametergrænser:
+U - > 10 Mohm.
+I Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord eller stel.
+2.1.4. IMPEDANS MELLEM A- OG B-LEDER Måleopstilling:
+ Procedure:
+ Strøm-spændingskrakteristikken måles med f - 25 Hz og u - 45V, 90V og 120V  
+
+ med et effektivmålende voltmeter og amperemeter.
+ Paramtergrænser:
+ Strøm-spændingskrakteristikken må ikke overskride den i fig. 2.1.4.2.  
+
+ viste kurve.
+2.1.5. IMPEDANS MELLEM A/B-LEDER OG JORD Måleopstilling:
+ Procedure:
+ Impedansen ved 55 Hz måles ved en spænding på 120 V eff.
+ Parametergrænser:
+U - > 1 Mohm I 2.1.6. ELEKTRISK BELASTNING VED RINGESPÆNDING Måleopstillling:
+ Procedure:
+ Efter etablering af samtaletilstand, lukkes kontakten i 3000 ms, og der  
+
+ kontrolleres for farlig varmeafgivelse.
+2.1.7. RINGEFREKVENS OG SIGNALPROGRAM Måleopstilling:
+ Procedure:
+ PABC'en bringes i en tilstand, hvor der ringes på magnetolinieklemmerne.  
+
+ Frekvensen måles og ringningens længde dokumenteres ved oscilloscopbillede  
+
+ eller lignende.
+ Paramtergrænser:
+ Frekvens: 25 Hz +/- 2,5 Hz eller 50 Hz +/- 5 Hz.
+ Signalprogram: 2400 ms < t < 3000 ms.
+2.1.8. Ringespændinger Måleopstilling:
+ Procedure:
+ PABC'en bringes i en tilstand, hvor der ringes på magnetolinieklemmerne.  
+
+ Spændingens værdi måles med et effektivmålende instrument og med et  
+
+ psofometrisk visende instrument.
+ Overtoneindholdet beregnes udfra et selektivt målende instrument.
+ Parametergrænser:
+ Overtoneindhold < 10%.
+2.1.9. ELEKTRISK BELASTNING - KORTSLUTNING Måleopstilling Procedure:
+Ringning startes mod magnetolinieklemmerne.
+Umiddelbart efter kortsluttes  
+
+ kontakten.
+Der kontrolleres for farlig varmeafgivelse.
+2.1.10. MAXIMALE NIVEAUER-SPIDSVÆRDI Måleopstilling:
+ Procedure:
+ Med afsendelse af mulige signaler - tale, musik og toner - måles  
+
+ spidsværdien af disse, med et båndbegrænset spidsværdimålende instrument.
+ Parametergrænser:
+ u < 3,5 V.
+ Kommentar:
+ Rekvirenten angiver procedurer for at sende de mulige indbyggede signaler  
+
+ - tale, musik og toner - mod magnetolinieklemmerne.
+2.1.11. MAXIMALE NIVEAUER - TALE OG MUSIK Måleopstilling:
+ Procedure:
+ Med afsendelse af mulige musik/talesignaler fra indbygget eller eksternt  
+
+ udstyr måles totaleffekten med et effektivtvisende instrument med en  
+
+ integrationstid på 3 s.
+ Parametergrænser:
+ Musik/tale < -10 dBm.
+2.1.12. MAXIMALE NIVEAUER - KODESIGNALER Måleopstilling Procedure:
+ Med afsendelse af mulige kodesignaler fra indbygget eller eksternt udstyr  
+
+ måles totaleffekten med et effektivmålende instrument med en integrationstid  
+
+ på 0,2 s.
+ Parametergrænser:
+ Kodesignaler < -10dBm.
+2.2. 4-TRÅDSLEDNINGR MED E/M SIGNALERING 2.2.1. ISOLATIONSMODSTAND MELLEM A/B-LEDER OG JORD Måleopstilling:
+ Procedure:
+ Isolationsmodstanden måles med PABC'en i både ro- og samtalestilling - med  
+
+ målespændingen 250 V og omskifter i begge stilllinger - for begge par  
+
+ taletråde.
+ Parametergrænser:
+U - > 10 Mohm I Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord eller stel.
+2.2.2. ISOLATIONSMODSTAND MELLEM A/B-LEDER OG JORD -  
+
+ OVERSPÆNDINGSAFLEDER Måleopstilling:
+ Procedure:
+ Herefter afbrydes E inden 0,5 S, og det kontrolleres, at kravet er  
+
+ overholdt.
+ Dette gentages med omskifter i anden stilling og for begge par taletråde.
+ Parametergrænser:
+U - > 10 Mohm I Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord eller stel.
+2.2.3. MAXIMALE NIVEAUER - SPIDSVÆRDI Måleopstillling:
+ Procedure:
+ Med afsendelse af mulige signaler - tale, musik og toner - måles  
+
+ spidsværdien af disse, med et båndbegrænset spidsværdimålende instrument.
+ Parametergrænser:
+u < 3,5 V Kommentar:
+ Rekvirenten angiver procedurer for at sende de mulige indbyggede signaler  
+
+ - tale, musik og toner - mod 4-trådslinieklemmerne.
+2.2.4. MAXIMALE NIVEAUER - TALE OG MUSIK Måleopstilling:
+ Procedure:
+ Med afsendelse af mulige musik/tale signaler fra indbygget eller eksternt  
+
+ udstyr måles totaleffekten med et effektivtvisende instrument med en  
+
+ integrationstid på 3 s.
+ Parametergrænser:
+ Musik/tale < -10dBm.
+2.2.5. MAXIMALE NIVEAUER- KODESIGNALER Måleopstilling:
+ Procedure:
+ Med afsendelse af mulige kodesignaler fra indbygget eller eksternt udstyr  
+
+ måles totaleffekten med et effektivtivsende instrument med en integrationstid  
+
+ på 0,2 s.
+ Parametergrænser:
+ Kodesignaler < -10 dBm.
+Måleopstilling Procedure:
+Isolationsmodstanden måles med 250 V med omskifteren i begge Parametergrænser:
+U - > 10 Mohm I OVERSPÆNDINGSAFLEDER Måleopstillling:
+ hvor U = tændspændingen.
+Herefter afbrydes E inden 0,5 s, og det kontrolleres, at kravet er  
+
+ overholdt.
+Målingen gentages med omskifteren i den anden stilling.
+ Parametergrænser:
+U - > 10 Mohm I Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord eller stel.
+ Måleopstilling:
+ Procedure:
+ Spændingen U måles med åben kontakt.
+ Herefter lukkes kontakten og strømmen I aflæses.
+ Parametergrænser:
+ - 56 V < U < 0 V.
+U - > 2000 ohm I Måleopstilling:
+ Procedure:
+ PABC'en bringes i en stilling, hvor signalkontakten er lukket.
+ Herefter måles I og U, og den indre modstand beregnes:
+Herefter åbnes kontakten, og den indre modstand - R - beregnes io efter samme metode.
+ Parametergrænser:

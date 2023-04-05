@@ -1,0 +1,983 @@
+ Nærværende specifikationer repræsentere de minimumskrav, som modtagere for  
+
+ enkeltsidebånds-radiotelefoni i mellem- og kortbølgebåndet må opfylde, for at  
+
+ de af post- og telegrafvæsenet kan godkendes til brug ombord i danske skibe.
+ Ved udarbejdelsen af disse specifikationer og målemetoder er der taget  
+
+ vidtgående hensyn til det internationale arbejde, post- og telegrafvæsenet  
+
+ sammen med andre landes administrationer deltager i for opnåelse af en  
+
+ harmonisering af specifikationer for maritime enkeltsidebåndsanlæg.
+ Det må forventes, at nærværende bestemmelser kan blive underkastet  
+
+ ændringer som følge af de fortsatte bestræbelser på at opnå internationalt  
+
+ ensartede målemetoder og specifikationer, eller som følge af eventuelle andre  
+
+ forhold, f.eks. af teknisk eller operationel art, som kan nødvendiggøre  
+
+ ændringer.
+Nærværende bestemmelser er gældende indtil videre og vil med øjeblikkelig  
+
+ virkning blive benyttet ved afprøvning af maritime enkeltsidebåndsanlæg.  
+
+ Indholdsfortegnelse. sid e 1. Almindelige regler for anvendelse af  
+
+ enkeltsidebånds-telefonimodtagere i den maritime tjeneste. 7 1.1. Frekvensområder.
+ 1.2. Bølgetyper og bærebølgeniveau.
+ 1.3. Sidebånd.
+1.4. Bemærkning vedrørende vagtmodtager. 2. Almindelige krav til  
+
+ opbygningen af udstyret. 8 3. Målebetingelser. 12 3.1. Normale målebetingelser.
+ 3.2. Specielle målebetingelser.
+ 3.3. Kunstantenne.
+ 3.4. Prøvesignaler.
+3.5. Standard udgangseffekt. 4. Kanalantal, frekvensafstemning. 14 4.1. Frekvensområdet 1605 - 4000 kHz.
+ 4.2. Frekvensområdet 4 - 27,5 MHz.
+ 4.3. Frekvensfinafstemning.
+4.4. Bemærkning. 5. Frekvensnøjagtighed. 17 5.1. Definition.
+ 5.2. Målemetode.
+ 5.3. Målebetingelser.
+5.4. Krav. 6. Frekvensstabilitet. 19 6.1. Definitioner.
+ 6.2. Målemetode for korttidsstabilitet.
+ 6.3. Målebetingelser for korttidsstabilitet.
+ 6.4. Krav til korttidsstabilitet.
+ 6.5. Målemetode for langtidsstabilitet.
+ 6.6. Målebetingelser for langtidsstabilitet.
+6.7. Krav til langtidsstabilitet. 7. Følsomhed. 21 7.1. Definition.
+ 7.2. Målemetode.
+ 7.3. Krav ved bølgetype A3A og A3J.
+7.4. Krav ved bølgetype A3 og A3H. 8. Enkeltsignalselektivitet. 22 8.1. Målemetode.
+ 8.2. Krav.
+8.3. Bemærkning. 9. Dæmpning ved mellemfrekvens. 23 9.1. Definition.
+ 9.2. Målemetode.
+9.3. Krav. 10. Dæmpning ved spejlfrekvens. 24 10.1 Definition.
+ 10.2. Målemetode.
+10.3. Krav. 11. Dæmpning af uønskede signaler (spurious). 25 11.1. Definition.
+ 11.2. Målemetode.
+11.3. Krav. 12. Blokering. 26 12.1. Målemetode.
+12.2 Krav. 13. Højfrekvensintermodulation. 27 13.1 Målemetode.
+13.2. Krav. 14. Krydsmodulation. 29 14.1. Målemetode ved bølgetype A3A og A3J.
+ 14.2. Målemetode ved bølgetype A3 og A3H.
+ 14.3. Krav ved bølgetype A3A og A3J.
+14.4. Krav ved bølgetype A3 og A3H. 15. Automatisk volumenkontrol. 30 15.1. Målemetode.
+ 15.2. Krav.
+15.3. Stigetid og afladetid. 16. Udstråling. 31 16.1. Definition.
+ 16.2. Målemetode.
+16.3. Krav. 17. Udgangseffekt. 32 17.1. Definition.
+ 17.2. Målemetode.
+17.3. Krav. 18. Modulationsfrekvenskarakteristik. 33 18.1. Definition.
+18.2. Målemetode, 18.3. Krav. 19. Ulineær forvrængning. 34 19.1. Definition.
+ 19.2. Målemetode ved bølgetype A3A og A3J.
+ 19.3. Målemetode ved bølgetype A3 og A3H.
+ 19.4. Krav ved bølgetype A3A og A3J.
+19.5. Krav ved bølgetype A3 og A3H. 20. Bestemmelser vedrørende  
+
+ godkendelse af anlæg. 35 20.1. Indsendelse af anmodning om afprøvning.
+ 20.2. Indsendelse af anlæg til afprøvning.
+20.3. Godkendelse.
+Kurveblad 1. Kurveblad 2. 1. Almindelige regler for  
+
+ anvendelse af enkeltsidebåndstelefonimodtagere i den maritime tjeneste. 1.1.  
+
+ Frekvensområder.
+Modtageren skal kunne afstemmes til et antal frekvenser (se  
+
+ afsnit 4) i frekvensområdet 1605 - 4000 kHz og/eller frekvensområdet 4 - 27,5  
+
+ MHz, sidstnævnte område i følgende bånd:
+ 2.1. Konstruktion.
+ 2.1.1. Konstruktionen skal være i overensstemmelse med god ingeniørmæssig  
+
+ praksis under iagttagelse af rimelige sikkerhedsmæssige hensyn.
+ 2.1.2. De indvendige dele af modtageren skal være let tilgængelige for  
+
+ inspektion og reparation.
+2.1.3. I modtagere, der ved krystalstyring afstemmes til et antal faste  
+
+ frekvenser, skal krystalholdere placeres så hensigtsmæssigt som muligt,  
+
+ således at indsætning og skiftning af krystaller på rimeligt simpel måde kan  
+
+ foretages af en kyndig person. 2.2. Vibrationer, fugtighed m.m.
+Modtageren  
+
+ skal kunne modstå sådanne vibrationer, fugtighedsgrader,  
+
+ temperaturvariationer og variationer i forsyningsspænding, som kan optræde  
+
+ ombord på skibe, og skal fortsat være fuldt funktionsdygtig under sådanne  
+
+ forhold. 2.3. Jordforbindelse.
+ 2.3.1. På modtagerens kabinet skal der være tilslutningsmulighed for en  
+
+ jordledning.
+ 2.3.2. Ingen af modtagerens forsyningsklemmer må være forbundet til  
+
+ ovennævnte jordklemme. 2.4. Overspændingsbeskyttelse.
+ 2.4.1. Modtageren skal være beskyttet mod virkninger af overspændinger,  
+
+ overstrømme, transienter og polvending af forsyningsspændingen.
+ 2.4.2. Såfremt modtageren kan drives fra et akkumulatorbatteri, skal den i  
+
+ mindst 5 minutter kunne tåle en overspænding på 25% i forhold til nominel  
+
+ batterispænding.
+ 2.4.3. Modtageren skal kunne tåle, at der på antenneklemmerne påtrykkes en  
+
+ højfrekvensspænding på 30 volt (effektivværdi) med vilkårlig frekvens inden  
+
+ for de maritime bånd i frekvensområdet 400 kHz - 27,5 MHz. 2.5.  
+
+ Lavfrekvensudgang.
+ 2.5.1. Tilslutningsmulighed for både hovedtelefon og udvendig højttaler  
+
+ skal forefindes.
+ 2.5.2. Tilslutningsklemmerne for hovedtelefon skal være jævnspændingsfrie.
+2.5.3. Højttaleren skal kunne frakobles. 2.6. RF kontrol.
+Manuel  
+
+ højfrekvens og/eller mellemfrekvens styrkekontrol skal forefindes. 2.7.  
+
+ Automatisk volumenkontrol.
+ 2.7.1. Modtageren skal være forsynet med en automatisk virkende  
+
+ volumenkontrol.
+ 2.7.2. Den automatiske volumenkontrol skal kunne fungere på alle de  
+
+ bølgetyper, modtageren er indrettet for.
+2.7.3. Den automatiske volumenkontrol skal ved hjælp af et betjeningsgreb  
+
+ kunne sættes ud af funktion. 2.8. Støjbegrænser.
+Såfremt modtageren er  
+
+ forsynet med en støjbegrænser, skal denne kunne sættes ud af funktion. 2.9.  
+
+ LF kontrol.
+En manuel styrkekontrol (volumenkontrol) for lavfrekvenssignalet  
+
+ skal forefindes. 2.10. Skift mellem bølgetyper.
+Skift fra een bølgetype til  
+
+ en anden bølgetype skal kunne foretages ved hjælp af kun eet betjeningsgreb.  
+
+ 2.11. Finafstemning af frekvens (»speech clarifier«).
+2.11.1. Modtageren skal være forsynet med en finafstemningskontrol med  
+
+ maksimalt 2 Hz variation pr. grads drejning af betjeningshåndtaget.
+For  
+
+ modtagere med afstemning til faste kanalfrekvenser skal  
+
+ finafstemningskontrollen endvidere have et variationsområde på mindst  
+
+ plus/minus 200 Hz.
+ 2.11.2. Det anbefales, at frekvensfinafstemningen sker ved indvirkning på  
+
+ en oscillator beliggende før de egentligt selektivitetsgivende trin. 2.12.  
+
+ Opvarmningstid.
+ 2.12.1. Senest 1 minut efter at være tilsluttet forsyningsspændingen skal  
+
+ modtageren være fuldt driftsklar, hvorved forstås, at samtlige krav i  
+
+ nærværende specifikationer skal være opfyldt.
+2.12.2. Er udstyret forsynet med krystalovn eller andre kredsløb, som  
+
+ kræver længere opvarmningstid end 1 minut, tillades for disse kredse en  
+
+ opvarmningstid på maksimalt 30 minutter, forudsat at den nødvendige  
+
+ forsyningsspænding til de pågældende kredse ikke kan afbrydes med den på  
+
+ modtagerens kabinet anbragte normale driftsafbryder.
+Disse kredse skal  
+
+ således kunne tilføres forsyningsspænding uden at modtageren iøvrigt  
+
+ aktiveres, og i betjeningsvejledningen skal den nødvendige opvarmningstid  
+
+ tydeligt anføres.
+2.12.3. Ovennævnte kredsløb skal være dimensioneret for kontinuerlig  
+
+ drift, og såfremt der på modtagerens kabinet findes en særlig afbryder for  
+
+ disse kredse, skal denne afbryders funktion klart fremgå af opmærkningen, og  
+
+ i betjeningsvejledningen skal være anført, at disse kredsløb normalt skal  
+
+ være tilsluttet forsyningsspænding, således at modtagerens opvarmningstid  
+
+ ikke overskrider 1 minut. 2.13. Driftstid.
+Modtageren skal være indrettet for  
+
+ kontinuerlig drift. 2.14. Frekvensskift.
+Skift fra een frekvens til en anden  
+
+ inden for hvert af båndene 1605 - 4000 kHz og 4 - 27,5 MHz skal kunne ske i  
+
+ løbet af højst 15 sekunder. 2.15. Frekvensvalg.
+Der skal være mulighed for,  
+
+ at modtagerfrekvenserne kan vælges uafhængigt af sendefrekvenserne. 2.16.  
+
+ Duplex Den normale driftsform ved korrespondance med kyststationer er duplex,  
+
+ og udstyret skal derfor være indrettet herfor. 2.17. Skift mellem sending og  
+
+ modtagning.
+ 2.17.1. Samtlige installationer skal være således indrettet, at den tid,  
+
+ der i de tilfælde, hvor duplex ikke anvendes, er nødvendig for overgang  
+
+ mellem sending og modtagning bliver så kort som mulig.
+2.17.2. For at muliggøre hurtig overgang mellem sending og modtagning  
+
+ skal, når manuel omstilling anvendes, skifteanordningen være en ikke låsende  
+
+ omskifter indbygget i mikrotelefonen eller mikrofonen.
+Når omskifteren ikke  
+
+ er nedtrykket, skal anlægget være i modtagestilling. 2.18. Opmærkning m.m.
+ 2.18.1. Funktionen af alle måleinstrumenter, kontrollamper,  
+
+ tilslutningsklemmer, betjeningsgreb samt betjeningsgrebenes positioner skal  
+
+ være tydeligt angivet på modtageren.
+2.18.2 Modtageren skal være mærket med fabrikat, typebetegnelse og  
+
+ løbenummer.
+Dette gælder også det eksemplar, der indleveres til  
+
+ typegodkendelse.
+Mærkningen skal være således placeret på modtageren, at den  
+
+ er let synlig, når modtageren er anbragt i normal position.
+2.18.3. Mærkningen skal være mekanisk solid og holdbar og kan f.eks. ske  
+
+ ved gravering eller prægning eller ved anvendelse af metalskilt. 3.  
+
+ Målebetingelser.
+Om radioudstyr til brug ombord i skibe gælder det  
+
+ almindeligt, at udstyret skal kunne modstå og stadigt være fuldt  
+
+ funktionsdygtigt under de vekslende ydre forhold, der kan optræde ombord på  
+
+ skibe.
+Hvor intet andet er nævnt, skal specifikationerne være opfyldt for  
+
+ omgivelsestemperatur mellem 0 grader C og +40 grader C. samt for  
+
+ forsyningsspændinger indenfor +/- 10% i forhold til nominel værdi.
+Ved  
+
+ typegodkendelsesmålingerne anvendes nedenstående »normale  
+
+ målebetingelser« og »specielle målebetingelser«, sidstnævnte  
+
+ dog kun i det omfang, det er nævnt under de enkelte specifikationer. 3.1.  
+
+ Normale målebetingelser.
+Temperatur: +15 grader c til + 35 grader C.
+Relativ  
+
+ fugtighed: 45% til 75%. Lufttryk: 860 mbar til 1060 mbar.
+Forsyningsspænding:  
+
+ den nominelle værdi +/- 2%. 3.2. Specielle målebetingelser.
+ 3.2.1. Temperatur: 40 grader C, tolerance +/- 2 grader C.  
+
+ Forsyningsspænding: nominel værdi - 10%, tolerance +/- 2%.
+ 3.2.2. Temperatur: + 40 grader c, tolerance +/- 2 grader C.  
+
+ Forsyningsspænding: nominel værdi + 10%, tolerance +/- 2%.
+ 3.2.3. Temperatur: 0 grader C, tolerance +/- 2 grader C.  
+
+ Forsyningsspænding: nominel værdi - 10%, tolerance +/- 2%.
+3.2.4. Temperatur: 0 grader C, tolerance +/- 2 grader C.  
+
+ Forsyningsspænding: nominel værdi + 10%, tolerance +/- 2% 3.2.5. Temperatur: + 15 grader C til + 35 grader C (normal rumtemperatur).  
+
+ Forsyningsspænding: nominel værdi - 10%, tolerance +/- 2%.
+ 3.2.6. temperatur: + 15 grader C til + 35 grader C (normal rumtemperatur).  
+
+ Forsyningsspænding: nominel værdi + 10%, tolerance +/. 2%. 3.3. Kunstantenne.
+ 3.3.1. I frekvensområdet 1605 - 4000 kHz benyttes ved typegodkendelsen en  
+
+ kunstantenne bestående af en serieforbindelse af en rent ohmsk modstand på 10  
+
+ ohm og en kondensator på 250 pF.
+3.3.2. I frekvensområdet 4 - 27,5 MHz benyttes ved typegodkendelsen en  
+
+ rent ohmsk modstand på 50 ohm 3.3.3. Herudover skal modtageren kunne tilpasses og fungere fuldt  
+
+ tilfredsstillende på alle almindeligt forekommende skibsantenner. 3.4.  
+
+ Prøvesignaler.
+Under typegodkendelsesmålingerne tilføres modtageringangen  
+
+ standardiserede prøvesignaler.
+3.4.1. Prøvesignal A.
+Ved prøver i modtagning af bølgetype A3A og A3J  
+
+ benyttes som indgangssignal et enkelt, sinusformet højfrekvenssignal  
+
+ simulerende en 1000 Hz tone i øvre sidebånd.
+3.4.2. Prøvesignal B.
+Ved prøver i modtagning af bølgetype A3 og A3H  
+
+ benyttes som indgangssignal et sinusformet højfrekvenssignal  
+
+ amplitudemoduleret 30% med en 1000 Hz sinussvingning. 3.5. Standard  
+
+ udgangseffekt.
+Ved typegodkendelsen benyttes følgende standardværdier for den  
+
+ fra modtagerens lavfrekvensudgang leverede effekt: højttalertilslutning: 50  
+
+ mW. telefontilslutning: 1 mW. 4. Kanalantal, frekvensafstemning.
+For så vidt  
+
+ angår mulighederne for frekvensafstemning skelnes for  
+
+ enkeltsidebåndsmodtagere for frekvensområdet 1605 - 4000 kHz mellem de tre  
+
+ kategorier A, B og C.
+For enkeltsidebåndsmodtagere dækkende de maritime bånd  
+
+ i frekvensområdet 4 - 27,5 MHz skelnes mellem de 2 kategorier A og B.
+I  
+
+ betragtning af den stadigt stigende trafikmængde og de væsentlige fordele,  
+
+ der også for brugeren ligger i, at man i størst muligt omfang kan udnytte de  
+
+ foreliggende frekvensmuligheder, således at korrespondancen kan afvikles  
+
+ under de bedst mulige betingelser, skal man meget kraftigt anbefale, at der  
+
+ anvendes anlæg hørende til kategori A. 4.1. Frekvensområdet 1605 - 4000 kHz.  
+
+ Modtageranlægget skal kunne afstemmes indenfor dette frekvensområde på een af  
+
+ de under pkt. 4.1.1, 4.1.2. og 4.1.3. nævnte måder.
+4.1.1. Enten a) mulighed for afstemning til mindst 30 faste frekvenser.  
+
+ eller b) afstemmelig til en hvilken som helst frekvens i nævnte  
+
+ frekvensområde med en frekvensnøjagtighed bedre end eller lig 300 Hz eller c)  
+
+ mulighed for afstemning til mindst 10 faste frekvenser kombineret med  
+
+ mulighed for kontinuerlig frekvensafstemning i nævnte frekvensområde med en  
+
+ frekvensnøjagtighed bedre end eller lig 1 kHz.
+Modtagere, som opfylder mindst  
+
+ een af disse specifikationer, betegnes som hørende til kategori A.
+4.1.2. Mulighed for afstemning til mindst 23 faste frekvenser.
+Modtagere,  
+
+ som opfylder denne specifikation uden at kunne renregnes til kategori A,  
+
+ betegnes som hørende til kategori B.
+4.1.3. Enten a) mulighed for afstemning til mindst 11 faste frekvenser.  
+
+ eller b) mulighed for afstemning til mindst 5 faste frekvenser kombineret med  
+
+ mulighed for kontinuerlig afstemning inden for området 1605 - 4000 kHz med en  
+
+ frekvensnøjagtighed bedre end eller lig 1 kHz.
+Modtagere, som opfylder mindst  
+
+ een af disse specifikationer uden at kunne henregnes til hverken kategori A  
+
+ eller kategori B, betegnes som henhørende tilkategori C.
+4.1.4. I skibe, som i henhold til handelsministeriets bekendtgørelse nr.  
+
+ 174 af 21. maj 1965 om radiostationer og radiotjeneste i skibe er pligtige  
+
+ til at være udrustet med radiotelegraf- eller radiotelefonstation, og som er  
+
+ udrustet med enkeltsidebånds radiotelefonanlæg, skal forefindes mindst 1  
+
+ modtager af kategori A eller B.
+I andre skibe udrustet med enkeltsidebånds  
+
+ radiotelefonanlæg skal forefindes mindst 1 modtager af kategori A, B eller C.  
+
+ Disse bestemmelser skal være opfyldt for enkeltsidebåndsanlæg, som  
+
+ installeres efter 1. juni 1970 og for samtlige anlæg senest 1. januar 1982.
+4.1.5. Såfremt modtageren anvendes til pligtig lyttevagt på nød- og  
+
+ kaldefrekvensen 2182 kHz, skal denne kunne fast afstemmes til denne frekvens,  
+
+ eller den skal være således indrettet, at indstilling på frekvensen kan  
+
+ udføres hurtigt og nøjagtigt og således, at modtageren efter indstilling på  
+
+ frekvensen ikke kan komme ud af indstilling ved uagtsomhed, jfr.  
+
+ handelsministeriets bekendtgørelse nr. 174 af 21. maj 1965 om radiostationer  
+
+ og radiotjeneste i skibe.
+Iøvrigt anbefales, at ovennævnte bestemmelse følges  
+
+ for alle modtagere, der anvendes til lyttevagt på 2182 kHz. 4.2.  
+
+ Frekvensområdet 4 - 27,5 MHz.
+Modtageranlægget skal kunne dække de i pkt.  
+
+ 1.1. nævnte frekvensbånd på een af følgende måder:
+4.2.1. Enten a) mulighed for afstemning til mindst 8 faste frekvenser i  
+
+ hvert af båndene 4, 8, 12, 16 og 22 MHz og mindst 4 faste frekvenser i hvert  
+
+ af båndene 6 og 25 MHz. eller b) afstemmelig til hvilken som helst frekvens  
+
+ indenfor båndene 4, 6, 8, 12, 16, 22 og 25 MHz med en frekvensnøjagtighed  
+
+ bedre end eller lig 300 Hz.
+Modtagere, som opfylder mindst een af ovennævnte  
+
+ specifikationer, betegnes som henhørende til kategori A.
+4.2.2. Mulighed for afstemning til mindst 3 faste frekvenser i hvert af  
+
+ båndene 4, 6, 8, 12, 16, 22 og 25 MHz, kombineret med mulighed for afstemning  
+
+ til en hvilken som helst frekvens inden for disse bånd med en  
+
+ frekvensnøjagtighed bedre end eller lig 1 kHz.
+Modtagere, som opfylder denne  
+
+ specifikation uden at kunne henregnes til kategori A, betegnes som henhørende  
+
+ til kategori B. 4.3. Frekvensfinafstemning (»speech clarifier«).
+4.3.1. Uanset afstemningsmetode, kategori og frekvensområde skal  
+
+ modtageren være forsynet med en finafstemningskontrol med maksimalt 2 Hz  
+
+ variation pr. grads drejning af betjeningshåndtaget, således at  
+
+ afstemningsfejl kan reduceres til mindre end 10 Hz.
+For modtagere med  
+
+ afstemning til faste kanalfrekvenser skal finafstemningskontrollen endvidere  
+
+ have et variationsområde på mindst +/- 200 Hz, jfr. pkt 2.11.1.
+4.3.2. Det anbefales, at frekvensfinafstemningen sker ved indvirkning på  
+
+ en oscillator beliggende før de egentlige selektivitetsgivende trin. 4.4.  
+
+ Bemærkning.
+Det kan ikke forudsættes, at modtagere, som opfylder de under  
+
+ pkt. 4.1. til 4.3. nævnte specifikationer, i alle tilfælde tilfredsstiller  
+
+ handelsministeriets krav om modtagere i skibe. 5. Frekvensnøjagtighed. 5.1.  
+
+ Definition.
+Ved frekvensnøjagtigheden for en modtager forstås frekvensfejlen  
+
+ efter at modtageren, med frekvens-finafstemningskontrollen (»speech  
+
+ clarifier«) fastholdt i midterstilling, er forskriftsmæssigt indstillet  
+
+ på den givne frekvens.
+Frekvensfejlen er den afvigelse, der konstateres  
+
+ mellem udgangssignalets frekvens og 1000 Hz, som er det udgangssignal, det  
+
+ påtrykte signal simulerer. 5.2. Målemetode (bølgetype A3A og A3J). Et  
+
+ umoduleret, højfrekvent signal simulerende en 1000 Hz tone i øvre sidebånd  
+
+ påtrykkes modtageren, idet indgangssignalets frekvens kontrolleres og  
+
+ justeres til nominel bærebølgefrekvens + 1 kHz ved hjælp af et  
+
+ frekvensmåleudstyr, hvis målenøjagtighed er +/- 3 Hz eller bedre.
+Med  
+
+ frekvensfinafstemningen (»speech clarifier«) i midterstilling  
+
+ indstilles modtageren forskriftsmæssigt til nominel bærebølgefrekvens,  
+
+ hvorefter frekvensmåleudstyret kobles til modtagerens udgang, og  
+
+ udgangssignalets frekvens måles.
+Udgangssignalets frekvensafvigelse delta f  
+
+ fra 1000 Hz er et udtryk for frekvensnøjagtigheden.
+For modtagere med  
+
+ kontinuerlig frekvensafstemning foretages målingen ialt 10 gange, idet man  
+
+ efter en måling forstemmer modtageren på en sådan måde, at en eventuel særlig  
+
+ kalibreringsprocedure (anvendelse af en indbygget kalibreringsoscillator) er  
+
+ indeholdt i hver måling, såfremt forskrifterne for afstemning af modtageren  
+
+ til en given frekvens indeholder en sådan kalibreringsfase.
+Konstateres ved  
+
+ 10 gentagne målinger frekvensafvigelserne delta f1, delta f2, ........, delta  
+
+ f10 mellem udgangssignalets frekvens og den nominelle værdi 1000 Hz, er  
+
+ modtagerens frekvensnøjagtighed bestemt ved Frekvensnøjagtigheden =  5.3. Målebetingelser.
+Målingerne foretages både ved normale  
+
+ målebetingelser (pkt. 3.1.) og under specielle målebetingelser (pkt. 3.2.).  
+
+ Når der foretages de for målinger nødvendige ændringer i  
+
+ omgivelsestemperaturen, foretages ingen målinger tidligere end 1 time fra det  
+
+ øjeblik, den nye omgivelsestemperatur er nået. 5.4. Krav til  
+
+ frekvensnøjagtighed (bølgetype A3A og A3J). Når modtageren er driftsklar  
+
+ (pkt. 2.12.), skal frekvensnøjagtigheden, målt både under normale  
+
+ målebetingelser og under specielle målebetingelser, være bedre end eller lig:  
+
+ +/- 100 Hz for faste frekvenser (krystalstyring). +/- 300 Hz for  
+
+ kontinuerligt afstemmelige modtagere med frekvensnøjagtighed bedre end eller  
+
+ lig 300 Hz. +/- 1000 Hz for kontinuerligt afstemmelige modtagere med  
+
+ frekvensnøjagtighed bedre end eller lig 1000 Hz. 6. Frekvensstabilitet. 6.1.  
+
+ Definitioner.
+ 6.1.1. Ved korttidsstabiliteten forstås den maksimale frekvensvariation af  
+
+ modtagerens udgangssignal, målt over en periode på 15 minutter, når  
+
+ modtageren påtrykkes et frekvensstabilt indgangssignal.
+6.1.2. Ved langtidsstabiliteten forstås den maksimale frekvensvariation af  
+
+ modtagerens udgangssignal, målt over en periode på 8 timer, når modtageren  
+
+ påtrykkes et frekvensstabilt indgangssignal. 6.2. Målemetode for  
+
+ korttidsstabilitet (bølgetype A3A og A3J). Et umoduleret, højfrekvent signal  
+
+ simulerende en 1000 Hz tone i øvre sidebånd påtrykkes modtageren, der  
+
+ afstemmes til den nominelle bærebølgefrekvens.
+Som udgangssignal benyttes det  
+
+ lavfrekvente signal på modtagerens udgang.
+Det højfrekvente indgangssignal og  
+
+ udgangssignalet måles med et frekvensmåleudstyr, hvis målenøjagtighed er +/-  
+
+ 3 Hz eller bedre.
+Udgangssignalets frekvens måles mindst een gang hvert  
+
+ minut, idet der korrigeres for eventuel frekvensdrift af det højfrekvente  
+
+ indgangssignal. 6.3. Målebetingelser for korttidsstabilitet.
+Målinger  
+
+ foretages både under normale målebetingelser (pkt. 3.1.) og under specielle  
+
+ målebetingelser (pkt. 3.2.). Når der foretages de for målingerne nødvendige  
+
+ ændringer i omgivelsestemperaturen, foretages ingen målinger tidligere end 1  
+
+ time efter det øjeblik, den nye omgivelsestemperatur er opnået. 6.4. Krav til  
+
+ korttidsstabilitet (bølgetype A3A og A3J). Når modtageren er driftsklar (pkt.  
+
+ 2.12.), må frekvensdriften målt over en periode på 15 minutter ikke  
+
+ overskride +/- 40 Hz ved spændingsvariationer på +/- 10% i forhold til  
+
+ nominel værdi, forudsat at temperaturen holdes konstant på en værdi mellem 0  
+
+ grader C og + 40 grader C. 6.5. Målemetode for langtidsstabilitet (bølgetype  
+
+ A3A og A3J). Måling af frekvensdriften foretages som angivet under måling af  
+
+ korttidsstabilitet. 6.6. Målebetingelser for langtidsstabilitet.
+Modtageren  
+
+ anbringes i et egnet rum, og omgivelsestemperaturen nedbringes til 0 grader  
+
+ C.
+Tidligst 1 time efter at den ønskede omgivelsestemperatur er opnået,  
+
+ tilsluttes modtageren nominel forsyningsspænding.
+Når modtageren er  
+
+ driftsklar (pkt. 2.12.), påbegyndes måling af frekvensstabiliteten, idet  
+
+ temperaturen holdes konstant på 0 grader C.
+Efter ca 1 times forløb  
+
+ påbegyndes en jævn hævning af omgivelsestemperaturen, idet denne i løbet af  
+
+ ca 5 timer hæves til + 40 grader C, hvorefter temperaturen holdes konstant.  
+
+ Under målingerne ændres forsyningsspændingen jævnligt for perioder af ca 5  
+
+ minutters varighed til nominel værdi + 10%, henholdsvis nominel værdi - 10%.  
+
+ Tolerancer for forsyningsspænding: +/- 2%. Tolerancer for temperaturer:+/- 2  
+
+ grader C. 6.7. Krav til langtidsstabilitet (bølgetype A3A og A3J). Når  
+
+ modtageren er driftsklar (pkt. 2.12.), skal frekvensdriften over en periode  
+
+ på 8 timer være mindre end eller lig +/- 100 Hz under følgende  
+
+ omstændigheder: a). Spændingsvariationer på +/- 10% i forhold til nominel  
+
+ værdi, forudsat at temperaturen holdes konstant på en værdi mellem 0 grader C  
+
+ og + 40 grader C. b). Temperaturvariationer inden for området 0 grader C til  
+
+ + 40 grader C, forudsat at forsyningsspændingen holdes konstant på en værdi  
+
+ inden for +/- 10% i forhold til nominel værdi. 7. Følsomhed. 7.1. Definition.  
+
+ En modtagers følsomhed angives som den laveste indgangsspænding, der for alle  
+
+ frekvenser kan give standard udgangseffekt og en værdi af SINAD-forholdet 8.2.1. Bølgetype A3A og A3J: Modtagerens selektivitet, målt umiddelbart  
+
+ før demodulatorkredsløbet, skal være inden for de på kurveblad 1 angivne  
+
+ grænser.
+8.2.2. Bølgetype A3 og A3H: : Modtagerens selektivitet, målt umiddelbart  
+
+ før demodulatorkredsløbet, skal være inden for de på kurveblad 2 angivne  
+
+ grænser. 8.3. Bemærkning.
+For modtagere dækkende frekvensområdet 1605 - 4000  
+
+ kHz anbefales, at dæmpningen ved modtagning af bølgetype A3 og A3H allerede  
+
+ ved frekvensen 3 kHz over den nominelle bærebølgefrekvens er så stor, at  
+
+ modtagelse af den ønskede SSB kanal kan ske uden interferens fra bærebølgen  
+
+ hidrørende fra en eventuel A3H udsendelse i den nærmest overliggende SSB  
+
+ kanal. 9. Dæmpning ved mellemfrekvens. 9.1. Definition.
+Ved en modtagers  
+
+ dæmpning ved mellemfrekvensen forstås forholdet mellem modtagerens følsomhed  
+
+ for en ønsket frekvens og følsomheden overfor et signal, hvis frekvens er lig  
+
+ en af de i modtageren forekommende mellemfrekvenser. 9.2. Målemetode.
+Med den  
+
+ automatiske volumenkontrol frakoblet påtrykkes modtageren et prøvesignal,  
+
+ type A for modtagning af bølgetype A3A og A3J, type B for modtagning af  
+
+ bølgetype A3 og A3H.
+Modtagerens følsomhed ved denne ønskede frekvens  
+
+ bestemmes som angivet under afsnittet om følsomhed (pkt. 7.2.). Idet  
+
+ modtagerindstillingen fastholdes, afstemmes signalgeneratoren derpå til at  
+
+ give et signal af samme type som det ønskede og med en frekvens svarende til  
+
+ en af de i modtageren forekommende mellemfrekvenser.
+Signalets niveau øges,  
+
+ til SINAD- forholdet på modtagerudgangen igen er 20 dB.
+Forholdet mellem de  
+
+ to indgangsspændinger er modtagerens dæmpning ved mellemfrekvensen.
+Målingen  
+
+ foretages for hver af de i modtageren forekommende mellemfrekvenser og ved  
+
+ forskellige frekvenser for det ønskede signal.
+Ved angivelse af modtagerens  
+
+ dæmpning ved mellemfrekvensen benyttes den laveste værdi af de målte  
+
+ dæmpninger. 9.3. Krav.
+Dæmpningen ved mellemfrekvensen skal være mindst 60  
+
+ dB. 10. Dæmpning ved spejlfrekvens. 10.1. Definition.
+Ved en modtagers  
+
+ dæmpning ved spejlfrekvensen forstås forholdet mellem modtagerens følsomhed  
+
+ for en ønsket frekvens og følsomheden overfor et signal, hvis frekvens er lig  
+
+ en af de i modtageren forekommende spejlfrekvenser. 10.2. Målemetode.
+Med den  
+
+ automatiske volumenkontrol frakoblet påtrykkes modtageren et prøvesignal,  
+
+ type A for modtagning af bølgetype A3A og A3J, type B for modtagning af  
+
+ bølgetype A3 og A3H.
+Modtagerens følsomhed ved denne ønskede frekvens  
+
+ bestemmes som angivet i afsnittet om følsomhed (pkt. 7.2.). Med fastholdt  
+
+ modtagerindstilling afstemmes signalgeneratoren derpå til at give samme type  
+
+ prøvesignal på en frekvens svarende til en af de i modtageren forekommende  
+
+ spejlfrekvenser.
+Signalets niveau øges, til SINAD- forholdet på  
+
+ modtagerudgangen igen er 20 dB.
+Forholdet mellem de to indgangsspændinger er  
+
+ modtagerens dæmpning ved spejlfrekvensen.
+Målingen foretages for hver af de i  
+
+ modtageren forekommende spejlfrekvenser og ved forskellige frekvenser for det  
+
+ ønskede signal.
+Ved angivelse af modtagerens dæmpning ved spejlfrekvensen  
+
+ benyttes den laveste værdi af de målte dæmpninger. 10.3. Krav.  
+
+ Minimumsdæmpningen ved spejlfrekvenser skal være 60 dB for frekvenser under  
+
+ 15 MHz og 50 dB for frekvenser over 15 MHz. 11. Dæmpning af uønskede signaler  
+
+ (spurious). 11.1. Definition.
+Ved en modtagers dæmpning af et uønsket signal  
+
+ forstås forholdet mellem modtagerens følsomhed for et ønsket signal og  
+
+ følsomheden overfor et uønsket signal med afvigende frekvens. 11.2.  
+
+ Målemetode.
+Modtagerens følsomhed for det ønskede og for det uønskede signal  
+
+ bestemmes som angivet under måling af mellemfrekvensdæmpningen (pkt. 9.).  
+
+ Modtageren undersøges i frekvensområdet fra laveste mellemfrekvens op til 800  
+
+ MHz. 11.3. Krav.
+Dæmpningen af uønskede signaler skal være indenfor de på  
+
+ kurveblad 1 og 2 angivne grænser. 12. Blokering. 12.1. Målemetode.
+Med den  
+
+ automatiske volumenkontrol indkoblet tilføres modtageren et prøvesignal, type  
+
+ A for modtagning af bølgetype A3A og A3J, type B for modtagning af bølgetype  
+
+ A3 og A3H, og med et niveau 60 dB/1 micro V EMK.
+Modtageren justeres til  
+
+ standard udgangseffekt, og derefter påtrykkes samtidigt med det ønskede  
+
+ signal et umoduleret signal 100 dB/1 micro V EMK, repræsenterende et uønsket  
+
+ signal med en frekvens delta f over eller under den ønskede frekvens.  
+
+ Modtagerens udgangseffekt måles. 12.2. Krav.
+Med en frekvensafstand delta f =  
+
+ 20 kHz mellem ønsket og uønsket signal må ved ovennævnte niveauer for de to  
+
+ signaler påtrykning af det uønskede signal ikke ændre udgangseffekten af det  
+
+ ønskede signal mere end 3 dB. 13. Højfrekvensintermodulation. 13.1.  
+
+ Målemetode.
+13.1.1. Med den automatiske volumenkontrol frakoblet indstilles modtageren  
+
+ på et ønsket prøvesignal, type A for modtagning af bølgetype A3A og A3J, type  
+
+ B for modtagning af bølgetype A3 og A3H, med et niveau 30 dB/1 micro V EMK,  
+
+ og modtageren justeres til standard udgangseffekt.
+Modtagerindstillingen  
+
+ fastholdes, og signalet fjernes igen.
+Derefter påtrykkes samtidigt to  
+
+ højfrekvente signaler, begge med niveauet 80 dB/1 micro V EMK.
+Ved bølgetype  
+
+ A3A og A3J er begge signaler umodulerede; ved bølgetype A3 og A3H er det ene  
+
+ af signalerne umoduleret, medens det andet er umoduleret 30% med en 1000 Hz  
+
+ tone.
+Hvert af signalerne skal have en frekvensafstand til den nominelle  
+
+ bærebølgefrekvens på mindst 30 kHz.
+Ved typegodkendelsesmålingerne vælges  
+
+ frekvenserne f1 og f2 for de to uønskede signaler således:
+ 15.2.1. Ved en forøgelse af indgangssignalet til 20 dB over  
+
+ referenceniveau skal forholdet (signal + støj)/ støj på modtagerens udgang  
+
+ stige til mindst 35 dB.
+15.2.2. Ved en forøgelse af indgangssignalet fra referenceniveau til 70 dB  
+
+ over referenceniveau må modtagerens udgangseffekt ikke stige mere end 10 dB.  
+
+ 15.3. Stigetid og afladetid.
+Ved modtagning af bølgetype A3A og A3J stilles  
+
+ følgende krav til stigetid og afladetid for den automatiske volumenkontrol:  
+
+ Stigetiden bør være i størrelsesordenen 10 msek og må ikke overskride 50  
+
+ msek.
+Afladetiden bør være i størrelsesordenen 1 sek til 4 sek og må ikke  
+
+ være mindre end ca o,5 sek. 16. Udstråling. 16.1. Definition.
+Ved udstråling  
+
+ fra en modtager forstås, at der på modtagerens antennetilslutning optræder  
+
+ højfrekvensspændinger genereret i modtageren. 16.2. Målemetode.  
+
+ Modtagerindgangen belastes med kunstantennen, og spændingen over den ohmske  
+
+ del af kunstantennen måles, idet der afsøges frekvensområdet mellem laveste  
+
+ mellemfrekvens og 225 MHz. 16.3. Krav.
+For hver udstrålet komponent skal den  
+
+ målte spænding svare til en effekt mindre end eller lig 1 x 10-9 watt. 17.  
+
+ Udgangseffekt. 17.1 Definition.
+Udgangseffekten er den maksimale effekt,  
+
+ modtageren uden at overskride den specificerede klirfaktor kan afgive til en  
+
+ modstand lig den numeriske værdi af højttalerens, henholdsvis  
+
+ hovedtelefonens, impedans ved 1000 Hz. 17.2. Målemetode.
+Et prøvesignal type  
+
+ A ved bølgetype A3A og A3J, type B ved bølgetype A3 og A3H, og med et niveau  
+
+ 1 mV EMK påtrykkes modtagerindgangen.
+Udgangssignalet, hvis frekvens skal  
+
+ være 1000 Hz, øges ved hjælp af modtagerens volumenkontrol, indtil den  
+
+ specificerede klirfaktor nås. 17.3. Krav.
+Ved en klirfaktor på højst 10% skal  
+
+ udgangseffekten være mindst 20.1.1. Når et anlæg ønskes afprøvet med henblik på godkendelse, rettes af  
+
+ en dansk fabrikant eller en dansk repræsentant skriftlig henvendelse herom  
+
+ til 20.1.2. Anmodningen om afprøvning skal være ledsaget af en komplet  
+
+ beskrivelse og et komplet sæt tegninger af det pågældende anlæg.
+20.1.3. Endvidere skal medsendes en målerapport indeholdende fabrikkens  
+
+ måleresultater omfattende alle relevante punkter i nærværende  
+
+ specifikationer.
+Er der ved de af fabrikken foretagne målinger anvendt  
+
+ sådanne målemetoder eller målebetingelser, at direkte sammenlignelighed med  
+
+ de af post- og telegrafvæsenet foretagne målinger ikke kan påregnes, skal  
+
+ målerapporten endvidere i fornødent omfang indeholde oplysninger herom.
+ 20.1.4. Det fremsendte materiale skal indeholde oplysninger om anlæggets  
+
+ totale vægt og dimensioner, effektforbrug, effektfaktor, højtalerimpedans,  
+
+ hovedtelefonimpedans samt øvrige tekniske oplysninger, der er nødvendige for  
+
+ afprøvning af anlægget.
+ 20.1.5. Målerapporter, tegninger og beskrivelser indleveret med henblik på  
+
+ typeafprøvning af anlæg er post- og telegrafvæsenets ejendom.
+ 20.2. Indsendelse af anlæg til afprøvning.
+20.2.1. Anlægget, som ønskes afprøvet indsendes, når der fra post- og  
+
+ telegrafvæsenet foreligger en anmodning herom, til 20.2.2. Al transport til og fra radioingeniørtjenesten påhviler  
+
+ rekvirenten.
+ 20.2.3. Post- og telegrafvæsenet kan forlange, at rekvirenten opstiller,  
+
+ tilslutter og klargør anlægget til afprøvning.
+ 20.2.4. Når et anlæg indsendes til afprøvning, skal det kunne afstemmes  
+
+ til mindst 4 frekvenser i frekvensområdet 1605 - 4000 kHz (1 frekvens i den  
+
+ laveste del af båndet, 1 frekvens i den mellemste del af båndet, 1 frekvens i  
+
+ den højeste del af båndet samt 2182 kHz) og/eller mindst 1 frekvens i hvert  
+
+ af de i pkt. 1.1. nævnte maritime bånd inden for frekvensområdet 4 - 27,5  
+
+ MHz.
+ 20.3 Godkendelse.
+ 20.3.1. Godkendelse kan efter generaldirektoratets afgørelse i hvert  
+
+ enkelt tilfælde gives enten som en typegodkendelse eller som en godkendelse  
+
+ af enkelte eksemplarer.
+ 20.3.2. Alle anlæg af godkendt type skal opfylde nærværende bestemmelser  
+
+ og minimumsspecifikationer, og en typegodkendelse forudsætter, at samtlige  
+
+ fremstillede anlæg af typen både med hensyn til strømskemaer, komponenter og  
+
+ montering er identiske med det afprøvede.
+20.3.3. Anlæg, der ikke i radiomæssig og væsentlige andre henseender er  
+
+ identiske, må ikke bære samme typebetegnelse.
+Foretages der ændringer, må der  
+
+ gives ny typebetegnelse, hvilket vil medføre krav om ny afprøvning, såfremt  
+
+ ændringerne har relation til de gældende bestemmelser.
+Post- og  
+
+ telegrafvæsenet forbeholder sig ved skøn at afgøre, om anlæg er identiske i  
+
+ henhold til ovenstående, og om ny afprøvning er nødvendig.
+20.3.4. Det er en forudsætning for opretholdelse af en typegodkendelse at  
+
+ post- og telegrafvæsenet med henblik på kontrolmålinger på et hvilket som  
+
+ helst tidspunkt kan udvælge eksemplarer fra lager hos fabrikant eller  
+
+ importør, eventuelt forhandler, af vedkommende anlægstype.
+Ifald det herved  
+
+ eller på anden måde konstateres, at anlæggene ikke opfylder de gældende  
+
+ bestemmelser, eller såfremt godkendelsens vilkår i øvrigt tilsidesættes, kan  
+
+ godkendelsen annuleres både for allerede ibrugtagne anlæg og for ikke  
+
+ ibrugtagene anlæg af vedkommende type.
+ 20.3.5. Givne godkendelser kan annuleres, f.eks. ved kundgørelse i  
+
+ Statstidende.
+ 20.3.6. Godkendelsen omfatter kun forhold, der angår de af  
+
+ generaldirektoratet fastsatte bestemmelser og tager ikke sigte på generelt at  
+
+ omfatte andre myndigheders eventuelle krav til anlæggene og deres  
+
+ installation.

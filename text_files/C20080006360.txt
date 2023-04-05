@@ -1,0 +1,169 @@
+Bilag 1 Bilag 2 Vejledning om RTK-tjenester (Norm for RTK-tjenester) Indholdsfortegnelse 1. Indledning Norm for RTK-tjenester knytter sig til lov om Kort og Matrikelstyrelsen, lov nr. 749 af 7. december 1988 om Kort og Matrikelstyrelsen.
+ Normen finder anvendelse på RTK-tjenester, der anvendes som grundlag for offentlig kortlægning og registrering.
+ Kort og Matrikelstyrelsen har efter forhandling med offentlige myndigheder og private organisationer fastlagt nærværende Norm for RTK-tjenester, der beskriver krav som RTK-tjenester skal opfylde, for at kunne anvendes til opmåling med god nøjagtighed, herunder matrikulære arbejder.
+Normen vedrører selve RTK-tjenesten, men ikke de fejl, som brugeren ved sin betjening af udstyret har indflydelse på.
+Der er til Normen udarbejdet beskrivelse af god opmålingsskik med RTK, jf.
+Bilag 1 2. Registrering af RTK-tjenester 2.1 Kort og Matrikelstyrelsen Kort og Matrikelstyrelsen (KMS) registrerer RTK-tjenester efter anmodning fra virksomheder, der tilbyder disse tjenester.
+Ved registreringen kræves det KMS vedligeholder på sin hjemmeside en oversigt over registrerede RTK-tjenester.
+2.2 RTK-tjenester En RTK-tjeneste er en tjeneste, der distribuerer RTK-korrektioner beregnet på grundlag af GNSS kode- og faseobservationer modtaget på mindst to frekvenser.
+2.3 Dækningsområde RTK-tjenesten skal dokumentere det geografiske dækningsområde ved en beskrivelse samt et kort.
+Det skal heraf fremgå indenfor hvilket område, den angivne nøjagtighed, integritet, kontinuitet og tilgængelighed kan opnås.
+2.4 RTK-korrektioner RTK-korrektioner skal udsendes i et åbent og standardiseret format, f.eks.
+RTCM-formatet.
+3. Koordinatgrundlag 3.1 Referencestationer, referenceramme og koor­di­na­ter Koordinater for alle referencestationer i RTK-tjenesten skal være beregnet i aktuel ITRF referenceramme, medmindre andet er aftalt og skal knyttes til det overordnede danske referencegrundlag, ETRS89. Koordinater til RTK-tjenestens stationer skal kontrolregnes af KMS mindst én gang årligt.
+ Inden KMS iværksætter den første beregning skal de øvrige krav i normen være opfyldt af RTK-tjenesten.
+GNSS-data fra samtlige stationer indsamlet over en aftalt periode (typisk én uge) sendes til KMS i et aftalt standardiseret og kvalitetskontrolleret format.
+Den førte log for stationerne, jf. afsnit 3.4 fremsendes sammen med data til kontrolberegningen.
+En ny tjeneste kan anvende egne koordinater frem til den første årlige kontrolberegning efter registreringen i KMS.
+Tjenesten skal dokumentere koordinatberegningen overfor KMS.
+3.2 Koordinater angives i ETRS89 Koordinater til referencestationerne angives i ETRS89, og alle beregninger af korrektioner bør foregå i det samme koordinatsystem for at undgå fejl fra unøjagtigheder i definition af koordinatsystemer og/eller fejl fra transformation mellem forskellige systemer.
+3.3 Nye referencestationer Ved udbygning af tjenestens net med nye referencestationer og ved flytning af stationer kan koordinater til de nye referencestationer beregnes af tjenesten selv, og anvendes til næste årlige kontrolregning, jf. afsnit 3.1 Tjenesten skal dokumentere koordinatberegningen overfor KMS.
+3.4 Fysiske ændringer på og ved referencestationer Tjenesten skal føre log over fysiske ændringer på referencestationerne, f.eks. udskiftning af antenne, modtager og antennekabel, samt ved afmontering af antenne.
+Loggen skal desuden omfatte fysiske ændringer, som tjenesten har konstateret omkring referencestationerne, f.eks. nye bygninger, master eller andre konstruktioner i nærheden af antennen.
+Væltede/fældede træer kan også medføre ændrede forhold for signalmodtagelse og bør ligeledes fremgå af loggen.
+ Den førte log skal til enhver tid kunne rekvireres af KMS, og skal endvidere fremsendes til KMS én gang årligt sammen med data til kontrolberegningen.
+3.5 Opdateringer af software Tjenesten skal føre log over opdateringer af den software, der anvendes til beregning af RTK-korrektioner og til overvågning af systemet, f.eks. oplysning om ændret geoidemodel, ændring af eventuelle transformationsparametre, ændrede modeller for antenne-kalibrering, indførelse af nye beregningsalgoritmer m.m.
+ Efter større opdateringer eller væsentlige ændringer af systemet skal der udføres egenkontrol, jf. afsnit 4.2 for at sikre, at systemet fungerer tilfredsstillende.
+ Den førte log skal til enhver tid kunne rekvireres af KMS og skal endvidere fremsendes til KMS én gang årligt.
+4. Nøjagtighed 4.1 Nøjagtighedskrav RTK-tjenesten skal under velegnede GNSS-opmålingsbetingelser kunne levere RTK-korrektioner, der gør det muligt for brugeren at opnå en nøjagtighed bedre end Tjenesten skal til sine brugere oplyse hvor lang tid, der skal måles for at opnå den givne nøjagtighed.
+ Nøjagtighedskravene indebærer, at nedenstående skal være opfyldt for mere end 95% af de plane afvigelser:
+Bemærk at denne måde at anskue en plan nøjagtighed er en tilnærmelse, da en plan nøjagtighed også bør baseres på information om korrelationen mellem northing og easting koordinaten.
+Men i praksis er det et godt og let tilgængeligt udtryk for nøjagtigheden.
+ Fremgangsmåden for udarbejdelse af materiale til egenkontrol er, at alle plane afvigelser fra formlen beregnes og optælles.
+Til grafisk fremstilling tegnes en cirkel med en radius på 5 cm i (0,0) i et retvinklet koordinatsystem med northing og easting.
+I koordinatsystemet indtegnes alle plane afvigelser, og for at kravet er opfyldt skal mere end 95% af alle plane afvigelser ligge indenfor cirklen.
+ For nøjagtighed i koten skal gælde, at mere end 95% af afvigelserne skal ligge indenfor intervallet:
+4.2 Egenkontrol Overholdelse af kravet til nøjagtighed skal dokumenteres ved en egenkontrol mindst én gang årligt.
+Egenkontrollen skal så vidt muligt udføres 6 måneder efter datoen for de data, som blev anvendt til den seneste kontrolberegning udført af KMS, jf. afsnit 3.1.
+Egenkontrollen skal udføres som en test over en sammenhængende periode på 6 timer i dagtimer i udvalgte punkter.
+De RTK-bestemte positioner gemmes kontinuert under hele testperioden.
+I hele testperioden skal positioner logges med et interval på højst 30 sekunder.
+De positioner, der logges, skal indmåles efter tjenestens standard anbefalinger.
+Der foretages reinitialisering efter registrering af 60 positioner.
+Der udvælges velbeliggende test-punkter blandt KMS´ 3D fikspunkter (REFDK eller 10 km net punkter), eller der anvendes punkter, som er koordineret ved en statisk GPS-måling med reference til et eller flere af KMS´ 3D fikspunkter.
+Der indsamles og logges RTK-bestemte positioner med anvendelse af den tjeneste, der testes.
+Nøjagtigheden beregnes i planen og koten ud fra de opnåede koordinaters afvigelser i forhold til de på forhånd kendte koordinater for punktet.
+Sammen med dokumentationen for at mere end 95% af afvigelserne i planen og i koten ligger indenfor de angivne acceptkriterier medsendes beregninger af koordinatafvigelsernes middeltal og spredning samt root-mean-square (RMS) for northing, easting og kote.
+ Beregningsformler for spredning og RMS, som beregnes for alle koordinatkomponenter, er anført i figur 1.
+Dokumentation for testen skal indeholde Til egenkontrolmålingerne anvendes mindst to punkter, der er placeret på steder i nettet, hvor det kan forventes at dækningen er kritisk, f.eks. hvor afstanden til nærmeste referencestation er særlig lang.
+Desuden anvendes mindst et punkt placeret optimalt i nettet.
+Punkterne bør ligge geografisk velfordelt i nettet.
+ KMS kan på forhånd udpege egnede lokaliteter i nettet til kontrolmålingerne.
+ Dokumentation skal fremsendes til KMS én gang årligt.
+5. Integritet Integritet er udtryk for systemets evne til at advare og beskytte sine brugere, når/hvis systemet ikke kan leve op til kravene om nøjagtighed.
+5.1 Satellitdata Tjenesten skal løbende udføre kontrol med de modtagne satellitdata.
+ Kontrollen baseres på en kontinuert real tids registrering og beregning af kvalitetsparametre i kontrolcenteret.
+ Kvalitetsparametrene skal indikere om, der er særlig høj ionosfæreaktivitet, eller om der er problemer med de modtagne satellitdata f.eks. ved fejl i broadcast efemerider eller fejl i modeller til korrektion for satellit urfejl.
+5.2 Kvalitetsparametre Kvalitetsparametre aftales ved registrering af RTK-tjenesten i KMS efter forslag fra tjenesten.
+ Kvalitetsparametre kan være spredninger eller residualer fra velbeskrevne beregninger og udjævninger i nettet samt kontrol af koordinatværdier for referencestationerne.
+Log over events og advarsler i nettet kan også indgå i listen over kvalitetsparametre.
+For eksempel hvis der er mindre end 5 synlige satellitter for en referencestation eller problemer med løsning af ambiguities.
+ Kvalitetsparametre anvendes til den løbende kontrol af de modtagne satellitdata, jf. afsnit 5.1.
+ Tjenesten skal på sin hjemmeside offentliggøre en liste med kvalitetsparametre, og tjenesten skal arkivere de beregnede kvalitetsparametre i et år.
+ De beregnede kvalitetsparametre skal kunne rekvireres af KMS, og de skal afleveres til KMS én gang årligt.
+5.3 Driftsproblemer Brugerne af en RTK-tjeneste skal have besked, hvis kvalitetsparametre, som nævnt under afsnittene 5.1 og 5.2 indikerer, at nøjagtighedskrav, jf. afsnit 4.1, ikke kan opfyldes.
+Tjenesten skal overfor brugerne og KMS angive, hvordan brugerne får besked i de tilfælde, hvor det vurderes, at nøjagtighedskravet ikke kan opfyldes.
+Desuden skal det oplyses, hvor lang tid der vil gå fra problemet er konstateret til information herom er udsendt til brugerne.
+6. Kontinuitet Kontinuitet er et mål for systemets evne til at levere uafbrudt nøjagtighed og integritet.
+6.1 RTK-tjenestens sårbarhed Beregningsproceduren for RTK-korrektioner skal foregå på en sådan måde, at tjenesten ikke er sårbar overfor udfald af en enkelt referencestation.
+Overholdelse af kravet demonstreres ved egenkontrol i form af en test over mindst 2 timer i et eller to udvalgte testpunkter.
+Testen udføres ved at tage en referencestation ud af drift.
+De punkter, der udvælges til testen, skal være placeret på steder, der antages at være mest udsatte ved nedbrud af den aktuelle referencestation, eksempelvis punkter der ligger langt fra de øvrige referencestationer.
+ Testen udføres efter de samme retningslinier som nævnt i afsnit 4.2.
+ Eventuelle tjenester på Bornholm er undtaget fra dette punkt.
+6.2 Driftsproblemer Hvis flere referencestationer falder ud, skal brugerne af tjenesten have besked, såfremt nøjagtighedskravet ikke kan opfyldes, jf. afsnit 4.1.
+ Tjenesten skal fastlægge, hvordan brugerne får besked i de tilfælde, hvor nøjagtighedskravet ikke kan opfyldes.
+Tjenesten skal overfor brugerne og KMS angive, hvordan information om regionale nedbrud distribueres til brugerne.
+Desuden skal det oplyses, hvor lang tid der vil gå fra fejlen er konstateret til information er udsendt til brugerne.
+7. Tilgængelighed Tilgængeligheden er den tid, hvor RTK-tjenesten er tilgængelig for brugeren, og hvor kravene til nøjagtighed, integritet og kontinuitet er opfyldt.
+ Tjenesten skal være tilgængelig med en oppetid på 98 % pr. år  opgjort for hverdage indenfor normal arbejdstid (tidsrum 7-17).
+ Tilgængelighed for tjenesten opgøres pr. år, og beregnes af udbyderen som forholdet mellem antal timer, hvor tjenesten har været tilgængelig, og antallet af timer i året.
+Ved opgørelse af antallet af timer, hvor tjenesten har været tilgængelig tages udgangspunkt i det samlede antal timer i året.
+Herfra fratrækkes timer, hvor tjenesten ikke har været tilgængelig, f.eks. som følge af nedbrud i RTK-tjenestens egen infrastruktur, fejl i GNSS-systemerne, atmosfæriske forstyrrelser eller andre forhold, der har umuliggjort positionering eller har reduceret den opnåelige positionsnøjagtighed.
+Varslede nedbrud f.eks. ved planlagt vedligeholdelsesarbejde skal også fratrækkes.
+ Såfremt kravet om 98 % tilgængelighed ikke er opfyldt, fremsendes uddybende forklaring sammen med tilgængelighedsopgørelsen til KMS.
+Tilgængeligheden dokumenteres endvidere ved at føre logs over oppetid for hver enkelt referencestation.
+Desuden føres logs over tidspunkter, hvor der udsendes besked til brugerne, jf. afsnittene 5.3 og 6.2, samt årsagen til udsendelse af besked.
+ Dokumentation fra egenkontroller, jf. afsnittene 4.2 og 6.1, indgår ligeledes i dokumentationen for tilgængelighed.
+ Tilgængeligheden skal opgøres så den er gældende for hele dækningsområdet, jf. afsnit 2.3, men kan derudover opgøres separat for udvalgte områder, hvis der har været særlige lokale problemer, f.eks. som konsekvens af en ustabil referencestation.
+ Opgørelse af tilgængelighed og dokumentation fremsendes til KMS én gang årligt.
+8. Dokumentation til Kort og Matrikelstyrelsen 8.1 Dokumentation ved registrering Ved registrering dokumenteres 8.2 Løbende dokumentation Den løbende kontrol og dokumentation for denne omfatter Dokumentationen skal til enhver tid kunne rekvireres af KMS.
+8.3 Årlige dokumentation Ved registrering af RTK-tjenesten aftales termin for den årlige dokumentation.
+Terminen vil fremgå af Kort og Matrikelstyrelsens hjemmeside Den årlige dokumentation omfatter På grundlag af modtagne GNSS data gennemfører KMS vederlagsfrit kontrolberegning for registrerede RTK-tjenester.
+ Senest 2 måneder efter modtagelse af tilfredsstillende dokumentation fra RTK-tjenesten meddeler KMS resultatet af kontrolarbejdet.
+9. Ophævelse af registrering af RTK-tjeneste En registreret RTK-tjeneste kan til enhver tid ophæve sin registrering.
+ Hvis dokumentation, jf. afsnit 8 ikke modtages i KMS eller dokumentationen ikke opfylder de aftalte kvalitetskrav kan Kort og Matrikelstyrelsen meddele frist for afhjælpning af påpegede mangler.
+ KMS kan ophæve tjenestens registrering, hvis tjenesten ikke kan levere tilfredsstillende dokumentation.
+Kort- og Matrikelstyrelsen, den 11. november 2008 Jesper Jarmbæk / Lolita Bahl Bilag 1 God opmålingsskik med RTK Indledning Det er relativt enkelt at foretage en præcis positionsbestemmelse med GNSS med de nyere generationer af udstyr.
+Men forkert betjening af udstyr og/eller manglende viden om teorierne bag positionering med GNSS kan forårsage væsentlige kvalitetsforringelser af opmålingen.
+ Det er vigtigt, at brugeren er opmærksom på de faktorer, der kan påvirke positionsnøjagtigheden i negativ retning eller som kan være en indikation af, at opmålingsbetingelserne er forringede.
+Generelt kan opmålingsfejl afsløres ved opmåling med overbestemmelser, hvilket i RTK-sammenhæng betyder, at alle punkter indmåles mindst to gange med en ny initialisering imellem målingerne.
+Dette er tidskrævende, og opmåleren må derfor vurdere, om opgavens karakter gør det nødvendigt at indmåle punkterne to gange, eller om målingens kvalitet kan sikres på anden måde.
+1. Signalforstyrrelser fra bygninger, træer og lignende Placeres antennen under træer vil grene og blade på træerne forstyrre modtagelsen af signaler fra satellitterne, hvilket kan medføre periodetab, hvis faselåsningen mistes.
+Derved forringes positionsnøjagtigheden.
+ Placeres antennen nær bygninger, skure, biler, containere eller andet, der blokerer for modtagelse af satellitsignaler, vil et reduceret antal satellitter være synlige fra antennen, hvorved positionsnøjagtigheden forringes.
+Da antennen har mulighed for at modtage signaler, der er reflekteret fra omgivne flader, er det vigtigt at være opmærksom på, hvor antennen er placeret i forhold til bygninger, træer m.m.
+Refleksionsfænomenet kaldes multipath og vil bidrage med en fejl, idet signalets rejsetid bliver længere, end hvis det ikke reflekteres inden modtagelse.
+Multipath kan undgås ved blandt andet at sætte en høj elevationsmaske og ved at placere sin modtager i fornuftig afstand fra flader, der kan reflektere signalet.
+Desuden fjerner de nyeste antenner med god kvalitet bedre støj fra multipath end antenner af ældre dato.
+For at begrænse multipath er det derfor en fordel at anvende moderne udstyr.
+2. Centrering af antennen og korrekt angivelse af antennehøjde i modtager Med omhyggelig centrering af antennen og ved at holde stokken stabilt sikres en pålidelig positionsbestemmelse.
+Det er også vigtigt lejlighedsvis at verificere libellen på stokken og selve stokken.
+Stokken skal være retlinet og spidsen skal centrere.
+Ved anvendelse af RTK er antennen ofte placeret på en 2 meter lang stok, for at sikre at antennen er over brugerens hovedhøjde, således at brugeren ikke selv forstyrrer signalmodtagelsen.
+Det er vigtigt at være opmærksom på, at den position som GNSS-udstyret bestemmer, er positionen for antennen.
+Efter indmåling af punktet korrigeres normalt automatisk for længden af stokken, hvorved positionen flyttes ned fra antennen til punktet på jorden.
+Af samme årsag er det vigtigt, at den rigtige antennehøjde til enhver tid er indtastet i modtageren.
+3. Afbrydelse af korrektionssignal Hvis modtagelsen af RTK-korrektioner afbrydes, f.eks. som følge af nedbrud af det anvendte mobiltelefonnet, kan modtageren fortsat bestemme positioner.
+Disse positioner vil dog have en ringere nøjagtighed, end der normalt opnås med RTK.
+GNSS udstyret kan advare brugeren om den forringede nøjagtighed, men for at udnytte informationen kræver det, at brugeren er opmærksom på advarsler, og på angivelsen af positionsnøjagtigheden.
+4. Positionsløsning Brugeren bør altid tilstræbe en fixed løsning.
+Denne form for positionsløsning har en bedre nøjagtighed end en float løsning, hvorfor det er vigtigt, at brugeren er opmærksom på, hvilken type løsning der er angivet i udstyrets display.
+ Brugeren bør sikre, at den positionsløsning, som udstyret angiver, er i overensstemmelse med de krav, der stilles til positionsnøjagtighed af objekterne der indmåles.
+5. DOP-værdier En lav DOP-værdi kan indikere en god positionsnøjagtighed.
+En høj DOP-værdi kan indikere en ringere positionsnøjagtighed.
+Der findes forskellige DOP-værdier.
+De mest almindelige er PDOP, der vedrører positionsløsningen i 3D, HDOP, der vedrører den horisontale positionsløsning og VDOP, der vedrører den vertikale positionsløsning.
+ Grænsen for hvorvidt en DOP værdi er acceptabel eller ej, afhænger af hvilken form for DOP, der anvendes, GNSS-udstyret og den ønskede positionsnøjagtighed.
+ 6. Initialiseringstid.
+For at kunne foretage præcis positionsbestemmelse med RTK, skal modtageren initialisere inden den første position kan bestemmes.
+Under initialiseringen modtages data fra RTK-tjenesten, og der udføres en række beregninger i modtageren, der leder frem til en RTK fixed løsning.
+Initialiseringstiden forlænges, hvis antennen er placeret under et træ, nær bygninger eller andet der forringer signalmodtagelsen.
+Initialiseringstiden forlænges også, hvis der er problemer med transmission af RTK-korrektioner, f.eks. ved ustabilitet i mobil-nettet.
+Det kan således være problemer med positionsbestemmelsen, hvis initialiseringstiden er længere end normalt.
+I så fald anbefales det at udføre en ny initialisering, hvor antennen flyttes lidt væk fra de objekter, der eventuelt begrænser signalmodtagelsen.
+7. Tidssvarende udstyr hardware og software Udviklingen indenfor både hardware og software går hurtigt og udbyderne af RTK-tjenester anvender normalt det nyeste.
+Brugeren skal derfor have relativt nyt udstyr for at få fuldt udbytte af mulighederne med de RTK-korrektioner, der udsendes.
+I tvivlstilfælde kontaktes udbyderen.
+ Der udføres en del beregninger i modtageren, hvorfor der i udstyr med ældre software (firmware) kan indgå beregningsmetoder og algoritmer, som ikke lever op til de krav, der nu stilles med hensyn til angivelse af positionsnøjagtighed, fixed eller float løsning m.m.
+8. Kompatibilitet mellem antenne, modtager og kabler Softwaren i modtageren indeholder ofte parametre, som f.eks. fase-center offset, der er specielt tilpasset den/de antenner, som modtageren er udviklet til at blive anvendt sammen med.
+Mange modtagere er udviklet med bagud kompatibilitet, så de kan anvendes med ældre antenner af samme fabrikat.
+Men man bør sikre sig, at dette er tilfældet, inden udstyret kobles sammen og anvendes til opmåling.
+9. Udstyrets stand Udstyr kan være defekt, selv om det ikke direkte kan ses.
+Antennen kan tage skade af at blive tabt på hårdt underlag (asfalt, beton og lignende). Antennen vil stadig fungere, men antennefasecenteret kan være forskubbet inde i antennen, således at positionsnøjagtigheden forringes.
+Hvis dette er tilfældet, har brugeren ingen mulighed for at se det på positionsløsningen.
+Fejlen kan konstateres ved indmåling af kendte punkter.
+Antennekabler med knæk bør ikke anvendes.
+Kablerne kan ofte fortsat fungere, men kablets evne til at lede signalet fra antenne til modtager vil være forringet.
+Dette giver et dårligere signal/støj forhold for de modtagne signaler og dermed en forringet positionsnøjagtighed.
+10. Indmåling af mindst ét kendt punkt i samme område, hvor arbejdet udføres Indmåling af kendte punkter, og efterfølgende sammenligning af de nye koordinater med de kendte koordinater, er en enkel måde at kontrollere positionsnøjagtigheden på.
+ Indmåling af kendte punkter bør ske med den samme initialisering som anvendt ved indmåling af de nye punkter, da en ny initialisering kan medføre ændret positionsnøjagtighed.
+Bilag 2 Ordforklaring Antennefasecenter Det præcise punkt en GPS modtager beregner en position til, på baggrund af baselinebestemmelser, er ideelt set antennens midtpunkt, også kaldet antennefasecentret.
+Antennefasecentret er imidlertid hverken stabilt eller en fysisk størrelse, idet det afhænger af retningen til den satellit, det modtagne signal kommer fra.
+For at sikre god nøjagtighed er det derfor vigtigt at kende afvigelsen mellem antennefasecentret og en fysisk målbar størrelse, ARP (antenna reference point). ARP er normalt defineret til at være midten af antennens bund.
+Et udtryk for afvigelsen mellem ARP og antennefasecentret opnås gennem kalibrering af antennen.
+Man taler om relativ og absolut antennekalibrering.
+Inddragelse af absolut antennekalibrering i beregningen bidrager til bestemmelse af den mest nøjagtige position.
+DOP-værdi Dilution Of Precision er en indikation af placeringen af GNSS-satelliter og -modtagere i forhold til hinanden.
+ETRS89 European Terrestrial Reference System 89 er et referencesystem, der er sammenfaldende med ITRS til epoken 1989.0 for den stabile del af den Eurasiske plade.
+Dermed opnås et system, der er fikseret til pladen over tid.
+Realiseringen af ETRS89 betegnes ETRF89 og har samme koordinater som ITRF1989 til epoken 1989.0 i Europa.
+ ETRS89 er blevet synonym for ETRF89.
+ ETRS89 er det primære referencesystem i Danmark og Europa.
+ITRF The International Terrestrial Reference Frame er realiseringen af ITRS (The International Terrestrial Reference System) og er udarbejdet af IERS (International Rotation and reference system Service). ITRS er et geocentrisk 3D kartesisk reference system, der har origo placeret i jordens massemidtpunkt, og som drejer rundt med jorden.
+ Der findes forskellige realiseringer af ITRS, blandt andet ITRF1989, ITRF2000 og ITRF2005.
+GNSS Global Navigation Satellite Systems er en fælles betegnelse for globale satellit systemer, der kan anvendes til positionering og navigation.
+F.eks.
+GPS og Glonass.
+Net Betegnelsen net er i normen anvendt om såvel RTK services, hvor referencestationerne håndteres som netværk, som om RTK services, hvor enkeltstående stationer administreres samlet.
+RTCM Radio Technical Commission for Maritime Services sætter i samarbejde med producenter af GNSS-udstyr de facto standarder for transmission af GNSS-korrektioner, det såkaldte RTCM-format.

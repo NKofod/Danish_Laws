@@ -1,0 +1,217 @@
+1. Indledning Nærværende samlede tekniske bestemmelser for PABC'er er, jf. oversigten,  
+
+ opdelt i ialt 11 dele, der kan opdeles i følgende hovedgrupper:
+Generelle dele Dele hvis bestemmelser skal opfyldes af alle PABC'er.
+ Denne gruppe omfatter del 1 og del 2.
+Snitflader mod det offentlige telefonnet Dele der beskriver de tekniske bestemmelser for tilslutning af PABC'er til  
+
+ det offentlige telefonnet via forskellige ledningstyper.
+De enkelte dele kan  
+
+ indeholde en yderligere underdeling af den pågældende ledningstype.
+ Denne gruppe omfatter delene 3, 4, 8 og 9.
+ Snitfladen for enhver ledningstype hvorover tilslutning til det offentlige  
+
+ telefonnet ønskes skal opfylde bestemmelserne i henhold til den aktuelle del  
+
+ i denne gruppe.
+ Bestemmelserne skal opfyldes uanset hvilken type telefonapparat, der  
+
+ tilsluttes lokallinieinstallationerne.
+ For at opnå typegodkendelse skal en PABC mindst opfylde bestemmelserne i  
+
+ een af delene 3 eller 8.
+ Der stilles ikke krav om at en PABC skal kunne tilsluttes det offentlige  
+
+ telefonnet via en bestemt af ledningstyperne i del 3 og 8 eller via flere  
+
+ forskellige ledningstyper.
+Transmissionsbetingelser Dele der beskriver de tekniske bestemmelser for transmission i teknologisk  
+
+ forskellige PABC typer.
+ Denne gruppe omfatter delene 10 og 12.
+ For at opnå typegodkendelse skal en PABC opfylde bestemmelserne i een af  
+
+ delene i denne gruppe.
+Diverse udstyrstyper Dele der beskriver de tekniske bestemmelser for tilslutning af diverse  
+
+ udstyrstyper til PABC'er.
+ Denne gruppe omfatter delene 5, 6 og 7.
+ Der stilles ikke krav om at de udstyrstyper, der er beskrevet i de enkelte  
+
+ dele i denne gruppe skal kunne tilsluttes en PABC, men omvendt må ingen af de  
+
+ omhandlede udstyrstyper tilkobles en PABC uden at bestemmelserne i den  
+
+ aktuelle del er opfyldte.
+ For oversigt over hvilke bestemmelser der skal være opfyldt for en PABC's  
+
+ forskellige snitflader og diverse tilsluttede udstyrstyper henvises til fig.  
+
+ 1.
+ I de dele der indeholder tekniske oplysninger om det offentlige telefonnet  
+
+ repræsenterer oplysningerne så vidt muligt den samlede mængde relevante  
+
+ oplysninger.
+ Oplysningerne må principielt betragtes som vejledende retningslinier.
+Da det offentlige telefonnet er opbygget over en lang årrække er der i  
+
+ nettet tekniske forskelle der afspejler sig i visse tekniske oplysninger som  
+
+ angivet i de enkelte dele ikke er gældende overalt eller at tekniske  
+
+ parametre ikke er ens overalt.
+Tekniske forskelle kan forekomme såvel fra  
+
+ teleadministration til teleadministration som fra telefoncentral til  
+
+ telefoncentral.
+Yderligere oplysninger om sådanne tekniske forskelle kan  
+
+ indhentes hos de enkelte teleadministrationer.
+2. Generelle definitioner 2-tråds transmissionsvej Transmissionsvej hvori energien i de 2 transmissionsretninger kun kan  
+
+ adskilles på grundlag af informationsindholdet.
+ En 2-tråds transmissionsvej kan uden videre etableres via et enkelt  
+
+ trådpar.
+4-tråds transmissionsvej Transmissionsvej hvori energien overføres adskilt i de 2  
+
+ transmissionsretninger.
+Adskillelsen af de 2 transmissionsretninger sker  
+
+ enten rumligt, frekvensmæssigt, tidsmæssigt eller ved hjælp af adaptiv  
+
+ ekkoundertrykkelse (echo cancelling).
+ En 4-tråds transmissionsvej kan således etableres via 2 trådpar uden  
+
+ videre eller via 1 trådpar med enten multipleksning (frekvens eller  
+
+ tidsopdelt) eller adaptiv ekkoundertrykkelse.
+2-tråds/4-tråds overgang (gaffelkobling) Sammenkobling af en 2-tråds og en 4-tråds transmissionsvej.
+Overgangen  
+
+ etableres ved hjælp af en gaffelkobling, der overfører en del af energien fra  
+
+ 2-tråds transmissionsvejen til 4-tråds transmissionsvejens senderetning  
+
+ henholdsvis overfører en del af energien fra 4-tråds transmissionsvejens  
+
+ modtagerretning til 2-tråds transmissionsvejen.
+Analog transmissionsvej Transmissionsvej hvori den transmitterede energi repræsenterer  
+
+ øjebliksværdier af den transmitterede information i kontinuert eller  
+
+ diskontinuert, analog form.
+ En analog transmissionsvej kan være udformet som enten en 2-tråds eller en  
+
+ 4-tråds transmissionsvej.
+Digital transmissionsvej Transmissionsvej hvori den transmitterede energi repræsenterer  
+
+ kodesignaler for diskrete øjebliksværdier af den transmitterede information i  
+
+ diskontinuert, digital form.
+ En digital transmissionsvej er altid udformet som en 4-tråds  
+
+ transmissionsvej.
+2-tråds PABC PABC, hvori alle transmissionsveje, der indgår i sammenstilling af 2 PABC  
+
+ snitflader, er udformet som 2-tråds analoge transmissionsveje.
+ Der indgår således ingen gaffelkoblinger i den samlede transmissionsvej  
+
+ mellem de 2 snitflader.
+4-tråds PABC PABC, hvori mindst een af de transmissionsveje, der indgår i  
+
+ sammenstilling af 2 PABC snitflader, er udformet som en 4-tråds analog eller  
+
+ digital transmissionsvej.
+ Der indgår således en eller flere gaffelkoblinger i den samlede  
+
+ transmissionsvej mellem de 2 snitflader, forudsat at der overhovedet findes  
+
+ 2-tråds snitflader på PABC'en.
+ Såfremt transmissionsvejene mellem snitfladerne er digitale kaldes PABC'en  
+
+ en digital PABC.
+PABC systemapparat Et PABC systemapparat er et telefonapparat, der typegodkendes i sammenhæng  
+
+ med en specifik PABC eller PABC familie fremfor at blive typegodkendt som et  
+
+ selvstændigt telefonapparat.
+PABC systemapparater er beregnet for tilslutning til en eller flere  
+
+ lokalledningskredse på en specifik PABC eller PABC familie.
+Tilslutningen til  
+
+ hver lokalledningskreds sker over et eller flere trådpar eller tilsvarende.  
+
+ Apparater, der tilsluttes specielle kredse, herunder kredse for  
+
+ omstillingsapparater, regnes ligeledes som PABC-systemapparater.  
+
+ Systemapparater kan være indrettet for en eller flere former for  
+
+ telekommunikation f.eks. tale- og/eller datakommunikation.
+Transmissionen  
+
+ over tilslutningen kan foregå på analog og/eller digital form.
+ Typegodkendelse af systemapparater må kun ske i sammenhæng med den  
+
+ specifikke PABC eller PABC familie, hvortil apparaterne hører.
+3. Generelle bestemmelser 3.1. Sikkerhed overfor stærkstrøm En PABC der strømforsynes fra stærkstrømsnettet, skal være udført i  
+
+ overensstemmelse med stærkstrømsreglementets forskrifter.
+ Det samme gælder tilhørende udstyrstyper, der strømforsynes fra  
+
+ stærkstrømsnettet og ønskes typegodkendte i henhold til nærværende tekniske  
+
+ bestemmelser.
+ I det omfang danske love og bestemmelser kræver det, skal PABC'en og de  
+
+ forannævnte udstyrstyper være D-mærkede eller registrerede hos DEMKO.
+3.2. Gennemslagsspænding Der må ikke gennem en PABC eller hertil sluttede udstyrstyper være  
+
+ jævnstrømsforbindelse fra nogen ledning mod det offentlige telefonnet til  
+
+ stærkstrømsnettet.
+Enhver komponent, gennem hvilken der ved fejl vil kunne  
+
+ opstå en sådan forbindelse, skal være afprøvet med en 50 Hz vekselspænding på  
+
+ 2000 V (effektivværdi) i mindst 1 min.
+ Ovennævnte krav betragtes som værende opfyldt, såfremt benyttede  
+
+ strømsforsyninger tilkoblet stærkstrømsnettet er D-mærkede.
+3.3. Nødgennemstilling Såfremt en PABC til hel eller delvis sikring af telefontrafikken ved  
+
+ strømsvigt eller andre typer driftsforstyrrelser i PABC'en, er indrettet med  
+
+ indbygget nødgennemstilling af en eller flere af de analoge ledninger mod det  
+
+ koblede telefonnet, må nødgennemstilling af hver enkelt af disse ledninger  
+
+ kun finde sted til et telefonapparat godkendt for tilslutning til det koblede  
+
+ offentlige telefonnet.
+Kravet skal kunne dokumenteres eller afprøves i  
+
+ forbindelse med typegodkendelsen.
+ Kravet om at nødgennemstilling kun må finde sted til et telefonapparat  
+
+ godkendt for tilslutning til det koblede offentlige telefonnet er ligeledes  
+
+ gældende såfremt nødgennemstillingen realiseres ved hjælp af eksternt udstyr.
+3.4. Overholdelse af tekniske bestemmelser under drift Under drift skal nærværende tekniske bestemmelser overholdes.
+4. Sikkerhed på højspændingsanlæg Skal en PABC installation eller dele heraf anvendes indenfor et  
+
+ højspændingsanlægs sikkerhedsafstand jf.
+Statens Teleråds cirkulære nr. 14  
+
+ »Sikring af teleanlæg mod overspændinger« skal der i hvert enkelt  
+
+ tilfælde træffes aftale med teleadministrationen om eventuelle særlige  
+
+ sikkerhedsforanstaltninger til sikring af ledninger mod det offentlige  
+
+ telefonnet.

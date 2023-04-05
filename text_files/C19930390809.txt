@@ -1,0 +1,41 @@
+Tilskud til kost og logi til deltagere i arbejdsmarkedsuddannelser  
+
+ fastsættes ifølge § 22 i ovennævnte bekendtgørelse efter statens regler om  
+
+ time- og dagpenge m.v., afsnit II.
+De nye satser for tilskud er fra og med 1.  
+
+ januar 1993 (ikke-forsørgerbegrebet bortfald med bekendtgørelsesændringen  
+
+ 1.10.92):
+ Arbejdsmarkedsstyrelsens AF- og AK-cirkulære nr. 2/93 af 19. januar 1993,  
+
+ j.nr. 1993-213-5 tilbagekaldes hermed.
+Med venlig hilsen Berit Nordahl Fuldmægtig BILAG EDB-UNDERSTØTTELSEN VEDRØRENDE FRIVILLIGT OG SELVFUNDET ARBEJDSTILBUD Frivilligt arbejdstilbud.
+ EDB-behandling i AF-MATCH:
+ I 0.10.10 er der nu 2 nye ordrertyper, som kan bruges ved frivilligt ATB:
+ 24 = frivilligt ATB off. 25 = frivilligt ATB priv.
+ Nyt kontaktkodeforløb:
+ Hvis en ledig ønsker et frivilligt ATB, påføres det i A.25.15 med  
+
+kontaktkode F01 = udsøgningspulje til frivilligt ATB, og der er  
+
+ mulighed for tilføjelse.
+ Hvis den ledige ikke ønsker et frivilligt ATB påføres i A.25.15  
+
+kontaktkode F52 = ønsker ikke frivilligt ATB.
+ Se vedlagte oversigt af kontaktkodeområdet F.
+ De 5 breve har fået en ny ordlyd i forhold til bestående ATB-breve.
+ Nye formidlingsbreve (ordlyden):
+B531030 = samtale/information om frivilligt ATB B531560 = brev til personen om at ringe til arb.giver B531561 = brev til arb.giveren om at personen ringer B531563 = brev til a-kassen om at personen ringer til arb.g.
+B531570 = brev til personen om at møde hos arb.giver B531571 = brev til arb.giveren om at personen møder op B531573 = brev til a-kassen personen møder hos arb.giver.
+ Ved færdigmelding af ordretype 24 og 25 og personen har  
+
+kontaktkode F01 oprettes en særlig ansat i S-registret.
+ Selvfundet arbejdstilbud.
+ kodebrug i AF-MATCH:
+ Der er oprettet 2 nye kontaktkoder R61 og S61 til statistisk  
+
+ brug:
+R61 = ANSAT i selvfundet 1.ATB og S61 = ANSAT i selvfundet 2.ATB en af de 2 koder påføres den ledige ved færdigmelding af formidling.
+ Ellers er det et normalt ATB kontaktkodeforløb der benyttes.

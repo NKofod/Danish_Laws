@@ -1,0 +1,529 @@
+ 1. Indledning.
+ BBR-meddelelse nr. 5, 1978, omhandler principperne for  
+
+ førstegangsetableringen af kontakt mellem bygnings- og boligregistret (BBR)  
+
+ og det centrale personregister (CPR) samt for den efterfølgende  
+
+ tilvejebringelse af overensstemmelse mellem de to samlinger af boligadresser.  
+
+ Nærværende BBR-meddelelse indeholder retningslinier for en fastholdelse af  
+
+ adressesammenfald i de to registre i perioden efter den første samkøring -  
+
+ d.v.s. i driftsfasen.
+Med det formål at fastholde et sammenfald af adressebetegnelser i BBR og  
+
+ CPR er der opbygget en løbende maskinel udveksling af oplysninger mellem  
+
+ registrene.
+Denne kommunikation skal sikre, at CPR's registrering af  
+
+ befolkningens adresser tillige indeholder oplysning om den boligtypekode  
+
+ (herunder almindelig beboelseslejlighed, enkeltværelse, fællesbolig o.s.v.)  
+
+ med hvilken de pågældende adresser er registreret i BBR.
+Såfremt der opstår  
+
+ uoverensstemmelser mellem adresserne i de to registre, vil der løbende  
+
+ udskrives anmærkninger, således at forholdet kan rettes.
+Herigennem er der  
+
+ tilvejebragt et grundlag for, at der på ethvert tidspunkt er den højeste grad  
+
+ af overensstemmelse mellem boligadresserne i de to registre.
+I afsnit 2 er den løbende videresendelse af oplysninger fra BBR til CPR  
+
+ beskrevet.
+Denne videresendelse foregår som hovedregel maskinelt på grundlag  
+
+ den almindelige ajourføring af oplysninger om boligmassen i BBR.
+Ved hver  
+
+ ajourføring af BBR vil der således blive udtrukket oplysninger om tilgang og  
+
+ nedlæggelse af boligadresser samt om ændringer af boligtypekoder, der  
+
+ herefter videresendes og indsættes i CPR,s adresseindeks.
+Udover videresendelsen til CPR ved den almindelige ajourføring af BBR's  
+
+ dataindhold er der endvidere åbnet mulighed for, i undtagelsestilfælde at  
+
+ overføre oplysninger til CPR om eksisterende boligtypekoder for boligadresser  
+
+ i BBR, der ikke er omfattet af den ovennævnte maskinelle overførsel.
+Denne  
+
+ overførsel udløses ved en manuel indrapportering til et særligt felt (378)  
+
+ »adressekode« i BBR's stamregister.
+Afsnit 3 vedrører kontrol af tilflytningsadresser i CPR.
+Kontrollen  
+
+ indebærer, at der løbende udskrives anmærkning, hvis personer i CPR  
+
+ registreres på en adresse, som ikke er registreret som bolig i BBR (d.v.s.  
+
+ uden boligtypekode eller med en åbenbar fejlagtig boligtypekode).
+Ved et totalt gennemløb af CPR's adresseindeks kan det ud fra  
+
+ boligtypekodemarkeringerne konstateres, om alle personer kan henføres til en  
+
+ boligadresse, der tillige findes i BB.
+Herved kan graden af overensstemmelse  
+
+ mellem adressebetegnelserne i de to registre konstateres.
+Denne  
+
+ kontrolmulighed er omtalt i afsnit 4.
+ Endelig omhandler afsnit 5 de særlige procedurer for kommuner, hvor  
+
+ oprettelsen af statusregistret (CP), ikke var tilendebragt ved udgangen af  
+
+ november 1978.
+ Vedrørende en generel omtale af kontakten mellem BBR og CPR, henvises til  
+
+ boligministeriets cirkulære af 23. oktober 1978 om bygnings~ og  
+
+ boligregistrets drift og anvendelse 1, pkt. 27-29. Endvidere henvises til  
+
+ CPR-meddelelserne nr. 11/1978 og nr. 13/1978, der er udsendt af sekretariatet  
+
+ for personregistrering.
+ 2. Løbende videresendelse af oplysninger fra BBR til CPR.
+Umidelbart efter den første kontakt mellem BBR og CPR, der blev gennemført  
+
+ i begyndelsen af december 1978, påbegyndtes den løbende maskinelle  
+
+ videresendelse af oplysninger fra BBR til CPR efter BBR's ajourføringskørsler  
+
+ i Kommunedata.
+Denne maskinelle videresendelse af adresser og boligtypekode  
+
+ kan dels være forårsaget af indrapporteringer til BBR om oprettelse og  
+
+ nedlæggelse af boliger samt om ændring af boligtypekode (jfr.pkt.2A) og dels  
+
+ være forårsaget af en indrapportering til felt 378 i BBR's stamregister (jfr.  
+
+ pkt. 2 B).
+ Som nævnt i BBR-meddelelser nr. 5, 1978 anvendes adressen og  
+
+ boligtypekoden som bindeled mellem BBR og CPR ved såvel  
+
+ førstegangsetableringen af kontakt som ved den efterfølgende driftsfase.  
+
+ Kommunikationen mellem registrene er tilrettelagt således, at boligmasser med  
+
+ boligtypekode 1, 3 eller 4 skal findes i begge registre, hvorimod  
+
+ boligtypekode 2 eller 5 kun indsættes i CPR for adresser, der i forvejen  
+
+ findes i CPR's adresseindeks.
+ Ovennævnte sondring er begrundet i, at det vil være sjældent forekommende  
+
+ med persontilmelding i CPR på adresser, der i BBR er registreret med  
+
+ boligtypekode 2 og 5.
+For eksisterende adresser i CPR, hvor boligtypekode 2 eller 5 er indsat,  
+
+ er der ved førstegangsetableringen af kontakt mellem registrene foretaget en  
+
+ maskinel tilbagemelding til BBR, hvorved den tilsvarende kodeværdi er indsat  
+
+ i felt 378 i BBR.
+Dette markerer, at adressen findes i CPR og sikrer, at  
+
+ oplysninger om eventuelle fremtidige ajourføringer af boligtypekoden i BBR  
+
+ videresendes til CPR.
+Kodeværdier i felt 378 er ikke nødvendig for  
+
+ enhedsadresser med boligtypekode 1, 3 eller 4, idet disse adresser altid skal  
+
+ findes i begge registre.
+2A.
+Indrapporteringer af oplysninger om oprettelse og nedlæggelse af  
+
+  boliger samt om ændring af boligtypekode.
+Fra BBR-ændringsregister videresendes alene til CPR oplysninger om  
+
+ boligenheder med boligtypekode 1, 3 eller 4 i påbegyndt nybyggeri.
+I CPR  
+
+ oprettes adressen og/eller indsættes boligtypekode 8 til markering af, at  
+
+ byggeriet i BBR er registreret som værende under opførelse.
+Videresendelsen  
+
+ til CPR vil kun finde sted, hvis oplysninger om boligtypekode foreligger i  
+
+ BBR-ændringsregister.
+Når ibrugtagningstilladelse udstedes og oplysningerne  
+
+ overføres til BBR-stamregister videresendes oplysning til CPR, således at den  
+
+ midlertidige boligtypekode 8 erstattes af den relevante boligtypekode (1, 3  
+
+ eller 4).
+ Vedrørende en beskrivelse af boligtypekodeerne samt en skematisk oversigt  
+
+ over den fælles anvendelse heraf i BBR og CPR henvises til bilag 1 i  
+
+ BBR-meddelelse nr. 5, 1978.
+Ved overførsel af oplysninger fra BBR-ændringsregister til  
+
+ BBR-stamregister samt ved direkte indrapporteringer til BBR-stamregister  
+
+ foretages følgende maskinelle videresendelse til CPR: - ved nytilgang af  
+
+ boligenheder med boligtypekode 1, 3 eller 4 oprettes adressen og/eller  
+
+ indsættes boligtypekoden i CPR - ved afgang (og herunder overgang til  
+
+ erhverv) af boligenheder med boligtypekode 1, 3 eller 4 indsættes en  
+
+ boligtypekode 7 i CPR.
+Boligtypekode 7 i CPR angiver, at boligen er nedlagt i  
+
+ BBR.
+Tilsvarende gælder ved afgang af boligenheder med boligtypekode 2 eller  
+
+ 5, når det i felt 378 i BBR er markeret, at adressen findes i CPR (ved  
+
+ overgang til erhverv vil felt 378 maskinelt blive sat lig med blank) - ved  
+
+ ændring af boligtypekoden indenfor kodeværdierne 1, 3 eller 4 indsættes den  
+
+ nye boligtypekode i CPR.
+Tilsvarende gælder ved ændringer mellem  
+
+ kodeværdierne 2 og 5, såfremt det af felt 378 i BBR fremgår, at adressen  
+
+ findes i CPR (den nye kodeværdi indsættes maskinelt i felt 378). Ændres  
+
+ boligtypekoden i BBR fra 2 eller 5 til 1, 3 eller 4 oprettes adressen  
+
+ og/eller indsættes den ny boligtypekode i CPR's adresseindeks, samtidig med  
+
+ at en eventuel markering i felt 378 maskinelt sættes lig med blank.
+ En maskinel videresendelse til CPR med oplysning om afgang af boligenhed i  
+
+ BBR samtidig med, at der i CPR er registreret personer på adressen, vil  
+
+ resultere i udskrivning af følgende tekst på anmærkningsliste:
+ ALLE PERSONER ER IKKE FRAFLYTTET DEN NEDLAGTE BOLIG:
+Forholdet kan skyldes, at personen(erne) har undladt at melde flytning til  
+
+ folkeregisteret eller iøvrigt er registreret med en fejlagtig adresse, at  
+
+ indrapporteringen til BBR er fejlagtig (boligen findes fortsat), at personen  
+
+ (erne) fortsat bor på adressen, men har taget ophold i boliger, der ikke skal  
+
+ registreres i BBR såsom campingvogne o.lign.
+I sidstnævnte tilfælde skal  
+
+ folkeregistret indberette en boligtypekode 6 gennem sekretariatet for  
+
+ personregistrering.
+ 2. Beskrivelse af felt 378 i BBR-stamregister (overførsel fra  BBR til  
+
+ CPR af oplysning om eksisterende boligtypekode  for boligadresse).
+ Som omtalt ovenfor er formålet med felt 378, at registrere, hvilke  
+
+ boligadresser med boligtypekode 2 og 5 i BBR, der tillige findes i CPR - jfr.  
+
+ den omtalte maskinelle indsættelse og sletning af kodeværdi 2 og 5 i felt  
+
+ 378.
+Endvidere åbnes der mulighed for en overførsel af oplysning om  
+
+ boligtypekode fra BBR til CPR gennem manuel indrapportering til felt 378.  
+
+ Overførslen til CPR vil finde sted ved indrapportering af den særlig  
+
+ kodeværdi 9 til felt 378. Denne indrapportering til BBR vil bevirke, at den  
+
+ boligtypekode, der er registreret i boligenhedens felt 308, maskinelt  
+
+ overføres til den tilsvarende boligadresse i CPR.
+Såfremt der er tale om  
+
+ boligenheder med boligtypekode 2 eller 5 vil den tilsvarende kodeværdi  
+
+ maskinelt blive indsat i felt 378, hvorved det markeres, at boligtypekoden  
+
+ findes i CPR.
+Ovennævnte overførsel af boligtypekode til CPR ved indrapportering af  
+
+ kodeværdi 9 til felt 378 betegnes en rekvireret overførsel, idet forholdet  
+
+ vil være en følge af, at personer i CPR er registreret med en adresse uden  
+
+ boligtypekode.
+Proceduren skal alene benyttes i de tilfælde, hvor der i BBR  
+
+ allerede er registreret en boligenhed med korrekt boligtypekode på den  
+
+ pågældende adresse.
+Eftersom alle adresser med boligtypekode 1, 3 eller 4 i  
+
+ BBR også vil findes i CPR vil den rekvirerede overførsel som hovedregel være  
+
+ en følge af en persontilmelding i CPR til en adresse, der i BBR er  
+
+ registreret med boligtypekode 2 eller 5.
+ 3. Anmærkninger ved indrapportering til CPR (kontrol af  
+
+  tilflytningsadresse i CPR).
+ Den løbende ajourføring af CPR's adresseindeks foregår i forbindelse med  
+
+ registrering af flytninger, fødsler, dødsfald, ind/udvandringer,  
+
+ forsvindinger, genfindinger samt korrektioner af adressen.
+ Ved persontilmelding til adresse, der ikke findes i CPR's adresseindeks,  
+
+ vil adressen blive oprettet i CPR samtig med, at følgende takst vil blive  
+
+ udskrevet på anmærkningsliste:
+ INDRAPPORTERET ADRESSE ER NU OPRETTET I ADRESSEINDEKSET.
+ Såfremt persontilmeldingen sker til adresse, der i CPR's adresseindeks er  
+
+ registreret med boligtypekode blank, 0, 7 eller 8, udskrives følgende tekst  
+
+ på anmærkningsliste: TILFLYTNING TIL BOLIG MED FORKERT BOLIGTYPEKODE.
+ Årsagen til udskrivning på anmærkningsliste af ovennævnte tekster kan  
+
+ skyldes:
+- at personerne er indrapporteret med fejlagtig adresse (Folkeregistret må  
+
+ korrigere adressen for de berørte personer i CPR) - at adressen relaterer sig til en bolig, der efter sin art ikke skal  
+
+ registreres i BBR såsom campingvogne, telt m.v. (Folkeregistret skal i dette  
+
+ tilfælde indberette en boligtypekode 6 gennem sekretariatet for  
+
+ personregistrering) - at boligenheden er registreret med ukorrekt adresse eller  
+
+ anvendelseskode (erhverv) i BBR. (BBR-myndigheden korrigerer adressen eller  
+
+ anvendelseskoden i BBR, hvorefter boligtypekoden ved næste ajourføringskørsel  
+
+ af BBR maskinelt vil blive overført til CPR's adresseindeks) - at boligenheden ikke er oprettet i BBR. (BBR-myndigheden opretter  
+
+ boligenheden i BBR, hvorefter boligtypekoden ved næste ajourføringskørsel af  
+
+ BBR maskinelt vil blive overført til CPR's adresseindeks - at boligenheden findes i BBR med boligtypekode 2 eller 5 (Såfremt  
+
+ boligtypekoden og dermed underliggende forhold, der bestemmer dannelsen af  
+
+ boligtypekoden, ikke ønskes ændret, foretager BBR-myndigheden indrapportering  
+
+ til felt 378 som omtalt i afsnit 2B.
+Denne mulighed for rekvireret overførsel  
+
+ eksisterer også for de øvrige boligtypekoder.
+Resulterer en afklaring af  
+
+ forholdet derimod i, at f.eks. anvendelseskoden skal ændres fra fritidsbolig  
+
+ til helårsbolig vil en indrapportering af den ændrede anvendelseskode  
+
+ resultere i dannelsen af en ændret boligtypekode, der herefter maskinelt  
+
+ overføres til CPR's adresseindeks - at boligenheden kan relateres til nybyggeri, der i BBR-ændringsregister  
+
+ er registreret som værende under opførelse (Tilfældet indikerer, at  
+
+ indflytning er sket inden udstedelse af ibrugtagningstilladelse til  
+
+ byggeriet) - at udskrivningen på anmærkningslisten alene skyldes forskelle i  
+
+ ajourføringsfrekvenser i de to registre.
+CPR har daglig ajourføring, hvorimod  
+
+ BBR som hovedregel ajourføres månedligt (Kan udskrivningen forklares herved,  
+
+ skal BBR-myndigheden ikke foretage sig yderligere, idet boligtypekoden ved  
+
+ næste ajourføring af BBR maskinelt vil blive overført til CPR's  
+
+ adresseindeks).
+De nævnte anmærkningstekster i dette afsnit samt i afsnit 2A udskrives ved  
+
+ den daglige ajourføring af CPR sammen med øvrige fejl/anmærkninger til  
+
+ folkeregistrene.
+Herudover udskrives og leveres særskilt anmærkningsliste,  
+
+ der af folkeregistret skal videregives til BBR-myndigheden.
+ Til orientering kan nævnes, at fejlteksten »HUSNUMMER MANGLER«  
+
+ udskrives til folkeregistret, såfremt husnummer udelades ved indrapportering  
+
+ af vejkode under 9.900. Endvidere udskrives fejlteksten »HUSNUMMER MÅ  
+
+ IKKE FOREKOMME« til folkeregistret, såfremt husnummer indrapporteres for  
+
+ vejkoder over 9.900. Vejkoder over 9.900 er reserveret til den særlige  
+
+ afdeling i folkeregistret, ved ophold på forskellige institutioner, personer  
+
+ uden fast adresse m.v..
+ 4. kontrol af overensstemmelsen mellem boligadresserne i BBR og CPR.
+Etableringen af den maskinelle kommunikation mellem BBR og CPR betyder, at  
+
+ eventuelle uoverensstemmelser mellem boligadresserne i CPR og BBR kan  
+
+ afdækkes alene på grundlag af indholdet i CPR's adresseindeks.
+Oplysningerne  
+
+ i CPR's adresseindeks vil således på et givet tidspunkt kunne vise, hvorvidt  
+
+ anmærkningerne fra førstegangsetableringen af kontakt mellem registrene samt  
+
+ fra den efterfølgende driftsfase har medført den ønskede overensstemmelse.
+Som nævnt i BBR-meddelelse nr. 5, 1978 foretages kontrollen ved at  
+
+ gennemløbe CPR's adresseindeks og kontrollere alle adresser for  
+
+ boligtypekodemarkering.
+Adresser uden boligtypekode eller med boligtypekode 0  
+
+ eller 7 udskrives på liste til kommunen, hvis der er registreret personer med  
+
+ bopæl på adressen.
+Disse forhold skal resultere i, at enten folkeregistret  
+
+ eller BBR-myndigheden indsender ændringer til henholdsvis CPR og BBR.
+I forbindelse med gennemløbet af CPR's adresseindeks er der endvidere  
+
+ planlagt udskrivning af en liste over boligadresser med boligtypekode 1, 3  
+
+ eller 4, hvortil der i længere tid ikke har været registreret  
+
+ persontilmelding.
+Opgørelsen over disse tilsyneladende ubeboede boligadresser  
+
+ vil udover adresse og boligtypekode for de berørte boliger indeholde  
+
+ oplysning om længden af den tidsperiode, hvor boligen har fremstået som  
+
+ ubeboet.
+Udskrivning af disse adresser behøver ikke at indebære, at boligerne  
+
+ er ubenyttede, men kan indikere, at f.eks. anvendelseskoden i BBR skal  
+
+ ændres.
+Kontrollen af overensstemmelsen mellem adresserne i BBR og CPR samt  
+
+ opgørelsen over boligadresser uden persontilmelding foretages første gang i  
+
+ slutningen af februar 1979. Dette tidspunkt svarer til den i  
+
+ Boligministeriets cirkulære af 23. oktober 1978, pkt. 28, fastsatte frist for  
+
+ etableringen af overensstemmelse mellem adresserne i de to registre.
+Graden  
+
+ af overensstemmelse ved denne kontrol vil være afgørende for, hvorvidt det  
+
+ bliver påkrævet at gennemføre yderligere kontrol efter en kortere periode.
+ Når den ønskede overensstemmelse mellem adresserne i de to registre er  
+
+ tilvejebragt kan udtræk fra registrene foretages til brug bl.a. for  
+
+ udarbejdelsen af den første registerbaserede boligtælling i Danmarks  
+
+ Statistik.
+Til brug for en række anvendelser vil der være behov for oplysninger om  
+
+ udlejningsforhold.
+Disse oplysninger i felt 322 ajourføres imidlertid kun  
+
+ hvert 4.år i forbindelse med de almindelige ejendomsvurderinger.
+Som følge  
+
+ heraf er der planlagt en årlig (forud for udarbejdelsen af  
+
+ boligtællingslignende opgørelser) maskinel dannelse af kodeværdierne i felt  
+
+ 392 »udlejningsforhold 2« i BBR-stamregister.
+Ved en samkøring  
+
+ mellem BBR, CPR og det kommunale ejendomsregister dannes en af følgende  
+
+ kodeværdier for boligenheder i BBR med boligtypekode 1, 3 eller 4 samt for  
+
+ enheder med boligtypekode 2 eller 5, hvor der i felt 378 findes markering af,  
+
+ at boligtypekoden er overført til CPR:
+1. Udlejet 2. Benyttet af ejeren 3. Ikke benyttet (ingen personer registreret på  
+
+ adressen i CPR).
+Med periodiske mellemrum (formentlig hvert halve år) foretages en  
+
+ reorganisering af CPR's adresseindeks.
+Dette indebærer, at adresser med  
+
+ boligtypekode forskellig fra 1, 3, 4 eller 8 slettes, såfremt disse har været  
+
+ uden persontilmelding i de sidste 27 måneder.
+Umiddelbart efter sletningen af  
+
+ adresser med boligtypekode 2 eller 5 i CPR's adresseindeks vil markeringen i  
+
+ BBR's felt 378 tillige maskinelt blive slettet.
+I forbindelse med disse  
+
+ reorganiseringer vil der samtidig blive åbnet mulighed for foretagelse af en  
+
+ kontrol af overensstemmelsen mellem adresserne i registrene samt for udskrift  
+
+ af boligadresser, der fremstår som ubeboede.
+ 5. Procedure for kommuner, hvor oprettelsen af statusregistret (CP)  ikke  
+
+ var tilendebragt ved udgangen af november 1978.
+Som nævnt i afsnit 2 vil der ved indrapporteringer til BBR af oplysninger  
+
+ om oprettelse og nedlæggelse af boliger samt om ændring af boligtypekode,  
+
+ maskinelt blive overført oplysninger til CPR's adresseindeks.
+Denne  
+
+ overførsel udløses dog kun ved indrapportering til BBR-ændringsregister, ved  
+
+ overførsel fra BBR-ændringeregister til BBR-stamregister samt ved direkte  
+
+ indrapportering til BBR-stamregister.
+Indrapporteringer til  
+
+ BBR-statusregisteret (CP-registret), der overføres til BBR-stamregister,  
+
+ medfører således ingen videresendelse af oplysninger til CPR.
+ For boliger med boligtypekode 1,3 eller 4, der oprettes ved  
+
+ indrapportering til BBR-statusregister efter ajourføringskørsel i Kommunedata  
+
+ den 27. november 1978, vil det være nødvendigt med en supplerende  
+
+ indrapportering af kodeværdi 9 til felt 378 i BBR-stamregister, hvilket vil  
+
+ betyde, at boligtypekoden fra felt 308 overføres til CPR (jfr. afsnit 2B).
+Såfremt oprettelse af et betydeligt antal boliger i BBR-statusregister  
+
+ resterer ved udgangen af november 1978 kan kommunen - som alternativ til  
+
+ ovennævnte procedure - rette skriftlig henvendelse herom til  
+
+ boligministeriet, sektionen for bygnings- og boligregistrering,  
+
+ Slotsholmsgade 12, 1216 København K.
+Boligministeriet vil herefter undersøge  
+
+ muligheden og behovet for en supplerende samkøring efter samme principper som  
+
+ ved førstegangsetableringen af kontakt mellem BBR og CPR.

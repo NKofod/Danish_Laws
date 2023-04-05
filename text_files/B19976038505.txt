@@ -1,0 +1,395 @@
+Måleteknisk direktiv  
+
+ (Vejledning)  
+
+ FJERNVARMEMÅLERE.   
+
+ Kontrolsystem for målere i drift.  
+
+ MDIR 07.01-01, udg. 3 Minimumskrav/Vejledning I henhold til Erhvervsfremme Styrelsens  
+
+ bekendtgørelse om kontrol med måling af fjernvarme i  
+
+ afregningsøjemed skal fjernvarmeleverandøren etablere et  
+
+ kontrolsystem, der er opbygget således, at der gennem dets drift  
+
+ opnås tilstrækkelig sikkerhed for, at de idriftværende  
+
+ målere ikke overskrider det dobbelte af de maksimalt tilladelige fejl  
+
+ ved førstegangsverifikation.
+ Kontrolsystemet skal dække alle komponenterne i en  
+
+ varmeenergimåler enten som samlet måler eller delt  
+
+ måler.
+ Som minimumskrav for størrelsen af  
+
+ tilstrækkelig sikkerhed kan anses et kvalitetsniveau på AQL 4%  
+
+ for tilfredsstillende (AQL   acceptable quality level).
+ Kontrolsystemer, der baseres på  
+
+ stikprøveudtagning, kan opbygges ved hjælp af standarden DS/ISO  
+
+ 2859 "Metoder og Tabeller for stikprøveudtagning for inspektion  
+
+ ved alternativ måling", eller den internationale ISO 3951  
+
+ "Sampling procedures and charts for inspection by variables for percent  
+
+ nonconforming".
+ Dette MDIR 07.01-01 udg. 3 har som grundlag taget  
+
+ udgangspunkt i DS/ISO 2859, AQL 4%, inspektionsniveau II.
+ Efterfølgende er der anført eksempel  
+
+ på et kontrolsystem baseret på inspektion ved alternativ  
+
+ måling, idet der for enkelt stikprøvekontrol ved partier under  
+
+ 90 målere er anvendt en lavere AQL værdi end 4%.
+ Ved anvendelse af inspektion ved kontinuert variation  
+
+ henvises til standarden ISO 3951. Det kan være hensigtsmæssigt at  
+
+ udtage en stikprøvestørrelse svarende til inspektion ved  
+
+ alternativ variation for i givet fald at kunne skifte til denne metode, hvis  
+
+ testresultaterne viser sig ikke at kunne betragtes som normalfordelt.
+Ikrafttræden Dette MDIR 07.01-01, udgave 3 træder i kraft den 31.  
+
+ December 1997 og erstatter samtidig udgave 1 af 8. November 1990 (NB.
+Udgave  
+
+ 2 er annulleret.
+Indtil 31. December 1997 kan såvel udgave 1 som udgave  
+
+ 3 anvendes).
+Stikprøvekontrol - Alternativ måling Stikprøven kan enten baseres på enkelt eller  
+
+ på dobbelt stikprøveudtagning.
+ 1. Partiinddeling.
+ Målerbestanden skal inddeles i partier med ensartede  
+
+ karakteristika således, at stikprøveresultatet kan betragtes som  
+
+ repræsentativt for det målerparti, som målerne er udtaget  
+
+ fra.
+ Eksempelvis:
+ Målerne skal have samme måleprincip fx  
+
+ vingehjulsmålere, magnetisk induktive målere eller  
+
+ ultralydsmålere o.s.v.
+ Samme målerstørrelse.
+ Målerne skal have tilnærmelsesvis samme alder fra  
+
+ opsætningstidspunktet.
+ 2. Parti- og stikprøvestørrelser.
+ Parti- og stikprøvestørrelser kan  
+
+ vælges, som anført i punkt 3.1 og 3.2. Større  
+
+ målerantal bør opdeles i flere partier, idet der dog for  
+
+ større partier kan anvendes sammenhængen mellem parti- og  
+
+ stikprøvestørrelse i henhold til den danske standard, DS/ISO  
+
+ 2859, AQL 4% og inspektionsniveau II.
+ 3. Godkendelses-/forkastelseskriterier.
+ 3.1 Enkelt stikprøve.
+ Partistørrelse  max.
+antal målere Stikprøve antal målere Godkendelse max.
+antal målere med afvigelser 5 Alle 0  AQL 2,5 25 5 0  AQL 2,5 50 8 0  AQL 1,5 AQL 4 90 13 1 150 20 2 280 32 3 500 50 5 1200 80 7 3200 125 10 3.2 Dobbelt stikprøve.
+Partistørrelse max. antal målere Antal i første stikpr 1.
+Antal første plus anden 1. + 2.
+Godkendelse max. antal med afvigelser Forkastelse min.
+antal med afvigelser 8 0 2 90 16 1 2 13 0 3 150 26 3 4 20 1 4 280 40 4 5 32 2 5 500 64 6 7 1200 50 3 7 100 8 9 3200 80 5 9 160 12 13 4. Procedure for stikprøveudtagning.
+ Målerne i stikprøven skal være udtaget  
+
+ ved tilfældig udvælgelse fra det parti, som de  
+
+ tilhører.
+4.1 Målerne skal nedtages og bringes til  
+
+ målelaboratoriet på betryggende måde.
+Det kan eksempelvis  
+
+ indebære, at målerne ved nedtagning proppes, så de ikke  
+
+ tørrer ind.
+4.2 Af hensyn til at opnå det største udbytte  
+
+ af stikprøveresultatet bør særlige forhold ved  
+
+ installation og nedtagningen noteres.
+Fx noteres filterets tilstand.
+4.3 Viser en måler tegn på transportskade,  
+
+ skal måleren udgå af stikprøven.
+Det kan derfor være  
+
+ hensigtsmæssigt at nedtage to målere flere end  
+
+ stikprøveplanen foreskriver.
+ 4.4 Anvendes en dobbelt stikprøveplan, skal  
+
+ målerne i anden stikprøveudtagning være udvalgt samtidig  
+
+ med, at målerne til første stikprøveudtagning  
+
+ udvælges.
+ 5. Godkendelse/forkastelse af parti.
+ En måler anses for afvigende, dersom den overskrider  
+
+ grænseværdierne ved en af de prøvede volumenstrømme  
+
+ (flow).
+ 5.1 Enkelt stikprøveudtagning.
+ Partiet godkendes, dersom antallet af afvigende  
+
+ målere i stikprøven er mindre end eller lig med tabellernes  
+
+ godkendelsestal.
+ 5.2 Dobbelt stikprøveudtagning.
+ Ved dobbelt stikprøveudtagning godkendes partiet  
+
+ efter 1. stikprøve, hvis antallet af afvigende målere er mindre  
+
+ end eller lig godkendelsestallet for 1. stikprøve.
+ Partiet kasseres efter 1. stikprøve, hvis antallet  
+
+ afvigende målere er større end eller lig med tallet for  
+
+ forkastelse (2. stikprøve undersøges derfor ikke).
+ Er antallet af afvigende målere ved 1.  
+
+ stikprøve større end godkendelsestallet, men mindre end tallet  
+
+ for forkastelse, undersøges 2. stikprøve.
+ Partiet godkendes, dersom det samlede antal afvigende  
+
+ målere for 1. plus 2. stikprøve er mindre end eller lig med  
+
+ godkendelsestallet for 1. plus 2. stikprøve.
+ 6. Kontrolsystemet.
+ 6.1 Kontrolperiode.
+Fjernvarmeleverandøren skal enten turnusudskifte  
+
+ eller stikprøvekontrollere sine målere med et tidsinterval  
+
+ på maks 6 år.
+Kalibreringen af målerne skal foretages af et  
+
+ hertil akkrediteret laboratorium.
+ Får leverandøren formodning om, at visse  
+
+ målere overskrider de tilladte grænser for  
+
+ måleunøjagtighed, skal leverandøren umiddelbart  
+
+ undersøge disse målere uafhængigt af det normale  
+
+ driftskontrolsystem.
+ Formodningen kan fx være begrundet i reklamationer,  
+
+ erfaring fra kontrol af partier med tilsvarende målere eller  
+
+ lignende.
+ 6.2 Ændring af partiinddelingen.
+ Giver stikprøvens resultater formodning om, at  
+
+ forkastelsen skyldes en særlig årsag, der kan henføres til  
+
+ en afgrænset del af partiet, kan partiet opdeles til mindre partier.  
+
+ Disse partier skal derefter umiddelbart kontrolleres hver for sig.
+I de følgende afsnit er anført en  
+
+ række målepunkter for driftskontrollen.
+Som alternativ kan  
+
+ kalibreres ved samme målepunkter som gældende for nye  
+
+ målere (verifikation).
+ For såvel for en samlet måler (benævnt  
+
+ komplet måler) som for en delt måler skal såvel  
+
+ beregningsenhed inkl. følerpar son volumenmåleren  
+
+ turnusudskiftes eller overvåges med den ovenfor angivne  
+
+ periodelængde.
+ I dette MDIR anvendes følgende betegnelser:
+Qmin : Minimum volumenstrøm Qmaks : Maksimum vedvarende volumenstrøm Q : Aktuel kalibrering flow D  
+
+ t : Temperaturdifferens 6.3 Målepunkter/Tolerancekrav De nedenfor angivne kontrolgrænser er  
+
+ verifikationsgrænserne.
+Driftskontrolgrænserne er 2 gange  
+
+ verifikationsgrænserne.
+NB.
+Det bemærkes, at det er tilladt ved  
+
+ driftskontrollen at anvende de målepunkter, som er krævet ved  
+
+ verifikation.
+6.3.1 Tolerancer/målepunkter, ren  
+
+ volumenmåling Qmaks over 3 m3/ h, tolerance : ± 3  
+
+ % For Qmaks £
+3 m3/ h gælder:
+For Q < 0,1 gange Qmaks er tolerancen : ± 5  
+
+ % For Q ³  
+
+  0,1 gange Qmaks er tolerancen : ± 3 % Målerne skal kalibreres i samme 3 målepunkter,  
+
+ som anført i pkt. 6.3.2 Prøverne gennemføres ved en vandtemperatur  
+
+ på 40 grader C, medmindre andet er tilladt i henhold til  
+
+ typegodkendelsesattesten.
+6.3.2 Tolerancer/målepunkter, komplet  
+
+ måler Målerne skal som minimum kalibreres ved de nedenfor  
+
+ anførte 3 forskellige flow med tilhørende  
+
+ temperaturdifferens:
+ 1. Q £  
+
+  3.Qmin ved D  
+
+  t ³  
+
+  38 grader C.
+Tolerance ±  
+
+  4 %, dog ±  
+
+  6 % for målere £  
+
+  3 m3 / h 2. Q = 0,1 til 0,11.Qmaks ved 16 grader C.  
+
+£
+D  
+
+  t £  
+
+  20 grader C.
+Tolerance ±  
+
+  5 % NB.
+Kalibreringen kan foretages ved en temperatur mellem  
+
+ 20 og 22 grader C.
+Tolerancekravet er da ±  
+
+  4 % 3. Q ³  
+
+  0,7.Qmaks ved D  
+
+  t £  
+
+  10 grader C.
+Tolerance ±  
+
+  6 % 6.3.3 Tolerance/målepunkter, delt måler Volumendelen kalibreres som anført under pkt.  
+
+ 6.3.1.
+ Beregningsenheden incl. følerpar kalibreres med  
+
+ simuleret flow og med 3 forskellige D  
+
+ t som anført under pkt. 6.3.2. Tolerancen er de i pkt 6.3.2  
+
+ anførte tolerancer minus 3 % (absolut), dog minus 5% for målere  
+
+ med Qmaks. £  
+
+  3 m3 / h og Q £  
+
+  3.Qmin.
+ 6.4 Afvigende målere.
+ Målere, der overskrider grænsen ved ét  
+
+ af de anførte målepunkter betragtes som afvigende, se pkt. 3  
+
+ (afvigende fra henholdsvis verifikationsgrænsen eller fra  
+
+ driftskontrolgrænsen).
+ 6.5 Målenøjagtighed.
+ I overensstemmelse med international praksis for  
+
+ verifikation gælder følgende:
+ a) Er det udførende laboratoriums  
+
+ måleusikkerhed (bedste måleevne dokumenteret ved akkrediteringen)  
+
+ mindre end eller lig med 1/5 af ovenfor anførte tolerancer, ses der  
+
+ ved den enkelte måling bort fra usikkerheden.
+ b) Er usikkerheden større end 1/5 reduceres  
+
+ gældende krav med usikkerheden (aritmetisk) før det  
+
+ afgøres, om der er tale om afvigere.
+ 6.6 Rapportering.
+ Laboratoriet skal i ethvert enkelt tilfælde  
+
+ skriftlig orientere rekvirenten om, hvorvidt måleren overholder  
+
+ verifikationsgrænserne og i modsat fald om den overholder  
+
+ driftskontrolgrænserne.
+ Såfremt laboratoriet er vidende om, at der i det  
+
+ konkrete tilfælde er tale om kalibrering af en række  
+
+ målere, der udgører en stikprøve af et parti, skal  
+
+ laboratoriet meddele rekvirenten, hvorvidt partiet fortsat kan forblive opsat  
+
+ i endnu 3 eller 6 år eller om det skal nedtages inden 1 år.
+7. Fornyet kontrolperiode/Nedtagning 7.1 Målerpartier, der forkastes ved  
+
+ stikprøvekontrollen på grund af overskridelse af grænserne  
+
+ for måleunøjagtighed for målere i drift jf. punkt 6.3,  
+
+ skal nedtages for renovering eller udskiftning inden et år fra  
+
+ stikprøvetidspunktet.
+ 7.2 For målere der genopsættes renoveret og  
+
+ verificeret efter en forkastelse er tidsintervallet til næste  
+
+ stikprøvekontrol eller turnusudskiftning maks 5 år.
+ 7.3 Målerpartier, der godkendes ved  
+
+ stikprøvekontrollen i forhold til driftskontrolgrænserne jf.  
+
+ punkt 6.3 kan forblive opsat hos forbrugerne i endnu maks 3 år,  
+
+ før der igen udtages en stikprøve.
+ 7.4 Målerpartier, hvor godkendelseskriterierne for  
+
+ stikprøven kan anvendes på grænseværdierne for  
+
+ målenøjagtighed for nye og verificerede målere jf. punkt  
+
+ 6.3, kan for blive opsat hos forbrugerne i endnu maks. 6 år, før  
+
+ der igen udtages en stikprøve.
+ Bestemmelserne i afsnit 7 er opført i skemaform  
+
+ side 8.

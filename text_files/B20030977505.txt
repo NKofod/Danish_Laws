@@ -1,0 +1,1984 @@
+Bestemmelser om procedurer for tale-radiokommunikation (BL 7-14, 5. udgave) I medfør af § 54, § 82 og §  
+
+ 149, stk. 10, i lov om luftfart, jf. lovbekendtgørelse nr. 543 af 13. juni  
+
+ 2001, fastsætter Statens Luftfartsvæsen herved efter bemyndigelse fra  
+
+ Trafikministeriet,  
+
+ jf. bekendtgørelse nr. 795 af 3. september 2001 om henlæggelse af opgaver til  
+
+ Statens Luftfartsvæsen og om kundgørelse af de af luftfartsvæsenet  
+
+ udfærdigede  
+
+ forskrifter, følgende:
+1. Referencedokumenter 1.1 ICAO Annex 10,  
+
+ Aeronautical Tele-communications, Volume II, seneste udgave.
+ 1.2 ICAO Annex 11, Air  
+
+ Traffic Services, seneste udgave.
+ 1.3 ICAO Doc 4444-RAC/501,  
+
+ Rules of the Air and Air Traffic Services, seneste udgave.
+ 1.4 ICAO Doc 8400,  
+
+ Abbreviations and Codes, seneste udgave.
+ 1.5 ICAO Doc 8585,  
+
+ Designators for aircraft, operating agencies, aeronautical authorities and  
+
+ services, seneste udgave.
+ 1.6 ICAO Doc 9432-AN/925,  
+
+ Manual of Radio Telephony, seneste udgave.
+ 1.7 IT- og Telestyrelsens  
+
+ bekendtgørelse om anvendelse af radiofrekvenser uden tilladelse samt om  
+
+ radioprøver  
+
+ og kaldesignaler m.v., seneste udgave (p.t. bekendtgørelse nr. 1005 af 10.  
+
+ december 2002).
+ 1.8 BL 3-4, Bestemmelser om  
+
+ rekordering af talekommunikation, seneste udgave.
+ 1.9 BL 7-1, Bestemmelser om  
+
+ lufttrafiktjeneste, seneste udgave.
+ 1.10 BL 7-10, Bestemmelser  
+
+ om definitioner vedrørende lufttrafiktjeneste, seneste udgave.
+1.11 De dokumenter, der er  
+
+ nævnt i pkt. 1.1 - 1.6, kan erhverves ved henvendelse til ICAO Headquarters  
+
+  
+
+ Attn.: Document Sales Unit  
+
+  
+
+ 999 University Street  
+
+  
+
+ Montréal, Quebec  
+
+  
+
+ Canada H3C 5H7  
+
+  
+
+ Tel.: +1 514 954-8022  
+
+  
+
+ Fax: +1 514 954-6769  
+
+  
+
+ Sitatex: YULDYA  
+
+  
+
+ E-post:  
+
+  
+
+ Sales_unit@icao.int  
+
+
+  
+
+ Web:  
+
+  
+
+ www.icao.int 1.12 De dokumenter, der er nævnt i pkt. 1.7 - 1.10, findes på  
+
+ Retsinformations hjemmeside  
+
+  
+
+ www.retsinfo.dk  
+
+  
+
+ . De dokumenter, der er nævnt i pkt. 1.8 - 1.10, findes tillige på Statens  
+
+ Luftfartsvæsens hjemmeside  
+
+  
+
+ www.slv.dk  
+
+  
+
+ og kan desuden købes ved henvendelse til Statens Luftfartsvæsen  
+
+  
+
+ Servicecentret  
+
+  
+
+ Postboks 744  
+
+  
+
+ Ellebjergvej 50  
+
+  
+
+ 2450 København SV  
+
+  
+
+ Tel.: 3618 6000  
+
+  
+
+ Fax: 3618 6001  
+
+  
+
+ E-post:  
+
+  
+
+ ais@slv.dk 2. Definitioner Se BL 7-10, Bestemmelser om  
+
+ definitioner vedrørende lufttrafiktjeneste.
+3. Anvendelsesområde Denne BL fastsætter  
+
+ bestemmelser om procedurer for tale-radiokommunikation (i det følgende  
+
+ benævnt  
+
+ radiokommunikation) i forbindelse med lufttrafik og kørsel med luftfartøjer  
+
+ inden for dansk område samt inden for de områder, hvor Danmark i henhold til  
+
+ internationale aftaler er forpligtet til at udøve radiokommunikations- og  
+
+ lufttrafiktjeneste.
+4. Ansvar Den, der udøver  
+
+ radiokommunikation til, fra eller mellem luftfartøjer, er ansvarlig for, at  
+
+ egen radiokommunikation udøves i overensstemmelse med bestemmelserne i denne  
+
+ BL.
+5. Tidssystem 5.1 Koordineret universal  
+
+ tid (UTC) skal anvendes af alle stationer i luftfartens mobile tjeneste.  
+
+ Midnat  
+
+ 2400 UTC skal betegne afslutning af et døgn, og midnat 0000 UTC skal betegne  
+
+ start på et døgn.
+ 5.2 En datotidsgruppe skal  
+
+ bestå af 6 tal, hvoraf de to første tal angiver dato, og de fire sidste tal  
+
+ angiver henholdsvis timer og minutter i UTC.
+6. Sprog 6.1 Ved radiokommunikation  
+
+ skal anvendes engelsk eller dansk.
+ 6.2 En  
+
+ lufttrafiktjenesteenhed skal besvare et opkald fra et luftfartøj på samme  
+
+ sprog, som luftfartøjet anvender, jf. pkt. 6.1.
+ 6.2.1 I forbindelse med  
+
+ udøvelse af lufttrafiktjeneste til IFR-flyvninger kan dog altid benyttes  
+
+ engelsk.
+ Anm.: Det vil fremgå af Aeronautical Information Publication (AIP),  
+
+ hvilke luftfartsstationer der kun anvender dansk.
+7. Radiotelefoniprocedurer 7.1 Transmission generelt 7.1.1 Hvis det er nødvendigt  
+
+ for et luftfartøj at skulle udsende signaler for afprøvning og justering af  
+
+ udstyr, og hvis dette må forventes at kunne forstyrre en nærliggende  
+
+ luftfartsstations arbejde, skal tilladelse fra luftfartsstationen indhentes,  
+
+ forinden sådanne signaler udsendes.
+7.1.2 Hvis det er nødvendigt  
+
+ for en radiostation at udsende test inden opkald, må den ikke overstige 10  
+
+ sekunder.
+Sådan test skal bestå af udtalte tal (et, to, tre/one, two, three  
+
+ o.s.v.), afsluttet med radiostationens kaldesignal).
+ 7.1.3 Følgende  
+
+ transmissionsteknik skal følges:
+ i  
+
+  
+
+ 	  
+
+    
+
+ Der skal lyttes ind på frekvensen, forinden  
+
+ transmission påbegyndes, for ikke at forstyrre igangværende korrespondance.
+ i  
+
+  
+
+ 	  
+
+    
+
+ Der skal anvendes almindelig talehastighed,  
+
+ og der skal tales klart og kortfattet.
+ i  
+
+  
+
+ 	  
+
+    
+
+ Standardfraseologi skal anvendes, hvor det er  
+
+ muligt.
+ 7.1.4 Hvis en  
+
+ luftfartsstation kaldes samtidigt af flere luftfartøjer, bestemmer  
+
+ luftfartsstationen den rækkefølge, i hvilken luftfartøjerne må afgive deres  
+
+ meldinger.
+7.1.5 Hvis retransmission er  
+
+ etableret, skal denne være aktiveret, når der arbejdes på flere frekvenser  
+
+ samtidigt.
+Retransmissionen kan dog afbrydes, hvis dette er nødvendigt for en  
+
+ hensigtsmæssig afvikling af radiokommunikationen.
+7.2 Fraseologi 7.2.1 I radiokommunikation  
+
+ skal der anvendes standardord, tal og standardudtryk som anført i bilaget til  
+
+ denne BL.
+ Anm.: Rammer for fraseologi er  
+
+ anført i ICAO Doc 4444, afsnit X.
+7.2.1.1 Hvis der i en given  
+
+ situation enten ikke findes standardfraseologi til benyttelse, eller hvis der  
+
+ opstår forståelsesmæssige problemer i korrespondancen med et luftfartøj, skal  
+
+ anden passende fraseologi anvendes.
+Denne bør være så klar og kortfattet som  
+
+ muligt og udformes således, at misforståelser undgås.
+ 7.2.2 Forkortelser,  
+
+ initialord (ord bestående af forbogstaver) og koder skal anvendes, når det er  
+
+ muligt, og hvor det vil afkorte og afhjælpe kommunikationen.
+ Anm.: I ICAO Doc 8400 er anført de forkortelser, initialord og  
+
+ kodefraser, der er godkendt til brug i radiokommunikation, ved at udtale  
+
+ hvert  
+
+ bogstav for sig eller som almindelige talte ord.
+7.3 Klareringer og flyvekontrolinstruktioner 7.3.1 Standardudtrykket  
+
+ "CLEARED / TIL-LADT" og afledninger heraf må kun bruges i  
+
+ forbindelse  
+
+ med i  
+
+  
+
+ 	  
+
+    
+
+ start- og landingsklareringer, i  
+
+  
+
+ 	  
+
+    
+
+ anflyvningsklareringer og i  
+
+  
+
+ 	  
+
+    
+
+ klareringer vedrørende flyvevej.
+7.3.2 I alle andre tilfælde  
+
+ end dem, der er beskrevet i pkt. 7.3.1, skal der anvendes direkte udtrykte  
+
+ flyvekontrolinstruktioner.
+Eksempler på disse fremgår af bilaget til denne  
+
+ BL.
+ 7.3.3 For at undgå  
+
+ forveksling ved udstedelse af ATC-klareringer og tilbagelæsning heraf skal  
+
+ både  
+
+ ATC-personale og piloter altid tilføje kaldesignalet på det luftfartøj, som  
+
+ ATC-klareringen afsendes til.
+7.3.4 Klareringer eller  
+
+ flyvekontrolinstruktioner i form af betingede udtryk, f.eks. "efter  
+
+ landende luftfartøj" eller "efter startende luftfartøj", må  
+
+ ikke  
+
+ afsendes i forbindelse med kørsel, der vedrører en bane, der benyttes til  
+
+ start  
+
+ eller landing, medmindre de implicerede luftfartøjer eller køretøjer kan ses  
+
+ af  
+
+ kontroltårnet og pågældende luftfartøj.
+En betinget klarering skal afsendes i  
+
+ følgende rækkefølge og indeholde i  
+
+  
+
+ 	  
+
+    
+
+ kaldesignal, i  
+
+  
+
+ 	  
+
+    
+
+ betingelse og i  
+
+  
+
+ 	  
+
+    
+
+ klarering.
+7.4 Tilbagelæsning (read back) 7.4.1 Alle  
+
+ sikkerhedsrelaterede dele af klareringer og flyvekontrolinstruktioner skal  
+
+ gentages af modtageren.
+Følgende skal altid gentages:
+ a.  
+
+ 	  
+
+    
+
+ Rute klareringer.
+ b.  
+
+ 	  
+
+    
+
+ Klareringer og  
+
+ flyvekontrolinstruktioner til at køre ind på en bane, lande på en bane,  
+
+ starte  
+
+ på en bane, holde kort før en bane, krydse en bane eller køre tilbage ad en  
+
+ bane (backtrack), hvad enten banen er "bane i brug" eller ej.
+ c.  
+
+ 	  
+
+    
+
+ Oplysninger om bane  
+
+ i brug, højdemålerindstilling, SSR-koder, højdeinstruktioner, kurs- og  
+
+ fartinstruktioner samt for ankommende IFR-flyvninger, hvad enten oplyst af  
+
+ lufttrafiktjenesten eller indeholdt i en ATIS-udsendelse,  
+
+ gennemgangsniveauer.
+ 7.4.2 Andre klareringer  
+
+ eller flyvekontrolinstruktioner, herunder betingede klareringer, skal  
+
+ gentages  
+
+ af modtageren eller bekræftes på en måde, der klart viser, at klareringen og  
+
+ flyvekontrolinstruktionen er forstået og vil blive fulgt.
+ 7.4.3 Den, der udøver  
+
+ lufttrafiktjeneste, skal aflytte tilbagelæsningen for at sikre sig, at  
+
+ klareringer og instruktioner er korrekt bekræftet, og skal øjeblikkeligt  
+
+ korrigere enhver uoverensstemmelse, som tilbagelæsningen har afsløret.
+7.5 Stavealfabetet Når der afsendes  
+
+ kaldesignaler eller ord, hvis stavemåder der kan herske tvivl om, skal ICAOs  
+
+ stavealfabet anvendes.
+Ved dansk kommunikation kan endvidere anvendes det  
+
+ danske stavealfabet for bogstaverne æ, ø og å.
+Stavealfabetet fremgår af  
+
+ bilaget til denne BL.
+7.6 Afgivelse af tal og talgrupper 7.6.1 På dansk afsendes tal  
+
+ og talgrupper på samme måde, som disse siges i almindelig tale.
+Tal i  
+
+ tusindgruppen under ti tusind bortset fra angivelse af højdemålerindstilling  
+
+ (QNH/ QFE) kan opdeles i 2 gange 2 talgrupper, f.eks. må tallet 3764 udtales  
+
+ som  
+
+ enten "tre tusind syv hundrede fire og tres" eller  
+
+ "syvogtredivie fireogtres". Pejlinger og kurser skal altid bestå af  
+
+ tre cifre, f.eks. "kurs, nul tyve".
+ 7.6.2 På engelsk afsendes  
+
+ tal og talgrupper, ved at udtale hvert ciffer enkeltvis, medmindre andet  
+
+ følger  
+
+ af pkt. 7.6.2.1.
+7.6.2.1 Alle tal og  
+
+ talgrupper, som angiver højde over havet, skyhøjde, sigtbarhed og  
+
+ banesynsvidde, der indeholder hele hundreder og hele tusinder, skal afsendes  
+
+ ved at nævne hvert ciffer af hundrede eller af tusinde efterfulgt af ordet  
+
+ HUNDRED eller THOUSAND.
+Kombinationer af tusinde og hele hundrede skal  
+
+ afsendes  
+
+ ved at nævne hvert ciffer i antallet af tusinde efterfulgt af ordet THOUSAND  
+
+ efterfulgt af antal hundrede efterfulgt af ordet HUNDRED.
+ 7.6.3 I tal, der indeholder  
+
+ komma, skal kommaet nævnes.
+7.6.3.1 Ved angivelse af  
+
+ kanaler for VHF-frekvenser, som er adskilt med 25 kHz, skal kun de 5 første  
+
+ cifre angives.
+Der må maksimalt angives 2 cifre efter kommaet, men hvis disse  
+
+ begge er nul, vil et enkelt nul være tilstrækkeligt.
+7.6.3.2 Ved angivelse af  
+
+ kanaler for VHF-frekvenser, som er adskilt med 8,33 kHz, skal alle 6 cifre  
+
+ angives.
+Der skal angives 3 cifre efter kommaet.
+7.6.4 Klokkeslet afsendes  
+
+ kun med angivelse af minuttallet.
+Hvis der kan være tvivl, afsendes dog også  
+
+ timetallet.
+ Anm.: Eksempler på tal og talgrupper fremgår af bilaget til denne BL.
+7.7 Prioritering af meldinger 7.7.1 Afsendelse og  
+
+ behandling af meldinger skal ske i nedenstående prioritetsrækkefølge:
+ 1.  
+
+ 	  
+
+    
+
+ Nødmeldinger  
+
+ (distress messages "MAYDAY"), jf. pkt. 7.17.
+ 2.  
+
+ 	  
+
+    
+
+ Ilmeldinger (urgency  
+
+ messages "PAN PAN" eller "PAN PAN MEDCIAL"), jf. pkt.  
+
+ 7.17.
+ 3.  
+
+ 	  
+
+    
+
+ Meldinger vedrørende  
+
+ pejlinger (direction finding).
+ 4.  
+
+ 	  
+
+    
+
+ Meldinger vedrørende  
+
+ en flyvnings sikkerhed (flight safety messages).
+ 5.  
+
+ 	  
+
+    
+
+ Meteorologiske  
+
+ meldinger (meteorological messages).
+ 6.  
+
+ 	  
+
+    
+
+ Meldinger vedrørende  
+
+ luftfartøjers regularitet under forudsætning af, at irregulariteten er  
+
+ opstået  
+
+ i flyvetiden (flight regularity messages).
+ 7.7.2 Meldinger vedrørende  
+
+ luftfartøjers regularitet må ikke befordres over kontrolfrekvenser, hvis  
+
+ andre  
+
+ luftfartsfrekvenser er til rådighed.
+7.8 Sammensætning af meldinger 7.8.1 Luftfartsmeldinger,  
+
+ der alene udveksles mellem luftfartøjer og luftfartsstationer, skal bestå af a.  
+
+ 	  
+
+    
+
+ opkald, der  
+
+ tilkendegiver modtagerens kaldesignal efterfulgt af afsenderens kaldesignal,  
+
+ jf. pkt. 7.9 og pkt. 7.10, og b.  
+
+ 	  
+
+    
+
+ meldingens tekst,  
+
+ jf. pkt. 7.8.4.
+ 7.8.2 Meldinger fra  
+
+ luftfartøjer, der af luftfartsstationen skal viderebringes til andre, skal  
+
+ sammensættes som følger:
+a.  
+
+ 	  
+
+    
+
+ Opkald, jf. pkt.  
+
+ 7.8.1 a., efterfulgt af ordet: FOR/TIL eller MESSAGE FOR/ MELDING TIL, b.  
+
+ 	  
+
+    
+
+ navnet og/eller  
+
+ adressen, til hvilken meldingen skal viderebringes, og c.  
+
+ 	  
+
+    
+
+ meldingens tekst,  
+
+ jf. pkt. 7.8.4.
+ 7.8.3 Meldinger til  
+
+ luftfartøjer udstedt af andre end luftfartstjenester skal afsendes som  
+
+ følger:
+a.  
+
+ 	  
+
+    
+
+ Opkald, jf. pkt.  
+
+ 7.8.1 a., efterfulgt af ordet: FROM/FRA eller MESSAGE FROM/MEDDELELSE FRA, b.  
+
+ 	  
+
+    
+
+ navnet og adressen  
+
+ på den, der har udstedt meldingen, og c.  
+
+ 	  
+
+    
+
+ meldingens tekst,  
+
+ jf. pkt. 7.8.4.
+ 7.8.4 Teksten skal generelt  
+
+ være så kortfattet som muligt for viderebringelse af de nødvendige  
+
+ oplysninger.
+7.9 Kaldesignaler for luftfartøjer 7.9.1 Et luftfartøjs  
+
+ kaldesignal skal være en af følgende tre typer:
+ a.  
+
+ 	  
+
+    
+
+ Luftfartøjets  
+
+ registreringsbetegnelse (navnet på enten luftfartøjets fabrikat eller  
+
+ typemodel  
+
+ må anvendes som "præfix" til registreringsbetegnelsen).
+ b.  
+
+ 	  
+
+    
+
+ Luftfartsselskabets  
+
+ telefonibetegnelse (ICAO Doc 8585) efterfulgt af de sidste fire karakterer af  
+
+ luftfartøjets registreringsbetegnelse.
+ c.  
+
+ 	  
+
+    
+
+ Luftfartsselskabets  
+
+ telefonibetegnelse efterfulgt af rutenummeret.
+ Anm. 1: Eksempler på kaldesignaler fremgår af bilaget til denne BL.
+ Anm. 2: Svævefly, der deltager i en konkurrence, som er arrangeret af  
+
+ Dansk Svæveflyver Union, og som i forbindelse hermed har fået tildelt et  
+
+ konkurrencenummer, kan efter aftale med pågældende lufttrafiktjenesteenhed  
+
+ anvende kaldesignalet "Svævefly" eller "Glider"  
+
+ efterfulgt  
+
+ af det tildelte konkurrencenummer.
+ 7.9.2 Når tilfredsstillende  
+
+ kommunikation er blevet etableret, og det ikke kan medføre forveksling, må  
+
+ luftfartøjet anvende den forkortede form som vist nedenfor, hvis  
+
+ luftfartsstationen har anvendt denne form:
+ a.  
+
+ 	  
+
+    
+
+ Den første  
+
+ (eventuelt luftfartøjets fabrikat eller typemodel) og mindst de to sidste  
+
+ karakterer af registreringen.
+ b.  
+
+ 	  
+
+    
+
+ Luftfartsselskabets  
+
+ telefonibetegnelse efterfulgt af mindst de to sidste karakterer af  
+
+ registreringen.
+ c.  
+
+ 	  
+
+    
+
+ Må aldrig forkortes.
+7.9.3 Et luftfartøj må ikke  
+
+ ændre sit kaldesignal under en flyvning.
+Hvis der kan opstå mulighed for  
+
+ forveksling af kaldesignaler, kan en flyvekontrolenhed instruere luftfartøjet  
+
+ om midlertidigt at anvende andet kaldesignal.
+ 7.9.4 Et luftfartøj med en  
+
+ maksimalt tilladt startmasse (MTOM) på 136.000 kg eller derover skal ved  
+
+ første  
+
+ opkald til Tower/AFIS og Approach/Arrival tilføje HEAVY til sit kaldesignal.
+7.10 Kaldesignaler for luftfartsstationer En luftfartsstations  
+
+ kaldesignal skal bestå af a.  
+
+ 	  
+
+    
+
+ et geografisk  
+
+ stednavn og b.  
+
+ 	  
+
+    
+
+ et suffix, der  
+
+ angiver den tjeneste, der ydes.
+Fortegnelse over suffix for  
+
+ tjenesteenheder fremgår af bilaget til denne BL.
+Det geografiske stednavn  
+
+ eller  
+
+ "suffix" kan udelades under forudsætning af, at sikker  
+
+ kommunikation  
+
+ er etableret.
+7.11 Etablering af kommunikation 7.11.1 Ved etablering af  
+
+ kommunikationsforbindelse skal der altid anvendes fulde kaldesignaler af både  
+
+ den kaldende og den svarende station.
+ 7.11.2 Eventuelt prøveopkald  
+
+ skal sendes således:
+ Modtagers kaldesignal  
+
+ efterfulgt af afsenders kaldesignal og udtrykket "RADIO CHECK"  
+
+ (eventuelt frekvens).
+ 7.11.3 Svar på prøveopkald  
+
+ skal sendes således:
+ Den kaldendes kaldesignal  
+
+ efterfulgt af eget kaldesignal, og som udtryk for læselighed anvendes  
+
+ nedenstående gradueringer:
+ 1.  
+
+ 	  
+
+    
+
+ UNREADABLE/ULÆSELIG.
+ 2.  
+
+ 	  
+
+    
+
+ READABLE NOW AND  
+
+ THEN/ LÆSELIG AF OG TIL.
+ 3.  
+
+ 	  
+
+    
+
+ READABLE BUT WITH  
+
+ DIFFICUL-TY/LÆSELIG, MEN MED BESVÆR.
+ 4.  
+
+ 	  
+
+    
+
+ READABLE/LÆSELIG.
+ 5.  
+
+ 	  
+
+    
+
+ PERFECTLY  
+
+ READABLE/FULD-STÆNDIG LÆSELIG.
+ 7.11.4 Når tovejsforbindelse  
+
+ er etableret, kan sekvenser af kommunikation udveksles mellem samme stationer  
+
+ uden yderligere anvendelse af kaldesignaler, indtil forbindelsen afsluttes,  
+
+ under forudsætning af, at et forstyrrende opkald/ kaldesignal ikke er brudt  
+
+ ind  
+
+ under udvekslingen.
+7.11.5 Kommunikation skal  
+
+ indledes med opkald og svar, medmindre det er sikkert, at den kaldte station  
+
+ vil modtage meldingen.
+Etablering af første kontakt skal dog altid være i  
+
+ overensstemmelse med pkt. 7.11.1.
+ 7.11.6 Opkald til  
+
+ luftfartøjer, der befinder sig i startfasen, under sidste del af  
+
+ slutindflyvningen og under landingsafløbet, må kun finde sted, hvis det af  
+
+ sikkerhedsmæssige årsager er påkrævet.
+7.11.7 Hvis en  
+
+ luftfartsstation ønsker at sende en generel information til alle  
+
+ luftfartøjer,  
+
+ skal meldingen indledes med ALL STATIONS/TIL ALLE  
+
+ STATIONER.
+ Der forventes ikke svar på  
+
+ sådanne meldinger, medmindre der særskilt anmodes herom.
+7.11.8 Når en station  
+
+ kaldes, men identifikation af den kaldende er usikker, skal den kaldte  
+
+ station  
+
+ svare STATION CALLING  
+
+ (kaldesignal) SAY AGAIN YOUR CALLSIGN/HVEM KALDER (kaldesignal) GENTAG DIT  
+
+ KALDESIGNAL.
+ 7.11.9 Direkte kommunikation  
+
+ mellem luftfartøjer må ikke finde sted over lufttrafiktjenestefrekvenser,  
+
+ medmindre særskilt tilladelse er indhentet fra pågældende  
+
+ lufttrafiktjenesteenhed.
+ 7.11.9.1 Ved kommunikation  
+
+ mellem luftfartøjer skal ved første opkald anvendes ordet INTERPILOT  
+
+ umiddelbart efter angivelse af kaldesignaler.
+ 7.11.9.2 Hvis luftfartøjer  
+
+ af en luftfartsstation har fået tilladelse til at kommunikere direkte sammen,  
+
+ skal modtagende luftfartøj kontrollere kommunikationen og straks foranledige  
+
+ denne bragt til ophør, hvis det konstaterer, at luftfartsstationen ønsker at  
+
+ sende.
+ 7.11.10 Alle stationer skal  
+
+ besvare opkald rettet til dem og skal udveksle kommunikation på anmodning.
+ 7.11.11 Luftfartøjer skal  
+
+ under normale forhold kommunikere på de frekvenser, der er anført for de  
+
+ enkelte luftfartsstationer i relevante AIP-sektioner.
+ 7.11.12 Luftfartsstationer  
+
+ skal instruere luftfartøjer om at skifte til anden specificeret frekvens, når  
+
+ luftfartøjerne må forlade en frekvens, for hvilken der ifølge BL 7-1, pkt.  
+
+ 4.6.5.1, er stillet krav om etablering af tovejsradiokommunikation.
+ Anm.: Luftfartøjer, hvortil der ikke stilles krav om  
+
+ tovejsradiokommunikation, bør meddele, når frekvensen forlades.
+7.12 Kvittering for modtagelse 7.12.1 Et luftfartøjs  
+
+ kvittering for modtagelse af en melding skal ske ved at udtale luftfartøjets  
+
+ kaldesignal.
+ 7.12.2 En luftfartsstations  
+
+ kvittering for en melding skal ske ved:
+a.  
+
+ 	  
+
+    
+
+  
+
+ Til luftfartøjer at angive  
+
+ luftfartøjets kaldesignal efterfulgt om nødvendigt at luftfartsstationens  
+
+ eget  
+
+ kaldesignal.
+b.  
+
+ 	  
+
+    
+
+  
+
+ Til en anden luftfartsstation at angive den anden  
+
+ luftfartsstations kaldesignal.
+ Særligt vanskelige meldinger  
+
+ skal tilbagelæses af en luftfartsstation og afsluttes med luftfartsstationens  
+
+ kaldesignal.
+7.13 Rettelse og gentagelse 7.13.1 Fejl i en  
+
+ transmission skal rettes ved at udtale ordet CORRECTION/RETTELSE, hvorefter sidste, rigtige  
+
+ gruppe eller udtryk gentages, og transmissionen fortsættes.
+7.13.1.1 Hvis en rettelse  
+
+ bedst kan udføres ved at gentage hele meldingen, udtrykkes CORRECTION, I SAY  
+
+ AGAIN/RETTELSE, JEG GENTAGER, hvorefter meldingen  
+
+ transmitteres forfra.
+7.13.2 Hvis en modtager  
+
+ ønsker en hel melding gentaget, skal dette angives ved anvendelse af  
+
+ udtrykket SAY AGAIN/GENTAG.
+Ønskes dele af en melding  
+
+ gentaget, udtrykkes henholdsvis SAY AGAIN ALL BEFORE/GENTAG  
+
+ ALT FØR eller SAY AGAIN ALL AFTER/GENTAG ALT EFTER eller SAY AGAIN ALL  
+
+ BETWEEN/  
+
+ GENTAG ALT MELLEM.
+ Ønskes et bestemt emne  
+
+ gentaget, udtrykkes f.eks.
+ SAY AGAIN RUNWAY IN  
+
+ USE/GENTAG BANE I BRUG.
+7.13.3 Hvis afsenderen af en  
+
+ melding, der læses tilbage, konstaterer fejl eller misforståelser, skal der  
+
+ svares NEGATIVE, I SAY  
+
+ AGAIN/NEGATIV, JEG GENTAGER, hvorefter den korrekte version  
+
+ gentages.
+7.14 Annullering 7.14.1 Hvis en klarering  
+
+ eller flyvekontrolinstrukton skal annulleres, skal luftfartsstationen  
+
+ udtrykke CANCEL/ANNULLER.
+7.14.2 Hvis en  
+
+ melding/transmission skal annulleres, skal afsenderen udtrykke DISREGARD/IGNORER.
+7.15 Afslutning af kommunikation En korrespondance skal  
+
+ afsluttes ved, at den modtagende station afsender sit eget kaldesignal.
+7.16 Lyttevagt 7.16.1 Luftfartøjer, der i  
+
+ medfør af bestemmelserne i BL 7-1 skal opretholde lyttevagt på angivne  
+
+ frekvenser, må ikke ophøre hermed uden den pågældende luftfartsstations  
+
+ tilladelse, medmindre der foreligger sikkerhedsmæssige årsager hertil.
+ 7.16.2 Luftfartøjer, der  
+
+ flyver over Nordsøen og Skagerrak inden for København FIR, og luftfartøjer,  
+
+ der  
+
+ flyver inden for Sondrestrom FIR, skal holde uafbrudt lyttevagt på  
+
+ VHF-nødfrekvensen 121.5 Mhz undtagen i sådanne perioder, hvor luftfartøjerne  
+
+ udfører kommunikation på andre VHF-frekvenser, eller arbejdet i førerkabinen  
+
+ ikke tillader samtidig aflytning af to frekvenser.
+ 7.16.3 Luftfartøjer, der på  
+
+ VHF-nødfrekven-sen 121.5 Mhz hører et ELT (Emergency Locator Transmitter)  
+
+ signal (piijjooouuu-piijjooouuu ..... 2 à 4 gange pr. sekund), der bedømmes  
+
+ at  
+
+ være andet end en kort afprøvning, skal straks underrette nærmeste  
+
+ luftfartsstation med angivelse af luftfartøjets position, flyvehøjde, rute og  
+
+ tidspunkt, da ELT-signalet hørtes første gang, samt om signalets lydstyrke.  
+
+ Under flyvningen oplyses endvidere, om signalets lydstyrke til- eller  
+
+ aftager.
+ 7.16.3.1 Ophører  
+
+ ELT-signalet, underrettes på tilsvarende måde om luftfartøjets position,  
+
+ flyvehøjde, rute og tidspunkt, da signalet sidst blev hørt.
+ 7.16.4 Luftfartsstationer  
+
+ skal inden for tjenestetiden opretholde konstant lyttevagt på deres  
+
+ arbejdsfrekvenser samt på nødfrekvensen 121.5 MHz, hvor denne er etableret.
+ 7.16.5 Luftfartsstationer,  
+
+ der ikke har H-24 tjeneste, som er eller forventes at blive involveret i  
+
+ nødtrafik, iltrafik og trafik vedrørende ulovlig handling, skal udstrække  
+
+ deres  
+
+ normale tjenestetid for at yde den kommunikationsstøtte, som den pågældende  
+
+ situation kræver.
+7.17 Nød- og ilmeldinger 7.17.1 Nød- og iltrafik skal  
+
+ bibeholdes på den frekvens, hvor første opkald skete, medmindre det skønnes,  
+
+ at  
+
+ der kan ydes bedre assistance på anden frekvens.
+Nødmeldinger 7.17.2 Nødopkald skal  
+
+ indledes med signalet MAYDAY, om muligt udtalt tre gange.
+Derefter i  
+
+ rækkefølge  
+
+ så mange som muligt af følgende punkter:
+ a.  
+
+ 	  
+
+    
+
+ Kaldesignal på den  
+
+ station, meldingen er tiltænkt, eventuelt ALL STATIONS/ TIL ALLE STATIONER.
+ b.  
+
+ 	  
+
+    
+
+ Eget kaldesignal.
+ c.  
+
+ 	  
+
+    
+
+ Beskrivelse af nødsituationen.
+ d.  
+
+ 	  
+
+    
+
+ Luftfartøjschefens  
+
+ hensigter.
+ e.  
+
+ 	  
+
+    
+
+ Luftfartøjets  
+
+ position, højde og kurs.
+ f.  
+
+ 	  
+
+    
+
+ Andre relevante  
+
+ oplysninger til brug for eventuel eftersøgning.
+7.17.3 Den kaldte  
+
+ luftfartsstation eller den første station, der reagerer på nødmeldingen, skal a.  
+
+ 	  
+
+    
+
+ øjeblikkeligt  
+
+ kvittere med luftfartøjets kaldesignal, efterfulgt af eget kaldesignal og  
+
+ ROGER  
+
+ MAYDAY/MOD-TAGET MAYDAY, b.  
+
+ 	  
+
+    
+
+ overtage kontrol med  
+
+ kommunikationen eller efter omstændighederne overdrage den til en anden mod  
+
+ samtidig at informere luftfartøjet herom og c.  
+
+ 	  
+
+    
+
+ underrette alle  
+
+ behørige i henhold til alarmeringsplanen.
+7.17.4 Det luftfartøj, der  
+
+ er i nød, eller den luftfartsstation, der har overtaget kontrol med  
+
+ nødtrafikken, kan pålægge andre, der forstyrrer udvekslingen af nødtrafikken,  
+
+ radiotavshed ved at udsende STOP TRANSMITTING,  
+
+ MAYDAY/STOP UDSENDELSE, MAYDAY.
+ 7.17.5 Når luftfartøjet, der  
+
+ har udsendt MAY-DAY, ikke længere befinder sig i nødsituation, skal det  
+
+ udsende  
+
+ annullering heraf til den kontrollerende luftfartsstation således:
+ (Luftfartsstationens  
+
+ kaldesignal - luftfartøjets kaldesignal) CANCEL DISTRESS/ANNUL-LER  
+
+ NØDMELDING.
+ 7.17.6 Den kontrollerende  
+
+ luftfartsstation skal, når nødtrafikken er ophørt, og radiotavshed ikke  
+
+ længere  
+
+ er nødvendig, udsende:
+ ALL STATIONS/TIL ALLE  
+
+ STATIONER, (luftfartsstationens kaldesignal), DISTRESS TRAFFIC  
+
+ ENDED/NØDTRAFIK  
+
+ AFSLUTTET.
+Ilmeldinger 7.17.7 Ilmelding skal  
+
+ indledes med signalet PAN PAN, om muligt udtalt tre gange, derefter så mange  
+
+ som muligt af følgende punkter:
+ a.  
+
+ 	  
+
+    
+
+ Kaldesignalet på den  
+
+ station, meldingen er tiltænkt, eventuelt ALL STATIONS / TIL ALLE STATIONER.
+ b.  
+
+ 	  
+
+    
+
+ Eget kaldesignal.
+ c.  
+
+ 	  
+
+    
+
+ Beskrivelse af  
+
+ situationen.
+ d.  
+
+ 	  
+
+    
+
+ Luftfartøjschefens  
+
+ hensigter.
+ e.  
+
+ 	  
+
+    
+
+ Luftfartøjets  
+
+ position, højde og kurs.
+ f.  
+
+ 	  
+
+    
+
+ Andre relevante  
+
+ oplysninger.
+7.17.8 Den kaldte  
+
+ luftfartsstation eller førstkommende station, der reagerer på ilmeldingen,  
+
+ skal a.  
+
+ 	  
+
+    
+
+ kvittere for  
+
+ ilmeldingen og b.  
+
+ 	  
+
+    
+
+ underrette alle  
+
+ behørige i henhold til lokal alarmeringsplan.
+7.17.9 Når flyvningen  
+
+ omfatter medicinsk transport, skal indledes med signalet PAN PAN MEDICAL som  
+
+ ilmelding,  
+
+ om muligt udtalt tre gange.
+Meldingsindholdet skal omfatte a.  
+
+ 	  
+
+    
+
+ luftfartøjets  
+
+ kaldesignal eller anden genkendelig identifikation af den medicinske  
+
+ transport, b.  
+
+ 	  
+
+    
+
+ luftfartøjets  
+
+ position, c.  
+
+ 	  
+
+    
+
+ antal og art af den  
+
+ medicinske transport, d.  
+
+ 	  
+
+    
+
+ afgangssted og  
+
+ bestemmelsessted, e.  
+
+ 	  
+
+    
+
+ påtænkt rute og  
+
+ forventet flyvetid og f.  
+
+ 	  
+
+    
+
+ enhver anden  
+
+ oplysning om flyvningen, såsom flyvehøjde, aflyttede radiofrekvenser, anvendt  
+
+ sprog samt SSR-mode og -kode.
+ 7.17.10 Den procedure, der  
+
+ er nævnt i pkt. 7.17.8, skal anvendes af den station, der modtager en PAN PAN  
+
+ MEDICAL melding.
+ 7.17.11 Efter opkald, hvor  
+
+ nød- og ilsignalerne er udsendt, kan nød- og ilsignalerne anvendes, hver gang  
+
+ der udveksles efterfølgende kommunikation.
+7.18 Kommunikation vedrørende ulovlig handling Den station, der bliver  
+
+ kaldt af et luftfartøj, der er udsat for en ulovlig handling, eller første  
+
+ station, der reagerer herpå, skal underrette i henhold til lokale  
+
+ alarmeringsplaner samt yde al mulig assistance, jf. også bestemmelsen i pkt.  
+
+ 7.16.5.
+7.19 Svigtende radioforbindelse 7.19.1 Hvis det ikke er  
+
+ muligt for et luftfartøj at etablere forbindelse med en luftfartsstation på  
+
+ den  
+
+ frekvens, som stationen normalt anvender, skal luftfartøjet a.  
+
+ 	  
+
+    
+
+ forsøge at etablere  
+
+ forbindelse på en anden hensigtsmæssig frekvens eller, b.  
+
+ 	  
+
+    
+
+ hvis dette ikke  
+
+ lykkes, ved valg af passende frekvens forsøge at etablere forbindelse med  
+
+ andre  
+
+ luftfartøjer eller luftfartsstationer eller, c.  
+
+ 	  
+
+    
+
+ hvis dette heller  
+
+ ikke lykkes, på den normalt anvendte frekvens indlede udsendelsen med  
+
+ udtrykket  
+
+ TRANS-MITTING BLIND/SENDER BLINDT og derefter sende meldingen 2 gange.
+Hvis  
+
+ luftfartøjet et udstyret med SSR-transponder, skal mode A, kode 7600, vælges.
+7.19.2 Hvis årsagen til, at  
+
+ luftfartøjet er ude af stand til at etablere radioforbindelse, skyldes fejl i  
+
+ modtageanlægget, skal luftfartøjet sende sine meldinger i normalt omfang og  
+
+ på  
+
+ den normalt anvendte frekvens.
+Der indledes med udtrykket TRANSMITTING BLIND DUE TO  
+
+ RECEIVER FAILURE/SENDER BLINDT PÅ GRUND AF MODTAGERFEJL.
+ Meldingen skal gentages og  
+
+ derefter afsluttes med tidspunktet for næste forventede opkald.
+8. Dispensation Statens Luftfartsvæsen kan i  
+
+ ganske særlige tilfælde dispensere fra bestemmelserne i denne BL, når det  
+
+ skønnes foreneligt med de hensyn, der ligger til grund for de pågældende  
+
+ bestemmelser.
+9. Straf 9.1  
+
+ Flyvesikringstjenestepersonale, der overtræder bestemmelserne i afsnit 5, 6  
+
+ og  
+
+ 7, straffes med bøde.
+ 9.2 I øvrigt straffes  
+
+ overtrædelse af bestemmelserne i denne BL i medfør af luftfartslovens § 149,  
+
+ stk. 8, med bøde eller fængsel i indtil 2 år.
+10. Ikrafttræden 10.1 Denne BL træder i kraft  
+
+ den 27. november 2003.
+ 10.2 Samtidig ophæves BL  
+
+ 7-14, 4. udgave af 13. juli 1999 med senere ændringer.
+Statens Luftfartsvæsen, den 21. november  
+
+ 2003 Kurt Lykstoft Larsen /Karsten Theil Bilag til BL 7-14 Eksempler på  
+
+ direkte udtrykte flyvekontrolinstruktioner:
+TAXI.....KØR  
+
+  
+
+ CLIMB.....STIG  
+
+  
+
+ DESCEND.....GÅ NEDAD  
+
+  
+
+ CROSS.....KRYDS  
+
+  
+
+ TURN.....DREJ  
+
+  
+
+ CONTACT.....KONTAKT  
+
+  
+
+ REPORT.....RAPPORTER  
+
+  
+
+ HOLD.....VENT  
+
+  
+
+ GO AROUND.....OVERSKYD  
+
+  
+
+ LINE-UP.....KØR IND PÅ BANEN Stavealfabetet A Alfa AL  
+
+  
+
+ FAH B Bravo BRAH  
+
+  
+
+ VOH C Charlie CHAR  
+
+  
+
+ LEE or  
+
+  
+
+ SHAR  
+
+  
+
+ LEE D Delta DELL  
+
+  
+
+ TAH E Echo ECK  
+
+  
+
+ OH F Foxtrot FOKS  
+
+  
+
+ TROT G Golf GOLF H Hotel HOH  
+
+  
+
+ TELL I India IN  
+
+  
+
+ DEE AH J Juliett JEW  
+
+  
+
+ LEE  
+
+  
+
+ ETT K Kilo KEY  
+
+  
+
+ LOH L Lima LEE  
+
+  
+
+ MAH M Mike MIKE N November NO  
+
+  
+
+ VEM  
+
+  
+
+ BER O Oscar OSS  
+
+  
+
+ CAH P Papa PAH  
+
+  
+
+ PAH Q Quebec KEH  
+
+  
+
+ BECK R Romeo ROW  
+
+  
+
+ ME OH S Sierra SEE  
+
+  
+
+ AIR  
+
+  
+
+ RAH T Tango TANG  
+
+  
+
+ GO U Uniform YOU  
+
+  
+
+ NEE FORM or  
+
+  
+
+ OO  
+
+  
+
+ NEE FORM V Victor VIK  
+
+  
+
+ TAH W Whiskey WISS  
+
+  
+
+ KEY X X-ray EKCS  
+
+
+  
+
+ RAY Y Yankee YANG  
+
+  
+
+ KEY Z Zulu ZOO  
+
+  
+
+ LOO Æ Ægir Æ  
+
+  
+
+ GIR Ø Øresund Ø  
+
+  
+
+ RESUND Å Åse Å  
+
+  
+
+ SE Der lægges tryk på  
+
+ understregede stavelser.
+ Eksempler på udtale af tal:
+Tal Dansk Engelsk 0 Nul ZERO 1 Eet/Én WUN 2 To TOO 3 Tre TREE 4 Fire FOW-er 5 Fem FIFE 6 Seks SIX 7 Syv SEV-en 8 Otte AIT 9 Ni eller NEJ-ner* NIN-er , Komma DAY-SEE-MAL 100 Eet hundred One HUN-dred 1000 Eet tusind One TOU-SAND Trykket skal lægges på de  
+
+ stavelser, der er skrevet med store bogstaver *  
+
+    
+
+  
+
+  
+
+ når  
+
+ tallet 9 står alene eller sidst i en gruppe, skal det altid udtales NEJ-ner.
+Eksempler på udtale af talgrupper på engelsk Aircraft call signs  
+
+  
+
+ (kaldesignaler for luftfartøjer) OCA 238 Air China TWO THREE EIGHT OAL 242 Olympic TWO FOUR TWO Flight levels  
+
+  
+
+ (flyveniveauer) FL180 flight level ONE EIGHT  
+
+ ZERO FL 200 flight level TWO ZERO ZERO Headings  
+
+  
+
+ (kurser) 100 degrees heading ONE ZERO ZERO 080 degrees heading ZERO EIGHT ZERO Wind directions and speed  
+
+  
+
+ (vindretning og -hastighed) 200 degrees 79 knots wind TWO ZERO ZERO degrees  
+
+ SEVEN NIN-er knots 160 degrees 18 knots wind ONE SIX ZERO degrees  
+
+ ONE EIGHT knots Transponder codes  
+
+  
+
+ (transponderkoder) 2400 squawk TWO FOUR ZERO ZERO 4203 squawk FOUR TWO ZERO THREE Runway  
+
+  
+
+ (bane) 27 runway TWO SEVEN 30 runway THREE ZERO Altimeter setting  
+
+  
+
+ (højdemålerindstilling) 1010 QNH ONE ZERO ONE ZERO 1000 QNH ONE ZERO ZERO ZERO Altitude  
+
+  
+
+ (højde  
+
+ over havet) 800 EIGHT HUNDRED 3400 THREE THOUSAND FOUR  
+
+ HUNDRED 12000 ONE TWO THOUSAND Cloud height  
+
+  
+
+ (skyhøjde) 2200 TWO THOUSAND TWO HUNDRED 4300 FOUR THOUSAND THREE  
+
+ HUNDRED Visibility  
+
+  
+
+ (sigtbarhed) 1000 visibility ONE THOUSAND 700 visibility SEVEN HUNDRED Runway Visual Range  
+
+  
+
+ (banesynsvidde) 600 RVR SIX HUNDRED 1700 RVR ONE THOUSAND SEVEN  
+
+ HUNDRED Eksempler på tal, der indeholder komma:
+Tal Dansk Engelsk 118,000 Eet hundred atten komma  
+
+ nul One one eight decimal zero 118,025 Eet hundred atten komma  
+
+ nul to One one eight decimal zero  
+
+ two 118,005 Eet hundred atten komma  
+
+ nul nul fem One one eight decimal zero  
+
+ zero five 118,010 Eet hundred atten komma  
+
+ nul ti One one eight decimal zero  
+
+ one zero 118,025 Eet hundred atten komma  
+
+ nul femogtyve One one eight decimal zero  
+
+ two five Eksempler på tal, der angiver kanaler for  
+
+ VHF-frekvenser:
+Tal Dansk Engelsk 118,000 Et hundred atten komma nul One one eight decimal zero 118,100 Et hundred atten komma een One one eight decimal one 118,125 Et hundred atten komma  
+
+ tolv One one eight decimal one  
+
+ two Eksempler på tal ved angivelse af klokkeslet:
+ Kl.
+Dansk Engelsk 0920 Tyve (eller) eller nul ni  
+
+ tyve Two zero (eller) zero  
+
+ niner two zero 1643 Treogfyrre (eller) seksten  
+
+ treogfyrre Four three (eller) one six  
+
+ four three Klokken hel  
+
+  
+
+ (hele timer) På timen (eller) nul nul On the hour (eller) zero  
+
+ zero Eksempler på standardord og -udtryk:
+ACKNOWLEDGE  
+
+  
+
+ BEKRÆFT MELDING Lad mig vide, at min  
+
+ melding er modtaget og forstået AFFIRM  
+
+  
+
+ JA Ja APPROVED  
+
+  
+
+ GODKENDT Forespørgsel godkendt BREAK  
+
+  
+
+ BREAK Jeg indikerer hermed  
+
+ adskillelse mellem dele af min melding BREAK BREAK  
+
+  
+
+ BREAK BREAK Jeg indikerer hermed  
+
+ adskillelse mellem meldinger til forskellige luftfartøjer CANCEL  
+
+  
+
+ ANNULLER Annuller  
+
+ ...............................
+CHECK  
+
+  
+
+ CHECK eller KONTROLLER Kontroller (systemer eller  
+
+ procedurer) CLEARED  
+
+  
+
+ TILLADT Tilladt at udføre ....
+CONFIRM  
+
+  
+
+ BEKRÆFT Har jeg modtaget meldingen  
+
+ korrekt, eller har du modtaget min melding korrekt CONTACT  
+
+  
+
+ KONTAKT eller SKIFT TIL Etabler radiokontakt med  
+
+ .....
+CORRECT  
+
+  
+
+ KORREKT Det er korrekt CORRECTION  
+
+  
+
+ RETTELSE Jeg har sagt en fejl, den  
+
+ korrekte version er .....
+DISREGARD  
+
+  
+
+ ANNULLER MELDING Betragt pågældende melding  
+
+ som værende ikke sendt GO AHEAD  
+
+  
+
+ KOM Påbegynd udsendelse HOW DO YOU READ  
+
+  
+
+ HVORDAN LÆSER DU MIG Hvad er læseligheden  
+
+ (kvaliteten) af min udsendelse I SAY AGAIN  
+
+  
+
+ JEG GENTAGER Jeg gentager (for at  
+
+ understrege) MONITOR  
+
+  
+
+ AFLYT Lyt på (frekvens) NEGATIVE  
+
+  
+
+ NEJ Nej, eller tilladelse ikke  
+
+ givet, eller det er ikke korrekt OVER  
+
+  
+
+ SKIFTER Min melding er afsluttet,  
+
+ og jeg forventer svar (anvendes normalt ikke ved kommunikation på VHF) OUT  
+
+  
+
+ SLUT Udveksling af meldinger  
+
+ afsluttet (anvendes normalt ikke ved kommunikation på VHF) READ BACK  
+
+  
+
+ LÆS TILBAGE Gentag hele eller nærmere  
+
+ angivet del af den melding, jeg lige har sendt RECLEARED  
+
+  
+
+ ÆNDRET TILLADELSE Klarering ændret til .....  
+
+ (denne nye klarering erstatter den tidligere eller dele heraf) REPORT  
+
+  
+
+ RAPPORTER Send følgende oplysning  
+
+ .....
+REQUEST  
+
+  
+
+ ANMODER OM Jeg vil gerne vide, eller  
+
+ jeg anmoder om .....
+ROGER  
+
+  
+
+ FORSTÅET eller MODTAGET Jeg har forstået meldingen  
+
+ (må ikke bruges som kvittering for meldinger, der kræver tilbagelæsning) SAY AGAIN  
+
+  
+
+ GENTAG Gentag hele eller nærmere  
+
+ angivet del af din melding SPEAK SLOWER  
+
+  
+
+ TAL LANGSOMMERE Nedsæt talehastigheden STANDBY  
+
+  
+
+ VENT Vent, jeg kalder dig VERIFY  
+
+  
+
+ UNDERSØG Kontroller og bekræft  
+
+ rigtigheden (hos udstederen) WILCO  
+
+  
+
+ WILCO Jeg forstår din melding og  
+
+ vil efterkomme denne.  
+
+  
+
+ (WILCO er en sammentrækning af "will comply") WORDS TWICE  
+
+  
+
+ SEND HVERT ORD TO GANGE a.
+Som anmodning:  
+
+ Kommunikationen vanskelig, så send hvert ord eller grupper af ord to gange b.
+Som information: Da  
+
+ kommunikation er vanskelig, vil hvert ord eller grupper af ord blive sendt to  
+
+ gange (anvendes normalt ikke på VHF) Eksempler på kaldesignaler:
+Type Fuldt kaldesignal Forkortet kaldesignal a.
+OYABC OBC CESSNA FABCD CESSNA CD CITATION FABCD CITATION CD b.
+VARIG PVMA VARIG MA c.
+VARIG 401 (ingen forkortet form) Suffixer for tjenesteenheder:
+Tjenesteenhed Suffic til kaldesignal Area control centre CONTROL Approach control APPROACH Approach control radar  
+
+ arrivals ARRIVAL Approach control radar  
+
+ departures DEPARTURE Aerodrome control TOWER Surface movement control GROUND Radar (in general) RADAR Precision approach radar PRECISION Direction-finding station HOMER Flight information service INFORMATION Clearance delivery DELIVERY Apron service APRON Company dispatch DISPATCH Aeronautical station RADIO Aerodrome Flight  
+
+ Information Service AFIS Heliport Information  
+
+ Service HIS Eksempler:
+ AALBORG TOWER * ROSKILDE  
+
+ APPROACH * COPENHAGEN CONTROL * THISTED AFIS * SONDRESTROM INFORMATION o.s.v.

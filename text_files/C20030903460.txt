@@ -1,0 +1,86 @@
+Vejledning om Måling af støj på arbejdspladsen - At-vejledning D.7.4 - Marts 2003 At-vejledningen oplyser om måling af støj på arbejdspladsen og vejleder om, hvornår, hvordan og med hvilket udstyr målingerne gennemføres.
+ Støj på arbejdspladsen bør være en del af arbejdspladsvurderingen.
+Hvor støjbelastningen kan være sundhedsskadelig, skal det jævnligt kontrolleres, om forholdene er i orden.
+Når forholdene giver anledning til det, eller hvis Arbejdstilsynet forlanger det, skal man foretage målinger af støj.
+De ansatte skal have oplysning om resultaterne af udførte støjmålinger i forbindelse med deres arbejde, herunder om den risiko for høreskade, der kan være forbundet med arbejdet.
+Valg af måleudstyr Valget af måleudstyr afhænger af støjens karakter.
+En integrerende støjmåler kan måle alle typer støj.
+Den registrerer et gennemsnit af støjen, den såkaldte LAeq-værdi.
+Det er især nyttigt, hvor støjen varierer mere end 5 dB(A).
+ Støjmålere, der ikke er integrerende, kan bruges, hvor støjen højst varierer 5 dB(A). Måleren indstilles på "slow".
+Støjdosimetre kan være velegnede til måling af støjbelastning for personer, der opholder sig i skiftende støj.
+Et støjdosimeter er en lille integrerende lydmåler, som den støjudsatte selv bærer på sig.
+Støjmåleren skal indstilles til A-vægtning.
+Den bør have indstillingsmuligheden "peak", og den skal kunne måle korrekt - ikke mindst når det drejer sig om impulsstøj.
+Den bør opfylde kravet til et klasse 2 instrument i international standard IEC 61672-1 Sound Level Meters.
+Måling og beregning Man bruger både målinger og beregninger for at finde frem til, hvor meget en person er belastet af støj.
+ I praksis bør man vælge denne fremgangsmåde:
+Først opdeler man dagen i støjmæssigt typiske perioder.
+Målingernes omfang afhænger derfor af, hvor kompliceret arbejdsdagen er.
+Det er vigtigt, at man som ansvarlig for målingerne er omhyggelig med at skaffe sig oplysninger om arbejdssituationerne.
+For at finde frem til støjbelastningen måler man på de perioder, som arbejdsdagen består af, og man noterer sig, hvor lang tid der arbejdes i hver situation.
+I mange tilfælde er det tilstrækkeligt at måle over et minut - eller kortere.
+Kun sjældent er det nødvendigt med målinger, der er længere end 5-10 minutter.
+Også kortvarige støjdosimetermålinger er ofte tilstrækkelige.
+Man må bestræbe sig på at anbringe mikrofonen ca. 10 cm fra personens værst belastede øre.
+Man skal ikke tage hensyn til, om personen bruger høreværn, når man måler støjbelastningen.
+ Ud fra de måleresultater, der aflæses, og periodernes varighed skal der beregnes et gennemsnit (LAeq-værdi), se afsnittet om "Beregning af støjbelastning".
+ Hvis støjen er skarp eller smældende, indeholder den sikkert impulser, og støjens spidsværdi bør måles (stilling "peak").
+ Sådan kraftig impulsstøj forekommer fx ved:
+ Slag, metal mod metal  Presser, især mekaniske  Afblæsninger fra trykluft.
+ Når støjimpulserne er kraftige, skal den aflæste "slow" eller LAeq-værdi korrigeres.
+ Arbejdstilsynets praksis er:
+ Der skal korrigeres, hvis støjen er "impulsagtig", og dens spidsværdi overstiger 115 dB(A) eller dB(C) mere end én gang i minuttet.
+Der kan frit vælges mellem dB(A) og dB(C).
+  Korrektionen er +5 dB(A).
+Beregning af støjbelastning Støjbelastningen beregnes som LAeq-værdien normeret til en 8 timers arbejdsdag.
+ Arbejdes der mere end 8 timer en dag, bliver støjbelastningen derfor højere end den målte værdi.
+Herunder er der givet eksempler på beregning af støjbelastning.
+Der beskrives dels en metode, der gør brug af lommeregner, dels en metode, hvor der anvendes tabeller.
+Ved beregning skal man være opmærksom på, at:
+  Støjniveauerne skal måles i dB(A) som "slow" eller "LAeq-værdier".
+  Der skal lægges 5 decibel til, hvis der er impulsstøj.
+Eksempel En pladesmed er beskæftiget med opretning af bilkarrosserier.
+I løbet af en arbejdsdag er han udsat for følgende støj (LAeq):
+Mejsling 94 dB(A) i 1 time Slibning 90 dB(A) i 0,5 time Svejsning 86 dB(A) i 1,5 time Montage mv. 77 dB(A) i 5 timer Ved mejsling er støjen "impulsagtig". Spidsværdierne måles til mellem 125 og 130 dB(A). De 94 dB(A) skal derfor korrigeres med + 5 dB(A) til 99 dB(A).
+Metode 1 Støjbelastningen beregnes ved hjælp af nedenstående formel:
+ hvor:
+  LAeq1 til LAeqn er de enkelte målinger i dB korrigeret for indhold af impulser.
+  t1 til tn er den tilsvarende udsættelsestid for personen.
+Summen af disse kan være større eller mindre end 8 timer.
+ Ved indsættelse fås:
+Metode 2 Støjbelastningen beregnes ved hjælp af tabel 1 og tabel 2:
+ I tabel 1 aflæses følgende:
+Mejsling, 99 dB(A) i 1 time 395 "støjpoint" Da 99 dB(A) ikke findes i tabellen, aflæser man under den nærmeste værdi 100 dB(A).
+Slibning 90 dB(A) i 0,5 time - 20 "støjpoint" Svejsning 86 dB(A) i 1,5 time - 20 "støjpoint" Montage mv. 77 dB(A) i 5 timer - 5 "støjpoint" Sammenlægning giver 440 "støjpoint" I tabel 2 ses:
+at 400 "støjpoint" svarer til 91 dB(A) at 500 "støjpoint" svarer til 92 dB(A) Da 440 er nærmest 400, er pladesmedens støjbelastning 91 dB(A) over hele arbejdsdagen.
+Ser man på de enkelte processers "støjpoint", fremgår det, at mejsling klart er den værste støjkilde.
+ Nøjagtigheden forbedres, hvis man interpolerer mellem værdierne i tabel 1.
+Tabel 1 "Støjpoint" for støjniveau 75-115 dB(A) og varighed 2 minutter til 8 timer pr. dag.
+Tabel 2 Omsætning af "støjpoint" til LAeq over en 8 timers arbejdsdag.
+Rapport om måling af støj En rapport med dokumentation for støjforhold bør indeholde følgende punkter:
+  Virksomhedens navn og adresse.
+  Den ansvarlige person for målingen og dennes firma/BST.
+  Medvirkende fra virksomheden (SIO).
+  Dato for udførelse af målingerne.
+  Navn på afdeling.
+  Antal personer, der er udsat for støj.
+  Eventuelt navn på den/de personer, der måles på.
+  Arbejdsforhold på måledagen inkl. produktionens omfang.
+  Beskrivelse af/navn på de maskiner/processer, personerne er beskæftiget ved.
+  Angivelse af, hvor lang tid der arbejdes i hver situation.
+  Eventuelt skitse eller fotos.
+  Identifikation af måleudstyr.
+  Mikrofonplacering - tæt (10 cm) ved operatørens øre.
+  Aflæste niveauer med angivelse af lydmålerindstilling, slow/LAeq og peak.
+  Angivelse af, hvor lang tid der er målt - ved LAeq og dosimetermålinger.
+  Angivelse af kalibrering.
+  Korrektion for impulser.
+  Sammenregning af støjbelastning.
+  Vurdering af måleresultater i forhold til grænseværdien.
+  Eventuelt brug/udlevering af høreværn.
+  Eventuelt forslag til foranstaltninger.
+ I det almindelige sikkerhedsarbejde vil vejledende målinger af mere orienterende karakter normalt være tilstrækkelige.
+Lydmåler og kalibrator bør kontrolmåles.
+Retningsgivende skal det nævnes, at Miljøstyrelsen for at godkende målinger kræver, at kalibratoren skal kontrolmåles én gang hvert år, og lydmåleren hvert andet år.
+ Læs også branchearbejdsmiljørådenes vejledninger mv.

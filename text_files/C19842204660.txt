@@ -1,0 +1,221 @@
+ UNDERVISNINGSVEJLEDNlNG I DATALÆRE PÅ HF.
+ Indledning.
+Undervisningen i datalære skal give eleverne indtryk af den teknologiske  
+
+ udvikling der tog sin begyndelse i 70'erne.
+Der tænkes dels på udviklingen  
+
+ henimod mindre maskiner med større lagerkapacitet og hurtigere  
+
+ datatransmission, dels på udviklingen af programmellet henimod simplere  
+
+ programmeringssprog og bedre kommercielle standardprogrammer.
+Samtidig er der  
+
+ sket en markant udvidelse i forbruget af edb: mens der i begyndelsen især var  
+
+ tale om rene forskeranvendelser i fx fysik og ingeniørvidenskab benyttes edb  
+
+ nu i stigende omfang administrativt.
+Endelig har mikroprocessoren muliggjort  
+
+ en automatisering af en lang række arbejds- og overvågningsprocesser:
+Hele denne udvikling medfører at der i undervisningen skal lægges vægt på  
+
+ at eleverne får lejlighed til at arbejde med edb-systemer af administrativ  
+
+ karakter og at de får et indblik i den teknologiske udvikling på hele  
+
+ edb-området.
+Det vil i den forbindelse være naturligt at komme ind på  
+
+ teknologiaftaler.
+Faget har såvel en teknisk som en samfundsrettet side.
+Begge sider skal i  
+
+ de senere undervisningsforløb fremtræde klart, og den enkelte elev skal  
+
+ gennem analyser og diskussioner have lejlighed til at udvikle sit syn på  
+
+ edb's anvendelser i samfundet.
+Undervisningen har både et brugerorienteret og et skabende aspekt.
+Det  
+
+ første aspekt tilgodeses ved at eleverne lærer at anvende færdige programmer  
+
+ med tilhørende dokumentation.
+Her kan andre former for datasystemer også  
+
+ inddrages, fx teledata.
+Den skabende side af undervisningen tilgodeses ved at  
+
+ eleverne lærer at opstille simple modeller, at konstruere tilhørende  
+
+ algoritmer samt at programmere disse og dokumentere programmet.
+Den  
+
+ nødvendige individuelle vejledning på disse områder sikres ved at hver elev i  
+
+ kursets indledende del afleverer et sæt hjemmeopgaver om ugen.
+Opgaverne  
+
+ rettes og kommenteres af læreren.
+ Der skal i undervisningen lægges særligt vægt på betydningen af en godt  
+
+ gennemarbejdet dokumentation, både af elevernes egne produkter og af andres.  
+
+ Dokumentationen bør foretages sideløbende med problemløsningen, og den bør  
+
+ altid indeholde prøvekørsler af programmet.
+ Indhold.
+ For at medvirke til en progression i kurset, opdeles dette i tre faser: En  
+
+ grundlæggende del, en projektdel og en dataopgave.
+A.
+Grundlæggende del:
+ 1. Databegrebet.
+ Data og information, datarepræsentation, dataorganisation,  
+
+ datakommunikation og datatransformation.
+ 2. Algoritmebegrebet.
+ Beskrivelse af algoritmer, konstruktion af algoritmer og eksempler på  
+
+ algoritmer.
+ 3. Programmering.
+ Udarbejdelse af programmer til datamaskine, herunder problemformulering,  
+
+ modelopstilling, programskrivning, afprøvning og dokumentation.
+ 4. Datasystemers virkemåde og anvendelse.
+Orientering om skolens eget anlæg, samt om professionelle anlæg og deres  
+
+ anvendelse til såvel centraliseret som distribueret løsning af  
+
+ beregningsopgaver, registeropgaver og styringsopgaver.
+Der bør i  
+
+ undervisningen lægges vægt på den teknologiske og systemmæssige udvikling af  
+
+ datamaskinerne.
+ 5. Registre.
+ Herunder registerlovgivningen, databaser og sikkerhedssystemer, samt  
+
+ filhåndteringssystemet på skolens eget anlæg.
+Der afleveres i denne del af kurset hver uge et sæt hjemmeopgaver fra hver  
+
+ elev.
+Opgaverne rettes og kommenteres af læreren.
+B.
+Projektdel.
+Under denne del af kurset vælger holdet sammen med læreren et eller flere  
+
+ emner til dyberegående behandling.
+Centralt i projektet bør stå det  
+
+ datalogiske modelbegreb - gerne belyst gennem konkrete eksempler.
+Der bør  
+
+ typisk tages udgangspunkt i problemstillinger, hvor besøg på offentlige eller  
+
+ private virksomheder eller institutioner kan indgå som et væsentligt led i  
+
+ undervisningen.
+Der bør indgå eksempler på administrativ databehandling og på  
+
+ automatisering af overvågnings- eller arbejdsprocesser.
+ Som eksempler kan nævnes:
+»Bankarbejdet i informationsalderen« »En virksomhed og dens datamat« »Edb-behandlet indkomstskat« »Datamatiske modeller i økonomi, fx SMEK og KLASK« »Datamatiske modeller i biologi, fx fiskerimodeller« »Datamaskinen i undervisningen« »Databeskyttelse i datamatiske systemer« »Edb-registreret bogudlån« »Bredbåndsnettet - hvad kan det bruges til?» »Kunstig intelligens« »Mikroprocesoren i dagligdagen« »Hospitals-informationssystemet »det røde system.«» Eleverne udarbejder sammen med læreren en samlet beskrivelse af  
+
+ projektforløbet.
+Denne beskrivelse har som primært formål at støtte elevernes  
+
+ hukommenlse til eksamen.
+Den kommenteres af læreren, og den indgår i pensum.
+C.
+Dataopgaven.
+ I kursets sidste tredjedel udarbejder grupper på normalt højst tre elever  
+
+ hver sin større opgave under lærerens vejledning.
+I opgaven bør indgå elementer af såvel fagets tekniske som fagets  
+
+ samfundsrettede side.
+Dataopgaverne for grupperne skal være forskellige, men  
+
+ kan godt ved sammenkædning udgøre et større hele.
+De kan være uddybning af et  
+
+ af emnerne fra den grundlæggende del eller fra et af projekterne, men  
+
+ opgaveformuleringen bør være mere detaljeret.
+ Som eksempler kan nævnes:
+»Elevforsømmelsesregister.
+Registret bør kunne registrere fravær i de  
+
+ enkelte fag og på enkelte dage i timer, hele dage og procenter.
+Endvidere bør  
+
+ nye elever kunne indføjes, ligesom udgåede elever bør kunne slettes.« »Programmeret undervisning.
+Du skal fremstille et  
+
+ undervisningsprogram der henvender sig til en folkeskoleelev i 6. klasse.  
+
+ Programmet skal fx lære eleven simpel brøkregning og procentregning.  
+
+ Kommenter hvilke fordele og ulemper dette og lignende programmer har.« »Konstruer et edb-system der hjælper en grosserer med at registrere  
+
+ varelageret og indtjeningen.
+Systemet skal selv kunne bestille varer hjem.  
+
+ Formuler selv input og output.
+Hvorledes skal systemet ændres for at blive  
+
+ anvendeligt for fx en grønthandler eller en blikkenslager? Kommenter de  
+
+ ændringer edbsystemet medfører i det daglige arbejde.« D.
+Kommentarer:
+Kurset er basseret på anvendelse af et konverserende problemorienteret  
+
+ programmeringssprog.
+Udviklingen inden for dette område er imidlertid så  
+
+ stærk at der ikke kan peges på et enkelt sprog.
+ Det anbefales at medtage eksempler på kommunikation imellem menneske og  
+
+ maskine hvor tastaturet ikke anvendes, fx kommunikation ved direkte grafisk  
+
+ kontakt med skærmen.
+ Under diskussionen af de samfundsmæssige konsekvenser af edb og analysen  
+
+ af disse anbefales det at man benytter gæstelærere fra arbejdsmarkedets  
+
+ organisationer, fra offentlige institutioner eller fra politiske partier.  
+
+ Besøg på virksomheder eller institutioner kan også bidrage til at  
+
+ perspektivere denne del af undervisningen.
+E.
+Eksamen:
+ Prøven er mundtlig med forberedelsestid.
+ Der stilles to spørgsmål, hvoraf det ene tager sit udgangspunkt i  
+
+ dataopgaven der fremlægges til eksamen.
+ Eleven må i forberedelsestiden benytte sig af undervisningsmateriale og  
+
+ noter fremstillet i forbindelse med undervisningen.
+Datamaskinen kan være til rådighed under eksaminationen til demonstration  
+
+ af visse simple færdigheder.
+Selve brugen af maskinen må kun udgøre en mindre  
+
+ del af den samlede eksamination.
+F.
+Selvstuderende:
+ Selvstuderende opgiver til eksamen hele det læste pensum samt dataopgaven.
+C.
+Den større skriftlige opgave i datalære:
+ Der kan stilles større skriftlig opgave i datalære jfr. hfbekendtgørelsen  
+
+ af 24. april 1974 § 10. Læreren skal dog sikre at eleverne ikke får en  
+
+ opgavetitel, der overlapper emnet for dataopgaven.
+ Med hensyn til eksempler på titler henvises til afsnittet om dataopgaven.
+ P.d.v.

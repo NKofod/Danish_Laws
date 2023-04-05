@@ -1,0 +1,27 @@
+Denne cirkulæreskrivelse supplerer cirkulæreskrivelse nr. 9923 af 24. november 2009 om A-kassernes leverance af oplysninger til brug for beregning af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse Til De anerkendte a-kasser og deres statsautoriserede revisorer, Arbejdsløshedskassernes Samvirke, Medialogic, KMD, SKS Applikation Service og Holstebro Kommune Kommunerne skal i medfør af § 82 a i lov om arbejdsløshedsforsikring m.v. og § 109, stk. 2 og 3, i lov om en aktiv beskæftigelsesindsats fra 1. januar 2010 medfinansiere statens udgifter til a-dagpenge og befordringsgodtgørelse.
+1. Bekendtgørelse og vejledning A-kassernes og kommunernes opgaver m.v. i relation til kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse, herunder i forhold til hvilke data som skal indgå i beregningerne, er fastsat i bekendtgørelse om kommunernes medfinansiering af arbejdsløshedsdagpenge og befordringsgodtgørelse til de forsikrede ledige.
+Der er udarbejdet en vejledning til bekendtgørelsen.
+Bekendtgørelsen og vejledningen vedlægges i korrekturtryk.
+Bekendtgørelsen træder i kraft 1. januar 2010.
+ Bekendtgørelsen optages i Lovtidende (www.lovtidende.dk) før nytår og bekendtgørelsen og vejledningen vil parallelt hermed blive tilgængelige i Retsinformation (www.retsinformation.dk).
+2. A-kassernes leverance af oplysninger på individniveau Til brug for beregningen af kommunernes medfinansiering skal a-kasser og kommuner levere en række oplysninger på individniveau.
+ Det konkrete tekniske indhold af - og format på - på de data, som a-kasserne skal aflevere til brug for beregning af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse fremgår af en snitfladebeskrivelse udarbejdet af KMD.
+ Med cirkulæreskrivelse nr. 9923 af 24. november 2009 udsendte Arbejdsmarkedsstyrelsen KMD A-Refusion Snitfladebeskrivelse for  (24.11.2009).
+2.1. Ajourført snitfladebeskrivelse KMD har efterfølgende udarbejdet en ajourført udgave af snitfladebeskrivelsen, hvor der i relation til a-kassernes dataleverancer er foretaget ajourføringer af navngivning af datasæt for produktion (snitfladebeskrivelsens afsnit 7.1.3) og identer på a-kassernes dataleverandører (i snitfladebeskrivelsens bilag 1).
+I bilag 1 er der ændringer fsva.
+ARKE, Modulus (fremgår nu alene med én ident) og Winnie (hvor D53 er tilføjet).
+ Der er bortset fra dette ikke aktuelle ændringer i snitfladebeskrivelsen i forhold til a-kassernes dataleverancer.
+ Der er herudover foretaget ændringer i relation til Arbejdsdirektoratets leverance af individoplysninger (snitfladebeskrivelsens afsnit 7.1.6 og 7.1.13) og fejlkoder i bilag 2 ved leverancer fra Arbejdsdirektoratet.
+ Der vedlægges derfor en ajourført udgave af snitfladebeskrivelsen: KMD A-Refusion Snitfladebeskrivelse for  (18.12.2009).
+2.2 Ændring i snitfladen fra 1. juli 2010 - befordringsgodtgørelse Snitfladebeskrivelsen ændres for så vidt angår befordringsgodtgørelse med virkning fra senest 1. juli 2010.
+ Befordringsgodtgørelse skal senest med virkning fra 1. juli 2010 leveres med en ny transaktionstype (type 21). Denne transaktionstype er beskrevet i snitflade­beskrivelsens afsnit 7.3.4.
+ Frem til og med 30. juni 2010 er der en overgangsordning, hvor type 20 kan anvendes vedrørende befordringsgodtgørelse.
+ Type 21 kan anvendes allerede nu af de a-kasser, som ønsker dette.
+ A-kassen skal ved de enkelte leverancer af oplysninger om befordringsgodtgørelse alene anvende én af typerne 20 og 21 i overgangsperioden, jf. beskrivelsen af felt nr. 03 Transaktionstype i snitfladebeskrivelsen (side 21).
+2.3 Første indberetning af produktionsdata Vedrørende de særlige forhold og tidsfrister for a-kassernes første indberetning af produktionsdata for de to første a-dagpengemåneder i 2010 henvises til afsnit 2.2 i cirkulæreskrivelse nr. 9923 af 24. november 2009.
+2.4 Ophavsret For en god ordens skyld skal opmærksomheden henledes på, at det i snitfladebeskrivelsen fremgår:
+Nærværende materiale er beskyttet i henhold til ophavretsloven.
+Alle rettigheder tilhører KMD a/s.
+Den må dog gerne udlånes til soft­wareleve­randører i forbindelse med etablering af snitfla­den samt ved frem­tidige ændringer af denne. 3. Distribuering af a-kasseoplysninger via KMD EDI Service KMD har udarbejdet en beskrivelse af, hvorledes oplysningerne fra a-kasserne via KMD EDI Service distribueres til KMD, Medialogic og øvrige databehandlere, der forestår opgørelsen af kommunernes finansieringsbidrag til a-dagpenge og befordringsgodtgørelse.
+ Beskrivelsen vedlægges.
+4. Spørgsmål vedr. snitfladebeskrivelsen Kontaktoplysninger vedrørende snitfladebeskrivelsen fremgår af afsnit 1, side 5, i snitfladebeskrivelsen.

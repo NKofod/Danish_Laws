@@ -1,0 +1,443 @@
+INDHOLDSFORTEGNELSE Side 0. Ordforklaringer Abonneret privatledning (apl) Ved en abonneret privatledning forstås i dette cirkulære en elektrisk  
+
+ transmissionsvej, som er fast etableret mellem to terminalpunkter via  
+
+ teleadministrationernes anlæg og udlejet af en af teleadministrationerne.
+Terminaludstyr Ved et terminaludstyr forstås i dette cirkulære et udstyr, som på de af  
+
+ teleadministrationerne fastsatte vilkår tilsluttes en apl.
+Linieklemmer Ved linieklemmerne i et terminaludstyr forstås i dette cirkulære  
+
+ terminaludstyrets tilslutningspunkter for direkte elektrisk forbindelse med  
+
+ en abonneret privatledning.
+Abonnent Ved en abonnent forstås i dette cirkulære en fysisk eller juridisk person,  
+
+ som lejer en apl.
+Teleadministrationerne Teleadministrationerne er i dette cirkulære en sammenfattende betegnelse  
+
+ for:
+Kjøbenhavns Telefon Aktieselskab (KTAS) Jydsk Telefon-Aktieselskab (JTAS) Fyns kommunale telefonselskab (FkT) Post- og Telegrafvæset (P og T).
+1. Almindelige krav 1.1. Gyldighedsområde De tekniske krav i dette cirkulære skal til ethvert tidspunkt - uanset  
+
+ omgivelsernes klimaforhold og uanset eventuelle strømforsyningsvariationer -  
+
+ være opfyldt af terminaludstyr, som ved hjælp af elektriske forbindelser er  
+
+ tilsluttet en abonneret privatledning (apl).
+1.2. Sikkerhed over for stærkstrøm 1.2.1. Terminaludstyr skal være udført i overensstemmelse med  
+
+ stærkstrømsreglementets forskrifter og skal D-mærkes eller godkendes af  
+
+ DEMKO, for så vidt dette kræves ifølge danske love og bestemmelser.
+ 1.2.2. Der må ikke gennem et terminaludstyr være jævnstrømsforbindelse fra  
+
+ stærkstrømsnettet til en apl.
+ Enhver komponent, gennem hvilken der ved fejl vil kunne opstå en sådan  
+
+ forbindelse, skal være afprøvet med en 50 Hz vekselspænding på mindst 2000 V  
+
+ (effektivværdi) i mindst 1 minut.
+Det sidstnævnte krav betragtes som opfyldt for terminaludstyr, som fra strækstrømsnettet udelukkende strømforsynes via en nettransformator  
+
+ (sikkerhedstransformer) med højst 50 V på sekundærsiden, hvis der mellem de  
+
+ elektriske kredsløb, som er i forbindelse med henholdsvis primærsiden og  
+
+ sekundærsiden af nettransformatoren, ikke forekommer gennemslag ved en  
+
+ prøvespænding på mindst 2000 V (effektivværdi) ved 50 Hz.
+1.2.3. For terminaludstyr, som skal anvendes inden for et  
+
+ højspændingsanlægs sikkerhedsafstand, jf.
+Telefontilsynets cirkulære nr. 14,  
+
+ »Sikring af teleanlæg mod overspændinger«, skal der i hvert enkelt  
+
+ tilfælde træffes aftale med teleadministrationen om eventuelle særlige  
+
+ sikkerhedsforanstaltninger.
+1.3. Radiostøj Terminaludstyr er underkastet bestemmelserne i den danske lovgivning  
+
+ vedrørende radiostøjdæmpning.
+1.4. Mekanisk udførelse Terminaludstyr skal være af en pålidelig og robust udførelse og en  
+
+ fabrikationsmæssig god kvalitet.
+1.5. Tilslutning Terminaludstyr må kun tilsluttes en apl i de af teleadministrationerne anviste tilslutningspunkter - sædvanligvis ved  
+
+ hjælp af skrueforbindelser.
+2. Krav til terminaludstyr tilsluttet abonnerede  
+
+ privatledninger uden jævnstrømsforbindelse 2.1. Almindeligt 2.1.1. I en abonneret privatledning (apl) uden jævnstrømsforbindelse  
+
+ indgår tids- eller frekvensmultipleksanlæg, i hvilke de to  
+
+ transmissionsretninger er fremført hver for sig i enkeltrettede PMC- eller  
+
+ bærefrekvenskanaler.
+ I hver kanal er det effektivt overførte frekvensområde 300-3400 Hz, og kun  
+
+ dette frekvensområde kan og må udnyttes.
+ Dersom anvendelsen af en apl kræver et større frekvensområde, må  
+
+ mulighederne herfor undersøges og særlige transmissionsmæssige krav aftales  
+
+ med teleadministrationen i hvert enkelt tilfælde.
+ 2.1.2. Er en apl i hele sin længde fremført med adskilte  
+
+ transmissionsretninger, dvs. som en ren firtråds forbindelse, skal kravene i  
+
+ pkt. 2.2. til 2.6. være opfyldt ved terminaludstyrenes linieklemmer for hver  
+
+ af de to transmissionsretninger.
+ 2.1.3. Terminaludstyr, som opfylder de anførte krav for tilslutning til  
+
+ apl'er uden jævnstrømsforbindelse, opfylder også kravene for tilslutning til  
+
+ apl'er med jævnstrømsforbindelse (jf. afsnit 3).
+2.2. Isolation mod jord Terminaludstyr skal mellem de kortsluttede linieklemmer og jord/stel have  
+
+ en isolationsmodstand på mindst 100 Mohm ved jævnspændinger op til 500 V.
+ Dersom terminaludstyret er sikret mod overspændinger ved hjælp af  
+
+ overspændingsafledere mellem linieklemmerne og jord/stel, skal kravet til  
+
+ isolationsmodstand dog kun være opfyldt, når overspændingsaflederne er  
+
+ slukket.
+2.3. Impedans mod jord Terminaludstyr skal mellem de kortsluttede linieklemmer og jord/stel have  
+
+ en impedans med en numerisk værdi på mindst 1 Mohm ved vekselspændinger med  
+
+ effektivværdi og til 120 V og frekvenser op til 55 Hz.
+2.4. Balance mod jord 2.4.1. Mellem terminaludstyr, som er tilsluttet hver sin ende af en apl,  
+
+ må dennes halvfirerkredsløb ikke udnyttes til transmission af jævn- eller  
+
+ vekselstrømme, og jord må ikke udnyttes som returforbindelse hverken for  
+
+ jævn- eller vekselstrømme.
+ 2.4.2. Terminaludstyr skal impedansmæssigt være balanceret mod jord/stel  
+
+ med en jordbalancedæmpning på mindst 40 dB ved frekvenser fra 50 til 600 Hz  
+
+ og på mindst 46 dB ved frekvenser fra 600 til 3400 Hz.
+Ved kontrol af jordbalancedæmpningen anvendes den i fig. 2.4.2. viste  
+
+ måleopstilling, Jordbalancedæmpningen er her bestemt af: 20 log10 (7,75/u)  
+
+ dB.
+Maling af u V foretages med afbryderen S såvel åben som lukket og med  
+
+ omkobleren K i begge stillinger.
+2.5. Maksimale spændinger 2.5.1. Mellem linieklemmerne i et terminaludstyr må der ikke forekomme  
+
+ jævnspændinger.
+ 2.5.2. Mellem linieklemmerne i et terminaludstyr må der ikke forekomme  
+
+ vekselspændinger med øjebliksværdier, som overstiger 3,5 V.
+ Ud over kravet til vekselspændingernes øjebliksværdier skal kravene i pkt.  
+
+ 2.6. til de maksimale sendeniveauer også være opfyldt.
+ 2.5.3. Dersom en abonneret privatledning uden jævnstrømsforbindelse efter  
+
+ særlig aftale er leveret med udstyr for overdragning af ringesignaler, må  
+
+ terminaludstyrene - uanset bestemmelserne i pkt. 2.5.2. og 2.6. - afgive  
+
+ kalde- og slutsignaler af højst 3 s varighed fra godkendte magnetoapparater  
+
+ eller fra en ringegenerator med en ringefrekvens på 25 Hz +/- 10%, en  
+
+ klirfaktor på højst 10%, en tomgangsspænding på højst 100 V (effektivværdi)  
+
+ og en kortslutningsstrøm på højst 100 mA.
+2.6. Maksimale sendeniveauer 2.6.1. Fra et terminaludstyr må der ved sending af vekselstrømme  
+
+ hidrørende fra tale og musik ikke afgives effekter, som i middel i noget  
+
+ tidsrum af 3 s varighed overstiger 100 micro W (-10 dBm), når  
+
+ terminaludstyrets linieklemmer er belastet med en modstand på 600 ohm.
+ Kravet svarer til, at spændingen over en modstand på 600 ohm mellem  
+
+ linieklemmerne ikke på noget tidspunkt må overstige 245 mV, når måling  
+
+ foretages med et instrument, som med en integrationstid på højst 3 s måler  
+
+ effektivværdien af vekselspændinger.
+ Ud over kravet til middeleffekten skal kravet i pkt. 2.5.2. til  
+
+ vekselspændingernes maksimale øjebliksværdier også være opfyldt.
+2.6.2. Fra et terminaludstyr må der ved sending af kodesignaler i form af  
+
+ vekselstrømme ikke afgives effekter, som i middel i noget tidsrum af 0,2 s  
+
+ varighed overstiger 100 micro W (-10 dBm) for frekvenskomponenter under 3400  
+
+ Hz og 0,1 micro W (-40 dBm) for eventuelt forekommende frekvenskomponenter  
+
+ over 3400 Hz, når terminaludstyrets linieklemmer er belastet med en modstand  
+
+ på 600 ohm.
+Kravet til middeleffekten skal være opfyldt, hvad enten et  
+
+ kodesignal indeholder en eller flere frekvenser, og hvad enten det sendes  
+
+ vedvarende eller intermitterende med konstant eller varierende amplitude  
+
+ og/eller frekvens.
+ Kravet svarer til, at spændingen over en modstand på 600 ohm mellem  
+
+ linieklemmerne ikke på noget tidspunkt må overstige 245 mV henholdsvis 7,75  
+
+ mV, når måling foretages med et instrument, som med en integrationstid på  
+
+ højst 0,2 s måler effektivværdien af vekselspændinger i frekvensområdet under  
+
+ henholdsvis over 3400 Hz.
+ Hvid der eksempelvis i et kodesignal samtidigt i frekvensområdet under  
+
+ 3400 Hz forekommer n forskellige frekvenskomponenter med samme  
+
+ middeleffektniveau, må dette ikke for hver enkel frekvenskomponent overstige  
+
+ (-10-10 log10 n) dBm, dvs. at effektivværdien af spændingen af hver enkel  
+
+ frekvenskomponent højst må være (245/Vn) m V ved en integrationstid på højst  
+
+ 0,2 s.
+ Ud over kravene til middeleffekten skal kravet i pkt. 2.5.2. til  
+
+ vekselspændingernes maksimale øjebliksværdier også være opfyldt.
+ 2.6.3. Såfremt der fra et terminaludstyr samtidigt sendes vekselstrømme  
+
+ hidrørende fra tale og musik og fra kodesignaler, må de afgivne  
+
+ middeleffekter ikke sammenlagt overstige 100 micro W (-10 dBm), når  
+
+ terminaludstyrets linieklemmer er belastet med en modstand på 600 ohm.  
+
+ Middeleffekterne bestemmes herved som anført henholdsvis i pkt. 2.6.1. og  
+
+ 2.6.2.
+2.7. Stabilitetsmæssige krav 2.7.1. Et terminaludstyr må ikke mellem linieklemmerne udvise en impedans,  
+
+ der ved nogen frekvens har en reel komposant (ækvivalent seriemodstand), som  
+
+ er negativ.
+ 2.7.2. Terminaludstyr, som er tilsluttet en ren firtråds forbindelse, jf.  
+
+ pkt. 2.1.2., skal ved begge ender og under alle forhold opretholde en  
+
+ dæmpning på mindst 6,5 dB mellem de to transmissionsretninger.
+3. Krav til terminaludstyr tilsluttet abonnerede  
+
+ privatledninger med jævnstrømsforbindelse 3.1. Almindeligt En abonneret privatledning (apl) med jævnstrømsforbindelse er fremført som  
+
+ to metaltrådsledere i kabelanlæg.
+ Mellem adresser inden for samme centralområde vil en apl som regel kunne  
+
+ etableres udelukkende via almindelige ledninger uden nogen egentlig øvre  
+
+ grænse for det overførte frekvensområde.
+ Mellem adreser i forskellige centralområder vil der i en apl normalt indgå  
+
+ pupiniserede ledninger med en øvre grænse for det effektivt overførte  
+
+ frekvensområde på ca. 3400 Hz - undtagelsesvis dog ned til ca. 2400 Hz.
+ Dersom anvendelsen af en apl kræver transmission af frekvenser ud over det  
+
+ anførte frekvensområde for pupiniserede ledninger eller over 15 kHz for  
+
+ almindelige ledninger, må mulighederne herfor undersøges og særlige  
+
+ transmissionsmæssige krav aftales med teleadministrationen i hvert enkelt  
+
+ tilfælde.
+3.2. Isolation mod jord 3.2.1. Terminaludstyr, som ikke kan afgive jævnstrøm til en apl, skal  
+
+ mellem de kortsluttede linieklemmer og jord/stel have en isolationsmodstand  
+
+ på mindst 100 Mohm ved jævnspændinger op til 500 V.
+ Dersom terminaludstyret er sikret mod overspændinger ved hjælp af  
+
+ overspændingsafledere mellem linieklemmerne og jord/stel skal kravet til  
+
+ isolationsmodstand dog kun være opfyldt, når overspændingsaflederne er  
+
+ slukket.
+ 3.2.2. I terminaludstyr, som kan afgive jævnstrøm til en apl, skal  
+
+ jævnstrømskildens pluspol være forbundet til jord på en sådan måde, at  
+
+ vedvarende spænding på enhver af linieklemmerne aldrig er positiv i forhold  
+
+ til jord, selv om den anden linieklemmer har afledning til eller er  
+
+ kortsluttet til jord.
+ Dersom jævnstrømskildens tomgangsspænding ikke overstiger 15 V, kan det  
+
+ dog tillades, at jævnstrømskildens poler og terminaludstyrets linieklemmer er  
+
+ isoleret fra jord/stel med en isolationsmodstand, som opfylder kravene i pkt.  
+
+ 3.2.1.
+3.3. Impedans mod jord Terminaludstyr skal mellem de kortsluttede linieklemmer og jord/stel have  
+
+ en impedans med en numerisk værdi på mindst 1 Mohm ved vekselspændinger med  
+
+ effektivværdi og til 120 V og frekvenser op til 55 Hz, hvis linieklemmerne i  
+
+ henhold til pkt. 3.2. er isoleret fra jord/stel.
+3.4. Balance mod jord 3.4.1. Mellem terminaludstyr, som er tilsluttet hver sin ende af en apl,  
+
+ må dennes halvfirerkredsløb ikke udnyttes til transmission af jævn- eller  
+
+ vekselstrømme, og jord må ikke udnyttes som returforbindelse hverken for  
+
+ jævn- eller vekselstrømme.
+ Sidstnævnte krav medfører, at kun det ene af terminaludstyrene må have  
+
+ jævnstrømsforbindelse mellem linieklemmerne og jord/stel, jf. pkt. 3.2.2.
+ 3.4.2. Terminaludstyr skal impedansmæssigt være balanceret mod jord/stel  
+
+ med en jordbalancedæmpning på mindst 40 dB ved frekvenser fra 50 til 600 Hz  
+
+ og på mindst 46 dB ved frekvenser fra 600 Hz til den højeste frekvens - dog  
+
+ mindst 3400 hz - som terminaludstyret er beretnet til at sende eller modtage  
+
+ via apl'en.
+Ved kontrol af jordbalancedæmpningen anvendes den i fig. 3.4.2. viste  
+
+ måleopstilling, Jordbalancedæmpningen er her bestemt af: 20 log10 (7,75)/u)  
+
+ dB.
+Måling af u V foretages med afbryderen S såvel åben som lukket og med  
+
+ omkobleren K i begge stillinger.
+3.5. Maksimale strømme Til en apl må der ikke fra terminaludstyrene kunne afgives jævn- og  
+
+ vekselstrømme med en resulterende effektivværdi, som overstiger 100 mA.
+3.6. Maksimale spændinger 3.6.1. Mellem linieklemmerne og mellem hver af disse og jord/stel må der  
+
+ ikke i et terminaludstyr forekomme jævnspændinger, som overstiger 65 V.
+ For kortvarige spændingsspidser - forårsaget af afbrydelser af en eventuel  
+
+ jævnstrømsforbindelse via en apl - kan dog tillades spidsspændinger op til  
+
+ 150 V.
+ 3.6.2. Mellem linieklemmerne og mellem hver af disse og jord/stel må der  
+
+ ikke i et terminaludstyr forekomme vekselspændinger med en effektivværdi, som  
+
+ overstiger 50 V.
+ For kalde- og slutsignaler med en frekvens under 55 Hz og en varighed af  
+
+ højst 3 s kan dog tillades en effektivværdi op til 100 V.
+ Ud over kravene til vekselspændingernes effektivværdier skal kravene i  
+
+ pkt. 3.6.4. til de maksimale øjebliksværdier og i pkt. 3.7. til de maksimale  
+
+ sendeniveauer også være opfyldt.
+ 3.6.3. Mellem linieklemmerne og mellem hver af disse og jord/stel må der  
+
+ ikke i et terminaludstyr forekomme jævn- og vekselspændinger med en  
+
+ resulterende effektivværdi, som overstiger 65 V.
+ For kalde- og slutsignaler, jf. pkt. 3.6.2., tillades dog en resulterende  
+
+ effektivværdi op til 100 V.
+ 3.6.4. Mellem linieklemmerne i et terminaludstyr må der ikke forekomme  
+
+ øjebliksværdier, som overstiger 3,5 V for vekselspændinger hidrørende fra  
+
+ tale og musik og fra frekvenskomponenter over 300 Hz i kodesignaler.
+ Ud over kravene til vekselspændingernes øjebliksværdier skal kravene i  
+
+ pkt. 3.7. til de maksimale sendeniveauer også være opfyldt.
+3.7. Maksimale sendeniveauer 3.7.1. Fra et terminaludstyr må der ved sending af vekselstrømme  
+
+ hidrørende fra tale og musik ikke afgives effekter, som i middel i noget  
+
+ tidsrum af 3 s varighed overstiger 1 mW (0 dBm), når terminaludstyrets  
+
+ linieklemmer er belastet med en modstand på 600 ohm.
+ Kravet svarer til, at spændingen over en modstand på 600 ohm mellem  
+
+ linieklemmerne ikke på noget tidspunkt må overstige 775 mV, når måling  
+
+ foretages med et instrument, som med en integrationstid på højst 3 s måler  
+
+ effektivværdien af vekselspændinger.
+ Ud over kravet til middeleffekten skal kravet i pkt. 3.6.4. til  
+
+ vekselspændingernes maksimale øjebliksværdier også være opfyldt.
+ 3.7.2. Fra et terminaludstyr må der ved sending af kodesignaler i form af  
+
+ vekselstrømme eller jævnstrømsimpulser ikke afgives en vejet effekt, som i  
+
+ middel i noget tidsrum af 0,2 s varighed overstiger 1 mW (0 dBm), når  
+
+ terminaludstyrets linieklemmer er belastet med en modstand på 600 ohm.
+ Kravet til den vejede middeleffekt skal være opfyldt, hvad enten et  
+
+ kodesignal indeholder een eller flere frekvenser, og hvad enten det sendes  
+
+ vedvarende eller intermitterende med konstant eller varierende amplitude  
+
+ og/eller frekvens.
+ Ved bestemmelse af den vejede middeleffekt multipliceres spændingen uf V  
+
+ af den enkelte frekvenskomponent med en vægtfaktor vf, som ved frekvensen f  
+
+ Hz er (f/300) Exp 3 for f < 300 og 1 for f større/= 300. Den vejede  
+
+ middeleffekt beregnes herefter af bidraget fra hver enkel frekvenskomponent  
+
+ f1 til fn af:
+ ( (uf1 . vf1)exp2 + (uf2 . vf2)exp2 + .....
+ + (ufn . vfn9exp2) . 1000/600 (mW).
+ Kravet til den vejede middeleffekt regnes for opfyldt, hvis spændingen  
+
+ over en modstand på 600 ohm mellem linieklemmerne ikke på noget tidspunkt  
+
+ overstiger 775 mV, når måling foretages med et instrument, som med en  
+
+ integrationstid på højst 0,2 s måler effektivværdien af vekselspændinger  
+
+ gennem et højpasfilter med en 3 dB grænsefrekvens på højst 300 Hz og en  
+
+ filterstejlhed på højst 18 dB/oktav.
+ Hvis der eksempelvis i et kodesignal samtidigt forekommer n forskellige  
+
+ frekvenskomponenter med samme vejede middeleffektniveau, må dette ikke for  
+
+ hver enkel frekvenskomponent overstige (-10 log10n) dBm, dvs., at  
+
+ effektivværdien af spændingen af hver enkel frekvenskomponent højst må være  
+
+ (775/(vf.n)) mV ved en integrationstid på højst 0,2 s.
+ Ud over kravet til den vejede middeleffekt skal kravene i pkt. 3.6.2. og  
+
+ 3.6.4. til vekselspændingernes maksimale effektivværdi og øjebliksværdier  
+
+ også være opfyldt.
+3.7.3. Såfremt der fra et terminaludstyr samtidigt sendes vekselstrømme  
+
+ hidrørende fra tale og musik og fra kodesignaler, må den afgivne middeleffekt  
+
+ hidrørende fra tale og musik og den vejede middeleffekt fra kodesignaler ikke  
+
+ sammenlagt overstige i mW (O dBm), når terminaludstyrets linieklemmer er  
+
+ belastet med en modstand på 600 ohm.
+Middeleffekterne bestemmes herved som  
+
+ anført henholdsvis i pkt. 3.7.1. og 3.7.2.
+3.8. Stabilitetsmæssige krav Et terminaludstyr må ikke mellem linieklemmerne udvise en impedans, der  
+
+ ved nogen frekvens har en reel komposant (ækvivalent seriemodstand), som er  
+
+ negativ.

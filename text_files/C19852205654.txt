@@ -1,0 +1,923 @@
+§ 16.  Matematik I.
+Fællesfag Formål:
+ Formålet med undervisningen er, at de studerende opnår nogle matematiske  
+
+ kundskaber, som kan være dem til nytte i andre fællesfag og i deres øvrige  
+
+ dagligdag, samt at de får et indtryk af matematisk metode og tankegang.
+ Undervisningen:
+ Undervisningen omfatter:
+ 1. Tal.
+Hele, rationale og reelle tal; regneregler for rationale og reelle tal,  
+
+ talmængder.
+Procentregning; indekstal, vejet gennemsnit, annuiteter. Åbent  
+
+ udsagn; løsningsmængde til åbent udsagn, eksempler på løsning af simple  
+
+ ligninger og uligheder i een variabel.
+ 2. Funktionsbegrebet.
+ Definitionsmængde, funktionsværdi, værdimængde, monotoniforhold, injektiv  
+
+ funktion, invers funktion.
+ 3. Specielle funktioner: grafisk fremstilling.
+ Lineær funktion, stykkevis lineær funktion, eksponentialfunktion;  
+
+ koordinatsystem, enkeltlogaritmisk papir; eksempler på forskellige måder at  
+
+ fastlægge en funktion på.
+ 4. Deskriptiv statistik.
+ Talmæssig beskrivelse af observationer, hyppighed, frekvens,  
+
+ intervalhyppighed, intervalfrekvens, frekvensfordeling, kumuleret  
+
+ frekvensfordeling, grafiske beskrivelsesmidler, statistiske deskriptorer.
+ 5. Sandsynlighedsregning; statistik.
+Eksperiment; udfald, udfaldsrum, sandsynlighedsfunktion, hændelser,  
+
+ endeligt sandsynlighedsfelt.
+Stikprøveudtagning, binomialfordeling.
+ 6. Regnetekniske hjælpemidler.
+ Lommeregner, tabeller, enkeltlogaritmisk papir.
+ Eksamen:
+ Der afholdes en skriftlig prøve og en mundtlig prøve.
+ Den skriftlige prøve:
+Der gives et opgavesæt, der består af et antal mindre opgaver og eventuelt  
+
+ en eller flere mere omfattende opgaver.
+Nogle af opgaverne i sættet er  
+
+ valgfrie.
+Til besvarelse heraf gives 4 timer.
+Der kan stilles opgaver i alle  
+
+ dele af pensum med undtagelse af ikke-grupperede observationer (punkt 4).
+ Den mundtlige prøve:
+Opgivelserne til den mundtlige prøve skal for kursusstuderende i omfang  
+
+ svare til ca. halvdelen af det obligatoriske pensum.
+Selvstuderende opgiver  
+
+ det pensum, der er fastlagt i punkterne 1-5.
+ Der gives eet spørgsmål, der er formet således, at flere dele af pensum  
+
+ kan berøres.
+Der gives een karakter på grundlag af en særkarakter for den skriftlige  
+
+ prøve og en særkarakter for den mundtlige prøve.
+Særkaraktererne, der tæller  
+
+ lige, angives på eksamensbeviset.
+II.
+Tilvalgsfag Formål:
+ Formålet med undervisningen er, at de studerende opnår en sådan matematisk  
+
+ indsigt og et sådant kendskab til fundamentale matematiske begreber, metoder  
+
+ og tankegange, at de får det faglige grundlag for at gennemføre videregående  
+
+ uddannelser, der anvender matematik.
+ Undervisningen:
+ Undervisningen omfatter:
+ 1. Elementære funktioner.
+Sammensat funktion.
+Polynomier i en variabel, herunder deres  
+
+ faktoropløsning; brudne rationale funktioner af een variabel;  
+
+ eksponentialfunktioner; logaritmefunktioner med grundtal e og 10;  
+
+ potensfunktioner; de trigonometriske funktioner, herunder deres anvendelse  
+
+ ved beregning i retvinklede trekanter.
+ Løsning af simple ligninger og uligheder, hvori de nævnte funktioner  
+
+ indgår.
+ 2. Sandsynlighedsregning.
+ Betinget sandsynlighed; stokastisk variabel; middelværdi, spredning.
+ 3. Infinitesimalregning.
+ Beskrivelse af begreberne grænseværdi og kontinuitet af en reel funktion  
+
+ af een reel variabel; differentiabilitet af en reel funktion af een reel  
+
+ variabel; regneregler for differentiation; det approksimerende  
+
+ førstegradspolynomium; bestemmelse af funktioners værdimængde og  
+
+ monotoniforhold; simple eksempler på bestemmelse af funktioners asymptotiske  
+
+ egenskaber; tegning af plane kurver bestemt ved eksplicit givne funktioner;  
+
+ det bestemte integral som grænseværdi for summer; det ubestemte integral;  
+
+ regneregler for bestemte og ubestemte integraler, herunder partiel  
+
+ integration og integration ved substitution; bestemmelse af arealer og  
+
+ rumfang ved integration.
+ Eksamen:
+ Der afholdes en skriftlig prøve og en mundtlig prøve.
+Den skriftlige prøve Der gives et opgavesæt bestående af et antal opgaver med enklere  
+
+ problemstilling samt en eller flere mere sammensatte opgaver.
+Nogle af  
+
+ opgaverne i sættet er valgfrie.
+Til besvarelse heraf gives 4 timer.
+ Der kan stilles opgaver i alle dele af det for fællesfag og tilvalgsfag  
+
+ obligatoriske pensum med undtagelse af annuiteter og deskriptiv statistik.
+ Den mundtlige prøve:
+Opgivelserne til den mundtlige prøve skal for kursusstuderende i omfang  
+
+ svare til ca. halvdelen af det samlede obligatoriske pensum for fællesfag og  
+
+ tilvalgsfag, idet hovedvægten lægges på tilvalgsfagets pensum.
+Selvstuderende  
+
+ opgiver hele det obligatoriske pensum for fællesfag og tilvalgsfag.
+ Der gives to spørgsmål, der begge er formet således, at flere dele af  
+
+ pensum kan berøres.
+ Der gives to karakterer, een for den skriftlige prøve og een for den  
+
+ mundtlige prøve.
+UNDERVISNINGSVEJLEDNING Indholdsoversigt I.
+Almindelige bemærkninger.
+II.
+Fællesfaget.
+III.
+Tilvalgsfaget.
+IV.
+Selvstuderende.
+V.
+Eksamen.
+I.
+Almindelige bemærkninger Såvel lærer som studerende deltager i undervisningens  tilrettelæggelse ,  
+
+ og det er et fælles ansvar for lærer og studerende, at undervisningen bliver  
+
+ tilrettelagt på en for alle tilfredsstillende måde.
+Det er dog lærerens  
+
+ ansvar, at denne tilrettelæggelse bliver sådan, at bekendtgørelsens  
+
+ minimumskrav vil kunne opfyldes.
+ Faget lægger op til forskellige arbejdsformer fra individuelle former over  
+
+ forskellige gruppeprægede former til en arbejdsform, hvor hele klassen er  
+
+ engageret samtidig i samme situation; ingen af disse former vil dog være  
+
+ velegnet til alle dele af stoffet.
+Ifølge bekendtgørelsen om højere forberedelseseksamen § 13, stk. 2 skal  
+
+ undervisningen omfatte træning i studiemetodik.
+I forbindelse med tilegnelsen  
+
+ af en matematisk tekst kan man pege på, at læseren kan have udbytte af at  
+
+ stille sig spørgsmål som:
+Hvilket problem behandles, og hvor er problemet formuleret? Hvor  
+
+ bearbejdes problemet, og hvor er en eventuel løsning formuleret? Hvilke dele  
+
+ af teksten er eksempler til belysning af problemet? Det kan endvidere være naturligt at pege på, at man i arbejdet såvel med  
+
+ matematiske emner som i arbejdet med problemer, hvor matematikken optræder  
+
+ som et hjælpemiddel, må have en vurderende holdning til teksten: Hvilke  
+
+ konklusioner drages? Er grundlaget for anvendelsen af de matematiske begreber  
+
+ tilstrækkeligt? I matematikundervisningen vil det være naturligt dels at diskutere  
+
+ forskellige faser i tilegnelsen af matematiske begreber - herunder grader af  
+
+ forståelse - og dels at diskutere nytten af at kunne formulere sig i et  
+
+ præcist og almindeligt anerkendt sprog.
+ Endelig skal det fremhæves, at man ikke må begrænse sig til at glæde sig  
+
+ over en opnået forståelse af tekstens indhold, men derudover må levere den  
+
+ personlige indsats, der er absolut påkrævet for at fastholde  
+
+ (»lære«) det, man har forstået.
+II.
+Fællesfaget I bekendtgørelsen er formålet med matematikundervisningen formuleret i to  
+
+ dele:
+Ved valget af emner for undervisningen har man ladet punkt a) være  
+
+ afgørende, men emnevalget alene sikrer ikke, at det under punkt a)  
+
+ formulerede mål nås.
+Alle hidtidige erfaringer tyder på, at den praktiske  
+
+ relevans af et givet matematisk emne næppe erkendes, med mindre en eller  
+
+ flere anvendelsessituationer tages op til seriøs behandling i selve  
+
+ matematikundervisningen og i umiddelbar tilknytning til den rent matematiske  
+
+ behandling af emnet.
+I mange tilfælde vil en præsentation af sådanne  
+
+ situationer forud for den matematiske behandling kunne begrunde emnets  
+
+ tilstedeværelse i pensum og dermed virke ægte motiverende.
+Uanset valget af  
+
+ rækkefølge må det tillægges stor betydning, at man gennem talrige eksempler  
+
+ bl.a. får lejlighed til at beskæftige sig med de vanskeligheder, som betinges  
+
+ af forskelle i sprogbrug inden for matematikken og udenfor.
+Ligeledes kan man  
+
+ tage op, om matematikken er anvendt »neutralt«, eller om de  
+
+ matematiske hjælpemidler er misbrugt i en bestemt hensigt.
+ Formålets punkt b) vil kunne opfyldes i forbindelse med behandlingen af  
+
+ bekendtgørelsens emner ved at tilrettelægge forløb, der sikrer, at de  
+
+ studerende får indtryk af matematisk metode og tankegang.
+ For at kunne opfylde formålsparagraffen må den studerende blandt andet  
+
+ besidde en vis færdighed i manipulation med tal og symboler samt være  
+
+ fortrolig med procentregning.
+Undervisningens tilrettelæggelse vedrører såvel det faglige indhold som  
+
+ den form, hvori tilegnelsen af dette faglige indhold opnås.
+Medens de  
+
+ studerende allerede ved starten af fællesfagsundervisningen vil kunne være  
+
+ medbestemmende ved udvælgelsen af arbejdsformer og undervisningsprincipper,  
+
+ vil de senere i forløbet også kunne inddrages i beslutninger, der vedrører  
+
+ det faglige indhold.
+Bemærkninger til fællesfagets faglige punkter Ad 1: Tal.
+Der arbejdes med reglerne for regning med tal og bogstaver og anvendelsen  
+
+ af disse.
+Begreber fra mængdelære og logik medtages i det omfang, det er  
+
+ nødvendigt for behandlingen af talmængder og løsning af ligninger og  
+
+ uligheder.
+ Der kræves ikke kendskab til en formel for andengradsligningens løsning.  
+
+ Simple ligninger og uligheder er sådanne, som kan reduceres til ligninger og  
+
+ uligheder af første grad; dog skal ligninger og uligheder med produkt og  
+
+ kvotient mellem lineære udtryk ikke behandles.
+ Begrebet numerisk værdi må omtales af hensyn til andre fag og det  
+
+ almindelige arbejde med tallene; dog er det ikke tanken, at ligninger og  
+
+ uligheder med numerisk værdi skal gøres til genstand for behandling.  
+
+ Procentregning omfatter den almindelige renteformel og udregning af  
+
+ gennemsnit af procenter, hvortil et vist kendskab til n'te rod er nødvendigt.  
+
+ Følgende formler for opsparingsannuitet og gældsannuitet skal kendes og kunne  
+
+ anvendes:
+ Opsparingsannuitet: An = a-r ((l+r)n-l).
+ Gældsannuitet: Gn = a-r (l-(l+r)-n).
+ Formlerne skal også kunne benyttes til beregning af en tilnærmet værdi for  
+
+ en ukendt rente r, fx i forbindelse med afbetalingshandel.
+ Ad 2: Funktionsbegrebet.
+Det er tilstrækkeligt at behandle funktioner, hvis billedmængde består af  
+
+ tal.
+Under funktioners monotoniforhold behandles begreberne voksende og  
+
+ aftagende funktion samt en funktions største og mindste værdi inden for en  
+
+ given definitionsmængde.
+ Ad 3: Specielle funktioner: grafisk fremstilling.
+ Uanset, hvilken definition af lineær funktion der anvendes, kræves det  
+
+ ikke bevist, at denne er ækvivalent med andre beskrivelser af den lineære  
+
+ funktion.
+Ved behandling af eksponentialfunktionen understreges dennes udstrakte  
+
+ rolle som beskrivelsesmiddel ved mange i praksis forekommende  
+
+ problemstillinger.
+Ved arbejdet med eksponentialfunktionen skal de studerende  
+
+ opnå forståelse af indholdet i funktionalligningen, og de skal gennem  
+
+ arbejdet med eksponentielt voksende og aftagende funktioner opnå fortrolighed  
+
+ med begreberne fordoblings- og halveringskonstant.
+Kursisterne skal kende  
+
+ funktionsforskriften f(x)=bax, og de skal kunne benytte log-funktionen til  
+
+ beregning af halverings- og fordoblingskonstant.
+Ligeledes skal de ved ved  
+
+ hjælp af log-funktionen og n'te rod kunne løse ligningen bax=c med hensyn til  
+
+ en af de indgående størrelser.
+Det er tanken, at log-funktionen ikke gives en  
+
+ selvstændig teoretisk behandling, men kun behandles i det omfang, der giver  
+
+ det nødvendige grundlag for ovenstående.
+Forskellige måder at fastlægge en funktion på skal omfatte funktioner  
+
+ fastlagt ved en regneforskrift, ved tabel, ved graf samt funktioner, der er  
+
+ indbygget i en lommeregner.
+Behandlingen af funktioner fastlagt ved tabel og  
+
+ lommeregner skal blandt andet omfatte (l+r)n, annuitetstabeller og  
+
+ log-funktionen.
+ Med udgangspunkt i den forelagte beskrivelse af en funktion skal nogle af  
+
+ funktionens egenskaber behandles, og simple ligninger og uligheder, hvori  
+
+ funktionen indgår, løses.
+ I forbindelse med koordinatsystemer arbejdes også med eksempler på  
+
+ koordinatsystemer med »forskudte« akser og med koordinatsystemer  
+
+ med forskellige akseenheder.
+ Det forudsættes, at de studerende bliver fortrolige med brugen af  
+
+ enkeltlogaritmisk papir, herunder når til erkendelse af, at grafen for en  
+
+ eksponentielt voksende eller aftagende funktion på enkeltlogaritmisk papir er  
+
+ en ret linie.
+Ad 4: Deskriptiv statistik Begreberne hyppighed, frekvens, frekvensfordeling og kumuleret  
+
+ frekvensfordeling forventes klargjorte gennem arbejdet med eksempler på  
+
+ talmæssige beskrivelser af observationer.
+Under grafiske beskrivelsesmidler  
+
+ behandles bl.a. stolpediagram, histogram, trappediagram og sumpolygon.  
+
+ Statistiske deskriptorer omfatter begreberne middeltal (aritmetisk  
+
+ gennemsnit), typetal og fraktiler, herunder specielt medianen og de andre  
+
+ kvartiler.
+Ad 5: Sandsynlighedsregning; statistik Blandt eksemplerne på endelige sandsynlighedsfelter skal forekomme både  
+
+ symmetriske og ikke-symmetriske sandsynlighedsfelter.
+Begreber fra  
+
+ mængdelæren medtages i nødvendigt omfang til behandling af hændelser.  
+
+ Kombinatoriske metoder medtages til illustration af formlen for Kn,p med  
+
+ henblik på behandlingen af binomialfordelingen.
+De studerende skal kunne  
+
+ udregne Kn,p og anvende en tabel over Kn,p, ligesom de skal kunne beregne  
+
+ sandsynligheder i binomialfordelingen og anvende en tabel over kumulerede  
+
+ sandsynligheder for binomialfordelingen.
+Ad 6: Regnetekniske hjælpemidler Arbejdet med de regnetekniske hjælpemidler finder sted i forbindelse med  
+
+ behandlingen af de øvrige emner.
+ Brug af lommeregneren skal omfatte de fire regningsarter samt  
+
+ potensopløftning og roduddragning.
+Det forudsættes, at der ud over behandlingen af de obligatoriske emner  
+
+ afsættes ca. 10 undervisningstimer til samarbejde med et eller flere andre  
+
+ fag, til arbejde med algoritmer og edb eller til uddybning af et af emnerne i  
+
+ punkterne 1-6. Det vil i samarbejdet med et eller flere andre fag ofte være  
+
+ naturligt at udvide behandlingen af de obligatoriske emner afpasset efter  
+
+ anvendelsessituationen, men det er ikke noget krav.
+Samarbejdet kan være et  
+
+ integreret arbejde med et eller flere fag (som fx samfundsfag, geografi,  
+
+ biologi, historie), men det kan også være et arbejde, hvor man i  
+
+ matematiktimerne beskæftiger sig med problemer fra andre fag, der benytter  
+
+ matematik som hjælpedisciplin.
+III.
+TILVALGSFAGET Af bekendtgørelsen fremgår, at formålet med matematikundervisningen er at  
+
+ give det faglige grundlag for at gennemføre videregående uddannelser, der  
+
+ anvender matematik.
+Fællesfagets formål anvender betegnelsen »indtryk af«.
+I  
+
+ tilvalgsfagets formål er dette ændret til »kendskab til«.
+Heri  
+
+ ligger en afgørende forskel på fællesfaget og tilvalgsfaget, idet man i  
+
+ tilvalgsfaget må give en mere dybtgående behandling af en række begreber,  
+
+ metoder og tankegange.
+Trods denne forskel gælder det også i arbejdet med tilvalgsfaget - omend timeplanen ikke i så høj grad som i fællesfaget vil tillade det -  
+
+ at betydningen af et givet matematisk emne ofte bedst erkendes, når en eller  
+
+ flere anvendelsessituationer tages op til behandling i forbindelse med den  
+
+ matematiske behandling af emnet.
+Visse emneområder eller delemner er obligatoriske både i fællesfaget og i  
+
+ tilvalgsfaget.
+Selv om sådanne emner allerede er behandlet i fællesfaget, vil  
+
+ det i visse situationer være nødvendigt at videreføre behandlingen i  
+
+ tilvalgsfaget.
+Det kan skyldes, at emnet på tilvalgsfaget tilføres nye  
+
+ betragtningsmåder og derfor skal tages op til fornyet behandling. (Eks.:  
+
+ logaritmefunktion). Det kan også skyldes, at de studerende gennem  
+
+ fællesfagsundervisningen har opnået »indtryk af« et emne, mens de  
+
+ gennem tilvalgsfagsundervisningen skal opnå »kendskab til« det  
+
+ pågældende emne.
+Behandlingen må derfor uddybes, selv om der ikke fremkommer  
+
+ nye synsmåder. (Eks.: uligheder).
+Undervisningens tilrettelæggelse vedrører såvel det faglige indhold som  
+
+ den form, hvori indsigten i dette faglige indhold opnås.
+På baggrund af  
+
+ arbejdet med fællesfaget har de studerende her en større mulighed for at  
+
+ deltage, ikke alene i udvælgelsen af arbejdsformer og  
+
+ undervisningsprincipper, men også i beslutninger vedrørende det faglige  
+
+ indhold, fx den rækkefølge i hvilken emnerne behandles.
+Ifølge bekendtgørelsen er det i faget matematik kun muligt at udarbejde  
+
+ den større skriftligt opgave for tilvalgsstuderende.
+Den studerende vælger  
+
+ under faglærerens rådgivning sit område inden for faget, og læreren stiller  
+
+ opgaven inden for det valgte område.
+Flere typer opgaver er naturligvis  
+
+ tænkelige, men tre typer er måske inden for faget matematik særligt  
+
+ nærliggende:
+ I denne forbindelse må der advares mod opgaver, der under en kort titel  
+
+ (fx »vektorbegrebet«) anmoder om en fremstilling af et stykke  
+
+ matematisk teori.
+ En større skriftlig opgave, der inddrager flere fag, herunder matematik,  
+
+ kan stilles, såfremt opgaven er knyttet sådan til et bestemt fag, at den  
+
+ naturligt kan bedømmes af en lærer i det pågældende fag.
+Bemærkninger til tilvalgsfagets faglige punkter Ad 1: Elementære funktioner De under tilvalgsfaget obligatoriske »elementære funktioner« har  
+
+ slet ikke eller kun delvist været behandlet i fællesfagets undervisning.  
+
+ Undersøgelsen af disse funktioner må derfor påbegyndes eller genoptages i  
+
+ tilvalgsfaget.
+Dette arbejde vil ofte med fordel og på naturlig måde kunne  
+
+ ske i sammenhæng med og efterhånden som infinitesimalregningens emner  
+
+ indføres.
+Efter disse retningslinier kan fx andengradspolynomiet behandles.
+ Potensfunktioner behandles i et sådant omfang, at man kan omskrive  
+
+ rodstørrelser til potens med rational eksponent, med det formål at opnå  
+
+ lettelser ved regning med sådanne størrelser.
+ Under trigonometriske funktioner behandles sinus, cosinus og tangens.
+ Endvidere behandles numerisk værdi.
+ Åbent udsagn i to variable medtages i det omfang, det er fornødent for at  
+
+ kunne beskrive punktmængder i planen, der afgrænses af funktionsgrafer og  
+
+ rette linier.
+Ad 2: Sandsynlighedsregning I forbindelse med betinget sandsynlighed behandles afhængige og uafhængige  
+
+ hændelser.
+Formlerne for middelværdi og spredning af en binomialfordelt  
+
+ stokastisk variabel forudsættes behandlet.
+Ad 3: Infinitesimalregning Gennem passende valgte eksempler indføres begreberne grænseværdi og  
+
+ kontinuitet.
+De vigtigste sætninger om kontinuerte funktioner må, efterhånden  
+
+ som de bringes i anvendelse, belyses ved eksempler.
+Det er ikke tanken, at  
+
+ disse emner behandles eksakt.
+IV.
+SELVSTUDERENDE Vejledning af selvstuderende skal i almindelighed omfatte: Orientering om  
+
+ forudsætningerne for faget matematik på hf.
+ Redegørelse for, hvordan formål og indhold er beskrevet i bekendtgørelse  
+
+ og undervisningsvejledning.
+ Orientering om eksisterende lærebogsmateriale og inden for et valgt  
+
+ materiale hjælp til at afgrænse det obligatoriske pensum.
+ Redegørelse for, hvordan niveau og omfang fremgår af de vejledende  
+
+ opgaver, herunder eksamensopgaver.
+ I tilknytning hertil kan den faglige vejledning omfatte emner, der er af  
+
+ særlig interesse for den enkelte selvstuderende.
+V.
+EKSAMEN Form og omfang af eksamen er fastlagt i bekendtgørelsen.
+Pensums omfang  
+
+ fremgår dels af bekendtgørelsens faglige afsnit, dels af denne  
+
+ undervisningsvejledning og endelig af vejledende opgaver.
+VEJLEDENDE OPGAVER Opgaverne er inden for de emner, der er specielle for forsøget.
+Med hensyn  
+
+ til de emner, der er fælles med gældende bekendtgørelse, henvises til  
+
+ sædvanlige vejledende opgaver og stillede eksamenssæt.
+ 1.
+2. Data General indtog sin stilling på denne  
+
+ mulighedernes slagmark i 1968 som en »minidatavirksomhed«.
+Ved  
+
+ udgangen af 1978 kunne denne i stigende grad lidet oplysende betegnelse i en  
+
+ vis udstrækning hæftes på omkring halvtreds virksomheder.
+Deres vigtigste,  
+
+ men under ingen omstændigheder eneste aktivitet, fremstilling og salg af små  
+
+ datamater, var vokset bemærkelsesværdigt - fra en omsætning på 150 millioner  
+
+ dollars i 1968 til omkring 3,5 milliarder dollars i 1978 - og de fleste  
+
+ involverede parter mente, at den fortsat ville stige med omkring 30 procent  
+
+ om året.' Det viste udklip er fra Tracy Kidders bog »Maskinen«.
+Det  
+
+ omtales, hvordan omsætningen for firmaet Data General er vokset fra 1968 til  
+
+ 1978.
+ Beregn den gennemsnitlige årlige procentvise stigning i omsætningen i  
+
+ denne periode.
+ 3. Udklippet vedrørende sodavandssalget stammer fra  
+
+ POLITIKEN den 30. maj 1984.
+ Undersøg, om det er korrekt, at det gennemsnitlige procentvise fald pr.  
+
+ måned i salget af sodavand har været 24 pct. i perioden januar-marts.
+ Beregn den gennemsnitlige procentvise ændring pr. måned for perioden  
+
+ december-marts.
+Mindre salg af sodavand »Sodavandsafgiften fra 1. januar i år førte til et gennemsnitlig fald  
+
+ i salget på 24 pct.. i årets første tre måneder.
+I december sidste år steg  
+
+ salget 48 pct.. I januar i år faldt det med 39 pct.. Faldet i februar og  
+
+ marts i år var henholdsvis 15 og 18 pct.. Det oplyser skatte- og  
+
+ afgiftsminister Isi Foighel (K) i et svar til Folketingets skatte- og  
+
+ afgiftsudvalg.« 4. Det viste udklip er en del af en artikel »Vi  
+
+ bliver så mange at livet er truet« Jyllandsposten den 23. juli 1984.
+ Bestem den gennemsnitlige årlige procentvise stigning af  
+
+ verdensbefolkningen i perioden 1974-1984, idet oplysningerne i udklippet  
+
+ anvendes.
+»Ifølge FNs beregninger er den nuværende verdensbefolkning på 4,76  
+
+ milliarder mennesker, en stigning på 770 millioner siden 1974. I år 2000  
+
+ ventes det, at Jordens befolkning vil være nået op på 6,13 milliarder« 5. Ligningschef i Statsskattedirektoratet, A.
+Bernth  
+
+ Pedersen, siger imidlertid nu til Politiken:
+- Den vigende tendens i priserne har været konstant i en så lang periode  
+
+ at det kan konstateres, at prisstigningerne er stoppet, og det vil helt klart  
+
+ få indvirkning på den 17. almindelige vurdering, der skal foretages pr. 1.  
+
+ april i år.
+En række prøvevurderinger er i gang, men resultatet kendes først  
+
+ i næste måned.
+Statsskattedirektoratet skønner imidlertid på baggrund af  
+
+ opgørelser over salgspriser, at ejendomsværdien for f.eks. parcelhuse  
+
+ gennemsnitlig kun vil blive forhøjet med 45 procent.
+Ved 16. almindelige  
+
+ vurdering steg ejendomsværdien for parcelhuse gennemsnitlig med 79 procent.' Det viste udklip stammer fra Politiken i januar 1981 og omhandler de  
+
+ almindelige vurderinger af parcelhuse, der foretages hver fjerde år.
+Det  
+
+ fremgår, at ved 16. almindelige vurdering blev ejendomsvurderingen forhøjet  
+
+ med ca. 79 pct., mens den ved 17. almindelige vurdering forventes forhøjet  
+
+ med ca. 45 pct.
+Hvilken gennemsnitlig årlig procentvis stigning svarer hver af disse  
+
+ forhøjelser til? 6. (Opgave 6 udeladt) 7. En funktion f har forskriften f(x)=b.ax, x tilhører  
+
+ mængden R.
+Bestem a og b (3 dec.), idet f(2)=3 og f(2,5)=4. Bestem fordoblingskonstanten for f (3 dec.).
+ 8. Løs ligningen 3,7.5,2x=0,9 .
+9. Det viste udklip stammer fra Berlingske Tidende.
+I  
+
+ det følgende antages, at indbyggertallet i Mexico City er eksponentielt  
+
+ voksende, samt at udklippets forudsigelse holder.
+ Bestem en forskrift for den funktion f. der beskriver indbyggertallet i  
+
+ Mexico City som funktion af tiden målt i år efter 1950.
+ Bestem fordoblingstiden for indbyggertallet i Mexico City.
+Hvor mange procent (helt tal) vokser indbyggertallet i Mexico City i løbet  
+
+ af 10 år? Overbefolkning COLOMBO: Overbefolkningen vil få indbyggertallet i de i forvejen  
+
+ overbefolkede storbyer til at eksplodere inden århundredskiftet, hvis det  
+
+ ikke lykkes at standse flugten fra land til by, fremgår det af en rapport til  
+
+ en FN befolkningskonference i Colombo på Sri Lanka.
+Den alvorligst truede by  
+
+ er Mexico City, der i 1950 havde 2,9 millioner indbyggere.
+Den vil i år 2000  
+
+ have 31,6 millioner. (AP) 10. Den samlede verdensproduktion af metallet cadmium  
+
+ var 5,5 tusinde tons i 1950. Produktionen blev fordoblet i løbet af de  
+
+ følgende 10 år.
+Det antages, at årsproduktionen af cadmium øgedes  
+
+ eksponentielt.
+Hvilken årsproduktion af cadmium ville man på denne baggrund forvente, at  
+
+ der var i henholdsvis 1970 og 1980? Det har vist sig, at antagelsen om eksponentiel vækst med fordoblingstiden  
+
+ 10 år var i overensstemmelse med de faktiske forhold indtil 1970. Siden 1970  
+
+ har væksten også været eksponentiel, men verdensproduktionen i 1980 blev 50  
+
+ tusinde tons.
+ Bestem en forskrift for den funktion, der beskriver den årlige produktion  
+
+ af cadmium som funktion af tiden, angivet i år efter 1950.
+ 11. Ændringen i prisen på sommerhuse i perioden  
+
+ 1970-1980 fremgår af følgende indextal:
+ Et sommerhus kostede 125.000 kr. i 1973.
+Hvilken pris i 1980 svarer det til? Bestem indextallene for årene 1970-1980, idet indextallene for 1976 sættes  
+
+ til 100.
+ 12. Det viste klip stammer fra bladet  
+
+ »Management«, august 1984, og handler om udviklingen i ØK's  
+
+ koncernomsætning.
+ Bestem på grundlag af oplysningerne i udklippet prisindeks for året 1983,  
+
+ når indeks for året 1973 sættes til 100.
+ØK's koncernomsætning udgjorde i 1973 ca. 17.5 mia. kroner, og 10 år  
+
+ senere var omsætningen 16,9 mia. kr.
+I denne periode er priserne næsten  
+
+ tredoblede, og målt i 1973-priser er omsætningen derfor faldet dramatisk -  
+
+ fra 17,5 mia. til 6,2 mia. kr.
+ 13. Et firma havde i 1970 et overskud på 800.000 kr.  
+
+ og i 1980 et overskud på 2,4 millioner kr.
+ Det antages, at firmaets overskud i perioden 1970-1980 er vokset  
+
+ eksponentielt.
+ Bestem den årlige procentvise vækst i overskuddet (1 dec.).
+ Imidlertid har kronens købekraft ændret sig i denne årrække.
+Hvis prisindeks for 1970 sættes til 145, er indekstallet 372 for 1980.
+ Beregn værdien af overskuddet fra 1970 omsat til 1980-kroner.
+ Benyt dette til en ny vurdering af den gennemsnitlige årlige procentvise  
+
+ vækst i firmaets overskud.
+14. Pr. 1/1 1982 blev der oprettet en lejekontrakt,  
+
+ hvor den månedlige husleje var 2500 kr.
+Det blev aftalt, at huslejen hvert år  
+
+ skulle indeksreguleres efter reguleringspristallet.
+Reguleringspristallet var  
+
+ 119,1, pr. 1/1 1982, og det var 146,3 pr. 1/1 1985.
+Hvor stor var den månedlige husleje pr. 1/1 1985? Bestem reguleringspristallet pr. 1/1 1984, når det oplyses, at huslejen  
+
+ pr. 1/1 1984 var 2903,00 kr.
+15. Den seneste udvikling i huspriser og indkomster Tabel 1. Kreditforeningen Danmarks parcelhusindeks.
+ Den viste tabel er fra et dagblad og viser Kreditforeningen Danmarks  
+
+ parcelhusindeks.
+ En familie bygger et hus, der bliver færdigt i 3. kvartal 84, og de får en  
+
+ 1. års nettoboligudgift på 125.700 kr.
+Hvor stor ville denne udgift ifølge indekset have været, hvis de havde  
+
+ bygget et år tidligere? Opstil og færdigudfyld en tabel som nedenstående, der giver indeks for  
+
+ samlet anskaffelsessum (hus + grund).
+ 16. I Skanderborg kommune er vælgerne fordelt på to  
+
+ områder, Skanderborg by og Skanderborg landdistrikt.
+ Ved kommunevalget i 1978 fordelte stemmerne sig med 60,6% i Skanderborg by  
+
+ og 39,4% i Skanderborg landdistrikt.
+ Partiet Venstre fik 28,4% af stemmerne i Skanderborg by og 39,8% af  
+
+ stemmerne i Skanderborg landdistrikt.
+Hvor mange procent af stemmerne fik Venstre i Skanderborg kommune som  
+
+ helhed? Hvor mange procent af Venstres stemmer blev afgivet i Skanderborg by? 17. Inden for AB0-blodtypesystemet er fordelingen  
+
+ således:
+ Undersøgelser viser, at mavesår er hyppigst hos personer med blodtype 0.
+ Hos 7,3% af de personer, der har blodtype 0, forekommer symptomgivende  
+
+ mavesår, mens det for hver af de andre blodtyper forekommer hos 5,2%.
+Hos hvor mange procent af befolkningen forekommer symptomgivende mavesår? Bestem den procentdel af personerne med symptomgivende mavesår, der har  
+
+ blodtype A.
+18. Diagnose af sygdommen yverbetændelse hos malkekøer  
+
+ kan foregå ved måling af laktoseindholdet i mælken.
+Metoden er imidlertid  
+
+ ikke helt sikker, idet der for raske køer gælder, at 6% af dem vil blive  
+
+ erklæret syge ved anvendelse af metoden, mens 7% af de køer, der har  
+
+ sygdommen, vil blive erklæret raske.
+ Et stort antal køer undersøges for yverbetændelse med en sikker, men langt  
+
+ dyrere metode, og det viser sig, 4% af dem lider af yverbetændelse.
+Hvilken procentdel af de undersøgte køer ville være blevet erklæret  
+
+ henholdsvis raske og syge, hvis undersøgelsen i stedet var foretaget med  
+
+ laktosemetoden? 19. Ved sidste valg fordelte de afgivne stemmer i en  
+
+ kommune sig på tre afstemningssteder på følgende måde:
+afstemningssted I II III Procent af af- givne stemmer 43,7% 24,6% 31,7% Et bestemt parti fik 14,2% af stemmerne ved afstemningssted I, 16,1% af  
+
+ stemmerne ved afstemningssted II og 6,3% af stemmerne ved afstemningssted  
+
+ III.
+Hvor mange procent af stemmerne fik partiet i kommunen som helhed? Partiet havde håbet på som helhed at få 13% af stemmerne i kommunen, men  
+
+ resultatet ved afstemningssted III var skuffende.
+Hvor mange procent af stemmerne ved afstemningssted III skulle partiet  
+
+ have haft, for at resultatet som helhed var blevet 13%? 20. En fabrik producerer en bestemt vare på to  
+
+ maskiner A og B.
+ Produktionen fordeler sig med 62% på maskine A og 38% på maskine B.  
+
+ Imidlertid er 4,1% af varerne produceret på maskine A defekte, mens 9,2% af  
+
+ varerne produceret på maskine B er defekte.
+Hvor mange procent af den samlede produktion er defekte? Hvor mange procent af de defekte varer er produceret på maskine B? Man overvejer at forbedre maskine B, så dens fejlprocent nedsættes.
+Hvor stor en fejlprocent for maskine B kan man acceptere, hvis den samlede  
+
+ produktion højest må indeholde 5% defekte? 21. En ung mand vil købe en bil på afbetaling.
+Han kan  
+
+ betale 15.000 kr. i udbetaling og dernæst 600 kr. pr. måned startende en  
+
+ måned efter købet.
+Afbetalingsrenten er 2,25% pr. måned.
+Hvor dyr en bil kan han købe, hvis han betaler bilen over 22. - Hvis lønnen og overskuddet af virksomheden ikke  
+
+ kan dække forbruget, forøges gælden hastigt.
+Hvis der løbende skal lånes  
+
+ 10.000 kroner årligt til dækning af privatforbruget, vil hovedstolen med en  
+
+ rente på 18 procent om året være godt 87.000 kroner efter fem år.
+ Udklippet stammer fra en artikel i Aarhus Stifttidende den 28.11.1981 og  
+
+ handler om den situation, hvor en familie må låne til privatforbruget.
+ Bestem gælden efter 5 år, og sammenlign med artiklens oplysning om denne.
+23. En dreng ønsker at købe en ny cykel.
+Han kan  
+
+ betale 500 kr. i udbetaling og 50 kr. om måneden i de efterfølgende 24  
+
+ måneder startende en måned efter købet.
+Hvor dyr en cykel kan han købe, når den månedlige rente hos forhandleren  
+
+ er 2 1/2%? 24. I 10 år indsættes hvert år 1500 kr. på en konto,  
+
+ og pengene hæves efter at de sidste 1500 er indsat.
+ I hele perioden er renten 8% p.a.
+Hvor stort et beløb hæves? 25. Lad os tage et eksempel, hvor kunden køber en ny  
+
+ bil til 80.000 kr.
+Den gamle bil indgår i handelen med 20.000 kr., således at  
+
+ der skal finansieres 60.000 kr.
+xxx kr. i 36 mdr. hos forhandleren Finansiering hos bilforhandleren vil normalt være over tre år og typisk  
+
+ til en månedlig rente på 2,2%. Køberen i eksemplet skal her betale xxx kr.  
+
+ pr. måned i ydelse.
+Renterne er fradragsberettiget, hvilket betyder, at  
+
+ nettoydelsen ved en marginalskatteprocent på 60 bliver 1.725 kr. pr. måned.
+ Udklippene er fra en artikel om finansiering af bilkøb i Jyllandsposten  
+
+ den 3. april 1983.
+ To steder er et beløb overstreget.
+ Bestem dette beløb.
+ 26. Et pantebrev på 50.000 kr. har en halvårlig rente  
+
+ på 4%.
+ De 50.000 kr. forrentes og afdrages med en fast halvårlig ydelse på 3.000  
+
+ kr.
+Hvor mange år varer det, inden lånet er afdraget? 27. I det viste udklip fra en brochure gives et  
+
+ afbetalingseksempel ved køb af en reol.
+ Det kan antages, at de 6 månedlige betalinger falder med en måneds  
+
+ mellemrum startende en måned efter købet.
+ Bestem den månedlige rente i procent (1 dec.).
+28. Abonnementsprisen på en bestemt avis er 1024 kr.  
+
+ for et år og 284 kr. for et kvartal.
+I begge tilfælde betales forud.
+ Der er derfor disse to muligheder for betaling af et års abonnement på  
+
+ denne avis:
+Ved kvartalsvis betaling slipper man billigere i første omgang, men skal  
+
+ alt i alt betale et større beløb.
+Dette kan opfattes på den måde, at man  
+
+ betaler rente til avisen for at udskyde betalingerne.
+ Bestem den procentvise rente pr. kvartal (1 dec.).
+29. I det viste udklip fra en brochure gives et  
+
+ afbetalingseksempel ved køb af nogle havemøbler.
+Det antages, at de månedlige  
+
+ betalinger falder med en måneds mellemrum startende en måned efter købet.
+ Bestem den månedlige rente i procent (1 dec.).
+ En køber ønsker i stedet at udbetale 100 kr. og betale resten over 12 mdr.
+ Bestem den månedlige betaling, når den månedlige rente skal være uændret.

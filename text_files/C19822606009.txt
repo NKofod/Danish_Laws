@@ -1,0 +1,196 @@
+1. GYLDIGHEDSOMRÅDE 1.1. Nærværende cirkulære giver forskrifter for den transmissionsmæssige  
+
+ dimensionering og placering af dæmpningsled i de offentlige danske centralers  
+
+ taleveje.
+ Cirkulæret indeholder dog ikke forskrifter for dimensionering og placering  
+
+ af de specielle dæmpningsled (og forstærkere), som er nødvendige ved  
+
+ anvendelse af firtråds kompensation af dæmpning i totråds centralledninger  
+
+ eller i forbindelse med udstyr i telefonistekspedition af  
+
+ samtaleforbindelser.
+ 1.2. Cirkulærets bestemmelser er udarbejdet i overensstemmelse med  
+
+ forskrifterne i Cirkulære nr. 1 og skal følges i overensstemmelse med dette  
+
+ cirkulæres gyldighedsområde.
+2. Definitioner 2.1. I nærværende cirkulære er benyttet de i Cirkulære nr. 1 indførte  
+
+ definitioner, begreber, benævnelser og betegnelser.
+3. Dæmpningsleds elektriske egenskaber 3.1. Dæmpningsled i centralers taleveje skal være analoge, idet digitale  
+
+ dæmpningsled ikke opfylder et krav om bitintegritet.
+ 3.2 Dæmpningsled i centralers taleveje skal være balancerede, dvs. enten  
+
+ H-led eller 0-led (i figurerne er kun vist H-led).
+ 3.3. Dæmpningsled skal have nominelle dæmpningsværdier i hele eller halve  
+
+ dB.
+ Omstrappelige eller variable dæmpningsled skal være regulerbare til  
+
+ nominelle dæmpningsværdier i hele og halve dB.
+ 3.4. Et dæmpningsleds driftsdæmpning mellem 600 ohm og ved et sendeniveau  
+
+ på 0 dB (1 m VA) skal ved enhver frekvens afvige mindst muligt fra den  
+
+ (indregulerede) nominelle dæmpningsværdi og i frekvensområdet 300-4000 Hz må  
+
+ afvigelsen i hvert fald højst være 0,2 dB.
+ 3.5. Et dæmpningsled, som ved den ene firpolport er belastet med 600 ohm,  
+
+ skal ved den anden firpolport udvise en impedans, hvis tilpasningsdæmpning  
+
+ over for 600 ohm er mindst 26 dB i frekvensområdet 300-4000 Hz.
+4. Placering og værdier af dæmpningsled i analoge  
+
+ centralers taleveje 4.1. I firtrådscentraler og kombineret to- og firtråds centraler skal  
+
+ dæmpningsled være indskudt som vist i fig. 1 og have de i figuren angivne  
+
+ værdier, når der kan regnes med en gaffeldæmpning g dB på 3,5 dB og  
+
+ centraltab c(4-4)4 dB og c(4-2)4 på 0,5 dB.
+ For andre værdier af g, c(4-4)4 og c(4-2)4 dB bestemmes dæmpningsværdierne  
+
+ som angivet i figuren.
+ Dersom en firtråds ledning undtagelsesvis indgår direkte til totråds  
+
+ vælgertrin i en firtrådscentral eller kombineret to- og firtrådscentral, skal  
+
+ dæmpningsled være indskudt og have værdier som anført for totrådscentraler og  
+
+ lokalcentraler, jf. pkt. 4.3. og fig. 3 i nærværende cirkulære.
+ 4.2. I dobbelttotrådscentraler skal dæmpningsled være indskudt som vist i  
+
+ fig. 2 og have de i figuren angivne værdier, når der kan regnes med en  
+
+ gaffeldæmpning g dB på 3,5 dB.
+ For andre værdier af g dB bestemmes dæmpningsværdierne som angivet i  
+
+ figuren.
+ 4.3. I totrådscentraler og lokalcentraler skal dæmpningsled være indskudt  
+
+ som vist i fig. 3 og have de i figuren angivne værdier, når der kan regnes  
+
+ med en gaffeldæmpning g dB på 3,5 dB.
+ For andre værdier af g dB bestemmes dæmpningsværdierne som angivet i  
+
+ figuren.
+ 4.4 Ved fast sammenstilling af to firtråds ledninger skal dæmpningsled  
+
+ være indskudt som vist i fig. 4 og have de i figuren angivne værdier.
+ 4.5 Ved fast sammenstilling af en firtråds og en totråds centralledning  
+
+ skal dæmpningsled være indskudt som vist i fig. 5 og have de i figuren  
+
+ angivne værdier, når der kan regnes med en gaffeldæmpning g dB og på 3,5 dB.
+ For andre værdier af g dB bestemmes dæmpningsværdierne som angivet i  
+
+ figuren.
+ 5. Placering og værdier af dæmpningsled i digitale  
+
+ centralers taleveje.
+ 5.1. I digitale centraler skal de analoge ind- og udgange ved henholdsvis  
+
+ analog-digital (A/D) og digital-analog (D/A) overgange mod analogt  
+
+ tilsluttede ledninger have nominelle relative niveauer i hele eller halve  
+
+ dBr-værdier.
+ Endvidere skal det nominelle relative niveau, p dBr, ved de analoge  
+
+ indgange af A/D overgangene være -14 dBr eller større og det nominelle  
+
+ relative niveau, q dBr, ved de analoge udgange af D/A overgangene være 4 dBr  
+
+ eller mindre.
+ De her anførte relative niveauer er refereret til de digitale firtråds  
+
+ kredsløb i centralen.
+5.2. Ved sammenstilling af firtråds ledninger i en digital central skal  
+
+ dæmpningsled være indskudt som vist i fig. 6 og have de i figuren angivne  
+
+ værdier, når de relative niveauer ved A/D og D/A overgangenes analoge  
+
+ indgange respektive udgange mod analogt tilsluttede firtråds ledninger er  
+
+ henholdsvis p4 dBr og q4 dBr.
+Er p4 dBr = 4 dBr og q4 dBr = -8,5 dBr, udgår  
+
+ dæmpningsleddene som vist i fig. 7.
+5.3. Ved sammenstilling af totråds ledninger med andre totråds eller  
+
+ firtråds ledninger skal dæmpningsled være indskudt som vist i fig. 8 og have  
+
+ de i figuren angivne værdier, når der kan regnes med en gaffeldæmpning på g  
+
+ dB, og når de relative niveauer ved A/D og D/A overgangenes analoge indgange  
+
+ respektive udgange mod totråds ledningerne er henholdsvis p2 og q2 dBr.
+Er p2  
+
+ dBr = -g dBr og q2 dBr = (g-6) dBr, udgår dæmpningsleddene som vist i fig. 9.
+ 6. Oversigt over de i figurerne benyttede betegnelser.
+Afgrænsningspunkter A/D: Analog-digital overgang i transmissionsretningen.
+ D/A: Digital-analog overgang i transmissionsretningen.
+ xf: Krydsfelt eller totrådsfordeler ved afgrænsningen mellem totråds  
+
+ ledninger og central.
+ FX: Firtrådsfordeler ved afgrænsning mellem analogt afsluttede  
+
+ firtrådsledninger og centraler.
+ X2: 2Mbit/s fordeler mellem digitale ledninger og digital central.
+Balancer og gafler B: Generel betegnelse for en balanceimpedans.
+ FB: Fællesbalance, d.v.s. en balanceimpedans til balancering af flere  
+
+ forskellige totråds ledninger.
+ IB: Individuel balance, d.v.s. en balanceimpedans til balancering af en  
+
+ bestemt totråds ledning.
+ G: Generel betegnelse for en totråds-firtråds overgang (gaffel).
+Centraltab c2 : Generel betegnelse for centraltab i en centrals totråds kredsløb.
+ c(4-A)2 : Centraltab i en centrals totråds kredsløb ved sammenstilling af  
+
+ en firtråds ledning og en abonnentledning.
+ c(4-2C)2 : Centraltab i en centrals totråds kredsløb ved sammenstilling af  
+
+ en flertråds ledning og en totråds centralledning.
+ c(4-2)4 : Centraltab i en centrals firtråds kredsløb ved sammenstilling af  
+
+ en firtråds ledning og en totråds ledning.
+ c(4-4)4 : Centraltab i en centrals firtråds kredsløb ved sammenstilling af  
+
+ to firtråds ledninger.
+Dæmpninger g: Den fysiske gaffeldæmpning (dB) i en totråds-firtråds overgang.
+ X: Dæmpningen (dB) i et dæmpningsled i ankommende firtråds  
+
+ transmissionsretning i en centrals firtråds kredsløb.
+ Y: Dæmpningen (dB) i et dæmpningsled i afgående firtråds  
+
+ transmissionsretning i en centrals firtråds kredsløb.
+ Z: Dæmpningen (dB) i et indskydeligt dæmpningsled i en analog centrals  
+
+ firtråds kredsløb.
+ Zp : Dæmpningen (dB) i et dæmpningsled i ankommende analog firtråds  
+
+ transmissionsretning i en digital centrals firtråds kredsløb.
+ Zq : Dæmpningen (dB) i et dæmpningsled i afgående analog firtråds  
+
+ transmissionsretning i en digital centrals firtråds kredsløb.
+Relative niveauer p2 : Relativt niveau (dBr) ved indgangen af en A/D overgang ved  
+
+ transmission fra en totråds ledning i en digital central.
+ p4 : Relativt niveau (dBr) ved indgangen af en A/D overgang ved  
+
+ transmission fra en analogt tilsluttet firtråds ledning i en digital central.
+ q2 : Relativt niveau (dBr) ved udgangen af en D/A overgang ved  
+
+ transmission mod en totråds ledning i en digital central.
+ q4 : Relativt niveau (dBr) ved udgangen af en D/A overgang ved  
+
+ transmission mod en analogt tilsluttet firtråds ledning i en digital central.
+(* 1) I konsekvens af ændret arbejdsdeling på telekommunikationsområdet pr. 1.1.1991 ophæves cirkulæret som statslig forskrift, idet ansvaret for disse bestemmelser, der vedrører interne forhold i Tele Danmark A/S, er overgået til dette selskab.

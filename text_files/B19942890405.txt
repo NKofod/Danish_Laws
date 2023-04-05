@@ -1,0 +1,87 @@
+Gyldighedsområde Disse tekniske bestemmelser specificerer de tekniske krav og tilhørende  
+
+ prøvningsforskrifter, som radioanlæg indrettet til digitalt selektivt opkald  
+
+ (DSC) skal overholde for at kunne typegodkendes til anvendelse i den maritime  
+
+ radiotjeneste, ombord i skibe og på landstationer.
+ Hjemmelsgrundlaget for disse tekniske bestemmelser fremgår af § 4 i  
+
+ Ministeriet for Kommunikation og Turismes bekendtgørelse nr. 166 af 30. marts  
+
+ 1993 om radioanlæg i den maritime radiotjeneste og luftfartsradiotjenesten.
+Ikrafttræden Disse tekniske bestemmelser træder i kraft 1. september 1994.
+Typegodkendelse Fremgangsmåden for opnåelse af typegodkendelse fremgår af § 5 i  
+
+ Ministeriet for Kommunikation og Turismes bekendtgørelse nr. 166 af 30. marts  
+
+ 1993 om radiostationer i den maritime radiotjeneste og  
+
+ luftfartsradiotjenesten.
+Tekniske krav De tekniske krav med tilhørende prøvningsforskrifter, som anlægget skal  
+
+ opfylde, fremgår af:
+- CEPT recommendation T/R 34-01, Specifications for Maritime Mobile Radio  
+
+ Equipment.
+Annex XIII, Performance specifications for equipment for the  
+
+ generation, transmission and reception of digital selective calls in the  
+
+ maritime MF/HF and VHF mobile service.
+Edition of September 15, 1988.
+ Med følgende ændringer:
+- I sektion 8.6.2. erstattes afsnittet'For the frequencies in the range  
+
+ from 9 kHz to 2 GHz with the exception of the wanted channel and its adjacent  
+
+ channels of the receiver (f(nom) +/- 750 Hz) the level of the unmodulated  
+
+ unwanted signal shall be 90 dB/1uV.'(u = my) med følgende tekst: »For  
+
+ the frequencies +1 kHz to +3 kHz and -1 kHz to -3 kHz, the level of the  
+
+ unwanted unmodulated signal shall be 60 dBuV.
+For the frequencies in the  
+
+ range from 100 kHz to 2 GHz with the exception of the frequency band +/- 3  
+
+ kHz from the nominal frequency of the receiver, the level of the unmodulated  
+
+ signal shall be 90 dBuV.« Endvidere gælder følgende:
+ - Anlæg med mulighed for automatisk styring af frekvensind- stilling,  
+
+ modulationsart, start af sender samt start og stop af scanningmodtager skal  
+
+ afprøves og typegodkendes som hele sammenkoblede anlæg.
+ - Separate DSC kodnings- og dekodningsenheder uden mulighed for automatisk  
+
+ styring af sender og modtager kan afprøves og typegodkendes som separate  
+
+ enheder.
+ - Anlæg der installeres på skibe, der sejler efter GMDSS- bestemmelserne,  
+
+ skal være af klasse A eller klasse B.
+ Rekvirering af love, bekendtgørelser, standarder m.v.
+ Love, bekendtgørelser og tekniske bestemmelser kan fås ved henvendelse til  
+
+ Telestyrelsen.
+ ETSI standarder kan købes hos Telestyrelsen.
+ ITU rekommandationer kan købes direkte hos ITU, Place des Nations, CH-1211  
+
+ Geneve 20, tlf.: +41 22 730 51 11, fax: +41 22 730 51 94 eller +41 22 733 72  
+
+ 56 eller eventuelt gennem Telestyrelsen.
+ CEPT rekommandationer og NET standarder kan købes hos Office de Liaison  
+
+ CEPT, Case postale, CH-3001 Berne, Schweiz, tlf.: +41 31 338 15 01, fax: +41  
+
+ 31 338 2078 eller eventuelt gennem Telestyrelsen.
+ ISO/CEN/CENELEC/IEC/DS standarder kan købes hos Dansk Standard,  
+
+ Baunegaardsvej 73, 2900 Hellerup, tlf.: 39 77 01 01, fax: 39 77 02 02.
+ (* 1) I disse tekniske bestemmelser fastsættes af hensyn til den effektive  
+
+ udnyttelse af radiofrekvensspektret visse krav med relation til anlæggenes  
+
+ elektromagnetiske kompatibilitet.

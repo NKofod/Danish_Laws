@@ -1,0 +1,112 @@
+ Studieplanen har virkning fra 1. august 1987.
+ P.d.v.
+ e.b.
+Erik Nexelmann Underv.insp.
+Kursets formål Kurset har til formål at give deltagerne en gennemarbejdet forståelse af  
+
+ tekniske og teoretiske aspekter, der indgår i design, implementation og drift  
+
+ af distribuerede systemer.
+Deltagerne skal specielt bibringes en grundlæggende forståelse for  
+
+ begrebet, services og funktioner i ISO OSI modellens øvre lag, dvs.  
+
+ sessionslaget, præsentationslaget og applikationslaget, således som disse er  
+
+ defineret som standarder eller som forslag til sådanne.
+Kurset skal derudover  
+
+ give deltagerne et generelt kendskab til, hvordan distribuerede applikationer  
+
+ i almindelighed kan opbygges over dette fundament i særlig grand til, hvordan  
+
+ funktioner i distribuerede operativ systemer og distribuerede  
+
+ databasesystemer opbygges som applikationsentiteter ovenpå OSI modellens øvre  
+
+ lag.
+Adgangsbetingelser Symbolsk maskinsprog.
+ Drift.
+ Problemorienteret sprog.
+ Planlægning.
+Anbefalede forudsætninger 1.2 Operativsystemer.
+ 1.5 Datatransmission og datakommunikation.
+ 2.6 Databasesystemer.
+ Desuden kan det anbefales efterfølgende eller forudgående at tage modulet  
+
+ omhandlende Distribuerede databaser.
+Hovedemner og undervisningsformål for disse Generelt om distribuerede systemer.
+ Målet med dette emne er at give de studerende et generelt overblik over  
+
+ distribuerede systemer, strukturen i disse samt fordele og ulemper ved  
+
+ distribuerede systemer sammenholdt med centraliserede eller decentraliserede  
+
+ systemer.
+Da emnet er meget bredt, er det endvidere målet at etablere en fælles  
+
+ referenceramme til brug i resten af kurset ved på overordnet niveau at  
+
+ gennemgå de vigtigste emner, der ligger til grund for kurset.
+Specielt bør  
+
+ der etableres en ensartet viden vedrørende operativsystemer.  
+
+ datakommunikation herunder OSI modellens lag 1-4, dvs. det fysiske lag,  
+
+ datakædelaget, netværkslaget og transportlaget, samt databaser.
+ OSI modellens øvre lag.
+ Målet med emnet er, at de studerende opnår et grundigt kendskab til sættet  
+
+ af protokoller og tjenester i OSI modellens lag for behandling af session,  
+
+ præsentation og applikation (OSI lag 5-7).
+ De studerende skal herunder gøres fortroligt med funktion og indhold af  
+
+ begreberne Abstract Syntax Notation (ASN.1), Common Application Service  
+
+ Elements (CASE) og Special Application Service Elements (SASE) samt kunne  
+
+ anvende præsentationslags-services og serviceelementerne fra CASE og SASE ved  
+
+ implementering af applikationsentiteter.
+ Operativ systemer i distribuerede systemer.
+ Målet er at give de studerende et grundigt kendskab til design af, og til  
+
+ teknikker, der ligger til grund for distribuerede operativ systemer og  
+
+ netværksoperativ systemer samt til brugermæssige faciliteter, sådanne  
+
+ systemer stiller til rådighed.
+ Følgende disignkriterier for distribuerede operativ systemer tillægges  
+
+ speciel vægt: Kommunikationsprimitiver, navngivning, beskyttelse, ressource  
+
+ administration, fejltolerance/ -behandling samt øvrige serverbasderede  
+
+ tjenester.
+ De studerende skal opnå kendskab til nogle eksempler på realiserede  
+
+ distribuerede operativ systemer samt kunne vurdere disse ud fra det indlærte  
+
+ stof.
+ Distribuerede databaser.
+ De studerende skal have kendskab til reference- og systemarkitekturer for  
+
+ distribuerede databaser samt til særlige problemstillinger vedrørende  
+
+ distribuering af data, processer og katalog, som stiller krav om udvidede  
+
+ løsninger i forhold til centraliserede databaser.
+ Endvidere skal de studerende opnå et nøjere kendskab til de driftsmæssige  
+
+ aspekter i distribuerede databaser og løsningsmodeller for håndtering af  
+
+ disse.
+ Målet med emnet er, at de studerende opnår en forståelse for eksisterende  
+
+ tiltag indenfor databaseverdenen med hensyn til realisering af distribuerede  
+
+ databaser, og at de sættes i stand til at vurdere disse og relatere sådanne  
+
+ løsningsmodeller til lignende services i OSI modellens øvre lag.

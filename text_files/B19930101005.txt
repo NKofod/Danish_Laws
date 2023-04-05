@@ -1,0 +1,137 @@
+ I medfør af § 11, stk. 1, § 58, stk. 2, og § 72, stk. 2, i lov nr. 279 af  
+
+ 6. juni 1984 om apoteksvirksomhed, som senest ændret ved lov nr. 280 af 6.  
+
+ maj 1993, og § 9, stk. 3, og § 44, stk. 2, i lov om lægemidler, jf.  
+
+ lovbekendtgørelse nr. 452 af 10. juni 1992, som ændret ved lov nr. 280 af 6.  
+
+ maj 1993, fastsættes efter bemyndigelse i henhold til § 1, stk. 1, i  
+
+ bekendtgørelse nr. 1009 af 14. december 1993 om indberetning af oplysninger  
+
+ om omsætning mv. af lægemidler mv.:
+ § 1.  Indberetning af omsætningsoplysninger til  
+
+ Sundhedsstyrelsens lægemiddelstatistik i henhold til bekendtgørelse om  
+
+ indberetning af oplysninger om omsætning mv. af lægemidler mv. skal foretages  
+
+ som anført i bilag 1.
+ § 2.  Følgende personer, virksomheder m.m. skal  
+
+ indberette omsætningsoplysninger til Sundhedsstyrelsen:
+ § 3.  Sundhedsstyrelsen kan herudover i medfør af  
+
+ lægemiddellovens § 9, stk. 3, kræve, at virksomheder, der fremstiller,  
+
+ indfører, udfører, oplagrer, forhandler, udleverer, fordeler eller emballerer  
+
+ lægemidler, og disse virksomheders foreninger og brancheorganisationer  
+
+ indsender oplysninger i maskinlæsbar stand om omsætning mv. af lægemidler.
+ § 4.  Med bøde straffes den, der overtræder § 1 eller  
+
+ § 2.
+Stk. 2.  For overtrædelser, der begås af aktieselskaber,  
+
+ andelsselskaber eller lignende, kan der efter apotekerlovens § 72, stk. 3, og  
+
+ lægemiddellovens § 44, stk. 3, pålægges selskabet som sådant bødeansvar.
+Hvis  
+
+ overtrædelsen begås af staten, en kommune eller et kommunalt fællesskab, jf.  
+
+ § 60 i lov om kommunernes styrelse, kan der efter lægemiddellovens § 44, stk.  
+
+ 3, pålægges staten, kommunen eller det kommunale fællesskab bødeansvar.
+ § 5.  Bekendtgørelsen træder i kraft den 1. januar  
+
+ 1994.
+Sundhedsstyrelsen, den 14. december 1993 Knud Kristensen / Lasse Larsen Bilag 1 Bilaget beskriver de oplysninger, der månedsvis skal indsendes til  
+
+ Sundhedsstyrelsen i maskinlæsbar form 1. Generelle bemærkninger På grundlag af oplysninger indsamlet fra apoteker, sygehusapoteker,  
+
+ serumlaboratorier og medicinalfirmaer mv., etableres en lægemiddeldatabase  
+
+ til brug for udarbejdelse af statistik, prisindeks og overvågning af  
+
+ lægemiddelforbruget.
+Formålet er at styrke myndighedernes  
+
+ lægemiddelstatistiske beslutningsgrundlag.
+ Afsnit 2 angiver de tekniske og indholdsmæssige krav til disketter og  
+
+ filer.
+ Afsnit 3 er en samlet beskrivelse af oplysningerne i de enkelte felter.
+Afsnit 4 er en samlet oversigt over oplysninger, der skal indberettes,  
+
+ herunder hvilke oplysninger, der skal indsendes af henholdsvis apotekere og  
+
+ øvrige indberetningspligtige.
+Af afsnittet fremgår de enkelte felters  
+
+ placering i filen, længde og type mv.
+ Afsnit 5 indeholder en oversigt over koder og tabeller.
+2. Indberetning på diskette Indberetning skal ske på disketter til Sundhedsstyrelsens Lægemiddelafdeling Lægemiddeldata Frederikssundsvej 378 2700 Brønshøj.
+ Følgende DOS-disketteformater kan anvendes: 3,5" (0,72 Mb eller 1,44  
+
+ Mb) og 5 1/4" (1,2 Mb). Anvendelse af andre formater eller medier  
+
+ forudsætter Sundhedsstyrelsens tilladelse.
+ Hver diskette skal udvendigt, på en label, påføres følgende  
+
+ oplysninger:
+ - Den indberetningspligtiges navn og nummer.
+ - Oplysning om, hvilken måned og år indberetningerne vedrører.
+ - Diskettens nummer og månedens samlede antal disketter.
+ - Navn på en kontaktperson.
+ Hver diskette må kun indeholde een fil.
+ Filnavnet skal være i overensstemmelse med de oplysninger, der  
+
+ fremgår af diskettens label og af 1. linie i filen på disketten (jf.  
+
+ nedenfor):
+NUMFIXY.MM hvor NUM er den indberetningspligtiges nummer (3 cifre, evt. med foranstillede  
+
+ nuller), FI er enhedsnummer for underenheder, fx. filial eller apoteksudsalg (2  
+
+ cifre), XY er diskettens nummer (1 ciffer) ud af en sekvens på Y disketter (1  
+
+ ciffer) og MM er månedens nummer (op til 2 cifre).
+5. Koder og tabeller Sundhedsstyrelsens Lægemiddelafdeling koordinerer og fastlægger gennem  
+
+ denne bekendtgørelse anvendelsen af koder og tabeller, herunder numre til  
+
+ identifikation af indberetningspligtige.
+ En række tabeller af mindre omfang er angivet i feltbeskrivelserne i  
+
+ afsnit 3 ovenfor.
+ Øvrige tabeller:
+ - For apotekeres vedkommende anvendes de gældende apoteksnumre.  
+
+ Enhedsnumre til apoteker meddeles til Sundhedsstyrelsens Lægemiddelafdeling.
+ - Numre på øvrige indberetningspligtige (sygehusapoteker,  
+
+ serumlaboratorier mv.) vil blive fastlagt af Sundhedsstyrelsens  
+
+ Lægemiddelafdeling.
+ - Sundhedsstyrelsens Sygehusklassifikation anvendes i videst muligt omfang  
+
+ til identifikation af sygehuse og sygehusafdelinger.
+ - Indenrigsministeriets tabel over kommune- og amtskoder anvendes, hvor  
+
+ kommune og/eller amtskommune skal indberettes.
+- Til identifikation af receptudsteder anvendes Sygesikringens  
+
+ identifikation.
+For dyrlæger anvendes Veterinærdirektoratets  
+
+ autorisationskoder.
+- Til identifikation af farmaceutiske specialiteter på pakningsniveau  
+
+ anvendes nordiske varenumre.
+Lægemidler uden nordisk varenummer tildeles et  
+
+ varenummer.
+For øvrige varer anvendes branchens varenumre.

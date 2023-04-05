@@ -1,0 +1,114 @@
+1. FORMÅL Denne prøvningsmetode kan benyttes til at bestemme vægtens  
+
+ nulstillingsområde.
+2. HENVISNING TIL MÅLETEKNISKE BESTEMMELSER TDIR 24.11.1-01, udg. 1 af 15.10.1978, bilag 2 MDIR 34.11-01, udg. 3 af 26.01.1987, pkt. 10.7.2 OIML R 76-1 af 1988, pkt. 4.6.1 3. FORUDSÆTNINGER Generelt vedrørende måleudstyr, prøvningsbetingelser, prøvningsmiljø,  
+
+ forkonditionering m.v. henvises til MDIR 04.11-10.
+4. PRØVNING 4.1 Vægte med ikke-automatisk eller halvautomatisk nulstillingsindretning Vægten nulstilles uden belastning.
+Vægten belastes med en last på få delinger, og nulstilles derefter.
+Vægten  
+
+ belastes yderligere, nulstilles, etc. indtil nulstilling ikke længere er  
+
+ mulig.
+Den samlede påførte belastning minus det sidst påførte lod, svarer da  
+
+ til den positive del af nulstillingsområdet.
+Størrelsen af det sidst påførte  
+
+ lod må højst være 1 dd.
+ Vægten aflastes og nulstilles, og vejeladdet fjernes eller aflastes.
+Vægten belastes med lodder indtil vægten viser nul belastning.
+Derefter  
+
+ fjernes lodder på nogle få delinger og vægten nulstilles.
+Yderligere last  
+
+ fjernes, der nulstilles etc., indtil nulstilling ikke længere er mulig, og  
+
+ den negative del af nulstillingsområdet findes da som summen af de lodder,  
+
+ der er fjernet minus det sidst fjernede lod.
+ Det totale nulstillingsområde findes som summen af det positive og  
+
+ negative nulstillingsområde.
+ 4.2 Vægte med automatisk nulstillingsindretning, som er uvirksom, når   
+
+ vægtanvisningen ikke er nul.
+ Nulstillingsområdets positive del bestemmes ved følgende:
+ Vejeladdet aflastes fuldstændigt, og der pålægges en last < 0,5 dd  
+
+ (størrelsen afhænger af vægtkonstruktionen).
+Der ventes indtil nulindtrækningsindretningen har kompenseret for den  
+
+ pålagte last.
+Denne tidsfaktor fremgår af fabrikantens specifikationer.
+ Der pålægges yderligere 0,1 dd last og der ventes som ovenfor nævnt.
+ Der fortsættes på denne måde ved successiv pålægning, indtil indikationen  
+
+ skifter fra nul til 1 dd.
+Det undersøges, at indikationsskiftet ikke skyldes en for hurtig pålægning  
+
+ af last i forhold til indtrækningscyklus.
+Den pålagte last fjernes, og vægten  
+
+ nulstilles ved kortest mulig afbrydelse og genetablering af strømforsyningen.  
+
+ Der ventes, indtil en eventuel testcyklus er tilendebragt og derefter  
+
+ yderligere 1 minut.
+Den fjernede last bestemmes og noteres.
+Herved er nulstillingsområdets  
+
+ positive del bestemt.
+Bestemmelse af nulstillingsområdets negative del er kompliceret og  
+
+ afhænger af konstruktionsprincippet.
+Generelt kan kun bestemmes en negativ  
+
+ del, hvis denne er mindre end den positive.
+Der kan anvendes følgende  
+
+ fremgangsmåde:
+ Lasten svarende til vægtens positive nulstillingsområde anbringes på  
+
+ vejeladdet.
+Vægten nulstilles som ovenfor, ved kortest mulig afbrydelse og  
+
+ genetablering af strømforsyningen.
+Der ventes som nævnt ovenfor.
+Proceduren  
+
+ udføres som ved bestemmelse af nulstillingsområdets positive del ved  
+
+ aftagning i stedet for pålægning af last.
+Hvis der stadig er last på vejeladdet, fjernes denne.
+Vægten nulstilles  
+
+ atter ved afbrydelse af strømforsyningen som nævnt ovenfor.
+Den aftagne last bestemmes og noteres.
+Herved er nulstillingsområdets  
+
+ negative del bestemt.
+ Nulstillingsområdet angives som summen af det positive og negative  
+
+ nulstillingsområde.
+Hvis al last er fjernet fra vejeladdet, uden at indikationen er skiftet,  
+
+ kan den negative del ikke bestemmes ved denne metode.
+Nulstillingsområdet må  
+
+ derfor angives som større end 2 gange det positive nulstillingsområde.
+4.3 Vægte med initial nulstillingsindretning Denne prøvning udføres på samme måde, som beskrevet i pkt. 4. 2 idet man  
+
+ tænder/slukker for vægten i stedet for at aktivere nulstillingsindretningen.
+5. KRAV Summen af vægtens positive og negative nulstillingsområde må højest udgøre  
+
+ 4% af vægtens maksimumslast.
+ Det er dog tilladt, at vægtens initiale nulstillingsområde er større end  
+
+ 4% såfremt det eftervises, at den kan overholde tolerancekravene ved op-og  
+
+ nedvejning, når denne prøve udføres med udgangspunkt i hhv maksimal og  
+
+ minimal initial nulstilling af vægten.

@@ -1,0 +1,625 @@
+Ankenævnet stadfæstede direktoratets afgørelse, hvorefter en ansøgning  
+
+ om patent på en selvindstillende regulator blev afslået på grund af manglende  
+
+ opfindelseshøjde, og da opfindelsen vedrørte en ikke-patenterbar  
+
+ kodningsforskrift.
+Nævnet udtalte, at de overvejelser, der lå til grund for  
+
+ opfindelsen, fortrinsvis var af matematisk karakter og kunne realiseres ved  
+
+ programmering af et konventionelt databehandlingsanlæg.
+År 1985, den 7. januar afsagde patentankenævnet (Beyer, Grønning-Nielsen,  
+
+ Asger Nielsen, Niordson, Vørts) følgende K E N D E L S E i sagen j.nr.
+P. 1/83:
+Klage fra ASEA Aktiebolag, Sverige, v/patentbureau Lehmann & Ree over patentdirektoratets afgørelse af 15. november 1982 af patentansøgning nr.  
+
+ 4001/73.
+Den 19. juli 1973 indleverede Allmanna Svenska Elektriska Aktiebolaget,  
+
+ Sverige, en ansøgning om patent på en selvindstillende regulator.
+Ansøgningen  
+
+ indeholdt følgende 16 krav:
+ »1. Selvindstillende regulator, k e n d e t e g n e t ved, at  
+
+ regulatoren omfatter en første registermodul (1071) indrettet til at oplagre  
+
+ en sekvens af værdier af en første størrelse (y(t)), som er en funktion af  
+
+ udgangssignal (y*(tau)) fra det system (10), til hvilket regulatoren er  
+
+ sluttet, en anden registermodul (1072) indrettet til at oplagre en sekvens af  
+
+ værdier af en anden størrelse (u(t)), som bestemmer udseendet af for systemet  
+
+ bestemt styreindgreb (u*(tau)) og beregningsorganer (103-105) indrettet til  
+
+ ved hjælp af instruktioner fra en disse overordnet styreenhed (101) at  
+
+ beregne den nævnte anden størrelse (u(t)), den første og anden registermodul  
+
+ (1071,1072) omfatter i det mindste det antal værdier af nævnte første og  
+
+ anden størrelse henholdsvis (y(t)) og (u(t)), som kræves til beregning af det  
+
+ til det senest foreliggende udgangssignal (y*(tau)) svarende styreindgreb  
+
+ (u*(tau)), styeenheden (101) er indrettet til at sammenstille indholdet i den  
+
+ første og den anden registermodul (1071,1072) til en vektor (z(t-k)), og ved  
+
+ hjælp af produkt- og kvadratsummer samt funktioner af disse summer beregnet  
+
+ af den nævnte første størrelse (y(t)) og den nævnte vektor (z(t-k))  
+
+ fremstillede af de nævnte beregningsorganer (103-105) at styre den nævnte  
+
+ berening af den nævnte anden størrelse (u(t)).
+ 2. Selvindstillende regulator ifølge krav 1, ke n d e t e g n e t ved, at  
+
+ regulatoren omfatter et antal lagermoduler (10601-10616) indrettet til at  
+
+ mellemlagre information mellem forskellige beregningstrin ved beregning af  
+
+ den nævnte anden størrelse (u(t)) og til at huske ved hver reguleringscyklus  
+
+ opdateret information bestemt for den næste reguleringscyklus.
+ 3. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) er indrettet til at styre beregningen af den nævnte anden  
+
+ størrelse (u(t)) efter en rekursiv mindste-kvadratmetode.
+ 4. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) er indrettet til at styre beregningen af den nævnte  
+
+ størrelse (u(t)) efter en stokastisk approximationsmetode.
+ 5. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ en i styreenheden (101) anbragt klokenhed er indrettet til at bestemme de  
+
+ tidspunkter, ved hvilken de nævnte første størrelser (y(t)) oplagres i den  
+
+ første registermodul (1071).
+ 6. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenhedens (101) handlingsprogram ikke kan ødelægges.
+ 7. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) er underordnet en ydre yderligere styreenhed.
+ 8. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ et beregningsorgan (105) omfatter en testfunktion til kontrol af, hvorvidt en  
+
+ beregnet anden størrelse (u(t)) falder indenfor et forudbestemt område og  
+
+ indrettet til, hvis dette ikke er tilfældet, at erstatte denne størrelse med  
+
+ en forudbestemt værdi.
+ 9. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) og beregningsorganerne (103)-105) er indrettet til at  
+
+ beregne usikkerheder i beregning af den nævnte anden størrelse (u(t)) og  
+
+ samtidig tage hensyn til denne usikkerhed ved beregning af denne størrelse  
+
+ (u(t)).
+ 10. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at ved manuel vurdering af en i systemet (10) indbygget første  
+
+ overføringskoefficient (b) er styreenheden (101) indrettet til at afpasse den  
+
+ første størrelse (y(t)), at beregne en tredie størrelse (s(t) = y(t)/beta -  
+
+ u(t-k)), at sammenstille indholdet i den første og den anden registermodul  
+
+ (1071, 1072) til en vektor (Ø(t-k)) og ved hjælp af produkt- og kvadratsummer  
+
+ samt funktioner af disse summer beregnede af den nævnte tredie størrelse  
+
+ (s(t)) og den nævnte vektor (Ø(t-k)) fremstillet af de nævnte  
+
+ beregningsorganer (103-105) at styre den nævnte beregning af den nævnte anden  
+
+ størrelse (u(t)).
+ 11. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at styreenheden (101) er indrettet til ved beregning af den anden størrelse  
+
+ (u(t)) at tage størst hensyn til den senest i tid foreliggende information  
+
+ (Ø(t-k), y(t) og u(t-k)) om systemet (10).
+ 12. Selvindstillende regulator ifølge krav 1, og hvor regulatoren er  
+
+ sluttet til et system med et indgangssignal og et udgangssignal, k e n d e t  
+
+ e g n e t ved, at styreenheden (101) er indrettet til at styre en i  
+
+ beregningsorganerne (103,104,105) udført beregning til explicit eller  
+
+ implicit bestemmelse af systemets løbetid.
+ 13. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at styreenheden (101) er indrettet til at styre en registrering af en sekvens  
+
+ af en yderligere regulator eller yderligere regulatorer beregnede og for  
+
+ systemet (10) bestemte styreindgreb i den anden registermodul (1072).
+ 14. Selvindstillende regulator ifølge krav 13, og hvor regulatoren er  
+
+ sluttet til et multivariabelt system, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) er indrettet til at styre en i beregningsorganerne  
+
+ (103,104,105) udført beregning til implicit bestemmelse af et antal af  
+
+ systemets løbetider.
+ 15. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at styreenheden (101) er indrettet til at styre en registrering af en sekvens  
+
+ af signaler omfattende af ydre organer målt information om deterministiske  
+
+ forstyrrelser i den anden registermodul (1072).
+16. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at regulatoren omfatter et til denne sluttet organ indrettet til at måle,  
+
+ registrere og/eller indikere størrelsen af hver af en af regulatoren styret  
+
+ parameter (L(t)) tilpasning til systemet og indrettet når en sådan tilpasning  
+
+ falder udenfor et forudbestemt område, at indikere denne overskridelse, og at  
+
+ den sidstnævnte indikering omfatter information om et i systemet opstået ikke  
+
+ normalt driftsforhold.« Ansøgeren har senere ændret navn til ASEA Aktiebolag.
+ I skrivelse af 18. august 1975 udtalte patentdirektoratet:
+ »Kravene er helt ubestemte, og om den anvendte teknik ses de ikke at  
+
+ angive andet og mere end hvad der er almindelig kendt ved digitalregulatorer,  
+
+ nemlig at regulatoren indeholder registre samt regne- og styreenheder til ud  
+
+ fra registrenes indhold, ved hjælp af bestemte regneforskrifter (algoritmer),  
+
+ at udlede de nye styresignaler (u(t)). Det fremgår da også klart af  
+
+ beskrivelsen, at opfindelsen ligger i tilvejebringelsen af den benyttede  
+
+ algoritme, hvoraf atter følger, at kravene ikke ses at kunne præciseres på en  
+
+ sådan måde, at de karakteriserer opfindelsen, uden at det derved bliver  
+
+ nødvendigt at optage en angivelse af denne algoritme.
+Af ovenstående vil det fremgå, at opfindelsen ses at omhandle en  
+
+ kodningsforskrift og at den derfor falder uden for, hvad der kan  
+
+ patenteres.« Den 12. april 1976 indsendte klageren i denne sag følgende forslag til  
+
+ ændring af krav 1:
+»Selvindstillende regulator, k e n d e t e g n e t ved, at  
+
+ regulatoren omfatter en første registermodul (1071) indrettet til at oplagre  
+
+ en sekvens af værdier af en første størrelse (y(t)), som er en funktion af et  
+
+ udgangssignal (y*(tau)) fra det system (10), til hvilket regulatoren er  
+
+ sluttet, en anden registermodul (1072) indrettet til at oplagre en sekvens af  
+
+ værdier af en anden størrelse (u(t)), som bestemmer udseendet af for systemet  
+
+ bestemt styreindgreb (u*(tau)), og beregningsorganer (103-105) indrettet til  
+
+ ved hjælp af instruktioner fra en disse overordnet styreenhed (101) at  
+
+ beregne den nævnte anden størrelse (u(t)), at den første og anden  
+
+ registermodul (1071,10972) omfatter i det mindste det antal værdier af nævnte  
+
+ første og anden størrelse, henholdsvis (y(t)) og (u(t)), som kræves til  
+
+ beregning af det til det senest foreliggende udgangssignal (y*(tau)) svarende  
+
+ styreindgreb (u*(tau)), at styreenheden (101) er indrettet til at  
+
+ sammenstille indholdet i den første og den anden registermodul (1071,1072)  
+
+ til en vektor (z(t-k)), at de nævnte beregningsorganer (103-105) er indrettet  
+
+ til at danne produkt- og kvadratsummer og funktioner af disse summer af den  
+
+ nævnte første størrelse (y(t)) og den nævnte vektor (z(t-k)), og at den  
+
+ nævnte styreenhed er indrettet til at styre beregningen af den nævnte anden  
+
+ størrelse (u(t)) i afhængighed af de nævnte summer og funktioner.« I skrivelse af 15. november 1977 udtalte patentdirektoratet:
+»Det er almindelig kendt ved regulering af et reguleringsobjekt at  
+
+ tilvejebringe en styreenhed, som ud fra bl.a. reguleringsobjektets  
+
+ udgangssignal (regulerigsstørrelsen) frembringer et styresignal  
+
+ (indstillingssignal) for reguleringsobjektet.
+Det er også almindelig kendt at  
+
+ benytte en digital regulator, og i så fald er det indlysende, at de  
+
+ ovennævnte signaler oplagres i registre.
+Der kan også henvises til, hvad der  
+
+ kendes fra eksempelvis GB patentskrift nr. 1.207.186. Ved denne kendte  
+
+ regulator benyttes et antal foregående styresignaler og et antal foregående  
+
+ udgangssignaler til beregningen af det nye styresignal.
+Denne beregning må  
+
+ nødvendigvis foregå ved hjælp af manipulationer mellem indholdet af to  
+
+ registre, der indeholder det nødvendige antal værdier af styresignaler og  
+
+ udgangssignaler.
+Det må derfor fastholdes, at regulatoren ifølge den foreliggende ansøgning  
+
+ ikke i sin implementering afviger fra, hvad der er kendt.
+Forskellen fra det  
+
+ kendte ligger udelukkende i den anvendte iterationsalgoritme.
+Hertil bemærkes  
+
+ to ting.
+For det første karakteriserer krav 1 kun på ganske ubestemt måde  
+
+ nogle regneforskrifter, som ikke i sig selv vil medføre en adaptiv  
+
+ regulering.
+For det andet er anvendelsen af en bestemt algoritme ikke  
+
+ patenterbar.
+Angivelserne i underkravene er alle ønskeagtige og for  
+
+ flertallets vedkommende lige så ubestemte som angivelserne i krav 1. De  
+
+ fleste af underkravene har også relation til statistiske principper, og ikke  
+
+ til teknik.
+Det må derfor fastholdes, at ansøgningen som helhed ikke ses at angive  
+
+ noget patenterbart.« Klageren indleverede den 13. september 1978 nye krav, hvor kravene 1 og 10  
+
+ delvis er omarbejdet, medens de øvrige krav i hovedsagen er bibeholdt  
+
+ uændret.
+Det nye krav 1, der har til formål at adskille det ansøgte patent  
+
+ fra det modholdte engelske patentskrift nr. 1.207.186, lyder således:
+»Selvindstillende regulator, k e n d e t e g n e t ved, at  
+
+ regulatoren omfatter en første registermodul (1071) omfattende et antal  
+
+ skifteregistre, som er koblet til det system (10), til hvilket regulatoren er  
+
+ sluttet, og indrettet til at oplagre en sekvens af værdier af en første  
+
+ størrelse (y(t)), som er en funktion af udgangssignalet (y*(tau)) fra dette  
+
+ system, en anden registermodul (1072) omfattende et antal skifteregistre, som  
+
+ er indrettet til at oplagre en sekvens af værdier af en anden størrelse  
+
+ (u(t)), som bestemmer udseendet af et styreindgreb (u*(tau)) bestemt for  
+
+ systemet (10), og beregningsorganer (103-105) i form af datamater, som er  
+
+ koblet til og styret af en disse overordnet styreenhed (101), hvilke  
+
+ beregningsorganer (103-105) er indrettet til i overensstemmelse med  
+
+ styresignalet fra denne styreenhed (101) at afgive et signal svarende til den  
+
+ nævnte anden størrelse (u(t)), hvor den første og anden registermodul  
+
+ (1071,1072) er indrettet til at lagre i det mindste det antal værdier af  
+
+ nævnte første og anden størrelse (y(t)) henholdsvis (u(t)), som kræves til  
+
+ beregning af det til det senest foreliggende udgangssignal (y*(tau)) svarende  
+
+ styreindgreb (u*(tau)), samt at styreenheden (101) er indrettet til at  
+
+ sammenstille indholdet i den første og anden registermodul (1071,1072) til en  
+
+ vektor (z(t-k)) og ved hjælp af produkt- og kvadratsummer samt funktioner af  
+
+ disse summer beregnet af den første størrelse (y(t)) og vektoren (z(t-k))  
+
+ fremstillet af beregningsorganerne (103-105) at styre beregningen af den  
+
+ anden størrelse (u(t)).« Den 15. november 1982 afslog patentdirektoratet ansøgningen med følgende  
+
+ begrundelse:
+ »Kravene er kun ændret uvæsentligt i forhold til tidligere kravsæt.  
+
+ De indførte ændringer er hovedsagelig af rent sproglig art, og i det omfang  
+
+ de angiver teknik er der tale om selvfølgeligheder, såsom at et registermodul  
+
+ omfatter et antal skifteregistre.
+ Det må fastholdes, at regulatoren ifølge opfindelsen ikke i teknisk  
+
+ henseende afviger væsentligt fra, hvad der er kendt, jfr. skrivelse herfra af  
+
+ 15. november 1977. Specielt bemærkes, at der også ved det fremdragne GB  
+
+ patentskrift nr. 1.207.186 er tale om en programmerbar styreenhed.
+ Kravene omhandler derfor ikke en patenterbar opfindelse, jfr. patentlovens  
+
+ § 2, stk. 1.
+ Opfindelsen afviger fra den kendte, programmerbare regulator ved, at  
+
+ styreenheden er programmeret til at udøve en bestemt, men i kravene i øvrigt  
+
+ kun ubestemt antydet reguleringsalgoritme, hvilket som tidligere anført ikke  
+
+ har teknisk karakter og derfor ikke er patenterbarhedsbegrundende, jfr.  
+
+ patentlovens §1, stk. 1 og 2.
+ I skrivelse af 17. januar 1983 har klageren nedlagt påstand om, at den  
+
+ påklagede afgørelse omstødes, således at ansøgningen optages til fortsat  
+
+ behandling på grundlag af følgende krav:
+»1. Selvindstillende regulator til tilslutning til et system (10),  
+
+ som regulatoren (11) er bestemt til at regulere, hvor der i regulatoren  
+
+ indgår register- eller hukommelsesenheder til lagring af et antal aflæste  
+
+ størrelser, samt sammenstillingsorganer for forskellige i regulatoren opnåede  
+
+ størrelser med henblik på at styre regulatoren, k e n d e t e g n e t ved, at  
+
+ regulatoren (11) omfatter a) en første registermodul (1071) sluttet til systemets (10) udgang og  
+
+ forsynet med et organ til lagring af en sekvens af første størrelser (y(t)),  
+
+ som er en funktion af systemets udgangssignal (y*(tau)), b) en anden registermodul (1072) sluttet til systemets (10) udgang og  
+
+ forsynet med et organ til lagring af en sekvens af andre størrelser (u(t)),  
+
+ som er en funktion af systemets (10) indgangssignaler, dvs. for systemet  
+
+ bestemt styreindgreb (u*(tau)), samt c) beregningsorganer (103-105) koblet til en styreenhed (101) til styring  
+
+ og indkobling af disse beregningsorganer (103-105), hvilke beregningsorganer  
+
+ er indrettet til at afgive et til det andet signal (u(t)), dvs.  
+
+ indgangssignalet til systemet svarende signal, samt at den første og anden  
+
+ registermodul er indrettet til at lagre en begrænset del af tilførte værdier  
+
+ (y(t)) henholdsvis (u(t)), idet kun antallet af sådanne værdier, som kræves  
+
+ til beregning af det styreindgreb (u*(tau)), som svarer til den senest  
+
+ foreliggende udgangssignal (y*(tau)), lagres, og de øvrige udelades, d) samt at styreenheden (101) er således udformet, at den indeholder  
+
+ sammenstillingsorganer for indholdet i den første og anden registermodul  
+
+ (1071,1072) til beregning af funktioner af disse udgangssignaler, såsom  
+
+ produkt- og kvadratsummer, og dannelse af en heraf afhængig vektor til  
+
+ beregning af den anden størrelse (u(t)), ud fra hvilken styreindgrebet  
+
+ (u*(tau)) fås.
+ 2. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ regulatoren omfatter et antal lagre efter lagermoduler (10601-10616)  
+
+ indrettet til at mellemlagre information mellem forskellige beregningstrin  
+
+ ved beregning af den nævnte anden størrelse (u(t)) og til at huske ved hver  
+
+ reguleringscyklus opdateret information bestemt for den næste  
+
+ reguleringscyklus.
+ 3. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) er indrettet til at styre beregningen af den nævnte anden  
+
+ størrelse (u(t)) efter en rekursiv mindstekvadratmetode.
+ 4. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) er indrettet til at styre beregningen af den nævnte anden  
+
+ størrelse (u(t)) efter en stokastisk approximationsmetode.
+ 5. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ en i styreenheden (101) anbragt klokenhed er indrettet til at bestemme de  
+
+ tidspunkter, ved hvilke de nævnte første størrelser (y(t)) oplagres i den  
+
+ første registermodul (1071).
+ 6. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenhedens (101) handlingsprogram ikke kan ødelægges.
+ 7. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) er underordnet en ydre yderligere styreenhed.
+ 8. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ et beregningsorgan (105) omfatter en testfunktion til kontrol af, hvorvidt en  
+
+ beregnet anden størrelse (u(t)) falder indenfor et forudbestemt område og  
+
+ indrettet til, hvis dette ikke er tilfældet, at erstatte denne størrelse med  
+
+ en forudbestemt værdi.
+ 9. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) og beregningsorganerne (103-105) er indrettet til at  
+
+ beregne usikkerheder i beregning af den nævnte anden størrelse (u(t)) og  
+
+ samtidigt tage hensyn til denne usikkerhed ved beregning af denne størrelse  
+
+ (u(t)).
+ 10. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at styreenheden (101) er indrettet til at påføres en manuelt vurderet første  
+
+ overføringskoefficient (beta), idet styreenheden (101) er indrettet til i  
+
+ overensstemmelse med denne koefficient (beta) at skalere den første størrelse  
+
+ (y(t)), og at beregne en tredie størrelse (s(t) = y(t)/beta - u(t-k)), samt  
+
+ at sammenstille indholdet i den første og den anden registermodul (1071,1072)  
+
+ til en vektor (Ø(t-k)) og ved hjælp af produkt- og kvadratsummer samt  
+
+ funktioner af disse summer beregnede af den nævnte tredie størrelse (s(t)) og  
+
+ den nævnte vektor (Ø(t-k)) fremstillet af de nævnte beregningsorganer  
+
+ (103-105) at styre beregningen af den anden størrelse (u(t)).
+ 11. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at styreenheden (101) er indrettet til ved beregning af den anden størrelse  
+
+ (u(t)) at tage størst hensyn til den senest i tid foreliggende information  
+
+ (Ø(t-k), y(t) og u(t-k)) om systemet (10).
+ 12. Selvindstillende regulator ifølge krav 1, og hvor regulatoren er  
+
+ sluttet til et system med et indgangssignal og et udgangssignal, k e n d e t  
+
+ e g n e t ved, at styreenheden (101) er indrettet til at styre en i  
+
+ beregningsorganerne (103,104,105) udført beregning til explicit eller  
+
+ implicit bestemmelse af systemets løbetid.
+ 13. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at styreenheden (101) er indrettet til at styre en registrering af en sekvens  
+
+ af en yderligere regulator eller yderligere regulatorer beregnede og for  
+
+ systemet (10) bestemte styreindgreb i den anden registermodul (1072).
+ 14. Selvindstillende regulator ifølge krav 13, og hvor regulatoren er  
+
+ sluttet til et multivariabelt system, k e n d e t e g n e t ved, at  
+
+ styreenheden (101) er indrettet til at styre en i beregningsorganerne  
+
+ (103,104,105) udført beregning til implicit bestemmelse af et antal af  
+
+ systemets løbetider.
+ 15. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at styreenheden (101) er indrettet til at styre en registrering af en sekvens  
+
+ af signaler omfattende af ydre organer målt information om deterministiske  
+
+ forstyrrelser i den anden registermodul (1072).
+16. Selvindstillende regulator ifølge krav 1, k e n d e t e g n e t ved,  
+
+ at regulatoren omfatter et til denne sluttet organ indrettet til at måle,  
+
+ registrere og/eller indikere størrelsen af hver af en af regulatoren styret  
+
+ parameters (L(t)) tilpasning til systemet og indrettet til, når en sådan  
+
+ tilpasning falder udenfor et forudbestemt område, at indikere denne  
+
+ overskridelse, og at den sidstnævnte indikering omfatter information om et i  
+
+ systemet opstået ikke normalt driftsforhold.« Klageren har bl.a. anført:
+»Det fremdragne britiske patentskrift nr. 1.207.186, som  
+
+ patentdirektoratet har henvist til i sin afslagsskrivelse, viser en sædvanlig  
+
+ reguleringskreds for en proces 10, som er kompletteret med et  
+
+ identificeringsorgan 42 til opnåelse af børværdier, som efterhånden ændrer  
+
+ reguleringsværdierne.
+Nogen registre svarende til registrene i den  
+
+ foreliggende ansøgning findes ikke i den kendte konstruktion, og  
+
+ patentskriftet kan ikke ses at foregribe indholdet af de nu foreliggende  
+
+ patentkrav.
+ At der ikke er tale om datamatprogram eller andet, som ikke omfattes af  
+
+ patentloven, men at der er tale om patenterbar hardware fremgår af det  
+
+ foreslåede krav 1.« .....
+»Der er her således tale om et antal hardware dele, der sammenkobles  
+
+ på en bestemt måde.
+Til disse hardware dele er der føjet en vis  
+
+ funktionsbeskrivelse, for at man skal kunne forstå kravet bedre, men denne  
+
+ forklarende funktion indebærer jo ikke dermed, at hele anordningen bliver et  
+
+ datamatprogram.
+Det skulle således nu klart fremgå, at krav 1 definerer materiel, som er  
+
+ nyt, indebærer et teknisk fremskridt, og som ikke er nærliggende i forhold  
+
+ til teknikkens standpunkt.« Klageren har med skrivelse af 3. august 1984 fremsendt  
+
+ Patentbesvarsrattens afgørelse af 22. december 1980, hvorved Patentverkets  
+
+ afslag af den tilsvarende svenske ansøgning er stadfæstet.
+Denne afgørelse er  
+
+ indbragt for Regeringsratten.
+ Sagen har været behandlet i nævnets møde den 26. november 1984.
+For klageren mødte civilingeniør Harry Lindgaard og tekn.dr.
+Bo Egardt,  
+
+ Asea AB.
+ Det oplystes, at tilsvarende ansøgning foruden i Sverige, var afslået i  
+
+ Tyskland, medens patent var meddelt i Canada, England og Finland.
+ Klageren forelagde sagen.
+ Nævnet udtaler:
+ Det fremgår af beskrivelsen, at de overvejelser, der ligger til grund for  
+
+ opfindelsen, fortrinsvis er af matematisk karakter og kan realiseres ved  
+
+ programmering af et konventionelt databehandlingsanlæg.
+ Opbygningen af den i ansøgningen omhandlede selvindstillende regulator må  
+
+ anses for bestemt af den algoritme, hvorefter regulatoren arbejder, og der er  
+
+ ved denne opbygning alene gjort brug af kendte elementer, som er  
+
+ karakteriseret ved de funktioner, de skal udøve.
+ Herefter og iøvrigt i henhold til de af direktoratet anførte grunde  
+
+ tiltrædes det, at ansøgningen er afslået.
+hvorfor bestemmes:
+ Den påklagede afgørelse stadfæstes.
+J.
+Beyer.
+Grønning-Nielsen.
+Asger Nielsen.
+F.
+Niordson.
+S.A.
+Vørts.

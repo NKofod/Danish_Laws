@@ -1,0 +1,371 @@
+Gyldighedsområde Disse tekniske bestemmelser specificerer de tekniske krav og tilhørende  
+
+ prøvningsforskrifter som trådløse mikrofonanlæg til anvendelse i  
+
+ frekvensbåndet 800 - 820 MHz skal overholde, for at kunne typegodkendes.
+ Bestemmelserne gælder for mikrofonanlæg med fast monteret antenne samt for  
+
+ anlæg med udvendigt antennestik.
+ Hjemmelsgrundlaget for disse tekniske bestemmelser fremgår af § 7 i  
+
+ Ministeriet for Kommunikation og Turismes bekendtgørelse nr. 738 af 13.  
+
+ august 1994 om oprettelse og drift af visse radioanlæg.
+Ikrafttræden Disse tekniske bestemmelser træder i kraft 1. december 1994.
+Typegodkendelse Fremgangsmåden for opnåelse af typegodkendelse fremgår af § 8 i ovennævnte  
+
+ bekendtgørelse.
+For mikrofonanlæg med en sendeeffekt (effektivt udstrålet effekt) på under  
+
+ 1 mW vil Telestyrelsen i medfør af § 9 i ovennævnte bekendtgørelse ikke kræve  
+
+ typegodkendelse.
+Forinden markedsføring påbegyndes, skal der i dette tilfælde  
+
+ indsendes en erklæring til Telestyrelsen, om at samtlige anlæg af den  
+
+ pågældende type overholder kravene i disse tekniske bestemmelser.
+Tekniske krav De tekniske krav med tilhørende prøvningsforskrifter, som udstyret skal  
+
+ opfylde, fremgår af bilag 1 til disse tekniske bestemmelser.
+ Rekvirering af love, bekendtgørelser, standarder m.v.
+ Love, bekendtgørelser og tekniske bestemmelser som er nævnt i denne TB kan  
+
+ fås uden beregning, (hvis ikke andet er angivet ved TB'en i oversigten), ved  
+
+ henvendelse til Telestyrelsen, Holsteinsgade 63, 2100 København Ø, tlf:  
+
+ 35430333, fax: 35431434.
+ETSI dokumenter ((I-)ETS'er og TBR'er samt NET-standarder) kan købes hos  
+
+ Telestyrelsen, ITU rekommandationer m.v. kan købes direkte hos ITU, Place des Nations,  
+
+ CH-1211 Geneve 20, tlf.: +41 22 730 5111, fax: +41 22 730 5194 eller +41 22  
+
+ 733 7256 eller eventuelt gennem Telestyrelsen.
+ Radiorelaterede rekommandationer herunder, ERC Decisons,  
+
+ Radiocommunication Reports, Report Forms og Application Forms,  
+
+ Recommendations on Radiocommunications kan købes hos: ERO, European  
+
+ Radiocommunications Office, Midtermolen 1, 2100 København Ø, tlf: 35250300,  
+
+ fax: 35250330. For yderligere information henvises til ERO's hjemmeside på  
+
+ internettet (www.ero.dk).
+ ISO/CEN/CENELEC/IEC/DS standarder kan købes hos Dansk Standard,  
+
+ Kollegievej 6, 2920 Charlottenlund, tlf: 39966101, fax: 39966102.
+ Bilag 1 til TB 94 057 Tekniske bestemmelser for trådløse mikrofonanlæg  
+
+ til anvendelse i frekvensbåndet 800 - 820 MHz.
+1. ALMINDELIGE KRAV 1.1 Definition Trådløse mikrofonanlæg er radioanlæg som over korte afstande bruger envejs  
+
+ radioforbindelse til overføring af akustiske signaler via en bærbar sender  
+
+ til en eller flere modtagere.
+1.2 Mekanisk og elektrisk design Reguleringer til justering af modulationen må ikke være tilgængelige for  
+
+ brugeren af anlægget.
+1.3 Enkeltkanal-anlæg Som prøvningskanal kan vælges enhver af kanalerne inden for anlæggets  
+
+ specificerede frekvensområde.
+1.4 Flerkanal-anlæg Prøvningen foretages på 3 kanaler, der vælges med en nær den nedre grænse,  
+
+ en omtrent i midten og en nær den øvre grænse af det frekvensområde inden for  
+
+ hvilket, der kan skiftes kanaler.
+1.5 Kunstantenne Såfremt anlæggets sender er forsynet med udvendigt antennestik, foretages  
+
+ prøvningen med en kunstantenne tilsluttet dette stik.
+Kunstantennen består af  
+
+ en ohmsk afskærmet belastning på 50 Omega.
+1.6 Testfixtur For sendere uden udvendige antennestik (integreret antenne) anvendes  
+
+ mellem senderen og prøvningsudstyret en testfixtur, hvortil senderens antenne  
+
+ kobles elektromagnetisk.
+Testfixturen skal indrettes således at koblingstabet  
+
+ mellem sendeantennen og testfixturens prøveterminal maximalt udgør 30 dB ved  
+
+ alle fre kvenser mellem 30 MHz og 4 GHz.Testfixturen må ikke indeholde  
+
+ ulineære elementer.
+2. PRØVNINGSBETINGELSER 2.1 Normale og særlige prøvningsbetingelser Prøvningsmålingerne foretages under normale prøvningsbetingelser samt,  
+
+ hvor det er nævnt, under særlige prøvningsbetingelser.
+2.2 Spændingsforsyning Under prøvningsmålingerne forsynes anlægget fra en udvendig  
+
+ spændingskilde, der kan levere forsyningsspændinger som beskrevet i punkt  
+
+ 2.4.2.1 og 2.4.2.2. Spændingsforsyningens impedans skal være så lav, at dens  
+
+ indflydelse på måleresultaterne er uden betydning.
+ Ved anlæg for indbyggede batterier, tilsluttes spændingskilden så tæt som  
+
+ muligt ved batteriklemmerne.
+ Hvis anlægget er monteret med fast forbundet fødekabel, måles  
+
+ forsyningsspændingen, hvor dette kabel er tilsluttet anlægget.
+ Under prøvningen holdes forsyningsspændingen inden for +/-3% af den  
+
+ nominelle værdi.
+ Fabrikanten opgiver de nominelle forsyningsspændinger, anlægget er  
+
+ beregnet for.
+2.3 Normale prøvningsbetingelser 2.3.1 Normal temperatur og fugtighed Prøvning under normale prøvningsbetingelser skal foretages ved en  
+
+ omgivelsestemperaturer mellem + 15 grader C og + 35 grader C og en relativ  
+
+ luftfugtighed mellem 5% og 75%.
+2.3.2 Forsyningsspændinger ved prøvning under normale  
+
+ prøvningsbetingelser 2.3.2.1 Forsyning fra nettet Ved prøvning under normale prøvningsbetingelser tilføres udstyr beregnet  
+
+ for tilslutning til det almindelige forsyningsnet en forsyningsspænding lig  
+
+ forsyningsnettets nominelle spænding med frekvensen 50 +/- 1 Hz.
+2.3.2.2 Andre forsyningsspændinger For udstyr, der benytter andre typer spændingsforsyninger end ovennævnte,  
+
+ f.eks. primærbatterier (ikke-genopladelige batterier), opgives  
+
+ prøvningsspændingen af fabrikanten.
+2.4 Særlige prøvningsbetingelser 2.4.1 Temperaturer ved prøvning under særlige betingelser Ved prøvning under særlige betingelser foretages målingerne i  
+
+ overensstemmelse med punkt 2.5.1 ved temperaturerne +5 grader C og +40 grader  
+
+ C.
+2.4.2 Forsyningsspænding ved prøvning under særlige betingelser 2.4.2.1 Forsyning fra nettet For udstyr, der er beregnet for tilslutning til det normale forsyningsnet,  
+
+ vil prøvningsspændingerne under særlige betingelser være forsyningsnettets  
+
+ nominelle spænding +/- 10% med frekvensen 50 +/- 1 Hz.
+2.4.2.2 Andre forsyningsspændinger For udstyr, der benytter andre typer spændingsforsyninger end ovennævnte,  
+
+ f.eks. primærbatterier (ikke-genopladelige batterier) vil  
+
+ forsyningsspændingen ved prøvning under særlige prøvningsbetingelser være:
+ 1. For almindelige tør-batterier og lithium-batterier:  
+
+ 0,85 gange den nominelle batterispænding.
+ 2. For kviksølv-batterier: 0,9 gange den nominelle  
+
+ batterispænding.
+ 3. For andre typer batterier: Minimumspændingen  
+
+ opgives af producenten.
+2.5 Temperaturprøver 2.5.1 Fremgangsmåde Før hver prøvning påbegyndes sørges for, at anlægget er i termisk ligevægt  
+
+ ved den ønskede temperatur i klimakammeret, idet den termiske ligevægt sikres  
+
+ opnået enten gennem konstatering ved målinger eller ved, at der forløber  
+
+ mindst 1 time, før prøvningen indledes.
+ Anlægget holdes afbrudt, indtil den termiske ligevægt er opnået.
+3. KRAV TIL SENDEREN 3.1 Frekvenser Kun frekvensområdet 800 - 820 MHz må benyttes.
+Frekvensområdet er opdelt i  
+
+ 198 kanaler med 100 kHz kanalafstand.
+Laveste frekvens er 800,100 MHz og  
+
+ højeste frekvens er 819,900 MHz.
+3.2 Modulationstyper Anlægget skal være indrettet for frekvens- eller fasemodulation, sendetype  
+
+ F3E eller G3E.
+3.3 Syntetisator- og PLL-systemer Hvis sendefrekvensen styres af frekvenssyntetisator- og/eller  
+
+ PLL-kredsløb, må senderen ikke kunne aktiveres, dersom synkroniseringen til  
+
+ disse kredsløb mangler.
+3.4 Frekvensafvigelse 3.4.1 Definition Senderens frekvensafvigelse er differencen mellem den målte  
+
+ bærebølgefrekvens og dennes nominelle værdi.
+3.4.2 Målemetode Senderen forbindes via et passende dæmpeled til en frekvenstæller og den  
+
+ umodulerede sendefrekvens måles Målingerne foretages under såvel normale som særlige prøvningsbetingelser.
+3.4.3 Krav Senderens frekvensafvigelse må ikke være større end +/- 10 kHz.
+3.5 Nødvendig båndbredde 3.5.1 Generelt Den frekvens, som ved et lydtryksniveau på 104 dBA (23010-5 Pascal)  
+
+ medfører det største frekvenssving, skal angives af producenten sammen med  
+
+ den højeste tonefrekvens, som anlægget kan overføre.
+Anlægget skal kunne  
+
+ overføre tonefrekvenser op til mindst 10 kHz.
+3.5.2 Målemetode Mikrofonen tilføres enkeltvis de i pkt. 3.5.1 angivne tonefrekvenser med  
+
+ et lydtryk på 104 dBA (23010exp-5 Pascal), og frekvenssvinget måles.
+Den nødvendige båndbredde beregnes som 2 gange summen af  
+
+ modulationsfrekvensen og frekvenssvinget.
+Beregningen foretages ved begge  
+
+ tonefrekvenser.
+3.5.3 Krav Den nødvendige båndbredde skal i begge tilfælde være mindst 60 kHz og  
+
+ højst 180 kHz.
+3.6 Bærebølgeeffekt 3.6.1 Definition Som mål for senderens bærebølgeeffekt anvendes her den effekt, som skal  
+
+ tilføres en halvbølgedipol for at få samme feltstyrke i den retning, hvor  
+
+ feltstyrken fra senderen er størst under nærmere specificerede  
+
+ målebetingelser.
+Denne effekt kaldes senderens effektivt udstrålede effekt  
+
+ (ERP).
+3.6.2 Målemetode Målepladsen skal opfylde kravene under punkt 5.1. Måleobjektet placeres på  
+
+ den isolerende understøtning på følgende måde:
+Senderen skal være umoduleret.
+Målemodtageren afstemmes til senderens  
+
+ bærebølgefrekvens og indstilles til vertikal polarisation.
+Ved variation af  
+
+ måleantennens højde mellem 1 og 4 meter findes den højde, hvor størst signal  
+
+ opnås.
+ Senderen drejes 360 grader, og det maksimale signal noteres.
+ Senderen ombyttes med substitutionsantennen omtalt under punkt 5.3, og  
+
+ måleantennens højde varieres for igen at sikre maksimalt signal.  
+
+ Signalniveauet på substitutionsantennens klemmer justeres indtil samme udslag  
+
+ som tidligere - subsidiært et udslag, der står i et kendt forhold til dette -  
+
+ opnås.
+ Senderens bærebølgeeffekt er da lig med den tilførte effekt til  
+
+ substitutionsantennen - henholdsvis den tilførte effekt korrigeret med  
+
+ ovennævnte kendte forhold.
+3.6.3 Krav Senderens effektivt udstrålede effekt må ikke overstige 20 mW.
+3.7 Udstråling i nabokanalen 3.7.1 Definition Udstrålingen i nabokanalen er den udstråling, som under nærmere  
+
+ specificerede modulationsforhold falder i nabokanalen.
+3.7.2 Målemetode Senderen kobles elektromagnetisk til målemodtageren f.eks. ved brug af en  
+
+ »test-jig« eller en antenne monteret på målemodtagerens indgang.
+Herefter moduleres senderen med den tonefrekvens (pkt. 3.5.1), der giver  
+
+ det største frekvenssving og med et lydtryk på 104 dBA (23010exp-5 Pascal).
+ Med umoduleret sender måles størrelsen af signalet på bærebølgefrekvensen.  
+
+ Dernæst måles størrelsen af den uønskede udstråling i nabokanalen (fra  
+
+ senderens bærebølgefrekvens + 150 kHz til senderens bærebølgefrekvens + 450  
+
+ kHz). Forholdet mellem størrelsen af signalet på bærebølgefrekvensen og  
+
+ størrelsen af den uønskede udstråling bestemmes.
+ Målingen gentages for den nedre nabokanal.
+3.7.3 Krav Størrelsen af de enkelte komponenter i den uønskede udstråling skal være  
+
+ mindst 50 dB under niveauet for bærebølgeeffekten.
+3.8 Uønsket udstråling 3.8.1 Definition Uønsket udstråling er udstråling på andre frekvenser end  
+
+ bærebølgefrekvensen og de sidebånd, der fremkommer ved normal modulation.
+3.8.2 Målemetode På en måleplads som opfylder kravene i punkt 5.1 placeres den umodulerede  
+
+ sender på en 1,5 meter høj isolerende understøtning.
+ Der måles over frekvensområdet 30 MHz - 4000 MHz undtagen i den anvendte  
+
+ kanal og dennes nabokanaler.
+Ved hver frekvens, hvor udstråling registreres, drejes måleobjektet indtil  
+
+ maximum signal opnås.
+Den effektivt udstrålede effekt ved hver af disse  
+
+ frekvenser skal måles ved brug af substitutionsantennen.
+ Målingen udføres med såvel vandret som lodret polariseret måleantenne.
+3.8.3 Krav Effekten af uønsket udstråling må ikke overstige 250 nW på frekvenser  
+
+ under 1000 MHz og 1 microW på frekvenser over 1000 MHz.
+4 KRAV TIL MODTAGEREN 4.1 Uønsket udstråling fra modtageren 4.1.1 Definition Al udstråling fra modtageren er, uanset frekvens, uønsket udstråling.
+4.1.2 Målemetode For modtagere forsynet med et udvendigt antennestik, måles den uønskede  
+
+ udstråling på antennestikket med en målemodtager eller en spektrumanalysator  
+
+ forbundet til modtagerens antenneklemmer.
+Der måles over en impedans på 50  
+
+ Omega i frekvensområdet 100 kHz - 4 GHz.
+ For modtagere med fast monteret antenne måles den uønskede udstråling som  
+
+ anført i pkt. 5.1 og 3.5.2.
+4.1.3 Krav Effekten af den uønskede udstråling fra modtageren må ikke overstige 2 nW  
+
+ på frekvenser under 1000 MHz og 20 nW på frekvenser over 1000 MHz.
+5 MÅLEPLADS OG MÅLEOPSTILLING FOR MÅLING AF UDSTRÅLET EFFEKT 5.1 Måleplads Målepladsen skal være beliggende på et rimeligt plant areal.
+På  
+
+ målepladsen skal der findes et ledende jordplan med en diameter på mindst 5  
+
+ meter, i hvis midtpunkt der anbringes en isolerende understøtning, hvorpå  
+
+ måleobjektet placeres.
+Understøtningen skal kunne drejes 360 grader i det  
+
+ horisontale plan.
+Målepladsen skal være så stor, at der kan anbringes en måleantenne i en  
+
+ afstand på mindst en halv bølgelængde eller 3 meter fra måleobjektet.
+Den  
+
+ største af de to værdier anvendes.
+Den benyttede afstand skal fremgå af  
+
+ målerapporten.
+ Det skal sikres, at jordreflektioner og refleksioner fra uvedkommende  
+
+ objekter i nærheden af målepladsen ikke forstyrrer målingerne.
+5.2 Måleantenne Måleantennen benyttes til at bestemme udstrålingen fra såvel måleobjektet  
+
+ som fra substitutionsantennen.
+Måleantennen, der skal kunne orienteres såvel  
+
+ vandret som lodret, anbringes på en mast, hvor dens højde over jordplanet kan  
+
+ varieres mellem 1 og 4 meter.
+Der bør fortrinsvis anvendes antenner med  
+
+ udtalt retningsvirkning.
+Størrelsen af måleantennen i den retning, der  
+
+ bestemmes af måleantennen og måleobjektet må højst være 20% af måleafstanden.
+Måleantennen forbindes til en målemodtager.
+Denne behøver ikke at være  
+
+ absolut kalibreret, men skal være i stand til at måle relative  
+
+ signalniveauer.
+5.3 Substitutionsantenne Substitutionsantennen skal være en halvbølgedipol, afstemt til  
+
+ målefrekvensen, eller en forkortet dipol kalibreret i forhold til  
+
+ halvbølgedipol.
+Dipolen placeres normalt således, at dens midtpunkt er  
+
+ sammenfaldende med måleobjektets referencepunkt.
+For måleobjekter, hvor antennen er monteret inde i kabinettet, er  
+
+ volumencentret referencepunkt.
+I alle andre tilfælde er punktet, hvor den  
+
+ udvendige antenne er forbundet til kabinettet, referencepunkt.
+ Afstanden mellem dipolens nedre ende og jorden skal være mindst 30 cm.
+ Substitutionsantennen forbindes til en målesender afstemt til  
+
+ målefrekvensen under anvendelse af egnede impedanstilpasnings- og  
+
+ balanceringsled.
+ (* 1) I disse tekniske bestemmelser fastsættes af hensyn til den effektive  
+
+ udnyttelse af radiofrekvensspektret visse krav med relation til anlæggenes  
+
+ elektromagnetiske kompatibilitet.

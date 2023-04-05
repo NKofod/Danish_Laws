@@ -1,0 +1,4632 @@
+B.1 Forslagsmodellerne B.1.1 Forslagsberegningen For de mest almindelige ejendomskategoriers vedkommende  
+
+ laver told- og skatteforvaltningen et maskinelt beregnet forslag til  
+
+ ansættelse af ejendomsværdi og grundværdi.
+Erhververe af fast ejendom skal give oplysning om ejendomsoverdragelsen  
+
+ på et særligt indberetningsskema i forbindelse med, at  
+
+ overdragelsesdokumentet indleveres til kommunens ejendomsskattekontor til  
+
+ påtegning om ejendomsværdien, jf.
+VUL § 47 A, stk. 1. Oplysningerne på  
+
+ indberetningsskemaet bruges i forbindelse med opkrævningen af de kommunale  
+
+ ejendomsskatter og ved påligningen af ejendomsværdiskatten.   
+
+ Ejendomsskattekontorerne videresender indberetningsskemaerne til told- og  
+
+ skatteforvaltningen, jf.
+VUL § 47 A, stk. 3.
+Told- og skatteforvaltningen registrerer de indberettede  
+
+ salgsoplysninger  i Statens Salgs- og Vurderingsregister (SVUR).  
+
+ Told- og skatteforvaltningen offentliggør hvert halve år en salgsstatistik  
+
+ omfattende alle "frie" salg, dvs. salg mellem uafhængige parter.
+Fra og  
+
+ med 1993 er der foruden handler mellem privatpersoner medtaget salg, hvor  
+
+ den ene eller begge parter i handlen er en kommune eller en juridisk  
+
+ person.
+Familieoverdragelser og salg på tvangsauktion holdes ude af  
+
+ statistikken.
+Ejendomsstamregisteret  indeholder oplysninger  
+
+ til identifikation af landets faste ejendomme.
+Ejendommenes  
+
+ matrikelforhold, ejerforhold, planforhold og vurdering fremgår af  
+
+ registeret.
+Ved registreringen i ejendomsstamregisteret tildeles  
+
+ ejendommen et ejendomsnummer.
+Den overordnede registreringsenhed er  
+
+ vurderingsenheden, se  
+
+ A.3.1 ,  
+
+ men ejendomsstamregisteret omfatter også ikke-vurderingspligtige  
+
+ ejendomme, idet registeret anvendes af kommunerne i forbindelse med  
+
+ opkrævningen af afgifter for vand, renovation etc.
+ Statens Salgs- og Vurderingsregister (SVUR) henter desuden  
+
+ oplysninger fra Bygnings- og Boligregisteret (BBR).
+Bygnings- og Boligregisteret (BBR)  blev  
+
+ oprettet i 1976 i medfør af loven om bygnings- og boligregistrering.  
+
+ Registeret omfatter landets bebyggede ejendomme og indeholder oplysninger  
+
+ om den aktuelle status for bygningsbestanden.
+Ejendommene identificeres i  
+
+ Bygnings- og Boligregisteret (BBR) ved det ejendomsnummer, de er  
+
+ tildelt i ejendomsstamregisteret.
+Statens Salgs- og  
+
+ Vurderingsregister (SVUR) henter oplysninger om bygningernes opførelsesår,  
+
+ størrelse og indretning fra Bygnings- og Boligregisteret (BBR).
+Told- og skatteforvaltningen bearbejder  
+
+ statistisk salgsoplysningerne.
+På grundlag af foreløbige analyser af  
+
+ oplysningerne opstilles der en beregningsmodel for hver af de under  
+
+ B.2  
+
+ omtalte kategorier  
+
+ forslagsejendomme . Analyserne  
+
+ tager udgangspunkt i de solgte ejendommes bygningsværdi, idet salgssummen  
+
+ reduceres med ejendommens senest ansatte grundværdi.
+Bygningsværdien  
+
+ sammenholdes med BBR's oplysninger om ejendommen.
+Ved hjælp af en  
+
+ metode, der kaldes multipel regressionsanalyse, findes det forhold, hvori  
+
+ beliggenheden og bygningernes opførelsesår, størrelse og indretning  
+
+ påvirker salgsprisen.
+Modellerne til beregning af forslag for parcelhuse, rækkehuse og  
+
+ sommerhuse har grundlæggende en fælles struktur.
+Efter disse modeller  
+
+ sker beregningen i 5 trin:
+Forslagsmodellerne opstilles som led i forberedelsen af de  
+
+ almindelige vurderinger.
+Modellerne opstilles, inden  
+
+ vurderingsniveauet fastlægges.
+Det sker på grundlag af analyser, som er  
+
+ foretaget op til et år forud for vurderingstidspunktet, og omfatter  
+
+ relativt færre salg end dem, der indgår ved fastlæggelsen af  
+
+ vurderingsniveauet, jf. nedenfor.
+Den praktiske betydning af denne  
+
+ tidsmæssige forskydning er imidlertid meget beskeden.
+Forslagsberegningen foretages med udgangspunkt i  
+
+ vurderingsniveauer, som fastlægges områdevis.
+Det statistiske grundlag for  
+
+ niveaufastlæggelsen udgøres af alle frie salg, der har fundet sted i  
+
+ perioden fra begyndelsen af oktober 4 år forud for vurderingsåret til og  
+
+ med første halvår i vurderingsåret.
+De indberettede salgsoplysninger  
+
+ bearbejdes således, at de bliver indbyrdes sammenlignelige.
+Dels  
+
+ omregnes de nominelle salgspriser til kontante salgspriser, dels  
+
+ indekseres salgspriserne til det prisniveau, der kendes ved  
+
+ indsamlingsperiodens udløb.
+Ved indekseringen tages der hensyn til  
+
+ geografisk betingede forskelle i prisudviklingen.
+Ved de almindelige vurderinger er det prisforholdene pr.  
+
+ 1. oktober i vurderingsåret, der skal lægges til grund ved  
+
+ vurderingen, jf.
+VUL § 2, se  
+
+ A.3.1 .  
+
+ For at leve op til dette krav må prisniveauet fremskrives til  
+
+ 1. oktober på grundlag af en prognose over prisudviklingen i de  
+
+ sidste måneder op til 1. oktober i vurderingsåret.
+Skatterådet godkender  
+
+ den anvendte fremskrivning af prisniveauet, jf.
+VUL § 39, stk. 3.
+B.1.1.1 Det vægtede etageareal På det første trin af forslagsberegningen fastlægges et indbyrdes  
+
+ værdimæssigt forhold for et standardhus mellem forskellige arealtyper,  
+
+ således som dette forhold afspejler sig i salgsstatistikken.
+Ved  
+
+ vægtningen anvendes værdien af 1 kvadratmeter i stueetagen som målestok  
+
+ for hele arealet.
+F. eks. vægtes 1 kvadratmeter udnyttet tagetage  
+
+ med 80 pct., når ejendommen ligger i hovedstadsområdet (jf.  
+
+ nedenfor), hvilket vil sige, at 75  
+
+ m2 tagetage indgår  
+
+ i husets samlede,  
+
+ vægtede etageareal  med 60  
+
+ m2.
+ Det vægtede etageareal fremtræder som en angivelse i kvadratmeter af  
+
+ den talmæssige størrelse, som normtallet (se  
+
+ B.1.1.2 )  
+
+ ganges med, når bygningsværdien skal beregnes.
+Ved den almindelige vurdering pr. 1. januar 2001 blev  
+
+ vægtningen ændret i forhold til tidligere.
+Der blev inddraget  
+
+ flere forskellige arealtyper.
+Visse rum med begrænset anvendelsesmulighed  
+
+ bliver nu vægtet, selv om de er bygget sammen med stueetagen.
+Det  
+
+ gælder f. eks. udestuer og indbyggede garager.
+Se  
+
+ B.2.1.1 .
+Desuden er der blevet indbygget en geografisk differentiering i  
+
+ modellen, dog kun for så vidt angår parcel- og rækkehuse.
+Herefter er  
+
+ landet blevet opdelt i:
+ De bagved liggende statistiske analyser har ikke givet grundlag for en  
+
+ tilsvarende opdeling for sommerhuse.
+B.1.1.2 Normtal På det andet trin af beregningen fastsættes et såkaldt  
+
+ normtal  for hver af kategorierne enfamiliehuse, rækkehuse m.  
+
+ v., sommerhuse og ejerlejligheder, der sammen med grundværdierne skal  
+
+ udtrykke ejendomsværdiniveauet i området.
+Det fremtræder som en angivelse  
+
+ i kroner af bygningsværdien pr. kvadratmeter vægtet etageareal i et  
+
+ "  
+
+ standardhus ". Det generelle normtal beregnes på  
+
+ grundlag af alle frie salg, der har fundet sted i hele landet i  
+
+ indsamlingsperioden, jf. indledningen til dette afsnit.
+For  
+
+ ejerlejligheder se yderligere  
+
+ B.1.1.6 .
+Standardhuset anvendes som fælles målestok overalt i  
+
+ landet.
+Afviger en ejendoms bygninger fra standardhusets i henseende  
+
+ til alder, størrelse eller kvalitet, forhøjes eller nedsættes  
+
+ bygningsværdien med udgangspunkt i normtallet.
+I forslagssystemet  
+
+ opdeles salgene efter de egenskaber ved ejendommene, der er  
+
+ registreret i Bygnings- og Boligregisteret (BBR). For hver af  
+
+ kategorierne enfamiliehuse, rækkehuse m. v., sommerhuse og ejerlejligheder  
+
+ analyseres forholdet mellem priser og egenskaber.
+På grundlag heraf  
+
+ udmåles størrelsen af de tillæg til og fradrag i bygningsværdien, som  
+
+ afvigelserne betinger.
+Det er kun egenskaber, som er registreret i BBR, der kan  
+
+ inddrages i analyserne.
+Bygningernes almindelige  
+
+ vedligeholdelsestilstand registreres ikke.
+Der må derfor korrigeres  
+
+ for dette og andre ikke registrerede forhold under told- og  
+
+ skatteforvaltningens gennemgang af ansættelserne, se  
+
+ B.1.1.5  
+
+ og  
+
+ B.1.2 .
+Med gennemførelsen af denne del af analysen er den første fase af  
+
+ forslagsberegningen afsluttet.
+Resten af processen i forslagsberegningerne  
+
+ drejer sig om at beregne det lokale vurderingsniveau.
+Her inddrages de  
+
+ allerseneste salg samt de grundværdier, som told- og skatteforvaltningen  
+
+ påregner at ansætte, nemlig resultaterne af henholdsvis 1. og 2.  
+
+ grundværdiberegning, se  
+
+ C.2.1.1 .
+B.1.1.3 Lokalkorrektion Grundværdierne opfanger kun en del af den forskel i værdien, der kan  
+
+ henføres til den geografiske beliggenhed.
+Men som nævnt i forbindelse med  
+
+ grundværdianalyserne (  
+
+ C.2.2 )  
+
+ afhænger også bygningernes værdi af beliggenheden.
+Den tredie del af  
+
+ analysen fastlægger derfor, hvor meget det generelle normtal skal  
+
+ korrigeres under hensyn til ejendommens beliggenhed.
+Det generelle normtal er relateret til standardhuset.
+Ved at indregne  
+
+ tillæg og nedslag på de solgte ejendomme i et område, kan man korrigere  
+
+ dette til et "generelt normtal" for lokalområdet, hvor der er taget hensyn  
+
+ til de solgte ejendommes individuelle karakter i form af opførelsesår,  
+
+ materialer, indretning m.v.  
+
+ Lokalkorrektionen  
+
+ fremkommer som differencen mellem dette "generelle normtal" og salgsprisen  
+
+ for de samme solgte ejendomme pr. kvadratmeter vægtet etageareal.
+ Lokalkorrektionen samler således op på niveaumæssige differencer, som  
+
+ der ikke er taget hensyn til i henholdsvis grundværdiansættelsen eller ved  
+
+ forslagsmodelberegningen ud fra det generelle normtal.
+To forhold er værd at bemærke vedrørende forholdet mellem grundværdi og  
+
+ bygningsværdi/forskelsværdi.
+For det første er sikkerheden af beregningen  
+
+ af den lokale korrektion af normtallet meget afhængig af, hvor mange salg  
+
+ der i det givne område har været til rådighed for beregningen.
+Jo færre  
+
+ salg, desto mere usikker er den lokale korrektion, og jo vigtigere bliver  
+
+ told- og skatteforvaltningens stillingtagen til, hvorvidt det beregnede  
+
+ niveau svarer til handelsprisniveauet i området, se  
+
+ B.1.2 .
+Det andet vigtige forhold er sammenhængen mellem grundværdierne og  
+
+ bygningsværdierne.
+Hvis grundværdierne i et område er blevet sat for lavt,  
+
+ vil det få til følge, at der i dette område beregnes en højere lokal  
+
+ korrektion end i de omkringliggende områder.
+Der vil som regel være den  
+
+ sammenhæng mellem grundværdi og bygningsværdi, at områder med høje  
+
+ grundværdier har højere bygningsværdier end områder med lave grundværdier.
+ Den endelige beregning af vurderingsforslaget, som gennemføres ved, at  
+
+ bygningsværdien beregnes og lægges sammen med grundværdien, sker først  
+
+ efter, at der er truffet endelig beslutning om vurderingsniveauet, dvs. om  
+
+ fastlæggelsen af det lokale normtal.
+B.1.1.4 Usikkerhedskoder Vurderingsforslaget beregnes på baggrund af registeroplysningerne  
+
+ alene.
+Til hjælp for told- og skatteforvaltningen bliver der  
+
+ opsat et sæt usikkerhedskoder, der beskriver forskellige  
+
+ uregelmæssigheder, mangler eller andre forhold, som kan forudses at kunne  
+
+ have betydning for kvaliteten og bedømmelsen af forslagsresultatet.
+Usikkerhedskoderne er inddelt i tre grupper.
+En gruppe af koder angiver  
+
+ årsagen til en helt manglende beregning af forslag.
+En anden gruppe af  
+
+ usikkerhedskoder angiver, at en af BBR-oplysningerne har manglet, og at  
+
+ systemet derfor har indsat en værdi.
+En tredje gruppe angiver, at en  
+
+ sammenligning mellem registeroplysninger viser, at denne ejendom er  
+
+ speciel på den ene eller den anden måde, og at forslaget derfor er noget  
+
+ usikkert.
+Usikkerhedskoderne angiver kun de usikkerhedsmomenter, som  
+
+ knytter sig til de registrerede forhold vedrørende ejendommen.
+B.1.1.5 Individuelle tillæg og  
+
+ nedslag Det forslag til vurdering, som er beregnet på grundlag  
+
+ af registeroplysningerne, giver for de fleste ejendommes  
+
+ vedkommende en tilstrækkeligt nøjagtig angivelse af handelsværdien på  
+
+ vurderingstidspunktet.
+Ca. 75 pct. af de ejendomme, der beregnes forslag  
+
+ til ejendomsværdi for er hidtil blevet ansat i henhold til forslaget.
+For  
+
+ de sidste 25 pct. har told- og skatteforvaltningen hidtil skønnet, at  
+
+ der er individuelle forhold, som kan begrunde en justering af  
+
+ forslaget.
+En række forhold, som kan være af væsentlig betydning for  
+
+ ejendommens handelsværdi og dermed for vurderingen, fremgår ikke af  
+
+ registrene.
+Det gælder f. eks.:
+Told- og skatteforvaltningen fastsætter størrelsen af individuelle  
+
+ tillæg til og nedslag i de beregnede forslag til vurdering og formulerer  
+
+ en begrundelse for hver enkelt justering.
+De af told- og  
+
+ skatteforvaltningen godkendte tillæg og nedslag overføres til næste  
+
+ vurdering, hvor de indgår som korrektioner af de nye forslag til  
+
+ vurdering.
+På denne måde indarbejdes told- og skatteforvaltningens  
+
+ erfaringer i forslagsberegningen.
+Som udgangspunkt overføres tillæg og  
+
+ nedslag med uændrede beløb, så told- og skatteforvaltningen skal tage  
+
+ stilling til en eventuel forhøjelse eller nedsættelse.
+De individuelle begrundelser påføres vurderingsmeddelelsen under  
+
+ punktet "særlige forhold", som følger lige efter den rent registerbaserede  
+
+ forslagsberegning.
+Ejeren kan på denne måde se, hvilke forhold told-  
+
+ og skatteforvaltningen har lagt vægt på ved justeringen af det beregnede  
+
+ forslag til vurdering.
+B.1.1.6 Andre modeller Modellen for  
+
+ etageejerlejligheder        adskiller sig fra de øvrige ved, at normtallet  
+
+ inkluderer både  
+
+ bygningsværdien og beliggenhedsværdien.
+Grundværdien indgår således ikke i  
+
+ beregningen af forslaget til ejendomsværdi for denne ejendomstype, idet  
+
+ normtallene direkte angiver ejendomsværdi pr. kvadratmeter.
+Når  
+
+ grundværdien til ejerlejligheder ikke på samme måde som for de andre  
+
+ modeller kan inddrages direkte, skyldes det, at grundværdien ikke er ansat  
+
+ individuelt for den enkelte ejendom (ejerlejlighed). Grundværdien sættes  
+
+ for moderejendommen og fordeles alene på grundlag af lejlighedernes  
+
+ indbyrdes fordelingstal.
+Modellen for rækkehuse anvendes i modificeret eller  
+
+ tillempet form til beregning af forslag for sjældnere forekommende  
+
+ ejendomstyper som to- og trefamilieshuse, dobbelthuse samt de samme  
+
+ ejendomstyper udstykket i ejerlejligheder.
+Forslagsresultaterne anses for  
+
+ at være mindre sikre på enkeltejendomme end for de fire ovenfor beskrevne  
+
+ ejendomstyper, da forslagsniveauet beregnes ud fra rækkehusmodellen, og  
+
+ det er som følge af det relativt begrænsede salgsmateriale ikke ubetinget  
+
+ sikkert, at der gælder de samme efterspørgselsparametre som for  
+
+ rækkehuse.
+Støttede  
+
+ andelsboliger  får beregnet et  
+
+ vurderingsforslag ud fra en fremskrivning af tidligere års vurdering med  
+
+ udviklingen i byggeomkostningsindekset.
+Der vil derfor kun kunne beregnes  
+
+ forslag for andelsboliger, der tidligere er blevet vurderet, mens  
+
+ nyopførte andelsboliger første gang må vurderes ud fra de oplyste  
+
+ byggeomkostninger.
+ Se også  
+
+ B.2.2  og  
+
+ B.3.1.1.1.
+B.1.2 Told- og skatteforvaltningens arbejde med  
+
+ forslagsejendommene Som førsteinstansforvaltning vurderer told- og  
+
+ skatteforvaltningen alle vurderingspligtige ejendomme i Danmark.
+ Told- og skatteforvaltningen øver sin indsats ad to  
+
+ arbejdsgange, først i forbindelse med fastlæggelse af vurderingsniveauet,  
+
+ dernæst ved den almindelige gennemgang af de enkelte ejendomme.
+Med udgangspunkt i inddelingen i grundværdiområder kan told-  
+
+ og skatteforvaltningen inddele kommunerne i  
+
+ lokalkorrektionsområder  bestående af et eller flere  
+
+ grundværdiområder.
+Told- og skatteforvaltningen tilstræber, at de  
+
+ dyreste og billigste områder i kommunen udskilles til  
+
+ lokalkorrektionsområder.
+For at der kan fastsættes et niveau for et lokalkorrektionsområde, skal  
+
+ der mindst have fundet ét salg sted inden for den periode, der indgår i  
+
+ beregningen, se  
+
+ B.1.1 .  
+
+ Som almindelig regel bør et lokalkorrektionsområde imidlertid repræsentere  
+
+ et sådant antal salg, at der kan beregnes et statistisk forsvarligt  
+
+ vurderingsniveau på grundlag af dem. 25-30 salg af (bebyggede)  
+
+ ejendomme anses i den forbindelse for tilstrækkeligt.
+Opdeling i mindre  
+
+ områder kan f. eks. komme på tale, hvor et lille dyrt område er omgivet af  
+
+ et væsentligt billigere område, således at et gennemsnitligt beregnet  
+
+ niveau ikke kommer til at passe nogen af stederne.
+ Told- og skatteforvaltningen har opstillet et sæt vurderingsfaglige  
+
+ betingelser, der skal være opfyldt for, at der kan oprettes et  
+
+ lokalkorrektionsområde med et særskilt vurderingsniveau:
+Told- og skatteforvaltningen vil normalt kunne henholde sig til de  
+
+ beregnede normtal under forudsætning af, at de er baseret på et  
+
+ tilstrækkeligt antal salg.
+Tilfældige udsving i priserne må formodes at  
+
+ udligne hinanden.
+Det forekommer imidlertid, at den indeksering af salgspriserne, som  
+
+ foretages under hensyn til salgstidspunkterne, se  
+
+ B.1.1 ,  
+
+ ikke passer på udviklingen i en bestemt kommune.
+I så fald må told-  
+
+ og skatteforvaltningen eventuelt ændre normtallene for samtlige  
+
+ områder i kommunen, således at også det gennemsnitlige normtal ændres.
+Særlig anledning til at fravige normtallet kan told- og  
+
+ skatteforvaltningen endvidere have for områder, hvor nogle få  
+
+ påfaldende salg skønnes at have forrykket niveauet urimeligt.
+I områder,  
+
+ hvor der er ganske få eller ingen salg, må anlæggelse af et afvigende  
+
+ vurderingsniveau underbygges af vurderingsfaglige overvejelser, der  
+
+ inddrager pris- og efterspørgselsforholdene i sammenlignelige  
+
+ områder.
+ Har told- og skatteforvaltningen konstateret større afvigelser  
+
+ mellem salgspriser og vurdering, bør told- og skatteforvaltningen søge  
+
+ klarlagt, om afvigelsen skyldes, at det seneste vurderingsniveau har  
+
+ været forkert, eller har sammenhæng med forhold ved den enkelte  
+
+ ejendom, som vurderingen ikke har taget hensyn til.
+I forbindelse med hver almindelig vurdering foretager told- og  
+
+ skatteforvaltningen en gennemgang af samtlige ejendomme, der skal  
+
+ vurderes.
+Told- og skatteforvaltningens gennemgang af forslagsejendomme  
+
+ sker med udgangspunkt i de beregnede forslag til ejendomsværdi.
+Told- og  
+
+ skatteforvaltningens ansættelser anses for endelige, når de er gjort  
+
+ bekendt for ejerne.
+Såfremt vurderingsforslaget ikke skønnes i overensstemmelse med  
+
+ handelsværdien, kan told- og skatteforvaltningen korrigere forslaget ved  
+
+ at give et tillæg eller nedslag.
+Tildeling af tillæg eller nedslag  
+
+ sker ofte på foranledning af en besigtigelse eller en klage.
+Tillæg og  
+
+ fradrag vil hyppigt være begrundet med, at ejendommens indretning eller  
+
+ vedligeholdelsestilstand afviger fra det normale.
+B.2 De enkelte kategorier af  
+
+ forslagsejendomme B.2.1 Ejerboliger B.2.1.1 Fritliggende helårsboliger med 1  
+
+ beboelseslejlighed Den forslagsmodel, som betegnes "  
+
+ parcelhusfunktionen ", beregner vurderingsforslag for ejendomme,  
+
+ der er henført til benyttelserne:
+Der beregnes ikke forslag for en ejendom, såfremt nogen af de  
+
+ grundlæggende registeroplysninger mangler, eller der ikke er sammenhæng  
+
+ mellem oplysningerne, eller oplysningerne afviger betænkeligt fra, hvad  
+
+ der er sandsynligt.
+Der opsættes i så fald en særlig usikkerhedskode, som  
+
+ tilkendegiver over for told- og skatteforvaltningen, at denne ejendom skal  
+
+ gennemgås manuelt.
+ Bygningsværdien pr. kvadratmeter udtrykkes ved ejendommens  
+
+ normtal, og det samlede bygningsareal udtrykkes ved et  
+
+ vægtet etageareal .
+ Det lokale  
+
+ normtal  for standardhuset, se  
+
+ nedenfor, fastsættes med udgangspunkt i et generelt normtal for  
+
+ standardhuset, korrigeret for områdets afvigelse i overensstemmelse  
+
+ med, hvad told- og skatteforvaltningen før beregningen har skønnet er  
+
+ passende for området.
+ Det lokale normtal for standardhuset korrigeres herefter prismæssigt  
+
+ for afvigelser fra standardhuset, der er defineret som følger:
+ Alle definitionerne relaterer sig til de registrerede oplysninger i  
+
+ Bygnings- og Boligregisteret (BBR).
+Beregningen af det generelle normtal er baseret på statistiske analyser  
+
+ forud for hver vurdering.
+Analyserne tager udgangspunkt i alle  
+
+ registrerede oplysninger i BBR.
+ Det generelle normtal for standardhuset er til vurderingen  
+
+ 1. oktober 2005 fastsat til 6.725 kr.
+Fra og med vurderingen 1. oktober 2003 er der sket en ændring i  
+
+ måden at beregne ejendommens normtal på.
+Fra denne dato beregnes  
+
+ ejendommens normtal uden hensyntagen til ejendommens badeværelses-,  
+
+ toilet- eller køkkenforhold.
+Ligesom der ikke vil blive givet tillæg for  
+
+ stråtag, brændeovn eller solvarme (supplerende opvarmning).
+ Beregningen af ejendommens normtal ser ved vurderingen  
+
+ 1. oktober 2005 således ud:
+ 6.725kr.
+ - 4 kr.
+ + 60 kr.
+ + 167 kr.
+ - 73 kr.
+ - 146 kr.
+ + 26 kr.
+ + 51 kr.
+ - 12 kr.
+ - 550 kr.
+ - 100 kr.
+ - 475 kr.
+ - 425 kr.
+ - 525 kr.
+ - 575 kr.
+ - 700 kr.
+ Det vægtede etageareal beregnes som tidligere nævnt  
+
+ forskelligt afhængigt af, hvor i landet ejendommen ligger,  
+
+ se inddelingen  
+
+ B.1.1.1 .
+Kommunegruppe 6 - 8 *) Bebygget areal er forskelligt fra BBR´s bebyggede areal, idet der  
+
+ fra BBR´s areal skal fraregnes udestue, indbygget garage, indbygget  
+
+ carport og indbygget udhus.
+ Fritliggende garager og udhusarealer indgår med maksimalt 100  
+
+ m2, idet arealer herudover ikke væsentligt påvirker  
+
+ handelsprisen for en beboelsesejendom, som er omfattet af  
+
+ parcelhusfunktionen.
+ Forslag til ejendomsværdi beregnes ved anvendelsen af  
+
+ normtal og vægtet etageareal på følgende måde:
+Bygningsværdi (vægtet etageareal x normtal for ejendommen) Nedslag for ekstra fundering er givet i grundværdien i ubebygget stand,  
+
+ men for den bebyggede ejendom vil en køber ikke indregne et sådant nedslag  
+
+ i en købspris, da udgiften er afholdt.
+Som følge heraf gives der et tillæg  
+
+ for ekstra fundering i beregningen af forslaget til ejendomsværdi.
+B.2.1.2 Rækkehuse Den forslagsmodel, som betegnes "  
+
+ rækkehusfunktionen " beregner vurderingsforslag for ejendomme,  
+
+ der ligger i tæt-lav bebyggelse (dvs. helt eller delvis sammenbyggede  
+
+ enfamiliehuse) og er henført til benyttelserne:
+Der beregnes ikke forslag for en ejendom, såfremt nogen af de  
+
+ grundlæggende registeroplysninger mangler, eller der ikke er sammenhæng  
+
+ mellem oplysningerne, eller oplysningerne afviger betænkeligt fra,  
+
+ hvad der er sandsynligt.
+Der opsættes i så fald en særlig usikkerhedskode,  
+
+ som tilkendegiver over for told- og skatteforvaltningen, at denne ejendom  
+
+ skal gennemgås manuelt.
+ Bygningsværdien pr. kvadratmeter udtrykkes ved ejendommens  
+
+ normtal, og det samlede bygningsareal udtrykkes ved et vægtet  
+
+ etageareal.
+Det lokale  
+
+ normtal  for standardhuset, se  
+
+ nedenfor, fastsættes med udgangspunkt i et generelt normtal for  
+
+ standardhuset, korrigeret for områdets afvigelse i overensstemmelse med,  
+
+ hvad told- og skatteforvaltningen før beregningen har skønnet er passende  
+
+ for området.
+For at nå frem til ejendommens normtal korrigeres det lokale  
+
+ normtal for standardhuset herefter prismæssigt for afvigelser fra  
+
+ standardhuset.
+Standardhuset er defineret som følger:
+ Alle definitionerne relaterer sig til de registrerede oplysninger i  
+
+ Bygnings- og Boligregisteret (BBR).
+Beregningen af det generelle normtal er baseret på statistiske analyser  
+
+ forud for hver vurdering.
+Analyserne tager udgangspunkt i alle  
+
+ registrerede oplysninger i BBR.
+ Det generelle normtal for standardhuset er til vurderingen  
+
+ 1. oktober 2005 fastsat til 9.075 kr.
+Fra og med vurderingen 1. oktober 2003 er der sket en ændring i måden  
+
+ at beregne ejendommens normtal på.
+Fra denne dato beregnes ejendommens  
+
+ normtal uden hensyntagen til ejendommens badeværelses-, toilet- eller  
+
+ køkkenforhold.
+Ligesom der ikke vil blive givet tillæg for stråtag,  
+
+ brændeovn eller solvarme (supplerende opvarmning).
+ Beregningen af ejendommens normtal ser ved vurderingen 1. oktober  
+
+ 2005 således ud:
+Ejendommens normtal = 9.075 kr.
+ +/- X kr.
+ - 1 kr.
+ + 30 kr.
+ + 84 kr.
+ + 32 kr.
+ + 40 kr.
+ - 16 kr.
+ - 550 kr.
+ - 100 kr.
+ - 300 kr.
+ - 350 kr.
+ - 275 kr.
+ - 550 kr.
+ Det  
+
+ vægtede etageareal  beregnes som tidligere  
+
+ nævnt forskelligt afhængigt af, hvor i landet ejendommen ligger, se  
+
+ inddelingen  
+
+ B.1.1.1 .
+ *) Bebygget areal er forskelligt fra BBR´s bebyggede areal, idet der  
+
+ fra BBR´s areal skal fraregnes udestue, indbygget garage, indbygget  
+
+ carport og indbygget udhus.
+ Fritliggende garager og udhusarealer indgår med maksimalt 100  
+
+ m2, idet arealer herudover ikke væsentligt påvirker  
+
+ handelsværdien for en beboelsesejendom, som er omfattet af  
+
+ rækkehusfunktionen.
+ Forslag til ejendomsværdi beregnes ved anvendelsen af normtal og vægtet  
+
+ etageareal på følgende måde:
+ Bygningsværdi (vægtet etageareal x normtal for ejendommen)+  
+
+ Grundværdi+ Eventuelt nedslag for ekstra fundering.
+ B.2.1.3 To- og trefamilieshuse m. fl.
+ Ejendomme henført til benyttelsen 01, 11 og 41 med 2 henholdsvis 3  
+
+ beboelseslejligheder får beregnet forslag efter en modificeret  
+
+ rækkehusfunktion.
+Ejendomme med 2-3 lejligheder kan deles op i flere typer.  
+
+ To- og trefamilieshuse  er karakteriseret ved, at  
+
+ lejlighederne ligger oven på hinanden, mens de i dobbelt- og  
+
+ tredobbelthuse ligger ved siden af hinanden.
+Tredobbelthusets  
+
+ fremtrædelsesform er som tre rækkehuse, men lejlighederne er ikke  
+
+ selvstændige ejendomme som rækkehuse.
+ Modifikationen i beregningsfunktionen består i, at der efter  
+
+ beregningen af en bygningsværdi, efter de for rækkehusfunktionen beskrevne  
+
+ retningslinier, gives et procentnedslag, som dels afhænger af ejendommens  
+
+ geografiske beliggenhed, dels af udformningen af den bygning, hvor de 2  
+
+ eller 3 lejligheder ligger (tofamilieshus, trefamilieshus, dobbelthus,  
+
+ tredobbelthus, jf. ovenfor). Procentnedslaget er ligesom de øvrige  
+
+ størrelser i vurderingsforslagsmodellerne statistisk fastlagt ved analyser  
+
+ af priser på solgte ejendomme.
+ Som konsekvens af Bygnings- og Boligregisterets (BBR´s) strukturelle  
+
+ opbygning er der justeret lidt på rækkehusfunktionens generelle  
+
+ beregningsmodel med hensyn til beregning af normtallet.
+Normtallet for  
+
+ dobbelthuse  beregnes med  
+
+ udgangspunkt i den af lejlighederne, der har det største areal.
+Det  
+
+ bebyggede areal indgår med halvdelen ved beregningen, idet lejlighederne  
+
+ forudsættes at være lige store.
+ Er lejlighedernes arealer forskellige, beregnes der ikke forslag  
+
+ til ejendomsværdi, idet det er mindre hensigtsmæssigt at angive  
+
+ beregninger på vurderingsmeddelelserne, som ikke tager udgangspunkt i de  
+
+ arealstørrelser, som er registreret i BBR.
+ For  
+
+ tredobbelthuse  beregnes  
+
+ normtallet efter samme principper som for dobbelthuse, bortset fra at det  
+
+ bebyggede areal indgår med 1/3 ved beregningen af normtallet.
+ For  
+
+ to- og trefamilieshuse  beregnes  
+
+ normtallet på grundlag af stuelejlighedens oplysninger (herunder det  
+
+ bebyggede areal).
+ Beregningen af vægtet etageareal sker på samme måde som for  
+
+ rækkehuse.
+Salgsprisanalyserne viser en forholdsmæssig reduktion i  
+
+ prisen for ejendomme med 2 eller 3 lejligheder.
+Det hænger sammen  
+
+ med, at der er et væsentligt udlejningsmoment i sådanne ejendomme, hvorfor  
+
+ en køber normalt ikke får den fulde råderet over ejendommen med det samme.  
+
+ Som følge heraf gives der et procentnedslag i bygningsværdien afhængigt  
+
+ af, hvor i landet ejendommen ligger, se inddelingen  
+
+ B.1.1.1 .
+Bygningsværdien beregnes efter rækkehusmodellen og ændres med den  
+
+ anførte procentvise nedsættelse Kommunegruppe 1-3 Kommune-gruppe 4-5 Kommune-gruppe 6-8 Dobbelthuse/tredobbelthuse 0% 0% 0% Tofamiliehuse 20% 20% 20% Trefamiliehuse 20% 20% 20% I det omfang den omtalte kategori ejendomme er delt op i  
+
+ ideelle anparter, som kan omsættes selvstændigt, kan prisdannelsen  
+
+ afvige så meget fra den, der er forudsat ved forslagsberegningen, at told-  
+
+ og skatteforvaltningen må anlægge et konkret skøn over ejendomsværdien.
+ Forslag til ejendomsværdi beregnes ved anvendelsen af normtal og vægtet  
+
+ etageareal på følgende måde:
+ Bygningsværdi (vægtet etageareal x normtal for ejendommen)-  
+
+ Procentnedslag+ Grundværdi+ Eventuelt nedslag for ekstra  
+
+ fundering.
+B.2.1.4 Etageejerlejligheder Den forslagsmodel, som betegnes "  
+
+ etageejerlejlighedsfunktionen " beregner vurderingsforslag for  
+
+ ejendomme, der er henført til benyttelserne:
+Der beregnes ikke forslag for en ejendom, såfremt nogen af de  
+
+ grundlæggende registeroplysninger mangler, eller der ikke er sammenhæng  
+
+ mellem oplysningerne, eller oplysningerne afviger betænkeligt fra, hvad  
+
+ der er sandsynligt.
+Der opsættes i så fald en særlig usikkerhedskode, som  
+
+ tilkendegiver over for told- og skatteforvaltningen, at ejendommen  
+
+ skal gennemgås manuelt.
+Vurderingsforslaget for en etageejerlejlighed kan ikke som forslag  
+
+ efter parcel- og rækkehusfunktionen deles op i en bygningsdel og en  
+
+ grundværdidel.
+Hele værdien af beliggenhedsmomentet er således indeholdt i  
+
+ normtallet.
+ Normtallet for lejligheden fastsættes med udgangspunkt i  
+
+ det lokale normtal for standardlejligheden, som told- og  
+
+ skatteforvaltningen før beregningen har skønnet er passende for  
+
+ området.
+ Det lokale normtal for standardlejligheden korrigeres herefter  
+
+ prismæssigt for afvigelser i forhold til standardejerlejligheden, der er  
+
+ defineret som følger:
+Bygningen Alle definitionerne relaterer sig til de registrerede oplysninger i  
+
+ Bygnings- og Boligregisteret (BBR).
+ De statistiske analyser forud for hver vurdering fastlægger de tillæg  
+
+ eller nedslag, der skal foretages for punkter, hvor den konkrete ejendom  
+
+ afviger fra standardlejligheden.
+ Det generelle normtal for standardlejligheden er til vurderingen 1.  
+
+ oktober 2005 fastsat til 17.425 kr.
+ Beregningen af lejlighedens normtal ser ved vurderingen 1. oktober 2005  
+
+ således ud:
+Lejlighedens normtal = 17.425 kr.
+ +/- X kr.
+ + 1 kr.
+ + 208 kr.
+ + 19 kr.
+ + 55 kr.
+ - 35 kr.
+ - 450 kr.
+ - 450 kr.
+ + 125 kr.
+ - 150 kr.
+ - 400 kr.
+ - 250 kr.
+ + 50 kr.
+ - 1.500 kr.
+ - 300 kr.
+ + 375 kr.
+Der beregnes ikke vægtet etageareal for  
+
+ etageejerlejligheder.
+Dette skyldes, at langt de fleste  
+
+ etageejerlejligheder kun har en kategori areal, nemlig selve lejlighedens  
+
+ areal.
+Der er principielt to arealer at vælge imellem, nemlig lejlighedens  
+
+ tinglyste areal og BBR-arealet.
+Det tinglyste areal omfatter bruttoarealet  
+
+ af selve lejligheden, altså inkl. ydervægge og halvdelen af skillevægge  
+
+ til andre lejligheder.
+BBR-arealet omfatter herudover andel af  
+
+ fællesarealer i forbindelse med lejligheden primært trappe- og  
+
+ gangarealer.
+ Etageejerlejlighedsfunktionen anvender BBR-arealet, da adgangsarealer  
+
+ til lejligheden skønnes at være en betydende parameter ved prisdannelsen  
+
+ for etageejerlejligheder.
+Lejlighedens samlede areal beregnes som:Lejlighedens areal  
+
+ (BBR-arealet)+ areal af supplementsrum, der er tinglyst som hørende  
+
+ til lejligheden Forslag til ejendomsværdi beregnes på følgende måde:
+Lejlighedens samlede areal x lejlighedens normtal Ejerlejligheder kan være "  
+
+ fri" eller       "ikke fri " for lejelovgivningens bindinger, som bl.a. tager  
+
+ sigte på  
+
+ beskyttelse af hidtidige lejere mod opsigelse.
+Forslaget er beregnet under  
+
+ hensyntagen til, om lejligheden er fri eller ikke fri.
+Handelsværdien er  
+
+ væsentlig lavere for ejerlejligheder, som fortsat er udlejet sammenlignet  
+
+ med ejerlejligheder, der frit kan omsættes.
+For ikke fri ejerlejligheder  
+
+ nedsættes forslaget derfor sædvanligvis med 50 pct.
+Se  
+
+ B.3.1.1.3 Hvor en flerhed af udlejede ejerlejligheder sælges udlejede,  
+
+ forbliver deres status som udlejede uændret efter salget.
+Hvor  
+
+ enkelte ejerlejligheder sælges og genudlejes på langtidskontrakt, vil  
+
+ deres status som ikke fri ligeledes forblive uændret.
+Genudlejes en  
+
+ ejerlejlighed på korttidskontrakt, ændres dens status derimod til fri.
+B.2.1.5 Andre ejerlejligheder til  
+
+ beboelse En  
+
+ modificeret rækkehusfunktion  anvendes til  
+
+ at beregne vurderingsforslag til ejerlejlighedsopdelte helårsboliger med 2  
+
+ eller flere beboelseslejligheder henført til følgende benyttelse:
+ Ejerlejligheder i to- og trefamilieshuse ligger oven på hinanden, mens  
+
+ de ligger ved siden af hinanden i dobbelthuse eller rækkehuse.
+Når ejerlejligheder af denne karakter får beregnet forslag efter  
+
+ rækkehusfunktionen (hvor der indgår anvendelse af grundværdien) i  
+
+ modsætning til etageejerlejlighedsfunktionen, skyldes det, at  
+
+ prisdannelsen på denne type af ejerlejligheder er meget lig prisdannelsen  
+
+ på tilsvarende ikke-ejerlejlighedsejendomme.
+Af stor betydning er således  
+
+ beliggenhedsmomentet, adgangen til havearealer m. v. som udtrykt i  
+
+ grundværdiansættelsen.
+Normtal og vægtet etageareal for ejerlejligheder i rækkehuse beregnes  
+
+ for hver enkelt boligenhed.
+Før beregningen divideres bebygget areal,  
+
+ bygningsareal, kælderareal og areal til udnyttet tagetage, der alle i BBR  
+
+ kun er registreret på bygningsniveau med antallet af lejligheder i  
+
+ bygningen.
+ Er lejlighedernes arealer forskellige, beregnes der ikke forslag til  
+
+ ejendomsværdi, idet det er mindre hensigtsmæssigt at angive beregninger på  
+
+ vurderingsmeddelelserne, som ikke tager udgangspunkt i de arealstørrelser,  
+
+ som er registreret i BBR.
+ Hvis en ejerlejlighed ikke er fri, gives et nedslag i ejendomsværdien  
+
+ på 50 pct.
+Beregningen for ejerlejligheder i dobbelthuse foregår på samme måde som  
+
+ for ejerlejligheder i rækkehusbebyggelser.
+Der gives dog ikke nedslag for  
+
+ ikke frie ejerlejligheder, da denne type nedslag kun gives for ejendomme  
+
+ med mere end 2 lejligheder.
+For ejerlejligheder i tofamilieshuse beregnes normtal for den enkelte  
+
+ boligenhed efter rækkehusfunktionen.
+I stuelejligheden indgår bygningens  
+
+ bebyggede areal i normtalsberegningen korrigeret for indbyggede arealer.  
+
+ På 1. sal indgår lejlighedsarealet, hvis det er mindre end det bebyggede  
+
+ areal.
+ Der gives ikke nedslag for ikke frie ejerlejligheder.
+Der anvendes de samme regler for ejerlejligheder i trefamilieshuse  
+
+ som i tofamilieshuse.
+Lejligheden på 2. sal behandles således på  
+
+ samme måde som 1. salslejligheden.
+ Hvis en ejerlejlighed ikke er fri, gives der et nedslag i  
+
+ ejendomsværdien på 50 pct.
+ For ejerlejligheder i række- og dobbelthuse beregnes det vægtede  
+
+ etageareal på samme måde som for rækkehuse.
+ For ejerlejligheder i to- og trefamilieshuse beregnes det vægtede  
+
+ etageareal ved en kombination af rækkehusfunktionen og  
+
+ etageejerlejlighedsfunktionen.
+ Lejlighedens samlede areal er BBR-arealet, eventuelle supplementsrum i  
+
+ bibygninger indgår i det vægtede etageareal som garage/udhus.
+ Garagearealer m. v. indgår med maksimalt 100 m2, idet  
+
+ arealer herudover ikke væsentligt påvirker handelsværdien.
+B.2.1.6 Sommerhuse Den forslagsmodel, som betegnes "  
+
+ sommerhusfunktionen ", beregner vurderingsforslag for ejendomme,  
+
+ der er henført til benyttelserne:
+Der beregnes ikke forslag for en ejendom, såfremt nogen af de  
+
+ grundlæggende registeroplysninger mangler, eller der ikke er sammenhæng  
+
+ mellem oplysningerne, eller oplysningerne afviger betænkeligt fra, hvad  
+
+ der er sandsynligt.
+Der opsættes i så fald en særlig usikkerhedskode,  
+
+ som tilkendegiver over for told- og skatteforvaltningen, at denne ejendom  
+
+ skal gennemgås manuelt.
+ Bygningsværdien pr. kvadratmeter udtrykkes ved et normtal for  
+
+ ejendommen, og det samlede bygningsareal udtrykkes ved et vægtet  
+
+ etageareal.
+ Ejendommens  
+
+ normtal  fastsættes  
+
+ med udgangspunkt i det lokale normtal for standardhuset, som told- og  
+
+ skatteforvaltningen før beregningen har skønnet passende for  
+
+ området.
+ Det lokale normtal for standardhuset korrigeres herefter prismæssigt  
+
+ for afvigelser fra standardhuset, der er defineret som følger:
+ Alle definitionerne relaterer sig til de registrerede oplysninger i  
+
+ Bygnings- og Boligregisteret (BBR).
+Beregningen af det generelle normtal er baseret på statistiske analyser  
+
+ forud for hver vurdering.
+Analyserne tager udgangspunkt i alle  
+
+ registrerede oplysninger i BBR.
+ Det generelle normtal for standardhuset er til vurderingen 1. oktober  
+
+ 2005 fastsat til 8.425 kr.
+Fra og med vurderingen 1. oktober 2003 er der sket en ændring i måden  
+
+ at beregne ejendommens normtal på.
+Fra denne dato beregnes ejendommens  
+
+ normtal uden hensyntagen til ejendommens badeværelses-, toilet- eller  
+
+ køkkenforhold.
+Ligesom der ikke vil blive givet tillæg for brændeovn  
+
+ eller solvarme (supplerende opvarmning).
+ Beregningen af ejendommens normtal ser ved vurderingen 1. oktober 2005  
+
+ således ud:
+ 8.425 kr.
+ +- X kr.
+ + 42 kr.
+ + 190 kr.
+ - 39 kr.
+ + 13 kr.
+ + 30 kr.
+ - 17 kr.
+ -75 kr.
+ + 200 kr.
+ + 475 kr.
+ + 600 kr.
+ - 400 kr.
+ - 75 kr.
+ Det vægtede etageareal beregnes ens uanset hvor i landet,  
+
+ ejendommen er beliggende.
+ *) Bebygget areal er forskelligt fra BBR´s bebyggede areal, idet der  
+
+ fra BBR´s areal skal fraregnes udestue, indbygget garage, indbygget  
+
+ carport og indbygget udhus.
+ Fritliggende garagers og carportes arealer indgår med maksimalt 50  
+
+ m2; udhusarealer indgår ligeledes med maksimalt 50  
+
+ m2.
+ Der er intet maksimum med hensyn til arealer i indbyggede garager,  
+
+ carporte, udhuse, eller hvad angår udestuer og overdækkede  
+
+ terrassearealer.
+ Forslag til ejendomsværdi beregnes ved anvendelsen af normtal og vægtet  
+
+ etageareal på følgende måde:
+ Bygningsværdi (vægtet etageareal x normtal for ejendommen)+  
+
+ grundværdi+ eventuelt nedslag for ekstra fundering.
+B.2.2 Andelsboliger i offentligt støttet  
+
+ byggeri Den forslagsmodel, som betegnes "andelsboligfunktionen", beregner  
+
+ vurderingsforslag for ejendomme, der er henført til benyttelsen:
+Ejendomme, som er omfattet af denne gruppe, er andelsboliger opført  
+
+ efter 1981 i henhold til lov om almene boliger samt støttede private  
+
+ andelsboliger.
+Kommunalbestyrelserne kan i henhold hertil på statens vegne  
+
+ give tilsagn om ydelsesstøtte til opførelsen af andelsboliger samt give  
+
+ tilsagn om at yde garanti for realkreditlån til opførelse af  
+
+ andelsboliger .
+Den enkelte lejlighed er ikke en selvstændig vurderingspligtig ejendom,  
+
+ og der sker ingen registrering af salg af andelsboliger.
+De  
+
+ vurderingspligtige andelsboligejendomme sælges typisk kun én gang, nemlig  
+
+ når de overdrages fra bygherren til andelsboligforeningen og  
+
+ overdragelsessummen svarer her til opførelsesomkostningerne.
+ Andelsboligbyggeri opført efter 1981 med støtte fra staten eller  
+
+ kommunen værdiansættes derfor med udgangspunkt i opførelsesomkostningerne,  
+
+ såfremt de er opført i året forud for vurderingsåret, ellers med  
+
+ udgangspunkt i beregnede opførelsesomkostninger.
+ Told- og skatteforvaltningen må ved den første vurdering af en sådan  
+
+ ejendom selv fremskaffe oplysninger om opførelsesomkostningerne.
+ Vurderingsforslaget for denne type andelsboliger baserer sig således  
+
+ ikke på en statistisk analyse af registrerede salg.
+Andelsboligfunktionen opererer med en afskrivningsprocent for at kunne  
+
+ frem- og tilbageregne vurderingerne henholdsvis til og fra aktuelt  
+
+ prisniveau.
+Den afskrivningsprocent, der anvendes, beregnes ud fra  
+
+ hvorledes vurderingsforslagene for parcel- og rækkehuse afhænger af  
+
+ opførelsesåret.
+ Forslaget beregnes i 3 trin:
+ Se også  
+
+ B.1.1.6 .  
+
+ og  
+
+ B.3.1.1.1.
+B.3 Ejendomme, der ikke omfattes af  
+
+ forslagsmodellerne B.3.1 Erhvervsejendomme m. m.
+En meget stor del af den samlede ejendomsmasse er karakteriseret ved,  
+
+ at ejendommene er opført eller erhvervet med henblik på erhvervsmæssig  
+
+ udnyttelse.
+For sådanne ejendomme vil handelsværdien være bestemt af  
+
+ forventningerne til afkastet.
+Det gælder både for rene  
+
+ investeringsejendomme som f. eks. udlejningsejendomme til beboelse, og for  
+
+ fabriks-, lager- og kontorejendomme, som ejerne selv udnytter i deres  
+
+ erhverv.
+B.3.1.1 Udlejningsejendomme til  
+
+ beboelse B.3.1.1.1 Private udlejningsejendomme Udlejningsejendomme, der indeholder beboelseslejligheder, anses i  
+
+ vurderingsmæssig sammenhæng som "udlejningsejendomme til beboelse", når  
+
+ mindre end 25 pct. af ejendommens værdi kan henføres til erhvervslejemål.  
+
+ Hvor 25 pct. eller mere af værdien kan henføres til erhvervslejemål, anses  
+
+ de som "udlejningsejendomme til blandet beboelse og erhverv". Sondringen  
+
+ mellem ren beboelse på den ene side og blandet beboelse og erhverv på  
+
+ den anden side har betydning for de indberettede salgsoplysningers  
+
+ rubricering og dermed indirekte for vurderingsniveauet, men i øvrigt  
+
+ vurderes de to kategorier ejendomme efter samme retningslinier.
+Prisen for en udlejningsejendom vil være bestemt af ejendommens  
+
+ forventede afkast, hvorved i første omgang henses til de dokumenterede  
+
+ lejeindtægter og udgifterne til drift og vedligeholdelse.
+Ejendommens  
+
+ afkast skal holdes op imod andre faktorer som den aktuelle  
+
+ obligationsrente og inflationstakten.
+Desuden spiller den offentlige  
+
+ huslejeregulering og forventninger om ændringer heri en rolle for  
+
+ prisfastsættelsen.
+Ved bedømmelsen af en ejendoms værdi vil en potentiel  
+
+ køber kapitalisere de fremtidige indtægter og udgifterne til  
+
+ vedligeholdelse af ejendommen og betinge sig en pris, der tager hensyn  
+
+ hertil.
+For beboelsesejendomme må køberen tage i betragtning, at større  
+
+ reparationsomkostninger ikke uden videre lader sig genvinde ved forøgelse  
+
+ af lejeindtægten.
+Er vedligeholdelsestilstanden ringere end normalt, vil  
+
+ ejendommens værdi i handel og vandel derfor være lavere, end lejeindtægten  
+
+ umiddelbart giver indtryk af.
+ For beboelsesejendomme, der savner moderne bekvemmeligheder, vil  
+
+ handelsværdien være påvirket af de relativt ringere afkastmuligheder, idet  
+
+ der ikke kan forventes lejestigninger af betydning for sådanne ejendomme.  
+
+ Det anførte vil navnlig gøre sig gældende, hvor lejlighederne  
+
+ ikke har eget toilet og bad eller har individuel  
+
+ opvarmning (kakkelovn, el-ovne, gasbrænder og petroleumsfyr).
+Omvendt har der i de senere år vist sig stor  
+
+ køberinteresse for ejendomme, der er blevet totalt renoverede som led i en  
+
+ sanering eller byfornyelse.
+De renoverede ejendommes handelsværdi er  
+
+ påvirket af, at istandsættelsen giver mulighed for væsentlige  
+
+ lejestigninger, samtidig med, at den tilfører ejendommen en forbedret  
+
+ vedligeholdelsestilstand.
+I forbindelse med renoveringen eller  
+
+ byfornyelsen kan hele kvarterer have ændret karakter,  
+
+ hvorved vurderingsniveauet er blevet påvirket i opadgående retning.  
+
+ En sådan udvikling er markant i nogle af Københavns brokvarterer.
+Told-og skatteforvaltningen har ikke som parterne i en  
+
+ ejendomshandel mulighed for at foretage beregninger over den enkelte  
+
+ ejendoms rentabilitet, da der ikke indsamles oplysninger om ejendommenes  
+
+ udgifter.
+Ejendomsværdien må derfor ansættes på grundlag af de  
+
+ oplysninger, der kan findes i registrene, og de forhold, der kan  
+
+ konstateres i forbindelse med en besigtigelse.
+I tilfælde, hvor der i forbindelse med en klagesagsbehandling  
+
+ fremkommer oplysninger om en lejeindtægt, der afviger fra den anslåede  
+
+ leje, skal den oplyste leje lægges til grund, medmindre der er tale om en  
+
+ leje, der må anses for at falde uden for vurderingslovens bestemmelser om  
+
+ sædvanlige udlejningsforhold, jf.
+VUL § 10, stk. 3, se nedenfor.
+Der  
+
+ tænkes i denne forbindelse navnlig på andelsboliger, hvor lejen  
+
+ (boligafgiften) for nyoprettede andelsboliger gennemgående er væsentlig  
+
+ højere end lejen i tilsvarende private udlejningsejendomme, medens det  
+
+ modsatte som oftest er tilfældet, hvor der er tale om en  
+
+ andelsboligforening oprettet for mange år siden.
+For større udlejningsejendomme kan der konstateres et relativt  
+
+ fast forhold mellem salgspriser og bruttolejeindtægter.  
+
+ Kapitalisationsfaktoren, der udtrykker dette forhold, kaldes i reglen  
+
+ lejefaktoren . I praksis beregnes ejendomsværdien  
+
+ for udlejningsejendomme ved, at en anslået bruttoleje eller den oplyste,  
+
+ årlige lejeindtægt ganges med lejefaktoren.
+Told- og  
+
+ skatteforvaltningen fastsætter lejefaktorer for de enkelte  
+
+ kategorier ejendomme under forudsætning af almindelig god  
+
+ vedligeholdelsesstandard.
+I konkrete tilfælde kan det hænde, det  
+
+ er oplysninger om nettolejen, der er tilgængelige.
+I de tilfælde skal  
+
+ lejefaktoren hæves tilsvarende, således at nettolejen gange med en  
+
+ korrigeret lejefaktor stadig er et retvisende udtryk for ejendomsværdien.
+Gennem de senere år har lejefaktoren for de handlede  
+
+ udlejningsejendomme været stigende.
+Hovedparten af de handlede  
+
+ udlejningsejendomme har opnået priser svarende til 10-15 gange den  
+
+ årlige bruttolejeindtægt.
+Det forekommer imidlertid, at dårligt  
+
+ vedligeholdte ejendomme handles til 5-6 gange lejen, medens  
+
+ omvendt nye og ældre særligt velholdte ejendomme handles til  
+
+ 15-20 gange lejen.
+Undertiden ses det i de største byer, at ejendomme  
+
+ handles til omkring 30 gange lejen.
+Mindre udlejningsejendomme (3-6 lejligheder) handles undertiden på det  
+
+ vilkår, at en af lejlighederne stilles til disposition for køberen.
+Selv  
+
+ om der kan være visse ulemper for en ejer ved selv at bo i ejendommen, er  
+
+ der almindeligvis anledning til at justere lejefaktoren opad under  
+
+ hensyn til ejerboligen.
+Lejefaktorens rigtighed kan eventuelt  
+
+ efterkontrolleres ved, at ejendomsværdien beregnes på grundlag af de  
+
+ udlejede lejligheder alene, med tillæg af den disponible  
+
+ lejlighed vurderet som ejerlejlighed.
+I helt nyopførte udlejningsejendomme kan huslejen undertiden være så  
+
+ høj, at ikke alle lejlighederne kan lejes ud med det samme.
+Skønnes  
+
+ ledigheden at ville strække sig over længere tid, kan det efter  
+
+ omstændighederne påvirke lejefaktoren, se i øvrigt  
+
+ B.3.1.3.2 .
+Ved fastsættelsen af en ejendoms lejefaktor bør der, ud over  
+
+ ejendommens opførelsestidspunkt, tages hensyn til ejendommens  
+
+ vedligeholdelsestilstand . En køber af en  
+
+ udlejningsejendom vil særlig interessere sig for, hvilke indtægter og  
+
+ udgifter han vil have fremover ved at købe ejendommen.
+Hvis ejendommen er  
+
+ godt vedligeholdt, skal der i en årrække efter købet ikke regnes med store  
+
+ udgifter til reparation og vedligeholdelse som i tilfælde, hvor  
+
+ ejendommen er dårligt vedligeholdt.
+En køber vil derfor være villig til at  
+
+ betale en højere pris for en godt vedligeholdt ejendom.
+Ved ansættelsen af  
+
+ ejendomsværdien, skal der derfor anvendes en højere lejefaktor for den  
+
+ godt vedligeholdte ejendom end for den mindre godt vedligeholdte ejendom.  
+
+ Endvidere ser en køber for ældre ejendommes vedkommende på mulighederne  
+
+ for i takt med at lejlighederne bliver ledige, at foretage reelle  
+
+ forbedringsarbejder der kan medføre lejeforhøjelser, hvorefter lejemålet  
+
+ overgår fra den relativt lave omkostningsbestemte husleje til den mere  
+
+ lukrative markedsbestemte husleje.
+Har lejlighederne i en udlejningsejendom ikke selvstændigt toilet og  
+
+ bad, og har de individuel opvarmning (kakkelovne, petroleumsbrænder,  
+
+ gasbrænder eller el-varme) bør der anlægges et forsigtigt skøn ved  
+
+ valget  af lejefaktoren.
+Institutionelle investorer, såsom  
+
+ pensionskasser og forsikringsselskaber, der foretager langsigtede  
+
+ investeringer, og som køber udlejningsejendomme med henblik på at kunne  
+
+ tilbyde medlemmerne lejligheder, vil ikke købe denne type  
+
+ udlejningsejendomme.
+Det samme er i et vist omfang tilfældet, hvor en  
+
+ bebyggelse omfatter mange små lejligheder.
+I de tilfælde, hvor det  
+
+ gennemsnitlige lejlighedsareal er mindre end 65 m², bør der ligeledes  
+
+ tages hensyn til lejlighedsstørrelsen ved valget af lejefaktoren.  
+
+ Baggrunden herfor er, at der for sådanne ejendomme må regnes med  
+
+ større udgifter pr. kvadratmeter etageareal end for større ejendomme, og  
+
+ at administrationsomkostningerne ligeledes er høje.
+Told- og skatteforvaltningen bør endvidere særlig være opmærksom  
+
+ på, at en ældre udlejningsejendom kan være forbedret og ombygget i meget  
+
+ betydeligt omfang.
+Er der registreret et ombygningsår, må det  
+
+ undersøges hvilke ombygningsarbejder der er foretaget.
+I nogle  
+
+ tilfælde kan ombygningen være så begrænset, at den ikke får  
+
+ nogen (nævneværdig) indflydelse på vurderingen.
+I andre tilfælde - hvor  
+
+ der har været foretaget en sanering eller byfornyelse - har ombygningen et  
+
+ sådant omfang, at der nærmest er tale om en total ombygning af den  
+
+ oprindelige ejendom.
+Ombygning og forbedring af en udlejningsejendom vil som oftest medføre  
+
+ en forhøjelse af lejen.
+Hvis ejendomsværdien derfor ansættes på grundlag  
+
+ af en anslået leje og en lejefaktor, der er fastsat på grundlag af  
+
+ ejendommens oprindelige opførelsestidspunkt, vil ejendomsværdien blive for  
+
+ lav i forhold til handelsværdien.
+I sådanne tilfælde vil det ved valget af  
+
+ lejefaktor være mere rigtigt at tage udgangspunkt i en lejefaktor, der  
+
+ anvendes for ejendomme i ombygningsåret end i den faktor der anvendes for  
+
+ ejendomme fra det oprindelige opførelsestidspunkt.
+Ved ansættelsen af ejendomsværdien regnes der for udlejningsejendommes  
+
+ vedkommende med  
+
+ sædvanlige udlejningsforhold ,  
+
+ jf.
+VUL § 10, stk. 3. Er ejendommen underkastet huslejerestriktioner,  
+
+ kan den bundne leje i almindelighed betragtes som den efter forholdene  
+
+ normale leje.
+På boligmarkedet er det især de restriktioner, der følger af  
+
+ lejeloven og lov om midlertidig regulering af boligforholdene  
+
+ (boligreguleringsloven), som påvirker ejendomsværdien, se  
+
+ A.5.3 .  
+
+ Der tages derimod ikke hensyn til sådanne begrænsninger i opsigelighed m.  
+
+ v., som lejeaftalens parter selv har fastsat, se TfS 1996, 86.
+ For andelsboligforeningsejendomme ansættes ejendomsværdien principielt  
+
+ efter samme retningslinier, som gælder for private udlejningsejendomme,  
+
+ medmindre det drejer sig om andelsboliger som omhandlet i kap. 11 a i  
+
+ lov om almene boliger samt støttede private andelsboliger, jf.  
+
+ tidligere lovbekendtgørelse nr. 626 af 30. juni 2003 med senere  
+
+ ændringer.
+Der gør sig det særlige forhold gældende i  
+
+ andelsboligforeninger , at boligafgiften (huslejen), som  
+
+ andelshaverne betaler for at bo i lejlighederne, varierer meget  
+
+ efter, hvornår foreningen er oprettet.
+I en ældre andelsboligforening er  
+
+ huslejen som regel lavere end i sammenlignelige private  
+
+ udlejningsejendomme, hvorimod huslejen i nyoprettede andelsboligforeninger  
+
+ almindeligvis vil være højere end i sammenlignelige private  
+
+ ejendomme.
+Det hænger sammen med, at huslejen i de private ejendomme er  
+
+ bundet af huslejereguleringen, jf. ovenfor.
+Boligafgiften til en  
+
+ andelsboligforening forudsættes at skulle dække såvel  
+
+ finansieringsomkostninger som de løbende udgifter.
+I en ældre  
+
+ andelsboligforening er finansieringudgifterne små, medens de kan udgøre  
+
+ den største enkelte udgiftspost i en nyoprettet  
+
+ andelsboligforening.
+ For andelsboliger i støttet byggeri udarbejdes der maskinelt  
+
+ beregnede forslag til ejendomsværdi og grundværdi, se  
+
+ B.2.2 .  
+
+ og  
+
+ B.1.1.6.
+B.3.1.1.2 Almennyttigt boligbyggeri For ejendomme i det  
+
+ almennyttige boligbyggeri  
+
+ ansættes ejendomsværdien principielt efter samme retningslinier, som  
+
+ gælder for private udlejningsejendomme.
+Det gælder, hvad enten det drejer  
+
+ sig om etageejendomme, eller der er tale om ejendomme i tæt lav eller åben  
+
+ lav bebyggelse.
+De sidste forekommer fortrinsvis i boligselskabernes  
+
+ nyere afdelinger.
+I almennyttigt boligbyggeri skal huslejen fastsættes således, at  
+
+ boligselskabets indtægter kan dække de udgifter, der er forbundet med  
+
+ driften af ejendommene, og de fornødne henlæggelser, jf. § 9 i lov  
+
+ nr. 187 a 27. februar 2007 om leje af almene boliger.
+I øvrigt  
+
+ fastsættes lejen efter lejlighedernes brugsværdi.
+Kommualbestyrelsen skal  
+
+ godkende begyndelseshuslejen, når en ejendom tages i brug.
+Huslejen i det  
+
+ lave byggeri fastsættes normalt ikke væsentligt højere end lejen i  
+
+ etageejendomme, selv om lejligheder i det lave byggeri erfaringsmæssigt er  
+
+ mere efterspurgte.
+ Fører en sædvanlig beregning på grundlag af bruttolejeindtægten ikke  
+
+ til et rimeligt resultat, må ejendomsværdien ansættes efter et skøn,  
+
+ hvori bl. a. ejendommens opførelsesomkostninger kan indgå.
+Salg af et almennyttigt boligselskabs ejendom skal godkendes af  
+
+ kommunalbestyrelsen, jf. § 27 i lov om almene boliger m.v.
+Desuden  
+
+ kræves der normalt godkendelse fra socialministeren, medmindre salget sker  
+
+ til en anden almennyttig boligorganisation.
+Sker salget til en kommune, skal ejendommen vurderes af told- og  
+
+ skatteforvaltningen.
+Overdragelsessummen må ikke være lavere end den  
+
+ af told- og skatteforvaltningen ansatte værdi.
+Ansættelse  
+
+ kan påklages af køberen og sælgeren efter reglerne  
+
+ i SFL.
+B.3.1.1.3 Udlejede ejerlejligheder Ejerlejligheder, som ejerne selv bebor eller på anden  
+
+ måde disponerer over, f. eks. til erhverv, kan frit omsættes.
+For  
+
+ frie ejerlejligheder til beboelse udarbejder told- og  
+
+ skatteforvaltningen maskinelt beregnede forslag til ejendomsværdi og  
+
+ grundværdi, se B 2.1.4 og  
+
+ B.2.1.5 .
+Ved ansættelsen af ejendomsværdien for  
+
+ udlejede ejerlejligheder , herunder forretningslokaler og  
+
+ lignende, må der tages hensyn til, at lejelovgivningens regler om  
+
+ begrænsning i adgangen til opsigelse og til forhøjelse af huslejen som  
+
+ udgangspunkt også gælder for ejerlejligheder.
+Ejeren af en udlejet  
+
+ ejerlejlighed kan godt sælge lejligheden, men prisen vil i overvejende  
+
+ grad være bestemt af lejlighedens forventede afkast.
+En udlejet  
+
+ ejerlejlighed kan betragtes som en udlejningsejendom med én lejlighed.
+På baggrund af indberettede salgspriser på udlejede ejerlejligheder har  
+
+ der siden 18. almindelige vurdering pr. 1. januar 1986 dannet sig en  
+
+ administrativ praksis, hvorefter ejendomsværdien for en udlejet  
+
+ ejerlejlighed almindeligvis er blevet ansat til 50 pct. af hvad  
+
+ ejendomsværdien ville være blevet ansat til, hvis ejerlejligheden havde  
+
+ været fri.
+Hvor en ejerlejlighed er oplyst udlejet på sædvanlige  
+
+ lejevilkår, udarbejder told- og skatteforvaltningen forslag i  
+
+ overensstemmelse med denne praksis.
+Se  
+
+ B.2.1.4 Særlige forhold kan føre til at fravige den omtalte praksis.  
+
+ Beboelsesejendomme, der er opdelt i ejerlejligheder, som ikke  
+
+ er solgt, men i stedet udlejes til en leje, som giver en  
+
+ rimelig forrentning af anskaffelsesomkostningerne, må i stedet  
+
+ vurderes efter de retningslinier, der gælder for almindelige  
+
+ udlejningsejendomme, idet der eventuelt anvendes en særlig høj lejefaktor  
+
+ (12-14), som følge af bl.a. afholdte udgifter til landinspektør.
+Desuden  
+
+ kan der være anledning til at gøre undtagelse fra 50 pct.-reglen,  
+
+ hvor ejerlejlighedens lejer undtagelsesvis kan siges op med 1 års  
+
+ varsel, jf. lejelovens § 83, stk. 1, litra a, sammenholdt med § 84, litra  
+
+ a.
+Det drejer sig om tilfælde, hvor I begge tilfælde stilles der yderligere to betingelser for at  
+
+ gøre opsigelsesretten gældende.
+Lejemålet skal være indgået  
+
+ efter ejendommens udstykning i ejerlejligheder, og lejeren skal ved  
+
+ lejeforholdets påbegyndelse være gjort bekendt med, at det lejede er en  
+
+ ejerlejlighed, og at opsigelse kan ske efter lejelovens § 83, litra a.
+Har ejeren opsigelsesret efter en af de omtalte bestemmelser  
+
+ i lejeloven, må ejerlejligheden vurderes, som om der var tale om en fri  
+
+ ejerlejlighed, idet der dog kan indrømmes et skønsmæssigt nedslag på  
+
+ op til 20 pct. under hensyn til opsigelsesfristen.
+På tilsvarende måde  
+
+ forholdes, når lejeaftalen oplyses at være tidsbestemt og derfor  
+
+ ophører uden opsigelse ved lejeperiodens udløb, jf. lejelovens §  
+
+ 80.
+B.3.1.2 Ejendomme med blandet beboelse og  
+
+ erhverv Udlejningsejendomme, der indeholder beboelseslejligheder, men hvor 25  
+
+ pct. eller mere af værdien kan henføres til erhvervslejemål, anses som  
+
+ "udlejningsejendomme til  
+
+ blandet beboelse og       erhverv ". For sådanne ejendomme ansættes  
+
+ ejendomsværdien principielt  
+
+ efter samme retningslinier som for udlejningsejendomme til ren beboelse,  
+
+ se B.3.1.1.
+ For leje af lokaler, som udelukkende udlejes til andet formål end  
+
+ beboelse, gælder bestemmelserne i lov nr. 934 af 20. december 1999 om leje  
+
+ af erhvervslokaler (erhvervslejeloven), som ændret ved § 1 i lov nr. 447  
+
+ af 7. juni 2001, se A.5.3.
+ Disponerer ejeren eller et selskab, som ejeren kontrollerer, over en  
+
+ del af ejendommen, må told- og skatteforvaltningen skønne over,  
+
+ om den opgivne bruttolejeindtægt svarer til ejendommens reelle  
+
+ markedsværdi.
+B.3.1.3 Erhvervsejendomme i øvrigt B.3.1.3.1 Fabriks- og lagerejendomme For fabriks- og lagerejendomme ansættes ejendomsværdien i vid  
+
+ udstrækning på grundlag af en markedsværdiberegning efter lignende  
+
+ retningslinier som dem, der finder anvendelse på andre  
+
+ erhvervsejendomme.
+Denne metode anses i dag for at være den sikreste  
+
+ til at understøtte skønnet over den enkelte ejendoms værdi.
+Undersøgelser  
+
+ af salgspriser alene giver ikke tilstrækkeligt sikre holdepunkter for  
+
+ værdiansættelsen, da salgene er fåtallige, og prisfastsættelsen ofte er  
+
+ præget af virksomhedsstrategiske hensyn snarere end af den enkelte  
+
+ ejendoms forhold.
+Markedsværdiniveauet fastlægges gennem undersøgelser af markedet for  
+
+ tilsvarende udlejede ejendomme.
+Ved vurderingen anslås en kvadratmeterleje  
+
+ for hver type anvendelse, f. eks. produktion.
+Efter beregning af den  
+
+ anslåede leje for hele ejendommen ganges det fremkomne beløb med en  
+
+ lejefaktor.
+Der anvendes den samme  
+
+ lejefaktor  
+
+ for hele ejendommen.
+Lejeværdifaktoren varierer i praksis fra 5 for ældre  
+
+ og vanskeligt tilgængelige ejendomme og op til 20 for nye ejendomme  
+
+ med særligt gode anvendelsesmuligheder.
+Fastsættelsen af lejefaktoren kan frembyde nogen vanskelighed som følge  
+
+ af det relativt beskedne statistiske grundlag, told- og  
+
+ skatteforvaltningen kan støtte sig på.
+I mangel af andre  
+
+ holdepunkter må der foretages beregninger af ejendommens  
+
+ genanskaffelsesværdi og holde disse beregninger sammen med oplysninger om  
+
+ ejendommens alder, indretning og udnyttelseskapacitet.
+I den  
+
+ forbindelse bemærkes, at mange fabriksejendommes værdi er betinget af  
+
+ deres anvendelse for en bestemt virksomhed.
+Dette gælder, så  
+
+ længe virksomheden er i almindelig god drift (  
+
+ going concern princippet ). For ejendomme, der er ude af drift,  
+
+ må lejefaktoren fastsættes under hensyn til mulighederne for alternativ  
+
+ anvendelse.
+Det er i så fald af særlig betydning, om overgang til anden  
+
+ virksomhed kan ske uden væsentlige ombygninger af ejendommen og uden, at  
+
+ der eventuelt skal foretages en bekostelig oprydning på  
+
+ grundarealet.
+Nogle fabriksejendomme er udsat for et ekstraordinært slid på grund  
+
+ af rystelser eller andre følger af produktionen, f. eks. syredannelse  
+
+ og kondens.
+I øvrigt må opmærksomheden rettes mod de eventuelle  
+
+ bygningskrav, f. eks. af sikkerhedsmæssig eller sanitær art,  
+
+ som stilles til den pågældende virksomhed.
+ For fabriks- og lagerejendommes vedkommende gør der sig ofte  
+
+ det forhold gældende, at værdien af de omgivende grundarealer indgår  
+
+ med større vægt i den samlede ejendomsværdi end  
+
+ tilfældet er for andre erhvervsejendomme.
+Der gives i visse tilfælde et tillæg til den sædvanligt beregnede  
+
+ ejendomsværdi for værdien af et  
+
+ overskydende       grundareal . Tillægget fastsættes skønsmæssigt ud fra  
+
+ efterspørgslen efter jord til erhvervsbyggeri.
+Ifølge praksis gives der  
+
+ kun tillæg for et overskydende grundareal, såfremt arealet giver  
+
+ fysisk mulighed for tilbygning til det eksisterende byggeri.
+Der skal  
+
+ derimod ikke gives tillæg til ejendomsværdien, blot fordi grundens  
+
+ tilladte bebyggelsesgrad ikke er udnyttet.
+ B.3.1.3.2 Kontorejendomme, forretningsejendomme,  
+
+ hoteller, biografer og campingpladser m.v.
+ Rene kontor- og forretningsejendomme handles oftere end fabriks-  
+
+ og lagerejendomme, og salgspriserne giver derfor et bedre holdepunkt for  
+
+ værdiansættelsen, end tilfældet er for fabriks- og lagerejendomme.
+ Kontor- og forretningsejendomme vurderes sædvanligvis med en højere  
+
+ lejefaktor  end udlejningsejendomme til beboelse.  
+
+ Det hænger navnlig sammen med, at erhvervslejemål ikke er underkastet de  
+
+ samme restriktioner som udlejning af boliglejemål.
+For leje af lokaler, der udelukkende udlejes til andet formål end  
+
+ beboelse, gælder reglerne i erhvervslejeloven.
+Herefter fastsættes  
+
+ lejen efter aftale mellem lejer og udlejer.
+I lejeperioden kan hver  
+
+ af parterne forlange lejen reguleret til markedslejen, hvis den pågældende  
+
+ leje er væsentligt lavere eller væsentligt højere end markedslejen, jf.  
+
+ erhvervslejelovens § 13, stk. 1. Ved  
+
+ markedslejen        forstås den leje, som en kyndig lejer og en kyndig  
+
+ udlejer på  
+
+ varslingstidspunktet aftaler for det pågældende lejeforhold.
+Kontor-  
+
+ og forretningsejendomme skal derfor gennemgående vurderes med en højere  
+
+ lejefaktor end beboelsesudlejningsejendomme for at finde frem til  
+
+ ejendommens handelsværdi.
+Hvor en kontor- eller forretningsejendom helt eller delvis benyttes af  
+
+ ejeren, fastsættes ejendommens lejeværdi af told- og  
+
+ skatteforvaltningen efter et skøn over de pågældende lokalers  
+
+ markedsleje.
+Det gælder også i tilfælde, hvor ejendommen benyttes af et  
+
+ selskab, som ejeren kontrollerer.
+I helt nyopførte kontor- og forretningsejendomme kan lejen være så høj,  
+
+ at alle lokalerne ikke kan lejes ud med det samme.
+Udlejeren kan i så  
+
+ fald forsøge at stimulere interessen ved at tilbyde en lavere  
+
+ begyndelsesleje . Den lave begyndelsesleje  
+
+ aftales oftest på det vilkår, at lejen skal stige gradvis over en  
+
+ periode, indtil den kommer op på en leje, der er sædvanlig for tilsvarende  
+
+ lokaler i andre ejendomme.
+Ved fastsættelsen af ejendommens  
+
+ bruttolejeindtægt tages der normalt ikke hensyn til sådanne aftaler.  
+
+ Skønnes udlejningskapaciteten ikke at kunne udnyttes fuldt ud inden  
+
+ for omkring et år efter ejendommens ibrugtagning, kan lejefaktoren  
+
+ efter omstændighederne fastsættes 1-3 points lavere end for tilsvarende  
+
+ fuldt udlejede ejendomme.
+I de større byer er mange tidligere beboelsesejendomme indrettet til  
+
+ kontor- og forretningsformål, efter at der er blevet givet tilladelse til  
+
+ at nedlægge beboelseslejlighederne.
+Nogle af ejendommene er imidlertid  
+
+ mindre velegnede til disse formål, bl. a. fordi ejendommene er vanskelige  
+
+ at modernisere i takt med den teknologiske udvikling.
+Hertil kommer  
+
+ problemer med at skaffe parkeringsmuligheder for ansatte og kunder.
+De  
+
+ nævnte forhold har medført, at markedet for denne type ejendomme er blevet  
+
+ betydeligt indsnævret, medmindre der knytter sig en ganske særlig værdi  
+
+ til deres beliggenhed eller historie.
+Hoteller , der er medlem af Horesta og har  
+
+ mindst 8 værelser, er blevet klassificeret med fra 0 til 5 stjerner efter  
+
+ objektive kriterier, der omfatter en række fysiske faciliteter eller  
+
+ tjenesteydelser.
+Klassifikationen inddrager ikke forhold som f.eks.  
+
+ atmosfære, beliggenhed, udsigt eller madens kvalitet. "Hotel Garni" kan  
+
+ forekomme på såvel skiltet ved hotellet som på hjemmesiden  
+
+ http://www.hotel.dk/ . "Garni" betyder, at  
+
+ hotellets restaurant normalt kun serverer morgenmad.
+Vil man vide mere om  
+
+ hoteller, og hvad klassifikationen betyder, kan man søge alle nyttige  
+
+ oplysninger på  
+
+ http://www.hotels.dk/ .
+Ved ansættelsen af hotellers ejendomsværdi ses der i særlig  
+
+ grad på omsætningen, og i forpagtningsaftaler er forpagtningsafgiften  
+
+ således fastsat i forhold til hotellets omsætning.
+Det er kutyme i  
+
+ branchen, at afgiften fastsættes som en procent af omsætningen ved  
+
+ værelsesudlejning og en anden procent af omsætningen i restaurant,  
+
+ selskabslokaler, kiosk etc.
+Er hotellet i særlig god drift forhøjes  
+
+ procentsatserne, jf. herom nedenfor.
+Told- og  
+
+ skatteforvaltningen indhenter sædvanligvis oplysninger om  
+
+ omsætningens størrelse og fordeling i de seneste 3 år forud for  
+
+ vurderingstidspunktet.
+Betaler operatøren imidlertid en fast årlig afgift,  
+
+ hvilket kan være tilfældet når et hotel har en stabil omsætning, benyttes  
+
+ den betalte leje.
+Såfremt bygningsejeren selv forestår driften af  
+
+ hotellet, fremskaffes de samme omsætningstal som i forpagtningssituationen  
+
+ til brug for vurderingen.
+Hotelbranchen er meget konjunkturfølsom, og det  
+
+ kan derfor være nødvendigt at supplere oplysningerne med et skøn bl.a.  
+
+ over den  
+
+ belægningsprocent , hotellet kan  
+
+ forvente i fremtiden.
+ Vejledende for fastsættelsen af markedsværdien er som tidligere nævnt  
+
+ forholdene mellem omsætningen i de forskellige grene af hoteldriften:
+leje i pct. af omsætning 20 8 Den leje man kommer frem til, ganges herefter på sædvanlig vis med  
+
+ den faktor told- og skatteforvaltningen finder passende for at  
+
+ nå frem til handelsværdien.
+Lejefaktoren kan for hoteller i mindre  
+
+ god drift sættes til 5-8 , og for hoteller i almindelig god drift til 9-11  
+
+ alt efter vedligeholdelsesstand, bygningsmæssige standard og stabilitet i  
+
+ omsætningen.
+For hoteller i særlig god drift, hvorved der i denne  
+
+ forbindelse forstås hoteller med en belægningsprocent der i væsentlig grad  
+
+ overstiger 70 pct., kan der til brug for lejeberegningen i de forskellige  
+
+ grene af hoteldriften anvendes henholdsvis 25 pct. af værelsesomsætningen  
+
+ og 10 pct. af omsætningen i øvrigt, og lejefaktoren kan her gå op til ca.  
+
+ 15. For at finde frem til om et hotel er i særlig god drift er  
+
+ det nødvendigt at kende belægningsprocenten, hvorfor denne skal søges  
+
+ oplyst.
+Det bemærkes, at belægningsprocenten og dermed omsætningen er helt  
+
+ afhængig af et hotels mere eller mindre gunstige beliggenhed i forhold til  
+
+ den personkreds man ønsker at tiltrække.
+ Foranstående vejledning retter sig hovedsagelig på hoteller med mindst  
+
+ 40 senge.
+ Samme fremgangsmåde kan anvendes for ejendomme med blandet hotel og  
+
+ kursusvirksomhed, der omfatter nyere og veludstyrede ejendomme, eller  
+
+ ældre ejendomme, hvor der er gennemført udvidelse og modernisering.
+En anden og ofte anvendelig metode at ansætte hoteller efter, specielt  
+
+ når der ikke foreligger oplysning om omsætningstallene, kan være at  
+
+ benytte sig af en "ejerlejlighedsbetragtning". I hotelbranchen  
+
+ handles hoteller i særlig god drift ofte på værelsespriser, når der er  
+
+ tale om større nye eller helt moderniserede hoteller med en central  
+
+ beliggenhed, hvor omsætningen for hovedpartens vedkommende ligger på  
+
+ værelsesudlejningen.
+For sådanne hotelejendommes vedkommende vil et  
+
+ dobbeltværelser på 24-30 m² i København erfaringsmæssigt kunne ansættes  
+
+ til 400.000 - 1.500.000 kr. pr. værelse, inkl. udenomsarealer.  
+
+ Prisintervallet dækker over hoteller med 2 til 5 stjerner.
+ Uden for det københavnske område vil man herefter ved at sammenholde  
+
+ eget prisniveau for ejerboliger og kontorejendomme med det københavnske  
+
+ nogenlunde kunne finde frem til værdien af et hotelværelse og dermed for  
+
+ hele hotellet.
+Såfremt det ikke er muligt at anvende hverken omsætnings- eller  
+
+ ejerlejlighedsmetoden er en tredje metode direkte at anslå en  
+
+ markedsværdi for bygningen.
+Der tages her udgangspunkt i sædvanlige  
+
+ erhvervslejer i området omkring hotelejendommen tillempet et hotels mere  
+
+ specielle udformning.
+Er man usikker omkring et hotels værdifastsættelse, kan det være  
+
+ formålstjenligt at foretage en kontrol.
+Denne kan ske ved  
+
+ en kombination de 3 forannævnte vurderingsmetoder, for at konstatere  
+
+ om de fører frem til et nogenlunde ensartet resultat.
+Fællesnævneren vil  
+
+ her være en etagemeterpris.
+En efterfølgende kontrol af hoteller af samme  
+
+ standard (samme antal stjerner) vil føre frem til et sæt  
+
+ etagemeterpriser, der vil gøre det muligt at sammenligne  
+
+ hotelvurderinger over større områder med henblik på at opnå en større  
+
+ ensartethed i vurderingerne.
+Ejendomme for hvilke forudsætningerne for hoteldrift ikke længere er  
+
+ til stede, enten på grund af bygningsmæssig forældelse eller på grund af  
+
+ overkapacitet af hotelværelser i området, skal ansættes efter deres  
+
+ alternative anvendelsesmuligheder.
+Dette vil typisk være udlejning til  
+
+ kontorformål, hvor man kan finde støtte i de kvadratmeterlejer, der gælder  
+
+ for kontorer i området.
+I den situation bør man være særlig opmærksom på  
+
+ de udgifter, der vil være forbundet med en sådan ombygning til alternativ  
+
+ anvendelse.
+Specielt nye hoteller med alle moderne bekvemmeligheder kan  
+
+ være særdeles vanskelige og bekostelige at ombygge til alternative formål,  
+
+ og en mulig køber vil i denne situation ikke være villig til at betale  
+
+ ekstra for eksempelvis særskilt bad og toilet til hvert kontor, hvorfor et  
+
+ nyt hotel, såfremt hoteldriften indstilles, må forudsættes at blive  
+
+ genstand for et særdeles stort prisfald.
+Sommerhoteller der er opdelt i ejerlejligheder, og som udlejes en stor  
+
+ del af sæsonen af særlige administrationsselskaber, ansættes til de  
+
+ priser, der opnås for ejerlejlighederne.
+De tilknyttede selskabs- og  
+
+ restaurationslokaler m.v. ansættes, i det omfang de er selvstændigt opdelt  
+
+ i ejerlejligheder, efter en forpagtningsafgift (leje) eller efter en  
+
+ skønnet leje, og ellers vurderes arealerne som fællesarealer, henhørende  
+
+ under de enkelte ejerlejligheder i henhold til fordelingstal.
+ Timeshare  kan defineres som en formaliseret  
+
+ deling af brugen i tid vedrørende et bestemt objekt, her fast ejendom,  
+
+ således at den enkelte erhverver får en eksklusiv brugsret til den  
+
+ pågældende ejendom eller en del af denne i en periode hvert år inden for  
+
+ en længere årrække eller på ubestemt tid.
+ Hovedvægten i udbuddet af timesharearrangementer ligger fortsat på  
+
+ hotelejendomme, men der er også eksempler på ferieboliger og  
+
+ helårsboliger.
+ Timesharearrangementer forekommer i 3 hovedgrupper:
+I situation 1), hvor der er tale om et egentligt ejendomskøb, er  
+
+ ejendommen opdelt i ejerlejligheder, der sælges i anparter på 1/52 hver,  
+
+ svarende til 1 uge.
+Prisen er her betinget af ugens placering på året.
+Ved  
+
+ afsætning af anparter som timeshare er det muligt at opnå en langt højere  
+
+ pris (5-7 gange højere) for den samlede ejendom/lejlighed end ved salg til  
+
+ ordinær hoteldrift eller sædvanligt ejerlejlighedssalg.
+Ved ansættelsen af disse ejendomme kan der, bl.a. ud fra en  
+
+ risikobetragtning, ikke tages udgangspunkt i den opnåelige pris for  
+
+ anparterne, og ejendommen ansættes efter sin værdi som almindelig  
+
+ hotelejendom eller hvis den er opdelt i ejerlejligheder som tilsvarende  
+
+ ejerlejligheder uden timeshare.
+Da der som oftest ikke vil foreligge  
+
+ forpagtningsafgifter, tages udgangspunkt i en skønnet leje som  
+
+ kapitaliseres på sædvanlig vis eller, hvor ejendommen er opdelt i  
+
+ ejerlejligheder, i salgspriser for tilsvarende ejerlejligheder uden  
+
+ timeshare.
+I situation 2), hvor et aktieselskab ejer den faste ejendom, udbyder  
+
+ selskabet alene aktier til interesserede købere.
+Køberne opnår samtidigt  
+
+ som aktionærer en forudbestillingsret/brugsret til en ikke nærmere  
+
+ defineret lejlighed i ejendommen.
+Der er således ikke tale om en  
+
+ ejendomsoverdragelse, og ejendommen vurderes som en sædvanlig hotelejendom  
+
+ tilhørende aktieselskabet.
+I situation 3) er der tale om køb af en brugsret i en tidsbegrænset  
+
+ årrække.
+De tidsbegrænsede timesharearrangementer med brugsret anses for  
+
+ lejeforhold, uanset at der er tale om en meget lang tidsbegrænset periode,  
+
+ f.eks. 99 år, hvorimod de tidsubegrænsede arrangementer skattemæssigt  
+
+ behandles som overdragelse af fast ejendom.
+Der er således ikke tale om en  
+
+ ejendomsoverdragelse, og ejendommen vurderes som en sædvanlig hotelejendom  
+
+ tilhørende udbyderen af timeshareprojektet.
+ Ved ansættelsen af ejendomsværdien for teatre, biografer,  
+
+ forsamlingshuse og lign. må der i særlig grad henses til, om bygningerne  
+
+ er egnede til alternativ anvendelse, for eksempel til butiksformål, og om  
+
+ en sådan alternativ anvendelse vil være en i økonomisk henseende bedre  
+
+ anvendelse end ejendommens nuværende anvendelse, når der tages hensyn til  
+
+ de udgifter, der vil være forbundet med ombygning af de eksisterende  
+
+ bygninger, jfr. ØLD af 20. december 1999 (TfS 2000, 77).
+ Er bygningernes værdi højere ved en alternativ anvendelse end ved  
+
+ anvendelse til teaterformål m. v., bør ejendomsværdien afspejle dette  
+
+ forhold.
+Størstedelen af landets private teatre har til huse i lejede lokaler.  
+
+ Vurderingsmyndigheden må for sådanne teatres vedkommende søge oplysning om  
+
+ bruttolejeindtægten.
+Ved fastsættelsen af lejefaktoren må den betydelige  
+
+ økonomiske risiko ved teaterdrift tages i betragtning.
+For mindre biografer har de samme betragtninger gyldighed, som er  
+
+ anført vedrørende teatre.
+Der er imidlertid i de senere år opført en del  
+
+ nye biografer og foretaget ombygninger af ældre, centralt beliggende  
+
+ biografer.
+En del af disse biografer lader sig drive på kommerciel  
+
+ basis.
+Der er gennem de sidste mange år sket en væsentlig ændring af  
+
+ butiksstrukturen.
+Der er foregået en betydelig koncentration af butikker  
+
+ på færre og større enheder.
+Uden for eller i udkanten af de  
+
+ større byer er der bygget  
+
+ indkøbscentre  med  
+
+ mange forretninger og gode parkeringsmuligheder.
+Både mindre butikker  
+
+ og stormagasiner har tabt markedsandele til disse centre.
+I indkøbscentrene kan lejen pr. kvadratmeter butiksareal variere stærkt  
+
+ efter, hvor i centret de enkelte arealer ligger.
+Således vil lejen typisk  
+
+ være væsentlig lavere på 1. salen end i stueetagen.
+Er centret opdelt i  
+
+ ejerlejligheder, er det nødvendigt, at told- og  
+
+ skatteforvaltningen kender lejen i centrets forskellige  
+
+ afsnit.
+P-huse er erhvervsejendomme, som er karakteriseret ved, at der ved  
+
+ parkering betales en afgift, almindeligvis timeafgift.
+Jo mere central  
+
+ beliggenhed i forhold til indkøbssteder m.v., jo højere afgift.
+ Ved ansættelsen af ejendomsværdien kan der med fordel tages  
+
+ udgangspunkt i den samlede årlige bruttoindtægt ganget med en lejefaktor,  
+
+ som er afhængig af P-husets beliggenhed, standard m.m.
+ Er P-huset lejet ud, og foreligger der en oplyst årlig bruttoleje, kan  
+
+ man også tage udgangspunkt i denne leje.
+Endelig skal man være opmærksom på, at nogle P-huse kan have pladser,  
+
+ som er lejet ud til nærliggende virksomheder og beboere.
+I disse tilfælde  
+
+ er bruttoindtægten en kombination af både timeafgifter og månedlige/årlige  
+
+ afgifter.
+I modsætning til de egentlige P-huse stiller mange centre og  
+
+ forretninger gratis parkeringsfaciliteter til rådighed for kunderne.
+Disse  
+
+ parkeringsarealer, som kan forveksles med P-huse, er en del af  
+
+ centerets/forretningens almindelige drift.
+Som hovedregel dækker  
+
+ centerets/forretningens husleje også disse p-arealer.
+Hvis der ved  
+
+ ansættelsen af ejendomsværdien for centeret eller forretningen tages  
+
+ udgangspunkt i den oplyste husleje, indgår ejendomsværdien af P-arealerne  
+
+ derfor almindeligvis i lejeværdiberegningen.
+Tankstationers værdi beror i særlig høj grad på deres  
+
+ beliggenhed.
+Tankstationers forpagtningsafgift bestemmes dels af  
+
+ omsætningen i de tilhørende butikker, dels af benzinsalget.
+Forpagtes  
+
+ såvel butik som tankanlæg, kan forpagtningsafgiften skønnes til 5 pct. af  
+
+ den årlige butiksomsætning og 3 øre pr. solgt liter af det årlige  
+
+ benzinsalg.
+I nogle tilfælde er det alene butikken, som forpagtes, mens  
+
+ forpagter blot administrerer salget af benzin.
+Forpagtningsafgiften ligger  
+
+ stadig omkring 5 pct. af den årlige butiksomsætning.
+Hertil kommer så, at  
+
+ forpagter får et antal øre pr. solgt liter benzin af benzinselskabet for  
+
+ at administrere benzinsalget.
+ Som udgangspunkt kan værdien af en tankstation skønnes til 5 pct.  
+
+ af den årlige butiksomsætning plus 3 øre pr. liter af det årlige  
+
+ benzinsalg gange med en lejefaktor, som kun undtagelsesvis overstiger  
+
+ 10. For særligt velbesøgte tankstationers vedkommende må de  
+
+ fysiske rammer for eventuelle udvidelser tages i betragtning.
+Tankanlæg i forbindelse med benzin- og servicestationers pumper  
+
+ medtages ikke ved vurderingen af den faste ejendom i modsætning til  
+
+ olietanke til opbevaringsformål, TfS 1986, 50 Den omstændighed, at der i en årrække har været detailsalg af benzin og  
+
+ dieselolie fra en ejendom, medfører, at der er en risiko for, at  
+
+ grunden er forurenet. Ældre tankstationer, der ligger i  
+
+ beboelseskvarterer, må vurderes under hensyn til, at nedtagelse af  
+
+ tankanlægget med henblik på alternativ anvendelse kan være forbundet  
+
+ med udgifter til oprensning af grunden.
+De 8 selskaber, som har engrossalg af benzin i Danmark, stiftede i 1993  
+
+ Oliebranchens Miljøpulje med det formål at tilvejebringe midler til  
+
+ oprensning af grunde, hvor der har ligget tankstationer.
+Fristen for  
+
+ indstilling til tildeling af midler fra puljen udløb den 1. april 1999.  
+
+ Alle tankstationer, for hvilke der er indgivet rettidig indstilling, er  
+
+ blevet eller vil blive undersøgt.
+Tildelingen af puljens midler  
+
+ administreres af Miljøpuljerådet.
+ Ejendomme, som er prioriteret af Miljøpuljerådet, og som kan forventes  
+
+ oprenset inden for en overskuelig tid, må formodes at have en værdi,  
+
+ der nærmer sig værdien af ikke forurenede ejendomme med tilsvarende  
+
+ beliggenhed.
+Denne vejledning anvendes, hvor man ikke har oplysninger om  
+
+ omsætningstallene for campingpladsen og derfor er henvist til at foretage  
+
+ et "formaliseret" skøn over handelsværdien.
+Såfremt man har fået  
+
+ omsætningstallene oplyst, anvendes disse ved vurderingen.
+ Der er ca. 500  
+
+ campingpladser  i Danmark  
+
+ godkendt af Campingrådet.
+Campingpladserne tildeles fra 1 til 5 stjerner, hvor kategori 5 er den  
+
+ bedste.
+Hovedparten af campingpladserne er tildelt 3 stjerner.
+ Ved ansættelsen af ejendomsværdien, der tager sit udgangspunkt i en  
+
+ omsætningsbetragtning, lægges følgende oplysninger til grund :
+På langt de fleste godkendte campingpladser kan man leje  
+
+ campinghytter eller campingvogne, hvor hytternes kategorisering ikke har  
+
+ sammenhæng med campingpladsens stjerneklassifikation.
+Campinghytternes  
+
+ standard er inddelt i fem kategorier I, II, III, IV og V, hvor V er  
+
+ den bedste.
+Der er ikke bad og toilet i de fleste campinghytter, men i  
+
+ kategori IV og V, der er på henholdsvis 20 m² og minimum 25 m² er der  
+
+ bl.a. køkken, toilet, håndvask og bruser.
+Udlejningsprisen er afhængig af  
+
+ kvalitet og efterspørgsel, men gennemsnitsprisen vil typisk være fra 350,-  
+
+ til 700,- kr. pr. overnatning for 2-6 personer i en hytte i højsæsonen.  
+
+ Uden for sæsonen vil prisen være fra 225 kr. pr. dag for hele  
+
+ familien.
+ Da hovedparten af landets campingpladser er tildelt tre stjerner, vil  
+
+ det være formålstjenligt at tage udgangspunkt i en ansættelse af en sådan  
+
+ campingplads.
+ For at en campingplads skal være rentabel, vil en campingplads i dag  
+
+ skulle indeholde ca. 300 campingenheder, svarende til ca. 1.000  
+
+ overnatninger pr. døgn.
+ Undersøgelser af området har vist, at den årlige omsætning pr.  
+
+ campingenhed (200 m²) som overvejende hovedregel svarer til  
+
+ campingenhedens handelsværdi, og følgende formel kan herefter anvendes ved  
+
+ ansættelsen af ejendomsværdien af en campingplads:
+ Åbningstid x  
+
+ belægningsprocent  x antal  
+
+ overnattende personer pr. campingenhed pr. døgn x pris pr. person =  
+
+ ansættelse pr. campingenhed.
+En campingenheds "lejeværdi" kan herefter kapitaliseres med en  
+
+ lejefaktor på 1,8, hvor valget af en kapitalisationsmodel herefter  
+
+ indebærer, at campingenhedens grundværdi er indeholdt i  
+
+ ejendomsværdien.
+Da en campinghytte tæller med ved  
+
+ fastsættelsen af det tilladt antal campingenheder på en campingplads, er  
+
+ det alene campingenhedens grundværdi, der skal tillægges den særskilt  
+
+ ansatte bygningsværdi for campinghytter, jf.  
+
+ C.2.4 .
+ En campingplads ejendomsværdi fremkommer ved, at værdien pr.  
+
+ campingenhed, ekskl. hytter, ganges med det faktiske antal campingenheder  
+
+ på pladsen, og hertil lægges evt. værdi af en ejerbolig, campinghytter,  
+
+ motellignende virksomhed som udlejning af familierum og enkeltværelser,  
+
+ swimmingpool og butik/minimarked, når der er tale om mere end et mindre  
+
+ kioskudsalg.
+ Følgende oplysninger ligger herefter til grund for forslag til en  
+
+ vurdering af en trestjernet campingplads:
+ Åbningstid 6 måneder (180 dage), belægningsprocent 25, 3,0 person pr.  
+
+ campingenhed pr. døgn og en gennemsnitspris pr. person på 55 kr.
+ Værdien kan herefter beregnes ud fra følgende formel, hvor  
+
+ kapitalisationsfaktoren sættes til 1,8:
+ 180 dage x 25pct. x 3,0 x 55 kr.x 1,8 = 13.365 kr./13.000 kr. pr.  
+
+ campingenhed.
+ 300 campingenheder x 13.000 kr. 3.900.000 kr.
+ Hertil lægges værdi af ejerbolig, campinghytter m.v.
+ For 4 stjernede campingpladser gives et tillæg på 5 pct. pr.  
+
+ campingenhed, og for femstjernede campingpladser et yderligere tillæg  
+
+ på 5 pct. pr. campingenhed.
+ For tostjernede campingpladser gives et nedslag på 5 pct. pr.  
+
+ campingenhed, og for énstjernede campingpladser gives et yderligere  
+
+ nedslag på 5 pct.
+ For helårsåbne campingpladser (360 dage om året) reduceres  
+
+ belægningsprocenten som udgangspunkt til 15 i den opstillede  
+
+ beregningsformel, og for campingpladser der alene har  
+
+ åbent i højsæsonen (90 dage i tiden 15. juni - 15. september)  
+
+ forhøjes belægningsprocenten som udgangspunkt til 45. For campingpladser  
+
+ der har åbent i et afvigende antal måneder end de skitserede anslås  
+
+ belægningsprocenten at ligge i intervallet 15-45. Det kan her, ud over at  
+
+ benytte sig af sit lokalkendskab, være formålstjenligt at søge  
+
+ belægningsprocenten oplyst hos ejer eller forpagter, idet  
+
+ belægningsprocenten og overnatningsprisen er de afgørende  
+
+ reguleringsfaktorer ved den konkrete ansættelse af  
+
+ ejendomsværdien/handelsværdien af en campingplads.
+ 35.000 kr. -   50.000 kr. pr. stk.
+ 50.000 kr. -   65.000 kr. pr. stk.
+ 65.000 kr. -   80.000 kr. pr. stk.
+ 16.038 kr.
+ 16.000 kr.
+ 13.365 kr.
+ 13.000 kr.
+ 12.028 kr.
+ 12.000 kr.
+ Eksempel på vurdering af en campingplads.
+Trestjernet campingplads på 68.000 m² med tilladelse til 300  
+
+ campingenheder, åben i 6 måneder (180 dage), med normal belægningsprocent  
+
+ ud fra lokalkendskab.
+Ejer har intet oplyst.
+Der forefindes en ejerbolig/parcelhus på 120 m², 20 campinghytter  
+
+ kategori IV, samt mindre kioskudsalg.
+Campingpladsen ligger i landzone i  
+
+ naturskønne omgivelser ca. 1 km. fra strand og indkøbsmuligheder.
+ 3.640.000 kr.
+ 1.400.000 kr.
+(160.000 kr.) 1.560.000 kr.
+ 540.000  kr.
+(200.000 kr.) 740.000 kr.
+ 5.940.000 kr.
+ 5.900.000 kr.
+ 2.400.000 kr.
+ 200.000 kr.
+i alt 2.600.000 kr.
+I bogen Camping Danmark udgivet af Campingrådet, er der nyttige  
+
+ oplysninger til brug for vurderingsarbejdet.
+Se endvidere  
+
+ C.2.4 .
+ Der henvises i øvrigt til Miljøministeriets bekendtgørelse nr.  
+
+ 68 af 26. januar 2000 med senere ændringer om tilladelse til  
+
+ udlejning af arealer til campering og om indretning og benyttelse af  
+
+ campingpladser (Campingreglementet).
+ Der er ca. 156 golfbaner i Danmark (2006) registreret under  
+
+ Dansk Golf Union (DGU).
+ Golfbaner  etableres som oftest i landzone, og  
+
+ anlægget vil i så fald i det mindste forudsætte en zonelovstilladelse.  
+
+ Ofte vil anlæg af en golfbane dog være af så indgribende karakter, at det  
+
+ vil være nødvendigt at tilvejebringe en lokalplan, med et deraf følgende  
+
+ tillæg til kommuneplanen.
+Vandindvindingstilladelse er som hovedregel en forudsætning for at  
+
+ kunne drive en golfbane, hvor vandindvinding til kunstvanding kræver  
+
+ tilladelse efter vandforsyningsloven.
+Golfklubberne er som  
+
+ erhvervsejendomme ikke generelt fritaget for at betale  
+
+ vandafledningsafgift.
+Lokalisering af golfbaner må ses i sammenhæng med den rekreative  
+
+ planlægning og med den regionale planlægning for turistudviklingen.
+Som  
+
+ udgangspunkt kan man sige, at golfbaner bør placeres på landbrugsjord,  
+
+ hvor efterbehandlede råstofgrave kan være velegnede til placering af  
+
+ golfbaner.
+ Golfbaner kan groft taget deles i to typer:
+De bynære golfbaner, som fortrinsvis benyttes af en  
+
+ lokal klubs faste medlemmer.
+Her er beliggenheden tæt ved et  
+
+ tilstrækkeligt befolkningsunderlag væsentlig, og forudsættes golfbanen at  
+
+ skulle have 800 medlemmer for at være rentabel, og regner man med, at den  
+
+ kan tiltrække 2,5 pct. af befolkningen, kræver den et befolkningsopland på  
+
+ 32.000 indbyggere, et tal der naturligvis kan variere stærkt alt efter  
+
+ anlægsomkostninger og afstand inden for oplandet m.v.
+Turistbanerne, som hovedsalig er baseret på inden- og udenlandske  
+
+ golfspillere på week-end eller ferieture, er ofte forbundet med  
+
+ et feriehotel, hytteby eller lignende.
+En golfbane skal her helst  
+
+ ligge inden for rimelig afstand fra andre golfbaner og fra andre  
+
+ overnatningsmuligheder, således at der er mulighed for i løbet af en uges  
+
+ ferie med fast opholdssted at prøve 3-5 forskellige baner.
+ Golfbaner kan naturligvis også være en mellemting mellem de ovenfor  
+
+ nævnte typer, altså være baseret delvis på lokale klubmedlemmer, delvis på  
+
+ turister.
+En golfbane er i dag typisk indrettet som en 18 hullers bane, der  
+
+ kræver et areal på 50-70 ha.
+Heraf optages ca. 50 pct. af det egentlige  
+
+ spilleareal, medens det resterende areal udgør sikkerhedszoner mellem  
+
+ hullerne og mod banens omgivelser.
+Golfbaner kan også være indrettet som  
+
+ 9, 27 eller 36 hullers baner.
+ Arealfordelingen af en golfbane på 18 huller, der er den hyppigst  
+
+ forekommende type golfbane, tager sig således ud:
+Anlægget af selve golfbanen koster erfaringsmæssigt, alt efter hvor  
+
+ store indgreb der skal foretages i det eksisterende terræn, fra 400.000  
+
+ kr. til 1.200.000 kr. pr. hul.
+Udgiften til det etablerede golfanlæg -  
+
+ bestående af teesteder, fairways, ruoghs, bunkers og greens - anses  
+
+ ikke for at vedrøre ejendomsværdien, jf.
+VUL §§ 9-12. Det kunne  
+
+ overvejes, om der skulle finde en delvis ansættelse sted af nedsænkede  
+
+ vandingssystemer, hvor nedgravede vandledninger ville være  
+
+ vurderingspligtige.
+Da udgiften hertil, er uhyre beskeden anlægsudgiften  
+
+ taget i betragtning, kan man efter omstændighederne undlade at ansætte en  
+
+ særskilt ejendomsværdi her, hvorefter der ikke skal ansættes nogen  
+
+ særskilt "forskelsværdi" pr. hul.
+Dette synspunkt vil især være aktuelt i de tilfælde, hvor selve  
+
+ golfanlægget ligger på lejet grund, hvor det fremgår af  
+
+ lejekontrakten, at arealet ved kontraktens udløb skal retableres til  
+
+ landbrug/skov.
+Udlejeren af grundarealet vil ikke her opfatte anlægget af  
+
+ golfbanen som en værditilvækst til sin ejendom, men snarere betragte  
+
+ anlægget som en potentiel udgift ved arealets tilbagegang til dets  
+
+ oprindelige tilstand, såfremt lejeren ikke måtte være i stand til at  
+
+ afholde udgiften hertil.
+Tilbagegang til den oprindelige tilstand vil  
+
+ typisk skulle ske inden for 1 år.
+Under forudsætning af at ejeren anvender  
+
+ anlægget erhvervsmæssigt eller lejer det ud på markedsvilkår, er der  
+
+ adgang til at foretage afskrivning på de dele af golfanlægget, der har  
+
+ karakter af egentlige driftsmidler eller afskrivningsberettigede bygninger  
+
+ m. v.
+Herefter ansættes alene en (forskels)værdi af den egentlige  
+
+ bygningsmasse som klubhus, maskinhus, restaurant m.v., hvor der anslås en  
+
+ lejeværdi som kapitaliseres eller der tages udgangspunkt i  
+
+ opførelsesomkostningerne, såfremt det ikke er muligt at anslå et  
+
+ realistisk markedsværdiniveau.
+ For ferskvandsdambrug gælder Miljøministeriets bekendtgørelse  
+
+ nr. 1325 af 20. november 2006 om ferskvandsdambrug.  
+
+ Bekendtgørelsen tager sigte på at sikre opfyldelsen af  
+
+ kvalitetsmålsætningen for vandløb og søer, der påvirkes af dambrugsdrift,  
+
+ samt på at begrænse udledningen af næringssalte til havet ved fastsættelse  
+
+ af krav til indretning og drift af  
+
+ dambrug .
+Man må samtidig være opmærksom på § 37 a i vandløbsloven, jf.  
+
+ lovbekendtgørelse nr. 882 af 18 august 2004. Herefter kan  
+
+ amtsrådet, hvor opstemningsanlæg er til væsentlig skade for  
+
+ vandløbskvaliteten, gennemføre de nødvendige foranstaltninger, herunder  
+
+ regulere vandløbet, for at genskabe en tilfredsstillende natur- og  
+
+ miljøkvalitet.
+Endvidere må man være opmærksom på § 22, stk. 4, i  
+
+ vandforsyningsloven, jf. lovbekendtgørelse nr. 71 af 17. januar  
+
+ 2007, hvoraf det fremgår, at der ved tilladelser til indvinding af  
+
+ overfladevand til dambrug altid skal opretholdes en vandforsyning på  
+
+ mindst halvdelen af medianminimumsvandføringen i vandløbet.
+ Vandforsyningsloven kan indvirke på et dambrugs produktionsforhold  
+
+ i eksempelvis tørre somre, hvor det kan blive vanskeligt for ikke at sige  
+
+ umuligt at opretholde produktionen.
+Ved et dambrugs produktion forstås vægten af tilvæksten af de på  
+
+ dambruget årligt producerede fisk (inkl. døde fisk), medens der ved  
+
+ foderkvotienten forstås den mængde foder målt i kg. der medgår til  
+
+ produktion af et kg. fisk.
+Størrelsen af det årlige højest tilladelige  
+
+ foderforbrug fastsættes af kommunalbestyrelsen ud fra den  
+
+ eksisterende produktion, vandløbets vandføring og dambrugets vanddækkede  
+
+ areal, samt dambrugenes indbyrdes beliggenhed.
+ Ved kommunalbestyrelsens tildeling af foderforbruget er der  
+
+ således taget hensyn til de aktuelle forhold på det enkelte dambrug, og  
+
+ ønsker en dambruger herefter at øge produktionen og dermed  
+
+ fodertildelingen, kræver dette en miljøgodkendelse efter  
+
+ miljøbeskyttelseslovens kapitel 5. Såfremt det findes påkrævet for  
+
+ vurderingen, kan der søges oplysning hos kommunalbestyrelsen om det  
+
+ enkelte dambrugs fodertildeling.
+Et dambrugs handelsværdi/ ejendomsværdi udtrykkes  bedst ud fra  
+
+ dets mulige produktion, hvorved forstås: vægten af tilvæksten af de på  
+
+ dambruget årligt producerede fisk.
+Et produktionsdambrugs ejendomsværdi  
+
+ skønnes at udgøre ca. 12.000 - 15.000 kr. pr. ton tilladt fodertildeling.  
+
+ I den kapitaliserede værdi af fodertildelingen/vandindvindingsretten  
+
+ indgår værdien af det grundareal, der kan henføres til selve  
+
+ dambrugsproduktionen, værdien af produktionsbygninger, værdien af vej- og  
+
+ sporanlæg i tilknytning til fodrings- og oprensningsarbejder, samt værdien  
+
+ af igangværende damme, bundfældningsbassiner og hovedstemmeværk.
+For dambrug med produktion af moderfisk fastsættes foderforbruget  
+
+ særskilt for denne del af produktionen, og den tilladte fodertildeling  
+
+ målt i ton kapitaliseres med ca. 22.000 - 25.000 kr.
+Dette skyldes, at  
+
+ foderkvotienten er væsentlig mere gunstig end for sædvanlige  
+
+ produktionsdambrug.
+ Til den kapitaliserede værdi lægges værdien af boliger, hvor der tages  
+
+ udgangspunkt i forslagsberegningerne for parcelhuse, samt værdien af  
+
+ eventuelle arealer til andre formål, se  
+
+ C.2.4 .
+ B.3.1.3.3 Havne, offentlige værker og  
+
+ rensningsanlæg m. v.
+Havnearealer er undtaget fra vurdering, for så vidt de  
+
+ tjener havnetrafikale formål, jf.
+VUL § 7, stk. 1, nr. 5, se  
+
+ A.2.2.5 .  
+
+ Andre havnearealer, herunder lystbådehavne, er vurderingspligtige.
+For udlejede havnearealer ansættes ejendomsværdien som for andre  
+
+ erhvervsmæssigt benyttede arealer, dvs. på grundlag af den oplyste  
+
+ lejeindtægt og en skønnet lejefaktor.
+Der forekommer kun få salg af  
+
+ havnearealer eller arealer, der umiddelbart kan sammenlignes dermed.
+De kommunale havnes lejefastsættelse er ikke længere undergivet  
+
+ Trafikministeriets regulering.
+Havnenes  
+
+ arealleje formodes at afspejle de stedlige  
+
+ efterspørgselsforhold, medmindre der er indgået særligt langvarige  
+
+ lejemål, f. eks. med begrænsede muligheder for at justere lejen.
+Afspejler  
+
+ areallejen ikke efterspørgselsforholdene, må der ske en tilpasning af  
+
+ lejefaktoren.
+Med hensyn til driftsudgifterne bemærkes, at havnens  
+
+ udgifter til vedligeholdelse og belysning m. v. af gader og veje til dels  
+
+ må anses for at vedrøre de udlejede arealer, medens udgifterne til  
+
+ vedligeholdelse af selve havnen og havnebassinet kun i særlige  
+
+ tilfælde har indvirkning på udlejningsarealernes  
+
+ værdi.
+ Lejefaktoren fastsættes under hensyn bl. a. til beliggenhedsmæssige  
+
+ forhold, navnlig arealernes nærhed ved motorveje og jernbaner, og til  
+
+ områdets igangværende erhvervsmæssige udvikling.
+Nogle kommuner opkræver kommunal ejendomsskat direkte hos  
+
+ havnearealernes lejere.
+Når areallejen ikke indeholder ejendomsskatter, må  
+
+ lejefaktoren fastsættes nogle points højere (2-3), end hvis lejeindtægten  
+
+ også skal dække denne udgift.
+ Hvor et udlejet havneareal er bebygget af lejeren, skal bygningerne  
+
+ vurderes selvstændigt efter reglerne for bygninger på fremmed grund, se  
+
+ B.3.5 .
+ Spildevandsanlæg  er ikke omfattet af VUL § 7,  
+
+ stk. 1, (undtaget fra vurdering) og skal derfor vurderes på normal  
+
+ måde.
+ Spildevandsanlæg ansættes til værdien i handel og vandel.  
+
+ Ejendomsvurderingen omfatter alene værkets faste anlæg, medens maskiner,  
+
+ inventar og lignende ikke medtages ved vurderingen.
+Ved vurderingen af et spildevandsanlæg bør der som udgangspunkt anslås  
+
+ en markedsværdi (lejeværdi) for de enkelte (alle) bygninger, som  
+
+ kapitaliseres på sædvanlig måde.
+Da der imidlertid er tale om ikke frit  
+
+ omsættelige ejendomme, kan det være vanskeligt at anslå en markedsværdi.  
+
+ Såfremt dette er tilfældet, må der tages udgangspunkt i  
+
+ opførelsesomkostningerne under skyldig hensyntagen til en økonomisk og  
+
+ teknisk forældelse.
+Herefter ansættes en teknisk værdi (anslået normtal)  
+
+ for samtlige vurderingspligtige bygninger og bygningsbestanddele.
+Til  
+
+ denne værdi lægges grundværdien.
+Der bliver ikke længere udmeldt normtal for disse som oftest få men  
+
+ meget specielle erhvervsbygninger, hvorfor told- og  
+
+ skatteforvaltningen henvises til eventuelt at tage udgangspunkt i  
+
+ tidligere anvendte normtal, der tillempes prisniveauet.
+Når der alene skal  
+
+ anvendes normtal ved vurderingen, skyldes det, at man derved undgår  
+
+ en sammenblanding af to vurderingsprincipper, hvor man ved anvendelse af  
+
+ markedsværdiprincippet har inkluderet grundværdien i ansættelsen, medens  
+
+ det samme ikke er tilfældet ved brug af normtalsmetoden.
+ Ejes et spildevandsanlæg af en privat interessentskab, og er der  
+
+ sammenfald mellem ejere og brugere, og er spildevandsanlægget etableret  
+
+ uden for de enkelte ejeres ejendomme, skal spildevandsanlægget efter told-  
+
+ og skatteforvaltningens opfattelse vurderingsmæssigt - på samme måde som  
+
+ grundejeres fællesarealer - ansættes til 0 kr., idet spildevandsanlæggets  
+
+ værdi forudsættes indeholdt i de enkelte ejeres ejendomsvurdering.
+Elværker og kraftvarmeværker  er ikke omfattet  
+
+ af VUL § 7, stk.1, (undtaget fra vurdering) og skal derfor vurderes  
+
+ på normal vis.
+Efter at forsyningspligtige elforsyningsvirksomheder i  
+
+ medfør af lov om elforsyning er overgået til at blive aktieselskaber pr.  
+
+ 1. januar 2000 jf.
+LBK NR. 151 af 10/03/2003 § 69,stk. 2, § 88,stk. 1, og  
+
+ § 100 sammenholdt med BEK nr. 870 af 12/09/2000 kom der mere fokus på den  
+
+ offentlige ejendomsvurdering af disse virksomheder.
+Af forannævnte  
+
+ bekendtgørelses § 1, stk. 1 og 2 fremgår det, at de omhandlede  
+
+ virksomheder ved deres stiftelse udarbejder kapitalopgørelser og  
+
+ åbningsbalancer, hvor fast ejendom værdiansættes efter den seneste  
+
+ offentlige  ejendomsvurdering,  vurderingen pr. 1. januar 2000.  
+
+ Der henvises endvidere til selskabsskattelovens § 35 O, stk. 3.
+El- og kraftvarmeværker ansættes til værdien i handel og vandel, jf.  
+
+ VUL § 6. Ejendomsvurderingen omfatter alle værkets faste anlæg, mens  
+
+ maskiner, inventar o.lign.ikke medtages ved vurderingen.
+Da el- og  
+
+ kraftvarmeværker hører til en kategori ejendomme, der ikke kan  
+
+ karakteriseres som frit omsættelige, kan det være vanskeligt at finde frem  
+
+ til en relevant markedsværdi (lejeværdi) for de egentlige  
+
+ produktionsbygninger, så som turbine- og kedelbygninger m.fl, medens det  
+
+ samme ikke er tilfældet for de til værkerne knyttede administrations- og  
+
+ mandskabsbygninger.
+Ved vurderingen af erhvervsejendomme tages der principielt udgangspunkt  
+
+ i markedsværdiprincippet, men kun såfremt princippet kan anvendes fuldt ud  
+
+ på hele ejendommen, ellers tages udgangspunkt i nyopførelsesomkostningerne  
+
+ under skyldig hensyntagen til en økonomisk og teknisk forældelse.
+Herefter  
+
+ ansættes en teknisk værdi, bestående af anslåede normtal, for samtlige  
+
+ vurderingspligtige bygninger inkl. bygningsbestandele.
+Til denne værdi  
+
+ lægges grundværdien.
+ Når told- og skatteforvaltningen opfordrer til, at man  
+
+ benytter enten markedsværdiprincippet eller normtalsprincippet, skyldes  
+
+ det, at man derved undgår en sammenblanding af to vurderingsprincipper,  
+
+ hvor man ved anvendelsen af markedsværdiprincippet har grundværdien  
+
+ inkluderet i lejen, medens det samme ikke er tilfældet ved brug af  
+
+ normtalsprincippet eller kubikmeterprincippet.
+Med hensyn til el- og kraftvarmeværker viser erfaringen, at  
+
+ markedsværdiprincippet ikke er hensigtsmæssigt for de større elværker,  
+
+ idet der på disse findes meget specielle bygninger, som er meget  
+
+ vanskelige at fastsætte en markedsværdi for, idet der hverken findes leje  
+
+ eller handelspriser for disse bygninger.
+Det drejer sig især om kedel- og  
+
+ turbinebygninger.
+Disse må nødvendigvis vurderes efter normtalsprincippet  
+
+ ud fra byggeomkostninger efter genanskaffelsesprincippet og forholdsvis  
+
+ beregning af levetid med hensyn til økonomisk og teknisk forældelse.  
+
+ Normtallet må for disse bygninger beregnes som en kubikmeterpris.
+Hele  
+
+ værket må herefter ansættes efter normtalsprincippet.
+Det vil sige, at de  
+
+ øvrige bygninger må sættes efter normtal baseret på oplysninger om  
+
+ kvadratmeterpriser på tilsvarende bygninger.
+ Markedsværdiprincippet skønnes herefter fortrinsvis at kunne anvendes i  
+
+ forbindelse med vurderingen af små og mellemstore el- og kraftvarmeværker,  
+
+ hvor der ikke forefindes meget store og specielt indrettede bygninger, der  
+
+ kan være vanskelige at håndtere.
+Ved vurderingen af selve værket er det således alene bygninger og  
+
+ bygningsbestandele inkl. sædvanligt tilbehør til den faste ejendom, der  
+
+ skal medtages ved vurderingen.
+Sondringen, mellem hvad der skal medtages  
+
+ ved vurderingen går på, hvad der er indlagt til brug for bygningens  
+
+ anvendelse til erhverv i almindelighed (tjener bygningen) som medtages ved  
+
+ vurderingen, hvorimod installationer indlagt til brug for en særlig  
+
+ erhvervsmæssig udnyttelse af bygningen (tjener erhvervet) ikke i  
+
+ vurderingsmæssig henseende betragtes som sædvanligt tilbehør til den faste  
+
+ ejendom, og derfor ikke skal medtages ved vurderingen.
+ Vandværker  er ikke omfattet af VUL § 7, stk.  
+
+ 1, (undtaget fra vurdering) og skal derfor vurderes på normal  
+
+ måde.
+Vandværker medtages således ved ejendomsvurderingen og ansættes til  
+
+ værdien i handel og vandel.
+Ejendomsvurderingen omfatter alene værkets  
+
+ faste anlæg, medens maskiner, inventar og lignende ikke medtages ved  
+
+ vurderingen.
+Da vandværker hører til en ejendomstype,der ikke kan  
+
+ karakteriseres som frit omsættelig, kan det derfor være vanskeligt at  
+
+ finde frem til en relevant markedsværdi for selve vandværket, medens det  
+
+ samme ikke gør sig gældende for de eventuelt til vandværket knyttede  
+
+ administrations- og mandskabsbygninger m.v.
+Ved vurderingen af et vandværk tages der principielt udgangspunkt i  
+
+ markedsværdiprincippet, dog kun såfremt princippet lader sig anvende  
+
+ fuldt ud på ejendommen.
+I andre tilfælde må der tages udgangspunkt i  
+
+ opførelsesomkostningerne under skyldig hensyntagen til en økonomisk og  
+
+ teknisk forældelse.
+Herefter ansættes en teknisk værdi (anslået normtal)  
+
+ for samtlige vurderingspligtige bygninger og bygningsbestanddele.
+Til  
+
+ denne værdi lægges grundværdien.
+ Når man anviser enten lejeværdiprincippet eller normtalsprincippet  
+
+ skyldes det, at man derved undgår en sammenblanding af to  
+
+ vurderingsprincipper, hvor man ved anvendelse af lejeværdiprincippet har  
+
+ grundværdien inkluderet i ansættelsen, medens det samme ikke er tilfældet  
+
+ ved brug af normtalsmetoden.
+ Hvor en  
+
+ vandindvindingsret  hviler på en  
+
+ særlig tilladelse efter lov om vandforsyning m. v., henføres retten efter  
+
+ fast vurderingpraksis ikke til den faste ejendom og medtages derfor ikke  
+
+ ved vurderingen.
+Hvor grundvand eller overfladevand (fra å eller sø) anvendes til  
+
+ brug i grundejerens husholdning, landbrug eller anden næringsdrift af  
+
+ mindre omfang, kræver indvindingen ikke særlig tilladelse.
+Værdien af  
+
+ vandindvindingen anses i så fald for at høre til den faste ejendom og  
+
+ at skulle medtages ved vurderingen.
+ Ejes et vandværk af et privat interessentskab, og er der sammenfald  
+
+ mellem interessenter og forbrugere, og vandværket er etableret uden for de  
+
+ enkelte interessenters ejendomme, skal vandværket efter told- og  
+
+ skatteforvaltningens opfattelse vurderingsmæssigt - på samme måde som  
+
+ grundejeres fællesarealer - ansættes til 0, idet vandværkets værdi  
+
+ forudsættes indeholdt i de enkelte interessenters ejendomsvurdering.
+Ved ansættelsen af disse specielle ejendomme er det alene bygninger og  
+
+ bygningsbestanddele inkl. sædvanligt tilbehør, der skal medtages ved  
+
+ ejendomsvurderingen.
+Sondringen, mellem hvad der skal og ikke skal  
+
+ medtages ved vurderingen, går på, hvad der er indlagt til brug for  
+
+ bygningens anvendelse til erhverv i almindelighed (tjener bygningen), som  
+
+ medtages ved vurderingen, hvorimod installationer indlagt til brug for en  
+
+ særlig erhvervsmæssig udnyttelse af bygningen (tjener erhvervet) ikke i  
+
+ vurderingsmæssig henseende betragtes som sædvanligt tilbehør til den faste  
+
+ ejendom, og derfor ikke medtages ved vurderingen.
+ Man skal endvidere være særligt opmærksom på, om der foregår en  
+
+ produktion i de anlæg/bygninger der findes på arealet, hvilket i  
+
+ bekræftende fald indebærer, at der er tale om løsøre/inventar, som derfor  
+
+ ikke skal medtages ved vurderingen af den faste ejendom.
+Opmærksomheden skal også rettes imod, om de eksisterende tankanlæg  
+
+ benyttes eller ej, herunder om der er mulighed for at disse eventuelt kan  
+
+ benyttes til andre formål.
+Er dette ikke tilfældet, skal der udvises  
+
+ en særlig forsigtighed ved ansættelsen af disse tankanlæg, idet disse  
+
+ meget vel kan repræsenterer en negativ værdi, da nedrivning kan være  
+
+ forbundet med store omkostninger.
+Virksomhederne lader derfor ofte  
+
+ tankanlæggene henligge ubenyttede gennem længere tid.Vedrørende den  
+
+ praktiske fremgangsmåde ved vurderingen skal der som for øvrige specielle  
+
+ erhvervsejendomme finde en vurdering sted principielt ved brug af  
+
+ markedsværdiprincippet.
+B.3.2 Særlige ejendomstyper Nogle ejendomme adskiller sig i vurderingsmæssig henseende så meget fra  
+
+ det sædvanlige, at de almindeligt kendte metoder til hjælp ved ansættelse  
+
+ af ejendomsværdien ikke kan anvendes uden videre.
+Det gælder visse  
+
+ bygningsværker af særlig historisk eller kulturel værdi.
+På andre  
+
+ ejendomskategorier anvendes markedsværdiprincippet som hjælpemiddel  
+
+ ved værdiansættelsen, men med visse forbehold som følge af, at  
+
+ ejendommene er opført og indrettet med bestemte offentlige  
+
+ formål for øje.
+ I det følgende omtales nogle af de særlige ejendomskategoriers  
+
+ forhold.
+Ved  
+
+ slotte  forstås fortrinsvis bygninger, der  
+
+ anvendes eller er blevet anvendt som officiel residens for  
+
+ medlemmer af den kongelige familie.
+De kongelige slotte ejes enten af  
+
+ staten, der stiller dem til rådighed for Kongehuset, eller af Kongehuset  
+
+ selv.
+Slotte er vurderingspligtige, men de staten tilhørende kongelige  
+
+ slotte og palæer med tilliggende er fritaget for kommunal grundskyld, jf.  
+
+ § 7, stk. 1, litra a, i den kommunale ejendomsskattelov.
+Fritagelsen  
+
+ omfatter ikke eventuel dækningsafgift efter § 23 i samme lov.
+Adskillige slotte kan i det ydre sammenlignes med  
+
+ ældre hotelbygninger.
+De fleste af dem, der ikke tjener til  
+
+ bolig for medlemmer af Kongehuset, anvendes  
+
+ imidlertid til offentlige, især kulturelle formål.
+Et par  
+
+ af dem er stillet til rådighed for Forsvaret og  
+
+ Beredskabsstyrelsen.
+Mange slotte er undergivet bygningsfredning,  
+
+ hvilket sætter snævre grænser for udnyttelsesmulighederne.
+ Størstedelen af landets  
+
+ museer  drives af det  
+
+ offentlige, men der er også et betydeligt antal, som drives af  
+
+ private fonde og stiftelser.
+De bygningsmæssige rammer for landets mange museer er vidt forskellige.  
+
+ Særligt vanskeligt er det at vurdere større ejendomme, som er opført  
+
+ specielt til museumsformål, og som ikke umiddelbart kan sammenlignes  
+
+ med ejendomme, der er opført til andre formål.
+Byggeomkostningerne  
+
+ for større museumsbygninger har ofte været meget store i forhold til  
+
+ det afkast, ejendommene må formodes at kunne give.
+De afkastbetragtninger,  
+
+ som bærer vurderingen af erhvervsejendomme m. m., er derfor  
+
+ mindre relevante for ansættelsen af ejendomsværdien.
+En del mindre museer er indrettet i afdøde kunstneres og forfatteres  
+
+ hjem, idet etableringen af museet helt eller delvis har haft til  
+
+ formål at bevare et for den pågældende og for samtiden karakteristisk  
+
+ miljø. Nogle af ejendommene er fredede.
+En alternativ  
+
+ anvendelse vil under alle omstændigheder være forbundet  
+
+ med uforholdsmæssige ombygningsomkostninger, hvilket må tages i  
+
+ betragtning ved ansættelsen af ejendomsværdien.
+Nye tidssvarende administrationsbygninger adskiller sig  
+
+ ikke afgørende fra almindelige private kontorbygninger.
+De nye  
+
+ administrationsbygninger må derfor vurderes på linie med sådanne  
+
+ bygninger.
+ Rådhuse i ældre byggestil vurderes under hensyn til, at en  
+
+ alternativ anvendelse vil være forbundet med betydelige  
+
+ ombygningsomkostninger.
+Nogle kommuner har i løbet af sidste århundrede opført meget  
+
+ veludstyrede og præsentable rådhuse, som fortsat er i brug.
+Ved  
+
+ ansættelsen af disse rådhuses ejendomsværdi må der tages udgangspunkt i  
+
+ den lejeværdi, bygningerne med tilhørende grunde ville have, hvis de i  
+
+ stedet fandt anvendelse som erhvervsejendomme, f. eks. som domicil  
+
+ for større erhvervsvirksomheder.
+Der sker fortsat en sammenlægning af rets-  
+
+ og politikredse, og mange ibrugværende og tiloversblevne ældre rets- og  
+
+ politibygninger må i dag anses for utidssvarende.
+Nyere rets- og  
+
+ politibygninger har større lighed med almindelige private  
+
+ kontorbygninger.
+ Der gør sig imidlertid det specielle forhold gældende for rets- og  
+
+ politibygningerne, at indretningen skal tage nogle sikkerhedsmæssige  
+
+ hensyn, som rækker videre end dem, indretningen af andre  
+
+ offentlige bygninger kræver.
+De fleste politibygninger er forsynet med  
+
+ detentionslokaler.
+Nogle rets- og politibygninger er bygget  
+
+ sammen med et arresthus.
+Ved ansættelsen af ejendomsværdien må det  
+
+ tages i betragtning, at sådanne lokaliteter ikke uden videre kan anvendes  
+
+ til alternative formål.
+Sygehuse er stærkt specialiserede ejendomme, der for  
+
+ størstedelens vedkommende er opført og drives af det offentlige.
+Ved  
+
+ skønnet over ejendommenes markedsværdi tages der som oftest  
+
+ udgangspunkt i den leje, der betales for moderne kontorlokaler i  
+
+ det pågældende område.
+ Ved valget af lejefaktor henses der bl. a. til, at sygehuse som  
+
+ regel er godt vedligeholdt, men med et stort spildareal ved  
+
+ anvendelse til andre formål (brede gange og højt til lofter). Derimod kan  
+
+ sygehusenes opførelsesomkostninger kun tillægges begrænset betydning,  
+
+ idet det er vanskeligt at drage en skillelinie mellem de  
+
+ omkostninger, der vedrører den faste ejendom i vurderingsmæssig forstand,  
+
+ og dem, der angår sygehusenes mange installationer.
+Plejehjem er indrettet i bygninger af meget forskellig standard.
+Nyere  
+
+ plejehjem er ofte indrettet som særlige afsnit i bygningskomplekser  
+
+ med beskyttede boliger for ældre og handicappede.
+For  
+
+ fastsættelsen af plejehjemmenes markedsværdi kan huslejeniveauet i  
+
+ boliger af tilsvarende kvalitet være vejledende.
+Østre Landsret har i en række utrykte domme statueret, at  
+
+ kolonihaver, som er medlemmer af Kolonihaveforbundet ikke må  
+
+ sælges/overdrages, uden at den pågældende have er vurderet efter  
+
+ Kolonihaveforbundets retningslinier.
+En handel skal derfor afsluttes  
+
+ indenfor rammerne af den af Kolonihaveforbundet foretagne vurdering og  
+
+ værdiansættelse.
+Vurderingen af en kolonihave, som er medlem af  
+
+ Kolonihaveforbundet skal derfor ansættes under hensyntagen til  
+
+ Kolonihaveforbundets retningslinier om maksimalpris.
+ Kolonihaver, som ikke er medlemmer af Kolonihaveforbundet må forventes  
+
+ at have handelspriser, der afviger fra Kolonihaveforbundets  
+
+ retningslinier og skal ansættes i overensstemmelse hermed.
+B.3.3 Ejendomme med landbrug, gartneri,  
+
+ planteskole eller frugtplantage For ejendomme, der helt eller delvis må anses for benyttet til  
+
+ landbrug, gartneri, planteskole eller frugtplantage, ansættes  
+
+ ejendomsværdien efter bestemmelserne i VUL §§ 9-12 sammenholdt med VUL §  
+
+ 6. Ved ejendomsværdien forstås således værdien af den faste ejendom i dens  
+
+ helhed, idet sædvanligt tilbehør til ejendommen medtages ved ansættelsen,  
+
+ se  
+
+ A.4.2 .  
+
+ Derimod medtages ikke besætning, inventar, maskiner og andet  
+
+ driftsmateriel.
+Værdien af mælkekvoter, betalingsrettigheder og  
+
+ leveringsrettigheder for f.eks. sukkerroer medtages heller  
+
+ ikke ved ansættelsen.
+Vejledende ved vurderingen af landbrugsejendomme er - som ved  
+
+ vurdering af andre ejendomme - oplysningerne om salgspriser opnået  
+
+ ved handler med tilsvarende ejendomme i den pågældende egn.
+En  
+
+ række forhold ved landbrugsejendomme gør det imidlertid vanskeligt at  
+
+ drage umiddelbare slutninger fra de indberettede salgspriser til det  
+
+ niveau, som ejendomsværdierne efter de foran anførte  
+
+ bestemmelser bør være udtryk for.
+ Hvor besætning, inventar og maskiner, beholdninger eller andet løsøre  
+
+ følger med i handlen, som det er sædvanligt ved salg af  
+
+ landbrugsejendomme, kan den af parterne foretagne fordeling af købesummen  
+
+ mellem løsøret og den faste ejendom være upræcis i  
+
+ salgsstatistisk øjemed.
+Et særligt forhold ved landbrugsejendomme er svingningerne i  
+
+ driftstilstanden i årets løb.
+Disse svingninger afspejler sig i de  
+
+ salgspriser, der opnås for ejendommene på forskellige årstider.
+Som  
+
+ en grov regel antages det, at priserne i månederne marts og september  
+
+ nogenlunde svarer til årets gennemsnit.
+I løbet af foråret og først på  
+
+ sommeren ligger priserne noget over gennemsnittet, bl. a. fordi  
+
+ afgrøder på roden normalt indgår i prisen på en  
+
+ landbrugsejendom.
+Hvor en ejendoms  
+
+ driftstilstand  efter  
+
+ ejendommens karakter svinger i årets løb, som det er tilfældet for  
+
+ landbrugsejendomme, skal ejendommens værdi ansættes i årets  
+
+ middeltilstand, jf.
+VUL § 12. Svingningerne i driftstilstanden må ikke  
+
+ forveksles med ejendommens almindelige driftstilstand, der bl. a. beror på  
+
+ forhold som vekseldrift af jorden, vedligeholdelse af bygningerne m.  
+
+ v.
+ Når bortses fra den modifikation, der følger af bestemmelsen i VUL  
+
+ § 12, er det landbrugsejendommens tilstand på vurderingstidspunktet, der  
+
+ skal lægges til grund ved ansættelsen, se  
+
+ A.3 .
+Efter mangeårig praksis beregnes ejendomsværdien for flertallet af  
+
+ landbrugsejendomme som summen af Hvor driftsbygningernes tekniske værdi overstiger tillægsparcelværdien,  
+
+ indgår den tekniske bygningsværdi i opgørelsen i stedet  
+
+ for jordens forskelsværdi (tillægsparcelværdien).
+ For ubebyggede landbrugslodder ansættes ejendomsværdien som summen  
+
+ af ejendommens grundværdi og tillægsparcelværdien, der tilsammen skal  
+
+ svare til handelsværdien.
+ Stuehusets bygningsværdi beregnes i praksis omtrent som bygningsværdien  
+
+ for et enfamiliehus, dvs. som et multiplum af stuehusets vægtede  
+
+ etageareal og et normtal, der udtrykker vurderingsniveauet.  
+
+ Normtallene er generelt noget lavere end normtallene for enfamiliehuse,  
+
+ bl. a. under hensyn til at stuehuse ikke kan afhændes selvstændigt og  
+
+ til de ulemper, der er forbundet med at have sin bolig i umiddelbar  
+
+ forbindelse med de landbrugsmæssige driftsbygninger.
+Omfatter en landbrugsejendom andre boliger end stuehuset såsom  
+
+ aftægtsboliger, medhjælperboliger og lejeboliger, beregnes der tillige en  
+
+ selvstændig bygningsværdi for hver bolig.
+Tjener en sådan bolig andre  
+
+ formål end landbrugsmæssige, idet den f. eks. udlejes til andre end  
+
+ personer, som er beskæftiget på landbrugsejendommen, skal det areal, der  
+
+ skønnes at høre til boligen, vurderes med udgangspunkt i  
+
+ grundværdiniveauet for tilsvarende parcelhuse.
+Efter fast praksis anses en  
+
+ aftægtsbolig i denne forbindelse for at tjene et landbrugsmæssigt  
+
+ formål.
+For landbrugsejendomme og ejendomme, som efter VUL § 33,  
+
+ stk. 1, sidestilles hermed, skal den landbrugsmæssigt benyttede jord  
+
+ ansættes efter den såkaldte bondegårdsregel i VUL § 14, stk. 1-3, se  
+
+ C.2.4 . Ejendomsværdien skal imidlertid  
+
+ være udtryk for værdien i handel og vandel.
+I det omfang  
+
+ bondegårdsreglen fører til, at den landbrugsmæssigt benyttede jord  
+
+ ansættes til en grundværdi, der er lavere end handelsværdien, hvilket er  
+
+ den praktiske hovedregel, repræsenterer jorden en forskelsværdi, der  
+
+ må indgå i ejendomsværdien.
+Jordens forskelsværdi kaldes  
+
+ tillægsparcelværdien.
+ Tillæggets størrelse varierer betydeligt fra egn til egn, afhængigt bl.  
+
+ a. af jordbrugsstrukturen og efterspørgslen efter jord.  
+
+ Tillægsparcelværdiprocenten har generelt været stigende, fra 100-150 pct.  
+
+ ved 18. almindelige vurdering pr. 1. januar 1986 til 200-400 pct. ved  
+
+ vurderingen pr. 1. oktober 2006.
+En af forudsætningerne for den beregningsmetode, hvor  
+
+ jordens forskelsværdi (tillægsparcelværdien) anvendes til at afstemme  
+
+ ejendomsværdien, er, at landbrugsejendommes driftsbygninger spiller en  
+
+ underordnet rolle for disse ejendommes handelsværdi, se Skat  
+
+ 1989.4.345. Da denne forudsætning ikke altid holder stik, må der  
+
+ udøves et selvstændigt skøn over værdien af driftsbygningerne.
+Til støtte  
+
+ for udøvelsen af dette skøn beregnede den daværende Told- og  
+
+ Skattestyrelse ved 20. almindelige vurdering pr. 1. januar 1996  
+
+ vejledende normtal for staldbygninger, lader og maskinhuse  
+
+ m.v.
+SKAT kan anvende disse normtal  
+
+ efter fremskrivninger under hensyn til prisudviklingen.
+På grund af den specielle regel (bondegårdsreglen) for  
+
+ grundværdiansættelsen for landbrugsejendomme er de ha-priser,  
+
+ som SKAT har fastsat, se afsnit  
+
+ C.2.4 ,  
+
+ ikke udtryk for landbrugsjordens handelsværdi.
+For hovedparten af de  
+
+ øvrige ejendomstyper gælder, at forskellen mellem ejendomsværdi og  
+
+ grundværdi (forskelsværdien) er udtryk for bygningernes værdi, medens  
+
+ dette ikke gælder ubetinget for landbrugsejendomme.
+For at opfylde vurderingslovens bestemmelser om, at ejendomsværdien  
+
+ skal svare til handelsværdien, anvendes tillægsparcelværdiprincippet,  
+
+ hvor der gives et tillæg til den landbrugsmæssige grundværdi for at "nå op  
+
+ til" jordens handelsværdi.
+Dette tillæg udgør ofte 150-400 pct., afhængig  
+
+ af prisniveauet i det pågældende område af landet.  
+
+ Tillægsparcelværdiprincippet er alene en praktisk beregningsmetode, for at  
+
+ finde frem til en korrekt handelsværdi ved ejendomsværdiansættelsen  
+
+ (mindsteejendomsværdien).
+Tillægsparcelværdiprocenten er ikke en konstant størrelse, der  
+
+ gælder for alle ejendomme i et givet område.
+Størrelsen, der er individuel  
+
+ fra egn til egn og fra ejendom til ejendom, er afhængig af behovet for  
+
+ suppleringsjord og efterspørgsel efter jord i almindelighed i området.  
+
+ Driftsbygningerne ansættes til den værdi de skønnes at indgå med på den  
+
+ givne ejendom, bl.a. med baggrund i de erfaringer, man har fra  
+
+ konstaterede salg.
+Der er to måder at beregne ejendomsværdien på.
+På den ene sker der en  
+
+ skarp afgrænsning af, om det er jordens værdi (inkl. tillægsparcelværdi)  
+
+ eller driftsbygningerne, der er afgørende for ejendommens handelsværdi.  
+
+ Udgangspunktet er her, at det er jordens værdi, der er afgørende, og først  
+
+ når driftsbygningerne på en given ejendom har en værdi, der overstiger  
+
+ tillægget til grundværdien, påvirker driftsbygningerne ejendomsværdien,  
+
+ jf. nedenstående 2 eksempler:
+ Tillægsparcelværdi:
+Landbrugsmæssig grundværdi 40 ha á 40.000kr 1.600.000 kr 800.000 kr Driftsbygningernes tekniske  
+
+ værdi =    400.000 kr 3.200.000 kr 5.600.000 kr 800.000 kr 120.000 kr 920.000 kr 8.000 kr Driftsbygningernes tekniske værdi:
+1.600.000 kr 800.000 kr 6.000.000 kr 8.400.000 kr 800.000 kr 120.000 kr 920.000 kr 8.000 kr Tillægsparcelværdiprocenten sættes ved denne metode, således at jorden  
+
+ tillægges en værdi, der fuldt ud svarer til handelsværdien, hvis den blev  
+
+ solgt i fri handel uden tilhørende bygninger.
+Den anden måde (kombineret metode) er at lade både et tillæg til  
+
+ grundværdi og en værdi af driftsbygninger indgå i ejendomsværdien.
+Herved  
+
+ sker der en tilnærmelse til de fordelinger, der kan konstateres i konkrete  
+
+ handler, og vurderingsmeddelelsen bliver lettere at forstå for ejerne, jf.  
+
+ nedenstående eksempel:
+ Kombineret metode:
+1.600.000 kr 800.000 kr 2.500.000 kr 1.600.000 kr 6.500.000 kr 800.000 kr 120.000 kr 920.000 kr 8.000 kr Man må ved valg af metode individuelt tilpasse såvel  
+
+ tillægsparcelværdiprocent som værdi af driftsbygninger, således at  
+
+ ejendomsværdien kommer til at svare til ejendommens handelsværdi og altså  
+
+ ikke bliver afhængig af beregningsmetode.
+ Prisdannelsen for landbrugsejendomme medfører, at man ved vurderingen  
+
+ med rimelighed kan inddele ejendommene i 2 grupper:
+ Begge grupper kan endvidere opdeles i planteavlsejendomme og ejendomme  
+
+ med animalsk produktion.
+ SKAT kan med fordel foretage sammenligninger indenfor disse  
+
+ grupper for at sikre sig, at der er anvendt et ensartet  
+
+ vurderingsniveau.
+ På større landbrugsejendomme kan f. eks. jagten begrunde et individuelt  
+
+ tillæg til ejendomsværdien.
+ Ved ændring af afskrivningsloven og ejendomsavancebeskatningsloven i  
+
+ 1999 blev der indført regler om, at parterne i en handel selv skal aftale  
+
+ købesummens fordeling på grund, bygninger, stuehus, mælkekvoter m.v., jf.  
+
+ LV  
+
+ E.C.1.2.2.1  
+
+ og  
+
+ E.J.2.1.4 .
+I forbindelse med vurderingen træffer SKAT bestemmelse  
+
+ om, hvorvidt en ejendom helt eller delvis må anses for benyttet til  
+
+ landbrug, gartneri, planteskole eller frugtplantage, eller til hvilken  
+
+ benyttelse ejendommen i øvrigt henføres, jf.
+VUL § 33, stk. 1.
+ For at afgøre om en ejendom karakteriseres som en landbrugsejendom  
+
+ eller en beboelsesejendom i vurderingslovens fostand er det uden  
+
+ betydning, om den ligger i landzone eller er pålagt landbrugspligt.  
+
+ Det er ligeledes uden betydning om ejer selv forestår driften, om det  
+
+ sker ved maskinstation eller ved bortforpagtning.
+ Som grundlag for SKATs stillingtagen til, om en ejendom skal  
+
+ anses for landbrugsmæssigt benyttet, henses der bl. a. til:
+Hvor ejendommens arealtilligende er mindre end 5½ ha, eller den  
+
+ landbrugsmæssige udnyttelse af ejendommen er helt underordnet i forhold  
+
+ til beboelsen, må ejendommen forventes henført til beboelse og ikke til  
+
+ landbrugsmæssig benyttelse.
+Omvendt vil ejendomme med jordtilliggender på  
+
+ mere end 5½ ha, som drives landbrugsmæssigt, normalt skulle henføres til  
+
+ landbrugsmæssig benyttelse, se TfS. 2000, 707.
+ I henhold til VUL § 33, stk. 4, foretages der stuehusfordeling i  
+
+ forbindelse med vurdering af landbrug, gartneri, planteskole og  
+
+ frugtplantage, dvs. for ejendomme der er omfattet af VUL § 33, stk.  
+
+ 1.
+ Der skal således foretages stuehusfordeling for ejendomme, der benyttes  
+
+ helt eller delvist til landbrug m. v., uanset om ejer bebor  
+
+ ejendommen.
+Til stuehuset henføres bygninger eller dele af bygninger (f. eks. en  
+
+ selvstændig lejlighed), der anvendes til eller er bestemt til beboelse for  
+
+ ejer.
+En selvstændig lejlighed forudsætter eget køkken (med afløb og fast  
+
+ kogeinstallation) og tilhørende toiletforhold.
+ Såfremt der findes flere boliger (lejligheder) på en landbrugsejendom  
+
+ og der er flere ejere, foretages der stuehusfordeling for hver bolig  
+
+ (lejlighed), der bebos af en af ejerne.
+I tilfælde hvor ingen ejer bebor en landbrugsejendoms bolig(er),  
+
+ foretages der stuehusfordeling for den bolig der naturligt anses for  
+
+ bestemt til beboelse for ejer - også selv om den pågældende bolig er  
+
+ udlejet.
+Det bemærkes at udleje i øvrigt, samt aftægtsboliger, funktionær-  
+
+ og arbejderboliger falder uden for ejerboligbegrebet.
+ Ved stuehusvurderingen skønnes over, hvor stor en del af  
+
+ ejendomsværdien, der kan henføres til stuehuset.
+ Ved fordeling af ejendomsværdien medtages alle værdielementer, som kan  
+
+ henføres til stuehuset som ejerbolig, herunder også værdi af  
+
+ boligmomentet.
+ Ved landbrugsejendomme fremgår det ikke entydigt af Bygnings- og  
+
+ boligregistret, hvilke udhusarealer, der kan henføres til  
+
+ beboelsen.
+Kun i sjældne tilfælde, hvor garager, vaskerum mv. i udhusarealer  
+
+ tilfører ejendommen en ekstra høj boligværdi, påvirkes stuehusfordelingen  
+
+ heraf.
+Et evt. tillæg til bygningsværdien fastsættes skønsmæssigt.
+Ved stuehusfordelingen tages der ikke hensyn til, om en del af  
+
+ stuehuset anvendes til andet end beboelse.
+Stuehusfordeling kan således  
+
+ ikke ske efter reglerne om blandede privat og erhvervsmæssigt benyttede  
+
+ ejendomme, jf.
+VUL § 33, stk. 5. De indkomstlignende myndigheder må her  
+
+ skønne over, hvor stor en del af stuehuset, der kan henføres til  
+
+ henholdsvis beboelse og erhvervsmæssig benyttelse.
+For stuehuse i landzone ansættes disses grund og have til  
+
+ landbrugsmæssig grundværdi, dvs. til samme ha-pris som for den  
+
+ landbrugsjord, hvor de ligger.
+Stuehusgrundværdien er dermed ikke udtryk  
+
+ for den reelle grundværdi, se nedenfor om det såkaldte  
+
+ boligmoment.
+ Såfremt et stuehus ligger i byzone, ansættes dets grundværdi  
+
+ efter VUL § 16.
+ Der findes ingen salgsstatistiske oplysninger for de dele af en  
+
+ landbrugsejendom, hvorpå ejendommens beboelse ligger.
+ Bygningsværdien beregnes på grundlag af parcelhusmodellen,  
+
+ som SKAT eventuelt korrigerer under hensyntagen til omfanget af  
+
+ de ulemper, der er forbundet med at have sin beboelse i umiddelbar  
+
+ forbindelse med de landbrugsmæssige driftsbygninger og på grund af den  
+
+ almindelige usikkerhed i øvrigt.
+For at nå frem til stuehusets ejendomsværdi skal bygningsværdien  
+
+ tillægges boliggrundværdien, også kaldet boligmomentet.
+Som omtalt i  
+
+ kap.
+C indeholder ha-priserne det  
+
+ boligmoment , der er knyttet til en landbrugsejendom af  
+
+ gennemsnitlig størrelse uden særlig beliggenhedsværdi.
+Der er altså tale  
+
+ om en værdi, som skal henføres til stuehusets ejendomsværdi, og den skal  
+
+ svare nogenlunde til grundværdien for de omkringliggende parcelhuse.
+Da  
+
+ ha-prisen efter lovens bestemmelser fastsættes på grundlag af den  
+
+ middelstore ejendom - det vil sige 30 - 35 ha - og grundværdien for  
+
+ parcelhuse i landbrugsområder typisk udgør ca. 60.000 kr. til ca. 150.000  
+
+ kr., betyder det, at der er medregnet et boligmoment i ha-priserne på ca.  
+
+ 2.000 kr. til ca. 5.000 kr. afhængig af, hvor i landet man befinder  
+
+ sig.
+De fastlagte ha-priser, der indeholder såvel den bonitetsbestemte værdi  
+
+ som værdi af boligmomentet, anvendes for såvel store som små  
+
+ landbrugsejendomme.
+Det medfører, at den ansatte grundværdi indeholder  
+
+ "for lidt" boligmoment for den lille ejendom og "for meget" boligmoment  
+
+ for den store ejendom, hvilket må reguleres i ejendomsværdiansættelsen.  
+
+ Der må således tillægges de mindre ejendomme et "manglende boligmoment" i  
+
+ ejendomsværdien, således at boligmomentet svarer til  
+
+ gennemsnitsejendommen.
+På grund af de i øvrigt forekommende værdielementer vil regulering for  
+
+ manglende boligmoment være klart påviselig ved vurdering af små  
+
+ landbrugsejendomme, hvorimod de normalt væsentlig større værdielementer i  
+
+ øvrigt på større landbrugsejendomme vil medføre, at regulering for "for  
+
+ meget" boligmoment vil falde indenfor den almindelige skønsusikkerhed.  
+
+ Normalt øges antallet af beboelser relativt parallelt med arealet, men der  
+
+ kan forekomme meget store landbrugsejendomme, som af en eller anden grund  
+
+ kun har en enkelt eller ganske få boliger.
+I så fald kan regulering af  
+
+ "for meget" boligmoment i forskelsværdien overstige skønsusikkerheden.
+ Det er imidlertid SKATs opfattelse, at problemerne omkring  
+
+ boligmoment som en standardiseret andel af ha-priserne primært er knyttet  
+
+ til vurdering af små landbrugsejendomme.
+Til ejendomme med en særlig naturskøn beliggenhed eller beliggende tæt  
+
+ ved større byer kan der være knyttet et ekstra boligmoment ud over det,  
+
+ der allerede er indregnet i ha-priserne.
+Dette ekstra boligmoment må i  
+
+ disse tilfælde tages i betragtning ved såvel ejendomsværdiberegningen som  
+
+ ved stuehusansættelsen.
+ Boligmomentet (incl. eventuelt ekstra boligmoment) for den middelstore  
+
+ ejendom på ca. 30 ha skal altid indgå i stuehusets ejendomsværdi.
+ Forholdene vedrørende boligmomentet og ekstra boligmoment er vist i  
+
+ følgende beregningseksempler:
+ Landbrugsmæssige grundværdi: 40.000 kr. pr. ha, heraf udgør  
+
+ boligmomentet 4.000 kr. pr. ha, svarende til et samlet boligmoment på  
+
+ 120.000 kr. (beregnet med udgangspunkt i en middelstor landbrugsejendom på  
+
+ 30 ha, d.v.s. 30 ha á 4.000 kr.).
+ 400.000 kr.
+ 800.000 kr.
+ 800.000 kr.
+ 80.000 kr.
+ 2.080.000 kr.
+ 800.000 kr.
+ 120.000 kr.
+ 920.000 kr.
+ 8.000 kr.
+ Da ejendommen kun er på 10 ha "mangler" der 80.000 kr., som skal indgå  
+
+ såvel i ejendomsværdi som stuehusets ejendomsværdi.
+ 1.200.000 kr.
+ 2.400.000 kr.
+ 800.000 kr.
+ 4.400.000 kr.
+ 800.000 kr.
+ 120.000 kr.
+ 920.000 kr.
+ 8.000 kr.
+ Da ejendommen svarer til middelstørrelsen, er der via grundværdien  
+
+ indregnet et korrekt boligmoment (30 ha á 4.000 kr. = 120.000 kr.),  
+
+ hvorfor der ikke skal ske nogen regulering i ejendomsværdien.
+ 2.400.000 kr.
+ 5.000.000 kr.
+ 800.000 kr.
+ 8.200.000 kr.
+ 800.000 kr.
+ 120.000 kr.
+ 920.000 kr.
+ 8.000 kr.
+ Da ejendommen overstiger middelstørrelsen, er der indregnet 120.000 kr.  
+
+ "for meget" boligmoment i ejendomsværdien, som eventuelt kunne reguleres i  
+
+ ejendomsværdien, såfremt der ikke findes andre boliger på ejendommen.
+ Såfremt ovennævnte ejendomme havde haft en særlig bynær og/eller  
+
+ naturskøn beliggenhed, hvis værdi skønsmæssigt kunne anslås til f.eks.  
+
+ 200.000 kr. skulle der i alle tre eksempler indgå værdi af ekstra  
+
+ boligmoment på 200.000 kr. i såvel ejendomsværdi som stuehusets  
+
+ ejendomsværdi udover de allerede indregnede 120.000 kr.
+For   
+
+ gartnerier  og  
+
+ planteskoler  skal den forskelsværdi, som jordens  
+
+ relativt intensive anvendelse kan betinge, medtages ved ansættelsen af  
+
+ ejendomsværdien.
+Gartneriprodukter og planteskoleplanter på  
+
+ roden medtages ifølge praksis ikke under ejendomsværdien.  
+
+ Dette er bl. a. begrundet i gartneriprodukters og planteskoleplanters  
+
+ korte omløbstid.
+ Ejendomsværdien skal være et udtryk for værdien i handel og  
+
+ vandel af ejendommen med den derpå værende beplantning af frugttræer og  
+
+ frugtbuske.
+ Beplantningen medtages under ansættelsen, selv om den endnu ikke er så  
+
+ gammel, at den giver udbytte.
+ Ved 2002-vurderingen blev der taget udgangspunkt i følgende værdier pr.  
+
+ ha. bevokset areal.
+Kernefrugt (æbler og pærer) Aldersklasse år Under 2.000 træer/ha kr./ha Over 2.000 træer/ha kr./ha 0 -   3 30.000 60.000 4 -   8 40.000 85.000 9 - 12 30.000 60.000 over12 15.000 15.000 Frugttræernes værdi vil som regel være jævnt stigende i aldersklasserne  
+
+ mellem nyplantning og 8 års alderen, hvor træerne når deres fulde  
+
+ værdi.
+Buskfrugt (solbær, ribs, stikkelsbær og hindbær) kr./ha.
+0 - 3 18.000 4 - 8 30.000 over 8 10.000 Stenfrugt (surkirsebær, sødkirsebær og blommer) kr./ha 0 -   5 20.000 6 - 15 35.000 over 15 10.000 De anførte tal kan kun betragtes som vejledende, og der må i det  
+
+ enkelte tilfælde skønnes over beplantningens værdi under hensyn til  
+
+ sorter, plantagens tilstand og andre særlige forhold, herunder  
+
+ jordbundsforhold og navnlig klimaforhold, samt til om der er fornøden  
+
+ læplantning og indhegning.
+Det er endvidere en forudsætning for  
+
+ ansættelsen af maksimumværdierne, at plantagens sundhedstilstand og vækst  
+
+ er god.
+ Værdien af vandingsanlæg skal medtages ved ansættelsen af  
+
+ ejendomsværdien.
+B.3.4 Skovejendomme For  
+
+ skovbrugsejendomme  ansættes  
+
+ ejendomsværdien efter bestemmelserne i VUL §§ 9-12 sammenholdt med VUL §  
+
+ 6. Ved ejendomsværdien forstås således værdien af den faste ejendom i dens  
+
+ helhed, idet sædvanligt tilbehør til ejendommen medtages ved ansættelsen,  
+
+ se  
+
+ A.4.2 .
+I forbindelse med vurderingen træffer told- og skatteforvaltningen  
+
+ bestemmelse om, hvorvidt en ejendom overvejende må anses for benyttet til  
+
+ skov eller plantage.
+Afgrænsningen mellem skovbrugsejendomme og  
+
+ landbrugsejendomme er ikke nærmere fastlagt, men i praksis henføres  
+
+ ejendomme, der både omfatter landbrug og skov, til landbrugsmæssig  
+
+ benyttelse, medmindre landbruget er af uvæsentligt omfang.
+Vejledende ved vurderingen af skovbrugsejendomme er - som ved  
+
+ vurderingen af andre ejendomme - oplysningerne om salgspriser opnået ved  
+
+ handler med tilsvarende ejendomme i den pågældende egn.
+Antallet af salg  
+
+ af skovbrugsejendomme er imidlertid for lille til, at de kan danne  
+
+ tilstrækkeligt statistisk grundlag for fastlæggelsen af et retvisende  
+
+ vurderingsniveau.
+En skovbrugsejendoms ejendomsværdi må derfor  
+
+ ansættes efter et konkret skøn over handelsværdien.
+Som handelsværdi anses det beløb, som ejeren antages at kunne få  
+
+ for skoven, hvis den sælges til en benyttelse, der efter skovens  
+
+ beskaffenhed og udnyttelsesmuligheder må anses for den økonomisk mest  
+
+ hensigtsmæssige.
+Ved bedømmelsen af udnyttelsesmulighederne spiller  
+
+ det en væsentlig rolle, om skoven er undergivet fredskovpligt, se  
+
+ A.5.2 .
+Under skovbrugsejendommes ejendomsværdi medtages Til skoven henregnes hele det bevoksede areal, herunder de til  
+
+ skovdriften hørende hegn, veje, brandlinier og grøfter.
+Den bestående  
+
+ vedmasse medtages ved ansættelsen af ejendomsværdien.
+Handelsværdien af en skov er meget afhængig af bevoksningens alder,  
+
+ idet en bevoksning tæt på den hugstmodne alder repræsenterer en større  
+
+ værdi end en yngre bevoksning.
+Handelsværdien er endvidere meget afhængig  
+
+ af træarternes sammensætning.
+For yngre plantagers vedkommende bør  
+
+ der udvises særlig forsigtighed ved skønnet over  
+
+ udviklingsmulighederne.
+Til brug ved vurderingen af skovbrugsejendomme vil der  
+
+ hvert fjerde år blive udsendt såkaldte skovskemaer til ejerne af disse  
+
+ ejendomme.
+De af ejerne afgivne oplysninger har i almindelighed været lagt  
+
+ til grund ved ansættelsen af ejendomsværdien og fastsættelsen af  
+
+ "normalværdien". Normalværdien danner udgangspunkt for ansættelsen af  
+
+ grundværdien, jf.
+VUL § 15, se  
+
+ C.2.5 .  
+
+ Der er udsendt skovskemaer til ejere af skovejendomme på mere end 25  
+
+ ha forud for vurderingen pr. 1. oktober 2006.
+ Som hjælpemiddel ved ansættelsen af ejendomsværdien  
+
+ anvender SKAT nogle af SKAT udarbejdede tabeller over  
+
+ forskellige træarters værdi pr. ha, varierende efter alder og bonitet.
+ Vurderingstabellerne udarbejdes på grundlag af de venteværdier, som  
+
+ Dansk Skovforening beregner for de enkelte træarter og boniteter.
+Venteværdien er et udtryk for den beregnede værdi af en bestemt  
+
+ bevoksning på et bestemt tidspunkt.
+Værdien bestemmes af bevoksningens  
+
+ alder, den optimale omdriftsalder og jordens egnethed til at dyrke netop  
+
+ den træart (boniteten). For at beregne venteværdien på et bestemt  
+
+ tidspunkt tilbagediskonteres de fremtidige indtægter ved hugst og de  
+
+ direkte knyttede driftsudgifter med en fast rente.
+I Skovforeningens  
+
+ Økonomiske Tabelværk beregnes venteværdierne med forskellige  
+
+ renteforudsætninger.
+ Som illustration af rentefodens betydning kan det oplyses, at  
+
+ venteværdien ved vurderingen pr. 1. oktober 2006, for en 30-årig  
+
+ rødgran, bonitet 1 med en omdriftsalder på 60 er på 193.000 kr. pr.  
+
+ ha. ved en rente på 1 procent, mens venteværdien ved en rente  
+
+ på 3 procent er på 64.000 kr. pr. ha.
+ Venteværdier anvendes i skovbruget som et planlægningsværktøj, på  
+
+ nogenlunde samme måde, som beregning af dækningsbidrag i  
+
+ landbrugsproduktionen anvendes til at lægge markplaner.
+ Da der i venteværdierne ikke er taget højde for de udgifter, der ikke  
+
+ er direkte knyttet til produktionen i den enkelte skovafdeling, som  
+
+ eksempelvis hegning og grøftning, leverer Dansk Skovforening også  
+
+ oplysninger om disse omkostninger, som ligeledes tilbagediskonteres og  
+
+ fratrækkes venteværdierne før vurderingstabellerne udarbejdes.
+Som nævnt har valget af rentefod stor betydning for venteværdien og  
+
+ dermed også på de værdier, der indgår i vurderingstabellerne.
+Ved  
+
+ vurderingen pr. 1. oktober 2006 blev der anvendt en rente på 1,5  
+
+ procent.
+Ved denne rentesats var der størst overensstemmelse mellem  
+
+ handelspriserne på solgte skove og modelberegningerne.
+Tabellerne er baseret på undersøgelser af kapitalværdien af det  
+
+ forventede nettoudbytte af et bredt udsnit af skovbrugsejendomme.  
+
+ Tabelværdierne pr. 1. oktober 2006 fremgår af  
+
+ bilag       1 . De forudsætter normal driftstilstand på ejendommene,  
+
+ herunder  
+
+ almindelig bevoksningstæthed og sædvanlig, god vedligeholdelse.
+Til  
+
+ værdien af en nyplantning må lægges værdien af eventuelle overstandere,  
+
+ jf. nedenfor.
+Da udgifterne til at plante ny skov er store, er det blevet  
+
+ almindeligt at foretage en såkaldt selvforyngelse af skoven.
+Det foregår  
+
+ ved, at der ryddes et areal bortset fra enkelte større løvtræer, som kan  
+
+ tjene som frøkilde og som "ammetræer" for de selvsåede planter.
+De  
+
+ tilbageværende træer kaldes overstandere.
+For skovarealer, hvor ejeren efter Skov- og  
+
+ Naturstyrelsens bestemmelse er afskåret fra at udnytte skoven  
+
+ forstmæssigt (urørt skov eller værnskov), kan der være grundlag for  
+
+ at give et nedslag i den beregnede ejendomsværdi.
+Der kan derimod ikke  
+
+ gives nedslag i ejendomsværdien, fordi ejeren af dyrkningsmæssige årsager  
+
+ bevarer visse bevoksninger ud over modningsalderen eller anvender mindre  
+
+ ydedygtige træarter som værn mod stormfald.
+Sådanne foranstaltninger må  
+
+ anses som led i den normale skovdrift.
+ Væsentlige skader på skoven som følge af f. eks. stormfald, svamp  
+
+ eller barkbilleangreb, vil kunne betinge nedslag i ejendomsværdien.  
+
+ Overstiger udgifterne til renholdelse og vedligeholdelse, hvad der er  
+
+ sædvanligt, fordi skoven har et særlig stort publikumsbesøg, må de  
+
+ ekstra udgifter kapitaliseres og fradrages i skovens  
+
+ ejendomsværdi.
+ Der skal ved ansættelsen af en skovejendoms ejendomsværdi tages hensyn  
+
+ til følgende  
+
+ individuelle forhold :
+For de til ejendommene hørende ubevoksede arealer må  
+
+ værdien udfindes som for andre tilsvarende ejendomme.
+Er de ubevoksede  
+
+ arealer undergivet fredskovpligt, må der tages hensyn hertil, jf.  
+
+ ovenfor.
+ Knytter der sig landbrugsarealer til en skovbrugsejendom (uden at  
+
+ ejendommen som sådan er blevet henført til landbrugsmæssig benyttelse, jf.  
+
+ nedenfor), medtages disse arealer i ejendomsværdien  
+
+ til handelsværdien.
+Boliger på en skovbrugsejendom, herunder  
+
+ tjenestesteder , dvs. boliger for det ved skovdriften  
+
+ beskæftigede personale, må vurderes under hensyn  
+
+ til anvendelsesmulighederne.
+Er boligen beliggende på et  
+
+ fredskovpligtigt areal, må der tages hensyn hertil.
+Selv om boligen ikke  
+
+ ligger i fredskov, vil planlovgivningen som regel være til hinder for, at  
+
+ den kan omsættes selvstændigt.
+Boliger, der udlejes til andre end de  
+
+ ved skovdriften beskæftigede, vurderes under hensyn til deres  
+
+ fremtidige afkast.
+ I ejendomsværdien indgår foruden boligens bygningsværdi værdien af  
+
+ grunden beregnet på grundlag af en af SKAT fastsat kvadratmeterpris.  
+
+ Som vejledende regel henføres der 800 m2 grund til  
+
+ hver bolig.
+For skovbrugsejendomme foretages der i forbindelse med vurderingen  
+
+ fordeling af ejendomsværdien på den del, der tjener til bolig for ejeren,  
+
+ og på den øvrige ejendom, jf.
+VUL § 33, stk. 7. Der foretages kun  
+
+ ejerboligfordeling, hvis ejeren faktisk bor på ejendommen.
+Der  
+
+ skal dog også foretages boligfordeling i tilfælde, hvor en bolig på  
+
+ ejendommen stilles til rådighed for en nærmere bestemt personkreds, jf.
+LL  
+
+ § 16, stk. 9, og § 16 A, stk. 10.
+I forbindelse med vurderingen fastsætter SKAT ejerboligens  
+
+ ejendomsværdi.
+I ejendomsværdien indgår foruden boligens bygningsværdi  
+
+ værdien af det grundareal, som skønnes at høre til boligen.
+Ejerboligen  
+
+ formodes at repræsentere en værdi svarende til, hvad et tilsvarende  
+
+ parcelhus i det åbne land ansættes til.
+Der gives eventuelt et  
+
+ skønsmæssigt nedslag under hensyn til boligens konkrete  
+
+ placering.
+Der foretages ingen fordeling af  
+
+ grundværdien.
+ Ved lov nr. 406 af 8. maj 2006 om ændring af selskabsskatteloven,  
+
+ vurderingsloven og andre skattelove er der med virkning fra og med den 1.  
+
+ januar 2006 gennemført bestemmelser, hvorefter der for skovbrugsejendomme  
+
+ med mindst 25 ha skov, og som ejes af andre end stat og kommune, skal  
+
+ foretages en fordeling af ejendomsværdien på den del af ejendommen, der  
+
+ benyttes til skov, og på den øvrige del af ejendommen.
+ Bestemmelsen er indsat i VUL § 33, stk. 7.
+ Se endvidere  
+
+ E.2 .
+Særlige indtægtskilder  kan hidrøre fra  
+
+ plantninger af pyntegrønt og juletræer, hvis omdriftsalder er særlig kort.  
+
+ Tillægget til ejendomsværdien for disse plantninger beregnes i praksis på  
+
+ grundlag af ejernes oplysninger om omsætningen med de pågældende  
+
+ produkter.
+Afkastet anses at udgøre 25 pct. af omsætningen og  
+
+ kapitaliseres under hensyn til den aktuelle rentefod og  
+
+ afsætningsudsigterne.
+ Indtægtskilder, der hidrører fra betaling for campering m. m. og fra  
+
+ traktørsteder etc., knytter sig hovedsagelig til grundværdien.
+I det omfang, der er knyttet særligt store jagtindtægter til  
+
+ skovbrugsejendommen, må der gives et individuelt tillæg til  
+
+ ejendomsværdien.
+Se endvidere  
+
+ C.2.5 .
+B.3.5 Bygninger på fremmed grund Ejes bygningerne på en ejendom af en anden end grundens ejer, og der  
+
+ således foreligger to selvstændige ejendomme, vurderes bygningerne for sig  
+
+ og grunden for sig, jf.
+VUL § 11, første led.
+Ved ansættelsen af  
+
+ ejendomsværdien tages der for begge ejendommes vedkommende hensyn til  
+
+ kontraktsforholdet mellem parterne, dvs. grundejeren og ejeren af  
+
+ bygningerne, jf.
+VUL § 11, sidste led.
+Der skal således aktuelt tages hensyn til lejemålets varighed,  
+
+ grundlejens størrelse, eventuelle begrænsninger i bygningernes  
+
+ anvendelsesmuligheder og en eventuel forpligtelse til at fjerne  
+
+ bygningerne ved lejemålets ophør.
+Har grundejeren ret til at  
+
+ forlange grunden ryddet ved lejemålets ophør, og må det forventes, at  
+
+ denne ret vil blive håndhævet, påvirker dette forhold bygningernes  
+
+ værdi i tiltagende grad, efterhånden som lejeperioden nærmer sig sit  
+
+ udløb.
+Ofte har grundejeren imidlertid en interesse i at forny  
+
+ lejemålet efter en aftalt lejeperiodes udløb.
+Muligheden herfor må indgå  
+
+ ved bedømmelsen af kontraktsforholdet.
+Landsskatteretten har således  
+
+ stadfæstet en ejendomsværdiansættelse af en lager- og kontorbygning på  
+
+ fremmed grund, som fremkom ved anvendelse af en  
+
+ lejefaktor kun 1½ point under den, som ville være blevet  
+
+ anvendt, hvis lejemålet havde været uopsigeligt, selv om der kun var  
+
+ 11 år tilbage af lejeperioden.
+Retten lagde vægt på en  
+
+ tilstedeværende formodning for, at lejemålet ville kunne fornys (på ny),  
+
+ se Skat 1989.8.617.
+Er grundlejen fastsat således, at der sikres grundejeren en rimelig  
+
+ forrentning af grundens værdi, hvorefter der formodes at være  
+
+ overensstemmelse mellem grundens ejendomsværdi og grundens grundværdi,  
+
+ og strækker det aktuelt resterende lejemål sig over en længere  
+
+ årrække, kan bygningernes ejendomsværdi findes ved,  
+
+ at grund og bygninger vurderes, som om de tilhørte samme ejer.  
+
+ Bygningernes ejendomsværdi ansættes herefter til forskellen mellem den  
+
+ samlede ejendomsværdi og grundværdien.
+En anden metode består i  
+
+ at kapitalisere en anslået markedsleje med en lejefaktor der ligger 1½-2½  
+
+ point under den sædvanligt anvendte faktor, således at der ikke finder en  
+
+ dobbeltvurdering af grunden sted.
+ Bygninger på fremmed grund kan forbigås ved vurderingen, hvis  
+
+ deres værdi skønnes at være mindre end 100.000 kr., f.eks.  
+
+ kolonihavehuse.
+B.4 Årsregulering Sidste årsregulering foretages pr. 1. oktober 2006, jf. lov nr. 514 af  
+
+ 7. juni 2006, idet vurderingslovens § 3A ophæves med virkning fra og med  
+
+ indkomståret 2007.
+Årsreguleringen pr. 1. oktober 2006 tager udgangspunkt i ansættelsen  
+
+ ved den almindelige vurdering pr. 1. oktober 2005. Er en ejendom i  
+
+ perioden 1. oktober 2005 til 1. oktober 2006 vurderet i henhold  
+
+ til § 4, foretages reguleringen med udgangspunkt i denne ansættelse.
+Er  
+
+ der foretaget flere § 4-vurderinger, anvendes den seneste af disse  
+
+ vurderinger.
+ Er en ejendom udtaget til årsomvurdering pr. 1. oktober 2006,  
+
+ foretages reguleringen på grundlag af told- og  
+
+ skatteforvaltningens foreløbige ansættelse ved årsomvurderingen.  
+
+ Told- og skatteforvaltningens foreløbige ansættelse ved årsomvurderingen  
+
+ foretages i prisniveauet pr. 1. oktober 2005. De vurderinger, som efter  
+
+ ovenstående danner udgangspunkt for årsreguleringerne, betegnes  
+
+ basisniveau.
+Reguleringssatserne er specificeret efter ejendomsart og geografisk  
+
+ beliggenhed.
+Ved ejendommenes klassificering efter art tages der  
+
+ udgangspunkt i de afgørelser om benyttelse, som told- og  
+
+ skatteforvaltningen har truffet i henhold til vurderingslovens § 33,  
+
+ stk. 1. Ejendomme med ændret benyttelse medtages ved årsomvurderingen.  
+
+ Retningslinier for anvendelse af benyttelseskoder fremgår af afsnit  
+
+ D .
+ De af Skatterådet godkendte årsreguleringssatser fremgår af  
+
+ bilag 2 . (Bekendtgørelse nr. 1698 af 19.12.2006 af  
+
+ Skatterådets satser for regulering af grundværdier og ejendomsværdier pr.  
+
+ 1. oktober 2006).
+ Årsreguleringen gennemføres ved at gange ansættelserne i basisniveau  
+
+ med reguleringssatserne.
+ Efter årsregulering afrundes afsættelserne efter regler, som fremgår  
+
+ af afsnit  
+
+ A.7 .
+ Ændres en ansættelse efter genoptagelse eller ved klage, skal de  
+
+ efterfølgende årsreguleringer ændres tilsvarende.
+ Der udsendes meddelelse til ejere af årsregulerede ejendomme.  
+
+ Meddelelsen vil enten fremgå af selvangivelsen eller blive udsendt  
+
+ særskilt.
+ De årsregulerede værdier pr. 1. oktober 2006 kan ses på  
+
+ internettet.
+ Den årsregulerede værdi kan ikke påklages.

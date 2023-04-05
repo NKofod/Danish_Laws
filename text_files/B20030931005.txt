@@ -1,0 +1,985 @@
+Bestemmelser om risikovurdering og risikoreduktion i  
+
+ lufttrafikstyring (BL 7-25, 1. udgave) I medfør af § 54 og § 149,  
+
+ stk. 10 i lov om luftfart, jf. lovbekendtgørelse nr. 543 af 13. juni 2001,  
+
+ fastsætter Statens Luftfartsvæsen herved efter bemyndigelse fra  
+
+ Trafikministeriet, jf. bekendtgørelse nr. 795 af 3. september 2001 om  
+
+ henlæggelse af opgaver til Statens Luftfartsvæsen og om kundgørelse af de af  
+
+ luftfartsvæsenet udfærdigede forskrifter, følgende:
+1. Referencedokumenter 1.1 EUROCONTROL Safety  
+
+ Regulatory Requirement, ESARR 4, Risk Assessment and Mitigation in ATM,  
+
+ seneste  
+
+ udgave.
+ 1.2 European Air Traffic  
+
+ Management Programme, Air Navigation System Safety Assessment Methodology,  
+
+ seneste udgave.
+ 1.3 BL 7-10, Bestemmelser om  
+
+ definitioner vedrørende lufttrafiktjeneste, seneste udgave.
+ 1.4 BL 7-26, Bestemmelser om  
+
+ flyvesikkerhedsstyring i forbindelse med udøvelse af lufttrafikstyring,  
+
+ seneste  
+
+ udgave.
+ De dokumenter, der er nævnt i pkt. 1.1 og 1.2, kan købes i engelsk  
+
+ udgave ved henvendelse til Statens Luftfartsvæsen,  
+
+ Luftfartsinformationstjenesten, Ellebjergvej 50, 2450 København SV.
+2. Definitioner Se BL 7-10, Bestemmelser om  
+
+ definitioner vedrørende lufttrafiktjeneste, seneste udgave.
+ I denne BL gælder følgende  
+
+ supplerende definitioner:
+ Alvorlighed (Severity):
+ En fares virkning på eller  
+
+ konsekvens for flyvningers sikre udførelse (dvs. en kombination af niveauet  
+
+ for  
+
+ tabt adskillelse og af muligheden for at genoprette den).
+ Alvorsgrad (Degree of severity):
+ Graduering fra 1 (som den  
+
+ mest alvorlige) til 5 (som den mindst alvorlige), der udtrykker omfanget af  
+
+ en  
+
+ fares indvirkning på flyvningers udførelse.
+ ATM-udøver (ATM service provider):
+ En virksomhed, som er  
+
+ ansvarlig for og har  
+
+    
+
+ tilladelse til at  
+
+ udøve lufttrafikstyring.
+ Direkte medvirken (af ATM til havari/hændelse):
+ Når mindst en  
+
+ lufttrafikstyringsmæssig begivenhed vurderes som værende en direkte  
+
+ medvirkende  
+
+ faktor til et havari eller en hændelse, og uden hvilken havariet eller  
+
+ hændelsen vurderes til ikke at ville have fundet sted.
+ Fareidentifikation (Hazard Identification):
+ En proces, som fastlægger,  
+
+ hvad der kan ske, hvorfor og hvordan.
+ Fejl (Failure):
+ Manglende mulighed i en  
+
+ hvilken som helst del af lufttrafikstyringssystemet, som forhindrer dets  
+
+ forventede funktion eller korrekte funktion inden for de specificerede  
+
+ grænser.
+ Fejltilstand:
+ En tilstand, som påvirker et  
+
+ luftfartøj og/eller de, som befinder sig om bord, enten direkte eller  
+
+ indirekte  
+
+ ved tab af adskillelse, som helt eller delvist er  
+
+    
+
+ forårsaget af en eller flere fejl eller  
+
+ fejltagelser under hensyntagen til flyvningens fase og relevante ugunstige  
+
+ operationelle eller miljømæssige forhold.
+ Flyvehavari (Accident):
+En begivenhed, der  
+
+ indtræffer i forbindelse med anvendelse af et luftfartøj fra det tidspunkt,  
+
+ hvor nogen person går om bord i luftfartøjet i den hensigt at flyve, og  
+
+ indtil  
+
+ alle er gået fra borde, og hvor a.  
+
+ 	  
+
+    
+
+ nogen afgår ved  
+
+ døden eller kommer alvorligt til skade som følge af at være i luftfartøjet  
+
+ eller ved direkte berøring med luftfartøjet eller noget, der hører til dette,  
+
+ eller som følge af direkte udsættelse for lufttrykket fra en jetmotor  
+
+ (undtagen  
+
+ hvis skaderne har naturlige årsager, er påført af personen selv eller af  
+
+ andre  
+
+ personer, eller hvis skaderne rammer blinde passagerer, der har skjult sig  
+
+ uden  
+
+ for de områder, som passagerer og besætning normalt har adgang til), eller b.  
+
+ 	  
+
+    
+
+ luftfartøjet  
+
+ udsættes for skade eller strukturelle fejl, der nedsætter strukturens styrke  
+
+ eller luftfartøjets flyveegenskaber, og som normalt vil nødvendiggøre en  
+
+ større  
+
+ reparation eller udskiftning af de pågældende dele (bortset fra motorfejl  
+
+ eller  
+
+ motorskade, når skaden er begrænset til motoren, deres motorskærme eller  
+
+ tilbehør, og bortset fra skade, der er begrænset til propeller, vingespidser,  
+
+ antenner, dæk, bremser eller skærme, eller til mindre buler eller huller i  
+
+ luftfartøjets beklædning), eller c.  
+
+ 	  
+
+    
+
+ flyet savnes eller  
+
+ er fuldstændig utilgængeligt.
+ Flyvesikkerhed (Safety):
+ Friholdt for uacceptable  
+
+ risici.
+ Flyvesikkerhedsmæssige krav (Safety requirements):
+Krav, som defineret ud fra  
+
+ en risikoreduktions strategi vil tilfredsstille et bestemt sikkerhedsmæssigt  
+
+ mål.
+Kravene kan f.eks. omfatte organisationsmæssige forhold, procedurer,  
+
+ funktionsmæssige forhold, samspilsmæssige krav eller miljømæssige  
+
+ karakteristika.
+ Flyvesikkerhedsniveau (TLS) (Target level of safety):
+ Et niveau for den sikkerhed,  
+
+ der skal tilstræbes i en given sammenhæng vurderet under henvisning til en  
+
+ accepteret risiko.
+ Flyvesikkerhedsovervågning (Safety monitoring):
+ En systematisk handling  
+
+ udført med henblik på at opdage ændringer, som berører ATM systemet, med det  
+
+ særlige mål at identificere, at der kan opnås et acceptabelt eller tolerabelt  
+
+ flyvesikkerhedsniveau.
+ Hændelse (Flyvehændelse) (Incident):
+ En begivenhed, som ikke er  
+
+ et havari, men som indtræffer i forbindelse med anvendelsen af et luftfartøj,  
+
+ og som har indflydelse på eller vil kunne få indflydelse på sikkerheden  
+
+ forbundet med luftfartøjets anvendelse.
+ Lufttrafikstyring (Air traffic management) ATM:
+ De samlede jord-baserede  
+
+ (bestående af henholdsvis lufttrafiktjeneste (ATS), luftrumsregulering (ASM)  
+
+ og  
+
+ lufttrafikregulering (ATFM)) og luftbårne funktioner, som er påbudt med  
+
+ henblik  
+
+ på at fremme og regulere lufttrafik under alle relevante faser af flyvningen.
+ Operationelt miljø (Operational environment):
+ De fysiske og  
+
+ bestemmelsesmæssige karakteristika for det luftrum, hvori flyvningen foregår,  
+
+ omfattende den udøvede lufttrafikstyringstjeneste, den anvendte teknologi,  
+
+ luftrumsorganisation, tilhørende betingelser og personale.
+ Privat flyvning (Private flight):
+ En flyvning, som ikke er en  
+
+ erhvervsmæssig transport eller anden erhvervsmæssig flyvning.
+ Procedurer (Procedures):
+ Skrevne procedurer og  
+
+ instrukser, som anvendes af flyvekontrolpersonalet (ATC-personalet) under  
+
+ udførelse af deres pligter direkte i forbindelse med udøvelsen af  
+
+ lufttrafikstyringstjeneste.
+ Reduktion eller Risikoreduktion (Mitigation or Risk  
+
+ mitigation):
+ Trufne foranstaltninger med  
+
+ henblik på at kontrollere en fare eller forhindre en fare i at forårsage  
+
+ skade  
+
+ samt at reducere risici til et tolerabelt eller acceptabelt niveau.
+ Risiko (Risk):
+ Kombinationen af den  
+
+ overordnede sandsynlighed for eller hyppighed af en skadelig virkning,  
+
+ forårsaget af en fare og alvoren af en sådan virkning.
+ Risikoreduktion (Risk mitigation):
+ Se reduktion.
+ Risikovurdering (Risk assessment):
+ En vurdering med henblik på  
+
+ at fastslå, at den opnåede eller opfattede risiko er acceptabel eller  
+
+ tilladelig.
+ Tab af sikkerhedsmargin (Loss of safety margin):
+ Enhver situation, hvor et  
+
+ luftfartøj er for tæt på noget andet som f.eks. et andet luftfartøj,  
+
+ terrænet,  
+
+ en hindring, et restriktionsområde eller meteorologiske uregelmæssigheder, og  
+
+ muligheden for at genoprette adskillelse er tilsidesat.
+ Vurdering (Assessment):
+ En vurdering baseret på  
+
+ teknik, operationelt skøn og/eller analysemetoder.
+3. Anvendelsesområde 3.1 Denne BL fastsætter  
+
+ bestemmelser for risikovurdering og risikoreduktion i forbindelse med  
+
+ lufttrafikstyring med det formål at opnå et acceptabelt og højt  
+
+ flyvesikkerhedsniveau for lufttrafikstyringssystemet som et hele og i  
+
+ særdeleshed for dets enkelte dele gennem hele den operative  
+
+ anvendelsesperiode.
+ 3.1.1 Den tiltagende  
+
+ integration, automatisering og kompleksitet i lufttrafikstyringssystemet  
+
+ kræver  
+
+ en systematisk og struktureret anvendelse af risikovurdering og  
+
+ risikoreduktion, herunder fareidentifikation, såvel som anvendelse af  
+
+ forudsigelses- og overvågningsmetoder.
+3.1.2 Fejl i produktionen,  
+
+ den operative anvendelse eller vedligeholdelse af lufttrafikstyringssystemet  
+
+ kan såvel som svigt i systemet medføre nedsatte sikkerhedsmarginer og derved  
+
+ resultere i eller medvirke til fare for den sikre gennemførelse af flyvning.  
+
+ Der lægges tiltagende vægt på alle dele af lufttrafikstyringssystemet,  
+
+ hvorfor  
+
+ der også lægges større vægt på disse enkeltdeles sikre anvendelse.
+Hertil  
+
+ kommer den tiltagende anvendelse af lufttrafikstyring på tværs af  
+
+ landegrænser,  
+
+ som kræver en mere systematisk og struktureret anvendelse af risikovurdering  
+
+ og  
+
+ risikoreduktion for alle lufttrafikstyringssystemets elementer.
+ 3.2 Denne BL gælder for  
+
+ ATM-udøvere, der udøver lufttrafikstyring inden for dansk område, og hvis  
+
+ hovedforretningssted er beliggende i dansk område.
+ Anm.: Militære ATM-udøvere, der udøver lufttrafikstyring til civile  
+
+ luftfartøjer eller til militære luftfartøjer, som flyver i luftrum, hvor der  
+
+ forekommer både civil og militær flyvning, efterlever tilsvarende  
+
+ bestemmelser.
+4. Ansvar ATM-udøveren er ansvarlig  
+
+ for, at der anvendes risikovurdering og risikoreduktion i overensstemmelse  
+
+ med  
+
+ bestemmelserne i denne BL forud for enhver ændring af de dele af  
+
+ lufttrafikstyringssystemet og understøttende tjenester, som er omfattet af  
+
+ udøverens ledelsesmæssige beføjelser.
+5. Omfang En ATM-udøver skal sikre, at  
+
+ fareidentifikation såvel som risikovurdering og risikoreduktion systematisk  
+
+ anvendes på en måde, der a.  
+
+ 	  
+
+    
+
+ dækker hele den  
+
+ operative periode for lufttrafikstyringssystemets enkeltdele fra dets  
+
+ indledende planlægning og specifikation gennem dets efterfølgende  
+
+ operationelle  
+
+ anvendelse og vedligeholdelse til dets operative udfasning, b.  
+
+ 	  
+
+    
+
+ omfatter både  
+
+ luftbårne og jordplacerede dele af lufttrafikstyringssystemet i samarbejde  
+
+ med  
+
+ de, der er ansvarlige for disse, og c.  
+
+ 	  
+
+    
+
+ omfatter de tre  
+
+ forskellige typer af lufttrafikstyringselementer, dvs. men-nesker, procedurer  
+
+ og udstyr, og samspillet mellem disse elementer og indflydelsen fra de  
+
+ delelementer, som behandles, på det resterende lufttrafikstyringssystem.
+6. Proces 6.1 Fareidentifikation,  
+
+ risikovurdering og risikoreduktionsprocessen skal koordineres mellem de  
+
+ parter,  
+
+ der er ansvarlige for at træffe beslutning om sikkerhedskrav i forbindelse  
+
+ med  
+
+ lufttrafikstyringssystemets enkeltdele.
+ 6.2 Fareidentifikation,  
+
+ risikovurdering og risikoreduktionsprocessen skal omfatte følgende:
+ a.  
+
+ 	  
+
+    
+
+ Beslutning om  
+
+ omfanget af og grænsefladerne for de enkeltdele, som skal behandles, såvel  
+
+ som  
+
+ identifikation af enkeltdelenes funktioner og det operationelle miljø, i  
+
+ hvilket det er hensigten, de skal fungere.
+b.  
+
+ 	  
+
+    
+
+ Beslutning om det  
+
+ sikkerhedsmæssige mål for pågældende enkeltdel omfattende i.  
+
+ 	  
+
+    
+
+ identifikation af  
+
+ lufttrafikstyringsrelaterede troværdige fare- og fejlbetingelser sammen med  
+
+ deres kombinerede effekt, ii.  
+
+ 	  
+
+    
+
+ ved anvendelse af  
+
+ den tabel for alvorsgrader, der er vist i tabel A, en vurdering af såvel den  
+
+ effekt, de kan have på luftfartøjers sikkerhed, som af alvorsgraden, og iii.  
+
+ 	  
+
+    
+
+ en vurdering af den  
+
+ mulige accept for den pågældende enkeltdel, udtrykt i farernes maksimalt  
+
+ sandsynlige forekomst afledt af alvorsgraden og den maksimale sandsynlighed  
+
+ af  
+
+ farernes effekt i overensstemmelse med, hvad der er angivet i bilag A.
+c.  
+
+ 	  
+
+    
+
+ Efter behov  
+
+ fastlæggelse af en risikoreduktionsstrategi, som i.  
+
+ 	  
+
+    
+
+ specificerer de  
+
+ risikoreducerende foranstaltninger, som påtænkes indført, ii.  
+
+ 	  
+
+    
+
+ indeholder om  
+
+ nødvendigt de sikkerhedsmæssige krav, som vil kunne gøres gældende for den  
+
+ pågældende enkeltdel eller andre dele af lufttrafikstyringssystemet eller det  
+
+ operationelle  
+
+ miljø, og iii.  
+
+ 	  
+
+    
+
+ præsenterer en  
+
+ forsikring om dens gennemførlighed og virkeevne.
+d.  
+
+ 	  
+
+    
+
+ Bekræftelse på, at  
+
+ alle identificerede sikkerhedsmæssige mål og sikkerhedsmæssige krav er  
+
+ opfyldt i.  
+
+ 	  
+
+    
+
+ forud for  
+
+ implementeringen af ændringen, ii.  
+
+ 	  
+
+    
+
+ under alle  
+
+ overgangsstadier til operationel tjeneste, iii.  
+
+ 	  
+
+    
+
+ under hele den  
+
+ operationelle levetid og iv.  
+
+ 	  
+
+    
+
+ under alle  
+
+ overgangsstadier til operationel udfasning.
+ Anm.: For allerede eksisterende dele af lufttrafikstyringssystemet kan  
+
+ en analyse baseret på historiske data - som f.eks. flyvesikkerhedsmæssige  
+
+ hændelser (havarier, hændelser og specielle lufttrafikstyringshændelser),  
+
+ statistikker, menneskelige fejl, systemfejl baseret for det meste på  
+
+ flyvesikkerhedsovervågning og hændelsesrapporteringer - bidrage som  
+
+ dokumentationsmateriale  
+
+    
+
+ i processen til sikring af flyvesikkerhed for  
+
+ at fuldstændiggøre den flyvesikkerhedsanalyse, som er beskrevet i denne BL.
+7. Dokumentation Alle resultater, tilknyttede  
+
+ begrundelser og bevismateriale i processen for sikring af flyvesikkerhed,  
+
+ herunder  
+
+ fareidentifikationen, skal samles og dokumenteres på en måde, som sikrer, a.  
+
+ 	  
+
+    
+
+ at korrekt og  
+
+ fuldstændigt bevis foreligger til påvisning af, at både pågældende  
+
+ enkeltdel(e)  
+
+ og hele lufttrafikstyringssystemet har og fortsat vil have et tilladeligt  
+
+ flyvesikkerhedsniveau samt efter behov tillige specifikationer af alle de  
+
+ forudsigelses-, overvågnings- og kontrolmetoder, som bruges til over for  
+
+ Statens Luftfartsvæsen at demonstrere, at det eksisterende  
+
+ flyvesikkerhedsniveau ikke vil blive forringet, og b.  
+
+ 	  
+
+    
+
+ at alle  
+
+ sikkerhedsmæssige krav til implementeringen af ændringen kan føres tilbage  
+
+ til  
+
+ den forventede operationelle funktion.
+8. Dispensation Statens Luftfartsvæsen kan i  
+
+ ganske særlige tilfælde dispensere fra bestemmelserne i denne BL, når det  
+
+ skønnes foreneligt med de hensyn, som ligger til grund for de pågældende  
+
+ bestemmelser.
+9. Straf 9.1 Den ATM-udøver, der  
+
+ overtræder bestemmelserne i afsnit 5-7 i denne BL, straffes med bøde.
+ 9.2 Der kan pålægges  
+
+ selskaber m.v. (juridiske personer) strafansvar efter reglerne i  
+
+ straffelovens  
+
+ 5. kapitel, jf. luftfartslovens § 149, stk. 14.
+10. Ikrafttræden Denne BL træder i kraft den  
+
+ 17. juli 2003.
+Statens Luftfartsvæsen, den 17. juni  
+
+ 2003 Kurt Lykstoft Larsen /Karsten Theil Bilag A Risiko klassifikationsskema A-1 Fareidentifikation og alvorsvurdering i  
+
+ lufttrafikstyring Før de risici, som stammer  
+
+ fra indførelsen af en ændring i lufttrafikstyringssystemet, kan vurderes,  
+
+ skal  
+
+ der foretages en systematisk fareidentifikation.
+ Alvorsgraden af den  
+
+ virkning, som farer i det operationelle miljø kan medføre, skal bestemmes ved  
+
+ anvendelse af skemaet  
+
+    
+
+ A-1.
+(Note: Skema A-1 danner rammerne for at vurdere alvorsgraden af den  
+
+ virkning, som farer i et specifikt operationelt miljø kan medføre.
+Dette  
+
+ gøres  
+
+ ved anvendelsen af et kvalitativt prioritetsskema for  
+
+ alvorsgraden/vigtigheden  
+
+ af den virkning, farer kan medføre for funktionaliteten som følge af  
+
+ forskellige fejltilstande i lufttrafikstyringssystemets forskellige dele.) Der findes ikke et  
+
+ havari/hændelses årsagsskema.
+Derfor skal alvorsgraden baseres på en specifik  
+
+ oversigt over de mest sandsynlige virkninger af farer under de værst  
+
+ tænkelige  
+
+ omstændigheder.
+(Note: Muligheden for, at en fare leder til et havari eller en hændelse  
+
+ (dvs. tage både muligheden for et havari og muligheden for at genoprette  
+
+ efter  
+
+ en farefuld situation i betragtning), er afhængig af mange faktorer.
+Det er  
+
+ derfor ikke normalt gennemførligt at identificere og vurdere alvorligheden  
+
+ tydeligt uden at vurdere  
+
+    
+
+ farernes  
+
+ virkning på lufttrafikstyringssystemets enkelte dele.) For at udlede en fares  
+
+ virkning på driftstilstanden og for at fastslå dens alvorsgrad skal den  
+
+ systematiske fremgangsmåde omfatte (men ikke nødvendigvis begrænses til)  
+
+ farers  
+
+ virkning på lufttrafikstyringssystemets forskellige dele som i  
+
+ 	  
+
+    
+
+ virkningen på flyvebesætningsmedlemmer,  
+
+ (f.eks. arbejdspres og mulighed for at udføre deres funktioner), i  
+
+ 	  
+
+    
+
+ virkningen på flyveledere, (f.eks.  
+
+ arbejdspres og mulighed for at udføre deres funktioner), i  
+
+ 	  
+
+    
+
+ virkningen på luftfartøjets funktionelle  
+
+ muligheder, i  
+
+ 	  
+
+    
+
+ virkningen på de funktionelle muligheder for  
+
+ jordplacerede dele af lufttrafikstyringssystemet og i  
+
+ 	  
+
+    
+
+ virkningen på muligheden for at udøve en  
+
+ sikker lufttrafikstyring, (f.eks. vigtigheden af tab eller forstyrrelse af  
+
+ lufttrafikstyringens forskellige funktioner).
+ (Note: Disse eksempler skal ses som typiske, og der er behov for at  
+
+ overveje dem for konsekvent at identificere alle farer og vurdere  
+
+ alvorsgraden  
+
+ af deres virkning på funktionaliteten.
+ Omfanget af fareidentifikation og vurdering af alvorsgrad er ikke  
+
+ begrænset til de dele af systemet, som ændres, men bør omfatte alle dele og  
+
+ systemer, som er involveret i den tjeneste, som udøves i det operationelle  
+
+ miljø.
+Vurdering af alvorsgrad bør også omfatte overvejelse af; i  
+
+ 	  
+
+    
+
+ forskellige fremstillinger af farer, (f.eks. antal luftfartøjer,  
+
+ som udsættes for faren, det geografiske område, som faren omfatter  
+
+    
+
+ og lignende), og i  
+
+ 	  
+
+    
+
+ karakteristika for det operationelle miljø.
+Det tilrådes, at elementer i det operationelle miljø, som kan anvendes  
+
+ som kompenserende faktorer ved vurderingen af alvorsgrad, identificeres og  
+
+ godkendes af Statens Luftfartsvæsen, før flyvesikkerhedsvurderingen  
+
+ påbegyndes.) A-2 Risiko klassifikationsskema i lufttrafikstyring Sikkerhedsmæssige mål, som  
+
+ er baseret på en risiko, skal fastsættes som farernes maksimalt sandsynlige  
+
+ forekomst afledt af alvorsgraden (skema A-1) og den maksimale sandsynlighed  
+
+ af  
+
+ farernes effekt (skema A-2).
+ Som et nødvendigt supplement  
+
+ til den demonstrerede opnåelse af disse kvantitative flyvesikkerhedsmæssige  
+
+ mål  
+
+ skal der foretages yderligere flyvesikkerhedsstyringsmæssige overvejelser for  
+
+ at tilføre lufttrafikstyringssystemet en højere grad af sikkerhed, når dette  
+
+ skønnes rimeligt.
+ (Note: Skema A-2 er en matrix, der sammenholder alvorsgraden, som den  
+
+ er fastlagt gennem anvendelsen af skema A-1, med en acceptabel sandsynlig  
+
+ forekomst (dvs. en maksimal acceptabel mulighed af direkte medvirken af  
+
+ lufttrafikstyring ved flyvesikkerhedsmæssige hændelser) for at påvise, at jo  
+
+ mere alvorlig virkningen af en fare er, desto mindre acceptabelt er det, at  
+
+ den  
+
+ forekommer.
+Skema A-2 omfatter kun en overordnet generel flyvesikkerhedsmæssig  
+
+ udførelse af lufttrafikstyring og er ikke direkte anvendelig til at  
+
+ klassificere individuelle farer.
+Til et sådant formål vil det derfor være  
+
+ nødvendigt at udarbejde en fordelingsmetode for den overordnede sandsynlighed  
+
+ for enkeltdele af lufttrafikstyringssystemet.
+En sådan fordeling kan  
+
+ foretages  
+
+ pr. flyvning og/eller pr. havaritype.
+Skemaet vil da skulle udformes, så det  
+
+ afspejler det operationelle miljø for den specifikke enkeltdel af  
+
+ lufttrafikstyringssystemet (f.eks. grænseflader til andre systemer,  
+
+ flyvningens  
+
+ faser og luftrumsklasser). En ændring af alvorskategorierne i skema A-1 vil  
+
+ skulle foretages, så de tilpasses det enkelte delsystem, ligesom det kan  
+
+ aflede, at der må foretages risikoreduktion i andre delsystemer.
+ Skema A-2 er baseret på et dansk fastsat flyvesikkerhedsniveau pr.  
+
+ flyvning/flyvetime som maksimal acceptabel mulighed for lufttrafikstyringens  
+
+ direkte medvirken til et havari eller en hændelse med erhvervsmæssig  
+
+ flyvning.  
+
+ Tilsvarende metode anbefales anvendt, hvor der udelukkende forekommer  
+
+    
+
+ privat flyvning.
+Sikkerhedsmæssige mål og tilhørende sikkerhedsmæssige krav, som  
+
+ omfatter den luftbårne del af lufttrafikstyringssystemet, skal betragtes som  
+
+ supplerende eventuelle JAA krav (f.eks.
+JAR 25-1309 og JAR 25-11), også  
+
+ selvom  
+
+ nogle delsystemer tillige indgår i behandlingen af luftfartøjets  
+
+ luftdygtighedsbedømmelse.) Alvorsgrad 1  
+
+  
+
+ (Alvorligst) 2 3 4 5 Virkning på funktio-  
+
+  
+
+ nalitet Havarier Alvorlige hændelser Større hændelser Betydningsfulde hændelser Ingen umiddelbar indflydelse på  
+
+ sikkerheden Eksempler på  
+
+ virkninger på funktionaliteten inkluderer *) :
+¦  
+
+
+
+
+  
+
+ ¦  
+
+
+
+
+  
+
+ ¦  
+
+
+
+
+  
+
+ ¦ et eller flere katastrofale havarier,  
+
+  
+
+ en eller flere kollisioner i luften,  
+
+  
+
+ en eller flere kollisioner mellem luftfartøjer på jorden,  
+
+  
+
+ en eller flere kontrollerede luftfartøjers flyvning ind i terræn,  
+
+  
+
+ totalt tab af luftfartøjets manøvreevne.
+¦ stor nedsættelse af adskillelse (f.eks. en adskillelse  
+
+ på mindre end halvdelen af det krævede), uden at flyvebesætningen eller  
+
+ flyvekontrollen fuldt ud har kontrol over situationen eller er i stand til at  
+
+ genoprette adskillelsen.
+¦ stor nedsættelse af adskillelse (f.eks. en adskillelse  
+
+ på mindre end halvdelen af det krævede), når flyvebesætningen eller  
+
+ flyvekontrollen har kontrol over situationen og er istand til at genoprette  
+
+ adskillelsen.
+¦ voksende arbejdspres på flyvelederen eller  
+
+ flyvebesætningen eller ubetydelige nedsættelser af godkendte kommunikations-,  
+
+ navigations- og overvågningssystemers funktionalitet.
+ ingen farlig tilstand, dvs. ingen umiddelbar direkte  
+
+ eller indirekte indflydelse på funktionaliteten.
+ Ingen uafhængig genopretningsteknik som f.eks.  
+
+ besigtigelse eller flyvekontrol og/eller procedurer for flyvebesætninger kan  
+
+ med rimelighed forventes at forhindre havarier.
+¦ et eller flere luftfartøjer afviger fra deres tilsigtede  
+
+ klarering, så bratte manøvrer er påkrævet for at undgå kollision med andre  
+
+ luftfartøjer eller med terrænet (eller når undvigemanøvre ville være  
+
+ passende).
+¦ mindre nedsættelse af adskillelse (f.eks. en adskillelse  
+
+ på mere end halvdelen af det krævede), uden at flyvebesætningen eller  
+
+ flyvekontrollen fuldt ud har kontrol over situationer og kan genoprette  
+
+ adskillelsen (uden anvendelse af  
+
+  
+
+ undvigeman-  
+
+  
+
+ øvrer) ¦ mindre nedsættelse af adskillelse (f.eks. en adskillelse  
+
+ på mere ned halvdelen af det krævede), når flyvebesætningen eller  
+
+ flyvekontrollen har kontrol over situationen og er fuldt ud istand til at  
+
+ genoprette adskillelsen.
+Skema A-1  
+
+    
+
+ Alvorsgrader Anm.:  
+
+    
+
+ Den værste troværdige  
+
+ virkning på det operationelle miljø bestemmer alvorsgraden.
+*)  
+
+    
+
+ Alvorsgraden af virkninger stammer fra en  
+
+ tidligere bedømmelse.
+Listen er på ingen måde udtømmende.

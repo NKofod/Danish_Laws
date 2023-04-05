@@ -1,0 +1,544 @@
+Fremsat den 3. marts 2000 af  
+
+ Knud Erik Hansen (SF), Margrete Auken (SF),  
+
+ Aage Frandsen (SF),  
+
+ Jes Lunde (SF) og Thorstein Theilgaard (SF) Forslag til folketingsbeslutning om en strategi for udbredelse af open source-programmel i  
+
+ Danmark Folketinget opfordrer regeringen til 1.	at udarbejde en handlingsplan, med konkrete mål og midler, for  
+
+ udbredelse af open source-programmel i Danmark med den offentlige sektor som  
+
+ frontløber, 2.	at fremlægge en open source-strategi/politik for Danmark i  
+
+ Europa, 3.	at arbejde for fastlæggelse af åbne standarder og for,  
+
+ at det offentlige anvender åbne standarder, og 4.	at intervenere i forhandlingerne om ophavsrettigheder, licenser og  
+
+ patentrettigheder med det formål at sikre, at de afgørende  
+
+ elementer i frit programmel og open source-programmel ikke kan  
+
+ pålægges en sådan retlig beskyttelse.
+Bemærkninger til forslaget IT-verdenen har i mange år haft to  
+
+ afgørende forskellige måder at producere programmel på.  
+
+ Den ene kan karakteriseres som katedralmetoden, hvor initiativer og styringen  
+
+ udspringer fra et sted, en person og i IT- verdenen fra én virksomhed.  
+
+ Den anden er basarmetoden, hvor mange mennesker deler en fælles viden  
+
+ og har en intens kommunikation.
+Se  
+
+http://www.tuxedo.org/~esr/writings/cathedral-bazaar/ Katedralmetoden bygger på programmel, hvor  
+
+ producenten har ejendomsretten til produktet og køberen i realiteten  
+
+ en brugsret.
+Det har i mange år været katedralmetoden, der har  
+
+ domineret måden at producere programmel på, og i de sidste 10  
+
+ år er firmaet Microsoft blevet det altdominerende firma for produktion  
+
+ af programmel.
+Det har skabt en monopollignende situation for produktion af  
+
+ programmel med alle de ulemper, der normalt er forbundet med et monopol.
+Det  
+
+ er  ofte en virksomheds finansielle og markedsmæssige styrke og i  
+
+ mindre omfang produkternes kvalitetet, der kommer til at bestemme, hvilke  
+
+ produkter der bliver markedsførende.
+Det er efter forslagsstillernes  
+
+ opfattelse også tilfældet for Microsoft som følge af det  
+
+ de facto-monopol, virksomheden har på mange områder i  
+
+ IT-verdenen.
+Parallelt med denne udvikling har der udviklet sig et  
+
+ produktionsmiljø, der bygger på basarmetoden.
+Det har vist sig  
+
+ som en effektiv metode til at udvikle meget stærke produkter.
+En meget  
+
+ stor del af den IT-kommunikation, der foregår verden over, sker gennem  
+
+ produkter, der er produceret på denne måde.
+F.eks. fungerer over  
+
+ halvdelen af alle internetservere med programmel, der er udviklet på  
+
+ denne måde.
+Linux og FreeBSD er eksempler på effektive og stabile  
+
+ systemer til styring af pc'ere, der også er produceret efter  
+
+ basarmetoden.
+ Udviklingen af programmel gennem basarmetoden er ikke sket  
+
+ gennem den fysiske nærhed, der præger en virkelig basar, men  
+
+ gennem den virtuelle nærhed på Internettet, hvor kommunikation  
+
+ uafhængig af tid og sted har skabt mulighed for, at tætte  
+
+ netværk af tusinder af personer har kunnet deltage i udviklingen af  
+
+ produkterne.
+Basarmetoden bygger på, at alle har ret til at  
+
+ arbejde og videreudvikle programmel.
+Det er derfor en væsentlig del af  
+
+ metoden, at kildeteksten (kildekoden), som man arbejder på, når  
+
+ man laver et program, er frit tilgængelig, og at alle har lov til at  
+
+ bruge den og arbejde videre med den.
+Nettet af personer bag udviklingen af  
+
+ GNU/Linux har formuleret fire rettigheder, som enhver bruger har til  
+
+ programmellet:
+1.	ret (freedom) til at anvende programmellet til ethvert  
+
+ formål 2.	ret (freedom) til at undersøge programmellet og tilpasse det  
+
+ til ens behov 3.	ret (freedom) til at fordele kopier til andre, så man kan  
+
+ hjælpe sin nabo 4.	ret (freedom) til at forbedre programmellet og udgive forbedringerne  
+
+ til offentligheden, så hele samfundet kan få gavn af  
+
+ forbedringerne.
+Den anden og fjerde rettighed forudsætter, at  
+
+ kildeteksten er åben.
+Frit programmel bygger på de fire  
+
+ rettigheder (http://www.fsf.org/philosophy/free-sw.html). Open source  
+
+ har tilsvarende rettigheder, der bliver uddybet, og det tilføjes  
+
+ blandt andet, at der ikke må diskrimineres mod personer og grupper  
+
+ (http://www.opensource.org). Når der i det følgende  
+
+ bruges betegnelsen open source, så forudsættes det at  
+
+ vedrøre programmel, der bygger på de fire rettigheder.  
+
+ Forslagsstillerne vil i det følgende anvende betegnelserne open source  
+
+ og frit programmel (free software) som udtryk for den samme ramme for  
+
+ produktion og anvendelse af programmel, idet de mindre forskelle ikke har  
+
+ afgørende betydning for den praktiske brug.
+ De fire rettigheder gør det relevant, at det  
+
+ offentlige blander sig i udviklingen, idet programmel ifølge disse  
+
+ rettigheder vil blive en del af samfundets tilgængelige  
+
+ infrastruktur.
+Anvendelsen af open source vil skabe en anden  
+
+ produktionsstruktur.
+Den vil flytte indtjeningen fra salg af produktet (salg  
+
+ af ret til at bruge det) til indtjening på support og udvikling af  
+
+ produktet.
+Det giver basis for, at mange flere virksomheder vil kunne  
+
+ deltage, og giver mulighed for, at en underskov af virksomheder kan finde en  
+
+ rolle på det nye marked.
+Det vil skabe mulighed for reel konkurrence og  
+
+ bedre betingelser for, at kreative produkter vil kunne komme frem.
+Såvel private brugere som virksomheder vil have gavn  
+
+ af denne måde at producere programmel på.
+Programmellet vil som  
+
+ udgangspunkt være gratis, og man vil normalt højst skulle betale  
+
+ for eventuel service ved levering eller installation af programmel.
+Det  
+
+ tætte og omfattende netværk af udviklere har givet en effektiv  
+
+ fejlretning, hvilket givet er en af årsagerne til at open  
+
+ source-programmer gennemgående kører meget stabilt.
+Den  
+
+ åbne kildetekst gør det muligt for brugere og specielt  
+
+ virksomheder at få tilpasset et program til virksomhedens særlige  
+
+ behov.
+Virksomheder vil efter valg af produkt ikke være afhængig  
+
+ af én leverandør, men vil om nødvendigt kunne skifte  
+
+ leverandør af support og udvikling.
+Ved anvendelse af open source vil brugere kunne optimere  
+
+ deres sikkerhed på nettet, og open source vil normalt være en  
+
+ nødvendig forudsætning for både sikker kommunikation og  
+
+ sikkerhed mod at nogen kan bryde ind i ens systemer.
+Open source vil  
+
+ gøre det muligt at afsløre skjulte Uanset at open source repræsenterer en markant anden  
+
+ måde at organisere en produktion på, så har den vist sig at  
+
+ være stærk.
+Der har længe været stærke  
+
+ programmer til operativsystemer og til internetkommunikation, og de anvendes  
+
+ i stort omfang.
+Udviklingen af kontorprogrammer (f.eks. tekstbehandling,  
+
+ regneark, præsentationsprogrammer, databaser, grafikprogrammer) er  
+
+ kommet i gang senere.
+Der foregår imidlertid en kraftig udvikling  
+
+ på dette område, og der er bl.a. allerede udviklet større  
+
+ sæt programmel til kontorbrug til Linux.
+Der er endvidere udviklet  
+
+ programmel, der gør det muligt at køre Windows som et vindue i  
+
+ Linux.
+Det betyder, at brugere, der skifter til Linux også vil kunne  
+
+ køre Windows-programmer i Linux, hvis de har programmer, der kun kan  
+
+ køre i Windows.
+Flere af disse programmer er dog ikke open source.
+Det er forslagsstillernes vurdering, at der er så  
+
+ megen grøde i udviklingen af programmel til Linux, at der kun mangler  
+
+ nogle ekstra skub for, at open source også kan få en betydelig  
+
+ andel af markedet til kontorformål og lignende.
+Hvis det offentlige i  
+
+ de nærmeste år skubber til udviklingen, vil open source  
+
+ sandsynligvis om nogle år få så store markedsandele, at det  
+
+ i sig selv vil accelerere udviklingen.
+Det er forslagsstillernes opfattelse, at udviklingen bedst  
+
+ støttes ved at fremme mulighederne for anvendelse af open source.
+Open  
+
+ source skal derfor ikke pålægges offentlige virksomheder og  
+
+ institutioner.
+Centrale direktiver og lignende vil oftest ikke kunne opfange  
+
+ den kompleksitet, som et edb-miljø fungerer i.
+Det offentliges  
+
+ centrale opgave bliver derfor at skabe bedre rammer for en udvikling af open  
+
+ source.
+ Det vil givet være et væsentligt incitament  
+
+ for anvendelsen af open source, at der normalt vil være en del penge at  
+
+ spare ved at bruge open source-programmel.
+Forslagsstillerne mener, at det offentlige får fire  
+
+ hovedopgaver for både at støtte udviklingen af open source og  
+
+ for at sikre, at den får mulighed for at fungere.
+Det offentlige skal  
+
+ således give støtte til udbredelsen og udviklingen af open source i  
+
+ Danmark, udarbejde åbne standarder for det offentliges anvendelse af IT  
+
+ og arbejde for, at der internationalt udvikles åbne standarder, forhindre, at der kan tages patent på software og software  
+
+ algoritmer, og arbejde for at fremme udviklingen af open source på  
+
+ europæisk plan.
+En af de største barrierer for en generel  
+
+ anvendelse af open source-programmel er manglende viden og usikkerhed om,  
+
+ hvordan det vil fungere til forskellige opgaver.
+Det bør derfor  
+
+ være en af det offentliges væsentlige opgaver at gøre den  
+
+ eksisterende viden tilgængelig og udbygge den.
+Det kan ske på  
+
+ mange måder, og flere aktører kan bidrage hertil.
+Der kan laves  
+
+ et center, men det vil sandsynligvis være mere frugtbart med samspil  
+
+ mellem flere aktører med en vis koordinering.
+IT-højskolen i  
+
+ Ørestaden kan f.eks. være en af flere drivkræfter for  
+
+ udvikling af ny viden, opsamling af erfaringer med anvendelse, identificering  
+
+ af barrierer, videreudvikling af programmel m.m.
+Der kan også  
+
+ trækkes på det, man planlægger at bygge op omkring de to  
+
+ IT-fyrtårne.
+Der vil i nogle tilfælde givet være brug for  
+
+ udvikling af specifikt programmel eller tilpasning af programmel til dansk  
+
+ brug.
+Det bør overvejes, om der skal stilles krav om, at open  
+
+ source-systemer skal kunne byde ind, når offentlige myndigheder,  
+
+ institutioner og virksomheder indhenter tilbud.
+En øget anvendelse i  
+
+ det offentlige vil øge markedet for open source og dermed også  
+
+ dets potentiale.
+For at man kan udveksle data og informationer, er det  
+
+ nødvendigt med diverse standarder.
+Under katedralmetoden har det ofte  
+
+ været den stærkeste udbyder på et område, der har sat  
+
+ en de facto-standard   eller rettere den stærke udbyders produkter er  
+
+ blevet den fælles platform, der arbejdes på.
+I mange  
+
+ tilfælde som en mere eller mindre lukket standard.
+Undertiden har  
+
+ magtspillet mellem producenter givet mindre, men bizarre afvigelser fra  
+
+ standarder med henblik på at tvinge brugerne til at bruge producentens  
+
+ produkt.
+En forudsætning for open source er åbne  
+
+ standarder, således at alle kan udvikle programmel, som kan anvendes i  
+
+ et fælles miljø med andet programmel.
+Det offentlige bør  
+
+ derfor som minimum kræve, at offentlige myndigheder kan kommunikere med  
+
+ programmel, der anvender åbne standarder.
+Det offentlige kan også  
+
+ have en opgave i at få fastlagt åbne standarder i Danmark og  
+
+ på internationalt plan arbejde for, at standarder bliver åbne og  
+
+ dermed ikke bundet til en eller flere producenter.
+Et af de store problemer er softwarepatenter, patenter  
+
+ på algoritmer eller på karakteristiske egenskaber ved software,  
+
+ patenter for hele programmeringsteknikker og omgåelse af patentreglerne  
+
+ ved at indlægge programmer i chips.
+Det giver også problemer,  
+
+ hvis man får lov til at forbyde reverse engineering af programmel  
+
+ (f.eks. udvikling af Linux-drivere til afspilning af film på DVD).
+Til juni vil en revision af patentlovgivningen blive  
+
+ behandlet i EU, og den har til hensigt at tillade software-patenter.
+Det er  
+
+ afgørende, at denne ændring ikke lægger hindringer i vejen  
+
+ for open source.
+ Hvis en algoritme eller en egenskab eller en teknik bliver  
+
+ patenteret, betyder det, at en enkel virksomhed får et totalt monopol  
+
+ på at bruge den.
+Det amerikanske patentsystem er ligeledes en stor trussel  
+
+ imod open source.
+I modsætning til i Europa tillader man i USA patenter  
+
+ på software og algoritmer.
+USA s lovgivning og retspraksis på  
+
+ patentområdet stiller i praksis kun meget vage krav til patenter  
+
+ sammenlignet med den tilsvarende danske lovgivning og retspraksis.
+ I forbindelse med de nuværende WTO-forhandlinger  
+
+ forsøger USA at presse EU til at rette sin softwarepatentlovgivning  
+
+ ind efter den amerikanske.
+Problemet er, at patentkontoret i USA tit giver patenter  
+
+ på meget brede og trivielle løsninger.
+Det bliver groft udnyttet  
+
+ af firmaer, der forsøger at patentere hvad som helst for bagefter at  
+
+ kunne kræve royalties.
+Er softwarepatenter en realitet, vil det at skrive  
+
+ software svare til at gå i et minefelt.
+Det er næsten umuligt  
+
+ ikke at ramle ind i et eller andet obskurt patent uden at vide det.
+Open  
+
+ source er især sårbar, da det er nemt for patentadvokater at  
+
+ gennemlæse koden med henblik på at finde overtrædelser.
+Det er således en stor og vigtig opgave at  
+
+ undgå softwarepatenter i Europa, og det haster.  
+
+ (http://www.freepatents.org/ og http://www.opendvd.org/) Der ser ud til at være en begyndende politisk  
+
+ opmærksomhed på mulighederne for open source i Europa.
+Et opsigtsvækkende fransk lovudkast  
+
+ pålægger statslige og kommunale myndigheder, at anvende open  
+
+ source-programmel.
+Flere franske ministerier har offentligt støttet  
+
+ tanken om open source-programmel.
+ Formålet med lovudkastet er at kickstarte  
+
+ netværkssamfundet i Frankrig ved at definere standarder, som gør  
+
+ det attraktivt for myndighederne at gøre tjenester og informationer  
+
+ tilgængelige elektronisk og sikre befolkningen fri adgang via  
+
+ Internettet.
+Et andet væsentligt element i lovudkastet er  
+
+ oprettelsen af en statslig myndighed, som skal sikre, at offentlige  
+
+ myndigheder senest den 1. januar 2002 er omstillet til at benytte frit  
+
+ tilgængeligt software.
+Denne myndighed skal fungere som vejlednings- og  
+
+ tilsynsmyndighed i forbindelse med skiftet fra dyre kommercielle  
+
+ programpakker som MS Office til den gratis software.
+Lokale myndigheder vil  
+
+ få udpeget kontaktpersoner, som skal være i løbende dialog  
+
+ med brugere af Internettet.
+Lovudkastet understreger, at den statslige  
+
+ myndigheds beslutninger skal tages efter forudgående konsultationer med  
+
+ internetbrugere.
+Samtidig forventes det, at open source-programmel bliver en  
+
+ del af den franske lovgivning om officiel certificering af elektroniske  
+
+ signaturer.
+ EU har ligeledes udtalt en vis interesse for udvikling af  
+
+ open source og en interesse i, at Europa bliver mindre afhængig af  
+
+ amerikansk monopolproduktion.
+Muligheden for at formulere og gennemføre en open  
+
+ source-politik/strategi skal ikke kun begrænses til Danmark.
+Det ville  
+
+ være oplagt at undersøge, om der var mulighed for i  
+
+ første omgang at udarbejde en skandinavisk open source-politik i et  
+
+ samarbejde mellem f.eks.
+Danmark, Sverige, Finland og Norge.
+Samtidig kunne  
+
+ dette være afsættet til at forsøge at få formuleret  
+
+ en europæisk open source-politik.
+Det kan også være  
+
+ konkrete initiativer i en proces, der muligvis allerede er på vej i  
+
+ EU.
+ Open source skal også indarbejdes som et vigtigt  
+
+ element i regeringens IT-politik.
+Det er forslagsstillernes opfattelse, at free software har  
+
+ to vigtige dimensioner.
+Det kan give alle brugere fordele i deres anvendelse  
+
+ af programmel og IT.
+Der er imidlertid også en ideologisk og moralsk  
+
+ dimension om, hvordan vi bedst opbygger vores netværkssamfund, og om,  
+
+ hvilke grundholdninger og produktionsstrukturer der er ønskelige.  
+
+ Begge dele bør være centrale i det offentlige arbejde for at  
+
+ fremme frit og åbent programmel.
+ Oplysninger om fri og åbent programmel kan bl.a.  
+
+ findes på:
+http://www.opensource.org http://www.gnu.org http://www.sslug.dk/artikler/OpenSource.html http   www.inf.cbs.dk  
+
+ staff/nielsj/undervisning/open-source/litteratur/linux-aug-99.doc http://www.oreilly.com/catalog/opensources/book/toc.html Skriftlig fremsættelse Knud Erik Hansen (SF):
+ Som ordfører for forslagsstillerne tillader jeg mig  
+
+ herved at fremsætte:
+ Forslag til folketingsbeslutning om en strategi for  
+
+ udbredelse af open source-programmel i Danmark.
+(Beslutningsforslag nr.
+B 114).
+ Jeg henviser i øvrigt til de bemærkninger,  
+
+ der ledsager forslaget, og anbefaler det til Tingets velvillige  
+
+ behandling.

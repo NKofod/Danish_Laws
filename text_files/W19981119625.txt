@@ -1,0 +1,108 @@
+Udtalt, at adgang til et hospitalsregister med helbredsoplysninger om  
+
+ kræftpatienter ikke burde etableres via Internet Hovedstadens Sygehusfællesskab har ved brev af 15. september 1997 rettet  
+
+ henvendelse til Registertilsynet med en forespørgsel om muligheden for  
+
+ oprettelse af et register på Rigshospitalet med internetadgang.
+ Det fremgår, at registeret er led i et projekt benævnt CITMAS - Clinical  
+
+ Internet Trial Management System.
+ Registeret skal fysisk placeres i Rigshospitalets Informatikafdeling, og  
+
+ Rigshospitalets Finsencenter, som afprøver nye behandlingsmetoder for  
+
+ kræftsygdomme, skal have administrativ internetadgang til registeret.
+Registeret påtænkes oprettet på den måde, at en sygehuslæge, som har en  
+
+ patient med kræft, opretter patienten i registeret.
+Lægen indberetter i den  
+
+ forbindelse oplysninger om patienten, herunder navn, personnummer og  
+
+ diagnose, via Finsencenterets hjemmeside, dvs. via Internet.
+Herefter  
+
+ randomiseres patienten af systemet, dvs. at der foreskrives en bestemt  
+
+ behandling af patienten, som lægen skal udføre.
+Patienten har givet sit  
+
+ samtykke til deltagelsen i projektet.
+ Herefter skal lægen via Internet indberette oplysninger om  
+
+ behandlingsforløbet til registeret.
+Registeret skal samtidig anvendes til at gribe ind i behandlingen af den  
+
+ enkelte patient, eksempelvis ved bivirkninger, der viser sig ved lægens  
+
+ indberetninger.
+Der er således tale om et kombineret statistik- og  
+
+ behandlingsregister.
+Lægen har kun adgang til oplysninger om patienter, som lægen selv har  
+
+ oprettet i registeret, og kun ved indtastning af to adgangskoder.
+Endvidere  
+
+ skal der ske kryptering af data, som overføres via Internet.
+Der anvendes en  
+
+ krypteringsteknik benævnt "Secure Socket Layer" fra Microsoft.
+ Registertilsynet, der har behandlet sagen på et møde i Registerrådet, skal  
+
+ herefter udtale:
+ Efter lov om offentlige myndigheders registre § 12, stk. 1, skal der  
+
+ træffes de fornødne sikkerhedsforanstaltninger mod, at personoplysninger i en  
+
+ offentlig myndigheds edb-register misbruges eller kommer til uvedkommendes  
+
+ kendskab.
+ Registertilsynet finder, at adgang til det påtænkte register ikke bør  
+
+ etableres via Internet.
+ Registertilsynet har til grund for sin opfattelse lagt vægt på, at der for  
+
+ det omhandlede registers vedkommende er tale om registrering af  
+
+ helbredsoplysninger, det vil sige oplysninger om enkeltpersoners rent private  
+
+ forhold, og at der ved internetadgang til registeret må antages at være en  
+
+ risiko for, at oplysningerne kommer til uvedkommendes kendskab.
+Endvidere er der tale om registreringer, som i vid udstrækning vil danne  
+
+ grundlag for valg af behandling og ændring af igangværende behandling for den  
+
+ enkelte patient.
+Dermed opstår der yderligere en risiko, idet ødelæggelse  
+
+ eller forvanskning af disse oplysninger må formodes at kunne være af stor  
+
+ betydning for den enkelte patient.
+ Det er Registertilsynets opfattelse, at adgang til registre af den  
+
+ omhandlede art i stedet bør etableres via lukkede net, f.eks. ved brug af  
+
+ fastopkoblede linier.
+Registertilsynet er i forbindelse med sagen i øvrigt blevet opmærksom på,  
+
+ at der på Rigshospitalet er etableret en firewall.
+Tilsynet skal i den  
+
+ anledning anmode om, at Hovedstadens Sygehusfællesskab redegør for forholdene  
+
+ omkring Rigshospitalets internettilslutning.
+Det bedes herunder blandt andet  
+
+ oplyst, om der er adgang til Internet via Rigshospitalets interne net med  
+
+ hospitalets patientsystemer.
+Registertilsynet skal endvidere anmode  
+
+ Hovedstadens Sygehusfællesskab om at oplyse, hvorvidt der på de øvrige  
+
+ hospitaler i HS er etableret internetopkoblinger, og i givet fald tillige at  
+
+ redegøre for forholdene omkring disse.

@@ -1,0 +1,170 @@
+Når et område er overført til edb, kan der leveres udtræk fra  
+
+ matrikelregisteret.
+Matrikeludskrifter (MU) vil umiddelbart efter et område  
+
+ er sat i drift, kunne leveres som:
+ Ved bestilling af en almindelig MU er det tilstrækkeligt at oplyse et af  
+
+ ejendommens matr.nre. samt navn og kode for det ejerlav, som matr.nret.  
+
+ ligger i.
+ I det følgende vil form og indhold af de to typer matrikeludskrifter blive  
+
+ nærmere beskrevet.
+ Almindelig MU .
+ Et eksempel på en almindelig MU er vist i bilag 1.
+En almindelig MU indeholder som hovedregel de matr.nre., der er vurderet  
+
+ sammen af vurderingsmyndighederne, altså vurderingsenheden.
+Når det er  
+
+ vurderingsenheden, der er anført, vil der nederst på matrikeludskriften være  
+
+ anført ejendomsnr. i ejendomsstamregisteret i Det fælleskommunale  
+
+ Ejendomsdatasystem, vurderingsdato og vurderingsbeløb.
+Det kan forekomme, at  
+
+ vurderingsenheden ikke findes i matrikelregisteret, f.eks. i de tilfælde,  
+
+ hvor der på en ejendom har været en matrikulær sag, hvori matr.nre. er til-  
+
+ eller fragået ejendommen, og dette endnu ikke har medført omvurdering.
+I  
+
+ sådanne tilfælde indeholder matrikeludskriften alene de matr.nre., der i  
+
+ matrikelregisteret er noteret sammen som en ejendom, og der anføres ingen  
+
+ vurderingsoplysninger, men derimod en henvisning til at oplysninger må søges  
+
+ hos kommunen.
+Matrikelregisterets vurderingsoplysninger ajourføres en gang årligt efter  
+
+ hver hoved- eller årsomvurdering.
+Ajourføringen finder sted ca. 6 måneder  
+
+ efter vurderingsterminen. Ændringer i ansættelsen af ejendomsværdier mellem  
+
+ hoved- og årsomvurderinger bliver ikke tilført matrikelregisteret.  
+
+ Vurderingsoplysningerne i matrikelregisteret skal derfor tages med et vist  
+
+ forbehold.
+ Udskriften indeholder foroven i venstre hjørne matrikeldirektoratets  
+
+ »brevhoved«.
+ I øverste højre hjørne angiver »Side«, hvilken side der er tale  
+
+ om indenfor samme adressat, mens tallet i parentes angiver, hvilken side der  
+
+ er tale om indenfor den pågældende edb-kørsel.
+ »Dato« angiver udskrivningsdato.
+ Under matrikeldirektoratets »brevhoved« er anført adresse på  
+
+ den, der har rekvireret udskriften.
+ Overskriften »MATRIKELUDSKRIFT« angiver udskriftens type, i  
+
+ dette tilfælde en almindelig udskrift af matr.nre. i en ejendom.
+Under overskriften er anført en søjleopstilling.
+Under søjleopstillingen  
+
+ er igen anført ejerlavsbetegnelse og på samme linie i parentes den  
+
+ landsdækkende ejerlavskode.
+ Under »Matr.nr.« er anført de enkelte matr.nre.
+Under »Seneste ændr. dato« er anført den dato, der i  
+
+ ejendomsstamregisteret (Det fælleskommunale Ejendomsdatasystem) er anført som  
+
+ sidste approbationsdato.
+Har der siden konverteringen til edb været en  
+
+ matrikulær sag på matr.nret., vil »Seneste ændr. dato« være den  
+
+ dato, hvor den matrikulære sag er approberet.
+ Under »Not. kode« er anført tre søjler: H, J og S.
+»H« angiver kode for hovednotering.
+Der kan være anført følgende  
+
+ koder:.
+ Under »Lodantal« er anført det antal lodder, som matr.nret.  
+
+ består af.
+Under »Kortbladsbetegnelser« er anført betegnelser på de  
+
+ kortblade, som matr.nret. ligger på.
+Der kan være anført op til 3 kortblade.  
+
+ Ligger matr.nret. på flere end 3 kortblade, vil der være anført 2 kortblade  
+
+ og i feltet for 3.kortblad »m.fl.«.
+Under »Ber. måde« er anført, på hvilken måde arealet er  
+
+ beregnet.
+Der kan være anført følgende koder:
+Blank = areal beregnet på grundlag af kort Under »Areal kvm« er angivet matr.nrets. samlede areal i m2.
+ Under »Heraf vej kvm« kan være anført følgende:
+ Såfremt der findes vandløbsarealer i matriklen vil det være anført i klar  
+
+ tekst, evt. kun i form af oplysning om, at matr.nrets. areal er inklusive  
+
+ eller eksklusive vandløbsarealer.
+I de tilfælde, hvor et matr.nr. består af flere lodder, og loddernes  
+
+ arealer er kendte, vil der under matr.nret. være anført de enkelte lodder med  
+
+ en lod pr. linie.
+Lodaraler vil være mærket med en * for at adskille disse  
+
+ arealer fra matr.nr.-arealer.
+ Under matr.nre. kan der i visse tilfælde forekomme bemærkninger, f.eks.
+- Deklaration fredskov U1983/394 - Erhverv U1984/50294.
+ o.s.v.
+Disse bemærkninger er administrative notater, der er indlagt af hensyn til  
+
+ matrikeldirektoratets sagsbehandling.
+Bemærkningerne er i hovedsagen  
+
+ henvisninger til sager, og sagstyperne er angivet med et kort nøgleord.  
+
+ »Erhverv« betyder således en sag om erhvervelsestilladelse efter  
+
+ landbrugsloven.
+ Er der tale om en landbrugsejendom, vil der være foretaget en summation af  
+
+ arealerne.
+Nederst på matrikeludskriften er anført de vurderingsoplysninger, der  
+
+ måtte være i edb-matrikelsystemet.
+De anførte vurderingsbeløb er  
+
+ kontantværdier.
+ Der er tre muligheder:
+ »Findes ikke i matrikelregisteret.
+ Oplysninger må søges hos kommunen«.
+I dette tilfælde kan der være sket en ændring af antallet af matr.nre. i  
+
+ en ejendom i forbindelse med en matrikulær sag, og vurderingsoplysningerne  
+
+ kan herefter ikke gives.
+Endvidere kan årsagen være nogle edb-tekniske  
+
+ forhold, f.eks. at en ejendom er beliggende i flere kommuner og dermed har  
+
+ flere ejendomsnre.
+ Forkortet MU.
+ Et eksempel på en forkortet MU er angivet i bilag 2.
+ Dataindholdet er det samme som i almindelig MU bortset fra, at matr.nrene.  
+
+ optræder som selvstændige enheder, uanset om de er en del af en ejendom.  
+
+ Noteringskoden angiver, om der hviler en forpligtelse på matr.nret., men om  
+
+ matr.nret. alene udgør en ejendom eller er en del af en ejendom, kan ikke ses  
+
+ af den forkortede MU.
+ Vurderingsoplysninger fremgår heller ikke af den forkortede  
+
+ matrikeludskrift.

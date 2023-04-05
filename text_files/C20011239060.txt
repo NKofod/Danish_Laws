@@ -1,0 +1,691 @@
+Vejledning om GMDSS i fiskefartøjer (Global Maritime Distress and Safety System) Indledning Det verdensomspændende nød- og  
+
+ sikkerhedssystem for søfarten (GMDSS) blev vedtaget af den  
+
+ internationale søfartsorganisation IMO tilbage i 1988. Bestemmelserne  
+
+ som GMDSS blev optaget i SOLAS (Safety of Life at Sea) konventionens kapitel  
+
+ IV om radiokommunikation samt i kapitel III om redningsmidler.
+Systemet bryder med de tidligere bestemmelser om  
+
+ morsetelegrafi og radiotelefoni og bygger på anvendelsen af avanceret  
+
+ teknisk udstyr om bord i skibe, på kystradiostationer og i  
+
+ satellitsystemer.
+Såvel geostationære satellitter over  
+
+ ækvator som polært kredsende satellitter indgår i systemet.  
+
+ Systemet skal sikre, at eftersøgnings- og redningsmyndigheder (SAR) og  
+
+ skibe i nærheden af et nødstedt skib hurtigt bliver alarmeret,  
+
+ så de kan assistere i en koordineret aktion.
+Bl.a. skal alarmering til  
+
+ land kunne foretages med 2 adskilte og uafhængige metoder.
+Via systemet  
+
+ skal man endvidere kunne afvikle maritim sikkerhedskommunikation (MSI),  
+
+ såsom meteorologiske varsler, navigationsadvarsler m.m. samt almindelig  
+
+ generel kommunikation.
+I 1993 blev vedtaget en protokol til den internationale  
+
+ Torremolinos konvention om sikkerhed i fiskefartøjer fra 1977.  
+
+ Protokollens kapitel IX omfatter GMDSS   næsten ordret kopieret fra  
+
+ SOLAS.
+Imidlertid er Torremolinos konventionen med tilhørende protokol  
+
+ aldrig trådt i kraft, da den ikke blev ratificeret af et  
+
+ tilstrækkeligt stort antal lande (godkendt af parlamenterne).
+ For at højne sikkerheden i fællesskabets  
+
+ fiskefartøjer vedtog EU i 1997 et rådsdirektiv 97/70/EF om  
+
+ etablering af harmoniserede sikkerhedsforskrifter for fiskeskibe med en  
+
+ længde på 24 m og derover, som i princippet ophøjer  
+
+ bestemmelserne i Torremolinos konventionen til bindende bestemmelser.  
+
+ Direktivet er gennemført i Danmark pr. 1. februar 1999 og  
+
+ bestemmelserne er oversat til dansk i Meddelelser fra Søfartsstyrelsen  
+
+ E.
+ Udstyrskravene i GMDSS for det enkelte skib  
+
+ fastsættes primært under hensyn til skibets fartsområde og  
+
+ kun i ringe grad under hensyn til skibets størrelse.
+Hovedprincipper i GMDSS Som nævnt i indledningen bryder GMDSS med de  
+
+ hidtidige bestemmelser om radiokommunikation i skibe, herunder specielt hvad  
+
+ angår nød- og sikkerhedskommunikation.
+Hovedreglen er, at alle  
+
+ skibe uanset størrelse i princippet skal være udrustet med  
+
+ radioudstyr afhængigt af, hvor skibet sejler, og hvilke radiosystemer  
+
+ der er til rådighed i skibets fartsområde.
+Havområder Der skelnes mellem fire typer områder, nemlig:
+ Havområde A1:	Et område inden for  
+
+ radiotelefonidækning af mindst en VHF kystradiostation, hvor der  
+
+ kontinuerligt er mulighed for alarmering via DSC.
+ Havområde A2:	Et område, uden for A1, inden  
+
+ for radiotelefonidækning af mindst en MF kystradiostation, hvor der  
+
+ kontinuerligt er mulighed for alarmering via DSC.
+ Havområde A3:	Et område, uden for A1 og A2,  
+
+ inden for dækning af en Inmarsat geostationær satellit, hvor der  
+
+ kontinuerligt er mulighed for alarmering.
+ Havområde A4:	Et område uden for A1, A2 og  
+
+ A3 (polområder).
+Systemer GMDSS omfatter forskellige radiosystemer.
+Til det allerede  
+
+ kendte VHF - MF (mellembølge) og HF (kortbølge) telefoniudstyr  
+
+ skal kobles udstyr for digitalt selektivt kald (DSC), som gør at  
+
+ opkald foretages fra tastaturet på DSC udstyret i stedet for som hidtil  
+
+ ved kald med tale i radioudstyrets mikrofon.
+Det nyeste udstyr har DSC  
+
+ indbygget i radioudstyret.
+Derudover indgår Inmarsat  
+
+ satellit-terminaler for telefoni, telex og data, herunder e-mail.
+Endvidere  
+
+ indgår de såkaldte nødradiopejlsendere (EPIRB),  
+
+ radartranspondere (SART), NAVTEX-modtagere og bærbare VHF-anlæg.  
+
+ EPIRB er installeres udendørs med en hydrostatisk udløser,  
+
+ således at EPIRB en automatisk frigøres og udsender alarmering  
+
+ til satellitter, hvis skibet synker.
+SART er anvendes bl.a. i  
+
+ redningsflåder og signalet på 9 GHz kan ses som en række  
+
+ prikker på de omkringliggende skibes radarskærme (3 cm) og  
+
+ angiver derved retningen til SART en.
+NAVTEX-modtagere anvendes til  
+
+ automatisk modtagelse på 518 kHz af navigationsadvarsler m.m. og  
+
+ varsler om storm og kuling.
+Funktionskrav Ifølge SOLAS og Torremolinos protokollen skal skibe  
+
+ i GMDSS opfylde en række funktionskrav.
+ Et skib skal, når det er i søen, være i  
+
+ stand til at:
+1.	sende skib-til-kyst nødalarmer ved  
+
+ hjælp af mindst to adskilte og uafhængige metoder, anvendende  
+
+ forskellige radiokommunikationssystemer.
+Dog kan VHF DSC og Inmarsat  
+
+ terminaler anvendes som begge metoder.
+2.	modtage kyst-til-skib nødalarmer; 3.	sende og modtage skib-til-skib nødalarmer; 4.	sende og modtage koordinerende kommunikation til og  
+
+ fra land og andre skibe i forbindelse med eftersøgning og  
+
+ redningsaktioner (SAR); 5.	sende og modtage kommunikation på stedet for  
+
+ en redningsaktion (on-scene); 6.	sende og modtage signaler for lokalisering (SART og  
+
+ Radar); 7.	sende og modtage maritim sikkerhedsinformation  
+
+(MSI); 8.	sende og modtage generel radiokommunikation til og  
+
+ fra landbaserede radiosystemer eller net; og 9.	sende og modtage bro-til-bro  
+
+ kommunikation.
+ Ad. pkt. 6:	Fiskefartøjer med en længde  
+
+ på 35 meter og derover skal være udstyret med en radar (3 cm).
+ Ad. pkt. 7: 	Det kan være nødvendigt, at  
+
+ skibe kan modtage visse maritime sikkerhedsinformationer, medens de er i  
+
+ havn.
+ Ad. pkt. 8:	Et skib anses ikke for usødygtigt,  
+
+ hvis denne funktion ikke kan opfyldes ved afgang fra en havn, hvor der ikke  
+
+ er let adgang til reparationer.
+Nødalarmering I den float-free EPIRB sker alarmeringen automatisk, hvis  
+
+ skibet synker.
+DSC udstyr kræver en decideret alarmering ved at  
+
+ aktivere en rød knap (distress). Alarmeringen skal kunne  
+
+ iværksættes fra styrepladsen.
+Når den røde knap  
+
+ aktiveres, sendes skibets identifikation og position automatisk og aktiverer  
+
+ en alarm i DSC-udstyrene på kystradiostationen og alle andre skibe i  
+
+ området.
+Oplysningerne om det nødstedte skibs identifikation,  
+
+ position m.m. vises i DSC-udstyrenes display, således at en  
+
+ redningsaktion kan iværksættes.
+Denne måde at alarmere  
+
+ på er en forbedring i forhold til den hidtidige metode med et  
+
+ mayday-kald på en nødfrekvens, som forudsatte, at skibe og  
+
+ kystradiostationer holder konstant lyttevagt på nødfrekvensen.
+ Opkaldsmetoden med DSC medfører dermed en  
+
+ forbedring af sikkerheden for fiskerne.
+Nødkommunikation efter alarmeringen Selve nødkommunikationen som følger efter  
+
+ den indledende nødalarmering med DSC på MF DSC frekvensen 2187,5  
+
+ kHz og/eller VHF kanal 70 foregår i GMDSS med tale på  
+
+ nødfrekvensen 2182 kHz og/eller VHF kanal 16 på samme måde  
+
+ som hidtil.
+Derved kan kystradiostationen og alle skibe i området  
+
+ følge med i og deltage i kommunikationen og yde fornøden  
+
+ assistance.
+Tidsplan Havområde A2, A3 og A4:  1. februar 2002 Havområde A1:	        1. februar 2005 Nye fiskefartøjer af længde 24 meter og  
+
+ derover og eksisterende fiskefartøjer af længde 45 meter og  
+
+ derover overgik til GMDSS allerede i 1999 i henhold til EU direktivet som  
+
+ nævnt i indledningen.
+I foråret 2002 ophører Lyngby Radio med at  
+
+ holde manuel lyttevagt på frekvensen 2182 kHz, som er den hidtidige  
+
+ nød- og kaldefrekvens på mellembølge.
+Mellembølge  
+
+ rækker 200-300 sømil og dækker derfor hele  
+
+ Østersøen og Nordsøen.
+Lukningen er et led i overgangen  
+
+ til GMDSS og udfasningen af det gamle nød- og sikkerhedssystem baseret  
+
+ på lyttevagt på 2182 kHz.
+Det betyder, at resten af den danske  
+
+ fiskerflåde i området skal overgå til GMDSS senest den 1.  
+
+ februar 2002. De fleste lastskibe og passagerskibe er allerede overgået  
+
+ til GMDSS og lytter derfor ikke længere på 2182 kHz.
+ De fiskefartøjer, som skal overgå til GMDSS  
+
+ senest 1. februar 2002, er fiskefartøjer, som har fartsområde  
+
+uden for VHF-rækkevidde, hvilket er områder uden for de  
+
+ indre danske farvande og i Østersøen og Nordsøen  
+
+ længere ud end ca. 25 sømil fra kysten.
+ Fiskefartøjer, som har fartsområde inden  
+
+ for VHF-rækkevidde (ca. 25 sømil fra kysten), kan vente med  
+
+ at anskaffe udstyret til 1. februar 2005, idet skibe og Lyngby Radio skal  
+
+ fortsætte lyttevagten på VHF kanal 16 indtil da.
+ 2182 kHz vil som nævnt fortsat blive anvendt som  
+
+ nødfrekvens for selve nødkommunikationen efter den indledende  
+
+ nødalarmering, der udsendes digitalt (DSC, digitalt selektivt kald)  
+
+ på nødfrekvensen 2187,5 kHz.
+Udstyrskrav Reglerne om GMDSS fremgår af  
+
+ Søfartsstyrelsens tekniske forskrifter.
+For fiskefartøjer med  
+
+ en længde (L) på 15 meter og derover findes reglerne i  
+
+ Meddelelser fra Søfartsstyrelsen E - Teknisk forskrift om fiskeskibes  
+
+ bygning og udstyr m.v.
+For fiskefartøjer under 15 meter findes  
+
+ reglerne i Meddelelser fra Søfartsstyrelsen F   Teknisk forskrift om  
+
+ mindre erhvervsfartøjers bygning og udstyr m.v.
+Ikke alle  
+
+ fartøjer skal have samme omfang af udstyr.
+I de mindre fartøjer  
+
+ er noget udstyr krævet, medens resten af udstyret anbefales af  
+
+ Søfartsstyrelsen.
+Meddelelser fra Søfartsstyrelsen forhandles  
+
+ af Iver C.
+Weilbach & Co., København.
+ Grænsen på 15 meter i Meddelelser fra  
+
+ Søfartsstyrelsen F er suppleret med, at bestemmelserne gælder  
+
+ for fartøjer med et dimensionstal (længde overalt x bredde)  
+
+ på 20 og derover, men under 100. Fiskefartøjer med et  
+
+ dimensionstal på 100 og derover er omfattet af Meddelelser fra  
+
+ Søfartsstyrelsen E.
+ Omfanget af udstyr i de forskellige kategorier af  
+
+ fartøjer er fastsat af Søfartsstyrelsen efter høring af  
+
+ erhvervets parter.
+I de fleste tilfælde kræves nyt radioudstyr.  
+
+ Dog kan det nyeste traditionelle VHF og MF udstyr genanvendes og tilsluttes  
+
+ separat DSC-udstyr.
+Anskaffes nyt udstyr, kan det gamle udstyr tages i land.  
+
+ Det gælder også den såkaldte 2182 vagtmodtager, der bliver  
+
+ overflødig.
+Omfanget af kravene fremgår af nedenstående  
+
+ skemaer.
+En række undtagelser fra hovedreglerne i skemaerne er angivet  
+
+ i fodnoter:
+Nye fiskefartøjer af længde 24 meter og  
+
+ derover  
+
+ Eksisterende fiskefartøjer af længde 45 meter og  
+
+ derover Hav-  
+
+ område VHF-DSC MF-DSC HF-DSC og Radiotelex Inmarsat-C EPIRB SART Bærbar VHF NAVTEX A1 1 (2) 1 (2) 2 3 1 A2 1 (2) 1 1 (2) 2 3 1 A3 1 (2) 1 1 eller 1 1 (2) 2 3 1 e) A4 1 (2) 1 1 1 (2) 2 3 1 a)	Søfartsstyrelsen anbefaler at  
+
+ installere 2 VHF-DSC anlæg, idet fartøjet dermed fortsat er  
+
+ sødygtigt, såfremt det ene anlæg bliver defekt.
+b) 	Der installeres altid én EPIRB  
+
+ udendørs i en float-free mekanisme.
+For at opfylde et krav om  
+
+ sekundær alarmerings-metode kan endvidere installeres en manuel EPIRB i  
+
+ styrehuset.
+c) 	I skibe på 45 m og derover kræves 2  
+
+ SART   en på hver side.
+I arktiske farvande kræves nedpakket SART  
+
+ i flåderne.
+I skibe på under 45 m er 1 SART  
+
+ tilstrækkelig.
+ d) 	I skibe på under 45 m er 2 bærbare  
+
+ VHF-anlæg tilstrækkelig.
+ e) 	I A3 havområder, hvor der ikke er  
+
+ NAVTEX-dækning, er der endvidere krav om en Inmarsat EGC-modtager  
+
+ (Enhanced Group Call), som er indbygget i Inmarsat-C anlæg.
+Nye fiskefartøjer af længde 15  
+
+ meter og derover, men under 24 meter  
+
+ Eksisterende fiskefartøjer af længde 15 meter og derover, men  
+
+ under 45 meter Hav-  
+
+ område VHF-DSC MF-DSC HF-DSC Inmarsat-C EPIRB  
+
+ Float-free SART Bærbar VHF NAVTEX A1 1 1 1/R c) 1/R R A2 1 1 1 1 1/R 1/R A3 1 1 1 eller 1 1 1 1/R 1 d) A4 1 1 1 1 1 1/R 1 1 = krævet udstyr R= anbefalet udstyr a) 	Fiskefartøjer under 24 meter er  
+
+ fritaget fra krav om bærbar VHF.
+Det bærbare VHF radioanlæg  
+
+ anbefales også i disse fartøjer ophængt i styrehuset klar  
+
+ til at medbringe sammen med reservebatteri i redningsflåde i en evt.  
+
+ nødsituation.
+b) 	Der er indtil videre ikke krav om NAVTEX-modtagere  
+
+ i fartøjer med fartsområde i havområde A2 inden for  
+
+ linierne øst for 6 grader østlig længde i Nordsøen  
+
+ og syd for 58 grader nordlig bredde i Østersøen.
+Anskaffelsen  
+
+ anbefales.
+c) 	Eksisterende fiskefartøjer under 24 meter  
+
+ med fartsområde i havområde A1 er fritaget fra krav om SART.
+SART  
+
+ en anbefales også i disse fartøjer ophængt i styrehuset  
+
+ klar til at medbringe i redningsflåde for stedbestemmelse i en evt.  
+
+ nødsituation.
+ d) 	I A3 havområder, hvor der ikke er  
+
+ NAVTEX-dækning, er der endvidere krav om en Inmarsat EGC-modtager  
+
+ (indbygget i Inmarsat-C anlæg).
+Fiskefartøjer af længde under  
+
+ 15 meter (nedre grænse er længde x bredde = 20) Hav-  
+
+ område VHF-DSC MF-DSC HF-DSC Inmarsat-C EPIRB SART Bærbar VHF NAVTEX A1 1 R R R R A2 1 1 1 1 R 1 a) A3 1 1 1 eller 1 1 1 R 1 1 = krævet udstyr R= anbefalet udstyr a) 	Der er indtil videre ikke krav om  
+
+ NAVTEX-modtagere i fartøjer med fartsområde i havområde A2  
+
+ inden for linierne øst for 6 grader østlig længde i  
+
+ Nordsøen og syd for 58 grader nordlig bredde i  
+
+ Østersøen.
+Anskaffelsen anbefales.
+Vedligehold Radioudstyret skal vedligeholdes løbende for hele  
+
+ tiden at være i driftsmæssig god stand, således at  
+
+ funktionskravene er opfyldt.
+ I de største fiskefartøjer kræves, at  
+
+ udstyret vedligeholdes ved forskellige metoder såsom:
+1.	dublering af udstyr, 2.	landbaseret vedligehold eller 3.	vedligehold om bord under sejlads Ad 1. Omfanget af dublering af udstyr aftales med  
+
+ Søfartsstyrelsen i hvert enkelt tilfælde.
+ Ad 2. Landbaseret vedligehold kræver en kontrakt med  
+
+ et servicefirma, som har en organisation, der gør, at udstyret kan  
+
+ vedligeholdes af firmaet i de havne, som fartøjet normalt  
+
+ anløber.
+ Ad 3. Vedligehold om bord under sejlads kræver en  
+
+ person forhyret om bord, som er specielt uddannet til vedligeholdelse af  
+
+ udstyret.
+ Følgende regler gælder:
+ Nye på 24 meter og derover og eksisterende  
+
+ på 45 meter og derover:
+ Ved fartsområde i havområde A3 og A4 skal  
+
+ vælges mindst 2 af ovennævnte metoder, medens 1 metode er  
+
+ tilstrækkelig ved fartsområde i havområde A1 og A2. De  
+
+ valgte metoder skal godkendes af Søfartsstyrelsen.
+ Nye under 24 meter og eksisterende under 45 meter:
+Ved fartsområde i havområde A3 og A4 skal  
+
+ vælges mindst 1 af ovennævnte metoder, som skal godkendes af  
+
+ Søfartsstyrelsen.
+Ved fartsområde i havområde A1 og A2  
+
+ kræves ikke anmeldelse og Søfartsstyrelsens godkendelse af en  
+
+ bestemt metode.
+Godkendt udstyr Radioudstyr, som anbringes om bord, skal overholde en lang  
+
+ række specifikationer og standarder og skal på denne måde  
+
+ være godkendt til formålet.
+ Grundlæggende skelner man imellem 2 former for  
+
+ godkendelse:
+1.	Radioudstyr, som er godkendt af såkaldte  
+
+ »Notified bodies« i henhold til EU s maritime udstyrs-direktiv, skal  
+
+ være mærket med et ratmærke.
+Udstyr med ratmærke er  
+
+ godkendt til installation i SOLAS-skibe og opfylder dermed IMO s krav.
+ 2.	Radioudstyr, som overholder EU s direktiv om radio-  
+
+ og teleterminaludstyr (R&TTE   direktivet) herunder en række  
+
+ søsikkerhedsmæssige krav, skal være mærket med et  
+
+ CE-mærke.
+ Udstyr med ratmærke og/eller med CE-mærke  
+
+ må installeres i fiskefartøjer.
+Energikilder Når fartøjet er i søen, skal der til  
+
+ stadighed være tilstrækkelig elektrisk energi til rådighed  
+
+ til drift af radioinstallationerne samt til opladning af de batterier, der  
+
+ anvendes som reserveenergikilde.
+Den krævede belysning og  
+
+ navigationsudstyr, som er tilsluttet fartøjets radioudstyr, skal  
+
+ være tilsluttet samme energikilde som radioudstyret.
+Fartøjer på 15 meter og derover (Medd.
+E)  
+
+ skal have en reserveenergikilde, som er uafhængig af  
+
+ fartøjets fremdrivningsmidler og af fartøjets elektriske  
+
+ anlæg.
+Reserveenergikilden skal kunne forsyne fartøjets  
+
+ primære radioudrustning i mindst 6 timer.
+Fartøjer under 15 meter (Medd.
+F) skal have et  
+
+ brugsbatteri og ved en automatisk omskifter skal radioinstallationerne kunne  
+
+ tilsluttes et nødbatteri eller et startbatteri.
+Batterierne skal kunne  
+
+ forsyne fartøjets primære radioudrustning i mindst 6 timer.
+ Akkumulatorbatterier skal kunne oplades automatisk, og der  
+
+ er krav til akkumulatorbatteriernes kontrol, pasning og placering.
+Bærbare VHF-radioanlæg kan være forsynet  
+
+ med genopladelige batterier til den daglige brug på skibet.
+Derudover  
+
+ skal der i reserve forefindes et forseglet litiumbatteri pr. anlæg,  
+
+ klar til brug i en nødsituation.
+Antenner Antenner skal være anbragt så højt og  
+
+ frit som muligt.
+Antennerne findes både som trådantenner og som  
+
+ stavantenner.
+Til VHF radioanlæg kræves kun 1 antenne  
+
+ fælles for sending og modtagning samt et filter, som hindrer, at  
+
+ sendefrekvensen ledes over i modtageren.
+VHF-antennen er en  
+
+ rundstrålende stavantenne, som bør placeres forskudt fra andre  
+
+ antenner og gods med mindst 1 meter (halv bølgelængde). I visse  
+
+ VHF-DSC radioanlæg kræves en ekstra modtageantenne for at kunne  
+
+ holde uafbrudt DSC-vagt på VHF kanal 70 (DSC nødkanal).
+En god jordforbindelse er nødvendig.
+I  
+
+ stålskibe anvendes selve skroget som jordforbindelse, medens man i  
+
+ træskibe placerer en metalplade udvendigt på skibet.
+I VHF  
+
+ radioanlæg er det ikke nødvendigt med jordforbindelse.
+Installation Det er vigtigt, at udstyret installeres efter  
+
+ bestemmelserne i de tekniske forskrifter og fabrikantens anvisninger for at  
+
+ være sikker på, at det altid virker efter hensigten.
+Med til  
+
+ udstyret hører ganske bestemte antenner.
+DSC og Inmarsatudstyr skal  
+
+ tilsluttes fartøjets navigationsudstyr (GPS) for automatisk opdatering  
+
+ af skibets position, såfremt dette udstyr forefindes om bord.
+Udstyret skal installeres på en sådan  
+
+ måde, at det er let tilgængeligt for inspektion og vedligehold om  
+
+ bord.
+Der skal forefindes teknisk dokumentation og betjeningsvejledninger for  
+
+ alt udstyr.
+Der skal endvidere forefindes relevante reservedele og  
+
+ værktøj for vedligehold af udstyret.
+Bærbare VHF-anlæg skal være placeret i  
+
+ styrehuset sammen med reservebatterier klar til uden videre at bringe med i  
+
+ en nødsituation.
+SART installeres ligeledes i styrehuset klar til uden  
+
+ videre at bringe med i en nødsituation.
+Den float-free EPIRB installeres udendørs så  
+
+ frit som overhovedet muligt, således at den kan flyde fri af skibet,  
+
+ hvis dette synker, og aktiveres automatisk, når den flyder.
+Den  
+
+ manuelle EPIRB (evt.) installeres i styrehuset klar til uden videre at blive  
+
+ aktiveret og bragt med i en nødsituation.
+Betjening For at betjene radioudstyret kræves et GMDSS  
+
+ radiocertifikat.
+Der skal være mindst en person om bord med  
+
+ fornødent certifikat, i de større fartøjer 2. Personer  
+
+ uden certifikat må gerne betjene udstyret under overvågning af en  
+
+ person med certifikat.
+En af navigatørerne med certifikat skal af  
+
+ skipperen på forhånd være udpeget til at varetage  
+
+ kommunikationen i en eventuel nødsituation.
+For at erhverve certifikatet skal en prøve  
+
+ bestås.
+Det certifikat, som er aktuelt for fiskere i f.eks.  
+
+ Nordsøen, benævnes LRC (Long Range Certificate). LRC kurset har  
+
+ en varighed på 1½ uge, og man lærer at betjene og passe udstyret  
+
+ i det daglige.
+Der lægges især vægt på at kunne  
+
+ anvende radio-udstyret, hvis skibet kommer i en nødsituation, eller  
+
+ hvis andre kommer i nød.
+Eleverne på fiskeriskolerne i Thyborøn og  
+
+ Grenå tilbydes alle LRC kursus.
+I de største  
+
+ fiskefartøjer (nye på 24 meter og derover og eksisterende  
+
+ på 45 meter og derover) kræves det største af  
+
+ certifikaterne GOC (General Operator Certificate), som tilbydes i  
+
+ fiskeskipperuddannelsen.
+Inden for havområde A1 er de begrænsede  
+
+ ROC (Restricted Operator Certificate) og SRC (Short Range Certificate)  
+
+ certifikater tilstrækkelige.
+Radiokurser tilbydes på navigations-  
+
+ og skipperskoler samt af en række andre private og offentlige  
+
+ skoler.
+Søfartsstyrelsen varetager GOC, LRC og ROC  
+
+ certifikaterne, medens Telestyrelsen varetager SRC certifikatet.
+Det skal  
+
+ bemærkes, at SRC er primært beregnet for fritidssejlere og ikke  
+
+ opfylder Søfartsstyrelsens krav for at erhverve  
+
+ sønæringsbevis, hvor ROC er mindstekravet.
+ Certifikatkravene i fiskefartøjer er:
+ Nye på 24 meter og derover og eksisterende  
+
+ på 45 meter og derover:
+mindst 	1 person med GOC samt 1 person med mindst LRC Eksisterende på 24 meter og derover, men under 45  
+
+ meter:
+mindst 	1 person med GOC eller LRC Nye og eksisterende på under 24 meter:
+mindst 	1 person med SRC ved fartsområde i  
+
+ havområde A1 mindst 	1 person med LRC ved fartsområde i  
+
+ havområde A2, A3 og A4.

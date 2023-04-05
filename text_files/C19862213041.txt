@@ -1,0 +1,50 @@
+ Studieplanen har virkning fra den 1. august 1986.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+ Kursets formål:
+ Kurset skal sætte den studerende i stand til at foretage de vurderinger og  
+
+ valg, som er nødvendige ved den fysiske konstruktion af en given database.  
+
+ Til dette hører en tilstrækkelig viden om egenskaberne ved forskellige  
+
+ lagringsstrukturer til at udnytte alternativerne i et givet operativ- eller  
+
+ databasesystem på en fornuftig måde samt påpege evt. svagheder eller mangler  
+
+ i et sådant system.
+ Formelle adgangsbetingelser:
+Drift Problemorienteret sprog Planlægning Projektgennemførelse Anbefalede forudsætninger:
+ 2.6 Databasesystemer, 5.4 Statistik og 5.5 Operationsanalyser.
+ Hovedemner og undervisningsformål med disse:
+ 1. Registerorganisation og tilgangsmetoder.
+ Den studerende skal kunne estimere søgetid, lagerpladsforbrug samt  
+
+ mulighederne for at implementere den logiske databases relationer ved hjælp  
+
+ af følgende former for registerorganisation:
+ - Random organisation.
+ - Indeks organisation.
+ - Liste organisation.
+ - Sekventiel organisation.
+(Herunder behandles også ekstern sortering og fletning, der kan opfattes  
+
+ som en tilgangsmetode for batch kørsler) 2. Databasesystemers lagringsstrukturer.
+ Den studerende skal for forskellige typer databasesystemer kunne  
+
+ konstruere en »optimal« database til et givet formål.
+ Herved skal den studerende vise, hvordan man kan kombinere forskellige  
+
+ typer registerorganisation og optimere, ved at vælge mellem primære og  
+
+ sekundære organisationsformer samt evt. clustering.
+ Den studerende skal også kunne redegøre for den valgte løsnings  
+
+ fleksibilitet overfor nye uforudsete opgaver.
+ 3. Distribuerede databaser.
+ Den studerende skal kunne redegøre for fordele og ulemper ved fysisk  
+
+ distribuering af data samt de særlige tekniske problemer, der knytter sig  
+
+ hertil.

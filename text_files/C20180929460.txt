@@ -1,0 +1,29 @@
+Vejledning om regioners indberetning af oplysninger til Sygehusmedicinregisteret 1. Indledning Denne vejledning er tænkt som en kort introduktion til det nationale Sygehusmedicinregister (SMR) samt en vejledning til de indberetninger som foretages fra regionerne.
+Målgruppen for vejledningen er dels indberetterne og dels regionernes BI- og it-afdelinger, som opsamler data vedrørende medicinering med henblik på indberetning til Sundhedsdatastyrelsen.
+ Der foretages opdatering af denne vejledning minimum én gang om året og kvartalsvis ved behov.
+ Vejledningen publiceres på Sundhedsdatastyrelsens hjemmeside.
+2. Introduktion SMR indeholder udvalgte oplysninger om medicinering på de offentlige sygehuse.
+Det drejer sig bl.a. om patient, præparat, ordination, administration og diagnoser.
+SMR kan endvidere indeholde oplysninger om priser.
+Oplysningerne tager udgangspunkt i registrering af lægemiddeladministrationer i de regionale medicinmoduler eller tilsvarende it-støttesystemer.
+3. Baggrund Med økonomiaftalen for 20171), har regeringen og Danske Regioner aftalt at etablere et nationalt individbaseret sygehusmedicinregister i regi af Sundhedsdatastyrelsen jf. aftaleskriften:
+ Regeringen og Danske Regioner er enige om etablering af et nationalt sygehusmedicinregister i regi af Sundhedsdatastyrelsen bl.a. til brug for overvågning af lægemiddelsikkerheden, bedre muligheder for at følge forbrug og styre ud fra data, forskning og understøttelse af klinisk kvalitetssikring.
+Registeret tager udgangspunkt i regionernes it-projekt på området.
+Parterne er enige om at igangsætte arbejdet i en arbejdsgruppe med deltagelse af SUM (formand) og Danske Regioner.
+Registeret skal være etableret senest ultimo 2017.
+ Derudover er der indgået yderligere aftale om udviklingen af sygehusmedicinregisteret i Økonomiaftalen for 2018. Danske Regioner, Sundheds- og Ældreministeriet, Sundhedsdatastyrelsen og Lægemiddelstyrelsen m.fl. samarbejder om etableringen af SMR.
+4. Hvem skal indberette? Regionsrådet har ansvaret for at sikre, at regionen indberetter oplysninger om administration af lægemidler i sygehusvæsenet til Sundhedsdatastyrelsen.
+5. Tidslinje vedr. indberetning Fra 15. maj 2018 indberetter regionerne de medicindata, som umiddelbart er tilgængelige i medicinmoduler.
+Fremadrettet etablerer regionerne de nødvendige integrationer, systemudvidelser og digitaliseringstiltag, så indberetningen også omfatter de områder, hvor man i flere regioner foretager lægemiddeladministration støttet af specifikke løsninger (it-baserede såvel som papirbaserede).
+ I den periode hvor SMR ikke indeholder alle lægemiddeladministrationer fra regionerne, vedligeholder regionerne en samlet oversigt over hvilke medicindata på afdelings- og områdeniveau, der indgår i indberetningen til SMR samt hvilke medicindata, der ikke indgår i indberetningen.
+ Der skal ske indberetning af en række yderligere tungtvejende transaktioner, der ikke foretages i medicinmoduler, senest med udgangen af 2019, herunder vedr. kræftlægemidler og biologiske lægemidler, jf. økonomiaftalen for 20182).
+6. Hvad skal indberettes Indberetningen skal indeholde de oplysninger, der fremgår af den til enhver tid gældende Variabelliste for indberetning af medicinadministrationsoplysninger til Sygehusmedicinregisteret, som er tilgængelig på Sundhedsdatastyrelsens hjemmeside.
+7. Krav til de afleverede data Data opsamles løbende i hver region, og de lægemiddeladministrationer, som er foretaget eller ændret siden den seneste overførsel til Sygehusmedicinregisteret, samles i én fil per region, og overføres (uploades) én gang i døgnet til Sundhedsdatastyrelsen via Sundhedsdatanettet.
+Data overføres en gang hvert døgn indeholdende lægemiddeladministrationer for dagsdato minus to døgn.
+8. Leveringsfrekvens -sted og -tidspunkt 9. Filnavne Filnavne på standardindberetningsfilerne skal følge dette format:
+[Regionskode]_[udtræks_dato_tid]_[transaktion_start_dato_tid]_[transaktion_slut_dato_tid]. csv Eksempel: 1084_20180203000000_20180201000000_20180201235959. csv 10. Datakomplethed og ændringer i indrapporterede data  Hvert udtræk skal indeholde alle transaktioner vedr. lægemiddeladministrationer udført i den pågældende periode, herunder eventuelle ændringer i allerede indberettede data.
+  Der må ikke være transaktioner, som ikke omfattes af nogen dataoverførsel.
+11. Filformat til dataudveksling Dataudvekslingsfilerne leveres:
+ som csv-fil, dvs.
+ASCII-tekstfil i DOS format, med anvendelse af det udvidede karaktersæt  med feltnavn i øverste linje (jf. feltnavn i Variabelliste for indberetning af medicinadministrationsoplysninger til Sygehusmedicinregisteret)  med CR LF (hex 0D 0A) som linjeafslutning  med datafelter adskilt af lodret streg [|]  med decimalseparator komma [,]  uden 1000-tals separator  med anvendelse af ISO-format på alle datofelter, dvs. enten åååå-mm-dd eller åååå-mm-dd hh:mm:ss  med [] til at afgrænse, dvs. indlede og afslutte tekstfelter  med  som angivelse af intet indhold i feltet  med en sidste linje i hver fil, der udelukkende indeholdende teksten Antal forekomster efterfulgt af det aktuelle antal lægemiddeladministrationer i filen (dvs. antal linjer eksklusiv den aktuelle slutlinje og den første linje med feltnavnene) Sundheds- og Ældreministeriet, den 30. april 2018 Ellen Trane Nørby / Anna Skat Nielsen 1) Aftaler om den kommunale og regionale økonomi for 2017, juni 2016, s. 30.
+ 2) Aftaler om den kommunale og regionale økonomi for 2018 side 45, 6. juni 2017.

@@ -1,0 +1,958 @@
+INDHOLDSFORTEGNELSE 1. INDLEDNING 2. DEFINITIONER 3. TEKNISKE OPLYSNINGER 4. TEKNISKE KRAV 5. MåLEOPSTILLINGER 1. INDLEDNING Nærværende tekniske bestemmelser indeholder følgende:
+- Afsnit 2 indeholder definitioner af anvendte udtryk og begreber der ikke  
+
+ forudsættes almindeligt kendte.
+Definitionen af visse begreber er yderligere  
+
+ anskueliggjorte i en tilhørende definitionsskitse.
+- Afsnit 3 indeholder tekniske oplysninger om analoge abonnentledninger  
+
+ mod det offentlige koblede telefonnet.
+De beskrevne oplysninger gælder,  
+
+ medmindre andet er angivet, alle analoge abonnentledninger uanset, hvilken  
+
+ offentlig telefoncentral de er indført til.
+Hvor de beskrevne oplysninger  
+
+ indeholder variabler er disses variationsområde i videst mulig omfang  
+
+ angivet.
+- Afsnit 4 beskriver de tekniske krav der kræves opfyldt af PABC'er der  
+
+ tilsluttes det offentlige koblede telefonnet ved hjælp af analoge  
+
+ abonnentledninger.
+Generelt gælder at der i en given PABC kun kræves  
+
+ opfyldelse af de krav der er relevante for den specifikke PABC's funktioner.
+ - Afsnit 5 indeholder generelle retningslinier for  
+
+ typegodkendelsesmålinger samt detailmåleopstillinger til verifikation af de i  
+
+ afsnit 4 specificerede krav.
+2. DEFINITIONER ABONNENT Ved en abonnentlinie forstås de dele af et telefonanlæg, der er tilsluttet  
+
+ den offentlige telefoncentrals tilslutningsklemmer og inkluderer PABC  
+
+ installationen.
+ABONNENTLEDNING En abonnentledning er afgrænset af den offentlige telefoncentrals  
+
+ linieside og abonnentens tilsvarende.
+ABONNENTINSTALLATION En abonnentinstallation indeholder de dele af abonnentlinien, der er  
+
+ placeret efter abonnentledningens afgrænsningspunkt hos abonnenten.
+ABONNENTHJÆLPEUDSTYR Abonnenthjælpeudstyr er udstyr der føjer visse hjælpefunktioner til en  
+
+ abonnentlinies standardfunktioner f.eks. medløbstælling,  
+
+ sammenmærkningsophævning etc.
+ Abonnenthjælpeudstyr omfatter en centralplaceret og en abonnentplaceret  
+
+ del, hvoraf den centralplacerede del altid leveres af teleadministrationerne.
+a.
+Abonnenthjælpeudstyr - centralplaceret Ved centralplaceret abonnenthjælpeudstyr forstås det udstyr der er  
+
+ placeret mellem den offentlige centrals centralside og linieside.
+b. -Abonnenthjælpeudstyr - abonnentplaceret Ved abonnentplaceret abonnenthjælpeudstyr forstås det udstyr der er  
+
+ placeret mellem abonnentledningens afgrænsningspunkt hos abonnenten og  
+
+ PABC'en, eller indbygget i PABC'en.
+LOKALLINIE Ved en lokallinie forstås de dele af abonnentinstallationen, der er  
+
+ tilsluttet PABC'ens lokale tilslutningsklemmer og inkluderer  
+
+ lokalinstallationen.
+LOKALLEDNING Lokaledningen omfatter den del af lokallinien, der er placeret mellem  
+
+ PABC'ens lokale linieside og lokalinstallationen.
+LOKALINSTALLATION En lokalinstallation indeholder de dele af lokallinien, der er placeret  
+
+ efter lokalledningens afslutningspunkt.
+DET KOBLEDE TELEFONNET Ved det koblede telefonnet forstås det offentlige telefonnet, hvor  
+
+ opkobling/nedkobling af kommunikationsveje er styret af abonnenterne.
+LINIEBLOKADE Elektrisk tilstand på abonnentledningen, der gør abonnentledningen  
+
+ inaktiv.
+ Der vil normalt forekomme optagettone.
+A-ABONNENT Kaldende abonnent.
+B-ABONNENT Kaldte abonnent.
+NEDKOBLING Nedkobling styres normalt af a-abonnenten.
+ Såfremt a-abonnenten ikke lægger på vil nedkobling af forbindelsen ske ca.  
+
+ 90 sek. efter at b-abonnenten har lagt røret på.
+DOBBELT-NEDKOBLING Nedkobling af forbindelsen er betinget af pålægning hos såvel a-abonnenten  
+
+ som b-abonnenten.
+3 TEKNISKE OPLYSNINGER INDHOLDSFORTEGNELSE 1 JÆVNSTRØMSFORHOLD 1. JÆVNSTRØMSFORHOLD 1.1. FØDESPÆNDING FRA OFFENTLIG TELEFONCENTRAL 1.2. FØDESPOLEMODSTANDE I OFFENTLIGE TELEFONCENTRALER 1.3. STRØMFØDNING AF PABC-INSTALLATION 1.4. ABONNENTLEDNINGSMODSTAND 1.5. ISOLATIONSMODSTAND 1.6. ABONNENTHJÆLPEUDSTYR - CENTRALPLACERET 1.7. POLARITETSSKEMA 1.8. SPÆRRINGSPOLVENDING 1.9. VALGSLUTSIGNAL - LEDIGSIGNAL 1.10. RINGETRIPNING 1.11. PREL PÅ SIGNALKONTAKTER OG FALSKE AFBRYDELSER AF FØDESTRØMMEN 2 ABONNENTLINIENETTETS TRANSIENTE EGENSKABER 3 FORHOLD VED MFT-SIGNALERING 4 DRIFTSSPEFICIFIKATION FOR RINGESIGNALER FRA OFFENTLIGE  
+
+ TELEFONCENTRALER 5 DRIFTSSPECIFIKATIONER FOR TONESIGNALER FRA OFFENTLIGE  
+
+ TELEFONCENTRALER 5.1. ALMINDELIGT 5.2. KLARTONE 5.3. OPTAGETTONE 5.4. RINGETONE 5.5 »BANKE PÅ« TONE 5.6. HENVISNINGSTONE 6 DRIFTSSPECIFIKATION FOR SIGNALERING MED FREKVENSER > 3400 Hz 1. JÆVNSTRØMSFORHOLD 1.1. FØDESPÆNDING FRA OFFENTLIG TELEFONCENTRAL Nominelt 48 V med variationsområde 44-56 V.
+Pluspolen er forbundet til  
+
+ neutral jord..
+1.2. FØDESPOLEMODSTANDE I OFFENTLIGE TELEFONCENTRALER Normalt 2 x 250 ohm +/- 10% eller 2 x 400 ohm +/- 10%.
+ I linieblokadetilstand kan det risikeres, at fødemodstanden har en større  
+
+ værdi.
+1.3 STRØMFØDNING AF PABC-INSTALLATION Strømfødning af PABC-installationer må generelt foretages fra linien under  
+
+ forudsætning af, at den samlede ækvivalente jævnstrømsmodstand af  
+
+ PABC-installationen og eventuelt abonnenthjælpeudstyr ikke overstiger 500  
+
+ ohm, ved 16 mA eller mere.
+1.4. ABONNENTLEDNINGSMODSTAND Abonnentledninger er normalt fremført som metaltrådsledninger (kobber  
+
+ eller aluminium) i jordkabel, men i nogle tilfælde dog som pupiniserede  
+
+ ledninger eller via multiplekssystemer.
+Den samlede akvivalente jævnstrømsmodstand af abonnentledningen, set fra  
+
+ dennes tilslutningspunkter i den offentlige telefoncentrals linieside til de  
+
+ tilsvarende punkter i PABC-installationen, vil ligge i intervallet. 0 - 1400  
+
+ ohm 1.5 ISOLATIONSMODSTAND Definition:
+ Ved isolationsmodstand forståes den samlede virkning af  
+
+ afledningsmodstande i kabler.
+ Værdiområde:
+ Isolationsmodstandens sammensætning er vist på fig. 1.5.1.
+1.6 ABONNENTHJÆLPEUDSTYR - CENTRALPLACERET Den maximale ækvivalente jævnstrømsmodstand af evt. centralplaceret  
+
+ abonnenthjælpeudstyr er max. 100 ohm.
+1.7 POLARITETSSKEMA I en abonnentinstallation kan der ikke påregnes en polaritetsret  
+
+ gennemkobling af abonnentledningen.
+Normalt vil strømvending kunne anvendes til nedkobling af forbindelser  
+
+ styret af A-abonnenten.
+Dette er ikke muligt på visse telefoncentraler, der  
+
+ benytter dobbelt nedkobling.
+1.8 SPÆRRINGSPOLVENDING Definition:
+ Spærringspolvending sendes på abonnentledninger ved afgående opkald og  
+
+ består a en vending af polariteten fra talepolaritet til omvendt polaritet og  
+
+ tilbage til talepolaritet.
+ Formål:
+ Formålet med udsendelse af spærringspolvendingssignal er at skabe mulighed  
+
+ for såvel fast som abonnentstyret spærring.
+ Signalkode:
+ Spærringspolvending mod abonnent m. ensretter indkoblet: max. 60 ms.
+ Spærringspolvending mod abonnent u. ensretter indkoblet: max. 120 ms.
+ Signallængden defineres som angivet på fig. 1.8. og måles på  
+
+ centraludstyrets tilslutningsklemmer.
+ Signalprogram:
+ Spærringspolvending sendes før klartone og påbegyndes min. 60 ms/max. 120  
+
+ ms efter opnåelse af registerpolaritet.
+1.9 VALGSLUTSIGNAL - LEDIGSIGNAL Definition:
+ Valgslutsignalet/ledigsignalet sendes på abonnentledninger ved afgående  
+
+ opkald, når udkobling af cifreringsorganet er forårsaget af ledigmarkeret  
+
+ B-abonnent.
+ Signalkode:
+Valgslutsignalet/ledigsignalet består af en to-polet afbrydelse af  
+
+ fødestrømmen, der ligger i intervallet. 125 - 300 ms Signalet opfylder de betingelser, der er angivet på fig. 1.9 og måles på  
+
+ centraludstyrets tilslutningsklemmer.
+Signalprogram Valgslutsignalet/ledigsignalet sendes så tidligt som muligt efter, at  
+
+ cifreringsorganet har konstateret, at komplet cifferinformation foreligger;  
+
+ dog tidligst 250 ms efter sidste ciffers modtagelse.
+ Signalet kan ikke tilbydes på alle offentlige telefoncentraler.
+1.10 RINGETRIPNING Definition:
+ Ved ringetripning foreståes den bortkobling af ringespænding, der finder  
+
+ sted, når abonnentlinien besvares.
+ Signalprogram:
+ Ringetripning finder sted hurtigst muligt efter sløjfeslutning og senest i  
+
+ førstkommende ringepause.
+1.11 PREL PÅ SIGNALKONTAKTER OG FALSKE AFBRYDELSER AF FØDESTRØMMEN Definition:
+ Ved prel forståes de utilsigtede kortvarige afbrydelser og slutninger, der  
+
+ kan forekomme ved slutning eller brydning af en kontakt.
+1.11.1 Prel på signalkontakter Ved såvel slutning som brydning af signalkontakter vil der normalt ikke  
+
+ være prel i mere end 5 ms.
+ Prel ved slutning af en signalkontakt regnes med til kontaktens sluttetid,  
+
+ medens prel ved brydning af en signalkontakt regnes med til kontaktens  
+
+ brydetid.
+1.11.2 Falske afbrydelser af fødestrømmen Under kobling af en forbindelse kan der opstå huller i fødestrømmen på op  
+
+ til 1500 ms.
+2. ABONNENTLINIENETTETS TRANSIENTE EGENSKABER Abonnentlinien indkluderer såvel - centralplaceret abonnenthjælpeudstyr - abonnentledningen - abonnentplaceret abonnenthjælpeudstyr - som PABC-installationen Definition:
+ Informationsveksling mellem abonnentinstallation og central er ofte  
+
+ baseret på ændringer i sløjfestrømmens størrelse og/eller retning, forårsaget  
+
+ af springvise ændringer af sløjfens påtrykte spænding eller af  
+
+ sløjfemodstanden.
+ En idealiseret sløjfestrømsændring med hensyn til informationsudveksling  
+
+ er vist fuldt optrukket i fig. 2.1. I sløjfen indgår der imidlertid såvel  
+
+ kapacitive som induktive elementer, hvorfor sløjfestrømmen i praksis vil være  
+
+ tidsafhængig umiddelbart efter en tilstandsændring, således som antydet  
+
+ punkteret i fig. 2.1.
+Den i praksis forekommende afvigelse mellem strømmens øjebliksværdi og strømmen i det idealiserede tilfælde med samme værdier for de stationære strømme I og I benævnes i det følgende den transiente A B strøm.
+ Er »i« lig med strømmens øjebliksværdi gælder herfor:
+ hvor i t er den transiente strøm.
+ Abonnentlinienettets transiente egenskaber overfor forskellige  
+
+ tilstandsændringerne i nærværende snitfladespecifikation angivet ved  
+
+ indhyllingskurver for den transiente strøm og måles ved hjælp af det  
+
+ måleprincip, der er angivet i fig. 2.2., idet der forudsættes, at der opnåes  
+
+ stationære tilstande mellem de enkelte målinger.
+Størrelsen af den transiente strøm er imidlertid afhængig af centralspændingen E, ligesom abonnentudstyrs forvrængede egenskaber kan være maksimale ved forskellige spændinger.
+Indhyllingskurvernes strømakse for den transiente strøm er derfor ikke angivet direkte i mikro A, men som forholdet i t /E (micro A/V),, hvor E er centralspændingen, idet det forudsættes at bl.a.
+abonnentudstyr kontrolleres inden for hele spændingsområdet 44-56 volt.
+ Som eksempel på anvendelse af indhyllingskurverne for den transiente strøm  
+
+ er der på skitsen fig. 2.3., vist forholdene ved sending af det  
+
+ returtastesignal.
+3 FORHOLD VED MFT-SIGNALERING 3.1 I forbindelse med visse offentlige telefoncentraler kan der, ved  
+
+ internationale opkald - afhængig af trafikbelastningen - forekomme fejl i  
+
+ ciffermodtagningen, hvis cifreringshastigheden i gennemsnit er større end 5  
+
+ cifre pr. sekund 4 DRIFTSSPECIFIKATION FOR RINGESIGNALER FRA OFFENTLIGE  
+
+ TELEFONCENTRALER Definition:
+ Ved ringesignaler fra offentlige automatiske telefoncentraler forståes  
+
+ ringespændinger, der sendes fra den offentlige telefoncentral mod  
+
+ telefonapparat eller PABC.
+ For ringespændinger mindre end 120 V eff overlejret med en jævnspænding må  
+
+ 44-56 V vil den resulterende jævnstrøm under ringning, taget som middelværdi  
+
+ over en hel periode, være <= 2,5 mA.
+ Signalkode:
+ Målt over en abonnentledning med længde 0 og afsluttet med 4000 ohm i  
+
+ serie med 20 myF og med ringegeneratoren beslastet fra tomgang til fuld last,  
+
+ vil en enkelt overtones amplitude ikke udgøre mere end 10 % af grundtonens  
+
+ amplitude.
+ Følgende signalprogrammer kan forekomme:
+ A.
+5 DRIFTSSPECIFIKATION FOR TONESIGNALER FRA OFFENTLIGE  
+
+ TELEFONCENTRALER 5.1 ALMINDELIGT Nedennævnte tonesignaler er alle specificeret og måles ved den offentlige  
+
+ telefoncentrals tilslutningspunkter, d.v.s. tilslutningspunkterne for  
+
+ abonnentledningen.
+ Af hensyn til bl.a. elektroniske telefonapparater er abonnentlinien  
+
+ påtrykt fødespænding medens tonesignalerne sendes.
+5.2 KLARTONE Definition:
+ Klartone angiver, at abonnenten er blevet tilsluttet et cifreringsorgan,  
+
+ og at nummervalget kan begynde.
+ Signalkode:
+ Signalprogram:
+ Klartonen består af en ubrudt tone, der påbegyndes når cifreringsorganet  
+
+ er klar til at modtage cifferinformation og vedvarer til cifferregistreringen  
+
+ er påbegyndt, eller cifreringsorganet tidsudløser.
+5.3 OPTAGETTONE Definition:
+ Optagettone angiver, at det valgte abonnentnummer eller den valgte retning  
+
+ er optaget.
+ Signalkode:
+ Som under afsnit 5.2.
+ Signalprogram:
+ Optagettonen er et periodisk tonesignal med skiftevis 250 ms +/- 25 ms  
+
+ tone og 250 ms +/- 25 ms pause.
+Tone: 250 ms 250 ms 250 ms Pause: 250 ms 250 ms Optagettonen udsendes snarest muligt efter, at cifreringsorganet har  
+
+ modtaget optaget- ellr spærsignal.
+5.4 RINGETONE Definition:
+ Ringetone angiver, at der er sket indstilling til den kaldte abonnent, og  
+
+ at der udsendes ringning.
+ Signalkode:
+ Som under afsnit 5.2.
+ Signalprogram:
+ Straksringetonen, der normalt afsendes fra afgangscentralens  
+
+ cifreringsorgan, udsendes snarest muligt efter, at der er sket indstilling  
+
+ til den kaldte abonnent.
+ Følgende signalprogrammer kan forekomme:
+ A.
+5.5 »BANKE-PÅ TONE« Definition:
+ »Banke-på« toner forekommer kun på visse offentlige centraler og  
+
+ angiver, at nyt opkald venter på besvarelse.
+ Signalkode:
+5.6 HENVISNINGSTONE Definition:
+ Henvisningstonen angiver, at den valgte abonnent eller retning ikke er  
+
+ tilgængelig.
+ Ved instilling til talemaskine udsendes henvisningstone i pauserne mellem  
+
+ meldingerne.
+ Signalkode:
+ Henvisningstonen er opbygget af 3 toner med frekvenserne:
+Overtoner for de enkelte toner målt over en abonnentledning med længde 0  
+
+ afsluttet med 600 ohm: max. 10 % Toneniveau for de enkelte toner målt over en abonnentledning med længde 0  
+
+ afsluttet med 600 ohm: -9 dBm +/- 2,5 dB Niveauforskel mellem de enkelte toner: max. 3 dB.
+ Signalprogram:
+ Toneperiode:
+6 DRIFTSSPECIFIKATION FOR SIGNALERING MED FREKVENSER > 3400 Hz Difinition:
+ Ved signalering på abonnentledninger med frekvenser > 3400 Hz forståes  
+
+ signalering i forbindelse med mønttelefoner, medløbstællere m.v. hvor  
+
+ signalfrekvenserne kun forekommer på abonnentledningen og ved hjælp af filtre  
+
+ forhindres i at nå centraludstyret.
+ Frekvenser:
+ Frekvensbåndet deles op i følgende frekvenser:
+ Niveaubegrænsning:
+ Mod centralen:
+På centralen skal der indkobles et balanceret filter mellem central og  
+
+ abonnentlinie.
+Filteret har en driftsdæmpning, der er så stor, at niveauet  
+
+ for den pågældende signalfrekvens på centralsiden er begrænset til - 25 dB/1  
+
+ mW.
+Filterets driftsdæmpning i frekvensområdet 300-3400 Hz, målt med 600 ohms  
+
+ afslutning, er mindre end 0,45 dB.
+4 TEKNISKE KRAV INDHOLDSFORTEGNELSE 1 JÆVNSTRØMSFORHOLD 1.1. SLØJFEMODSTAND AF PABC OG EVT.
+ANONNENTHJÆLPEUDSTYR Definition:
+ Ved sløjfemodstand Rs1 forståes den samlede akvivalente jævnstrømsmodstand  
+
+ af PABC-installationen, incl. eventuelt indbygget abonnenthjælpeudstyr, set  
+
+ fra linieklemmerne.
+Tale- og opkaldstilstand I ovennævnte tilstande må den samlede akvivalente jævnstrømsmodstand af  
+
+ PABC-installationen, ikke overstige 400 ohm.
+ Seneste 100 ms efter, at prel og lignende fænomener ved afløftning er  
+
+ ophørt, skal jænvstrømmen mellem linieklemmerne vedvarende afvige mindre end  
+
+ 10 % fra sin stationære værdi i sløjfetilstand.
+ Sløjfemodsstanden skal måles som anført i måleopstilling 2.1.
+Signaleringstilstand MFT-signalering Under MFT-signalering må den samlede akvivalante jævnstrømsmodstand af  
+
+ PABC-installationen ikke overstige 400 ohm.
+ Sløjfemodstanden skal måles som anført i måleopstilling 2.2.
+1.2 RETURTASTESIGNALERING Definition:
+ Ved sending af returtastesignal - som anført i fig. 1.2. - forstås sending  
+
+ af en tidsbestemt afbrydelse af fødestrømmen med det formål at genindkalde et  
+
+ cifreringsorgan i den offentlige telefoncentral eller en PABC under  
+
+ samtaletilstand.
+Signalet kan ikke anvendes på alle offentlige telefoncentraler.
+Under  
+
+ returtastesignalering skal den samlede ækvivalente jævnstrømsmodstand af  
+
+ PABC-installationen overhold følgende betingelser:
+Signalkode Returtastesignalet skal bestå af en afbrydelse af fødestrømmen i 90 ms +/-  
+
+ 40 ms.
+ Princip for måling til kontrol af kravene i pkt. a og pkt. b er vist.
+1.3. STRØMVENDING Ved overgangen til rotilstand skal PABC'ens indre modstand være > 100  
+
+ komh, men skal senest 500 ms efter, at strømvending er konstateret være øget  
+
+ til > 3 Mohm.
+ Princip for målingen er anført i måleopstilling 2.4.
+1.4 ROTILSTAND Ved overgangen til rotilstand skal PABC'ens indre modstand være > 100  
+
+ Kohm, men senest 500 ms efter være øget til > 3 Mohm.
+ Princip for målingen er anført i måleopstilling 2.4.
+1.5 ISOLATIONSMODSTAND I rotilstand skal isolationsmodstanden af den samlede PABC-installation  
+
+ opfylde følgende krav:
+ Isolationsmodstand mellem a- og b-leder > 3 Mohm.
+ Princip for måling er anført i måleopstilling 2.5.
+ I såvel ro- som sløjfetilstand skal isolationsmodstanden mellem a- og  
+
+ b-ledere og jord være > 10 Mohm.
+ Princip for målingen er anført i måleopstilling 2.6.
+ Dersom PABC-installationen er sikret mod overspændinger ved hjælp af  
+
+ overspændingsafledere mellem a- og b-lederne og mellem hver af disse og jord,  
+
+ skal ovennævnte krav til isolationsmodstandene dog kun være opfyldt når  
+
+ overspændingsaflederne er slukket.
+ Overspændingsaflederne skal have en tændspænding på min. 250 V og en  
+
+ slukkespænding på mindst 60 V.
+ Målinger for verifikation af ovennævnte foretages som anført i  
+
+ måleopstillingerne 2.7. og 2.8.
+ Isolationsmodstand i abonnentlinienettet måles med en 250 V/DC spænding  
+
+ fra den offentlige telefoncentral, hvilket PABC'en må kunne tåle uden  
+
+ generende fejlfunktioner til følge.
+1.6 ELEKTRISK BELASTNING En PABC skal i sløjfetilstand - uden at foranledige sekundære skal der -  
+
+ vedvarende kunne tåle den effekt, der tilføres, når linieklemmerne påtrykkes  
+
+ en jævnspænding på 56 V gennem en modstand på 220 ohm.
+ Princip for målingen er vist i måleopstillng 2.9.
+2 FORHOLDENE VED RINGEFREKVENS 2.1 IMPEDANS MELLEM A- OG B-LEDER For ringespændinger mellem 30 og 120 V med frekvenserne 20-55 Hz  
+
+ overlejret med en jævnspænding på 44-56 V må støm-spændingskarakteristikken  
+
+ ikke overskride den i fig. 2.1 viste kurve.
+ Strøm-spændingskarakteristikken kontrolleres som angivet i måleopstilling  
+
+ 2.10.
+2.2 IMPEDANS MELLEM A/B-LEDER OG JORD Impedansen mellem abonnentinstallationens kortsluttede linieklemmer og  
+
+ jord/stel skal have en numerisk værdi på mindst 1 Mohm ved vekselspændinger  
+
+ med effektivværdi op til 120 V og frekvenser op til 55 Hz.
+ Princip for målingen er anført i måleopstilling 2.11.
+2.3 JÆVNSTRØMSKOMPONENT UNDER RINGNING Når eventuelle indsvingningsforløb er overstået, skal den resulterende  
+
+ jævnstrøm under ringning opfylde følgende betingelse:
+ For ringespændinger mellem 30 og 120 V overlejret med en jævnspænding på  
+
+ 44-56 V skal den samlede jævnstrøm, taget som middelværdi over en hel  
+
+ periode, være mindre end 1,5 mA.
+ Kravet kontrolleres som angivet i måleopstilling 2.12.
+2.4 RINGETRIPNING Ved automatisk svar fra omstillingsapparatet eller automatisk svareudstyr,  
+
+ må der ikke svares før 500 ms efter start af straksringning.
+ Kravet kontrolleres som anført i måleopstilling 2.13.
+2.5 ELEKTRISK BELASTNING VED RINGESPÆNDING En PABC skal - uden at forårsage sekundære skader - kunne tåle den energi,  
+
+ der tilføres, når der i 1300 ms efter etablering af sløjfetilstand påtrykkes  
+
+ linieklemmerne en jævnspænding på -56 V overlejret med en 55 Hz  
+
+ vekselspændidng på 130 V gennem en modstand på 150 ohm.
+ Princip for målingen er anført i måleopstilling 2.14.
+3 FORHOLDENE VED MFT-SIGNALERING 3.1 SIGNALERINGSSPECIFIKATION MFT-systemet er et flerfrekvenssystem, hvor hver enkelt signal indeholder  
+
+ 2 frekvenser sendt samtidig i en kode bestående af 2 gange 1 ud af 4  
+
+ frekvenser.
+De 2 gange 4 frekvenser udgør to bånd, benævnt lavt og højt bånd,  
+
+ med logaritmisk frekvensafstand inden for hvert bånd.
+ Der er forudsat totrådsindgang på den offentlige telefoncentral.  
+
+ Anvendelsen er primært signalering fra A-abonnent til nærmeste  
+
+ cifreringsorgan, men signalering fra A-abonnent til f.eks.  
+
+ datatransmissionsudstyr hos B-abonnent kan foregå uden signalomsætning i  
+
+ mellemliggende telefoncentraler, idet der kræves transparens fra A-abonnent  
+
+ til B-abonnentens termineringsudstyr.
+3.1.1 Signalfrekvenser 3.1.2 Signalprogram Ved signalering til nærmeste cifreringsorgan modsvarer hver  
+
+ tonekombination af 2 gange 1 ud af 4 frekvenser et numerisk ciffer eller  
+
+ specialtegn som vist i nedenstående skema.
+ De med A, B, C og D betegnede kombinationer har endnu ikke fået anvendelse  
+
+ fastlagt.
+3.1.3 Signaleringshastighed MFT-systemet er baseret på en signaleringshastighed på max. 10 cifre  
+
+ og/eller specialtegn pr. sekund.
+3.1.4 Udelukkelse af anden signalering Fra udsendelse af klartone, fra den offentlige telefoncentral og indtil de  
+
+ nødvendige cifre/specialtegn for opkobling af forbindelsen er sendt, må der  
+
+ ikke foregå anden signalering på abonnentlinien.
+3.2 SENDESPECIFIKATION 3.2.1 Frekvenser Se 3.1.1.
+ Princip for kontrol af frekvenser er anført i måleopstilling 2.15.
+3.2.2 Frekvenstolerance Max. +/- 1,5 % Princip for målingen er anført i måleopstilling 2.16.
+3.2.3 Niveauer Sender med fast niveau og vilkårlig placering i abonnentnettet.
+Ovenstående niveauer er enkelttoneniveauer målt over en  
+
+ belastningsmodstand på 600 ohm.
+De anførte nedre nivaugrænser tillades  
+
+ reducerede med PABC'ens indskydningsdæmpning.
+ 2. For hver tonekombination, repræsenterende et tegn i  
+
+ henhold til signalprogrammet, skal niveauforskellen mellem tonen fra det høje  
+
+ bånd og tonen fra det lave bånd være: 2 dB +/- 1 dB og således, at tonen med  
+
+ den højeste frekvens har det højeste niveau.
+3.2.4 UØNSKEDE FREKVENSER UNDER MFT SENDING Under sending af MFT-signaler skal det totale effektniveau fra alle  
+
+ uønskede frekvenskomposanter ligge mindst 20 dB under effektniveauet af det  
+
+ ønskede signal i gruppe 1.
+ Kravet kontrolleres opfyldt som anført i måleopstilling 2.18.
+ Effektniveauet hidrørende fra enhver uønsket frekvenskomposant må ikke  
+
+ under MFT signalering - hverken under sending eller i pauserne under sending  
+
+ - overskride følgende værdier:
+- 33 dBm for 300 Hz < f < 4300 Hz - 37 dBm for 4300 Hz, faldende med 12 dB/oktav til 9100 Hz - 50 dBm for 9100 Hz < f < 150000 Hz Kravet kontrolleres opfyldt som anført i måleopstilling 2.19.
+3.3 SPECIFIKATION FOR AUTOMATISK SENDING Denne specifikation for automatisk MFT-sending er en driftsspecifikation  
+
+ og skal opfyldes i hele PABC'ens levetid.
+ Den automatiske sender skal fungere korrekt under såvel »best - som  
+
+ worstcase« situationer set mod det koblede offentlige telefonnet.
+ Den automatiske sender skal opfylde betingelserne i pkt. 3.1. og pkt. 3.2.  
+
+ (i visse tilfælde se endvidere TEKNISKE OPLYSNINGER afs, 3 pkt. 3.1.) samt  
+
+ betingelserne i 3.3.1. og 3.3.2.
+3.3.1 Samtidighed Tastatursenderen skal være således udformet, at begge enkelttoner startes  
+
+ samtidigt.
+3.3.2 Signaltider Signaltider som fremgår af fig. 3.3.2. skal overholde følgende krav:
+ Kontrolmålinger foretages som anført i måleopstilling 2.20.
+3.3.3 Gentagelse af opkald Den automatiske MFT-sender kan være indrettet til automatisk start og  
+
+ gennemførelse af flere på hinanden følgende opkald til samme eller  
+
+ forskellige numre i vilkårlig rækkefølge.
+Der skal dog have været etableret  
+
+ rotilstand i mindst 1 sek. mellem hvert opkald.
+ Den automatiske sender må højst foretage 10 på hinanden følgende  
+
+ mislykkede opkald, før den automatisk blokeres for yderligere opkald, ligesom  
+
+ den højst må foretage 10 automatisk opkald mellem hvert betjeningsindgreb.
+ Kravene skal kunne dokumenteres overholdt.
+4 TONER MOD DET OFFENTLIGE TELEFONNET Mod det offentlige koblede telefonnet må der - fra PBC'en - sendes  
+
+ følgende funktionsdefinerede tonesignaler, der vil kunne forveksles med  
+
+ tonesignaler der normalt anvendes i det offentlige koblede telefonnet.
+Alle  
+
+ tonesignaler er specificerede og måles ved PABC'ens indgangsklemmer, d.v.s.  
+
+ tilslutningsspunkterne for abonnentledningen:
+klartone ringetone optagettone indlysningstone henvisningstone Hvor intet andet er benævnt, gælder specifikationerne med målepunkternes  
+
+ terminaler alene belastet med en ohmsk modstand på 600 ohm.
+ Sendes er andre signaler i forbindelse med de definerede funktioner eller  
+
+ i forbindelse med ikke definerede funktioner, skal disse signaler overholde  
+
+ kravene i afsnit 4.6.
+4.1 KLARTONE Definition:
+ Klartonen angiver, at abonnentledningen er blevet tilsluttet et  
+
+ cifreringsorgan i PABC'en, og at nummervalget kan begynde.
+Tonefrekvens: 425 Hz +/- 25 Hz Overtoner: uafhængig af belastningen max. 10% Toneniveau: -9 dbm +/- 2,5 dB Signalprogram: Klartonen består af en ubrudt tone.
+ Kontrolmålinger foretages som anført i måleopstilling 2.21.
+4.2 RINGETONE Definition: Ringetonen angiver, at der er sket indstilling til det  
+
+ kaldte lokalnummer.
+ Hvis den periodiske ringetone ikke udsendes umiddelbart efter indstillling  
+
+ til lokalnummer, skal der sendes straksringetone inden overgang til det  
+
+ periodiske ringetoneforløb.
+STRAKSRINGETONE Pausen mellem straksringetonen og den første periodiske ringetone må  
+
+ variere mellem 0 ms og den tid, der svarer til pausetiden i den periodiske  
+
+ ringetone.
+ Princip for målingen som anført i måleopstilling 2.22.
+PERIODISK RINGETONE Princip for målingen som anført i måleopstillingen 2.23.
+4.3 OPTAGETTONE Definition: Optagettonen angiver, at det valgte lokalnummer eller  
+
+ den valgte retning er optaget, eller at der er indre spær i PABC'en.
+ Princip for målingen som anført i måleopstillingen 2.24.
+4.4 INDLYTNINGSTONE Definition: Indlytningstonen angiver, at en tredie part er  
+
+ indkoblet på samtalen.
+Det skal dokumenteres, at tonen sendes, når der  
+
+ foreligger mulighed for, at en tredie person kan overhøre en etableret  
+
+ samtale, uden nogen af de oprindelige parters vidende.
+ Princip for målingen som anført i måleopstillingen 2.25.
+4.5 HENVISNINGSTONE Definition: Henvisningstonen angiver, at det valgte lokalnummer  
+
+ ikke eksisterer.
+ Tonefrekvens:  Henvisningstonen er opbygget af 3 toner med  
+
+ frekvenserne:
+ Princip for målingen som anført i måleopstilling 2.26.
+4.6 ØVRIGE TONER Fra PABC'en i sløjfetilstand må der ved sending af vekselstrømme  
+
+ hidrørende fra toner eller musik ikke afgives effekter, som i middel i noget  
+
+ tidsrum af 3 s varighed overstiger 100 u W (-10 dBm), når PABC'ens  
+
+ linieklemmer belastes med en modstand på 600 ohm.
+ Der må endvidere ikke afgives vekselspændinger med øjebliksværdier, der  
+
+ overstiger 3,5 v mellem linieklemmerne.
+ Princip for målingen som anført i måleopstilling 2.27.
+ Det skal kunne dokumenteres, at kravet er overholdt for alle indbyggede  
+
+ signaler.
+ Anvendes eksterne signalkilder dokumenteres, at kravet - ved hjælp af  
+
+ installationsdokumentation eller lignende - kan overholdes.
+5 MÅLEOPSTILLINGER INDHOLDSFORTEGNELSE 1. GENERELT De i figurerne angivne måleprincipper er vejledende.
+ Andre måleopstillinger kan anvendes hvis kravene kan verificeres.
+ De angivne diskrete værdier for uafhængige variabler - f.eks. strøm og  
+
+ frekvens - er minimumskrav til antallet af målepunkter.
+1.1. KONDITIONERING Hvis intet andet er angivet, skal PABC'en være tændt i 30 min. inden  
+
+ målingerne påbegyndes.
+ Vedrører målingerne statiske forhold i åben eller lukket sløjfe, skal  
+
+ PABC'en være bragt i den pågældende tilstand i så god tid før målingen, at  
+
+ tilstanden er stabil.
+ Alle målinger foretages på PABC'ens linieklemmer tilslutningspunkter for  
+
+ abonnentledningen.
+ Rekvirenten medsender specifikation af tilslutningspunkter samt eventuelt  
+
+ nødvendigt stikmateriel.
+1.2. FUNKTIONSPRØVE Som en simpel kontrol af PABC'en inden den egentlige afprøvning foretages  
+
+ en funktionsprøve, der gentages før, under og efter belastnings- og  
+
+ miljøprøver.
+ En funktionsprøve omfatter et afgående og et ankommende kald mod  
+
+ henholdsvis fra den offentlige telefoncentral.
+ Et afgående kald omfatter:
+- sløjfelægning - nummervalg - samtale - sløjfeåbning Et ankommende kald omfatter:
+- tilringning - sløjfelægning - samtale - sløjfeåbning Funktionsprøverne gennemføres dog kun, hvis de pågældende funktioner  
+
+ findes i PABC'en.
+ Rekvirenten medsender de for funktionsprøvens gennemførelse nødvendige  
+
+ apparater.
+1.3. JORD/STEL Alle terminaler som er eller kan være vekselstrømsmæssigt jordforbundne  
+
+ under normal drift, skal være forbundet til stel eller udvendigt tilgængelige  
+
+ metaldele under målinger, der benytter jord/stel.
+ Rekvirenten angiver hvorledes disse terminaler forbindes.
+Hvis der ikke findes stel eller udvendigt tilgængelige metaldele,  
+
+ anbringes PABC'en på en metalplade af mindst samme størrelse, som udstyrets  
+
+ grundflade.
+Eventuelle jordforbundne terminler og målepunkter forbindes til  
+
+ metalpladen.
+1.4. POLARITETSUAFHÆNGIGHED De anførte måleopstillinger er lavet for målinger på en  
+
+ polaritetsuafhængig PABC.
+ Såfremt PABC'en ikke er polaritetsuafhængig, skal dette angives af  
+
+ rekvirenten, og de anvendte måleprincipper modificeres til at tage hensyn til  
+
+ denne polaritetsafhængighed.
+1.5. JÆVNSTRØMSFØDNING Jævnstrømsfødning med samtidig påtrykning af vekselspænding kan foregå på  
+
+ flere måde, f.eks. ved hjælp af de i fig. 1.5. viste måleopstillinger, i  
+
+ hvilke den numeriske værdi af jævnstrømskildens impdans principielt er 0 ohm.
+1.6. MAKSIMAL SLØJFESTRØM  I Den maksimale sløjfestrøm max. bestemmes for den aktuelle PABC, når den fødes med 56 V gennem 500 ohm.
+1.7. MÅLEUSIKKERHED Det forudsættes, at målingerne sker med den nødvendige nøjagtighed.
+Er der  
+
+ tvivl om, at kravene opfyldes, pålægges det den prøvende instans at redegøre  
+
+ for målingernes nøjagtighed.
+1.8. ANVENDTE SYMBOLER 2. MÅLEOPSTILLINGER 2.1. SLØJFEMODSTAND I TALETILSTAND Måleopstilling:
+Procedure:  I Sløjfemodstanden måles ved I = 16 mA, 24 mA og 50 mA, samt ved max (U = 56 V) med begge polariteter af jævnspændingen ved disse strømme.
+B Ved hjælp af oscilloscopbillede eller lignende dokumenteres, at  
+
+ sløjfemodstanden senest 100 ms efter opkald ligger indenfor +/- 10% af den  
+
+ stationære værdi.
+ Parameter grænser:
+ Kommentar:
+ Rekvirenten angiver den betjeningsprocedure, der skal benyttes for at  
+
+ bringe PABC'en i taletilstand.
+2.2. SLØJFEMODSTAND VED MFT-SIGNALERING Måleopstilling:
+Procedure:  I Sløjfemodstanden måles ved I = 16 mA, 24 mA og 50 mA samt ved max (U = 56 V) med begge polariteter af jævnspændingen ved disse B strømme.
+ Parameter grænser:
+ Kommentar:
+ Rekvirenten angiver den betjeningsprocedure, der skal benyttes for at  
+
+ bringe PABC'en i tilstand for MFT signalering på linieklemmerne.
+2.3. RETURTASTESIGNALERING Måleopstilling:
+ Procedure:
+ Målingen dokumenteres med oscilloscopbillede eller lign.
+Tidsudmålingen starter når strømmen passerer 0,48 mA for sidste I gang i nedadgående retning. o angiver strømmen i sløjfetilstand for opstillingen.
+Kurven skal have et jævnt forløb bortset fra evt.
+ pres, der max. må være 5 ms.
+ Parameter grænser:
+ Kommentar:
+ Rekvirenten angiver den eller de procedurer, der skal anvendes for at  
+
+ genere signalet på linieklemmerne.
+2.4. ROTILSTAND Måleopstilling:
+ Procedure:
+PABC'en bringes i rotilstand, og sløjfetilstanden måles med begge  
+
+ stillinger af polaritetsomskifteren.
+Med oscilloskopbillede eller lign.  
+
+ dokumenteres, at kravet om en isolationsmodstand på over 3 Mohm nåes inden  
+
+ 500 ms fra sløjfeafbrydelse.
+ Parameter grænser:
+ Kommentar:
+ Rekvirenten angiver metode efter hvilken den benyttede linie bringes i ro.
+2.5. ISOLATIONSMODSTAND MELLEM A- OG B-LEDER Måleopstilling:
+ Procedure:
+ Isolationsmodstanden måles med U = 44 V og 250 V med omskifter i begge  
+
+ stillinger.
+ Parameter grænser:
+U - > 3 Mohm I 2.6. ISOLATIONSMODSTAND MELLEM A/B-LEDER OG JORD Måleopstilling:
+ Procedure:
+ Isolationsmodstanden måles med PABC'en i både ro- og sløjfetilstand, med  
+
+ målespændingerne U = 44 V og 250 V og omskifteren i begge stillinger.
+ Parameter grænser:
+U - > 10 Mohm I Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord eller stel.
+2.7. ISOLATIONSMODSTAND MELLEM A- OG B-LEDER - OVERSPÆNDINGSAFLEDER Måleopstilling:
+Procedure:  U E forøges (højst 500 V) indtil - < 3 Mohm, hvor U = tændspænding.
+I Herefter afbrydes E inden 0,5 sek. og det kontrolleres at kravet er  
+
+ overholdt.
+Dette gentages med omskifter i anden stilling.
+ Parameter grænser:
+U - > 3 Mohm I 2.8. ISOLATIONSMODSTAND MELLEM A/B-LEDER OG JORD -  
+
+ OVERSPÆNDINGSAFLEDER Måleopstilling:
+ Procedure:
+Herefter afbrydes E inden 0,5 sek. og det kontrolleres at kravet er  
+
+ overholdt.
+Dette gentages med omskifter i anden stilling.
+ Parameter grænser:
+U - > 10 Mohm I Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord eller stel.
+2.9. ELEKTRISK BELASTNING Måleopstilling:
+ Procedure:
+ PABC'en forbindes til opstillingen i 30 min. og undervejs kontrolleres for  
+
+ farlig varmeafgivelse.
+2.10. IMPEDANS MELLEM A- OG B-LEDER Måleopstilling:
+ Procedure:
+ Strøm-spændingskarakteristikken måles med f = 25 Hz og 50 Hz og u = 45 V,  
+
+ 90 V, 120 V med et effektivt målende voltmeter og amperemeter.
+ Parameter grænser:
+ Strøm-spændingskarakteristikken må ikke overskride den i fig. 2.10.2.  
+
+ viste kurve.
+ Kommentar:
+ Rekvirenten angiver hvorledes PABC'en skal betjenes, for at der gives tid  
+
+ (min. 10 sek.), efter påtrykning af ringespænding, til at foretage målingen.
+2.11. IMPEDANS MELLEM A/B-LEDER OG JORD Måleopstilling Procedure:
+Impedansen ved 55 Hz måles ved en spænding u på 120 V . eff Parameter grænser:
+U - > 1 Mohm I Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord eller stel.
+2.12. JÆVNSTRØMSKOMPONENT UNDER RINGNING Måleopstilling:
+ Procedure:
+Der påtrykkes en ringespænding u på 120 V 25 Hz og 50 Hz og eff efter 5 sek. aflæses jævnstrømmen.
+ Parameter grænser:
+I > 1,5 mA 2.13. RINGETRIPNING Måleopstilling:
+ Procedure:
+ Tiden for besvarelse dokumenteres med oscilloscopbillede eller lign.
+ Parameter grænser:
+ Tid for besvarelse > 500 ms.
+ Kommentar:
+ Rekvirenten angiver hvorledes PABC'en bringes til at svar automatisk, og  
+
+ prøven gennemføres for alle typer af automatisk, besvarelse.
+2.14. ELEKTRISK BELASTNING VED RINGESPÆNDING Måleopstilling:
+ Procedure:
+PABC'en bringes i sløjfetilstand.
+Herefter lukkes kontakten i 1300 ms, og  
+
+ PABC'en kontrolleres for farlig varmeafgivelse.
+2.15. MFT-FREKVENSER Måleopstilling:
+ Procedure:
+ Frekvenserne kontrolleres ved afsendelse af cifrene 1, 5, 9 og 0.
+Hvis f er udstyret afprøves ligeledes ciffer D. 8 Parameter grænser:
+ Tilstedeværelse af krævede frekvenser undersøges.
+2.16. MFT-FREKVENSTOLERANCER Måleopstilling:
+ Procedure:
+Frekvensernes tolerancer afprøves ved afsendelse af cifrene Målingen udføres med en sløjfestrøm på 16 mA og max.
+ Parameter grænser:
+ For alle frekvenser +/- 1,5%.
+ Kommentar:
+Rekvirenten angiver, hvorledes PABC'en bringes til at afsende de ønskede  
+
+ cifre.
+Rekvirenten angiver om det er muligt at betjene PABC'en, således at  
+
+ tonerne kan sendes i et længere tidsrum for at forenkle målingerne.
+2.17. MFT-NIVEAUER Måleopstilling:
+ Procedure:
+De enkelte toners niveau måles ved afsendelse af cifrene Målingen udføres med en sløjfestrøm for 16 mA og max.
+ Parameter grænser:
+Gruppe 1: - 9 - -13 dBm nedre grænser, eventuelt reduceret Gruppe 2: - 7 - -11 dBm med PABC'ens indskydningsdæmpning Forskel gruppe 1 til gruppe 2: 2 dB +/- dB Kommentar Rekvirenten angiver om det er muligt at betjene PABC'en, således at  
+
+ tonerne kan sendes i et længere tidsrum for at forenkle målingerne.
+2.18. UØNSKEDE FREKVENSER UNDER MFT SENDING - TOTALT Måleopstilling:
+ Procedure:
+For hver af cifrene 1, 5, 9 og 0 måles den totale forvrængning ved effekt  
+
+ addition af alle uønskede frekvenskomposanter med et niveau større end -37  
+
+ dBm.
+I Målingerne udføres med en sløjfestrøm på 16 mA og max.
+ Parameter grænser:
+ Forvrængning < - 20 dBm + niveau af gruppe 1 signal.
+ Kommentar:
+ Rekvirenten angiver om det er muligt at betjene PABC'en, således at  
+
+ tonerne kan sendes i et længere tidsrum for at forenkle målingerne.
+2.19. UØNSKEDE FREKVENSER UNDER MFT SENDING - ENKELT FREKVENSER Måleopstilling:
+ Procedure:
+For hver af cifrene 1, 5, 9 og 0, samt i pauserne under ciffersending,  
+
+ måles støjniveauet for enkeltfrekvens komposanter med et niveau større end  
+
+ -57 dBm.
+I Målingen udføres med en sløjfestrøm på 16 mA og max.
+ Parameter grænser:
+- 33 dBm for 300 Hz < f < 4300 Hz - 37 dBm 4300 Hz, faldende med 12 dB/oktav til 9100 hz - 50 dBm for 9100 Hz < f < 150000 Hz Kommentar:
+ Rekvirenten angiver om det er muligt at betjene PABC'en, således at  
+
+ tonerne kan sendes i et længere tidsrum for at forenkle målingerne.
+2.20. MFT-SIGNALTIDER Måleopstilling:
+ Procedure:
+ Signaltiderne kontrolleres ved afsendelse af en følge af ciffer 1.
+Kravenes overholdelse dokumenteres ved et oscilloscop billede el. lign.
+I Målingen udføres med en sløjfestrøm på 16 mA og max.
+ Parameter grænser:
+2.21. KLARTONE Måleopstilling Procedure:
+Klartonens frekvens kontrolleres og der udføres måling af tonens niveau.  
+
+ Overtoneindholdet kontrolleres med måling og effekt addition.
+I Målingen gennemføres med en DC-strøm på 16 mA og max.
+ Parameter grænser:
+ Kommentar:
+ Rekvirenten angiver i hvilke tilstande tonen sendes mod nettet og angiver  
+
+ procedure for at fremkalde tilstanden hvor tonen sendes.
+2.22. STRAKSRINGETONE Måleopstilling:
+ Procedure:
+Straksringetonens frekvens og niveau måles; der dokumenteres ved  
+
+ oscilloscopbillede eller lign.
+Tilsvarende dokumenteres tonens længde.
+I Målingen gennemføres med en sløjfestrøm på 16 mA og max.
+ Parameter grænser:
+ Kommentar:
+Rekvirenten angiver, hvorledes tonen kan frembringes på PABC'ens  
+
+ linieklemmer.
+Rekvirenten angiver ligeledes om der i stedet for  
+
+ straksringetone, umiddelbart startes periodisk ringetone.
+2.23. PERIODISK RINGETONE Måleopstilling:
+ Procedure:
+Den periodiske ringetones frekvens og niveau måles; der dokumenteres ved oscilloscopbillede eller lign.
+Tilsvarende dokumenteres signalskemaet.
+Målingen gennemføres med en sløjfestrøm på 16 mA I og max.
+ Parameter grænser:
+ Kommentar:
+ Rekvirenten angiver i hvilke tilstande tonen sendes mod nettet og angiver  
+
+ procedure for at fremkalde tilstanden, hvor tonen sendes.
+2.24. OPTAGETTONE Måleopstilling:
+ Procedure:
+Optagettonens frekvens, niveau og signalskema kontrolleres ved et  
+
+ oscilloscopbillede eller lign.
+I Målingen gennemføres med en sløjfestrøm på 16 mA og max.
+ Parameter grænser:
+ Kommentar:
+ Rekvirenten angiver i hvilke tilstande tonen sendes mod nettet og angiver  
+
+ procedure for at fremkalde tilstanden, hvor tonen sendes.
+2.25. INDLYTNINGSTONE Måleopstilling:
+ Procedure:
+Toneniveau, frekvens og signalskema dokumenteres ud fra oscilloscopbillede  
+
+ eller lign.
+I Målingen foretages med en sløjfestrøm på 16 mA og max.
+ Parameter grænser:
+ Kommentar:
+ Rekvirenten angiver i hvilken tilstand tonen sendes mod nettet, og angiver  
+
+ procedure for at fremkalde tilstanden, hvor tonen sendes.
+2.26. HENVISNINGSTONE Måleopstilling:
+ Procedure:
+De tre toners frekvens, niveau og signalskema dokumenteres ud fra  
+
+ oscilloscopbillede eller lign.
+I Målingen foretages ved sløjfestrømmen 16 mA og max.
+ Parameter grænser:
+ Kommentar:
+ Rekvirenten angiver i hvilke tilstande tonen sendes mod nettet, og angiver  
+
+ procedure for at fremkalde tilstanden, hvor tonen sendes.
+2.27. ØVRIGE TONER Måleopstilling:
+Procedure:  I Alle mulige signaler måles for sløjfestrømme på 16 mA og max, med et instrument med en integrationstid på 3 s, og et spidsværdi-visende instrument.
+ Parameter grænser:
+U < -10 dBm Spidsværdi < 3,5 V Kommentar:
+ Rekvirenten angiver, i hvilke tilstande signalerne sendes mod nettet og  
+
+ angiver procedure for at fremkalde tilstandene, hvor signalerne sendes.

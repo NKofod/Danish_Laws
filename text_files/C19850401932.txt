@@ -1,0 +1,76 @@
+INDFØRELSE AF KODE FOR BYGNINGSREGLEMENT 1. Baggrund I forbindelse med en revision af boligministerietscirkulære af 31.3.1977  
+
+ om ajourføring af BBR (som udsendes i slutningen af december) har det vist  
+
+ sig nødvendigt for at kunne gennemføre indførelsen af Bygningereglement for  
+
+ småhuse (BR-S), at der foretages en tilretning af BBR.
+ Dette bevirker, at der indføres et nyt datafelt i BBR-ændringsregistret,  
+
+ som skal angive efter hvilket Bygningsreglement de enkelte byggesager skal  
+
+ administreres.
+2. Nyt datafelt i BBR-ændringsregister (CS) For at kunne kende forskel på, hvordan den enkelte byggesag skal  
+
+ behandles, vil der blive oprettet et nyt krævet datafelt (BBR-felt 292) hvor  
+
+ kommunen skal angive om byggesagen skal administreres efter bygningsreglement  
+
+ 1982 (BR-82) eller bygningsreglement for småhuse (BR-S).
+ Der kan indberettes følgende kodeværdier i feltet:
+felt 292 = Kode for bygningsreglement (byggesagskode) Kode 1 = BR-S - tilladelsessager Kode 2 = BR-S - anmeldelsessager Kode 3 = BR-82 - sager 3. Behandling af verserende byggesager i BBR-ændringsregister For at også verserende byggesager i BBR-ændringsregister (CS) kan få  
+
+ angivet en byggesagskode, vil Kommunedata indsætte en beregnet kode  
+
+ maskinelt, efter omstående kombination af sagstyper, anvendelseskoder og  
+
+ areal.
+Inden Kommunedata indsætter koden maskinelt, vil kommunerne af Kommunedata  
+
+ få tilsendt en liste over alle verserende byggesager i BBR-ændringsregister,  
+
+ med angivelse af den beregnede byggesagskode.
+Listerne skal bruges til en  
+
+ »oprydning« af registret og vil blive udsendt i uge 50.
+ For en række byggesager kan byggesagskoden ikke dannes maskinelt og felt  
+
+ 292 vil derfor være blankt på listen.
+ For disse byggesager, må det af kommunen undersøges om byggesagen skal  
+
+ have en kode eller ikke.
+ En række af byggesager med felt 292 = blankt, kan være sager, som ikke  
+
+ længere kræver byggesagsbehandling.
+ Disse sager skal overføres til BBR-stamregister (CR). Selv om byggesagerne  
+
+ ikke længere kræver en ibrugtagningstilladelse, skal der indberettes en af  
+
+ følgende datoer, som bevirker overførsel.
+- dato for ibrugtagningstilladelse - dato for gennemført nedrivning - eller evt. dato for henlagt Ovennævnte skal være afsluttet til januar-ajourføringen 1986.
+ Som eksempel på sager som ikke længere kræver byggesagsbehandling kan  
+
+ nævnes følgende byggearbejder i forbindelse med småhuse (bygninger til  
+
+ helårsbeboelse):
+- Nedrivning af garager, carporte og udhuse - Ombygning (uden arealer),  
+
+ fx. ændret værelsesantal - Indretning af ekstra toilet og baderum.
+ - Modernisering i øvrigt samt:
+- opførelse af kolonihavehus - Indretning af køkken I øvrigt henvises til bygningsreglement for småhuse.
+ For byggesager, der skal have en byggesagskode, skal der indberettes til  
+
+ det nyopretttede datafelt (felt 292) når Kommunedata har konverteret  
+
+ registret. (se afsnit 4).
+ 4. Indberetning af nye koder.
+ Efter Kommunedatas konvertering af registret udskrives en kvitteringsliste  
+
+ til kommunerne over, hvad der er indsat i koden for bygningsreglement (felt  
+
+ 292).
+ For de byggesager, hvor der er udskrevet et tomt felt eller hvor koden er  
+
+ forkert dannet, kan den korrekte kodeværdi indeberettes til februar-  
+
+ ajourføringen.

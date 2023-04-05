@@ -1,0 +1,89 @@
+ Studieplanen har virkning fra august 1982 (genoptryk).
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+ FORMÅL.
+Kurset skal give den studerende en generel viden om programmeringssprog  
+
+ som et grundlag for - lettere at kunne sætte sig ind i et »nyt« programmeringssprog  
+
+ og vurdere dets anvendelighed til løsning af et givet problem, - en bedre forståelse for og udnyttelse af allerede kendte  
+
+ programmeringssprog.
+Dette dobbelte formål søges tilgodeset gennem en generel gennemgang af de  
+
+ sædvanlige programmeringssprogs konstruktioner sideløbende med en række  
+
+ opgaver, der - tvinger den studerende til at anvende et »nyt«  
+
+ programmeringssprog, - indeholder en grundig undersøgelse af en eller flere oversætteres  
+
+ håndtering af forskellige konstruktioner i et på forhånd kendt sprog.
+ADGANGSBETINGELSER For studerende uden edb-assistenteksamen kræves beståelse af/dispensation  
+
+ for efa-modulerne drift, symbolsk maskinsprog samt problemorienteret sprog.
+ INDHOLD.
+ 1. Introduktion.
+ Formål:
+ At give en oversigt over modulets indhold og en begrundelse for  
+
+ emnevalget.
+ 2. Syntaks og semantik.
+ Mål:
+ At kunne »læse« en formel syntaks med henblik på at undgå/rette  
+
+ fejl.
+ At forstå meningen bag en række syntaktiske begreber.
+ At forstå sammenhængen mellem syntaks og semantik.
+ Emner:
+ Metasprog (BNF, syntaksdiagrammer, Cobol-lignende grammatikker,  
+
+ produktioner).
+ Polsk og omvendt polsk notation.
+ Operator-præcedens.
+ Beskrivelse af semantik.
+ 3. Dataelementer.
+ Mål:
+ At forstå et sprogs udbud af datatyper og dets muligheder for  
+
+ strukturering heraf.
+ Emner:
+ Simple datatyper.
+ Sammensatte datatyper (talsæt, poster, stakke, køer, mængder, m.v.).
+ Brugerdefinerede datatyper.
+ Sammenhængen mellem datatyper og operationer.
+ Erklæring af dataelementer.
+ 4. Programstyring.
+ Mål:
+ At kunne udvælge de styringsmekanismer, der i et givet sprog bedst løser  
+
+ en givet opgave.
+ Emner:
+ Beregning af udtryk, sideeffekter.
+ Iteration, selektion, goto.
+ Underprogrammer, co-rutiner, reskursivitet.
+ Parallelle processer.
+ 5. Datastyring.
+ Mål:
+ At kunne udpege, hvilke variable, der er »aktive« på et givet  
+
+ sted i et program.
+ Emner:
+ Bindingstid, virkefelt.
+ Lokale, ikke-lokale og globale variable.
+ Underprogrammer og parameteroverførsel.
+ 6. Lagertildeling.
+ Mål:
+ At forstå, hvilke krav til lagerplads et program kan stille før og under  
+
+ kørslen.
+ Emner:
+ Statisk/dynamisk lagertildeling.
+ Garbage collection.
+7. Sprogprocessorer Mål:
+ At få overblik over, hvad der sker under oversættelse af et program.
+ At få indblik i standardiseringsbestræbelserne.
+ Emner:
+ Standardisering og sprogversioner.
+ Oversættelse/fortolkning.
+ Fejlhåndtering.

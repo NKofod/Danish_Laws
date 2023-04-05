@@ -1,0 +1,927 @@
+ Et flertal i ankenævnet fandt, at »en fremgangsmåde til  
+
+ forbindelsesstyring i programstyrede behandlingsanlæg« omfattede en  
+
+ opfindelse, der var andet end blot et program til datamanipulation og derved  
+
+ ikke omfattet af PL § 1, stk. 2, nr. 3, der undtager programmer for  
+
+ datamaskiner fra det patenterbare område.
+År 1984, den 27. marts afsagde patentankenævnet (Beyer, Grønning-Nielsen,  
+
+ P.G.
+Jensen, Asger Nielsen, Vørts) følgende k e n d e l s e i sagen j.nr.
+P. 20/78: Klage fra Siemens Aktiengesellschaft, Tyskland, v/Internationalt Patent-Bureau over patentdirektoratets afgørelse af 19. april 1978 af patentansøgning nr.  
+
+ 889/72.
+ Den 25. februar 1972 indleverede klageren en ansøgning om patent på en  
+
+ fremgangsmåde til forbindelsesstyring i programstyrede behandlingsanlæg.
+ Til ansøgningen, der indeholdt 10 krav, udtalte patentdirektoratet i  
+
+ skrivelse af 13. august 1976 bl.a., at opfindelsen angår et program til  
+
+ databehandlingsanlæg og således falder uden for det opfindelsesbegreb, der  
+
+ omfattes af patentlovens § 1.
+ Klageren indleverede derefter den 12. april 1977 nye patentkrav, ialt 10,  
+
+ hvoraf krav 1 lyder:
+»Fremgangsmåde til modtagelse og udsendelse af f.eks. i form af  
+
+ polaritetsskift optrædende informationer i et programstyret behandlingsanlæg,  
+
+ navnlig et programstyret forbindelsesetableringsanlæg, hvortil ankommende og  
+
+ afgående tilslutningsledninger er forbundet over en  
+
+ ledningstilslutningsenhed, som over mindst en  
+
+ transmissionsafviklingsstyreenhed kommunikerer cyklusvis med mindst en  
+
+ lagerenhed, i hvilken der til hver tilslutning er fast knyttet en lagercelle,  
+
+ hvilken lagerenhed endvidere indeholder alle til anlæggets drift nødvendige  
+
+ data og programmer, hvorhos alle behandlingsforløb i anlægget afvikles under  
+
+ styring fra mindst en programstyreenhed, k e n d e t e g n e t ved, at de til  
+
+ de ankommende tilslutningsledninger fast tilknyttede tilbringerlagerceller  
+
+ (ZZ) ud over forbindelsesdata (0-7) og en adressedel (16-31) for en afgået  
+
+ tilslutningsledning indeholder yderligere kriterier (FK, S, D) for behandling  
+
+ af de næste, på den til tilbringerlagercellen knyttede tilslutningsledning  
+
+ optrædende polaritetsskift, - at transmissionsafviklingsstyreenheden (UEAS) under en til en bestemt  
+
+ tilbringerlagercelle (ZZ) tildelt cyklus forbindes med denne  
+
+ tilbringerlagercelle til overføring af dennes indhold til  
+
+ transmissionsafviklingsstyreenheden (UEAS), - at transmissionsafviklingsstyreenheden (UEAS) i afhængighed af  
+
+ vurderingen af et første kriterium forbindes med et første lagerområde (NBS)  
+
+ i lageret (SP) til overføring af det på den ankommende ledning optrædende  
+
+ polaritetsskift til dette lagerområde, - at der til tilbringerlagercellen (ZZ) i afhængighed af vurdering af et  
+
+ andet kriterium knyttes en substitutionsblok (SUB) i lageret (SP), - at en forbindelse til den ved den i tilbringerlagercellen (ZZ)  
+
+ indeholdte adresse bestemte, afgående tilslutningsledning etableres i  
+
+ afhængighed af vurdering af et tredje kriterium, - at det første lagerområde (NBS) i konstante, men forskellige  
+
+ tidsintervaller forbindes med programstyreenheden (PE) og  
+
+ transmissionsafviklingsstyreenheden (UEAS) med et kommandoinformationer  
+
+ indeholdende, andet lagerområde (BBS) i lageret (SP), og - at de i det første lagerområde (NBS) indeholdte informationer og de i  
+
+ det andet lagerområde (BBS) indeholdte kommandoinformationer kun i disse  
+
+ tidsintervaller overføres til henholdsvis programstyreenheden (PE) og  
+
+ transmissionsafviklingsstyreenheden (UEAS).« Af beskrivelsen fremgår bl.a. følgende:
+ »Til den programstyrede behandling af såvel de over ankommende  
+
+ tilslutningsledninger indtræffende polaritetsskift som de polaritetsskift,  
+
+ der skal udsendes over afgående tilslutningsledninger, kræves overholdelse af  
+
+ yderst strenge realtidsbetingelser, hvilket betyder en væsentlig belastning  
+
+ af anlægget.
+Den til grund for opfindelsen liggende opgave beskæftiger sig med dette  
+
+ problem.
+Navnlig består opgaven for opfindelsen i at anvise en fremgangsmåde  
+
+ til tidsrigtig behandling af på en ankommende tilslutning f.eks. i form af  
+
+ polaritetsskift indtræffende informationer, navnlig til konstatering og  
+
+ behandling af disse informationer som opkalds- eller signaleringskriterie  
+
+ under forbindelsesopbygningen og - nedbrydningen.
+I forbindelse hermed skal  
+
+ endvidere være mulighed for etablering af rundskrivnings forbindelser.
+En  
+
+ yderligere opgave for opfindelsen består i tidsrigtig udsendelse af de  
+
+ informationer, som skal udsendes fra anlægget, dvs. over  
+
+ ledningstilslutningsenheden i form af polaritetsskift.
+Ved hjælp af  
+
+ fremgangsmåden ifølge opfindelsen lempes de strenge realtidsfordringer  
+
+ betydeligt.« Efter at patentdirektoratet i skrivelse af 23. juni 1977 havde fastholdt  
+
+ sin opfattelse, som i skrivelse af 9. december 1977 blev imødegået af  
+
+ klageren, afslog patentdirektoratet ansøgningen med følgende begrundelse:
+ »Den i hovedkravet omhandlede fremgangsmåde til modtagelse og  
+
+ udsendelse af informationer i et programstyret behandlingsanlæg ses  
+
+ vedblivende at savne teknisk karakter, idet kravet blot angiver, at til  
+
+ behandlingsanlægget indkommende data skal bearbejdes i overensstemmelse med  
+
+ kriterier i form af specielle bit (FK, S, D) i til en ankommende ledning fast  
+
+ tilknyttede lagerceller og at informationerne i et første og et andet  
+
+ lagerområde i bestemte tidsintervaller kan overføres til henholdsvis en  
+
+ programstyreenhed og en transmissionsafviklingsstyreenhed.
+ Hvorvidt disse datamanipulationer er karakteriseret så tydeligt, at  
+
+ fremgangsmåden ifølge opfindelsen kan siges at »angå« eller kun  
+
+ »antyde« en kodningsforskrift er i og for sig ikke afgørende for  
+
+ opfindelsens natur, og det tidligere herfra udtalte indebærer heller ikke en  
+
+ enighed i, at fremgangsmåden ifølge opfindelsen ikke repræsenterer en  
+
+ kodningsforskrift eller et program i den normale betydning af dette udtryk.  
+
+ Det afgørende er, at kravet ikke anviser nye tekniske midler, men anviser en  
+
+ datamanipulation, hvis udførelse forudsætter at programstyreenheden og  
+
+ transmissionsafviklingsstyreenheden er programmeret i overensstemmelse  
+
+ hermed, og hvis udførelse ikke forudsætter en ny teknisk udformning af et  
+
+ programstyret behandlingsanlæg.
+Fremgangsmåden ifølge opfindelsen savner således teknisk karakter og  
+
+ falder derfor udenfor det opfindelsesbegreb, der omfattes af patentlovens §  
+
+ 1, hvorfor ansøgningen ikke kan imødekommes.' Denne afgørelse har klageren ved skrivelse af 31. maj 1978 indbragt for  
+
+ patentankenævnet med påstand om, at direktoratets afgørelse omstødes, således  
+
+ at sagen af direktoratet optages til fortsat behandling.
+ Klageren har indleveret ankebegrundelse af 2. august 1978.
+ I skrivelse af 24. november 1980 har klageren oplyst, at en tilsvarende  
+
+ ansøgning har ført til patent i Tyskland, Sverige, England, USA, Schweiz,  
+
+ Frankrig, Canada og Australien.
+ Klageren har yderligere udtalt sig i indlæg af 21. april 1981 og 2. april  
+
+ 1982.
+ Patentdirektoratet har udtalt sig i indlæg af 18. marts 1981 og 24.  
+
+ september 1981.
+ Med klagerens indlæg af 2. april 1982 fulgte nye krav 1-7 og hovedkravet  
+
+ er sålydende:
+Fremgangsmåde ved formidling af forbindelser og overføring af information  
+
+ mellem ankommende og afgående tilslutningsledninger i et teleteknisk  
+
+ forbindelsesetableringsanlæg med mindst een programstyreenhed (PE) til  
+
+ styring og afvikling af alle operationer i anlægget, i hvilket anlæg de ankommende og afgående tilslutningsledninger er  
+
+ forbundet til en ledningstilslutningsenhed (LE), som over en  
+
+ transmissionsafviklingsstyreenhed (UEAS) cyklusvis bringes i forbindelse med  
+
+ en lagerenhed (SP), som indeholder alle til anlæggets drift nødvendige data  
+
+ og programmer, i hvilken lagerenhed (SP) der for hver tilslutningsledning findes en fast  
+
+ tilknyttet lagercelle (ZZ), som addresseres af  
+
+ transmissionsafviklingsstyreenheden (UEAS) efter at denne fra en ankommende  
+
+ tilslutningsledning har optaget f.eks. i form af polaritetsskift optrædende  
+
+ formidlings- eller informationstegn, hvorved det optagne tegn ved opfyldelse  
+
+ af et første kriterium (FK), som er indeholdt i den til den ankommende  
+
+ ledning fast tilknyttede lagercelle (ZZ), overføres til et første lagerområde  
+
+ (NBS) i lageret (SP), medens det ved en allerede bestående forbindelse mellem  
+
+ den pågældende ankommende ledning og en afgående tilslutningsledning  
+
+ videregives til den afgående ledning, idet der i den til den ankommende  
+
+ ledning knyttede lagercelle (ZZ) er indskrevet adresseinformation til  
+
+ identifikation af den afgående ledning, hvorhos de i det første lagerområde (NBS) indførte tegn afvikles af  
+
+ programstyreenheden (PE) ved hjælp af de i lagerenheden (SP) indeholdte data  
+
+ og programmer, hvorved programstyreenheden (PE) i tilfælde af, at sådanne  
+
+ tegn udgør signaleringstegn, bevirker indskrivning af nævnte  
+
+ adresseinformation om den pågældende afgående ledning i den til den  
+
+ ankommende ledning knyttede lagercelle (ZZ), k e n d e t e g n e t ved, - at der ved en indretning af anlægget, hvor der i den til en ankommende  
+
+ tilslutningsledning fast tilknyttede lagercelle (ZZ) yderligere er indskrevet  
+
+ et andet og et tredie kriterium (D,S) for behandling af de næstkommende tegn  
+
+ på den til cellen (ZZ) knyttede ankommende ledning, og hvor lagerenheden (SP)  
+
+ ud over nævnte data og programmer, de til tilslutningsledningerne fast  
+
+ tilknyttede lagerceller (ZZ) og nævnte første lagerområde (NBS) yderligere  
+
+ indeholder et andet lagerområde (BBS) til optagelse af kommandoinformationer  
+
+ fra programstyreenheden (PE) omfattende en informationsdel og en angivelse om  
+
+ kommandoudførelsestidspunkt samt et tredie lagerområde (SUB) med en blok af  
+
+ substitutionsceller, gås frem på følgende måde:
+- ved transmissionsafviklingsstyreenhedens (UEAS) adressering af en til en  
+
+ ankommende tilslutningsledning knyttet lagercelle (ZZ) overføres nævnte andet  
+
+ og tredie kriterium (D,S) sammen med nævnte første kriterium (FK) til  
+
+ transmissionsafviklingsstyreenheden (UEAS) til vurdering i denne, - opfyldelse af det nævnte andet kriterium (D) vurderes som kendetegn for  
+
+ en allerede bestående forbindelse, medens opfyldelse af nævnte tredie  
+
+ kriterium (S) bevirker tilknytning af nævnte tredie lagerområde (SUB) til den  
+
+ til den ankommende tilslutningsledning knyttede lagercelle (ZZ) ved indføring  
+
+ af det tredie lagerområdes (SUB) adresse (SB) i nævnte lagercelle ved hjælp  
+
+ af programstyreenheden (PE), - det nævnte tredie kriterium (S) fastlægges af programstyreenheden (PE)  
+
+ på grundlag af indføringerne i det første lagerområde (NBS) og indskrives i  
+
+ de til de ankommende tilslutningsledninger knyttede lagerceller (ZZ), og - transmissionsafviklingsstyreenheden (UEAS) sættes i forbindelse med det  
+
+ andet lagerområde (BBS) til optagelse af informationsdelen af en  
+
+ kommandoinformation efter adressering af en lagerplads i det andet  
+
+ lagerområde (BBS) ved hjælp af en blokbegyndelsesadresse og stillingen af en  
+
+ binær tæller, når det ved en tidssammenligning er fastslået, at det i  
+
+ kommandoinformationen angivne udførelsestidspunkt er indtruffet.
+ Klageren har herom forklaret:
+»Allerede i de hidtil gældende krav af 12. april 1977 var i de første  
+
+ linier af den kendetegnende del af krav 1 angivet et nyt træk af  
+
+ apparatmæssig karakter, nemlig tilstedeværelsen af kriterier for behandlingen  
+
+ af de på en ankommende ledning indtræffende polaritetsskift i den til  
+
+ ledningen fast tilknyttede lagercelle.
+Det er hermed fremhævet, at der er  
+
+ tale om en fremgangsmåde, hvis udøvelse ikke sker i forbindelse med et kendt  
+
+ anlæg, men derimod med et nyt anlæg, hvis afvigelse fra det kendte bl.a. er  
+
+ bragt til udtryk gennem dette første nye træk, hvorefter  
+
+ fremgangsmådetrinnene i den resterende del af kravet er fremhævet typografisk  
+
+ ved, at hvert trin indledes på en ny linie med »- at«.
+ Også i de nævnte trin er angivet et nyt træk, som er af apparatmæssig  
+
+ karakter, nemlig den særlige lageropdeling.
+For at fremhæve endnu tydeligere, at fremgangsmåden er begrænset til  
+
+ forbindelsesetablering inden for telekommunikation og forudsætter et anlæg,  
+
+ der som følge af de omhandlede træk er nyt og væsentligt forskelligt fra  
+
+ kendte anlæg, er krav 1 i medfølgende nye sæt patentkrav, som principalt  
+
+ ønskes lagt til grund for ansøgningens videre behandling, tydeliggjort ved,  
+
+ at de nævnte nye apparatmæssige træk er angivet i de første linier efter  
+
+ »kendetegnet ved«, efterfulgt at de egentlige fremgangsmådetrin med  
+
+ sproglig fremhævelse af disse ved angivelse af, at der i det således  
+
+ karakteriserede anlæg »gås frem på følgende måde«.
+I øvrigt er krav  
+
+ 1 søgt gjort nemmere læseligt ved opdeling af både indledning og  
+
+ kendetegnende del i underafsnit.' -Klageren har bl.a. anført, at den påklagede afgørelse er truffet i  
+
+ henhold til patentloven af 1967, der ikke indeholdt en afgrænsning af  
+
+ opfindelsesbegrebet, men at sagen nu skal afgøres på grundlag af § 1, stk. 2,  
+
+ i den ændrede patentlov af 1978, der indeholder en ved eksempler angivet  
+
+ opregning af fænomener, der ikke kan anses for opfindelser i patentlovens  
+
+ forstand.
+Det fremgår af denne bestemmelse, at som opfindelser anses især ikke, hvad  
+
+ der alene udgør ....'3) planer, regler eller metoder for intellektuel  
+
+ virksomhed, for spil eller for erhvervsvirksomhed eller programmer for  
+
+ datamaskiner.' I bemærkningerne til lovforslaget (folketingssamlingen 1977-78) anføres  
+
+ det, at disse fænomener ikke er behandlingsregler, der tager sigte på at  
+
+ forandre omverdenen, men blot er forholdsregler i form af materielt  
+
+ uproduktive anvisninger dvs. rene anvisninger til det menneskelige intellekt.  
+
+ Programmer kan derfor ikke patenteres i det omfang de alene indebærer  
+
+ anvisninger til det menneskelige intellekt.
+Med henvisning til disse bemærkniger gør klageren gældende, at de ikke  
+
+ udelukker patentering af programmer, men tværtimod modsætningsvis tillader  
+
+ patentering for så vidt angår programmer, der rummer noget, som går ud over  
+
+ anvisningen til det menneskelige intellekt.
+Det følger heraf, at afgørelse af  
+
+ spørgsmål herom ikke mere skal presses ind til afgørelse efter  
+
+ »patentlovens almindelige opfindelsesbegreb«, men først og fremmest  
+
+ skal afgøres efter den nye regel.
+Klageren har endvidere anført, at programmer kan være henholdsvis tekniske  
+
+ og ikke-tekniske programmer.
+Opdelingen stammer fra tysk ret, hvor man ud fra  
+
+ kriteriet, at opfindelsen skal have teknisk karakter, har formuleret  
+
+ betingelsen, at det eller de nye træk skal repræsentere en planmæssig  
+
+ benyttelse af beherskelige naturkræfter med et kausalt forudsigeligt  
+
+ resultat, hvis kravet om teknisk karakter skal anses for opfyldt.  
+
+ Anvendeligheden af ordet »teknisk« begrundes med, at det sagligt  
+
+ synes at være det hidtil bedst foreslåede afgrænsningskriterium over for  
+
+ menneskers åndelige ydelser af anden art end »tekniske«, nemlig  
+
+ sådanne åndelige ydelser, for hvilke patentbeskyttelse hverken er bestemt  
+
+ eller egnet.
+Dette forhold minder noget om en cirkelslutning, og det  
+
+ berettiger derfor til en advarsel mod at tro, at kriteriet  
+
+ »teknisk« i sig selv vil være ufejlbarligt i alle tilfælde.
+Om ansøgningens indhold anfører klageren, at den ikke angår en  
+
+ fremgangsmåde til generel databehandling under anvendelse af et  
+
+ databehandlingsanlæg med en fuldstændig kendt opbygning, men den  
+
+ patentansøgte opfindelse skal ses i en bestemt organisation eller opdeling af  
+
+ de data, som skal bearbejdes, samt i regler for bearbejdningen af disse data  
+
+ i det kendte databehandlingsanlæg, altså en programbeskrivelse eller et  
+
+ dataprogram.
+De træk eller foranstaltninger, som er nye og udgør en  
+
+ tilføjelse til den kendte teknik, må tillægges afgørende vægt i vurderingen  
+
+ af, om opfindelsen skal være omfattet af undtagelsesbestemmelsen.
+Består  
+
+ disse nye træk helt eller delvis af en algoritme eller en programbeskrivelse,  
+
+ falder opfindelsen uden for patentlovens opfindelsesbegreb.
+Den herved hjemlede vurdering kan imidlertid alene foretages på grundlag  
+
+ af de træk eller foranstaltninger, som skal anses for nye.
+Dette må følge  
+
+ allerede deraf, at vurderingen af, om undtagelsesbestemmelsen skal komme til  
+
+ anvendelse, udføres som en separat del af prøvningen, uden at der er  
+
+ foretaget nogen nyhedsundersøgelse.
+Med det forbehold, at man i vurderingen  
+
+ af nye træk og foranstaltninger på sædvanlig måde kan hente støtte i  
+
+ opfindelsens forklaring og eksemplifikation i beskrivelsen, må det stå klart,  
+
+ at patentmyndigheden ikke vilkårligt kan anfægte patentkravets angivelse af  
+
+ nye træk og foranstaltninger med en udokumenteret påstand om, at nogle af  
+
+ disse skulle være kendte eller nærliggende.
+I den foreliggende danske ansøgning kan man ikke tale om databehandling i  
+
+ form af bearbejdning eller omorganisering af tilførte indgangsdata.
+De eneste  
+
+ indgangsdata ved et forbindelsesetableringsanlæg ifølge opfindelsen er tegn,  
+
+ som indtræffer i form af f.eks. polaritetsskift på de ankommende  
+
+ tilslutningsledninger.
+Disse tegn skal enten som informationstegn ved en  
+
+ bestående forbindelse videreføres til en eller flere afgående  
+
+ tilslutningsledninger eller som formidlingstegn, dvs. opkaldsanfordringer  
+
+ eller signaleringstegn, give anledning til forskellige  
+
+ forbindelsesetableringsoperationer gennem forskellige former for notering i  
+
+ den centrale lagerenhed.
+ Det forhold, at enhedens funktion udføres i form af en sekvens af skridt  
+
+ på lignende måde, som det gøres for andre sekvensnetværk, og at dens  
+
+ funktionsområde følgelig er beskrevet og bedst lader sig beskrive af og for  
+
+ en fagmand i et sprog beslægtet med de fra datalogien og digitalteknikken  
+
+ kendte udtryksmåder, kan ikke begrunde et afslag under jævnførelse med  
+
+ beregningsforskrifter, programmer og lignende tankemæssige frembringelser,  
+
+ som ikke er patenterbare.
+Uanset om man vil anse de erkendte nye træk ved opfindelsen for at  
+
+ repræsentere en ny opbygning af et forbindelsesetableringsanlæg, må det være  
+
+ uden for enhver tvivl, at opfindelsen gør det muligt at udnytte et  
+
+ forbindelsesetableringsanlæg af den omhandlede art på en ny og i forhold til  
+
+ den kendte teknik ikke nærliggende måde.
+Der er under alle omstændigheder  
+
+ tale om en ny benyttelse, og klageren kan ikke tiltræde, at krav 1 ikke  
+
+ angiver nye tekniske midler.
+Gennem den nu foreståede præcisering af krav 1,  
+
+ mener klageren at have bragt dette endnu mere klart til udtryk.
+ -Patentdirektoratet, der ikke har udtalt sig om klagerens først for nævnet  
+
+ fremlagte præciserede krav, har bl.a. anført, at direktoratet kan tiltræde,  
+
+ at den opgave, der ligger til grund for opfindelsen, er af teknisk natur, og  
+
+ at dette er tilfældet, er ikke bestridt af direktoratet under sagens  
+
+ behandling og har heller ikke haft betydning for bedømmelsen af, hvorvidt  
+
+ opfindelsen har teknisk karakter.
+ Direktoratet fastholder, at opgaven ikke er løst ved hjælp af nye tekniske  
+
+ midler, idet det af beskrivelsen, fig. 1 med tilhørende tekst, klart fremgår,  
+
+ at det programstyrede forbindelsesetableringsanlæg omfattende  
+
+ programstyreenhed, transmissionsafviklingsstyreenhed og lagerenhed, hører til  
+
+ opfindelsens kendte forudsætning.
+ Som opfindelsen er karakteriseret i krav 1 er det eneste nye således den  
+
+ særlige opdeling af det kendte lager, den særlige databearbejdning samt  
+
+ kommunikationen mellem de på kendt måde forbundne og i sig selv kendte  
+
+ enheder, og der er ikke i beskrivelsen forklaret nogen ny teknik til  
+
+ realisation af fremgangsmåden, men alene antydet, at den ønskede funktion  
+
+ opnås ved en særlig programmering af det kendte anlæg.
+ Opfindelsen ifølge krav 1 angår således ikke en ny kredsløbsmæssig  
+
+ opbygning af et forbindelsesetableringsanlæg, og bemærkningen i  
+
+ afslagsbegrundelsen om, at programstyreenheden og  
+
+ transmissionsafviklingsstyreenheden skal være programmerede i  
+
+ overensstemmelse med den datamanipulation, der skal udføres, er således ikke  
+
+ irrelevant, idet der for en fagmand ikke ses antydet eller forklaret andre  
+
+ eksemplificeringer af opfindelsen.
+Direktoratet har videre udtalt, at vurderingen af, hvorvidt opfindelsen  
+
+ har teknisk karakter eller ej, må foretages på baggrund af indholdet af  
+
+ ansøgningens basisdokumenter, dvs. under medinddragelse af opfindelsens  
+
+ forklaring og eksemplifikation i beskrivelse med tegning.
+Denne direktoratets  
+
+ praksis, at inddrage andet end kravenes ordlyd ved vurderingen, har baggrund  
+
+ i patentlovens almindelige opfindelsesbegreb, og hjemmel hertil skal ikke,  
+
+ som antaget af klageren, søges i patentlovens undtagelsesbestemmelse angående  
+
+ programmer for datamaskiner.
+Endelig har direktoratet anført, at man ikke kan få andet indtryk af den  
+
+ foreliggende beskrivelse med krav end, at den ved opfindelsen tilsigtede  
+
+ virkning opnås ved en programmering af en programstyreenhed og en  
+
+ transmissionsafviklingsstyreenhed, idet der ikke ses forklaret nogen ny  
+
+ teknik til realisation af fremgangsmåden.
+Det er muligt, at en programmør  
+
+ ikke på grundlag af sagens akter er i stand til umiddelbart at skrive et  
+
+ tilsvarende program, men en sådan eventuel mangel ved ansøgningen angående  
+
+ beskrivelsens tydelighed med henblik på den fagmandsmæssige udøvelse af  
+
+ opfindelsen, har direktoratet ikke under sagens behandling fundet anledning  
+
+ til at påtale, idet opfindelsens kerne, dvs. det for opfindelsen nye og  
+
+ ejendommelige, er anset for at være en ikke-teknisk anvisning i form af et  
+
+ program for et kendt programstyret forbindelsesetableringsanlæg, og  
+
+ opfindelsens ikke-tekniske karakter ændres ikke af, at anvisningen i krav og  
+
+ beskrivelse er affattet i så generelle vendinger, at opfindelsen snarere  
+
+ udgør en generel programbeskrivelse for en programmør end et program affattet  
+
+ i et bestemt programmeringssprog.
+ Sagen har været behandlet i nævnets møde den 23.januar 1984.
+For klageren mødte civilingeniør Knud Raffnsøe, landsretssagfører Ole C.  
+
+ Eberth, civilingeniør Finn Steenstrup og ingeniør K.
+Løhmann Petersen.
+For direktoratet mødte afdelingsingeniør H.J.
+Riis-Vestergaard og ingeniør  
+
+ Bjarne Bo Larsen.
+ Klageren nedlagde påstand om, at direktoratets afgørelse omstødes således,  
+
+ at ansøgningen af direktoratet optages til fortsat behandlig på grundlag af  
+
+ kravene af 2. april 1982.
+ Civilingeniør Raffnsøe og landsretssagfører Eberth procederede sagen  
+
+ særlig med henvisning til klagerens indlæg af 2. april 1982 med bilag, og de  
+
+ i sagen iøvrigt fremlagte bilag.
+Klageren gjorde bl.a. gældende, at ansøgningen viser en ny benyttelse af  
+
+ et teleteknisk forbindelsesetableringsanlæg og en ny teknisk udformning af et  
+
+ sådant anlæg.
+Kravet om opfindelsens tekniske karakter var således opfyldt.
+Klageren henviste endvidere til, at ændringen af patentloven i 1978, der  
+
+ medførte, at der i lovens § 1, stk. 2, ved eksempler blev angivet nogle  
+
+ fænomener, der ikke skal anses for omfattet af patentlovens  
+
+ opfindelsesbegreb, havde til formål at bringe loven i overensstemmelse med  
+
+ den europæiske patentkonvention.
+Tilsvarende bestemmelse var optaget i den  
+
+ tyske patentlov.
+Det var således hensigten, at dansk praksis skulle tilpasses  
+
+ praksis ved den europæiske patentmyndighed - også selvom Danmark endnu ikke  
+
+ har tiltrådt konventionen - og praksis i andre europæiske lande f.eks.  
+
+ Tyskland.
+At dansk praksis ikke var i overensstemmelse med den tyske, fremgik  
+
+ allerede af den omstændighed, at der var udstedt patent i Tyskland i henhold  
+
+ til den tilsvarende tyske ansøgning.
+Også patentudstedelsen i en række andre  
+
+ lande viste, at patentdirektoratet anlagde en anden bedømmelse end disse  
+
+ lande.
+ Nogle i Tyskland trufne afgørelser viste, at udviklingen går i retning af  
+
+ en indsnævring af undtagelsesbestemmelsernes rækkevidde.
+ Patentankenævnet burde nu foretage et afgørende brud med hidtidig dansk  
+
+ praksis således, at denne blev bragt i overensstemmelse med den europæiske  
+
+ patentmyndigheds og med praksis i de lande, der har tiltrådt den europæiske  
+
+ patentkonvention.
+ Patentdirektoratets repræsentanter anførte bl.a., at det tilsvarende tyske  
+
+ patent var udstedt i 1973 på et tidspunkt, hvor der ikke kunne uddrages nogen  
+
+ entydig lære af praksis, og i det hele taget havde der i de førende  
+
+ industrilande vist sig divergerende opfattelser, når der skulle foretages en  
+
+ nærmere afgrænsnig af opfindelsesbegrebet.
+ Senere tyske afgørelser anlagde visse principielle betragtninger med  
+
+ hensyn til afgrænsningen af opfindelsesbegrebet, og direktoratet mente sig  
+
+ ved afgørelsen i denne sag i overensstemmelse hermed.
+ Det var den foreliggende opfindelses ide, at den i kravets indledning  
+
+ angivne programstyrede central skal virke på en bestemt måde, og når ideen  
+
+ foreligger,realiseres den ved en hensigtsmæssig udnyttelse af den kendte  
+
+ central, der netop er opbygget med henblik på at kunne udnyttes til  
+
+ forskellige formål, idet centralen efter sin bestemmelsesmæssige brug kan  
+
+ implementeres med forskellige programmer.
+ Anerkendes det således patentansøgte program som en teknisk anvisning for  
+
+ fagmanden i at konstruere et bestemt elektrisk kredsløb gør man sig skyldig i  
+
+ en forkert ækvivalensbetragtning, idet der ikke er ækvivalens mellem et  
+
+ bestemt program og et bestemt elektrisk kredsløb.
+ Det forhold at opfindelsens genstand er et formidlingsanlæg, der som  
+
+ begreb er klart teknisk, er ikke tilstrækkeligt til,at også opfindelsen er  
+
+ teknisk, idet en opfindelse i almindelighed består i et tillæg til teknikkens  
+
+ standpunkt, og ved vurderingen af opfindelsens tekniske karakter er det  
+
+ tillægget til teknikkens standpunkt, dvs. det for opfindelsen nye og  
+
+ ejendommelige, der er afgørende.
+ Efter replik og duplik optoges sagen til kendelse.
+Tre medlemmer (P.G.
+Jensen, Asger Nielsen, Vørts) udtaler:
+ Klageren søger patent på en fremgangsmåde til etablering af  
+
+ kommunikationsforbindelser mellem telelinier, der fører data på digital form.
+Patentdirektoratet finder, at det i ansøgningen omtalte  
+
+ forbindelsesetableringsanlæg er et eksisterende og dermed i alle enkeltheder  
+
+ kendt programstyret anlæg, og at opfindelsen derfor alene omfatter et program  
+
+ til dette kendte anlæg eller alene en anvisning af datamanipulationer, der  
+
+ ønskes udført af det kendte anlæg.
+På denne baggrund konkluderer  
+
+ direktoratet, at opfindelsen er af ikke teknisk karakter og følgelig falder  
+
+ udenfor patentlovens opfindelsesbegreb, hvorfor ansøgningen afslås.
+Disse medlemmer kan ikke tiltræde denne afgørelse, men finder at  
+
+ hovedkravets indledning i store træk angiver de i et  
+
+ forbindelsesetableringsanlæg indgående komponenter og disses organisering og  
+
+ indbyrdes samarbejde.
+Fremgangsmåden i henhold til kravets kendetegnende del  
+
+ er derimod direkte bestemmende for udvælgelse og specifikation af disse i og  
+
+ for sig kendte komponenter og deres detaljerede sammenbygning og indbyrdes  
+
+ samarbejde med henblik på at opnå et anlæg til udøvelse af fremgangsmåden.
+ Omend fremgangsmåder, betragtet som konstruktionsforskrifter, som oftest  
+
+ ikke er entydige, findes der dog i det foreliggende tilfælde at være tale om  
+
+ en specifikationsgrad, som gør det muligt for fagmanden at fastlægge  
+
+ anlæggets karakteristiske struktur.
+ Det således fastlagte anlæg afviger ikke kun fra den kendte teknik ved de  
+
+ indlagte programmer, hvorfor opfindelsen findes at være af teknisk karakter.
+ Med hensyn til klagerens påstand om, at anlægget udnyttes på en ny og ikke  
+
+ nærliggende måde, ses denne påstand ikke overbevisende imødegået af  
+
+ direktoratet.
+ Disse medlemmer finder iøvrigt ansøgningen upræcis såvel med hensyn til  
+
+ klargøring af teknikkens stade på ansøgningstidspunktet som med hensyn til  
+
+ opfindelsens faktiske natur, hvilke mangler burde være rettet op under sagens  
+
+ behandling.
+ Af ovennævnte grunde bør direktoratets afgørelse omstødes, og sagen af  
+
+ direktoratet optages til fortsat behandling.
+ To medlemmer (Beyer, Grønning-Nielsen) udtaler:
+ I dansk patentpraksis har der på patentrettens centrale områder stedse  
+
+ været taget hensyn til den lære, der kan udledes af de førende industrilandes  
+
+ praksis, som denne fremtræder i enkeltafgørelser og i teoretiske  
+
+ fremstillinger af patentretten.
+Dette gælder således ikke mindst afgrænsningen af det patentretlige  
+
+ opfindelsesbegreb.
+Et bidrag til denne afgrænsning findes nu i patentlovens §  
+
+ 1, stk. 2. Det anføres i bemærkningerne til denne bestemmelse i lovforslaget,  
+
+ at de afgrænsninger af opfindelsesbegrebet, som ifølge forarbejderne (til  
+
+ patentloven af 1967) og praksis var gældende, ved den foreslåede formulering  
+
+ i alt væsentligt nu blot bliver lovfæstet.
+En vis generel præcisering af den patenterbare opfindelse fandtes i  
+
+ tidligere patentlove og findes fortsat i patentlovens § 1, stk. 1, der  
+
+ kræver, at en opfindelse skal kunne udnyttes industrielt.
+Dette er en  
+
+ nødvendig, men ikke tilstrækkelig forudsætning for, at der kan siges at  
+
+ foreligge en opfindelse, der er omfattet af det patentretlige  
+
+ opfindelsesbegreb, idet nogle af de fænomener, der er omhandlet i  
+
+ patentlovens § 1, stk. 2, meget vel kan udnyttes industrielt, men dog ikke  
+
+ anses for omfattet af opfindelsesbegrebet, fordi de mangler teknisk karakter.
+Patentlovens ændring i så henseende tog sigte på at bringe lovens ordlyd i  
+
+ overensstemmelse med den europæiske patentkonvention og derved med  
+
+ lovgivningen i nogle europæiske lande, der har tilsluttet sig konventionen.  
+
+ Danmark har ikke tilsluttet sig konventionen, og det findes ikke  
+
+ dokumenteret, at den ved konventionen etablerede europæiske patentmyndighed  
+
+ har udviklet en praksis,hvoraf der kan udledes nogen entydig lære, hverken  
+
+ med hensyn til afgrænsningen af opfindelsesbegrebet i almindelighed eller  
+
+ særlig med hensyn til forholdet mellem programmel og materiel.
+Det samme  
+
+ gælder f.eks. i Tyskland, dog at der her efter 1973 ses truffet afgørelser,  
+
+ der anviser visse principper for en stillingtagen til, om opfindelser har en  
+
+ sådan teknisk karakter, at de kan anses for omfattet af det patentretlige  
+
+ opfindelsesbegreb.
+En samlet og væsentlig vejledende praksis med hensyn til afgrænsningen af  
+
+ opfindelsesbegrebet kan med tiden måske udvikles af en central  
+
+ patentmyndighed som den europæiske, men enslydende lov- og konventionstekster  
+
+ kan ikke i sig selv forventes at hidføre en ensartet praksis hos nationale  
+
+ patentmyndigheder.
+Dette vil fremgå af eksempler på forskellig praksis ved  
+
+ afgørelsen af patentansøgniger i de nordiske lande, selvom disse siden 1967  
+
+ har haft enslydende patentlove.
+Den danske patentmyndighed må derfor bl.a.med hensyntagen til, hvad der  
+
+ med rimelig sikkerhed kan læres af fremmed teori og praksis selv træffe  
+
+ afgørelse i fortolkningsspørgsmål, og kan ikke uden videre lægge tidsmæssigt  
+
+ ofte varierende resultater af behandlingen af ansøgninger i udlandet til  
+
+ grund for afgørelsen af tilsvarende ansøgninger her i landet.
+Dette ville  
+
+ kræve en gennemgang af de udenlandske patenter og indgående kendskab til  
+
+ lovgrundlaget og til behandlingen i de enkelte lande.
+En sådan fremgangsmåde  
+
+ er da heller ikke foreskrevet i den danske patentlov.
+Klagerens anbringender  
+
+ om, at der bør være overensstemmelse mellem dansk praksis og praksis ved  
+
+ andre patentmyndigheder kan følgelig kun accepteres med væsentlige forbehold.
+Det fremgår af den oprindelige beskrivelse med krav, at ansøgningen  
+
+ omhandler en fremgangsmåde til forbindelsesstyring i programstyrede  
+
+ behandlingsanlæg, navnlig et programstyret forbindelsesetableringsanlæg, hvis  
+
+ opbygning som opfindelsens kendte forudsætning er angivet i hovedkravets  
+
+ indledende del.
+De typiske opgaver for anlægget er identificering af kaldende  
+
+ og kaldt abonnent, gennemstilling, debitering,håndtering af fejlsituationer  
+
+ m.v.
+Anlægget kan ikke påvirke de indkomne signalers tidsmæssige placering og  
+
+ må være indrettet til at modtage og behandle, eventuelt mellemlagre,  
+
+ signalerne, når de ankommer, hvorfor tidskravene til systemet bliver af  
+
+ afgørende betydning for anlæggets udformning.
+ Det tiltrædes, at den problemløsning, der ligger til grund for opfindelsen  
+
+ for så vidt er af teknisk natur, som den er baseret på tekniske overvejelser  
+
+ med hensyn til en løsning af krav, der stilles til det programstyrede  
+
+ forbindelsesetableringsanlæg, der omfatter programstyreenhed,  
+
+ transmissionsafviklingsstyreenhed, transmissionsafviklingsstyreenhed og  
+
+ lagerenhed.
+Når klageren har gjort gældende, at ansøgningen anviser en ny benyttelse  
+
+ af det omhandlede anlæg, og at den tillige anviser en ny teknisk udformning  
+
+ af anlægget, bemærkes, at det ikke kan anses for godtgjort af klageren, at et  
+
+ sådant resultat i så fald er opnået ved andre foranstaltninger end en særlig  
+
+ programmering af anlægget, idet der som anført af patentdirektoratet ikke i  
+
+ ansøgningen ses at være givet anvisning på anvendelse af andre konstruktive  
+
+ tekniske midler end sådanne, som er angivet som opfindelsens kendte tekniske  
+
+ forudsætninger.
+Det bliver derfor uden betydning, at ansøgningen ikke angår  
+
+ en fremgangsmåde til generel databehandling i et databehandlingsanlæg, men  
+
+ angår en fremgangsmåde til processtyring i overensstemmelse med de ved en  
+
+ programmering givne forskrifter.
+ Det tiltrædes herefter, at ansøgningen således, som den har foreligget for  
+
+ patentdirektoratet og iøvrigt af de af direktoratet anførte grunde, er  
+
+ afslået.
+Det for nævnet fremlagte nye hovedkrav adskiller sig i realiteten kun fra  
+
+ det krav, der har ligget til grund for den påklagede afgørelse derved, at der  
+
+ i kravets kendetegnende del er optaget en angivelse af et apparatmæssigt  
+
+ træk, men en sådan sammenblanding af apparatmæssige træk og træk, der  
+
+ kendetegner fremgangsmåden, findes ikke tilladelig og ej heller at bidrage  
+
+ til at skabe klarhed med hensyn til opfindelsens natur.
+Den omhandlede  
+
+ angivelse findes derfor ikke at kunne føre til andet resultat og disse  
+
+ medlemmer stemmer derfor for at stadfæste den påklagede afgørelse.
+ Der træffes afgørelse efter flertallets mening.
+Herefter bestemmes:
+ Det i den påklagede afgørelse anførte findes ikke til hinder for, at  
+
+ ansøgningen af patentdirektoratet optages til fortsat behandling.

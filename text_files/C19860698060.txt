@@ -1,0 +1,858 @@
+1. Indledning 2. Organisation og kommunikationsstruktur 3. Behov for datakommunikation 4. Model for centraladministrationens struktur 5. Planlægning af kommunikationssystemer for en enhed 6. Planlægning af kommunikationssystemer for et ministerområde 7. Centraladministrationens fælles  
+
+ datakommunikationssystem 8. Valg af standarder 9. Anbefalinger for etablering af generelle datakommunikationsfaciliteter 10. Andre initiativer Datakommunikation i centraladministrationen 1. lndledning I disse år sker der i centraladministrationen en kraftig udvikling med  
+
+ indførelse af informationsteknologi til modernisering og rationalisering af  
+
+ de administrative rutiner.
+ En vigtig funktion i disse systemer vil blive udveksling af information  
+
+ mellem myndigheder indenfor centraladministrationen og mellem  
+
+ centraladministrationens myndigheder og servicecentre og andre interessenter  
+
+ udenfor centraladministrationen.
+ Planlægning og etablering af systemer til udveksling af information kan  
+
+ ikke alene varetages af den enkelte organisatoriske enhed, idet et effektivt  
+
+ og fleksibelt kommunikationsapparat kræver fastlæggelse og overholdelse af  
+
+ fælles standarder og eventuelt etablering af fælles systemer.
+ Desuden er der på datakommunikationsoinrådet endnu ikke fuldt ud etableret  
+
+ generelle internationale standarder, der kan sikre at en sådan fleksibel  
+
+ kommunikation er mulig.
+Denne vejledning »Datakommunikation i centraladministrationen«  
+
+ er en kort introduktion til de muligheder og funktioner man kan anvende ved  
+
+ datakommunikation.
+Desuden indeholder vejledningen  
+
+ administrationsdepartementets anbefalinger til fælles standarder på  
+
+ datakommunikationsområdet.
+De statslige myndigheder bør indarbejde disse anbefalinger i  
+
+ kravspecifikationer ved anskaffelse af edb-udstyr Hvis kommunikationsfaciliteterne etableres efter de opstillede  
+
+ anbefalinger, vil man dels opnå den nødvendige funktionalitet til  
+
+ koinmunikation med f.eks.
+Datacentralen og dels vil man skabe de nødvendige  
+
+ tekniske forudsætninger for at kunne udnytte fælles  
+
+ kommunikationsfaciliteter.
+De opstillede anbefalinger er primært baseret på udbredte  
+
+ industristandarder.
+Det forventes, at de internationale standarder på mange  
+
+ områder vil være til rådighed indenfor en 3 års periode.
+Det er derfor planen, at anbefalingerne løbende skal revideres og udbygges, således at hovedvægten på et senere tidspunkt kan lægges på de  
+
+ internationale standarder.
+ Anbefalingerne er udarbejdet efter, at administrationsdepartementet i  
+
+ foråret 1986 har ladet gennemføre en foranalyse af »Generelle  
+
+ datakommunikationsfaciliteter i centraladministrationen«.
+ Formålet med foranalysen har været dels at få belyst mulighederne for  
+
+ anvendelse af datakommunikation i centraladministrationen og dels at få  
+
+ opstillet et sæt af anbefalinger, som vil muliggøre etablering af de tekniske  
+
+ løsninger for fleksibel udveksling af information.
+Målet er således at skabe det nødvendige fundament, så der ikke opstår  
+
+ tekniske hindringer, der udelukker, at enhver terminalarbejdsplads i  
+
+ princippet kan få adgang til alle elektronisk lagrede informationer på  
+
+ ethvert system i centraladministrationen.
+Samtidig har det været et mål at få  
+
+ udarbejdet et materialee, som i en forholdsvis let tilgængelig form belyser  
+
+ datakommunikationsteknikken og dens muligheder.
+ Foranalysen er gennemført af konsulentfirmaet Fischer æt Lorenz i  
+
+ samarbejde med medarbejdere i administrationsdepartementet.
+ Resultatet af foranalysen er dokumenteret i rapporten »Foranalyse om  
+
+ etablering af generelle datakommmunikationsfaciliteter i  
+
+ centraladministrationen«.
+ Rapporten kan købes hos Statens Informationstjeneste.
+ I forbindelse med planlægning af indførelse af informationsteknologi vil  
+
+ rapporten kunne anvendes dels som inspirationskilde omkring anvendelsen af  
+
+ datakommunikation og dels som grundlag for projektmedarbejderes introduktion  
+
+ til begreber og teknik på datakoininunikationsområdet.
+Enkelte afsnit i denne vejledning er præget af tekniske udtryk.
+En nærmere  
+
+ definition og forklaring af disse udtryk vil kunne findes i ovennævnte  
+
+ rapport.
+2. Organisation og kommunikationsstruktur Grundlaget for etablering af generelle kommunikationsfaciliteter er den  
+
+ bestående organisation og kommunikationsstruktur i centraladministrationen  
+
+ (Figur 1).
+ Organisationsstrukturen er naturligvis almindelig kendt, men det kan være  
+
+ formålstjenligt at se strukturen under en anden synsvinkel end den opleves i  
+
+ det daglige.
+Centraladministrationen omfatter aktuelt 21 ministerområder, der består  
+
+ af: Departementer, styrelser, direktorater, institutioner og lokale  
+
+ statsforvaltninger.
+De enkelte enheder omfatter hver især et antal personlige  
+
+ arbejdspladser.
+Indenfor et ministerområde varetager departementet en række koordinerende  
+
+ og styrende funktioner på tværs af ministerområdet.
+I en ledelsesmodel for en  
+
+ virksomhed, er disse opgaver placeret på det strategiske og på det taktiske  
+
+ niveau.
+ Styrelser og direktorater varetager en række opgaver på det taktiske og på  
+
+ det operationelle plan, f.eks. planlæggende eller udførende funktioner.
+ Institutioner varetager typisk udførende eller producerende opgaver på det  
+
+ operationelle plan.
+De enkelte enheder er selvstændige administrative enheder med egne  
+
+ administrative systemer.
+I det daglige arbejde er der dog en udstrakt  
+
+ kommunikation svarende til den hierarkiske struktur i ministerområdet, men  
+
+ også på tværs af strukturen.
+Desuden er der kommunikation på tværs af ministerområderne.
+De fleste  
+
+ enheder har kommunikation til et eller flere servicecentre uden for  
+
+ centraladministrationen, f.eks. til Datacentralen.
+Endelig har mange enheder  
+
+ kommunikation med eksterne interessenter, f.eks. organisationer, kommuner og  
+
+ private virksomheder.
+3. Behov for datakommunikation Behovet for datakommunikation afledes af behovet for almindelig  
+
+ kommunikation og udveksling af information.
+Data registreret i en enheds  
+
+ informationssystem skal således kunne overføres elektronisk til en anden  
+
+ enheds informationssystem.
+ Dette behov kan kvalitativt beskrives relativt enkelt, idet det kan dækkes  
+
+ af en kombination af fire generelle datakommunikationsformer.:
+- Elektronisk post - Filoverførsel - Dokumentoverførsel - Interaktiv trafik I det følgende gives en kort beskrivelse af indholdet af disse fire  
+
+ kommunikationsformer:
+ Elektronisk post er udveksling af korte meddelelser mellem brugere via  
+
+ funktioner i et informationssystem og via datakommunikation.
+Elektronisk post anvendes typisk i stedet for kommunikation via telefon,  
+
+ idet man opnår telefonens hurtighed og fleksibilitet.
+Samtidig opnår man  
+
+ fordelen af at få dokumenteret en meddelelse, og man bliver uafhængig af  
+
+ modtagerens tilstedeværelse.
+ Elektronisk post kan f.eks. anvendes til udveksling af korte notater, der  
+
+ ikke skal viderebearbejdes elektronisk af modtageren, til mødeindkaldelser og  
+
+ til afgivelse af korte meddelelser.
+Filoverførsel er overførsel af en ordnet samling af data fra en enheds  
+
+ informationssystem til en anden enheds system.
+Data kan være tekst, tal,  
+
+ simpel grafik eller kombinationer af disse.
+Ved filoverførsel skal afsender  
+
+ og modtager aftale en entydig tolkning af de data, der overføres.
+ Som hovedprincip kan alle oplysninger registreret på en enheds  
+
+ informationssystem ved anvendelse af filoverførsel overføres til en anden  
+
+ enheds informationssystem til videre bearbejdning på dette system.
+ Filoverførsel kan f.eks. anvendes til overførsel af tekst, af  
+
+ statistikoplysninger fra et statistiksystem eller af beregningsoplysninger  
+
+ fra et regnearkssystem.
+Dokumentoverførsel er et specialtilfælde af filoverførsel, idet man her  
+
+ overfører indholdet af et dokument i form af tekst og evt. grafik.
+Desuden  
+
+ overfører man oplysninger om, hvorledes dokumentet er udformet, f.eks.  
+
+ hvorledes det skal opdeles i sider.
+Dokumentoverførsel må antages, at blive den mest hyppige  
+
+ kommunikationsform.
+Det er derfor vigtigt, at der er fastlagt en entydig  
+
+ standard, således at alle umiddelbart kan udveksle dokumenter.
+ Interaktiv datakommudikation er den kommunikation, der udføres, når en  
+
+ bruger fra en terminalarbejdsplads arbejder i en dialog med et edb-system  
+
+ (behandlingssystem). Karakteristisk for interaktiv datakommunikation er, at  
+
+ systemernes svartider skal være korte, således at brugeren ikke hæmmes i sin  
+
+ arbejdsproces.
+ For en bruger vil der ofte udover kommunikation til systemer i egen enhed  
+
+ være behov for interaktiv kommunikation til andre enheders  
+
+ informationssystemer og til systemer placeret på servicecentre.
+4. Model for centraladministrationens struktur På baggrund af centraladministrationens organisation og  
+
+ kommunikationsbehov kan der opstilles en model af centraladministrationen,  
+
+ betragtet som et kommunikationssystem (Figur 2).
+ Modellen opstilles som en hierarkisk model med 5 niveauer:
+ - Det personlige plan er det nederste niveau og omfatter den personlige  
+
+ arbejdsplads og faciliteter knyttet til denne arbejdsplads.
+ - Enhedsplanet omfatter et antal personlige arbejdspladser samt lokale  
+
+ faciliteter i en organisatorisk enhed.
+ - Det ministerielle plan omfatter enheder inden for et ministerområde og  
+
+ de faciliteter, det er hensigtsmæssigt at være fælles om inden for  
+
+ ministerområdet.
+ - Det generelle plan er det øverste niveau i modellen og omfatter de  
+
+ faciliteter, der er fælles for hele centraladministrationen.
+- Det eksterne plan omfatter kommunikationspartnere og faciliteter uden  
+
+ for centraladministrationen.
+Det eksterne plan knyttes kommunikationsmæssigt  
+
+ til det generelle plan.
+Faciliteter på de enkelte planer vil omfatte databaser,  
+
+ behandlingssystemer og kommunikationsfaciliteter.
+Placeringen af disse  
+
+ faciliteter foretages ud fra kriterier, der enten sikrer nærhed ved de mest  
+
+ hyppige brugere eller sikrer bedst mulig udnyttelse af kritiske ressourcer.
+ Den hierarkiske model anvendes, fordi den afspejler den organisatoriske  
+
+ struktur i centraladministrationen, fordi den giver mulighed for fælles  
+
+ udnyttelse af kostbare ressourcer og fordi den giver mulighed for  
+
+ fastlæggelse af simple grænseflader mellem de forskellige niveauer i  
+
+ modellen.
+Dette betyder, at man på enhedsplanet eller inden for et ministerområde  
+
+ kan anvende egne standarder, hvis man overholder grænsefladen mod det  
+
+ generelle plan.
+Herved opnås en frihed ved valg af teknisk struktur og ved  
+
+ valg af leverandør.
+ Det er vigtigt, at den hierarkiske model realiseres på en sådan måde, at  
+
+ den enkelte bruger oplever fuld frihed til at kommunikere til andre brugere i  
+
+ systemet.
+5. Planlægning af kommunikationssystemer for en enhed Ved planlægning af kommunikationssystemer vil en enhed, f.eks. et  
+
+ departement, en styrelse eller et direktorat, normalt være den grundlæggende  
+
+ planlægningsenhed.
+ For en enhed kan der opstilles 3 modeller for opbygningen af enhedens  
+
+ edb-systemer, som dækker både det interne behov for kommunikation og behovet  
+
+ for kommunikation til omgivelserne:
+Model 1: De personlige arbejdspladser etableres med arbejdsplads  
+
+ datamater, der kobles sammen via et lokalnet.
+Arbejdspladserne får gennem  
+
+ lokalnettet adgang til fælles registre (filserver), til fælles skriveudstyr  
+
+ (skriveserver) og til kommunikationsudstyr (kommunikationsserver).
+ Den interne kommunikation mellem arbejdspladserne kan foregå via  
+
+ lokalnettet, og gennem kommunikationsudstyr kan den enkelte arbejdsplads  
+
+ kommunikere med andre enheder, med fælles faciliteter i det generelle plan og  
+
+ med det eksterne plan.
+En variation af denne model kan være etablering af en eller flere  
+
+ fælles/flerbruger datamater i lokalnettet.
+Disse datamater kan anvendes til  
+
+ afvikling af lokale behandlingssystemer.
+I dette tilfælde kan arbejdspladsen  
+
+ evt. etableres med terminaler, der gennem lokalnettet trækker på datakraft på  
+
+ de fælles datamater (lokaldatamater).
+Ved etablering af et lokalnet opnår man en meget høj fleksibilitet med  
+
+ hensyn til flytning og nyetablering af arbejdspladser.
+Ulempen ved løsningen  
+
+ er, at der skal afholdes relativt større etableringsomkostninger til  
+
+ kabeltræk og til etablering af udstyr til nettet end ved de øvrige modeller.
+Model 2: Arbejdspladserne forsynes med terminaler, der kobles direkte til  
+
+ en eller flere mindre flerbruger datamater.
+Anvendes der flere datamater  
+
+ kobles disse sammen via et netværk.
+Alle behandlingssystemer, både systemer  
+
+ knyttet til den enkelte arbejdsplads og fælles systemer samt fælles registre  
+
+ og fælles skriveressourcer, etableres på de fælles datamater.
+ Kommunikation mellem de enkelte arbejdspladser sker via datamaterne.  
+
+ Kommunikation til andre enheder samt til fælles og til eksterne faciliteter  
+
+ varetages ligeledes af datamaterne.
+Ved denne model er datakraften samlet og kan derfor let udvides i takt med  
+
+ stigende behov.
+Den enkelte arbejdsplads er relativ billig at etablere, idet  
+
+ omkostninger til terminal og til kabelarbejde er lave.
+ Ulemper ved modellen er mindre fleksibilitet ved ændringer og ved  
+
+ udvidelser med nye arbejdsstationer.
+ Ved udvidelse af datakraften, der kræver installation af ny datamat, kan  
+
+ marginalomkostningerne blive relativt høje.
+Model 3: Arbejdspladserne etableres med arbejdspladsdatamater eller med  
+
+ terminaler.
+Alle arbejdspladser forbindes til en større central datamat.
+På  
+
+ denne datamat etableres typisk større behandlingssystemer med større registre  
+
+ (databaser).
+ Kommunikation til omgivelserne sker via den fælles datamat.
+Afstanden fra den enkelte arbejdsplads til den centrale datamat er normalt  
+
+ stor.
+Installation af kabelforbindelser til arbejdsplads datamater og  
+
+ terminaler kan derfor kræve, særlig planlægning og anvendelse af særligt  
+
+ udstyr.
+Fordelen ved denne model er muligheden for etablering af større  
+
+ systemer varetaget af en central driftsorganisation.
+Ulempen ved modellen er  
+
+ relativt høje omkostninger til etablering af kabelsystem.
+Det kan også være  
+
+ en ulempe, at hele organisationen er afhængig af et centralt system.
+ Valg af model vil være afhængig af den enkelte enheds organisation, krav  
+
+ til funktioner i systemet og krav til fællesfunktioner.
+6. Planlægning af kommunikationssystemer for et  
+
+ ministerområde Indenfor et ministeroruråde bør der ske en overordnet, fælles planlægning  
+
+ omkring etableringen af informationssystemer, idet dette kan være en  
+
+ nødvendig forudsætning for at opnå en hensigtsmæssig sammenhæng mellem de  
+
+ enkelte enheders systemer.
+ For et ministerområde, der har mange fælles databaser og fælles  
+
+ behandlingssystemer, vil det være hensigtsmæssigt at etablere en fælles  
+
+ datamat, som understøtter de fælles systemer og formidler datakommunikation  
+
+ mellem enhederne og datakommunikation til omgivelserne.
+Har ministerområdet kraftig kommunikation mellem enhederne kan der  
+
+ etableres et effektivt datakommunikationsapparat mellem de enkelte enheders  
+
+ systemer.
+Dette kommunikationsapparat kan desuden udbygges med faciliteter  
+
+ til datakommunikation til omgivelserne.
+Hvis flere enheder arbejder på fælles eller overlappende  
+
+ informationsgrundlag bør det overvejes at gennemføre en planlægning omkring  
+
+ etableringen af informationsystemer og datakommunikationssystemer for disse  
+
+ enheder under et.
+Herved opnår man den bedste udnyttelse af de investerede  
+
+ ressourcer.
+ Ønsker man indenfor et ministerområde en høj grad af funktionalitet og  
+
+ sammenhæng mellem de enkelte enheders systemer kan det være hensigtsmæssigt  
+
+ at bruge specifikationer, der følger en enkelt leverandørs produktlinie.
+ Er der kun begrænset kommunikation mellem enhederne indenfor et  
+
+ ministerområde, kan man vælge at lade de enkelte enheder etablere egne  
+
+ datakommunikationsfaciliteter til kommunikation med omgivelserne.
+7. Centraladministrationens fælles  
+
+ datakommunikationssystem For centraladministrationen, det generelle plan, skal der etableres et  
+
+ fælles datakommunikationssystem.
+Dette kommunikationssystem skal sikre, at en  
+
+ enhed kan kommunikere til en anden enhed eller til servicecentre og eksterne  
+
+ interessenter.
+Desuden skal datakommunikationssystemet omfatte en række  
+
+ tjenester, der kan understøtte de grundlæggende behov for datakommunikation.
+ Blandt flere mulige modeller for opbygningen af det fælles  
+
+ datakommunikationssystem er det vurderet, at nettet bør opbygges efter  
+
+ følgende strategi:
+ - Nettet etableres som et transmissionsnet.
+ - Der vælges et begrænset sæt af kommunikationsprotokoller, som kan  
+
+ implementeres i alle tilsluttede enheder.
+ - Nettet etableres dels ved anvendelse af offentlige tjenester, (PætT og  
+
+ teleselskaberne), og dels ved anvendelse af dedikerede netværkskomponenter.  
+
+ Valg af implementeringsform vil afhænge af behov for fleksibilitet og  
+
+ kapacitet samt af økonomi.
+ - Til nettet knyttes en række tjenester, som kan understøtte elektronisk  
+
+ post, filoverførsel, dokumentoverførsel og interaktiv trafik.
+Ved at opbygge nettet efter denne strategi opnås en række fordele:  
+
+ Transmissionsnettet, der er den fysiske forbindelse mellem to enheder, der  
+
+ skal kommunikere, kan i vid udstrækning opbygges ved anvendelse af det  
+
+ eksisterende interne telefonsystem i centraladministrationen.
+I takt med øget  
+
+ behov og stigende trafik kan nettet udbygges med koncentratorer,  
+
+ multiplexerudstyr og switchudstyr.
+Ved kommunikation udenfor  
+
+ centraladministrationen kan de offentlige tjenester, som stilles til rådighed  
+
+ af PætT og teleselskaberne, umiddelbart anvendes.
+ Kommunikationsprotokollerne, der er grundlaget for udvekslingen af data  
+
+ mellem to enheder, etableres som grænseflader i de enkelte enheders systemer.
+Disse protokoller skal vælges i overensstemmelse med internationale  
+
+ standarder, hvor disse findes, eller i overensstemmelse med  
+
+ industristandarder.
+Herved opnås den nødvendige sammenhæng i systemet, og det  
+
+ opnås, at flest mulige leverandører kan levere relevant udstyr.
+ Baggrunden for valg af standarder, samt de konkrete valg beskrives i de  
+
+ følgende afsnit.
+8. Valg af standarder På datakommunikationsområdet findes der endnu ikke et bredt udbud af  
+
+ standard produkter, der tillader, at der kan etableres fleksibel  
+
+ kommunikation mellem udstyr af forskellige fabrikater.
+ Den ideelle situation vil være, at der for datakommunikationsudstyr  
+
+ etableres den samme åbenhed, som idag findes i telefonsystemet, hvor enhver  
+
+ abonnent kan tale med enhver anden abonnent overalt i verden.
+ En række internationale organisationer arbejder for at ændre på denne  
+
+ situation.
+Indenfor ISO, International Standardization Organization, har man  
+
+ opstillet OSI modellen (Open Systems Interconnection). I OSI modellen  
+
+ beskriver man de funktioner, der er nødvendige for at etablere et  
+
+ kommunikationssystem.
+Modellen er opdelt i 7 lag (7 grupper), hvor hvert lag  
+
+ indeholder et specificeret sæt af funktioner, og hvor grænsefladerne mellem  
+
+ hvert lag er entydigt specificeret.
+ Indenfor CCITT, den internationale telefon og  
+
+ telegrafstandardiseringsorganisation, arbejdes der ligeledes med  
+
+ standardisering.
+Denne standardisering har baggrund i teleselskabernes behov for at kunne  
+
+ kommunikere på tværs af landegrænser og i ønsket om at kunne definere  
+
+ verdensomspændende tjenester som f.eks.
+TELETEX.
+ CCITT's anbefalinger er i en række tilfælde sammenfaldende med standarder  
+
+ fra ISO, især med hensyn til OSI.
+Indenfor EF er der ligeledes igangsat aktiviteter med henblik på at fremme  
+
+ udarbejdelse og anvendelse af internationale standarder.
+Formålet med dette  
+
+ arbejde er bl.a at sikre et homogent europæisk hjemmemarked for  
+
+ informationsteknologiske produkter og at sikre en åbning af markedet.
+For at støtte denne udvikling forventes det, at der vil blive vedtaget et  
+
+ EF-direktiv om standardisering inden for informationsteknologi og  
+
+ telekommunikation.
+Dette direktiv vil bl.a. forpligtige til, at der ved  
+
+ offentlige indkøb af informationsteknologi stilles krav om opfyldelse af  
+
+ fælles europæiske standarder.
+ Det er administrationsdepartementets opfattelse, at de fælles europæiske  
+
+ krav baseret på internationale standarder skal indarbejdes i  
+
+ kravspecifikationer ved anskaffelse af informationsteknologi.
+ Arbejdet med udformningen af disse krav og med etableringen af de øvrige  
+
+ forudsætninger for denne udvikling foregår i en række internationale og  
+
+ nationale arbejdsgrupper.
+Administrationsdepartementet vil følge det videre arbejde og gennem  
+
+ samarbejde med standardiseringsorganisationerne og gennem initiativer overfor  
+
+ leverandører på det danske marked sikre, at produkter baseret på de nye krav  
+
+ kan tages i anvendelse, når forudsætningerne er tilstede.
+Det må forventes at  
+
+ tidsrammen for denne udvikling er ca. 3 år, frem til 1988/1989.
+For at sikre sammenhæng mellem udstyr, der anskaffes i mellemperioden frem  
+
+ til de internationale standarder er på plads, har  
+
+ administrationsdepartementet valgt at opstille et sæt anbefalinger for krav  
+
+ til datakommunikationssystemer.
+Disse anbefalinger medtager, hvor det er  
+
+ muligt, eksisterende internationale standarder.
+Herudover er anbefalingerne  
+
+ baseret på udbredte industristandarder.
+ Det er administrationsdepartementets vurdering, at de opstillede  
+
+ anbefalinger for mellemperioden bl.a. vil give følgende fordele:
+ - Udstyr vil blive anskaffet indenfor et afgrænset sæt af muligheder.
+ - Markedet for anskaffelse bliver rimeligt åbent, idet de fleste  
+
+ leverandører kan levere udstyr, der opfylder anbefalingerne.
+ Der opnås en funktionalitet og sammenhæng for datakommunikation, som kan  
+
+ opfylde centraladministrationens generelle behov.
+ - Der vil kunne skabes en sammenhæng mellem de anbefalede  
+
+ datakommunikationsfaciliteter og mellem faciliteter etableret efter de  
+
+ internationale standarder, enten ved videreudvikling af eksisterende  
+
+ faciliteter eller ved etablering af omsætterfunktioner.
+9. Anbefalinger for etablering af generelle  
+
+ datakommunikationsfaciliteter Der skal opbygges generelle datakommunikationsfaciliteter, der kan  
+
+ understøtte kommunikationen internt i centraladministrationen samt mellem  
+
+ centraladministrationen og eksterne interessenter og servicecentre.
+Datakommunikationsnet Der etableres et datakommunikationsnet, som stiller en række  
+
+ datakommunikationstjenester til rådighed for brugerne via veldefinerede og  
+
+ stabile grænseflader.
+ Der etableres uafhængighed mellem datatransmissionstjenesten og de øvrige  
+
+ tjenester i nettet.
+ Datatransmissionstjenesten etableres således, at den fleksibelt kan  
+
+ overføre data mellem 2 brugere uafhængigt af, hvilke data der overføres.
+ Datatransmissionstjenesten etableres med anvendelse af den teknologi og de  
+
+ offentlige transmissionstjenester, som til enhver tid er teknisk og økonomisk  
+
+ optimale.
+På kort sigt anvendes etablerede ressourcer, kabler i det interne  
+
+ telefonsystem, faste linier fra teleselskaberne, det offentlige datanet og det offentlige telefonsystem til at skabe de nødvendige  
+
+ kommunikationsforbindelser.
+ I takt med stigende behov skal udnyttelsen af nettet optimeres gennem  
+
+ anvendelse af koncentratorer, multiplekserudstyr og switchudstyr.
+Elektronisk post Som standard for elektronisk post mellem enheder anbefales TELETEX  
+
+ tjenesten.
+TELETEX er en international tjeneste som markedsføres af teleselskaberne.  
+
+ Tjenesten er baseret på internationale standarder.
+Udstyr, der tilsluttes  
+
+ TELETEX tjenesten, skal være typegodkendt af PætT.
+ TELETEX bør etableres således, at der skabes sammenhæng til enhedens  
+
+ interne elektroniske post system.
+I enhedens kontorautomationssystem skal der være funktioner til afsendelse  
+
+ af teletexmeddelelser, og modtagne teletexmeddelelser skal automatisk kunne  
+
+ videresendes i det elektroniske postsystem.
+For at sikre entydig  
+
+ identifikation af en teletexmeddelelse skal der defineres et standard  
+
+ »brevhoved«, som skrives i den 1. linie i meddelelsen.
+ Når det er muligt at anvende elektronisk post systemer, der er baseret på  
+
+ X.400 standarden, bør denne tjeneste anvendes til elektronisk post, idet det  
+
+ forventes, at TELETEX tjenesten kan fungere i forbindelse med X.400  
+
+ tjenesten.
+Filoverførsel Der etableres et center med en Filmaskine til formidling af filoverførsel.
+Datacentralen planlægger at etablere denne tjeneste.
+Her vil man opbygge  
+
+ de nødvendige centrale funktioner til at varetage tjenesten.
+Der vil  
+
+ ligeledes blive fastlagt stendarder for adressering og for sikkerhed.
+Tjenesten vil blive etableret efter »forward æt collect«  
+
+ princippet.
+Det betyder, at afsenderen sender filen til centeret, hvorefter  
+
+ modtageren kan hente filen.
+Afsender og modtager kan således i princippet  
+
+ benytte hver sin kommunikationsprotokol, blot centeret understøtter disse.
+Der vil blive udarbejdet specifikationer for de decentrale funktioner.
+På  
+
+ basis af disse specifikationer vil leverandører kunne udvikle og tilbyde det  
+
+ nødvendige programmel til kommunikation med filmaskinen.
+ Kommunikation til filmaskinen vil primært blive baseret på  
+
+ kommunikationsprotokollerne IBM 3780 BSC i »»transparent mode«  
+
+ og på IBM SNA/LU 6.2.
+ Det er planlagt, at filmaskinen skal kunne anvendes fra foråret 1987.
+Dokumentoverførsel Dokumentoverførsel baseres på filoverførelsestjenesten.
+ Som standardformat for udveksling af dokumenter anbefales IBM DCA format.  
+
+ Udveksling skal kunne ske både i reviderbart format og i endeligt format.
+ Dette betyder, at en enheds tekstbehandlingssystem skal omfatte en  
+
+ omsætterfunktion, der kan omsætte et dokument fra den interne standard til  
+
+ DCA format og fra DCA format til den interne standard.
+Interaktiv trafik Som standarder for interaktiv trafik mellem enhederne og mellem enhederne  
+
+ og eksterne servicecentre anbefales:
+ 1. DEC/VT100 asynkron, der anvendes mod  
+
+ behandlingssystemer på datamater, der anvender asynkron  
+
+ terminalkommunikation.
+ 2. IBM 3270 (BSC og SNA), der anvendes mod  
+
+ behandlingssystemer på datamater, der anvender synkron terminalkommunikation.
+ Dette indebærer:
+ - at en terminalarbejdsplads i en enhed skal kunne fungere som en 3270  
+
+ terminal mod behandlingssystemer på servicecentre, der anvender IBM  
+
+ centralanlæg.
+ - at en terminalarbejdsplads i en enhed skal kunne fungere som en VT100  
+
+ terminal mod behandlingssystemer på en datamat i en anden enhed.
+ - at en enhed, som vil stille et behandlingssystem til rådighed for  
+
+ brugere i andre enheder, skal etablere en brugergrænseflade i dette system,  
+
+ der kan kommunikere via en VT100 terminalprotokol.
+CPU til CPU trafik Der skal etableres en X.25 tjeneste til direkte kommunikation mellem  
+
+ enheder (CPU til CPU trafik).
+ Planlægning af denne tjeneste, der skal baseres på dedikeret udstyr, vil  
+
+ ske, når behovet opstår.
+ X.25 tjenesten skal etableres således, at der også skabes adgang til den  
+
+ offentlige X.25 tjeneste.
+Etablering af kommunikationsfaciliteter i en enhed Enhederne kan frit etablere edb-systemer med valg af teknologi og  
+
+ leverandør, der passer bedst til enhedens behov for anvendelse af  
+
+ informationsteknologi.
+Etablerer man systemer med grænseflader, der  
+
+ overholder de opstillede anbefalinger, vil man kunne drage nytte af de  
+
+ generelle datakommunikationsfaciliteter.
+ Har man behov for en høj funktionalitet og tæt sammenhæng mellem  
+
+ edb-systemer i flere enheder, bør der vælges systemer fra samme leverandør,  
+
+ eller fra leverandører af kompatible systemer.
+ Til sammenknytning af sådanne systemer kan det overvejes at anvende  
+
+ dedikerede ressourcer, f.eks. faste linier og leverandørspecifikke  
+
+ protokoller.
+Etablering af større transaktionsorienterede systemer Etablering af større transaktionsorienterede systemer med mange  
+
+ terminalarbejdspladser og med udnyttelse af fælles datakraft og store fælles  
+
+ registre bør planlægges og etableres som selvstændige systemer baseret på  
+
+ dedikerede ressourcer.
+10. Andre initiativer Netsekretariat En hensigtsmæssig udbygning af centraladministrationens  
+
+ datakommunikationsfaciliteter vil kræve, at de nødvendige  
+
+ udviklingsaktiviteter bliver planlagt og koordineret i fælles regi.
+ For at sikre at dette kan opfyldes, vil administrationsdepartementet i  
+
+ løbet af 1987 søge at få skabt grundlag for etablering af et netsekretariat,  
+
+ som kan forestå planlægning, implementering og drift afde generelle  
+
+ datakommunikationsfaciliteter.
+ Netsekretariatet skal have ansvaret for driften af nettet helt frem til  
+
+ enhedernes grænseflade mod nettet.
+Det skal være netsekretariatets ansvar, at nettet til enhver tid er  
+
+ implementeret på den teknisk og økonomisk mest fordelagtige måde.
+For at  
+
+ sikre, at dette kan opfyldes, skal netsekretariatet rådgive enhederne i  
+
+ forbindelse med etablering af datakommunikationsudstyr samt kunne give  
+
+ bindende anbefalinger ved valg af udstyr og tjenester.
+ Netsekretariatet skal fungere som et videncenter for datakommunikation.  
+
+ Netsekretariatet bør derfor følge den teknologiske udvikling samt udviklingen  
+
+ inden for den internationale standardisering.
+ Administrationsdepartementet vil søge at varetage disse opgaver, indtil  
+
+ sekretariatet kan etableres.
+Standarder for adressering Det er en forudsætning for at få et datakommunikationssystem til at  
+
+ fungere, at der er fastlagt en entydig standard for adressering.
+Adresseringen skal omfatte alle brugere i systemet.
+Bl.a skal det være  
+
+ muligt at adressere alle enheder og alle personlige arbejdspladser i  
+
+ systemet.
+ Administrationsdepartementet vil gennemføre et projekt, som kan fastlægge  
+
+ en sådan standard og navngivningsprocedure.
+Standard for elektronisk post via TELETEX For at sikre sammenhæng mellem TELETEX systemet og en enheds elektroniske  
+
+ postsystem skal der fastlægges et standard brevhoved, f.eks. som den 1. linie  
+
+ i teletex meddelelsen.
+Denne linie skal bl.a. indeholde en entydig  
+
+ identifikation af afsender og modtager.
+Administrationsdepartementet vil  
+
+ gennemføre et projekt, som kan fastlægge en sådan standard.
+Adgangskontrol og datasikkerhed Det er væsentligt ved anvendelse af datakommunikationssystemer, at der er  
+
+ fastlagt de nødvendige regler omkring adgangskontrol og datasikkerhed.
+Disse  
+
+ forhold er ikke behandlet i foranalyserapporten.
+ Administrationsdepartementet vil igangsætte en foranalyse omkring disse  
+
+ forhold for at få dokumenteret et sæt anbefalinger for adgangskontrol og  
+
+ datasikkerhed.
+Internationale standarder For at sikre, at de internationale standarder på datakommunikationsområdet  
+
+ kan introduceres i centraladministrationens datakommunikationssystemer så  
+
+ tidligt som muligt, vil administrationsdepartementet gennem kontakt til  
+
+ leverandører, standardorganisationer m.fl., holde sig a'jour med arbejdet på  
+
+ standardiseringsområdet og med udviklingen af produkter baseret på  
+
+ internationale standarder.
+Pilotprojekter Der bør gennemføres pilotprojekter omkring etableringen af de generelle  
+
+ datakommunikationsfaciliteter.
+ Disse pilotprojekter skal dels omfatte afprøvning af udstyr til etablering  
+
+ af det interne datatransmissionsnet og dels omfatte afprøvning af udstyr  
+
+ baseret på de internationale standarder, når sådant udstyr er tilgængeligt.
+ Administrationsdepartementet vil søge at skaffe de fornødne ressourcer til  
+
+ gennemførelse af pilotprojekter.
+Henvendelser og spørgsmål vedrørende anbefalinger Henvendelser og spørgsmål vedrørende denne vejledning og vedrørende de  
+
+ opstillede anbefalinger kan rettes til Chefkonsulent Poul Bernt Jensen,  
+
+ administrationsdepartementet, eller til departementets 3. kontor, telefon 01  
+
+ 92 60 00.

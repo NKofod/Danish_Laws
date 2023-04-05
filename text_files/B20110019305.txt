@@ -1,0 +1,78 @@
+Bilag 1 Bilag 2 Bekendtgørelse om indberetning af oplysninger til lægemiddelstatistik I medfør af § 11, stk. 1, nr. 7, § 58, stk. 4, og § 61 d, stk. 2, i lov om apoteksvirksomhed, jf. lovbekendtgørelse nr. 855 af 4. august 2008, som ændret ved lov nr. 100 af 10. februar 2009 samt § 84, stk. 1, i lov nr. 1180 af 12. december 2005 om lægemidler, fastsættes efter bemyndigelse i § 1, stk. 4, i bekendtgørelse nr. 797 af 17. august 2009 om indberetning af oplysninger om omsætning mv. af lægemidler mv.:
+ § 1. Indberetning af omsætningsoplysninger til Lægemiddelstyrelsens lægemiddelstatistikregister i henhold til bekendtgørelse om indberetning af oplysninger om omsætning mv. af lægemidler mv. skal foretages som anført i bilag 1 og 2 til denne bekendtgørelse.
+ § 2. Bekendtgørelsen træder i kraft den 1. april 2011.
+ Stk. 2. Bekendtgørelse nr. 816 af 28. august 2009 om indberetning af oplysninger til lægemiddelstatistik ophæves.
+Lægemiddelstyrelsen, den 14. februar 2011 Jytte Lyngvig / Anne-Marie Vangsted Bilag 1 Beskrivelse af de oplysninger, der skal indsendes til Lægemiddelstyrelsen i elektronisk læsbar form 1. Generelt De indsamlede oplysninger indgår i en lægemiddelstatistikdatabase til brug for udarbejdelse af statistik, analyser, prisindeks og overvågning af lægemiddelsalget i Danmark.
+ Afsnit 2 angiver de tekniske og indholdsmæssige krav til filer.
+Afsnit 3 er en beskrivelse af - og en samlet oversigt over - oplysningerne, der skal indberettes.
+Afsnittet indeholder endvidere en oversigt over de enkelte felters placering i filen, længde og type mv.
+ Afsnit 4 indeholder en oversigt over koder og tabeller.
+2. Krav til indberetningerne 2.1 Indberetningsmåde 2.1.1 Medmindre der forefindes en særlig aftale med Lægemiddelstyrelsen om, at der indberettes på anden måde, skal:
+  apoteker og sygehusapoteker indberette elektronisk til FTP-server via Medicinnettet.
+  forhandlere af receptpligtige lægemidler til produktionsdyr1) indberette elektronisk via FTP.lmsdetail.dk.
+  producenter og forhandlere af radioaktive lægemidler indberette via indtastningsskema på www.lmsdetail.dk.
+  virksomheder, der er indehaver af Lægemiddelstyrelsens tilladelse til forhandling og udlevering af diacetylmorphin2) indberette via FTP.lmsdetail.dk ved anvendelse af SSH File Transfer Protocol (SFTP).
+  øvrige indberetningspligtige indberette elektronisk via FTP.lmsdetail.dk.
+ Ved elektronisk indberetning via www.lmsdetail.dk og til FTP-server via Medicinnettet anvendes et brugernavn og password, der udleveres af Lægemiddelstyrelsen efter anmodning.
+2.2 Indberetningsformater for de månedlige indberetninger 2.2.1 Ved elektronisk indberetning ved brug af FTP Apoteker anvender følgende filnavn:
+NUMFI.MM hvor »NUM» er den indberetningspligtiges nummer (3 cifre, evt. med foranstillede nuller), »FI» er enhedsnummer for underenheder, fx filial eller apoteksudsalg (2 cifre, evt. med foranstillet nul) og »MM» er månedens nummer (2 cifre, evt. med foranstillet nul).
+ Ved indberetning af salg af receptpligtige lægemidler til produktionsdyr, skal indberetningerne af den del af oplysningerne, der 
+ikke
+ indgår i apotekets samlede indberetning (jf. afsnittet ovenfor), ske i én samlet fil med følgende filnavn:
+NUMFI.MMV hvor »NUM« er den indberetningspligtiges nummer (3 cifre, evt. med foranstillede nuller), »FI« er enhedsnummer for underenheder, fx filial eller apoteksudsalg (2 cifre, evt. med foranstillet nul), »MM« er månedens nummer (2 cifre, evt. med foranstillet nul) og »V« betyder, at det er en veterinær indberetning.
+ Forhandlere af receptpligtige lægemidler til produktionsdyr, der ikke er apotek, anvender følgende filnavn:
+NNNNNNNNNN.MMV hvor »NNNNNNNNNN« er forhandlerens P-nummer (10 cifre), »MM« er månedens nummer (2 cifre, evt. med foranstillet nul) og »V« betyder, at det er en veterinær indberetning.
+ Virksomheder, der er indehaver af Lægemiddelstyrelsens tilladelse til forhandling og udlevering af diacetylmorphin, jf. bekendtgørelse om euforiserende stoffer § 7 stk. 1, anvender følgende filnavn:
+NNNNNNNNNN.MMH Hvor »NNNNNNNNNN« er forhandlerens P-nummer (10 cifre), »MM« er månedens nummer (2 cifre, evt. med foranstillet nul) og »H« betyder, at det en indberetning angående diacetylmorphin.
+ 2.2.2 Sker indberetning i henhold til en særlig aftale med Lægemiddelstyrelsen, jf. punkt 2.1, oplyses de specifikke særlige krav til filens udformning ved aftalens indgåelse.
+ 2.2.3 Følgende krav gælder for alle filer med de månedlige indberetninger:
+ Den månedlige fil skal være en tekstfil i ASCII-format (hver linie i filen afsluttes med CR og LF henholdsvis ASCII 13 og ASCII 10).
+ Efter headerlinien følger linievis de i afsnit 3 specificerede oplysninger per ekspederet varenummer (linierne i filen skal have samme længde, jf. afsnit 3.3).
+2.3 Indberetningsformater for de daglige indberetninger af receptpligtige lægemidler til produktionsdyr 2.3.1 Ved elektronisk indberetning ved brug af FTP Apoteker: For den del af omsætningsoplysningerne mv., der håndteres via apotekets primære system, skal apotekerne anvende følgende filnavn:
+ANUMFITYYYYMMDD.DAT hvor »A« betyder, at indberetninger er fra et apotek, »NUM« er den indberetningspligtiges nummer, »FI« er enhedsnummer for underenheder, fx filial eller apoteksudsalg, »T« betyder, at der kommer en tidsangivelse, »YYYY« er årstallet, »MM« er måneden (2 cifre, evt. med foranstillet nul), »DD« er datoen, og »DAT« er filens suffix.
+ Apoteker: For den del af omsætningsoplysningerne mv., der håndteres via et særskilt system for de receptpligtige lægemidler til produktionsdyr, skal indberetningen ske i én samlet fil med følgende filnavn:
+AVNUMFITYYYYMMDD.DAT hvor »A« betyder, at indberetninger er fra et apotek, »V« betyder, at data stammer fra et særskilt system for de receptpligtige lægemidler til produktionsdyr, »NUM« er den indberetningspligtiges nummer, »FI« er enhedsnummer for underenheder, fx filial eller apoteksudsalg, »T« betyder, at der kommer en tidsangivelse, »YYYY« er årstallet, »MM« er måneden (2 cifre, evt. med foranstillet nul), »DD« er datoen, og »DAT« er filens suffix.
+ Forhandlere af lægemidler til produktionsdyr, der ikke er apotek, anvender følgende filnavn:
+NNNNNNNNNNTYYYYMMDD.DAT hvor »NNNNNNNNNN« er forhandlerens P-nummer (10 cifre), »YYYY« er årstallet, »MM« er månedens nummer (2 cifre, evt. med foranstillet nul) og »DD« er datoen (2 cifre, evt. med foranstillet nul).
+ 2.3.2 Indberetningen af de daglige omsætningstal skal være indsendt til Lægemiddelstyrelsen senest den efterfølgende dag kl. 20.00, og indberetningen skal foretages for alle kalenderdage uanset omsætningens størrelse, således at der også indberettes dage med nul omsætning.
+ 2.3.3 Følgende krav gælder for alle filer med de daglige indberetninger:
+Den daglige indberetningsfil skal være en tekstfil i ASCII-format (hver linie i filen afsluttes med CR og LF henholdsvis ASCII 13 og ASCII 10) og indberettes elektronisk.
+ Efter headerlinien følger linievis de i afsnit 3 specificerede oplysninger per ekspederet varenummer (linierne i filen skal have samme længde, jf. afsnit 3.3).
+3. Indberetningspligtige oplysninger 3.1 Generelle bemærkninger Der anvendes samme snitflade vedrørende felterne 1 - 43 for alle indberetningspligtige og for alle typer indberetninger.
+Som de eneste skal sygehusapoteker herudover, også indberette tre ekstra felter, felt 44, 45 og 46.
+ Felter, der ikke kan udfyldes, skal være blanke.
+ Der skal indberettes foranstillede nuller i alle felter, der udfyldes, medmindre andet er angivet.
+ Det er ekspeditionsdatoen, dvs. datoen for gennemført kassetransaktion/debitering, der er afgørende for, hvilken måned ekspeditionen vedrører.
+Alle beløbsfelter og antal pakninger indberettes med negativt fortegn (-) ved tilbageførsler.
+Det eventuelle fortegn placeres i feltets første position.
+Ved udligning af for meget eller for lidt udbetalt medicintilskud indberettes nogle af beløbsfelterne med negativt fortegn.
+Hvis patienten har fået udbetalt for lidt i medicintilskud, indberettes det yderligere tilskud positivt i felt 20, mens tilbagebetalingen til patienten indberettes negativt i felt 17. Korrigeres der samtidig for for meget udbetalt kommunalt tilskud, indberettes tilbagebetaling af kommunalt tilskud negativt i felt 23. Hvis patienten i stedet skal tilbagebetale medicintilskud, indberettes det tilbagebetalte medicintilskud negativt, patientens yderligere betaling positivt og et eventuelt yderligere kommunalt tilskud positivt.
+Ved udligning gælder det, at medicintilskud + patientens egenbetaling + kommunalt tilskud = 0.
+Ved salg af dosisdispenserede lægemidler til enkeltpersoner skal det receptekspederende apotek indberette én linie for hvert lægemiddel (varenummer), som indgår i dosispakningen  herunder hvor mange enheder af hvert lægemiddel, der indgår i pakningen.
+Dosisekspeditionsgebyret og dosispakningsgebyret indberettes på hver sin linie.
+Der anvendes ekspeditionstypen DD og et af varenumrene fra bilag 2.10.
+Ved salg af dosispakninger mellem to apoteker indberetter det apotek, som pakker dosispakningen, den solgte dosispakning på én linie med varenummeret 688000. Afregning af dosispakningsgebyret indberettes ligeledes på én linie.
+Der anvendes ekspeditionstypen SD.
+3.2 Gennemgang af hvad felterne skal udfyldes med Felt 07 udgår Felt 15 er udgået.
+ Felterne 28 - 30 er udgået.
+ Felt 32 er udgået.
+3.3 Oversigt over felternes placering i filen, samt felternes type og længde Positionen i nedenstående feltoversigt angiver felternes placering i filen.
+ Der skelnes mellem to typer felter: N, der er numeriske felter (udelukkende cifre) og A, der er alfanumeriske felter (tekst, eventuelt bogstaver og cifre i kombination). Feltets længde (antal karakterer) følger umiddelbart efter feltets type (fx N4 eller A6).
+3.4 Eksempler på feltudfyldelse Nedenstående tabel viser, hvilke felter der  såfremt oplysninger foreligger  skal udfyldes ved henholdsvis:
+4. Koder og tabeller 4.1 Generelle bemærkninger En række tabeller af mindre omfang er angivet i feltbeskrivelserne i afsnit 3 ovenfor.
+4.2 Øvrige tabeller For apotekeres vedkommende anvendes de gældende apoteksnumre.
+Enhedsnumre til apoteker, filialer og apoteksudsalg skal meddeles til Lægemiddelstyrelsen.
+ Numre på øvrige indberetningspligtige (sygehusapoteker, serumlaboratorier mv.) fastlægges af Lægemiddelstyrelsen.
+ Sundhedsvæsenets Organisationsregister (SOR) anvendes til identifikation af sygehuse og sygehusafdelinger.
+ CPR-registrets myndighedsoplysninger for kommuner og regioner anvendes, hvor kommune eller region skal indberettes.
+Til identifikation af receptudsteder anvendes Danske Regioners identifikation og Sundhedsstyrelsens autorisationsID.
+For dyrlæger anvendes Fødevarestyrelsens autorisationskoder.
+Til identifikation af lægemidler anvendes pakningernes påtrykte varenumre.
+Pakninger uden varenummer tildeles et varenummer af Lægemiddelstyrelsen, jf.
+Bilag 2.
+ Til identifikation af dyrehold anvendes Fødevareministeriets CHR-numre.
+ Til identifikation af indberetteren og salgsstedet anvendes numre fra Det Centrale Virksomhedsregister (henholdsvis CVR-nummer og P-nummer).
+ Til identifikation af indikation for ordinationen anvendes de i Medicinpriser anførte koder (LMS 25). Koderne er identiske med dem, der er anført i Lægeforeningens elektroniske medicinfortegnelse.
+ Til identifikation af dosering for ordinationen anvendes de i Medicinpriser anførte koder (LMS 27). Koderne er identiske med dem, der er anført i Lægeforeningens elektroniske medicinfortegnelse.
+Bilag 2 Varenumre, som skal anvendes ved indberetning af salg af lægemidler, når lægemiddelpakningen ikke er forsynet med et nordisk varenummer eller et særligt varenummer til lægemiddelpakninger fra Amgros og Danmarks Apotekerforening, samt varenumre til brug ved indberetning af gebyrer, udligning af tilskud mv.
+ Listen opdateres jævnligt, og en opdateret liste i elektronisk form kan fås ved henvendelse til Lægemiddelstyrelsen, Statistik og Analyse. Ønskes varenumre til nye produkter skal henvendelse ligeledes ske hertil.

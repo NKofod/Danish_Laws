@@ -1,0 +1,750 @@
+IKKE-AUTOMATISKE VÆGTE Dette direktiv supplerer ALMINDELIGE BESTEMMELSER FOR VÆGTE ved  
+
+ godkendelse og justering i henhold til bestemmelserne i justerreglementet af  
+
+ 1. marts 1950 ved at sammenfatte en række almindelige bestemmelser gældende  
+
+ for vægte med elektroniske indretninger.
+ Direktivet indeholder også en række bestemmelser (markeret ved  
+
+ indramning), som træder i kraft senere (se pkt. 14).
+ Bestemmelserne er udarbejdet som et overensstemmende uddrag af TDIR nr.  
+
+ 24.11.1-01 (anført i bilag 1) og -02, idet det endelige mål er, at der kun  
+
+ skal foreligge eet sæt bestemmelser for ikke-automatiske vægte med  
+
+ elektronik.
+INDHOLDSFORTEGNELSE 1. GENERELT 2. AFGRÆNSNINGER AF VEJESYSTEMETS LEGALE DEL 3. MÅLEPÅLIDELIGHED 4. PÅVIRKENDE OG FORSTYRRENDE FAKTORER 5. OPVARMNINGSPERIODE 6. VEJERESULTATER 7. NULSTILLING 8. TARA 9. TRYKNING OG ANDEN REGISTRERING 10. VEJECELLER 11. SPECIELLE VEJEINDRETNINGER 12. PÅSKRIFTER OG PLOMBERINGER 13. INSTALLATION 14. IKRAFTTRÆDEN BILAG 1 1. GENERELT Dette direktiv supplerer ALMINDELIGE BESTEMMELSER FOR VÆGTE med  
+
+ fastsættelse af almindelige metrologiske og tekniske retningslinier for vægte  
+
+ og supplerende udstyr, hvori elektroniske indretninger helt eller delvis  
+
+ indgår eller tilsluttes.
+ Formålet er at sikre, at disse elektroniske indretninger fungerer stabilt  
+
+ og under ingen omstændigheder giver anledning til betydningsfulde fejl i  
+
+ måleresultaterne.
+ I dette direktiv forstås ved en elektronisk indretning en del af et  
+
+ måleinstrumant (vægt eller vejesystem) eller af et supplerende udstyr,  
+
+ indeholdende mindst en elektronisk komponent og udførende en selvstændig  
+
+ målefunktion i instrumentet.
+ Definitioner og termonologi, som er anvendt i dette direktiv uden nærmere  
+
+ redegørelse, vil i almindelighed være angivet i tilknyttede tekniske  
+
+ direktiver.
+2. AFGRÆNSNINGER AF VEJESYSTEMETS LEGALE DEL 2.1. Justerpligtig del Den justerpligtige del af vejesystemet, herefter kaldet primærdelen, skal  
+
+ normalt være afgrænset ved fastlæggelse af en eller flere primærangivelser  
+
+ samt ved den fysiske udstrækning af de indeholdte hovedkomponenter.
+2.1.1. Primærangivelser 2.1.1.1. Visning, som udgør den måleteknisk første og umiddelbart ved  
+
+ måleforstærkerdelen synlige angivelse af massen samt i givet fald prisen.
+ Ved vægte med tosidige visninger betragtes disse som sideordnede  
+
+ angivelser.
+ 2.1.1.2. Trykt dokumentation, som er bestemt for de kontraherende parter,  
+
+ overensstemmende med visningen og trykt samtidigt med denne.
+2.1.2. Primærdelens fysiske udstrækning Denne må udgøre omkring 2 m, og alle afgivne primære måleresultater skal  
+
+ kunne ses samtidigt.
+ Herfra er undtaget underpartsinstallationer med vejeceller uden  
+
+ måleforstærker.
+2.2. Ikke-justerpligtig del De ikke-justerpligtige dele af vejesystemet benævnes sekundært udstyr.
+2.3. Tilslutningsmulighed for sekundært udstyr Sekundært udstyr skal være galvanisk og fysisk adskilt fra primærdelen.  
+
+ Den galvaniske adskillelse tilhører primærdelen og skal være placeret enten  
+
+ internt i primærdelens hovedenhed (visningsenhed) eller eksternt ved fysisk  
+
+ sammenbygning med denne.
+ Ved intern placering skal det så vidt muligt tilstræbes, at de  
+
+ elektroniske indretninger, som udgør den galvaniske adskillelse, monteres  
+
+ eller anbringes på en sådan måde, at størst mulig separation fra de øvrige  
+
+ primære elektroniske indretninger opnås.
+ Strømforsyning til sekundært udstyr samt til den galvaniske adskillelses  
+
+ sekundære side må ikke være anbragt i primærdelen.
+ Elektroniske indretninger, som anvendes til processtyringsformål af  
+
+ sekundær art, må ikke placeres i primærdelen.
+3. MÅLEPÅLIDELIGHED 3.0. Målepålidelighed for et måleinstrument, der er forsynet med  
+
+ elektroniske indretninger, er dets evne til at opfylde de tekniske og  
+
+ metrologiske krav, som stilles til det.
+3.1. Målepålidelighed Måleinstrumenter eler supplerende udstyr, som er forsynet med elektroniske  
+
+ indretninger, skal have den målepålidelighed, som kræves til den anvendelse,  
+
+ hvortil de er bestemt.
+ Denne pålidelighed kan sikres ved en tilstrækkelig målebestandighed samt  
+
+ måle- og funktionssikkerhed.
+3.2. Målebestandighed Ændringer i måleinstrumentets præstationsdata, som følge af tidens og  
+
+ omgivelsesmiljøets indflydelse på de anvendte komponenter, må i forløbet af  
+
+ en prøvningsperiode ikke kunne antage en sådan størrelse, at  
+
+ justertoleranceværdierne bliver overskredet.
+ Der skal i rimelig grad være redegjort, eller givet dokumentation for, at  
+
+ almindelig degradation i måleinstrumentets præstationsdata, udgående fra  
+
+ almindeligt anerkendte komponent- og underleverandørers toleranceangivelser i  
+
+ de anvendte underenheders specifikationer, ikke kan påvirke  
+
+ systemnøjagtigheden uakceptabelt.
+3.3. Måle- og funktionssikkerhed Måle- og funktionssikkerheden kan opnås ved en af følgende metoder:
+- kontrolindretninger - hensigtsmæssig og langtidsholdbar konstruktion - kombination af de to ovennævnte metoder.
+4. PÅVIRKENDE OG FORSTYRRENDE FAKTORER 4.0. Fejlfunktion og strømforsyningssvigt De elektroniske indretninger skal fungere stabilt og ikke give anledning  
+
+ til betydningsfulde fejl i måleresultaterne.
+ 4.0.1. Ved fejl forstås svigt eller utilsigtet ændring i den elektroniske  
+
+ indretnings måle- og funktionsdygtighed på grund af brud (fejl) i komponenter  
+
+ eller deres forbindelser, eller af udefra kommende forstyrrelser.  
+
+ Forstyrrelser af denne art, som kommer fra strømforsyningen, vil blive  
+
+ benævnt strømforsyningssvigt.
+ 4.0.2. Ubetydelige fejl er fejl, som ikke giver anledning til  
+
+ unøjagtigheder, eller fejl, som forårsager unøjagtigheder i måleresultatet,  
+
+ der er mindre end de i JUSTERREGLEMENTET angivne.
+ 4.0.3. Betydningsfulde fejl er fejl, der ikke er omfattet af 4.0.2.
+ 4.1. Vægte, som er i normal drift kan forventes at blive anvendt i  
+
+ nærheden af særlige elektriske- eller elektromagnetiske forstyrrelseskilder,  
+
+ f.eks. motorkøretøjer eller elektrosvejseapparater, må ikke fejlfunktionere,  
+
+ når de udsættes for disse forstyrrelser.
+4.2. Strømforsyningssvigt 4.2.1. Strømforsyningssvigt skal altid udløse en tydelig markering af  
+
+ hændelsen, enten ved helt at hindre en resultatangivelse eller ved, at  
+
+ resultatangivelser og statusindikationer fremstår på en sådan måde, at der  
+
+ ikke kan ske forveksling med et sandsynligt resultat.
+ 4.2.2. Vægte med netspændingsforsyning.
+ 4.2.2.1. Vægte, som anvender netspændingsforsyning, må ikke  
+
+ fejlfunktionere, når de udsættes for påvirkende og forstyrrende faktorer som  
+
+ angivet i TDIR nr. 24.11.1-01, pkt. 8 i bilag 2, samt følgende:
+4.2.2.2. Netspændingsafbrydelser eller -reduktioner - tidsintervallet mellem to på hinanden følgende prøvninger skal være  
+
+ mindst 10 s.
+4.2.2.3. Transienter Transiente overspændinger med vilkårlig fase og henholdsvis positiv og  
+
+ negativ polaritet skal tilføres systemet.
+ Disse transienter skal afgives symmetrisk (seriesmode) og assymmetrisk  
+
+ (common-mode) fra en generator med en impedans på 50 ohm.
+ Amplitude, stigetid, varighed og repetitionsrekvens skal være følgende:
+4.2.3. Vægte med batterispændingsforsyning 4.2.3.1. Vægte, som anvender batterispændingsforsyning, må ikke  
+
+ fejlfunktionere, når de udsættes for påvirkende og forstyrrende faktorer, som  
+
+ angivet i TDIR nr. 24.11.1-01, pkt. 8 i bilag 2.
+ 4.2.3.2. Disse vægte skal endvidere opfylde en af følgende to betingelser:
+ - fejlfunktionering må ikke forekomme ved variationer i batterispændingen  
+
+ fra minus 50 pct. til plus 30 pct. af den nominelle værdi.
+ - der skal forefindes en spændingsovervågningsindretning, som skal kunne  
+
+ umuliggøre vejning uden for det i ovennævnte TDIR fastlagte område.
+ 4.2.3.3. Når der anvendes batterispændingsforsyning, må der kun tilsluttes  
+
+ primære dele hertil under vejningen.
+4.2.4. Vægte med nødstrømsforsyning 4.2.4.1. Vægte, hvor anvendelsen af nødstrømsforsyning er påkrævet, skal  
+
+ være således inderettet, at overgangen til denne ikke medfører  
+
+ fejlfunktionering i vægtene.
+4.2.4.2. Vægte, som anvendes til målinger, som ikke kan gentages, f.eks.  
+
+ ved receptvejning, skal være indrettet med nødstrømningsforsyning, som skal  
+
+ være i funktion ved afbrydelser i strømtilførslen og således, at  
+
+ fejlfunktionering herfra normalt ikke kan forekomme.
+Nødstrømsforsyningens  
+
+ kapacitet skal muliggøre, at måleresultatet kan huskes i mindst 10 min. og  
+
+ aflæses evt. ved hjælp af trykknap i mindst 15 s.
+Dette skal kunne gentages  
+
+ mindst hver fjerde time.
+ Vejningen må, efter strømforsyningens tilbagevenden til normale forhold,  
+
+ kun kunne fortsættes efter en manuel indgriben fra brugerens side.
+4.3. Galvanisk adskillelse - sekundært udstyr Vægte, som tilsluttes sekundært udstyr, må ikke fejlfunktionere som følge  
+
+ af udefra kommende tilslutningseffekter, idet primærdelen i sådanne tilfælde  
+
+ skal være afsluttet med skillekredsløb, som bevirker en galvanisk adskillelse  
+
+ mellem primærdelen og sekundært udstyr.
+ De nævnte tilslutningseffekter kan bl.a. være følgende:
+- fejltilslutninger med eller uden evt. efterfølgende skadevirkninger på  
+
+ skillekredsløb - elektriske forstyrrelser som følge af induktive eller kapacitive  
+
+ koblinger mellem primærdel og sekundært udstyr.
+ Signaltransmission fra sekundært udstyr til primærdelen må ikke kunne  
+
+ påvirke primærvisning, primærtrykning eller anden primær registrering.
+5. OPVARMNINGSPERIODE 5.0. Opvarmningsperioden er det længste tidsinterval, der strækker sig fra  
+
+ indkobling af forsyningsspændingen, med vægten i uopvarmet tilstand, og  
+
+ indtil en sådan egentemperatur (termisk balance) er opnået, hvor  
+
+ nulstillingsindikatoren inden for plus/minus 1/4 deling og vægtvisningen  
+
+ inden for telerancevædierne er blevet stabile.
+ Opvarmningsperiodens længde fastsættes i overensstemmelse med det  
+
+ godkendte brugsmiljø for vægten.
+ 5.1. I opvarmningsperioden må der ikke kunne vises eller registreres  
+
+ værdier, der kan opfattes og anvendes som sande måleresultater.
+ 5.2. Frakobling af forsyninsspændingen, i en periode længere end den tid  
+
+ det tager for vægten at ændre nulstillingsindikatonen mere end plus/minus 1/4  
+
+ deling og vægtvisningen udover toleranceværdierne, skal medføre en ny  
+
+ opvarmningsperiode, medmindre særlige foranstaltninger er taget herimod.
+ 5.3. Alternativet til opfyldelse af de tekniske krav til  
+
+ opvarmningsperioden kan indtil videre være, at der på et iøjnefaldende sted  
+
+ ved påskrift bliver angivet den nødvendige opvarmningstid.
+6. VEJERESULTATER 6.0. Alle udgangsdata, som anses for gyldige i retslig måleteknisk  
+
+ forstand, kaldes primærangivelser.
+ Primærangivelsen kan omfatte angivelsen af den målte størrelse i form af  
+
+ en visning, trykning eller registrering samt evt. en funktion af denne  
+
+ størrelse.
+ 6.1. Vægte, som kan lagre måleværdier henholdsvis værdier afledt eller  
+
+ beregnet heraf, skal være forsynet med statusindikation for lagringen.
+ 6.2. Såfremt der vises negative vægtværdier skal disse være forsynet med  
+
+ minustegn.
+ 6.3. Visning skal være umulig over maksimumslasten plus 9 delinger.
+ Afgivelse af måleresultater via et evt. udgangsstik skal ligeledes  
+
+ samtidig være umulig.
+ 6.4. Decimalinddelingsmærker skal være udført og placeret på en sådan  
+
+ måde, at fejlaflæsning ikke kan ske.
+6.5. Vægte, som indeholder summationsregistre for totaludregning pr. kunde  
+
+ (vægt) , må under een ekspedition kun kunne indregne resultatet af hver  
+
+ enkelt vejning een gang i forbindelse med totaludregningen.
+Dette gælder for  
+
+ såvel visning som for trykning.
+Hvis der på visningsenheden i forbindelse med totaludregning kun finder  
+
+ visning sted, skal visningsindretningen angive antallet af delresultater, som  
+
+ indgår i det samlede resultat.
+Sådanne delresultater må ikke kunne annulleres  
+
+ eller ændres enkeltvis efter at have været indeholdt i summationsregistre.
+ Det skal på vægten tydeligt fremgå, om en transaktion er udtryk for  
+
+ enkeltposteringer, summation eller total.
+ 6.6. Primærvisninger må under normal vejning ikke kunne erstattes eller  
+
+ sammenblandes med andre visninger ved hælp af omskiftningsindretninger.  
+
+ Således er det ikke tilladt at anvende vægtvisningsindretninger til andre  
+
+ formål end brutto-, netto eller taravisninger.
+ 6.7. Vægtvisningen skal være frit flydende.
+ Det er dog tilladt at fastholde vejeresultatet momentant i et  
+
+ registreringsøjeblik.
+7. NULSTILLING 7.0. Nulstillingsindretninger, oversigt:
+ 7.0.1. Ikke-automatisk (manuel) nulstillingsindretning.
+ Indretning til at opnå nulstillingsindikation og/eller -visning, som  
+
+ kræver indgreb af operatør (f.eks. potentioneter).
+ 7.0.2. Halv-automatisk nulstillingsindretning.
+ Indretning til at opnå nulstillingsindikation og/eller -visning ved manuel  
+
+ operation af en elektronisk kontrol (f.eks. tryktaste).
+ 7.0.3. Automatisk nulstillingsindretning.
+ Indretning til at opnå eller opretholde nulstillingsindikation og/eller  
+
+ -visning uden indgreb fra en operatør.
+ 7.0.3.1. Nulstilling ved indkobling af spændingsforsyningen til vægten.
+ 7.0.3.2. Nulstilling ved fjernaktivering af en kontaktfunktion.
+ 7.0.3.3. Nulindtrækning, som stopper, når vægtangivelsen ikke er nul.
+ 7.0.3.4. Nulindtrækning, som kan fortsætte, selvom vægtangivelsen ikke er  
+
+ nul.
+ 7.0.4. Automatisk nulkorrektionsindretning, som automatisk foretager  
+
+ korrektion af måleresultatet for nulpunktsfejl.
+ 7.1. Der skal altid forefindes en nulstillingsindretning.
+ 7.2. Der skal normalt altid forefindes en indretning til  
+
+ nulstillingskontrol.
+ Denne indretning skal klart angive enhver afvigelse fra nul, som er større  
+
+ end 1/4 deling.
+ 7.3. Nulstillingsindretninger skal være stabile og ufølsomme overfor  
+
+ utilsigtede påvirkninger eller berøringer, f.eks. ved særlige  
+
+ sikringsforanstaltninger.
+ 7.4. Rodetektor og nulstillingskredsløb skal være sammenføjede således, at  
+
+ brugen af nulstillingsindretninger forhindres, når vægten ikke er faldet  
+
+ tilstrækkeligt til ro.
+7.5. Nulstillingsfunktion og -betjening må ikke kombineres med andre  
+
+ betjeningsfunktioner.
+Dog tillades eventuelle kontrolfunktioner kombineret  
+
+ hermed.
+ 7.6. Vægte, som arbejder efter incrementalprincippet, skal være udført med  
+
+ et referencenulpunkt på kodeskiven, såfremt forstyrrelser i  
+
+ spændingsforsyningen kan medføre, at sådanne vægte kan fejlfunktionere.
+ Efter strømforsyningssvigt skal en sådan vægt ikke kunne angive  
+
+ vejeresultatet, før referencenulpunktet er fikseret.
+ 7.7. Det samlede virkeområde fra flere nulstillingsindretninger må ikke  
+
+ overstige 4 pct. af vægtens kapacitet.
+ 7.8. Vægte med halv-automatisk eller automatisk nulstillingsindretning må  
+
+ efter et strømforsyningssvigt, og under samtidig belastning af vejeladdet,  
+
+ ikke kunne vise, trykke eller registrere vægtværdier, før en fuldstændig  
+
+ aflastning har fundet sted.
+ 7.9. Vægte med automatiske nulstillingsindretninger.
+ 7.9.1. Vægten skal normalt også være forsynet med ikke-automatisk eller  
+
+ halv-automatisk nulstillingsindretning.
+ 7.9.2. Vægten skal ikke kunne indlede eller fortsætte en automatisk  
+
+ nulindtrækning under tilstedeværelse af en taraeffekt.
+ 7.9.3. Den regulerende størrelse, d.v.s. den trinvise ændring af  
+
+ måleværdien, må højst udgøre 1/4 deling ved automatisk nulindtrækning.
+ 7.9.4. Automatisk nulindtrækning, som kan fortsætte, selvom vægtangivelsen  
+
+ ikke er nul, skal kunne frakobles under prøvning.
+ Frakoblingsindretningen skal være indrettet for værktøjsbetjening.
+ 7.9.5. Nulstillingsområdet for en automatisk nulstillingsindretning, som  
+
+ ovenstående, må ikke overstige vægtens mindste lovlige vejeområde (min.).
+ 7.9.6. Automatisk nulstillingsindretning udført med nulindtrækning skal  
+
+ have en til formålet afpasset tidskonstant, d.v.s. antal delingsændringer pr.  
+
+ tidsenhed.
+ 7.10. Automatiske nulstillingsindretniner, bortset fra indretninger, som  
+
+ opnår nulstillingsindikation og/eller -visning ved indkobling af  
+
+ spændingsforsyningen, samt automatiske nulkoblingsindretninger skal have  
+
+ særlig godkendelse.
+8. TARA 8.0. Tara-indretninger, oversigt:
+ 8.0.1. Ikke-automatisk taraindretning, som kan indstilles af operatøren.
+Denne kan f.eks. være udført som - drejeknap med potentiometer: Ugraderet størrelse - cifferomskifter: Graderet størrelse - digitaltaste: Graderet størrelse i repeteer- og opsummeerbare faste  
+
+ spring - numerisk tastatur: Graderet størrelse - trykknap: Graderet størrelse med fast værdi.
+ 8.0.2. Halv-automatisk taraindretning, som ikke kan indstilles af  
+
+ operatøren.
+ Trykknap som aftarerer belastning på vejelad ved nulstilling af  
+
+ visningsindretning: Ugraderet størrelse.
+ 8.0.3. Automatisk taraindretning, som gennemfører tareringen uden manuel  
+
+ indgriben.
+ 8.1. Taraindretningen inklusive evt. supplerende indretninger skal til  
+
+ enhver tid. også efter strømforsyningssvigt, have klar og entydig  
+
+ overensstemmelse med arten af det viste vejeresultat.
+ 8.2. Vægte med taraindretning skal være forsynet med statusangivelse  
+
+ (lampe, separat visningsindretning eller lign.), som angiver effekt og/eller  
+
+ tilstedeværelse af en taraværdi, når denne vedrører en igangværende vejning.
+ 8.3. Tarafunktioner (effekt og betjeningsindretning) skal markeres klart  
+
+ og tydeligt ved påskriften: TARA eller T.
+ 8.4. Vægte med taraindretning skal, under indflydelse af en taraeffekt,  
+
+ angive negative værdier, såvidt muligt ved minustegn, hvis belastningen på  
+
+ vejeladdet bliver mindre end den lagrede taraværdi.
+ 8.5. Vægte, som er forsynet med taraindretning, skal tillige have en  
+
+ separat nulstillingsindretning.
+ Undtagelse herfra kan være vægte til særligt formål.
+ 8.6. Taraeffekter skal kunne ophæves efter hver vejning, men kun efter  
+
+ fjernelse af bruttobelastningen fra vejeladdet og uden at gøre brug af  
+
+ afbrydelse i strømforsyningen.
+ 8.7. Strømforsyningssvigt skal medføre, at taraindhold samt  
+
+ statusangivelse herfor bliver slettet, medmindre særlige foranstaltninger er  
+
+ taget herimod, f.eks. anvendelse af ikke-flygtig hukommelse,  
+
+ nødstrømsforsyning eller lign.
+ Hvis vægten, efter en utilsigtet afbrydelse i spændingsforsyningen eller  
+
+ efter et strømforsyningssvigt, uden en manuel indgriben kan fortsætte  
+
+ vejningen, må dette ikke samtidig kunne medføre en utilsigtet eller fejlagtig  
+
+ tarering.
+8.8. Ikke-automatisk ugradeet taraindretning er tilladt, alene eller  
+
+ sammen med andre typer af taraindretninger.
+Der må dog højst forekomme een  
+
+ ikke-automatisk ugraderet taraindretning på samme vægt.
+Taraindretningen skal  
+
+ være udført således, at taraværdien, efter påbegyndt nettovejning, kan  
+
+ angives i visningsindretningen evt. som negativ værdi efter vejningen.
+ 8.9. Ikke-automatisk taraindretning udført med cifferomskiftere skal enten  
+
+ indeholde fejlsikkerhed med tilhørende fejlindikation eller være suppleret  
+
+ med en separat visningsindretning.
+ 8.10. Ikke-automatisk taraindretning udført med digital taste eller  
+
+ numerisk tastatur skal være indrettet således, at det kun er muligt at  
+
+ indstille eller ændre taraværdier, når vejeladdet er ubelastet, medmindre,  
+
+ der forefindes en separat visningsindretning for taraværdier.
+ Hvis der ikke eksisterer en sådan visningsindretning, skal den anvendte  
+
+ taraværdi være angivet som negativ værdi efter vejningen.
+ 8.11. Ikke-automatisk graderet taraindretning (trykknap) skal have  
+
+ taraværdien angivet i masseenheder på et synligt sted enten ved  
+
+ betjeningsindretningerne, i eller ved resultatangivelsen eller ved et  
+
+ supplerende skilt.
+ 8.12. Halv-automatisk taraindretning skal være udført således, at  
+
+ taraværdien, efter påbegyndt nettovejning, kan angives i visningsindretningen  
+
+ evt. som negativ værdi efter vejningen.
+8.13. Flere taraindretninger er tilladt, men disse må ikke kunne anvendes  
+
+ samtidigt, og det skal fremgå entydigt, hvilken taraindretning, der er i  
+
+ brug.
+Se dog pkt. 8.8.
+ Undtaget herfra er vægte til særligt formål, f.eks. receptvejning.
+8.14. Ekstern tara er kun tilladt som sekundært udstyr, og kommunikation  
+
+ af taraværdier må ikke kunne forekomme herfra til primærdel.
+Ved ekstern tara  
+
+ forstås en indretning til indstilling af taraværdier, der ikke er monteret i  
+
+ den primære vejeenhed, men tilsluttet hertil med kabelforbindelse eller lign.  
+
+ Dette omfatter ikke de i pkt. 8.15. omtalte indretninger.
+ 8.15. Eksterne til- og frakoblingsindretninger for ind/ud styring af  
+
+ ikke-automatisk eller halvautomatisk taraindretning i primærdel er kun  
+
+ tilladt, såfremt:
+- de ikke forringer støjimmuniteten i primærdelen - de er placeret således i forhold til primærdelen, at det primære  
+
+ vejeresultat uhindret kan aflæses fra betjeningsstedet - de er separat anbragt, d.v.s. fysisk adskilt, uden sammenblanding med  
+
+ sekundært udstyr.
+ 8.16. Halv-automatisk og automatisk taraindretning må kun kunne adtiveres,  
+
+ når vægten er i ro.
+ 8.17. Automatisk taraindretning skal have særlig godkendelse.
+9. TRYKNING OG ANDEN REGISTRERING 9.0. Ved registrering forstås en lagring af data på et ikke-flygtigt  
+
+ medium f.eks. papir, magnetbånd, magnetplade, fotografisk film m.m.
+ Registreringsindretninger til lagring af data på papir i klar skrift vil i  
+
+ det følgende blive benævnt trykværker, uderforstået primære trykværker.
+ 9.1. Trykning af måleresultater og heraf afledede skal være klare og  
+
+ utvetydige.
+ 9.2. Fejlbetjening af trykværk må ikke kunne udløse fejlagtige resultater,  
+
+ som kan forekomme at være troværdige.
+ 9.3. Trykning må ikke finde sted, før vægten er faldet tilstrækkeligt til  
+
+ ro.
+ 9.4. Trykning og visning skal altid være i indbyrdes overensstemmelse  
+
+ inden for toleranceværdierne.
+ 9.5. Vejeresultater, som er direkte resultat af en igangværende vejning,  
+
+ skal trykkes med tilsvarende enhedstegn.
+ 9.6. Trykning af angivelser afledt af vejeresultater skal være markeret  
+
+ med en klar angivelse af relationen f.eks. kr./kg og kr.
+ 9.8. Negative vægtværdier skal ved trykning være forsynet med minustegn  
+
+ og/eller afvigende farve.
+10 VEJECELLER (Strain Gauge type) 10.1. Vejeceller skal være af almindeligt anerkendte og gennemprøvede  
+
+ fabrikater og typer.
+ 10.2. Vejeceller skal dimensioneres således, at vejecellekapaciteten  
+
+ eller, ved sammensætning af flere vejeceller, summen heraf svarer til mindst  
+
+ 100 pct. af vægtkapaciteten plus forbelastning, dog for brovægte 150 pct., og  
+
+ normalt 300 pct.
+ 10.3. Vejeceller skal kunne modstå belastninger til mindst 150 pct. af den  
+
+ nominelle vejecellekapacitet uden at påvirke kalibreringerne permanent.
+ 10.4. Ved parallelkobling af vejeceller skal den tilhørende strømforsyning  
+
+ være dimensioneret til den nødvendige effektafgivelse.
+11. SPECIELLE VEJEINDRETNINGER 11.1. Vægte med flere vejelad Omskiftningsindretninger, som anvendes til omskiftning mellem, eller  
+
+ sammenkobling af, flere vejelad til een visningsenhed, er tilladt såfremt:
+- der ikke kan trykkes eller registreres under omskiftningen - det, såvel af primær visning som primær trykning og registrering ad  
+
+ automatisk vej, tydeligt fremgår hvilket vejelad, der er i brug.
+- der forefindes separate kalibreringskredsløb, herunder  
+
+ nulstillingsindretninger, for hvert vejelad således, at en ændring i et af  
+
+ kredsløbene ikke kan påvirke kalibreringen af de andre - hvert af kalibreringskredsløbene, herunder forbindelseskabler, som kan  
+
+ indvirke på kalibreringerne, bliver mærket hensigtsmæssigt til identifikation  
+
+ af hvilket vejelad, kredsløbet kontrolleret - der ikke kan ske en uhensigtsmæssig sammenblanding af måleresultater,  
+
+ herunder taraeffekter og taraværdier fra de enkelte vejelad.
+ 11.2. Vægte med elektronisk måleområdeskift skal have særlig godkendelse.
+11.3. Kombineret mekanisk/elektronisk visning Vægte, som består af et vejelad med et mekanisk viserhoved (kontinuerlig  
+
+ visning) og herudover er suppleret med tilkobling til en elektronisk  
+
+ visningsenhed (diskontinuerlig visning) er tilladt efter følgende alternative  
+
+ muligheder:
+- den mekaniske visning er eneste primærvisning og skal mærkes som sådan  
+
+ ved tydelig påskrift - begge visninger er primære, men de må ikke kunne vise måleresultater  
+
+ samtidig - den elektroniske visning er primær, og det mekaniske viserhoved skal  
+
+ være afblændet.
+ 11.4. Vægte med prisudregning.
+ 11.4.1. Betjeningsfunktioner, som anvendes i forbindelse med  
+
+ prisudregning, skal være klare og eentydige.
+11.4.2. Prisindstillingsindretninger, som ikke er sammenbygget med den  
+
+ primære visningsenhed, kan henregnes under primærdelen.
+Der må dog ikke ske  
+
+ nogen sammenblanding med sekundært udstyr.
+11.4.3. Visning af enhedspris og udregnet pris skal normalt være slettet,  
+
+ enten - når en vare bliver fjernet fra vejebladet, eller - før en ny vare bliver vejet og dens pris udregnet.
+ Det er dog tilladt at kunne fastholde en indtastet enhedspris, såfremt  
+
+ dette bliver indikeret særskilt og tydeligt.
+ 11.4.4. Prisudregning skal altid være i overensstemmelse med tilhørende  
+
+ vejeresultat og enhedspris.
+ Prisvisning og vægtvisning skal fremstå sammenhørende.
+12. PÅSKRIFTER OG PLOMBERINGER 12.1. Vægte med maksimumlast over 30 kg.
+ Underparter, som ikke er mekanisk fast forbundet med den primære vejeenhed  
+
+ og som befinder sig mere end ca. to meter fra denne, skal være udrustet med  
+
+ et skilt, som giver tilstrækkelige oplysninger om den pågældende underpart.  
+
+ Skiltet skal anbringes på et let tilgængeligt sted og sikres med 18 mm  
+
+ plombe, som stemples med justernummer samt justermærke med årstal.  
+
+ Skiltepåskriften kan f.eks. være følgende:
+ Systembetegnelse, kapacitet, underpart type, omsætningsforhold,  
+
+ forbelastning, vejecellefabrikat og -type, vejecellekapacitet og antal,  
+
+ samleboksantal.
+ 12.2. Udgangsstik i primærdelen.
+ 12.2.1. Udgangsstik til supplerende udstyr skal, under tilstedeværelse af  
+
+ galvanisk adskillelse anbragt i primærdelen, være markeret ved påskrift på  
+
+ skilt, som kan plomberes og stemples med justermærke.
+ Påskriften på et sådant skilt kan være: Galvanisk adskilt.
+ 12.2.2. Udgangsstik uden tilhørende galvanisk adskillelse kan kun anvendes  
+
+ til primære dele, og kun såfremt bestemmelserne herfor er overholdt.
+12.4. Visningsenhed Analogdele og øvrige indretninger, som kan have indflydelse på  
+
+ vægtkalibreringen, skal altid være sikkerhedsplomberede.
+Vægte, som  
+
+ indeholder mikroprocessorkomponenter med programmerbare komponenter af PROM  
+
+ typen eller lign., skal være sikkerhedsplomberede imod ombytning af disse.
+ så vidt muligt skal vægte være forberedt for totalplombering.
+12.5. Galvanisk adskillelse Galvanisk adskillelse, som er placeret eksternt i forhold til primærdelens  
+
+ hovedenhed, skal være plomberet som nævnt under pkt. 12.3.
+ 12.6. Vejeceller og samlebokse.
+ Disse skal altid være sikkerhedsplomberede.
+ 12.7. Justerpåskrifter.
+ Justerpåskrifter skal altid være sikkerhedsplomberede, enten ved  
+
+ plombering af skalaplader, som indeholder justerpåskrifter, eller ved  
+
+ plombering af et synligt anbragt, særligt skilt, hvorpå justerpåskrifterne,  
+
+ overensstemmende med skalapladernes justerpåskrifter, er anført.
+13. INSTALLATION 13.1. Vejeladdets overskuelighed Vejeladdet skal normalt altid kunne overses fra det sted, hvor de primære  
+
+ angivelser foreligger.
+13.2. Jording Måleinstrumenter med fabrikantspecifikationer, som foreskriver en effektiv  
+
+ elektronikjordforbindelse for at kunne funktionere pålideligt, skal være  
+
+ installeret med tilstrækkelig sikkerhed i overensstemmelse med forskrifterne.
+ Dette gælder ligeledes for måleinstrumenter, hvor prøvninger har vist  
+
+ nødvendigheden af en effektiv elektronikjordforbindelse.
+13.3. Brovægte Der skal være rimelig adgangsmulighed (via en lem eller lign.) og frihøjde  
+
+ til alle væsentlige dele især vejeceller, samlebokse, kabler, knive, lejer  
+
+ m.m.
+13.4. Vejeceller og samlebokse Vejecelleinstallationer skal være udført hensigtsmæssigt og bl.a. således,  
+
+ at virkninger af termoelektromotoriske kræfter og kabelmodstande samt  
+
+ ændringer i disse kompenseres i tilstrækkeligt omfang.
+ Installationer i fugtigt miljø forudsætter en vandtæt udførelse.
+13.5. Vægte i udendørs miljø Vægte som anvendes i udendørs miljø eller under miljøforhold, som ikke er  
+
+ i overensstemmelse med det i typegodkendelsen fastlagte, skal være omfattet  
+
+ af en særlig godkendelse.
+ Herfra er undtaget brovægtslad, idet disse normalt er beregnet til  
+
+ udendørs opstilling.
+14. IKRAFTTRÆDEN Dette tekniske direktiv træder i kraft den 1. januar 1980.
+ De indrammede bestemmelser træder i kraft den 1. januar 1981.
+E.
+Roepstorff Holtveg BILAG 1 15. Bestemmelserne i dette bilag svarer i uddrag til  
+
+ TDIR nr. 24.11.1-01 bilag 2 med angivelse af de tilsvarende punkter i  
+
+ parantes.
+15.1. Nulstilling 15.1.1. Nulstilling (10.7.2) Nulstillingsområdet må højst omfatte 4 pct. af vægtens maksimumslast.
+15.1.2. Nulstillingsindretningens betjening (10.7.4) Hvis en vægt indeholder en nulstillingsindretning og en taraindretning,  
+
+ skal nulstillingsindretningens betjening være adskilt fra taraindretningens.
+15.1.3. Automatisk nulstillings- og korrektionsindretning (10.7.6) En automatisk nulstillings- eller korrektionsindretning må ikke virke,  
+
+ såfremt:
+- den additive taraindretning eller indretningen til forskydning af det  
+
+ automatiske område ikke er nulstillet, - vægten ikke er i stabil ligevægtsstilling.
+15.1.4. Nulstillingsindretning til vægte, som anvendes under køberens  
+
+ tilstedeværelse (11.5.2.2.1.) Ikke-automatiske og halvautomatiske nulstillingsindretninger til vægte med  
+
+ en maksimumslast indtil 30 kg skal betjenes med værktøj, og betjeningen skal  
+
+ være klart synlig fra begge sider af vægten.
+ Værktøjet må ikke kunne efterlades i betjeningsstillingen.
+15.2. Tara 15.2.1. Arbejdsområde (10.8.1.4) Taraindretninger må ikke kunne anvendes uden for området fra nul til den  
+
+ angivne taramaksimumslast.
+15.2.2. Konstatering af betjening (10.8.1.5) Taraindretningers betjening skal være klart synlig.
+15.2.3. Konstatering af det resterende vejeområde ved vægte med subtraktiv  
+
+ taraindretning (10.8.2.1) Såfremt det resterende vejeområde ved benyttelse af subtraktiv tara ikke  
+
+ kan konstateres, skal en indretning forhindre benyttelse af vægten ud over  
+
+ maksimumslasten eller angive, at denne last er nået.
+15.2.4. Taraindretning til vægte, som anvendes under køberens  
+
+ tilstedeværelse og hvis maksimumslast ligger inden for 30 kg (11.5.2.2.3) 15.2.4.1. Ved vægte med to vejelad er taraindretninger ikke tilladt.
+ Ved vægte med eet vejelad er taraindretninger tilladt, når følgende kan  
+
+ iagttages af publikum:
+- om taraindretningen er i funktion ved enten en angivelse af taraværdien  
+
+ eller tilsynekomst af bogstavet »T« (begge dele på såvel køber- som  
+
+ sælgerside) - om taraindretningen forstilles.
+15.2.4.2. Ikke-automatiske taraindretninger (11.5.2.2.3.1) Disse indretningers virkning må ikke overstige een opdelingsværdi for  
+
+ vægten, dersom en taraindretning med diskontinuerlig betjening findes på en  
+
+ vægt med diskontinuerlig visning.
+15.2.4.3. Halvautomatiske taraindretninger (11.5.2.2.3.2) Disse indretninger er tilladt, såfremt:
+- de kun kan aktiveres, når vægten er i stabil ligevægt - de ikke muliggør reduktion af taraværdien, når de er i funktion - deres virkning kun kan annulleres, når vejeladdet er ubelastet.
+ Disse indretninger skal endvidere opfylde en af følgende to betingelser:
+1. taraværdien angives på begge sider af vægten under  
+
+ hele vejningen 2. når taraindretningen er aktiveret, skal fjernelsen  
+
+ af enhver belastning fra vejeladdet have en af følgende tre virkninger:
+- vægten viser nul, og taraindretningens virkning annulleres - taraværdien fremkommer i vægtens indikatorindretning med fortegn  
+
+ »minus« - vægten giver ingen visning, før taraindretningens virkning er  
+
+ annulleret.
+15.2.4.4. Automatiske taraindretninger (11.5.2.2.3.3) Disse indretninger er ikke tilladt.

@@ -1,0 +1,83 @@
+ Studieplanen har virkning fra august 1982 (genoptryk).
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+A.
+Formålsbeskrivelse.
+Da materiel og programmel bliver stadig billigere, overvejes ofte i større  
+
+ omfang at anvende datakraft ved udviklingen af edb-systemer.
+Det er bl.a.  
+
+ programmeringsarbejdet, som underkastes sådanne overvejelser, hvilket kan  
+
+ medføre anvendelse, i større eller mindre grad og med mere eller mindre held,  
+
+ af en eller anden form for dialogprogrammering.
+Ved dialogprogrammering skal  
+
+ i denne forbindelse forstås programmering, som hovedsagelig foregår som en  
+
+ dialog mellem programmør og datamat via en lavhastighedsterminal.
+Kursets  
+
+ formål må derfor være, at sætte den studerende i stand til på en  
+
+ hensigtsmæssig måde, at betjene sig af de muligheder, som forskellige  
+
+ dialogsystemer, dialogsprog, m.v. tilbyder.
+Disse systemer, sprog, m.v.  
+
+ indebærer mange muligheder ved udvikling af edb-systemer generelt, men måske  
+
+ specielt ved mindre opgaver er anvendelsen af disse systemer særlig  
+
+ fordelagtig.
+B.
+Hovedemner: formål og indhold.
+1. Terminaler Formål:
+ Gennemgang af de forskellige typer lavhastighedsterminaler, m.h.t.  
+
+ virkemåde, anvendelighed, o.s.v.
+ Emner:
+ Skærmterminaler, hard-copy, datatransmissionsprincipper, grafiske  
+
+ terminaler, lyspen, m.v.
+2. Driftssystemet Formål:
+ Forskellige principper for dialogsystemers interaktion med driftssystemet  
+
+ iøvrigt.
+ Emner:
+ Selvstændigt dialogsystem, integreret dialogsystem, tidsdelingsprincipper,  
+
+ lagerveksling, adgang til data, låse og nøgler, reentrante programmer,  
+
+ back-up, m.v.
+3. Teksteditorer Formål:
+ Muligheder for at manipulere med data og programmer ved hjælp af  
+
+ forskellige teksteditorer.
+ Emner:
+ Eksempler på teksteditorer med vægt på muligheder og begrænsninger.
+4. Traditionelle programmeringssprog Formål:
+Hvordan programudvikling foregår, når man ønsker at benytte de  
+
+ traditionelle programmeringssprog, som f.eks.
+Cobol, Fortran og PL/1.
+ Emner:
+ Indtastning og rettelse af kildeprogram, oversættelse og lænkning,  
+
+ eksekvering, hvordan fejl konstateres og rettes, tillempede versioner af  
+
+ traditionelle programmeringssprog, overvågning af eksekvering.
+5. Interaktive programmeringssprog Formål:
+ Anvendelse og vurdering af interaktive programmeringssprog.
+ Emner:
+ APL, data, vektorer og matricer, primitive funktioner, udtryk definerede  
+
+ funktioner, input-output, shared variables, systemkommandoer.
+ Basic.
+6. Specielle dialogsystemer Formål:
+ Orientering om forskellige specielle dialogsystemer.
+ Emner:
+ Grafiske systemer, Monster, Preview, GPGS, CAI, o.s.v.

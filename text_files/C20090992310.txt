@@ -1,0 +1,50 @@
+Denne cirkulæreskrivelse erstatter cirkulæreskrivelse nr. 9896 af 6. november 2009 om A-kassernes leverance af oplysninger til brug for beregning af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse Til De anerkendte a-kasser og deres statsautoriserede revisorer Arbejdsløshedskassernes Samvirke Kommunerne skal i medfør af § 82 a i lov om arbejdsløshedsforsikring m.v. og § 109, stk. 2 og 3, i lov om en aktiv beskæftigelsesindsats fra 1. januar 2010 medfinansiere statens udgifter til a-dagpenge og befordringsgodtgørelse.
+ A-kassernes og kommunernes opgaver m.v. i relation til kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse, herunder i forhold til hvilke data som skal indgå i beregningerne, fastlægges i bekendtgørelse om kommunernes medfinansiering af arbejdsløshedsdagpenge og befordringsgodtgørelse med tilhørende vejledning.
+ Et bekendtgørelsesudkast har været i ekstern høring i Beskæftigelsesrådet, Ydelsesudvalget, KL, m.fl.1) Bekendtgørelsen forventes udstedt primo december 2009.
+ Til brug for beregningen af kommunernes medfinansiering skal a-kasser og kommuner levere en række oplysninger på individniveau.
+ Det konkrete tekniske indhold af - og format på - på de data, som a-kasserne skal aflevere til brug for beregning af kommunernes medfinansiering af a-dagpenge og befordringsgodtgørelse fremgår af en snitfladebeskrivelse udarbejdet af KMD.
+ Med cirkulæreskrivelse nr. 9896 af 6. november 2009 udsendte Arbejdsmarkedsstyrelsen KMD A-Refusion Snitfladebeskrivelse for A-kasseoplysninger (29.10.2009).
+1. Ajourført snitfladebeskrivelse På møde den 16. november 2009 i Arbejdsmarkedsstyrelsen, hvor bl.a.
+Arbejdsløshedskassernes Samvirke, en lang række a-kasser samt de kommunale it-leverandører KMD og Medialogic deltog, blev snitfladebeskrivelsen gennemgået og der blev fra a-kassernes side stillet en række spørgsmål og peget på en række uhensigtsmæssigheder.
+ På baggrund af efterfølgende drøftelser har KMD udarbejdet en ajourført udgave af snitfladebeskrivelsen, hvor der i videst muligt omfang er taget højde for de spørgsmål og bemærkninger som blev drøftet på mødet den 16. november.
+ Der vedlægges derfor en ajourført udgave af snitfladebeskrivelsen: KMD A-Refusion Snitfladebeskrivelse for  (24.11.2009).
+ For en god ordens skyld skal opmærksomheden henledes på, at det i snitfladebeskrivelsen fremgår:
+Nærværende materiale er beskyttet i henhold til ophavretsloven.
+Alle rettigheder tilhører KMD a/s.
+Den må dog gerne udlånes til softwareleverandører i forbindelse med etablering af snitfladen samt ved fremtidige ændringer af denne. 1.1 Indarbejdede ændringer I afsnit 1.1.1 til 1.1.8 nedenfor er fremhævet de væsentligste ændringer i snitfladebeskrivelsen i forhold til udgaven, der blev fremsendt den 6. november 2009.
+1.1.1 Aftalegrundlag for udveksling af data med KMD EDI-Service I afsnit 1 (side 4) fremgår, at grundlaget for udveksling af data mellem a-kasserne og KMD A-Refusion er:
+Snitfladebeskrivelsen KMD A-Refusion Snitfladebeskrivelse til A-kasseoplysninger udgør grundlaget for udveksling af data mellem a-kasserne og KMD A-Refusion. I forhold til den tidligere fremsendte udgave er der således ikke længere krav om indgåelse af aftalen KMD A-Refusion / A-kasser.
+ Inden snitfladen kan anvendes, skal a-kassen dog indgå en standard EDI-service aftale om brug af postkasserne på KMD EDI-Service, jf. snitfladebeskrivelsens afsnit 5 (side 6).
+1.1.2 Navngivning af testdata og produktionsdata Navngivningen af testdata og produktionsdata er ændret.
+Se nærmere i snitfladebeskrivelsens afsnit 7.1.1 og 7.1.13.
+1.1.3 Mere end 1 udbetaling af a-dagpenge til et medlem i samme uge På mødet blev drøftet, om der i situationer, hvor der via SKB foretages mere end én udbetaling til et medlem for samme a-dagpengeuge (eksempelvis hvis der udbetales a-dagpenge for mandag til onsdag i én transaktion og efterfølgende udbetales a-dagpenge for torsdag og fredag i en anden transaktion) tilsvarende kan indberettes mere end én transaktion til KMD EDI-Serveren, eller om a-kassen skal lægge beløbene for en uge sammen til én transaktion vedr. det pågældende medlem.
+ Det er i snitfladebeskrivelsens afsnit 7.1.2 præciseret, at en transaktion altid skal indeholde den samlede a-dagpengeudgift for a-dagpengeugen.
+1.1.4 Befordringsgodtgørelse På mødet blev drøftet, om befordringsgodtgørelse skal indberettes som ét beløb pr. person pr. a-dagpengemåned, eller om der kan ske flere indberetninger.
+ Det er i snitfladebeskrivelsens afsnit 7.1.3 præciseret, at befordringsgodtgørelse skal indberettes som det samlede beløb udbetalt til medlemmet i a-dagpengemåneden (af hensyn til håndteringen af reguleringer).
+Det er endvidere præciseret, at befordringsgodtgørelsen altid skal leveres under den første kalenderuge År-ugenummer i den aktuelle dagpengemåned 1.1.5 Reguleringer, fejludbetalinger og mistet refusion På mødet blev drøftet håndteringen af fejludbetalinger og efterreguleringer i forhold til a-kassernes indberetning af individoplysninger.
+ Det er i snitfladebeskrivelsens afsnit 7.1.5 præciseret, hvordan efterreguleringer skal håndteres, hvis medlemmet skal tilbagebetale det fejludbetalte beløb.
+ Det er i snitfladebeskrivelsens afsnit 7.1.6 indarbejdet, hvordan der via Arbejdsdirektoratet skal ske reguleringer i de tilfælde, hvor der med urette er sket udbetaling, men hvor medlemmet ikke skal betale tilbage.
+ Det er i snitfladebeskrivelsens afsnit 7.1.6 endvidere indarbejdet, hvordan der via Arbejdsdirektoratet skal ske reguleringer i de tilfælde, hvor a-kassen mister refusionen på grund af fejl i a-kassens sagsbehandling.
+1.1.6 Fortegn i beløbsfelter (Feltnr. 09, 12, 14 og 15) I snitfladebeskrivelsen, der blev udsendt 6. november 2009, fremgik, at der skulle anvendes fortegnet + (plus) efterstillet beløbsfelterne.
+ På baggrund af drøftelserne på mødet - og a-kassernes ønske herom - udgår fortegnet + fra beløbsfelterne, jf. de justerede beskrivelser af felterne 09, 12, 14 og 15 i snitfladebeskrivelsens afsnit 7.4.1.
+1.1.7 Timer og andele af timer (Feltnr. 10) I snitfladebeskrivelsen, der blev udsendt 6. november 2009, fremgik, at der som samlet timetal skulle indberettes antal timer og antal minutter.
+ På baggrund af drøftelserne på mødet - og a-kassernes ønske herom - er dette nu ændret til antal timer og hundrededele af timer (decimaltal), jf. den justerede beskrivelse af felt 10 i snitfladebeskrivelsens afsnit 7.4.1.
+1.1.8 Indplaceringsdato (Feltnr. 27 Seneste indplacering og Feltnr. 28 Næstsidste indplacering) På mødet blev drøftet anvendelsen af feltet Seneste indplacering, herunder om der er tale om regulering af en tidligere indberettet indplaceringsdato eller en ny indplaceringsdato.
+ Det er i snitfladebeskrivelsens afsnit 7.1.7 præciseret, at en ny indplacering fra 1. januar 2010 altid skal fremgå af feltet Seneste indplacering.
+ Ved indplacering eller ændring i indplacering efter 1. januar 2010 skal:
+ Ny eller ændret (gældende) indplacering angives i feltet Seneste indplacering  Samtidig angives den næst sidste indplacering i feltet Næst sidste indplacering (feltet er nyt i forhold til den tidligere fremsendte udgave).
+ Felterne skal anvendes til brug for de kommunale databehandleres beregning af karensperioden i forhold til om seneste indplacering er en ny indplacering eller der er tale om en ændring af indplacering.
+2. Tilretning i a-kassernes systemer Arbejdsmarkedsstyrelsen skal henstille, at a-kasserne på baggrund af den vedlagte snitfladebeskrivelse fortsætter arbejdet med ændringer i IT-systemerne således, at der kan leveres individoplysninger til brug for beregningen af kommunernes medfinansiering af a-dagpenge fra og med uge 01 2010 og for befordringsgodtgørelse udbetalt fra og med 1. januar 2010.
+2.1 Test A-kasserne er eller vil blive kontaktet af KMD med henblik på indgåelse af bilaterale aftaler om tidspunkt for a-kassernes indplacering i testforløb, der forventes afviklet i uge 49 / 2009 - uge 2 / 2010.
+2.2 Første indberetning af produktionsdata Oplysningerne skal indberettes digitalt til KMD EDI-service efter a-dagpengemånedens udløb og skal senest være indberettet til postkassen den næstsidste bankdag i måneden kl. 16.00. Oplysningerne kan indberettes løbende.
+ Første gang a-kasserne skal indberette data vedr. a-dagpenge og befordringsgodtgørelse skal det dog ske (senest) torsdag den 25. februar 2010, kl. 16. Denne leverance af data skal omfatte dels a-dagpenge vedr. de to første a-dagpengemåneder i 2010 (uge 01/2010 - 07/2010) og dels befordringsgodtgørelse udbetalt efter 1. januar 2010.
+ Det er muligt at indberette oplysningerne digitalt til KMD EDI-service tidligere end 25. februar 2010.
+ I snitfladebeskrivelsen er beskrevet feltet  05  DAGPENGEMÅNED.
+Dagpengemåned indikerer hvilken måned som indberetningen hører til.
+A-kassen kan vælge at indberette pr. måned (to filer), eller for de to første a-dagpengemåneder på en gang (en fil).
+ Vælger a-kassen at indberette pr. måned, skal feltet udfyldes på følgende måde:
+  Dagpengemåned 201001 (hhååmm) med mulige leverancer 1, 2, 3 osv.
+  Dagpengemåned 201002 (hhååmm) med mulige leverancer 1, 2, 3 osv.
+ Vælger a-kassen at indberette for begge måneder på en gang ved udgangen af februar, skal feltet udfyldes på følgende måde:
+ Dagpengemåned 201002 (hhååmm) med mulige leverancer 1, 2, 3 osv.
+3. Spørgsmål vedr. snitfladebeskrivelsen Kontaktoplysninger vedrørende snitfladebeskrivelsen fremgår af afsnit 1, side 4, i snitfladebeskrivelsen.

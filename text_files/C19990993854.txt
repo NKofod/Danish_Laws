@@ -1,0 +1,687 @@
+Skrivelse om bestemmelser om bestemmelser for elektronisk  
+
+ post i forsvaret Ref.:
+ a.  
+
+  
+
+ FKOBST  
+
+ 321-1 Forsvarets Arkivtjeneste.
+ b.  
+
+  
+
+ FKOBST 305-1 Dokumenters udformning.
+ c.  
+
+  
+
+ E-POST  
+
+ SSRS.
+ d.  
+
+  
+
+ FITVEJL4:  
+
+ Installations- og driftsvejledning for Exchange peer server (site-server).
+1.  
+
+  
+
+ Formål Nærværende bestemmelser har  
+
+ til formål at fastsætte retningslinier for forsvarets myndigheders anvendelse  
+
+ af elektronisk post (e-post).
+2.  
+
+  
+
+ Generelt Bestemmelserne er gældende  
+
+ for e-post, der udveksles lokalt og internt mellem forsvarets myndigheder på  
+
+ Forsvarets Integrerede lnformatiknetværk (FIIN), samt for e-post, der  
+
+ udveksles over eksterne net.
+ Bestemmelserne kan suppleres  
+
+ med lokale bestemmelser fastsat af og gældende for den enkelte myndighed.
+ Bestemmelserne skal ses i  
+
+ sammenhæng med sikkerhedsbestemmelser, bestemmelser for systemadministration  
+
+ og -drift samt brugervejledninger.
+ X-post systemet, der kan  
+
+ anvendes til forsendelse af materiale, der er klassificeret til og med  
+
+ HEM/NS,  
+
+ er ikke omfattet af nærværende bestemmelser.
+3.  
+
+  
+
+ Definitioner 3.1.  
+
+  
+
+ E-post  
+
+ typer.
+ Der skelnes mellem følgende  
+
+ typer e-post:
+   
+
+ 	  
+
+ Lokal e-post: E-post  
+
+ inden for det enkelte lokale netværk (LAN).
+   
+
+ 	  
+
+ Intern e-post: E-post  
+
+ mellem forsvarets myndigheder på FIIN og de enkelte brugere hos de  
+
+ tilsluttede  
+
+ myndigheder.
+   
+
+ 	  
+
+ Ekstern e-post:  
+
+ E-post, som udveksles uden for LAN og FIIN miljøet.
+ 3.2.  
+
+  
+
+ Officiel  
+
+ og uofficiel e-post.
+ Der skelnes mellem officiel  
+
+ og uofficiel e-post:
+   
+
+ 	  
+
+ Officiel e-post:  
+
+ Dokumenter (e-post med tilknyttede filer), der opfylder en eller flere af  
+
+ følgende  
+
+ betingelser:
+   
+
+ 	  
+
+ Er godkendt og afsendt  
+
+ af en myndighed i eller uden for Forsvarsministeriets område.
+   
+
+ 	  
+
+ Indgår i en  
+
+ registreret sag.
+   
+
+ 	  
+
+ Er afsendt af en  
+
+ juridisk person eller enkeltperson og medfører, at en ny sag skal oprettes.
+   
+
+ 	  
+
+ Uofficiel c-post: Al  
+
+ anden e-post kan betragtes som uofficiel e-post.
+ Et officielt elektronisk  
+
+ dokument er en elektronisk, adresserbar enhed, der giver mulighed for at  
+
+ integrere information af forskelligt format, f.eks. tekst, data, liniegrafik  
+
+ og  
+
+ rastergrafik (billeder) mv., og som kan produceres, læses, gemmes og  
+
+ kommunikeres  
+
+ som en enhed.
+Et officielt elektronisk  
+
+ dokument må ikke indeholde link(s) til andre dokumenter eller datakilder, som  
+
+ har direkte betydning for sagen.
+Der må ikke lagres lyd eller levende  
+
+ billeder  
+
+ i et dokument.
+ 3.3.  
+
+  
+
+ Brugergrupper.
+ Der anvendes følgende  
+
+ brugergrupper i relation til rettigheder:
+   
+
+ 	  
+
+ Myndighedsbrugere:  
+
+ Myndigheds- og kontrolpunktspostkasser.
+   
+
+ 	  
+
+ Systemadministratorer:  
+
+ Driftspersonel.
+   
+
+ 	  
+
+ Slutbrugere: Alle  
+
+ øvrige på nettet.
+ 3.4.  
+
+  
+
+ Sikkerhedsbegreber.
+ Vedrørende dokumentsikkerhed  
+
+ anvendes følgende primære begreber:
+   
+
+ 	  
+
+ Autenticitet: Sikring  
+
+ af, at dokumentet er afsendt af den, der giver sig ud for afsender.
+   
+
+ 	  
+
+ Integritet: Sikring  
+
+ af, at dokumentet ikke er ændret undervejs.
+   
+
+ 	  
+
+ Uafviselighed: Sikring  
+
+ af, at afsender ikke kan afvise at have sendt dokumentet, og modtager ikke  
+
+ kan  
+
+ afvise, at have modtaget det.
+   
+
+ 	  
+
+ Konfidentialitet:  
+
+ Sikring af, at dokumentet ikke undervejs kan læses af andre end modtageren  
+
+ (brevhemmelighed).
+4.  
+
+  
+
+ E-postsystemer 4.1.  
+
+  
+
+ Internt  
+
+ og lokalt e-postsystem.
+ Som internt og lokalt  
+
+ e-postsystem anvendes forsvarets standard e-postsystem (client og server).  
+
+ Dette system er integreret med de øvrige fælles stabsstøttesystemer.
+ 4.2.  
+
+  
+
+ Eksternt  
+
+ e-postsystem.
+ Som eksternt e-postsystem  
+
+ anvendes forsvarets standard e-post klientsystem til e-post på Internettet  
+
+ (@-adresser).
+5.  
+
+  
+
+ Sikkerhed 5.1.  
+
+  
+
+ Sikkerhed  
+
+ for Intern og lokal e-post.
+ Over FIIN må der kun  
+
+ udveksles e-post, der er klassificeret til og med TIL TJENESTEBRUG (TTJ)/NATO  
+
+ RESTRICTED (NR).
+FTR-P materiale må ikke  
+
+ sendes som e-post.
+E-post må endvidere ikke anvendes til juridisk bindende  
+
+ kontrakter og betalingsanvisninger.
+ De af e-postsystemet  
+
+ genererede log-filer skal kontinuerligt være tilgængelige 28 dage tilbage.  
+
+ Log-filerne skal som minimum indeholde følgende oplysninger om den enkelte  
+
+ transaktion:
+   
+
+ 	  
+
+ Afsenders og modtagers  
+
+ user-ID.
+   
+
+ 	  
+
+ Tidspunkt for  
+
+ afsendelse og modtagelse.
+   
+
+ 	  
+
+ Identifikation af  
+
+ forsendelsen, herunder vedhæftede filer.
+ Post, der indeholder  
+
+ personhenførbare oplysninger, må ikke opbevares ud over 28 dage i  
+
+ postsystemet  
+
+ (mapper).
+ Bortkomne, officielle  
+
+ e-postmeddelelser, der er klassificeret TTJ/NR, rapporteres til myndighedens  
+
+ edb-sikkerhedsofficer.
+ Systemspecifik sikkerhed  
+
+ fremgår af E-post System-Specific Security Requirement Statement (ref.  
+
+ c.).
+ 5.2.  
+
+  
+
+ Sikkerhed  
+
+ for ekstern e-post.
+ E-post på Internettet  
+
+ opfylder ikke forsvarets krav til elektronisk informationssikkerhed.
+ Der må kun afsendes  
+
+ uofficiel e-post, der ikke er klassificeret, over eksterne net.
+E-post på Internettet skal  
+
+ modtages på og afsendes fra en elektronisk arbejdsplads, der ikke er koblet  
+
+ op  
+
+ mod forsvarets net.
+E-post udtages på f. eks. diskette, som viruscheckes,  
+
+ hvorefter  
+
+ den kan behandles i forsvarets net.
+6.  
+
+  
+
+ Adressering Samtlige interne e-post  
+
+ adresser i forsvaret er indeholdt i et adressekartotek, der er globalt  
+
+ tilgængeligt.  
+
+ Det indeholder myndigheds- og brugeradresser, der er standardiserede jf. ref.  
+
+ b.
+Disse standarder skal følges.
+Kataloget opbygges i takt med myndighedernes  
+
+ tilslutning til FIIN.
+Stabsbetegnelse skal anvendes  
+
+ bl.a. som ALIAS i e-postsystemet.
+Stabsbetegnelse anvendes som en  
+
+ sigende  
+
+ men kortfattet, entydig identifikation af en bemandingspost, og skal afspejle  
+
+ den organisatoriske placering.
+En stabsbetegnelse består af versaler og/eller  
+
+ tal uden mellemrum og indledes med et bogstav, f.eks.
+CHPA, PA4OI.
+Såfremt en  
+
+ stabsbetegnelse ikke er unik for et MS New Technology (NT)-domæne, skal den  
+
+ suppleres med en myndighedsforkortelse, der efterstilles stabsbetegnelsen.
+Nye eller ændrede adresser  
+
+ afleveres til egen myndigheds IT-driftsfunktion.
+Ved den enkelte myndighed  
+
+ skal  
+
+ der etableres procedurer, der sikrer, at ændringer til adresselisten  
+
+ uopholdeligt  
+
+ meddeles lT-driftsfunktionen.
+7.  
+
+  
+
+ Intern og lokal  
+
+ e-post 7.1.  
+
+  
+
+ Generelle  
+
+ bestemmelser.
+Der skal udvises god brug  
+
+ af e-post.
+Dette indebærer bl.a., at der ikke må sendes meddelelser, som ikke  
+
+ ville blive sendt eller viderebragt, såfremt e-post ikke var til rådighed.  
+
+ Mulighederne for at sende e-post til mange på en gang må ikke misbruges til  
+
+ at  
+
+ rundsende overflødig orientering.
+Der må kun sendes nødvendig og tjenstlig  
+
+ e-post.
+ Der skal oprettes en  
+
+ Exchange myndighedspostkasse ved de myndigheder, som er  
+
+ tilsluttet FIIN.  
+
+ Myndighedspostkassen skal betjenes således, at e-post ekspederes  
+
+ og fordeles  
+
+ mindst 2 gange dgl.
+ Alle brugere skal med jævne  
+
+ mellemrum og som hovedregel minimum to gange om dagen undersøge, om de har  
+
+ modtaget e-post.
+ Ved planlagt fravær skal der  
+
+ for den enkelte bruger være udpeget en stedfortræder, som varetager  
+
+ ekspeditionen af post.
+Data, hvis filnavn ender på  
+
+ endelsen EXE, COM, BAT, DDL,  
+
+ OCX, VBX m.fl., må som hovedregel ikke  
+
+ sendes som vedhæftede filer, da disse filer er programfiler og derfor kan  
+
+ iværksætte uønskede funktioner, når modtageren åbner filen.
+Meget omfangsrige  
+
+ filer, herunder sådanne som indeholder billeder, grafik og lyd i større  
+
+ omfang,  
+
+ må som hovedregel kun udveksles i perioden mellem kI. 1500 og 0800.
+ Der skal globalt være adgang  
+
+ til at invitere til møder, og der skal lokalt være adgang til at læse i  
+
+ kalenderaftaler og opgaver.
+ Officielt nedsatte  
+
+ projektgrupper eller tilsvarende kan anmode om oprettelse af en  
+
+ offentlig mappe  
+
+ på tværs af de enkelte sites ved henvendelse til Forsvarets  
+
+ Informatiktjeneste.  
+
+ Beslutning om anvendelse af offentlige mapper inden for de  
+
+ enkelte sites  
+
+ træffes lokalt.
+ Al e-post er skriftlig  
+
+ kommunikation, og skal håndteres i overensstemmelse hermed.
+ 7.2.  
+
+  
+
+ Procedurer  
+
+ for officiel e-post.
+Procedurerne for officiel  
+
+ e-post fremgår dels af nærværende specifikke procedurer for officiel e-post,  
+
+ dels af ref. a. og b.
+Herudover har Forsvarskommandoen (FKO) udgivet  
+
+ modelprocedurer  
+
+ samt en vejledning for officiel c-post.
+Officiel e-post fra  
+
+ myndigheder i forsvaret er kendetegnet ved, at der til det vedhæftede  
+
+ dokument  
+
+ er anvendt godkendte dokumentskabeloner, som indeholder myndighedens  
+
+ officielle  
+
+ brevhoved, registrerings- og adresseringsfelter mv.
+Dokumentskabelonen skal  
+
+ overholde krav for registrering og bestemmelser for dokumenters udformning  
+
+ (ref. a. og b.).
+Officiel e-post må kun  
+
+ anvendes mellem myndigheder, der er tilsluttet FIIN.
+E-post må således ikke  
+
+ anvendes til at meddele forvaltningsafgørelser til personer.
+ Officiel e-post må kun  
+
+ udstedes af myndighedens chef eller de, som chefen har bemyndiget hertil  
+
+ (e.b.). Den praktiske forsendelse og journalisering skal varetages af  
+
+ myndighedsbrugere.
+ Elektroniske dokumenter skal  
+
+ være forsynet med reference og dato samt de sædvanlige oplysninger om  
+
+ underskriveren, jf. ref. b.
+ Al officiel e-post skal ved  
+
+ afsendelse være journaliseret og skal arkiveres i form af et underskrevet  
+
+ dokument på papirmedie.
+Officiel e-post skal sendes  
+
+ til en myndighedspostkasse.
+Officiel e-post kan supplerende  
+
+ sendes til  
+
+ chef(er) og/eller sagsbehandler(e) som efterretningsadressat(er).
+ Ved modtagelse af officiel  
+
+ e-post skal dokumentet udskrives, journaliseres og fordeles på papirmedie.  
+
+ Dette skal varetages af myndighedsbrugere.
+ Der skal ved den enkelte  
+
+ myndighed være etableret procedurer, der sikrer, at officiel e-post bliver  
+
+ læst  
+
+ og behandlet uanset sygdom, ferie eller andet fravær.
+ Bestemmelserne i dette punkt  
+
+ er gældende, indtil der er implementeret et elektronisk dokumentarkiv og  
+
+ -journalsystem, der i sikkerheds- og anvendelsesmæssig henseende er  
+
+ integreret  
+
+ med forsvarets e-postsystem.
+ 7.3.  
+
+  
+
+ Procedurer  
+
+ for uofficiel e-post.
+ Myndighedens officielle  
+
+ brevhoved må ikke anvendes til uofficiel e-post.
+Uofficiel e-post kan indgå i  
+
+ sagsbehandlingen.
+I så fald gælder bestemmelserne for officiel e-post.
+ Den enkelte bruger har selv  
+
+ ansvaret for katalogisering, arkivering og oprydning af uofficiel e-post.  
+
+ Uofficiel e-post skal slettes af systemadministrator, når  
+
+ stillingsindehaveren  
+
+ afgår fra stillingen.
+ Papirkurv bør tømmes ved  
+
+ arbejdsdagens ophør.
+8.  
+
+  
+
+ Ekstern e-post 8.1.  
+
+  
+
+ Generelle  
+
+ bestemmelser.
+ Der skal ved forsvarets NIV  
+
+ I- og NIV II-myndigheder etableres en ekstern  
+
+ myndighedspostkasse, som  
+
+ betjenes således, at ekstern e-post ekspederes og fordeles internt mindst 2  
+
+ gange dgl.
+ 8.2.  
+
+  
+
+ Adressering.
+ Der skal anvendes officielle  
+
+ e-postadresser, og der skal skrives afsenderoplysninger i selve  
+
+ tekstafsnittet.
+Eksterne e-postadresser skal  
+
+ følge de ved ref. d. givne retningslinier.
+Myndighedens officielle, eksterne  
+
+ e-postadresser skal anføres på myndighedens officielle brevpapir, etc. i  
+
+ lighed  
+
+ med den almindelige postadresse samt tlf.- og faxnummer.
+Herudover bør evt.  
+
+ e-postadresse for den enkelte stilling fremgå af stillingsindehaverens  
+
+ visitkort.
+ 8.3.  
+
+  
+
+ Procedurer  
+
+ for officiel e-post.
+ Ekstern e-post må ikke  
+
+ anvendes til afsendelse af officiel e-post, idet Internettet ikke opfylder de  
+
+ under pkt. 3.4 nævnte krav til dokumentsikkerhed.
+9.  
+
+  
+
+ Ikrafttræden Nærværende bestemmelser for  
+
+ elektronisk post i forsvaret træder i kraft den 1. december 1999.
+Samtidig hermed sættes de  
+
+ som bilag til FKO skr.
+PS.385.4/ADM/SSS-9416 af 24 APR 1998 vedlagte  
+
+ Midlertidige  
+
+ administrative bestemmelser for elektronisk post mellem myndigheder i FKO  
+
+ område ud af kraft.

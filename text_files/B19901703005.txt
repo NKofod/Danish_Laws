@@ -1,0 +1,622 @@
+ I medfør af § 82 i lov om luftfart, jf. lovbekendtgørelse nr. 408 af 11.  
+
+ september 1985, fastsætter Statens Luftfartsvæsen herved efter bemyndigelse  
+
+ fra Trafikministeriet, jf. bekendtgørelse nr. 93 af 8. marts 1982 om  
+
+ flyvesikringstjeneste, luftrumsorganisation, lufttrafikregler og  
+
+ luftfartsinformationstjeneste, at følgende definitioner benyttes om  
+
+ lufttrafiktjeneste:
+1. Definitioner AFIS (Aerodrome Flight Information Service):
+ Flyvepladsflyveinformationstjeneste.
+ AFIS-enhed (Aerodrome Flight Information Service Unit):
+ En enhed, som yder flyveinformationstjeneste for flyvepladstrafik.
+ AIP (Aeronautical Information Publication):
+ Publikation udgivet af en stat eller efter bemyndigelse af en stat og  
+
+ indeholdende sådanne oplysninger af varig natur, som er af væsentlig  
+
+ betydning for luftfarten.
+ Alarmeringstjeneste (Alerting Service):
+ En tjeneste, der har til opgave at underrette henholdsvis kontrolcentral  
+
+ eller flyveinformationscentral og redningscentral om luftfartøjer, der har  
+
+ behov for eftersøgnings- og redningstjeneste, samt i nødvendigt omfang at  
+
+ assistere disse.
+ ATS-myndighed (ATS Authority):
+ Den myndighed, der af vedkommende stat er udpeget som ansvarlig for, at  
+
+ der udøves lufttrafiktjeneste i et bestemt luftrum.
+ ATS-rute (ATS Route):
+ En nærmere fastsat rute oprettet for at kanalisere lufttrafik, hvor dette  
+
+ er nødvendigt for at udøve lufttrafiktjeneste.
+ Anm.: Udtrykket »ATS-rute« anvendes for at betegne en luftvej,  
+
+ en kontrolleret eller ikke-kontrolleret rute, en ind- eller udflyvningsvej,  
+
+ etc.
+ Bane (Runway):
+ Et på en landflyveplads afmærket, rektangulært område til brug ved landing  
+
+ og start med luftfartøjer.
+ Banesynsvidde (Runway Visual Range - RVR):
+ Den afstand, over hvilken en pilot i et luftfartøj på en banes centerlinie  
+
+ kan se enten banens markeringer, banekantlysene eller banens centerlinielys.
+ Basedrej (Base Turn):
+Et drej udført af et luftfartøj under indledende indflyvning for at  
+
+ begynde mellemliggende indflyvning eller slutindflyvning.
+Flyvevejene før og  
+
+ efter drejet er ikke sammenfaldende.
+ Beholden kurs (Track):
+ Retningen af et luftfartøjs flyvevej i et givet punkt, udtrykt i grader  
+
+ fra nord (retvisende, misvisende eller grid).
+ Beredskabsfase (Alert Phase):
+En situation, hvor der næres frygt for et luftfartøjs og de ombordværendes  
+
+ sikkerhed.
+Kodebetegnelse ALERFA.
+ Beregnet ankomsttidspunkt (Estimated Time of Arrival - ETA):
+IFR-flyvninger : Det tidspunkt, på hvilket luftfartøjet beregnes at ville  
+
+ ankomme over et angivet punkt, som er fastsat i relation til  
+
+ navigationshjælpemidler, og hvorfra en instrumentindflyvningsprocedure agtes  
+
+ påbegyndt, eller hvis der ikke findes navigationshjælpemidler i tilknytning til  
+
+ bestemmelsesstedet, det tidspunkt, på hvilket luftfartøjet beregnes at ville  
+
+ ankomme over bestemmelsesstedet.
+ VFR-flyvninger : Det tidspunkt, på hvilket luftfartøjet beregnes at ville  
+
+ ankomme over flyvepladsen.
+ Beregnet tidsforbrug (Total Estimated Elapsed Time):
+IFR-flyvninger : Den tid, der beregnes at skulle bruges fra start og  
+
+ indtil ankomst over et angivet punkt, som er fastsat i relation til  
+
+ radionavigationshjælpemidler, og hvorfra en instrumentindflyvningsprocedure  
+
+ agtes påbegyndt, eller hvis der ikke findes navigationshjælpemidler i tilknytning til  
+
+ bestemmelsesstedet, den tid, der beregnes at skulle bruges fra start og  
+
+ indtil ankomst over bestemmelsesstedet.
+ VFR-flyvninger : Den tid, der beregnes at skulle bruges fra start og  
+
+ indtil ankomst over bestemmelsesstedet.
+ Betydningsfuldt punkt (Significant Point):
+ Et nærmere angivet geografisk punkt eller sted anvendt til at angive en  
+
+ ATS-rute eller et luftfartøjs flyvevej eller til andre navigations- eller  
+
+ lufttrafiktjenestemæssige formål.
+ Egenfart (True Airspeed - TAS):
+ Et luftfartøjs fart gennem luften på et givet tidspunkt.
+ Fareområde (Danger Area):
+ Et nærmere afgrænset luftrum, inden for hvilket der på angivne tidspunkter  
+
+ kan forekomme virksomhed, som er til fare for luftfartøjer under flyvning.
+ FL (Flight Level):
+ Flyveniveau.
+ Flyvebesætningsmedlem (Flight Crew Member):
+ Et certificeret besætningsmedlem, der er pålagt opgaver af betydning for  
+
+ føringen af et luftfartøj i flyvetiden.
+ Flyvehøjde (Level):
+ Fællesbetegnelse for et luftfartøjs position i lodret linie under  
+
+ flyvning, udtrykt i højde over jorden, højde over havet eller i flyveniveau.
+ Flyveinformationscentral (Flight Information Centre - FIC):
+ En enhed, som udøver flyveinformations- og alarmeringstjeneste.
+ Flyveinformationsregion (Flight Information Region - FIR):
+ Et nærmere afgrænset luftrum, inden for hvilket der udøves  
+
+ flyveinformations- og alarmeringstjeneste.
+ Flyveinformationstjeneste (Flight Information Service - FIS):
+ En tjeneste, der har til opgave at give råd og oplysninger af betydning  
+
+ for flyvningers sikre og effektive udførelse.
+ Flyvekontrolenhed (Air Traffic Control Unit):
+ Fællesbetegnelse omfattende kontrolcentral, indflyvningskontrol og  
+
+ kontroltårn.
+ Flyvekontroltjeneste (Air Traffic Control Service - ATC):
+En tjeneste, der har til opgave a. at forebygge sammenstød mellem luftfartøjer, b. at forebygge sammenstød på manøvreområdet mellem luftfartøjer og  
+
+ hindringer og c. at fremme og regulere lufttrafik.
+ Flyvemaskine (Aeroplane):
+ Et kraftdrevet luftfartøj, som er tungere end luft, og som under flyvning  
+
+ hovedsagelig bæres oppe af aerodynamiske reaktioner på flader, der forbliver  
+
+ faste, så længe flyvebetingelserne ikke ændres.
+ Flyveniveau (Flight Level - FL):
+ Flade med konstant lufttryk, som bestemmes med trykværdien 1013,2 hPa  
+
+ (1013,2 mb) som udgangspunkt, og som er adskilt fra andre sådanne flader med  
+
+ bestemte trykintervaller.
+Anm. 1: En trykhøjdemåler, kalibreret i overensstemmelse med  
+
+ standardatmosfæren og a. indstillet på en QNH-værdi, angiver højde over havet, b. indstillet på en QFE-værdi, angiver højde over det til QFE-værdien  
+
+ svarende referenceplan eller c. indstillet på trykket 1013,2 hPa (1013,2 mb), kan anvendes for at  
+
+ angive flyveniveauer.
+ Anm. 2: Udtrykkene »højde« og »højde over havet«,  
+
+ anvendt i anm. 1 ovenfor, angiver højdemålerværdier og ikke geometriske  
+
+ højder.
+ Flyveplads (Aerodrome):
+ Et bestemt område på land eller vand (omfattende bygninger, installationer  
+
+ og udstyr) beregnet til anvendelse helt eller delvis ved landing, start og  
+
+ manøvrering af luftfartøjer.
+ Flyveplads, alternativ (Aerodrome, Alternate):
+ En i flyveplanen nævnt flyveplads, hvortil en flyvning kan fortsætte, når  
+
+ landing på bestemmelsesstedet ikke skønnes tilrådelig.
+ Anm.: En alternativ flyveplads kan være startflyvepladsen.
+ Flyveplads, offentlig (Aerodrome, Public):
+ En flyveplads, der er godkendt af Statens Luftfartsvæsen, og som på  
+
+ nærmere fastsatte vilkår er åben for offentligheden.
+ Flyvepladsflyveinformationstjeneste (Aerodrome Flight Information  
+
+ Service):
+ Flyveinformationstjeneste for flyvepladstrafik.
+ Flyvepladstrafik (Aerodrome Traffic):
+ Al trafik på en flyveplads' manøvreområde og al trafik i luften i nærheden  
+
+ af en flyveplads.
+ Anm.: Et luftfartøj er i nærheden af en flyveplads, når det befinder sig  
+
+ i, går ind i eller forlader dennes trafikrunde.
+ Flyveplan (Flight Plan):
+ Specificerede oplysninger vedrørende et luftfartøjs påtænkte flyvning  
+
+ eller en del heraf, afgivet til en lufttrafiktjenesteenhed.
+ Flyvesigtbarhed (Flight Visibility):
+ Sigtbarheden fremefter fra cockpittet i et luftfartøj under flyvning.
+ Flyvestatus (Flight Status):
+ Angivelse af, om et bestemt luftfartøj kræver særlig behandling af  
+
+ lufttrafiktjenesteenheder.
+ Flyvevej (Track):
+Den lodrette projektion på jordens overflade af et luftfartøj under  
+
+ flyvning.
+Retningen i et givet punkt udtrykkes i grader fra nord (retvisende,  
+
+ misvisende eller grid).
+ Forbudt område (Prohibited Area):
+ Et nærmere afgrænset luftrum over en stats territorium eller territoriale  
+
+ farvand, inden for hvilket flyvning er forbudt.
+ Forplads (Apron):
+ Et på en landflyveplads afgrænset område, som er beregnet til  
+
+ luftfartøjers ophold under optagning eller afsætning af passagerer eller  
+
+ gods, tankning, parkering eller vedligeholdelse.
+ Forpladstjeneste (Apron Management Service):
+ En tjeneste, der har til opgave at regulere kørsel med luftfartøjer og  
+
+ køretøjer samt andre aktiviteter på forpladsen.
+ Forventet afgangstidspunkt (Estimated Off-Block Time):
+ Tidspunktet, på hvilket luftfartøjet forventes at påbegynde udkørsel til  
+
+ start.
+ Forventet indflyvningstidspunkt (Expected Approach Time):
+ Tidspunktet, på hvilket en flyvekontrolenhed forventer, at et ankommende  
+
+ luftfartøj efter en forsinkelse vil forlade ventepunktet for at fuldføre  
+
+ indflyvning til landing.
+ Anm.: Det aktuelle tidspunkt, på hvilket ventepunktet forlades, vil være  
+
+ afhængig af indflyvningsklareringen.
+ Gennemgangshøjde (Transition Altitude - TA):
+ Den højde over havet, i eller hvorunder et luftfartøjs lodrette position  
+
+ (flyvehøjde) kontrolleres med reference til middelvandstanden.
+ Gældende flyveplan (Current Flight Plan):
+ Flyveplanen inklusive eventuelle ændringer, fremkommet ved senere  
+
+ klareringer.
+ Højde (Height):
+ Den lodrette afstand fra et angivet referenceplan til et niveau, et punkt  
+
+ eller en genstand betragtet som værende et punkt.
+ Højde over havet (Altitude):
+ Den lodrette afstand fra middelvandstanden til et niveau, et punkt eller  
+
+ en genstand betragtet som værende et punkt.
+ IFR (Instrument Flight Rules):
+ Instrumentflyveregler.
+ IFR-flyvning (IFR Flight):
+ Flyvning udført i overensstemmelse med instrumentflyvereglerne.
+ Indflyvningskontrol (Approach Control Office - APP):
+ En enhed, som yder flyvekontroltjeneste for ankommende og afgående  
+
+ flyvninger ved en eller flere flyvepladser.
+ Indflyvningskontroltjeneste (Approach Control Service):
+ Flyvekontroltjeneste for ankommende og afgående flyvninger.
+ Indhentende luftfartøj (Overtaking Aircraft):
+ Et luftfartøj, der nærmer sig et andet luftfartøj bagfra under en vinkel,  
+
+ der er mindre end 70 grader målt fra det indhentede luftfartøjs længdeakse.
+ Indikeret hastighed (Indicated Airspeed - IAS):
+ Den hastighed, der aflæses på fartmåleren.
+ Indleveret flyveplan (Filed Flight Plan):
+ Flyveplanen, som den er indleveret af luftfartøjschefen eller dennes  
+
+ stedfortræder til en lufttrafiktjenesteenhed, og uden efterfølgende  
+
+ ændringer.
+ Instrumentindflyvningsprocedure (Instrument Approach Procedure):
+En serie forudbestemte manøvrer, som udføres under anvendelse af  
+
+ flyveinstrumenter.
+Manøvrerne er beskyttet mod hindringer fra  
+
+ indflyvningspunktet eller fra begyndelsen af en fastsat indflyvningsrute til  
+
+ et punkt, hvorfra landing kan udføres, og i tilfælde af, at landing ikke  
+
+ udføres, til en position, hvor kriterierne for hindringsfrihed under  
+
+ venteflyvning eller strækflyvning gælder.
+ Instrumentvejrforhold (Instrument Meteorological Conditions - IMC):
+ Vejrforhold, udtrykt i værdier for sigtbarhed, afstand fra skyer og  
+
+ skydækkehøjde, der er mindre end de for visuelle vejrforhold fastsatte  
+
+ minima.
+ Interception (Interception):
+ En militær handling rettet mod et luftfartøj, oftest med henblik på at  
+
+ fastslå dettes identitet.
+ Klarering (Air Traffic Control Clearance):
+ Tilladelse til at udføre lufttrafik i overensstemmelse med de nærmere  
+
+ betingelser, der er angivet af en flyvekontrolenhed.
+ Klareringsgrænse (Clearance Limit):
+ Det punkt, hvortil et luftfartøj har modtaget klarering.
+ Kontrolcentral (Area Control Centre - ACC):
+ En enhed, som udøver flyvekontroltjeneste for flyvninger inden for  
+
+ kontrolområder under dens ansvarsområde.
+ Kontrolleret flyveplads (Controlled Aerodrome):
+ En flyveplads, hvor der ydes flyvekontroltjeneste for flyvepladstrafik.
+ Kontrolleret flyvning (Controlled Flight):
+ Enhver flyvning, for hvilken der ydes flyvekontroltjeneste.
+ Kontrolleret luftrum (Controlled Airspace):
+ Et nærmere afgrænset luftrum, inden for hvilket der ydes  
+
+ flyvekontroltjeneste.
+ Kontrolleret luftrum (forbeholdt IFR) (Controlled Airspace (Instrument  
+
+ Restricted)):
+ Kontrolleret luftrum, inden for hvilket kun IFR-flyvning er tilladt.
+ Kontrolleret luftrum (IFR/VFR) (Controlled Airspace (Instrument/Visual)):
+ Kontrolleret luftrum, inden for hvilket kun IFR- og kontrolleret  
+
+ VFR-flyvning er tilladt.
+ Kontrolleret luftrum (VFR ikke-kontrolleret) (Controlled Airspace (Visual  
+
+ Exempted)):
+ Kontrolleret luftrum, inden for hvilket både IFR-og VFR-flyvning er  
+
+ tilladt, men VFR-flyvning ikke er kontrolleret.
+ Kontrolleret VFR-flyvning (Controlled VFR-flight):
+ En kontrolleret flyvning udført i overensstemmelse med  
+
+ visuelflyvereglerne.
+ Kontrolområde (Control Area - CTA):
+ Et kontrolleret luftrum, der strækker sig opefter fra en fastsat grænse  
+
+ over jordens eller vandets overflade.
+ Kontroltårn (Aerodrome Control Tower - TWR):
+ En enhed, der yder flyvekontroltjeneste for flyvepladstrafik.
+ Kontrolzone (Control Zone - CTR):
+ Et kontrolleret luftrum, der strækker sig opefter fra jordens eller  
+
+ vandets overflade til en fastsat øvre grænse.
+ Kritisk fase (Emergency Phase):
+ Fællesbetegnelse for uvishedsfase, beredskabsfase og nødfase.
+ Kunstflyvning (Aerobatic Flight):
+ Manøvrer, der udføres med et luftfartøj for at opnå en brat ændring af  
+
+ flyvestillingen, en unormal flyvestilling eller unormal ændring af  
+
+ hastigheden.
+ Kørsel (Taxiing):
+Et luftfartøjs bevægelse ved egen kraft på en flyveplads, bortset fra  
+
+ start og landing.
+For en helikopter tillige flyvning over flyvepladsen i  
+
+ ground effect med kørselshastighed.
+ Luftfartsradiostation (Air-Ground Station/A-G Station):
+ En luftfartsstation (jordstation), der varetager radiokommunikation med  
+
+ luftfartøjer for en lufttrafiktjenesteenhed.
+ Luftfartsstation (Aeronautical Station):
+En jordstation, der varetager to-vejs radiokommunikation med luftfartøjer.  
+
+ Luftfartsstationens kaldesignal angiver den kategori tjeneste, som stationen  
+
+ udøver.
+En luftfartsstation kan være placeret om bord i et skib eller på en  
+
+ platform på havet.
+ Luftfartøj (Aircraft):
+ En indretning, der kan bæres oppe i atmosfæren ved luftens påvirkning,  
+
+ bortset fra indretninger, der bæres oppe alene ved direkte luftpåvirkning på  
+
+ jordens overflade.
+ Luftfartøjschef (Pilot-in-Command):
+ Den pilot, der er ansvarlig for luftfartøjets føring og sikkerhed i  
+
+ flyvetiden.
+ Lufttrafik (Air Traffic):
+ Al trafik med luftfartøjer under flyvning eller under manøvrering på en  
+
+ flyveplads' manøvreområde.
+ Lufttrafiktjeneste (Air Traffic Service - ATS):
+En tjeneste, der har til opgave at a. forebygge sammenstød mellem luftfartøjer, b. forebygge sammenstød på manøvreområdet mellem luftfartøjer og  
+
+ hindringer, c. fremme og regulere lufttrafik, d. give råd og oplysninger af betydning for flyvningers sikre og effektive  
+
+ udførelse og e. underrette henholdsvis kontrolcentral eller flyveinformationscentral og  
+
+ redningscentral om luftfartøjer, der har behov for eftersøgnings-og  
+
+ redningstjeneste, og i nødvendigt omfang assistere disse.
+ Lufttrafiktjenesteenhed (Air Traffic Services Unit):
+ Fællesbetegnelse omfattende flyvekontrolenhed, flyveinformationscentral,  
+
+ meldekontor for lufttrafiktjeneste og AFIS-enhed.
+ Luftvej (Airway):
+ Et kontrolområde eller en del deraf, udformet som en korridor og udstyret  
+
+ med radionavigationshjælpemidler.
+ Manøvreområde (Manoeuvring Area):
+ Den del af en flyveplads, der anvendes til luftfartøjers start, landing og  
+
+ kørsel, bortset fra forpladsen.
+ Marchfart (Cruising Speed):
+ Planlagt egenfart i marchhøjden.
+ Marchhøjde (Cruising Level):
+ En flyvehøjde, hvori en væsentlig del af en flyvning foregår.
+ Marchstigning (Cruise Climb):
+ En stigeteknik, som indebærer en forøgelse af luftfartøjets højde,  
+
+ efterhånden som dets vægt formindskes.
+ Meldekontor for lufttrafiktjeneste (Air Traffic Services Reporting  
+
+ Office):
+ En enhed, oprettet med det formål at modtage og videregive meldinger  
+
+ vedrørende lufttrafiktjeneste samt udøve alarmeringstjeneste.
+ Nød (Distress):
+ En situation, hvori man trues af en alvorlig og overhængende fare og som  
+
+ kræver øjeblikkelig hjælp.
+ Nødfase (Distress Phase):
+En situation, hvor der er rimelig vished for, at et luftfartøj og de  
+
+ ombordværende befinder sig i alvorlig og overhængende fare og har behov for  
+
+ øjeblikkelig assistance.
+Kodebetegnelse DETRESFA.
+ Områdekontroltjeneste (Area Control Service):
+ Flyvekontroltjeneste for flyvninger inden for et kontrolområde.
+ Omstillingspunkt (Change-Over Point):
+ Det punkt, hvor det forventes, at et luftfartøj, som navigerer langs et  
+
+ afsnit af en ATS-rute, som er angivet ved hjælp af VOR/NDB-stationer, ændrer  
+
+ sin primære navigationsreference fra et bagved liggende til det nærmest  
+
+ foranliggende hjælpemiddel.
+ Proceduredrej (Procedure Turn):
+ En manøvre, hvor der foretages et drej bort fra en given flyvevej  
+
+ efterfulgt af et drej i den modsatte retning, således at luftfartøjet når ind  
+
+ på og fortsætter i den modsatte retning af den oprindelige flyvevej.
+ Anm.: Proceduredrej angives som »venstre« eller  
+
+ »højre« afhængig af retningen af det første drej.
+ Rapportpunkt (Reporting Point):
+ Et nærmere fastsat geografisk sted, i forhold til hvilket et luftfartøjs  
+
+ position kan angives.
+ Redningscentral (Rescue Coordination Centre):
+ En enhed, som inden for en eftersøgnings- og redningsregion er ansvarlig  
+
+ for organiseringen af eftersøgnings- og redningstjeneste og for samordningen  
+
+ af eftersøgnings- og redningsaktioner inden for denne region.
+ Restriktionsområde (Restricted Area):
+ Et nærmere afgrænset luftrum over en stats territorium eller territoriale  
+
+ farvand, inden for hvilket flyvning kun må foregå på visse nærmere angivne  
+
+ betingelser.
+ Rullevej (Taxiway):
+ En vej, der er anlagt på en landflyveplads til brug for luftfartøjer under  
+
+ kørsel fra en del af flyvepladsen til en anden, herunder:
+a.
+Rullevej ved standplads.
+Den del af et rullevejssystem, som findes på  
+
+ forpladsen, og som kun har til formål at give adgang til standpladser.
+b.
+Rullevej på forplads.
+Den del af et rullevejssystem, som findes på  
+
+ forpladsen, og som i en gennemgående rute krydser forpladsen.
+c.
+Rullevej til hurtig frakørsel.
+En rullevej, som slutter sig til en bane  
+
+ i en spids vinkel, således at landende luftfartøjer kan køre fri af banen med  
+
+ en højere hastighed, end det ellers er muligt, med det formål at nedbringe  
+
+ den tid, banen er optaget.
+ Signalområde (Signal Area):
+ Et område på en flyveplads, på hvilket jordsignaler udlægges.
+ Sigtbarhed (Visibility):
+ Den horisontale afstand udtrykt i længdeenheder, i hvilken det afhængigt  
+
+ af atmosfæriske forhold er muligt om dagen af identificere iøjnefaldende,  
+
+ ubelyste genstande og om natten iøjnefaldende, belyste genstande.
+ Sigtbarhed ved jorden (Ground Visibility):
+ Sigtbarheden på en flyveplads, angivet af en godkendt observatør.
+ Skydækkehøjde (Ceiling):
+ Højden over jorden eller vandet af underkanten af det laveste skylag under  
+
+ 6000 m (20.000 FT), der dækker mere end halvdelen af himlen.
+ Slutindflyvning (Final Approach):
+Den del af en instrumentindflyvningsprocedure, som begynder ved det  
+
+ angivne slutindflyvningspunkt, og som slutter ved et punkt i nærheden af  
+
+ flyvepladsen, fra hvilket landing kan foretages, eller procedure for afbrudt  
+
+ indflyvning påbegyndes.
+Hvis der ikke er angivet et slutindflyvningspunkt,  
+
+ begynder slutindflyvning a. ved afslutningen af det sidste procedure- eller basedrej eller b. ved det punkt, hvor luftfartøjet begynder at følge den sidste kurs, som  
+
+ er angivet i indflyvningsproceduren.
+ Speciel VFR-flyvning (Special VFR-Flight):
+ En kontrolleret VFR-flyvning, udført efter tilladelse fra en  
+
+ flyvekontrolenhed i en kontrolzone under vejrforhold, der er dårligere end de  
+
+ visuelle vejrforhold.
+ Standardflyveplan (Repetitive Flight Plan):
+ En flyveplan for en række af hyppigt gentagne og regelmæssigt udførte  
+
+ individuelle flyvninger med enslydende grunddata, som et luftfartsforetagende  
+
+ har indleveret til opbevaring og gentagen brug ved lufttrafiktjenesteenheder.
+ Styret kurs (Heading):
+ Retningen af et luftfartøjs længdeakse under flyvning, udtrykt i grader  
+
+ fra nord (retvisende, misvisende, devierende eller grid).
+ Terminalområde (Terminal Control Area - TMA):
+ Et kontrolområde oprettet i tilknytning til en eller flere flyvepladser.
+ Tjenestetid (Hours Where Service Is Provided):
+ Den periode, hvor der på en offentlig flyveplads ydes flyvepladstjeneste  
+
+ og lufttrafiktjeneste.
+ Trafikinformationsområde (Traffic Information Area - TIA):
+ Et nærmere afgrænset, ikke-kontrolleret luftrum, der strækker sig opefter  
+
+ fra en nærmere fastsat grænse over jordens eller vandets overflade til en  
+
+ nærmere fastsat øvre grænse, og som er oprettet i tilknytning til en  
+
+ trafikinformationszone.
+ Trafikinformationszone (Traffic Information Zone -TIZ):
+ Et nærmere afgrænset, ikke-kontrolleret luftrum, der strækker sig opefter  
+
+ fra jordens eller vandets overflade til en nærmere angivet øvre grænse, og  
+
+ som er oprettet omkring en ikke-kontrolleret flyveplads.
+ Trafikområde (Movement Area):
+ Den del af en flyveplads, der anvendes til luftfartøjers start, landing og  
+
+ kørsel, inklusive manøvreområde og forplads(er).
+ Trafikrunde (Aerodrome Traffic Circuit):
+ Den flyvevej, som luftfartøjer følger under flyvning i nærheden af en  
+
+ flyveplads.
+ Trafikzone (Aerodrome Traffic Zone - ATZ):
+ Et nærmere afgrænset luftrum, oprettet omkring en flyveplads til  
+
+ beskyttelse af flyvepladstrafik.
+ Trykhøjde (Pressure Altitude):
+ Et atmosfærisk tryk, som angives i den højde over havet, som svarer til  
+
+ det pågældende tryk i standardatmosfæren.
+ Tårnkontroltjeneste (Aerodrome Control Service):
+ Flyvekontroltjeneste for flyvepladstrafik.
+ Ubemandet friballon (Unmanned Free Balloon):
+ Et ubemandet luftfartøj, der i fri flyvning er lettere end luft, og som  
+
+ ikke fremdrives ved egen kraft under flyvning.
+ Ubemandede friballoner inddeles i 3 kategorier:
+a.
+Let : En ubemandet friballon, som medfører en nyttelast bestående af en  
+
+ eller flere enheder med en samlet vægt på mindre end 4 kg, medmindre den  
+
+ klassificeres som TUNG i overensstemmelse med c 2), 3) eller 4), eller b.
+Middel : En ubemandet friballon, som medfører en nyttelast bestående af  
+
+ en eller flere enheder med en samlet vægt på 4 kg eller derover, men mindre  
+
+ end 6 kg, medmindre den klassificeres som TUNG i overensstemmelse med c 2),  
+
+ 3) eller 4), eller c.
+Tung : En ubemandet friballon, som medfører en nyttelast, som Uvishedsfase (Uncertainty Phase):
+En situation, hvor der hersker uvished om et luftfartøjs og de  
+
+ ombordværendes sikkerhed.
+Kodebetegnelse INCERFA.
+ Vejrobservationstjeneste (Meteorological Observation Service):
+ En tjeneste, der har til opgave at observere flyvepladsens aktuelle  
+
+ vejrforhold og at udfærdige meteorologiske meldinger til brug for luftfarten.
+ VFR (Visual Flight Rules):
+ Visuelflyveregler.
+ VFR-flyvning (VFR Flight):
+ Flyvning udført i overensstemmelse med visuelflyvereglerne.
+ Visuelle vejrforhold (Visual Meteorological Conditions - VMC):
+ Vejrforhold udtrykt i værdier for sigtbarhed, afstand fra skyer og  
+
+ skydækkehøjde, der er lig med eller større end fastsatte minima.
+ Wake turbulence kategori (Wake Turbulence Category):
+ Wake Turbulence er en inddeling af luftfartøjer på grundlag af maksimalt  
+
+ tilladte startmasse (MTOM). Luftfartøjer inddeles til dette formål i 3  
+
+ kategorier:
+a.
+Let (Light - L): Alle luftfartøjstyper med MTOM 7.000 kg eller  
+
+ derunder.
+b.
+Middel (Medium - M): Alle luftfartøjstyper med MTOM mellem 136.000 kg  
+
+ og 7.000 kg.
+c.
+Tung (Heavy - H): Alle luftfartøjstyper med MTOM 136.000 kg eller  
+
+ derover.
+ Åbningstid (Hours Where Aerodrome Is Available For Use):
+ Den periode, en offentlig flyveplads er stillet til rådighed for luftfart.
+2. Ikrafttræden 2.1 Denne BL træder i kraft den 3. maj 1990.
+ 2.2 Samtidig ophæves BL 7-10, 2. udgave, af 21. november 1985.

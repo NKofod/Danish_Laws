@@ -1,0 +1,1330 @@
+Juni 1977 GENERALDIREKTORATET FOR POST-OG TELEGRAFVÆSENET.
+INDLEDNING Nærværende tekniske bestemmelser er udfærdiget i henhold til ministeriet  
+
+ for offentlige arbejders bekendtgørelse om radiostationer i skibe og  
+
+ luftfartøjer.
+ Bestemmelserne indeholder de minimumskrav, som et radiotelefonudstyrs  
+
+ sender og/eller modtager skal opfylde for at kunne godkendes af post- og  
+
+ telegrafvæsenet som skibsstationens eneste VHF-anlæg for brug i den maritime  
+
+ VHF-tjeneste.
+ Bestemmelserne er baseret på CEPT (Conference of European postal and  
+
+ Telecommunications Administrations) rekommandation T/R 12, annex II  
+
+ vedrørende målemetoder og specifikationer for radiotelefonudstyr i den  
+
+ maritime tjeneste.
+For anlæg til supplerende og/eller specielle formål inden for den maritime  
+
+ VHF-tjeneste - f.eks. bærbare anlæg - kan supplerende eller andre  
+
+ bestemmelser kræves opfyldt.
+INDHOLDSFORTEGNELSE. side 1 OPLYSNINGER VEDR.
+AFPRØVNING, GODKENDELSE OG GEBYR 7 1.1 Anmodning om afprøvning 1.2 Indlevering af anlæg til afprøvning 1.3 Valg af anlæg til afprøvning 1.4 Godkendelse 1.5 Gebyr for afprøvning 2 ALMINDELIGE KRAV TIL ANLÆGGET 10 2.1 Anlæggets konstruktion 2.2 Betjeningsgreb 2.3 Højttaler og mikrotelefon 2.4 Kanalskift 2.5 Overspændninger, sikkerhedskrav m.v.
+2.6 Bølgetyper og modulationskarakteristikker 2.7 Antal kanaler 2.8 Frekvensområder 2.9 Opvarmningstid 3 AFPRØVNINGSBETINGELSER 15 3.1 Anvendelse af afprøvningsbetingelserne 3.2 Spændingsforsyning 3.3 Normale afprøvningsbetingelser 3.4 Særlige afprøvningsbetingelser 3.5 Temperaturprøver 3.6 Miljøprøver 3.7 Kunstantenne 3.8 Prøvesignaler på udstyrets indgange 3.9 Standard modulation 3.10 Psofometrisk filter 3.11 Modtagerens squelch kredsløb 3.12 Afprøvning af udstyr med dupleksfilter 4 SENDER 4.1 Frekvensafvigelse 19 4.2 Bærebølgeeffekt 4.3 Maksimalt frekvenssving 4.4 Begrænsning af frekvenssvinget ved modulationsfrekvenser over 3 kHz 4.5 Modulatorens begrænserkarakteristik 4.6 Følsomhed af modulatoren incl. mikrofonen 4.7 Modulationskarakteristik 4.8 Modulationsforvrængning 4.9 Nabokanaleffekt 4.10 Restmodulation 4.11 Uønsket udstråling over antenneklemmerne 5 MODTAGER 26 5.1 Nominel udgangseffekt og klirfaktor 5.2 Lavfrekvenskarakteristik 5.3 Følsomhed 5.4 Undertrykkelse af et uønsket signal på samme kanal 5.5 Nabokanalselektivitet 5.6 Dæmpning af uønskede signaler (spurious responses) 5.7 Intermodulationsdæmpning 5.8 Blokering 5.9 Uønsket udstråling over antenneklemmerne 5.10 Begrænserens amplitudekarakteristik 5.11 Støj og brum 5.12 Squelchens funktion 6 DUPLEKS DRIFT 35 6.1 Reduktion af modtagerens følsomhed ved samtidig sending og modtagning 6.2 Modtagerens dæmpning af uønskede signaler ved samtidig sending og modtagning 1 OPLYSNINGER VEDR.
+AFPRØVNING, GODKENDELSE OG GEBYR 1.1 Anmodning om afprøvning Når et anlæg ønskes afprøvet med henblik på godkendelse, rettes af en  
+
+ dansk fabrikant eller en dansk repræsentant skriftlig henvendelse herom til  
+
+ Post- og telegrafvæsenet Radioteknisk Tjeneste Islands Brygge 83 C, 4. 2300  
+
+ København S Anmodning om afprøvning skal indeholde oplysninger om anlæggets fabrikat  
+
+ og typebetegnelse samt de for afprøvningen nødvendige tekniske  
+
+ specifikationer bl.a.:
+Frekvensområde Kanalantal Frekvensområde inden for hvilket der kan skiftes kanaler Driftsform (simpleks, semidupleks eller dupleks) Driftsspænding Maksimalt effektforbrug Senderens afprøvningsfrekvens(er) Sendeeffekt (nominel) Mikrofonimpedans Modtagerens afprøvningsfrekvens(er) LF-udgangseffekt (nominel) Højttalerimpedans Anmodningen bør endvidere forsynes med oplysning om, hvem der er teknisk  
+
+ sagsbehandler hos rekvirenten.
+ Anmodningen om afprøvning skal være ledsaget af en komplet teknisk  
+
+ beskrivelse af anlægget, bl.a. indeholdende diagrammer og styklister.
+Endvidere skal der medsendes en målerapport med måleresultater omfattende  
+
+ alle de i bestemmelserne beskrevne målinger.
+Har fabrikken ved sine målinger  
+
+ set sig nødsaget til at anvende målemetoder eller målebetingelser, der ikke  
+
+ er helt identiske med nærværende bestemmelser, skal målerapporten indeholde  
+
+ de fornødne oplysninger herom.
+Post- og telegrafvæsenet afgør herefter, om en  
+
+ sådan målerapport kan godtages.
+ Målerapporter og beskrivelser, der indleveres i forbindelse med  
+
+ typeafprøvning af anlæg, er post- og telegrafvæsenets ejendom.
+1.2 Indlevering af anlæg til afprøvning Anlægget, som ønskes afprøvet, indleveres til Post- og telegrafvæsenet  
+
+ Radioteknisk Tjeneste Islands Brygge 83 C, 4. 2300 København S Tlf. (01) 54  
+
+ 47 96, lokal 238 Al transport af anlæg til og fra radioingeniørtjenesten påhviler  
+
+ rekvirenten.
+Post- og telegrafvæsenet kan forlange, at rekvirenten opstiller,  
+
+ tilslutter og klargør anlægget til afprøvning.
+1.3 Valg af anlæg til afprøvning Fabrikanten skal normalt stille et eksemplar taget fra produktionen til  
+
+ rådighed for afprøvningen.
+Hvis typegodkendelsen gives på grundlag af  
+
+ målinger på en prototype, skal de tilsvarende produktionseksemplarer i enhver  
+
+ relevant henseende være identiske med det afprøvede eksemplar.
+Typegodkendelsesmålingerne behøver normalt kun at blive foretaget på 3  
+
+ kanaler, hvoraf den ene er kanal 16 (156,800 MHz). Af de to andre kanaler  
+
+ vælges den ene nær den nedre grænse og den anden nær den øvre grænse af det  
+
+ frekvensområde, inden for hvilket der kan skiftes kanaler.
+Post- og  
+
+ telegrafvæsenet forbeholder sig dog ret til at forlange udstyr for afprøvning  
+
+ på andre kanaler inden for udstyrets frekvensområde, hvis man skønner, at  
+
+ særlige omstændigheder gør sig gældende.
+1.4 Godkendelse Godkendelse kan efter post- og telegrafvæsenets afgørelse i hvert enkelt  
+
+ tilfælde gives enten som en typegodkendelse eller som en godkendelse af  
+
+ enkelteksemplar.
+ Alle anlæg af godkendt type skal opfylde nærværende bestemmelser og en  
+
+ typegodkendelse forudsætter, at samtlige fremstillede anlæg af typen både med  
+
+ hensyn til strømskemaer, komponenter og montering er identiske med det  
+
+ afprøvede.
+Anlæg, der ikke i radiomæssig og andre væsentlige henseender er identiske,  
+
+ må ikke bære samme typebetegnelse.
+Foretages der ændringer, må der gives ny  
+
+ typebetegnelse, hvilket vil medføre krav om ny afprøvning, såfremt  
+
+ ændringerne har relation til de gældende bestemmelser.
+Post- og  
+
+ telegrafvæsenet forbeholder sig ret til ved skøn at afgøre, om anlæg er  
+
+ identiske i henhold til ovenstående, og om ny afprøvning er nødvendig.
+Det er en forudsætning for opretholdelse af en typegodkendelse, at post-  
+
+ og telegrafvæsenet med henblik på kontrolmålinger på et hvilket som helst  
+
+ tidspunkt uhindret kan udvælge eksemplarer af vedkommende anlægstype fra  
+
+ lager hos fabrikant eller importør, eventuelt forhandler.
+Såfremt det herved  
+
+ eller på anden måde konstateres, at anlæggene ikke opfylder de gældende  
+
+ bestemmelser, eller såfremt godkendelsens vilkår i øvrigt tilsidesættes, kan  
+
+ godkendelsen annulleres både for allerede ibrugtagne anlæg og for ikke  
+
+ ibrugtagne anlæg af vedkommende type.
+ Givne godkendelser kan annulleres.
+ Godkendelsen omfatter kun forhold, der angår de af post- og  
+
+ telegrafvæsenet fastsatte bestemmelser og tager ikke sigte på generelt at  
+
+ omfatte andre myndigheders eventuelle krav til anlæggene og deres  
+
+ installation.
+1.5 Gebyr for afprøvning For afprøvning af et kombineret sende/modtageanlæg med henblik på  
+
+ godkendelse som type eller enkelteksemplar opkræves et gebyr på 5000 kr. pr.  
+
+ prøve, excl. merværdiafgift.
+ Post- og telegrafvæsenet kan efter eget skøn fastsætte et gebyr mindre end  
+
+ 5000 kr. i følgende tilfælde:
+ - hvis anlægstypen eller enkelteksemplaret ikke godkendes efter første  
+
+ afprøvning, og det efter post- og telegrafvæsenets skøn ikke er nødvendigt at  
+
+ foretage en komplet fornyet afprøvning.
+ - hvis anlægstypen eller enkelteksemplaret består alene af en sender eller  
+
+ en modtager.
+ - hvis anlægstypen eller enkelteksemplaret adskiller sig så lidt fra en  
+
+ allerede godkendt type, at komplet fornyet afprøvning efter post- og  
+
+ telegrafvæsenets skøn ikke er nødvendig.
+2 ALMINDELIGE KRAV TIL ANLÆGGET 2.1 Anlæggets konstruktion 2.1.1 Anlægget skal være konstrueret i overensstemmelse med god  
+
+ ingeniørmæssig praksis og skal være egnet til brug om bord på skibe.
+ 2.1.2 Alle betjeningsgreb skal være af en sådan størrelse, at de er lette  
+
+ at betjene, og antallet af betjeningsgreb skal være det mindst mulige for  
+
+ bekvem og simpel betjening.
+ 2.1.3 Funktionen af alle måleinstrumenter, kontrollamper,  
+
+ tilslutningsklemmer, betjeningsgreb samt betjeningsgrebenes positioner skal  
+
+ være tydeligt angivet på anlægget.
+Anlægget skal være tydeligt mærket med fabrikat, typebetegnelse og  
+
+ løbenummer.
+Dette gælder også for eksemplarer, der indleveres til afprøvning.  
+
+ Mærkningen skal være placeret på anlæggets forplade.
+ Mærkningen skal være mekanisk solid og holdbar og kan f.eks udføres ved  
+
+ gravering, prægning eller ved anvendelse af metalskilt.
+2.1.4 Alle dele af anlægget, som kræver tilsyn eller justering, skal være  
+
+ let tilgængelige.
+Anlæggets enkelte dele skal være lette at identificere.
+2.1.5 Anlægget skal være forsynet med en kanalvælger, der viser hvilken  
+
+ kanal, anlægget er indstillet på.
+Kanalnummereringen skal være i  
+
+ overensstemmelse med radioreglementets appendiks 18. Kanalnummeret skal være  
+
+ let at aflæse under alle lysforhold.
+ 2.1.6 Anlægget skal ved manuel betjening kunne bruges ved een- frekvens  
+
+ drift (simpleks) eller to-frekvens drift (semidupleks). Desuden kan det have  
+
+ mulighed for to-frekvens drift uden manuel betjening (dupleks).
+2.1.7 Dersom modtageren kan benyttes til overvågning af to kanaler  
+
+ samtidigt (dual watch), skal den ene af kanalerne være kanal 16, og denne  
+
+ kanal skal altid have prioritet.
+På et sådant anlæg skal der endvidere  
+
+ forefindes en kontrollampe, der viser, når kanal 16 overvåges.
+ Mulighed for overvågning af mere end 2 kanaler (multiwatch) tillades ikke.
+ 2.1.8 Udstyr beregnet for dupleks drift skal være forsynet med  
+
+ dupleksfilter.
+2.2 Betjeningsgreb 2.2.1 På udstyret skal findes følgende betjeningsgreb:
+ - En afbryder for forsyningsspændingen (se dog pkt.2.9). Der skal ved  
+
+ opmærkning eller på anden måde være en let synlig indikation af, hvornår  
+
+ udstyret er i drift.
+ - En mikrotelefon med en ikke-låsende tast, der styrer senderens  
+
+ bærebølge.
+ - En afbryder for højttaleren.
+ - En kanalvælger med nød- og kaldekanalen (kanal 16) tydeligt afmærket.  
+
+ Brugen af kanal 75 og 76 (beskyttelsesbånd for kanal 16) skal være  
+
+ forhindret.
+- En omskifter, hvormed senderens udgangseffekt kan reduceres.
+Den  
+
+ reducerede udgangseffekt skal være mellem 0,1 og 1 watt (pkt. 4.2.3).
+ - En volumenkontrol for modtagerens udgangseffekt.
+ - En afbryder for squelch kredsløbet.
+ - En regulering, hvormed lyset i alle lamper på anlægget kan neddæmpes  
+
+ fuldstændigt.
+ 2.2.2 Anlægget skal endvidere opfylde følgende krav:
+ - Kun de indstillingsorganer, hvis betjening er nødvendig for anlæggets  
+
+ korrekte anvendelse, må være tilgængelige for brugeren.
+ - Hvis anlægget er beregnet for mere end eet kontrolpanel, skal et af  
+
+ disse have prioritet, og det skal indikeres på alle kontrolpaneler, når  
+
+ anlægget er i drift.
+ - På kanal 15 og 17 skal reduktionen af bærebølgeeffekten ske automatisk.  
+
+ Hvis anlægget kan bringes til at kunne benyttes på disse kanaler, skal det  
+
+ derfor indeholde de nødvendige kredsløb for en sådan automatisk reduktion.  
+
+ Kredsløbene tillades udført således, at de på simpel måde først tilsluttes  
+
+ kanalvælgersystemet, når kanalerne installeres i det enkelte anlæg; i så fald  
+
+ skal de nødvendige indgreb i anlægget være udførligt beskrevet i  
+
+ installationsforskriften.
+ 2.2.3 Anlægget anbefales forsynet med:
+ - En kontrollampe, der viser, når senderen er tastet.
+ - Et arrangement som bevirker, at der automatisk skiftes til lytning på  
+
+ kanal 16, når mikrotelefonen lægges på sin normale plads.
+2.3 Højttaler og mikrotelefon 2.3.1 Anlægget skal være forsynet med en mikrotelefon og en indbygget  
+
+ højttaler eller tilslutningsklemmer for en udvendig højttaler.
+ 2.3.2 Højttaleren skal kunne afbrydes, uden at lydstyrken i mikrotelefonen  
+
+ påvirkes.
+ 2.3.3 Ved simpleks drift skal modtagerudgangen være blokeret under  
+
+ sending.
+2.3.4 Ved dupleks drift skal højttaleren være afbrudt.
+Udstyret må ikke  
+
+ give anledning til generende elektrisk eller akustisk tilbagekobling.
+2.4 Kanalskift Skift fra en vilkårlig kanal til en hvilken som helst af de andre skal  
+
+ kunne foretages på mindre end 5 sekunder.
+ Skift fra sending til modtagning eller omvendt må højst vare 0,3 sekunder.
+ 2.5 Overspænding, sikkerhedskrav m.v.
+ 2.5.1 Anlægget skal være beskyttet mod virkningerne af overspændinger,  
+
+ transienter og polvending af forsyningsspændingen.
+2.5.2 På anlæggets kabinet skal der være tilslutningsmulighed for en  
+
+ jordledning.
+Ingen af anlæggets strømforsyningsterminaler må være forbundet  
+
+ til jordklemmen.
+2.5.3 Alle dele og forbindelsesledninger, hvor spændinger på mere end 50  
+
+ volt forekommer (HF-spændinger undtaget), skal være beskyttet mod utilsigtet  
+
+ berøring og skal automatisk frakobles spændingsforsyningen, når beskyttelsen  
+
+ fjernes.
+I stedet kan anlægget være konstrueret på en sådan måde, at adgang  
+
+ til sådanne spændingsførende dele kun kan opnås ved brug af værktøj, f.eks.  
+
+ skruetrækker eller skruenøgle.
+Der skal i sidstnævnte tilfælde anbringes  
+
+ iøjenfaldende advarselsskilte såvel inden i udstyret som på afskærmningen.
+ 2.5.4 Under udsendelse af sin maksimale udgangseffekt skal senderen uden  
+
+ at tage skade kunne modstå, at antenneklemmerne i en periode på mindst 5  
+
+ minutter er kortsluttede henholdsvis ubelastede.
+2.6 Bølgetyper og modulationskarakteristikker 2.6.1 Udstyret skal være indrettet for frekvensmodulation med en  
+
+ forbetoning på 6 dB/oktav (fasemodulation).
+ 2.6.2 Udstyret skal være beregnet til brug i et system med 25 kHz  
+
+ kanalafstand.
+ 2.6.3 Frekvenssvinget svarende til 100% modulation skal være så nær 5 kHz  
+
+ som muligt, og må under ingen omstændigheder være større end +/- 5 kHz.
+2.7 Antal kanaler Anlægget skal være indrettet med mulighed for at kunne bringes til  
+
+ funktion på mindst følgende antal kanaler:
+ - 12, hvis anlægget er indrettet alene for simpleks drift (een- frekvens  
+
+ kanaler).
+ - 12, hvis anlægget er indrettet alene for dupleks drift (to- frekvens  
+
+ kanaler).
+- 24, hvis anlægget er indrettet for både simpleks og dupleks drift.
+Heraf  
+
+ skal da mindst de 12 være for dupleks drift og mindst 8 for simpleks drift.
+2.8 Frekvensområder 2.8.1 Anlæg beregnet udelukkende til brug på een-frekvens kanaler skal  
+
+ kunne bruges i båndet 156,300 MHz - 156,875 MHz.
+ 2.8.2 Anlæg beregnet til brug på såvel een-frekvens kanaler som to-  
+
+ frekvens kanaler skal være indrettet for en frekvensafstand på 4.6 MHz mellem  
+
+ den til kanalen svarende sendefrekvens og modtagefrekvens, og anlægget skal  
+
+ kunne bruges i følgende frekvensbånd:
+2.9 Opvarmningstid Senest 1 minut efter at være tilsluttet forsyningsspændingen skal anlægget  
+
+ være fuldt driftklart, hvorved forstås, at samtlige krav i disse  
+
+ specifikationer skal være opfyldt.
+ Er anlægget forsynet med krystalovn eller andre kredsløb, som kræver  
+
+ opvarmning for at fungere korrekt, tillades for disse kredsløb en  
+
+ opvarmningstid på maksimalt 30 minutter, forudsat at den nødvendige  
+
+ forsyningsspænding til de pågældende kredse ikke kan afbrydes med de(n) på  
+
+ anlæggets kabinet anbragte normale driftafbryder(e). Disse kredse skal  
+
+ således kunne tilføres forsyningsspænding uden at anlægget iøvrigt aktiveres,  
+
+ og i betjeningsvejledningen skal den nødvendige opvarmningstid tydeligt  
+
+ anføres.
+Ovennævnte kredsløb skal være dimensioneret for kontinuerlig drift, og  
+
+ såfremt der på anlæggets kabinet findes en særlig afbryder for disse kredse,  
+
+ skal denne afbryders funktion klart fremgå af opmærkningen.
+I  
+
+ betjeningsvejledningen skal være anført, at disse kredse normalt skal være  
+
+ tilsluttet forsyningsspænding, således at anlæggets opvarmningstid ikke  
+
+ overskrider 1 minut.
+3 AFPRØVNINGSBETINGELSER 3.1 Anvendelse af afprøvningsbetingelserne For samtlige i disse bestemmelser nævnte krav foretages  
+
+ typegodkendelsesmålinger under de i pkt. 3.3 beskrevne normale  
+
+ afprøvningsbetingelser.
+For de krav, hvor det i det enkelte afsnit er nævnt,  
+
+ foretages målingerne endvidere under de i pkt. 3.4 omtalte særlige  
+
+ afprøvningsbetingelser.
+3.2 Spændingsforsyning Under typegodkendelsesmålingerne forsynes udstyret fra en udvendig  
+
+ spændingskilde, der kan levere forsyningsspændinger som beskrevet i pkt.  
+
+ 3.3.2 og 3.4.2. Spændingsforsyningens indre impedans skal være så lav, at  
+
+ dens indflydelse på måleresultaterne er uden betydning.
+ Forsyningsspændingen måles på udstyrets indgangsklemmer.
+ Under afprøvningen holdes forsyningsspændingen inden for +/- 3% af  
+
+ spændingen ved målingens påbegyndelse.
+ Fabrikanten opgiver, hvilken eller hvilke nominelle forsyningsspændinger,  
+
+ udstyret er beregnet for.
+3.3 Normale afprøvningsbetingelser 3.3.1 Normal temperatur og fugtighed Afprøvning under normale afprøvningsbetingelser foretages i et almindeligt  
+
+ laboratorium uden særlig kontrol af temperatur og fugtighed, d.v.s. ved  
+
+ temperaturer mellem + 15 grd C og + 35 grd C og relative fugtigheder mellem  
+
+ 20% og 75%.
+3.3.2 Forsyningsspændinger ved afprøvning under normale betingelser 3.3.2.1 Forsyning fra nettet.
+ Ved afprøvninger under normale betingelser tilføres udstyr, der er  
+
+ beregnet for tilslutning til det almindelige forsyningsnet, en  
+
+ forsyningsspænding lig forsyningsnettets nominelle spænding med frekvensen 50  
+
+ Hz (+/- 1 Hz).
+ 3.3.2.2 Forsyning fra blyakkumulatorer.
+ Hvor radioudstyret er beregnet til brug i forbindelse med blyakkumulatorer  
+
+ anvendes under afprøvningen en forsyningsspænding på 1,1 gange batteriets  
+
+ nominelle spænding (6 volt, 12 volt etc.).
+ 3.3.2.3 Andre former for spændingsforsyning.
+ For udstyr, der benytter andre typer spændingsforsyninger end ovennævnte,  
+
+ opgives afprøvningsspændingen af fabrikanten.
+3.4 Særlige afprøvningsbetingelser 3.4.1 Temperaturer ved afprøvning under særlige betingelser Ved afprøvning under særlige betingelser foretages målingerne i  
+
+ overensstemmelse med pkt. 3.5 ved temperaturerne -15 grd C og + 55 grd C.
+3.4.2 Forsyningsspændinger ved afprøvning under særlige betingelser 3.4.2.1 Forsyning fra nettet.
+ Forsyningsspændingerne for udstyr, der er beregnet for tilslutning til det  
+
+ normale forsyningsnet, vil ved afprøvninger under særlige betingelser være  
+
+ forsyningsnettets nominelle spænding +10%, henholdsvis -10%, med frekvensen  
+
+ 50 Hz (+/- 1 Hz).
+ 3.4.2.2 Forsyning fra blyakkumulatorer.
+ Hvor radioudstyret er beregnet til brug i forbindelse med  
+
+ blyakkumulatorer, måles der ved forsyningsspændinger på henholdsvis 1,3 og  
+
+ 0,9 gange batteriets nominelle spænding (6 volt, 12 volt etc.).
+ 3.4.2.3 Andre former for spændingsforsyning.
+ For udstyr, der benytter andre typer spændingsforsyninger end ovennævnte,  
+
+ opgives spændingsgrænserne af fabrikanten.
+3.5 Temperaturprøver Før hver afprøvning påbegyndes sørges for, at udstyret er i termisk  
+
+ ligevægt ved den ønskede temperatur i klimakammeret.
+Udstyret skal være  
+
+ afbrudt, indtil den termiske ligevægt er opnået.
+ Indeholder udstyret temperaturstabiliseringskredsløb, som er beregnet til  
+
+ at skulle fungere kontinuerligt, f.eks. krystalovne (jfr. pkt. 2.9),  
+
+ aktiveres disse kredsløb dog 30 minutter før de egentlige afprøvningsmålinger  
+
+ påbegyndes.
+Ved den høje temperatur skal kravene stadig være opfyldt, når senderen har  
+
+ været tastet en halv time.
+Ved den lave temperatur skal kravene være opfyldt,  
+
+ når udstyret har stået stand-by 1 minut.
+3.6 Miljøprøver 3.6.1 Generelt Før miljøprøverne påbegyndes, afprøves udstyret med hensyn til de øvrige  
+
+ krav i nærværende tekniske bestemmelser.
+Hvor udtrykket funktionsprøve i det  
+
+ følgende er anvendt menes en simpel afprøvning af operationel og elektrisk  
+
+ art for at konstatere, om udstyret er funktionsdygtigt.
+ De elektriske funktionsprøver udføres ved nominel forsyningsspænding, og  
+
+ resultaterne af disse medtages i afprøvningsrapporten.
+3.6.2 Fugtig varme Udstyret placeres i klimakammeret, hvor temperaturen hæves fra  
+
+ stuetemperatur til + 40 grd C (+/- 3 grd C), og den relative fugtighed øges  
+
+ til mindst 93% indenfor en periode på 2 timer.
+Temperaturen og den relative  
+
+ fugtighed i klimakammeret holdes på henholdsvis + 40 C (+/- 3 grd C) og 93%  
+
+ (+ 2%, -3%) i mindst 10 timer.
+ Eventuelle ventilatorer i udstyret må sættes i funktion de sidste 60  
+
+ minutter af prøveperioden.
+Prøveperioden afsluttes med en funktionsprøve af mindst 30 minutters  
+
+ varighed for at kontrollere, om udstyret er funktionsdygtigt under disse  
+
+ forhold.
+Idet udstyret forbliver i klimakammeret, bringes temperaturen heri  
+
+ ned til stuetemperatur i løbet af højst 60 minutter.
+Udstyret udsættes  
+
+ derefter for normal temperatur og fugtighed i en periode på 3 til 6 timer,  
+
+ før andre afprøvninger foretages.
+3.6.3 Lav temperatur Udstyret placeres i klimakammeret, hvis temperatur sænkes til -25 grd C  
+
+ (+/- 3 grd C og fastholdes der i en periode på mindst 10 timer.
+ Udstyret udsættes herefter for normal stuetemperatur i mindst 3 timer  
+
+ efterfulgt af en funktionsprøve til kontrol af, om udstyret stadig er  
+
+ funktionsdygtigt.
+3.6.4 Vibration Udstyret, komplet med eventuelle stødabsorberende anordninger, fastspændes  
+
+ på vibrationsbordet i normal brugsstilling.
+ Udstyret vibreres vertikalt - først over frekvensområdet 1 til 10 Hz med  
+
+ en spids til spids amplitude på 3,0 mm i et tidsrum på 15 minutter - dernæst  
+
+ over frekvensområdet 5 til 35 Hz med en spids til spids amplitude på 0,4 mm  
+
+ også i et tidsrum på 15 minutter.
+ I frekvensområdet 2,5 til 35 Hz er sweephastigheden af  
+
+ vibrationsfrekvensen mindst 1 oktav/minut.
+ Ovenstående vibrationsprøve foretages endvidere i to på hinanden  
+
+ vinkelrette retninger i den horisontale plan.
+I den udstrækning, det er muligt, holdes udstyret under opsyn ved  
+
+ afprøvningen.
+Dersom dele af udstyret vibrerer unormalt meget, undersøges  
+
+ disse nøjere.
+ Udstyret holdes i drift under alle vibrationsprøverne, og enkle  
+
+ funktionsprøver gennemføres for at sikre, at udstyret fungerer under disse  
+
+ omstændigheder.
+ Udstyret undersøges for mekaniske defekter efter afslutningen af  
+
+ vibrationsprøverne.
+3.7 Kunstantenne Hvor der ved målingerne anvendes en kunstantenne, består denne af en rent  
+
+ ohmsk, afskærmet belastning med en impedans på 50 ohm.
+3.8 Prøvesignaler på udstyrets indgange Medmindre anden fremgangsmåde er omtalt, frembringes senderens  
+
+ modulationssignal af en signalgenerator, der forbindes til mikrofonindgangen.  
+
+ Mikrofonindgangens nominelle impedans opgives af fabrikanten.
+ Signalgeneratorerne, der leverer prøvesignaler til modtagerens indgang,  
+
+ tilsluttes på en sådan måde, at impedansen set fra modtagerindgangen er 50  
+
+ ohm, uanset om modtageren påtrykkes eet eller flere signaler samtidigt.
+ Størrelsen af signalet eller signalerne, der påtrykkes modtageren under  
+
+ afprøvningen, udtrykkes ved den EMK (elektromotoriske kraft), der er på det  
+
+ sted, hvor modtageren tilsluttes.
+3.9 Standard modulation Ved standard modulation forstås modulation med et 1000 Hz, sinusformet  
+
+ signal med en sådan amplitude, at der frembringes et frekvenssving på +/- 3  
+
+ kHz.
+3.10 Psofometrisk filter Det psofometriske filter (for telefoni), der anvendes i visse af  
+
+ afprøvningsmålingerne, opfylder kravene anført i CCITT rekommandation P53.
+3.11 Modtagerens squelch kredsløb Medmindre anden fremgangsmåde er anført, sættes modtagerens squelch  
+
+ kredsløb ud af funktion under godkendelsesmålingerne.
+3.12 Afprøvning af udstyr med dupleksfilter Udstyr beregnet for dupleks drift skal opfylde kravene i disse tekniske  
+
+ bestemmelser, når antenneterminalen på dupleksfiltret benyttes under  
+
+ målingerne.
+4 SENDER 4.1 Frekvensafvigelse 4.1.1 Definition Senderens frekvensafvigelse er differensen mellem den målte  
+
+ bærebølgefrekvens og dennes nominelle værdi.
+4.1.2 Målemetode Bærebølgefrekvensen måles med senderen umoduleret og tilsluttet en  
+
+ kunstantenne (pkt. 3.7). Målingerne foretages under normale  
+
+ afprøvningsbetingelser samt under særlige afprøvningsbetingelser (pkt. 3.4.1  
+
+ og 3.4.2 anvendt samtidigt).
+4.1.3 Krav Senderens frekvensafvigelse må ikke være større end +/- 1,5 kHz under  
+
+ såvel normale som særlige afprøvningsbetingelser.
+4.2 Bærebølgeeffekt 4.2.1 Definition Bærebølgeeffekten er effekten, den umodulerede sender afgiver til  
+
+ kunstantennen (pkt. 3.7).
+Bærebølgeeffektens nominelle værdi er en maksimalværdi af sendertypens  
+
+ udgangseffekt uden modulation, hvor alle krav i nærværende tekniske  
+
+ bestemmelser er opfyldt.
+Den nominelle bærebølgeeffekt opgives af  
+
+ fabrikanten.
+4.2.2 Målemetode Senderen forbindes til en kunstantenne, og den afsatte effekt i denne  
+
+ måles.
+Målingerne foretages under normale afprøvningsbetingelser og under  
+
+ særlige afprøvningsbetingelser (pkt. 3.4.1 og 3.4.2 anvendt samtidigt).
+4.2.3 Krav Bærebølgeeffekten må under normale afprøvningsbetingelser ikke afvige mere  
+
+ end 1,5 dB fra den nominelle bærebølgeeffekt, når senderen afgiver fuld  
+
+ effekt (se pkt. 2.2.1 vedrørende omskifter for reduceret effekt).  
+
+ Bærebølgeeffekten skal, når senderen afgiver fuld effekt, være mellem 6 og 25  
+
+ watt under såvel normale som særlige afprøvningsbetingelser.
+ Når senderen er omkoblet til reduceret effekt, skal bærebølgeeffekten være  
+
+ mellem 0,1 og 1 watt under såvel normale som særlige afprøvningsbetingelser.
+4.3 Maksimalt frekvenssving 4.3.1 Definition Det maksimale frekvenssving er den maksimale afvigelse mellem det  
+
+ modulerede HF-signals øjebliksfrekvens og den umodulerede bærebølges  
+
+ frekvens.
+4.3.2 Målemetode Senderen tilsluttes en kunstantenne, og frekvenssvinget måles på senderens  
+
+ udgang med et frekvenssvingsmeter.
+Niveauet af modulationssignalet indstilles  
+
+ til at være 20 dB højere end niveauet ved standard modulation (pkt. 3.9).  
+
+ Modulationsfrekvensen varieres mellem den laveste frekvens, senderen er  
+
+ beregnet til at overføre, og 3 kHz.
+4.3.3 Krav Det maksimalt tilladte frekvenssving er +/- 5 kHz.
+4.4 Begrænsning af frekvenssvinget ved modulationsfrekvenser over 3 kHz 4.4.1 Målemetode Senderen belastes i overensstemmelse med pkt. 3.7 og moduleres til  
+
+ standard modulation.
+ Med fastholdt niveau af modulationssignalet varieres modulationsfrekvensen  
+
+ fra 3 kHz til 25 kHz, og det tilsvarende frekvenssving måles med et  
+
+ frekvenssvingsmeter.
+4.4.2 Krav For modulationsfrekvenser mellem 3 kHz og 6 kHz må frekvenssvinget ikke  
+
+ overstige frekvenssvinget ved 3 kHz.
+Ved 6 kHz må frekvenssvinget ikke være  
+
+ større end +/- 1,5 kHz.
+Ved modulationsfrekvenser mellem 6 kHz og 25 kHz skal frekvenssvinget, +/-  
+
+ x (kHz), opfylde betingelsen log10(x) <= 1,99 - 2,33 log10(f), hvor f er senderens modulationsfrekvens i kHz.
+Dette er ensbetydende med,  
+
+ at frekvenssvinget ikke må være større end det, som bestemmes af en linie  
+
+ gennem punktet (f,x) = (6 kHz, 1,5 kHz) med en hældning på - 14 dB/oktav.
+4.5 Modulatorens begrænserkarakteristik 4.5.1 Definition Modulatorens begrænserkarakteristik er et udtryk for senderens evne til at  
+
+ kunne moduleres op til det maksimalt tilladte frekvenssving som omtalt i pkt.  
+
+ 4.3.3.
+4.5.2 Målemetode Et modulationssignal med frekvensen 1000 Hz påtrykkes senderens  
+
+ mikrofonindgang, og niveauet indstilles således, at frekvenssvinget bliver  
+
+ +/- 1 kHz.
+Derpå øges modulationssignalet med 20 dB, og frekvenssvinget måles  
+
+ igen.
+Målingerne udføres under normale afprøvningsbetingelser og under  
+
+ særlige afprøvningsbetingelser (pkt 3.4.1 og 3.4.2 anvendt samtidigt).
+4.5.3 Krav Frekvenssvinget skal være mellem +/- 3,5 kHz og +/- 5 kHz.
+4.6 Følsomhed af modulatoren incl. mikrofonenu 4.6.1 Definition Denne karakteristik beskriver senderens evne til at frembringe et passende  
+
+ frekvenssving, når et nærmere specificeret, akustisk signal med et lydtryk  
+
+ svarende til middelværdien af lydstyrken i normal tale påtrykkes mikrofonen.
+4.6.2 Målemetode Et akustisk signal bestående af en tone med frekvensen 1000 Hz påtrykkes  
+
+ mikrofonen, således at lydtrykket på membranen bliver 94 dB over 2 x 10  
+
+ exp(5) Pascal, og det resulterende frekvenssving måles.
+4.6.3 Krav Frekvenssvinget skal være mellem +/- 3 kHz og +/- 4,5 kHz.
+4.7 Modulationskarakteristik 4.7.1 Definition Modulationskarakteristikken er modulationsindeksets variation som funktion  
+
+ af modulationsfrekvensen ved fastholdt niveau af modulationssignalet.
+4.7.2 Målemetode Senderen påtrykkes et modulationssignal med en frekvens på 1000 Hz og med  
+
+ et sådant niveau, at et frekvenssving på +/- 1 kHz opnås.  
+
+ Modulationssignalets frekvens varieres mellem 300 Hz og 3000 Hz, medens dets  
+
+ niveau holdes konstant på værdien ved 1000 Hz.
+De sammenhørende værdier af  
+
+ frekvenssving og modulationsfrekvens bestemmes.
+4.7.3 Krav Modulationsindekset (forholdet mellem frekvenssving og  
+
+ modulationsfrekvens) skal være mellem 0,71 og 1,12.
+4.8 Modulationsforvrængning 4.8.1 Definition Modulationsforvrængningen af et moduleret HF-signal er effektivværdien af  
+
+ spændingen af samtlige oversvingninger divideret med effektivværdien af den  
+
+ totale signalspænding efter lineær demodulation.
+4.8.2 Målemetode HF-signalet fra senderen tilføres gennem et tilpasningsnetværk en lineær  
+
+ frekvensdemodulator med en efterbetoning på 6 dB/oktav.
+ Målingerne foretages under såvel normale afprøvningsbetingelser som under  
+
+ særlige afprøvningsbetingelser (pkt. 3.4.1 og 3.4.2 anvendt samtidigt).
+ Ved normale afprøvningsbetingelser moduleres senderen successivt med en  
+
+ tone på 300 Hz, 500 Hz og 1000 Hz til et frekvenssving på henholdsvis +/- 0,9  
+
+ kHz, +/- 1,5 kHz og +/- 3 kHz (svarende til et modulationsindeks på 3).  
+
+ Modulationsforvrængningen måles ved alle 3 modulationsfrekvenser.
+ Under særlige afprøvningsbetingelser udføres målingerne ved en  
+
+ modulationsfrekvens på 1000 Hz og et frekvenssving på +/- 3,0 kHz.
+4.8.3 Krav Modulationsforvrængningen må ikke være større end 10%.
+4.9 Nabokanaleffekt 4.9.1 Definition Nabokanaleffekten er den del af senderens totale udgangseffekt, der under  
+
+ nærmere definerede modulationsforhold falder i gennemgangsområdet for en  
+
+ modtager specificeret efter systemet og afstemt til en af nabokanalerne.  
+
+ Nabokanaleffekten er summen af middeleffekten, frembragt af modulationen, og  
+
+ effektbidrag hidrørende fra brum og støj fra senderen.
+4.9.2 Målemetode Nabokanaleffekten måles med en effektmålemodtager, der opfylder  
+
+ betingelserne i pkt. 4.9.4. Senderudgangen forbindes til  
+
+ effektmålemodtagerens indgang via et dæmpningsled og evt. et  
+
+ impedanstilpasningsled således, at senderudgangen tilsluttes en impedans på  
+
+ 50 ohm og således, at indgangsniveauet på effektmålemodtageren er passende.  
+
+ Målingerne foretages ved såvel fuld sendeeffekt som reduceret sendeeffekt  
+
+ (pkt. 4.2.3).
+Senderen moduleres med et signal af frekvensen 1250 Hz og med et niveau,  
+
+ der er 20 dB højere end det, der bevirker et frekvenssving på +/- 3 kHz.  
+
+ Effektmålemodtageren afstemmes til senderens nominelle frekvens, og dens  
+
+ variable dæmpningsled indstilles således, at man får en aflæsning på  
+
+ modtageren, der er ca. 5 dB over dens eget støjniveau.
+Modtageren afstemmes  
+
+ derefter til den nominelle frekvens for en af nabokanalerne, og det variable  
+
+ dæmpningsled indstilles således, at samme modtagervisning som tidligere  
+
+ opnås.
+Differensen mellem det variable dæmpningsleds indstilling ved måling i  
+
+ henholdsvis centerkanalen og nabokanalen er da forholdet i dB mellem  
+
+ bærebølgeeffekten og nabokanaleffekten.
+Nabokanaleffekten er herved bestemt,  
+
+ idet bærebølgeeffekten er kendt (pkt. 4.2). Målingerne gentages for den anden  
+
+ kanal.
+4.9.3 Krav Nabokanaleffekten skal, når senderen afgiver fuld effekt være mindst 70 dB  
+
+ under bærebølgeeffekten.
+Med senderen på reduceret effekt må  
+
+ nabokanaleffekten højst være 0,2 micro W.
+4.9.4 Specifikationer for effektmålemodtageren Målingerne foretages med en effektmålemodtager, som opfylder følgende  
+
+ krav:
+Effektmålemodtageren skal bestå ef en blander, et krystalfilter, et  
+
+ variabelt dæmpningsled, en forstærker og et effektivværdivisende voltmeter -  
+
+ alt forbundet i serie - samt en lokaloscillator.
+Lokaloscillatoren kan evt.  
+
+ bestå af en signalgenerator.
+ Filterets båndbredder skal være følgende:
+ Dæmpningsleddet skal have et variationsområde på mindst 80 dB i 1 dB  
+
+ spring.
+ Variationsområde på 90 dB eller mere anbefales dog af hensyn til  
+
+ opfyldelse af fremtidige krav.
+ Fejlen på dæmpningsleddets kalibrering må ikke være større end +/- 0,5 dB.
+ Forstærkerens støjtal må ikke være større end 4 dB, og dens  
+
+ amplitude-frekvenskarakteristik må ikke variere mere end 1 dB inden for  
+
+ krystalfilterets 6 dB båndbredde.
+ Hvis selve krystalfilterets dæmpning er mindre end 90 dB uden for den 90  
+
+ dB båndbredde, der er foreskrevet i tabellen på forrige side, skal  
+
+ amplitudefrekvens-karakteristikken for filter og forstærker under eet være  
+
+ således, at 90 dB kravet er overholdt for alle båndbredder større end 50 kHz.
+ Voltmeterets udslag skal være bestemt af effektivværdien af signaler med  
+
+ en topfaktor på op til 10. Det er ikke nødvendigt, at voltmeteret er  
+
+ kalibreret.
+ Måleudstyret skal være således, at nøjagtigheden af effektmålingerne er  
+
+ bedre end 1,5 dB, selvom modtagerens indgangsniveau hæves med indtil 100 dB  
+
+ over det mindst målelige signal.
+ Lokaloscillatorens støjniveau i forhold til dets signalniveau må ikke være  
+
+ større end - 90 dB i et bånd, der er 16 kHz bredt og centreret omkring en  
+
+ frekvens 25 kHz fra bærebølgen.
+4.10 Restmodulation 4.10.1 Definition Senderens restmodulation er forholdet i dB - efter demodulation - mellem  
+
+ LF-støjeffekten fra det umodulerede HF-signal og LF-effekten fra HF-signalet  
+
+ moduleret til standard modulation.
+4.10.2 Målemetode Senderen moduleres til standard modulation, og HF-signalet føres gennem et  
+
+ tilkoblingsnetværk til en lineær frekvensdemodulator med en efterbetoning på  
+
+ 6 dB/ oktav og med en så ringe egenstøj ved lave frekvenser, at  
+
+ måleresultatet ikke påvirkes mærkbart.
+Signalet måles med et  
+
+ effektivværdivisende voltmeter forbundet til demodulatoren gennem det  
+
+ psofometriske filter.
+ Modulationen fjernes, og signalet måles igen.
+4.10.3 Krav Restmodulationen må ikke være større end - 40 dB.
+4.11 Uønsket udstråling over antenneklemmerne 4.11.1 Definition Uønsket udstråling over antenneklemmerne er udstråling på andre frekvenser  
+
+ end bærebølgefrekvensen og de sidebånd, der fremkommer ved normal modulation.
+4.11.2 Målemetode Uønsket udstråling over antenneklemmerne måles med den umodulerede sender  
+
+ forbundet til en kunstantenne som specificeret i pkt. 3.7.
+Der måles over frekvensområdet 100 kHz - 1000 MHz undtagen i den anvendte  
+
+ kanal og dennes nabokanaler.
+Måling af de enkelte uønskede signaler foretages  
+
+ med en selektiv målemodtager eller en spektrumanalysator.
+ Målingerne gentages med senderen moduleret til standard modulation.
+4.11.3 Krav Effekten af de enkelte uønskede signaler må ikke overstige 2,5 micro W.
+5 MODTAGER 5.1 Nominel udgangseffekt og klirfaktor 5.1.1 Definitioner Modtagerens nominelle udgangseffekt opgives af fabrikanten som  
+
+ udstyrstypens maksimale udgangseffekt, hvor alle krav i disse tekniske  
+
+ bestemmelser er opfyldt.
+ Klirfaktoren er effektivværdien af spændingen af samtlige oversvingninger  
+
+ divideret med effektivværdien af den totale signalspænding på modtagerens  
+
+ udgang.
+5.1.2 Målemetode Et signal beliggende på modtagerens nominelle frekvens tilføres  
+
+ modtagerens indgang i overensstemmelse med pkt. 3.8. Størrelsen af signalet  
+
+ skal være 60 dB/1 micro V EMK og derefter 100 dB/1 micro V EMK, idet  
+
+ målingerne foretages ved begge signalniveauer.
+Ved hver af de nedennævnte målinger indstilles modtagerens volumenkontrol  
+
+ således, at den afsatte effekt i en ohmsk belastning, forbundet til  
+
+ LF-udgangen, svarer til modtagerens nominelle udgangseffekt.
+Hvis modtageren  
+
+ har trinvis variabel volumenkontrol, vælges den første stilling, hvor nominel  
+
+ udgangseffekt opnås.
+Størrelsen af belastningen skal svare til LF-udgangens  
+
+ normale belastning og opgives af fabrikanten.
+ Der måles under såvel normale som særlige afprøvningsbetingelser.
+ Under normale afprøvningsbetingelser (pkt. 3.3) moduleres HF-signalet  
+
+ successivt med en tone på 300 Hz, 500 Hz og 1000 Hz til et frekvenssving på  
+
+ henholdsvis +/- 0,9 kHz, +/- 1,5 kHz og +/- 3 kHz (svarende til et  
+
+ modulationsindeks på 3). Klirfaktoren måles ved hver af de 3  
+
+ modulationsfrekvenser.
+Ved særlige afprøvningsbetingelser (pkt. 3.4.1 og 3.4.2 anvendt samtidigt)  
+
+ udføres målingerne foruden ved modtagerens nominelle frekvens også ved  
+
+ frekvenser beliggende plus henholdsvis minus 1,5 kHz herfra.
+HF-signalet  
+
+ moduleres med en 1000 Hz tone til et frekvenssving på +/- 3,0 kHz.  
+
+ Klirfaktoren måles kun ved denne ene modulationsfrekvens.
+5.1.3 Krav Modtagerens nominelle udgangseffekt skal være mindst 500 mW i højttaler og  
+
+ mindst 1 mW i mikrotelefonen.
+Klirfaktoren må ikke være større end 10%. 5.2 Lavfrekvenskarakteristi k 5.2.1 Definition Modtagerens lavfrekvenskarakteristik er signalniveauet på modtagerens  
+
+ udgang som funktion af HF-signalets modulationsfrekvens, når  
+
+ indgangssignalets frekvenssving er konstant.
+5.2.2 Målemetode Et signal af størrelsen 60 dB/1 micro V EMK og beliggende på modtagerens  
+
+ nominelle frekvens tilføres modtagerindgangen i overensstemmelse med pkt.  
+
+ 3.8. HF-signalet moduleres til standard modulation, og modtagerens  
+
+ volumenkontrol indstilles til 50% af den nominelle udgangseffekt.
+Hvis  
+
+ modtageren har trinvis variabel volumenkontrol, vælges den første stilling,  
+
+ hvor mindst 50% af nominel udgangseffekt opnås.
+ Frekvenssvinget reduceres til +/- 1 kHz og holdes på denne værdi, medens  
+
+ modulationsfrekvensen varieres mellem 300 Hz og 3000 Hz.
+ Målingen gentages med HF-signalet beliggende på modtagerens nominelle  
+
+ frekvens plus henholdsvis minus 1,5 kHz.
+5.2.3 Krav Lavfrekvenssignalets niveau skal aftage med 6 dB/oktav som funktion af  
+
+ frekvensen og må højst afvige fra denne karakteristik med plus 1 dB og minus  
+
+ 3 dB i forhold til niveauet ved 1000 Hz.
+5.3 Følsomhed 5.3.1 Definition Ved modtagerens følsomhed forstås her det mindste signalniveau (EMK) på  
+
+ modtagerens indgang, der ved modtagerens nominelle frekvens og med standard  
+
+ modulation af signalet vil frembringe en udgangseffekt på mindst 50% af den  
+
+ nominelle udgangseffekt og et signal-støj forhold på 20 dB, målt på  
+
+ modtagerudgangen gennem det psofometriske filter (pkt. 3.10).
+ Ved signal-støj forholdet skal i det følgende forstås forholdet mellem  
+
+ signal+støj+forvrængning og støj+forvrængning (SINAD).
+5.3.2 Målemetode Et signal på modtagerens nominelle frekvens og med standard modulation  
+
+ påtrykkes modtagerens indgang.
+En modstandsbelastning (pkt. 5.1.2) samt en  
+
+ forvrængningsmåler med et 1 kHz båndstopfilter og det psofometriske filter  
+
+ forbindes til modtagerens LF-udgang.
+Modtagerens volumenkontrol indstilles  
+
+ således, at modtagerens udgangseffekt er 50% af den nominelle udgangseffekt.
+Hvis modtageren har trinvis variabel volumenkontrol, vælges den første  
+
+ stilling, hvor mindst 50% af nominel udgangseffekt opnås.
+Indgangssignalets  
+
+ størrelse ændres, indtil signal-støj forholdet (SINAD) er 20 dB.  
+
+ Udgangseffekten skal samtidig være mindst 50% af den nominelle værdi.  
+
+ Indgangssignalets størrelse er da modtagerens følsomhed.
+ Målingerne foretages under normale afprøvningsbetingelser og under særlige  
+
+ afprøvningsbetingelser (pkt. 3.4.1 og 3.4.2 anvendt samtidigt).
+ Under særlige afprøvningsbetingelser kan tillades en variation i  
+
+ modtagerens udgangseffekt på +/- 3 dB i forhold til udgangseffekten benyttet  
+
+ under normale afprøvningsbetingelser.
+5.3.3 Krav Følsomheden må ikke være ringere end 6 dB/1 micro V EMK under normale  
+
+ afprøvningsbetingelser og 12 dB/1 micro V EMK under særlige  
+
+ afprøvningsbetingelser.
+ Er udstyret beregnet for dupleksdrift, skal disse krav også være opfyldt  
+
+ ved samtidig sending og modtagning (pkt. 6.1).
+5.3.4 Specifikationer for båndstopfilteret Under måling af følsomheden benyttes et 1 kHz båndstopfilter, som opfylder  
+
+ følgende krav:
+Frekvenskarakteristikken for båndstopfilteret skal være således, at  
+
+ dæmpningen ved 1 kHz er mindst 40 dB og ved 2 kHz højst 0,6 dB.  
+
+ Filterkarakteristikken må højst variere 0,6 dB i områderne 20-500 Hz og 2-4  
+
+ kHz.
+Med umoduleret indgangssignal må filteret ikke dæmpe den totale  
+
+ støjeffekt mere end 1 dB.
+5.4 Undertrykkelse af et uønsket signal på samme kanal 5.4.1 Definit i on Undertrykkelsen af et uønsket signal på samme kanal er forholdet i dB  
+
+ mellem indgangsspændingerne for henholdsvis det uønskede og det ønskede  
+
+ signal, når det uønskede signal bevirker en reduktion af signal-støjforholdet  
+
+ fra 20 til 14 dB.
+5.4.2 Målemetode De to signaler tilføres modtagerens indgang som omtalt i pkt. 3.8. Det  
+
+ ønskede signal afstemmes til modtagerens nominelle frekvens og moduleres til  
+
+ standard modulation, medens det uønskede signal moduleres med en 400 Hz tone  
+
+ til et frekvenssving på +/- 3 kHz.
+Med det uønskede signal afbrudt indstilles størrelsen af det ønskede  
+
+ signal til en værdi svarende til modtagerens følsomhed.
+Det uønskede signal  
+
+ påtrykkes, og dets frekvens varieres mellem - 3 kHz og + 3 kHz i forhold til  
+
+ modtagerens nominelle frekvens for at finde den frekvens, hvor det ringeste  
+
+ signal-støj forhold opnås.
+ Størrelsen af det uønskede signal justeres, indtil signal-støj forholdet  
+
+ (SINAD), målt på modtagerens udgang gennem det psofometriske filter er  
+
+ reduceret fra 20 til 14 dB.
+5.4.3 Krav Undertrykkelsen af et uønsket signal på samme kanal skal være mellem 0 dB  
+
+ og -8 dB.
+5.5 Nabokanalselektivitet 5.5.1 Definition Nabokanalselektiviteten er forholdet i dB mellem indgangsspændingerne for  
+
+ henholdsvis et uønsket signal i nabokanalen og det ønskede signal, når det  
+
+ uønskede signal bevirker en reduktion af signal-støj forholdet fra 20 til 14  
+
+ dB.
+5.5.2 Målemetode De to signaler tilføres modtagerens indgang som omtalt i pkt. 3.8. Det  
+
+ ønskede signal afstemmes til modtagerens nominelle frekvens og moduleres til  
+
+ standard modulation.
+Det uønskede signal afstemmes til den øvre nabokanals  
+
+ centerfrekvens og moduleres med en 400 Hz tone til et frekvenssving på +/- 3  
+
+ kHz.
+Med det uønskede signal afbrudt indstilles størrelsen af det ønskede  
+
+ signal til en værdi svarende til modtagerens følsomhed.
+Det uønskede signal  
+
+ påtrykkes, og dets størrelse justeres indtil signal-støj forholdet (SINAD),  
+
+ målt på modtagerens udgang gennem det psofometriske filter er reduceret fra  
+
+ 20 til 14 dB.
+ Målingerne gentages med det uønskede signal afstemt til den nedre  
+
+ nabokanals centerfrekvens.
+ Forholdet i dB mellem størrelsen af det uønskede signal og det ønskede  
+
+ signal bestemmes.
+ Nabokanalselektiviteten er da det mindste af de to forhold.
+ Disse målinger foretages under såvel normale afprøvningsbetingelser som  
+
+ under særlige afprøvningsbetingelser (pkt. 3.4.1 og 3.4.2 anvendt samtidigt).
+5.5.3 Krav Nabokanalselektiviteten skal være mindst 70 dB under normale  
+
+ afprøvningsbetingelser og mindst 60 dB under særlige afprøvningsbetingelser.
+5.6 Dæmpning af uønskede signaler (spurious responses) 5.6.1 Definit i on Modtagerens dæmpning af et uønsket signal er forholdet i dB mellem  
+
+ indgangsspændingerne for henholdsvis et uønsket og det ønskede signal, når  
+
+ det uønskede signal bevirker en reduktion af signal-støj forholdet fra 20 til  
+
+ 14 dB.
+5.6.2 Målemetode De to signaler tilføres modtagerens indgang som omtalt i pkt. 3.8. Det  
+
+ ønskede signal skal ligge på modtagerens nominelle frekvens og moduleres til  
+
+ standard modulation.
+Med det uønskede signal afbrudt indstilles størrelsen af  
+
+ det ønskede signal til en værdi svarende til modtagerens følsomhed.
+Det  
+
+ uønskede signal moduleres med en frekvens på 400 Hz til et frekvenssving på  
+
+ +/- 3 kHz og indstilles til en størrelse på 90 dB/1 microV EMK.
+Frekvensen af  
+
+ det uønskede signal varieres over frekvensområdet 100 kHz - 1000 MHz.
+Ved  
+
+ enhver frekvens, hvor modtageren reagerer, ændres det uønskede signals  
+
+ størrelse, indtil signalstøj forholdet (SINAD) er 14 dB, målt gennem det  
+
+ psofometriske filter.
+Modtagerens indstilling skal være som under  
+
+ følsomhedsmålingen (pkt. 5.3).
+5.6.3 Krav Dæmpningen af uønskede signaler skal være mindst 70 dB for alle  
+
+ frekvenser, der ligger mere end 25 kHz fra modtagerens nominelle frekvens.
+ Er udstyret beregnet for dupleksdrift, skal dette krav også være opfyldt  
+
+ ved samtidig sending og modtagning (pkt. 6.2).
+5.7 Intermodulationsdæmpning 5.7.1 Definition Modtagerens intermodulationsdæmpning er forholdet i dB mellem henholdsvis  
+
+ indgangsspændingen af to lige store uønskede signaler og modtagerens  
+
+ følsomhed, når signal-støj forholdet, fremkaldt af intermodulationsproduktet,  
+
+ er 20 dB.
+5.7.2 Målemetode To signalgeneratorer A og B forbindes til indgangen af modtageren som  
+
+ beskrevet i pkt. 3.8, og med signalet fra den ene generator afbrudt  
+
+ indstilles modtagerens volumenkontrol ved gentagelse af den i pkt. 5.3  
+
+ beskrevne måling af følsomheden.
+Signalgeneratorerne A og B indstilles  
+
+ derefter til frekvenser henholdsvis 25 kHz og 50 kHz over modtagerens  
+
+ nominelle frekvens.
+Signalet fra signalgenerator A skal være umoduleret, og  
+
+ signalet fra signalgenerator B moduleres til standard modulation.
+Signalgeneratorernes udgangsspændinger, der holdes lige store, reguleres  
+
+ indtil signal-støj forholdet (SINAD) er 20 dB, målt gennem det psofometriske  
+
+ filter.
+Frekvensen af signalet fra signalgenerator B finjusteres, så den  
+
+ maksimale værdi af signal-støj forholdet opnås.
+ Målingerne gentages med de to signaler afstemt 25 kHz, henholdsvis 50 kHz  
+
+ lavere end modtagerens nominelle frekvens.
+ Såfremt indflydelsen af signalgeneratorernes støjspektrum ikke er  
+
+ uvæsentlig, gentages målingerne med frekvensafstande på op til 100 og 200 kHz  
+
+ fra den nominelle frekvens.
+5.7.3 Krav Intermodulationsdæmpningen skal være mindst 70 dB.
+5.8 Blokering 5.8.1 Definition Modtagerens blokeringsspænding er den indgangsspænding af et uønsket  
+
+ signal, der fremkalder enten en ændring på 3 dB af det ønskede signals  
+
+ LF-udgangseffekt eller en reduktion af signal-støj forholdet fra 20 til 14  
+
+ dB.
+5.8.2 Målemetode To signaler tilføres modtagerens indgang som omtalt i pkt. 3.8. Det  
+
+ ønskede signal afstemmes til modtagerens nominelle frekvens og moduleres til  
+
+ standard modulation.
+Med det uønskede signal afbrudt indstilles størrelsen af  
+
+ det ønskede signal på modtagerens indgang til + 6 dB/1 microV EMK, og  
+
+ modtagerens LF-udgangseffekt justeres til 50% af den nominelle udgangseffekt.  
+
+ Hvis modtageren har trinvis variabel volumenkontrol, vælges den første  
+
+ stilling, hvor mindst 50% af nominel udgangseffekt opnås.
+Frekvensen af det  
+
+ uønskede, umodulerede signal varieres mellem + 1 MHz og + 10 MHz og tillige  
+
+ mellem - 1 MHz og - 10 MHz regnet i forhold til modtagerens nominelle  
+
+ frekvens.
+Størrelsen af det uønskede signal på modtagerens indgang justeres  
+
+ ved alle frekvenser i de givne områder således, at det frembringer:
+afhængig af, hvilket af de to tilfælde, der indtræffer først.
+Spændingen  
+
+ (EMK) af det uønskede signal på modtagerens indgang er blokeringsspændingen  
+
+ ved den omhandlede frekvens.
+5.8.3 Krav Blokeringsspændingen skal ved alle frekvenser i de givne frekvensområder  
+
+ være mindst 90 dB/1 microV EMK undtagen på frekvenser, hvor modtageren er  
+
+ følsom for uønskede signaler (spurious responses).
+5.9 Uønsket udstråling over antenneklemmerne 5.9.1 Definition Al udstråling over antenneklemmerne uanset frekvens er uønsket udstråling.
+5.9.2 Målemetode Modtagerens antenneindgang forbindes til en målemodtager eller en  
+
+ spektrumanalysator med en indgangsimpedans på 50 ohm, og der måles over  
+
+ frekvensområdet 100 kHz - 1000 MHz.
+5.9.3 Krav Den udstrålede effekt over antenneklemmerne må ikke på nogen frekvens være  
+
+ større end 2 nW.
+5.10 Begrænserens amplitudekarakteristik 5.10.1 Definition Begrænserens amplitudekarakteristik er sammenhængen mellem størrelsen af  
+
+ et nærmere specificeret, moduleret indgangssignal og LF-signalets størrelse  
+
+ på modtagerens udgang.
+5.10.2 Målemetode Et signal på modtagerens nominelle frekvens, med standard modulation og af  
+
+ størrelsen 6 dB/1 microV EMK, påtrykkes modtagerens indgang.  
+
+ LF-udgangseffekten indstilles til 6 dB under den nominelle udgangseffekt.
+Har  
+
+ modtageren trinvis variabel volumenkontrol, vælges den stilling, hvor  
+
+ udgangseffekten afviger mindst muligt fra referenceniveauet 6 dB under  
+
+ nominel udgangseffekt uden dog at overskride dette.
+Indgangssignalet øges til  
+
+ 100 dB/1 microV EMK, og LF-udgangseffekten måles igen.
+5.10.3 Krav Ved den i 5.10.2 angivne ændring i indgangsspændingen må ændringen i  
+
+ udgangseffekt ikke være større end 3 dB.
+5.11 Støj og brum 5.11.1 Definition Modtagerens støj og brum angives som forholdet i dB mellem effekten på  
+
+ modtagerens udgang hidrørende fra støj og brum i modtageren og  
+
+ udgangseffekten, når modtageren påtrykkes et signal moduleret til standard  
+
+ modulation.
+5.11.2 Målemetode Et signal med et niveau på 30 dB/1 microV EMK, moduleret til standard  
+
+ modulation og beliggende på modtagerens nominelle frekvens, tilføres  
+
+ modtagerens indgang.
+En belastning og det psofometriske filter forbindes til  
+
+ modtagerens udgang.
+Modtagerens volumenkontrol indstilles således, at  
+
+ modtagerens nominelle udgangseffekt opnås.
+Hvis modtageren har trinvis  
+
+ variabel volumenkontrol, vælges den første stilling, hvor nominel  
+
+ udgangseffekt opnås.
+Udgangssignalet måles med et effektivværdivisende  
+
+ voltmeter.
+HF-signalets modulation fjernes, og udgangssignalet måles igen.
+5.11.3 Krav Modtagerens støj og brum må ikke være større end - 40 dB.
+5.12 Squelchens funktion 5.12.1 Squelchens funktion er at blokere modtagerens LF-udgang, når  
+
+ signalet på modtagerens indgang er under et givet niveau.
+5.12.2 Målemetode Udgangssignalet måles med et effektivværdivisende voltmeter.
+Derefter  
+
+ fjernes signalet på modtagerindgangen, squelch kredsløbet tilsluttes, og  
+
+ signalet på LF-udgangen måles igen.
+Størrelsen af signalet på modtagerens indgang formindskes, og squelch  
+
+ kredsløbet tilsluttes.
+Størrelsen af signalet på indgangen øges igen, indtil  
+
+ udgangseffekten er af samme størrelse som før tilslutningen af squelch  
+
+ kredsløbet.
+Signal-støj forholdet og indgangssignalets størrelse måles.
+5.12.3 Krav Ved målebetingelserne omtalt under a) skal Lf-udgangseffekten med  
+
+ tilsluttet squelch kredsløb være mindst 40 dB under udgangseffekten, når  
+
+ squelch kredsløbet er afbrudt.
+ Ved betingelserne omtalt under b) må det målte indgangssignal ikke være  
+
+ større end 6 dB/1 microV EMK, og signal-støj forholdet skal være mindst 20  
+
+ dB.
+ Er modtageren forsynet med et squelch kredsløb med kontinuerlig variabel  
+
+ tærskelværdi, må denne ikke være større end 40 dB/1 micro V EMK, når squelch  
+
+ kredsløbet er i sin mest ufølsomme position.
+6 DUPLEKS DRIFT På anlæg for dupleks drift udføres følgende supplerende målinger for at  
+
+ konstatere, om anlægget fungerer tilfredsstillende ved dupleks drift.
+6.1 Reduktion af modtagerens følsomhed ved samtidig sending og modtagning 6.1.1 Definition Ved reduktion af modtagerens følsomhed forstås her den forringelse af  
+
+ følsomheden, der skyldes overkobling af effekt fra senderen til modtageren.  
+
+ Reduktionen udtrykkes som forholdet i dB mellem modtagerens følsomhed ved  
+
+ samtidig sending henholdsvis uden senderen igang.
+6.1.2 Målemetode Senderen og modtageren forbindes til udstyrets dupleksfilter.  
+
+ Dupleksfiltrets antenneterminal forbindes til en kunstantenne gennem et  
+
+ tilkoblingsnetværk.
+En signalgenerator forbindes til tilkoblingsnetværket på  
+
+ en sådan måde, at filtrets antenneterminal under målingerne er belastet med  
+
+ 50 ohm.
+Senderen moduleres med en 400 Hz tone til et frekvenssving på +/- 1,2  
+
+ kHz.
+Modtagerens følsomhed måles herefter som beskrevet i pkt. 5.3.2.
+Følsomhedsmålingen gentages med afbrudt sender.
+Reduktionen i følsomheden  
+
+ er da forholdet i dB mellem den første og den sidste af de 2 målte  
+
+ følsomheder.
+6.1.3 Krav Reduktionen i modtagerens følsomhed ved samtidig sending og modtagning må  
+
+ ikke være større end 3 dB.
+Modtagerens følsomhed ved samtidig sending og  
+
+ modtagning skal overholde kravene i pkt. 5.3.3.
+6.2 Modtagerens dæmpning af uønskede signaler ved samtidig sending og  
+
+ modtagning 6.2.1 Målemetode Modtagerens dæmpning af uønskede signaler måles i overensstemmelse med  
+
+ pkt. 5.6.2, men ved brug af måleopstillingen beskrevet i pkt. 6.1.2, dog med  
+
+ umoduleret sender.
+Senderen tastes under målingen.
+6.2.2 Krav Dæmpningen af uønskede signaler skal også ved samtidig sending og  
+
+ modtagning være mindst 70 dB for alle frekvenser, der ligger mere end 25 kHz  
+
+ fra modtagerens nominelle frekvens.

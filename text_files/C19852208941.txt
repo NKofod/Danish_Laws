@@ -1,0 +1,227 @@
+ Studieplanen har virkning fra august 1985.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+1. Formål Afvikling af programmer i et datamatisk system foregår under overvågning  
+
+ af og i interaktion med et større programkompleks, nemlig operativsystemet  
+
+ eller driftssystemet.
+ Aplikationsprogrammer afvikles altså i et miljø (run-time miljø), som er  
+
+ defineret af operativsystemet eller rettere af operativsystemets run-time  
+
+ funktioner - ofte benævnt kernel, monitor, executive eller supervisor.
+ For personer, som arbejder med udvikling/vedligeholdelse af  
+
+ operativsystemer og driftsprogrammel er en forståelse af strukturen og  
+
+ principperne i operativsystemets komponenter essentiel.
+I den traditionelle opfattelse af operativsystemet udgør run-time  
+
+ funktionerne dog kun en lille - omend væsentlig - del af operativsystemets  
+
+ samlede mængde af funktioner.
+I den daglige drift udføres en lang række  
+
+ opgaver: filhåndtering, servicefunktioner, oversættelse af kildeprogrammer,  
+
+ administration af opgave-afvikling, job-accounting etc., som varetages af  
+
+ programmer, som normalt også henregnes til operativsystemet.
+ I den almindelige anvendelse af det datamatiske system er et kendskab til  
+
+ disse funktioner og deres grænseflade til brugere og operativsystemets  
+
+ run-time komponenter nødvendigt.
+ Dette modul skal give den nødvendige baggrundsviden for at udnytte  
+
+ operativsystemets faciliteter i forbindelse med udvikling og vedligeholdelse  
+
+ af applikations-, og driftsprogrammel samt for at kunne arbejde med  
+
+ effektivisering af driftssystemer og deres anvendelse.
+ Gennem modulet vil operativsystemet blive anskuet fra forskellige  
+
+ synsvinkler:
+ - som et stykke mekanik set inde fra , hvor opbygning og intern  
+
+ administration samt afhængighed af materiellets struktur og interaktion med  
+
+ materiel belyses.
+ - som en funktionel enhed set fra brugeren (først og fremmest programmøren  
+
+ og operatøren), hvor funktioner, anvendelses- og kontaktmuligheder samt  
+
+ kommunikation belyses.
+ - som et produktionsapparat set fra »datamat-ejeren«, hvor  
+
+ anvendelsesmuligheder og begrænsninger, ønsker om sikkerhed og effektiv  
+
+ udnyttelse belyses.
+2. Indhold De emner, som modulet omhandler, kan opsummeres i nedenstående  
+
+ hovedpunkter med angivelse af den omtrentlige tidsmæssige fordeling, hvormed  
+
+ de indgår i forelæsningstimerne punkt timer --------------------------------------------------------------------- a.
+Introduktion 3 b.
+Operativsystemets materielmæssige forudsætninger 3 c.
+Procesbegrebet 5 d.
+Operativsystemets opbygning og struktur 16 e.
+Driftsrapport 3 f.
+Systemeffektivisering 3 g.
+Distribuerede systemer 6 h.
+Data- og programsikkerhed 3 a.
+INTRODUKTION Formål Dette emne tager sigte på at foretage en afgrænsning af modulet, dels  
+
+ gennem en definition af begrebet operativsystem og dels gennem en overordnet  
+
+ redegørelse for formålet med og behovet for operativsystemer.
+Endvidere  
+
+ præsenteres gængse begreber og terminologi.
+Mål Den studerende skal kunne redegøre for operativsystemets hovedopgaver samt  
+
+ udviklingen indenfor operativsystemer.
+Emner Definition af og formål med operativsystemer.
+ Hvorfor man studerer operativsystemer.
+ Operativsystemets hovedopgaver.
+ Den historiske udvikling.
+ Fremtidens operativsystemer.
+b.
+OPERATIVSYSTEMETS MATERIELMÆSSIGE FORUDSÆTNINGER Formål Behandlingen af dette emne sigter på at redegøre for de konsekvenser for  
+
+ udformning af operativsystemets run-time og øvrige maskinnære funktioner, som  
+
+ materiellets virkemåde og strukturen i materiel-opbygningen har.
+Mål Den studerende skal kunne klassificere forskellige karakteristiske  
+
+ egenskaber ved aktivt arbejdende og passivt benyttede komponenter i  
+
+ materiellet samt redegøre for sammenkoblingsmuligheder og de deraf følgende  
+
+ grænseflader og anvendelsesmuligheder/restriktioner.
+Emner Det datamatiske systems komponenter og deres karakteristika.
+ Distribuering af komponenter: processorer, perifere enheder, lager.
+ Sammenholdningsarkitekturer og grænseflader: centraliseret arkitektur,  
+
+ shared bus, ringe, ethernets etc.
+ Diskussion af arkitekturens konsekvenser for udformning af  
+
+ operativsystemets funktioner.
+ Interrupt begrebet.
+c.
+PROCESBEGREBET Formål Ved afvikling af en pålagt opgave påhviler det operativsystemet at  
+
+ overvåge og medvirke ved udførelse af de arbejdsprocesser, som indgår i  
+
+ opgaven samt at tilvejebringe det nødvendige grundlag for disse processers  
+
+ udførelse.
+ Dette emne tager sigte på at indføre begreber og formelle  
+
+ beskrivelsesværktøjer, som kan benyttes ved beskrivelse og diskussion af  
+
+ operativsystemets run-time funktioner.
+Mål Den studerende skal kunne redegøre for væsentlige problemstillinger med  
+
+ relation til procesudførelse i et datamatisk system samt kunne diskutere og  
+
+ demonstrere forskellige løsninger på disse problemstillinger.
+Emner Processer og procesbeskrivelser.
+ Sekventielle og parallelle processer.
+ Ægte og simuleret parallellitet.
+ Interaktion og kommunikation mellem processer.
+ Synkronisering: monitorer, semaforer, co-rutiner.
+d.
+OPERATIVSYSTEMETS OPBYGNING OG STRUKTUR:
+Formål Dette emne tager sigte på at gennemgå principperne i den interne styring i  
+
+ operativsystemet samt at klarlægge sammenhængen mellem proces-udførelse og  
+
+ materiel-anvendelse.
+Endvidere diskuteres: materiel-arkitekturens betydning  
+
+ for udformningen af operativsystemets interne styring og materielanvendelse.
+Mål Den studerende skal kunne identificere og beskrive operativsystemets  
+
+ komponenter, samt kunne illustrere strukturen i den interne styring af  
+
+ operativsystemet.
+ Den studerende skal kunne redegøre for operativsystemets behov for adgang  
+
+ til perifere enheder, systemets interaktion med disse og materielstrukturens  
+
+ betydning set i relation hertil.
+Emner Ressourcer og ressourceallokering.
+ Deadlock.
+ Processor-allokering.
+ Administration af lager.
+ Filadministration.
+ Enhedsadministration.
+e.
+DRIFTSRAPPORTERING Formål Emnet skal belyse det behov, der er for at måle et anlægs faktiske forbrug  
+
+ til en enkelt opgave og dets samlede ydeevne samt give en indsigt i de  
+
+ muligheder og begrænsninger, der er til stede for målinger i et anlæg.
+Mål Den studerende skal kunne vælge metoder til at registrere bestemte typer  
+
+ af et datamatisk systems aktiviteter ud fra givne kriterier.
+ Den studerende skal kunne analysere operativsystemets faciliteter til  
+
+ driftsrapportering samt kunne forestå ændringer og udvidelser til denne  
+
+ rapportering i et givent system.
+Emner Accountingsystemer.
+ Hardware- og software monitorer.
+ Målinger på materiel.
+f.
+SYSTEMEFFEKTIVISERING.
+Formål Undervisningen skal vise hvordan resultatet fra målinger på et datamatisk  
+
+ system kombineret med afprøvningsmetoder kan anvendes til effektivisering af  
+
+ systemet.
+Mål Den studerende skal kunne analysere et driftssystem, for med passende  
+
+ målemetoder, at kunne påvise flaskehalse.
+ Den studerende skal kunne forestå ændringer i driftssystemet, dvs.  
+
+ materiel og programmel, således at udnyttelsen optimeres ved en bestemt  
+
+ driftsstrategi.
+Emner Modeller.
+ Standardopgaver.
+ Benchmark.
+g.
+DISTRIBUEREDE SYSTEMER.
+Formål At diskutere de materielle og programelle forudsætninger for  
+
+ distribuering.
+Specielt vil nogle mulige konsekvenser af den igangværende  
+
+ distribueringstendens for udformning af operativsystemets funktioner blive  
+
+ behandlet.
+Mål Den studerende skal kunne vurdere, hvilke konsekvenser en distribuering af  
+
+ datakræfter har for udformningen af et operativsystem.
+Emner Distribuerede systemers grundelementer Datanet Netværksoperativsystemer h.
+DATA- OG PROGRAMSIKKERHED.
+Formål Undervisningen skal anskueliggøre de mulige fejlkilder i materiel og  
+
+ driftsprogrammel samt vise de fejlprocedurer, man kan vente i  
+
+ operativsystemer.
+Mål Den studerende skal kunne formulere kravspecifikationer til  
+
+ sikkerhedsfunktioner i et driftssystem.
+ Den studerende skal kunne analysere sikkerhedsgraden i et givet  
+
+ driftssystem.
+Emner Fejltyper.
+ Fejldiktering.
+ Fejlbehandling.
+ Sikkerhedsprocedure.
+ MTBF.

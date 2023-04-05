@@ -1,0 +1,312 @@
+Måleteknisk direktiv  
+
+ (Vejledning)  
+
+ VOLUMENVÆSKEMÅLERE/-ANLÆG  
+
+  Procedurer ved typegodkendelse af målegasanlæg udstyret med  
+
+ systemer for dampgenvinding (gasretur) samt for godkendelse af  
+
+ gasretursystemer til påbygning på godkendte måleanlæg  
+
+ i trafiksektoren.   
+
+ Omfang af (type)prøvning til verifikation.  
+
+ MDIR 02.46-03, udg. 2 1. Formål Beskrivelse af de procedurer, der sædvanligvis  
+
+ følges og anses for tilstrækkelige ved (type)godkendelse og  
+
+ verifikation.
+2. Henvisning til måletekniske bestemmelser Handelsministeriets bekendtgørelse af 1. marts 1950  
+
+ (ajourført 1. januar 1978) "Justerreglementet", §§ 11 og 13, samt §  
+
+ 14, stk. 1.
+ Justervæsenet almindelige bestemmelser for justering  
+
+ af målemaskiner til udmåling af flydende varer, af 1. december  
+
+ 1952.
+ Justervæsenets instruks for justering af  
+
+ målemaskiner til udmåling af flydende varer, af 1. april  
+
+ 1964.
+TDIR 24.11.1-02, udg. 1 af 01.10.1979, pkt. 4 MDIR 22.07-01,   udg. 2 af 23.06.1987 MDIR 32.46.1-01, udg. 2 af 01.05.1983 MDIR 32.46-02, udg. 2 af 16.04.1997 MDIR 32.91-01, udg. 2 af 09.04.1997 3. Forudsætninger Generelt vedrørende måleudstyr/metode  
+
+ henvises til MDIR 02.46-10.
+4. Typegodkendelse af måleanlæg/godkendelse  
+
+ af gasretursystem (GRS) 4.1 Typegodkendelse af måleanlæg med GRS Ansøges hos Erhvervsfremme Styrelsen efter  
+
+ sædvanlig procedure jf.
+MDIR 02.46-02 samt MDIR 02.46-01.
+4.2 Godkendelse af GRS til påbygning på  
+
+ måleanlæg Godkendelse af et GRS ansøges hos EFS.  
+
+ Ansøgningen skal generelt indeholde beskrivelse og dokumentation af  
+
+ det ansøgte system i et omfang svarende til MDIR 02.46-02. Specielt  
+
+ skal det beskrives hvor/hvordan GRS-systemet påbygges/monteres på  
+
+ standeren (elektrisk, hydraulisk og konstruktionsmæssigt).  
+
+ Komponenterne skal være identificerbare.
+ I ansøgningen skal endvidere anføres om GRS  
+
+ ønskes anvendt generelt eller kun til specificerede typer af  
+
+ måleanlæg.
+Godkendelse af et GRS dokumenteres i en  
+
+ godkendelsesattest.
+Attesten indeholder beskrivelse svarende til MDIR  
+
+ 02.46-01 pkt. 2.1. MDIR 02.46-01 pkt. 2.2-2.3 samt 3.1 - 3.4 er ligeledes  
+
+ gældende.
+Standeren skal påmonteres et skilt for GRS, med  
+
+ godkendelsesmærke for det pågældende GRS.
+Skiltet  
+
+ sikkerhedsplomberes.
+ GRS skal specificeres med en maksimal  
+
+ væskevolumenstrøm QmaxGR (eller grænser for  
+
+ denne), som måleanlæggets aktuelle maksimale volumenstrøm  
+
+ skal overholde med GRS påmonteret, (samt eventuelt en minimal  
+
+ væskevolumenstrøm QminGR). Specifikationen angives  
+
+ på skiltet for GRS jf. bilag 1.
+ Godkendelsen indeholder bestemmelser om  
+
+ begrænsninger, f.eks.:
+-	Ingen begrænsninger udover at der er tale om  
+
+ måleanlæg i trafiksektoren -	Begrænsninger set i relation til standerens specifikationer  
+
+ (volumenstrøm, etc.), beskrevet generelt.
+F.eks. at standerens  
+
+ volumenstrøm skal overholde fastsatte grænser efter montering af  
+
+ GRS.
+Begrænsning beskrevet i form af en "positiv"-liste,  
+
+ indeholdende alle de standertyper systemet kan påbygges.
+Hvis der  
+
+ f.eks. kan være tale om interfaceproblemstillinger og  
+
+ samkøringsproblemer, der principielt er forskellige fra standertype  
+
+ til standertype, skal der tages stilling til hvert enkelt tilfælde.
+ Begrænsning i form af fastlæggelse af  
+
+ fabrikat, type og eventuelt specifikationer for de komponenter i GRS, som kan  
+
+ påvirke standerens væskeudmålingsfejl.
+ -	Særlige forhold ved montering af GRS på  
+
+ måleanlæg med speciel udformning (blend, multiproduktstandere,  
+
+ etc....).
+5. Prøvningsomfang ved typegodkendelse og  
+
+ godkendelse til påbygning GRS vurderes mht. konstruktion og funktion ud fra den  
+
+ medsendte dokumentation samt ved indsendelse af et eksemplar af GRS  
+
+ påmonteret et måleanlæg.
+5.1. Elektroniske systemer For et GRS, som omfatter styreelektronik der er tilkoblet  
+
+ måleanlægget, udføres ved (type)prøvning:
+-	MDIR 02.46-01 pkt. 5.12 Kontrol af visning ved strømafbrydelse  
+
+ (af GRS og/eller måleanlæg) under tankning -	MDIR 02.46-01 pkt. 5.13 Netspændingsvariationer -	MDIR 02.46-01 pkt. 5.14 Netspændingsafbrydelser eller  
+
+ -reduktioner -	MDIR 02.46-01 pkt. 5.15 Transienter (Bursts) Kriterierne for godkendelse er som i MDIR 02.46-01.
+ Ved påbygning af GRS på standertyper, som er  
+
+ typegodkendt på basis af tidligere regelsæt, kan dog alternativt  
+
+ anvendes det kriterium, at GRS-påbygningen ikke må forringe  
+
+ standertypens immunitet overfor ovennævnte påvirkninger.
+ Hvis sammenbygningen af GRS og stander er af en  
+
+ sådan karakter, at standeren eller delkomponenter af standeren må  
+
+ betragtes som modificerede (ændrede) konstruktioner, gælder  
+
+ kriterierne for godkendelse som angivet i MDIR 02.46-01.
+ På baggrund af den konkrete udformning af  
+
+ kredsløb og tilslutningsmåde tages der stilling til i hvilket  
+
+ omfang disse prøver skal foretages for hver enkelt  
+
+ kombinationsmulighed med måleanlægstyper, der ønskes  
+
+ udstyret med det pågældende GRS.
+ 1.	Det skal sikres at elektriske forstyrrelser i  
+
+ strømforsyningen ikke influerer på måleanlæggets  
+
+ funktion og indikation.
+ 2.	Herunder skal det sikres, at GRS-effektbehov ikke påvirker  
+
+ måleanlægget. (Elektrisk effektbehov). Mekanisk effektbehov  
+
+ må ikke influere væsentligt på målerens funktion og  
+
+ indikation, herunder eventuel væsentlig nedsættelse af  
+
+ måleanlæggets maksimale volumenstrøm.
+ 3.	Det skal sikres at udtag af pulser til GRS ikke påvirker den  
+
+ primære målekæde.
+ 4.	Det skal sikres at plomberingen af den primære  
+
+ målekæde er intakt efter installation af GRS og at der ikke kan  
+
+ foretages påvirkning af signalerne i den primære  
+
+ målekæde uden plombebrud.
+5.	Muligheden for at suge væske tilbage med pistolen  
+
+ undersøges ved prøve måleanlægget med og uden GRS.  
+
+ Alternativt kan prøvningen foretages før og efter  
+
+ påmontering af GRS.
+Prøvningen skal normalt gennemføres  
+
+ ved maksimal volumenstrøm QMaxGR for GRS samt ved den  
+
+ mindste volumenstrøm det pågældende GRS normalt vil  
+
+ være i drift ved.
+Der foretages 3 gentagelser ved hver  
+
+ volumenstrøm.
+Se også note1)  
+
+ .
+ Ændringen i fejlvisning fra før til efter må  
+
+ højst være 0,2%.
+Prøvningen skal foretages med benzin som  
+
+ prøvevæske.
+Prøvevæsken skal svare til den mest  
+
+ flygtige (letfordampelige) benzin af de i handel værende gængse  
+
+ produkter.
+5.2. Mekaniske systemer 1.	ikke relevant 2.	mekanisk effektbehov, som under elektroniske systemer 3.	ikke relevant 4.	Det vurderes om der er behov for yderligere plombering udover at  
+
+ verifikationsskiltet sikres ved plombering 5.	som under elektroniske systemer 6. Verifikation Efter montering af GRS på et måleanlæg  
+
+ og afmontering og/eller udskiftning af GRS udføres verifikation inden  
+
+ måleanlægget atter tages i brug.
+Verifikation udføres  
+
+ efter retningslinierne i MDIR 02.46-serien.
+ Verifikationen udføres som reverifikation medmindre  
+
+ andre indgreb i standeren medfører krav om  
+
+ førstegangsverifikation.
+ Ved verifikationen sikres specielt:
+ - 	At GRS er monteret/afmonteret korrekt i henhold til typegodkendelsen  
+
+ for standeren og GRS-godkendelsen (komponenter skal være identiske med  
+
+ dem, der er anført på attesten).
+- 	At anlægget er plomberet som anført i godkendelserne - 	At den aktuelle maksimale volumenstrøm (den aktuelle ydelse)  
+
+ ikke overstiger GRS-godkendelsens største QMaxGR   
+
+  værdi.
+Definitioner QMax.:	Godkendt maksimal volumenstrøm for  
+
+ måleanlægget QMin.:	Godkendt minimal volumenstrøm for  
+
+ måleanlægget qm:	Aktuel maksimal volumenstrøm (aktuel ydelse) QMaxGR:	Maksimal volumenstrøm for GRS (kan evt.  
+
+ være et interval) 6.1 Førstegangsverifikation Ved førstegangsverifikation skal qm  
+
+ overholde følgende:
+-	mindst 20 l/min når QMin ikke er specificeret, eller  
+
+ mindst 4 gange en eventuelt specificeret QMin -	højst 110% af QMax -	hvis qm er mindre end 90% af den godkendte maksimale  
+
+ volumenstrøm stemples verifikationsskiltet med qm, dog  
+
+ afrundet til det nærmeste med 5 delelige tal angivet i liter pr. min.  
+
+ Hvis qm ligger mellem 90% og 110% af QMax stemples  
+
+ verifikationsskiltet med QMax -	højst den for gasretursystemet specificerede maksimale  
+
+ volumenstrøm QMaxGR eller mellem de grænser, som  
+
+ eventuelt er specificeret i godkendelsesattesten for GRS 6.2 Reverifikation Ved reverifikation skal qm overholde  
+
+ følgende:
+-	mindst 20 l/min når QMin ikke er specificeret eller  
+
+ mindst 4 gange en eventuelt specificeret QMin højst 110% af den påstemplede maksimale  
+
+ volumenstrøm Erhvervsfremme Styrelsen, den 3. august  
+
+ 1999 /P.
+Claudi Johansen Bilag 1 Anførelsen af GRS-oplysninger på  
+
+ standeren:
+ På separat skilt for GRS eller på verifikationsskilt med  
+
+ rubrikker til GRS:
+ Gasretursystemets systembetegnelse: 	GRS-   .
+Samt QMaxGR  ..-  ..
+Eventuelt standerens fabrikationsnummer. (se nedenfor) Separat skilt for GRS placeres i umiddelbar nærhed af standerens  
+
+ verifikationsskilt og sikres til dette eller til samme konstruktionsdel, som  
+
+ standerens verifkationsskilt er sikret til.
+GRS-skiltet kan være udført som plade eller folie.
+Skiltet og  
+
+ teksten skal være bestandig.
+Teksten skal være let  
+
+ læselig.
+Skiltet kan sikres med fast plombe i plombekop, løs plombe med  
+
+ plombetråd eller med mærkat over kanten, forudsat at skilt og  
+
+ underlag er tilstrækkeligt hæftende.
+For foliers vedkommende kan  
+
+ der sikres med stempel i folien forudsat at folien ødelægges ved  
+
+ fjernelse og at stempelindtrykket er tydeligt og bestandigt.
+GRS-skiltet kan eventuelt sikres til en anden konstruktionsdel end den,  
+
+ verifikationsskiltet er sikret til.
+I så fald skal GRS-skiltet  
+
+ bære en tydelig indskrift af standerens fabrikationsnummer.
+ 1)   Specielle konstruktioner kan  
+
+ nødvendiggøre supplerende prøvninger.

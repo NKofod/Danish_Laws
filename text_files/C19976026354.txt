@@ -1,0 +1,295 @@
+Skrivelse om direktiv om informatikvirksomheden i forsvaret Erstatter:
+Foreløbigt FKODIR IS.380-1  
+
+ af APR 1995 (FKO skr.
+IS.380-1/IS2-07277 af 11 APR 1995).
+Formål 1.  
+
+  
+
+ Formålet  
+
+ med dette direktiv er at placere ansvaret for informatikvirksomheden i  
+
+ forsvaret.
+Mål 2.  
+
+  
+
+ Det  
+
+ overordnede mål for informatikvirksomheden i forsvaret er at muliggøre en  
+
+ hurtig, sikker og rationel udveksling og behandling af informationer samt  
+
+ derved  
+
+ at bidrage til effektiv løsning af forsvarets opgaver i fred, krise og krig.
+Definitioner 3.  
+
+  
+
+ Informatik  
+
+ er den rationelle og systematiske opbygning og anvendelse af elektronisk  
+
+ baserede informationer.
+Dette omfatter i forsvaret en integreret anvendelse  
+
+ af  
+
+ materiel, programmel, metoder, procedurer og personel, der er organiseret med  
+
+ henblik på at indsamle, udveksle, behandle, præsentere og lagre  
+
+ informationer.
+ 4.  
+
+  
+
+ Informatikvirksomheden  
+
+ omfatter studie- og udviklingsvirksomhed samt planlægning, anskaffelse,  
+
+ implementering, drift, vedligeholdelse og udfasning af informatiksystemer.
+5.  
+
+  
+
+ Informatiksystemer  
+
+ er systemer til elektronisk indsamling, behandling, lagring, præsentation og  
+
+ udveksling af informationer.
+Informatiksystemer klassificeres i  
+
+ overensstemmelse  
+
+ med arten af de indeholdte informationer og disses sikkerhedsmæssige  
+
+ klassifikation, det anvendte software, firmware og hardware samt den anvendte  
+
+ kommunikation, og behandles jf. gældende sikkerhedsbestemmelser.  
+
+ Informatiksystemer  
+
+ opdeles i:
+ a.  
+
+  
+
+ Fælles  
+
+ informatiksystemer, der er integreret i forsvarets fælles  
+
+ informatikteknologiske infrastruktur.
+ b.  
+
+  
+
+ Autonome  
+
+ informatiksystemer, der ikke er, kan eller skal integreres i forsvarets  
+
+ fælles  
+
+ informatikteknologiske infrastruktur.
+6.  
+
+  
+
+ Forsvarets  
+
+ fælles informatikteknologiske infrastruktur er det tekniske fundament, hvorpå  
+
+ informatiksystemer implementeres.
+Infrastrukturen omfatter netværk, maskinel,  
+
+ operativsystemer og teknisk basisprogrammel.
+Ansvar 7.  
+
+  
+
+ Den  
+
+ PROJEKTANSVARLIGE MYNDIGHED (PAM) har det overordnede ansvar for et  
+
+ informatiksystem  
+
+ i hele dets levetid omfattende planlægning, anskaffelse, implementering,  
+
+ drift,  
+
+ vedligeholdelse og udfasning, herunder udarbejdelse og vedligeholdelse af  
+
+ "System Specific Security Requirement Statement" (SSRS). PAM har i  
+
+ forbindelse hermed ansvaret for at tilsikre sammenhæng med og afgrænsning til  
+
+ den øvrige informatikvirksomhed.
+PAM kan delegere hele eller dele af PAM  
+
+ opgaver til en anden myndighed, som dermed bliver ansvarlig over for PAM for  
+
+ gennemførelsen heraf.
+PAM udpeges ved et projekts iværksættelse.
+8.  
+
+  
+
+ Den  
+
+ ANSVARLIGE BRUGERMYNDIGHED (ABM) udpeges for hvert enkelt informatiksystem i  
+
+ forbindelse med iværksættelsen af et projekt.
+ABM er overfor PAM ansvarlig  
+
+ for,  
+
+ at systemets funktioner (bruger-krav) til enhver tid er fastlagt, prioriteret  
+
+ og beskrevet.
+ABM er endvidere ansvarlig for tilvejebringelse af de  
+
+ ressourcemæssige  
+
+ forudsætninger for og gennemførelse af den organisatoriske implementering af  
+
+ systemet, herunder planlægning og gennemførelse af brugeruddannelse,  
+
+ udarbejdelse  
+
+ af brugerbestemmelser samt for opfølgning af den daglige anvendelse af  
+
+ systemet.
+9.  
+
+  
+
+ Den  
+
+ ANSVARLIGE SYSTEMMYNDIGHED (ASM) udpeges for hvert enkelt informatiksystem i  
+
+ forbindelse med iværksættelsen af et projekt.
+ASM er over for PAM ansvarlig  
+
+ for  
+
+ systemets tekniske implementering og drift i hele dets levetid inden for de  
+
+ fastsatte økonomiske rammer.
+ASM tilsikrer, at systemet fungerer i  
+
+ overensstemmelse med de af ABM beskrevne krav samt overholder de fastlagte  
+
+ tekniske og sikkerhedsmæssige godkendte standarder.
+ASM er endvidere  
+
+ ansvarlig  
+
+ for teknisk og kommerciel rådgivning til PAM og ABM.
+ 10.  
+
+  
+
+ FORSVARSKOMMANDOEN  
+
+ (FKO) har det overordnede ansvar for studie- og udviklingsvirksomheden samt  
+
+ for den overordnede planlægning, koordinering og styring af  
+
+ informatikvirksomheden  
+
+ i forsvaret, herunder prioritering og fastlæggelse af ressourcemæssige  
+
+ rammer.
+ FKO er PAM for alle fælles  
+
+ og autonome informatiksystemer med undtagelse af informatiksystemer, der er  
+
+ integreret i eller tilknyttet våbensystemer.
+ For koncernfælles  
+
+ informatiksystemer udpeges PAM af Forsvarsministeriet.
+ 11.  
+
+  
+
+ FORSVARETS  
+
+ EFTERRETNINGSTJENESTE (FE) leder og kontrollerer på Forsvarschefens vegne den  
+
+ militære sikkerhedstjeneste i forsvaret samt ved de øvrige institutioner m.v.  
+
+ under Forsvarsministeriet, herunder den elektroniske informationssikkerhed.
+ FE er ansvarlig for rådgivning  
+
+ vedrørende sikkerhedsmæssige foranstaltninger for informatiksystemer og  
+
+ godkendelse af sådanne forud for ibrugtagning.
+ FE godkender  
+
+ uddannelsesbestemmelser for og yder bistand til uddannelse på  
+
+ sikkerhedsområdet.
+ FE er ansvarlig for  
+
+ varetagelse af sagsbehandling af militære sikkerhedsspørgsmål over for den  
+
+ nationale  
+
+ sikkerhedsmyndighed (Politiets Efterretningstjeneste) og bistår denne i  
+
+ militære sikkerhedsspørgsmål i forhold til NATO.
+12.  
+
+  
+
+ FORSVARETS  
+
+ INFORMATIKTJENESTE (FIT) er forsvarets centrale informatikfaglige myndighed.  
+
+ FIT er ASM for fælles og de af FKO udpegede autonome informatiksystemer.
+FIT  
+
+ har således ansvaret for disse systemer samt for forsvarets fælles  
+
+ informatikteknologiske infrastruktur i systemernes totale levetid.
+FIT er  
+
+ ansvarlig for at fastlægge de teknologiske og kommercielle rammer for  
+
+ anskaffelse af informatikprodukter og -serviceydelser for hele FMN  
+
+ myndighedsområde.
+ 13.  
+
+  
+
+ OPERATIVE  
+
+ KOMMANDOER (OKO) og MATERIELKOMMANDOER (MAK) er ansvarlige for  
+
+ informatikvirksomheden  
+
+ inden for eget myndighedsområde og kan være såvel ABM som ASM for egne  
+
+ autonome informatiksystemer samt ABM for de af FKO udpegede fælles  
+
+ informatiksystemer.
+ OKO og MAK kan udpeges som  
+
+ PAM for autonome informatiksystemer.
+ 14.  
+
+  
+
+ FORSVARETS  
+
+ FORSKNINGSTJENESTE bistår forsvarets myndigheder og institutioner m.fl. ved  
+
+ løsning af opgaver af forskningsmæssig karakter og er i denne forbindelse  
+
+ ansvarlig for teknologiovervågning samt deltagelse i udarbejdelse af  
+
+ specialstudier på informatikområdet.

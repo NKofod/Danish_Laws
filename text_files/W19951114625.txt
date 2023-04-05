@@ -1,0 +1,110 @@
+Vurderet tekniske løsninger i forbindelse med anvendelse af bærbare  
+
+ pc'er En amtskommune forelagde en sag vedrørende oprettelse af et register til  
+
+ brug for registrering af klienter ved et høreinstitut i amtet.
+Om registerets opbygning fremgik det bl.a., at oplysninger om op mod  
+
+ 30.000 klienter tænktes lagret i en central database på en pc i  
+
+ høreinstituttet.
+Desuden tænktes oplysningerne lagret på otte bærbare pc'er  
+
+ på en sådan måde, at en total kopi af den centrale database overførtes til  
+
+ hver bærbare pc.
+De bærbare pc'er skulle anvendes af instituttets  
+
+ hørekonsulenter ved deres undervisning m.v. af klienter på træffesteder eller  
+
+ i klienternes hjem overalt i amtet.
+Klientoplysningerne, som ville blive  
+
+ ajourført på de bærbare pc'er af hørekonsulenterne i forbindelse med deres  
+
+ undervisning m.v. af klienterne, tænktes overført til den centrale database i  
+
+ høreinstituttet en gang om ugen, hvorefter en ajourført kopi af den centrale  
+
+ database ville blive overført til de bærbare pc'er.
+ Registertilsynet udtalte, at man på baggrund af den forøgede  
+
+ sikkerhedsrisiko, som anvendelsen af bærbare pc'er indebærer, ikke fandt at  
+
+ kunne tiltræde, at det totale register lagres på hver pc, og henstillede, at  
+
+ en løsning etableredes således, at der på den enkelte pc lagres oplysninger  
+
+ om et væsentligt reduceret antal klienter, f.eks. svarende til de klienter,  
+
+ som henhører til det enkelte træffested.
+ Amtet fastholdt imidlertid den foreslåede løsning med den begrundelse, at  
+
+ det var nødvendigt for hørekonsulenterne at have alle oplysninger om alle  
+
+ klienter, dvs. en komplet kopi af den centrale database på hver bærbare pc,  
+
+ idet hørekonsulenterne ikke var fast tilknyttet et bestemt træffested med en  
+
+ fast kreds af klienter, men skulle være forberedt på at fungere overalt i  
+
+ amtet og betjene klienter fra hele amtet.
+I drøftelser af sagen foreslog Registertilsynet amtet at undersøge andre  
+
+ tekniske løsninger, f.eks. en løsning med opkald via telefonlinie fra de  
+
+ bærbare pc'er til den centrale database, hvorved hørekonsulenterne ville  
+
+ kunne indhente de nødvendige klientoplysninger fra den centrale database uden  
+
+ at have en kopi af databasen på den bærbare pc.
+Amtet tilkendegav, at man  
+
+ ikke var interesseret i en sådan løsning, og foreslog i stedet, at  
+
+ databasekopierne på de bærbare pc'er sikredes yderligere ved anvendelse af  
+
+ kryptografering.
+Sagen blev behandlet på et møde i Registerrådet, og Registertilsynet  
+
+ udtalte derefter, at man fortsat ikke kunne tiltræde den forelagte løsning.  
+
+ Registertilsynet pegede i denne forbindelse bl.a. på det problem, at når en  
+
+ hørekonsulent har ajourført oplysningerne om en klient på sin bærbare pc, vil  
+
+ der eksistere ikke ajourførte oplysninger om klienten i den centrale database  
+
+ og i de syv andre databasekopier på de øvrige bærbare pc'er.
+Denne  
+
+ uoverensstemmelse i oplysningerne om klienten ville kunne forekomme i op til  
+
+ en uge, idet databaserne som sådanne tænktes ajourført ugentligt.  
+
+ Registertilsynet fandt det tvivlsomt, om systemet dermed kunne siges at  
+
+ opfylde lov om offentlige myndigheders registre § 11, hvorefter der skal  
+
+ foretages fornøden kontrol til sikring af, at der ikke registreres urigtige  
+
+ eller vildledende oplysninger.
+ Amtet forelagde herefter en løsning, der foruden kryptering af alle  
+
+ identifikationsoplysninger i databasekopierne baseredes på ajourføring af den  
+
+ centrale database og databasekopierne på de bærbare pc'er mindst en gang om  
+
+ dagen i stedet for den oprindeligt foreslåede ugentlige ajourføring.  
+
+ Ajourføringerne tænktes foretaget via modem af call-backup typen, således at  
+
+ modemforbindelsen etableredes ved opkald fra høreinstituttet, hvorved  
+
+ forbindelse til den centrale database kunne begrænses til kun at kunne  
+
+ etableres fra på forhånd fastlagte telefonnumre.
+ Registertilsynet kunne tiltræde denne løsning, og amtet har efterfølgende  
+
+ fastsat forskrifter for registeret.
+ Registertilsynets Årsberetning 1995 side 115 - 117.

@@ -1,0 +1,364 @@
+Bekendtgørelse  
+
+ om digital kommunikation mv. i sager om  
+
+  
+
+ syge- og barseldagpenge I medfør af § 32 a i forvaltningsloven, lov nr. 571  
+
+ af 19. december 1985, som ændret ved lov nr. 215 af 22. april 2002 samt  
+
+ § 69 i lov nr. 563 af 9. juni 2006 om sygedagpenge, fastsættes efter  
+
+ forhandling med ministeren for familie- og forbrugeranliggender følgende:
+Kapitel 1 Anmeldelse af sygefravær samt anmodning om  
+
+ refusion af syge- eller barseldagpenge via virk.dk § 1.  
+
+  
+
+ Arbejdsgivere samt selvstændige  
+
+ erhvervsdrivende kan anmelde sygefravær samt anmode om refusion af syge-  
+
+ eller  
+
+ barseldagpenge via den landsdækkende digitale løsning på virk.dk.
+ Stk. 2.  
+
+  
+
+ Ved anvendelse af den  
+
+ landsdækkende digitale løsning på virk.dk skal der anvendes digital signatur  
+
+ (OCES-certifikat).
+ Stk. 3.  
+
+  
+
+ Tidspunktet for anmeldelsen af  
+
+ sygefraværet eller anmodningen om syge- eller barseldagpenge er det  
+
+ tidspunkt,  
+
+ arbejdsgiveren eller den selvstændige erhvervsdrivende har signeret  
+
+ indberetningen  
+
+ på virk.dk.
+Kapitel 2 Digital kommunikation mellem virk.dk og alle  
+
+ kommuner i Danmark § 2.  
+
+  
+
+ Kommunen skal have en kommunal  
+
+ eDag2-postkasse, der gør det muligt at modtage indberetning og dokumentation  
+
+ som en e-mail, der er krypteret og signeret af virk.dk.
+ Stk. 2.  
+
+  
+
+ Kommunens eDag2-postkasse skal  
+
+ umiddelbart efter modtagelsen sende en autokvittering til virk.dk for  
+
+ modtagelsen af indberetning og dokumentation.
+ § 3.  
+
+  
+
+ Kommunen skal modtage  
+
+ indberetning og dokumentation fra virk.dk i OIOXML-meddelelsesformat til  
+
+ automatisk indlægning i sagssystem.
+ Stk. 2.  
+
+  
+
+ Kommunen skal umiddelbart efter  
+
+ modtagelsen sende en systemkvittering til virk.dk for modtagelse af  
+
+ indberetning og dokumentation.
+ Stk. 3.  
+
+  
+
+ Data i OIOXML-meddelelsesformat  
+
+ skal til enhver tid overholde de krav og standarder, der er publiceret i den  
+
+ nationale Infostrukturbase på isb.oio.dk.
+Kapitel 3 Oplysninger der udveksles i den landsdækkende  
+
+ digitale løsning § 4.  
+
+  
+
+ For at sikre en oplysnings ægthed  
+
+ skal den signeres med et OCES-certifikat, når den sendes.
+ Stk. 2.  
+
+  
+
+ Det er ikke et krav, at der skal  
+
+ signeres med et OCES-certifikat, hvis der sendes kvitteringer uden  
+
+ personoplysninger af fortrolig karakter.
+ § 5.  
+
+  
+
+ Der skal bruges stærk kryptering  
+
+ og autentificering, når der udveksles oplysninger i den landsdækkende  
+
+ digitale  
+
+ løsning.
+ Stk. 2.  
+
+  
+
+ Det er ikke et krav, at  
+
+ der skal ske kryptering, hvis der  
+
+ sendes kvitteringer uden personoplysninger af fortrolig karakter.
+ Stk. 3.  
+
+  
+
+ Arbejdsdirektoratet fastsætter  
+
+ graden af kryptering efter den gældende vurdering for stærk kryptering.
+ § 6.  
+
+  
+
+ Adgangsrettigheder skal styres,  
+
+ således at data, som er omfattet af persondataloven, sikres mod uautoriseret  
+
+ adgang, jf. justitsministeriets bekendtgørelse nr. 528 af 15. juni 2000, som  
+
+ ændret ved bekendtgørelse nr. 201 af 22. marts 2001, om  
+
+ sikkerhedsforanstaltninger til beskyttelse af personoplysninger, som  
+
+ behandles  
+
+ for den offentlige forvaltning.
+§ 7.  
+
+  
+
+ Det skal dokumenteres, at den  
+
+ landsdækkende digitale løsning 1)  
+
+ 	  
+
+ giver sikkerhed for,  
+
+ at den elektroniske meddelelse ikke kan læses af andre end modtageren, 2)  
+
+ 	  
+
+ forhindrer, at den  
+
+ elektroniske meddelelse kan ændres på vej til kommunen, og 3)  
+
+ 	  
+
+ forebygger, at andre  
+
+ end den relevante arbejdsgiver kan udgive sig som afsender af den  
+
+ elektroniske  
+
+ meddelelse.
+ Stk. 2.  
+
+  
+
+ Der er en pligt til at opdatere  
+
+ den landsdækkende digitale løsning, så den til enhver tid overholder den  
+
+ gældende lovgivning.
+§ 8.  
+
+  
+
+ Erhvervs- og Selskabsstyrelsen er  
+
+ ansvarlig for, at der årligt afgives en uafhængig revisorerklæring om, at 1)  
+
+ 	  
+
+ virk.dk´s IT-system  
+
+ er tilstrækkeligt sikkert og indeholder nødvendige og tilstrækkelige  
+
+ sikkerhedsprocedurer  
+
+ til at modtage, behandle og videresende elektroniske meddelelser, 2)  
+
+ 	  
+
+ virk.dk´s system i  
+
+ øvrigt følger denne bekendtgørelses regler til behandling af elektroniske  
+
+ meddelelser, 3)  
+
+ 	  
+
+ virk.dk´s  
+
+ forretningsgange på dette område sker under iagttagelse af persondataloven,  
+
+ og 4)  
+
+ 	  
+
+ der er sket  
+
+ anmeldelse til Datatilsynet i det omfang det er påkrævet.
+§ 9.  
+
+  
+
+ Kommunen er ansvarlig for, at der  
+
+ årligt afgives en uafhængig revisorerklæring, jf. § 29 i bekendtgørelse  
+
+ nr. 119 af 24. februar 2005 om, at 1)  
+
+ 	  
+
+ systemet er  
+
+ tilstrækkeligt sikkert og indeholder nødvendige og tilstrækkelige  
+
+ sikkerhedsprocedurer til at modtage og behandle elektroniske meddelelser, 2)  
+
+ 	  
+
+ systemet i øvrigt følger  
+
+ denne bekendtgørelses regler til behandling af elektroniske meddelelser, 3)  
+
+ 	  
+
+ kommunens  
+
+ forretningsgange på dette område sker under iagttagelse af persondataloven,  
+
+ og 4)  
+
+ 	  
+
+ der er sket  
+
+ anmeldelse til Datatilsynet i det omfang det er påkrævet.
+§ 10.  
+
+  
+
+ Arbejdsdirektoratet er ansvarlig  
+
+ for, at der årligt afgives en uafhængig revisorerklæring om, at 1)  
+
+ 	  
+
+ VAS´en (validering  
+
+ for atypisk sygefravær) er tilstrækkelig sikker og indeholder nødvendige og  
+
+ tilstrækkelige sikkerhedsprocedurer til at modtage, behandle og videresende  
+
+ elektroniske meddelelser, 2)  
+
+ 	  
+
+ VAS´en i øvrigt  
+
+ følger denne bekendtgørelses regler til behandling af elektroniske  
+
+ meddelelser, 3)  
+
+ 	  
+
+ Arbejdsdirektoratets  
+
+ forretningsgange på dette område sker under iagttagelse af persondataloven, 4)  
+
+ 	  
+
+ borgerne og  
+
+ virksomhederne er oplyst om VAS´en, herunder om konkrete registreringer i  
+
+ VAS´en i fornødent omfang, og 5)  
+
+ 	  
+
+ der er sket  
+
+ anmeldelse til Datatilsynet i det omfang det er påkrævet.
+Kapitel 4 Dokumentation, opbevaring og kontrol § 11.  
+
+  
+
+ Kommunerne skal opbevare den  
+
+ elektroniske indberetning og dokumentation i samme periode som i dag,  
+
+ svarende  
+
+ til gældende kassationsregler.
+ § 12.  
+
+  
+
+ Kommunen skal løbende udtage  
+
+ stikprøvekontrol i 1 pct. af de sygedagpengeudbetalinger, der foretages  
+
+ igennem  
+
+ den landsdækkende digitale løsning.
+ Stk. 2.  
+
+  
+
+ Kommunen skal dokumentere  
+
+ gennemførelsen af stikprøvekontrollen og resultaterne af den.
+ Ikrafttræden mv.
+ § 13.  
+
+  
+
+ Bekendtgørelsen træder i kraft  
+
+ den 3. juli 2006.
+ Stk. 2.  
+
+  
+
+ Bekendtgørelse nr. 215 af 20. marts 2006 om digital kommunikation mv. i sager  
+
+ om  
+
+ syge- og barseldagpenge ophæves.

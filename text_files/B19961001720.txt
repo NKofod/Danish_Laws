@@ -1,0 +1,256 @@
+(MDIR 04.11-11) 1. FORMÅL Denne prøvningsmetode kan benyttes til at bestemme ikke-automatiske vægtes  
+
+ fejlvisning.
+Fejlvisning er per definition lig med vægtvisning minus  
+
+ belastningens sande masse ved referencebetingelserne for konventionel masse.
+ Prøvningsmetoden er baseret på bestemmelserne i EN45501.
+ Metoden kan benyttes til fejlvisningsbestemmelse for vægte og ikke til  
+
+ fejlvisningsbestemmelse for moduler, der indgår i vægte.
+ Metoden kaldes også vejeprøven.
+2. HENVISNING TIL MÅLETEKNISKE BESTEMMELSER Forskrifterne i EN45501 bruges, når andre måletekniske bestemmelsers  
+
+ forskrifter afviger fra forskrifterne i EN45501.
+3. FORUDSÆTNINGER Generelt vedrørende måleudstyr, prøvningsbetingelser, prøvningsmiljø,  
+
+ forkonditionering m.v. henvises til MDIR 04.11-10.
+De måletekniske bestemmelser kræver, at normalernes samlede sande masse  
+
+ bestemt ved referencebetingelserne for konventionel masse ikke afviger mere  
+
+ end fejlvisningstolerancen divideret med tre fra deres samlede nominelle  
+
+ masse.
+Ved kalibrering af normaler bestemmes deres afvigelse fra deres sande  
+
+ masse bestemt ved referencebetingelserne for konventionel masse.
+Det følger  
+
+ af definitionen af fejlvisning, at det ikke er nødvendigt at korrigere for  
+
+ temperatur, barometertryk eller andre miljøparametre, der ændrer  
+
+ luftopdriften på normalerne.
+Fejlvisningsbestemmelse forudsætter, at fejlvisningen er nul ved nullast  
+
+ før opvejning udføres.
+Det kan opnås ved nulstilling af vægten eller ved  
+
+ korrektion af fejlvisningerne.
+ Fejlvisningsbestemmelse forudsætter, at normalers samlede tyngdepunkt  
+
+ befinder sig nær ved den lodrette linie, der går igennem vejepladens centrale  
+
+ punkt.
+Bestemmelse af fejlvisning sker ved opvejning og nedvejning.
+Det  
+
+ tilstræbes under opbygningen af belastningen at vægten på intet tidspunkt må  
+
+ være belastet med en højere masse end den, som udgør målepunktet.
+Tilsvarende  
+
+ gælder ved nedvejning af vægten på intet tidspunkt må være belastet med en  
+
+ mindre masse end den, som udgør målepunktet.
+4. PRØVNING Bestemmelse af uafrundet visning Når den anvendte delingsværdi i vægtvisningen ikke overstiger 0,2 gange  
+
+ verifikationsværdien bruges den aflæste visning.
+ Hvis den anvendte delingsværdi i vægtvisningen er større end 0,2 gange  
+
+ verifikationsværdien skal afrundingsfejlen minimeres ved at bestemme den  
+
+ uafrundede visning med vippepunktsmetoden.
+Vippepunktsmetoden Vægtens uafrundede visning kan bestemmes med vippepunktsmetoden.
+Den er  
+
+ beskrevet i næste afsnit.
+Ved en belastning B noteres visningen I.
+Tillægslodder med massen 0,1  
+
+ gange delingsværdien d tilføjes indtil visningen netop er forøget med en  
+
+ deling.
+Tillægsloddernes samlede masse a noteres.
+Den uafrundede visning P  
+
+ beregnes af formlen P=I+0,5*d-a.
+Automatisk nulindtrækning Automatisk nulindtrækning frakobles inden prøven starter, hvis det er  
+
+ muligt.
+I modsat fald bringes vægten udenfor indtrækningsområdet med en lille  
+
+ belastning, der udgør vægtens nullast under vejeprøven.
+Belastningen skal  
+
+ være mindre end Min, fx 10 delinger for klasse III vægte.
+Korrektion for visningsfejl ved nullast Alle visningsfejl korrigeres for visningsfejlen som vægten har før  
+
+ opvejningen starter.
+ Korrektionen kan for digitalt visende vægte med manuel nulindstilling  
+
+ udføres som beskrevet i næste afsnit.
+Belastning svarende til det halve af delingsværdien placeres på  
+
+ vejeladdet.
+Nulindstillingen justeres indtil visningen befinder sig i  
+
+ vippepunktet, hvor visningen skifter mellem nul og en deling.
+Belastningen  
+
+ fjernes fra vejeladdet.
+For alle andre vægte korrigeres alle fejlvisninger ved at trække  
+
+ fejlvisningen ved nullast før opvejning fra alle fejlvisninger.
+Er  
+
+ fejlvisningen ved nullast negativ kan man dog korrigere ved at anbringe en  
+
+ last svarende til fejlvisningen.
+Denne last skal forblive på vægten under  
+
+ hele vejeprøven.
+Antal belastningspunkter For hver toleranceværdi bestemmes visningsfejl i mindst 2  
+
+ belastningspunkter.
+Der skal bestemmes visningsfejl nær ved og lige under  
+
+ alle belastninger, hvor toleranceværdien skifter.
+ Belastningspunkterne skal omfatte Min og Max.
+Ved typeprøvning skal visningsfejl bestemmes i mindst 10  
+
+ belastningspunkter ved første vejeprøve.
+Ved efterfølgende vejeprøver  
+
+ bestemmes visningsfejl i mindst 5 belastningspunkter.
+ Ved verifikation skal visningsfejl bestemmes i mindst 5  
+
+ belastningspunkter.
+ Vægte med tara.
+Der udføres også to vejeprøver med indkoblet tara.
+Den ene tareringspunkt  
+
+ skal ligge i nærheden af 50% af Max.
+Det andet tareringspunkt skal ligge i  
+
+ nærheden af Max ved en belastning, hvor toleranceværdien uden tarering er  
+
+ størst.
+ Vægte med flere områder.
+ Der udføres en vejeprøve for hvert område.
+ Vægte med flere intervaller.
+ Der udføres en vejeprøve omfattende alle intervaller.
+ Initialnulstilling er større end 20%.
+ Hvis vægtens initialnulstilling er større end 20% udføres en ekstra  
+
+ vejeprøve med størst mulig initialnulstilling.
+ Hvis initialnulstillingsområdet er større end 100%, skal der udføres flere  
+
+ vejeprøver, hvor initialnulstillingen hver gang øges med værdien af Max.
+ Vejeprøve udført med normaler.
+ 1. Vægten motioneres en gang med een forlast, som er  
+
+ så nær ved Max som muligt.
+ 2. Visningsfejlen bestemmes ved nullast.
+ 3. Vægten belastes med Min, hvorefter visningsfejlen  
+
+ bestemmes.
+ 4. Belastningen øges til næste belastningspunkt er  
+
+ opnået, hvorefter visningsfejlen bestemmes.
+ 5. Punkt 4 gentages indtil Max.
+ 6. Belastningen mindskes til næste belastningspunkt,  
+
+ hvorefter visningsfejlen bestemmes.
+ 7. Punkt 6 gentages indtil fejlvisningen er bestemt  
+
+ ved nullast.
+ 8. Om nødvendigt korrigeres fejlvisningerne som  
+
+ beskrevet i "Korrektion for visningsfejl ved nullast".
+ Vejeprøven udført med normaler og substitutionsmaterialer.
+ For vægte med Max større end 1 t, kan vejeprøven udføres med normaler og  
+
+ substitutionsmaterialer.
+ Der skal altid mindst anvendes 1 t normaler.
+Desuden skal normalerne mindst udgøre 50% af Max.
+Resultaterne fra en  
+
+ repeterbarhedsprøve udført med tre gentagelser kan danne grundlag for en  
+
+ reduktion af 50% kravet.
+Fremgangsmåden er:
+ 1. Fejlvisningen bestemmes tre gange med normaler,  
+
+ hvis samlede masse mindst er 20% af Max.
+ 2. Den største forskel mellem fejlvisningerne  
+
+ bestemmes.
+ 3. Forholdet mellem normalernes masse og Max beregnes.
+ 4. En grænseværdi beregnes ved at gange forholdet med  
+
+ e.
+ Hvis den største forskel mellem fejlvisningerne ikke overstiger  
+
+ grænseværdien kan vejeprøven udføres med disse normaler og  
+
+ substitutionsmaterialer.
+ Vejeprøven udføres som følger:
+ 1. Vægten motioneres en gang med en forlast, som er så  
+
+ nær Max som muligt.
+ 2. Visningsfejlen bestemmes ved nullast.
+ 3. Vægten belastes med Min, hvorefter visningsfejlen  
+
+ bestemmes.
+ 4. Belastningen øges med normaler til næste  
+
+ belastningspunkt, hvorefter visningsfejlen bestemmes.
+ 5. Punkt 4 gentages indtil alle normaler er påført.
+ 6. Normalerne aftages.
+ 7. Substitutionsmateriale påføres indtil vægten har  
+
+ samme visning og visningsfejl som den havde da alle normaler var påført.
+ 8. Belastningen øges med normaler til næste  
+
+ belastningspunkt, hvorefter visningsfejlen bestemmes.
+ 9. Punkt 8 gentages indtil alle normaler er påført.
+ 10. Punkt 6 til og med 9 gentages indtil Max.
+ 11. Belastningen mindskes til næste belastningspunkt,  
+
+ hvorefter visningsfejlen bestemmes.
+ 12. Punkt 11 gentages indtil alle normaler er aftaget.
+ 13. Alle normaler påføres.
+ 14. Substitutionsmateriale aftages indtil vægten har  
+
+ samme visning og visningsfejl som den havde da alle normaler var fjernet.
+ 15. Punkt 11 til og med 14 gentages indtil  
+
+ fejlvisningen er bestemt ved nullast.
+ Ved beregning af visningsfejl med substitutionsmateriale antages  
+
+ substitutionsmaterialet at have samme masse som de normaler det erstatter.
+Vejeprøven kan også udføres som opvejning med normalerne efterfulgt af  
+
+ nedvejning med normalerne.
+Substitutionsmaterialet påføres og opvejning og  
+
+ nedvejning udføres med normalerne.
+Dette gentages indtil Max.
+Flytning af vægt Belastningen (tyngdekraften) fra normaler og fra vejede emner ændrer sig,  
+
+ når vægten flyttes til en andet sted i Danmark eller hæves eller sænkes på  
+
+ opstillingsstedet.
+Vejeprøvens resultater gælder derfor kun for det sted,  
+
+ hvor vægten stod under vejeprøven.
+I Måleteknisk Meddelelse nr.
+MM 74 gives  
+
+ vejledning vedrørende flytning af vægte.
+5. KRAV Kravene til vejeprøvens fejlvisning gælder både ved bruttovejning og ved  
+
+ nettovejning.
+ Nedenstående tabel angiver verifikationstolerancerne for fejlvisninger.

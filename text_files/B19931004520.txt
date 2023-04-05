@@ -1,0 +1,477 @@
+(Teknisk forskrift 3.3.03-2) I medfør af §10, stk. 2 i lov nr. 394 af 13. juni 1990 om erhvervsfremme  
+
+ samt §1 i Industriministeriets bekendtgørelse nr. 73 af 30. januar 1992 om  
+
+ henlæggelse af visse beføjelser til Industri- og Handelsstyrelsen fastsættes:
+ 1. Gyldighedsområde.
+ Denne tekniske forskrift finder anvendelse på alle laboratorier, som er  
+
+ akkrediteret af Dansk Akkreditering (DANAK) til at udføre kalibrering.
+ 2. Formål.
+ Forskriften fastlægger hvorledes, kravene i DS/EN45001, kap. 5.4.1 og  
+
+ 5.4.3 vedrørende prøvningsmetoder, procedurer og prøvningsrapporter skal  
+
+ suppleres for at sikre, at akkrediterede kalibreringslaboratorier overholder  
+
+ de af WECC (Western European Calibration Cooperation) fastlagte krav til  
+
+ bestemmelse af måleusikkerhed.
+ 3. Krav ved bestemmelse af måleusikkerhed.
+ Akkrediterede kalibreringslaboratorier skal ved bestemmelse af  
+
+ måleusikkerhed følge de retningslinier, der er beskrevet i dokumentet:
+WECC DOC. 19-1990: Retningslinier for angivelse af måleusikkerhed ved  
+
+ kalibreringer, som er bilag til denne tekniske forskrift.
+Dokumentet er en dansk  
+
+ oversættelse af WECC Doc 19-1990 »Guidelines for the Expression of the  
+
+ Uncertainty of Measurement in Calibrations«.
+ 4. Ikrafttræden.
+ Denne tekniske forskrift træder i kraft den 26. august 1993 og erstatter  
+
+ tidligere forskrift af 17. december 1992.
+Erhvervsfremme Styrelsen Kurt Steen Jakobsen Bilag   | Retningslinier for angivelse af måleusikkerhed | | ved  
+
+ kalibreringer. | | | WECC DOC.19-1990: Guidelines for the Expression of the  
+
+ Uncertainty of Measurement in Calibrations 0. Forord.
+0.1 Western European Calibration Cooperation (WECC) er betegnelsen for  
+
+ samarbejdet mellem de nationale kalibreringslaboratoriers  
+
+ akkrediteringsorganer (i det følgende kaldet akkrediteringsorganer), som  
+
+ opererer i Europa.
+Samarbejdet begyndte i 1975 og er baseret på  
+
+ »Memorandum of Understanding« (WECC Doc. 20).
+EUROMET, det europæiske samarbejde om målenormaler, sikrer et fælles  
+
+ måleteknisk grundlag for WECC's kalibreringsaktiviteter.
+Formålet med WECC er  
+
+ at opbygge og opretholde gensidig tillid mellem de forskellige  
+
+ akkrediteringsorganer med henblik på at nå frem til en gensidig aftale om  
+
+ ækvivalensen af akkrediteringsorganernes drift og af de certifikater, som  
+
+ udstedes af de akkrediterede laboratorier.
+Dette bidrager til at fjerne de  
+
+ tekniske handelshindringer, der har relation til kalibrering.
+Et yderligere mål for WECC er at åbne og opretholde kanaler for en fortsat  
+
+ udveksling af know-how mellem de deltagende akkrediteringsorganer, således at  
+
+ man kan etablere et fælles højt måleteknisk niveau.
+Et af de midler, WECC  
+
+ benytter for at nå disse mål, er publicering af kriterierne for  
+
+ akkrediteringsorganernes virksomhed.
+Disse kriterier, som harmoniseres med de  
+
+ europæiske standarder om akkreditering af laboratorier, især EN 45001, EN  
+
+ 45002 og EN 45003, opstiller de nøjagtige krav, der stilles til  
+
+ kalibreringslaboratorier, deres bedømmelse, akkreditering og tilsyn.
+De  
+
+ indeholder desuden procedurer for, hvordan medlemsorganerne holdes orienteret  
+
+ om hinandens aktiviteter.
+De gældende WECC dokumenter er anført i den seneste  
+
+ udgave af WECC Doc.01.
+ 0.2 En nødvendig forudsætning for kalibreringscertifikaters  
+
+ tekniske ækvivalens er, at den på certifikaterne anførte usikkerhed evalueres  
+
+ og udtrykkes på en harmoniseret måde.
+ 1. Indledning.
+Formålet med nærværende dokument er at angive retningslinier for,  
+
+ hvorledes man på kalibreringslaboratorier skønner usikkerhed og hvorledes  
+
+ usikkerheden angives på kalibreringscertifikater.
+Behandlingen i dette  
+
+ dokument er holdt på et generelt niveau for kunne passe på alle typer  
+
+ målinger.
+Det kan være nødvendigt at supplere de generelle retningslinier med  
+
+ en mere specifik vejledning på forskellige områder, således at den givne  
+
+ information er umiddelbart lettere at anvende.
+Ved udarbejdelsen af sådanne  
+
+ supplerende retningslinier bør de generelle principper skitseret i dette  
+
+ dokument efterfølges, således at harmonisering mellem de forskellige områder  
+
+ sikres.
+ Bedømmelsen af de akkrediterede laboratoriers bedste måleevne skal baseres  
+
+ på de retningslinier, der er angivet i dokumentet, men bør understøttes eller  
+
+ bekræftes ved eksperimentel dokumentation.
+ Fremgangsmåden beskrevet i disse retningslinier giver resultater, som er i  
+
+ overensstemmelse med den metode, der blev anbefalet af Comite International  
+
+ des Poids et Mesures på dets 70. møde i 1981 (Rekommandation 1 (CI-1981),  
+
+ trykt i Metrologia 18 (1982), s. 44).
+ 2. Oversigt og definitioner.
+Måleusikkerhed er et skøn over den del af angivelsen af et måleresultat,  
+
+ som karakteriserer det interval, inden for hvilke den sande værdi af den  
+
+ målte størrelse (målestørrelsen) befinder sig.
+Dette skøn udføres efter, at  
+
+ der er foretaget korrektioner for alle kendte systematiske fejl.
+I dette dokument behandles alle fysiske størrelser som stokastiske  
+
+ variable, selv de influensstørrelser, som kan påvirke den målte værdi på en  
+
+ systematisk måde.
+Influensstørrelserne afviger udelukkende fra  
+
+ målestørrelserne ved, at man sædvanligvis har mindre kendskab til dem.
+Målestørrelsen Y repræsenterer en udgangsstørrelse eller en resulterende  
+
+ størrelse.
+Den afhænger af et antal indgangsstørrelser eller en resulterende  
+
+ størrelse.
+Den afhænger af et antal indgangsstørrelser X (i=1,2,...,v) ifølge  
+
+ i funktionen G Y = G (X ,X ,...,X ,...,X ) (1) 1 2 i v Indgangsstørrelserne omfatter dem, der er angivet i  
+
+ kalibreringscertifikaterne for de anvendte normaler, såvel som dem der opstår  
+
+ fra måleprocessen og influensstørrelserne.
+Eftersom de sande værdier af  
+
+ størrelserne X almindeligvis ikke er kendte, i benyttes der estimerede  
+
+ værdier X som indgangsdata ved i bedømmelsen af den generelle usikkerhed af  
+
+ måleresultatet.
+Som et mål for usikkerheden af disse estimerede værdier X , i 2 kan de  
+
+ eksperimentelt bestemte varianser Sx, eller deres positive kvadratrod S -  
+
+ kaldet standardafvigelserne - benyttes.
+Man x i 2 2 kan desuden benytte  
+
+ relative varianser (S' ) =(S /X ) eller x x i i i relative standardafvigelser  
+
+ S' = S /| X | ved beregningerne. x x i i i Hvis to indgangsstørrelser X og X vides at være korrelerede - dvs. i k  
+
+ hvis de i et vist omfang er afhængige af hinanden - skal den estimerede  
+
+ kovarians betragtes som et bidrag til usikkerheden (se Tillæg A). I alle  
+
+ andre tilfælde bør indgangsstørrelserne anses for at være ukorrelerede.
+ 3. Formulering af indgangsdata.
+ 3.1 Gentagne målinger.
+Når en måling gentages under samme betingelser, kan der være en  
+
+ observerbar spredning i de målte værdier, hvis der er tilstrækkelig opløsning  
+
+ i måleprocessen.
+Med n uafhængige enkeltmålinger (n> 1), er den estimerede  
+
+ værdi X , af den sande i værdi af størrelsen X giver ved det aritmetriske  
+
+ gennemsnit i af de individuelt måler værdier u (J = 1,...,n): i.j (2) Et skøn over standarafvigelsen S af de observerede værdier angives u ved:
+(3) Et skøn over den (eksperimentelle) varians af X angives ved: i 2 1 2 S = -  
+
+ S x n u i i (4) Hvis antallet n af gentagne målinger er mindre end 10, kan lign. (3) føre  
+
+ til en undervurdering af usikkerhedsbidraget.
+I dette 2 tilfælde bør en værdi  
+
+ for S vurderes på baggrund af erfaring x i (f.eks. på grundlag af resultater  
+
+ af tidligere målinger). Hvis dette er muligt, eller hvis det viser sig at  
+
+ være uacceptabelt, bør den i Tillæg B beskrevne procedure anvendes.
+ 3.2 Enkeltværdier og influensstørrelser.
+3.2.1 Hvis kun een værdi er kendt for en størrelse X , f.eks. en i enkelt  
+
+ målt værdi, er resulterende værdi af en tidligere måling, en værdi fra  
+
+ litteraturen eller en korrektionsværdi, bør denne værdi benyttes for X i. 2 Varianserne S skal benyttes, hvis de er angivet eller kan beregnes x i ud  
+
+ fra utvetydige usikkerhedsdata.
+Hvis der ikke findes sådanne data, skal  
+
+ varianserne vurderes på grundlag af erfaringer.
+3.2.2 Hvis influensparameteren på basis af teori eller erfaring  
+
+ kan tillægges en given sandsynlighedsfordeling, skal variansen 2 svarende til  
+
+ denne fordeling anvendes som estimat for S . x i 3.2.3 Hvis kun de øvre og nedre grænser a og a for værdien af u.i  
+
+ l.i influensstørrelsen kan vurderes (f.eks. fejlgrænser for måleinstrument,  
+
+ reguleret temperaturområde), kan man benytte: 1 X = -(a +a ) i 2 u.i l.i (5) som den estimerede middelværdi og 2 1 2 S = --(a -a ) x 12 u.i l.i i (6) for den estimerede varians.
+Hvis forskellen mellem grænseværdierne betegnes 2A , giver lign. (6): 2 1  
+
+ 2 i S =- a x 3 i i (7) Disse udsagn svarer til rektangulære fordelinger af influensstørrelserne  
+
+ mellem de givne grænser.
+ 4. Beregning af udgangsdata (resultater).
+ 4.1 Måleresultat.
+Resultatet af målingen Y (som en estimeret værdi for den sande værdi for  
+
+ udgangsstørrelsen Y) beregnes ved at erstatte X med i indgangsdata x lign.  
+
+ (1): i Y = G(x ,x ,...,x ,...x ) (8) 1 2 i u 4.2 Varians.
+ For ukorrelerede indgangsstørrelser er variansen af udgangsstørrelsen  
+
+ givet ved:
+(9) Her er  den partielle afledede af funktionen G med  
+
+ hensyn til X udregnet i punktet svarende til indgangsdata x . Den i i  
+
+ partielle afledede beskriver, hvordan udgangsstørrelsen er relateret til hver  
+
+ af indgangsstørrelserne.
+Variansen af måleresultatet er således givet ved at  
+
+ summere varianserne svarende til de forskellige usikkerhedskomponenter  
+
+ multipliceret med kvadratet af de relevante partielle afledede.
+Hvis funktionen G er en liniær funktion af alle X , hvilket ofte er i  
+
+ tilfældet for direkte målinger, er alle partielle afledede  lig med 1. Det samme gælder, hvis det er muligt at benytte  
+
+ relative varianser, og funktionen G er et produkt eller en kvotient af  
+
+ indgangsstørrelser.
+I disse tilfælde bliver lign. (9) (10) Se Tillæg A for korrelerede størrelser.
+5. Samlet måleusikkerhed. 2 Den positive kvadratrod af variansen S , dvs. standardafvigelsen S , y y  
+
+ er et mål for den kombinerede usikkerhed af udgangsstørrelsen Y.
+Inden for området kalibrering anbefales det, at en samlet måleusikkerhed  
+
+ af målingen +/-U anføres.
+Denne opnås ved at multiplicere standardafvigelsen  
+
+ S med en faktor K. y u=k.s (11) y Inden for WECC er det besluttet at benytte faktoren k=2.
+ I tilfælde af normalfordelingen (Gauss-fordelingen) betyder faktoren k=2,  
+
+ at grænserne for den samlede usikkerhed gælder for et konfidensniveau på ca.  
+
+ 95%.
+ 6. Angivelse af usikkerhed.
+ 6.1 Usikkerhedsbudget.
+Usikkerhedsbudgettet for en måleprocedure omfatter alle kilder til  
+
+ usikkerhed, de tilsvarende varianser (eller standardafvigelser) og metoder  
+
+ til beregning eller vurdering.
+For gentagne målinger skal desuden antallet af  
+
+ målinger n anføres.
+Den numeriske værdi af usikkerheden skal i den endelige angivelse anføres  
+
+ med højst to betydende cifre.
+I den endelige angivelse skal talværdien for  
+
+ målestørrelsen normalt afrundes til det mindst betydende ciffer i den  
+
+ usikkerhed, der er tillagt målestørrelsen.
+ 6.2 Angivelse i kalibreringscertifikater.
+ I kalibreringscertifikater skal resultatet af målingen Y og den samlede  
+
+ usikkerhed U angives som (Y+/-U). En tilføjet note bør have følgende indhold:
+»Den rapporterede usikkerhed er angivet som standardafvigelsen  
+
+ multipliceret med en faktor 2, dvs. k=2. Standardafvigelsen er beregnet på  
+
+ baggrund af bidrag til usikkerheden, der stammer fra normal,  
+
+ kalibreringsmetode, og omgivelsesbetingelser, samt fra ethvert korttidsbidrag  
+
+ fra den kalibrerede genstand i overensstemmelse med WECC Doc. 19.« 7. Trinvis procedure til beregning af  
+
+ måleusikkerheden.
+ Følgende er en vejledning i den praktiske brug af dette dokument (se  
+
+ eksempler i Tillæg C):
+Hvis kun de øvre og nedre grænser er givet eller kan vurderes: Beregn  
+
+ variansen i overensstemmelse med afsnit 3.2.3. 2 Hvis indgangsstørrelserne vides at være korrelerede: Anvend den i Tillæg A  
+
+ angivne procedure.
+Tillæg A.
+Korrelerede indgangsstørrelser.
+Hvis to indgangsstørrelser X og X vides at være korrelerede - i k d.v.s.  
+
+ hvis de i en vis grad er afhængige af hinanden - skal den estimerede  
+
+ kovarians   (12) betragtes som et  
+
+ yderligere bidrag til usikkerheden.
+Graden af korrelation karakteriseres ved  
+
+ korrelationskoefficienten .
+ I tilfælde af gentagne målinger er kovariansen givet ved  (13) og ved substitution kan r beregnes ud fra lign. (12).
+For influensstørrelser skal enhver grad af korrelation baseres på  
+
+ erfaring.
+Når der er korrelation, skal lign. (9) erstattes med  (14) hvor Det bør bemærkes, at resultatet af den anden summation af led i lign. (14)  
+
+ kan blive negativt.
+Hvis to eller flere størrelser kun er positivt korrelerede, og  
+
+ korrelationens koefficienten kan sættes til +1, giver lign. (12) og (14) for  
+
+ den kombinerede varians og standardafvigelse  (15) I dette specielle tilfælde er den kombinerede standardafvigelse af  
+
+ resultatet givet ved en liniær sammenlægning af de enkelte standardafvigelser  
+
+ multipliceret med de relevante partielle afledede.
+Værdien +1 for  
+
+ korrelationskoefficienten bør f.eks. benyttes, hvis samme instrument benyttes  
+
+ mere end een gang i måleproceduren (f.eks. hvis en 1:10 forholdsmålebro  
+
+ benyttes tre gange for at opnå et forhold på 1:1000) Hvis to størrelser X og X er negativt korrelerede med en i j  
+
+ korrelationsfoefficient på -1, giver de tilhørende led i lign. (14):  (16) Tillæg B - Procedure når antallet af målinger er mindre end 10.
+ I tilfælde af mindre end 10 målinger og når der ikke findes andre  
+
+ vurderinger baseret på erfaring, skal værdien af S i lign. (3) u  
+
+ multipliceres med faktoren angivet i Tabel 1.
+Tabel 1 Antallet af enkelte Multiplicerende målte værdier faktor  2 7,0 3  
+
+ 2,3 4 1,7 5 1,4 6 1,3 7 1,3 8 1,2 9 1,2 De multiplicerende faktorer gælder for K=2 og er baseret på Student  
+
+ t-fordelinger og normalfordelingen.
+ Tillæg C - Eksempler.
+Følgende eksempler er taget fra praktiske tilfælde.
+Detaljer og numeriske  
+
+ værdier er imidlertid vilkårligt valgt, således at der ved vurderingen af  
+
+ indgangsstørrelserne kan behandles så mange forskellige tilfælde som muligt.  
+
+ Tekst og beregninger er vist mere udførligt end det forventes i praksis.
+ C.1. Eksempel 1.
+ C.1.1 Formålet med målingen og den matematiske model.
+Målingen af strømmen I ved spændingen U over en målemodstand med  
+
+ resistancen R.
+Værdien af strømstyrken er omkring 10 A, en  
+
+ strømmålingsmodstand med nominel resistans  benyttes, og  
+
+ spændingsfaldet måles med et digitalvoltmeter, hvor indgangsresistansen er  
+
+, således at korrektionen for lækstrøm gennem voltmetret  
+
+ er forsvindende lille.
+Rumtemperaturen holdes konstant inden for (23 +/- 3)  
+
+ grader C.
+Samtlige indgangsstørrelser er ukorrelerede.
+For udgangsstørrelsens afhængighed af indgangsstørrelserne følger i  
+
+ overensstemmelse med lign. (1) at I = U / R C.1.2 Opgørelse af indgangsdata.
+Den eksperimentelle standardafvigelse er ifølge lign. (3) Estimeret værdi af variansen af gennemsnittet er ifølge lign. (4) Dette resultat er blevet bekræftet ved kalibrering.
+Således vil de  
+
+ resulterende fejlgrænser for den målte værdi, 100 mV, være 0,045% - for 10 A og ved 23 grader C er den målte resistans:
+ De relative usikkerheder kan konverteres til absolutte usikkerheder ved at  
+
+ multiplicere med R.
+ Ifølge 3.2.1 bør den målte værdi tages som en estimeret værdi for R:
+Ved indsættelse af usikkerhedsværdien og k=2 i lign (11), er den relative  
+
+ standardafvigelse og ud fra denne beregnes variansen Denne usikkerhedskomponent er så lille sammenlignet med den forrige, at  
+
+ den praktisk taget ingen indflydelse har på den endelige (totale) værdi af  
+
+ usikkerheden; man kan derfor se bort fra den.
+ C.1.3 Resultat og samlet måleusikkerhed.
+ Fra værdierne for U og R er strømstyrkeværdien I:
+ Følgelig er standardafvigelsen:
+og den samlede usikkerhed, ifølge lign. (11) med k=2, er C.1.4 Beregning med brug af relative værdier.
+ Inden for visse arbejdsområder er det almindeligt - og ofte lettere - at  
+
+ relatere standardafvigelser og varianser til værdien af den relevante  
+
+ størrelse fra begyndelsen, dvs. at regne med relative dimensionsløse værdier:
+ I dette eksempel opnås der for de direkte målte værdier:
+ C.2 Eksempel 2.
+ C.2.1 Formål med målingen og den matematiske model.
+ Vurdering af kalibreringsusikkerheden for måleklodser i området 0,5 mm til  
+
+ 100 mm ved hjælp af mekanisk sammenligning med normaler, der er  
+
+ interferometrisk kalibrerede, af samme nominelle længder som de måleklodser  
+
+ (emner), der skal kalibreres.
+Længden l af emnet angives ved hvor er det j'te additive korrektionsled, hvis  
+
+ middelværdi kan være nul.
+ C.2.2 Angivelse af indgangsdata.
+ I dette simplificerede eksempel tages kun de mest betydningsfulde  
+
+ usikkerhedsbidrag i betragtning.
+Ifølge måleproceduren foretages kun 5 gentagne målinger af Ifølge lign. (4) estimeres variansen derfor at være Usikkerhedsbidraget fra kalibrering af normalen.
+Ifølge kalibreringscertifikatet er den samlede usikkerhed af normalerne  
+
+ givet ved Ifølge kalibreringscertifikatet er usikkerheden »på grund af  
+
+ tilfældige fejl«  ved et konfidensniveau på 95 %  
+
+ (k=2). Således er den tilsvarende standardafvigelse 8/2nm=4,0nm.
+Usikkerheden  
+
+ »på grund af systematiske fejl« angives som   
+
+ ved »tre sigma niveauer«.
+Den tilsvarende standardafvigelse kan  
+
+ således antages at være 20/3nm=6,7nm.
+Dette giver for variansen Ud fra definitionen af  koefficienten for den lineære  
+
+ -6 -1 ekspansion (11,5x10 K ), fås kan antages at ligge mellem +/- 0,05K, og således er  
+
+ ifølge lign. (7) (under antagelse af en rektangulær fordeling) den estimerede  
+
+ værdi af variansen givet ved Hvis rummet, og dermed normal og emne, ikke er på kontroltemperaturen, og  
+
+ der er en forskel i de lineære ekspansionskoefficienter af normalen og det  
+
+ testede emne, der skal kalibreres, vil det resultat, der vil blive angivet  
+
+ ved rummets kontroltemperatur, have en fejl på hvor  er forskellen i  mellem  
+
+ normal og emnet, som antages at være .
+Rumtemperaturen er angivet til at være (20 +/- 0,6) grader C.
+Ifølge lign.  
+
+ (7) skønnes de partielle varianser at være Disse varianser for henholdsvis ekspansionskoefficienten og temperaturen  
+
+ skal konverteres til varianser for længden.
+Ifølge lign. (9) er estimatet for  
+
+ den kombinerede varians givet ved Ved at erstatte  med  og  med  fås C.2.3 Den samlede måleusikkerhed. 2 Ifølge lign. (9) er variansen S givet ved summen af de partielle y  
+
+ varianser:

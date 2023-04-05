@@ -1,0 +1,387 @@
+INDHOLDSFORTEGNELSE 1. INDLEDNING 2. DEFINITIONER 3. TEKNISKE OPLYSNINGER 4. TEKNISKE KRAV 5. MÅLEOPSTILLINGER 1. INDLEDNING Nærværende tekniske bestemmelser indeholder følgende:
+ - Afsnit 2 indeholder definitioner af anvendte udtryk og begreber, der  
+
+ ikke forudsættes almindelig kendte, og ikke er definerede i den løbende tekst  
+
+ eller i Del 3.
+ - Afsnit 3 indeholder tekniske oplysninger om analoge telefonapparater,  
+
+ der er typegodkendte for tilslutning til det offentlige telefonnet.
+- Afsnit 4 beskriver de tekniske krav, der kræves opfyldt af PABC'ers  
+
+ lokalliniesnitfalde for at opnå typegodkendelse for tilslutning af analoge  
+
+ telefonapparater, der er typegodkendte for tilslutning til det offentlige  
+
+ telefonnnet.
+Kravene er udformet således, at kravene for ledninger i det  
+
+ fastkoblede telefonnet (abonnerede privatledninger) automatisk er overholdte,  
+
+ såfremt også kravet i AFSNIT 4 pkt. 1.1. måleopstilling 2.2. er overholdt.  
+
+ Generelt gælder, at der i en given PABC kun kræves opfyldelse af de krav, der  
+
+ er relevante for den specifikke PABC's funktioner.
+ - Afsnit 5 indeholder generelle retningslinier for  
+
+ typegodkendelsesmålinger, samt detailmåleopstilinger til verifikation af de i  
+
+ afsnit 4 specificerede krav.
+2. DEFINITIONER FØDEBRO Ved fødebro forstås et balanceret kredsløb for jævnstrømsfødning af udstyr  
+
+ tilsluttet en PABC's lokallinieklemmer.
+ØVRIGE DEFINITIONER For øvrige definitioner og definitionsskitse henvises til Del 3 afsnit 2.
+3. TEKNISKE OPLYSNINGER Der henvises til tekniske bestemmelser for analoge telefonapparater for  
+
+ tilslutnng til det offentlige telefonnet.
+4. TEKNISKE KRAV INDHOLDSFORTEGNELSE 1. JÆVNSTRØMSFORHOLD 1.1. STRØMFØDNING FRA FØDEBRO 1.2. RETURTASTESIGNALERING 1.3. ELEKTRISK BELASTNING 2. FORHOLDENE VED RINGEFREKVENS 2.1. RINGNING 2.2. RINGETRIPNING 2.3. ELEKTRISK BELASTNING - KORTSLUTNING 3. FORHOLDENE VED MFT-SIGNALERING 3.1. SIGNALERINGSSPECIFIKATION 3.2. MODTAGERSPECIFIKATION 4. MAXIMALE NIVEAUER 4.1. MAXIMALE NIVEAUER - SPIDSVÆRDIER 4.2. MAXIMALE NIVEAUER - TALE OG MUSIK 4.3. MAXIMALE NIVEAUER - KODESIGNALER 4.4. MAXIMALE NIVEAUER - ØVRIG SIGNALER 1. JÆVNSTRØMSFORHOLD 1.1 STRØMFØDNING FRA FØDEBRO Det anvendte fødearrangement skal være balanceret.
+Den maksimale fødespænding må ikke overstige 56 volt.
+Fødestrømmen skal  
+
+ ligge i intervallet 16 mA - 100 mA Princip for måling er anført i måleopstilling 2.1.
+ Er forbindelsen mellem telefonapparat og lokallinie etableret via  
+
+ telefonselskabernes fastkoblede telefonnet, skal pulspolen på PABC'ens  
+
+ jævnstrømskilde være forbundet til jord.
+ Princip for kontrol af ovennævnte er anført i måleopstilling 2.2.
+1.2. RETURTASTESIGNALERING Definition Returtastesignalet er en tidsbestemt afbrydelse af fødestrømmen med det  
+
+ formål at genindkalde et cifreringsorgan i PABC'en under samtaletilstand.
+ Signalet skal modtages i det udstyr, der leverer fødestrømmen til det  
+
+ sendende udstyr.
+Tidskriterier Fødestrømsafbrydelser til og med 15 ms må ikke opfattes som  
+
+ returtastesignal.
+ Fødestrømsafbrydelser mellem 15 ms og 30 ms må opfattes som  
+
+ returtastesignal.
+ Fødestrømsafbrydelser fra 30 ms og indtil 140 ms skal opfattes som  
+
+ returtastesignal.
+ Fødestrømsafbrydelser over 200 ms må ikke opfattes som  
+
+ returtastesignal.
+ Måleprincip for kontrol af kravene er anført i måleopstilling 2.3.
+1.3. ELEKTRISK BELASTNING Lokalledningskredsen skal kunne tåle, at linieklemmerne kortsluttes, eller  
+
+ at der lægge jord på den negative linieklemme, hvis PABC'ens pluspol er  
+
+ forbundet til jord, uden at foranledige sekundære skader.
+ Princip for målingen er vist i måleopstilling 2.4.
+2. FORHOLDENE VED RINGEFREKVENS 2.1. RINGNING Definition Ved ringesignal forstås ringespænding, der sendes mod lokallinien.
+ Signalkode:
+ Princip for måling er anført i måleopstilling 2.5.
+ Ringespændingen må være overlejret den normale fødespænding, som  
+
+ forberedesle til ringetripning.
+ Ringespænding målt over ubelastet lokalledning og med ringegeneratoren  
+
+ belastet fra tomgang til fuld last:
+ Ringespænding målt over lokalledning med længde 0 og afsluttet med 4000  
+
+ ohm i serie med 20 mikroF og med ringegeneratoren belastet fra tomgang til  
+
+ fuld last:
+ Psofometrisk værdi af ringespænding målt over lokalledning med længde 0 og  
+
+ afsluttet med 4000 ohm i serie med 20 mikroF og ringegeneratoren belastet fra  
+
+ tomgang til fuld last:
+ Målt over en ledning med længde 0 og afsluttet med 4000 ohm i serie med 20  
+
+ mikroF og med ringegeneratoren belastet fra tomgang til fuld last, må en  
+
+ enkelt overtones amplitude ikke udgøre mere end 10 % af grundtonens  
+
+ amplitude.
+ Princip for måling er anført i måleopstilling 2.6.
+2.2 RINGETRIPNING Definition Ved ringetripning forstås bortkobling af ringespændingen efter besvarelse  
+
+ af lokalledningen.
+Signalprogram0 Ringetripning skal ske snarest, dog senest i første efterfølgende  
+
+ ringepause.
+ Kravet kontrolleres som anført i måleopstilling 2.7.
+2.3. ELEKTRISK BELASTNING - KORTSLUTNING PABC'en skal - uden at forårsage sekundære skader - kunne tåle  
+
+ kortslutning eller jording af lokallinieklemmerne under ringning.
+ Princip for målingen er anført i måleopstilling 2.8.
+3. FORHOLDENE VED MFT-SIGNALERING Definition Betegnelse MFT (Multi Frekvens Tastatur) angiver det i denne specifikation  
+
+ omtalte signaleringssystem.
+ Systemet skal anvendes for tonesignalering fra udstyr i  
+
+ lokalinstallationer til PABC.
+3.1. SIGNALERINGSSPECIFIKATION MFT-systemet er et flerfrekvenssystem, hvor hver enkelt signal indeholder  
+
+ 2 frekvenser sendt samtidigt i en kode bestående af 2 gange 1 ud af 4  
+
+ frekvenser.
+De 2 gange 4 frekvenser udgør to bånd, benævnt lavt og højt bånd,  
+
+ med logaritmisk frekvensafstand inden for hvert bånd.
+ Anvendelsen er primært signalering fra lokalinstallationen til PABC'ens  
+
+ cifreringsorgan.
+ I samtaletilstand mod det koblede offentlige telefonnet kræves transparens  
+
+ fra lokalinstallationen til den kaldte abonnents termineringsudstyr.
+3.1.1. Signalfrekvenser Gruppe 1 - lavt bånd 3.1.2. Signalprogram Ved signalering til nærmeste cifreringsorgan modsvarer hver  
+
+ tonekombination af 2 gange 1 ud af 4 frekvenser et numerisk ciffer eller  
+
+ specialtegn som vist i nedenstående skema.
+3.1.3. Signaleringshastighed MFT-systemet er baseret på en signaleringshastighed må max. 10 cifre  
+
+ og/eller specialtegn pr. sekund.
+3.1.4. Udelukkelse af anden signalering Fra udsendelse af klartone eller andet advis fra PABC'en, og indtil de  
+
+ nødvendige cifre/specialtegn for opkobling af forbindelsen er sendt, må der  
+
+ ikke foregå anden signalering på lokallinien.
+3.2. MODTAGERSPECIFIKATION 3.2.1. Frekvenser Se 3.1.1.
+ Princip for kontrol af frekvenser er anført i måleopstilling 2.9.
+3.2.2. Frekvenstolerance Signaler med en frekvenstolerance på +/- (1,5 % + 2 Hz) skal opfattes.
+ Princip for målingen er anført i måleopstilling 2.10.
+3.2.3. Toneniveauer Signaler med niveauforskel < 6 dB mellem de to enkelttoner og med  
+
+ enkelttoneniveauer i området - 2 dBm til -22 dBm skal opfattes.
+ Signaler med enkelttoneniveauer < -56 dBm må ikke opfattes.
+ Princip for målingen er anført i måleopstilling 2.11.
+3.2.4. Signalmodtagelse Signalopfattelsesevne Ved signal forstås tilstedeværelse af kun en tone i hver af to grupper må  
+
+ modtagerens indgangsterminaler og med et niveau som beskrevet i pkt. 3.2.3.
+Signaler < 20 ms må ikke opfattes Signaler > 20 ms men < 40 ms må opfattes Signaler < 40 ms skal opfattes.
+Pauseopfattelsesevne Ved en pause forstås tiden fra et signal ophører, til det næste signal  
+
+ begynder Pause < 20 ms må ikke opfattes Pause > 20 ms, men < 40 ms må opfattes Pause > 40 ms skal opfattes.
+ Kontrolmålinger foretages som anført i måleopstilling 2.12.
+4. MAXIMALE NIVEAUER 4.1. MAXIMALE NIVEAUER - SPIDSVÆRDIER Fra lokalledningskredsen må der ikke afgives vekselspændinger med  
+
+ øjebliksværdier, der overstiger 3,5 V mellem linieklemmerne.
+ Princip for målingen som anført i måleopstilling 2.13.
+4.2. MAXIMALE NIVEAUER - TALE OG MUSIK Fra lokalledingskredsen i sløjfetilstand må der ved sending af  
+
+ vekselstrømme hidrørende fra tale og musik ikke afgives effekter, som i  
+
+ middel i noget tidsrum af 3 s varighed overstiger 100 myW (-10 dBm), når  
+
+ linieklemmerne er belastet med en modstand på 600 ohm.
+ Princip for målingen er anført i måleopstilling 2.14.
+4.3 MAXIMALE NIVEAUER - KODESIGNALER Fra lokalledningskredsen i sløjfetilstand må der ved sending af  
+
+ kodesignaler i form af vekselstrømme ikke afgives effekter, som i middel i  
+
+ noget tidsrum af 0,2 s varighed overstige 100 myW (-10 dBm), når  
+
+ linieklemmerne er belastet med en modstand på 600 ohm.
+ Princip for målingen er anført i måleopstilling 2.15.
+4.4. MAXIMALE NIVEAUER - ØVRIGE SIGNALER Det skal kunne dokumenteres, at kravenen er overholdt for alle  
+
+  indbyggede signaler.
+ Anvendes eksterne signalkilder dokumenteres, at kravene - ved hjælp af  
+
+ installationsdokumentation eller lignende - kan overholdes.
+5. MÅLEOPSTILLINGER INDHOLDSFORTEGNELSE 1. GENERELT 1.1. KONDITIONERING 1.2. FUNKTIONSPRØVE 1.3. JORD/STEL 1.4. MÅLEUSIKKERHED 1.5. ANVENDTE SYMBOLER 2. MÅLEOPSTILLINGER 2.1. STRØMFØDNING 2.2. JORDING AF PLUSPOL 2.3. RETURTASTESIGNALERING 2.4. ELEKTRISK BELASTNING 2.5. RINGEFREKVENS OG SIGNALPROGRAM 2.6. RINGESPÆNDINGER 2.7. RINGETRIPNING 2.8. ELEKTRISK BELASTNING 2.9. MFT-FREKVENSER 2.10. MFT-FREKVENSTOLERANCE 2.11. MFT-TONENIVEAUER 2.12. MFT-SIGNALMODTAGELSE 2.13. MAXIMALE NIVEAUER - SPIDSVÆRDIER 2.14. MAXIMALE NIVEAUER - TALE OG MUSIK 2.15. MAXIMALE NIVEAUER - KODESIGNALER 1. GENERELT De i figurerne angivne måleprincipper er vejledende.
+ Andre måleopstillinger kan anvendes, hvis kravene kan verificeres.
+ De angivne diskrete værdier for uafhængige variabler - f.eks. strøm og  
+
+ frekvens - er minimumskrav til antallet af målepunkter.
+1.1. Konditionering Hvis intet andet er angivet, skal PABC'en være tændt i 30 min., inden  
+
+ målingerne påbegyndes.
+ Vedrører målingerne statiske forhold i åben eller lukket sløjfe, skal  
+
+ PABC'en være bragt i den pågældende tilstand i så god tid før målingen, at  
+
+ tilstanden er stabil.
+ Alle målinger foretages på PABC'ens linieklemmer/tilslutningspunkter for  
+
+ lokalledningen.
+Rekvirenten medsender specifikation af tilslutningspunkter, eventuelt  
+
+ nødvendigt stikmateriel samt et typegodkendt telefonapparat.
+Såfremt PABC'en  
+
+ kan modtage tonekombinationerne A-D, skal dette apparat være udstyret med  
+
+ tasterne A-D.
+1.2. FUNKTIONSPRØVE Som en simpel kontrol af PABC'en inden nden egentlige afprøvning foretages  
+
+ en funktionsprøve, der gentages før og efter belastnings- og miljøprøver.
+ En funktionsprøve omfatter et afgående og et ankommende kald, mod  
+
+ henholdsvis, fra et typegodkendt telefonapparat.
+ Et afgående kald omfatter:
+- afløftning - nummervalg - samtale - pålægning Et ankommende kald omfatter:
+- tilringning - afløftning - samtale - pålægning.
+ - Funktionsprøverne gennemføres dog kun, hvis de pågældende funktioner  
+
+ findes i PABC'en.
+1.3. JORD/STEL Alle terminaler som er eller kan være vekselstrømsmæssigt jordforbundne  
+
+ under normal drift, skal være forbundet til stel eller udvendigt tilgængelige  
+
+ metaldele under målinger, der benytter jord/stel, hvor intet andet er anført.  
+
+ Rekvirenten angiver hvorledes disse terminaler forbindes.
+Hvis der ikke findes stel eller udvendigt tilgængelige metaldele,  
+
+ anbringes PABC'en på en metalplade af mindst samme størrelse, som udstyrets  
+
+ grundflade.
+Eventuelle jordforbundne terminaler og målepunkter forbindes til  
+
+ metalpladen.
+1.4. MÅLEUSIKKERHED Det forudsættes, at målingerne sker med den nødvendige nøjagtighed.
+ Er der tvivl om, at kravene opfyldes, pålægges det den prøvende instans at  
+
+ redegøre for målingernes nøjagtighed.
+1.5. ANVEDNDTE SYMBOLER 2. MÅLEOPSTILLINGER 2.1. STRØMFØDNING Måleopstilling:
+ Procedure:
+ Tomgangsspændingen måles med kontakterne K1 og K2 åbne og med ekstreme  
+
+ værdier påtrykt en eventuel indbygget strømforsyning.
+ Kontakten K1 lukkes og kortslutningsstrømmen måles.
+ Kontakten K1 åbnes og K2 lukkes og min. fødestrømmen måles.
+ Parametergrænser:
+2.2.  JORDING AF PLUSPOL Procedure Ved inspektion kontrolleres, at PABC'ens pluspol kan jordes.
+ Kommentar:
+ Rekvirenten angiver tilkobling til PABC'ens jord/stel.
+2.3. RETURTASTESIGNALERING Måleopstilling:
+ Procedure:
+ PABC'en bringes i en tilstand, hvor returtastesignal kan modtages,  
+
+ herefter afbrydes kontakten i 14 ms.
+Dette gentages med afbrydelser af kontakten i 31 ms, 139 ms og 201 ms For t = 14 og 201 ms må der ikke være funktion.
+ For t = 30 og 140 ms skal der være funktion.
+ Parametergrænser:
+ Kommentar:
+ Rekvirenten skal angive om returtastesignalering benyttes, og i givet fald  
+
+ hvorledes PABC'en bringes i en tilstand, hvor signalet kan benyttes.
+ Desuden angives, hvordan modtagelse/ikke modtagelse af signalet kan  
+
+ kontrolleres.
+2.4. ELEKTRISK BELASTNING Måleopstilling:
+ Procedure:
+Med k1 lukket kontrolleres efter en halv times forløb, at der ikke  
+
+ forekommer farlig varmeafgivelse.
+Herefter lukkes også K2 i en halv time, og  
+
+ der kontrolleres for farlig varmeafgivelse.
+2.5. RINGEFREKVENS OG SIGNALPROGRAM Måleopstilling:
+ Procedure:
+ PABC'en bringes i en tilstand, hvor der ringes på lokallinieklemmerne.  
+
+ Frekvensen måles og ringningens længde dokumenteres ved oscilloscopbillede  
+
+ eller lignende.
+ Parametergrænser:
+ Frekvens: 25 Hz +/- 2,5 Hz eller 50 Hz +/- 5 Hz.
+ Signalprogram: 200 ms < t < 1300 ms.
+2.6. RINGESPÆNDINGER Måleopstilling:
+Procedure PABC'en bringes i en tilstand, hvor der ringes på lokallinieklemmerne.  
+
+ Spændingens værdi måles med et effektivtvisende instrument og med et  
+
+ psofometriskvisende instrument.
+Overtoneindholdet beregnes udfra et selektivt  
+
+ målende instrument.
+Den eventuelt påtrykte DC spænding under ringning  
+
+ kontrolleres.
+Parametergrænser Overtoneindhold < 10% O V > U > -56 V.
+2.7. RINGETRIPNING Måleopstilling:
+ Procedure:
+PABC'en bringes til at ringe på lokallinieklemmerne.
+Med  
+
+ oscilloscopbillede eller lignende dokumenteres, at ringning ophører efter  
+
+ lukning af kontakten senest efter ophør af den ringeperiode hvor kontakten  
+
+ lukkes.
+2.8. ELEKTRISK BELASTNING - KORTSLUTNING Måleopstilling:
+ Procedure:
+PABC'en bringes til at ringe mod lokallinieklemmerne.
+Kontakten  
+
+ kortsluttes umiddelbart efter ringningens start, og det kontrolleres, at der  
+
+ ikke forekommer farlig varmeafgivelse.
+2.9. MFT-FREKVENSER Måleopstilling:
+ PABC-lokallinieklemmerne tilkobles et typegodkendt telefonapparat,  
+
+ udstyret med:
+cifrene 0-9 * og ** eventuelt A-D Procedure:
+ Det kontrolleres, at PABC'en kan modtage tonekombinationerne til 0 til 9,  
+
+ * og ** samt A til D, hvis disse er udstyret.
+ Kommentar:
+ Rekvirenten angiver, hvorledes alle tonekombinationer kan kontrolleres og  
+
+ om A-D er udstyret.
+2.10.  MFT-FREKVENSTOLERANCER Måleopstilling:
+ Procedure:
+ Med de valgte cifre afprøves tonemodtagelse med de ekstreme frekvenser +/-  
+
+ (1,5% + 2 Hz) for effekter:
+ Der måles med signallængde 50 ms.
+ Parametergrænser:
+ Frekvensafvigelser +/- (1,5% + 2 Hz).
+2.11. MFT-TONENIVEAUER Måleopstilling:
+ Procedure:
+ Modtagelse af cifre 1,5,9 og 0 afprøves med følgende grænseværdier og en  
+
+ signal/pauselængde på 50 ms.
+2.12. MFT-SIGNALMODTAGELSE Måleopstilling Procedure:
+Med et niveau på -20 dBm for f og f afprøves signalopfattelse med 1 2 en pauselængde på 40 ms og signallængder på 20 og 40 ms. 20 ms signallængde må ikke opfattes.
+ Tilsvarende afprøves med en signallængde på 40 ms og pauselængder på 20 og  
+
+ 40 ms.
+Signalpauser på 20 ms må ikke opfattes.
+Signalpauser på 40 ms skal  
+
+ opfattes.
+ Parametergrænser:
+2.13. MAXIMALE NIVEAUER - SPIDSVÆRDIER Måleopstilling:
+ Procedure:
+ Med afsendelse af mulige signaler - tale, musik og toner - måles  
+
+ spidsværdien af disse, med et båndbegrænset spidsværdimålende instrument.
+ Parametergrænser:
+ u < 3,5 V.
+ Kommentar:
+ Rekvirenten angiver procedurer for at sende de mulige indbyggede signaler  
+
+ - tale, musik og toner - og mod lokallinieklemmerne.
+2.14. MAXIMALE NIVEAUER - TALE OG MUSIK Måleopstillling:
+Procedure Med afsendelse af mulige musik/tale signaler fra indbygget eller eksternt  
+
+ udstyr måles totaleffekten med et effektivtvisende instrument med en  
+
+ integrationstid på 3 s.
+ Parametergrænser:
+ Musik/tale < -10 dBm.
+ Kommentar:
+ Rekvirenten angiver, hvilke indbyggede musik/talesignaler der findes, og  
+
+ hvorledes disse kan bringes til at sende mod lokallinieklemmerne.
+2.15. MAXIMALE NIVEAUER - KODESIGNALER Måleopstilling:
+ Procedure:
+ Med afsendelse af mulige kodesignaler fra indbygget eller eksternt udstyr  
+
+ måles totaleffekten med et effektivmålende instrument med en integrationstid  
+
+ på 0,2 s.
+ Parametergrænser:
+ Kodesignaler < -10 dBm.
+Kommentar Rekvirenten angiver, hvilke indbyggede kodesignaler der findes, og  
+
+ hvorledes disse kan bringes til at sende mod lokallinieklemmerne.

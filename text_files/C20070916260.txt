@@ -1,0 +1,191 @@
+Vejledning  
+
+ om vigtige meddelelser (OXXO) via Inmarsat-C (Erstatter  
+
+ Vejledning nr. 1 af 25. april 2002) OXXO er et fælles kaldesignal  
+
+ for samtlige danske skibe.  
+
+ Et OXXO telegram er en  
+
+ meddelelse af vigtig karakter til alle danske skibe fra dansk myndighed.  
+
+ Meddelelsen  
+
+ kan  
+
+ være en advarsel i en krise- eller krigssituation om fare for  
+
+ sejladsen i bestemte områder med vejledning om forholdsregler, der skal tages  
+
+ i  
+
+ den anledning.
+Eller den  
+
+ kan  
+
+ være en vigtig meddelelse til alle danske skibe om f.eks. afgivelse  
+
+ af brevstemmer ved valg i Danmark.
+Før i tiden blev OXXO meddelelser udsendt fra  
+
+ de danske kystradiostationer via MF og HF telefoni og radiotelex.
+Efter  
+
+ indførelsen af GMDSS er disse muligheder blevet indskrænket, og det har  
+
+ derfor  
+
+ været nærliggende at søge at kompensere herfor ved at udsende meddelelsen via  
+
+ Inmarsat-C.
+ I det såkaldte FLEET NET, der er en  
+
+ del  
+
+ af Inmarsats EGC-tjeneste  
+
+ (Enhanced Group Call)  
+
+ kan  
+
+ der med et opkald sendes den samme meddelelse til alle Inmarsat-C  
+
+ terminaler med et fælles  
+
+ ENID  
+
+ nummer (EGC Network IDentity).
+ Danske skibe med Inmarsat-C terminal og  
+
+ kaldenummer med endetallet 10 (primærstationen) er tildelt  
+
+ ENID  
+
+ 28941.
+Indkodningen af  
+
+ ENID  
+
+ forestås af  
+
+ TDC, der via jordstationen EIK i Norge afsender signal til skibets Inmarsat-C  
+
+ terminal med automatisk indkodning af nummeret.
+Kun hvis terminalen er åben,  
+
+ og  
+
+ der ikke har foregået anden trafik i udsendelsesøjeblikket, bliver  
+
+ ENID  
+
+ nummeret  
+
+ indkodet.
+Derfor udsendes kodesignalet to gange.
+TDC modtager ikke nogen  
+
+ kvittering for, at  
+
+ ENID  
+
+ nummeret er blevet indkodet i skibsterminalen.
+ På skibets printer vil, hvis  
+
+ den er slået til, fremkomme følgende besked, når ENID nummeret er blevet  
+
+ indkodet (afhængig af fabrikat):
+REPORT (nummer) Page  
+
+ (nummer) UTC  
+
+ Time: (dato) (klokkeslæt) ENID  
+
+ 28941 added EGC Network ID list Soefartsstyrelsen 28941 1  
+
+ ENID(s) stored REPORT  
+
+ (nummer) Indkodningen  
+
+ blev foretaget til samtlige eksisterende Inmarsat-C terminaler i 2000 og  
+
+ efterfølgende er nyoprettede  
+
+ terminaler  
+
+ blevet indkodet løbende.
+ Det er muligt,  
+
+ at  
+
+ ENID  
+
+ 28941 i nogle tilfælde ikke er blevet indkodet i skibets Inmarsat-C terminal  
+
+ på grund af dårlige modtageforhold, eller at man i skibet ved en fejltagelse  
+
+ har spærret nummeret eller på anden måde ændret på konfigurationen.
+ Desuden er det  
+
+ forekommet, at nummeret er blevet slettet ved service/repa-ration, og at  
+
+ primærstationen  
+
+ (10) og sekundærstationen (11) er blevet byttet om.
+ For at  
+
+ kontrollere, om  
+
+ ENID  
+
+ 28941 er indkodet/aktiv i primærstationen (den med INM-C nr., der ender på  
+
+ 10), foretages følgende:
+ 1)  
+
+ 	  
+
+ I menuen under OPTIONS-CONFIGURATIONS-ENID kan man se, hvilke  
+
+ ENID numre der er indkodet og om de er ENABLED eller DISABLED.
+ ENID 28941 skal være ENABLED.
+ 2)  
+
+ 	  
+
+ Under ROUTING kan man se, om EGC meldinger gemmes på diskette  
+
+ eller printes ud.
+ Der skal stå X ud for PRINTER.
+ Menuens  
+
+ udformning  
+
+ kan  
+
+ variere efter terminalens fabrikat.
+Er ENID 28941  
+
+ ikke på listen skal, der foretages en ny kodning af TDC.
+Dette  
+
+ kan  
+
+ ske ved henvendelse til (helst via  
+
+ e-post):
+TDC Kundeservice  Inmarsat/Eik  
+
+ Internet-C Telefon, direkte - +45 80 60 50 20 Telefon, omstilling - +45 66 63 48 00 Telefax - +45 44 49 53 35 E-post -  
+
+
+  
+
+ satellite@tdc.dk Det er en stor  
+
+ hjælp, hvis det samtidigt oplyses hvilken satellit terminalen er logget på.
+ Derefter vil en  
+
+ ny indkodning direkte til det pågældende skib via EIK blive foretaget.

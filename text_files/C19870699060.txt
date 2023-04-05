@@ -1,0 +1,3886 @@
+1. Indledning 1.1 En statslig politik for tekstbehandling 1.2 Resumee af vejledningen 2. anvendelse af elektronisk tekstbehandling i den  
+
+ statslige forvaltning 3. Krav og anbefalinger 3.1 Godkendelse af anskaffelse af udstyr til tekstbehandling 3.2 Lov om offentlige myndigheders registre 3.3 Underretning til Retsinformationsrådet 3.4 Anskaffelsesprocedurer og kontraktforhold 3.5 Samarbejde med personalet om indførelse af tekstbehandlingssystemer 3.6 Tekstbehandlingsudstyr eller generelt anvendeligt udstyr 3.7 Valg af leverandør 3.8 Standarder 3.9 Ekstern konsulentbistand 3.10 Inddatering til Retsinformation 3.11 Trykning af tekster 4. Uddannelse 4.1 Uddannelse ved indførelse af etb 4.1.1 Uddannelse i forbindelse med planlægning 4.1.2 Uddannelse i forbindelse med idriftsættelsen 4.1.3 Uddannelse under daglig drift 4.2 Uddannelse med henblik på at organisere tekstbehandlingsarbejdet 5. Analyse af tekstbehandlingsbehov 5.1 Hvilke opgaver skal løses 5.2 Hvor stor er tekstmængden 5.3 Tilgrænsende systemer 5.3.1 Fælles programmer og dokumenter 5.3.2 Overførsel af tekster mellem arbejdspladser med forskellige tekstbehandlingsprogrammer 5.3.3 Overførsel af tekster til edb-systemer inden for organisationen 5.3.4 Overførsel af tekster til edb-systemer uden for organisationen 5.4 Særlige sikkerhedskrav 5.5 Andre specielle forhold 6. Funktionskrav 7. Brugervenlighed 7.1 Brugergrænsefladens egenskaber 8. Standardisering i forbindelse med udveksling af  
+
+ tekster mellem forskellige systemer 8.1 Udvekslingsmåder 8.2 Udveksling ved hjælp af diskette 8.3 Udveksling ved hjælp af datatransmission 8.4 Specielt om trykkeformater 9. Vurderingskriterier 9.1 Kapacitet 9.2 Udvidelsesmuligheder 9.3 Brugervenlighed 9.4 Dokumentation 9.5 Integrationsmuligheder 9.6 Hvem har udviklet programmellet 9.7 Vedligeholdelse og service 9.8 Træning og uddannelse i betjening 9.9 Leverandørens stabilitet 9.10 Omkostninger 10. Udstyr til elektronisk tekstbehandling 10.1 Tekstbehandlingsanlæg 10.2 Arbejdspladsdatamat 10.3 Generel flerbrugerdatamat 10.4 Skriver-udstyr 10.5 Valg af udstyr og leverandør 11. Installation af tekstbehandlingsudstyr 11.1 Leverandørens gennemgang af lokalerne 11.2 Installationsplan 11.3 Indretning af arbejdsplads 11.4 Indretning af maskinrum Bilag:
+Bilag 1 Standarder for tegnsæt Bilag 2 Checkliste Bilag 3 Ordliste Bilag 4 Litteraturliste Bilag 5 Cirkulæreoversigt Bilag 6 Adresseliste 1. Indledning Administrationsdepartementet har konstateret et stigende behov for  
+
+ vejledning til statens institutioner ved valg af tekstbehandlingsløsninger og  
+
+ løsninger til overførsel af tekster.
+Fremstillingen af tekst og den efterfølgende tekstkommunikation er en  
+
+ meget vigtig og arbejdskrævende del af de administrative rutiner i den  
+
+ offentlige forvaltning.
+Det er derfor naturligt, i forbindelse med en  
+
+ modernisering afden offentlige sektor, at undersøge mulighederne for en  
+
+ effektivisering af netop disse rutiner.
+Et af midlerne hertil er anvendelse  
+
+ af elektronisk tekstbehandling (etb) og i forlængelse af dette elektronisk  
+
+ overførsel af tekster.
+Vejledningen henvender sig til beslutningstagere og medarbejdere i statens  
+
+ institutioner.
+Vejledningen har ikke til formål at anbefale bestemte  
+
+ produkter.
+Formålet er at beskrive de nødvendige overvejelser og aktiviteter,  
+
+ som kan sikre, at anskaffelserne opfylder institutionernes behov, og beskrive  
+
+ de krav, der må stilles til funktionalitet, fleksibilitet og standardisering.
+Vejledningen kan bruges som et første hjælpemiddel af institutioner, som  
+
+ påtænker at anskaffe tekstbehandlingssystemer.
+Der henvises i øvrigt til  
+
+ følgende publikationer fra Administrationsdepartementet: »Håndbog om ny  
+
+ teknologi«, »Vejledning om anskaffelse af edb-ydelser« og  
+
+ »Datakommunikation i centraladministrationen, vejledning og  
+
+ anbefalinger«, jfr. litteraturlisten i bilag 4.
+ Tekstbehanding indgår ofte som en del af et samlet informationssystem og  
+
+ bør altid ses i sammenhæng med institutionens øvrige edb-anvendelse.  
+
+ Vejledningen er derfor ikke en vejledning i tekstbehandling i snæver  
+
+ forstand, men beskriver også andre forhold, som skal tages i betragtning for  
+
+ at sikre, at den elektroniske tekstbehandling kommer til at indgå i en større  
+
+ sammenhæng.
+Det kan være hensigtsmæssigt at fastlægge tekstbehandlingssystemet i  
+
+ sammenhæng med udarbejdelse af en samlet edb-langtidsplan.
+Hvis der er behov  
+
+ for det, kan en sådan plan udarbejdes i samarbejde med specialister fra et  
+
+ konsulentfirma.
+Administrationsdepartementet kan bistå ved igangsætning af en  
+
+ sådan planlægning og kan tilbyde hjælp i forbindelse med udvælgelse af et  
+
+ passende konsulentfirma.
+ Vejledningen er udarbejdet af Administrationsdepartementet med bistand fra  
+
+ en arbejdsgruppe med deltagere fra Datacentralen og Direktoratet for Statens  
+
+ Indkøb.
+1.1 En statslig politik for tekstbehandling Ved beslutning om anvendelse af tekstbehandling i den statslige  
+
+ forvaltning må det sikres, at en række væsentlige overordnede hensyn er  
+
+ tilgodeset, herunder:
+- at de tekniske hjælpemidler udnyttes til at øge effektiviteten og  
+
+ kvaliteten af den offentlige administration, - at der sker en vis standardisering, - at de mest hensigtsmæssige tekstbehandlingsprodukter anskaffes, herunder  
+
+ at det sker på gunstige økonomiske vilkår, - at der er mulighed for sammenhæng med øvrige edb-anvendelser, både inden  
+
+ for den enkelte institution og i relation til andre offentlige myndigheder, - at der tages hensyn til den enkelte medarbejders fysiske og psykiske  
+
+ arbejdsmiljø, - at der tages hensyn til organisatoriske forhold ved anvendelsen af ny  
+
+ teknik.
+1.2 Resumee at vejledningen Afsnit 2 er en indledning, som forklarer baggrunden for anvendelse af  
+
+ elektronisk tekstbehandling i den statslige forvaltning, og omtaler den  
+
+ sammenhæng etb skal ses i, og nogle af de konsekvenser integrerede edb- og  
+
+ tekstbehandlingssystemer vil få.
+ Afsnit 3 angiver nogle forhold, som skal iagttages i forbindelse med  
+
+ anskaffelse af etb, og nogle anbefalinger fra Administrationsdepartementet af  
+
+ generel karakter.
+ Afsnit 4 handler om uddannelse i forbindelse med planlægning,  
+
+ idriftsættelse og daglig anvendelse.
+ Afsnit 5 skitserer de behovsovervejelser, der skal gennemføres, når der  
+
+ påtænkes indførelse af elektronisk tekstbehandling eller udskiftning af  
+
+ eksisterende teknik.
+Afsnit 6 forklarer baggrunden for de funktionskrav, som må stilles til et  
+
+ tekstbehandlingssystem.
+Se også bilag 2.
+ I afsnit 7 er begrebet brugervenlighed behandlet, fordi det i særlig grad  
+
+ er nødvendigt at stille krav til et system på dette område.
+Afsnit 8 omtaler forskellige forhold omkring standardisering, som har  
+
+ væsentlig betydning for tekstbehandling.
+Afsnittet giver en generel  
+
+ introduktion til de relevante områder for standardisering.
+ Afsnit 9 behandler arbejdet med vurdering af systemer, som kan løse  
+
+ tekstbehandlingsopgaverne i overensstemmelse med de krav, der er stillet.
+ Afsnit 10 indeholder en kort omtale af forskellige typer af udstyr til  
+
+ elektronisk tekstbehandling.
+ Afsnit 11 gennemgår de vigtigste forhold omkring installation af  
+
+ tekstbehandlingsudstyr.
+ Bilag 1 indeholder en beskrivelse af standarder for tegnsæt.
+ Som Bilag 2 er tilføjet en etb-checkliste, med en oversigt over krav  
+
+ og/eller ønsker, som kan stilles til et elektronisk tekstbehandlingssystem.
+ Bilag 3 er en ordforklaring, som er taget med, fordi det ikke helt har  
+
+ kunnet undgås at bruge tekniske fagudtryk i vejledningen.
+ En litteraturliste er medtaget som bilag 4 og en cirkulæreoversigt som  
+
+ bilag 5.
+ Endelig indeholder bilag 6 en oversigt over adresser på myndigheder og  
+
+ virksomheder, som det kan være gavnligt at kontakte i forbindelse med  
+
+ anskaffelse af tekstbehandlingssystem.
+2. Anvendelse af elektronisk tekstbehandling i den  
+
+ statslige forvaltning Elektronisk tekstbehandling i den statslige forvaltning omfatter i dag  
+
+ hovedsagelig rene sekretærfunktioner.
+Det er kontoruddannet personale, som  
+
+ arbejder med etb, medens sagsbehandlernes arbejde hidtil kun i ringe omfang  
+
+ har været berørt af udviklingen på dette område.
+Indførelsen har kun i mindre grad været præget af langsigtet planlægning,  
+
+ idet der ofte har været tale om anskaffelser af specielt etb-udstyr uden  
+
+ særlige overvejelser om tværgående sammenhæng.
+Der er dog herigennem  
+
+ oparbejdet en erfaring og en indsigt, som utvivlsomt vil lette overvejelserne  
+
+ om den videre udvikling.
+Dels er der opnået en fortrolighed med brugen af  
+
+ teknisk udstyr og systemer, dels er der gjort erfaringer, som understreger  
+
+ betydningen af at vurdere opgaver, teknik, organisation, personale m.v. under  
+
+ et.
+Erfaringerne viser, at en tilfredsstillende udnyttelse af de tekniske  
+
+ hjælpemidler alene opnås, hvis der samtidig med indførelsen gennemføres  
+
+ justeringer med hensyn til opgavernes fordeling i organisationen samt  
+
+ uddannelse af medarbejdere.
+Udviklingen inden for datakommunikation gør det teknisk og økonomisk  
+
+ muligt at anvende flere edb-systemer fra den samme skærmterminal.
+Der kan  
+
+ enten være tale om opkobling på forskellige lokale og eksterne edb-systemer,  
+
+ f.eks. med henblik på registeropslag, eller om overførsel af data mellem to  
+
+ systemer.
+De data, som overføres, kan være meddelelser (elektronisk post) og  
+
+ dokumenter, som skal viderebearbejdes i modtagerens tekstbehandlingsanlæg  
+
+ eller blot udskrives.
+Der tilbydes i stigende omfang systemer, som opfylder ønsket om  
+
+ elektronisk sammenkobling af udstyr.
+De offentlige teletjenester udbygges og  
+
+ forbedres, så data kan transmitteres over de offentlige net.
+F.eks. kan  
+
+ nævnes telex og teletex til overføring af tekst, telefax til overføring af  
+
+ tekst og billede, databoks til udveksling af elektroniske meddelelser samt  
+
+ videotex (teledata), som er en kombineret tjeneste til informationssøgning og  
+
+ udveksling afmeddelelser.
+Endelig er der datanettjenesterne -  
+
+ kredsløbskoblede og pakkekoblede net, Datex og Datapak - der giver mulighed for at overføre  
+
+ store datamængder med stor hastighed og til priser, som kan konkurrere med  
+
+ traditionel postforsendelse.
+Udviklingen går i retning af at integrere tekstbehanding med andre  
+
+ edb-systemer til kontorautomatisering, dvs. generelle edb-systemer, der  
+
+ understøtter almindeligt forekommende kontorrutiner som talbehandling,  
+
+ registrering, arkivering osv.
+Fremtidige edb-systemer kan også omfatte  
+
+ støttesystemer til brug i sagsbehandlingen.
+De integrerede anvendelser af edb  
+
+ og etb vil få stor betydning for den fremtidige opgaveløsning og  
+
+ arbejdstilrettelæggelse.
+Den tekniske udvikling kan således resultere i et behov for  
+
+ organisatoriske ændringer i den offentlige forvaltning, og en konsekvens af  
+
+ udviklingen kan være, at jobindholdet og dermed kvalifikationskravene for  
+
+ mange ansatte ændres, og at de eksisterende jobgrænser opblødes.
+De nuværende  
+
+ sagsbehandlere vil formentlig selv udføre tekstbehandling som led i  
+
+ sagsbehandlingen, og de kontoruddannede vil i højere grad få sagsforberedende  
+
+ og sagsbehandlende opgaver.
+Desuden vil der komme nye arbejdsområder som  
+
+ f.eks. edb-brugerrådgivning, systemadministration, disketteadministration og  
+
+ administration af tekstarkiv.
+ Anvendelse af etb bør derfor ses i sammenhæng med øvrige edb-anvendelser  
+
+ og med udvikling af de ansattes jobindhold.
+3. Krav og anbefalinger Der kan ikke gives noget  
+
+ simpelt og umiddelbart svar på spørgsmålet: »»Hvilket etb-system  
+
+ skal vi vælge?»» Valget må altid tage udgangspunkt i en kravspecifikation.
+Denne opstilles  
+
+ på grundlag af behov og ønsker set ud fra de opgaver, som skal løses, og den  
+
+ tekniske og organisatoriske sammenhæng løsningen skal indgå i.
+ Udbudet af etb-løsninger ændrer sig desuden så hastigt, at det alene af  
+
+ den grund kræver fornyede overvejelser, hver gang der skal anskaffes  
+
+ tekstbehandlingssystem.
+Ved anskaffelse af tekstbehandlingssystem skal statsinstitutioner  
+
+ overholde nogle formelle regler fastsat ved lov eller administrative  
+
+ forskrifter.
+F.eks. skal der i visse tilfælde indhentes godkendelse fra  
+
+ Administrationsdepartementet.
+I det følgende redegøres for disse regler og de  
+
+ krav, som udspringer heraf.
+ Desuden indeholder afsnittet nogle anbefalinger af teknisk, praktisk eller  
+
+ kommerciel karakter.
+3.1 Godkendelse af anskaffelse af udstyr til tekstbehandling I følge Finansministeriets cirkulære af 31. marts 1982 om anvendelse af  
+
+ edb og anskaffelse af edb-udstyr, herunder udstyr til elektronisk  
+
+ tekstbehandling, kan statslige myndigheder kun indgå aftale om anskaffelse  
+
+ (køb eller leje) af edb-udstyr og udstyr til elektronisk tekstbehandling  
+
+ efter forudgående godkendelse fra Administrationsdepartementet.
+Planer om  
+
+ anskaffelse af udstyr skal forelægges så tidligt som muligt, og inden køber  
+
+ endeligt specificerer sine krav.
+Undtaget fra kravet om godkendelse er - anskaffelser, hvis samlede købspris er mindre end 300.000 kr. ekskl.  
+
+ moms og - anskaffelser, der sker som led i gennemførelsen af en langtidsplan for  
+
+ anvendelse og anskaffelse af edb, som er godkendt af  
+
+ Administrationsdepartementet.
+3.2 Lov om offentlige myndigheders registre Loven gælder for edb-registre, der føres for den offentlige forvaltning,  
+
+ og som indeholder oplysninger, der kan henføres til bestemte personer.
+Registre, der føres for en statslig myndighed, må kun oprettes i henhold  
+
+ til godkendelse af vedkommende minister efter forhandling med  
+
+ Finansministeren.
+Forinden der meddeles godkendelse, skal der indhentes en  
+
+ udtalelse fra Registertilsynet.
+ Forinden ministeren eller den, ministeren bemyndiger hertil, fastsætter  
+
+ forskrifter (registerforskrifter), skal der indhentes en udtalelse fra  
+
+ Registertilsynet.
+De tekster, der frembringes ved hjælp af elektronisk tekstbehandling, vil  
+
+ normalt ikke have karakter af »»registre« i registerlovens  
+
+ forstand, j fr. lovens § 1, stk. 2, der taler om »»registre og  
+
+ andre systematiserede fortegnelser, hvor der gøres brug af elektronisk  
+
+ databehandling«».
+Det kan dog ikke udelukkes, at der som led i  
+
+ anvendelsen af elektronisk tekstbehandling opstår registre, der omfattes af  
+
+ loven og dermed af kravet om godkendelse og fastsættelse af forskrifter.
+De fleste tekstbehandlingssystemer åbner således mulighed for oprettelse  
+
+ afmindre kartoteker, der kan opbevares på disk eller et andet medium.
+Et  
+
+ typisk eksempel er oprettelse af navne- og adresselister, der kan  
+
+ »»flettes«» med standardbreve.
+Sådanne registre vil, selv  
+
+ om de måske formelt er omfattet af registerloven, oftest være uinteressante i  
+
+ forhold til de hensyn, der ligger bag registerloven og hensynet til  
+
+ beskyttelse af den enkeltes integritet.
+Det kan dog blive aktuelt at  
+
+ fastsætte forskrifter m.m., f.eks. hvis registrene indeholder oplysninger  
+
+ udover navne og adresser, hvis oplysningerne er af »»følsom«  
+
+ karakter, eller hvis der er mulighed for samkøring med andre registre.
+Det kan ligeledes komme på tale at opfatte teksterne som et register i  
+
+ lovens forstand, hvis systemet åbner mulighed for fritekstsøgning.
+Hertil må  
+
+ dog kræves, at teksterne indgår i et system, der er indrettet med henblik på  
+
+ søgning i større (ustrukturerede) datamængder.
+De »»søg« og  
+
+ »»søg og erstat« faciliteter, der indgår i de fleste  
+
+ tekstbehandlingssystemer til hjælp ved redigering af tekster, er uden  
+
+ betydning i denne forbindelse.
+ I tvivlstilfælde bør man kontakte Registertilsynet.
+ Registerloven forventes i øvrigt ændret i folketingssamlingen 1988/87.
+3.3 Underretning til Retsinformationsrådet I følge Justitsministeriets cirkulære af 18. marts 1983 om den tekniske  
+
+ produktion af retskildemateriale samt om oprettelse af databaser og  
+
+ tekstsøgningssystemer til juridisk informationssøgning, § 3, skal statslige  
+
+ myndigheders planer om eller medvirken til oprettelse af juridiske  
+
+ tekstdatabaser, herunder tekstsøgningssystemer til juridisk  
+
+ informationssøgning, i rimelig tid inden oprettelsen forelægges  
+
+ Retsinformationsrådet.
+Det samme gælder væsentlige ændringer af sådanne  
+
+ tekstdatabaser.
+ Henvendelse kan ske til Sekretariatet for Retsinformation.
+3.4 Anskaffelsesprocedurer og kontraktforhold Hensigtsmæssige anskaffelsesprocedurer er beskrevet i  
+
+ Administrationsdepartementets »»Vejledning om anskaffelse af  
+
+ edb-ydelser«».
+Endvidere henvises til »»Statens  
+
+ indkøbsvejledning«».
+Ved førstegangsanskaffelser af tekstbehandlingssystem bør institutionen i  
+
+ forhandling med leverandøren udarbejde en kontrakt.
+I denne kontrakt er det  
+
+ vigtigt, at institutionen får indføjet alle de krav, der er stillet fra  
+
+ institutionens side, og som leverandøren har lovet at opfylde.
+Som grundlag bør man anvende statens standardkontrakter for henholdsvis  
+
+ køb, leje og vedligeholdelse af edb-udstyr.
+Kontraktblanketterne kan fås ved  
+
+ henvendelse til Administrationsdepartementet.
+Ved anvendelse af individuelt  
+
+ udformede kontrakter bør institutionen ikke acceptere vilkår, der er ringere  
+
+ end standardkontrakternes.
+Standardkontrakterne er i øvrigt under revision.
+Nye kontrakter kan  
+
+ forventes udsendt i 1987.
+ Ved efterfølgende anskaffelser kan institutionen ofte nøjes med at sende  
+
+ leverandøren en indkøbsordre, der henviser til de punkter i den oprindelige  
+
+ kontrakt, som også skal være gældende for den aktuelle ordre.
+ Ved anskaffelser, der sker i henhold til statens indkøbsaftaler for  
+
+ edb-udstyr, jfr. afsnit 3.7, er det tilstrækkeligt i indkøbsordren at henvise  
+
+ til de betingelser, der er gældende efter den pågældende statsaftale -  
+
+ eventuelt suppleret med de individuelle betingelser, der måtte være aftalt  
+
+ med leverandøren.
+3.5 Samarbejde med personalet om indførelse at tekstbehandlingssystemer En succesfuld indførelse og anvendelse af etb og edb hænger i høj grad  
+
+ sammen med en grundig forberedelse i institutionen og en tilstrækkelig  
+
+ uddannelse af medarbejderne.
+Teknologiaftalen for samarbejde ved indførelse og brug af ny teknologi i  
+
+ statens virksomheder og institutioner er en rammeaftale, som søger at give  
+
+ retningslinjer i denne henseende.
+Rammeaftalen kan suppleres af en lokal  
+
+ aftale i den enkelte institution.
+ Teknologiaftalen skal benyttes ved indførelse af ny teknologi, også når  
+
+ det drejer sig om anvendelse af tekstbehandling.
+ - Det må stærkt anbefales, at medarbejderne så tidligt som muligt  
+
+ inddrages i et samarbejde om anvendelsen af den nye teknologi, og at der i  
+
+ forbindelse med budgetteringen af et teknologiprojekt også tages højde for  
+
+ omkostningerne til uddannelse, inventar, lokaleindretning etc.
+3.6 Tekstbehandlingsudstyr eller generelt anvendeligt udstyr Tekstbehandlingsudstyr, som udelukkende er bestemt til tekstbehandling  
+
+ (også kaldet dedikeret tekstbehandlingsudstyr), vil i de fleste tilfælde vise  
+
+ sig at være for begrænset i sit anvendelsesområde, idet tekstbehandling  
+
+ efterhånden skal integreres med andre edb-anvendelser.
+Tekstbehandlingsudstyret har haft sin styrke som en skræddersyet løsning  
+
+ af netop tekstbehandlingsopgaver.
+Denne type udstyr er fremstillet med  
+
+ henblik på at tilfredsstille flest mulige krav til indskrivning, redigering,  
+
+ arkivering og udskrivning af tekst.
+Ofte er dette opnået med specielt  
+
+ udformet materiel med anvendelse af mange funktionstaster til aktivering af  
+
+ de specielle tekstbehandlingsfunktioner.
+Disse forhold har hidtil kunnet  
+
+ begrunde valget af denne type udstyr.
+Grænserne mellem tekstbehandlingsudstyr og generelt anvendeligt edb-udstyr  
+
+ udviskes dog mere og mere, idet tekstbehandlingsudstyr efterhånden også kan  
+
+ anvendes til andre opgaver.
+Omvendt vil tekstbehandlingsløsningerne på det  
+
+ generelle udstyr ofte være lige så tilfredsstillende som en løsning på  
+
+ dedikeret tekstbehandlingsudstyr.
+Administrationsdepartementet fraråder, at der vælges  
+
+ tekstbehandlingsløsninger baseret på udstyr, der udelukkende kan bruges til  
+
+ tekstbehandling, medmindre ganske særlige forhold kan begrunde dette.
+Sådanne forhold kunne  
+
+ f.eks. være, at det klart er isolerede tekstbehandlingsopgaver, om skal  
+
+ løses, eller at der er tale om et supplementskøb, hvor en afskrivning over få  
+
+ år (2-3 år)kan retfærdiggøres.
+3.7 Valg af leverandør For at få det mest hensigtsmæssige tekstbehandlingsystem bør leverandøren  
+
+ vælges udfra en afvejning af krav til systemet og de økonomiske vilkår for  
+
+ anskaffelse og drift.
+ Staten har indgået indkøbsaftaler til brug for statslige institutioner.  
+
+ Direktoratet for Statens Indkøb har distribueret disse aftaler og udsender  
+
+ meddelelse til institutionerne, når der sker ændringer i aftalerne.
+Der er indgået aftaler om lokaldatamater, dataskærme,  
+
+ arbejdspladsdatamater (PC'er) og skrivere.
+Aftalerne omfatter altså ikke  
+
+ udstyr udelukkende bestemt til tekstbehandling.
+Selv om aftalerne primært  
+
+ vedrører levering af materiel, er der mulighed for at få leveret  
+
+ standardprogrammel - herunder til tekstbehandling - med en vis rabat.
+I  
+
+ indkøbsordningerne indgår endvidere aftaler om terminalborde og -stole samt  
+
+ en række forbrugsvarer som magnetbånd, disketter, edb-lister og farvebånd.
+Det bør altid overvejes, om indkøbsaftalerne med fordel kan anvendes.
+Med  
+
+ mindre institutionen har behov, som medfører særlige tekniske krav, bør  
+
+ leverandører, som staten har indgået indkøbsaftaler med, foretrækkes.
+Se også  
+
+ Administrationsdepartementets publikation »»Vejledning om  
+
+ anskaffelse afedb-ydelser«», side 24.
+3.8 Standarder Ved anskaffelse af tekstbehandlingssystem bør man satse på en løsning, der  
+
+ i videst muligt omfang tager hensyn til eksisterende standarder.
+Det gælder  
+
+ både internationalt udarbejdede standarder og »»de facto«  
+
+ standarder, som er udarbejdet af store leverandører.
+Derved får man de bedste  
+
+ muligheder for at sikre en investering i udstyr, som programmelmæssigt vil  
+
+ være anvendeligt i lang tid, og som har gode muligheder for at passe sammen  
+
+ med fremtidige løsninger.
+Udstyret behøver derfor ikke at blive kasseret, før  
+
+ det er slidt ned eller er urentabelt at vedligeholde.
+Hvis man allerede har udstyr og en omfattende edb-anvendelse, bør det  
+
+ overvejes, om det er hensigtsmæssigt at tage hensyn til bindinger til dette  
+
+ udstyr.
+Under alle omstændigheder må det overvejes, om og hvordan der skal  
+
+ foretages en overgang til mere standardiserede systemer, og lægges planer  
+
+ for, hvorledes man på længere sigt kan nærme sig til disse.
+EF's ministerråd har den 22. december 1986 vedtaget retningslinjer for  
+
+ standardisering inden for informationsteknologi og datakommunikation.  
+
+ Retningslinjerne indeholder bl.a. bestemmelser om, at medlemslandene er  
+
+ forpligtet til at fremme anvendelsen af standarder og  
+
+ funktionsspecifikationer i forbindelse med offentlige indkøb.
+Fra 1988 skal  
+
+ der således stilles krav om overholdelse af standarder, i det omfang disse  
+
+ findes enten som europæiske, foreløbige standarder og  
+
+ funktionsspecifikationer eller som egentlige internationale standarder.
+Det forventes, at de internationale dokumentstandarder, der betegnes  
+
+ ODA/ODIF, vil foreligge i en godkendt udgave i 1987, hvorefter der  
+
+ sandsynligvis vil gå endnu nogen tid, før de første produkter, som følger  
+
+ standarderne, vil være på markedet.
+Det er således ikke muligt i dag at  
+
+ stille krav om, at tekstbehandlingssystemerne skal kunne udveksle dokumenter  
+
+ efter denne standard.
+Man bør imidlertid i en anskaffelsessituation stille  
+
+ krav om en hensigtserklæring fra leverandøren om, at denne vil udvikle  
+
+ kommende produkter i overensstemmelse med de internationale  
+
+ dokumentstandarder.
+Indtil internationale dokumentstandarder foreligger, anbefales det at  
+
+ stille krav om, at tekstbehandlingssystemet kan udveksle dokumenter i  
+
+ overensstemmelse med IBM-standarden DCA.
+Tekstbehandlingssystemer, som kan  
+
+ arbejde med dette format, kan foruden af IBM også leveres af mange andre  
+
+ leverandører.
+Udvekslingen kan eventuelt opnås ved, at leverandøren leverer  
+
+ programmel til at omsætte mellem sit eget interne format og DCAformatet.
+Det  
+
+ anbefales at få leverandøren til at give garanti for, at sådant programmel  
+
+ vil kunne leveres.
+ Til elektronisk overførsel af ikke-reviderbar tekst kan desuden anbefales  
+
+ TELETEX-standarden (CCITT T.61).
+ For en simpel overførsel af en tekststreng (råtekst)kan det anbefales at  
+
+ skrive teksten i overensstemmelse med DS 646 svarende til standarden for  
+
+ ASCII 7-bit-kodet tegnsæt.
+Selv om en leverandør oplyser, at et produkt overholder en standard, viser  
+
+ erfaringen, at der hos forskellige leverandører forekommer afvigelser fra  
+
+ specifikationerne, som kan give anledning til fejl, f.eks. i  
+
+ systemsammenkoblingen mellem produkter af forskelligt fabrikat.
+Inden endelig  
+
+ købsbeslutning træffes, må det derfor stærkt anbefales, at institutionen i  
+
+ samarbejde med leverandøren eller en konsulent gennemfører en afprøvning af  
+
+ udstyrets og programprodukternes mulighed for den ønskede kommunikation, og  
+
+ at det i praksis dokumenteres, at kommunikationen opfylder kravene til  
+
+ funktioner og dokumentstandarder.
+ I afsnit 8 er redegjort for den standardisering, som kan være relevant i  
+
+ forbindelse med anskaffelse af etb.
+3.9 Ekstern konsulentbistand Ekstern konsulentbistand kan omfatte hjælp til analyse af behov,  
+
+ opstilling af kravspecifikation, tilbudsindhentning, valg af tilbud,  
+
+ installation og uddannelse i brug af systemet.
+ Står man overfor en større anskaffelse af tekstbehandlingssystemer, kan  
+
+ det være fordelagtigt at rådføre sig med en konsulent med særlig viden på  
+
+ tekstbehandlingsområdet.
+ Datacentralen og UNI.C kan tilbyde bistand på dette område, men der vil  
+
+ også kunne anvendes anden privat konsulentbistand.  
+
+ Administrationsdepartementet kan være behjælpelig med at pege på egnede  
+
+ konsulenter.
+ Direktoratet for Statens Indkøb vil kunne rådgive om anvendelse af  
+
+ indkøbsaftalerne.
+ Der henvises i øvrigt til Administrationsdepartementets vejledning om  
+
+ anskaffelse af edb-ydelser side 15-16.
+3.10 Inddatering til Retsinformation Inddatering på maskinlæsbart medium til statens juridiske  
+
+ informationssystem, Retsinformation, for hvilket I/S Datacentralen er  
+
+ servicebureau, vil kunne ske i RFTDCA (redigerbart DCA-format) eller andet  
+
+ format.
+ Inddatering i andet format end RFTDCA vil indebære en omsætning  
+
+ (konvertering).
+Datacentralen har udarbejdet programmer, som kan omsætte visse andre  
+
+ formater til DCA-format.
+Inddatering i et format, hvortil der ikke findes  
+
+ omsætningsprogram, vil indebære en førstegangsomkostning til udvikling  
+
+ afsådanne programmer.
+ Det anbefales, at RFTDCA-formatet anvendes som inddateringsformat til  
+
+ Retsinformation.
+Dokumenter kan overføres direkte til databasen på Datacentralen ved en  
+
+ datatransmission.
+Ved dokumentoverførsel an befales IBM L U 6.2 protokollen.  
+
+ I særlige tilfælde kan IBM 3270/SNA anvendes efter nærmere aftale.
+Når  
+
+ filmaskinetjenesten er etableret, jfr. afsnit 8.3, vil inddatering kunne ske  
+
+ via denne tjeneste, hvilket vil give mulighed for at anvende yderligere  
+
+ protokoller.
+ Endvidere kan der efter nærmere aftale afleveres disketter, magnetbånd  
+
+ etc.
+ Det tegnsæt, dokumenterne skal gøre brug af, afhænger af  
+
+ afleveringsformen, og aftales inden afleveringen.
+ Nærmere oplysnlnger kan fås hos Sekretariatet for Retsinformation eller  
+
+ Datacentralen.
+3.11 Trykning at tekster Tekstdokumenter, som skal mangfoldiggøres i et større antal, kan med  
+
+ fordel overføres maskinelt til en trykkeproces, så ny manuel indskrivning og  
+
+ efterfølgende korrekturlæsning undgås.
+For at kunne anvende et dokument til fremstilling af fotosats, skal der  
+
+ indføjes styrekoder (typografiske koder), der giver fotosætterudstyret  
+
+ oplysning om skriftgrader, linjelængde, tabuleringer, overskrifter m.v.
+Disse  
+
+ koder kan enten indsættes af trykkeriet eller af kunden selv.
+Hvis man selv  
+
+ vil indsætte koder, skal der på forhånd træffes aftale med trykkeriet om,  
+
+ hvordan dette skal gøres, jfr. afsnit 8.4 om manglende standardisering på  
+
+ dette område.
+ Det anbefales, at institutioner med behov for dokumentoverførsel til  
+
+ trykning retter henvendelse til Statens Informationstjeneste for nærmere  
+
+ afklaring af løsningsmulighederne i den konkrete situation.
+Det er en forudsætning for at overføre et tekstdokument maskinelt til  
+
+ trykning, at trykkeriets udstyr kan modtage teksten, enten via diskette eller  
+
+ via datatransmission, og læse denne.
+De problemer, der er forbundet hermed,  
+
+ er beskrevet i afsnit 8.
+4. Uddannelse Indførelse af elektronisk tekstbehandling er ikke kun et spørgsmål om  
+
+ anskaffelse af ny teknik, men drejer sig også om ændret organisation og ikke  
+
+ mindst om uddannelse af medarbejdere.
+ Det er derfor vigtigt, at der bliver budgetteret med midler til  
+
+ uddannelse, ikke blot i forbindelse med indførelsen af ny teknik, men også  
+
+ efterfølgende, f.eks. til uddannelse af nye medarbejdere.
+Etb-teknikken skal som regel ses i sammenhæng med andre edb-systemer, og  
+
+ etb er i øvrigt baseret på den samme teknik som edb-systemer.
+Det kan derfor  
+
+ være relevant at give en generel introduktion til edb for de medarbejdere,  
+
+ som ikke i forvejen er bekendt med dette område.
+Det generelle  
+
+ uddannelsesbehov og mulighederne for at tilfredsstille dette er omtalt i  
+
+ »»Håndbog om ny teknologi«».
+Administrationsdepartementet udgiver desuden een gang årligt et  
+
+ kursuskatalog over brugerorienterede edb-kurser for medarbejdere i den  
+
+ offentlige forvaltning.
+Kursuskataloget kan anvendes ved planlægning af  
+
+ medarbejderuddannelserne på dette område.
+ Køb af uddannelse kan eventuelt foretages ved at indhente tilbud fra flere  
+
+ kursusudbydere - altså en procedure svarende til den, der anvendes ved  
+
+ anskaffelse af udstyr.
+4.1 Uddannelse ved indførelse af etb Det er almindeligt at betragte indførelsen af etb i en institution som et  
+
+ selvstændigt projekt, og der bør derfor nedsættes en projektgruppe, som får  
+
+ til opgave at planlægge og forestå idriftsættelsen af det nye system.  
+
+ Efterfølgende overgår den daglige drift og ansvarsplaceringen til den  
+
+ almindelige basisorganisation.
+Uddannelsesbehovet kan ses i sammenhæng med  
+
+ dette tidsforløb og faserne:
+- planlægning - idriftsættelse - daglig drift.
+4.1.1 Uddannelse i forbindelse med planlægning På planlægningstidspunktet vil der være behov for en videnopbygning hos de  
+
+ medarbejdere, som er medlemmer af projektgruppen.
+Det er vigtigt, at denne  
+
+ videnopbygning planlægges så tidligt som muligt i projektforløbet.
+Medlemmerne i gruppen kan søge viden ved selvstudier i litteraturen og ved  
+
+ deltagelse i generelle kurser om etb og edb.
+Det kan også være en god idee at  
+
+ indhente oplysninger om eksisterende etb-løsninger, f.eks. ved at rekvirere  
+
+ skriftligt materiale hos leverandørerne og ved at se demonstrationer enten på  
+
+ udstillinger, hos leverandører eller ved at besøge institutioner, som har  
+
+ erfaring med brug af etb.
+På denne måde kan der hentes inspiration til at  
+
+ opstille egne krav til et kommende system.
+For de øvrige medarbejdere i institutionen kan der gennemføres generelle  
+
+ edb-introduktionskurser, som med fordel kan rekvireres hos kursusudbydere til  
+
+ afholdelse i institutionens eget regi.
+Derved opnår man at få orienteret en  
+
+ stor gruppe medarbejdere på et kursus, som er målrettet mod institutionens  
+
+ eget behov.
+Sådanne kurser er som regel mindre omkostningskrævende end  
+
+ deltagelse i kurser uden for institutionen.
+4.1.2 Uddannelse i forbindelse med idriftsættelsen Når det er besluttet, hvilket etb-system der skal vælges, kan en egentlig  
+
+ uddannelse i anvendelsen planlægges.
+Uddannelsen bør tidsmæssigt placeres således, at det indlærte kan anvendes  
+
+ straks efter kurset.
+Det vil være en dårlig idee at gennemføre et kursus i  
+
+ brug af systemet et par måneder før systemet installeres.
+Kurset bør tilrettelægges i samarbejde med leverandøren og bør indgå i  
+
+ kontrakten som en del af leverancen.
+Hvis leverandøren ikke selv kan  
+
+ gennemføre et kursus, bør man sørge for, at en underleverandør kan tilbyde  
+
+ dette.
+Det kan være fordelagtigt at dele et indlæringskursus op i to eller flere  
+
+ moduler.
+På første modul indlæres systemets grundlæggende funktioner, så  
+
+ systemet kan tages i brug.
+På de efterfølgende moduler kan systemets mere  
+
+ avancerede funktioner indlæres, og medarbejderne får lejlighed til indbyrdes  
+
+ og med instruktøren at drøfte konstaterede problemer og indvundne erfaringer.
+4.1.3 Uddannelse under daglig drift Selv om systemet er sat i drift og kører rutinemæssigt, vil der stadig  
+
+ være situationer, hvor der skal tilbydes uddannelse.
+Når nye medarbejdere skal oplæres i brug af systemet, kan det gøres gennem  
+
+ deltagelse i kurser hos leverandøren eller andre kursustilbydere, og det kan  
+
+ gøres ved en intern oplæring, hvor en erfaren medarbejder forestår  
+
+ undervisningen.
+Ofte kan man med fordel anvende en kombination af disse to  
+
+ muligheder.
+ Der kan desuden være brug for uddannelse i de tilfælde, hvor medarbejdere  
+
+ får brug for funktioner i systemet, som de ikke kender, fordi de ikke hidtil  
+
+ har haft behov for dem.
+ Endelig er der behov for uddannelse, når der anskaffes nye versioner af  
+
+ programmerne, som ændrer brugen og giver nye muligheder.
+ I disse situationer kan det være en fordel at have udpeget en medarbejder,  
+
+ som har ansvaret for at være særlig godt orienteret om alle systemets  
+
+ muligheder.
+4.2 Uddannelse med henblik på at organisere tekstbehandlingsarbejdet Foruden den direkte undervisning i anvendelse af tekstbehandlingssystemet  
+
+ vil det være nødvendigt med mere bred uddannelse i, hvorledes  
+
+ tekstbehandlingsopgaverne bedst organiseres.
+Det er vigtigt at betragte  
+
+ tekstbehandlingsopgaverne i sammenhæng med de øvrige opgaver i institutionen,  
+
+ hvad enten disse løses ved hjælp af edb eller ej.
+Denne uddannelse skal sikre  
+
+ den størst mulige sammenhæng i institutionens informationsgrundlag.
+ Det er desuden vigtigt at gøre medarbejdere bevidste om sikkerhed i bred  
+
+ betydning - både fortrolighed i forbindelse med data i registerlovens  
+
+ betydning og sårbarhedsproblemer, som især vedrører sikkerhed mod tab af data  
+
+ samt »»back-up«»-muligheder på tidspunkter, hvor systemet  
+
+ ikke fungerer på grund af tekniske svigt.
+5. Analyse af tekstbehandlingsbehov Anskaffelse af etb skal altid indledes med en behovsanalyse.
+Derved kan  
+
+ programmel og materiel afpasses bedst muligt efter organisationens behov, og  
+
+ ved at tage udgangspunkt i egne behov sikres det, at man fra begyndelsen er  
+
+ opmærksom på, hvilke kompromisser man senere vælger at acceptere.  
+
+ Behovsanalysen skal give svar på følgende spørgsmål:
+- hvilke opgaver skal løses - hvor stor er tekstmængden - hvilke tilgrænsende systemer skal der tages hensyn til nu og eventuelt i fremtiden - er der særlige sikkerhedskrav - er der andre specielle forhold.
+Man skal som hovedregel formulere alle krav og ønsker til det nye system  
+
+ skriftligt.
+Selv om en ikke-edb-kyndig er i tvivl om, hvorvidt et krav er  
+
+ relevant, bør det noteres, så det kan indgå i vurderingen.
+For at klargøre  
+
+ behovene er det vigtigt at skelne mellem krav, som er ultimative, og ønsker,  
+
+ som ikke skal tillægges den samme vægt.
+ En checkliste som vist i bilag 2 med tilpasninger til de aktuelle krav og  
+
+ ønsker er velegnet til systematisk indsamling af oplysninger om forskellige  
+
+ tekstbehandlingssystemers egenskaber.
+Opstilling af krav efter en sådan checkliste vil imidlertid ikke være  
+
+ tilstrækkeligt.
+Det er også vigtigt at registrere, hvordan  
+
+ tekstbehandlingssystemet udfører de enkelte funktioner, og hvordan det  
+
+ fremtræder over for brugeren.
+Sammenligning af besvarelserne på alle disse enkeltpunkter og  
+
+ sammenholdelse af besvarelserne med de faktiske behov er en selvstændig  
+
+ opgave, som skal løses - eventuelt med ekstern konsulentbistand.
+Den  
+
+ grundighed, hvormed projektet gennemføres, afhænger naturligvis af  
+
+ anskaffelsens størrelse.
+5.1 Hvilke opgaver skal løses Først skal der tages stilling til, hvilke opgaver der skal løses, herunder  
+
+ eksisterende skriveopgaver og eventuelle nye opgaver.
+Desuden sksl det  
+
+ fastlægges, i hvilket omfang tekstbehandling skal indgå i sammenhæng med  
+
+ andre edb-systemer.
+En gennemgang og prioritering af de dokumenter, tekstbehandlingssystemet  
+
+ skal bruges til at producere, er et væsentligt led i behovsopgørelsen.  
+
+ Hvordan fordeler den samlede dokumentproduktion sig på individuelle breve,  
+
+ standardbreve formularer, notater, store rapporter, dokumenter, der skal  
+
+ trykkes etc.
+Det er vigtigt at skelne væsentligt fra uvæsentligt.
+Dokumenter,  
+
+ der kun bliver fremstillet få gange om året, skal som regel have mindre vægt  
+
+ end dokumenter, der fremstilles hver dag.
+Man skal ligeledes passe på ikke at  
+
+ videreføre vaner og uvaner.
+Det kan være nødvendigt f.eks. at revurdere, hvad  
+
+ der vil være en hensigtsmæssig opstilling af tekster.
+Som regel vil den være  
+
+ anderledes på et tekstbehandlingssystem end på en skrivemaskine.
+ Ved gennemgangen kommer spørgsmålet om fremtidige udvidelser allerede ind  
+
+ i billedet, hvad enten det drejer sig om en planlagt udvidelse af  
+
+ tekstbehandlingskapaciteten, eller der er ønske om at kunne udføre andre  
+
+ opgaver end tekstbehandling ved hjælp af det udstyr, der skal anskaffes.
+5.2 Hvor stor er tekstmængden Det er vigtigt at beregne, hvor store mængder tekst systemet samtidig skal  
+
+ kunne lagre og behandle.
+Har man behov for at kunne arbejde på ældre tekster  
+
+ og eventuelt genbruge dele af dem i nye, må man være opmærksom på, at dette  
+
+ kan være besværligt, f.eks. fordi de opbevares som diskette- eller båndkopier  
+
+ af den faste disk.
+Opgørelsen af de krævede datamængder beregnes i første omgang i kendte og  
+
+ let målelige størrelser som f.eks.
+A4-sider.
+1 Kbyte eller KB (kilo byte) svarer til 1024 bytes.
+I hver byte kan lagres  
+
+ et tegn, dvs. et bogstav, tal, special- eller kontroltegn.
+Som en  
+
+ tommelfingerregel regnes der med, at en normalbeskrevet A4-side har behov for  
+
+ en lagerplads på 5-6 KB.
+I forbindelse med datamatanskaffelse skal man være opmærksom på, at  
+
+ behovsopgørelsen almindeligvis er udtryk for et minimumsbehov eller snarere  
+
+ en undervurdering.
+Man bør derfor, selv efter gennemførelsen af en grundig og  
+
+ detaljeret analyse, overdimensionere systemet 50 til 100 pct. i forhold til  
+
+ det opgjorte kapacitetsbehov.
+Dette kan lyde drastisk, men i sammenligning  
+
+ med en installations samlede omkostninger kan en fordobling af f.eks.  
+
+ lagerkapaciteten ofte foretages for en forholdsvis beskeden merpris.
+Endelig skal man være opmærksom på, at de fleste datamater ikke kan  
+
+ udnyttes helt til den teoretiske grænse.
+Fyldes det eksterne lager f.eks.  
+
+ mere end 80-90 pct, vil systemet som regel ikke fungere hensigtsmæssigt.
+5.3 Tilgrænsende systemer Der skal træffes beslutning om, hvordan tekstbehandlingssystemet skal  
+
+ indgå i den interne organisation, samt hvilke berøringsflader der skal være  
+
+ udadtil.
+ Der kan udover de organisatoriske forhold være rent tekniske spørgsmål at  
+
+ tage stilling til, herunder behovet for udveksling af dokumenter med det  
+
+ formål direkte at genanvende disse.
+ De potentielle afsendere og modtagere af dokumenter kan befinde sig såvel  
+
+ inden for som uden for organisationen.
+5.3.1 Fælles programmer og dokumenter Fælles programmer og dokumenter hører fortrinsvis sammen med et  
+
+ flerbrugersystem.
+Her kan den enkelte brugers data beskyttes mod uautoriseret  
+
+ adgang, men data kan også gøres tilgængelige for andre.
+Sikkerhedskopiering af dokumenter vil på flerbrugersystemer som regel  
+
+ blive udført af en systemansvarlig, som har fået speciel uddannelse, og vil  
+
+ ikke være den almindelige brugers opgave.
+I modsætning hertil er det på  
+
+ enkeltbrugersystemet brugeren selv, der er ansvarlig for sikkerhedskopiering.
+Anvendelse af samme program er en stor fordel, hvis der er behov for  
+
+ udveksling af dokumenter mellem arbejdspladserne.
+Det vil på denne måde være  
+
+ muligt at redigere videre i dokumenter på en vilkårlig arbejdsplads.
+Overførslen kan ske ved anvendelse af fælles lager, ved datakommunikation  
+
+ eller simpelt hen ved udskrivning på en diskette, der flyttes til den anden  
+
+ arbejdsplads.
+Det aktuelle systems muligheder og brugerens behov for  
+
+ tekstudveksling afgør, hvilken metode der skal anvendes.
+Der findes tekstbehandlingsprogrammer til PC'er, som kan anvendes fra et  
+
+ antal PC-arbejdspladser bundet sammen af et lokalnet.
+Programmet er fælles,  
+
+ og dokumenterne kan være det.
+5.3.2 Overførsel af tekster mellem arbejdspladser med forskellige  
+
+ tekstbehandlingsprogrammer De vidt forskellige formater, der findes i forbindelse med  
+
+ tekstbehandlingsprogrammer, vanskeliggør udveksling af dokumenter mellem  
+
+ arbejdspladser, der anvender forskellige programmer.
+Disse problemer er  
+
+ behandlet i afsnit 8 om standardisering.
+ Det er vigtigt at få belyst, om der er behov for overførsel af dokumenter  
+
+ til arbejdspladser, som anvender et andet tekstbehandlingsprogram, og om det  
+
+ er muligt at finde en teknisk og økonomisk forsvarlig løsning på de hermed  
+
+ forbundne problemer.
+5.3.3 Overførsel af tekster til edb-systemer inden for organisationen Der kan være behov for overførsel af en tekst til et andet edb-system  
+
+ inden for organisationen, hvis en organisations dokumenter skal gøres  
+
+ tilgængelige i et søgesystem eller et fælles tekstarkiv på en lokal datamat.
+Næsten uanset hvilken type tekstbehandlingssystem der vælges, vil der være  
+
+ behov for en omdannelse af dokumenterne, inden disse indlægges i et  
+
+ søgesystem.
+Et led i denne omdannelse kan være den manuelle tilføjelse af  
+
+ faste felter, f.eks. journalnummer, dato og måske afmærkning af bestemte  
+
+ tekstafsnit, som det har særlig interesse at skille ud.
+ Tilsvarende skal de fysiske lagringsmedier, f.eks. disketter, kunne  
+
+ flyttes og læses, eller den fornødne datakommunikation kunne etableres, jfr.  
+
+ afsnit 8. Om der anvendes fysisk flytning eller datakommunikation, vil  
+
+ afhænge af de edb- og tekstbehandlingssystemer, der anvendes.
+5.3.4 Overførsel af tekster til edb-systemer uden for organisationen Skal dokumenter være tilgængelige uden for organisationen, f.eks. i store  
+
+ databaser til fritekstsøgning, gælder de samme forhold som ved overførsel til  
+
+ en lokal datamat.
+ Overføres i forvejen dokumenter til en lokal datamat, som er forsynet med  
+
+ kommunikationsfaciliteter, kan en løsning være overførsel fra  
+
+ tekstbehandlingssystemet til den lokale datamat og videreførsel fra denne til  
+
+ det eksterne edb-system.
+5.4 Særlige sikkerhedskrav Det bør overvejes, om der skal stilles særlige sikkkerhedskrav til  
+
+ tekstbehandlingssystemet.
+Sikkerhed kan dels være et spørgsmål om at hindre  
+
+ uvedkommende i at få adgang til data og tekster, dels et spørgsmål om at  
+
+ sikre sig mod tab af data og tekster.
+Endelig kan der være spørgsmål om at  
+
+ sikre, at ikke alle etb-arbejdspladser bliver sat ud af funktion på een gang  
+
+ på grund af tekniske svigt.
+Brugeren må definere forskellen på brug og misbrug af de enkelte data med  
+
+ henblik på at sikre sig bedst muligt mod utilsigtet anvendelse.
+Er der  
+
+ tekster og data, som enhver kan have adgang til, medens andre skal beskyttes,  
+
+ så kun autoriserede brugere har adgang til dem? Skal alle have adgang til  
+
+ opslag i data, medens kun visse brugere skal kunne tilføje, ændre eller  
+
+ slette data? Sådanne regler skal overvejes og i givet fald formuleres som  
+
+ krav til systemet.
+Registerloven sætter visse rammer.
+Indeholder registrene oplysninger, der  
+
+ kan relateres til bestemte personer, giver loven også retningslinjer for  
+
+ registrenes beskyttelse og sikkerhed (se afsnit 3.2).
+På enkeltbrugerdatamater skal man ikke forvente et højt sikkerhedsniveau  
+
+ ved hjælp af systemets programmel, idet der normalt ikke er nogen adgangskode  
+
+ eller lignende.
+En fysisk sikring af data kan være nødvendig, f.eks. i form  
+
+ af at disk eller diskette anbringes under lås og slå, når de ikke er i brug.
+Brugeren må ligeledes tage stilling til, i hvilket omfang data og tekster  
+
+ skal sikkerhedskopieres.
+Sikkerhedskopiering vil altid kunne ske ved  
+
+ overførsel af kopier til disketter, men er der behov for megen og hyppig  
+
+ kopiering, kan arbejdet hermed lettes ved anskaffelse af særlige  
+
+ databåndstationer til back-up formål.
+ Hensynet til at sikre, at nogle arbejdspladser fortsat kan bruges i  
+
+ tilfælde af tekniske svigt, kan få indflydelse på valget af teknisk løsning.  
+
+ Hvis alle etb-arbejdspladser er koblet til eet centralt anlæg, vil systemet  
+
+ være sårbart over for driftsstandsninger, hvorimod en løsning med  
+
+ decentraliseret datakraft og lagringskapacitet vil kunne give større  
+
+ sikkerhed mod driftsstandsninger, der berører hele organisationen.
+5.5 Andre specielle forhold Specielle forhold kan være krav til andre komponenter end selve  
+
+ tekstbehandlingsprogrammet, f.eks. udstyrets udformning og miljøforhold samt  
+
+ antallet af arbejdspladser og disses placering i forskellige lokaler.
+Der kan  
+
+ også være ønske om selv at kunne udarbejde programmer eller at kunne  
+
+ kommunikere med en eller flere andre datamater, hvor tekstbehandlingsudstyret  
+
+ virker som terminal med eller uden mulighed for udveksling af tekst.  
+
+ dokumenter.
+6. Funktionskrav Tegningerne på de følgende sider viser dokumenters opbygning og indeholder  
+
+ eksempler på de spørgsmål, der anvendes ved analyse af dokumenterne.  
+
+ Tegningerne kan bruges som inspiration, når institutionens dokumenter  
+
+ analyseres med henblik på opstilling af krav til tekstbehandlingsfunktioner.
+En lang række krav kan dog hverken udmøntes af en gennemgang af dokumenter  
+
+ eller en checkliste.
+Det gælder spørgsmål om lagring, genfinding, sletning,  
+
+ flytning og kopiering af dokumenter samt om administration af lagerpladsen,  
+
+ som alle vanskeligt kan besvares med ja eller nej.
+Hvilke muligheder har man for at genfinde sine dokumenter? Er det  
+
+ nødvendigt at huske dokumentnavne, eller kan man når som helst få en  
+
+ oversigt, som kan bruges til at vælge ud fra? Kan det eksterne lager opdeles i logiske enheder (kataloger), der letter  
+
+ genfinding? Kan man ubesværet flytte et dokument fra een sådan enhed til en  
+
+ anden? Hvilke værktøjer er der til administration af lagerpladsen? Selv simple spørgsmål som automatisk orddeling kan ikke besvares med et ja  
+
+ eller nej.
+Hvis systemet orddeler, kan det så »lære« ny ord? Hvis  
+
+ det deler forkert, hvor let er det så at rette fejlen? Hvis der fremstilles mange opstillinger eller tabeller, er det ikke nok at  
+
+ spørge, om tabellerne kan indskrives, og derefter udskrives pænt på papir.  
+
+ Kan systemet flytte, kopiere, indsætte og slette kolonner? Kan det summere  
+
+ rækker og kolonner? Kan det foretage andre relevante beregninger? Fremstilles der ofte store dokumenter? Ved store kan enten forstås meget  
+
+ store sider, f.eks.
+A3, A4 tværformat osv., eller lange dokumenter, dvs. et  
+
+ stort antal sider.
+Hvordan skal systemet bruges? Er der krav om, at brugeren skal kunne  
+
+ arbejde videre samtidig med, at et dokument udskrives på papir? Er der behov for integration af tekstbehandlingssystemet med andre  
+
+ systemer? Skal f.eks. grafiske fremstillinger eller tabeller kunne indgå i  
+
+ dokumenterne? Skal dokumenter kunne sendes og modtages ved hjælp af et  
+
+ elektronisk postsystem, som også har forbindelse til andre datamater? Og skal  
+
+ disse dokumenter da kunne viderebearbejdes i modtagerens  
+
+ tekstbehandlingssystem? Hvordan systemet skal bruges, er et nøglespørgsmål i forbindelse med  
+
+ opstilling af krav til et tekstbehandlingssystem.
+Det er ikke muligt at  
+
+ opstille krav til systemets funktioner uden den viden om organisationens  
+
+ arbejde og struktur, som findes i den enkelte organisation.
+Ovenstående eksempler skal kun illustrere, at et krav til et system i så  
+
+ godt som alle tilfælde vil kræve yderligere præcisering.
+Man kan ikke bare  
+
+ opstille krav om, at en funktion findes i systemet.
+Systemet skal helst også  
+
+ kunne udføre funktionen på en bestemt måde, hvis faciliteten skal bruges til  
+
+ bestemte formål.
+Det kan være en fordel at opstille et eller flere prøvedokumenter til brug  
+
+ i forbindelse med en demonstration af et system hos leverandøren.
+Et  
+
+ prøvedokument skal udfærdiges, så der til dets fremstilling skal gøres brug  
+
+ af flest mulige af de faciliteter, som man vil lægge vægt på, f.eks.  
+
+ tabuleringer, flere formater i samme dokument, spaltetekst og opstilling af  
+
+ »maske« til brev.
+7. Brugervenlighed Brugervenlighed er et individuelt begreb.
+Hvad een bruger finder  
+
+ anvendelsesvenligt, kan en anden bruger opleve som uhensigtsmæssigt.
+Det  
+
+ brugervenlige system vil derfor ofte være det system, som tilbyder den  
+
+ højeste grad af individualisering, hvor der gives brugeren mulighed for at  
+
+ indrette systemet i overensstemmelse med den enkeltes arbejdsrytme og  
+
+ -metode.
+ Brugervenlighed kan opdeles i to hovedområder:
+- fysiske forhold og - betjeningsvenlighed.
+ Ved fysiske forhold forstås begreber som siddestilling, syn, luft, varme,  
+
+ støj, stråling fra dataskærme, lys m.m.
+Betjeningsvenlighed omfatter bl.a. systemdialog, tilgængelighed (let/svært  
+
+ at lære) og mulighed for at anvende forskellige hjælpemidler som  
+
+ funktionstaster, ikoner, mus og pegeredskaber.
+Som en vigtig del af  
+
+ betjeningsvenligheden indgår sprogbrugen og graden af mulighed for at undgå  
+
+ overflødige oplysninger - informationsstøj.
+Desuden indgår opfyldelse af udsagnene »»What you see is what  
+
+ you get«» og »You get what you need«.
+Disse to udtryk  
+
+ dækker over, at der dels skal være overensstemmelse mellem det, man ser på  
+
+ skærmen, og det, der kommer ud på skriveren, dels at den enkelte bruger ikke  
+
+ får overfyldt sin skærm med funktioner, som den pågældende ikke har adgang  
+
+ til eller ikke har brug for.
+ Følgende er eksempler på spørgsmål, der kan tjene til at vurdere et  
+
+ systems bruger- og betjeningsvenlighed:
+- foregår dialogen mellem bruger og systemet helt, delvis eller slet ikke  
+
+ på dansk? - hvordan reagerer programmet på simple fejltastninger, som f.eks. en  
+
+ kommando, der staves forkert? - er dialogen let at lære og let at huske, også selv om man ikke benytter  
+
+ systemet dagligt? - en totalt menustyret dialog bliver let tung at arbejde med for den øvede  
+
+ bruger.
+Er der muligheder for spring i menuerne? - er der eventuelt mulighed for, at den øvede bruger kan lave egne  
+
+ funktioner, såkaldte makroer? - er det nødvendigt med særligt uddannede systemadministratorer? - hvordan foretages sikkerhedskopiering? - kræves der en særlig uddannelse i forbindelse med klargøring og drift af  
+
+ programmerne? Erfaringerne omkring måling af brugervenlighed er endnu meget begrænsede,  
+
+ og præcise måleenheder kan ikke angives.
+Det bedste vil være, hvis den  
+
+ enkelte før afprøvning sætter sig nogle mål og derefter kontrollerer, om  
+
+ målene kan opfyldes.
+7.1 Brugergrænsefladens egenskaber Brugergrænsefladen er den del af et system, som brugeren har direkte  
+
+ kontakt med, dvs. selve udstyret på arbejdspladsen og den/de måder, det  
+
+ betjenes på, eller sagt med andre ord: Den måde brugeren kommunikerer med  
+
+ systemet på.
+ Brugervenlighed og brugergrænsefladens funktionalitet og sammensætning  
+
+ hænger meget tæt sammen, men udgør ikke de eneste elementer i  
+
+ sammenstillingen af et brugervenligt miljø. Brugergrænsefladens egenskaber er  
+
+ dog så væsentlige, at de har topprioritet, når brugervenligheden skal  
+
+ vurderes.
+ Da det ikke er muligt at få den perfekte brugergrænseflade til hver enkelt  
+
+ bruger, må man i stedet undersøge, om brugergrænsefladen kan leve op til de  
+
+ fleste af nedenstående kriterier.
+Fuldstændighed Inden for sprogets rammer skal man kunne håndtere alt, hvad brugerens  
+
+ arbejde omfatter.
+Fuldstændigheden vil imidlertid kun komme til udtryk ud fra  
+
+ en subjektiv betragtning (enhver kan udføre sit eget arbejde, men ikke alt  
+
+ arbejde). Systemet skal altså have tilstrækkelige funktioner til at løse den  
+
+ enkeltes tekstbehandlingsbehov.
+Ensartethed Samme funktion skal hedde det samme og fungere ens over alt i systemet.  
+
+ F.eks. bør det i et menu-styret system være samme funktionstast eller  
+
+ kommando, der bruges for at komme fra en »lavere« menu til en  
+
+ »højere« menu i hierarkiet.
+Enkelhed Funktionerne skal have brugerrelevans og ikke være præget af systemets  
+
+ interne opbygning.
+Kommandoer skal være nemme at lære, og funktionerne skal  
+
+ bygge på kendte begreber fra kontorverdenen.
+Afskærmning Brugeren skal ikke bekymre sig om systemets interne virkemåde, og  
+
+ styresystemets opbygning må ikke virke begrænsende f.eks. med hensyn til  
+
+ opbygning af kataloget over tekster og længden på dokumentnavne.
+Robusthed Dialogen må ikke være fintfølende og konfliktskabende.
+Det medfører, at  
+
+ simple syntaksfejl skal løses uden kommentarer, og at tvivlstilfælde løses i  
+
+ dialog med brugeren, så det ikke er nødvendigt at slå op i manualer eller  
+
+ starte systemet forfra.
+Nationalitet Kommandoer og udskrifter fra systemet skal være på dansk.
+Effektivitet Systemets svartider skal være rimelige i relation til størrelsen og arten  
+
+ af den opgave, der skal løses.
+F.eks. vil man forvente, at svartiden for en  
+
+ søgning i et dokument er afhængig af dokumentets størrelse.
+8. Standardisering i forbindelse med udveksling af tekster mellem forskellige systemer Det ville være ideelt, hvis tekst fremstillet med etb kunne overføres,  
+
+ lagres og bearbejdes uafhængigt af det udstyr og programmel, som anvendes af  
+
+ de parter, der ønsker at udveksle et dokument.
+På grund af manglende teknisk  
+
+ standardisering vil overførsel af dokumenter mellem forskellige systemer  
+
+ imidlertid oftest være forbundet med store vanskeligheder eller i praksis  
+
+ være uigennemførlig.
+I dette afsnit gennemgås kort de tekniske problemer, der er forbundet med  
+
+ udveksling af dokumenter.
+Der henvises i øvrigt til afsnit 3, som omtaler de  
+
+ standarder i forbindelse med tekstbehandling, som det i øjeblikket anbefales  
+
+ statsinstitutioner at kræve overholdt.
+ Der skelnes mellem internationale standarder og »»de facto  
+
+ standarder« (industristandarder, markedsstandarder). Førstnævnte  
+
+ udarbejdes af de internationale standardiseringsorganisationer, medens  
+
+ sidstnævnte bygger på store leverandørers produkter, der har opnået en sådan  
+
+ udbredelse, også hos andre leverandører, at de kan betragtes som faktiske  
+
+ standarder på markedet.
+ Standardiseringen i forbindelse med etb vedrører navnlig følgende områder:
+- lagringsformater - tegnsæt og styretegn - dokumentformater - kommunikation sprotokoller - trykkeformater.
+Når to systemer ikke kan samarbejde, fordi de følger forskellige  
+
+ standarder, eller fordi de bygger på firma-specifikke produkter, kan  
+
+ problemet undertiden afhjælpes ved hjælp af program-produkter, der fungerer  
+
+ som »»oversætter« mellem dem.
+Sådanne oversættere findes dog  
+
+ langt fra altid som standardprodukter, og det kan være forbundet med  
+
+ betydelige omkostninger at lade dem udvikle.
+Desuden vil fuld viden om begge  
+
+ leverandørers produkter være en forudsætning for udvikling af oversættere -  
+
+ og denne forudsætning vil ikke altid være til stede.
+8.1 Udvekslingsmåder Når et dokument fremstillet ved hjælp af etb ønskes overført til  
+
+ bearbejdning på en anden type udstyr og med et andet tekstbehandlingsprogram,  
+
+ kan den fysiske flytning af dokumentet ske på to måder.
+Dokumentet kan lagres på et flytbart edb-medium, i praksis en diskette,  
+
+ hvorfra det så indlæses i den modtagende datamat, eller flytningen kan ske  
+
+ ved datatransmission over et lokalt eller offentligt datanet.
+I begge  
+
+ tilfælde skal en række problemer løses, før udvekslingen kan finde sted.
+8.2 Udveksling ved hjælp af diskette Det første problem vedrører selve det fysiske format af de diskettetyper,  
+
+ der kan anvendes i de respektive datamaters diskettestationer, idet disketter  
+
+ fås i forskellige størrelser: 8tommer, 5 1/4 tomme, 3 1/2 tomme m.fl.
+Selv om  
+
+ to disketter umiddelbart ser ens ud, kan de være fremstillet med henblik på  
+
+ at lagre information på een side hhv. begge sider eller med henblik på  
+
+ forskellig »»tæthed« af lagret information  
+
+ (lagringskapacitet), og en datamat vil stille krav om en diskette af en  
+
+ bestemt type.
+Inden en diskette kan tages i brug i en given type datamat, skal den'  
+
+ formateres'», dvs. opdeles i spor og sektorer, hvilket sker ved hjælp af  
+
+ et særligt formateringsprogram tilknyttet datamatens styresystem.
+Ved  
+
+ formateringen fastlægges diskettens lagringsformat.
+Et givet systems lagringsformat er den form, hvorunder en tekst bliver  
+
+ gemt på lagringsmediet (disk, diskette m.v.), så teksten senere kan findes og  
+
+ gendannes med sit oprindelige udseende.
+Lagringsformatet er bl.a. afgørende  
+
+ for, hvor megen information der kan lagres på disketten.
+Lagringsformater er  
+
+ som regel defineret som et sæt af interne regler, og programmerne, som skal  
+
+ lagre, hente og gendanne dokumenter, bygger på disse regler.
+Lagringsformatet  
+
+ har typisk nær sammenhæng med det styresystem og øvrige basisprogrammel, som  
+
+ anvendes, idet lagringsformatet har en vis sammenhæng med den måde, som  
+
+ styresystemet organiserer sine filer og filkataloger på.
+Det vil være uhyre svært for en datamat at anvende et ukendt  
+
+ lagringsformat, specielt hvis det anvendte tegnsæt, jfr. nedenfor, også er  
+
+ ukendt.
+De enkelte leverandørers formater er ofte så forskellige, at  
+
+ udveksling vil kræve anvendelse af et eller flere programmer til at omforme  
+
+ fra eet format til et andet.
+ Der findes ingen officielle standarder på disse områder, der alle vedrører  
+
+ selve den fysiske diskette: men for visse datamattypers vedkommende (PC'er)  
+
+ har der udviklet sig nogle markedsstandarder i tilknytning til et bestemt  
+
+ styresystem (MS-DOS).
+En leverandørs påstand om, at disketter kan udveksles mellem dennes og en  
+
+ anden leverandørs udstyr bør afprøves i praksis.
+Nogle virksomheder,  
+
+ heriblandt UNI.C, tilbyder i øvrigt at flytte data mellem et udvalg af  
+
+ forskellige disketteformater.
+En sådan flytning kan imidlertid være både  
+
+ besværlig og dyr.
+Under den internationale standardiseringsorganisation ISO er der nedsat en  
+
+ undergruppe, som beskæftiger sig med tekst og kontorsystemer.
+Her er igangsat  
+
+ et arbejde omkring udveksling af tekstinformation på flytbart medium.
+ Endelig skal der være overensstemmelse mellem de udvekslende systemers  
+
+ tegnsæt og dokumentformat.
+Tegnsættet er dels den samlede mængde af bogstaver, tal og specialtegn,  
+
+ dvs. de synlige tegn i teksten, dels forskellige styretegn.
+Disse er ikke  
+
+ synlige i en udskrevet tekst, men styrer behandlingen og udskrivningen af  
+
+ teksten, f.eks. tabuleringer, linjeskift og vognretur.
+Normalt, men måske lidt misvisende, kalder man den samlede mængde af  
+
+ synlige tegn og styretegn for et tegnsæt.
+Tegnsættet repræsenteres internt i  
+
+ et etb- eller edb-anlæg ved en talkode udtrykt i et bit-mønster, og der skal  
+
+ naturligvis være enighed om, hvilken talkode der repræsenterer hvilket tegn,  
+
+ hvis der skal udveksles tekster.
+Om styretegnene skal det specielt nævnes, at  
+
+ der skal være overensstemmelse mellem de udvekslende parters udlægning af det  
+
+ enkelte styretegns betydning.
+Bilag 1 indeholder en beskrivelse af standarder  
+
+ for tegnsæt.
+Et dokument er en logisk sammenhængende og afgrænset mængde af data.
+Et  
+
+ dokuments indhold kan i princippet bestå af tekst, tegn, grafik, faksimile,  
+
+ tale og video.
+Tekstsystemer, der også kan indeholde faksimiie, tale og  
+
+ video, hører dog fremtiden til.
+ I international standardiseringssammenhæng har man valgt at betragte et  
+
+ dokument som bestående af to strukturer:
+- en logisk struktur og - en layout-struktur der kan behandles indbyrdes uafhængigt, men alligevel har en vis  
+
+ sammenhæng.
+Den logiske struktur er en beskrivelse af dokumentets opdeling i  
+
+ kapitler, afsnit, overskrifter, fodnoter, figurer og bilag, medens  
+
+ layout-strukturen deler dokumentet op i sider, rammer og blokke inden for en  
+
+ side, og fortæller, hvordan positionering og præsentation skal ske på det  
+
+ valgte medium (skærm, papir m.m.).
+ Selve indholdet i dokumentet - den meddelelse, der har interesse for  
+
+ brugeren - er således beskrevet ved hjælp af de to strukturer, som har hver  
+
+ deres betydning for præsentation og forståelse af dokumentet.
+Den internationale standardiseringsorganisation ISO arbejder på at  
+
+ fastlægge standarder for dokumentformater.
+I forbindelse med  
+
+ Teletex-tjenesten har CCITT desuden specificeret et dokumentformat.
+ Som en udbredt industristandard kan nævnes IBM-standarden DCA (Document  
+
+ Content Architecture). DCA standarden inkluderer anvendelse af bestemte  
+
+ EBCDIC tegnsæt (se bilag 1, punkt 6). Mange andre leverandører kan bruge  
+
+ dette dokumentformat i forbindelse med deres tekstbehandlingssystem, idet der  
+
+ medfølger et program til omformning af en tekst fra leverandørens eget format  
+
+ til DCA-format og omvendt.
+Som et praktisk eksempel på udvekslingsmulighed kan nævnes overførsel afet  
+
+ dokument mellem to forskellige tekstbehandlingsprogrammer, der afvikles på to  
+
+ PC'er, som anvender samme styresystem, diskettetype og lagringsformat, og  
+
+ hvor omformning til og fra DCA-format kan finde sted.
+Omformningen løser dog  
+
+ ikke nødvendigvis alle problemer.
+Hvis teksten er fremstillet ved hjælp af et  
+
+ program, der kan håndtere tekst i flere spalter, vil bearbejdningen af en  
+
+ tekst i flere spalter give anledning til problemer, dersom det program, der  
+
+ skal bearbejde teksten, ikke kan håndtere spaltetekst.
+Desuden kan man  
+
+ risikere, at fremhævninger, understregninger m.m. går tabt i forbindelse med  
+
+ omformningen.
+8.3 Udveksling ved hjælp af datatransmission Udveksling af tekster ved hjælp af datakommunikation forudsætter, at der  
+
+ etableres en fysisk og en logisk forbindelse mellem afsender og modtager.
+ Den fysiske forbindelse etableres ved anvendelse af et offentligt eller  
+
+ privat netværk, og edb-udstyret skal som regel udvides med særligt  
+
+ tilkoblingsudstyr, f.eks. et modem, der omformer edb-udstyrets signaler, så  
+
+ de kan sendes via en almindelig telefonlinje.
+Den logiske forbindelse skal sikre, at data overføres uden tab eller  
+
+ forvanskning af information.
+Det datakommunikationsprogrammel, der anvendes,  
+
+ bygger på et aftalt sæt af regler for, hvordan udvekslingen af data skal  
+
+ foregå.
+Disse regler benævnes »protokoller«.
+Afsender og modtager  
+
+ skal anvende samme protokoller.
+Erfaringsmæssigt kræver det tid og nogen teknisk viden at etablere en  
+
+ datakommunikationsforbindelse mellem to vilkårlige edb-systemer.  
+
+ Datacentralen planlægger i løbet af 1987 at etablere en ny service, som bl.a.  
+
+ vil kunne anvendes til udveksling af dokumenter (»filmaskinen«).  
+
+ Princippet i denne service er, at afsenderen af et dokument overfører dette  
+
+ til Datacentralen, hvorfra modtageren vil kunne hjemtage det.
+Denne service  
+
+ vil mindske problemerne omkring datakommunikation mellem statslige  
+
+ myndigheder, idet det kan være teknisk enklere at etablere forbindelse til  
+
+ Datacentralen end til flere modtagere.
+ Ved at anvende datakommunikation i stedet for udveksling via diskette  
+
+ undgår man de problemer, der er forbundet med diskette- og lagringsformater.  
+
+ Problemerne vedrørende tegnsæt og dokumentformater vil dog være de samme.
+Der findes i dag et bredt spektrum af kommunikationsprotokoller, og det er  
+
+ ikke realistisk at forestille sig, at der vil kunne opnås enighed om, at alle  
+
+ bruger samme protokoller, bl.a. fordi forskellige protokoller er udformet med  
+
+ henblik på forskellige anvendelser.
+Løsningen må derfor bestå i at begrænse  
+
+ og standardisere til brug af så få protokoller som muligt.
+Administrationsdepartementet har i 1986 udmeldt generelle anbefalinger for  
+
+ kommunikationsprotokoller i publikationen »Datakommunikation i  
+
+ centraladministrationen, Vejledning og anbefalinger«.
+Denne vejledning  
+
+ bygger på en foranalyse af datakommunikationsbehov og -muligheder i  
+
+ centraladministrationen, jfr. litteraturlisten.
+For en nærmere teknisk  
+
+ beskrivelse af problemer i forbindelse med datakommunikation henvises til  
+
+ foranalysen, herunder navnlig bilag 1 om tekstkommunikation og  
+
+ dokumentformater.
+8.4 Specielt om trykkeformater Hvis tekster fremstillet med etb skal trykkes, er der behov for at kunne  
+
+ overføre teksterne og bruge dem til automatisk satsfremstilling, uden at  
+
+ teksten skal indtastes igen i trykkeriet.
+I trykt tekst anvendes forskellige skriftstørrelser for overskrifter og  
+
+ hovedtekster, fremhævelse af vigtige ord i kursiv eller halvfed, indrykning,  
+
+ centrering af tekst m.v.
+Desuden kan der bruges mange flere tegn og symboler,  
+
+ end der normalt findes i et tekstbehandlingssystem.
+Hvis man vil overføre en tekst til fotosats, skal teksten derfor forsynes  
+
+ med specielle styretegn, som, når de læses af satssystemet, styrer  
+
+ fotosætterens anvendelse af de grafiske hjælpemidler.
+Desværre er  
+
+ standardisering på dette område trængt meget dårligt igennem, men der  
+
+ arbejdes på fastlæggelse af en international standard, idet den  
+
+ internationale standardiseringsorganisation ISO har udsendt et forslag til et  
+
+ kommandosprog til elektronisk publicering (SGML) til høring.
+9. Vurderingskriterier I afsnit 5, 6, 7 og 8 er beskrevet nogle forhold, der kan bruges som  
+
+ grundlag for opstilling af krav til tekstbehandlingssystemer.
+ Når institutionens behov er gjort op, påbegyndes en undersøgelse af  
+
+ udbudet af tilgængelige standardprogrammer.
+Til tekstbehandling bør anvendes standardsystemer, hvilket betyder, at man  
+
+ må tilpasse sig de muligheder, standardsystemet giver.
+I almindelighed må en  
+
+ tilretning af standardprogrammel stærkt frarådes, selv om den umiddelbart ser  
+
+ ud til at være teknisk og økonomisk mulig, idet det kan forventes, at den  
+
+ senere vil give anledning til vedligeholdelses- og ajourføringsproblemer.  
+
+ Yderligere er udbudet af standardprogrammel efterhånden så stort og af en  
+
+ sådan kvalitet, at man normalt kan finde en tilfredsstillende løsning.
+Undersøgelsen af programmel må godtgøre, om de funktionelle krav, der er  
+
+ opstillet, bliver opfyldt.
+Et standard tekstbehandlingsprogram vil ifølge  
+
+ sagens natur være indrettet med en række almindeligt efterspurgte funktioner.  
+
+ Oftest vil de kun delvis opfylde behovet.
+Hvis ingen af de systemer, der  
+
+ undersøges, helt kan opfylde alle krav, må man prioritere sine krav for at  
+
+ kunne vælge et standardsystem.
+ Programmel til tekstbehandling er ofte så relativt billigt, at det kan  
+
+ være en fordel at afprøve forskellige programmer, før det endelige valg  
+
+ træffes.
+9.1 Kapacitet Hvis der er tale om et flerbrugersystem, må det undersøges, hvor mange  
+
+ brugere programmet kan betjene samtidig.
+Man skal forvisse sig om, at ikke  
+
+ alene maskinel og styresystem, men også det pågældende program er indrettet  
+
+ til at håndtere det antal skærme, som skal kunne bruges samtidig.
+Nogle programmer har en øvre grænse for mængden af data, uanset hvor store  
+
+ eksterne lagre man anskaffer.
+For tekstbehandlingsprogrammer er der desuden  
+
+ ofte en øvre grænse for, hvor stort et dokument kan være.
+ Det skal også undersøges, hvor meget intern og ekstern lagerplads de  
+
+ forskellige standardprogrammer kræver for at lagre og behandle de ønskede  
+
+ tekstmængder.
+Specielt i forbindelse med arbejdspladsdatamater kan man komme ud for, at  
+
+ det er antallet af dokumenter og ikke den totale lagerkapacitet, som sætter  
+
+ grænsen for lagring på disketten.
+Det kan betyde, at det antal dokumenter,  
+
+ der kan oprettes på hver diskette, er så lille, at disketten kun kan fyldes  
+
+ halvt, med mindre hvert dokument er på mange sider.
+Sådanne »logiske  
+
+ begrænsninger« fremgår ikke altid af salgsmaterialet og kræver derfor  
+
+ særlig opmærksomhed.
+ Vurderingen af et systems samlede kapacitet må desuden ses i sammenhæng  
+
+ med svartiderne, dvs. systemets arbejdshastighed ved topbelastning.  
+
+ Svartiderne undersøges bedst ved en demonstration af det samlede system med  
+
+ realistiske datamængder og det ønskede antal brugere i samtidig aktivitet på  
+
+ systemet.
+ En god måde at få realistiske informationer om et systems kapacitet er at  
+
+ spørge en bruger, der har haft et system i drift så længe, at eventuelle  
+
+ indkøringsproblemer er overstået, og som har opsamlet erfaringsmateriale og  
+
+ holdninger til det samlede systems forinden under normal og topbelastning.  
+
+ Leverandørerne vil kunne opgive referencer.
+9.2 Udvidelsesmuligheder Med udvidelsesmuligheder menes både funktionelle og kapacitetsmæssige  
+
+ muligheder.
+Visse programmer består af en række moduler, der kan anskaffes  
+
+ særskilt.
+Dette åbner mulighed for at starte med nogle grundlæggende moduler  
+
+ og senere tilføje nye moduler og dermed funktioner til disse programmer,  
+
+ naturligvis forudsat at materiellet har - eller kan udbygges med -  
+
+ tilsvarende kapacitet.
+ Hvis mulighederne skal belyses, vil det altså være nødvendigt at få  
+
+ opklaret, hvilke krav til materiellet der stilles i forbindelse med senere  
+
+ tilføjelse afsådanne ekstra funktioner.
+Mange tekstbehandlingssystemer giver mulighed for fletning med data fra et  
+
+ kartotek.
+En del af disse kartoteker er opbygget, så data kan anvendes til  
+
+ andre formål, f.eks. danne grundlag for udtræk efter forskellige kriterier.  
+
+ Disse kartoteker eller registre giver således tekstbehandlingssystemet nogle  
+
+ ekstra anvendelsesmuligheder.
+ Desuden er der i nogle tekstbehandlingssystemer mulighed for at anvende  
+
+ grafiske præsentationer fra et grafikprogram som en del af tekstdokumentet.
+Sådanne muligheder vil man ofte begynde at udnytte, når  
+
+ tekstbehandlingssystemet har kørt i nogen tid.
+Der er altså tale om en  
+
+ funktionel udvidelse, som bør være med i billedet ved vurderingen.
+Hvis man allerede på anskaffelsestidspunktet kan se, at der bliver behov  
+
+ for større kapacitet, skal man sikre sig, at udstyret på et senere tidspunkt  
+
+ kan udbygges.
+Det er ikke givet, at de samme programmer kan køre på en større  
+
+ eller hurtigere datamat, selv ikke når den kommer fra samme leverandør.
+Denne  
+
+ opadtil-kompatibilitet er vigtig, da en hel eller delvis mangel herpå i  
+
+ værste fald vil betyde anskaffelse af nye programmer med heraffølgende  
+
+ omskoling af medarbejdere og i bedste fald vil betyde driftsforstyrrelser og  
+
+ ekstraomkostninger.
+Lige så vigtigt kan det være at sikre sig, at de dokumenter, der dannes  
+
+ under den første udgave af systemet, kan anvendes i efterfølgende udgaver  
+
+ uden vanskeligheder.
+Ofte vil leverandørerne kunne give en hensigtserklæring  
+
+ om denne kompatibilitet med kommende udgaver af systemet.
+9.3 Brugervenlighed Ved brugervenlighed menes både de fysiske forhold og systemets  
+
+ betjeningsvenlighed.
+ Afde fysiske forhold skal man bl.a. være opmærksom på, om udstyret støjer  
+
+ eller afgiver varme, og skærmenes og tastaturets udformning er af betydning  
+
+ for arbejdspladsens indretning og dermed bl.a. brugerens arbejdsstilling.
+Specielt hvad dataskærme angår, bør man være opmærksom på, om der  
+
+ foreligger målinger for stråling (lavfrekvent elektromagnetisk feltvariation  
+
+ og elektrostatisk felt) for den pågældende skærmtype, og hvor højt  
+
+ strålingsniveauet i givet fald angives at være.
+Der er ikke fastsat statslige  
+
+ grænseværdier for stråling, men der er enighed mellem  
+
+ personaleorganisationerne og Administrationsdepartementet om, at stråling fra  
+
+ dataskærme er en uønsket egenskab, der skal søges begrænset mest muligt,  
+
+ hvilket også forventes at ske som led i den teknologiske udvikling.
+I  
+
+ forbindelse med indgåelse af fremtidige statslige indkøbsaftaler for  
+
+ edb-udstyr vil der blive taget hensyn til skærmenes strålingsniveau.
+Med hensyn til betjeningsvenligheden skal man bl.a. være opmærksom på, om  
+
+ systemets reaktioner er vanskelige at gennemskue for brugeren, og om der kan  
+
+ være andre irritationsmomenter, som f.eks. en strengt hierarkisk  
+
+ menuopbygning af systemet uden mulighed for at springe direkte mellem  
+
+ forskellige funktioner.
+Det er en fordel, hvis brugeren har mulighed for at  
+
+ indrette systemet, så det er i overensstemmelse med den enkeltes arbejdsrytme  
+
+ og -metode.
+ Brugervenlighed er nærmere beskrevet i afsnit 7.
+9.4 Dokumentation I brugervejledningen og andre beskrivelser skal der være anvendt et let  
+
+ forståeligt dansk sprog.
+Der kan være stor forskel på en dansk tekst og en  
+
+ tekst oversat til dansk.
+En god dokumentation skal fungere både som opslagsværk (håndbog) og som  
+
+ generel beskrivelse (lærebog). Der bør være afsnit for nye brugere med  
+
+ beskrivelse af de almindeligste funktioner.
+For at fungere som opslagsværk  
+
+ for den erfarne bruger må dokumentationen være logisk struktureret og  
+
+ forsynet med gode indholdsfortegnelser og stikordsregistre.
+ Det er desuden en fordel, hvis man altid kan se sammenhængen mellem  
+
+ dokumentationen og skærmens meddelelser.
+Udarbejdelse af en god dokumentation er en væsentlig del af  
+
+ programudviklingen, omend den alt for ofte er forsømt, da denne del af  
+
+ arbejdet også koster tid og penge.
+Derfor kan tilstedeværelsen af god  
+
+ dokumentation som regel tages som et tegn på, at selve programmet også er  
+
+ tilsvarende gennemarbejdet.
+9.5 Integrationsmuligheder Hvis man vil udnytte en generel datamat til flere funktioner end  
+
+ tekstbehandling, kan det være ønskeligt, at programmerne kan benytte de samme  
+
+ data.
+F.eks. kan et fælles kunderegister for tekstbehandling og bogføring  
+
+ være af interesse.
+En anden nærliggende mulighed vil være at kombinere  
+
+ tekstbehandling med intern elektronisk post.
+ Ønsker man at anvende telex eller teletex, vil det være en fordel, at  
+
+ dokumenterne kan sendes og modtages direkte fra og til  
+
+ tekstbehandlingssystemet som telex- eller teletexmeddelelse, så de ikke skal  
+
+ genindskrives på en speciel terminal.
+9.6 Hvem har udviklet programmellet I udenlandske tekstbehandlingsprogrammer støder man stadig på problemer  
+
+ med æ, ø og å.
+Alene af den grund er det vigtigt at vide, om systemet er  
+
+ udviklet i Danmark eller i udlandet.
+ Det skal undersøges, om programmet kan håndtere danske bogstaver:
+- som almindelig tekst - ved konvertering mellem store og små bogstaver - i kommandoer og meddelelser - ved orddeling - til stavekontrol (dansk ordbog) - i dokumentnavne og -beskrivelser.
+Råd og vejledning i indkøringsperioden kan være meget værdifuld.
+Her kan  
+
+ den danske leverandør være til megen hjælp.
+Dette gælder selvfølgelig også  
+
+ det danske agentur, som leverer programmellet i Danmark.
+Det er ikke givet, at nye programversioner straks bliver oversat til  
+
+ dansk.
+Som regel vil den danske importør af programmet bestemme, om og i  
+
+ givet fald hvornår et system skal være tilgængeligt på dansk.
+De store internationale firmaer har betydelige udviklings- og  
+
+ vedligeholdelsesressourcer i ryggen, hvilket på længere sigt giver sikkerhed  
+
+ for kontinuitet og stabilitet.
+En dansk producent er til gengæld kendt med de  
+
+ danske forhold og er til at få fat på, hvis man har problemer.
+9.7 Vedligeholdelse og service Den enkelte leverandør vil ofte tilbyde flere former for  
+
+ vedligeholdelsesabonnement på materiel.
+F.eks. abonnementer med maksimalt 2,  
+
+ 4 eller 8 timers tilkaldetid for reparation, eller et abonnement, hvor  
+
+ brugeren selv må transportere udstyret til vedligeholderens værksted.  
+
+ Brugeren må, på grundlag af det skønnede behov for hurtig reparation  
+
+ sammenholdt med den vedligeholdelsesafgift man er villig til løbende at  
+
+ betale, vælge mellem de foreliggende muligheder.
+I nogle situationer, f.eks.  
+
+ hvis der alene anskaffes et par enkeltstående PC'er, bør det overvejes at  
+
+ lade udstyret reparere efter regning.
+Uanset hvor grundigt gennemarbejdet programmet måtte være, må man i  
+
+ praksis regne med, at det indeholder fejl, som måske først opdages i helt  
+
+ specielle situationer hos en bruger.
+Rettelser af sådanne fejl, løbende  
+
+ forbedring af programmets faciliteter og fordeling af disse rettelser til  
+
+ kunderne, som har købt kopier af programmet, kaldes programvedligeholdelse.
+ Meget få brugerbehov er så statiske, at man kan undvære en eller anden  
+
+ form for programvedligeholdelse.
+Det er vigtigt at fastslå, hvem der kan påtage sig denne løbende  
+
+ vedligeholdelse, samt hvilke former for aftaler vedkommende er villig til at  
+
+ indgå med kunden.
+Vedligeholdeise og service på programmel kan f.eks.  
+
+ omfatte:
+- rettelse af fejl - mulighed for telefonisk henvendelse til leverandørens  
+
+ serviceorganisation, når der opstår problemer (»hot line«) - mulighed for at tilkalde personer fra leverandørens serviceorganisation  
+
+ for at drøfte problemer - levering af nye versioner af programmet, uden særskilt betaling eller  
+
+ til nedsat pris - installation af nye versioner - uddannelse i brug af nye versioner.
+Det er i denne forbindelse vigtigt at erindre, at  
+
+ tekstbehandlingsprogrammel er standardprogrammel.
+Leverandøren vil måske  
+
+ afvise at rette konstaterede fejl hos den enkelte bruger, men først være  
+
+ villig til at rette fejl, når der udsendes en ny version til alle brugere.
+Er programmet udviklet i udlandet, har den danske importør måske slet ikke  
+
+ mulighed for selv at foretage fejlrettelse, men kan kun anmelde fejlen til  
+
+ producenten - med deraf følgende usikkerhed om, hvornår fejl vil blive  
+
+ rettet.
+Det kan derfor være en god idee, inden man anskaffer et bestemt  
+
+ tekstbehandlingssystem, at forhøre sig hos andre brugere af produktet, om  
+
+ disse har konstateret væsentlige fejl i den eksisterende version.
+Vælger man at undlade opdatering af programmellet til nye versioner, kan  
+
+ konsekvensen være, at det med tiden bliver umuligt at finde nogen med  
+
+ tilstrækkelig viden om systemet til, at det kan videreføres.
+Problemet kan  
+
+ f.eks. opstå, når tekstbehandlingsudstyret er forældet og skal udskiftes.
+I  
+
+ værste fald kan det biive nødvendigt at kasssere det gamle program og købe et  
+
+ nyt med fare for, at tekster fra det gamle system ikke kan bruges uden en ny  
+
+ manuel indskrivning.
+Desuden kan der opstå oplæringsproblemer ved overgang  
+
+ til et nyt system.
+Den bedste sikkerhed for løbende vedligeholdelse får man ved at tegne et  
+
+ vedligeholdelsesabonnement.
+I den enkelte situation må prisen for et  
+
+ abonnement vejes op mod de ulemper og omkostninger, der vil opstå ved at  
+
+ undlade at betale for en løbende vedligeholdelse.
+Faktorer, som indgår i en  
+
+ sådan vurdering, kan være:
+- investeringens størrelse - antallet af berørte arbejdspladser - sikkerhed for at kunne bevare og videreføre tekster og data under et  
+
+ senere system - omkostningerne ved at kassere et system og anskaffe et nyt - systemets forventede levetid.
+ Et vedligeholdelsesabonnement koster en fast løbende afgift, men  
+
+ forpligter til gengæld leverandøren til at opretholde de nødvendige  
+
+ ressourcer - hovedsageligt i form af uddannet personale.
+9.8 Træning og uddannelse i betjening Som beskrevet i afsnit 4 er uddannelse og træning en vigtig del i alle  
+
+ faser afet anskaffelsesforløb.
+ Hvilken form for uddannelse er leverandøren indstillet på at yde? Hvis  
+
+ svaret er ingen eller under en dags tid - som regel med henvisning til, at  
+
+ systemet er »»selvforklarende« - får spørgsmålene om systemets  
+
+ betjeningsvenlighed og dokumentationens kvalitet forhøjet prioritet.
+Til nogle programmer kan der købes en diskette med undervisningsmateriale.  
+
+ Enkelte leverandører og firmaer, der har specialiseret sig i uddannelse,  
+
+ afholder korte kurser.
+Uddannelse i disketteadministration vil også være en  
+
+ god idee, hvis ikke de voksende datamængder skal ende i totalt kaos.
+ Ved flerbrugersystemer skal man også sørge for uddannelse af personale til  
+
+ den daglige drift, sikkerhedskopiering m.v. (systemadministratorer). Det skal  
+
+ dog understreges, at et mini- eller mikrodatamat baseret etb-system ikke bør  
+
+ kræve, at der opbygges en egentlig edb-organisation.
+Det er vigtigt, at der efter nogen tids brug er lejlighed til at drøfte  
+
+ tvivlsspørgsmål med leverandøren og at få undervisning i avanceret brug af  
+
+ systemet.
+I modsat fald risikerer man, at kun en meget begrænset del af  
+
+ systemets faciliteter udnyttes af brugerne.
+9.9 Leverandørens stabilitet Som det fremgår af ovenstående, er man i nogen grad afhængig af  
+
+ leverandørens stabilitet, dvs. vilje og evne til at yde teknisk bistand, også  
+
+ ud over salgssituationen.
+Den bedste måde at vurdere, om en leverandør er  
+
+ seriøs, vil være at bede om referencer til andre kunder.
+Leverandørens økonomiske stabilitet kan man få indtryk af gennem firmaets  
+
+ seneste årsregnskaber og beretninger.
+Er det et firma i fremgang? Er  
+
+ størrelsen betryggende? Er der lokal repræsentation af firmaet? 9.10 Omkostninger Det må undersøges, hvor meget af de enkelte ydelser, der er inkluderet i  
+
+ selve anskaffelsesprisen, og hvor mange omkostninger man derudover må regne  
+
+ med.
+Prisen skal derfor specificeres for henholdsvis anskaffelse,  
+
+ vedligeholdelse, installation, dokumentation og undervisning og desuden  
+
+ indeholde særlig angivelse af, hvad der er - og specielt ikke er - inkluderet  
+
+ i disse priser.
+ Det er vigtigt at gøre sig klart, at »»følgeomkostninger« i  
+
+ form af omkostninger til uddannelse, lokaleindretning, vedligeholdelse m.m.  
+
+ kan udgøre betydelige beløb set i forhold til udgifterne til anskaffelse af  
+
+ materiel og programmel.
+10. Udstyr til elektronisk tekstbehandling Tekstbehandlingsudstyr kan groft opdeles i tre grundtyper:
+- tekstbehandlingsanlæg (enkeltstående eller flerbrugeranlæg) - tekstbehandling på en generel arbejdspladsdatamat (PC) - tekstbehandling på en lokaldatamat (generel flerbruger mini- eller  
+
+ mikrodatamat).
+10.1 Tekstbehandlingsanlæg Tekstbehandlingsanlæg findes til een eller flere brugere.
+Der er tale om  
+
+ systemer udviklet specifikt til tekstbehandling, og såvel programmel som  
+
+ materiel er udformet til at udgøre en tekstbehandlingsarbejdsplads.
+På  
+
+ tekstbehandlingsanlæg er tastaturet udformet med henblik på de mange  
+
+ specielle tekstbehandlingsfunktioner, og indgraveringen på den enkelte tast  
+
+ angiver ofte direkte tastens funktion.
+ Der er en glidende overgang fra den avancerede elektroniske skrivemaskine  
+
+ til egentlige tekstbehandlingsanlæg, idet nogle skrivemaskiner i dag kan  
+
+ udbygges med internt lager, diskettestationer, skærm etc.
+Tidligere har tekstbehandlingsanlæg være vanskelige at indpasse i samlede  
+
+ edb-løsninger, idet denne type udstyr kun i ringe grad har været præget af  
+
+ standardisering.
+Der kommer imidlertid flere og flere typer  
+
+ tekstbehandlingsanlæg, som kan kommunikere med og overføre tekst til andre  
+
+ systemer, også hvor der er tale om systemer af forskellige fabrikater.
+10.2 Arbejdspladsdatamat Arbejdspladsdatamaten - med synonymerne den personlige datamat, Personal  
+
+ Computer eller PC - er i dag relativ billig.
+Den er generelt anvendelig, dvs.  
+
+ at mange forskellige programmer kan afvikles på den.
+Primært anvendes  
+
+ standardprogrammer, der er generelt anvendelige værktøjer for den enkelte  
+
+ bruger, f.eks. tekstbehandling, regneark og databaser, og sekundært færdige  
+
+ løsninger på specielle problemer.
+På en generelt anvendelig datamat skifter funktionstasterne ofte  
+
+ betydning, afhængig af det program der anvendes.
+Som regel følger der en  
+
+ skabelon eller lignende med det enkelte program.
+Denne er tilpasset til  
+
+ funktionstasterne på tastaturet og angiver den funktion, der er knyttet til  
+
+ den enkelte tast eller tastkombination.
+Arbejdspladsdatamaten er beregnet til anvendelse af een person og til  
+
+ lagring af denne persons tekster, beregningsmodeller, databasesystemer,  
+
+ programmer og data.
+Der findes dog tekstbehandlingsprogrammer, som kan  
+
+ anvendes fra et antal PC'er bundet sammen i et lokalnet.
+10.3 Lokaldatamat Lokaldatamaten - den generelle flerbruger mini- eller mikrodatamat - kan  
+
+ ligesom arbejdspladsdatamaten både udføre tekstbehandlingsopgaver og andre  
+
+ opgaver.
+Der er tale om maskinel med større kapacitet end arbejdspladsdatamater og  
+
+ til anvendelse for mere end een bruger ad gangen.
+Desuden er der både  
+
+ mulighed for en bedre beskyttelse af data, og for nem udveksling af tekster  
+
+ mellem brugerne ved anvendelse af fælles program og fælles disk-enhed.
+10.4 Skriver-udstyr Ved udskrivning af tekster stilles typisk krav om en høj skriftkvalitet.  
+
+ Dette gælder ikke alene for dokumenter, der skal sendes ud af huset som  
+
+ breve.
+Ofte stilles der også krav om høj udskriftskvalitet for interne  
+
+ notater og lignende.
+Der er i dag mulighed for at anskaffe flere forskellige typer skrivere  
+
+ (printere) til brug i forbindelse med tekstbehandling.
+De forskellige typer  
+
+ og fabrikater varierer betydeligt i henseende til faktorer som  
+
+ udskriftskvalitet, pris, støjniveau, driftssikkerhed m.m.
+Den traditionelle etb-skriver har været og er stadig skønskriftskriveren  
+
+ (typehjulsskriveren), der udskriver tegn ved hjælp af et skrivehjul magen til  
+
+ det, der anvendes i en moderne elektrisk skrivemaskine.
+Skriftkvaliteten  
+
+ svarer til den, der fås på en elektrisk skrivemaskine.
+Papirfremføringen kan  
+
+ ske ved hjælp af en »»traktor-føder«», der styrer papir i  
+
+ »»endeløse baner«», men sker hyppigst ved hjælp af en  
+
+ »arkføder«, der henter enkeltark fra en eller flere papirbakker,  
+
+ hvorafen f.eks. kan indeholde brevpapir med fortryk og en anden blankt papir.
+Skønskriftskrivere kan dog have flere ulemper.
+De er forholdsvis  
+
+ langsomme, ofte under en side pr. minut, og prisen stiger i takt med  
+
+ udskrivningshastigheden.
+Desuden kan disse skrivere kun bruges til  
+
+ fremstilling af skrifttegn (bogstaver, tal og specialtegn), men kan - i  
+
+ modsætning til øvrige skrivertyper nævnt i dette afsnit - ikke bruges til  
+
+ grafiske udskrifter.
+Matrix-skriveren frembringer tegn m.v. ved hjælp af et antal nåle, der  
+
+ hver afsætter en prik i et bestemt mønster.
+Denne type skriver er generelt  
+
+ billigere end skønskriftskrivere.
+Udskriftskvaliteten afhænger af det antal  
+
+ nåleprikker, der bruges til at danne et tegn.
+»Normal« matrix-udskrift vil ikke være acceptabel til f.eks.  
+
+ korrespondance, men de bedste matrixprintere kan i dag frembringe udskrifter  
+
+ i »brevkvalitet«, der næsten er på højde med udskriften fra en  
+
+ skønskriftskriver.
+For at frembringe sådanne udskrifter, må matrix-skrivere -  
+
+ der ellers er væsentligt hurtigere end skønskriftskrivere - dog nedsætte  
+
+ udskriftshastigheden betydeligt.
+Matrix-skrivere har under alle omstændigheder interesse i forbindelse med  
+
+ tekstbehandling, hvis der kan tilsluttes flere skrivere til etb-systemet.
+Den  
+
+ første udskrift af en tekst vil ofte kun være en kladde, og en udskrift af  
+
+ forholdsvis ringe kvalitet kan derfor meget vel være brugbar.
+Skønskriftskriveren og matrix-skriveren frembringer begge et højt  
+
+ støjniveau.
+De må derfor enten anbringes i lyddæmpende støjkabinetter eller  
+
+ samles i et lokale, hvor mennesker ikke opholder sig.
+I de seneste år er der fremkommet nye typer af skrivere, som næsten ikke  
+
+ støjer.
+Her skal nævnes blæksprøjteskriveren og laserskriveren.
+Blæksprøjte-skriveren (jet-ink printeren) danner et mønster af blækprikker  
+
+ på papiret, jfr. matrix-skriveren.
+Denne form for skriver er i dag primært et  
+
+ alternativ til den traditionelle matrix-skriver.
+De bedste skrivere af denne  
+
+ type kan dog frembringe udskrifter af høj kvalitet.
+Laserskriveren overfører tekst til papiret ved hjælp af et elektrostatisk  
+
+ princip og laserteknik.
+Denne type skriver er hurtig (op til 10 A4 sider pr.  
+
+ minut for de billigstes vedkommende) og frembringer udskrifter af høj  
+
+ kvalitet, men kan have miljømæssige ulemper, f.eks. i form af udsendelse af  
+
+ skadelige luftarter.
+I det omfang det nødvendige programmel findes, vil der  
+
+ være mulighed for valg mellem mange skrifttyper, grafiske udskrifter, tryk af  
+
+ egne blanketter med logo etc.
+Laser-skriveren er i øjeblikket noget dyrere  
+
+ end skønskriftskrivere, hvilket medfører, at flere personer må deles om samme  
+
+ skriver: men det forventes, at prisen på laserskrivere vil falde i de  
+
+ kommende år.
+Med materiel og programmel, der kan kombinere tekst, grafik og udskrifter  
+
+ afhøj kvalitet, vil det være muligt at frembringe dokumenter, som eventuelt  
+
+ kan mangfoldiggøres umiddelbart, således at man kan undgå omkostninger til  
+
+ satsfremstiiling og trykning.
+Man skal dog være opmærksom på, at  
+
+ »»høj« skriftkvalitet fra en laser-skriver til elektronisk  
+
+ tekstbehandling ikke nødvendigvis er af samme kvalitet som tryk fra et  
+
+ professionelt trykkeri.
+ På lidt længere sigt vil laser-skriveren formentlig afløse  
+
+ typehjulsskriveren som etb-skriver, men i de kommende år vil man opleve en  
+
+ hastig udvikling på skriver-området, herunder udvikling og markedsføring af  
+
+ andre typer skrivere end de ovenfor omtalte.
+Ved valg af skrivere til tekstbehandling bør der ikke alene ses på  
+
+ anskaffelsesprisen.
+Man bør tillige søge oplyst, hvilke driftsudgifter den  
+
+ enkelte skriver vil påføre institutionen i form af udgifter til  
+
+ vedligeholdelse og til forbrugsvarer såsom farvebånd, skrivehjul samt, for de  
+
+ nye skrivertypers vedkommende, dele der skal udskiftes efter udskrift af et  
+
+ vist antal sider.
+På basis af leverandørens oplysninger vil der kunne  
+
+ udregnes en ca. pris pr. udskrevet A4-side for hver type skriver.
+Hvis skrivere ikke anskaffes fra leverandøren af øvrigt materiel og  
+
+ programmel, må køber være meget opmærksom på, om det valgte etb-system  
+
+ »understøtter« de(n) skriver(e), som man ønsker at anskaffe.
+I  
+
+ modsat fald kan der blive tale om, at man må give afkald på værdifulde  
+
+ faciliteter i forbindelse med udskrivning af dokumenterne.
+10.5 Valg af udstyr og leverandør Det primære er, om systemet opfylder de funktionelle krav og ønsker.
+Disse  
+
+ retter sig hovedsagelig mod programmellets funktioner, og valg af udstyr  
+
+ kommer derfor i anden række.
+Mange standard tekstbehandlingsprogrammer til  
+
+ PC'er kan bruges på udstyr fra et stort antal leverandører, da disse anvender  
+
+ samme styresystem m.v., medens der endnu ikke er helt så store  
+
+ valgmuligheder, når det drejer sig om lokaldatamater.
+ Det må generelt frarådes at anskaffe tekstbehandlingsanlæg, som  
+
+ udelukkende er anvendelige tii tekstbehandling, da dette udstyr vil lægge  
+
+ begrænsninger på fremtidige integrerede løsninger til kontorautomatisering.
+Staten har indgået aftaler om lokaldatamater, dataskærme,  
+
+ arbejdspladsdatamater (PC'er) og skrivere.
+Oplysning om disse aftaler kan fås  
+
+ hos Direktoratet for Statens Indkøb.
+11. Installation af tekstbehandlingsudstyr Allerede på et meget tidligt tidspunkt i anskaffelsesforløbet skal de  
+
+ efterfølgende planlægnings- og installationsaktiviteter igangsættes.
+11.1 Leverandørens gennemgang af lokalerne Afhængig af installationens omfang gennemgår leverandøren eventuelt  
+
+ lokalerne med henblik på at undersøge forhold, der kan påvirke  
+
+ installationen.
+Med leverandørens kendskab til maskinens krav til plads,  
+
+ såvel i form afgulvareal som i form af rumindhold i lokalet, krav til køling  
+
+ m.v., er der mulighed for at få den bedst mulige udnyttelse af de lokaler,  
+
+ der er til rådighed for installationen.
+Gennemgangen bør foretages, inden  
+
+ endelig købsbeslutning træffes.
+11.2 lnstallationsplan I god tid inden installationen skal den fysiske installation planlægges.  
+
+ Dette sker bedst ved at indtegne udstyrets placering på en tegning over  
+
+ lokalerne/bygningen.
+I samarbejde med leverandøren indtegnes den nødvendige  
+
+ kabelføring, og håndværkerne bestilles.
+Det typiske arbejde i forbindelse med  
+
+ en ny tekstbehandlingsinstallation vil bestå i:
+- kabeltræk Dette arbejde giver ofte støj- og støvgener.
+Hvis der er tale om  
+
+ nyindrettede lokaler, vil det derfor være hensigtsmæssigt at foretage  
+
+ arbejdet, inden lokaler færdigindrettes.
+- nye el-installationer En eller flere nye grupper kan blive nødvendige, hvis man vil undgå  
+
+ jævnlige driftsstop på grund af sprængte sikringer.
+Desuden skal edb- og  
+
+ etbudstyr ofte være forbundet til jord.
+ Installationen må tage hensyn til vinduer og lys samt varmeudvikling fra  
+
+ skærmene.
+-installation af skrivere Skrivere overholder sjældent krav til et rimeligt lavt støjniveau.
+De bør  
+
+ derfor afskærmes eller anbringes i et andet lokale.
+Ovenstående er ikke udtømmende, og der henvises til Arbejdstilsynets  
+
+ meddelelse nr. 4.04.4, »Vejledning om arbejde ved skærmterminaler«,  
+
+ samt anden relevant litteratur om emnet.
+Se litteraturlisten.
+11.3 Indretning af arbejdsplads Ved indretning af enhver type arbejdsplads bør der tages ergonomiske  
+
+ hensyn.
+Der kan være behov for at få ekspertbistand fra en fysioterapeut  
+
+ eller lign. med speciale i ergonomiske forhold på kontorarbejdspladsen.
+Et  
+
+ ønske om en sådan bistand kan f.eks. diskuteres i teknologiudvalget.
+Man bør  
+
+ være opmærksom på, at udgifter til indretning af arbejdspladsen kan være af  
+
+ betydeligt omfang.
+ Nogle af de grundlæggende hensyn ved arbejdspladsens indretning er:
+ - planlægning af udstyrets placering under hensyntagen til lokalets  
+
+ orientering i forhold til lys og sol samt til bestående installationer m.v.
+- maling af lokaler, hvor udstyr skal installeres.
+Samspillet mellem  
+
+ farver og lys på og omkring dataskærmen har afgørende indflydelse på forhold  
+
+ som blænding, træthed, fysisk velvære m.m.
+- anskaffelse og installation af belysning.
+Loftsbelysning og  
+
+ lokalebelysning ved den enkelte arbejdsplads skaber tilsammen en rimelig  
+
+ fordeling aflyset i arbejdslokalet.
+Dårlig belysning eller reflekterende lys i  
+
+ dataskærmen kan give anledning til træthed, hovedpine, muskelsmerter m.m. -  
+
+ anskaffelse af møbler.
+Terminalborde og stole skal kunne tilpasses i højde og hældning til den person, der skal arbejde ved dem.
+11.4 Indretning af maskinrum Skal større flerbrugerdatainater installeres, kan der være behov for  
+
+ indretning af et egentligt maskinrum.
+ Ud over de nævnte forhold skal der ved denne indretning tages hensyn til:
+- øvrige installationer.
+Af hensyn til eventuelle vandskader bør det  
+
+ undgås at etablere edb-rum lige under vandinstallationer på etagerne  
+
+ ovenover.
+- udstyrets vægt.
+Det bør undersøges, hvilken vægt bygningen kan bære pr.  
+
+ kvadratmeter.
+Både datamaskiner og pladelagre kan være meget tunge, så der  
+
+ kan være risiko for, at gulvet ikke kan bære udstyret, eller at hele  
+
+ bygningen synker.
+- vibrationer fra pladelagre, skrivere m.m.
+Specielt i gamle bygninger bør  
+
+ det undersøges, om bygningerne skal forstærkes, inden tungt, vibrerende  
+
+ materiel installeres.
+- behov for køleanlæg.
+Selv om meget etb-udstyr i princippet kan  
+
+ installeres uden køling af hensyn til elektronikken, kan det alligevel være  
+
+ nødvendigt at køle af hensyn til mennesker.
+Kølebehovet må derfor altid  
+
+ vurderes.
+- lokalets orientering.
+Store vinduer i solsider bør afskærmes, hvis et  
+
+ bedre egnet lokale ikke kan findes.
+BILAG Bilag 1 Standarder for tegnsæt I afsnit 3 i denne vejledning angives de standarder med relation til  
+
+ tekstbehandling og tekstkommunikation, som det i øjeblikket anbefales  
+
+ statsinstitutioner at følge.
+I afsnit 8 omtales de områder, hvor der er tilvejebragt eller arbejdes på  
+
+ at tilvejebringe standarder.
+For en mere teknisk præget gennemgang af  
+
+ problemerne i forbindelse med dokumentformater, dokumentoverførsel og  
+
+ datakommunikation henvises til foranalysen om datakommunikation i  
+
+ centraladministrationen, jfr. litteraturlisten.
+Foranalyserapporten gennemgår  
+
+ imidlertid ikke standarder for tegnsæt, som derfor omtales kort i dette  
+
+ bilag.
+Standarder for tegnsæt 1. 7-bit kodet tegnsæt for informationsudveksling -  
+
+ ASCII eller ISO 646 og dansk version DS 646 Dette er den ældste og mest udbredte standard for tegnsæt i forbindelse  
+
+ med edb.
+ASCII står for American Standard Code for Information Interchange og  
+
+ er den amerikanske udgave af den internationale 7-bit kode.
+ASCII findes dog  
+
+ også i en 6-bit version + en hel del leverandørvarianter, herunder nogle  
+
+ 8-bit versioner.
+ ISO 646 foreligger i en dansk version DS 646, som inkluderer de danske  
+
+ tegn (æ, ø og å). I øvrigt er de nævnte standarder næsten identiske.
+7 bit giver kodemuligheder for op til 128 tegn, i ISO 646 95 grafiske tegn  
+
+ og 33 styretegn.
+Da 128 tegn til nogle anvendelser er utilstrækkeligt, er der  
+
+ i tegnsættet indeholdt styretegn, som giver mulighed for kodeudvidelse.  
+
+ Procedurer for en sådan kodeudvidelse er specificeret i en standard med  
+
+ nummer ISO 2022.
+ 2. 8-bit kodet tegnsæt for informationsudveksling -  
+
+ ISO 4873 Denne standard specificerer en 8-bit kode, som er afledt af og i  
+
+ overensstemmelse med 7-bit koden specificeret i ISO 646.
+Dette tegnsæt er primært beregnet på generel informationsudveksling med  
+
+ anvendelse af 8-bit bytes mellem databehandlingssystemer og tilsluttet udstyr  
+
+ samt i datakommunikationssystemer.
+Tegnsættet inkluderer de 52 store og små  
+
+ bogstaver i det basale latinske alfabet og giver mulighed for at inkludere  
+
+ bogstaver med accenter, specielle varianter af de latinske bogstaver og/eller  
+
+ bogstaver fra et eller flere ikke latinske alfabeter.
+ ISO 8859 beskriver versioner af denne kode, idet ISO 4873 indeholder dels  
+
+ nogle tegn, som kodemæssigt er låst fast, og dels nogle koder, som f.eks. kan  
+
+ vælges til at repræsentere nationale tegnvarianter.
+3. 8-bit enkelt byte kodet grafisk karaktersæt - ISO  
+
+ 8859 Denne internationale standard består af flere dele (i dag er 2 fastlagt),  
+
+ som hver kan specificere et sæt af grafiske karakterer og deres  
+
+ koderepræsentation i en enkelt 8-bit byte.
+Hver del af denne standard dækker  
+
+ et sprogområde.
+Del I, som betegnes latinsk alfabet nr. 1, dækker bl.a.  
+
+ Danmark.
+4. Kodede karaktersæt for tekstkommunikation - ISO  
+
+ 6937 Denne internationale standard definerer et sæt af latinske alfabetiske og  
+
+ ikke alfabetiske tegn til brug for kommunikation af tekst på europæiske  
+
+ sprog.
+Denne standard er mere omfattende end ISO 8859 og indeholder ikke kun  
+
+ »»færdige« enkelttegn, men også tegnenes bestanddele.
+Derfor  
+
+ kan nye sammensatte tegn produceres.
+Desuden er antallet af grafiske tegn  
+
+ ikke som i ISO 8859 begrænset til 191. Der er standardiserede mekanismer til  
+
+ at angive alle mulige sæt af variationer i det latinske alfabet.
+ISO 8859 kan  
+
+ betegnes som en delmængde af ISO 6937.
+5. TELETEX-tegnkode - CCITT T.61 Tegnkoden i TELETEX bygger på ISO 6937. Koden er fastlagt af de  
+
+ internationale teleorganisationer og definerer 309 forskellige tegn, som  
+
+ TELETEX-udstyr skal kunne udskrive.
+Dette store tegnsæt gør det muligt at  
+
+ gengive dokumenter skrevet på et stort antal sprog med bibeholdelse af alle  
+
+ specielle nationale bogstaver og accenter.
+Der er endvidere defineret 10  
+
+ styretegn.
+Disse anvendes både til enkle kontrolfunktioner (linieskift,  
+
+ vognretur m.v.), og til at markere starten af særlige kontrolsekvenser, der  
+
+ f.eks. angiver horisontal eller vertikal skrivning på papiret eller antal  
+
+ tegn pr. cm.
+6. EBCDIC (Extended Binary Coded Decimal Interchange Dette er IBM's 8-bit standardtegnsæt, der anvendes både internt og  
+
+ eksternt i forbindelse med næsten samtlige IBM-produkter.
+Afhængigt af  
+
+ udstyr, kommunikationsform og aktuelt anvendelsesprogram er der mulighed for  
+
+ anvendelse af en større eller mindre del af det totale EBCDIC tegnsæt.
+ IBM PC'er udgør en undtagelse fra reglen om anvendelse af EBCDIC, idet de  
+
+ anvender 8-bit ASCII-kode.
+ Specielt om tekstdatabaser:
+ I forbindelse med tekstdatabaser, der skal kunne anvendes fra flere  
+
+ forskellige terminaltyper, måske på tværs af landegrænser, kan der være behov  
+
+ for specielle EBCDIC tegnsæt.
+Det vil være en fordel at kunne vise alle disse tegn på skærm/skriver og  
+
+ at kunne føde tekstdatabaser med relevante tegnsæt.
+Det bør derfor søges  
+
+ oplyst, hvilken udgave af EBCDIC tegnsættet et givet  
+
+ databasevedligeholdelsessystem arbejder med, samt sikres, at leverandøren af  
+
+ et tekstbehandlingssystem kan levere dette.
+Bilag 2 Checkliste Denne checkliste indeholder en oversigt over tekstbehandlingsfunktioner og  
+
+ andre forhold, der kan komme i betragtning ved valg af system.
+Listen kan bruges som udgangspunkt, når et givet system skal vurderes i en  
+
+ anskaffelsessituation.
+I den enkelte situation må kravene bearbejdes,  
+
+ prioriteres og eventuelt suppleres med yderligere krav, idet listen ikke kan  
+
+ betragtes som en fuldstændig oversigt over mulige funktioner i et  
+
+ tekstbehandlingssystem.
+Det er ikke tilstrækkeligt at konstatere, at en bestemt funktion findes.  
+
+ Man må også foretage en kvalitativ vurdering, dvs. se på, hvor vel udbygget  
+
+ funktionen er, hvor let den er at lære og at huske, og hvor let den vil være  
+
+ at anvende i det daglige.
+Det vil derfor ikke være hensigtsmæssigt blot at  
+
+ bruge listen som en afkrydsningsliste for, om en bestemt funktion findes i  
+
+ systemet.
+I stedet bør kravene til de enkelte funktioner så vidt muligt  
+
+ præciseres på forhånd.
+De omtalte funktioner bør heller ikke betragtes som ligeværdige.
+Nogle  
+
+ funktioner har karakter af grundlæggende tekstbehandlingsfunktioner, hvis  
+
+ tilstedeværelse og udformning vil have afgørende betydning for systemets  
+
+ værdi, medens andre i højere grad vil have karakter af raffinementer.
+Et  
+
+ givet system bør derfor på ingen måde fravælges, fordi det ikke indeholder  
+
+ alle de funktioner, der er opregnet i checklisten.
+ De forhold, der omtales i det følgende, kan eventuelt prioriteres som:
+1. Krav 2. Ønsker Ved valget af tekstbehandlingssystem kan der startes med en vurdering og  
+
+ frasortering på grundlag af de ufravigelige krav.
+De resterende muligheder  
+
+ vurderes derefter i forhold til hinanden, dels ud fra en vurdering af, i  
+
+ hvilket omfang ønsker kan opfyldes, og dels ud fra kvaliteten af  
+
+ kravopfyldelsen.
+Checklisten er opdelt i fire hovedområder:
+1. Generelle krav 2. Funktionskrav 3. Edb-tekniske krav 4. Betjeningskrav.
+1. Generelle krav 1.1 Uddannelse Tilbud om uddannelse på flere niveauer, hyppig afholdelse af kurser.
+ Mulighed for at rekvirere kurser uden for leverandørens kursusplan,  
+
+ herunder kurser som holdes hos kunden.
+ Selvstudiekurser, eventuelt datamatstøttet.
+ Dansksproget dokumentation, som indeholder lærebogsafsnit til selvstudier.
+ Rimelige kursuspriser.
+1.2 Service Afstand til serviceteknikere og garanterede tilkaldetider for teknisk  
+
+ fejlretning og reparation.
+ Rådgivningsservice på programmel.
+ Vedligeholdelse og opdatering af programmel.
+1.3 Leverandørforhold Produktion, filial, kontor eller agentur i Danmark.
+ Firmaets størrelse og produktets markedsandel.
+ Leverandørens udviklingspotentiale og fortsatte eksistens på markedet.
+ Systemets forventede sammenhæng med fremtidige produkter (materiel og  
+
+ programmel), herunder nuværende og erklærede fremtidige  
+
+ standardiseringsbestræbelser.
+ Tilliden til leverandøren og dennes hensigter.
+ Dansksproget dokumentation for alle produkter.
+2. Funktionskrav 2.1 Generelt 2. 1.1 Funktionstaster Hensigtsmæssig anvendelse af funktionstaster til at aktivere de hyppigst  
+
+ anvendte funktioner.
+2. 1.2 Hjælpefunktion Mulighed for under arbejdet at kalde en hjælpefunktion, som på dansk giver  
+
+ en kort vejledning om den aktuelle funktion.
+2. 1.3 Fortrydelsesfunktion Mulighed for at fortryde en eller flere af de sidst foretagne kommandoer  
+
+ og automatisk vende tilbage til tilstanden før disse.
+2.1.4 Positionsangivelse for skrivemarkøren Mulighed for at kunne se på hvilket sted i dokumentet, der aktuelt skrives  
+
+ (side, linje, kolonne).
+2.1.5 »Makroer« Mulighed for selv at definere en kæde af funktioner og lagre denne  
+
+ »makro«, så den hurtigt kan aktiveres.
+2.1.6 Dokumentstørrelse Det maksimale antal sider, linjer eller tegn, der kan lagres som eet  
+
+ dokument.
+2.1.7 Side- eller dokumentorienteret system Er systemet orienteret mod behandling af enkeltsider - eller mod  
+
+ behandling af (flersidede) dokumenter som eet sammenhængende dokument,  
+
+ således at brugeren i mindre grad behøver at bekymre sig om sideskift,  
+
+ flytning aftekst fra een side til en anden etc.
+2.1.8 Kartoteksfunktion Programmondul til opbygning af kartoteker med henblik på indfletning af  
+
+ data i tekster, f.eks. navne og adresser.
+Mulighed for sortering af data  
+
+ efter forskellige kriterier, f.eks. alfabetisk, eller mulighed for udsøgning  
+
+ af registrerede enheder efter forskellige kriterier.
+2.1.9 Grafisk eller semi-grafik Mulighed for grafiske fremstillinger i teksten i form af diagrammer eller  
+
+ egentlige tegninger.
+ Mulighed for visning på skærmen af forskellige skrifttyper (store hhv. små  
+
+ typer, kursiv etc.).
+ Mulighed for brug af semigrafiske virkemidler, f.eks. lodrette og  
+
+ vandrette streger, som kan bruges til tegning af firkanter med korrekt  
+
+ tegnede hjørner.
+2.1.10 Samtidig bearbejdning af flere dokumenter Mulighed for at arbejde med flere dokumenter samtidigt, f.eks. ved  
+
+ opsplitning af skærmen i »vinduer«, således at to eller flere  
+
+ dokumenter vises på een gang.
+2.2 Indskrivning 2.2.1 Dansk tegnsæt De danske bogstaver æ, ø og å skal være til stede på den normale plads på  
+
+ tastaturet, kunne vises på skærmen og udskrives på papir.
+2.2.2 Tabulering og margin Mulighed for forskellige former for tabulering, f.eks. alfabetisk  
+
+ tabulering (venstrestillet), numerisk tabulering (højrestillet) og decimal  
+
+ tabulering (centrering omkring decimalkomma, eventuelt valgfrihed mellem  
+
+ »,» og ».« som decimalpunkt).
+ Mulighed for at kunne aflæse tabuleringsindstilling og marginsætning  
+
+ gældende for den aktuelle skrivelinje.
+2.2.3 Skrivning i venstre margin område Mulighed for at undertrykke afgrænsningen for venstre margin, således at  
+
+ der kan skrives f.eks. bilagstegn i venstre margin område.
+Mulighed for at  
+
+ sikre, at tegn i venstre margin område, f.eks. afsnitsnumre, forbliver i  
+
+ marginområdet efter en eventuel reformatering af teksten. 2.2.4 Ændring af  
+
+ layout under skrivning Mulighed for frit at ændre layout under indskrivningen, f.eks. midlertidig  
+
+ venstre margin, ændring af linjeafstand eller tabuleringer.
+ 2.2.5 Centrering m. m.
+ Mulighed for at centrere teksten midt på linjen, omkring et vilkårligt  
+
+ punkt på linjen eller »flugtende« med højre margin.
+2.2.6 Masker Mulighed for at definere og gemme masker, f.eks. i form af  
+
+ brevopstillinger eller blanketter, som kan hentes og være grundlag for  
+
+ udarbejdelse af et nyt dokument.
+ Mulighed for at kunne indsætte ledetekster på skærmen, som ikke udskrives  
+
+ på papir, men som vejleder ved udfyldning af maske.
+ 2.2.7 Hurtig indsætning af meget brugte ord eller standardvendinger  
+
+ Mulighed for at kunne indsætte lagrede ord eller standardvendinger ved nogle  
+
+ få tastaturtryk.
+2.2.8 Fletning Mulighed for at flette en variabel tekst ind i et standarddokument, f.eks.  
+
+ indsætte variabel tekst bestemte steder i et dokument med inddata fra  
+
+ tastatur eller flette navne og adresser fra et navnekartotek ind i et brev.
+2.2.9 Sammenredigering Mulighed for at kopiere dele af dokumenter til et andet dokument, hvor  
+
+ de(t) indsættes og bliver en del af teksten.
+2.2.10 Automatisk linjeskift Mulighed for automatisk linjeskift, så ord, der ikke kan være på linjen,  
+
+ automatisk flyttes til næste linje.
+2.2.11 Orddeling Mulighed for at indsætte skjulte (»bløde«) bindestreger, som kun  
+
+ vises, når ordet deles ved slutningen af en linje, og som forsvinder igen,  
+
+ hvis ordet efter en ombrydning af teksten ikke længere deles.
+ Automatisk orddeling på grundlag af grammatiske regler og/eller ordbog  
+
+ eller halvautomatisk orddeling, således at systemet foreslår en orddeling,  
+
+ hvorefter operatøren enten kan acceptere eller flytte den bløde bindestreg.  
+
+ Mulighed for at sætte orddelingsfunktion ud af kraft.
+2.2.12 Top- og bundmargin tekster Mulighed for at definere tekster, som skrives i top- eller bundmargin på  
+
+ hver side, enten den samme på alle sider eller valgfrit med een tekst på lige  
+
+ og een tekst på ulige sider.
+ Mulighed for at ændre tekster i top- eller bundmargin efter et vilkårligt  
+
+ sideskift.
+2.2.13 Sideskift Automatisk sideskift på grundlag af valg af sidestørrelse.
+Mulighed for at  
+
+ undertrykke det automatiske sideskift ved manuelt indsat (tvungent)  
+
+ sideskift.
+2.2.14 Sidenummerering Mulighed for automatisk sidenummerering enten startende fra side 1 eller  
+
+ fra et valgfrit sidenummer.
+Mulighed for at vælge placering af sidetal på  
+
+ siden (top, bund, centreret, højrestillet m.m.).
+2.2.15 Afsnitsnummerering Mulighed for automatisk afsnitsnummerering, der også revideres automatisk,  
+
+ hvis nye afsnit indføjes.
+2.2.16 Fodnoter Mulighed for indsættelse af fodnoter på samme side som et bestemt  
+
+ tekstafsnit, således at disse følger med til en ny side, hvis teksten  
+
+ ombrydes.
+Mulighed for automatisk nummerering af noter.
+2.2.17 Spalter Mulighed for indskrivning af tekst i flere spalter med automatisk  
+
+ linjeskift, sædvanlige orddelingsfaciliteter m.m. i hver spalte.
+ Mulighed for »slangetekst«, dvs. spaltetekst med fortløbende  
+
+ tekst fra spalte til spalte.
+2.2.18 Understregning, kursiv og fremhævet skrift Mulighed for at skrive ord, linjer, sætninger eller hele afsnit med  
+
+ understregning, kursiv eller fremhævet skrift (skyggeskrift). Den valgte  
+
+ effekt skal så vidt muligt vises på skærmen.
+F.eks. bør en understregning  
+
+ vises som en understregning og ikke som et kodetegn eller lign.
+ Mulighed for at udføre funktionen automatisk for en linie, et afsnit eller  
+
+ en side.
+2.2.19 Halv linjeafstand op/ned Mulighed for at rykke udskriften en halv linje op eller ned for et eller  
+
+ flere tegn på en linje til skrivning af f.eks. m2, kemiske formler, brøker,  
+
+ potenser m.m.
+2.2.20 Regnefunktion Mulighed for automatisk beregning af felter i teksten på grundlag af tal i  
+
+ andre felter ved addition, subtraktion, multiplikation og division.
+2.2.21 Specialtegn Mulighed for at definere specialtegn, f.eks. svenske eller tyske nationale  
+
+ skrifttegn, græske bogstaver, matematiske operatorer m.m.
+2.2.22 Stavekontrol Mulighed for stavekontrol enten under indskrivningen eller ved et senere  
+
+ gennemløb af teksten.
+2.2.23 Sammenhængende tekst Mulighed for at gruppere et antal linjer, f.eks. et antal blanke linjer  
+
+ med plads til figurer, så disse linjer holdes samlet på samme side, uanset at  
+
+ senere redigeringer i andre dele af teksten giver anledning til ombrydning.
+2.2.24 Brede formater (maksimalt antal tegn pr. linje) Mulighed for at skrive på A-4 tværformet eller bredere format.
+2.2.25 Mellemlagring Mulighed for nem lagring af allerede skrevet tekst på disk/diskette, så  
+
+ man hurtigt kan gå videre med skrivningen.
+2.3 Redigering 2.3.1 Hurtig markørflytning Mulighed for med et eller to tastaturtryk at flytte markøren fra een  
+
+ position i teksten til en anden, f.eks. til:
+- øverst hhv. nederst på skærmbilledet - begyndelsen af linjen - yderste højre tegn på linjen - næste hhv. forrige skærmbillede og/eller side - en vilkårlig side (angivet med sidetal) - begyndelsen hhv. slutningen af dokumentet - fra første tegn i et ord til første tegn i næste hhv. forrige ord - begyndelsen af aktuelt afsnit - begyndelsen af næste afsnit.
+2.3.2 Rettelse/tilføjelse/sletning Mulighed for nem rettelse/tilføjelse/sletning af et tegn, et ord, en linje  
+
+ eller et afsnit, herunder alene tilføjelse/sletning af understregning, kursiv  
+
+ og fremhævet skrift uden ændring i selve teksten.
+ Mulighed for at vælge mellem at arbejde i »overskriv-tilstand«  
+
+ (et tegn på skærmen på markørens plads overskrives ved ny indtastning) og  
+
+ »indsættilstand« (allerede indskrevne tegn rykker til højre og om  
+
+ nødvendigt ned på næste linje, så der gøres plads til indsætning af nye  
+
+ tegn).
+ Mulighed for, hvis teksten er indskrevet i flere spalter, at bestemme, om  
+
+ redigeringer skal have virkning for alle spalter eller kun en enkelt spalte,  
+
+ f.eks. om »slet linje«»-funktionen kun skal have virkning for  
+
+ en enkelt spalte hhv. hele skærmen.
+2.3.3 Flytning/kopiering Mulighed for at flytte og/eller kopiere dele af et dokument til et andet  
+
+ sted i dokumentet.
+2.3.4 »Søg« og »søg og erstat«-funktion Mulighed for at søge på bestemte ord eller dele af ord og sætninger.
+Mulighed for i forbindelse med søgning halv- eller helautomatisk at  
+
+ erstatte med andet ord eller tekst.
+Benyttes funktionen halvautomatisk, søges  
+
+ teksten igennem, der stoppes ved hver forekomst, og der tages stilling til,  
+
+ om erstatningen skal foretages.
+ Mulighed for at udstrække søgningen til flere dokumenter.
+2.3.5 Ombrydning (reformatering) Mulighed for automatisk ombrydning af hele dokumentet hhv. et enkelt  
+
+ afsnit efter redigering af tekstdele eller efter ændring af tabulering og  
+
+ marginsætning.
+Ved ombrydning af hele dokumentet mulighed for at markere  
+
+ afsnit, der ikke må reformateres.
+2.3.6 Store og små bogstaver Mulighed for at ændre små bogstaver til store og omvendt for en angiven  
+
+ tekstdel uden konsekvens for tal eller specialtegn i tekstdelen.
+2.3.7 Indholdsfortegnelse Mulighed for automatisk at få udarbejdet indholdsfortegnelse for  
+
+ afsnits/kapiteloverskrifter.
+2.3.8 Stikordsregister Mulighed for automatisk at få udarbejdet alfabetisk sorteret  
+
+ stikordsregister med sidehenvisninger på grundlag af udvalgte ord i teksten.
+2.3.9 »Horeunger« Mulighed for at sikre, at sidste linje i et afsnit ikke skrives øverst på  
+
+ en side (»horeunge«), eller at første linie af et afsnit hhv.  
+
+ overskriften til et afsnit ikke skrives i sidste linje på en side  
+
+ (»»fransk horeunge«»).
+2.3.10 Korrekturfremhævelse Mulighed for at fremhæve redigeret tekst, så det fremgår, hvor ændringen  
+
+ er foretaget fra een version af teksten til en anden.
+2.3.11 Beregning af LIX-tal Mulighed for automatisk beregning af LæsbarhedsIndeX for et dokument.
+2.4 Udskrivning 2.4.1 Udskrivning som baggrundsfunktion Mulighed for at igangsætte udskrivning og lagre udskriften i en skrivekø,  
+
+ hvis der er anden udskrift igang, og mulighed for at arbejde videre på  
+
+ skærmen uden at afvente færdiggørelse af udskrift på papir.
+2.4.2 Samledokument Mulighed for i forbindelse med udskrivning at samle flere dolumenter til eet dokument, herunder med korrekt fortlæbende sidenummerering.
+2.4.3 Stop af udskrift Mulighed for at stoppe en udskrift på et vilkårligt tidspunkt.
+2.4.4 Udskrift af dele af et dokument Mulighed for at udskrive fra og til et vilkårligt sidenummer.
+2.4.5 Udskrivningsformat/layout Mulighed for at ændre dokumentlayout ved udskrivningen, f.eks. indrykning  
+
+ af venstre margin, linjeafstand, linjer pr. side og sidenummerering.
+2.4.6 Skrifttyper Mulighed for at vælge mellem forskellige skrifttyper, evt. valg af flere  
+
+ skrifttyper inden for et dokument.
+ 2.4.7 Streger m. m.
+Mulighed for at udskrive streger vandret og lodret, f.eks. til  
+
+ skemaopstillinger eller indramning af figurer.
+Mulighed for andre former for  
+
+ grafiske eller semi-grafiske udskrifter.
+2.4.8 Antal kopier til udskrift Mulighed for at bestemme, at samme dokument skal udskrives i et bestemt  
+
+ antal eksemplarer.
+2.4.9 Etiketter Mulighed for udskrift af etiketter, eventuelt på grundlag af et navne- og  
+
+ adresseregister.
+2.4.10 Lige højre margin Mulighed for at udskrive med lige højre margin med varierende mellemrum  
+
+ mellem ordene på den enkelte linje.
+2.4.11 Proportionalskrift Mulighed for at udskrive således, at der afsættes plads i bredden til  
+
+ hvert bogstav afhængigt af, hvilket bogstav der er tale om (bogstavet  
+
+ »i« kræver f.eks. mindre plads i bredden end bogstavet  
+
+ »m«).
+2.4.12 Skrivemaskinefunktion Mulighed for at skrive direkte på papir i skriveren, f.eks. på en kuvert.  
+
+ 2.4.13 Fotosats Mulighed for at udskrive dokumenter i maskinlæsbar form (diskette eller  
+
+ magnetbånd) med nødvendige styrekarakterer til styring af fotosatsudstyr.  
+
+ 2.4.14 Mikrofilm Mulighed for at udskrive dokumenter til bånd, diskette eller direkte med  
+
+ henblik på fremstilling af mikrofilm.
+3. Krav til edb-teknik (programmel og udstyr) 3.1 Programmel 3.1.1 Styresystem Anvendelse af et styresystem, som flere maskinleverandører anvender  
+
+ (f.eks.
+MS-DOS eller UNIX), eller et styresystem, som mange  
+
+ programmelleverandører leverer programmer til.
+3.1.2 Tegnsæt Mulighed for at anvende:
+- 7-bit kodet tegnsæt DS 646 (dansk version af ISO 646) - 8-bit kodet tegnsæt (ISO 4873) - 8-bit enkelt byte kodet grafisk karaktersæt (ISO 8859) - kodede karaktersæt for tekstkommunikation (ISO 6937) - Teletex-tegnkode - CCITT T.61.
+3.1.3 Dokumentformater Systemet bør enten anvende et standardformat for dokumenter eller  
+
+ indeholde programmel til konvertering mellem systemets interne format og et  
+
+ standardformat, jfr. vejledningens afsnit 3.
+ Mulighed for at anvende:
+- IBM DCA-format (redigerbar/ikke redigerbar) - ODA-format (ISO 8613) - Teletex-format - CCITT anbefaling T.73.
+3.1.4 Kommunikation Mulighed for at anvende de anbefalede statslige kommunikationsprotokoller  
+
+ til:
+- elektronisk post - filoverførsel - dokumentoverførsel - interaktiv trafik.
+ (Der henvises til »Datakommunikation i centraladministrationen,  
+
+ vejledning og anbefalinger«, jfr. litteraturlisten).
+3.1.5 Integration med andre opgaver Mulighed for overflytning af data fra andre systemer - f.eks.  
+
+ regnearksprogrammer - til tekstbehandlingssystemet for her at blive en del af  
+
+ et dokument.
+3.2 Materiel 3.2.1 Skærm Skærm kan vurderes på:
+- mulige farvekombinationer, f.eks. gul/brun eller sort/hvid (for monokrom  
+
+ skærm). Mulighed for valg af farveskærm, herunder antal farver og  
+
+ opløsningsgrad - mulighed for visning af grafik - antallet af linjer samt tegn pr. linje - tegnenes størrelse og skarphed - eventuel »flimmer« - stråling.
+3.2.2 Tastatur Tastaturet kan vurderes på:
+- ergonomisk udformning - antallet af programmerbare funktionstaster - markering af tekstbehandlingsfunktioner på taster - danske tegn (æ,ø,å) - andre specialtegn.
+3.2.3 Lagermedier Forhold som kan indgå i vurdering:
+- typer af mecier (disketter, fast disk m.m.) - fysiske formater for lagringsmedier (eks.: diskettestørrelse 8 tommer, 5  
+
+ 1/4 tomme, 3 1/2 tomme m.fl.) - kapacitet - holdbarhed - sikkerhed og mulighed for beskyttelse - udvekslingsmuligheder for disketter (internt/eksternt).
+3.2.4 Skrivere Styretegn, som skal sendes til skrivere for styring af udskrift, skal  
+
+ kunne defineres afhængigt af den aktuelle skrivers krav.
+Tilslutningsmulighed  
+
+ for skrivere:
+- typehjulsskrivere (skønskriftskrivere) - matrixskrivere - blæksprøjteskrivere - andre typer.
+3.2.5 Øvrigt udstyr Af andet særligt udstyr kan nævnes id-kortlæser for brugeridentifikation,  
+
+ »mus« afforskellige typer, hvormed felter udpeges på skærmen, eller  
+
+ optisk læser for maskinskreven tekst.
+3.2.6 Sammenhæng med øvrigt edb-udstyr Er udstyret af samme type, som anvendes til andre edb-opgaver i  
+
+ institutionen, eller kan udstyret kobles sammen med dette, f.eks. ved hjælp  
+
+ af lokalnet.
+3.2.7 Udbygningsmuligheder Mulighed for udbygning af datakraft, arbejdslager, diskkapacitet m.m.  
+
+ og/eller mulighed for udskiftning til kompatibelt udstyr med større  
+
+ kapacitet.
+4. Betjeningskrav 4.1 Systemadministration 4.1.1 Utilsigtet sletning Funktioner, der forhindrer utilsigtet sletning af dokumenter/dele af  
+
+ dokumenter på grund af betjeningsfejl m.m.
+4.1.2 Dokumentbeskyttelse Funktioner, der ved hjælp af kodeord el. lign. giver mulighed for  
+
+ adgangskontrol til dokumenter eller samlinger af dokumenter.
+4.1.3 Diskettenavn Mulighed for at navngive den enkelte diskette med en maskinlæsbar  
+
+ identifikation.
+4.1.4 Indeks Mulighed for oversigt over lagrede dokumenter, med automatisk opdatering  
+
+ af et indeks indeholdende oplysninger om dokumentnavn, kort beskrivelse af  
+
+ dokumentet, størrelse, forfatter, datoer for oprettelse og sidste rettelse  
+
+ m.m.
+ Mulighed for udskrivning af indeks for alle dokumenter eller for en  
+
+ afgrænset mængde af dokumenter udvalgt og eventuelt sorteret på grundlag af  
+
+ de enkelte grupper af oplysninger (dokumentnavn, forfatter, dato osv.).  
+
+ Mulighed for søgning i indeks og den lagrede tekst.
+Sikkerhedskopier Mulighed for at tage back-up kopier til sikring mod tab af dokumenter ved  
+
+ betjeningsfejl eller tekniske svigt.
+Eventuelt automatisk dannelse af backup  
+
+ version een generation bagud, hver gang en rettet version lagres.
+Mulige  
+
+ fysiske medier til back-up (diskette, data-båndoptager m.m.). Tidsforbrug til  
+
+ kopiering af fast disk, betjeningsvenlighed ved kopiering og eventuel  
+
+ tilbagekopiering til disk.
+4.2 Miljø, ergonomi og brugervenlighed Med hensyn til den fysiske ergonomi vurderes der foruden på skærm og  
+
+ tastatur på:
+- støjniveau - varmeafgivelse - udstyrets pladskrav - mulighed for hensigtsmæssig arbejdsstilling.
+ I øvrigt vurderes brugervenlighed på faktorer som:
+- systemdialog (dansksprogede, ensartede og letforståelige meddelelser fra  
+
+ systemet) - menu- eller kommandostyring, eventuel mulighed for valg mellem disse  
+
+ former for styring - sikkerhed mod utilsigtede kommandoer, der har alvorlige konsekvenser,  
+
+ (f.eks. kan systemet stille kontrolspørgsmål: »Skal hele dokumentet  
+
+ slettes - svar ja/nej«) - tilgængelighed (let at lære og at huske) - særlige hjælpemidler, f.eks. ikoner - overensstemmelse mellem skærmbillede og udskrift på papir (»What  
+
+ you see is what you get«).
+Bilag 3 Ordliste anvendelsesprogram Program, som udfører en eller flere opgaver for  
+
+ brugeren, f.eks. et tekstbehandlingsprogram.
+ arbejdslager Se internt lager.
+ arbejdspladsdatamat Personlig mikrodatamat (PC).
+arkføder Papirmagasin på skriver, hvorfra der hentes et enkelt ark ad  
+
+ gangen.
+Kan være udstyret med flere bakker, så der i forbindelse med  
+
+ udskrivningen kan vælges mellem forskellige typer papir.
+ autoriseret adgang Adgang til f.eks. at læse eller skrive data på en disk  
+
+ eller til at benytte et bestemt program.
+back-up 1. Sikkerhedskopi af data og programmer.
+ 2. Nødprocedurer for situationer, hvor edb-systemet er  
+
+ ude af drift.
+ baggrundslager Se eksternt lager.
+ basisprogrammel En datamats grundlæggende programmer, herunder  
+
+ styresystemet (cfr. anvendelsesprogrammer).
+bit Den mindste enhed i en datamat.
+Kan antage de binære cifre 0 og 1.  
+
+ Afbinary digit.
+blæksprøjteskriver Eng.: jet-ink printer.
+Skriver, der frembringer  
+
+ udskrifter ved hjælp af blækstråler.
+Blækdråberne danner et mønster på  
+
+ papiret, f.eks. i form af et bogstav eller et tal.
+ brugergrænseflade Den grænseflade edb-systemet har mod brugeren, herunder  
+
+ den måde data indlæses og præsenteres på.
+byte 8 bits, der behandles som en enhed, og typisk det antal bits, som  
+
+ bruges for at repræsentere et tegn i maskinens lager.
+Bruges som enhed til at  
+
+ måle lagerkapacitet på en disk(ette) eller i et arbejdslager.
+Størrelsen  
+
+ angives normalt i KB (1 KiloByte = 1024 bytes) eller MB (1 MegaByte =  
+
+ 1.048.576 bytes).
+ CCITT Den internationale rådgivende komitee for telegrafi og telefoni.  
+
+ Udarbejder internationale standarder på telekommunikationsområdet.
+data Repræsentation af fakta eller ideer på en sådan form, at de kan  
+
+ kommunikeres eller omformes ved en proces.
+En datamat arbejder med data og  
+
+ programmer.
+database Foreningsmængden af alle filer i et system, hvis denne  
+
+ foreningsmængde er lagret og organiseret på en sådan måde, at dens data i  
+
+ væsentligt omfang kan udnyttes til formål, der ikke kunne fastlægges ved  
+
+ filernes konstruktion.
+Begrebet ses dog undertiden anvendt i lidt  
+
+ forskellige, mindre præcise betydninger.
+Databoks P æt T's offentlige elektroniske postboks tjeneste, som kan  
+
+ kaldes op via datel-, datex-, telex- eller teletexforbindelser for at sende  
+
+ breve til en eller flere modtagere.
+Hver abonnent har en  
+
+ »»postkasse« i systemet og må selv kalde op for at få adgang  
+
+ til meddelelser i postkassen.
+databåndoptager Magnetbåndstation til brug ved kopiering af data fra en  
+
+ datamats disk til bånd.
+Bruges i forbindelse med sikkerhedskopiering af  
+
+ diskens indhold eller i forbindelse med tømning af disk, når denne er fyldt  
+
+ op. datakommunikation Elektronisk eller optisk overførsel af data mellem to  
+
+ datamater.
+Dataoverførslen kan ske ved filoverførsel eller ved, at den ene  
+
+ datamat fungerer som teminal over for den anden.
+datanet Et system, der sammenkobler datamater, så de kan udveksle  
+
+ information og dele ressourcer.
+Afde offentlige datanet findes  
+
+ kredsløbskoblede, dvs. at man har en fysisk forbindelse gennem nettet under  
+
+ hele kommunikationen (Datex), og pakkekoblede, dvs. at data deles i pakker,  
+
+ som hver især kan sendes ad uafhængige veje gennem nettet (Datapak) og samles  
+
+ hos modtageren i den rigtige rækkefølge.
+Datapak PætT's offentlige pakkekoblede datanet.
+Benytter CCITT-standarden  
+
+ X.25. (Se datanet).
+ dataskærm Se skærm.
+ datatransmission Se datakommunikation.
+ Datel Datatransmission over det almindelige telefonnet.
+Datex PætT's offentlige kredsløbskoblede datanet.
+Benytter  
+
+ CCITT-standarden X.21. (Se datanet).
+DCA Document Content Architecture.
+IBM's arkitektur for dokumenters  
+
+ indhold i såvel redigerbare dokumenter som dokumenter, der er formateret til  
+
+ præsentation på f.eks. en skriver eller en dataskærm.
+ dedikeret tekstbehandlingsudstyr Datamat konstrueret specielt til  
+
+ tekstbehandling.
+ de facto standard Se standarder.
+dialog Program, der gør det muligt for brugeren at stille spørgsmål og få  
+
+ svar, som eventuelt kan uddybes med nye spørgsmål osv.
+Dialogen indgår som en  
+
+ del af brugergrænsefladen.
+ disk En ekstern lagerenhed, hvor store datamængder og programmer kan  
+
+ lagres permanent på magnetplade(r).
+diskette En bøjelig cirkulær skive med magnetisk belægning, hvorpå data og  
+
+ programmer kan lagres permanent.
+Disketten, der beskyttes af et hylster,  
+
+ findes i flere størrelser, bl.a 3 1/2 tomme, 5 1/4 tomme, og 8 tommer  
+
+ Disketter er udskiftelige, cfr. en fast disk.
+disketteadministration Fortegnelse over disketter og deres indhold, der  
+
+ benyttes til at administrere diskettesamlingen.
+Kan enten foregå manuelt  
+
+ eller ved hjælp af et register på en datamat.
+ dokument En logisk sammenhængende mængde tekst, tal, grafik, faksimile  
+
+ m.m., f.eks. et brev, et notat, en rapport eller en vejledning.
+ dokumentation Formålsorienteret beskrivelse af et edb-system.  
+
+ Dokumentationen kan bestå af f.eks. tekniske beskrivelser og  
+
+ brugervejledninger.
+ dokumentformat Oplysninger om et dokuments opbygning, f.eks. antal linjer  
+
+ pr. side, antal tegn pr. linje, fodnoter, top- og bundmargintekster etc.
+ dokumentoverførsel Her anvendt i betydningen elektronisk forsendelse af et  
+
+ dokument mellem to datamater.
+ edb Forkortelse for elektronisk databehandling.
+ eksternt lager Lager til permanent opbevaring af data og programmer,  
+
+ f.eks. diskette eller disk. (Cfr. internt lager).
+elektronisk post Udveksling af korte meddelelser mellem brugere via en  
+
+ eller anden form for datanet.
+Et elektronisk postsystem vil endvidere ofte  
+
+ indeholde faciliteter til distribution af den samme meddelelse til et antal  
+
+ modtagere.
+ etb Forkortelse for elektronisk tekstbehandling.
+ faksimile Overførsel af tekst og billeder via datakommunikation, f.eks.  
+
+ via P æt T's telefax-tjeneste.
+fast disk Disk, hvis magnetplade(r) ikke kan udskiftes af brugeren.
+Diske på mikrodatamater er af denne type.
+ fil Afengelsk »file«, der betyder register, kartotek (ordnet  
+
+ samling af data).
+ filoverførsel Her brugt i betydningen elektronisk forsendelse af fil  
+
+ mellem to datamater.
+formatering For dokumenters vedkommende fastlæggelse af opstilling  
+
+ (layout), f.eks. udskrivning med lige højremargin, valg af linjeafstand,  
+
+ sidestørrelse m.v.
+Se også disketteformat.
+fotosætning Fremstilling af sats ved fotografisk proces.
+I forbindelse med  
+
+ indskrivningen af teksten skal denne forsynes med specielle styre- og  
+
+ kontroltegn, der styrer formatering af teksten og udskrivning af tekstafsnit  
+
+ med f.eks. kursiv, fed skrift etc.
+ fritekstsøgning Søgning i en almindelig ustruktureret tekst efter en  
+
+ bestemt kombination af tegn, f.eks. ord(dele) eller kombinationer af ord.  
+
+ Søgekriterier kan eventuelt angives med logiske udtryk, der angiver  
+
+ betingelser for, om kriterierne er opfyldt, f.eks. find et sted i teksten,  
+
+ hvor både »etb« og »edb« forekommer i samme sætning.
+funktionstast Test, der ikke udskriver et tegn på skærmen, men bevirker,  
+
+ at en eller flere kommandoer sendes til datamaten, f.eks. at en linje skal  
+
+ slettes, eller at der skal skiftes linje.
+Funktionstaster kan være faste  
+
+ eller programmerbare.
+grafik Præsentation af data på anden måde end som bogstaver og tal, f.eks.  
+
+ diagrammer, kurver, tegninger.
+Egentlig grafik (fuldgrafik) forudsætter en  
+
+ højopløselig skærm, hvor man kan bringe de enkelte punkter på skærmen til at  
+
+ lyse uafhængigt af hinanden. (Se også semigrafik).
+ikon Billede af objekt, f.eks. dokument, hængemappe eller papirkurv, på en  
+
+ skærm.
+Ved at pege på f.eks. papirkurven med markøren vælger brugeren den  
+
+ funktion, der består i at kassere (slette) data.
+ industristandard Se standarder.
+ informationssystem Database med tilhørende programmer til forespørgsel.  
+
+ Ofte er der sammenhæng med programmer til andre formål som f.eks.  
+
+ tekstbehandling.
+integration Tæt sammenhæng.
+Integration kan f.eks. bestå i, at systemer  
+
+ med forskellige funktioner eller programmer kan anvendes i sammenhæng og  
+
+ umiddelbart udveksle data med hinanden.
+ international standard Se standarder.
+internt lager Elektronisk lager, indbygget i datamaten.
+Indeholder de  
+
+ programmer og data, som datamaten p.t. arbejder med.
+Hyppigst foregår  
+
+ lagringen på integrerede kredse, de såkaldte »»chips«»,  
+
+ og således at data i dette lager forsvinder, når der slukkes for strømmen.  
+
+ (Cfr. eksternt lager).
+ISO Den internationale standardiseringsorganisation.
+Danmark er  
+
+ repræsenteret ved Dansk Standardiseringsråd.
+katalog Den indholdsfortegnelse, som datamatens styresystem opretter for  
+
+ at kunne administrere de filer, der lagres på f.eks. en disk eller en  
+
+ diskette.
+Hver fil skal navngives i overensstemmelse med systemets regler.
+ kilobyte Se byte.
+kode 1. En repræsentation af data, f.eks. bitmønstrene for  
+
+ tegn i et tegnsæt.
+ 2. Sætninger (instruktioner) i et edb-program.
+ 3. Se password.
+kompatibel Ordet betyder forenelig.
+Angiver som oftest, at to datamater af  
+
+ forskellig type kan køre de samme programmer.
+kontorautomatisering Automatisering af grundlæggende kontorfunktioner som  
+
+ f.eks. skrivning, talbehandling, registrering, arkivering m.m.
+Der anvendes  
+
+ standardiserede edb-systemer på lokalt udstyr i form af elektronisk  
+
+ tekstbehandling, elektroniske regneark, kartoteksprogrammer, grafikprogrammer  
+
+ m.m. (kontorsystemer).
+ lager Sted, hvor programmer og data opbevares.
+ lagringsformat Den form, hvorunder en tekst gemmes på f.eks. disk eller  
+
+ diskette, så teksten senere kan findes og gendannes på skærm eller papir med  
+
+ sit oprindelige udseende.
+laser-skriver Skriver, der »brænder« trykket på papiret ved  
+
+ hjælp af laserstråler.
+Princippet anvendes også i moderne  
+
+ fotokopieringsmaskiner.
+Laserskrivere er forholdsvis hurtige, og udskrifterne  
+
+ er af høj kvalitet.
+ lokaldatamat Mini- eller mikrodatamat, der kan levere datakraft til flere  
+
+ skærmarbejdspladser (flerbrugeranlæg).
+lokalnet Eng.: LAN = Local Area Network.
+Privatejet datanet, ofte med stor  
+
+ transmissionhastighed, som anvendes inden for et begrænset geografisk område  
+
+ og i enkelt organisation.
+Giver ofte mulighed for, at udstyr af forskellig  
+
+ type kan bruge samme kabel.
+ makro En instruktion til datamaten, som bevirker udførelse af en række  
+
+ forud fastlagte funktioner.
+ markedsstandard Se standarder.
+markør Eng.: cursor.
+Et tegn på skærmen, f.eks. en lysende firkant eller  
+
+ en »understregning«.
+Et indtastet tegn vil blive anbragt på  
+
+ markørens position på skærmen.
+materiel Eng.: hardware.
+De maskinelle dele af et edb-system, f.eks.  
+
+ datamat, skærm og skriver.
+ matrix-skriver Skriver, der ved hjælp af et antal nåle og et farvebånd  
+
+ frembringer et mønster af prikker på papiret, f.eks. i form af et bogstav  
+
+ eller et tal.
+ megabyte Se byte.
+ menu Oversigt på en skærm over de funktioner eller programmer, der kan  
+
+ vælges mellem.
+ mikrodatamat En mindre datamat, som kan karakteriseres ved at være relativ  
+
+ langsom og have lille kapacitet, men lav pris (i forhold til større  
+
+ datamater).
+ minidatamat En middelstor datamat, som - uden faste grænser - kan placeres  
+
+ mellem en mikrodatamat og en stor datamat (mainframe).
+modem Udstyr, der omformer en datamats signaler, så de kan transmitteres  
+
+ over en almindelig telefonlinje.
+Der skal anbringes et modem hos afsender og  
+
+ et hos modtager.
+mus Lille kasseformet redskab.
+Kan, når den køres henover bordet eller en  
+
+ plade på bordet, bruges til at styre markøren på skærmen.
+Er desuden forsynet  
+
+ med specielle funktionstaster.
+ ODA/ODIF Office Document Architecture/Office Document Interchange Format.  
+
+ ISO's kommende dokumentstandarder.
+ operativ-system Se styresystem.
+password Det kodeord, som skal anvendes for at få adgang til datamatens  
+
+ programmer, til et bestemt program eller til bestemte data PC Personal Computer.
+Arbejdspladsdatamat (enkeltbrugeranlæg).
+ pladelager Se disk.
+ printer Engelsk ord for edb- eller etb-skriver.
+ program En samling instruktioner, udtrykt i et bestemt sprog.  
+
+ Instruktionerne sætter datamater i stand til at udføre bestemte opgaver.
+programmel Eng.: software.
+Programmer tilknyttet en datamat.
+Udtrykket  
+
+ bruges f.eks. som betegnelse for flere programmer, der udfører en bestemt  
+
+ opgave, eller som betegnelse for samtlige datamatens programmer.  
+
+ programvedligeholdelse Ændringer af et program, med henblik på  
+
+ videreudvikling, rettelse af fejl eller uhensigtsmæssigheder, tilpasning til  
+
+ ændrede forhold hos brugeren etc.
+ protokol Sæt af regler for, hvordan data overføres mellem to datamater.
+ regneark Standardprogram til beregnings- og simuleringsopgaver, f.eks.  
+
+ økonomiske opstillinger og modeller.
+RFTDCA Revisable Form Text Document Content Architecture.
+Redigerbart  
+
+ tekstformat.
+Egnet til udveksling af dokumenter, der af modtager skal kunne  
+
+ ændres i såvel indhold som opstilling.
+semigrafik Fuldgrafik forudsætter en højopløselig skærm, hvor de enkelte  
+
+ punkter på skærmen kan bringes til at lyse uafhængigt af hinanden.
+Ved  
+
+ semigrafik kan kun forud definerede grupper af punkter i et bestemt mønster  
+
+ bringes til at lyse.
+Grafiske figurer dannes således ved hjælp af  
+
+ »faste« grafiske tegn, f.eks. en lodret streg eller et hjørne af en  
+
+ firkant.
+I forbindelse med etb bruges semigrafik typisk til tegning af  
+
+ firkanter, til indramning etc.
+ sikkerhedskopiering Se back-up.
+ skrivemarkør Se markør.
+skærm Oftest en skærm med katodestrålerer (jfr. en TV-skærm), der kan  
+
+ anvendes til at vise data, tekst og eventuelt grafik.
+Skærme kan være baseret  
+
+ på andre teknikker, f.eks. flydende krystaller: men sådanne skærme er i dag  
+
+ enten relativt dyre eller giver for dårlig billedkvalitet, og de bruges  
+
+ derfor oftest kun til specielle datamater, f.eks. transportable PC'er.
+skønskriftskriver Skriver med høj skriftkvalitet.
+Frembringer tegn ved  
+
+ hjælp af skrivehjul (typehjul) og farvebånd.
+standarder Beskrivelse af en anbefalet metode til løsning af et teknisk  
+
+ problem, således at uafhængige grupper og firmaer bliver i stand til at  
+
+ udvikle udstyr og programmel, som kan fungere sammen.
+Der skelnes mellem  
+
+ internationale standarder, som udarbejdes af bl.a.
+ISO, og de facto  
+
+ standarder (industristandarder, markedsstandarder), som bygger på en stor  
+
+ leverandørs produkter, og som har opnået en sådan udbredelse, at de må  
+
+ betragtes som standarder.
+Disse standarder understøttes ofte af en lang række  
+
+ mindre leverandører.
+standardsystem Standardprogrammel, et eller flere samarbejdende  
+
+ standardprogrammer.
+Ordet system bruges dog undertiden som omfattende såvel  
+
+ programmel som materiel.
+ styresystem De programmer, der styrer og overvåger afviklingen af opgaver  
+
+ i en datamat.
+ styretegn Tegn i et tegnsæt, der har specielle funktioner, f.eks.  
+
+ vognretur, ny linje, understregning etc.
+ svartid Den tid, det tager for systemet at reagere eller svare på inddata.
+systemadministrator Person hos brugeren, der har ansvaret for driften af  
+
+ et edb-system.
+Afopgaver for systemadministrator kan nævnes fremstilling  
+
+ afsikkerhedskopier, rådgivning om brug af systemet og håndtering af mindre  
+
+ fejlsituationer, der ikke kræver tilkald af tekniker.
+søgesystem System til fremfinding af bestemte data i lageret.
+Enten ved  
+
+ hjælp af bestemte forudfastsatte nøgledata (nøgleord) eller ved  
+
+ fritekstsøgning.
+ tastekombination Kombination af to eller flere taster på tastaturet, som  
+
+ bevirker, at der udføres en bestemt funktion.
+ tegnsæt Den samlede mængde tegn, der anvendes af en datamat, en skriver  
+
+ etc.
+ teknologiaftalen Rammeaftale om retningslinjer for samarbejde ved  
+
+ indførelse og brug af ny teknologi i statens virksomheder og institutioner.
+tekstbehandlingsfunktion Funktion, som kan udføres i forbindelse med  
+
+ behandlingen af en tekst.
+Se eksempler i bilag 2.
+ tekstbehandlingsudstyr Se dedikeret tekstbehandlingsudstyr.
+ tekstkommunikation Her anvendt i betydningen elektronisk forsendelse afen  
+
+ tekst mellem to datamater.
+ Teledata Dialogorienteret kommunikationssystem for data, tekst eller  
+
+ grafik, hvor man via telefonnettet kan kommunikere med en database fra en  
+
+ terminal eller et TV-apparat.
+ Telefax Fjernkopiering af alle typer håndskrevet eller trykt materiale via  
+
+ telefonnettet med særlige telefaxanlæg.
+ telekommunikation Kommunikation over det almindelige telefonnet.
+Teletex Internationalt standarciseret system til datakommunikation, der  
+
+ bl.a. er ca 40 gange hurtigere end Telex, indeholder langt bedre  
+
+ redigeringsmuligheder og giver mulighed for at præsentere tekster af samme  
+
+ kvalitet og udseende som breve.
+Teletex kan ofte tilsluttes et  
+
+ tekstbehandlingssystem.
+Systemet er endnu ikke så udbredt som Telex, men  
+
+ Teletex-meddelelser kan videresendes som Telex-meddelelser, idet den udvidede  
+
+ funktionalitet dog herved går tabt.
+Telex Langsomt internationalt kommunikationssystem, der kan overføre tal,  
+
+ specialtegn samt små bogstaver.
+Telex er ikke egnet til overførsel af  
+
+ dokumenter i moderne »kontorkvalitet«.
+Terminalerne til telex  
+
+ kaldes også fjernskrivere.
+ terminal En enhed til at sende eller modtage data til og fra en datamat  
+
+ enten direkte eller over telefonnettet, f.eks. en skærmterminal.
+traktorføder Udstyr til skriver.
+Fremfører papir i »»endeløse  
+
+ baner«», idet hullerne i kanten af papirbanen fæstnes til tapper på  
+
+ traktorføderen. (Cfr. arkføder).
+ typehjulsskriver Se skønskriftskriver.
+ udskrivning Overførsel af data fra et program i datamaten til en ydre  
+
+ enhed, f.eks. en skriver eller en skærm.
+ udvekslingsformat Regler for den måde data skal præsenteres på med henblik  
+
+ på udveksling mellem edb-anlæg.
+ Videotex Se Teledata.
+ vognretur Funktionstast på et tastatur, som medfører skift til ny linje og  
+
+ eventuelt afsendelse af den skrevne linje til en datamat.
+Bilag 4 Litteraturliste I.
+Generel litteratur om anskaffelse og anvendelse af edb og elektronisk  
+
+ tekstbehandling På grund af det store antal bøger og artikler, der løbende udsendes om  
+
+ disse emneområder, skønnes det ikke hensigtsmæssigt at anføre bestemte  
+
+ titler.
+ Det Administrative Bibliotek, telefon 01 92 33 34, kan være behjælpelig  
+
+ med oplysninger om nyere, relevant litteratur.
+II.
+Arbejdsmiljø Arbejde ved skærmterminaler.
+Arbejdsmiljøfondet.
+Kbh., 1985. - Vejledning  
+
+ fra Branchesikkerhedsråd 6, kontor og administration.
+Arbejdsmiljø ved skærmterminaler.
+Prosa.
+Kbh., 1984.
+Bildsk'termsarbete och halsa.
+En utv'tardering av kunskapsl'taget.  
+
+ Arbetarskyddsverket.
+Stockholm, 1986.
+Godt lys på arbejdspladsen.
+Arbejdsimniljøfondet.
+Kbh., 1982.
+Kontorjob og edb.
+En HK-håndbog om arbejdsmiljø. HK.
+Kbh., 1986.
+Skærmarbejde.
+Arbejdsmiljø, planlægning og indretning.
+AfTurid Budtz,  
+
+ Annette Prætorius Gottlieb, Hans-Christian Weltz.
+Arbejdsmiljøfondet.
+Kbh.,  
+
+ 1983.
+Skærmarbejde og aborter.
+Arbejdstilsynet.
+Kbh., 1985.
+Skærmterminaler - er de farlige? Arbejdsmiljø og skærmterminaler.
+En  
+
+ fortegnelse over litteratur om emnet fra Danmark, Norge og Sverige.
+Af Jette  
+
+ Balslev.
+Roskilde, 1986.
+Vejledning om arbejde ved skærmterminaler.
+Arbejdstilsynet.
+Kbh., 1985. -  
+
+ AT-meddelelse nr. 4.04.4.
+III.
+Publikationer fra administrationsdepartementet Administrationsdepartementets edb-vejledning (1982).
+ Datakommunikation i centraladministrationen, Vejledning og anbefalinger  
+
+ (1986).
+Edb-kursuskatalog.
+Oversigt over brugerorienterede edb-kurser for  
+
+ medarbejdere i den offentlige forvaltning.
+Udgives een gang årligt.
+ Foranalyse om etablering af generelle datakommunikationsfaciliteter i  
+
+ centraladministrationen (1986).
+ Håndbog om ny teknologi (1984).
+ Kontorteknik i staten - en læreproces (1986).
+ Vejledning om anskaffelse af edb-ydelser (1985).
+Bilag 5 Cirkulæreoversigt Cirkulære om fremgangsmåderne ved statslige indkøb.  
+
+ Administrationsdepartementets cirkulære af 18. december 1980.
+ Cirkulære om rammeaftale vedrørende indførelse og brug af ny teknologi.  
+
+ Lønnings- og pensionsdepartementets cirkulære af 20. august 1981.
+ Cirkulære om teknologiaftalen af 1. juli 1981. Lønnings- og  
+
+ pensionsdepartementets cirkulære af 24. november 1983.
+Cirkulære om anvendelse af edb og anskaffelse af edb-udstyr, herunder  
+
+ udstyr til elektronisk tekstbehandling.
+Finansministeriets cirkulære af 31.  
+
+ marts 1982.
+ Cirkulære om anvendelse af edb og anskaffelse af edb-udstyr ved statslige  
+
+ og private tilskudsberettigede institutioner under undervisningsministeriet.  
+
+ Undervisningsministeriets cirkulære af 23. november 1982.
+Cirkulære om den tekniske produktion af retskildemateriale samt om  
+
+ oprettelse af databaser og tekstsøgningssystemer til juridisk  
+
+ informationssøgning.
+Justitsministeriets cirkulære af 18. marts 1983.
+Cirkulære om investeringspuljen.
+Finansministeriets cirkulære af 17.  
+
+ december 1984.
+Bilag 6 Adresseliste Administrationsdepartementet Holmens Kanal 20, 3. sal 1060 København K Tlf. 01 92 60 00 Rådgivning om anvendelse og anskaffelse af edb og etb, herunder rådgivning om edb-planlægning, kontraktforhold og valg af private konsulenter.
+ Godkendelse af udstyrsanskaffelser.
+ Teknologiske foranalyser i statsinstitutioner.
+ Investeringspuljen.
+Direktoratet for Statens Indkøb Suomisvej 2 1927 Frederiksberg C Tlf. 01 35 95 00 Etablering og distribution af samt rådgivning om statslige indkøbsaftaler for edb-udstyr.
+Statens Informationstjeneste Bredgade 20 Postboks 1103 1009 København K Tlf. 01 92 92 00 Rådgivning om trykningsopgaver.
+ Salg af statslige publikationer.
+Registertilsynet Christians Brygge 28, 4. sal 1559 København V Tlf. 01 14 38 44 Spørgsmål i forbindelse med lov om offentlige myndigheders registre, herunder udtalelser om registerforskrifter.
+Sekretariatet for Retsinformation Vægtergården Axeltorv 6, 5. sal 1609 København V Tlf. 01 32 52 22 Spørgsmål i forbindelse med databasen Retsinformation.
+Underretning om oprettelse af statslige tekstdatabaser gives til sekretariatet.
+UNI.C Danmarks edb-center for forskning og uddannelse Vermundsgade 5 2100 København Ø Tlf. 01 83 95 11 Edb-servicecenter for forsknings- og uddannelsesinstitutioner.
+ Kursusvirksomhed.
+ Rådgivning om anvendelse og anskaffelse af edb- og etb-system.
+ Diskettekonvertering.
+I/S Datacentralen af 1959 Retortvej 6-8 2500 Valby Tlf. 01 46 81 22 Udvikling og drift af edb-systemer.
+ Kursusvirksomhed.
+ Tekniske spørgsmål i forbindelse med databasen Retsinformation.
+ Rådgivning om anvendelse og anskaffelse af edb- og etb-system.
+Danmarks Forvaltningshøjskole Lindevangs Alle 10 2000 Frederiksberg Tlf. 01 86 18 70 Kursusvirksomhed.

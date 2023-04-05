@@ -1,0 +1,602 @@
+Gasreglementets afsnit B-41 Forskrifter for gasmotorinstallationer Forord Målsætningen med nærværende Gasreglementets afsnit B-41 er at opstille de  
+
+ nødvendige gastekniske og brandtekniske krav til installationer for anlæg med  
+
+ gasmotorer.
+ Forskrifterne omfatter endvidere anlæggets styrings- og  
+
+ sikkerhedsautomatik.
+ Der er ved de enkelte bestemmelsers udformning taget højde for de meget  
+
+ individuelt prægede anlægstyper, der må forventes, idet der er lagt op til,  
+
+ at bestemmelserne kan fraviges, såfremt det kan dokumenteres, at den valgte  
+
+ løsning opfylder de grundlæggende sikkerhedstekniske intentioner.
+ Forskrifterne er indplaceret i Gasreglementets afsnit B og benævnes B-41.
+ Det påhviler bygherren eller ejeren af anlægget at sørge for, at  
+
+ forskrifternes krav bliver opfyldt og bliver koordineret med kravene i  
+
+ Gasreglementets afsnit B-4.
+ Bygherre/ejer har det fulde ansvar for anlægget og dets sikkerhedsmæssige  
+
+ opbygning.
+Indholdsfortegnelse Afsnit 1. Gyldighedsområde 2. Terminologi 3. Opstillingsstedet 4. Gasfremføring 5. Gasarmaturgruppen 6. Forbrændingsluft og karburering 7. Ventilation af krumtaphuset 8. Udstødssystem, udstødsvarmevekslere m.v.
+9. Styrings- og sikkerhedsautomatik 10. Ikrafttrædelse og overgangsbestemmelser 1. Gyldighedsområde 1.1 Disse forskrifter gælder for gasmotorinstallationer på land- jorden.  
+
+ De er fastlagt i medfør §§15, 17 og 19 stk. 2 i lov nr. 250 af 8. juni 1978  
+
+ og omfatter alle installationer på gas- sens vej fra stikledning til  
+
+ udmunding af skorsten eller ud- stødningsrør.
+Således er også eventuelle  
+
+ udstødningsvarmevekslere, udstøds- kedler og efterbrændere omfattet.  
+
+ Forskrifterne omfatter desuden gasmotorernes hjælpeudrustning samt styrings-  
+
+ og sikkerhedsautomatik.
+ 1.2 Gasmotorinstallationer skal, foruden nærværende forskrifter, op- fylde  
+
+ Gasreglementets afsnit B-4, herunder de punkter der er henvist til i teksten.  
+
+ Hvor der måtte være uoverensstemmelse, er nærværende forskrifter gældende.
+1.3 Forskrifterne gælder for såvel stationære gasmotorinstallationer som  
+
+ transportable installationer.
+Motorer, der installeres som fremdriftsmiddel i  
+
+ køretøjer eller transportable arbejdsmaskiner, er ikke omfattet.
+ 1.4 Forskrifterne gælder kun for gasmotorer, der som brændsel an- vender  
+
+ gaskvaliteter, der opfylder Gasreglementets bestemmelser for henholdsvis 1.,  
+
+ 2. og 3. gasfamilie samt for biogas, eller kombinationer af sådanne gasser og  
+
+ andre brændsler.
+1.5 Forskrifterne gælder ikke for gasmotorer, der kobles til eller  
+
+ sammenbygges med pumper, kompressorer eller andet udstyr for brandfarlige  
+
+ medier.
+De gælder heller ikke for gasmotorer, der opstilles i områder, hvor  
+
+ brandfarlige væsker, gasser eller støv- fyldt atmosfære normalt håndteres.
+ 1.6 Forskrifterne gælder ikke for gasmotorinstallationer der anvender  
+
+ højere tryk end 4 bar i opstillingsrummets gasinstallation.
+ 1.7 I forbindelse med gasmotoranlæg, hvor DGP på forhånd har godkendt  
+
+ gasmotoren, inkl. en standardinstallationsvejeldning, kan der fastsættes  
+
+ mindre omfattende krav end anført i nærværende be- stemmelser.
+1.8 Forskrifterne indeholder ikke krav til projekternes kvalitets- styring  
+
+ og til dokumentation.
+Der henvises til DGP's særlige retningslinier herom.
+ 1.9 Overholdelse af nærværende forskrifter friholder ikke bygherren for at  
+
+ søge fornøden godkendelse hos andre myndigheder som f.eks. bygnings- og  
+
+ miljømyndigheder samt lokale brandmyndigheder og arbejdstilsynets stedlige  
+
+ tilsynskredse, og efterkomme krav, der måtte blive stillet fra disse  
+
+ myndigheders side, herunder krav til trykbeholdere, støjniveauer m.v.
+2. Terminologi Den i forskrifterne anvendte  
+
+ terminologi svarer til i Gas- reglementets afsnit A, suppleret med følgende  
+
+ udtryk:  DEFLEKTOR er et sæt ledeplader, der leder en gasstrøm i en  
+
+ ønsket retning.  GASMOTOR er en stempelmotor der som brændsel anvender  
+
+ gas eller kombinationer af gas og andre brændsler.  
+
+GASMOTORINSTALLATION er en gasmotor med arbejdsmaskine, hjælpe-  
+
+ udstyr, brændselssystem, indsugningssystem, udstødssystem og styrings- og  
+
+ sikkerhedssystem.  INDKAPSLING er en mekanisk ventileret kappe, der  
+
+ omgiver dele af gasmotorinstallationen.  INDSUGNINGSSYSTEM er det  
+
+ samlede system af rør, kanaler, blæsere og armaturer, der fører  
+
+ forbrændingsluft frem til gasmotorens cylindre, uanset om dele af systemet  
+
+ drives med positivt tryk i forhold til omgivelserne.  LADELUFTBLÆSER  
+
+ er en blæser der tilfører motoren forbrændings- luft under tryk.  
+
+NØDAFSPÆRRINGSVENTIL er en automatisk virkende hurtiglukkeventil i  
+
+ gasfremføringen uden for opstillingsrummet.
+Nødafspærrings- ventilen afbryder  
+
+ momentant gastilførslen til gasmotoren.  NØDSTOP er en  
+
+ stoppeprocedure, hvor gastilførslen til motoren afbrydes ved hjælp af  
+
+ gaslukkeventilerne, så snart stopsignal gives.
+Nødstop må ikke afvente, at  
+
+ motorens belastning reduceres eller frakobles.  OPSTILLINGSRUM er den  
+
+ del af en bygning, hvor gasmotoren er opstillet.  UDSTØDSSYSTEM er det  
+
+ samlede system af rør, kanaler, apparater og armaturer, der fører røggas fra  
+
+ gasmotorens cylindre til udmunding i det fri.  ZONE 1 er områder, hvor  
+
+ der lejlighedsvis under normale drifts- forhold kan forekomme eksplosiv  
+
+ atmosfære.  ZONE 2 er områder, hvor der kun undtagelsesvis, og da kun  
+
+ i korte perioder, kan forekomme eksplosiv atmosfære.
+3. Opstillingsstedet 3.1  Udendørs opstillede gasmotoraggregater  Udendørs opstillede  
+
+ gasmotoraggregater, med en samlet indfyret effekt på mere end 600 kW, skal  
+
+ have en afstand af mindst 5 m til naboskel samt vej og stimidte, og mindst  
+
+ 2,5 m til vej- og stiskel.
+ 3.1.2 Gasmotoraggregater skal placeres i en afstand til bygninger og  
+
+ brandfarlige oplag, som mindst svarer til 5 m plus den afstand som de  
+
+ pågældende bygninger og oplag skal have til naboskel.
+ 3.1.3 Nedsættelse af den krævede indbyrdes afstand (herunder bortfald af  
+
+ afstandskrav) kan ske, når bygningers ydervægge, som vender mod  
+
+ gasmotoraggregatet er udført svarende til sektionsvægge (tung BS-60  
+
+ konstruktion) uden åbninger inden for den krævede afstand.
+3.2  Opstillingsrummet 3.2.1 Opstillingsrum for gasmotorer skal udgøre selvstændige brand-  
+
+ celler.
+Opstillingsrummet kan være fælles for flere motorag- gregater og  
+
+ kedler.
+Opstillingsrum skal opfylde Bygningsreglementets krav til op-  
+
+ stilling af store ildsteder, herunder:
+- Opstillingsrum må ikke anvendes som arbejdsrum, eller til formål der kan  
+
+ medføre brandfare - Vægge og etageadskillelser, der afgrænser opstillingsr um fra andre rum,  
+
+ skal udføres mindst som BS-bygningsdel 60 med døre, der for anlæg indtil 600  
+
+ kW indfyret effekt er mindst som BD-dør 30, og for større anlæg er mindst som  
+
+ BD-dør 60.
+- Døre skal åbne i flugtretningen 3.2.2 Opstillingsrummet skal udføres med henblik på at dæmpe støj fra  
+
+ gasmotorinstallationen, jfr.
+Arbejdstilsynets bekendtgørelser og  
+
+ publikationer herom.
+ Gasmotorer skal opstilles således, at overførsel af svin gninger til  
+
+ bygningens gulv dæmpes.
+Opstilles der flere motorer i samme opstillingsrum, skal de kunne  
+
+ adskilles med ikke brændbare lydabsorberende skærme.
+Skærmene kan være  
+
+ transportable.
+De skal i givet fald opstilles omkring en motor, når der  
+
+ foretages længerevarende vedligeholdelsesarbejder på denne.
+Hvis de lydabsorberende skærme udformes som en kasse omk ring motoren,  
+
+ skal kravene i pkt. 3.2.5 opfyldes.
+Ved længerevarende arbejder i  
+
+ opstillingsrummet må lydtrykket på arbejdsstedet ikke overskride 90 db(a) som  
+
+ gennemsnit for arbejdsdagen.
+Det skal tilstræbes, at gennemsnittet ikke over-  
+
+ skrider 85 db(a).
+ Arbejdstilsynets bekendtgørelser og publikationer vedrør ende anvendelse  
+
+ af høreværn er gældende for arbejder i opstillings- rummet.
+ 3.2.3 Opstillingsrummet skal have rumventilation, der beregnes og ud-  
+
+ føres som angivet i Gasreglementets afsnit B-4 pkt. 4.3 med følgende  
+
+ bemærkninger:
+ - Under motorens stilstandsperioder bortfalder krav om r umven- tilation,  
+
+ såfremt gasfremføringen gøres trykløs.
+ 3.2.4 Ventilationen må ikke forstyrre eventuelle brændere i opstil-  
+
+ lingsrummet eller medføre uønsket indsugning af luft fra nabo- rum og  
+
+ omgivelser.
+ 3.2.5 Gasmotorer kan forsynes med indkapsling, såfremt følgende krav  
+
+ opfyldes:
+- Indkapslingen udføres af ikke brændbart materiale - Indkapslingen ventileres mekanisk med mindst 20 luftsk ifter pr. time.
+ - Ventilatorens funktion overvåges som angivet i Gas- reglementets afsnit  
+
+ B-4 pkt. 4.3.7. Afbrydelse af ventilationen skal medføre automatisk  
+
+ afspærring af gas- tilførslen udenfor indkapslingen.
+- Motorleverandørens angivelse af højeste temperatur for  
+
+ gasmotorinstallationen ikke overskrides Dersom installationen opfylder følgende yderligere krav, bort- falder de i  
+
+ pkt. 3.2.3 angivne krav til opstillingsrummets ven- tilation, og for motorer  
+
+ med en indfyret effekt mindre end 600 kW bortfalder også de i pkt. 3.2.1  
+
+ angivne krav til brandmæssig adskillelse af opstillingsrummet:
+- Motorens gasrampe installeres indenfor indkapslingen - Gasinstallationen mellem husindføringen og indkapsling en må kun  
+
+ indeholde svejste samlinger-Ventilationsafkastet skal ske til det fri.  
+
+ Ventilationen skal skabe undertryk i kapslingen.
+- Start af motoren er blokeret, og el-udstyr under ind- kapslingen er  
+
+ spændingsløst, dersom det ikke opfylder kravene til zone 2, indtil  
+
+ indkapslingen er ventileret med mindst 10 luftskifter - Ventilatoren for indkapslingen er i gnistfri udførsel.
+Elektriske dele i  
+
+ luftstrømmen skal opfylde kravene til zone 2.
+ 3.2.6 Udluftningsrør, afblæsningsrør og ventilationsafkast, der kan føre  
+
+ brændbare gasser fra motor og gasinstallation, skal føres ud af bygningen som  
+
+ angivet i Gasreglementets afsnit B-4. Området omkring udmundingen af disse  
+
+ rør og kanaler kla- sificeres som zone 2 indtil en afstand af 3 m.
+4. Gasfremføring 4.1 Dersom stikledningens maksimale driftstryk er højere end det  
+
+ tilladelige driftstryk for gasinstallationen eller for gas- motorens  
+
+ armaturgruppe, skal trykket reduceres ved hjælp af en  
+
+ gastryksreguleringsenhed.
+Gastryksreguleringsenheden skal opbygges af  
+
+ trykregulatorer og tryksikringer som angivet i Gasreglementets afsnit B-4.
+ 4.2 Dersom stikledningens maksimale driftstryk er højere end 4 bar, skal  
+
+ den i pkt. 4.1 nævnte gastryksreguleringsenhed placeres uden for bygningen.
+4.3 Ved dimensionering af gasforsyningssystemet og udvælgelse af  
+
+ komponenter for trykreduktionsstationen, skal det iagttages, at motorens  
+
+ gasforbrug kan veksle meget hurtigt.
+Det skal således blandt andet sikres, at  
+
+ trykket i gasinstallationen ikke over- skrider det maksimalt tilladelige  
+
+ driftstryk under et nødstop af motoren.
+4.4 Motorleverandøren skal gøres bekendt med projektet for motorens  
+
+ gasforsyning.
+Han skal skriftligt bekræfte, at den planlagte gasinstallation  
+
+ er egnet for motoren og dens regulerings- og sikringsudstyr.
+Ved denne  
+
+ vurdering skal han tage hensyn til gaskvalitet, filtreringsgrad, samt  
+
+ variationer i gastrykket der kan opstå på grund af gasinstallationens dynamik  
+
+ og reaktions- tider.
+ 4.5 Uden for bygningen skal der i stikledningen installeres en hovedhane,  
+
+ der opfylder kravene i Gasreglementets afsnit B-4. Hovedhanen kan erstattes  
+
+ af den i pkt. 4.6 nævnte automatiske afspærringsventil, såfremt denne ventil  
+
+ er egnet for manuel betjening og anbragt som angivet i Gasreglementets afsnit  
+
+ B-4. For motorer med indfyret effekt større end 600 kW placeres hovedhanen  
+
+ efter aftale med den lokale brandmyndighed.
+4.6 Dersom rumventilationen forudsætter at gasinstallationen gøres trykløs  
+
+ ved motorstop eller ved ventilationssvigt j.fr. pkt. 3.2.5, skal der uden for  
+
+ bygningen installeres en automatisk afspærringsventil og en automatisk  
+
+ trykafblæsningsventil.
+I de nævnte tilfælde skal afspærringsventilen gå i  
+
+ lukket position, og trykafblæsningsventilen skal afblæse trykket mellem  
+
+ afspærringsventilen og gasmotorens armaturgruppe.
+Trykket skal herved kunne  
+
+ reduceres til højest 100 mbar inden forløbet af 1 minut.
+ 4.7 Gasinstallationen skal dimensioneres, udføres og afprøves i  
+
+ overensstemmelse med Gasreglementets afsnit B-4.
+5. Gasarmaturgruppen 5.1 Gasmotorens gasarmaturgruppe skal placeres med henblik på, at begrænse  
+
+ rørvolumenet efter armaturgruppen.
+Gasarmaturgruppen skal være let  
+
+ tilgængelig for inspektion og vedligehold.
+ 5.2 Gasarmaturgruppen skal mindst indeholde følgende komponenter:
+- Manuel afspærringsventil - Filter (jfr. 5.3) - 2 gaslukkeventiler (jfr. 5.4) - Trykafblæsning eller automatisk tæthedskontrol (jfr. 5.5 og 5.6) - Trykovervågning (jfr. 5.7) - Gastrykregulator (jfr. 5.8) - Fleksibel forbindelse mellem gasinstallationen i bygningen og på motoren  
+
+ (jfr. 5.9) Komponenterne i gasarmaturgruppen kan være mekanisk sammen- byggede, men  
+
+ deres funktioner skal være mekanisk uafhængige.
+ 5.3 Filtret skal være tilstrækkeligt til at sikre en for armatur- gruppen  
+
+ og motoren nødvendig renhed af gassen.
+ 5.4 Gaslukkeventilerne skal overholde følgende krav:
+a.
+De 2 gaslukkeventiler anbringes i serie, og skal tilsammen sikre  
+
+ afspærring af gastilførslen til motoren.
+b.
+Gaslukkeventilerne kobles til styresystemet således, at der opnås  
+
+ følgende funktioner:
+- Ventilerne må først åbne, når det under startproceduren er kontrolleret,  
+
+ at Rumventilationen er tilstrækkelig for motorens drift Motoren er  
+
+ accelereret til et for starten sikkert omdrejningstal.
+For motorer der tænder  
+
+ ved indsprøjtning af flydende brændsel, skal der være opnået en stabil drift.
+ Gastrykket før armaturgruppen ligger inden for grænser der er sikre for  
+
+ motorens drift.
+ - Ventilerne skal afspærre gasstrømmen:
+Under normale nedlukningsprocedurer inden motorens omdrejningstal bliver  
+
+ for lavt til at sikre en stabil drift.
+Dersom start af motoren ikke opnås.  
+
+ Ved begyndelsen af enhver nødstopprocedure c.
+Gaslukkeventilernes tæthed skal kunne afprøves.
+d.
+Gaslukkeventilerne skal være af typen »fejl lukke«.
+Mindst en  
+
+ af ventilerne skal have en lukketid, der er hurtigere end 2 sekunder.
+ Anvendes ventiler med pneumatisk eller hydraulisk aktuator, skal hver  
+
+ aktuator have separat styreledning og pilotventil.
+5.5 Dersom gaslukkeventilerne ikke er forsynet med automatisk  
+
+ tæthedskontrol, skal gasvolumenet mellem de 2 gaslukkeventiler ved ethvert  
+
+ motorstop gøres trykfrit ved afblæsning.
+Trykafblæsningen skal ske ved en  
+
+ automatisk virkende ventil, der er koblet til styringen for  
+
+ gaslukkeventilerne.
+Ventilens funktion skal være »fejl åbne«.  
+
+ Udluftningsrøret fra trykafblæsningsventilen skal føres ud af bygningen.
+Ud-  
+
+ luftningsrøret må ikke forsynes med andre ventiler.
+ 5.6 Automatisk tæthedskontrol af gaslukkeventilerne skal opfylde kravene i  
+
+ Gasreglementets afsnit C-1008 eller tilsvarende anerkendt normgrundlag.  
+
+ Trykket i gastilledningen skal overvåges af pressostater, der stopper  
+
+ motoren, dersom trykket under normal drift er uden for de for motoren sikre  
+
+ grænser.
+ 5.8 Gastryksregulatoren skal under motorens drift kunne sikre hurtig og  
+
+ stabil regulering af gastilførslen i hele motorens belastningsområde.  
+
+ Gastrykregulatorens funktion skal sikres med en sikkerhedsafspærringsventil  
+
+ eller en tilsvarende over- trykssikring, dersom motorleverandøren ikke kan  
+
+ eftervise, at motoren kan fungere sikkert med fuld åben stilling af  
+
+ gastrykregulatoren.
+ 5.9 Forbindelsen mellem gasinstallationen i bygningen og gasin-  
+
+ stallationen på motoren skal udføres som en fleksibel for- bindelse.
+6. Forbrændingsluft og karburering 6.1 Forbrændingsluft må ikke indsuges fra områder der er klas- sificeret  
+
+ som eksplosionsfarlige.
+ 6.2 Indsugningssystemet skal konstrueres således, at der ikke er fare for  
+
+ personskade som følge af en gaseksplosion i systemet.
+ Sikkerheden kan f.eks opnås ved:
+- dimensionering af alle dele i systemet for eksplosions- trykket - overtryksventiler - flammefælder Indsuges forbrændingsluften fra det fri eller fra opstillings- rummet  
+
+ gennem en kanal, er hele systemet omfattet af ovennævnte krav.
+ Overtryksventiler kan afblæse til opstillingsrummet såfremt:
+- de er forsynet med deflektorer, der hindrer skade på personer og  
+
+ indstallationer - de er af en pålidelig konstruktion, der sikrer, at ventilen igen lukker  
+
+ tæt efter aktivering - de er placeret således, at deres tæthed nemt kan kontrolleres  
+
+ Flammefælder skal være dokumenteret egnede til drifts- forholdene.
+ 6.3 Karbureringsarrangementet må ikke kunne skades af tilbage- brænding  
+
+ eller eksplosion i forbrændingsluftmanifolden.
+ 6.4 Tilbagebrænding og eksplosion i forbrændingsluftmanifolden skal kunne  
+
+ detekteres, og skal medføre nødstop af motoren.
+ 6.5 Sker karburering af forbrændingsluften på ladeluftblæserens sugeside,  
+
+ skal blæseren udføres af gnistfri materialer, og lejekonstruktionen skal  
+
+ sikre, at gassen ikke kan antændes i tilfælde af varmløbning.
+ 6.6 Det skal sikres, at forbrændingsluft ikke kan trænge ind i gas-  
+
+ systemet ved svigtende gastryk.
+6.7 Det skal sikres, at karbureret forbrændingsluft eller gas ikke kan  
+
+ trænge fra forbrændingsluftssystemet til opstillingsrummet efter motorstop.  
+
+ Motorer med gnisttænding skal stoppes ved at afbryde gas- tilførslen.  
+
+ Tændingssystemet må ikke afbrydes før motorens rotation er ophørt.
+For  
+
+ motorer der tænder ved indsprøjtning af flydende brændsel skal normal  
+
+ stopprocedure indledes med afbrydelse af gas- forsyningen.
+Når  
+
+ forbrændingsluftsystemet er frit for gas, kan brændselsindsprøjtningen  
+
+ afbrydes.
+Ved nødstopprocedure skal såvel gastilførslen som  
+
+ brændstofindsprøjtning afbrydes ved stopprocedurens indledning.
+Dersom  
+
+ forbrændingsluftsmanifolden ikke med sikkerhed kan tømmes for gas under  
+
+ stopproceduren, skal forbrændingslufts- systemet ventileres mekanisk efter  
+
+ hvert motorstop.
+Afkastet fra ventilatoren skal føres til det fri.
+7. Ventilation af krumtaphuset 7.1 Det skal hindres, at lækager fra forbrændingsluftssystemet eller langs  
+
+ motorens stempler kan føre til brand eller eksplosion i motorens krumtaphus.  
+
+ Dersom dette ikke er hindret gennem motorens konstruktion (f.eks  
+
+ krydshovedmotorer med tæt stempelstangspakdåse), skal krumtaphuset  
+
+ ventileres.
+7.2 For motorer med et krumtaphusvolumen indtil 0,8 m 3 kan venti-  
+
+ lationen etableres ved udsugning til motorens forbrændings- luftsystem.
+For  
+
+ motorer med større krumtaphusvolumen skal der gøres rede for, hvorledes  
+
+ risiko for brand/eksplosion i krumtaphuset er håndteret.
+7.3 Er krumtaphusets volumen større end 0,6 m 3, skal det sikres mod  
+
+ eksplosionstryk med mindst en overtryksventil.
+Overtryks- ventilen kan  
+
+ afblæse til opstillingsrummet, men skal forsynes med en deflektor, der  
+
+ hindrer skade på personer og instal- lationer.
+8. Udstødssystem, udstødsvarevekslere og udstødskedler 8.1 Udstødssystemet, inklusiv eventuelle udstødsvarmevekslere og  
+
+ udstødskedler, skal være tæt under alle driftsforhold.
+Det skal være  
+
+ konstrueret således, at det er egnet til de fore- kommende temperaturer og  
+
+ temperaturskift under start, drift og stop af motoren.
+Ved valg af materialer  
+
+ til systemet skal der tages hensyn til korrosionsrisiko, der kan opstå ved  
+
+ røg- gassens afkøling i udstødsvarmevekslere og udstødskedler.
+Det skal under  
+
+ den daglige drift nøje overvåges, at modtrykket i udstødssystemet ikke  
+
+ overskrider den af motorleverandøren fastsatte maksimale værdi.
+ 8.2 Skorstensdimensioneringen, konstruktion og emissionsberegninger  
+
+ udføres som beskrevet i Gasreglementets afsnit B-4. Kobling af gasmotorer til  
+
+ skorstensløb fælles med kedler, kræver accept fra gasleverandøren.
+8.3 Motorens udstødsmanifold kan sikres mod høje eksplosionstryk ved  
+
+ overtryksventiler.
+Overtryksventilerne kan afblæse til opstillingsrummet  
+
+ såfremt:
+- De er forsynet med deflektorer, der hindrer skade på personer og  
+
+ installationer - De er af en pålidelig konstruktion, der sikrer, at ventilen igen lukker  
+
+ tæt efter aktivering - De placeres således, at deres tæthed nemt kan kontrolleres.
+ Den øvrige del af udstødssystemet, inklusiv varmevekslere og kedler, skal  
+
+ enten være konstrueret således, at det kan modstå den maksimale  
+
+ gaseksplosion, der kan ske på grund af manglende tænding på en eller flere  
+
+ cylindre, eller på anden måde være sikret for tændingssvigt.
+ 8.4 Eksplosionklapper må kun etableres efter særlig godkendelse af  
+
+ Arbejdstilsynet.
+8.5 Udstødsvarmevekslere og udstødskedler skal betragtes som direkte  
+
+ fyrede kedler.
+De skal opfylde Arbejdstilsynets bekendtgørelser og  
+
+ forskrifter vedrørende kedelanlæg.
+ 8.6 Udstødvarmeveksleres og udstødskedlers drifts- og sikkerheds-  
+
+ automatik skal indgå i styringen af brændstoftilførslen til motoren.
+8.7 Lækager fra udstødskedlens vandside må ikke kunne medføre uønsket  
+
+ overtryk i udstødssystemet.
+Anlægget skal derfor forsynes med et  
+
+ detekteringssystem for vandlækage til udstødssystemet eller trykovervågning  
+
+ af dette.
+Sikringen skal kobles til anlæggets sikkerhedsautomatik, således at  
+
+ anlægget stoppes, inden der opstår en kritisk driftstilstand.
+9. Styrings- og sikkerhedsautomatik 9.1 Gasmotorinstallationer skal omfatte automatiske systemer for styring  
+
+ og sikkerhedsovervågning af installationen.
+For de automatiske systemer skal der foreligge en beskrivelse af  
+
+ systemernes sikkerhedstekniske idegrundlag og en funktionsspecifikation, som  
+
+ gør rede for systemernes evne til at håndtere kritiske fejl og  
+
+ driftssituationer.
+Be- skrivelsen skal bl.a omfatte:
+- For styringsautomatikken: Et logikdiagram for styrings- funktionerne  
+
+ vedrørende start- og stopprocedurer, - for sikkerhedsautomatikken: Et »årsag/virkning« skema.
+ 9.2 Styrings- og sikkerhedsautomatikken skal omfatte en automatisk  
+
+ nødstopprocedure, som er fælles for motoraggregatet, evt. ud- stødskedler  
+
+ eller udstødsvarmevekslere samt udstyr koblet til kraftudtag.  
+
+ Nødstopautomatikken skal dokumenteres med be- skrivelse og logikdiagram eller  
+
+ - skema for samtlige sikkerhedsfunktioner.
+ 9.3 Sikkerhedsautomatikken skal omfatte overvågning af alle parametre med  
+
+ sikkerhedsteknisk betydning, afhængigt af anlæggets konstruktion og  
+
+ bemandingsforhold, f.eks.
+- tændingskontrol - skylletider før start/genstart - kritiske temperaturer/tryk - omløbstal - spjældstillinger - ventilation af indkapsling/krumtaphus - gas-, brand- og lækagedetektering og skal udløse hurtig-  
+
+ lukning/nødstop, inden en kritisk situation opstår.
+ 9.4 Styrings- og sikkerhedsautomatikken skal være konstrueret således, at  
+
+ mulige enkeltfejl i automatikken, evt. i for- bindelse med passive fejl  
+
+ (ikke-detekterede fejl), ikke fører til en kritisk situation.
+ Der henvises til f.eks DIN-VDE 0116 eller tilsvarende.
+10. Ikrafttrædelse og overgangsbestemmelser 10.1 Disse forskrifter træder i kraft den 1. setpember 1991.
+ 10.2 DGP kan fastsætte fornødne overgangsbestemmelser for anlæg, der efter  
+
+ 1. september 1991 allerede er projekteret og/eller under udførelse.

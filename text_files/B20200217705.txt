@@ -1,0 +1,107 @@
+Bekendtgørelse om ændring af bekendtgørelse om behandling af personoplysninger i Det Centrale Kriminalregister (Kriminalregisteret) § 1 I bekendtgørelse nr. 881 af 4. juli 2014 om behandling af personoplysninger i Det Centrale Kriminalregister (Kriminalregisteret), som senest ændret ved bekendtgørelse nr. 704 af 4. juli 2019, foretages følgende ændringer:
+ 1. I § 11, stk. 2, ændres »eller udenlandske afgørelser« til: », opholdsforbud idømt efter straffelovens § 79 a eller udenlandske afgørelser«.
+ 2. I § 11, stk. 2, indsættes efter nr. 2 som nyt nummer:
+»3) Idømt opholdsforbud efter straffelovens § 79 a medtages ikke, når forbuddet er ophørt.« Nr. 3 og 4 bliver herefter nr. 4 og 5.
+ 3. I § 13, stk. 2, og § 22 a ændres »færdselslovens § 125, stk. 2, nr. 1-5« til: »færdselslovens § 125, stk. 2, nr. 1-6«.
+ 4. I § 21, stk. 1, nr. 10, ændres »betænkeligt.« til: »betænkeligt,«.
+ 5. I § 21, stk. 1, indsættes som nr. 11:
+»11) domstolene til brug for justitsministerens antagelse af beneficerede advokater og autoriserede bobestyrere og bobehandlere.« 6. I § 21, stk. 2, ændres »stk. 1, nr. 4, 5 og 8« til: »stk. 1, nr. 4, 5, 8 og 11«.
+ 7. I § 26, stk. 1, ændres »adoptionsbevilling efter begæring« til: godkendelse af en ansøger som adoptant, sager om adoption og sager om midlertidig placering efter adoptionslovens § 32 a efter begæring fra Familieretshuset eller Ankestyrelsen.
+ 8. Efter § 26 indsættes:
+»§ 26 a.
+Rigspolitiet kan efter begæring til Familieretshuset til brug for sager om forældremyndighed, barnets bopæl og samvær eller anden kontakt videregive oplysninger fra efterforskningsdelen, som er eller har været optaget i afgørelsesdelen, om idømt ubetinget fængselsstraf eller en anden retsfølge efter §§ 68-70 i straffeloven for overtrædelse af straffelovens § 210, §§ 216-227, §§ 232-237, §§ 245-246, § 245 a eller § 262 a.« 9. I 27 a, stk. 1, ændres »inden for de seneste 2 år, til Styrelsen for Arbejdsmarked og Rekruttering« til: »inden for det seneste år, til Styrelsen for International Rekruttering og Integration«, og »stk. 18-21« ændres til: »stk. 18-22«.
+ 10. I bilag 1 indsættes som nr. 14:
+»14) Opholdsforbud efter straffelovens § 79 a.« 11. Bilag 2 affattes som bilag 1 til denne bekendtgørelse.
+12. I bilag 3 indsættes efter »For personer, der er fyldt 70 men ikke 80 år, nedsættes de ovenfor anførte frister til 5 år.«: »Opholdsforbud efter straffelovens § 79 a slettes ved opholdsforbuddets ophør.« 13. I bilag 4, pkt. 2.9, indsættes som litra g:
+»g) Opholdsforbud efter straffelovens § 79 a slettes, når der er forløbet 1 år fra opholdsforbuddets ophør.« 14. I bilag 4 indsættes efter pkt. 3.4. :
+»3.5. Oplysninger om mistet asylansøger- eller opholdskort slettes, når der er forløbet 20 år fra sagens registrering.« 15. I bilag 4, pkt. 4.2, indsættes efter »I øvrigt slettes alle oplysninger om mistet legitimation«: », med undtagelse af oplysninger om mistet asylansøger- eller opholdskort.« § 2 Bekendtgørelsen træder i kraft den 1. januar 2021.
+Justitsministeriet, den 18. december 2020 Nick Hækkerup / Thomas Højgaard Bilag 1 »Bilag 2 Datatyper i efterforskningsdelen I det følgende er ikke medtaget rent it-mæssige koder.
+Oplysninger, der forekommer i flere forbindelser, er kun medtaget en gang.
+1. Identifikationsoplysninger Identifikationsnummer: For personer normalt CPR-NR. (personnummer). For juridiske personer (selskaber, foreninger m.v.) SE-NR. (erhvervsregisternummer hos skattemyndighederne) eller CVR-NR. (Centralt Erhvervs Registernummer). I de tilfælde, hvor ingen af de foranstående numre haves, tildeles et individuelt ENR (erstatningsnummer), der opbygges som et personnummer, men hvor de sidste 4 cifre er erstattet af bogstaver.
+ Angivelse af, om der er slettet oplysninger inden for de seneste 12 måneder samt typen og datoen herfor.
+ Opholdssted(er), det vil sige, hvor den pågældende kan træffes, når der ikke er tale om en officiel CPR-adresse og med angivelse af arten af den politimæssige relevans, f.eks. institution, beværtning eller orlovsadresse i tilknytning til en udgangstilladelse.
+ Specielle registernumre, der henviser til særlige efterforskningsregistre eller specielle projekter, f.eks. register over fotos optaget af politiet, iværksættelse af særlige hjælpeforanstaltninger eller alternative sanktionsformer.
+ Signalementsoplysninger med signalementsdato.
+2. Aktualitetsmarkeringer »Aktualitetsmarkering«, der angiver, at en person er »politimæssig aktuel«, uanset om der er en verserende sag.
+ Der kan registreres følgende typer »aktualitetsmarkeringer«.
+ I tilknytning til aktualiteterne 01, 02, 03, 04 og 05 er der mulighed for registrering af journalnummeret på den konkrete sag, der ligger til grund for markeringen.
+ I tilknytning til aktualiteterne 06, 07, 08, 09, 13, 14, 15, 16, 20, 50, 54 og 55 er en registrering af sagens journalnummer obligatorisk.
+ Det vil kunne fremgå, hvilken myndighed der har foranstaltet registreringen af en aktualitet.
+ De under numrene 07, 08, 13, 14, 15, 18, 19, 20, 22, 23, 27, 30 (indtil den 1. juli 2022), 31, 37, 38, 39, 40, 42, 43, 44, 48, 50, 54 og 55 nævnte »aktualitetsmarkeringer« er tidsbegrænsede og slukkes, når aktualitetsdatoen (udløbsdatoen) er passeret.
+ Aktualitet 32 og 51 må kun registreres af Rigspolitiet.
+3. Sager Sagens journalnummer.
+ Oplysning om sagens oversendelse til anden myndighed.
+ Oplysning om hvorvidt en sag er et hovedforhold eller et biforhold.
+4. Eftersøgningsoplysninger Dato for eftersøgningen.
+ Hvad der ønskes foretaget, når den pågældende træffes.
+ Eftersøgende myndighed.
+ Om pågældende er efterlyst i Danmarks Radio.
+ Om der foreligger fængslingskendelse eller anholdelsesbeslutning med angivelse af retskreds og evt. dommerens navn.
+ Aflysningsoplysninger (dato og myndighed).
+5. Oplysninger om sigtelser Der registreres sigtelser for:
+ overtrædelse af straffeloven,  overtrædelse af lovgivningen om våben og eksplosivstoffer,  overtrædelse af lov om jagt og vildtforvaltning,  overtrædelse af lovgivningen om euforiserende stoffer,  overtrædelse af toldloven, der må antages at medføre frihedsstraf,  overtrædelse af udlændingeloven for så vidt angår bistand til en udlændings ulovlige indrejse eller ophold samt overtrædelse af meddelt indrejseforbud eller manglende overholdelse af pålagt melde- eller opholdspligt,  overtrædelse af lov om pas § 2 b, stk. 1,  overtrædelse af lov om tilhold, opholdsforbud og bortvisning,  overtrædelse af færdselslovens § 53, § 54, stk. 1 og 2, § 56, stk. 1, 1. pkt., § 63, stk. 1, 1. pkt., § 117 a, § 117 c, stk. 1, nr. 4., samt ved andre færdselslovovertrædelser, når der opstår spørgsmål om kørselsforbud, betinget eller ubetinget frakendelse af førerretten, herunder retten til at føre lille knallert, og retten til at føre tunge køretøjer,  overtrædelse af bestemmelser vedrørende kontrolapparat, der er omfattet af de forordninger, der er nævnt i færdselslovens § 86 a, stk. 1, eller af forskrifter, der er udstedt i medfør af færdselslovens § 86 a, stk. 1, samt overtrædelse af de i færdselslovens § 125, stk. 2, nr. 1-6, nævnte bestemmelser, overtrædelse af færdselslovens bestemmelser om kørsel med overlæs,  overtrædelser af færdselslovens § 67, stk. 2, hvor en knallert er konstruktivt ændret med henblik på hastighedsforøgelse, eller som er i en sådan ulovlig stand, at den for så vidt angår lille knallert kan køre 43 km i timen eller derover og for så vidt angår stor knallert kan køre 64 km i timen eller derover,  overtrædelse af særlovgivningen, der indgår som biforhold i et sagskompleks, under forudsætning af, at forholdet er registreringspligtigt på afgørelsestidspunktet,  overtrædelse af lov om forbud mod ophold i bestemte ejendomme,  overtrædelser, der er omfattet af dyreværnslovens § 29 b, stk. 1, jf. stk. 2, jf. bekendtgørelse om visse forhold vedrørende betinget frakendelse af retten til at beskæftige sig med erhvervsmæssig transport af dyr,  forhold, hvor der er sket udenretslig konfiskation på sigtelsestidspunktet.
+ For hver registreret sigtelse angives:
+ sigtelsens dato,  gerningsdato/tidsrum,  gerningsindhold,  gerningsstedskommune,  bopælskommune,  tilhørsforholdskode, der angiver personens tilhørsforhold til Danmark på sigtelsestidspunktet,  markering af, hvorvidt der er tale om forsøg,  indberettende eller sagsbehandlende myndighed.
+6. Oplysninger om frihedsberøvelser Der registreres:
+ anholdelser, hvor der sker indbringelse til politistationen, f.eks. til konstatering af identitet,  opretholdelse af anholdelser,  varetægtsfængslinger,  surrogatfængslinger,  frihedsberøvelser i medfør af udlændingeloven,  afsoninger,  domsanbringelse i medfør af straffelovens §§ 68-70,  overførsler herunder overførsler til mentalobservation.
+ I tilknytning til frihedsberøvelser registreres:
+ datoen herfor,  frihedsberøvelsens type, f.eks. varetægtsfængsling,  frihedsberøvelsens anledning,  eventuelt anholdelsesprotokolnummer,  opholdssted under frihedsberøvelsen, f.eks. navn på fængsel eller arrest,  den anholdende/frihedsberøvende myndighed,  løsladelsesdato,  prøveløsladelse og vilkår herfor.
+ 7. Oplysninger om afgørelser m.v.
+ Der registreres følgende typer afgørelser:
+ Afgørelser i samtlige sager, som er opdateret med sigtelse, herunder:
+ i sager vedrørende overtrædelse af straffeloven,  i sager vedrørende overtrædelse af lovgivningen om våben og eksplosivstoffer,  i sager vedrørende overtrædelse af lov om jagt og vildtforvaltning,  i sager vedrørende overtrædelse af lov om euforiserende stoffer,  i sager vedrørende overtrædelser, der er omfattet af dyreværnslovens § 29 b, stk. 1, jf. stk. 2, jf. bekendtgørelse om visse forhold vedrørende betinget frakendelse af retten til at beskæftige sig med erhvervsmæssig transport af dyr, i sager vedrørende overtrædelse af de i færdselslovens § 125, stk. 2, nr. 1-6, nævnte bestemmelser.
+ Andre afgørelser, hvorved der idømmes opholdsforbud, betinget eller ubetinget frihedsstraf, frakendes rettigheder eller meddeles pålæg vedrørende den tiltaltes person samt ved dom med udsat straffastsættelse.
+ Andre afgørelser, hvor der idømmes eller vedtages bøde på 1.000 kr. eller derover, for overtrædelse af færdselsloven eller forskrifter udstedt i medfør heraf dog 2.500 kr. eller derover.
+ Andre afgørelser, hvor der idømmes eller vedtages bøde på under 1.000 kr., for overtrædelse af færdselsloven eller forskrifter udstedt i medfør heraf under 2.500 kr., hvis der er tale om en nedsat normalbøde på mindst de nævnte beløb.
+ Andre afgørelser, hvor der idømmes eller vedtages bøde på under 1.000 kr., for overtrædelse af færdselsloven eller forskrifter udstedt i medfør heraf under 2.500 kr., for overtrædelse af straffebestemmelser, hvor der i straffebestemmelsen er foreskrevet højere straf i gentagelsestilfælde, hvor påstand om højere straf er foreskrevet administrativt samt hvor der i gentagelses tilfælde opstår særlige spørgsmål om konfiskation eller pålæg.
+ Andre afgørelser, hvor der idømmes eller vedtages bøde på under 2.500 kr. for overtrædelse af færdselslovens bestemmelser om:
+ vigepligt,  almindelige hastighedsregler (færdselslovens § 41),  spirituskørsel,  kørsel, hvor den pågældendes blod under eller efter kørslen indeholder bevidsthedspåvirkende stoffer, som efter regler fastsat af justitsministeren er klassificeret som farlige for færdselssikkerheden,  kørsel, hvor den pågældende på grund af sygdom, svækkelse, overanstrengelse, mangel på søvn, påvirkning af opstemmende eller bedøvende midler eller af lignende årsager befinder sig i en sådan tilstand, at han eller hun er ude af stand til at føre køretøjet på fuldt betryggende måde, mangler ved motorkøretøjets driftsbremse eller styretøj,  overlæs,  kørsel uden at have erhvervet kørekort til det pågældende motorkøretøj.
+ Andre afgørelser for overtrædelse af restaurationslovens bestemmelser om nattesæde, udskænkning for mindreårige eller udskænkning i butikstiden.
+ Konfiskation, uanset om denne er udenretlig eller indenretlig.
+ Tiltalefrafald med eller uden vilkår, herunder ungdomskontrakter.
+ Frifindelser, når sigtelsen på et tidligere stadium er registreret i Kriminalregisteret.
+ Henlæggelse af sager, herunder sager, der »sluttes på bevisets stilling«, eller afgøres med en »advarsel« (retsplejelovens § 721, stk. 1, nr. 2 og 3, og § 722, stk. 1, nr. 1) under forudsætning af, at sagen på et tidligere stadium er registreret i Kriminalregisteret med en sigtelse eller en tidligere afgørelse.
+ Alle andre afgørelser i sager, der er registreret i Kriminalregisteret med en sigtelse eller en tidligere afgørelse.
+ Afgørelser, hvor der alene idømmes eller vedtages bøde i medfør af færdselslovens § 118 c, stk. 1, registreres ikke.
+ I tilknytning til afgørelser registreres:
+ dato for afgørelsen,  afgørende myndighed,  afgørelsestype, f.eks. dom, bødeforelæg, bødevedtagelse,  afgørelsesmåden, f.eks. nævningesag, for så vidt angår afgørelser om overtrædelser, der er omfattet af dyreværnslovens § 29 b, stk. 1, jf. stk. 2, jf. bekendtgørelse om visse forhold vedrørende betinget frakendelse af retten til at beskæftige sig med erhvervsmæssig transport af dyr, oplysninger om antallet af overtrædelser af denne (klipværdi) og tidspunktet for forseelsen,  for så vidt angår afgørelser om overtrædelse af de i færdselslovens § 125, stk. 2, nr. 1-6, nævnte bestemmelser oplysninger om antallet af overtrædelser af disse (klipværdi) og tidspunktet for forseelsen,  strafudmålingen,  typen af eventuel frihedsstraf,  eventuel ankedato,  udløbsdato for evt. betingelser i dommen,  oplysninger om evt. frakendelse, pålæg, konfiskation eller benådning,  markering af, hvorvidt der er tale om forsøg/medvirken.
+8. Særlige typer af indberetninger Sager om meddelelse af advarsel i medfør af straffelovens § 265 (indtil den 1. juli 2022).
+ Sager om tilhold, opholdsforbud og bortvisning i medfør af lov om tilhold, opholdsforbud og bortvisning.
+ Andre advarsler, tilhold, forbud, karantæner eller pålæg.
+ Udrejseforbud i medfør af lov om pas § 2 b, stk. 1.
+ Generhvervelse af andre rettigheder end førerretten.
+ Administrativ inddragelse af kørekort, herunder midlertidig inddragelse af førerretten i medfør af færdselslovens § 130, stk. 1.
+ Nægtelse af udstedelse af kørekort af andre grunde end ikke bestået prøve eller nægtet ombytning af udenlandsk kørekort.
+ Nægtelse af erhvervskørekort, når det sker på baggrund af strafbare forhold.
+ Fratagelse eller frakendelse af udenlandsk kørekort samt i forbindelse hermed påtegning af internationale kørekort.
+ Genudlevering af administrativt inddraget kørekort.
+ Generhvervelse af førerretten, når denne har været frakendt for bestandig, eller når generhvervelsen sker før frakendelsestidens udløb.
+ Sager om ind- og udtræden af alkolåsordning, jf. færdselslovens § 60 a, stk. 3, og § 132 a, stk. 1, herunder generhvervelse udsat i forbindelse med spirituskørsel, der er omfattet af alkolåsordningen.
+9. Mistede legitimationspapirer Der kan registreres bortkomst eller fremlysning af offentligt anerkendte legitimationspapirer, der er forsynet med fotografi, og som indeholder oplysninger om navn og fødselsdato.
+Pas og kørekort registreres dog ikke i registeret.
+ Registreringen sker i tilknytning til den pågældende persons data og altid med angivelse af eventuelt journalnummer.
+ For det enkelte legitimationspapir kan der registreres oplysninger om:
+ efterlysningsdato,  efterlysende myndighed,  legitimationspapirets art, f.eks. søfartsbog,  gyldighedsområde,  gyldighedstidsrum,  tidspunkt/tidsrum for bortkomsten,  udstedende myndighed, herunder dennes nationalitet,  eventuelt antal genparter af legitimationspapiret,  aflysende myndighed,  aflysningsdato.
+10. Oplysninger om udgangstilladelser Det registreres, når en strafafsoner opnår orlov/udgang under afsoning af frihedsstraf.
+ I tilknytning til orlov/udgang registreres:
+ udgangens begyndelsestidspunkt,  udgangens sluttidspunkt,  til hvilken politikreds udgangstilladelsen er givet,  fra hvilken institution udgangstilladelsen er givet,  om der til orlov/udgangen knytter sig specielle vilkår.
+ Udgange fra åbne anstalter uden overnatning og udgange for enkeltpersoner under ledsagelse registreres ikke.
+11. Børn under 15 år 1. Børn under 15 år registreres for strafbare forhold alene i følgende tilfælde:
+a) Børn fra 12-15 år  Børn i aldersgruppen 12-15 år registreres, når det under hensyn til forholdets grovhed findes påkrævet.
+  En registrering må normalt anses for påkrævet ved drab, røveri, voldtægt, og når forholdet har en grovere karakter i forbindelse med vold, hærværk, brandstiftelse eller overtrædelse af narkotikalovgivningen samt ved alvorligere berigelseskriminalitet, navnlig når der er tale om serieforbrydelser.
+ a) Børn fra 10-12 år.
+  Børn i aldersgruppen 10-12 år registreres, når betingelserne under er opfyldt, og der er tale om særlig alvorlig kriminalitet.
+ a) Børn under 10 år.
+  Registrering finder ikke sted for strafbare forhold.
+ Registrering nævnt under a) og b) foretages af Rigspolitiet efter en vurdering i det enkelte tilfælde.
+ 2. Registrering af børn under 15 år for ikke strafbare forhold finder i øvrigt kun sted, når det er nødvendigt for en forsvarlig udførelse af politiets arbejde, f.eks. ved eftersøgninger.
+12. Registrering af særlige markeringer Udover af de ovennævnte grunde kan en person være registreret i efterforskningsdelen med en særlig markering.
+ Der findes følgende muligheder for særlige markeringer:
+ registrering efter anmodning fra Statsadvokaten for Særlig Økonomisk og International Kriminalitet,  registrering af særligt kriminelle personer,  registrering af personer, hvoraf foto findes verserende i Rigspolitiet nationale fotoregister,  registrering af kredsaktuelle,  registrering efter anmodning fra Rigspolitiets DNA-sektion,  registrering på opmærksomhedsliste.
+13. Anmærkninger I tilknytning til oplysninger vedrørende eftersøgninger, anholdelser/fængslinger, sigtelser, afgørelser eller personer kan der i et anmærkningsfelt anføres en ustruktureret tekst af variabel længde.
+Det kan eksempelvis være:
+ en præcis henvisning til de lovbestemmelser, en afgørelse er truffet efter,  specielle oplysninger om journalisering eller fremgangsmåder, en angivelse af, hos hvilken administrativ myndighed en sag aktuelt befinder sig,  særlige betingelser, der skal opfyldes i forbindelse med en afgørelse eller løsladelse,  særlige forhold, der skal eller bør iagttages i forbindelse med en konkret sag,  specielle oplysninger om anvendte efterforskningsmetoder, der er taget i anvendelse ved opklaringen af en forbrydelse.
+ Anmærkningsteksten skal i alle tilfælde være nødvendig for varetagelsen af registerets opgaver.
+14. Falske generalia Når det konstateres, at en person har misbrugt en anden persons navn og personnummer eller fødedato over for politiet eller i tilknytning til begået kriminalitet, registreres dette som en henvisning til den anden person under »specielle registernumre«, jf. punkt 1.
+15. Andre forhold Andre oplysninger af væsentlig politimæssig interesse, når registreringen er nødvendig for varetagelsen af registerets opgaver.
+Indberetningen påtegnes af en særlig bemyndiget person.

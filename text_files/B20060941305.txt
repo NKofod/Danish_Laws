@@ -1,0 +1,906 @@
+Bestemmelser  
+
+ om nødradiopejlsendere (ELT) (BL 1-10, 1. udgave) I medfør af § 22, stk. 2, jf. § 153, stk. 1, § 82 og § 149, stk. 10 i  
+
+ lov om luftfart, jf. lovbekendtgørelse nr. 1484 af 19. december 2005,  
+
+ fastsætter Statens Luftfartsvæsen herved efter bemyndigelse fra Transport- og  
+
+ Energiministeriet, jf. bekendtgørelse nr. 795 af 3. september 2001 om  
+
+ henlæggelse af opgaver til Statens Luftfartsvæsen og om kundgørelse af de af  
+
+ luftfartsvæsenet udfærdigede forskrifter, følgende:
+1.  
+
+ 	  
+
+ 	  
+
+ Referencedokumenter 1.1  
+
+ 	  
+
+ BL  
+
+ 1-12,  
+
+ Bestemmelser om luftdygtighedsbevis og flyvetilladelse samt  
+
+ luftdygtighedskrav, generelt, seneste udgave.
+ 1.2  
+
+ 	  
+
+ BL 5-50, Bestemmelser om godkendelse af  
+
+ luftfartsforetagender til at udføre erhvervsmæssig lufttrafik i henhold til  
+
+ JAR-OPS 1 og/eller JAR-OPS 3, seneste udgave.
+ 1.3  
+
+ 	  
+
+ 	  
+
+ ICAO  
+
+ Annex 6, Operation of Aircraft, Part II og Part  
+
+ III, Section III, seneste udgave.
+ 1.4  
+
+ 	  
+
+ ICAO Annex 10, Aeronautical  
+
+ Telecommunications, Volume III, Part II, kapitel 5, og bilag 1 hertil,  
+
+ seneste  
+
+ udgave.
+ 1.5  
+
+ 	  
+
+ ICAO  
+
+ Doc 8585, Designators for Aircraft Operating Agencies, Aeronautical  
+
+ Authorities  
+
+ and Services, seneste udgave.
+ 1.6  
+
+ 		  
+
+ Cospas-Sarsat  
+
+ System Data, seneste udgave.
+ 1.7  
+
+ 	  
+
+ Cospas-Sarsat Guidelines on 406 MHz Beacon  
+
+ Coding, Registration and Type Approval, C/S G.005, seneste udgave.
+ 1.8  
+
+ 	  
+
+ 	  
+
+ Specification for Cospas-Sarsat 406 MHz  
+
+ Distress Beacons, C/S T.001, seneste udgave.
+ 1.9  
+
+ 	  
+
+ 	  
+
+ ETSO-2C126, 406 MHz Emergency Locator  
+
+ Transmitter (ELT).
+1.10  
+
+ 	  
+
+ De dokumenter, der er nævnt i pkt. 1.1 og  
+
+ 1.2, findes på Retsinformations hjemmeside  
+
+  
+
+ w  
+
+ w  
+
+ w.retsinfo.dk  
+
+ og på Statens  
+
+ Luftfartsvæsens hjemmeside  
+
+  
+
+ www.slv.dk.  
+
+ Dokumenterne kan endvidere fås ved henvendelse til Statens Luftfartsvæsen Servicecentret Postboks 744 Ellebjergvej 50 2450 København SV Tlf.:
+3618 6000 Fax:
+3618 6001 E-post:
+ais@slv.dk 1.11  
+
+ 	  
+
+ De dokumenter, der er nævnt i pkt. 1.3  
+
+ - 1.5, findes på Statens Luftfartsvæsens hjemmeside  
+
+  
+
+ www.slv.dk  
+
+ og  
+
+ kan endvidere  
+
+ erhverves ved henvendelse til ICAO Headquarters Attn.: Document Sales Unit 999  
+
+ University Street Montréal,  
+
+ Quebec Canada  
+
+ H3C 5H7 Tlf.:
++1 514 954-8022 Fax:
++1 514 954-6769 Sitatex:
+YULDYA E-post:
+Sales_unit@icao.int Web:
+www.icao.int 1.12  
+
+
+  
+
+ De  
+
+ dokumenter, der er nævnt i pkt. 1.6 - 1.8, findes på Cospas-Sarsats  
+
+ hjemmeside  
+
+  
+
+ www.cospas-sarsat.org.
+ 1.13  
+
+ 	  
+
+ Det  
+
+ dokument, der er nævnt i pkt. 1.9, findes på EASAs hjemmeside  
+
+  
+
+ www.easa.eu.int.
+2.  
+
+ 	  
+
+ 	  
+
+ Definitioner COSPAS-SARSAT (COsmicheskaya Sistyema Poiska  
+
+ Avariynich Sudov - SeArch and Rescue SAtellite-aided Tracking):
+ Globalt dækkende  
+
+ satellitbaseret alarmeringssystem med positions- og  
+
+ identifikationsbestemmelse  
+
+ af 406 MHz nødradiopejlsendere.
+ ELT (Emergency Locator Transmitter):
+ Nødradiopejlsender, der  
+
+ sender på frekvenserne 121,5 og 406 MHz.
+ ELT (AD): (Automatic Deployable):
+Automatisk aktiveret ELT med  
+
+ egen antenne.
+ELTen er fastgjort til luftfartøjet og aktiveres samt  
+
+ frigøres  
+
+ automatisk ved G-, stress- eller vandpåvirkning.
+ ELT (AF): (Automatic Fixed):
+ Fastmonteret automatisk  
+
+ aktiveret ELT tilsluttet ekstern antenne.
+ ELT (AP): (Automatic Portable):
+ Fastholdt automatisk aktiveret  
+
+ og transportabel ELT, som let kan afmonteres og medbringes.
+ ELT (S):
+Bærbar ELT med fastgjort  
+
+ antenne.
+Manuelt eller automatisk aktiveret.
+Kan fastgøres til en person, en  
+
+ redningsflåde eller lignende.
+ Helikopter Performanceklasse 1 operationer:
+ Operationer, der i tilfælde  
+
+ af en fejl på den kritiske motor muliggør, at helikopteren er i stand til at  
+
+ lande inden for den distance, der er til rådighed for en afbrudt start, eller  
+
+ til at fortsætte flyvningen sikkert til et passende landingsområde, afhængig  
+
+ af  
+
+ hvornår fejlen indtræffer.
+ Helikopter Performanceklasse 2 operationer:
+ Operationer, hvor der i  
+
+ tilfælde af en fejl på den kritiske motor er performance til rådighed, der  
+
+ muliggør  
+
+ at helikopteren kan fortsætte flyvningen sikkert, bortset fra hvis fejlen  
+
+ opstår under startmanøvren eller sent i landingsmanøvren, i hvilke tilfælde  
+
+ en  
+
+ tvungen landing kan være nødvendig.
+ Helikopter Performanceklasse 3 operationer:
+ Operationer, hvor en  
+
+ motorfejl på ethvert tidspunkt under en flyvning kan gøre en tvungen landing  
+
+ nødvendig for en flermotoret helikopter, men vil nødvendiggøre det for en  
+
+ enmotoret helikopter.
+ Identifier:
+ Kode på 15 hexadecimale tegn  
+
+ dannet ved omskrivning af den del (60 bits) af den digitale meddelelse, som  
+
+ indeholder bl.a. landekode og registrering.
+ Kodning:
+ En godkendt ELT med 406 MHz  
+
+ sender, som er programmerbar og i stand til at udsende forprogrammeret  
+
+ digital  
+
+ meddelelse på 112 eller 144 bits.
+ Protokol:
+Opbygning og format af  
+
+ programmeret meddelelse.
+ICAO Annex 10, Volume III, kapitel 5, bilag 1  
+
+ angiver  
+
+ forskellige protokolopbygninger.
+Alle protokoltyper er beskrevet i  
+
+ referencedokumenterne,  
+
+ jf. punkt 1.4.
+ RCC: Rescue Co-ordination Center:
+ Redningscentral.
+3.  
+
+ 	  
+
+ 	  
+
+ Anvendelsesområde 3.1  
+
+ 		  
+
+ Denne BL gælder for danske luftfartøjer.
+ 3.1.1  
+
+ 	  
+
+ Et luftfartøj betragtes som dansk, når  
+
+ det er dansk registreret eller opereres i henhold til en dansk  
+
+ driftstilladelse, jf. luftfartslovens § 4, stk. 2.
+4.  
+
+ 	  
+
+ 	  
+
+ Generelt 4.1  
+
+ 	  
+
+ 	  
+
+ Luftfartøjer  
+
+ opdeles i denne BL i nedenstående 4 grupper, idet der, jf. afsnit 5-8, er  
+
+ forskellige  
+
+ krav til ELT afhængig af anvendelse og kategori:
+a.  
+
+ 		  
+
+ Flyvemaskiner,  
+
+ der anvendes til erhvervsmæssig lufttrafik, jf.
+BL 5-50 (JAR-OPS 1).
+b.  
+
+ 		  
+
+ Helikoptere,  
+
+ der anvendes til erhvervsmæssig lufttrafik, jf.
+BL 5-50 (JAR-OPS 3).
+ c.  
+
+ 		  
+
+ Flyvemaskiner,  
+
+ der ikke er omfattet af BL 5-50.
+ d.  
+
+ 		  
+
+ Helikoptere,  
+
+ der ikke er omfattet af BL 5-50.
+ 4.2  
+
+ 		  
+
+ ELTen skal være godkendt til installation  
+
+ i luftfartøjer og skal være certificeret af COSPAS-SARSAT.
+ 4.2.1  
+
+ 	  
+
+ Ejeren/brugeren  
+
+ af luftfartøjet er ansvarlig for, at kravet i pkt. 4.2 er opfyldt.
+ 4.3  
+
+ 	  
+
+ 	  
+
+ Luftfartsforetagendet er ansvarlig  
+
+ for, at kravene i afsnit 5 og 6 er opfyldt.
+ 4.4  
+
+ 	  
+
+ 	  
+
+ Luftfartøjschefen er ansvarlig for, at  
+
+ kravene i afsnit 7 og 8 er opfyldt.
+5.  
+
+ 	  
+
+ 	  
+
+ Flyvemaskiner, der opereres efter reglerne  
+
+ i BL 5-50 (JAR-OPS 1) 5.1  
+
+ 	  
+
+ 	  
+
+ Flyvemaskiner, der opereres efter  
+
+ reglerne i BL 5-50, skal være udstyret med ELT i overensstemmelse med kravene  
+
+ i  
+
+ JAR-OPS 1.820 og, afhængig af flyvemaskinens anvendelse, tillige kravene i  
+
+ JAR-OPS 1.830 og 1.835.
+5.2  
+
+ 	  
+
+ 	  
+
+ ELT skal installeres efter gældende  
+
+ certificeringsregler for installation i luftfartøjer.
+ELT (S) kan opbevares i  
+
+ et let tilgængeligt, afmærket aflukke eller i en dertil beregnet og  
+
+ umiddelbart  
+
+ tilgængelig fastgjort holder.
+ 5.3  
+
+ 	  
+
+ 	  
+
+ Positionen for fastgørelse af en ELT  
+
+ skal vælges, så sandsynligheden for utilsigtet transmission minimeres.
+6.  
+
+ 	  
+
+ 	  
+
+ Helikoptere, der  
+
+ opereres  
+
+ efter reglerne i BL 5-50 (JAR-OPS 3) 6.1  
+
+ 	  
+
+ 	  
+
+ Helikoptere, der opereres efter  
+
+ reglerne i BL 5-50, skal være udstyret med ELT i overensstemmelse med kravene  
+
+ i  
+
+ JAR-OPS 3.820 og, afhængig af helikopterens anvendelse, tillige kravene i  
+
+ JAR-OPS 3.830 og 3.835.
+6.2  
+
+ 	  
+
+ 	  
+
+ ELT skal installeres efter gældende  
+
+ certificeringsregler for installation i luftfartøjer.
+ELT (S) kan opbevares i  
+
+ et let tilgængeligt, afmærket aflukke eller i en dertil beregnet og  
+
+ umiddelbart  
+
+ tilgængelig fastgjort holder.
+ 6.3  
+
+ 	  
+
+ 	  
+
+ Positionen for fastgørelse af en ELT  
+
+ skal vælges, så sandsynligheden for utilsigtet transmission minimeres.
+7.  
+
+ 	  
+
+ 	  
+
+ Flyvemaskiner, der ikke opereres efter  
+
+ reglerne i BL 5-50 7.1  
+
+ 	  
+
+ 	  
+
+ Flyvemaskiner, der skal overflyve et  
+
+ åbent vandområde med afstande til et på land egnet nødlandingsområde, der er  
+
+ større end -  
+
+ 		  
+
+ 100  
+
+ NM for enmotorede flyvemaskiner og for flermotorede flyvemaskiner, der ikke  
+
+ er  
+
+ i stand til at fortsætte flyvningen med én motor ude af drift, og -  
+
+ 	  
+
+ 	  
+
+ 200 NM for flermotorede flyvemaskiner,  
+
+ der er i stand til at fortsætte flyvningen med én motor ude af drift, skal være udstyret med  
+
+ mindst én automatisk aktiveret ELT (ELT (AD), (AF) eller (AP)).
+ 7.2  
+
+ 	  
+
+ 	  
+
+ Flyvemaskiner,  
+
+ der skal overflyve et landområde, som er udlagt og bekendtgjort i pågældende  
+
+ AIP  
+
+ som et område, der er særlig vanskeligt for eftersøgnings- og  
+
+ redningstjenesten,  
+
+ skal være udstyret med mindst én  
+
+ automatisk  
+
+ aktiveret ELT (ELT (AD), (AF) eller (AP)).
+ 7.3  
+
+ 	  
+
+ 	  
+
+ ELT skal installeres  
+
+ efter gældende certificeringsregler for installation i luftfartøjer.
+ 7.4  
+
+ 	  
+
+ 	  
+
+ Positionen for fastgørelse af en ELT  
+
+ skal vælges, så sandsynligheden for utilsigtet transmission minimeres.
+8.  
+
+ 	  
+
+ 	  
+
+ Helikoptere, der ikke opereres efter reglerne i BL 5-50 8.1  
+
+ 	  
+
+ 	  
+
+ Helikoptere, der opereres i henhold  
+
+ til Performanceklasse 1, 2 og 3, og som skal overflyve et åbent vandområde i  
+
+ afstande til et på land egnet nødlandingsområde, der er større end -  
+
+ 	  
+
+ 	  
+
+ den distance, der ved Normal cruising  
+
+ speed tilbagelægges i løbet af 10 minutter for helikoptere, som  
+
+ opereres i  
+
+ henhold til Performanceklasse 1 og 2, og -  
+
+ 	  
+
+ 	  
+
+ den distance, der kan tilbagelægges  
+
+ ved autorotation for helikoptere, som opereres i henhold til  
+
+ Performanceklasse  
+
+ 3, skal være udstyret med  
+
+ mindst én automatisk aktiveret ELT (ELT (AD), (AF) eller (AP)) tillige med en  
+
+ ELT(S) i redningsflåden.
+ 8.2  
+
+ 	  
+
+ 	  
+
+ Helikoptere, der skal overflyve et landområde,  
+
+ som er udlagt og bekendtgjort i pågældende AIP, som et område, der er særlig  
+
+ vanskeligt for eftersøgnings- og redningstjenesten, skal være udstyret med  
+
+ mindst én automatisk aktiveret ELT (ELT (AD), (AF) eller (AP)).
+ 8.3  
+
+ 	  
+
+ 	  
+
+ ELT skal installeres  
+
+ efter gældende certificeringsregler for installation i luftfartøjer.
+ 8.4  
+
+ 	  
+
+ 	  
+
+ Positionen for fastgørelse af en ELT  
+
+ skal vælges, så sandsynligheden for utilsigtet transmission minimeres.
+9.  
+
+ 	  
+
+ 	  
+
+ ELT registrering, kodning og rapportering 9.1  
+
+
+  
+
+ Enhver ELT skal tildeles en unik  
+
+ kode til identifikation af ELTen eller luftfartøjet, hvori den er  
+
+ installeret.
+ 9.2  
+
+ 	  
+
+ 	  
+
+ En  
+
+ operatør/ejer af et luftfartøj, som skal være udstyret med ELT i henhold til  
+
+ bestemmelserne i denne BL, skal registrere alle kodede ELTer hos  
+
+ Statens  
+
+ Luftfartsvæsen ved brug af skemaet i bilag 1 eller på anden vis med  
+
+ tilsvarende  
+
+ oplysninger.
+ 9.2.1  
+
+ 	  
+
+ Ændringer i operatør-/ejerforhold skal  
+
+ rapporteres til Statens Luftfartsvæsen ved brug af skemaet i bilag 1 eller på  
+
+ anden vis med tilsvarende oplysninger.
+ 9.3  
+
+
+  
+
+ Operatøren/ejeren af luftfartøjet  
+
+ har pligt til at føre kartotek over, hvor hver enkelt ELT befinder sig,  
+
+ således  
+
+ at relevante oplysninger umiddelbart kan oplyses til redningscentralen.
+9.4  
+
+ 	  
+
+ 	  
+
+ Kodning  
+
+ udføres i henhold til ICAO Annex 10, Volume III, kapitel 5, bilag 1. Af de  
+
+ 112  
+
+ eller 144 bits, som ELTen kan indeholde, er det kun bit 26 - 85, i alt  
+
+ 60 bits,  
+
+ der skal bestemmes.
+Bit 1 - 25 er kodet af fabrikanten og skal ikke ændres.  
+
+ Bit  
+
+ 86 og opefter benyttes bl.a. til positionsdata, hvis ELTen er  
+
+ konstrueret til  
+
+ dette og forbindes til NAV-systemet eller har egen GPS-modtager.
+De 60 bits  
+
+ omskrevet til hexadecimal kode på 15 tegn er ELTens  
+
+ Identifier og skal  
+
+ rapporteres til Statens Luftfartsvæsen ved brug af skemaet i bilag 1 eller på  
+
+ anden vis med tilsvarende oplysninger.
+9.5  
+
+ 	  
+
+ 	  
+
+ Valg  
+
+ af protokol 9.5.1  
+
+ 	  
+
+ Til en ELT, som er fast tilknyttet en  
+
+ bestemt flyvemaskine, skal der benyttes en protokol, som indeholder flyets  
+
+ registrering og en landekode.
+Hvis der er mere end én fast tilknyttet ELT,  
+
+ skal  
+
+ der benyttes en protokol med operatør kode (ICAO), ELT-serienummer til ELT  
+
+ nr.  
+
+ 2 og efterfølgende.
+Samme protokol skal benyttes til en ELT, som skifter  
+
+ luftfartøj  
+
+ i forbindelse med specielle flyvninger, og til placering i redningsflåder.
+De  
+
+ protokoller, som skal benyttes, fremgår af bilag 2.
+ 9.6  
+
+ 	  
+
+ 	  
+
+ I  
+
+ et lejet  
+
+ luftfartøj, der opereres i  
+
+ henhold til en dansk driftstilladelse, men forbliver på udenlandsk  
+
+ registrering,  
+
+ skal som minimum landekoden i ELT-kodningen ændres, og dette skal rapporteres  
+
+ til Statens Luftfartsvæsen ved brug af skemaet i bilag 1 eller på anden vis  
+
+ med  
+
+ tilsvarende oplysninger.
+10.  
+
+ 	  
+
+ 	  
+
+ Dispensation Statens  
+
+ Luftfartsvæsen kan i ganske særlige tilfælde dispensere fra bestemmelserne i  
+
+ denne BL, når det skønnes foreneligt med de hensyn, der ligger til grund for  
+
+ de  
+
+ pågældende bestemmelser i denne BL.
+11.  
+
+ 	  
+
+ 	  
+
+ Straf 11.1  
+
+ 	  
+
+ Overtrædelse af bestemmelserne i pkt. 4.2, afsnit 5 og 6  
+
+ straffes med bøde.
+ 11.2  
+
+ 	  
+
+ Overtrædelse  
+
+ af bestemmelserne i afsnit 7 og 8 straffes i medfør af luftfartslovens § 149,  
+
+ stk. 8 med bøde eller fængsel i indtil 2 år.
+ 11.3  
+
+ 	  
+
+ For  
+
+ overtrædelser begået af selskaber mv. (juridiske personer) kan der pålægges  
+
+ strafansvar efter reglerne i straffelovens 5. kapitel, jf. luftfartslovens §  
+
+ 149, stk. 14.
+12.  
+
+ 	  
+
+ 	  
+
+ Ikrafttræden Denne BL træder i kraft den  
+
+ 1. september 2006.
+Statens Luftfartsvæsen, den 23. juni  
+
+ 2006 Kurt Lykstoft Larsen /Per Veingberg Bilag 1 A.
+Oplysninger om  
+
+ ELT.
+ Fabrikat:
+ Model/ type:
+ Cospas-Sarsat  
+
+ godkendelsesnr.
+ Identificering:  
+
+  
+
+ Angiv,  
+
+ hvilken af nedenstående  
+
+ koder, som er benyttet ved programmering af ELT.
+ICAO kode, Operator designator  
+
+  
+
+ Registreringsbogstaver (ICAO Doc. 8585) ICAO Kode:
+ Registrering:
+ Identifier:  
+
+  
+
+ 15  
+
+ tegn Hexadecimal kode.(ELT bit 26 tom 85). Kan fås af den, som  
+
+ programmerer.
+ Hvis der er mere end én ELT  
+
+ i luftfartøjet, udfyldes et skema for hver.
+B.
+Brugerdata:
+ Ejer/ Bruger:
+ Adresse:
+ Telefon:
+ Fax:
+ Mobil:
+ E-mail:
+ Adresse:
+ Telefon:
+ Fax:
+ Mobil:
+ E-mail:
+ Adresse:
+ Telefon:
+ Fax:
+ Mobil:
+ E-mail:

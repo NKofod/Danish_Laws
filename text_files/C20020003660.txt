@@ -1,0 +1,371 @@
+Vejledning om kvitteringer og XML-filer mv.  
+
+ ved udveksling  
+
+ af elektroniske oplysninger A-kasserne har pr. 1. oktober 2001 iværksat  
+
+ en ændret procedure vedrørende registrering og opsamling af  
+
+ oplysninger om medlems- og efterlønsbidragsperioder mv.
+Projektet skal  
+
+ være gennemført den 30. september 2002.
+ Dette indebærer, at a-kasserne skulle kunne udveksle  
+
+ efterlønsoplysninger mv. i elektronisk form pr. 1. oktober 2001.  
+
+ Udvekslingen skal ske i XML-format.
+ Disse retningslinier er udarbejdet til brug for den  
+
+ praktiske håndtering af a-kassernes elektroniske udveksling af  
+
+ efterlønsoplysningerne i XML-format.
+1. XML-filen som vedhæftet fil Når en a-kasse sender medlemsoplysningerne i  
+
+ XML-format, skal dette ske som en vedhæftet fil til en e-mail.
+Denne  
+
+ e-mail skal sendes til modtageren via a-kassens Sikre Internet Kommunikation  
+
+ (SIK). Transportlaget er dermed adskilt fra indholdet i XML-delen.
+ Det er i den forbindelse ikke nødvendigt at stille  
+
+ strenge krav til indholdet af selve e-mailen, da alt undtagen e-mailens  
+
+ header (emne, rute og andre tekniske data) er signeret og krypteret.  
+
+ Personfølsomme oplysninger i e-mailens tekst-indhold eller i en  
+
+ vedhæftet XML-fil er dermed sikret.
+ Det er ved arkiveringen af efterlønsoplysningerne  
+
+ mv. en fordel, at hvert XML-dokument ligger i en selvstændig fil, som  
+
+ kan overføres til arkivsystemet.
+2. Et eller flere medlemmer i samme e-mail A-kassen må kun sende én vedhæftet  
+
+ XML-fil pr. e-mail.
+3. XML-filens navn XML-filen skal navngives som følger:
+<earnr>-<afsender>-<modtager>-<blanket>-&lt  
+
+ ;cprnr>.XML hvor <earnr> er et Entydigt Afsender Reference nummer (nøgle)  
+
+ for udvekslingen af data på 14 cifre.
+De første 8 cifre  
+
+ udgøres af filens blanket-dato på formen år, måned,  
+
+ dag (ååååmmdd). De næste 6 cifre er et  
+
+ løbenummer på 6 cifre (0-9), som bestemmes individuelt af hver  
+
+ a-kasse.
+Ved hjælp af identifikationen kan a-kassen skelne denne  
+
+ udveksling fra en eventuel senere udveksling mellem de samme to a-kasser.
+ Ved en genfremsendelse skal nøglen være den samme.  
+
+ Afsenderen skal sikre, at samme nøgle ikke bliver brugt til flere  
+
+ forsendelser.
+<afsender> angiver afsender a-kasse ved Dnn (D efterfulgt af 2  
+
+ cifre f.eks.
+D17 for FOA og D02 for RBF).
+<modtager> angiver modtager a-kasse ved Dnn (D efterfulgt af 2  
+
+ cifre f.eks.
+D24 for Metal).
+ <blanket> angiver blanket-id evt. efterfulgt af  
+
+ blanketformål. Én af følgende værdier skal angives  
+
+ AR260, AR260R, AR2870, AR2871, AR2872, AR287R1, AR287R2.
+ <cprnr> angiver medlemmets CPR-nr på 10 cifre.
+ Eksempel:
+D17 sender en AR 287R til D24 med blanketformålet 1 (haster).  
+
+ D17 ønsker oplysninger om medlemmet 050443-1234. Forespørgslen  
+
+ er dannet den 1. oktober 2001 kl. 11.34, og D17 har valgt at anvende  
+
+ klokkeslættet ved udfyldelse af earnr.
+XML-filen hedder herefter:
+20011001113400-D17-D24-AR287R1-0504431234.XML Hvis man anvender Arbejdsdirektoratets XML-blanketter til at danne  
+
+ XML-filerne, kan man automatisk få dannet et filnavn, der følger  
+
+ ovennævnte standard.
+Dette forudsætter, at man i feltet  
+
+ afsender_reference angiver løbenummeret på 6 cifre.
+Angiver man  
+
+ færre end 6 cifre, fyldes der op med nuller.
+Eventuelle bogstaver i  
+
+ feltet ignoreres.
+I den seneste version af XML-blanketterne (af 17. april  
+
+ 2002) ignoreres desuden eventuelle cifre ud over de første 6. Feltet  
+
+ kan således i den seneste version af blanketterne benyttes til at sende  
+
+ oplysninger om f.eks. telefonnummer eller afdelingsnummer.
+ Herefter skal a-kassen blot sende filen vedhæftet en  
+
+ e-mail til modtager-a-kassen, samtidig med at a-kassen gemmer filen i eget  
+
+ edb-system til brug for statistik.
+ Hvis a-kassen modtager en XML-fil, som a-kassen ud fra  
+
+ filens navn kan se allerede er modtaget, kan a-kassen se bort fra denne, med  
+
+ mindre andet er aftalt mellem afsender-a-kassen og modtager-a-kassen.
+4. Kontaktoplysninger i afsenderreferencen Det vil ud over løbenummeret være  
+
+ hensigtsmæssigt i feltet afsender_reference at angive navn/initialer,  
+
+ eventuelt afdelingsnummer og telefonnummer på den sagsbehandler, der  
+
+ har givet oplysningerne om medlemmet.
+Dette vil lette modtager-a-kassen i  
+
+ tilfælde af en eventuel fejlsituation.
+Dette er muligt med den seneste  
+
+ version af Arbejdsdirektoratets XML-blanketter (af 17. april 2002).
+Længden af feltet afsender_reference er defineret  
+
+ som max 70 tegn.
+Det bemærkes, at der i Arbejdsdirektoratets  
+
+ XML-blanketter kun er mulighed for at skrive op til 40 tegn.
+ Afsenderreferencen kan for eksempel indeholde  
+
+ værdien:
+123456 afd138 PJP 38101234 5. Indholdet i e-mailens emnefelt Emnefeltets indhold skal overholde følgende  
+
+ syntaks:
+Att:XML=<earnr>-<afsender>-<modtager>-<blanket> hvor <earnr>, <afsender>, <modtager> og  
+
+ <blanket> er som i afsnit 3, nemlig de 4 første felter fra den  
+
+ vedhæftede fils navn, dvs. earnr (nøgle), afsender-a-kasse,  
+
+ modtager-a-kasse og blanket-id (inkl. eventuelt blanketformål), men  
+
+ uden angivelse af CPR-nr.
+ Eksempel:
+D17 sender en AR 287R til D24 med blanketformålet 1. D17  
+
+ ønsker oplysninger om medlemmet 050443-1234. Forespørgslen er  
+
+ dannet den 1. oktober 2001 kl. 11.34, og D17 har valgt at anvende  
+
+ klokkeslættet ved udfyldelse af earnr.
+Indholdet i e-mailens emnefelt  
+
+ bliver herefter:
+Att:XML=20011001113400-D17-D24-AR287R1 Bemærk: Der er ingen blanke felter eller mellemrum i  
+
+ emnefeltet.
+6. Kvitteringer på modtagne e-mails via SIK Alle modtagne XML-dokumenter kvitteres med en  
+
+ XML-kvittering.
+Denne kvittering dækker på nuværende  
+
+ tidspunkt alene, at en XML-fil (et XML-dokument) er modtaget korrekt, men  
+
+ ikke at indholdet i filen (dokumentet) er forståeligt eller er  
+
+ accepteret af modtager-a-kassen.
+På sigt skal der dog være  
+
+ mulighed for en udvidelse af kvitteringssystemet, således at  
+
+ kvitteringen indeholder både en kvitteringsdel til transportlaget og en  
+
+ kvitteringsdel til indholdet i XML-filen.
+ Der er endnu ikke fastlagt andre krav til indholdet  
+
+ af en XML-kvittering end, at den som minimum skal indeholde et start- og et  
+
+ sluttag, som angiver, at der er tale om en kvittering:
+<kvittering/> eller <kvittering> </kvittering> Der vil senere blive defineret en fælles standard (XML Schema) for  
+
+ indholdet af en XML-kvittering.
+ Fristen for at sende en XML-kvittering er en uge  
+
+ efter modtagelse af et XML-dokument.
+ Eksempel:
+ Hvis a-kasse X sender AR 287R en mandag og modtager en kvittering fra  
+
+ a-kasse Y den følgende mandag, er kvitteringen afsendt/modtaget  
+
+ rettidigt.
+Kvitteringsdelen i a-kassens mail-system skal kunne kvittere for en  
+
+ modtaget e-mail.
+Samtidig skal det fremgå af kvitteringen, af det ikke  
+
+ er uvedkommende, der har modtaget e-mailen.
+Dette gøres ved, at a-kassens mail-system svarer  
+
+ med tilføjelse af »-kvittering« til e-mailens emnefelt og  
+
+ vedhæftet en XML-kvitteringsfil.
+Denne afsendelse skal også ske  
+
+ via SIK, dvs. signeret og krypteret.
+ Filnavnet for en XML-kvittering skal ende på »kvittering.XML«  
+
+ på en af følgende måder:
+1)	Enten anvendes navnet på den XML-fil, der kvitteres for, med  
+
+ »-kvittering« tilføjet lige før ».XML« 2)	eller filen navngives blot »kvittering.XML«.
+ Når en a-kasse, der har afsendt et XML-dokument, har modtaget en  
+
+ kvittering, kan a-kassen være sikker på, at modtageren af  
+
+ XML-dokumentet har modtaget dokumentet, og at e-mailen opfylder kravene til  
+
+ SIK, dvs. at signaturen ikke har været brudt, og at mailen er sendt til  
+
+ rette vedkommende (krypteringen). A-kassen kan desuden identificere hvilken  
+
+ udveksling, der er tale om ud fra indholdet i emnefeltet.
+ Det bemærkes, at XML-kvitteringen på dette  
+
+ stade ikke siger noget om, hvorvidt indholdet i XML-dokumentet er læst  
+
+ og forstået.
+ Eksempel på kvittering:
+D17 sender en AR 287R til D24 med blanketformålet 1. D17  
+
+ ønsker oplysninger om medlemmet 050443-1234. Forespørgslen er  
+
+ dannet den 1. oktober 2001 kl. 11.34, og D17 har valgt at anvende  
+
+ klokkeslættet ved udfyldelse af earnr.
+Emnefeltet i D17's e-mail bliver  
+
+ da:
+Att:XML=20011001113400-D17-D24-AR287R1 Emnefeltet i kvitteringen fra D24 til D17 bliver herefter:
+Att:XML=20011001113400-D17-D24-AR287R1-kvittering Vedhæftet kvitteringen sender D24 en XML-fil, hvis indhold ser  
+
+ således ud:
+<?xml version=»1.0«?> <kvittering> </kvittering> D24 navngiver XML-kvitteringsfilen:
+20011001113400-D17-D24-AR287R1-0504431234-kvittering.XML 7. Håndtering af fejl mv.
+ For så vidt angår korrektioner generelt  
+
+ henvises til B-vejledning nr. 152 af 17. august 2001 om efterløns- og  
+
+ medlemsbidragsregistrering m.v.
+Det fremgår blandt andet heraf, at en rettelse skal  
+
+ foretages af den a-kasse, der har sendt det fejlbehæftede materiale.  
+
+ Dette sker ved at sende rettelsen med almindelig post til a-kassen, der har  
+
+ modtaget det fejlbehæftede materiale.
+Korrektionen foretages herefter  
+
+ manuelt.
+De fejlsituationer, der kan opstå i forbindelse med  
+
+ udvekslingen af efterlønsoplysninger, vil variere, ligesom  
+
+ fejlsituationerne kan opstå på forskellige tidspunkter i  
+
+ processen.
+A-kassen, der konstaterer en fejl, skal kontakte den relevante  
+
+ a-kasse enten pr. brev eller telefonisk.
+En modtager-a-kasse, der konstaterer en fejl, kan  
+
+ således have brug for kontaktinformation til sagsbehandleren i  
+
+ afsender-a-kassen.
+Det er derfor hensigtsmæssigt, at denne  
+
+ kontaktinformation fremgår af XML-filen, som det er foreslået  
+
+ under pkt. 4.
+ A-kassen, der har afsendt det fejlbehæftede  
+
+ materiale, skal under alle omstændigheder reagere ved at sende et brev,  
+
+ der indeholder rettelserne, når der er tale om fejl i oplysningerne i  
+
+ AR 287 eller AR 260.
+ Hvis en a-kasse modtager flere blanketter med forskellige  
+
+ XML-filnavne som svar på én rekvisition, skal årsagen  
+
+ undersøges, da der er tale om en fejl.
+8. XML-filens struktur XML-filen bør indledes med en »Text Declaration«  
+
+ (XML 1.0 spec afsnit 4.3.1: http://www.w3.org/TR/REC-xml#sec-TextDecl). Der  
+
+ stilles ikke særlige krav til tegnsættet, men det anbefales at  
+
+ der vælges ISO-8859-1 eller UTF-8.
+ XML-filernes struktur defineres ud fra de XSD-filer, der  
+
+ ligger på Arbejdsdirektoratets hjemmeside på adressen:
+http://www.adir.dk/extern/digifv/adirxml/<xsd-navn> hvor <xsd-navn> opbygges af tegnene »ar«, blanket_id  
+
+ (elementet <blanket_id>), en understregning, versionen (elementet  
+
+ <version>) efterfulgt af ».xsd« som vist:
+ar<blanket_id>_<version>.xsd Således kan XSD-filen til en AR 287 i version 301 findes i  
+
+ filen:
+http://www.adir.dk/extern/digifv/adirxml/ar287_301.xsd Hvis der angives en »Schema location attribute« skal den  
+
+ udpege den relevante XSD på Arbejdsdirektoratets hjemmeside med fuld  
+
+ stiangivelse og både blanket_id og versionsnummeret på  
+
+ XSD-filerne skal være det samme som angivet i hhv. <blanket_id>  
+
+ og <version> elementerne i XML-filen.
+9. Hvornår er en udveksling en test Følgende er endnu ikke et krav til de enkelte  
+
+ a-kasser, men blot en henstilling for at ensrette og evt. senere  
+
+ standardisere testforløbet.
+En XML-fil til testbrug har et filnavn, der ender på  
+
+  test.XML.
+Den tilhørende kvitteringsfil vil have et navn, der ender  
+
+ på  test-kvittering.XML.
+ Det må aftales mellem de to parter i en sådan  
+
+ test, hvordan testmaterialet skal behandles, og hvorledes evt. problemer i  
+
+ kommunikationen og læsning/validering af XML-filen skal meddeles.
+ En e-mail, der indeholder test i emnefeltet eller en  
+
+ XML-fil med test i navnet, bør aldrig indlæses i de  
+
+ driftkørende systemer.
+ Eksempel:
+D17 ønsker at teste kommunikationen med D24. D17 sender en AR  
+
+ 287R til D24 med blanketformålet 1. D17 ønsker oplysninger om  
+
+ medlemmet 050443-1234. Forespørgslen er dannet den 1. oktober 2001 kl.  
+
+ 11.34, og D17 har valgt at anvende klokkeslættet ved udfyldelse af  
+
+ earnr.
+Emnefeltet i e-mailen vil blive:
+Att:XML=20011001113400-D17-D24-AR287R1-test XML-filens navn vil blive:
+20011001113400-D17-D24-AR287R1-0504431234-test.XML Emnefeltet i kvitteringen fra D24 til D17 bliver herefter:
+Att:XML=20011001113400-D17-D24-AR287R1-test-kvittering XML-kvitteringens navn vil blive:
+20011001113400-D17-D24-AR287R1-0504431234-test-kvittering.XML Vejledning nr. 197 af 29. november 2001 om kvitteringer og XML-filer mv.  
+
+ ved udveksling af elektroniske oplysninger bortfalder.

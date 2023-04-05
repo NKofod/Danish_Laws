@@ -1,0 +1,35 @@
+ Studieplanen har virkning fra den 1. august 1986.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv. insp.
+Modul 1.1 Datamatarkitektur, tidligere navn: Materiellære Modulets formål Kurset skal give de studerende en gennemarbejdet forståelse af datamaters  
+
+ opbygning og virkemåde.
+Specielt skal behandles datamaters lagdelte  
+
+ opbygning, med det fysiske lag nederst og anvendelseslaget øverst.
+Modulet er  
+
+ af generel karakter, men skal tilstræbe, at den opnåede viden eksemplificeres  
+
+ ved referencer til aktuelle datamater.
+Adgangsbetingelser Følgende edb-assistent fag skal være bestået:
+Symbolsk maskinsprog Drift Anbefalede forudsætninger Ingen øvrige Datanommoduler forudsættes gennemført.
+Hovedemner Den studerende vil i løbet af modulet beskæftige sig med datamatarkitektur  
+
+ på flere planer.
+ Ved som referenceramme at anvende en hierarkisk model af et datamatsystem  
+
+ (foreslået af bl. andre Dijkstra og Tanembaum), opnås at der skabes en  
+
+ konsistent opfattelse af datamaters arkitektur.
+ De lag der opereres med i Tanembaums model er:
+- applikationslaget - højniveausprogslaget - assemblersprogslaget - operativsystemlaget - maskinsprogslaget - mikroprogramlaget - fysiske niveau Modulet søger at give den studerende erkendelse af at:
+- hvert lag har klart afgrænsede funktioner - alle begreber kan placeres i en logisk og funktionel sammenhæng - det opbyggede begrebsapparat er direkte anvendeligt ved evaluering og sammenligning af datamater.
+I modulforløbet startes med nederste lag, selv om modsatte kan synes  
+
+ rigtigere ud fra et pædagogisk synspunkt.
+Det gøres først og fremmest fordi  
+
+ det er den traditionelt anvendte i de fleste lærebøger om emnet.
+ Kurset beskæftiger sig hovedsageligt med de fire nederste lag.

@@ -1,0 +1,434 @@
+Studieplanen har virkning fra august 1984 (genoptryk) P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+ 1. Formål.
+ Modulet har til formål at give de studerende kendskab til en række af de  
+
+ systematiske metoder, der anvendes ved udvikling af datamatiske systemer.
+ Der lægges i modulet særlig vægt på metoder og værktøjer til brug for  
+
+ systemanalysen, dvs. frembringelse af de for systemdesign og  
+
+ systemimplementering nødvendige specifikationer.
+ De studerende skal gennem kurset opnå et grundigt kendskab til og  
+
+ færdighed i anvendelse af een af metoderne.
+De studerende skal orienteres om overgangen fra analysefasen til design-  
+
+ og implementationsfasen i et projektforløb.
+Desuden skal de studerende  
+
+ orienteres om forskellige design- og implementeringsstrategier.
+ 2. Forudsætninger for deltagelse.
+ 2.1. Formelle forudsætninger for deltagelse.
+ Adgangsbetingelser fra Edb-assistentuddannelsen:
+ - Problemorienteret programmeringssprog.
+ - Problemorienteret programmeringssprog.
+ - Drift.
+ - Planlægning.
+ - Projektgennemførelse.
+ 2.2. Anbefalede forudsætninger.
+ - 2.1 Sproglære.
+ - 2.2 Programkonstruktion.
+Modulet kræver kendskab til procesbegrebet, herunder kendskab til  
+
+ sekventielle processer og parallelle processer.
+Desuden er det en fordel at  
+
+ være fortrolig med programnotation i en PASCAL-lignende notation.
+ Modulet indeholder forslag til design og implementering af datamatiske  
+
+ systemer baseret på parallelle programmer.
+ 3. Indhold.
+ Modulet er indholdmæssigt opdelt i tre hovedafsnit, der hver omfatter en  
+
+ af følgende metoder til analyse af og specifikation af et datamatisk system.
+Struktueret Analyse: Denne metode er udviklet i USA af en kreds omkring  
+
+ Yourdon.
+Metoden er valgt til at skulle studeres detaljeret og dybtgående i  
+
+ modulet, dvs. de studerende skal opnå et grundigt kendskab til og færdighed i  
+
+ at anvende metoden.
+ISAC: Information Systems work and Analysis of Changes.
+Metoden er  
+
+ udviklet i Sverige og medtages her som en metode, eleverne skal have kendskab  
+
+ til.
+ JSD: Jackson System Development er udviklet i USA af Michael Jackson.  
+
+ Metoden er den nyeste af de tre metoder og eleverne skal opnå kendskab til  
+
+ metoden.
+For alle tre metoder gælder det, at der ikke findes noget teoretisk  
+
+ fundament for metoderne.
+Metoderne repræsenterer tre måder, hvorpå arbejdet  
+
+ med specifikation af et datamatisk system, kan systematiseres.
+Der, anvendes  
+
+ en række forskellige beskrivelsesværktøjer, ligesom der anvendes forskellige  
+
+ angrebsvinkler til systemarbejdet.
+ 3.1. Struktueret Analyse (SA).
+I dette afsnit gennemgåes denne metode detaljeret og dybtgående.
+Der  
+
+ lægges stor vægt på at opøve de studerende i brugen af metodens værktøjer og  
+
+ at anvende evalueringskriterier for de beskrivelser, metoden er baseret på.
+ 1. Værktøjer, beskrivelsesmetoder og evaluering.
+Metoden omfatter to grafiske beskrivelsesformer: datastrømdiagrammer og  
+
+ datastrukturdiagrammer.
+Datastrømdiagrammet (DFD) er metodens grundlæggende  
+
+ beskrivelsesværktøj.
+Datastrukturdiagrammet (DSD) anvendes til beskrivelse af  
+
+ et systems logiske filstruktur, og kan danne basis for senere implementering  
+
+ ved hjælp af et databasesystem.
+Data beskrives i SA på logisk niveau i et datakatalog (eng.
+Data  
+
+ Dictionary, DD) ved brug af en modificeret Bachus-Nauer notation.
+ Processer beskrives i såkaldte Mini-Spec's ved struktueret tekst, enten  
+
+ struktueret engelsk eller struktueret dansk.
+Datastrømdiagrammer beskriver et system som en række processer indbyrdes  
+
+ forbundet ved datastrømme.
+Systemet beskrives i et sæt hierarkiske  
+
+ diagrammer.
+Diagrammerne indeholder symboler for lagrede data (filer).  
+
+ Filtilgangene anvendes til konstruktion af den logiske filstruktur.
+Systembeskrivelsen i form af DFD'er, DSD'er DD og Mini-Spec tilstræbes at  
+
+ blive redundansfri.
+Det er samtidig muligt at konstatere, om beskrivelserne  
+
+ er konsistente.
+ 2. Opstilling af fysisk model af nuværende system.
+På grundlag af brugernes beskrivelser opstiles en beskrivelse af det  
+
+ nuværende system.
+Denne beskrivelse er fysisk i den forstand, at den vil  
+
+ indeholde referencer til fysiske forhold - afdelinger, personer, formularer,  
+
+ maskiner mv.
+Det sikres, at brugeren er enig i beskrivelsen og at  
+
+ beskrivelsen er konsistent.
+ 3. Logisk model for nuværende system.
+Ved expandering af det fysiske DFD gøres beskrivelsen mere logisk.
+Der  
+
+ konstrueres en logisk datastruktur og udformes et logisk DSD.
+Desuden  
+
+ reduceres alle datastrømme til logiske datastrømme.
+Systemet skal foreligge beskrevet på logisk niveau.
+Alle referencer til  
+
+ fysiske forhold er fjernet og beskrivelsen refererer kun til de for systemet  
+
+ nødvendige data.
+ 4. Logisk model af nyt system.
+For første gang tages brugernes krav og ønsker til systemet i betragtning.  
+
+ Ud fra kravspecifikationen udformes forslag til et nyt system.
+I den logiske  
+
+ model for det nuværende system afgrænses det område, som vil blive berørt af  
+
+ ændringer.
+Det nye system udformes og beskrives ved brug af de allerede kendte  
+
+ værktøjer: DFD, DSD, DD og mini-spec.
+Det nye system er fortsat beskrevet på  
+
+ logisk niveau. dvs. der er ikke taget hensyn til brugerens faktiske fysiske  
+
+ virkelighed.
+ 5. Fysisk model for nyt system.
+ Der skal nu udarbejdes en eller flere optioner til et nyt system.  
+
+ Optionerne skal anvendes til vurdering af systemets automatiseringsgrad.
+ Optionerne beskriver grænsefladen mellem automatiske og manuelle processer  
+
+ i systemet, og samtidig vil de fysiske omgivelser til systemet være beskrevet  
+
+ i den fornødne udstrækning.
+ De udarbejdede optioner kvantificeres med henblik på at give mulighed for  
+
+ at foretage valg af automatiseringsgrad.
+ 6. Pakning af den struktuerede specifikation.
+Systembeskrivelsen skal nu pakkes, dvs. den skal klargøres til  
+
+ systemdesign.
+Der fastlægges udførelsesfrekvenser for de enkelte processer.  
+
+ Systemet opdeles i delsystemer ud fra udførelsesfrekvenser og eventuelt  
+
+ datamængder samt ud fra svartidskrav.
+Desuden specificeres væsentlige  
+
+ dataformater - kun de externe - og modellen tilføjes eventuelle  
+
+ kontrolstrømme.
+ 7. Design og implementering.
+ Design og implementering bliver kun behandlet på et orienterende niveau.  
+
+ De studerende bliver orienteret om hovedprincipperne i struktueret design,  
+
+ samt bliver orienteret om et par vigtige implementeringsstrategier top down  
+
+ implementering og paraplyimplementering.
+Muligheden af at implementere systemet helt eller delvist ved  
+
+ parallelprogrammering vurderes.
+Der gives en kort orientering om de værktøjer  
+
+ til parallelprogrammering, der kan tænkes anvendt.
+ 8. Vedligeholdelse af den struktuerede specifikation.
+Her vurderes hvorledes ændringer til et system kan indarbejdes og hvilken  
+
+ indflydelse løbende ændringerne vil få for projektarbejdet.
+Desuden behandles  
+
+ mulighederne for at automatisere specifikationsarbejdet, f.eks. ved brug af  
+
+ software til håndtering af Data Dictionary.
+ 3.2. ISAC.
+I dette afsnit gives en indføring i denne metode.
+Den studerende opøves i  
+
+ brugen af ISAC's værktøjer og skal gennemføre mindre opgaver i ISAC  
+
+ specifikation.
+ 1. Værktøjer, beskrivelsesmetoder og evaluering.
+I modsætning til SA anvender man i ISAC flere typer af grafiske  
+
+ beskrivelser, kaldet grafer.
+Følgende grafer vil blive behandlet: V- graf,  
+
+ I-graf, K-graf og D-graf.
+V-grafer beskriver aktiviteterne i systemet og de mængder af information  
+
+ og materiel, som aktiviteterne forudsætter.
+V-grafer beskriver såvel  
+
+ informationsstrømme som strømme af materialer.
+I-grafer anvendes til beskrivelse af sammenhængen mellem de  
+
+ informationsmængder, der behandles af systemet.
+K-grafer beskriver  
+
+ informationsmængdernes opbygning og D-grafer beskriver det  
+
+ informationsbehandlende system i form af manuelle rutiner og programmer.
+Ud over graferne anvendes i ISAC en lang række tabeller og lister til  
+
+ beskrivelse af forskellige forhold.
+I modulet fokuseres på anvendelsen af de  
+
+ tabeller, der direkte understøtter systemarbejdets mere tekniske aspekter.
+I ISAC anbefales et noget bogholderipræget system til nummerering af  
+
+ grafer, aktiviteter, mængder mv.
+De studerende anbefales at bruge dette, idet  
+
+ en systematisk numerering er en forudsætning for at kunne holde styr på ISAC'  
+
+ s omfattende beskrivelser.
+ 2. Forandringsanalysen.
+ Forandringsanalysens metodetrin:
+ 1. Analyse af problemer og nuværende system.
+ 2. Analyse af forandringsalternativer.
+ 3. Valg af forslag til systemløsning.
+Der udarbejdes en overordnet beskrivelse af det nuværende system ved  
+
+ V-grafer.
+I denne fase af et projekt undersøges forandringsbehov og - ønsker  
+
+ og man søger at finde frem til årsagerne til problemer.
+ Der udarbejdes forslag til ændringer til det eksisterende system.  
+
+ Forslagene evalueres og der udvælges en systemløsning.
+ 3. Virksomhedsstudier.
+ Metodetrinene i virksomhedstudier:
+ 1. Inddeling i delinformationssystemer.
+ 2. Analyse af delinformationssystemer.
+ 3. Samordning af delinformationssystemer.
+Der gennemføres en detaljeret analyse af systemet med de foreslåede  
+
+ ændringer.
+Dette resulterer i detaljerede V-grafer og egenskabstabeller, som  
+
+ beskriver fysiske forhold i systemet såsom datamængder og frekvenser.
+Desuden søges systemet opdelt i informationsbehandlende delsystemer og  
+
+ rent manuelle delsystemer.
+Der udarbejdes en informationssystemfortegnelse.
+ 4. Informationsanalyse.
+ Informationsanalysen består af følgende metodetrin:
+ 1. Præcedensanalyse og komponentanalyse.
+ 2. Procesanalyse.
+ 3. Egenskabsanalyse.
+I præcedensanalysen identificeres de transformationer. der finder sted på  
+
+ informationsmængderne, samt de forudsætninger der skal gælde for  
+
+ produktionene af de enkelte informationsmængder.
+Beskrivelsen vil foreligge i  
+
+ en I-graf.
+ I komponentanalysen beskrives informationsmængdernes struktur i K- grafer.
+Procesanalysen består i at udarbejde en tabel over de processer, der  
+
+ indgår i systemet.
+I procestabellen foretages der en klassificering af  
+
+ systemets processer.
+Der udarbejdes desuden en procesbeskrivelse for alle  
+
+ processer.
+ Egenskabsanalysen består i at kvantificere de i procesfortegnelsen  
+
+ indgående processer mht. frekvenser og i kvantificering af datamængder mv.
+ 4. Datasystemudformning og udstyrstilpasning.
+ Metodetrin i datasystemudformning:
+ 1. Fastlægge præliminære procesgrupper.
+ 2. Gruppering af processer.
+ 3. Registeranalyse.
+ 4. Datastruktuering og programafgrænsning.
+ 5. Programkonstruktion.
+ Datasystemudformning er den første egentlige fase i design af systemet.  
+
+ Programafgrænsningen sker på grundlag af en gruppering af processerne ud fra  
+
+ kriterier som:
+centraliseringsgrad, bearbejdsningsmetoder, udførelsesfrekvenser og  
+
+ udførelsestidspunkter.
+Systemet beskrives ved D-grafer og D- strukturer.
+ I ISAC anvendes JSP som programkonstruktionsmetode, hvorfor der orienteres  
+
+ om denne metode.
+ De studerende orienteres om metodetrinnene i den sidste fase:  
+
+ udstyrstilpasning.
+ 1. Udstyrsanalyse.
+ 2. Tilpasning af de datamatiske rutiner.
+ 3. Etablering af driftsrutiner.
+ 3.3. Jackson System Development (JSD).
+Metoden studeres ligesom ISAC på et orienterende niveau.
+De studerende  
+
+ skal gennemføre enkelte øvelser i brugen af værktøjerne i JSD.
+JSD opdeler systemarbejdet i to hovedfaser: specifikation og  
+
+ implementering.
+Specifikationsfasen er igen delt i en række trin:
+ Trin 1: Opstil liste over entiteter og aktioner.
+ Trin 2: Struktuering af entiteter.
+ Trin 3: Opstilling af initialmodel.
+ Trin 4: Fastlæg og beskriv funktioner.
+ Trin 5: Fastlæg og beskriv tidskrav.
+ Som det fremgår af ovenstående beskrives systemets funktioner først på et  
+
+ relativt sent tidspunkt i projektforløbet.
+Grundideen i JSD er at systemfunktionerne skal bygges på en systemmodel,  
+
+ der simulerer brugerens virkelighed.
+Denne »virkelighed« tænkes at  
+
+ bestå af en række entiteter, der kan simuleres ved sekventielle processer.  
+
+ Systemmodellen bliver således i JSD et system af samarbejdende processer.
+Der lægges i JSD vægt på muligheden af at automatiserer væsentlige dele af  
+
+ implementeringen af systemet.
+Det er vigtigt at bemærke, at der ikke i JSD er  
+
+ nogen egentlig designfase.
+Denne er indarbejdet i implementeringsfasen.
+ 1. Værktøjer, beskrivelsesmetoder og evaluering.
+I JSD anvendes strukturdiagrammer til beskrivelse af de mulige sekvenser  
+
+ af aktioner, som entiteter kan gennemløbe.
+Strukturdiagrammerne omsættes til  
+
+ en struktueret tekst, der beskriver entiteten som en i princippet udførbar  
+
+ sekventiel proces.
+ Initialmodellen og modellens funktioner beskrives i System Specifikations  
+
+ Diagrammer (SSD). I dette diagram beskrives forbindelser mellem processerne  
+
+ ved datastrømforbindelser og tilstandsvektorforbindelser.
+ I forbindelse med implementering udarbejdes System Implementations  
+
+ Diagrammer (SID), som beskriver de processer, der skal inverteres samt  
+
+ indførte scheduleringsprocesser.
+ Til beskrivelse af datastrømme anvendes strukturdiagrammer.
+ 2. Specifikationsfasen.
+I trin 1 fastlægges den del af brugerens virkelighed, som systemet skal  
+
+ omfatte.
+Dette sker ved at udarbeide en liste over entiteter (objekter,  
+
+ enheder) og aktioner som entiteterne kan udføre eller bliver udsat for.
+Trin 2 omfatter struktuering af entiteterne, dvs. udarbejdelse af  
+
+ strukturdiagrammer, der beskriver de tilladte sekvenser ak aktioner for hver  
+
+ entitet.
+For hver entitet udarbejdes en tekstlig beskrivelse af denne.  
+
+ Jackson anvender her en speciel programnotation.
+Der skal nu opstilles en initialmodel.
+Dette sker i trin 3, hvor  
+
+ entiteterne opfattes som sekventielle processer, kaldet realprocesser.
+Til  
+
+ hver realproces etabelres en modelproces af samme struktur, og realprocesser  
+
+ og modelprocesser kobles sammen ved en datastrømforbindelse eller en  
+
+ tilstandsvektorforbindelse.
+Det herved fremkomne SSD er en simulering af brugerens entiteter.
+I trin 4  
+
+ tilføjes denne model systemfunktioner.
+Dette sker enten ved indlejring eller  
+
+ som påtrykte funktioner.
+I trin 5 analyseres tidskrav og eventuelle krav vedrørende datamængder og  
+
+ frekvenser.
+Der foretages de fornødne ændringer til SSD og der kan indføres  
+
+ synkroniseringsprocesser.
+ 3. Implementeringsfasen.
+Til slut behandles implementeringen.
+Ligesom i SA, kan systemet helt eller  
+
+ delvist implementeres ved brug af multiprogrammering eller  
+
+ parallelprogrammering.
+Ved sekventiel programmering skal der foretages  
+
+ programinvertering og indføres scheduleringsrutiner.
+Dette beskrives i SID  
+
+ diagrammer.

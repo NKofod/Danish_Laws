@@ -1,0 +1,3257 @@
+Cirkulære om indberetning til statistik  
+
+ over AF s produktion i gennemførelsen af lov om en aktiv  
+
+ arbejdsmarkedspolitik, lov om servicejob og lov om  
+
+ børnepasningsorlov Dette cirkulære indeholder retningslinier for AF's  
+
+ indberetning af produktionsstatistikker over Arbejdsformidlingens aktiviteter  
+
+ i forbindelse med gennemførelse af lov om arbejdsmarkedspolitik jf.  
+
+ lovbekendtgørelse nr. 805 af 23. august 2000, som ændret ved lov  
+
+ nr. 1250 og 1253 af 20. december 2000, gennemførelse af lov om orlov  
+
+ jf. lovbekendtgørelse nr. 6 af 5. januar 2000 som ændret ved lov  
+
+ nr. 402 af 31. maj 2000 om børnepasningsorlov, samt lov om servicejob  
+
+ nr. 1081 af 29. december 1999 som ændret ved lov nr. 1249 af 20  
+
+ december 2001.
+Siden idriftsættelsen af AMANDA er der implementeret  
+
+ nye produkter i produktionsstatistikkerne over Arbejdsformidlingens  
+
+ aktiviteter.
+Dette cirkulære præciserer grundlaget for og kravene  
+
+ til AF-regionernes indberetning af oplysninger til produktionsstatistikkerne  
+
+ i AMANDA, jf. bilag 1.
+Dette cirkulære med tilhørende bilag har til  
+
+ formål; i at præcisere definitionerne af de  
+
+ aktiviteter/ydelser, der indgår i produktionsstatistikken i at beskrive de udtræks- og optællingskriterier, der anvendes i  
+
+ opgørelsen af produktionsstatistikken i at præcisere de krav, som indberetningen til statistikken stiller  
+
+ til AF's registrering af oplysninger i AMANDA-sag.
+ Styrelsen henleder opmærksomheden på, at der  
+
+ endnu ikke er udviklet statistik over de nye redskaber, der skal tages i brug  
+
+ i forbindelse med implementeringen af den seneste revision af  
+
+ arbejdsmarkedsreformen pr. 1. januar 2001. Det gælder bl.a. intensiv  
+
+ jobsøgning og den særlige formidlingsindsats.
+ I forbindelse med den forestående udvikling af disse  
+
+ statistikker vil styrelsen i det omfang, det er nødvendigt,  
+
+ særskilt udsende endeligt og supplerende materiale til dette  
+
+ cirkulære.
+ Den konkrete beskrivelse/specifikation af  
+
+  produktionsstatistikkerne fremgår af bilag 1.
+Opbygning og indhold  af cirkulærets bilag 1 Produktionsstatistikkerne er placeret i AMANDA-sag (under  
+
+ "Landsdækkende rapporter"), hvorfra alle i AF med den nødvendige  
+
+ brugeradgang har mulighed for at afvikle rapporterne efter behov.
+Cirkulærets bilag 1 er opbygget som en tabel for  
+
+ hver af de landsdækkende rapporter.
+Hver landsdækkende rapport  
+
+ belyser et område af AF-systemets aktiviteter.
+ Produktionsstatistikken omfatter følgende  
+
+ landsdækkende rapporter:
+i Nyanmeldte job (ORDRE1NY) i Virksomhedsbesøg (PROD01) i Individuelle samtaler (PROD02) i Kollektive arrangementer (PROD03) i IHP (PROD04NY) i IUP (PROD05NY) i Arbejdspraktik (PROD06A) i Jobtræning (PROD07) i Servicejob (PROD08A) i Individuel jobtræning (PROD09) i VEUF (PROD10 ) i Uddannelse (PROD11NY ) i Vejledning (PROD12A) i Intensiv jobsøgning (PROD13A) i Orlov (PROD14) i Særlig formidlingsindsats (PROD15A) Tabellerne i bilag 1 indeholder 3 kolonner:
+ I første kolonne angiver navnet på samtlige  
+
+ aktiviteter/ydelser med de underopdelinger, som findes i den tilsvarende  
+
+ statistik.
+Anden kolonne indeholder dels definitionen på  
+
+ aktiviteten/ydelsen og dels de krav, der stilles til AFs registrering i  
+
+ AMANDA.
+Disse krav er samtidigt afstemt med de kvalitetskrav, som er  
+
+ beskrevet i AF's kvalitetshåndbog.
+De definitioner, der skal anvendes i  
+
+ relation til de enkelte  aktiviteter/ydelser i den nye produktionsstatistik,  
+
+ er videreført fra det tidligere gældende  
+
+ indberetningscirkulære.
+I tredje kolonne beskrives opgørelsesgrundlaget for  
+
+ det enkelte aktivitetsområde i  produktionsstatistikken.
+Under  
+
+ beskrivelsen af opgørelsesgrundlaget i bilag 1 henvises desuden til  
+
+ det relevante skærmbillede i AMANDA-sag.
+Endvidere beskrives de  
+
+ yderligere kriterier, som anvendes ved optællingen til statistikken,.  
+
+ Der er anvendt de samme begreber og navne  i beskrivelsen i cirkulæret  
+
+ som i det relevante skærmbillede i AMANDA.
+I visse tilfælde er  
+
+ der nævnt registreringsfelter, som er nødvendige at udfylde i  
+
+ AMANDA-sag, og som ikke direkte tælles i statistikken.
+Udover  
+
+ henvisninger til AMANDA-sag er der i den indrammede tekst opgjort relevante  
+
+ informationer m.h.t. udtræksvariable i SAS-programmerne.
+ Specifikke bemærkninger  vedr. opgørelsesgrundlaget:
+ AF-regionerne skal i forbindelse med indberetning til  
+
+ produktionsstatistikken i AMANDA være særligt opmærksomme  
+
+ på følgende forhold:
+i Virksomhedsbesøg I AMANDA skal et virksomhedsbesøg registreres som et møde,  
+
+ og produktionsstatistikken tæller på alle  typer af møder  
+
+ (også telefoniske samtaler). Det er vigtigt, at et  
+
+ virksomhedsbesøg   i AMANDA-sag registreres som et møde af  
+
+  typen "personligt fremmøde", og at andre typer af kontakt med  
+
+ virksomhederne, der ikke opfylder definitionen af  og kvalitetskravene til et  
+
+ virksomhedsbesøg, registreres under mødetypen  
+
+ "ajourføring af virksomhedsdata".
+ Endvidere skal man være opmærksom på, at der findes  
+
+ muligheder for at registrere  2 typer af virksomhedsbesøg:  
+
+ førstegangsbesøg og øvrige besøg.  
+
+ Førstegangsbesøg anvendes første gang, regionen  
+
+ besøger en virksomhed (se definition af og kvalitetskrav til  
+
+ førstegangsbesøg i bilag 1). Alle øvrige besøg  
+
+ registreres som virksomhedsbesøg.  AF-regionerne skal  være  
+
+ opmærksomme på, at førstegangsbesøg kun skal  
+
+ registreres én gang (nemlig som førstegangsbesøg): Denne  
+
+ type besøg  vil automatisk blive talt sammen med øvrige  
+
+ virksomhedsbesøg i produktionsstatistikken.  
+
+ Førstegangsbesøg må m.a.o. ikke registreres 2 gange i  
+
+ AMANDA, således som det var kravet i AF-Match.
+i Samtaler generelt   
+
+ Kategorien "Samtaler" i AMANDA omfatter en række forskellige  
+
+ samtaletyper;  grundregistreringssamtaler, formidlingssamtaler,  
+
+ handlingsplanssamtaler etc.
+Fælles for alle samtaletyper i AMANDA er,  
+
+ at de først indgår i produktionsstatistikken, når de er  
+
+ registreret som en gennemført samtale.
+i Samtaler vedr. grundregistrering  
+
+  
+
+ Kvalitetskonceptet for grundregistreringer og herunder registrering af  
+
+ samtalerne overvejes på nuværende tidspunkt i "Arbejdsgruppen  
+
+ vedrørende grundregistreringer i AMANDA". Styrelsen afventer  
+
+ arbejdsgruppens indstilling og de fremtidige forventede ændringer i  
+
+ registrerings- og tællekriterier, vil derfor blive udmeldt  
+
+ særskilt.
+i Øvrige samtaler  
+
+ Det er ikke muligt at registrere samtaler med personer, udover de  
+
+ samtaletyper, der optælles i produktionsstatistikken.
+Der henvises til  
+
+ registreringsmulighederne i fritekst.
+i Reviderede handlingsplaner/uddannelsesplaner  
+
+ En revision vil tælle ved enhver udskrift af en ny version af  
+
+ handlingsplanen (bortset fra den første). Hvis regionen har behov for  
+
+ at udskrive en handlingsplan uden en forudgående revision skal  
+
+ udskriftmuligheden via "blanket" anvendes.
+i Personer, der ikke medvirker ved udarbejdelse eller revision af IHP / IUP  
+
+ opgøres på baggrund af koder for underretningspligtige  
+
+ hændelser, som sendes til a-kassen i Servicejob  
+
+ Servicejob i ikke kommercielle humanitære organisationer registreres i  
+
+ AMANDA-sag med samme aktivitetstype som servicejob i selvejende  
+
+ institutioner.
+Servicejob i ikke kommercielle humanitære organisationer  
+
+ og servicejob i i selvejende institutioner opgøres som følge  
+
+ heraf under ét i statistikkerne og vil ikke kunne opgøres hver  
+
+ for sig.
+Regioner skal løbende manuelt registrere, hvilke servicejob  
+
+ der vedrører ansættelse i humanitære organisationer.
+i VEUF  
+
+ Kriteriet for opgørelse af personers beskæftigelsesstatus er  
+
+ ændret således, at det fremover er personens status på det  
+
+ tidspunkt, hvor uddannelsesaftaler bliver indgået, der bestemmer om  
+
+ personen indgår i produktionsstatistikkerne som ledig eller  
+
+ beskæftiget.
+i Uddannelse  
+
+ Påbegyndte uddannelsesforløb tælles kun i  
+
+ produktionsstatistikken, hvis de er oprettet under en handlingsplan.
+i Dansk som andetsprog registreres i AMANDA-sag under kursustilmelding med  
+
+ særlige afholdelseskategorier og AMU-koder, der gør det muligt  
+
+ dels at adskille Dansk som andetsprog fra øvrig uddannelse dels at  
+
+ skelne mellem forskellige kategorier indenfor Dansk som andetsprog Dansk som modersmål registreres i AMANDA-sag under kursustilmelding  
+
+ med 1 særlig afholdelseskategori og AMU-kode, der gør det muligt  
+
+ at adskille Dansk som modersmål fra øvrig uddannelse i Ved registrering af et uddannelsesforløb i AMANDA er det vigtigt,  
+
+ at AF-regionerne anvender en  Dun- eller AMU-kode, der er så  
+
+ nøjagtig i forhold til indholdet i kursusforløbet som  
+
+ overhovedet muligt.
+Der findes enkelte tilfælde, f.eks. ved  
+
+ registrering af vejledningsforløb/18 måneders forløb,  
+
+ hvor afholdelseskategorien skal anvendes.
+i Vejledning  
+
+ Vejledning registreres i AMANDA-sag under kursustilmelding med en  
+
+ særlig afholdelseskategori, som gør det muligt at adskille  
+
+ vejledning fra øvrig uddannelse i Intensiv Jobsøgning  
+
+ Intensiv jobsøgning registreres i AMANDA-sag som uddannelse med en  
+
+ særskilt AMU-kode, der gør det muligt at udskille Intensiv  
+
+ jobsøgningsperiode fra uddannelse.
+i Jobsøgningskurser for ledige der deltager i intensiv  
+
+ jobsøgning registreres i AMANDA-sag under kursustilmelding med en  
+
+ særlig AMU-kode der gør det muligt at udskille det nye redskab  
+
+ "Intensiv jobsøgning" fra uddannelse i Uddannelsesorlov  
+
+ Udtrækskriterierne for påbegyndte uddannelsesorlov er beskrevet i  
+
+ det vedlagte bilag, da det i princippet er muligt at påbegynde en  
+
+ uddannelsesorlov i følge overgangsbestemmelserne i lov om  
+
+ børnepasningsorlov § 21, stk. 3.
+i Særlig formidlingsindsats via anden aktør  
+
+ Registreres i AMANDA-sag som uddannelse med en særskilt AMU-kode, der  
+
+ gør det muligt at udskille den særlige formidlingsindsats fra  
+
+ uddannelse.
+Anden aktør skal registreres som kursusudbyder.
+Manuelle indberetninger Der vil indtil videre fortsat være manuel  
+
+ indberetning til den kvartalsvise produktionsstatistik på  
+
+ følgende områder:
+i Åbne tilbud i Jobrotationsprojekter En oversigt over tidsfrister og skemaer til brug for indberetningen  
+
+ fremgår af bilag 2. Skemaerne for jobrotationsprojekter er blevet  
+
+ ændret.
+Styrelsen afventer i øvrigt EU's godkendelse af den nye  
+
+ job-rotationsordning.
+Når den nye ordning træder i kraft i  
+
+ løbet af 1 halvår 2001, vil det være mere  
+
+ hensigtsmæssigt at overgå til en registrering af jobrotation via  
+
+ AMANDA-sag.
+Styrelsen vil i forbindelse hermed udsende retningslinier for en  
+
+ fremtidig registrering af jobrotation.
+Arbejdsmarkedsstyrelsen, den 5. januar  
+
+ 2001 P.
+KT.
+CHEF.
+V.Enevold Dyekjær Bilag 1 Rapport navn: ORDRE1NY AF´s formidling af ordrer Definition:
+ Opgørelsesgrundlag:
+Jobordrer Rapport = ORDRE1NY  
+
+ Produkttype = Formidling Jobordrer   
+
+ (antal anmeldte pladser) Nyanmeldte ikke-tilskudsberettigede job, hvor AF foretager  
+
+ henvisning af personer  
+
+  til konkrete job, idet der lægges vægt på overensstemmelse  
+
+ mellem den  
+
+  arbejdssøgendes kvalifikationer/erfaringer og jobprofil, herunder  
+
+ også Ikke-  
+
+ tilskudsberettigede job, hvor kravet om hurtighed i jobordretypen går  
+
+ forud for  
+
+  udvælgelse af personer.
+Skærmbillede = Jobordre   Ny  
+
+ Jobordretype = produktaktivitetstype Ordinært job 900 og   
+
+ Lynformidling 902   
+
+ Periode = Anmeldt i aktuel periode, hvor  
+
+  ordren har  
+
+ Status = aktiv (738)  
+
+ Tæller på antal pladser Jobordrer mindre eller lig 5  
+
+ dage Nyanmeldte "jobordrer" af højst 5 dages varighed.
+Slutdato -  tiltrædelsesdato mindre end eller lig med 6 Skærmbillede = Jobordre   Ny  
+
+ Jobordretype = produktaktivitetstype Ordinært  
+
+  job 900  og  
+
+ Lynformidling 902,  
+
+ Periode = Anmeldt i aktuel periode, hvor ordren har  
+
+ Status = aktiv (738)  
+
+ Tæller på antal pladser Jobordrer på  
+
+ mere end 5 dage Nyanmeldte "jobordrer" med en varighed på mere end 5  
+
+ dage.  
+
+ Ordrer uden slutdato sættes til at vare i over 5 dage.
+Slutdato -  tiltrædelsesdato større  end 6 Skærmbillede = Jobordre   Ny  
+
+ Jobordretype = produktaktivitetstype Ordinært  
+
+  job 900 og  
+
+ Lynformidling 902,  
+
+ med mere end 5 dage mellem tiltrædelses- og slutdato.  
+
+ Periode = Anmeldt i aktuel periode, hvor ordren har  
+
+ Status = aktiv (738)  
+
+ Tæller på antal modtagne pladser Åbne jobordrer i alt Ved nyanmeldte "åbne job" forstås  
+
+ ikke-tilskudsberettigede job, hvor AF via jobbutikker, jobaviser, jobcentre  
+
+ eller annoncering i aviser, radio, tv (tv-fonen), Internet (AF's jobbank)  
+
+  m.v. medvirker til at bringe arbejdssøgende og arbejdsgivere i  
+
+ kontakt med hinanden, uden at der er tale om an- eller  
+
+ henvisninger.
+Skærmbillede = Jobordre   Ny  
+
+ Jobordretype = produktaktivitetstype Åbent  
+
+  job 901   
+
+ Periode = Anmeldt i aktuel periode, hvor  
+
+  ordren har  
+
+ Status = aktiv (738)  
+
+ Tæller på antal modtagne pladser Åbne jobordrer på   
+
+ mindre eller lig 5 dage Nyanmeldte  "åbne job" af højst 5 dages  
+
+ varighed.
+Skærmbillede = Jobordre   Ny  
+
+ Jobordretype = produktaktivitetstype Åbent  
+
+  job 901,  
+
+ med højst 5 dage mellem tiltrædelses- og  
+
+  slutdato.  
+
+ Periode = Anmeldt i aktuel periode, hvor   
+
+ ordren har  
+
+ Status = aktiv (738)   
+
+ Tæller på antal modt. pladser Åbne jobordrer på  
+
+ mere end 5 dage Nyanmeldte " åbne job" med en varighed på mere  
+
+ end 5 dage.  
+
+ Åbne job uden slutdato sættes til at vare over 5  
+
+ dage.
+Skærmbillede = Jobordre   Ny  
+
+ Jobordretype = produktaktivitetstype Åbent  
+
+  job 901,  
+
+ med mere end 5 dage mellem tiltrædelses- og  
+
+  slutdato.  
+
+ Periode = Anmeldt i aktuel periode, hvor  
+
+  ordren har  
+
+ Status = aktiv (738)   
+
+ Tæller på antal modt. pladser Jobordrer og Åbne job i alt Nyanmeldte plader jobordrer og åbne ordrer Skærmbillede = Jobordre   Ny  
+
+ Jobordretype = produktaktivitetstype Ordinært job 900, Lynformidling  
+
+ 902 og Åbent  
+
+  job 901  
+
+ Periode = Anmeldt i aktuel periode, hvor  
+
+ ordren har  
+
+ Status = aktiv (738)  
+
+ Tæller på antal modt. pladser - heraf i private virksomheder Ved private virksomheder forstås virksomheder, som er  
+
+ ejet af enkelt personer og øvrige private selskabsformer, excl.  
+
+ organisationer, foreninger, selskaber, institutioner og lignende, hvor  
+
+ offentlige tilskud dækker mere end 50 pct. af udgifterne.
+Henter oplysning fra registreringen af  
+
+  virksomheden  
+
+ Skærmbillede = Virksomhed   Ny  
+
+ Ejerforhold = Privat virksomhed Rapport navn: PROD01 AF´s ordinære virksomhed:
+ Definition:
+ Opgørelsesgrundlag:
+Virksomhedsbesøg Et virksomhedsbesøg er den form for  
+
+ virksomhedskontakt, hvor en eller flere AF-medarbejdere har været  
+
+ tilstede på virksomheden og indgået i en dialog med en, i forhold  
+
+ til emnet, relevant repræsentant for virksomheden.
+Indholdet i  
+
+ kontakten skal enten have haft form af 1) tilbud om at yde service til  
+
+ private og offentlige arbejdsgivere i forbindelse med ansættelse,  
+
+ uddannelse, rotation og afskedigelse af medarbejdere eller 2) indsamling af  
+
+ information som led i overvågning/analyse af det regionale  
+
+ arbejdsmarked.
+Virksomhedsbesøg omfatter alle besøg undtagen  
+
+ førstegangsbesøg.
+Telefoniske samtaler eller andre kontakter,  
+
+ som ikke skal tælles i produktionsstatistikken som  
+
+ virksomhedsbesøg, skal registreres under samtalen "ajourføring  
+
+ af virksomhedsdata".
+Skærmbillede = Samtale - Ny (produkttype samtale  
+
+ Mødetype/aktivitetstype = virksomhedsbesøg  
+
+  (produktaktivitetstype 1508  
+
+ Mødeform = personlig fremmøde  
+
+ Samtaledato ligger i perioden  
+
+ Status = Gennemført (741) 1. gangsbesøg Ved 1. gangsbesøg forstås: 1) besøg i en  
+
+ nyetablerede/nytilflyttet virksomhed, 2) besøg i en virksomhed, som  
+
+ ikke har været besøgt af AF i de sidste 2 år.
+Et  
+
+ førstegangsbesøg skal kun registreres én gang  
+
+ under mødetypen førstegangsbesøg.
+De vil automatisk  
+
+ blive lagt sammen med de øvrige  virksomhedsbesøg i  
+
+ produktionsstatististikken.
+Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype = førstegangsbesøg  
+
+  (produktaktivitetstype 1510  
+
+ Mødeform = Personligt fremmøde  
+
+ Samtaledato ligger i perioden  
+
+ Status: Gennemført (741) Rapport navn: PROD02 Kontakt med arbejds- og uddannelsessøgende:
+ Definition:
+ Opgørelsesgrundlag:
+Besøgende i åbne tilbud  
+
+ (INFO-centre, jobcentre, jobbutikker) Antal besøgende i INFO-centre,  job-centre og  
+
+ jobbutikker tælles under et.
+Manuel opgørelse.
+Stikprøver foretaget på  
+
+ baggrund af  centralt udmeldte retningslinier.
+Individuelle samtaler Alle samtaler oprettet i produktsnedkeriet under produkt  
+
+ aktivitetstyperne grundregistreringssamtale, formidlingssamtale,  
+
+ erhvervsvejledningssamtale, individuelle vejledningssamtaler i øvrigt,  
+
+ IHP-samtaler, IUP samtaler, visitationssamtaler samt samtaler vedr. 26 ugers  
+
+ revision af IHP vil tælle i produktionsstatistikken under hver enkelt  
+
+ produkt aktivitetstype.
+Det medfører, at nedenstående  
+
+ definitioner/kvalitetskrav til en samtale skal overholdes ved oprettelse af  
+
+ en ny samtale under produktaktivitetstypen.
+Samtaler, der ikke overholder  
+
+ beskrevne kvalitetskrav, skal derfor ikke registreres som en samtale men som  
+
+ fritekst i AMANDA's sagsbehandlingssystem.
+Rapport = PROD02   individuelle samtaler  
+
+ Produkttype = samtale  
+
+ Optæller antal samtaler på ARRANT Grundregistreringer Formålet med grundregistreringssamtaler er at indhente  
+
+ og ajourføre grundoplysninger om personer, som er blevet tilmeldt AF  
+
+ som arbejdssøgende, og som ikke har været grundregisteret eller  
+
+ fået ajourført deres grundregistrering indenfor de seneste 12  
+
+ måneder.
+Grundregistreringen sker på baggrund af en personlig  
+
+ samtale.
+Grundregistreringen skal indeholde oplysninger til brug for AF´s  
+
+ formidling til job og til evt. senere vejledning af den  
+
+ arbejdssøgende.
+Oplysningerne skal bl.a. omfatte faglig - og  
+
+ uddannelsesmæssig baggrund, tidligere beskæftigelse og geografisk  
+
+ mobilitet.
+Jf. bek. nr. 1338 af 18.12. 2000, § 20.  
+
+ Formålet med ajourføringer af grundregistreringssamtaler er, at  
+
+ ajourføre i fagoplysninger, kurser og/eller uddannelse hos  
+
+ arbejdssøgende.
+I forbindelse med ajourføringer af  
+
+ grundregistreringer kontrolleres og registreres ændringer af samtlige  
+
+ de grundoplysninger, der indhentes ved grundregistreringssamtalen samt  
+
+ periodiske forhold.
+For arbejdssøgende, der tilmelder sig AF og som  
+
+ har været grundregistreret eller fået ajourført deres  
+
+ grundregistrering indenfor de seneste 12 måneder, skal der kun ved  
+
+ omfattende ajourføringer af grundregistreringen, d.v.s. når den  
+
+ ledige har gennemført et kursus/uddannelse eller har opnået  
+
+ arbejdserfaring, der kvalificerer til nye fagbetegnelser, skal der oprettes  
+
+ og registreres en grundregistreringssamtale i AMANDA.
+Der findes ikke en særskilt ajourføringssamtale i  
+
+ AMANDA's sagsbehandlingssystem, som overholder ovenstående definition.  
+
+ Ajourføringssamtaler registreres derfor som en alm.  
+
+ grundregistreringssamtale.
+Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype = Grundregistreringssamtale (produkt aktivitetstype 1500  
+
+ Samtaledato  ligger i perioden  
+
+ Status: Gennemført (741) Formidlingssamtaler Ved en formidlingssamtale forstås personlig eller  
+
+ telefonisk samtale med en arbejdssøgende om et konkret ordinært  
+
+ job m.h.p. formidling, jf. bek. nr. 1338 af 18.12 2000, § 38, stk. 3.  
+
+  Samtalen skal sikre, Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype = Formidlingssamtale  
+
+  (produktaktivitetstype 1501  
+
+ Samtaledato  ligger i perioden  
+
+ Status = Gennemført (741) - at den arbejdssøgende har de rette  
+
+ kvalifikationer - at praktiske og personlige forhold er afklaret inden  
+
+ mødet med arbejdsgiveren, - at den arbejdssøgende har oplysninger om virksomheden,  
+
+ jobbets art, placering, aflønning m.v.
+ Samtalen skal danne baggrund for AFs endelige  
+
+ udvælgelse af arbejdssøgende, der skal formidles til  
+
+ jobbet.
+Erhvervsvejledningssamtaler En erhvervsvejledningssamtale er en grundig og bredt anlagt  
+
+ samtale, der med udgangspunkt i den vejledningssøgendes situation og  
+
+ behov har til formål at understøtte et realistisk valg af  
+
+ beskæftigelse og uddannelse, jf. . bek. nr. 1338 af 18.12 2000, § 44,  
+
+ stk. 2. Manuel opgørelse af erhvervsvejledningssamtaler skal alene ske  
+
+ for personer, der ikke er tilmeldt AF.
+Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype =  Erhvervsvejledningssamtale  
+
+  (produkt aktivitetstype 1502  
+
+ Mødeform = Personligt fremmøde  
+
+ Samtaledato  ligger i perioden  
+
+ Status: Gennemført (741) Indv. vejl.samtaler i  
+
+ øvrigt Øvrige samtaler, som indeholder et element af  
+
+ vejledning af den enkelte arbejdssøgende (personer registreret i  
+
+ AMANDA) om job og uddannelsesmuligheder. Øvrige samtaler omfatter  
+
+ikke telefoniske samtaler eller kortere samtaler med  
+
+ arbejdssøgende, der oplyser om sygdom, ferie eller lignende.
+Disse  
+
+ samtaler kan ikke længere registreres i AMANDA's sagsbehandlingssystem  
+
+ efter udmelding af versionsdokument af  3. april.
+I disse tilfælde  
+
+ henvises til fritekstregistrering.
+Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype = Indv. vejl.samtale i øvrigt  
+
+  (produkt aktivitetstype 1503  
+
+ Samtaledato  ligger i perioden  
+
+ Status: Gennemført (741) IHP-samtaler IHP-samtaler defineres som en individuel samtale, der er  
+
+ gennemført med henblik på udarbejdelse af en IHP.
+Samtalen kan  
+
+ være en afklaring af den lediges ønsker og forudsætninger  
+
+ på arbejdsmarkedet inden udarbejdelsen af IHP eller målrettet mod  
+
+ opstilling, opfølgning eller revision af IHP, herunder aktiviteter,  
+
+ der er omfattet af IHP'en, og som kan give den ledige mulighed for at  
+
+ få ordinær beskæftigelse.
+Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype = IHP-samtale  
+
+  (produkt aktivitetstype 1504  
+
+ Mødeform = Personligt fremmøde  
+
+ Deltagertype = Person  
+
+ Samtaledato  ligger i perioden  
+
+ Status: Gennemført (741) IUP-samtaler IUP-samtaler defineres som en individuel samtale med personer  
+
+ under 25 år, der er gennemført med henblik på udarbejdelse  
+
+ af en IUP.
+Samtalen kan være afklarende i relation til den  
+
+ forestående udarbejdelse af IUP eller målrettet mod opstilling,  
+
+ opfølgning eller revision af IUP, herunder også samtaler  
+
+ vedrørende aktiviteter, der er omfattet af IUP'en.
+Skærmbillede = Samtale   Ny  
+
+ Mødetype = IUP-samtale (produkt aktivitetstype 1505  
+
+ Samtaledato ligger i perioden  
+
+ Status: Gennemført (741) Visitationssamtaler Samtaler med ledige dagpengeberettigede m.h.p. på en  
+
+ samlet individuel vurdering af om den ledige umiddelbart kan formidles  
+
+ arbejde eller om den ledige skal have andre tilbud, j. f. bek. nr. 1338 af  
+
+ 18.12 2000, § 21. Gennemføres senest efter 3 måneders  
+
+ ledighed.
+Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype = Visitationssamtale (produkt  
+
+  aktivitetstype 1513  
+
+ Mødeform = Personligt fremmøde  
+
+ Samtaledato  ligger i perioden  
+
+ Status: Gennemført (741) IHP revision 26 uger Samtale vedr. tilbud om revision af IHP m.h.p. vurdering af  
+
+ om et andet tilbud vil være mere egnet til at bringe den ledige i  
+
+ ordinær beskæftigelse, j. f. bek. nr. 1338 af 18.12 2000, §  
+
+ 178.
+Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype = IHP revision 26 uger (produkt  
+
+ aktivitetstype 1512  
+
+ Mødeform = Personligt fremmøde  
+
+ Samtaledato  ligger i perioden  
+
+ Status: Gennemført (741) Rapport navn: PROD03 Kontakt med arbejds- og uddannelsessøgende:
+ Definition:
+ Opgørelsesgrundlag:
+Kollektive arrangementer INFO-møder for nytilmeldte Møde hvor der informeres om:
+Skærmbillede = Gruppemøde   Ny  
+
+ Gruppemødetype/aktivitetstype = Informøde for nytilmeldte  
+
+ (produktaktivitetstype 300
+Navn = Unikt navn for mødet
+  
+
+ Samtaledato ligger i perioden  
+
+ Status = alle  
+
+ Tæller på antal gruppemøder - de vigtigste rettigheder og forpligtelser som  
+
+ ledig, - kontakten med AF, herunder regler for afmelding og  
+
+ gentilmelding på AF, - AFs forskellige servicetilbud, herunder oversigten over AFs  
+
+ målrettede servicetilbud.
+Deltagere ved INFO-møder for nytilmeldte Se INFO-møder for nytilmeldte.
+Skærmbillede = Mødedeltagelse   Ny  
+
+ Gruppemødetype/aktivitetstype = Informøde for nytilmeldte  
+
+ (produkt aktivitetstype 300
+Navn = Det navn mødet har fået i skærmbil.  
+
+ gruppemøde
+  
+
+ Tæller på mødedatoen ligger i perioden  
+
+ Status = Gennemført (741)  
+
+ Tæller antal personer der deltager i møde INFO-møder før IHP INFO-møder afholdes for at informere  
+
+ målgrupperne om processen i forbindelse med udarbejdelsen af en IHP.  
+
+ Temamøder for udvalgte målgrupper, herunder f.eks. information  
+
+ om den forestående handlingsplanproces medregnes også under  
+
+ målrettede servicetilbud.
+Skærmbillede = Gruppemøde   Ny  
+
+ Gruppemødetype/aktivitetstype = INFO-møde før IHP  
+
+ (produkt aktivitetstype 301  
+
+ Navn = Unikt navn for mødet  
+
+ Samtaledato ligger i perioden  
+
+ Status = Alle  
+
+ Tæller på antal gruppemøder Deltagere ved INFO-møder før IHP Se INFO-møder før IHP.
+Skærmbillede = Mødedeltagelse   Ny  
+
+ Gruppemødetype/aktivitetstype = INFO-møde før IHP  
+
+ (produkt aktivitetstype 301
+Navn = Det navn mødet har fået i skærmbil.  
+
+ gruppemøde
+  
+
+ Samtaledato  ligger i perioden  
+
+ Status = Gennemført (741)  
+
+ Tæller antal personer der deltager i møde INFO-møder før IUP INFO-møder afholdes for at informere  
+
+ målgrupperne under 25 år om processen i forbindelse med  
+
+ udarbejdelsen af en IUP.
+Temamøder for udvalgte målgrupper,  
+
+ herunder f.eks. information om den forestående handlingsplansproces  
+
+ medregnes også under målrettet servicetilbud.
+Skærmbillede = Gruppemøde   Ny  
+
+ Gruppemødetype/aktivitetstype = INFO-møde før IUP  
+
+ (produkt aktivitetstype 302
+Navn = Unikt navn for mødet
+  
+
+ Samtaledato  ligger i perioden  
+
+ Status = Alle  
+
+ Tæller på antal gruppemøder Deltagere ved INFO-møder før IUP Se INFO-møder før IUP Skærmbillede = Mødedeltagelse   Ny  
+
+ Gruppemødetype/aktivitetstype = INFO-møde før IUP  
+
+ (produkt aktivitetstype 302 
+Navn = Det navn mødet har fået i skærmbil.  
+
+ gruppemøde
+  
+
+ Samtaledato  ligger i perioden  
+
+ Status = Gennemført (741)  
+
+ Tæller antal personer der deltager i møde Målrettede servicetilbud Målrettede servicetilbud er et led i  
+
+ kontaktforløbet og retter sig primært mod ledige  
+
+ A-kassemedlemmer.
+Målrettede servicetilbud kan være rettede mod  
+
+ arbejdssøgende generelt eller  særligt udvalgte grupper af  
+
+ arbejdssøgende.  
+
+ MS omfatter også jobklubber.
+Skærmbillede = Gruppemøde   Ny  
+
+ Gruppemødetype/aktivitetstype = Målrettede  
+
+ servicetilbud  (produkt aktivitetstype 303
+Navn = Unikt navn for mødet   
+
+ Samtaledato  ligger i perioden  
+
+ Status =Alle  
+
+ Tæller på antal gruppemøder Deltagere ved målrettede servicetilbud.
+Se målrettede servicetilbud Skærmbillede = Mødedeltagelse   Ny  
+
+ Gruppemødetype/aktivitetstype = Målrettede  
+
+ servicetilbud  (produkt aktivitetstype 303
+Navn = Det navn mødet har fået i skærmbil.  
+
+ gruppemøde
+  
+
+ Samtaledato  ligger i perioden  
+
+ Status = Gennemført (741)  
+
+ Tæller antal personer der deltager i møde Målrettede servicetilbud/åben Målrettede servicetilbud/åben er frivillige  
+
+ tilbud til alle der ønsker at deltage i arrangementet. Åbne  
+
+ målrettede servicetilbud kan være rettede mod  
+
+ arbejdssøgende generelt eller særligt udvalgte grupper af  
+
+ arbejdssøgende.
+Ledige A-kassemedlemmer vi blive registreret for  
+
+ deltagelsen.
+Skærmbillede = Gruppemøde   Ny  
+
+ Gruppemødetype/aktivitetstype = Målrettede  
+
+ servicetilbud/åben  (produkt aktivitetstype 304
+Navn = Unikt navn for mødet
+  
+
+ Samtaledato ligger i perioden  
+
+ Status = Alle  
+
+ Tæller på antal gruppemøder Deltagere ved målrettede  
+
+ servicetilbud/åben Se målrettede servicetilbud/åben Skærmbillede = Mødedeltagelse   Ny  
+
+ Gruppemødetype/aktivitetstype = Målrettede  
+
+ servicetilbud/åben  (produkt aktivitetstype 304
+Navn = Det navn mødet har fået i skærmbil  
+
+ gruppemøde
+  
+
+ Samtaledato  ligger i perioden  
+
+ Status = Gennemført (741)  
+
+ Tæller antal personer der deltager i møde Rapport navn: PROD04NY IHP:
+ Definition:
+ Opgørelsesgrundlag:
+IHP Personer, der indgår IHP Personer, der 1. gang underskriver aftale om IHP, jf. bek.  
+
+ nr. 1338 af 18.12 2000, kap. 6.
+Skærmbillede = Handlingsplan  Ny  
+
+ Aktivitetstype = IHP (produkt aktivitetstype 100  
+
+ Startdato ligger i perioden.  
+
+ Status = Aktiveret (738) Dagpengeperioden Ledige som modtager dagpenge efter § 55 stk. 1, i lov om  
+
+ arbejdsløshedsforsikring og er indplaceret i  
+
+ dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf.. nr. 1338  
+
+ af 18.12 2000, kap. 2, § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 Aktivperioden Ledige dagpengemodtagere som er placeret i aktivperioden,  
+
+ forstået som den periode, hvor der modtages dagpenge efter § 55, stk.  
+
+ 2, i lov om arbejdsløshedsforsikring m.v.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - uden kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - med kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - med kompetencegivende uddannelse og med optjent  
+
+ erhvervserfaring Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Ledige dagpengeberettigede der ikke er omfattet af  
+
+ ungeindsatsen eller § 55 stk. 4.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 Personer, der reviderer IHP Personer, der jf. bek. nr. 1338 af 18.12 2000, kap. 6, § 58  
+
+ har fået revideret IHP.
+ En revision af en handlingsplan skal opfylde de beskrevne  
+
+ kvalitetskrav.
+ Skærmbillede = Handlingsplan  
+
+ Aktivitetstype = IHP (produktaktivitetstype 100  
+
+ Revisionsdato ligger i perioden.  
+
+ Der registreres en revision hver gang en IHP udskrives fra  
+
+ Skærmbillede = Handlingsplan  ny version   
+
+ Der tælles ikke på den første udskerevne version .  
+
+ Ønskes handlingsplanen udskrevet uden der har været en revision  
+
+ af handlingsplanen bruges udskriv via blanketoversigt.
+Dagpengeperioden Ledige som modtager dagpenge efter § 55 stk. 1, i lov om  
+
+ arbejdsløshedsforsikring er indplaceret i  
+
+ dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2, § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 Aktivperioden Ledige dagpengemodtagere som er placeret i aktivperioden,  
+
+ forstået som den periode, hvor der modtages dagpenge efter § 55, stk.  
+
+ 2, i lov om arbejdsløshedsforsikring m.v.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - uden  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - med  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - med kompetencegivende uddannelse og med optjent  
+
+ erhvervserfaring Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 øvrige i aktivperioden Ledige dagpenge berettigede der ikke er omfattet af  
+
+ ungeindsatsen eller § 55 stk. 4.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 Personer, der ikke medvirker. ved udarb. eller rev.
+Af IHP  
+
+ eller som ikke overholder IHP Personer, der indberettes til A-kasse, som flg. af manglende  
+
+ medvirken til udarbejdelse eller revision af IHP, eller som ikke overholder  
+
+ IHP'en, jf. bek. nr. 1338 af 18.12 2000, § 59.
+ Totalsum af nedenstående  
+
+ Tæller på koder for underretningspligtige hændelser, som  
+
+ sendes til a-kassen, jf. nedenfor:
+- ønsker ikke IHP Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype = IHP samtale (1504)  
+
+ Status = gennemført/udeblevet  
+
+ Årsag =Arbejdssøgende ønskede ikke  
+
+ IHP/IUP(R12) - ønsker ikke revision af IHP Skærmbillede = Handlingsplan  
+
+ Status = annulleret/suspenderet  
+
+ Årsag = ønsker ikke revision af IUP (R13) - har afslået tilbud om aktivitet i IHP Skærmbillede = Handlingsplan  
+
+ Status = annulleret/suspenderet  
+
+ Årsag = afslået tilbud og fremsendt klage(R23, R25, R27,  
+
+ R31, R40) og  afslået tilbud og ikke fremsendt klage(R24,  
+
+ R26, R28, R32, R41) - overholder ikke aftale om IHP Skærmbillede =  
+
+ Ansættelsesservice/Kursustilmelding  
+
+ Status = Afbrudt  
+
+ Årsag = Udeblevet/afbrudt aktivitet (R14) Rapport navn: PROD05NY IUP:
+ Definition:
+ Opgørelsesgrundlag:
+IUP Antallet af uddannelsesplaner, som er indgået i  
+
+ perioden Personer, der indgår IUP Personer, der 1. gang underskriver aftale om IUP, jf. bek.  
+
+ nr. 1338 af 18.12 2000, § 61-62.
+Skærmbillede = Handlingsplan   Ny  
+
+ Aktivitetstype = IUP (produktaktivitetstype 101  
+
+ Startdato ligger i perioden.  
+
+ Status = Aktiveret (738) Aktivperioden Ledige dagpengemodtagere som er placeret i aktivperioden,  
+
+ forstået som den periode, hvor der modtages dagpenge efter § 55, stk.  
+
+ 2, i lov om arbejdsløshedsforsikring m.v.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 uden kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek.  nr. 1338 af 18.12 2000, kap. 20, § 179  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 Personer, der reviderer IUP Personer, der i hht. jf. bek. nr. 1015 af 18.12 2000, kap. 6,  
+
+ § 63, stk. 1 og 2 har fået revideret IUP.
+ Skærmbillede = Handlingsplan  
+
+ Aktivitetstype = IUP (produktaktivitetstype 101  
+
+ Der registreres en revision hver gang en IUP udskrives fra  
+
+ Skærmbillede = Handlingsplan  ny version  
+
+ Der tælles ikke på den første version  
+
+ (Ønskes uddannelsesplanen udskrevet uden der har været en  
+
+ revision af uddannelsesplanen bruges udskriv via  
+
+ blanketoversigt).
+Aktivperioden Ledige dagpengemodtagere som er placeret i aktivperioden,  
+
+ forstået som den periode, hvor der modtages dagpenge efter § 55, stk.  
+
+ 2, i lov om arbejdsløshedsforsikring m.v.
+Se definition af målgruppeinddelingen i  
+
+ bilag 3 uden kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 179  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 Personer, der ikke medvirker ved udarbejdels eller revision  
+
+ af IUP eller som ikke overholder IUP Personer, der indberettes til A-kasse, som flg. af manglende  
+
+ medvirken til udarbejdelse eller revision af IUP, eller som ikke overholder  
+
+ IUP'en, jf. bek. nr. 1338 af 18.12 2000, § 64.
+Totalsum af nedenstående Tæller på koder for underretningspligtige hændelser, som  
+
+ sendes til a-kassen, jf. nedenfor:
+- ønsker ikke IUP Skærmbillede = Samtale   Ny  
+
+ Mødetype/aktivitetstype = IUP samtale (1505)  
+
+ Status = gennemført/udeblevet  
+
+ Årsag =Arbejdssøgende ønskede ikke  
+
+ IHP/IUP(R34) - ønsker ikke revision af IUP Skærmbillede = Handlingsplan  
+
+ Status = annulleret/suspenderet  
+
+ Årsag = ønsker ikke revision af IUP (R35) - har afslået tilbud om aktivitet i IUP Skærmbillede = Handlingsplan  
+
+ Status = annulleret/suspenderet  
+
+ Årsag = afslået tilbud  og fremsendt klage(R37) og  afslået  
+
+ tilbud og ikke fremsendt klage(R38) - overholder ikke aftale om IUP Skærmbillede =  
+
+ Ansættelsesservice/Kursustilmelding  
+
+ Status = Afbrudt  
+
+ Årsag = Udeblevet/afbrudt aktivitet (R36) Rapport navn: PROD06A Aktivering Definition:
+ Opgørelsesgrundlag:
+Arbejdspraktik jobordren er oprettet og tilknyttes personen via  
+
+ ansættelsesservice.
+Der tælles på de felter som er  
+
+ beskrevet nedenfor.
+Påbegyndte i arbejdspraktik i alt Påbegyndte dagpengeberettigede i arbejdspraktik i en  
+
+ privat virksomhed mhp vurdering af om der kan ske ansættelse i  
+
+ ordinær beskæftigelse eller jobtræning jf. bek.nr. x af 18.  
+
+ december 2000, kap.12, § 122 stk. 1.
+ Skærmbillede = Ansættelsesservice  
+
+ Handlingsplan  
+
+ Type/aktivitetstype = arbejdspraktik  
+
+ (produktaktivitetstype 1009  
+
+ Status for aktiviteten = aktiveret (738)  
+
+ Startdato ligger i optællingsperioden.
+-dagpengeperioden Påbegyndte dagpengeberettigede i arbejdspraktik, som er  
+
+ indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i arbejdspraktik, som  
+
+ jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 Rapport navn: PROD07 Aktivering Definition:
+ Opgørelsesgrundlag:
+Jobtræning jobordren er oprettet og tilknyttes personen via  
+
+ ansættelsesservice.
+Der tælles på de felter som er  
+
+ beskrevet nedenfor.
+Påbegyndte i jobtræning i alt Påbegyndte dagpengeberettigede i jobtræning, hvor  
+
+ AF giver tilbud om jobtræning, jf. bek. nr. 1338 af 18.12 2000, kap.10,  
+
+ § 80 stk. 1.
+ Skærmbillede = Ansættelsesservice  
+
+ Handlingsplan  
+
+ Type/aktivitetstype = jobtræning (produktaktivitetstype 1005  
+
+ Status for aktiviteten = aktiveret (738)  
+
+ Startdato ligger i optællingsperioden.
+- privat Ved privat placering forstås private virksomheder eller  
+
+ organisationer, foreninger, selskaber, institutioner og lign., hvis udgifter  
+
+ dækkes med mindre end 50 pct. offentlige tilskud.
+Undtaget herfor er  
+
+ dog virksomheder, som jf. bek. nr. 1338 af 18.12 2000, kap. 10, § 80 stk. 4  
+
+ er godkendt af Arbejdsmarkedsrådet Der tælles på produktaktivitet under produkttypen  
+
+ formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype =  Privat jobtræning ( 903) -dagpengeperioden Påbegyndte dagpengeberettigede i privat  
+
+ jobtræning som er indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengeberettigede der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende  
+
+  uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - kommune Ved kommunal placering forstås jobtræning, der  
+
+ finder sted i kommuner, jf. bek. nr. 1115 af 18.12 2000, kap. 10, § 80, stk.  
+
+ 3, nr. 1.
+Produktaktivitet under produkttypen formidling  
+
+ Skærmbillede = Ordre Jobordretype/aktivitetstype =   Jobtræning i kommune  
+
+ (904) -dagpengeperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ er indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- med  
+
+  kompetencegivende uddannelse og med optjent  
+
+  erhvervserfaring Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 - amt Ved amtslig placering forstås jobtræning, der  
+
+ finder sted i amtskommuner, jf. bek. nr. 1338 af 18.12 2000, kap. 10, § 80,  
+
+ stk. 3, nr. 1.
+Tæller på produktaktiviteten under produkttypen  
+
+ formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype = Jobtræning i amt (905) -dagpengeperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ er indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- med  
+
+  kompetencegivende uddannelse og med optjent  
+
+ erhvervserfaring Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 - stat Ved statslig placering forstås jobtræning, der  
+
+ finder sted i staten, jf. bek. nr. 1338 af 18.12 2000, kap. 10, § 80, stk. 3,  
+
+ nr. 2.
+Produktaktiviteten under produkttypen formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype =Jobtræning i stat (906) -dagpengeperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ er indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+ kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- med  
+
+  kompetencegivende uddannelse og med optjent  
+
+ erhvervserfaring Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 - selvejende institution Jobtræning i selvejende institution.
+D.v.s.  
+
+ organisationer, foreninger, selskaber, institutioner og lign., hvis udgifter  
+
+ dækkes med mindst 50 pct. offentligt tilskud, jf. bek. nr. 1338 af  
+
+ 18.12 2000, kap. 10, § 80, stk. 3, nr. 3.
+Produktaktiviteten under produkttypen formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype = Jobtræning i selvejende inst. (  
+
+ 916) -dagpengeperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ er indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- med  
+
+  kompetencegivende uddannelse og med optjent  
+
+  erhvervserfaring Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 Rapport navn: PROD08A Aktivering Definition:
+ Opgørelsesgrundlag:
+Servicejob Jobordren er oprettet og tilknyttes personen via  
+
+ ansættelsesservice.
+Der tælles på de felter som er  
+
+ beskrevet nedenfor.
+Påbegyndte i servicejob i alt Påbegyndte dagpengeberettigede i servicejob, jf. bek.  
+
+ nr 1360 af 20.12 2000, § 1.
+ Skærmbillede = Ansættelsesservice   Ny  
+
+ Type/aktivitetstype = servicejob (produktaktivitetstype 1010  
+
+ Status for aktiviteten = aktiveret (738)  
+
+ Startdato ligger i optællingsperioden.
+- kommune Ved kommunal placering forstås servicejob, der finder  
+
+ sted i kommuner, jf. bek. nr. 1360 af 20.12 2000,  § 1, stk. 1.
+Produktaktivitet under produkttypen formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype =   Servicejob i kommune (923) - aktivperioden Påbegyndte dagpengeberettigede i servicejob, som jf. §  
+
+ 52 a, stk. 2 eller § 55 stk. 2, i lov om arbejdsløshedsforsikring m.v.  
+
+ er  indplaceret i aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 - overgangsydelse Påbegyndte i servicejob på  
+
+ overgangsydelse - amt Ved amtslig placering forstås servicejob, der finder  
+
+ sted i amtskommuner, jf. bek. nr. 1360 af 20.12 2000,  § 1, stk.  
+
+ 1.
+Tæller på produktaktiviteten under produkttypen  
+
+ formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype = Servicejob i amt (924) - aktivperioden Påbegyndte dagpengeberettigede i servicejob, som jf. §  
+
+ 52 a, stk. 2 eller § 55 stk. 2, i lov om arbejdsløshedsforsikring m.v.  
+
+ er  indplaceret i aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af 18.12  2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 - overgangsydelse Påbegyndte i servicejob på  
+
+ overgangsydelse - stat Ved statslig placering forstås servicejob, der finder  
+
+ sted i staten, jf. bek. nr. 1360 af 20.12 2000,  § 1, stk. 1.
+Produktaktiviteten under produkttypen formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype =Servicejob i stat (925) - aktivperioden Påbegyndte dagpengeberettigede i servicejob, som jf. §  
+
+ 52 a, stk. 2 eller § 55 stk. 2, i lov om arbejdsløshedsforsikring m.v.  
+
+ er  indplaceret i aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 - overgangsydelse Påbegyndte i servicejob på  
+
+ overgangsydelse selvejende institution  og ikke  
+
+ kommercielle humanitære  
+
+ organisationer Servicejob i selvejende institutioner, hvis udgifter  
+
+ dækkes med mindst 50 pct.
+Offentligt tilskud, jf. bek. nr. 1360 af  
+
+ 20.12 2000,  § 1, stk. 2. og Servicejob i ikke-kommercielle humanitære  
+
+ organisationer. jf. bek. nr. 1360 af 20.12 2000,  § 1, stk. 3.
+Produktaktiviteten under produkttypen formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype = Servicejob i selvejende inst. (  
+
+ 926) - aktivperioden Påbegyndte dagpengeberettigede i servicejob, som jf. §  
+
+ 52 a, stk. 2 eller § 55 stk. 2, i lov om arbejdsløshedsforsikring m.v.  
+
+ er  indplaceret i aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 - overgangsydelse Påbegyndte i servicejob på  
+
+ overgangsydelse Rapport navn: PROD09 Aktivering Definition:
+ Opgørelsesgrundlag:
+Individuel jobtræning jobordren er oprettet og tilknyttes personen via  
+
+ ansættelsesservice.
+Der tælles på de felter som er  
+
+ beskrevet nedenfor.
+Påbegyndte i individuel jobtræning i  
+
+ alt Påbegyndte ledige i individuel jobtræning jf.  
+
+ bek. nr. 1338 af 18.12. 2000 kap. 11, § 107.
+ Skærmbillede = ansættelsesservice  
+
+ Handlingsplan  
+
+ Type = jobtræning (produktaktivitetstype 1006)  
+
+ Status for aktiviteten = aktiveret (738)  
+
+ Startdato ligger i optællingsperioden.
+- privat Ved privat placering forstås private virksomheder eller  
+
+ organisationer, foreninger, selskaber, institutioner og lign., hvis udgifter  
+
+ dækkes med mindre end 50 pct. offentlige tilskud.
+Undtaget herfor er  
+
+ dog virksomheder, som jf. bek. nr. 1338 af 18.12 2000, kap. 11 § 80 stk. 4 er  
+
+ godkendt af Arbejdsmarkedsrådet Tælles under produkttypen = formidlings  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype =  Individuel privat jobtræning (  
+
+ 911) -dagpengeperioden Påbegyndte dagpengeberettigede i privat  
+
+ jobtræning som er indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Dagpengeberettigede  som jf. § 52 a, stk. 2 eller § 55 stk.  
+
+ 2, i lov om arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende  
+
+  uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende  
+
+  uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Øvrige dagpengeberettigede ledige i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - kommune Ved kommunal placering forstås jobtræning, der  
+
+ finder sted i kommuner, jf. bek. nr. 1115 af 18.12 2000, kap.10, § 80, stk.  
+
+ 3, nr. 1.
+Tælles på produktaktiviteten under produkttypen  
+
+ formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype =  Individuel jobtræning i kommune  
+
+ (912) -dagpengeperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ er indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+ Se definition af målgruppeinddelingen i bilag  
+
+ 3.
+- øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+ Se definition af målgruppeinddelingen i bilag  
+
+ 3.
+- aktivperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende  
+
+  uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende  
+
+  uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- med  
+
+  kompetencegivende  
+
+  uddannelse og med   
+
+ optjent erhvervserfaring Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 - amt Ved amtslig placering forstås jobtræning, der  
+
+ finder sted i amtskommuner, jf. bek. nr. 1338 af 18.12 2000, kap. 10, § 80,  
+
+ stk. 3, nr. 1.
+Tælles på produktaktiviteten under produkttypen  
+
+ formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype =  Jobtræning i amt (913) -dagpengeperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ er indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- med  
+
+  kompetencegivende uddannelse og med optjent erhvervserfaring Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 - stat Ved statslig placering forstås individuel  
+
+ jobtræning, der finder sted i staten, jf. bek. nr. 1338 af 18.12 2000,  
+
+ kap. 10, § 80, stk. 3, nr. 2.
+Tælles på produktaktiviteten under produkttypen  
+
+ formidling  
+
+ Skærmbillede = Ordre  
+
+ Jobordretype/aktivitetstype =  Individuel jobtræning i stat  
+
+ (914) -dagpengeperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ er indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i jobtræning, som  
+
+ jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- med  
+
+  kompetencegivende uddannelse og med optjent erhvervserfaring Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ (§ 169) med kompetencegivende uddannelse og 52 ugers beskæftigelse  
+
+ inden for de sidste 3 år.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 Rapport navn: PROD10 Aktivering Definition:
+ Opgørelsesgrundlag:
+VEUF Data hentes fra ansættelsesservice.
+Påbegyndte i VEUF-aftaler i alt Påbegyndte uddannelsesaftaler med personer over 25  
+
+ år, jf. bek. nr. 560 af 2. juli 1999, § 2.
+ Skærmbillede = Ansættelsesservice  
+
+ Handlingsplan  
+
+ Rapporten tæller på Type/produkttype = Voksenlærling  
+
+ (produktaktivitetstype 1001)  
+
+ Status for aktiviteten = aktiveret (738)  
+
+ Startdato ligger i optællingsperioden.
+- "Ikke ledige" Påbegyndte uddannelsesaftaler med beskæftigede  
+
+ personer  jf. bek. nr. 560 af 2. juli  199, § 4 "Ikke ledige" opgøres ud fra personens  
+
+ tilmeldingsarrangement.
+Personen tæller som ikke ledig, hvis personen  
+
+ har status afmeldt den dag VEUF-aktiviteten opnår status =  
+
+ Ansat/godkendt.
+- Ledige Påbegyndte uddannelsesaftaler med ledige personer  jf.  
+
+ bek. nr. 560 af 2. juli  199, § 4 Klientkategorien hentes fra personens tilmeldingsarrangement.  
+
+ Klientkategori = dagpengemodtagere og kontanthjælpsmodtagere.  
+
+ Personen tæller som ledig, hvis personen har status tilmeldt den dag  
+
+ VEUF-aktiviteten opnår status = ansat/godkendt.
+Forsikrede ledige Ledige dagpengemodtagere som har påbegyndt en  
+
+ uddannelsesaftale Klientkategori = Dagpengemodtagere - dagpengeperioden Ledige som modtager dagpenge efter § 55 stk. 1, i lov om  
+
+ arbejdsløshedsforsikring og er indplaceret i  
+
+ dagpengeperioden.
+Personer indplaceret i dagpengeperioden  
+
+ (ledighedsperiode)  
+
+ Se definition af målgruppeinddelingen i bilag 3 - aktivperiode Ledige dagpengemodtagere som er placeret i aktivperioden,  
+
+ forstået som den periode, hvor der modtages dagpenge efter § 55, stk.  
+
+ 2, i lov om arbejdsløshedsforsikring m.v.
+Personer indplaceret i aktivperioden (ledighedsperiode)  
+
+ Se definition af målgruppeinddelingen i bilag 3 Kontanthjælpsmodtagere Ledige kontanthjælpsmodtagere som har påbegyndt  
+
+ en uddannelsesaftale Klientkategori = Kontanthjælpsmodtager Virksomheder med påbegyndte  
+
+ VEUF-aftaler Virksomheder, der har indgået VEUF-aftale, jf. bek. nr.  
+
+ 560 af 2. juli 1999 § 1.
+ Antal virksomheder der i perioden er registreret aktive  
+
+ arrangementer på.
+Rapport navn: PROD11NY Aktivering Definition:
+ Opgørelsesgrundlag:
+Uddannelsesaktiviteter i alt Personer der har påbegyndt en uddannelsesaktivitet i  
+
+ forbindelse med en handlingsplan, jf. . bek. nr. 1338 af 18.12 2000, kap.  
+
+ 14.
+Skærmbillede = Kursustilmelding (Kursustilmeldingen  
+
+ skal have Handlingsplan som overarrangement)  
+
+ Status = aktiveret (738), Status=Afbrudt hvis statusafbrudtdatoen ligger  
+
+ efter startdatoen og årsagskoden ikke = afslag (991), udeblevet fra  
+
+ optagelsesmøde (992), udeblevet fra kursussttart (993), fejloprettet  
+
+ (865)  
+
+ Startdato for uddannelsen ligger i optællingsperioden  
+
+ Uddannelse skal registreres med den DUN- eller AMU-kode, der har flest  
+
+ cifre.
+Kursustilmeldinger med følgende registreringer tæller  
+
+ikke som uddannelse:  
+
+ -Afholdelseskategori = Vejledningsforløb,
+-AMU-kode= 9902000000003 Særlig formidling hos anden  
+
+ aktør,  
+
+ -AMU-kode= 9902000000001 Intensiv jobsøgning  
+
+ -AMU-kode=9902000000002 Jobsøgningskursus i forbindelse med Intensiv  
+
+ jobsøgning -dagpengeperioden Påbegyndte dagpengeberettigede i uddannelse, som er  
+
+ indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i uddannelse, som jf. §  
+
+ 52 a, stk. 2 eller § 55 stk. 2, i lov om arbejdsløshedsforsikring m.v.  
+
+ er  indplaceret i aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 Påbegyndte i uddannelse med praktik Tæller på kursusholdets felter med  
+
+ praktik Heraf Dansk som andet sprog Påbegyndte dagpengeberettigede ledige i  
+
+ danskundervisning i hht.  bekendtgørelse om en aktiv  
+
+ arbejdsmarkedsindsats nr. 1338 af 18. december 2000,  kapitel 14 §152. Dansk  
+
+ som andetsprog vedrører personer med anden etnisk baggrund end dansk  
+
+ og jf. skrivelse fra AMS af 20. december 2000: Meddelelse vedr.
+AFs  
+
+ registrering af danskundervisning i AMANDA.
+Denne meddelelse vil blive  
+
+ ændret i ovensstemmelse med nedenstående.
+Særskilt opgørelse af Dansk som andetsprog  
+
+ foretages med baggrund i en sæskilt AMU-kode og Afholdelseskategorier  
+
+ som registreres i skærmbillede=kursus-oversigt, jf.  
+
+ nedenfor - Ordinær sprogundervisning Ordinær sprogundervisning  er sprogundervisning  
+
+ på sprogcentrene tilrettelagt indenfor rammerne af den  
+
+ undervisningsmodel centrerne er forpligtigede til at udbyde.  
+
+ Sprogundervisningen kan være  kombineret med supplerende aktivering  
+
+ (Den evt. supplerende aktivering  registreres særskilt f.eks. som et  
+
+ overlappende forløb).
+AMUkode 9901000000001 AMS-dansk som andetsprog  
+
+ Afholdelseskategori = Dansk som andetsprog - ordinær  
+
+ sprogundervisning - Særlig tilrettelagt  
+
+ sprogundervisning Særlig tilrettelagt sprogundervisning er  
+
+ sprogundervisning, som indholdsmæssigt ligger ud over, hvad  
+
+ sprogcentrene er forpligtiget til at udbyde i hht Undervisningsministeriets  
+
+ undervisningsmodel.
+Hvis den særligt tilrettelagte sprogundervisning  
+
+ kombineres med supplerende aktivering registreres denne  
+
+ særskilt.
+ AMUkode 9901000000001 AMS-dansk som andetsprog  
+
+ Afholdelseskategori = Dansk som andetsprog - særlig tilrettelagt  
+
+ sprogundv.
+-Heraf Dansk som modersmål Påbegyndte dagpengeberettigede ledige  
+
+ læse/skrivesvage danskere Særskilt opgørelse af Dansk som modersmål  
+
+ foretages med baggrund i en sæskilt AMU-kode og Afholdelseskategorier  
+
+ som registreres i skærmbillede=kursus-oversigt, jf. nedenfor  
+
+ AMUkode 9901000000002 AMS-dansk som modersmål  
+
+ Afholdelseskategori = Dansk som modersmål. - ordinær  
+
+ sprogundervisning Rapport navn: PROD12A Vejledning Definition:
+ Opgørelsesgrundlag:
+Påbegyndte i vejledningsaktiviteter Personer der har påbegyndt vejledning, jf. bek.
+Nr.  
+
+ 1338 af 18.12 2000, kap. 7 § 66, samt bekendtgørelse om orlov til  
+
+ børnepasning Skærmbillede = Kursustilmelding  
+
+ Status = aktiveret (738), Status= Afbrudt hvis statusafbrudtdatoen ligger  
+
+ efter startdatoen og årsagskoden ikke = afslag (991), udeblevet fra  
+
+ optagelsesmøde (992), udeblevet fra kursussttart (993), fejloprettet  
+
+ (865)  
+
+ Afholdelseskategori = Vejledningsforløb  
+
+ Startdato for vejledningsforløb ligger i  
+
+ optællingsperioden Vejledning forud for IHP Påbegyndte dagpengeberettigede ledige i  
+
+ vejledningsforløb, jf. bek.
+Nr. 1338 af 18.12 1999,  §51,  stk.  
+
+ 1.
+Vejledning forud for en handlingsplan skal registreres i  
+
+ Kursustilmelding  uden at have Handlingsplan som overarrangement Vejledning som led i IHP Påbegyndte dagpengeberettigede ledige i  
+
+ vejledningsforløb der indgår i en IHP (excl.
+Vejledning, der  
+
+ registreres som målrettet servicetilbud) Vejledning som led i handlingsplan skal registreres i  
+
+ Kursustilmelding som underarrangement til Handlingsplan -dagpengeperioden Påbegyndte dagpengeberettigede i uddannelse, som er  
+
+ indplaceret i dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengemodtagere der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede i uddannelse, som jf. §  
+
+ 52 a, stk. 2 eller § 55 stk. 2, i lov om arbejdsløshedsforsikring m.v.  
+
+ er  indplaceret i aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 Rapport navn: PROD13A Aktivering Definition:
+ Opgørelsesgrundlag:
+Intensiv jobsøgning Påbegyndte i intensiv jobsøgning  i  
+
+ alt Påbegyndte ledige medlemmer af en  
+
+ arbejdsløshedskasse, som i tilknytning til et aktiveringstilbud i  
+
+ aktivperioden er startet i en periode med intensiv  jobsøgning   jf.  
+
+ bek.nr. 1338 af 18. december 2000, kap.8, § 67 stk. 1.
+Skærmbillede = Kursustilmelding (Kursustilmeldingen  
+
+ skal have Handlingsplan som overarrangement)  
+
+ AMUkode = 9902000000001 Intesiv jobsøgning  
+
+ Status = aktiveret (738), Status= Afbrudt hvis statusafbrudtdatoen ligger  
+
+ efter startdatoen og årsagskoden ikke = afslag (991), udeblevet fra  
+
+ optagelsesmøde (992), udeblevet fra kursussttart (993), fejloprettet  
+
+ (865)  
+
+ Startdato for uddannelsen ligger i optællingsperioden - aktivperioden Påbegyndte dagpengeberettigede ledige i intensiv  
+
+ jobsøgning, som jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 Heraf jobsøgningskurser Påbegyndte ledige medlemmer af en  
+
+ arbejdsløshedskasse, der som led i et tilbud  med intensiv  
+
+  jobsøgning  er startet i et kortvarigt jobsøgningskursus  jf.  
+
+ bek.nr.  1338 af 18. december 2000,  kap. 8,  § 67 stk. 2.
+Særskilt opgørelse af Jobsøgningskurser  
+
+ foretages med baggrund i  AMU-kode= 9902000000002 - aktivperioden Påbegyndte dagpengeberettigede ledige i intensiv  
+
+ jobsøgning, som jf. § 52 a, stk. 2 eller § 55 stk. 2, i lov om  
+
+ arbejdsløshedsforsikring m.v. er  indplaceret i  
+
+ aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187 Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 Rapport navn: PROD14 Orlov Definition:
+ Opgørelsesgrundlag:
+Påbegyndte i uddannelsesorlov Personer der har påbegyndt en uddannelsesorlov, jf.  
+
+ bek. nr. 824 af 08.11 1999 og overgangsbestemmelser i lov om  
+
+ børnepasningsorlov nr. 402 af  31 maj 2000, §21, stk 3.
+Skærmbillede = Orlov   Ny  
+
+ Startdato =  den aktuelle opgørelsesperiode - selvstændig Påbegyndte selvstændige i  
+
+ uddannelsesorlov Skærmbillede = Orlov   Ny  
+
+ Orlovstype/aktivitetstype = Uddannelse for selvstændige  
+
+ erhvervsdrivende (produktaktivitet 706 - ledig Påbegyndte Ledige dagpengemodtagere i uddannelsesorlov  
+
+ .
+Skærmbillede = Orlov   Ny  
+
+ Orlovstype/aktivitetstype = Uddannelse for dagpengeberettigede ledige  
+
+ (produktaktivitet 708 - ledige 6 ugers orlov Påbegyndte ledige dagpengemodtagere i uddannelsesorlov,  
+
+ 6 uger.
+Skærmbillede = Orlov   Ny  
+
+ Orlovstype/aktivitetstype = Uddannelse for dagpengeberettigede ledige, 6 uger  
+
+ (produktaktivitet 709 - lønmodtagere Påbegyndte lønmodtagere i  
+
+ uddannelsesorlov Skærmbillede = Orlov   Ny  
+
+ Orlovstype/aktivitetstype = Uddannelse for lønmodtagere  
+
+ (produktaktivitet 707 Lønmodtagere og selvstændigt  
+
+ erhvervsdrivende - privat virksomhed Lønmodtagere og selvstændig erhvervsdrivende der  
+
+ søger orlov fra en privat virksomhed.
+Virksomheden som ansøgeren søger orlov fra skal  
+
+ være registreret i AMANDA's sagsbehandlingssystem  
+
+ Skærmbillede = Virksomhed   Ny  
+
+ Ejerforhold = Privat virksomhed - offentlig virksomhed Lønmodtagere og selvstændig erhvervsdrivende der  
+
+ søger orlov fra en offentlig virksomhed.
+Virksomheden som ansøgeren søger orlov fra skal  
+
+ være registreret i AMANDA's sagsbehandlingssystem  
+
+ Skærmbillede = Virksomhed   Ny  
+
+ Ejerforhold = Offentlig virksomhed - selvejende institution Lønmodtagere og selvstændig erhvervsdrivende der  
+
+ søger orlov fra en selvejende institution.
+Virksomheden som ansøgeren søger orlov fra skal  
+
+ være registreret i AMANDA's sagsbehandlingssystem  
+
+ Skærmbillede = Virksomhed   Ny  
+
+ Ejerforhold =  Selvejende institution - blandet ejerforhold Lønmodtagere og selvstændig erhvervsdrivende der  
+
+ søger orlov fra en  virksomhed med blandet ejerforhold.
+Virksomheden som ansøgeren søger orlov fra skal  
+
+ være registreret i AMANDA's sagsbehandlingssystem  
+
+ Skærmbillede = Virksomhed   Ny  
+
+ Ejerforhold = Blandet ejerforhold - afløsere i relation til orlovsaftale i  
+
+ alt Antal aftaler om personer i uddannelsesorlov, hvor  
+
+ arbejdsgiveren har tilkendegivet ønske om afløsere i  
+
+ orlovsperioden.
+Skærmbillede = Eksterne interessenter  
+
+ Tæller på markering "ønsker afløser formidlet  
+
+ gennem AF" Påbegyndte i  
+
+ børnepasningsorlov Personer der har påbegyndt en børnepasningsorlov  
+
+ om orlov til børnepasning - lønmodtagere Påbegyndte lønmodtagere i  
+
+ børnepasningssorlov Skærmbillede = Orlov   Ny  
+
+ Orlovstype/aktivitetstype = Børnepasning for lønmodtagere  
+
+ (produktaktivitet 700 - selvstændig Påbegyndte selvstændige i  
+
+ børnepasningssorlov Skærmbillede = Orlov   Ny  
+
+ Orlovstype/aktivitetstype = Børnepasning for selvstændige  
+
+ erhvervsdrivende (produktaktivitet 701 - ledig Påbegyndte Ledige dagpengemodtagere i  
+
+ børnepasningssorlov .
+Skærmbillede = Orlov   Ny  
+
+ Orlovstype/aktivitetstype = Børnepasning for dagpengeberettigede  
+
+ ledige (produktaktivitet 702 - Kontanthjælpsmodtagere Påbegyndte kontanthjælpsmodtager i  
+
+ børnepasningssorlov .
+Skærmbillede = Orlov   Ny  
+
+ Orlovstype/aktivitetstype = Børnepasning for  
+
+ kontanthjælpsmodtagere produktaktivitet 703 Lønmodtagere og selvstændigt  
+
+ erhvervsdrivende - privat virksomhed Lønmodtagere og selvstændig erhvervsdrivende der  
+
+ søger orlov fra en privat virksomhed.
+Virksomheden som ansøgeren søger orlov fra skal  
+
+ være registreret i AMANDA's sagsbehandlingssystem  
+
+ Skærmbillede = Virksomhed   Ny  
+
+ Ejerforhold = Privat virksomhed - offentlig virksomhed Lønmodtagere og selvstændig erhvervsdrivende der  
+
+ søger orlov fra en offentlig virksomhed.
+Virksomheden som ansøgeren søger orlov fra skal  
+
+ være registreret i AMANDA's sagsbehandlingssystem  
+
+ Skærmbillede = Virksomhed   Ny  
+
+ Ejerforhold = Offentlig virksomhed - selvejende institution Lønmodtagere og selvstændig erhvervsdrivende der  
+
+ søger orlov fra en selvejende institution.
+Virksomheden som ansøgeren søger orlov fra skal  
+
+ være registreret i AMANDA's sagsbehandlingssystem  
+
+ Skærmbillede = Virksomhed   Ny  
+
+ Ejerforhold =  Selvejende institution - blandet ejerforhold Lønmodtagere og selvstændig erhvervsdrivende der  
+
+ søger orlov fra en  virksomhed med blandet ejerforhold.
+Virksomheden som ansøgeren søger orlov fra skal  
+
+ være registreret i AMANDA's sagsbehandlingssystem  
+
+ Skærmbillede = Virksomhed   Ny  
+
+ Ejerforhold = Blandet ejerforhold - afløsere i relation til orlovsaftale i  
+
+ alt Antal aftaler om personer i uddannelsesorlov, hvor  
+
+ arbejdsgiveren har tilkendegivet ønske om afløsere i  
+
+ orlovsperioden.
+Skærmbillede = Eksterne interessenter  
+
+ Tæller på markering "ønsker afløser formidlet  
+
+ gennem AF" Rapport navn: PROD15A Aktivering Definition:
+ Opgørelsesgrundlag:
+Særlig formidlingsindsats via anden  
+
+ aktør Påbegyndte i særlig formidlingsindsats via  
+
+ anden aktør Påbegyndte dagpengeberettigede i særlig  
+
+ formidlingsindsats via anden aktør, jf. bek. nr. 1338 af 18.12 2000,  
+
+ kap. 3, § 40, stk. 1 .
+Skærmbillede = Kursustilmelding (Kursustilmeldingen  
+
+ skal have Handlingsplan som overarrangement)  
+
+ AMU kode = 9902000000003 særlig formidlingsindsats  
+
+ Anden aktør registreres som kursusudbyderen  
+
+ Status = aktiveret (738), Status= Afbrudt hvis statusafbrudtdatoen ligger  
+
+ efter startdatoen og årsagskoden ikke = afslag (991), udeblevet fra  
+
+ optagelsesmøde (992), udeblevet fra kursussttart (993), fejloprettet  
+
+ (865)  
+
+ Startdato for uddannelsen ligger i optællingsperioden -dagpengeperioden Påbegyndte dagpengeberettigede i særlig  
+
+ formidlingsindsats via anden aktør, som er indplaceret i  
+
+ dagpengeperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - tidlig indsats Ledige medlemmer af en A-kasse, som RAR har vurderet er  
+
+ særligt udsatte for langvarig ledighed, fastsættes i  
+
+ målgrupper, der kan tilbydes en tidlig fleksibel indsats, jf. bek. nr.  
+
+ 1338 af 18.12 2000, kap. 2,  § 8.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i dagpengeperioden Ledige dagpengeberettigede der er placeret i dagpengeperioden  
+
+ og som ikke indgår i grupperne "tidlig indsats".
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - aktivperioden Påbegyndte dagpengeberettigede  som jf. § 52 a, stk. 2  
+
+ eller § 55 stk. 2, i lov om arbejdsløshedsforsikring m.v. er  
+
+ indplaceret i aktivperioden.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 -- ungeindsats Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ og § 187 Se definition af målgruppeinddelingen i bilag  
+
+ 3 --uden  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 186  
+
+ uden kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 --med  
+
+  kompetencegivende uddannelse Ledige under 25 år som er dagpengeberettigede, og er  
+
+ indplaceret i aktivperioden, jf. bek. nr. 1338 af 18.12 2000, kap. 20, § 187  
+
+ med kompetencegivende uddannelse.
+Se definition af målgruppeinddelingen i bilag  
+
+ 3 - § 55 stk. 4 Ledige dagpengeberettigede som jf. § 55 stk. 4 i lov om  
+
+ arbejdsløshedsforsikring m.v. har ret og pligt til aktivering på  
+
+ fuld tid.
+Se § 190 i bek. nr. 1338 af  18.12, 2000 Se definition af målgruppeinddelingen i bilag  
+
+ 3 - øvrige i aktivperioden Se definition af målgruppeinddelingen i bilag  
+
+ 3 Cirkulære om indberetning af den  
+
+ månedlige produktionsstatistik over AF s indsats i gennemførelse  
+
+ af lov om en aktiv arbejdsmarkedspolitik, lov om børnepasningsorlov og  
+
+ lov om servicejob.
+Bilag 2 AF  Analyse og prognose Tidsfrister for indberetning af den kvartalsvise  
+
+ produktionsstatistik AF- regionerne  foretager udtræk fra  
+
+ Amanda.
+AF- regionernes godkendte og sender til AMS, 9.  
+
+ kontor 1. kvartal 2001 Mandag den 9. april 2001 Mandag den 19. april 2001 2. kvartal 2001 Mandag den 9. juli  2001 Mandag den 16. juli 2001 3. kvartal 2001 Mandag den 8. oktober 2001 Mandag den 15. oktober 2001 4. kvartal 2001 Mandag den 7. januar 2002 Mandag den 14. Januar 2002 Tidsfrister vedrørende indberetning at  
+
+ "besøgende i AF`s åben tilbud" til den kvartalsvise  
+
+ produktionsstatistik.
+Stikprøvetællinger i Skemaerne er retur til AMS  9. kontor 1. halvår 2001 Uge 19 og  24 Mandag den 16. juli 2001 2. halvår 2001 Uge 34, 40 og 46 Mandag den 14. januar 2002 SKEMA 1 Manuel opgørelse AF-region:
+Indberetning for      halvår 2001 Besøgende i AFs åbne tilbud: INFOR-CENTRE,  
+
+ JOB-CENTRE OG JOBBUTIKKER Antal besøgende i AFs åbne tilbud i de  
+
+ angivne stikprøveuger 1. uge ____________________________ 2. uge ____________________________ 3. uge ____________________________ Definition: Ved besøgende i AFs åbne tilbud  
+
+ forstås personer, der aktivt gør brug af eller viser interesse  
+
+ for AFs åbne tilbud.
+ Beskriv den anvendte stikprøvemetode:
+____________________________________________________  
+
+       _____________________ Navn  
+
+                                                      Dato SKEMA 2 Manuel opgørelse Region:
+Virksomheder med iværksatte  
+
+ jobrotationsprojekter, i alt 1. kvartal 2001 2. kvartal 2001 3. kvartal 2001 4. kvartal 2001 Virksomheder, der iværksætter  
+
+ jobrotationsprojekter i alt heraf - private virksomheder - offentlige virksomheder SKEMA 3 Manuel opgørelse Region:
+Påbegyndte i jobrotationsprojekter i  
+
+ private virksomheder, 2001 1. kvartal 2001 2. kvartal 2001 3. kvartal 2001 4. kvartal 2001 Mænd Kvinder I alt Mænd Kvinder I alt Mænd Kvinder I alt Mænd Kvinder I alt Personer påbeg. i  
+
+ jobrotationsprojekter i private virksomheder i alt heraf - beskæf. med AF støtte §  
+
+ 133 - beskæf. på  
+
+ VEU-godtgørelse, Statens Voksenuddannelsesstøtte eller - øvrige beskæftigede Ledige erstatningspersoner i alt heraf - ledige ansat i jobtræning - ledige ansat uden støtte - øvrige ledige SKEMA 4 Manuel opgørelse Region:
+Påbegyndte i jobrotationsprojekter i  
+
+ offentlige virksomheder, 2001 1. kvartal 2001 2. kvartal 2001 3. kvartal 2001 4. kvartal 2001 Mænd Kvinder I alt Mænd Kvinder I alt Mænd Kvinder I alt Mænd Kvinder I alt Personer påbeg. i jobrotationsprojekter  
+
+ i offentlige virksomheder i alt heraf   beskæf. med AF støtte §  
+
+ 133 - beskæf. på  
+
+ VEU-godtgørelse, Statens Voksenuddannelsesstøtte eller - øvrige beskæftigede Ledige erstatningspersoner i alt heraf   ledige ansat i jobtræning - ledige ansat uden støtte - øvrige ledige SKEMA 5 Manuel opgørelse Region:
+Bevilgede private jobrotationsprojekter  
+
+ (AF/RAR-midler), i alt 1. kvartal 2001 2. kvartal 2001 3. kvartal 2001 4. kvartal 2001 I alt I alt I alt I alt Private jobrotationsprojekter i alt  
+
+ *) Heraf   med uddannelse af  
+
+ beskæftigede - med uddannelse af ledige - med udd. af  
+
+ beskæf./ledige Mænd Kvinder I alt Mænd Kvinder I alt Mænd Kvinder I alt Mænd Kvinder I alt Deltagere i private jobrotationsprojekter  
+
+ i alt Heraf   antal beskæftigede - antal ledige *) Definition: Bevilgede private jobrotationsprojekter, hvor  
+
+ der indgår AF-/RAR-midler til køb af uddannelse, omfattende  
+
+ uddannelse af beskæftigede, ledige samt en kombination af uddannelse  
+
+ for både ledige og beskæftigede.  
+
+ ) Definition: Bevilgede private jobrotationsprojekter, hvor der  
+
+ indgår AF-/RAR-midler til køb af uddannelse omfattende  
+
+ beskæftigede og ledige, som AF har formidlet som afløsere i  
+
+ relation til aftale mellem AF og en virksomhed om kombination af uddannelse  
+
+ af ansatte og ansættelse af erstatningsarbejdskraft.  
+
+  (Registreringen omfatter også aftaler om orlov til uddannelse, jf.  
+
+ bek.nr. 48 af 26. januar 1998).
+SKEMA 6 Manuel opgørelse Region:
+Bevilgede offentlige jobrotationsprojekter  
+
+ (AF/RAR-midler), i alt 1. kvartal 2001 2. kvartal 2001 3. kvartal 2001 4. kvartal 2001 I alt I alt I alt I alt Offentlige jobrotationsprojekter i alt  
+
+ *) Heraf   med uddannelse af  
+
+ beskæftigede - med uddannelse af ledige - med udd. af  
+
+ beskæf./ledige Mænd Kvinder I alt Mænd Kvinder I alt Mænd Kvinder I alt Mænd Kvinder I alt Deltagere ioffentlige  
+
+ jobrotationsprojekter i alt Heraf   antal beskæftigede - antal ledige *) Definition: Bevilgede offentlige jobrotationsprojekter,  
+
+ hvor der indgår AF-/RAR-midler til køb af uddannelse, omfattende  
+
+ uddannelse af beskæftigede, ledige samt en kombination af uddannelse  
+
+ for både ledige og beskæftigede.  
+
+ ) Definition: Bevilgede offentlige jobrotationsprojekter, hvor der  
+
+ indgår AF-/RAR-midler til køb af uddannelse omfattende  
+
+ beskæftigede og ledige, som AF har formidlet som afløsere i  
+
+ relation til aftale mellem AF og en virksomhed om kombination af uddannelse  
+
+ af ansatte og ansættelse af erstatningsarbejdskraft.  
+
+  (Registreringen omfatter også aftaler om orlov til uddannelse, jf.  
+
+ bek.nr. 48 af 26. januar 1998).
+Bilag 3 Ledighedsperioder og målgrupper i produktionsstatistikkerne fra og  
+
+ med 1.1.1999.
+ Ved bestemmelse af ledighedsperioder indlæses  
+
+ a-kasse indberetningerne: D1, D2, D3, D5, M1, M2, U4, U6, AD og UB.
+ D1: Forventes at overgå til aktivperiode.
+ D2: Overgår til aktivperiode (overgangsordning).
+ D3: Overgået til aktivperiode.
+ D5: Overgået til ydelse efter §55 stk. 4.
+ M1: Mindst 18 måneders ledighed i  
+
+ dagpengeperioden.
+ M2: Mindst 20 måneders ledighed i  
+
+ dagpengeperioden.
+ U4: Ung under 25 år forventes at overgå til  
+
+ aktivperioden (ungeindsats).
+ U6: Ung under 25 år er overgået til  
+
+ aktivperioden (ungeindsats).
+AD: Annullering af tidligere indberetninger som  
+
+ følge af genoptjent beskæftigelseskrav i dagpenge- /aktivperioden.
+UB: Annullering af tidligere indberetninger som  
+
+ følge af genoptjent beskæftigelseskrav, ungeind- sats.
+ A-kasse indberetningerne er gældende fra  
+
+ hændelsesdato (D3, D5, U6),  falddato (M1, M2, D1, D2, U4) eller  
+
+ kontaktkodedato (AD, UB).
+Dagpengeperioden Ingen a-kasse indberetning eller seneste a-kasse indberetning er AD eller UB Tidlig indsats Ingen a-kasse indberetning og seneste målgruppe er  
+
+ tidlig indsats eller seneste a-kasse indberetning er AD eller UB og seneste  
+
+ målgruppe er tidlig indsats Øvrige dagpengeperiode Ingen a-kasse indberetning eller seneste a-kasse indberetning er AD eller UB og  
+
+ hører ikke til målgruppen tidlig indsats Aktivperioden Seneste a-kasse indberetning er M1, M2, D2, D3, U6 eller  
+
+ D5 eller seneste a-kasse indberetning er D1 og seneste  
+
+ målgruppe er aktivperiode med overlap på falddatoen eller seneste a-kasse indberetning er U4 og seneste  
+
+ målgruppe er ungeindsats eller aktivperiode med overlap på  
+
+ falddatoen Ungeindsats Seneste a-kasse indberetning er U6 (og ved  
+
+ kompetencegruppe 2 eller 3 ej fyldt 25 år) eller seneste a-kasse indberetning er U4 (og ved  
+
+ kompetencegruppe 2 eller 3 ej fyldt 25 år) og seneste målgruppe  
+
+ er ungeindsats eller aktivperiode med overlap på falddatoen Uden kompetencegivende uddannelse Seneste a-kasse indberetning er U6 med kompetencegruppe  
+
+ 1 eller seneste a-kasse indberetning er U4 med kompetencegruppe 1  
+
+ og seneste målgruppe er ungeindsats eller aktivperiode med overlap  
+
+ på falddatoen Med kompetencegivende uddannelse Seneste a-kasse indberetning er U6 med kompetencegruppe  
+
+ 2 eller seneste a-kasse indberetning er U4 med kompetencegruppe 2  
+
+ og seneste målgruppe er ungeindsats eller aktivperiode med overlap  
+
+ på falddatoen.
+Ikke fyldt 25 år Med kompetencegivende uddannelse og erhvervserfaring Seneste a-kasse indberetning er U6 med kompetencegruppe  
+
+ 3 eller seneste a-kasse indberetning er U4 med kompetencegruppe 3  
+
+ og seneste målgruppe er ungeindsats eller aktivperiode med overlap  
+
+ på falddatoen.
+Ikke fyldt 25 år § 55 stk. 4 Seneste a-kasse indberetning er D5 Øvrige aktivperiode I aktivperiode, men hører ikke til ungeindsats  
+
+ eller §55 stk. 4, jf. ovenstående.

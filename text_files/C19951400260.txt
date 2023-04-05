@@ -1,0 +1,756 @@
+Indhold 1. Beregningsmetode for støj fra skydebaner 1.1 Introduktion Beregningsmetode kun for håndvåben Ved hjælp af den nedenfor angivne beregningsmetode kan støjbelastningen  
+
+ omkring skydebaner fra skydningen bestemmes uden at skulle afvente særlige  
+
+ meteorologiske forhold (som f.eks korrekt vindretning). Som  
+
+ beregningsresultat fås det maksimale, A-vægtede lydtrykniveau med  
+
+ tidsvægtning I (»impulse«) af enkeltskud.
+Beregningsmetoden gælder  
+
+ alene håndvåben, dvs. våben med kalibre op til 10 mm samt jagtgeværer af  
+
+ forskellige kalibre.
+Støj fra tunge våben, der anvendes af forsvaret i  
+
+ øvelsesterræner m.v., kan derimod ikke bestemmes ved hjælp af den her  
+
+ beskrevne metode, men kræver en særlig vurdering.
+Miljøstyrelsen og Forsvaret  
+
+ indsamler i øjeblikket yderligere oplysninger på dette område.
+ Beregningsmetoden er en lettere bearbejdet version af den fælles nordiske  
+
+ beregningsmetode, ref. (1). Ved bearbejdningen er bl.a. præciseret en række  
+
+ betingelser for forskellige korrektioner.
+ Beregning af støj fra skydebaner er et alternativ til de ofte meget  
+
+ tidskrævende og dyre støjmålinger, der ellers skal udføres for at opnå  
+
+ resultater med samme nøjagtighed.
+Gyldighedsområde  Beregningsmetoden er verificeret i afstande op  
+
+ til 2300 m.
+Overensstemmelsen mellem et beregningsresultat og gennemsnittet  
+
+ af et stort antal måleresultater, opnået under de korrekte medvindsforhold er  
+
+ i almindelighed inden for +/- 5 dB (jf. kapitel 2.2).
+Støjberegningen kan dokumenteres f.eks. ved udfyldelse af skemaet vist i  
+
+ bilag 1 I bilag 3 findes en oversigt over de anvendte symboler og deres betydning.
+1.2 Forudsætninger og begrænsninger Beregningsmetoden - benævnt nomogrammetoden - bygger på en række  
+
+ forudsætninger.
+Disse er:
+* Lydudbredelsen sker under vejrforhold, som bevirker en høj  
+
+ støjbelastning i beregningspunktet: dvs. direkte medvind fra standplads til  
+
+ beregningspunkt eller vindstille og positiv temperaturgradient.
+Der  
+
+ forudsættes desuden en lufttemperatur på 15 grader C og en relativ  
+
+ luftfugtighed på 70%.
+ * Terrænet er uden sne og ikke frossent.
+* Våbenmundingen befinder sig 2 m over jordoverfladen, dvs. svarende til  
+
+ våbenmundingens højde ved flugtskydning (der regnes ved flugtskydning med  
+
+ samme støjniveau ved forskellige skydevinkler i det lodrette plan). Ved  
+
+ skydning, hvor våbenmundingen er i en lavere højde, giver terrænet anledning  
+
+ til en ekstra støjdæmpning.
+Denne dæmpning kan inkorporeres i metoden i form  
+
+ af en særskilt korrektion (jf. kapitel 1.4).
+ * Den beregnede værdi af støjbelastningen gælder i frit felt, dvs.  
+
+ virkningen af reflekterende genstande i nærheden af beregningspunktet, som  
+
+ f.eks. bygninger, er ikke medtaget.
+1.3 Nomogrammetodens opbygning Terrænprofil Som grundlag for beregningerne bør der tegnes en terrænprofil i de  
+
+ relevante retninger, hvor højdedrag, bevoksninger og terrænegenskaber er  
+
+ vist, se Figur 1.
++++ FIGUR 1 +++ Terrænprofil mellem standplads (V = våben) og beregningspunkt P.
+ Støjkilden repræsenteres af en såkaldt ækvivalent punktkilde, som placeres  
+
+ i en højde over terrænet, der svarer til positionen af våbenmundingen ved den  
+
+ skydestilling, hvorfra støjbelastningen ønskes bestemt.
+ Beregningspunktets højde  Forudsætningen for nomogrammetoden er,  
+
+ at beregningspunktet er i en højde af 2 m over terrænet.
+Udgangsværdi Ved brug af beregningsmetoden fastlægges først en udgangsværdi, L0. Denne  
+
+ værdi afhænger foruden af våbentypen og ammunitionen også af vinklen i det  
+
+ vandrette plan mellem skudretningen og retningen til beregningspunktet, jf.  
+
+ Figur 2.
++++ FIGUR 2 +++ Illustration af vinklen Ø mellem skudretningen og retningen fra  
+
+ skytten til beregningspunktet.
+ Til udgangsværdien adderes en række korrektioner, der beskriver, hvordan  
+
+ lyden påvirkes under udbredelsen.
+ Støjbelastningen i beregningspunktet, LpA,I, angives derfor som:
+LpA,I = Lo + ÆLafst + ÆLskærm + ÆLterræn + ÆLbev + ÆLhus (1) Korrektioner ÆLafst -afstandsdæmpning og luftabsorption ÆLskærm- virkning af skærme ÆLterræn- terrænvirkning ÆLbev-virkning af bevoksningsgrupper og skov ÆLhus-virkning af skydehuse m.m.
+ Korrektionerne er angivet med fortegn, så en negativ korrektion betyder en  
+
+ reduktion af støjen og en positiv korrektion en forøgelse af støjen.
+1.4 Udgangsværdi, Lo I Tabel 1 er angivet udgangsværdier for et repræsentativt udvalg af våben  
+
+ opdelt i 10 våbenklasser.
+Disse våben er typiske for de våben, der benyttes  
+
+ af medlemmer af de civile skytteforeninger og jagtorganisationer samt af folk  
+
+ fra Politiet og Forsvaret, herunder Hjemmeværnet.
+I bilag 2 er angivet  
+
+ udgangsværdier for et betydeligt større antal våben.
+Tabel 1 Udgangsværdi Lo (dB(A),I) for våbenklasser samt tilhørende lydklasse G1-G5  
+
+ i forskellige retninger relativt til skudretningen.
+ Bemærk, at lydklassen kan variere i forskellige retninger indenfor samme  
+
+ våbenklasse.
+Flugtskydningsbaner For flugtskydningsbaner gælder udgangsværdierne umiddelbart (da  
+
+ forudsætningen om, at våbenmundingen befinder sig i 2 meters højde  
+
+ umiddelbart er opfyldt).
+Skiveskydningsbaner For skiveskydebaner antages udgangsværdierne at gælde umiddelbart for  
+
+ stående skydning, mens der ved knælende skydning subtraheres 1 dB og ved  
+
+ liggende skydning 2 dB fra udgangsværdierne, svarende til at våbenmundingen  
+
+ regnes at være i hhv. 1,5, 1,0 og 0,5 meters højde.
+ De anførte højder regnes fra oversiden af den aktuelle standplads -  
+
+ eksempelvis gulv i skydehus.
+Udgangsværdien er lydtrykniveauet i et ideelt frit felt 10 m fra våbnets  
+
+ munding i en given retning.
+Udgangsværdien er således et udtryk for  
+
+ støjudsendelsen fra selve våbnet (med tilhørende ammunition).
+Lydklasser I tilknytning til udgangsværdien er angivet en af 5 lydklasser G1 til G5,  
+
+ der adskiller sig ved hver sin karakteristiske frekvenssammensætning af  
+
+ støjen.
+Klassebetegnelsen skal anvendes ved beregning af flere af  
+
+ korrektionerne.
+ Udgangsværdien i en retning, som ikke udtrykkeligt står i Tabel 1,  
+
+ bestemmes ved lineær interpolation mellem udgangsværdierne i de 2 nærmeste  
+
+ retninger hentet fra tabellen.
+I bilag 2 er der mere specifikt i Tabel 4 angivet udgangsværdien for en  
+
+ række våbentyper med tilhørende ammunition Nye typer våben og ammunition Fremtiden kan bringe nye typer af våben og/eller ammunition for dagen,  
+
+ hvorom der ikke på forhånd eksisterer pålidelige data for støjudsendelsen.  
+
+ Måling og databehandling ved bestemmelse af udgangsværdi og frekvensklasse  
+
+ for sådanne nye/ukendte våben eller ammunitionstyper kræver særlig akustisk  
+
+ ekspertise, hvorfor målinger og det udførende laboratorium /institut skal  
+
+ godkendes af Miljøstyrelsen i hvert enkelt tilfælde.
+1.5 Afstandskorrektion, ÆLafst ÆLafst I Figur 3 aflæses for den relevante lydklasse den kombinerede virkning af  
+
+ afstandsdæmpning og luftabsorption, ÆLafst.
+Denne korrektion er altid  
+
+ negativ.
+1.6 Skærmkorrektion, ÆLskærm ÆLskærm Med udgangspunkt i terrænprofilen (jf.
+Figur 1) afgøres det, om et  
+
+ bakkedrag, en støjmur eller lignende skærer sigtelinien mellem våbnet og  
+
+ beregningspunktet, se Figur 4. Hvis dette er tilfældet, resulterer  
+
+ bakkedraget i en skærmende virkning, som udtrykkes i ÆLskærm.
++++ Figur 3 +++ Nomogram til aflæsning af ÆLafst som funktion af afstand R (langs  
+
+ sigtelinien) og med lydklasse G1-G5 som parameter.
++++ FIGUR 4 +++ Illustration af skærmning.
+Skærmkorrektionen er enten 0 eller negativ, afhængigt af skærmens  
+
+ effektive højde, he, jf.
+Figur 5.
++++ FIGUR 5 +++ Illustration af den effektive højde he for en tynd, tænkt skærm og  
+
+ andre størrelser, der bruges ved beregning af ÆLskærm, jf. teksten.
+Bakker Hvor et udstrakt bakkedrag skærer sigtelinien, erstattes bakkedraget af en  
+
+ tynd, tænkt skærm som vist Figur 5 . Den tænkte skærm anbringes inden for  
+
+ bakkens udstrækning på en sådan måde, at den største virkning (dvs.  
+
+ »mest negative« ÆLskærm) opnås.
+ De værdier af R1, he og h, som skal anvendes ved den endelige beregning,  
+
+ må således ofte fastlægges efter et par forsøg.
+Effektiv højde På grund af lydbanernes krumning i medvind er den effektive højde af  
+
+ skærmen ikke hele afstanden mellem skærmens top T og sigteliniens  
+
+ skæringspunkt K med skærmen.
+Denne afstand skal reduceres med størrelsen h,  
+
+ som beregnes ved udtrykket (2):
+Skærmender For at undgå at virkningen af korte skærme undervurderes, må der ikke  
+
+ benyttes større værdier af skærmhøjden KT = h + he, end den mindste vandrette  
+
+ afstand mellem sigtelinien og skærmens lodrette begrænsning.
+Flere skærme Forekommer der flere skærme, som skærer sigtelinien, beregnes virkningen  
+
+ af hver enkelt skærm for sig.
+I den videre beregning skal indgå den mest  
+
+ effektive skærm (dvs. skærmen med »mest negativ« ÆLskærm).
+Skærmkorrektionen ÆLskærm aflæses i dobbelt-nomogrammet i Figur 6.  
+
+ Indgangsstørrelsen er h.
+Man går vandret ind fra højre i det nederste  
+
+ nomogram til det punkt, hvor man møder kurven svarende til den aktuelle he.  
+
+ Herfra går man lodret op til skæring med en af de 4 skærmkurver A-D i det  
+
+ øverste nomogram.
+Derefter aflæses ÆLskærm ved at gå vandret ud til venstre.  
+
+ Hvilken af de 4 kurver A-D, der skal benyttes, afhænger af  
+
+ beregningsafstanden R og våbnets lydklasse i retningen til beregningspunktet.  
+
+ Fremgangsmåden er anvist i Figur 7.
+ I det illustrerede eksempel i Figur 6 er parametrene h = 7,4 m:
+ he = 1,6 m: og kurve C. ÆLskærm i eksemplet er -12 dB.
++++ Figur 6 +++ Dobbelt nomogram til beregning af skærmkorrektion, ÆLskærm.
+Figur 7 Valg af kurve for skærmkorrektion ud fra beregningsafstand og  
+
+ lydklasse.
+1.7 Terrænkorrektion, ÆLterræn ÆLterræn Terrænet mellem standpladsen og beregningspunktet påvirker lydudbredelsen  
+
+ forskelligt, alt efter om overfladen er akustisk porøs eller akustisk hård  
+
+ (reflekterende).
+Porøse overflader Til porøse overflader henregnes sand- og lerjorder, marker, skove, haver  
+
+ o.l.
+Reflekterende overflader Vand, asfalt, beton, grus o.l. udgør reflekterende overflader.
+Overfladen langs terrænprofilet (jf.
+Figur 1) inddeles i 3 delområdet som  
+
+ vist i Figur 8.
++++ FIGUR 8 +++ Opdeling af terræn i delområder I, II og III.
+Delområder Del I er området ud til 50 m fra standpladsen: del III er det 50 m brede  
+
+ område nærmest beregningspunktet: mens del II er den mellemliggende del af  
+
+ strækningen.
+Hvert af de tre områder klassificeres som enten reflekterende  
+
+ (r) eller porøst (p).
+ Terrænkorrektionen beregnes som angivet i Figur 9.
++++ FIGUR 9 +++ Terrænkorrektion ÆLterræn ved forskellige kombinationer af  
+
+ terrænegenskaber i delområderne I, II og III.
+p = porøst; r = reflekterende Funktionerne ÆLtp, C og ÆLtr er optegnet henholdsvis i Figur 10, i Figur  
+
+ 11 og i Figur 12.
++++ FIGUR 10 +++ Nomogram til beregning af terrænkorrektion for porøst terræn,  
+
+ ÆLtp.
++++ FIGUR 11 +++ Reduktionsfaktor C for terrænvikrning i tilfælde af skærmning.
++++ FIGUR 12 +++ Nomogram til beregning af terrænkorrektion for hårdt terræn, ÆLtr.
+ÆLtp ÆLtp er terrænkorrektionen for totalt porøst terræn.
+Korrektionen er enten  
+
+ 0 eller negativ.
+ÆLtp aflæses af Figur 10 som funktion af beregningsafstanden R og med  
+
+ lydklassen G1-G5 som parameter.
+For afstande mindre end 50 m er ÆLtp = 0.
+C C er en størrelse, der formindsker virkningen af terrænet i de  
+
+ situationer, hvor en skærm tillige optræder.
+C aflæses i Figur 11. Når der  
+
+ ikke er nogen skærm, eller når den effektive højde af skærmen er negativ (he  
+
+ < 0), sættes C = 1.
+ÆLtr ÆLtr er terrænkorrektionen for totalt reflekterende (hårdt) terræn og er  
+
+ altid positiv.
+Korrektionen afhænger af beregningsafstanden R og af den  
+
+ effektive højde he af en eventuel skærm, men ikke af lydklassen. ÆLtr aflæses  
+
+ af Figur 12. Er der ikke nogen skærm, eller er skærmens effektive højde  
+
+ negativ, vælges kurven for he <= 0.
+1.8 Bevoksningskorrektion, ÆLbev ÆLbev I de tilfælde, hvor lydbanen brydes af et skovparti eller af grupper af  
+
+ træer og buske, forekommer en supplerende dæmpning af lyden under  
+
+ udbredelsen.
+Denne dæmpning udtrykkes ved ÆLbev, som er enten 0 eller  
+
+ negativ.
+Jo længere den samlede lydbane gennem bevoksning er, desto mere  
+
+ dæmpes lyden (Lbev bliver »mere negativ«).
+Der regnes med krumme lydbaner på samme måde som ved beregning af  
+
+ skærmkorrektionen.
+I afstanden R' fra standpladsen er lydbanen h' over  
+
+ sigtelinien:
+ Som minimum gennemføres beregninger af h' i afstandene svarende til for-  
+
+ og bagkanten af hvert skovparti, lydbanen passerer.
+Bevoksningen skal være uigennemsigtig og rage mindst 1 m højere op over  
+
+ den krumme lydbane for at give en dæmpning af lyden.
+I modsat fald regnes den  
+
+ ikke med.
+Såfremt lydbanen gennemskærer flere grupper af bevoksning, adderes  
+
+ længderne af transmissionsvejene gennem de enkelte grupper, se Figur 13, hvor  
+
+ Åtot = Å1 + Å2.
++++FIGUR 13 +++ Illustrationen af, hvordan længden af transmissionsvej gennem  
+
+ bevoksninger bestemmes.
+R' er lydbanens højde over sigtelinien h', mens  
+
+ R'» er h«» over sigtelinien Hvilken af de tre kurver i Figur 14, der skal benyttes for  
+
+ bevoksningskorrektionen, bestemmes ved hjælp af Figur 15, som funktion af  
+
+ længden af den samlede transmissionsvej gennem bevoksning, Åtot.
+Selv om  
+
+ denne skulle overstige 200 m, regnes ikke med stigende bevoksningskorrektion.
+ Man finder den rette bevoksningskurve ved hjælp af Figur 15. Det fremgår  
+
+ heraf, at beregningsafstanden R og lydklassen G1-G5 er de afgørende  
+
+ parametre.
+ Bevoksningskorrektionen er begrænset af, at summen af skærm- og  
+
+ bevoksningskorrektionerne ikke må blive mindre (»mere negativ«) end  
+
+ -20 dB:
+ÆLbev + Ælskærm >= -20 dB +++ FIGUR 14 +++ Nomogram til beregning af bevoksningskorrektion ÆLbev.
+Skærm og skov Hvis lydbanen passerer både en skærm og et skovparti, skal der konstrueres  
+
+ en særlig, krum lydbane, som netop tangerer skærmtoppen, se Figur 16. Længden  
+
+ af transmissionsvejen gennem en bevoksning skal så måles langs denne lydbane  
+
+ (forudsat lydbanen i øvrigt ligger mere end 1 m under trætoppene) FIGUR 15 Valg af kurve for bevoksningskorrektion.
++++ FIGUR 16 +++ Lydbane, som netop tangerer toppen af en skærm.
+ Lydbanens højde, h', over sigtelinien i afstanden R' fra våbnet kan  
+
+ beregnes efter formel (5):
+ hvor KT er skærmens højde over sigtelinien, R' er afstanden fra våbnet til  
+
+ bevoksningen, og R1 er afstanden fra våbnet til skærmen.
+ Bemærk, at bevoksningen på toppen af den skærmende bakke bidrager til  
+
+ bevoksningskorrektionen, idet den samlede transmissionsvej gennem  
+
+ bevoksningen er Åtot = Å1 + Å2.
+Den punkterede, krumme lydbane er beregnet efter Formel (2) og anvendes  
+
+ til beregning af skærmkorrektionen.
+Den fuldt optrukne, krumme lydbane er  
+
+ beregnet efter Formel (5).
+1.9 Virkning af skydehuse, ÆLhus ÆLhus I Figur 17 er illustreret tre typiske udformninger af ikke-frembyggede  
+
+ skydehuse.
++++ FIGUR 17 +++ Illustration af typiske udformninger af skydehuse.
+Type X Ingen vægge Type Y Vægge med store åbninger Type Z Absorberende materiale på loft og vægge.
+Kun egentlige åbninger i  
+
+ skyderetningen Andre skydehuse Den støjdæmpende virkning af de forskellige typer af skydehuse kan  
+
+ estimeres ved talværdierne i Tabel 2. Datagrundlaget er imidlertid temmeligt  
+
+ spinkelt, hvorfor korrektionen for skydehuse o.l. må forventes at være  
+
+ behæftet med forholdsvis stor ubestemthed.
+De angivne værdier af ÆLhus  
+
+ forudsætter, at våbnets munding er i plan med bygningens »facade«.
+Det kan ikke afvises, at der kan konstrueres skydehuse, der kan give en  
+
+ større dæmpning end de anførte.
+Såfremt dette formodes at være tilfældet, kan  
+
+ det i det konkrete tilfælde indregnes i beregningerne, såfremt den bedre  
+
+ dæmpning kan eftervises gennem målinger udført af et af Miljøstyrelsen  
+
+ godkendt institut/laboratorium.
+ Til brug for bedømmelse af støjdæmpningen i andre retninger end de i Tabel  
+
+ 2 angivne, tillades lineær interpolation mellem de tabellerede værdier.
+Tabel 2 Tabel over korrektion for skydehus, ÆLhus.
+ Valg mellem talrækkerne A-E foretages på grundlag af Figur 18..
+Type X For skydehuse af type X, dvs. halvtag, er den dæmpende virkning  
+
+ forsvindende, så der kan regnes med ÆLhus = 0. Skydehuse af type Y kan  
+
+ forventes at nedbringe støjen med omkring 5 dB i retninger bag våbnet.
+Type Z For skydehuse af type Z, dvs. næsten lukkede huse med lydabsorberende  
+
+ beklædning af loft og vægge, afhænger ÆLhus af vinklen Ø samt af våbnets  
+
+ lydklasse og beregningsafstanden R, jf.
+Figur 18.
+Figur 18 Valg af korrektionssæt A-E i Tabel 2 for skydehuse af type Z.
+ De her beskrevne, ikke-frembyggede skydehuse, har ingen dæmpende virkning  
+
+ foran skytten, dvs. i retninger til beregningspunkter, der danner en vinkel  
+
+ på mindre end 90 grader med skudretningen.
+Nogle gange laves jordvolde eller opstilles støjmure, halmballer o.l. uden  
+
+ om standpladserne.
+Den støjdæmpende virkning heraf beregnes ved hjælp af  
+
+ metoden beskrevet i kapitel 1.6. Bemærk, at virkningen af de nævnte  
+
+ foranstaltninger bliver gunstigere, jo mindre afstanden er til standpladsen.
+1.10 Refleksion af skudstøj Den hidtil beskrevne beregningsmetode gælder for direkte transmitteret  
+
+ skudstøj, altså den støj som udbreder sig direkte fra våbnet (eventuelt over  
+
+ skærme o.l.) til beregningspunktet.
+ Det kan forekomme, at skudstøjen rammer en udstrakt, lodret (eller næsten  
+
+ lodret) flade og reflekteres via denne til beregningspunktet.  
+
+ Støjbelastningen er så sammensat af to bidrag, nemlig et fra den direkte  
+
+ transmitterede lyd og et andet fra den reflekterede lyd, se Figur 19.
++++ FIGUR 19 +++ Illustration af beregning af bidrag fra reflekteret lyd.
+ I det almindelige tilfælde, hvor lyden udbreder sig uhindret, betyder  
+
+ forekomsten af refleksioner, at støjbelastningen fra skydebanen kan forøges  
+
+ med maksimalt 3 dB.
+Særlig betydning I to tilfælde er det imidlertid af særlig stor betydning at undersøge  
+
+ forholdene for den reflekterede lyd:
+Den reflekterede lyd kan under disse omstændigheder være maksimalt ca. 20  
+
+ dB kraftigere end den direkte lyd.
+Det vil da medføre en betydelig fejl i  
+
+ vurderingen af støjbelastningen fra en skydebane, hvis der ikke tages hensyn  
+
+ til det reflekterede støjbidrag.
+ Beregning af virkningen af refleksion er behæftet med større ubestemthed  
+
+ end de øvrige dele af beregningsmetoden, og anvisningerne i dette afsnit må  
+
+ af denne grund betragtes som overslagsmæssige.
+Den reflekterende flade Det væsentligste trin i beregningen af støjbelastningen hidrørende fra  
+
+ reflekteret lyd er at fastlægge den reflekterende flade.
+Dette gøres ved en  
+
+ inspektion på stedet, eventuelt suppleret med vurderinger af lyden fra  
+
+ prøveskydninger.
+Reflekterende flader kan være:
+* bygninger * støjvolde eller -mure * skovbryn eller tætte bevoksninger * stejle skrænter * side- og højdeblændere Der optegnes en terrænprofil svarende til Figur 1 for den reflekterede  
+
+ lyd, jf.
+Figur 19. Afstanden langs sigtelinien bliver Ri + Rr, og den  
+
+ beregningsmæssige udbredelsesretning Ø'. Beregningen af støjbelastningen  
+
+ gennemføres herefter på nøjagtigt samme måde som for den direkte lyd, idet  
+
+ korrektionsleddene beregnes på basis af transmissionsvejen for den  
+
+ reflekterede lyd(* 2).
+Skovbryn og skrænter Når skudstøj reflekteres fra skovbryn eller stejle skrænter, har den  
+
+ reflekterede lyd ofte længere varighed end den indfaldende lyd: skuddene  
+
+ lyder som »sus«.
+Støjbelastningen udtrykt som LpA,I, er under disse  
+
+ omstændigheder væsentligt mindre, end den ville have været, såfremt lyden  
+
+ blev reflekteret fra en plan, hård flade.
+Manglende viden gør det imidlertid  
+
+ ikke muligt at nedskrive den reflekterende virkning af bløde flader.
+1.11 Specielt for flugtskydebaner Ved flugtskydning afgives skuddene i forskellige retninger inden for et  
+
+ stort vinkelområde, der kan være op til 170 grader for en skeetskydebane, men  
+
+ dog typisk er noget mindre.
+Støjbelastningen i et beregningspunkt bestemmes  
+
+ ved at alle skud regnes koncentreret i middelretningen for dette  
+
+ vinkelområde.
+Middelretningen kan normalt bestemmes entydigt ud fra  
+
+ placeringen af kastetårne og standpladser.
+Dette indebærer, at enkelte skud i  
+
+ udkanten af vinkelområdet kan blive kraftigere end det beregnede resultat,  
+
+ men da de fleste af skuddene falder i den centrale del af vinkelområdet,  
+
+ bliver beregningsresultatet udtryk for det hyppigst forekommende støjniveau.  
+
+ Som resultat anvendes støjbelastningen fra den mest støjende standplads.
+1.12 Beregningsprogram Foruden den ovenfor beskrevne metode, baseret på anvendelse af  
+
+ nomogrammer, findes en udgave af den fælles nordiske beregningsmetode, som  
+
+ regner i 1/1-oktavbånd.
+PC-program 1/1-oktavbåndmetoden er programmeret til PC-brug af det norske  
+
+ konsulentfirma Kilde Akustikk A/S i Voss.
+Programmet (SKUDD version 3.0 D)  
+
+ med tilhørende brugervejledning kan mod betaling rekvireres hos Delta Akustik  
+
+ & Vibration, bygning 356, Akademivej, 2800 Lyngby.
+ Ved skydning i stående stilling er overensstemmelsen mellem  
+
+ nomogrammetoden og 1/1-oktavbåndmetoden inden for +/- 1 dB.
+Forsvaret Forsvarets Forskningstjeneste har med udgangspunkt i Miljøstyrelsens  
+
+ beregningsmetode for industristøj udviklet et PC-beregningsprogram (ILYD  
+
+ version 4.15) svarende til det ovenfor nævnte.
+Delta Akustik & Vibration har foretaget en sammenligning mellem de to  
+
+ beregningsmetoder (Teknisk notat AV 295/94) og fundet, at afvigelserne ligger  
+
+ mellem -1,5 og + 0,3 dB.
+På denne baggrund finder Miljøstyrelsen, at de to  
+
+ PC-baserede metoder begge kan anvendes til beregning af støj fra skydebaner.
+2. Målemetode for skudstøj 2.1 Støjmåling Godkendt institut/laboratorium Måling af støj fra en skydebane skal normalt foretages af et  
+
+ institut/laboratorium, der er godkendt af Miljøstyrelsen, jf. ref. (2). Dette  
+
+ vil f.eks. være påkrævet, såfremt der i anledning af en klagesag eller  
+
+ lignende er tale om eftervisning af, om vilkår eller påbud er overholdt.
+I  
+
+ relation til den almindelige egenkontrol behøver målinger (eller beregninger)  
+
+ ikke nødvendigvis at være udført af et dertil akkrediteret laboratorium,  
+
+ såfremt målinger iøvrigt bliver udført af et institut eller lignende, der kan  
+
+ dokumentere at besidde den nødvendige faglige viden.
+Måleresultat Måleresultaterne er maksimale, A-vægtede lydtrykniveauer i dB med  
+
+ tidsvægtning I (»impulse«) fra enkeltskud.
+Støjbelastningen  
+
+ bestemmes som den aritmetiske middelværdi af måleresultaterne fra en serie på  
+
+ 20 skud affyret med samme type våben og ammunition, samme skydestilling og  
+
+ fra den samme standplads.
+Flugtskydningsbaner For flugtskydningsbaner skal de 20 skud affyres i middelretningen for det  
+
+ vinkelområde, der benyttes ved skydningen, jf. beskrivelsen side .
+2.2 Målebetingelser Målebetingelserne, herunder især de meteorologiske forhold, influerer  
+
+ stærkt på måleresultaterne på grund af den ofte store afstand mellem  
+
+ skydebane og måleposition.
+Sand værdi Den sande værdi af støjbelastningen er middelværdien af resultaterne af  
+
+ principielt uendelig mange målinger.
+Den sande værdi findes med 90 %  
+
+ sandsynlighed i et interval placeret symmetrisk om den på grundlag af en  
+
+ måleserie beregnede støjbelastning.
+Ubestemthed Ved nøjagtigheden af en måling - også betegnet ubestemtheden - forstås den  
+
+ halve bredde af intervallet.
+ For at reducere ubestemtheden, er det nødvendigt at målinger udføres inden  
+
+ for følgende meteorologiske ramme for vindhastighed, vindretning og  
+
+ temperaturgradient:
+ Vindhastighed Vindhastigheden skal ligge i intervallet 2-5 m/s, målt som  
+
+ 10-minutters middelværdi i 10 meters højde over et repræsentativt, frit  
+
+ beliggende sted mellem skydebanen og støjmålepunket.
+Vindretning Vindretningen, målt på samme måde som vindhastigheden, må ikke afvige mere  
+
+ end 45 grader fra retningen fra standpladsen til støjmålepunktet .
+Temperaturgradienten Ved måling i større afstand end ca. 1500 m fra standpladsen (våbnet) bør  
+
+ temperaturgradienten ikke være for negativ.
+Skydækket må derfor være mindst  
+
+ halvskyet, dog helt overskyet i sommerperioden.
+Ubestemtheden kan nedbringes yderligere ved gentagne bestemmelser af  
+
+ støjbelastningen.
+For at opnå statistisk uafhængighed bør målingerne, dvs. de  
+
+ enkelte måleserier, udføres med mindst et døgns mellemrum.
+De meteorologiske  
+
+ betingelser, som er opstillet ovenfor, skal overholdes ved samtlige målinger.
+ Den resulterende støjbelastning fra flere målinger beregnes som den  
+
+ aritmetiske middelværdi af støjbelastningerne fra de enkelte målinger.
+ Sammenhængen mellem antallet af målinger (måleserier) og den forventede  
+
+ ubestemthed på den resulterende støjbelastning er anført i Tabel 3.
+Tabel 3 Forvantet ubestemthed på støjbelastning som funktion af antal  
+
+ målinger.
+ Det kan oplyses, at måleubestemtheden ifølge en nylig afsluttet  
+
+ litteraturundersøgelse (ref. (3)) stort set er uafhængig af  
+
+ standardafvigelsen på måleresultaterne for enkeltskud i en måleserie.
+Ubestemthed ved gentagne målinger Udføres gentagne målinger, beregnes ubestemtheden i det konkrete tilfælde  
+
+ efter anvisningerne i afsnit 4.5 i Miljøstyrelsens vejledning nr. 6/1984:  
+
+ »Måling af ekstern støj fra virksomheder«.
+Der bør foretages så mange målinger, at ubestemtheden på den resulterende  
+
+ støjbelastning er sammenlignelig med den normale ubestemthed på et  
+
+ beregningsresultat, d.v.s. +/- 3 dB.
+Ubestemtheden må ikke overstige +/- 5  
+
+ dB.
+Der bør derfor normalt foretages mindst 3 og ofte 8 målinger (måleserier)  
+
+ i hver måleposition.
+Bilag 1. Skema til dokumentation af manuel støjberegning I dette bilag er angivet et skema, der kan benyttes til dokumentation af  
+
+ en mauel støjberegning, der følger metoden angivet i kapitel 1.
+ Ved anvendelse af PC-beregninger må indgangsværdierne (afstande, højder,  
+
+ våbentyper o.l.) dokumenteres på tilsvarende måde, dog uden angivelse af  
+
+ aflæste mellemværdier fra de forskellige figurer.
+Bilag 2. Udgangsværdi Lo for våbentyper Nedenfor er i Tabel 4 angivet udgangsværdien for forskellige våbentyper.  
+
+ Efterfølgende er gengivet udgangsværdien for 87 våben (fortrinsvis militære)  
+
+ og forskellige typer ammunition.
+Som kilde for disse oplysninger henvises der  
+
+ til (litt. 4.) Udgangsværdi L0 (dB(A),I) for forskellige våbentyper samt tilhørende  
+
+ lydklasse G1-G5 i forskellige retninger til skudretningen Bemærk, at lydklassen kan variere i forskellige retninger indenfor samme  
+
+ kategori af våben/ammunition.
+Tabel 4 Bilag 3. Symbolliste A, B, C, D og E: Parameter, der benyttes ved udvælgelse af kurve for  
+
+ skærmkorrektion, kurve for bevoksningskorrektion og talrække for  
+
+ skydehuskorrektion.
+Afhænger af lydklasse og beregningsafstand C: Korrektionsstørrelse hørende til ÆLtp (-) G1, G2, G3, G4 og G5: Lydklasse karakteriserende frekvenssammensætning af  
+
+ støjudsendelse fra et våben.
+Afhænger af lydudbredelsesretning og ammunition.
+G4 og G5 betegner lyd med kraftigt energiindhold ved høje frekvenser, mens  
+
+ G1 og G2 omvendt betegner et dominerende indhold af lavfrekvent lyd (-) K: Skæringspunkt mellem sigtelinie og en skærm (-) ÆLafst: Korrektion for afstandsdæmpning og luftabsorption (dB) ÆLbev: Korrektion for virkning af bevoksning (dB) ÆLhus: Korrektion for virkning af skydehus o.l. (dB) ÆLo: Udgangsværdi for skudstøj.
+LpA,I måles i et ideelt frit felt 10 m fra  
+
+ våbenmundingen i en given retning (dB re 20 micro Pa) ÆLpA,I: Det A-vægtede lydtrykniveau målt med tidsvægtning I  
+
+ (»impulse«). Målestørrelse for støjbelastningen fra skydebaner (dB  
+
+ re 20 micro Pa) ÆLskærm: Korrektion for skærmdæmpning (dB) ÆLterræn: Korrektion for virkning af terræn (dB) ÆLtp: Terrænkorrektion for porøst terræn (dB) ÆLtr: Terrænkorrektion for reflekterende terræn (dB) P: Beregningspunktet (normalt 1,5 m over terræn) (-) R: Afstand mellem V og P, målt langs sigtelinien (m) Ri: Afstand mellem V og en reflekterende flade (m) Rr: Afstand mellem en reflekterende flade og P (m) R' og R'»: Afstand fra V til en bevoksning (m) R1: Afstand fra V til en skærm (m) T: Toppunktet af en skærm eller et bakkedrag (-) V: Ækvivalent punktkilde placeret i en højde over terræn svarende til  
+
+ position af våbenmundingen ved den aktuelle skydestilling (-) X, Y og Z: Type af skydehus h: Højde af en krum lydbanens skæringspunkt med en skærm over K (m) he: Skærmens effektive højde, dvs. højde af skærmtoppen T over lydbanens  
+
+ skæringspunkt med skærmen.
+he = KT - h (m) h« og h'»: Højde over sigtelinien af en lydbane, som gennemløber  
+
+ en bevoksning (m) Å1 og Å2: Transmissionsvej af en lydbane gennem en bevoksning (m) Åtot: Samlede transmissionsvej af en lydbane gennem bevoksninger (m) p: Porøst terræn (-) r: Reflekterende terræn (-) Ø: Vinkel mellem skudretning og linie V-P (grader) Ø«: Vinkel mellem skudretning og udbredelsesretning for lyd, som  
+
+ senere undergår refleksion (grader) Bilag 4. Referencer.
+1. Noise from Shooting Ranges.
+A Nordic Prediction  
+
+ Method for small-bore Weapons', Kilde, Rapport nr. 73 a (maj 1984).
+2. Godkendelsesordning for støjmålinger',  
+
+ Miljøstyrelsens Referencelaboratorium for Støjmålinger.
+Liste over  
+
+ laboratorier, der er godkendt af Miljøstyrelsen til at udføre  
+
+ »Miljømåling - ekstern støj«.
+Listen revideres ca. hvert halve år.
+3. Måling og beregning af skudstøj.
+Resultater af en  
+
+ litteraturundersøgelse og beregninger efter den fælles nordiske  
+
+ beregningsmetode for skudstøj', Lydteknisk Institut, LI 22/89.
+ 4. Delta Akkustik & Vibration (DANAK 100/381, AV  
+
+ 984/93).
+(* 1) Ved koteforskel mellem punkt V og P er det hensigtsmæssigt at opmåle  
+
+ og bruge de vandrette afstande mellem dels standpladsen og beregningspunktet,  
+
+ dels standpladsen og skærmen.
+Normalt opnås tilnærmelsesvis samme  
+
+ beregningsresultat, hvad enten man bruger de vandrette eller »skrå«  
+
+ afstande.
+ (* 2) Det er forudsat, at al lyden reflekteres totalt fra den  
+
+ reflekterende flade, og at den reflekterede lyd har samme tidsmæssige  
+
+ udstrækning som den indfaldende.Disse forudsætninger er ikke altid opfyldt,  
+
+ hvilket kan medføre, at støjbelastningen fra den reflekterede lyd bliver  
+
+ overvurderet.

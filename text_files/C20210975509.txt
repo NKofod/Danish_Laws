@@ -1,0 +1,323 @@
+Cirkulære om registrering mv. af oplysninger i Det Centrale Kriminalregister (Kriminalregisteret) I medfør af § 5, stk. 2, § 6, stk. 2, § 10, stk. 4, § 30, stk. 2, § 31, stk. 2, i bekendtgørelse nr. 1860 af 23. september 2021 om behandling af personoplysninger i Det Centrale Kriminalregister (Kriminalregisteret) fastsættes:
+Kapitel 1 Datatyper i Kriminalregisterets afgørelsesdel Afgørelser mv.
+ § 1. I Kriminalregisterets afgørelsesdel optages følgende datatyper:
+1) Domme og bødevedtagelser, herunder vedtagne udenretlige bødeforelæg, som omfatter overtrædelser af straffeloven.
+Frifindende domme medtages kun, hvis frifindelsen er sket i medfør af straffelovens § 16.
+ 2) Domme for overtrædelse af anden lovgivning, hvis der, betinget eller ubetinget, idømmes fængselsstraf, eller hvis der frakendes eller udskydes rettigheder eller meddeles pålæg vedrørende den dømtes person eller fastsættes retsfølger i medfør af straffelovens §§ 68-70.
+ 3) Bødevedtagelser for overtrædelse af anden lovgivning, hvis der sker frakendelse eller udskydelse af rettigheder.
+ 4) Tiltalefrafald, medmindre disse er meddelt uden vilkår.
+ 5) Ankeafgørelser.
+ 6) Løsladelse fra afsoning.
+ 7) Benådning.
+ 8) Afgørelser om genindsættelse af personer, der er prøveløsladt.
+ 9) Afgørelser om fuldbyrdelse af fængselsstraf i andet europæisk land end domslandet.
+ 10) Afgørelser om overførelse af tilsyn i henhold til betinget dom, prøveløsladelse eller benådning til andet nordisk land end det, hvor den pågældende er dømt, prøveløsladt eller benådet.
+ 11) Afgørelser om ændring eller ophævelse af de i straffelovens §§ 68-70 nævnte retsfølger.
+ 12) Ændringer i øvrigt eller ophævelse af de tilførte afgørelser.
+ 13) Afgørelser om overtrædelse af lov om tilhold, opholdsforbud og bortvisning.
+ 14) Opholdsforbud efter straffelovens §§ 79 a og 79 c samt opholds- og/eller kontaktforbud efter straffelovens § 79 b.
+Anke eller genoptagelse § 2. Hvis en afgørelse, som er optaget i Kriminalregisterets afgørelsesdel, ved anke eller genoptagelse ændres, således at den endelige afgørelse ikke skal optages i denne, slettes hele tilførslen.
+ Afgørelser truffet i de nordiske lande mv.
+ § 3. Afgørelser truffet i de nordiske lande og i lande, der er medlem af Europarådet, vedrørende danske statsborgere og udenlandske statsborgere, der på gerningstidspunktet har fast bopæl i Danmark, optages efter samme retningslinjer som danske afgørelser, hvis politidirektøren i Midt- og Vestjyllands Politi får underretning derom.
+ Stk. 2. Afgørelser truffet i andre lande optages i de nævnte tilfælde, hvis de af politidirektøren i Midt- og Vestjyllands Politi efter procesmåden og strafudmålingen skønnes at kunne sidestilles med danske afgørelser.
+Afgørelser i civilretlige straffesager § 4. Afgørelser i civilretlige straffesager optages ikke i Kriminalregisterets afgørelsesdel.
+Kapitel 2 Datatyper i Kriminalregisterets efterforskningsdel Identifikationsoplysninger mv.
+ § 5. I Kriminalregisterets efterforskningsdel optages følgende identifikationsoplysninger:
+ 1) Identifikationsnummer: For personer normalt CPR-NR. (personnummer). For juridiske personer (selskaber, foreninger m.v.) SE-NR. (erhvervsregisternummer hos skattemyndighederne) eller CVR-NR. (Centralt Erhvervs Registernummer). I de tilfælde, hvor ingen af de foranstående numre haves, anvendes et individuelt ENR (erstatningsnummer), der er opbygget som et personnummer, men hvor de sidste 4 cifre er erstattet af bogstaver.
+ 2) Angivelse af, om der er slettet oplysninger inden for de seneste 12 måneder samt typen og datoen herfor.
+ 3) Opholdssted(er), det vil sige, hvor den pågældende kan træffes, når der ikke er tale om en CPR-adresse og med angivelse af arten af den politimæssige relevans, f.eks. institution, beværtning eller orlovsadresse i tilknytning til en udgangstilladelse.
+ 4) Specielle registernumre, der henviser til særlige efterforskningsregistre eller specielle projekter, f.eks. register over fotos optaget af politiet, iværksættelse af særlige hjælpeforanstaltninger eller alternative sanktionsformer.
+ 5) Signalementoplysninger med signalementdato.
+Aktualitetsmarkeringer § 6. I Kriminalregisterets efterforskningsdel optages aktualitetsmarkeringer, jf. stk. 2, der angiver, at en person er politimæssig aktuel, uanset om der er en verserende sag.
+ Stk. 2. Der kan registreres følgende typer aktualitetsmarkeringer:
+ 1) 01-Bevæbnet med skydevåben.
+ 2) 02-Bevæbnet med stikvåben.
+ 3) 03-Bevæbnet med slagvåben.
+ 4) 04-Voldsmand.
+ 5) 05-Springer/ undviger.
+ 6) 06-Farlig.
+ 7) 07-Alkoholistbehandling.
+ 8) 08-Vilkårsovertrædelse.
+ 9) 09-Adm. forbud mod ophold.
+ 10) 10-Bruger narkotika.
+ 11) 11-Handler med narkotika.
+ 12) 12-Smitsom leverbetændelse.
+ 13) 13-Alkolås.
+ 14) 14-Alkolås udtrådt.
+ 15) 15-Generhvervelse udskudt.
+ 16) 16-Advarsel efter udlændingelovens § 24 b.
+ 17) 17-Administrativ inddragelse af lille knallertkørekort.
+ 18) 18-Frakendelse af retten til at føre lille knallert.
+ 19) 19-Frakendt ret til at udøve kørelærervirksomhed.
+ 20) 20-Udskudt førerret.
+ 21) 21-Kørselsforbud.
+ 22) 22-Forbud efter restaurationsloven.
+ 23) 23-Frakendelse af kørekort.
+ 24) 24-Administrativ inddragelse af kørekort.
+ 25) 25-Administrativ nægtelse af kørekort.
+ 26) 26-Nægtet erhvervsmæssig kørekort.
+ 27) 27-Indrejseforbud.
+ 28) 28-Administrativ inddragelse af pas.
+ 29) 29-Nægtet pas.
+ 30) 30-Advarsel iht. straffelovens § 265.
+ 31) 31-Påbud efter ordensbekendtgørelsen.
+ 32) 32-Terrorist.
+ 33) 33-Falsk tilståelse af forhold/falsk anmeldelse.
+ 34) 34 Anvendes ikke som aktualitetsmarkering.
+ 35) 35-Offer/Æresforbryd.
+ 36) 36-Uromager.
+ 37) 37-Dyreværnsloven.
+ 38) 38-Meddelt tilhold.
+ 39) 39-Anvendes ikke som aktualitetsmarkering.
+ 40) 40-Bortvisning.
+ 41) 41-Kredsaktuel.
+ 42) 42-Inddraget pas i.h.t. paslovens § 2, stk. 1, nr. 4.
+ 43) 43-Nægtet pas i.h.t. paslovens § 2, stk. 1, nr. 4.
+ 44) 44-Udrejseforbud.
+ 45) 45-Adm. inddragelse af kørekort til tunge køretøjer.
+ 46) 46-Adm. inddragelse af grp. 2 kørekort.
+ 47) 47-Foreningsforbud.
+ 48) 48-Frakendelse af kørekort til tunge køretøjer.
+ 49) 49-Strakstilhold.
+ 50) 50-Idømt opholdsforbud.
+ 51) 51-Opmærksomhedsliste.
+ 52) 52-Mistet asylansøgerkort.
+ 53) 53-Mistet opholdskort.
+ 54) 54-Opholdsforbud efter straffelovens § 132 b, stk. 1.
+ 55) 55-Forbud efter straffelovens § 236.
+ Stk. 3. I tilknytning til de i stk. 2, nr. 1-5, nævnte aktualitetsmarkeringer er der mulighed for registrering af journalnummeret på den konkrete sag, der ligger til grund for markeringen.
+ Stk. 4. I tilknytning til de i stk. 2, nr. 6-9, 13-16, 20, 50, 54 og 55, nævnte aktualitetsmarkeringer er en registrering af sagens journalnummer obligatorisk.
+ Stk. 5. Det vil kunne fremgå, hvilken myndighed der har foranstaltet registreringen af en aktualitetsmarkering.
+ Stk. 6. De i stk. 2, nr. 7, 8, 13, 14, 15, 18, 19, 20, 22, 23, 27, 30 (indtil den 1. juli 2022), 31, 37, 38,  40, 42, 46, 48, 54 og 55, nævnte aktualitetsmarkeringer er tidsbegrænsede og slukkes, når udløbsdatoen er passeret.
+ Stk. 7. De i stk. 2, nr. 32 og 51, nævnte aktualitetsmarkeringer må kun registreres af Rigspolitiet.
+Oplysninger om sager § 7. I Kriminalregisterets efterforskningsdel optages følgende oplysninger om sager:
+ 1) Sagens journalnummer.
+ 2) Oplysning om sagens oversendelse til anden myndighed.
+ 3) Oplysning om hvorvidt en sag er et hovedforhold eller et biforhold.
+Eftersøgninger § 8. I Kriminalregisterets efterforskningsdel optages følgende eftersøgningsoplysninger:
+ 1) Dato for eftersøgningen.
+ 2) Hvad der ønskes foretaget, når den pågældende træffes.
+ 3) Eftersøgende myndighed.
+ 4) Om pågældende er efterlyst i offentligheden, f.eks. i Danmarks Radio.
+ 5) Om der foreligger fængslingskendelse eller anholdelsesbeslutning med angivelse af retskreds og evt. dommerens navn.
+ 6) Aflysningsoplysninger (dato og myndighed).
+Sigtelser § 9. I Kriminalregisterets efterforskningsdel optages oplysninger om sigtelser for:
+ 1) Overtrædelse af straffeloven.
+ 2) Overtrædelse af lovgivningen om våben og eksplosivstoffer.
+ 3) Overtrædelse af lov om jagt og vildtforvaltning.
+ 4) Overtrædelse af lovgivningen om euforiserende stoffer.
+ 5) Overtrædelse af toldloven, der må antages at medføre fængselsstraf.
+ 6) Overtrædelse af udlændingeloven for så vidt angår bistand til en udlændings ulovlige indrejse eller ophold samt overtrædelse af meddelt indrejseforbud eller manglende overholdelse af pålagt melde- eller opholdspligt.
+ 7) Overtrædelse af lov om pas § 2 b, stk. 1.
+ 8) Overtrædelse af lov om tilhold, opholdsforbud og bortvisning.
+ 9) Overtrædelse af færdselslovens § 53, § 54, stk. 1 og 2, § 56, stk. 1, 1. pkt., § 63, stk. 1, 1. pkt., § 117 a, § 117 c, stk. 1, nr. 4,  samt andre færdselslovovertrædelser, når der opstår spørgsmål om kørselsforbud, betinget eller ubetinget frakendelse af førerretten, betinget eller ubetinget frakendelse af retten til at føre lille knallert, betinget eller ubetinget frakendelse af retten til at føre tunge kørertøjer, betinget eller ubetinget frakendelse af retten til erhvervsmæssig transport af dyr og betinget eller ubetinget frakendelse af retten til at udøve virksomhed som kørelærer.
+ 10) Overtrædelse af bestemmelser vedrørende kontrolapparat, der er omfattet af de forordninger, der er nævnt i færdselslovens § 86 a, stk. 1, eller af forskrifter, der er udstedt i medfør af færdselslovens § 86 a, stk. 1.
+ 11) Overtrædelse af de i færdselslovens § 125, stk. 2, nr. 1-6, nævnte bestemmelser.
+ 12) Overtrædelse af færdselslovens bestemmelser om kørsel med overlæs.
+ 13) Overtrædelser af færdselslovens § 67, stk. 2, hvor en knallert er konstruktivt ændret med henblik på hastighedsforøgelse, eller som er i en sådan ulovlig stand, at den for så vidt angår lille knallert kan køre 43 km i timen eller derover og for så vidt angår stor knallert kan køre 64 km i timen eller derover.
+ 14) Overtrædelse af særlovgivningen, der indgår som biforhold i et sagskompleks, under forudsætning af, at forholdet er registreringspligtigt på afgørelsestidspunktet.
+ 15) Overtrædelse af lov om forbud mod ophold i bestemte ejendomme.
+ 16) Forhold, hvor der er sket udenretslig konfiskation på sigtelsestidspunktet.
+ Stk. 2. For hver registreret sigtelse angives følgende oplysninger:
+ 1) Sigtelsens dato.
+ 2) Gerningsdato/tidsrum.
+ 3) Gerningsindhold.
+ 4) Gerningsstedskommune.
+ 5) Bopælskommune.
+ 6) Tilhørsforholdskode, der angiver personens tilhørsforhold til Danmark på sigtelsestidspunktet.
+ 7) Markering af, hvorvidt der er tale om forsøg.
+ 8) Indberettende eller sagsbehandlende myndighed.
+Frihedsberøvelser § 10. I Kriminalregisterets efterforskningsdel optages følgende oplysninger om frihedsberøvelser:
+ 1) Anholdelser, hvor der sker indbringelse til politistationen, f.eks. til konstatering af identitet.
+ 2) Opretholdelse af anholdelser.
+ 3) Varetægtsfængslinger.
+ 4) Surrogatfængslinger.
+ 5) Frihedsberøvelser i medfør af udlændingeloven.
+ 6) Afsoninger.
+ 7) Domsanbringelse i medfør af straffelovens §§ 68-70.
+ 8) Overførsler herunder overførsler til mentalobservation.
+ Stk. 2. I tilknytning til de i § 10, stk. 1, nævnte oplysninger om frihedsberøvelser registreres:
+ 1) Datoen for frihedsberøvelsen.
+ 2) Frihedsberøvelsens type, jf. § 10, stk. 1, nr. 1-8.
+ 3) Frihedsberøvelsens anledning.
+ 4) Eventuelt anholdelsesprotokolnummer.
+ 5) Opholdssted under frihedsberøvelsen, f.eks. navn på fængsel eller arrest.
+ 6) Den anholdende/frihedsberøvende myndighed.
+ 7) Løsladelsesdato.
+ 8) Eventuel prøveløsladelse og vilkår herfor.
+ 9) Eventuel straksudsendelse.
+Afgørelser § 11. I Kriminalregisterets efterforskningsdel registreres der oplysninger om afgørelser i samtlige sager, som er opdateret med sigtelse, jf. § 9, stk. 1, nr. 1-16.
+ § 12. I Kriminalregisterets efterforskningsdel registreres der ud over afgørelserne omfattet af § 11 oplysninger om afgørelser i de følgende tilfælde:
+ 1) Andre afgørelser, hvorved der idømmes opholds- og eller kontaktforbud, betinget eller ubetinget fængselsstraf, frakendes rettigheder eller meddeles pålæg vedrørende den tiltaltes person.
+ 2) Andre afgørelser, hvor der idømmes eller vedtages en bøde på 1.000 kr. eller derover, for overtrædelse af færdselsloven eller forskrifter udstedt i medfør heraf dog 2.500 kr. eller derover.
+ 3) Andre afgørelser, hvor der idømmes eller vedtages en bøde på under 1.000 kr., for overtrædelse af færdselsloven eller forskrifter udstedt i medfør heraf under 2.500 kr., hvis der er tale om en nedsat normalbøde på mindst de nævnte beløb.
+ 4) Andre afgørelser, hvor der idømmes eller vedtages en bøde på under 1.000 kr., for overtrædelse af færdselsloven eller forskrifter udstedt i medfør heraf under 2.500 kr., for overtrædelse af straffebestemmelser, hvor der i straffebestemmelsen er foreskrevet højere straf i gentagelsestilfælde, hvor påstand om højere straf er foreskrevet administrativt, samt hvor der i gentagelses tilfælde opstår særlige spørgsmål om konfiskation eller pålæg.
+ 5) Andre afgørelser, hvor der idømmes eller vedtages en bøde på under 2.500 kr. for overtrædelse af færdselslovens bestemmelser om:
+a) vigepligt, b) almindelige hastighedsregler (færdselslovens § 41), c) spirituskørsel, d) kørsel, hvor den pågældendes blod under eller efter kørslen indeholder bevidsthedspåvirkende stoffer, som efter regler fastsat af justitsministeren er klassificeret som farlige for færdselssikkerheden, e) kørsel, hvor den pågældende på grund af sygdom, svækkelse, overanstrengelse, mangel på søvn, påvirkning af opstemmende eller bedøvende midler eller af lignende årsager befinder sig i en sådan tilstand, at han eller hun er ude af stand til at føre køretøjet på fuldt betryggende måde, f) mangler ved motorkøretøjets driftsbremse eller styretøj, g) overlæs og h) kørsel uden at have erhvervet førerret til det pågældende motorkøretøj.
+ 6) Andre afgørelser for overtrædelse af restaurationslovens bestemmelser om nattesæde, udskænkning for mindreårige eller udskænkning i butikstiden.
+ 7) Konfiskation, uanset om denne er udenretlig eller indenretlig.
+ 8) Tiltalefrafald med eller uden vilkår, herunder ungdomskontrakter.
+ 9) Frifindelser, når sigtelsen på et tidligere stadium er registreret i Kriminalregisteret.
+ 10) Henlæggelse af sager, herunder sager, der sluttes på bevisets stilling, eller afgøres med en advarsel (retsplejelovens § 721, stk. 1, nr. 2-4, og § 722, stk. 1, nr. 1) under forudsætning af, at sagen på et tidligere stadium er registreret i Kriminalregisteret med en sigtelse eller en tidligere afgørelse.
+ 11) Alle andre afgørelser i sager, der er registreret i Kriminalregisteret med en sigtelse eller en tidligere afgørelse.
+ Stk. 2. Afgørelser, hvor der alene idømmes eller vedtages bøde i medfør af færdselslovens § 118 c, stk. 1, registreres ikke.
+Registreringer i forbindelse med afgørelser § 13. I tilknytning til oplysningerne om afgørelser i medfør af §§ 11 og 12 registreres:
+ 1) Dato for afgørelsen.
+ 2) Afgørende myndighed.
+ 3) Afgørelsestype, f.eks. dom, bødeforelæg, bødevedtagelse.
+ 4) Afgørelsesmåden, f.eks. nævningesag.
+ 5) For så vidt angår afgørelser om overtrædelse af de i færdselslovens § 125, stk. 2, nr. 1-6, nævnte bestemmelser oplysninger om antallet af overtrædelser af disse (klipværdi) og tidspunktet for forseelsen.
+ 6) Strafudmålingen.
+ 7) Eventuel ankedato.
+ 8) Udløbsdato for evt. betingelser i afgørelsen.
+ 9) Oplysninger om evt. frakendelse, pålæg, konfiskation eller benådning.
+ 10) Om der er tale om forsøg/medvirken.
+Særlige typer af indberetninger § 14. I Kriminalregisterets efterforskningsdel optages følgende særlige typer af indberetninger om afgørelser:
+ 1) Sager om meddelelse af advarsel i medfør af straffelovens § 265 (indtil den 1. juli 2022).
+ 2) Sager om tilhold, opholdsforbud og bortvisning i medfør af lov om tilhold, opholdsforbud og bortvisning.
+ 3) Andre advarsler, tilhold, forbud, karantæner eller pålæg.
+ 4) Udrejseforbud i medfør af lov om pas § 2 b, stk. 1.
+ 5) Generhvervelse af andre rettigheder end førerretten.
+ 6) Administrativ inddragelse af kørekort, herunder midlertidig inddragelse af førerretten i medfør af færdselslovens § 130, stk. 1.
+ 7) Nægtelse af udstedelse af kørekort af andre grunde end ikke bestået prøve eller nægtet ombytning af udenlandsk kørekort.
+ 8) Nægtelse af erhvervskørekort, når det sker på baggrund af strafbare forhold.
+ 9) Fratagelse eller frakendelse af udenlandsk kørekort samt i forbindelse hermed påtegning af internationale kørekort.
+ 10) Genudlevering af administrativt inddraget kørekort.
+ 11) Generhvervelse af førerretten, når denne har været frakendt for bestandig, eller når generhvervelsen sker før frakendelsestidens udløb.
+ 12) Sager om ind- og udtræden af alkolåsordning, jf. færdselslovens § 60 a, stk. 3, og § 132 a, stk. 1, herunder generhvervelse udsat i forbindelse med spirituskørsel, der er omfattet af alkolåsordningen.
+Bortkomst mv. af legitimationspapirer § 15. I Kriminalregisterets efterforskningsdel registreres bortkomst eller fremlysning af offentligt anerkendte legitimationspapirer,  som indeholder oplysninger om navn og fødselsdato.
+ Stk. 2. Bortkomst eller fremlysning af pas og kørekort registreres ikke i registeret.
+ Stk. 3. Registreringen sker i tilknytning til den pågældende persons data og altid med angivelse af eventuelt journalnummer.
+ § 16 For det enkelte legitimationspapir nævnt i § 15 kan der i Kriminalregisterets efterforskningsdel registreres oplysninger om:
+ 1) Efterlysningsdato.
+ 2) Efterlysende myndighed.
+ 3) Legitimationspapirets art, f.eks. sundhedskort.
+ 4) Gyldighedsområde.
+ 5) Gyldighedstidsrum.
+ 6) Tidspunkt/tidsrum for bortkomsten.
+ 7) Udstedende myndighed, herunder dennes nationalitet.
+ 8) Eventuelt antal genparter af legitimationspapiret.
+ 9) Aflysende myndighed.
+ 10) Aflysningsdato.
+ Udgangstilladelser mv.
+ § 17  I Kriminalregisterets efterforskningsdel registreres oplysninger om udgangstilladelser, når en strafafsoner opnår orlov eller udgang under afsoning af fængselsstraf, anbringelse i institution eller forvaring.
+ Stk. 2. I tilknytning til orlov eller udgang registreres oplysninger om:
+ 1) Udgangens begyndelsestidspunkt.
+ 2) Udgangens sluttidspunkt.
+ 3) Til hvilken politikreds udgangstilladelsen er givet.
+ 4) Fra hvilken institution udgangstilladelsen er givet.
+ 5) Om der til orlov eller udgangen knytter sig særlige vilkår.
+ Stk. 3. Herudover registreres udeblivelse fra afsoning efter udgang, undvigelse under et afsoningsforløb eller udgang.
+ Stk. 4. Udgange fra åbne anstalter uden overnatning og udgange for enkeltpersoner under ledsagelse registreres ikke.
+Børn under 15 år § 18. Børn under 15 år registreres alene i Kriminalregisterets efterforskningsdel for strafbare forhold i følgende tilfælde:
+1) Børn i aldersgruppen 12-14 år registreres, når det under hensyn til forholdets grovhed findes påkrævet.
+En registrering må normalt anses for påkrævet ved drab, røveri, voldtægt, og når forholdet har en grovere karakter i forbindelse med vold, hærværk, brandstiftelse eller overtrædelse af narkotikalovgivningen samt ved alvorligere berigelseskriminalitet, navnlig når der er tale om serieforbrydelser.
+ 2) Børn i aldersgruppen 10-12 år registreres, når betingelserne under nr. 1 er opfyldt, og der er tale om særlig grov kriminalitet.
+ 3) Børn under 10 år registreres ikke for strafbare forhold.
+ Stk. 2. Registrering nævnt under stk. 1, nr. 1 og 2, foretages af politidirektøren i Midt- og Vestjyllands Politi efter en vurdering i det enkelte tilfælde.
+ § 19. Registrering af børn under 15 år for ikke strafbare forhold finder i øvrigt kun sted, når det er nødvendigt for en forsvarlig udførelse af politiets arbejde, f.eks. ved eftersøgninger.
+Særlige markeringer § 20. I Kriminalregisterets efterforskningsdel kan en person også registreres med følgende særlige markeringer:
+ 1) Registrering efter anmodning fra Statsadvokaten for Særlig Økonomisk og International Kriminalitet.
+ 2) Registrering af personer, hvoraf foto findes verserende i Rigspolitiets nationale fotoregister.
+ 3) Registrering af kredsaktuelle.
+ 4) Registrering efter anmodning fra Rigspolitiets DNA-sektion.
+ 5) Registrering på opmærksomhedsliste.
+Falske generalier § 21. Når det konstateres, at en person har misbrugt en anden persons navn og personnummer eller fødselsdato over for politiet eller i tilknytning til begået kriminalitet, registreres dette i Kriminalregisterets efterforskningsdel som en henvisning til den anden person under specielle registernumre, jf. § 5, nr. 4.
+Andre registreringer af politimæssig betydning § 22. I Kriminalregisterets efterforskningsdel kan der også registreres andre oplysninger af væsentlig politimæssig interesse, når registreringen er nødvendig for varetagelsen af registerets opgaver.
+ Stk. 2. Indberetning efter stk. 1 skal påtegnes af en særlig bemyndiget person, som attesterer, at betingelserne for registrering er opfyldt.
+ Stk. 3. Det afgøres af vedkommende politidirektør, hvem der bemyndiges til at påtegne en indberetning i medfør af stk. 2.
+Kapitel 3 Sletning af oplysninger i Kriminalregisterets afgørelsesdel Afgørelser § 23. I Kriminalregisterets afgørelsesdel slettes en afgørelse, når der er forløbet 10 år fra det seneste af følgende tidspunkter, jf. dog stk. 2 og 3:
+ 1) Endelig løsladelse fra afsoning af fængselsstraf.
+ 2) Udløb af prøvetid efter prøveløsladelse eller straksudsendelse.
+ 3) Endelig ophævelse af retsfølge efter straffelovens §§ 68-70.
+ 4) Ophør af frakendelse eller udskydelse af rettigheder eller pålæg.
+ 5) Endelig afgørelse, der ikke omfattes af de under nr. 1-4 nævnte tilfælde.
+Stk. 2. Oplysninger om personer, der er fyldt 80 år, slettes i Kriminalregisterets afgørelsesdel.
+For personer, der er fyldt 70, men ikke 80 år, nedsættes de i stk. 1 anførte frister til 5 år.
+ Stk. 3. Opholdsforbud efter straffelovens §§ 79 a og 79 c samt opholds- og/eller kontaktforbud efter straffelovens § 79 b slettes ved opholds- og/eller kontaktforbuddets ophør.
+Kapitel 4 Sletning af oplysninger i Kriminalregisterets efterforskningsdel Sletteregler § 24. Alle registreringer i Kriminalregisteret er undergivet automatiske (maskinelle) sletteregler.
+Slettereglerne afhænger af de registrerede bestemmelser, afgørelsestyperne og den registrerede persons alder.  Hvis der under samme journalnummer er registreret forskellige afgørelsestyper vedrørende den samme person, følger slettereglen afgørelsen i hovedforholdet.
+ Stk. 2. Slettes en afgørelse i Kriminalregisterets efterforskningsdel, omfatter sletningen tillige de oplysninger om f.eks. anholdelse, sigtelse eller afsoning, som er knyttet til afgørelsen.
+Stk. 3. Sletterutinerne gennemføres som månedlige kørsler, og oplysningerne slettes således efter udløbet af den måned, hvor slettefristen blev overskredet.
+Dog gennemføres sletning af fældende domme mv., jf. §§ 26 og 27, kun én gang årligt.
+ Stk. 4. Hvis sletning ikke er sket tidligere, slettes oplysningerne i registeret automatisk 2 år efter den pågældendes død.
+Stk. 5. Oplysninger vedrørende juridiske personer (selskaber, foreninger mv.) slettes 5 år efter virksomhedens ophør Sletning af domme om særlig grov kriminalitet § 25. Domme vedrørende særlig grove overtrædelser af straffeloven slettes først, når der skal ske sletning på grund af den registreredes alder, jf. §§ 45-47, Stk. 2. Som domme omfattet af stk. 1 regnes domme, som har medført betinget eller ubetinget fængselsstraf, betinget eller ubetinget rettighedsfrakendelse eller retsfølger efter straffelovens §§ 68-70, og som omfatter:
+1) landsskadelig virksomhed (straffelovens §§ 98-118), 2) forbrydelser i offentlig tjeneste eller hverv (straffelovens §§ 144-146), 3) brandstiftelse (straffelovens §§ 180-181), 4) flykapring (straffelovens § 183 a), 5) grov narkotikakriminalitet (straffelovens §§ 191-191 a), 6) grov seksualforbrydelse (straffelovens §§ 216, 222, stk. 2, 223, herunder jf. § 225, og domme afsagt inden den 1. juli 2013 efter de dagældende regler i straffelovens §§ 216, 217, 222, stk. 2, 223, herunder jf. §§ 224 og 225), 7) drab (straffelovens § 237), 8) grov vold eller trusler (straffelovens §§ 123, 245 og 246), 9) røveri (straffelovens § 288) eller 10) groft skattesvig (straffelovens § 289).
+Sletning af domme om grov kriminalitet § 26. Domme, hvor der er fastsat retsfølger efter straffelovens §§ 68-70, fængselsstraf i år, og domme, hvor fængselsstraf eller rettighedsfrakendelse er fastsat, slettes i Kriminalregisterets efterforskningsdel, når følgende tre betingelser er opfyldt:
+ 1) Dommen omfatter:
+a) vold mod tjenestemand (straffelovens § 119), b) falsk anklage (straffelovens § 164), c) falskmøntneri (straffelovens § 166), d) fremstilling af falske stempelmærker (straffelovens § 177), e) sprængning m.v. (straffelovens § 183), f) forgiftning af drikkevand m.v. (straffelovens §§ 186 og 187), g) salg af sundhedsfarlige nærings- eller lægemidler m.v. (straffelovens §§ 188 og 189), h) grov våbenlovsovertrædelse (straffelovens § 192 a), i) bigami (straffelovens § 208), j) incest (straffelovens § 210), k) udnyttelse af sindslidende eller mentalt retarderede (straffelovens § 218, herunder jf. § 225, og domme afsagt inden den 1. juli 2013 efter de dagældende regler i straffelovens § 218, herunder jf. §§ 224 og 225), l) samleje med mindreårig betroet i pågældendes varetægt (straffelovens § 219, herunder jf. § 225), og domme afsagt inden den 1. juli 2013 efter de dagældende regler i straffelovens § 219, herunder jf. §§ 224 og 225), m) samleje ved groft misbrug af en persons arbejdsmæssige, økonomiske eller behandlings- eller plejemæssige afhængighed (straffelovens § 220, herunder jf. § 225, og domme afsagt inden den 1. juli 2013 efter de dagældende regler i straffelovens § 220, herunder jf. §§ 224 og 225), n) tilsnigelse af samleje under forveksling (straffelovens § 221, herunder jf. § 225, og domme afsagt inden den 1. juli 213 efter de dagældende regler i straffelovens § 221, herunder jf. § 224), o) samleje med barn under 15 år (straffelovens § 222, stk. 1, herunder jf. § 225, og domme afsagt inden den 1. juli 2013 efter de dagældende regler i straffelovens § 222, stk. 1, herunder jf. §§ 224 og 225), p) medvirken til at prostituere personer under 18 år (domme afsagt den 1. juli 2013 eller senere vedrørende § 224, stk. 1, herunder jf. § 225), q) kunde til prostitueret under 18 år (straffelovens § 224, stk. 2, herunder jf. § 225, og domme afsagt inden den 1. juli 2013 efter de dagældende regler i straffelovens § 223 a, herunder jf. §§ 224 og 225), r) rufferi m.v. (straffelovens §§ 233 og 233 a og domme afsagt inden den 1. juli 2013 efter de dagældende regler i straffelovens §§ 228 og 229), s) optagelse af pornografiske fotografier, film eller lignende af en person under 18 år (straffelovens § 226 og domme afsagt inden den 1. juli 2013 efter de dagældende regler i straffelovens § 230), t) blufærdighedskrænkelse (straffelovens § 232), u) salg af utugtige billeder til person under 16 år (straffelovens § 234), v) udbredelse af pornografiske fotografier mv. af personer u. 18 år (straffelovens § 235), w) hensættelse i hjælpeløs tilstand (straffelovens § 250), x) grov frihedsberøvelse (straffelovens § 261, stk. 2), y) overtrædelse af våbenloven eller z) overtrædelse af lov om euforiserende stoffer.
+ 2) Personen ikke længere er registreret med afgørelser i afgørelsesdelen, jf. kapitel 3.
+ 3) Der er forløbet 20 år fra enten:
+a) løsladelsesdatoen, dog udløb af prøvetid efter eventuel prøveløsladelse eller straksudsendelse, for så vidt angår idømt ubetinget fængselsstraf, b) afgørelsens dato, for så vidt angår betinget fængselsstraf eller betinget førerretsfrakendelse, betinget frakendelse af retten til at føre lille knallert, betinget frakendelse af retten til at føre tunge køretøjer, betinget frakendelse af retten til erhvervsmæssig transport af dyr og betinget frakendelse af retten til at udøve virksomhed som kørelærer, c) retsfølgens endelige ophævelse, for så vidt angår retsfølge fastsat i medfør af straffelovens §§ 68-70, eller d) frakendelsesperiodens udløb, for så vidt angår ubetinget frakendelse af førerretten, ubetinget frakendelse af retten til at føre lille knallert, ubetinget frakendelse af retten til at føre tunge køretøjer, ubetinget frakendelse af retten til erhvervsmæssig transport af dyr og ubetinget frakendelse af retten til at udøve virksomhed som kørelærer.
+ Sletning af andre domme, som omfatter fængselsstraf, rettighedsfrakendelse mv.
+ § 27. Domme, der har medført fængselsstraf på mindre end 1 år eller rettighedsfrakendelse, og som ikke omfatter de i §§ 26 og 27 nævnte overtrædelser af straffeloven, våbenloven eller lov om euforiserende stoffer slettes i Kriminalregisterets efterforskningsdel, når personen ikke længere er registreret med afgørelser i Kriminalregisterets afgørelsesdel, jf. kapitel 3.
+Tiltalefrafald § 28. Tiltalefrafald, herunder tiltalefrafald med vilkår om ungdomskontrakt, slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 10 år fra afgørelsen.
+Bøder § 29. Afgørelser, hvorved der er idømt eller vedtaget en bøde, slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 10 år fra afgørelsen, jf. dog stk. 2.
+ Stk. 2. Afgørelser, hvorved der er idømt eller vedtaget en bøde, for overtrædelse af færdselsloven, slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 5 år fra afgørelsen, jf. stk. 3.
+ Stk. 3. Afgørelser, hvorved der er idømt eller vedtaget en bøde, for overtrædelse af færdselsloven slettes i Kriminalregisterets efterforskningsdel efter 10 år fra afgørelsen, hvis afgørelsen vedrører:
+ 1) Spirituskørsel.
+ 2) Kørsel i bevidsthedspåvirket tilstand.
+ 3) Kørsel i frakendelsestiden.
+ 4) Kørsel uden at have erhvervet førerret.
+ 5) Kørsel med overlæs.
+Advarsler § 30. Advarsler, herunder efter retsplejelovens § 722, stk. 1, nr. 1, og § 900, slettes, når der er forløbet 5 år fra afgørelsen.
+Grundløse sigtelser § 31. Alle oplysninger i sager, hvor sigtelsen opgives som grundløs, jf. retsplejelovens § 721, stk. 1, nr. 1, slettes i Kriminalregisterets efterforskningsdel ved førstkommende månedlige sletningskørsel.
+Frifindelser og øvrige påtaleopgivelser efter retsplejelovens § 721 § 32. Hvis en person er blevet frifundet, eller politiet har opgivet påtale efter andre bestemmelser i retsplejeloven end § 721, stk. 1, nr. 1, slettes afgørelsen i Kriminalregisterets efterforskningdel efter følgende tidspunkter:
+ 1) Overtrædelse af særlovgivningen, bortsat fra lov om euforiserende stoffer og våbenloven, slettes, når der er forløbet 5 år fra afgørelsen.
+ 2) Overtrædelse af straffeloven, lov om euforiserende stoffer og våbenloven slettes, når der er forløbet 10 år fra afgørelsen.
+Andre afgørelser § 33. Pålæg efter hundeloven slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 10 år fra afgørelsen.
+ § 34. Indrejseforbud og forbud mod ophold (rockerloven) slettes i Kriminalregisterets efterforskningsdel ved udløb.
+ § 35. Andre tilhold, forbud, bortvisning eller pålæg end anført under §§ 34 og 35 slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 5 år fra afgørelsen.
+ § 36. Nægtelse af udstedelse af kørekort af andre grunde end ikke bestået prøve eller nægtet ombytning af udenlandske kørekort slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 20 år fra afgørelsen.
+ § 37. Nægtelse af erhvervskørekort, når det sker på baggrund af strafbare forhold, slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 20 år fra afgørelsen.
+ § 38. Administrativ inddragelse af førerret, bortset fra inddragelse i medfør af færdselslovens § 130, stk. 1, slettes i Kriminalregisterets efterforskningsdel, når førerretten generhverves.
+ § 39. Opholdsforbud efter straffelovens §§ 79 a og 79 c samt opholds- og/eller kontaktforbud efter straffelovens § 79 b slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 1 år fra forbuddets ophør.
+Sletning af andre oplysninger § 40. Alle anholdelsesdata, der ikke knytter sig til en sag med journalnummer, slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 1 måned fra anholdelsen.
+ § 41. Andre oplysninger om frihedsberøvelse, som ikke er knyttet til en afgørelse, slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 5 år fra løsladelsen.
+§ 42. Alle eftersøgninger, der er aflyst, slettes i Kriminalregisterets efterforskningsdel ved førstkommende sletningskørsel.
+Er eftersøgningen begrundet i undvigelse, sker sletningen dog først 5 år efter aflysningen.
+ § 43. Aktualitetsmarkeringer for indrejseforbud, udrejseforbud, tidsbegrænset inddragelse eller nægtelse af pas, tilhold, opholdsforbud og bortvisning efter lov om tilhold, opholdsforbud og bortvisning samt forbud mod ophold og advarsler efter straffelovens § 265 (indtil den 1. juni 2017) slettes umiddelbart i Kriminalregisterets efterforskningsdel, når aktualitetsdatoen er passeret.
+ Stk. 2. Alle øvrige aktualitetsmarkeringer slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 20 år fra aktualitetsdatoen.
+ § 44. Oplysninger om mistet asylansøger- eller opholdskort slettes i Kriminalregisterets efterforskningsdel, når der er forløbet 20 år fra sagens registrering.
+Sletning på grund af alder § 45. Når en person er fyldt 80 år, slettes den pågældende i Kriminalregisterets efterforskningsdel, medmindre den pågældende er eftersøgt, frihedsberøvet eller på anden måde er registreret med helt aktuelle forhold.
+ § 46. Når en person er fyldt 70 år, nedsættes de i §§ 26, 28 og 29 og § 32, nr. 2, anførte frister til 5 år.
+ Stk. 2. I øvrigt slettes alle oplysninger i Kriminalregisterets efterforskningsdel om mistet legitimation med undtagelse af oplysninger om mistet asylansøger- eller opholdskort.
+ § 47. Oplysninger om en person indført i Kriminalregisterets efterforskningsdel før det fyldte 15. år slettes automatisk efter 8 års forløb, medmindre den pågældende i det forløbne tidsrum er registreret med fældende domme m.v. for særlig grov eller grov kriminalitet, jf. §§ 25 og 26.
+ Stk. 2. Hvis den pågældende før det fyldte 15. år er registreret med oplysninger om særlig grov eller særlig kriminalitet, f.eks. seriekriminalitet, udskydes sletningen, indtil der er forløbet 20 år fra registreringstidspunktet.
+ Sletning af eventuelle personrelaterede oplysninger mv.
+ § 48. Når alle sagsoplysninger vedrørende en person er slettet, foretages en automatisk sletning af eventuelle personrelaterede oplysninger omfattende:
+ 1) Signalement.
+ 2) Opholdssted.
+ 3) Udgange.
+ 4) Registerkoder.
+ 5) Aktualitetsmarkeringer.
+ 6) Anmærkninger knyttet til personen.
+ Kontrol mv.
+ § 49. Såvel den indberettende myndighed som politidirektøren i Midt- og Vestjyllands Politi, der blandt andet forestår den daglige administration af Kriminalregisteret, udfører kontrol til sikring af, at der ikke i Kriminalregisteret registreres urigtige eller vildledende oplysninger eller oplysninger uden politimæssig betydning.
+ Stk. 2. Oplysninger, der viser sig urigtige eller vildledende eller uden politimæssig betydning, skal snarest muligt berigtiges eller slettes.
+ Stk. 3. Alle afgørelser for overtrædelse af lovbestemmelser, der senere er ophævet, således at det pågældende gerningsindhold ikke længere er strafbart, slettes.
+ Stk. 4. Udover automatisk sletning af forældede oplysninger kan fjernelse af oplysninger fra Kriminalregisteret kun foretages af personale ved politidirektøren i Midt- og Vestjyllands Politi, som er særlig godkendt hertil.
+ Stk. 5. De i Kriminalregisteret slettede oplysninger opbevares hos Rigspolitiet i 1 år, hvorefter oplysningerne destrueres.
+ Stk. 6. I Kriminalregisteret markeres oplysning om (sidste) sletningsdato, samt på hvilken måde sletningen er foretaget.
+Kapitel 5 Våben- og jagttegn Samkøring af registre mv.
+ § 50. Kriminalregisteret samkøres med Naturstyrelsens registre over jagtprøveaspiranter og jagttegnsløsere.
+ Stk. 2. Oplysninger, der tilgår politiet og Fødevare- og Miljøministeriet ved forespørgsel til våben- og jagttegnsregisteret samt ved den årlige udskrivning i forbindelse med fornyelse af jagttegn, refererer sig til følgende sorteringskoder:
+ 1) Sorteringskode 1 vedrørende ingen belastende tilførsel.
+ 2) Sorteringskode 2 vedrørende belastende tilførsel.
+ 3) Sorteringskode 9 vedrørende fejl mv.
+ Stk. 3. Der kan ved forespørgsel tilgås to vejledende meddelelsestekster med tilhørende numre med forslag til ekspeditionsmetode.
+Kapitel 6 Hjemmeværnet Samkøring af registre § 51. Kriminalregisteret samkøres med Det Centrale Rettighedsregister med henblik på at tilføre Hjemmeværnets medlemsregister en markering af, om personer, der søger optagelse eller genoptagelse i Hjemmeværnet, er kendt eller ukendt i Kriminalregisteret.
+Meddelelsestekster § 52. Hjemmeværnskommandoen kan ved forespørgsel til Rettighedsregistreret tilgå følgende to vejledende meddelelsestekster om, hvorvidt den pågældende er anført med en eller flere tilførsler i Kriminalregisteret eller ikke er registreret med belastende tilførsler.
+ § 53. De i § 52 nævnte vejledende meddelelsestekster dannes på baggrund af et farlighedskriterie og et værdighedskriterie.
+ Stk. 2. Farlighedskriteriet omfatter følgende tilførsler:
+ 1) Registreringer vedrørende straffelovens §§ 79 a-79 b, §§ 98-120, §§ 123-124 a, §§ 130-132 b, § 133, § 134 a, § 136, § 138, §§ 180-181, §§ 183-183 a, §§ 191-191 a, § 192 a, § 216, herunder jf. § 225 (og registreringer på baggrund af tilførsler om afgørelser fra før den 1. juli 2013 vedrørende overtrædelser af de dagældende regler i straffelovens §§ 216-217, herunder jf. §§ 224 og 225), §§ 237-241, §§ 244-249 (§ 249 dog undtaget færdselssager), § 252, § 254, §§ 260-261, §266, §§ 276 og 276 a (tyveri eller indbrud i våbenforretning og lager, kaserne mv.), § 281, § 286, § 288 og § 290 a, stk. 2, § 291, stk. 2.
+ 2) Registreringer vedrørende overtrædelse af våbenloven.
+ 3) Registreringer vedrørende overtrædelse af lov om euforiserende stoffer.
+ 4) Registreringer vedrørende overtrædelse af lov om jagt- og vildtforvaltning.
+ 5) Registreringer vedrørende tilhold, opholdsforbud og bortvisning i henhold til lov om tilhold, opholdsforbud og bortvisning samt overtrædelse af lov om lov om tilhold, opholdsforbud og bortvisning.
+ 6) Registreringer vedrørende overtrædelse af lov om pas § 2 b, stk. 1.
+ 7) Aktualitetsmarkeringer for bevæbnet med skydevåben, bevæbnet med stikvåben, bevæbnet med slagvåben, voldsmand, narkobruger, narkohandler, indrejseforbud, udrejseforbud, tidsbegrænset inddragelse eller nægtelse af pas, jf. lov om pas § 2, stk. 1, nr. 4, jf. § 2, stk. 2, tilhold i henhold til straffelovens § 265 (indtil den 1. juni 2017), tilhold, opholdsforbud og bortvisning i henhold til lov om tilhold, opholdsforbud og bortvisning samt terrorist.
+ 8) Registrering om idømmelse af retsfølge efter straffelovens §§ 68-70.
+ 9) Registrering om idømmelse af konfiskation af våben eller straffelovens § 75, § 76 a, og § 77 a.
+ Stk. 3. Værdighedskriteriet omfatter alle fældende domme for overtrædelse af straffeloven samt særlovsovertrædelser som har medført ubetinget frihedsstraf.
+Kapitel 7 Ikrafttrædelse § 54.  Cirkulæret træder i kraft den 5. oktober 2021.

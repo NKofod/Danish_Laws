@@ -1,0 +1,526 @@
+Vejledning om indberetning og godkendelse af vandforsyningsdata Indhold 1 Indledning 1.1 Vejledningens formål og baggrund Denne vejledning har til formål at beskrive ansvarsfordeling og procedurer for indberetning og godkendelse af vandforsyningsdata i den fællesoffentlige database (Jupiter). Den skal tjene som hjælp til vandforsyninger, kommunalbestyrelser, laboratorier og andre interessenter, der har ansvar og interesse for emnet.
+ Vejledningen er udarbejdet på baggrund af ændringer i »Bekendtgørelse om vandkvalitet og tilsyn med vandforsyningsanlæg«1) (efterfølgende omtalt som »bekendtgørelsen«  (§§) henvisninger henviser til denne bekendtgørelse) og ændrede ansvarsfordelinger og procedurer for håndtering af vandforsyningsdata, som følge af Kommunalreformen i 2007.
+ Indberetningen af vandforsyningsdata sikrer en digital lagring af de tusindvis af data, som bl.a. dokumenterer grundvandets og drikkevandets kvalitet samt de vandmængder, der indvindes.
+Lagringen af data i den centrale Jupiter-database giver mulighed for såvel vandforsyninger, kommunalbestyrelser, regioner, miljøcentre, forbrugere, rådgivere m.fl. at anvende et opdateret og ensartet datagrundlag i relation til grund- og drikkevand.
+Dette forudsætter, at data løbende indberettes og opdateres fx i relation til vandkvalitetsanalyser, tilladelser, anlægsoplysninger, og tilknyttede boringer.
+Vejledningen erstatter Miljøstyrelsens vejledning nr. 4/2001 »Vejledning i indberetning af drikkevandsdata«.
+Den er udarbejdet af Rambøll for Miljøministeriet, By- og Landskabsstyrelsen, der efterfølgende har færdigredigeret den.
+Arbejdet er bistået af nedenstående følgegruppemedlemmer:
+ Martin Skriver, BLST (afløst af Robert Jensen, BLST)  Bent Soelberg, Foreningen af Vandværker i Danmark  Birgit Lauridsen, Eurofins  Carsten Christiansen, KL  Claus Vangsgaard, DANVA  Else Sørensen, Miljøcenter Århus  Kaja A.
+Hansen, Danmarks Miljøportal  Lærke Thorling Sørensen, GEUS  Martin Hansen, GEUS 1.2 Indhold Vejledningen omhandler hovedsageligt indberetning og godkendelse af vandforsyningsdata for indvundet og distribueret vand, jf. den offentlige kontrol, som er fastlagt efter vandforsyningsloven og bekendtgørelsen.
+ Derudover behandles yderligere vandforsyningsdata i relation til vandforsyning, som kan indberettes i forbindelse med driftskontrol i Jupiter-databasen.
+Yderligere angiver vejledningen, hvordan data struktureres og opbygges i STANDAT-formatet, og hvilke koder der skal anvendes ved indberetning af de enkelte parametre.
+Det er til enhver tid den gældende vejledning for opbygning af STANDAT-filer, der skal følges.
+Den er tilgængelig på GEUS hjemmeside på www.geus.dk/jupiter.
+Der henvises endvidere til STANDAT sekretariatets hjemmeside www.dmu.dk/overvaagning/standat/ Vandforsyningsdata omfatter:
+ resultater fra kontrol af vandkvaliteten,  oplysninger om indvindingsmængder,  distribuerede vandmængder,  vandindvindingstilladelser,  resultater fra pejlinger af vandstanden,  en række tekniske og administrative oplysninger i relation til vandforsyning.
+ data som ønskes indberettet som led i driftskontrol I forhold til den tidligere vejledning er der en mere udførlig beskrivelse af roller og ansvar for vandforsyninger, analyselaboratorier, kommuner og andre offentlige myndigheder i forbindelse med indberetning og kontrol af vandforsyningsdata.
+Endelig indeholder vejledningen en omtale af den lovbestemte indberetning af vandindvindingstilladelser gældende pr. 1. januar i det enkelte år, som kommunalbestyrelserne, jf.
+Vandforsyningsloven,2) skal indberette senest 15. januar frem til 2017 med henblik på SKAT´s opkrævning af afgift til drikkevandsbeskyttelse.
+ For kommunalbestyrelser er følgende kapitler og bilag særligt relevante:
+ kapitel 2: Ansvars- og rollefordeling  kapitel 3: Identifikation af målesteder  kapitel 6: Kommunalbestyrelsers godkendelse af vandkvalitetsdata  kapitel 7: Procedurer for indberetning af vandmængder For laboratorier er følgende kapitler særligt relevante:
+ kapitel 2: Ansvars- og rollefordeling  kapitel 4: Opbygning af standatfiler  kapitel 5: Laboratoriers indberetning af vandkvalitetsdata  Bilag A-C For vandforsyninger er følgende kapitler særligt relevante:
+ kapitel 2: Ansvars- og rollefordeling  kapitel 3: Identifikation af målesteder  kapitel 7: Procedurer for indberetning af vandmængder 1.3 Sikring af offentlighedens interesse i data Ud over at sikre den foreskrevne lovmæssige offentlige kontrol med vandforsyningen har offentligheden interesse i at kende status for deres egen vandforsyning.
+Danmark har tilsluttet sig Århus-konventionen, som lægger op til, at alle har adgang til miljøoplysninger, som kan have indflydelse på menneskers sundhed og velbefindende. Århus-konventionen er i Danmark udmøntet i Bekendtgørelse af lov om aktindsigt i miljøoplysninger.3) Ejere af almene vandforsyningsanlæg skal i overensstemmelse hermed, jf. bekendtgørelsens kapitel 7, stille information til rådighed for forbrugerne om vandforsyningen og drikkevandets kvalitet.
+Bekendtgørelsen indeholder minimumskrav til indholdet af denne information, som skal opdateres og offentliggøres mindst én gang om året.
+Endvidere gøres resultaterne af den offentlige kontrol af vandkvaliteten på vandforsyningsanlæg, som indberettes via laboratoriet til kommunalbestyrelse offentligt tilgængelige via Miljøportal og direkte i Jupiterdatabasen.
+Kommunalbestyrelsen skal via Miljøportalen kvalitetssikre og godkende de indberettede resultater i Jupiter-databasen, før de bliver offentligt tilgængelige.
+1.4 Sikring af opdaterede data af god kvalitet For at alle relevante myndigheder og interessenter kan opnå et optimalt udbytte af den fællesoffentlige Jupiter-database, er det vigtigt at indberette og opdatere vandforsyningsdata løbende.
+By- og Landskabsstyrelsens anbefaler, at laboratorierne i alle tilfælde indberetter resultater af vandprøver til Jupiter-databasen så hurtigt som muligt efter udtagelse af prøverne.
+Det anbefales endvidere, at kommunalbestyrelsen så hurtigt som muligt efter laboratoriets indberetning til Jupiter-databasen kontrollerer og frigiver data, så de bliver offentligt tilgængelige.
+For at kunne udnytte den centrale lagring og entydige tilgang til data er det dog en forudsætning, at kvaliteten af de indberettede vandforsyningsdata er god.
+God datakvalitet betyder bl.a., at  data er tilknyttet entydige angivelser for tid og sted for prøveudtagning  analysemetoden er angivet  der er foretaget kvalitetssikring af data, herunder check af ID for data.
+2 Ansvars- og rollefordeling 2.1 Vandforsyningens struktur Vandforsyningen i Danmark er baseret på en decentral forsyningsstruktur, hvor vandet leveres fra lokale vandforsyningsanlæg til forskellige formål.
+Drikkevand til husholdninger, institutioner og erhverv leveres i vid udstrækning fra ca. 2.800 vandværker, som indvinder grundvand fra tusindvis af boringer spredt ud over landet.
+Vandforsyningsanlæg, som forsyner eller har til formål at forsyne mindst ti ejendomme, betegnes almene vandforsyningsanlæg (vandforsyningslovens § 3, stk. 3).
+Derudover har en række øvrige vandforsyningsanlæg tilladelse til at levere vand til f.eks. vanding af spiselige afgrøder, nødforsyningsanlæg, industri m.m.
+Det er kommunalbestyrelsen, som udsteder tilladelser til vandindvinding (vandforsyningslovens § 20) Størstedelen af vandforsyningsanlæggene har jf. figur 2.1 typisk en enkel struktur bestående af:
+ Kildeplads med indvindingsboringer  Vandværk med vandbehandling  Ledningsnet til distribution af drikkevand til forbrugerne.
+Figur 2.1 Eksempel på enkelt vandforsyningsstruktur Hos hovedparten af de almene vandforsyningsanlæg er indvindingen baseret på oppumpet grundvand og efterfølgende behandling af vandet på vandværket ved traditionel iltning og filtrering i sandfiltre med sigte på fjernelse af bl.a. metan, svovlbrinte, ammonium, jern og mangan samt tilførsel af ilt.
+Dette gælder typisk også for ikke-almene vandforsyningsanlæg og i nogle tilfælde for husholdningsanlæg.
+ Afhængigt af den lokale grundvandskemi foretager enkelte vandforsyningsanlæg andre/yderligere vandbehandlinger på vandværkerne, og visse steder i landet er vandbehandling ikke nødvendig.
+ For især de større, bynære almene vandforsyningsanlæg er det almindeligt med en mere kompleks struktur, hvor det enkelte vandværk pumper vand fra flere kildepladser, og hvor flere vandværker leverer drikkevand til samme ledningsnet, se figur 2.2.
+ Et fåtal af de almene vandforsyningsanlæg består udelukkende af ledningsnet til distribution af drikkevand (distributionsanlæg), hvor vandet leveres fra et eller flere andre almene vandforsyningsanlæg frem til forbrugerne.
+Figur 2.2 Principper for kompleks vandforsyningsstruktur Mange almene vandforsyningsanlæg har i dag forbindelsesledninger til andre almene vandforsyningsanlæg af hensyn til forsyningssikkerheden, hvilket bl.a. betyder, at det er vigtigt at kunne skelne præcis, hvor og hvornår vandprøver er udtaget for at kunne vurdere resultaterne af kontrollen med vandkvaliteten.
+Ud over de beskrevne almene vandforsyningsanlæg indvindes vand til husholdningsforbrug fra ca. 70-80.000 boringer, som leverer vand til 1-9 forbrugere  de såkaldte ikke-almene vandforsyningsanlæg.4) 2.2 Offentlig kvalitetskontrol og driftskontrol Alle vandforsyningsanlæg skal som minimum udføre den offentlige kontrol af drikkevandskvaliteten i henhold til den til enhver tid gældende udgave af »Bekendtgørelse om vandkvalitet og tilsyn med vandforsyningsanlæg«.
+Hertil kommer eventuelle yderligere krav stillet af myndigheden.
+Den lovpligtige minimumskontrol skal indberettes til Jupiter-databasen.
+Det samme gælder evt. skærpede krav, som kommunen har stillet om fx skærpet overvågning.
+Derudover kan vandforsyningsanlæggene udføre en supplerende driftskontrol på vandværket af vandet før det bliver til drikkevand, eller afgang vandværk af drikkevand, som kan indberettes i Jupiter-databasen.
+2.2.1 Offentlig kontrol af vandkvaliteten I henhold til bekendtgørelsen (§ 27) skal der til den offentlige kontrol foretages regelmæssige undersøgelser af prøver af vandet for følgende anlæg:
+1) vandforsyningsanlæg til husholdningsbrug 2) vandforsyningsanlæg, der forsyner offentlige eller private institutioner (skoler, sygehuse, kaserner o.l.), samt kommercielle formål (restaurationer, campingpladser, hoteller o.l.) 3) vandforsyningsanlæg, der forsyner virksomheder, hvor fødevarer behandles eller sælges, herunder vand til rengøring af malkeudstyr m.v. samt til køling af mælk 4) vandforsyningsanlæg, der forsyner virksomheder, hvor der fremstilles produkter (f.eks. lægemidler), der stiller særlige sundhedsmæssige krav til vandforsyning 5) vandforsyningsanlæg, der forsyner andre virksomheder end nævnt under nr. 2, 3 og 4, når anlægget leverer vand til et fast personale på mere end 5 personer 6) nødvandforsyningsanlæg, herunder tankvogne og tankskibe, til formål som nævnt under nr. 1-5, og 7) vandforsyningsanlæg, hvis vand benyttes til vanding eller vask af spiselige gartneriafgrøder.
+ Desuden kan kommunalbestyrelsen (§ 6, stk. 2) træffe afgørelse om, at også andre vandforsyningsanlæg skal inddrages under den offentlige kontrol.
+ Vandkvaliteten i den regelmæssige, offentlige kontrol dokumenteres (§ 7) ved forskellige typer af kontrolanalyser, som angivet i tabel 2.1.
+Tabel 2.1 Kontrolanalyser i den offentlige kontrol for vandkvalitet Hver kontrolanalyse i den offentlige kontrol omfatter en gruppe af analyseparametre, som er angivet i bekendtgørelsens bilag.
+Herudover kan der indgå supplerende analyseparametre fastlagt i f.eks. vandforsyningsanlæggets indvindingstilladelse.
+Hyppighed og omfang af kontrolanalyser fremgår af den til enhver tid gældende bekendtgørelse (§ 8-12) eller fastlagt af kommunalbestyrelsen i nogle tilfælde.
+Hyppigheden for udtagning af prøver til kontrolanalyser afhænger af forsyningens størrelse, idet den foreskrevne hyppighed øges med den udpumpede vandmængde (§ 8, stk. 2).
+ For den begrænsede kontrol på ledningsnettet er der mulighed for, at kommunalbestyrelsen kan nedsætte hyppigheden af analyserne, hvis analyseresultaterne de foregående 2 år (§ 8, stk. 4, jf. bilag 9) har været ensartede og væsentligt under kvalitetskravene, og der ikke er påvist forhold, som vil kunne forringe vandets kvalitet.
+For ikke-almene vandforsyningsanlæg, som producerer mindre end 3000 m3 årligt foretages forenklet kontrol (§ 7, stk. 1, nr. 1). Der er i disse tilfælde ikke krav til hyppighed af kontrol af drikkevandskvaliteten, men kravene til vandkvaliteten skal overholdes.
+Frekvensen af kontrollen fastlægges af kommunalbestyrelsen, som har ansvaret for at træffe afgørelse om hyppigheden af den regelmæssige kontrol på disse anlæg (typisk enkeltindvindere).
+ For distributionsanlæg, som alene distribuerer vand, der leveres fra andre vandforsyningsanlæg, omfatter den offentlige kontrol alene kravet til analyser af vandkvaliteten på ledningsnettet (Begrænset kontrol og Kontrol med uorganiske sporstoffer).
+Hvis kommunalbestyrelsen (§ 7, stk. 3) har truffet afgørelse om, at der skal foretages supplerende undersøgelser af vandkvaliteten, eller hvis der ved vilkår i indvindingstilladelsen er fastsat yderligere kvalitetskrav, indgår disse i den offentlige kontrol, og skal indberettes med de relevante koder svarende hertil.
+Bemærk, at også frivillige driftskontroller skal indberettes, hvis der er overskridelser i forhold til bekendtgørelsens kvalitetsparametre.
+Vandprøverne skal analyseres på et laboratorium, som er akkrediteret hertil (§ 14) jf. den til enhver tid gældende bekendtgørelse om kvalitetskrav til miljømålinger udført af akkrediterede laboratorier5), certificerede personer m.v.
+Vandforsyningsanlægget vælger selv, hvilket akkrediteret laboratorium undersøgelserne skal foretages på (§ 6, stk. 3).
+Kommunalbestyrelsen skal træffe afgørelse om kontrolordningens tilrettelæggelse for det enkelte vandforsyningsanlæg, så vidt muligt i samarbejde med vandforsyningsanlægget (§ 6, stk. 3) Vandforsyningen skal meddele kommunalbestyrelsen hvilket laboratorium, der er indgået kontrakt med.
+Resultaterne af alle vandanalyser, som indgår i den offentlige kontrol af vandkvaliteten, skal indberettes til Jupiter-databasen (§§ 27 og 28), så de bliver offentlig tilgængelige, efter godkendelse af kommunalbestyrelsen.
+Dataflow for vandkvalitetsdata i offentlige kontroller er angivet i figur 2.3.
+Figur 2.3 Data-flow for vandkvalitetsdata i offentlig kontrol.
+Bemærk, at også data fra driftskontrol indgår i den offentlige kontrol, hvis der er overskridelser af vandkvalitetsparametre.
+2.2.2 Driftskontrol af vandkvaliteten Hos mange almene vandforsyninger udføres - ud over den lovpligtige offentlige kontrol - løbende og efter behov flere analyser af vandkvaliteten - en såkaldt driftskontrol.
+Driftskontrol kan finde sted på alle steder fra boring til forbruger  afhængig af behov.
+Formålet med driftskontrollen er at overvåge vandkvaliteten ud over den offentlige kontrol  f.eks. som fast supplement til den offentlige kontrol, til overvågning af grundvandet, vandbehandlingen, ved særlige driftssituationer, efter vedligeholdelsesarbejder og ved forbrugerhenvendelser.
+Driftskontrol anvendes både til intern løbende kontrol af, at driften forløber optimalt, og undertiden efter konstaterede overskridelser af kvalitetskrav, hvor vandforsyningen ønsker en egen skærpet overvågning efter udbedring af kilden til overskridelse.
+Hvis der i en prøve, der i udgangspunktet er en driftsprøve, konstateres overskridelse af kvalitetsparametre, indberettes prøven, og de opfølgende prøver er herefter en del af den offentlige kontrol, indtil prøver fra det omhandlede prøvested igen viser, at kvalitetsparametre opfyldes.
+ Bemærk, at de opfølgende prøver, som kan være nødvendige at udtage i forbindelse med overskridelser i de lovpligtige drikkevandsparametre, jf. bekendtgørelsen, ikke er driftskontrol, men er en del af den lovpligtige kontrol.
+Driftskontrollen kan bl.a. omfatte de parametre, som omhandler den traditionelle vandbehandling: metan, svovlbrinte, ilt, pH, ammonium, jern, mangan og aggressivitet.
+Driftskontrollen anvendes også flere steder til en hyppigere overvågning af den bakteriologiske vandkvalitet.
+Enkelte større vandforsyningsanlæg har eget laboratorium til at udføre driftskontrollen, andre har indkøbt udstyr til hurtigtests og mange benytter akkrediterede laboratorier til at udføre driftskontrol.
+ Der er ikke krav om indberetning af data fra driftskontrol til kommunalbestyrelsen eller Jupiter-databasen, se tabel 2.2. Dog skal ejeren af et alment vandforsyningsanlæg straks underrette kommunalbestyrelsen, hvis resultater af driftskontrollen viser, at drikkevandets kvalitet ikke er i overensstemmelse med de fastsatte krav, og/eller der konstateres en forurening (§ 16).
+Hvis resultater fra driftskontrollen indberettes til Jupiter-databasen, er det en fordel for andres tolkning af resultaterne, at der er angivet oplysninger om særlige driftssituationer ved prøvens udtagning, f.eks. at prøven er udtaget i forbindelse med skylning af et filter eller pga. en forurenet prøve et andet sted i forsyningssystemet  som opfølgning.
+Det er desuden vigtigt, at der indberettes med korrekt formålskode, og som datatypen procesvand.
+I Jupiter-databasen er der ikke begrænsninger for, hvilke resultater af vandkvaliteten, der kan indberettes.
+Det er derimod væsentligt, at de vandkvalitetsdata, som indberettes, er entydigt identificeret, således at data kan forstås og anvendes efterfølgende.
+Da der er krav om at analyser for grundvandskvalitet og drikkevandskvalitet indgår disse vandkvalitetsdata naturligvis i Jupiter-databasen.
+Muligheden for indberetning af alle vandkvalitetsdata betyder dog også, at der indberettes vandkvalitetsdata, som hverken er grundvand eller drikkevand  f.eks. fra driftskontrol af procesvand.
+Derfor opereres der i forbindelse med vandkvalitetsdata i Jupiter-databasen med 4 betegnelser for vandtyper:
+ Grundvand: Vand som kan relateres til én specifik boring  Blandet råvand: Vand som ikke kan henføres til én specifik boring, og som er på vej i råvandsledningen frem til indgang vandværk, og som ikke skal overholde kvalitetskravene for drikkevand  Procesvand: Vand, som er efter indgang vandværk, men som endnu ikke er drikkevand.
+  Drikkevand: Vand som skal overholde kvalitetskravene for drikkevand.
+Kommunalbestyrelsen kan i f.eks. en indvindingstilladelse (vandforsyningslovens § 20) stille vilkår om yderligere analyser af vandkvaliteten på vandforsyningsanlægget og at resultaterne fra disse analyser skal indberettes.
+Der kan derfor være tale om, at flere analyser end de, som følger af den offentlige kontrol bliver indberetningspligtige, og at disse analyser tilhører kategorien procesvand eller drikkevand.
+For yderligere oplysninger om indberetning af analyser af procesvand henvises til kapitel 5.
+Figur 2.4 Vandtyper 2.2.3 Krav til og muligheder for indberetning af vandforsyningsdata I henhold til § 27 i bekendtgørelsen skal der ske indberetning af resultaterne af den kontrol med vandkvaliteten, som udføres i henhold til bekendtgørelsen, og af eventuelle ekstra krav som er stillet i indvindingstilladelsen/afgørelsen.
+Endvidere fremgår det af § 16, at ejeren af et alment vandforsyningsanlæg straks skal underrette kommunalbestyrelsen, hvis der findes overskridelser af kvalitetsparametre eller andre kemiske eller mikrobiologiske forureninger ved en prøve udtaget af egen drift (driftskontrol) eller ved en prøvetagning, som følge af fastsatte vilkår.
+ Derimod er det frivilligt, om man vil indberette resultaterne fra ikke lovpligtig driftskontrol, med mindre der er overskridelser i forhold til bekendtgørelsens værdier.
+ I bekendtgørelsen er også anført krav om indberetning af indvundne vandmængder fra vandforsyningsanlæg (§ 21), samt indberetning til kommunalbestyrelsen om størrelsen af de vandmængder, som almene vandforsyningsanlæg leverer (eksporterer) til eller modtager (importerer) fra andre vandforsyningsanlæg.
+ I tabel 2.2 ses en opgørelse over, hvilke vandforsyningsdata som henholdsvis skal og kan indberettes i Jupiter-databasen.
+Tabel 2.2 Oversigt over krav til indberetning af vandforsyningsdata til Jupiter-databasen 2.3 Ansvarsfordeling ved indberetning af vandforsyningsdata I bekendtgørelsen er ansvaret omkring vandanalyser fordelt på flere aktører.
+I tabel 2.3 ses de enkelte aktørers ansvar i relation til data-flowet for vandforsyningsdata med § henvisning til bekendtgørelsen, hvor relevant.
+ Tabel 2.3 Oversigt over ansvar for vandforsyningsdata, jf. bekendtgørelsen.
+På figur 2.5 ses principperne for indberetning og godkendelse af data mellem de forskellige aktører, som forklares i afsnit 2.3.1 til 2.3.5. Røde pile angiver, at data skal indberettes og stiplede, grønne pile angiver, at data kan indberettes.
+Den røde pil imellem laboratorium og kommunalbestyrelse er relevant ved overskridelser af kvalitetsparametre.
+2.3.1 Vandforsyningsanlæggets ansvar Vandforsyningsanlæggene skal fremsende forslag til program for kontrol med vandkvaliteten til kommunalbestyrelsen, som, så vidt muligt efter indstilling fra de enkelte vandforsyningsanlæg, skal træffe afgørelse om kontrolordningen for det enkelte vandforsyningsanlæg, herunder godkende steder for udtagning af vandprøver (§ 6, stk. 3).
+Kontrolordningen skal som minimum udføres i henhold til den til enhver tid gældende bekendtgørelse.
+Vandforsyningsanlægget skal sikre, at den godkendte kontrolordning udføres, og at undersøgelserne af vandkvaliteten foretages af et akkrediteret laboratorium (§ 6, jf. § 14).
+De vandforsyningsanlæg, som udfører driftskontrol, skal indgå aftale med laboratoriet om afrapportering af resultaterne af driftskontrollen og hermed aftale, om resultaterne skal indberettes i Jupiter-databasen.
+Hvis resultaterne af driftskontrollen viser, at vandkvaliteten ikke er tilfredsstillende eller der konstateres forurening, skal ejeren af vandforsyningsanlægget (eller analyselaboratoriet) straks underrette kommunalbestyrelsen herom (§ 16).
+Ejeren af vandforsyningsanlægget skal desuden registrere og årligt indberette data om indvundne vandmængder til kommunalbestyrelsen (§ 21)  i tilfælde, hvor der er flere anlæg i den kommune, hvor overanlægget er beliggende.
+Registreringen skal for anlæg med en årlig tilladt indvinding på under 100.000 m3 finde sted ved begyndelsen af hvert år.
+For anlæg med en årlig tilladt indvinding på 100.000- 350.000 m3 ved begyndelsen af hvert kvartal og for anlæg med en årlig tilladt indvinding på over 350.000 m3 ved begyndelsen af hver måned.
+Anlæggets ejer skal registrere dato (§ 23) for hver opgørelse af indvindingen og den vandmængde, der er indvundet siden sidste registrering.
+Ejeren af vandforsyningsanlæg skal indberette indvindingsmængder til kommunalbestyrelsen (§ 24) senest den 1. februar i det følgende år for indberetningsperioden (1. januar til 31. december).
+ Vandforsyningsanlæg, som modtager vand fra andre vandforsyningsanlæg, skal ligeledes årligt indberette størrelsen af den distribuerede vandmængde til kommunalbestyrelsen for perioden 1. januar til 31. december (§ 24, stk. 3). Almene vandforsyningsanlæg, som leverer vand til andre vandforsyninger, skal tilsvarende oplyse om størrelsen af denne leverance.
+ Hvis der i vandforsyningsanlæggets indvindingstilladelse er fastsat krav om måling og registrering (pejlinger) af grundvandsstanden i anlæggets indvindingsboringer og eventuelt omkringliggende boringer, skal kommunalbestyrelsen anmode om at få disse resultater udleveret (§ 25).
+Ejeren af vandforsyningsanlæg har desuden ansvaret for at give kommunalbestyrelsen relevante oplysninger om anlægget, herunder at videregive oplysninger om ændringer i disse.
+Det drejer sig f.eks. om vandforsyningsanlæggets navn, adresse, koordinater, oplysninger om ejerforhold, CVR-nummer samt oplysninger f.eks. om vandforsyningsanlæggets boringer, boringsanvendelse og målesteder, hvorfra der kan udtages vandprøver.
+Ved brug af data om boringer i Jupiter-databasen er det væsentligt at kunne skelne imellem boringsindtagenes anvendelse i de enkelte boringer.
+Er vandet fra det øverste boringsindtag f.eks. relateret til afværgepumpning, mens der fra det nederste indtag sker indvinding til drikkevandsformål? Det er derfor til stor hjælp for såvel vandforsyninger som myndigheder, at ejeren af vandforsyningsanlægget sørger for, at disse driftsmæssige oplysninger om boringsindtagenes anvendelse løbende indberettes til kommunalbestyrelsen, som kan indberette oplysningerne i Jupiter-databasen.
+Bemærk, at det alene er GEUS, som opretter og opdaterer boringsoplysninger.
+Indberetninger og oplysninger relateret til boringer sker direkte til GEUS (via mail), og GEUS opdaterer herefter boringsoplysningerne i Jupiter.
+ Vandforsyningsanlæggene er dermed dataproducent for data om indvindingsmængder, pejlinger, distribuerede og importerede/eksporterede vandmængder, anlægstekniske data og oplysninger om boringsindtagenes anvendelse.
+2.3.2 Analyselaboratoriets ansvar Analyselaboratoriet, der skal være akkrediteret, skal ifølge § 27 i bekendtgørelsen sende resultaterne af kontrollen med vandkvaliteten til ejeren af vandforsyningsanlægget og til kommunalbestyrelsen.
+Hvis kvalitetskravene ikke er overholdt, skal laboratoriet også sende resultaterne til Sundhedsstyrelsen.
+Laboratoriet skal endvidere indberette resultaterne til kommunalbestyrelsen via Jupiter databasen.
+Formatet, som analyselaboratorierne skal benytte til indberetning i Jupiter-databasen, er det til enhver tid gældende format STANDAT fastsat af Miljøministeriet, By- og Landskabsstyrelsen.
+Den kan ses på www.geus.dk/jupiter under indberetning.
+Hvis dette format evt. afløses af/suppleres med et andet format i fremtiden er det forventningen, at de koder, som anvendes, i vid udstrækning vil forblive uændrede.
+Analyseresultater fra driftskontrol skal analyselaboratoriet afrapportere til det vandforsyningsanlæg, som har bestilt analyserne.
+Hvis der ved driftskontrol konstateres overskridelser i forhold til de i bekendtgørelsen fastsatte krav skal laboratoriet straks underrette kommunalbestyrelse og vandværk, uanset at prøven i udgangspunktet har været defineret som driftskontrol.
+ Øvrig rapportering af analyseresultaterne til f.eks. kommunalbestyrelse og Jupiter-databasen afhænger af, om der er indgået aftale herom med vandforsyningsanlægget, idet der ikke er lovkrav om indberetning af disse data.
+2.3.3 Kommunalbestyrelsens ansvar Kommunalbestyrelsen er ansvarlig for alle data, som har at gøre med drikkevand, herunder råvand fra indvindingsboringer. og skal til Jupiter-databasen (§ 27) indberette de oplysninger, som kommunalbestyrelsen modtager om indvindingsmængder fra vandforsyningsanlæg (§ 28).
+ Når kommunalbestyrelsen senest den 1. februar modtager oplysninger om indvundne vandmængder fra vandforsyningsanlæggene, skal den vurdere og kontrollere de indberettede oplysninger og skal derefter indberette/godkende oplysningerne i Jupiter-databasen inden den 1. april.
+ Endvidere skal kommunalbestyrelsen hvert år (§24 d) frem til og med 20176) senest den 15. januar til Jupiter-databasen indberette oplysninger om:
+1) vandindvindingsanlæg, hvortil der senest den 1. januar det pågældende år er meddelt tilladelse efter § 20 i vandforsyningsloven, og den årlige tilladte indvindingsmængde, 2) vandindvindingsanlæg omfattet af § 20, som efter § 86 ikke kræver tilladelse, og den gennemsnitlige indvindingsmængde for årene 2004-2008 3) vandindvindingsformålet med anlægget (virksomhedstype), 4) ejerens CVR- eller CPR-nummer, og navn og adresse.
+5) Øvrige oplysninger fastsat efter stk. 3 (pt. ingen fastlagt) De indberettede data anvendes som grundlag for SKATs opkrævning af afgift til grundvandbeskyttelse.
+Afgiften opkræves i perioden frem til og med 2017 af SKAT.
+Provenuet anvendes til hhv.
+By- og Landskabsstyrelsens miljøcentres grundvandskortlægning og kommunernes efterfølgende indsatsplanlægning, idet kommunernes andel overføres fra staten via den årlige ramme.
+Da provenuet er grundlaget for hele grundvandskortlægningen og indsatsplanlægningen er det meget vigtigt, at de data som indberettes er korrekte.
+Bemærk, at det i praksis er meget væsentligt, at den enkelte kommune sikrer sig, at de data, som er indberettet ved brug af det fagsystem som kommunen anvender, rent faktisk også er blevet registreret korrekt i Jupiter databasen.
+Hvis dette ikke sikres er der risiko for, at data, på trods af at de i kommunens fagsystem ser ud til at være korrekt indberettet, men i realiteten ikke er medtaget korrekt i Jupiter databasen  med det resultat, at det samlede provenu til anvendelse for grundvandskortlægning og indsatsplanlægning er mindre end forventet.
+ GEUS har udarbejdet en hjemmeside, der giver hjælp til de kommuner, der skal opdatere Jupiter med de data, som SKAT skal bruge til opkrævning af afgiften, der skal betales for vandindvindingstilladelser.
+ Hjemmesiden kan endvidere anvendes når kommunen ønsker at sikre, at de korrekte data rent faktisk fremgår af Jupiter databasen kan følgende link anvendes til verificering: http://jupiter.geus.dk/ vælg derefter linket »Hjælp til opdatering af data til beregning af afgift for vandindvindingstilladelser«.
+ Det er samtidig væsentligt for at sikre den korrekte afgiftsopkrævning, at kommunen sikrer sig, at det er den seneste version af fagsystemet, der anvendes, og at kommunen er opmærksom på evt. opdateringer vedr. systemerne, som er kommunikeret fx via systemernes hjemmesider.
+ Ved anmodning om udlevering af pejleoplysninger fra vandforsyningsanlæg skal kommunalbestyrelsen sikre indberetning af disse resultater i Jupiter-databasen.
+Kommunalbestyrelsen skal desuden sikre, at vandkvalitetsdata kvalitetssikres og godkendes før disse bliver offentligt tilgængelige i Jupiter-databasen.
+Det vil sige, det er som udgangspunkt kommunalbestyrelsen, der skal kvalitetssikre og godkende alle data om kvaliteten af vand fra vandforsyningsanlæg i kommunen, som laboratorierne indberetter til Jupiter-databasen.
+Kvalitetssikring og godkendelse skal ske hurtigst muligt efter, at laboratorierne har indberettet data til Jupiter-databasen (der sendes via mail besked om indberetningen til kommunalbestyrelsen).
+Eventuelle afviste (ikke godkendte) prøver skal kommunalbestyrelsen returnere til laboratoriet med angivelse af årsagen til, at prøven afvises.
+Kommunalbestyrelsen skal sikre sig, at laboratoriet retter og genfremsender prøven hurtigst muligt, så kommunalbestyrelsen kan godkende prøven, og den dermed bliver offentlig tilgængelig.
+Kommunalbestyrelsen har desuden mulighed for at stille vilkår med krav til indberetning af data i forbindelse med myndighedstilladelser  f.eks. indvindingstilladelser  herunder også til anlæg til vandindvinding, som ikke nødvendigvis er omfattet af krav i henhold til bekendtgørelsen, f.eks. afværgeanlæg og markvanding til ikke-spiselige afgrøder.
+Sådanne fastsatte vilkår kan understøtte arbejdet i at sikre ensartethed og tilgængelighed af data inden for vand og miljø.
+ Kommunalbestyrelsen bør i særlig grad sikre, at de i JUPITER angivne udløbsdatoer for indvindingstilladelser er korrekte, samt at den angivne tilladelsesstatus og aktivstatus er ajour.
+2.3.3.1 Mulighed for uddelegering af opgaver Kommunalbestyrelsen kan indgå aftaler om uddelegering af opgaverne til f.eks. ejeren af et vandforsyningsanlæg eller en rådgiver.
+Kommunalbestyrelsen skal dog være opmærksom på, at der på grund af tekniske begrænsninger kun kan ske fuld uddelegering af kvalitetssikring og godkendelse af vandkvalitetsdata.
+Den enhed, opgaven uddelegeres til, får således fuld adgang til data på lige fod med kommunalbestyrelsen.
+Uddelegering af kvalitetssikring og godkendelse af vandkvalitetsdata kan således teknisk set ikke opdeles mellem f.eks. flere vandforsyningsanlæg med en begrænset adgangsret til godkendelse af vandkvalitetsdata, som kun omhandler det enkelte vandforsyningsanlæg.
+2.3.4 Fagdatacenter for grundvand og boringer GEUS er fagdatacenter for grundvand og boringer og driver den fællesoffentlige del af Jupiter for Miljøportalen.
+GEUS er ansvarlig for boringsdelen i Jupiter-databasen.
+Det er således kun GEUS, der kan oprette boringer i Jupiter-databasen.
+Det er også kun GEUS, som kan oprette indtag og ændre i data for selve boringen.
+Det Europæiske Miljøagentur (EEA) har til opgave at indsamle miljødata for EU.
+Det enkelte medlemsland har udpeget en national koordinator (NFP) og et antal referencecentre (NRC), der sammen skal levere data og bistå EEA fagligt.
+GEUS er NRC for henholdsvis grundvand og oppumpede vandmængder/vandforbrug.
+Rollen som NRC-grundvand indebærer, at GEUS én gang om året leverer grundvandsrelaterede data i form af grundvandskemi, grundvandets trykforhold og oplysninger om problemer med salt grundvand.
+Data anvendes af EEA til beskrivelse af miljøtilstanden (SoE) i EU.
+Rollen som NRC indebærer, at GEUS hvert andet år leverer data om oppumpede vandmængder, vandforbrug og vandbalancer til EEA.
+Også disse data anvendes til beskrivelse af miljøtilstanden i EU.
+Sideløbende hermed leverer GEUS hvert andet år tilsvarende data til EUROSTAT/OECD, men der er planer om, at disse data på sigt skal kunne trækkes direkte fra EEAs database (WISE).
+ Fra 2006 skal alle leverede data til EU være koblet til vandrammedirektivets grundvandsforekomster.
+2.3.5 By- og Landskabsstyrelsen (fra 1. januar 2011: Naturstyrelsen) Miljøministeriet pt. ved By- og Landskabsstyrelsen (fra 1. januar 2011: Naturstyrelsen) har det overordnede ansvar for, at EU´s drikkevandsdirektiv implementeres og overholdes i Danmark.
+Dette betyder bl.a., at By- og Landskabsstyrelsen fastlægger regler for kvaliteten af drikkevand, ansvar for indberetning af vandkvalitets- og kvantitetsdata, format for dataindberetning osv. i relation til EU's drikkevandsdirektiv og dansk lovgivning.
+ By- og Landskabsstyrelsen udarbejder relevante vejledninger som hjælp til opnåelse af lovbundne mål og regler.
+ By- og Landskabsstyrelsen skal desuden sikre, at der sker indberetning til Europa-Kommissionen om vandmængder og drikkevandskvalitet, herunder visse dispensationer fra overholdelse af kravene til drikkevandskvaliteten.
+2.4 Danmarks Miljøportal Som led i den nye ansvarsfordeling for data inden for miljøområdet som følge af Kommunalreformen i 2007, blev Danmarks Miljøportal oprettet på www.miljoeportal.dk Danmarks Miljøportal er indgangen til en række fællesoffentlige data på natur- og miljøområdet, hvorfra data opdateres og lægges ind i fællesoffentlige databaser.
+Her kan borgere, vandforsyninger, rådgivere, miljømedarbejdere m.fl. hente relevante og opdaterede data om Danmarks natur og miljø.
+Danmarks Miljøportal er et fællesoffentligt partnerskab imellem Miljøministeriet, KL, Danske Regioner og Den Digitale Task Force.
+Formålet med partnerskabet er at understøtte miljømyndighedernes opgaveløsning, sikre et ensartet og ajourført datagrundlag på miljøområdet, fremme digitale sagsgange på miljøområdet samt styrke formidlingen til offentligheden.
+Vandforsyningsdata behandles på Danmarks Miljøportal (DMP) under emnet »Grundvand«, som omfatter oplysninger om boringer og vandforsyningsanlæg.
+DMP løser opagaven i samarbejde med GEUS.
+ For boringer er der bl.a. oplysninger om teknisk opbygning, geologisk beskrivelse, vandstandspejlinger samt grundvandskemiske analyser.
+ For vandforsyningsanlæg er der bl.a. oplysninger om drikkevandsanalyser, oppumpede vandmængder og tilladelser til vandindvinding.
+Til indberetning, redigering og godkendelse af vandforsyningsdata er der etableret IT-tekniske muligheder for laboratorier, brøndborere og myndigheder.
+Disse muligheder består af særlige IT-systemer, som kan sikre de enkelte aktørers ansvar i forbindelse med vandforsyningsdata.
+2.4.1 Udveksling af data og tilgængelighed af data Alle relevante data vedrørende vandforsyning og boringer kan registreres i Jupiter-databasen.
+Indberetning og godkendelse af data foregår primært via fagsystemer hos laboratorier og myndigheder.
+Efter data er indberettet og godkendt, er de offentligt tilgængelige og kan ses f.eks. på www.geus.dk/jupiter eller via de fagsystemer, som kan kommunikere med Jupiter-databasen.
+ På figur 2.6 ses principperne for adgang til og registrering af data i Jupiter-databasen.
+Figur 2.6 Adgang til data og registrering af data Myndighederne kan anvende forskellige fagsystemer til registrering og opdatering af data.
+Nogle af disse systemer forudsætter, at man først henter en lokal kopi af Jupiter-databasen, som man efterfølgende arbejder i.
+Når data i den lokale kopi er redigeret, opdaterer man disse data i Jupiter-databasen, der ligger online.
+Andre systemer arbejder i Jupiter-databasen online.
+ Det er vigtigt, at de myndigheder, som ikke arbejder i Jupiter-databasen online, ofte opdaterer deres lokale kopi af databasen for at sikre, at ændringer i Jupiter-databasen hurtigst muligt gøres offentlig tilgængelige.
+2.5 Brugeroprettelse For at få adgang til at arbejde i databaser og fagsystemer på Danmarks Miljøportal skal myndigheder og visse virksomheder indgå en juridisk bindende brugeradministrationsaftale, hvor forskellige rettigheder tildeles.
+Denne aftale kan findes på:
+www.miljoeportal.dk/brugerstyring/aftale_brugeradministration.htm Herefter bliver man oprettet som partner i systemet, modtager pr. e-mail password og brugernavn og kan herefter oprette brugere i administrationsløsningen.
+Ved indgåelse af brugeradministrationsaftale med Danmarks Miljøportal er myndighederne selv ansvarlige for brugeradministrationen.
+Det vil sige at, brugeroprettelse og tildeling af roller foregår decentralt, hos den lokale Danmarks Miljøportal brugeradministrator i den enkelte myndighed.
+Laboratorier og brøndborere, der skal indberette data til Jupiter bliver i Danmarks Miljøportal oprettet som Selvoprettet bruger Disse brugere oprettes via Danmarks Miljøportal på adressen https://admin.mbsdk.dk/ Her klikkes på »Opret konto« eller tilmeld til partnerorganisation og formularen udfyldes.
+Man vil herefter modtage en e-mail med brugernavn og kodeord.
+Log på via det link, der er i e-mailen.
+Gå ind i menuen »Min profil« og »Anmod om adgang til fagsystem« Ved fagsystem vælges JUPITER_request.
+Et analyselaboratorium, som skal indlæse STANDAT filer skal vælge Jupiter_REQUEST_ANALYSELAB.
+Dette er en rolle, der tillader indberetning af STANDAT-filer til Jupiter.
+Den kan tildeles selvoprettede brugere, når de anmoder om adgang til Jupiter fagsystemet som analyselaboratorium De forskellige roller man kan tildeles er beskrevet i:
+www.miljoeportal.dk/NR/rdonlyres/1B395A64-FB6F-491E-AC26-6B955E260954/0/Rollebeskrivelse_ver_16.pdf Ved anmodning om Jupiter-roller afsendes automatisk en mail til borearkivet i GEUS.
+ GEUS vil, inden privilegierne gives, kontrollere, at det er den korrekte bruger der får privilegierne - eventuelt ved en opringning.
+ Link til Brugervejledning i selvoprettelse og anmodning om adgang til fagsystemer:
+www.miljoeportal.dk/NR/rdonlyres/3CA52789-3B02-40E5-9BEB-5A38092346FB/0/FagsystemSelvoprettelse.pdf Forskellige brugere har forskellige rettigheder, f.eks. har kommunalbestyrelsen i kommunalbestyrelse A normalt kun rettighed til at redigere og opdatere data, som relaterer sig til kommunalbestyrelse A.
+ Det er vigtigt, at privilegierne og brugerrettigheder ændres, hvis der sker personskifte/jobskifte hos de relevante aktører, så det løbende flow af vandforsyningsdata altid opretholdes.
+I forhold til de rettigheder kommunalbestyrelserne har på grundvands- og drikkevandsområdet, findes der en superrolle »miljoe_grundvand_kom«, der giver en samlet adgang til de områder, hvor man som myndighed har redigeringsrettigheder i Jupiter.
+Se i øvrigt beskrivelsen af forskellige de mulige roller på Danmarks Miljøportal.
+ Hvis medarbejdere flytter arbejdsplads inden for partnerorganisationen, nye kommer til, eller medarbejdere får udvidet deres arbejdsområde, kan den lokale administrator ændre de relevante data, roller og tilknytning for medarbejderen.
+Det er muligt for virksomheder uden for forvaltningssystemet, som ikke indgår i det offentlige forvaltningssystem, at oprette sig som en partnerorganisation.
+De kan på lignende vis indgå en brugeradministrationsaftale og kan, såfremt der er behov for det, få tildelt adgang til bestemte, relevante data og fagsystemer.
+3 Identifikation af målesteder Vandprøver kan udtages fra en række forskellige typer af målesteder: boringer, prøvehaner på vandværker, rentvandstanke, prøvehaner på ledningsnettet og prøvehaner hos forbrugere.
+Det er vigtigt at kunne skelne præcis, hvor vandprøver er udtaget for at kunne vurdere resultaterne af kontrollen med vandkvaliteten.
+ Det skal være muligt, at data i Jupiter-databasen kan ses, sorteres og trækkes ud for et bestemt anlæg med et bestemt målested, så analyser fra det samme målested kan sammenlignes over tid.
+Ved de forskellige typer af målesteder stilles forskellige krav til vandkvaliteten.
+Der skelnes mellem krav ved afgang fra vandværk, ved indgang til ejendom og ved forbrugeres taphane.
+Vandforsyningsanlægget har ansvaret for vandkvaliteten til og med indgang til ejendom.
+Alle faste målesteder, hvorfra der kan udtages vandprøver, bør derfor registreres og tildeles en unik identifikation.
+Oprettelse og registrering af målesteder bør ske i samarbejde mellem ejeren af vandforsyningsanlægget og kommunalbestyrelsen.
+GEUS har i dag for hver registreret indvindingsanlæg i Danmark angivet en unik ID, som i Jupiter-databasen og i STANDAT er angivet som »GeusAnlaegsID« eller »PlantId«.
+I Miljøportalen/GEUSs hjemmeside er denne ID dog angivet som enten Anlægsid eller Indvindingsanlægsid.
+Begge disse ord svarer til det samme som »GeusAnlaegsID«.
+Disse indvindingsanlæg dækker f.eks. almene vandforsyningsanlæg, enkeltanlæg (bl.a. industri, husholdninger, vanding af afgrøder og landbrug med dyrehold) samt afværgeanlæg.
+For distributionsanlæg, som alene distribuerer vand fra et andet vandforsyningsanlæg, er også oprettet en »GeusAnlaegsID«.
+Der er også for flere vandforsyningsanlæg i Danmark angivet en unik »GeusAnlaegsID« for ledningsnettet, selvom der også er oprettet en unik »GeusAnlaegsID« for det tilhørende vandforsyningsanlæg.
+ Ved anvendelse af unik nummer-ID for et fast målested koblet med de allerede eksisterende (GeusAnlaegsID) for lokaliteter med vandindvinding kan det lade sig gøre at håndtere vandprøver, så de kan kobles til et bestemt fast målested.
+ I Jupiter-modellen findes en tabel, som skal anvendes til beskrivelse af et fast målested (MEASURINGSTATION). Selve det unikke nummer-ID er angivet som »Målesteds-ID« eller »MeasuringStationId«.
+Til hvert fast målested registreres data, som angiver arten af målestedet, navnet for målestedet, hvor målestedet ligger (x,y,z), hvornår målestedet er oprettet osv.
+Hvilke oplysninger, som skal være med for hvert målested, er angivet i Jupiter-tabellen »MEASURINGSTATION«.
+Figur 3.1 Eksempel på målesteder og ID for boring, vandværk og ledningsnet På figur 3.1 er vist eksempler på ID for forskellige målesteder koblet til et vandforsyningsanlæg.
+ ID for boringer angives unikt via DGUnr. og indtagsnr.
+ ID for faste målesteder på vandværket og på ledningsnettet angives unikt via GeusAnlaegsID og MålestedsID.
+ For målesteder, som ikke er faste, (anvendes f.eks. i forbindelse med kildesporing ved en bakteriel forureningshændelse), eller andre mere tilfældige målesteder håndteres ID ved angivelse af GeusAnlaegsID og adresseoplysninger.
+Så længe ID noteres manuelt, er der risiko for skrivefejl.
+Derfor er det godt at bruge en dobbelt ID (f.eks. ved brug af både DGUnr. og DGUnr. tjekcifre), så der er mulighed for at opdage en del af fejlene.
+Hvis man laver en skrivefejl i DGUnr.et, rammer man som oftest et andet eksisterende DGUnr.
+ Hvis ikke der er en dobbelt kontrol af ID, kan en råvandsprøve fejlagtigt kobles til et forkert DGUnr. og råvandsprøven vil være misvisende for vandkvaliteten i boringen.
+ Derfor anbefales brug af dobbelt ID for målesteder ved mærkningen af vandprøver for at minimere aflæsnings/skrivefejl:
+ Identifikation for prøver fra boringer: DGUnr. og DGUnr. tjekcifre  Identifikation for prøver fra vandværk og ledningsnet: GeusAnlaegsID og MålestedsID eller GeusAnlaegsID og adresseoplysninger.
+Det anbefales at alle boringer og faste målesteder tilknyttet almene vandforsyningsanlæg skiltes med ID og beskrivelse af målestedet.
+Dette vil være med til at sikre, at vandprøven udtages fra det korrekte målested, og at vandprøven mærkes med de rigtige ID-oplysninger.
+ I tabel 3.1 er angivet de felter, der skal være med i en ID for et vandforsyningsanlæg, et målested og for selve vandprøven.
+Tabel 3.1 Felter, som skal være med i unik ID for et vandforsyningsanlæg, et målested samt en prøve.
+Supplerende metadata er angivet med kursiv og fed.
+Disse er ikke obligatoriske (STANDAT-typekoder er angivet i parentes.
+STANDAT er nærmere beskrevet i kapitel 4) De øvrige stamdata for vandforsyningsanlæg som angivet i tabel 3.2 skal stadig kunne ses for alle lokaliteter/anlæg, men disse ses og opdateres via myndighedernes fagsystemer.
+Tabel 3.2 Eksempel på stamdata for en Vandforsyning.
+Der er flere felter end ovennævnte.
+Stamdata angives svarende til Jupitertabellen »DRWPLANT« Udarbejdelse af skilte for boringer og faste målesteder kan håndteres på forskellige måder:
+  For boringer findes der DGUnr. skilte, som kan genereres på GEUS hjemmeside (www.geus.dk/borearkiv og www.geus.dk/jupiter). Alle boringsfiltre skal som minimum skiltes med DGUnr., indtagsnr. og DGUnr. tjekciffer.
+ For faste målesteder (målesteder for procesvand og målesteder for drikkevandskontrol) findes der skilte, som kan genereres på GEUS hjemmeside (www.geus.dk/borearkiv og www.geus.dk/jupiter). Skiltet skal mindst indeholde »GEUS anlægsID« og »Målesteds-ID« men bør også indeholde en beskrivelse af målestedet og/eller angivelsen af typen (»Før filter 1«, »Blandet råvand«, »Afgang vandværk« osv.) Kommunalbestyrelsen bør anmode om, at vandforsyningsanlægget skilter deres målesteder.
+Oprettelse af anlæg, målesteder og tildeling af DGUnr. til boringer samt vedligehold af oplysninger Oprettelse af nye vandforsyningsanlæg og målesteder varetages af kommunalbestyrelsen via fagsystemerne.
+Det samme gælder vedligeholdelse af stamoplysninger om vandforsyningsanlæg og målesteder.
+Kommunalbestyrelsen skal også registrere, hvilke boringsindtag der hører til hvilket vandforsyningsanlæg.
+Definitionen af begreberne boring, stamme, boringsfilter, boringsindtag og indtagsnummer er medtaget i ordlisten i nærværende vejledning.
+For yderligere beskrivelser henvises til www.geus.dk/borearkiv .
+ Foruden at knytte et boringsindtag til et vandforsyningsanlæg er det vigtigt også at angive boringsindtagets anvendelse.
+ I Jupiter-databasen kan angives følgende anvendelser for boringsindtag:
+Tabel 3.3 Mulige anvendelser for boringsindtag F.eks. har Vandby Vandforsyning en indvindingsboring med 2 boringsindtag.
+Det øverste indtag (nr. 2) anvendes til afværgeoppumpning og det nederste indtag (nr. 1) anvendes til drikkevandsindvinding.
+For indtag 1 angives anvendelsen derved som »Indvinding« og for indtag 2 som »Afværge«.
+Vedligeholdelse af oplysninger om selve boringernes anvendelse, placering, indretning og andre boringsforhold varetages udelukkende af GEUS.
+Vejledning til indberetning af denne type data til GEUS kan fås ved henvendelse til borearkivet på www.geus.dk/borearkiv.
+3.1.1 Vandforsyningsanlæg og målesteder Oprettelse af nye vandforsyningsanlæg sker via fagsystemerne.
+Når der er tilføjet et nyt anlæg i Jupiter-databasen, tildeler GEUS efterfølgende et unikt ID-nummer (GeusAnlaegsID).
+Oprettelse af nye, faste målesteder sker på samme måde via fagsystemerne.
+Når der er tilføjet et nyt målested, tildeler GEUS efterfølgende det faste målested et unikt nummer (MålestedsID).
+ Oprettelse, vedligeholdelse og registrering af faste målesteder bør ske i samarbejde mellem ejeren af vandforsyningsanlægget og kommunalbestyrelsen.
+ Vedligeholdelse af oplysninger om vandforsyningsanlæg og faste målesteder sker via fagsystemerne.
+3.1.2 Boringer Tildeling af DGUnr. sker ved henvendelse til borearkivet hos GEUS.
+Det er meget vigtigt, at disse oprettes så hurtigt som muligt efter etablering af boring er igangsat.
+ Det er vigtigt, at brøndborere indberetter boringen inklusiv boringens indretning til GEUS så hurtigt som muligt, og senest 3 måneder efter endt borearbejde7), så der kan oprettes de rette filtre og indtag for boringen i Jupiter-databasen.
+ Oprettelse af indtag er en forudsætning for, at vandprøver kan indberettes til Jupiter-databasen.
+Eksisterende boringer uden DGUnr. skal også få tildelt et DGUnr. og få oprettet indtag, da DGUnr er en nødvendig forudsætning for indberetning af boringskontrolanalyser.
+Dette krav følger af boringsbekendtgørelsen.
+ På www.geus.dk/borearkiv er angivet vejledning til, hvordan en boring får tildelt DGUnr., og hvordan man indberetter oplysninger om boringsindretning.
+4 Opbygning af STANDAT-filer Forudsætningen for at vandforsyningsdata kan indberettes og gøres tilgængelig i en fællesoffentlig database som Jupiter-databasen er at der benyttes et fælles format til generering af overførselsfil og overførsel af data.
+I Danmark anvendes STANDAT-formatet.
+STANDAT definerer det format, som benyttes ved indberetning af data til de statslige fagdatacentre.
+STANDAT er udviklet til at sikre, at data om det ydre miljø kan udveksles hurtigt og sikkert mellem de institutioner, der indsamler og anvender data.
+4.1 STANDAT-formatet Det centrale element i STANDAT er brugen af kodelister.
+En kodeliste kan f.eks. være en liste med kommunenumre eller en liste med samtlige postnumre i Danmark.
+Kodelisterne fastlægger, hvilken kode der skal anvendes for en bestemt type information.
+Kodelisterne danner desuden rammerne for, hvilke informationer der kan udveksles, deres sammenhæng med andre informationer, hvilket format informationer har, samt i nogle tilfælde de mulige værdier en information kan antage.
+ Der findes fire forskellige slags kodelister: Emnekodelisten, typekodelisten, koblingskodelisten og værdikodelisterne, se figur 4.1.
+Figur 4.1 Sammenhæng mellem de forskellige typer af STANDAT-kodelister I de forskellige lister kan også være angivet, om en kode er forældet og derfor ikke længere må anvendes.
+Denne oplysning vil være angivet i kolonnen »gammel«.
+Forældede koder bibeholdes i listerne, da det også skal være muligt at håndtere gamle analyser i STANDAT-formatet.
+ For nærmere oplysninger og oversigter henvises til STANDAT-sekretariatets hjemmeside på www.dmu.dk/overvaagning/standat/.
+ STANDAT-formatet til indberetning er et enkelt tekstformat og består af 3 blokke: HEADER, DEFINITION og DATA, som hver især indeholder en bestemt række oplysninger.
+ HEADER her et fast udseende, og den skal som minimum indeholde alle de 15 linjer i tabel 4.1. Ikke alle linjer behøver være udfyldt med data (eksempelvis kan kommentarfeltet evt. være tomt) HEADER indeholder en del administrative oplysninger, der gør det muligt på et senere tidspunkt at afgøre, hvem der har lavet filen, hvem den er beregnet for, hvilken version af STANDAT den er skrevet i osv., jf. tabel 4.1.
+Tabel 4.1 Eksempel på HEADER.
+Bemærk, at ved test af data i SSP 3 kræves et kommunenummer i headeren til STANDAT filen.
+Dette kommunenummer refererer til kommunenummer før kommunalreformen og feltet udfyldes derfor med koden 000.
+ I definitionsdelen beskrives med koder, hvilke typer af oplysninger der indberettes, samt i hvilken rækkefølge i filens datadel oplysningerne forekommer, jf. tabel 4.2 og 4.3 som er eksempler for drikkevand og for grundvand.
+Anbefalinger og krav til STANDAT-filerne for drikkevand og grundvand er nærmere angivet i bilag A og bilag B.
+Disse bilag følges ved opbygning af STANDAT-filer.
+Opdateringer af Bilag A og B kan ske løbende, og disse vil være angivet på www.geus.dk/jupiter.
+Her vil det til enhver tid gældende format kunne ses.
+Tabel 4.2 Eksempel på udsnit af DEFINITION ved drikkevandsanalyser.
+Opbygningen i Bilag A er det gældende format.
+ I tabel 4.3 ses et eksempel for DEFINITION for grundvand.
+Tabel 4.3 Eksempel på udsnit af DEFINITION ved grundvandsanalyser.
+Opbygningen i Bilag B er det gældende format.
+På baggrund af STANDAT-filens opbygning i henhold til DEFINITION, indsættes de reelle oplysninger i DATA jf. tabel 4.4. Rækkefølgen af oplysninger fremgår af DEFINITION, jf. tabel 4.2 Tabel 4.4 Eksempel på udsnit af DATA i STANDAT-fil, som følger tabel 4.2 Alle kodelister og yderligere oplysninger om STANDAT findes på STANDAT-sekretariatets hjemmeside: www.dmu.dk/overvaagning/standat/ 4.2 Læsning og kontrol af STANDAT-filer og kodelister På hjemmesiden www.dmu.dk/overvaagning/standat/ er det muligt at hente et hjælpeprogram (SSP3) til kontrol af STANDAT-filer.
+Ved hjælp af programmet kan STANDAT-filerne læses.
+Desuden bruges programmet bl.a til at udføre en simpel kontrol for syntaksfejl og til at tjekke, at der bruges lovlige koder.
+I dette program er det også muligt at åbne de forskellige kodelister og se indholdet i disse.
+Det er vigtigt regelmæssigt at vedligeholde kodelisterne i programmet.
+Disse kan hentes på STANDAT-sekretariatets hjemmeside.
+Bemærk, at ved test af data i SSP 3 kræves et kommunenummer i headeren til STANDAT filen.
+Dette kommunenummer refererer til kommunenummer før kommunalreformen og feltet udfyldes derfor med koden 000.
+5 Laboratoriers indberetning af vandkvalitetsdata Man kan principielt indberette alle analysedata, som er defineret i STANDAT.
+I relation til vandkvalitetsdata deles analyseresultater op i drikkevandsdata og grundvandsdata, dvs. emnegruppe 3200 Vandværk og emnegruppe 3400 Grundvandskontrol.
+ Alle analysedata, som er udtaget på vandværket og på ledningsnettet tilhører emnegruppe 3200, og alle analysedata, som er udtaget i boringer, tilhører emnegruppe 3400. Blandet råvand skal dog behandles under emnegruppe 3200.
+ For vandanalyser i henhold til den offentlige kontrol, skal STANDAT-filerne oprettes med emner og formål som angivet i tabel 5.1.
+Tabel 5.1 Koder for datatype, emnegruppe og formål for prøver i den offentlige kontrol Ved indberetning til GEUS skal vandprøver fra råvandsledninger med mere end en boring og frem til vandværk angives som datatype blandet råvand og efter indgang til vandværk som procesvand.
+Først ved afgang vandværk er der tale om vand af drikkevandskvalitet.
+På denne måde sikres, at der ved indberetningen skelnes mellem vand, som skal overholde kvalitetskriteriet for drikkevand, og vand, som ikke behøver at overholde kriteriet (blandet råvand og procesvand).
+For vand, som ikke entydigt kan tilknyttes én boring (f.eks. blandet råvand) og som ikke skal overholde kvalitetskravene for drikkevand (f.eks. vandprøver fra før filtre), er det vigtigt, at formålet for vandprøven er angivet korrekt i STANDAT-filen.
+Dette kan f.eks. gøres ved at anvende en af følgende formålskoder (STD00146):
+ 27 Driftskontrol, vandbehandling  28 Grundvandskontrol, blandet vand For disse typer vandprøver anvendes emnegruppen 3200 Vandværk og STANDAT-formatet som angivet i Bilag A.
+ For driftskontrol, skal STANDAT-filerne oprettes med emner og formål som angivet i tabel 5.2.
+ Tabel 5.2 Koder for datatype, emnegruppe og formål for prøver i driftskontrol.
+ I bilag A og B ses opbygning af STANDAT-filer for grundvand og rentvand.
+ I STANDAT-filopbygningerne er angivet, hvilke felter der anbefales at indgå i STANDAT-filen fra laboratorium til myndighed, og hvilke felter der er obligatoriske, og som skal være mulige at se i forbindelse med godkendelse af analyser.
+ Strukturen for hver fil er angivet ved følgende STANDAT-emnegrupper:
+Laboratoriets håndtering af STANDAT-filer Efter 1. januar 2007 har laboratorierne pligt til at indberette analyser for boringskontrol og drikkevandskontrol (offentlig kontrol) til Jupiter-databasen.
+Det er laboratoriet, der ved indberetningen angiver, hvilken datatype de indberetter og dermed, hvem der skal godkende data.
+F.eks. vil data indberettet som datatyperne Boringskontrol, Drikkevandskontrol og Procesvand automatisk videresendes til godkendelse hos kommunalbestyrelsen.
+ Laboratoriet kan indlæse STANDAT-filer via:
+www.geus.dk/jupiter Laboratoriets brugernavn og password til Danmarks Miljøportal anvendes til logon.
+Før data indlæses i Jupiter-databasen, bliver de checket i flere trin.
+Først checkes det, om de STANDAT-data, der indsendes, overholder STANDAT-formatet.
+Derefter testes, om data er indberettet i korrekte enheder, og om de kan knyttes til eksisterende vandforsyningsanlæg.
+Data, der ikke opfylder disse krav, vil blive afvist, og laboratoriet får besked om, hvorfor data er afvist.
+Ved fejl eller mangler er det hele STANDAT-filen, der afvises.
+Ved indlæsningen i Jupiter-databasen undersøges det også, om prøven allerede eksisterer (er en dublet). Hvis den indberettede prøve er fuldstændig identisk med prøven i Jupiter-databasen, bliver den ikke indlæst, og der kommer en meddelelse herom i indlæsningsrapporten.
+Hvis der er en forskel mellem prøven i Jupiter-databasen og den indberettede prøve (f.eks. forskel i de målte mængder) indlæses den indberettede prøve.
+I dette tilfælde vil der stå i indlæsningsrapporten, at der findes lignende prøver i Jupiter-databasen, samt hvor mange af disse prøver der er godkendte, afviste og nye.
+Kun data, der slipper gennem disse tests, vil blive læst ind i Jupiter-databasen, og være tilgængelige for godkendelse.
+ For at teste en STANDAT-fil for fejl anvendes funktionen Upload af STANDAT-filer.
+Vælg »Test kun data for fejl« Vælg den datatype, som skal godkendes.
+Datatypen er bestemmende for, om det er kommunalbestyrelsen, miljøcenter eller region, der får prøverne til godkendelse.
+I forbindelse med kommunalbestyrelsens godkendelse af vandkvalitetsdata skal prøverne ligge under Boringskontrol, Procesvand og Drikkevandskontrol.
+ Filen uploades, og man får følgende besked fra GEUS: »STANDAT«-filen er overført til GEUS, du vil modtage en e-mail, når filen er undersøgt.
+Man modtager dernæst pr. e-mail en rapport, som angiver eventuelle fejl i STANDAT-filen.
+På baggrund af fejlrapporten rettes STANDAT-filen og oploades igen.
+Når STANDAT-filen er fejlfri, anvendes funktionen »Test og overfør til Jupiter-databasen« og der trykkes på »Upload«.
+I boringskontrolprøver skal det ved analysekode angives, om en parameter er målt i felten eller i laboratoriet (STANDAT kodeliste STD 00109) Bemærk, at et analyseresultat på 0.00 ikke er acceptabelt for kemiske analyser.
+Hvis der ikke er fundet et konkret indhold af stoffet i analysen indberettes den aktuelle detektionsgrænse i værdifeltet og »<« i attributfeltet i den aktuelle prøve.
+For aggressiv kudioxid, hvor »analyseresultatet« kan være 0 eller negativt, angives der et 0 (nul) i attributfeltet.
+Dette angiver, at »nullet« i værdifeltet er et reelt nul, og ikke kun en »manglende oplysning«.
+Generelt gælder, at STANDAT kun har plads til 4 decimaler og at decimal-punktet i analyseværdier, detektionsgrænser og andre decimaltal skal være et ».« (punktum og ikke komma).
+6 Kommunalbestyrelsers godkendelse af vandkvalitetsdata Kommunalbestyrelsen har ansvaret for at godkende eller afvise de indberettede vandkvalitetsdata i Jupiter-databasen.
+Kommunalbestyrelsen modtager en e-mail fra GEUS med link til de data, som kommunen skal kvalitetssikre og godkende eller afvise, når der fra laboratorier indgår data i Jupiter-databasen, som er klar til at blive godkendt.
+De data, myndighederne skal godkende, er maskinelt testet via GEUS´ testmodul i forbindelse med indberetningen jf. afsnit 5.1.
+ Bemærk, at en kvalitetssikring i mange tilfælde finder sted allerede i forbindelse med laboratoriets oversendelse af analyserapporter i papirform, eller endnu tidligere ved overskridelser, hvor det typisk sker telefonisk, men ansvar og kriteriet er dog det samme uanset tidspunktet for kvalitetskontrollen.
+Oplysninger om håndtering af godkendelsesmails hos myndighederne kan ses på Danmarks Mijøportal på: www.miljoeportal.dk/grundvand/spoergsmaal/ Godkendelse sker via: www.geus.dk/jupiter (under »Indberetning«) Kommunalbestyrelsens brugernavn og password til Danmarks Miljøportal anvendes til logon.
+Ved føderation er der ikke behov for særligt brugernavn/password.
+De prøver, som er klar til godkendelse vil herefter fremgå af en liste.
+For hver prøve vil en række af de indberettede oplysninger om prøvedato, prøvetagningssted, formål, omfang, antal analyser og laboratorium m.m. fremgå i den øverste del af feltet.
+ Derudover er der mulighed for at se følgende:
+  For hver prøve kan der trykkes på plus-knappen yderst til venstre, for at se hver enkelt prøves analyser og resultater.
+  Ved at klikke på et enkelt stofnavn fås en tidsserie for det valgte stof.
+  Det er desuden muligt at åbne alle de prøver, som skal kontrolleres og godkendes, i excel ved anvendelse af funktionen »Åben analyser i Excel« øverst til højre i det første skærmbillede.
+For hver prøve vil en række af de indberettede oplysninger om prøvedato, prøvetagningssted, formål, omfang, antal analyser og laboratorium m.m. fremgå i den øverste del af feltet.
+For at kunne se flere detaljer tilhørende hver prøve henvises til excelarket.
+Herefter følger de enkelte analyser, som prøven omfatter.
+For hver analyse angives stoffets navn, måleenhed, den målte værdi, kvalitetskrav, detektionsgrænse, oplysning om der er sket filtrering, analysested, analysemetode, laboratorium, der har udført den enkelte analyse samt et bemærkningsfelt og et felt til markering af overskridelser af kvalitetskrav.
+Muligheden for at tegne tidsserier, som beskrevet ovenfor, er en hjælp til vurdering af analyseresultaterne Tidsserien for prøvestedet er nyttig ved vurderingen af sandsynligheden af resultaterne, idet en stor afvigelse vil kunne indikere, at prøven fx er fejlmærket.
+Tidsserien vil tydeligt vise, hvis et resultat ikke passer ind i det billede, der allerede ligger i den tidslige udvikling.
+I forbindelse med drikkevandsprøver kan der være den ulempe ved at bruge tidsserier, at prøverne kan repræsentere flere forskellige boringer med forskellig kemisk sammensætning.
+Vandkvaliteten vil afhænge af hvilken drift der har været på kildepladsen i forbindelse med prøvetagningen.
+Ved tidsserier for råvand er det vigtigt at vælge stoffer, som varierer fra boring til boring.
+De relevante stoffer vil variere fra kildeplads til kildeplads  sulfat, ammonium, nitrat og klorid kan være relevante.
+ I forbindelse med godkendelsen kan kvalitetskontrollen ud over tidsserien indeholde følgende kontrol:
+  om prøven stammer fra det anlæg den er indberettet under (hér er også tidsserien som nævnt nyttig).
+ om prøven er korrekt indberettet som enten råvand, blandet råvand, procesvand eller drikkevand  at de enkelte prøver indeholder analyseresultater for de i sammenhængen relevante parametre, som er omfattet af lovens kvalitetskrav  at målested og ID er korrekt angivet  at formål er korrekt angivet/virker sandsynligt  at prøvedato virker sandsynlig  forsikre sig om, at der hvis der er overskridelser af kvalitetskrav er reageret på disse (bør være sket tidligere efter henvendelse pr. telefon eller e-mail laboratoriet eller vandværket)  eventuelle kommentarer fra laboratorium En prøve kan have tre tilstande: »ny«, »godkendt« eller »afvist«.
+ Inden kommunalbestyrelsen endeligt godkender sine valg, fremkommer en oversigt over de prøver, som kommunalbestyrelsen har:
+ godkendt  afvist  endnu ikke taget stilling til Nederst på siden konfirmeres eller fortrydes valgene ved at trykke på »Konfirmér« eller »Fortryd«.
+ Når prøverne er konfirmeret bliver de samtidigt offentligt tilgængelige i Jupiter-databasen.
+6.1 Ved fejl eller mistanke om fejl i prøver Hvis der opdages en fejl eller der er mistanke om fejl ved prøven, afvises prøven af kommunalbestyrelsen (godkendelsesmyndigheden).
+ Bemærk, at i de fleste tilfælde kvalitetssikres data allerede når de modtages som e-mail (pdf)  idet den evt. nødvendige opfølgning i forhold til overskridelser i parametre omfattet af bekendtgørelsen ikke kan afvente Jupiter indberetningen af prøveresultaterne.
+Ved afvisning af prøverne vil de fortsat være i Jupiter-databasen, men med en kode for afvist, således at kommunalbestyrelsen ikke længere kan tilgå disse data, der ligeledes er skjult for offentligheden.
+Kommunalbestyrelsen skal ved afvisning af prøver kontakte laboratoriet og bede dem forholde sig til de opdagede fejl eller mistanker om fejl.
+Laboratoriet skal herpå forholde sig til prøven og kommunalbestyrelsens oplysninger.
+Hvis der er en fejl, skal laboratoriet rette denne/disse og genfremsende prøvens resultater til vandforsyningsanlægget og evt.
+Sundhedsstyrelsen.
+Ligeledes skal laboratoriet indberette den rettede prøve i Jupiter-databasen, og kommunalbestyrelsen skal herefter godkende prøven.
+ Hvis laboratoriet fastholder, at prøven er korrekt, kan kommunalbestyrelsen vælge at mærke resultatet eller prøven, når denne er genindberettet i Jupiter-databasen og kommunalbestyrelsen godkender prøven.
+Hvis vandforsyningsanlægget ved modtagelse af resultater af vandprøver opdager fejl eller har mistanke om fejl i prøven, skal vandforsyningsanlægget kontakte laboratoriet og kommunalbestyrelsen og underrette begge parter om fejlen/mistanken.
+Herved har laboratoriet mulighed for at rette prøven (evt. før indberetning), og kommunalbestyrelsen har mulighed for at afvise prøven, hvis den er indberettet men endnu ikke godkendt.
+6.2 Hvis der opdages fejl i godkendte prøver Hvis der opdages fejl eller der er mistanke om fejl, i en godkendt prøve, skal den part, som opdager fejlen (ejeren af vandforsyningsanlæg, rådgiver, kommunalbestyrelse, GEUS, Miljøcenter, Region eller lign.) rette henvendelse til laboratoriet og bede dem om at forholde sig til prøven.
+Henvendelsen skal ske i samarbejde med den godkendende myndighed.
+Hvis der er tale om en fejl, retter og genfremsender laboratoriet prøvens resultater til vandforsyning, Kommunalbestyrelse og evt.
+Sundhedsstyrelsen.
+Ligeledes skal laboratoriet genindberette prøven, når fejlen er rettet.
+Denne rettede prøve skal erstatte den fejlbehæftede prøve i Jupiter-databasen.
+Laboratoriet bør altid angive som bemærkning, hvad der er rettet.
+Hvis laboratoriet fastholder, at resultatet eller prøven er korrekt, kan godkendelsesmyndigheden vælge at mærke resultatet eller prøven i Jupiter-databasen.
+Dette gøres via fagsystemerne.
+Det anbefales at vedkommende, som mærker resultatet eller prøven, angiver dato, myndighed, initialer samt årsag til mærkningen.
+Fejl i prøver omfatter bl.a. forkert identifikation af målested, forkert udtagningsdato, forkert angivet analysemetode, forkert angivne kvalitetskrav, forkert resultat som følge af tastefejl, analysefejl m.m.
+Fejl skal principielt rettes eller slettes.
+Dvs. fejlramte prøver skal genindberettes med korrekte oplysninger (rettet fejl) eller uden fejlen.
+Hvis der  f.eks. af et Miljøcenter i forbindelse med en kortlægning - opdages fejl i ældre (> 10 år) godkendte prøver, som laboratoriet ikke længere har mulighed for at checke, er det muligt at redigere i resultaterne via fagsystemerne for de data, man har rettigheder til.
+Som udgangspunkt bør man ikke ændre i resultatet men mærke resultatet som sandsynligt fejlbehæftet, med mindre man har den oprindelige analyseblanket eller har andre måder at verificere fejlen på.
+Mærkning af resultater kan sikre, at fremtidige brugere kan blive gjort opmærksomme på fejlene.
+6.3 Håndtering af opfølgende prøver I forbindelse med kontrol af vandkvaliteten fremkommer der ind i mellem situationer med en utilfredsstillende eller uventet vandkvalitet.
+I sådanne situationer vil der typisk blive foretaget en eller flere ekstra analyser () fra det samme prøvetagningssted med henblik på at undersøge den oprindelige prøves resultat nærmere.
+I henhold til EU's drikkevandsdirektiv skal By- og Landskabsstyrelsen foretage indberetninger til EU om overskridelser af kvalitetskrav for drikkevand i Danmark.
+Til denne indberetning er det væsentligt, at data kan trækkes fra Jupiter-databasen, og at det heri tydeligt fremgår, om der er sket en opfølgning på eventuelle vandkvalitetsproblemer.
+I forhold til indberetning af vandkvaliteten er begrebet opfølgende prøve indført for bl.a. at kunne spore, om der var fulgt op på bakterieoverskridelser på ledningsnettet.
+Prøver, der er udtaget som følge af en overskridelse af et drikkevandskvalitetskriterium, skal referere til den tidligere prøve.
+ I forbindelse med indberetning af drikkevand og grundvand håndteres dette på følgende måde:
+  En opfølgende prøve relaterer sig altid til en tidligere prøve, jf. figur 6.1.
+  Ved gentagne overskridelser skal en ny referere til seneste prøve med overskridelse ved et givent målested.
+ I forbindelse med den digitale afrapportering af en opfølgende skal laboratoriet med hjælp fra vandforsyningsanlægget angive, hvilken oprindelig / tidligere prøve n referer til.
+Dvs. laboratoriet skal angive den oprindelige / tidligere prøves identifikation (laboratorium, prøvejournalnr, prøvetagningsdato og -klokkeslæt) samt ns relation til den oprindelige prøve  jf.
+STD00210. ns omfangskode (STD00147)skal være angivet som opfølgende prøve.
+  Både den oprindelige prøve og senere skal indberettes til Jupiter-databasen.
+ F.eks. kan en enkeltstående forureningshændelse resultere i, at der udtages 10 fra et målested.
+ Figur 6.1 Ved mærkning af opfølgende prøver henvises til den foregående prøve.
+ 7. Procedurer for indberetning af vandmængder, pejlinger m.v.
+Vandforsyningsanlægget er som beskrevet i kapitel 2 den primære dataproducent af data vedrørende indvindingsmængder, importerede/eksporterede vandmængder og pejlinger.
+Data vedrørende indvindingsmængder og importerede/eksporterede vandmængder skal indberettes til kommunalbestyrelsen som efterfølgende skal kontrollere og indberette de modtagne data til Jupiter-databasen.
+ Indberetning af indvindingsmængder, importerede/eksporterede vandmængder og pejlinger til Jupiter-databasen foregår via myndighedernes fagsystemer.
+Det er hensigten i fremtiden at gøre det muligt, at kommunalbestyrelsen kan anmode om, at ejerne af vandforsyningsanlæggene selv indberetter resultaterne til Jupiter-databasen via en funktion på GEUS hjemmeside.
+Kommunalbestyrelsen skal så efterfølgende kun kontrollere og godkende de indberettede data, hvorefter de bliver offentligt tilgængelige.
+Dette vil minimere muligheden for fejltastninger i den videre databehandling.
+7.1 Indvindingsmængder Bekendtgørelsens kapitel 4 indeholder regler om kontrol med vandforbruget.
+Ifølge § 21 skal ejeren af et alment vandforsyningsanlæg, der kræver indvindingstilladelse, registrere de vandmængder som indvindes.
+For ikke almene vandforsyninger træffer den enkelte kommunalbestyrelse afgørelse om, i hvilket omfang der skal føres kontrol med den indvundne vandmængde.
+Anlæggets ejer skal ifølge § 23 registrere dato for hver opgørelse af indvindingen og den vandmængde, der er indvundet siden sidste registrering.
+Registreringen skal opbevares i mindst 10 år og på anmodning forevises myndighederne.
+ Registrering af data er (§ 23) afhængig af den årligt tilladte indvindingsmængde:
+  Ved årlig tilladt indvinding på under 100.000 m3 sker registrering ved begyndelsen af hvert år.
+  Ved årlig tilladt indvinding på 100.000- 350.000 m3 sker registrering ved begyndelsen af hvert kvartal.
+  Ved årlig tilladt indvinding på over 350.000 m3 sker registrering ved begyndelsen af hver måned.
+Ejeren af vandforsyningsanlægget skal (§ 24) sende indberetning til kommunalbestyrelsen om anlæggets årsindvinding, opgjort for tiden 1. januar til 31. december.
+Indberetningen til kommunalbestyrelsen skal ske inden den 1. februar det følgende år.
+Er måleranordningen udskiftet i årets løb skal dette også fremgå af indberetningen.
+Kommunalbestyrelsen vurderer de indberettede oplysninger, herunder størrelsen af de indvundne vandmængder.
+Kommunalbestyrelsen skal derefter inden den 1. april registrere indberetningerne i Jupiter-databasen via deres fagsystem.
+7.1.1 Data som kan indberettes i Jupiter-databasen Mange vandforsyningsanlæg registrerer i dag indvundet vand på boringsniveau.
+Disse oplysninger kan også indberettes til kommunalbestyrelsen i forbindelse med indberetning af indvundne vandmængder for vandforsyningsanlægget, men dette er ikke et krav  undtagen hvis det fremgår af tilladelsen.
+Det vil være en stor fordel, at de indvundne vandmængder indberettes på boringsniveau, da det giver myndighederne, rådgiver med flere mulighed for at skabe bedre grundvandsmodeller og have et bedre grundlag i forbindelse med f.eks. den afgiftsfinansierede grundvandskortlægning, planlægning af vandforsyningsforhold, vurdering af trusler mod grundvandet og indvindingstilladelser.
+Hvis data alligevel registreres på boringsniveau hos vandforsyningsanlægget, anbefales det, at disse oplysninger medtages i indberetningen af indvundne vandmængder til Jupiter-databasen/kommunalbestyrelsen.
+Det er især vigtigt at være opmærksom på at indvundne vandmængder indberettes med den korrekte fordeling til hoved- og underanlæg.
+Det anbefales, at de indvundne mængder registreres hver for sig, og at hovedanlægget opfattes som et underanlæg, hvilket vil medføre, at der kun angives en indvundet mængde, hvis der rent faktisk er foregået en indvinding, som skal registreres under hovedanlægget.
+For nogle vandforsyningsanlæg har kommunalbestyrelsen stillet vilkår i indvindingstilladelsen om, hvor meget vand der må oppumpes fra hver indvindingsboring.
+Kommunalbestyrelsen skal i den forbindelse have registreringer af oppumpede mængder på boringsniveau udleveret.
+Kommunalbestyrelsen registrerer efterfølgende disse data i Jupiter-databasen.
+Kommunalbestyrelsen får for flere andre indvindinger til bl.a. afværgeanlæg og grundvandssænkninger oplysninger om mængden af oppumpet grundvand på både anlægs- og boringsniveau.
+Det anbefales, at kommunalbestyrelsen også registrerer disse data i Jupiter-databasen, da det i forbindelse med myndighedernes fordeling af den tilgængelige vandressource er vigtigt at have så detaljerede data som muligt.
+Detaljerede data er også vigtige i forbindelse med udarbejdelse af grundvandsmodeller.
+7.2 Pejlinger af vandstanden Ejeren af vandforsyningsanlægget skal måle og registrere grundvandsstanden i anlæggets indvindingsboringer og omkringliggende boringer og brønde i det omfang, det er bestemt i anlæggets indvindingstilladelse.
+Resultaterne skal opbevares i mindst 10 år.
+De skal på anmodning forevises myndighederne.
+ Pejleresultaterne som kommunalbestyrelsen modtager, bør registreres i Jupiter-databasen.
+ Det er vigtigt, at pejlinger foretages til veldefineret punkt  f.eks. »overkant forerør«, og at disse oplysninger medtages i registreringen.
+På www.geus.dk/borearkiv findes en vejledning til registrering af boringsfiks- og pejlepunkter, og en vejledning i indberetning af pejledata.
+Disse vejledninger bør under alle omstændigheder følges.
+7.3 Distribuerede vandmængder Vandforsyningsanlæg, som modtager vand fra andre vandforsyningsanlæg (import), skal årligt indberette størrelsen af den distribuerede (samt importerede/eksporterede) vandmængde til kommunalbestyrelsen for perioden 1. januar til 31. december.
+Indberetningen til kommunalbestyrelsen skal ske inden den 1. februar det følgende år.
+ Almene vandforsyningsanlæg, som leverer vand til andre vandforsyninger (eksport), skal tilsvarende oplyse om størrelsen af denne leverance.
+ Distribuerede vandmængder er i denne sammenhæng defineret som importerede eller eksporterede vandmængder, der leveres som drikkevand til forbrugerne.
+7.3.1 Data som kan indberettes i Jupiter-databasen For hvert enkelt vandforsyningsanlæg kan forsyningsdata, opdelt på forskellige forbrugskategorier for hvert enkelt vandforsyningsanlæg, ligeledes indberettes i Jupiter-databasen via kommunalbestyrelsens fagsystem.
+Der er ikke fastsat krav til indberetning heraf eller hvilke typer af forbrugskategorier, der kan indberettes, men en central lagring af disse oplysninger i Jupiter-databasen kan udgøre en let tilgængelig platform for myndigheder, forbrugere, interesseorganisationer, rådgivere m.fl. til disse data.
+Data sammenstilles hvert år af GEUS, som sender dem videre til EU, hvor de anvendes til en lang række fællesnationale formål.
+I øjeblikket efterspørger EU en opdeling i følgende kategorier: Privat og offentlig vandforsyning, landbrug, kunstvanding, råstoffer, industri, fødevareindustri, tekstilindustri, kølevand til industri, produktion af elektricitet, kølevand til produktion af elektricitet, vandkraft, servicefag (turisme m.v.), og andet (fx byggeri).
+7.4 Vedligeholdelse af oplysninger om vandforsyningsanlæg For at data for de enkelte anlæg og målesteder i Jupiter-databasen kan anvendes nu og i fremtiden, er det vigtigt, at der er tilknyttet korrekte tekniske data.
+Det anbefales derfor, at ejeren af vandforsyningsanlægget løbende indberetter eventuelle ændringer i tekniske data om vandforsyningsanlæg og boringer til kommunalbestyrelsen, som via fagsystemerne kan opdatere oplysningerne i Jupiter-databasen og til GEUS.
+Som en fast rutine anbefales at eventuelle ændringer indberettes senest i forbindelse med den årlige indberetning af vandmængder.
+ Til kommunalbestyrelsen indberettes ændringer i følgende data:
+ Anvendelse af boringsindtag.
+F.eks. at man ikke længere anvender indtag nr. 1 i boring A til indvinding, men kun anvender det til pejling eller monitering.
+Jf. tabel 3.3 i kapitel 3.
+ Kontaktoplysninger til vandforsyningen.
+Hvem der ejer vandforsyningsanlægget og adresseforhold.
+  Nye eller reviderede målesteder.
+  CVR-nummer for virksomheden, eller CPR nummer for ejeren, hvis ejeren ikke har virksomhed med CVR-nummer.
+ Til GEUS indberettes ændringer i følgende data:
+ Boringernes anvendelse  Indmålinger af x, y og z.
+ Boringsfikspunkt eller pejlepunkt  Boringsopbygning (efter en renovering) 8 Ordliste 9 Referencer Miljøministeriet, 2007. Bekendtgørelse af lov om vandforsyning m.v.
+Nr. 1026 af 20/10/2008 Miljøministeriet, 2007. Bekendtgørelse om vandkvalitet og tilsyn med vandforsyningsanlæg.
+Nr. 1449 af 11/12/2007.
+Miljøstyrelsen, 2005. Vejledning om vandkvalitet og tilsyn med vandforsyningsanlæg.
+Vejledning fra Miljøstyrelsen Nr. 3 2005 By- og Landskabsstyrelsen, den 1. november 2010 Bilag A Opbygning af STANDAT-fil for DRIKKEVAND Bemærk, at ved test af data i SSP 3 kræves et kommunenummer i headeren til STANDAT filen.
+Dette kommunenummer refererer til kommunenummer før kommunalreformen og feltet udfyldes derfor med koden 000.
+Bilag B Opbygning af STANDAT-fil for GRUNDVAND Bemærk, at ved test af data i SSP 3 kræves et kommunenummer i headeren til STANDAT filen.
+Dette kommunenummer refererer til kommunenummer før kommunalreformen og feltet udfyldes derfor med koden 000.
+Bilag C Brug af STANDAT koderne i forbindelse med lovpligtig indberetning, driftskontrol og indberetning med forbindelse til EU-rapportering.
+Baggrund Baggrunden for, at STANDAT formatet anvendes ved udveksling af miljødata er bl.a. behovet for at skabe et samlet overblik over miljøets tilstand nationalt, og i forhold til EU.
+Der blev således ved indførelse af formatet lagt vægt på varetagelse af brugernes behov, herunder såvel myndigheders som offentlighedens behov for opdateret viden om blandt andet drikkevandets kvalitet.
+ En central del af STANDAT formatet er de tilknyttede kodelister, som danner rammen for hvilke miljødata, der kan udveksles, og som er bestemmende for, hvor nemt det er at danne sig et entydigt overblik over situationen på drikkevandsområdet.
+ Dette bilag skal medvirke til at sikre, at laboratorier og andre i fremtiden anvender STANDAT koderne på drikkevandsområdet ensartet og på en måde, der muliggør, at myndigheder og andre løbende kan danne sig et overblik over situationen på vandforsyningerne mht. relevante parametre for drikkevand.
+Bemærk, at koderne løbende kan blive ændret, og at evt. ændringer kan ses på: http://www.dmu.dk/myndighedsbetjening/overvaagning/standat/standatbiblioteket/ Målgruppe Bilaget henvender sig især til vandforsyninger og til laboratoriers ansvarlige for, at vandprøver udtaget på vandværker påføres relevante og entydige koder ved indberetning af vandforsyningsdata i STANDAT formatet - i forhold til myndigheders og offentlighedens interesse i de indberettede data.
+ Lovpligtig/EU-relevant kontrol kontra driftskontrol.
+ Før indberetning af data til Jupiter databasen er det således vigtigt altid at gøre sig klart, om data senere skal kunne anvendes af myndigheder eller offentlighed, eller om der er tale om data, som udelukkende (medmindre der er overskridelser i lovpligtige parametre), skal anvendes af vandforsyningerne til driftskontrol.
+Der bør således altid skelnes imellem lovpligtig (jf. tilsynsbekendtgørelsen1) )/EU-relevant og ikke-lovpligtig (driftskontrol) indberetning af drikkevandsdata.
+Ved indberetning af resultater af prøver som følger af en ikke-lovpligtig kontrol skal altid anvendes »type-kode =2) driftskontrol (STD 00146)«, eller »andet«.
+Det anbefales, at de relevante koder for driftskontrol anvendes ved indberetningen af ikke-lovpligtige data.
+Tidligere har der ikke eksisteret en kode med betegnelsen »driftskontrol«, idet driftskontroldata i stedet er blevet indberettet som »andet«.
+Dette har ført til vanskeligheder i forbindelse med anvendelsen af data, hvorfor der nu er oprettet en selvstændig kode.
+De øvrige typekoder anvendes herefter til den lovpligtige indberetning, idet der dog stadig eksisterer en mulighed for at indberette i kategorien »andet« i særlige situationer, som hverken er lovpligtig kontrol med vandets kvalitet eller driftskontrol.
+Kvalitetskrav i den lovpligtige indberetning Kvalitetskravene ved den lovpligtige indberetning følger af bekendtgørelsens bilag 1a-d.
+Nedenstående liste3) angiver, hvilke STANDAT værdikoder (STD 000019), der skal anvendes ved indberetning af de enkelte kvalitetsparametre.
+Disse koder skal altid anvendes ved lovpligtig indberetning.
+Hvis disse koder anvendes i forbindelse med driftskontrol eller andre særlige situationer, hvor der ikke er tale om, at analyserne er en del af den lovpligtige kontrol angives dette ved under formål at angive »driftskontrol, xxx« (én af de 5 mulige koder for driftskontrol2)) eller »andet«.
+EU indberetning Danmark skal hvert 3. år offentliggøre en rapport om det danske drikkevands kvalitet, hvilket fremgår af Rådets direktiv nr. 98/83/EF af 3. november 1998 om kvaliteten af drikkevand, kendt som drikkevandsdirektivet.
+Direktivet er implementeret i Danmark gennem vandforsyningsloven (lovbekendtgørelse nr. 1026 af 20. oktober 2008) og tilsynsbekendtgørelsen.4) Indberetningen skal foretages for parametre og i formater defineret af EU.
+Nedenstående liste angiver sammenhængen imellem EU indberetningsparametre og STANDAT koderne.
+ Sammenhørende liste 1 over bekendtgørelsens kvalitetsparametre og STANDAT værdikoder (STD 00019 Stofparametre), som skal anvendes ved lovpligtig indberetning:
+1) Pt. bekendtgørelse 1449 af 11. december 2007, »Bekendtgørelse om vandkvalitet og tilsyn med vandforsyningsanlæg« 2) Lov om ændring af lov om vandforsyning m.v. og lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (Regulering af afgift til drikkevandsbeskytttelse m.v.) Ved vejledningens udarbejdelse er LBK nr. 935 af 24.september 2009 gældende.
+3) LBK nr. 660 af 14/06/2006 4) Yderligere informationer om ikke-almene vandforsyningsanlæg kan ses på: www.blst.dk/grunddrikkevand/drikkevand/små+vandforsyninger/02050000.htm 5) Pt.
+Gældende: Bekendtgørelse nr. 1353 af 11/12/2006 6) Lov om ændring af lov om vandforsyning m.v. og lov om miljømål m.v. for vandforekomster og internationale naturbeskyttelsesområder (Regulering af afgift til drikkevandsbeskytttelse m.v.) 7) Jf. §§ 22 og 23 i bekendtgørelse om udførelse og sløjfning af boringer og brønde på land (Nr.1000 af 26/7/2007) - Boringsbekendtgørelsen.
+1) Pt. bekendtgørelse 1449 af 11. december 2007, »Bekendtgørelse om vandkvalitet og tilsyn med vandforsyningsanlæg« 2) Idet der er 5 forskellige koder for driftskontrol under STD000146 Formål.
+Således 27 Driftskontrol, vandbehandling og 4 andre koder, der er afhængig af, hvilken vandkvalitet, der forventes fra den enkelte prøve (drikkevandskvalitet eller ikke-drikkevandskvalitet): 32 Driftskontrol, vandværk, drikkevandskvalitet, 33 Driftskontrol, ledningsnet, drikkevandskvalitet, 34 Driftskontrol, vandværk, ikke drikkevandskvalitet, 35 Driftskontrol, ledningsnet, ikke drikkevandskvalitet.
+ 3) Sammenhørende liste over bekendtgørelsens kvalitetsparametre og STANDAT værdikoder (STD 00019), som skal anvendes ved lovpligtig indberetning.
+ 4) Bekendtgørelse om vandkvalitet og tilsyn med vandforsyningsanlæg nr. 1449 af 11. december 2007.

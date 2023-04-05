@@ -1,0 +1,807 @@
+ Dette er hæfte nr. 4 i en serie på 28 om reglerne for fagene i gymnasiet.  
+
+ Det inderholder de bestemmelserne om datalogi, som er fastsat i § 5 i  
+
+ bekendtgørelse af 4. november 1987 om fagene i gymnasiet (* 1). Desuden  
+
+ indeholder hæftet de vejledende retningslinier for faget.
+Vejledende retningslinier Datalogi Indledning Det centrale i formålsformuleringen er, at eleverne skal opnå en  
+
+ datalogisk indsigt, som kombinerer teoretisk forståelse, praktiske  
+
+ færdigheder og generel viden.
+ Undervisningen i datalogi skal generelt bidrage med et fagligt grundlag  
+
+ for elevernes deltagelse såvel i kultur- og samfundslivet som i videre  
+
+ uddannelse, og den skal medvirke til at udvikle elevernes abstraktionsevne og  
+
+ kreativitet.
+Undervisningen i datalogi skal ses i sammenhæng med og fortsættelse af  
+
+ gymnasiets obligatoriske edb-undervisning, hvor eleverne i fælleskurset bl.a.  
+
+ opnår fortrolighed med at anvende datamater og får forståelse af elementære  
+
+ datalogiske begreber i tilknytning hertil.
+I datalogiundervisningen sættes  
+
+ disse forkundskaber ind i en faglig sammenhæng.
+Undervisningen skal udbygge  
+
+ elevernes kendskab til datalogiens begreber, teorier, metoder og deres  
+
+ anvendelse, og dette skal sammen med de øvrige fags bidrag til den  
+
+ obligatoriske edb- undervisning give eleverne et bredt, samlet kendskab til  
+
+ informationsbehandling og dennes rolle i det moderne samfund.
+Undervisningens indhold Generelle bemærkninger:
+Undervisningen skal tilgodese både den teoretiske og den praktiske side af  
+
+ faget.
+For den teoretiske side sker det ved, at eleverne får kendskab til en  
+
+ række grundlæggende begreber, metoder og teknikker ved beskæftigelse med  
+
+ generelle datalogiske problemstillinger.
+For den praktiske side sker det ved,  
+
+ at eleverne får fortrolighed med brug af datamater ved løsning af konkrete  
+
+ datalogiske problemstillinger.
+Mens det praktiske indhold i undervisningen naturligt beskrives i  
+
+ tilknytning til de enkelte emner i vejledningen, har undervisningen et  
+
+ overordnet, teoretisk indhold, som med fordel kan uddybes i sammenhæng.
+Dette  
+
+ indhold omfatter begreberne  information, struktur,  proces og  
+
+model, som specielt i datalogi spiller en vigtig rolle på flere  
+
+ forskellige planer:
+ * Selve datamaten kan anskues fra en sådan overordnet synsvinkel: Den er  
+
+ eksempel på, hvordan en samling elektroniske komponenter kan organiseres til  
+
+ en struktur af simple fysiske informationsbærere, som sammen med fysiske  
+
+ processer til at bearbejde strukturen kan udgøre et ydedygtigt, generelt  
+
+ informationsbehandlingsværktøj.
+* For at kunne drage nytte af datamaten som værktøj må man beskrive de  
+
+ strukturer og processer, der organiserer datamatens ressourcer i forhold til  
+
+ de opgaver, man ønsker løst.
+Beskrivelsen kan antage flere forskellige  
+
+ former, men oftest består den af et program i et passende  
+
+ programmeringssprog, eller den består i en specifik anvendelse af et generelt  
+
+ værktøjsprogram.
+* Programmeringssprog og værktøjsprogrammel er karakteriseret ved at  
+
+ indeholde nogle indbyggede primitiver til repræsentation af information og  
+
+ til beskrivelse af simple processer.
+Hertil kommer mekanismer til at  
+
+ sammensætte og strukturere sådanne primitiver til større enheder, der er mere  
+
+ ydedygtige og dermed mere hensigtsmæssige.
+* De overordnede begreber optræder desuden i forbindelse med  
+
+ problemløsning ved datalogiske metoder, nemlig i problemformuleringen,  
+
+ problemanalysen og programmeringen.
+Det drejer sig her om at organisere  
+
+ tankegange på en sådan måde, at strukturer og processer træder klart frem som  
+
+ kernen i løsningen på et aktuelt problem.
+Resultatet danner basis for  
+
+ konstruktionen af en model, som formuleres i et formaliseret sprog.  
+
+ Problemformuleringen og problemanalysen handler dermed mest om at  
+
+ identificere strukturer og processer i en konkret problemstilling, mens  
+
+ programmeringen mest går ud på at formulere dem hensigtsmæssigt i et konkret  
+
+ sprog.
+ Undervisningen omfatter følgende områder:
+ Problembeskrivelse og formalisering.
+ Programmering.
+ Datamatens struktur.
+ Programmer og sprog.
+ Valgfrit emne.
+ Kort udtrykt er hovedindholdet i de enkelte områder og den indbyrdes  
+
+ sammenhæng mellem dem følgende:
+ * Problembeskrivelse og formalisering vedrører den arbejdsproces, der  
+
+ består i at strukturere og formalisere en konkret problemstilling med henblik  
+
+ på løsning vha. et passende, datamatbaseret værktøj.
+ * Programmering handler om fremstilling af programmer i et  
+
+ velstruktureret, højere programmeringssprog, herunder (hierarkiske)  
+
+ strukturer af programmoduler.
+ * Datamatens struktur handler om selve datamatens strukturer og processer.
+ Tilsammen repræsenterer disse tre områder en progression gennem niveauer,  
+
+ der fører eleverne hele vejen fra en mere eller mindre kompliceret,  
+
+ ustruktureret situation til datamatens fysiske virkelighed.
+ * Programmer og sprog behandler programmeringssprog og naturlige sprog, og  
+
+ sammenhængen mellem dem.
+ I dette område er man tilbage på det overordnede niveau og møder her nogle  
+
+ principielle begrænsninger i mulighederne for formalisering.
+ * Valgfrit emne kan disponeres efter lærers og elevers forudsætninger og  
+
+ interesser.
+ Dette område giver f.eks. muligheder for at arbejde videre med de aspekter  
+
+ i de øvrige områder, som lærer og elever har fundet mest interessante.
+ Problembeskrivelse og formalisering:
+Området skal være den konkrete introduktion til faget.
+Elevernes  
+
+ forskellige erfaringer fra fælleskurset og den fagintegrerede del af  
+
+ edb-undervisningen skal samles og uddybes eller forøges med endnu et  
+
+ overskueligt eksempel på anvendelse af færdige datamatiske systemer.  
+
+ Erfaringsmaterialet skal bruges som baggrund for en indledende diskussion om  
+
+ de krav til problemformulering, problemanalyse og formalisering, som skal  
+
+ være opfyldt, for at et problem kan løses ved datalogiske metoder.
+ Herefter består undervisningen i, at eleverne i en sammenhængende periode  
+
+ arbejder med et fælles projekt, hvor problemformulering, problemanalyse og  
+
+ formalisering indgår.
+Emnet for projektet skal være egnet til at illustrere disse  
+
+ arbejdsprocesser, det skal være velkendt og opleves som relevant af eleverne,  
+
+ og det skal være af en sådan art, at en ikke-triviel løsning faktisk kan  
+
+ realiseres.
+Eksempler på emner er: 1)  registrering (f.eks. af  
+
+ personlige oplysninger om eleverne på holdet), 2) etablering af en  
+
+ vidensbase, som alle skal bidrage til og kunne drage nytte af (f.eks. en  
+
+ fælles informationssamling til brug for at skrive dansk stil), 3)  
+
+etablering af en simpel simulationsmodel inden for et felt, som  
+
+ eleverne på holdet finder interessant og vedkommende (f.eks. et økologisk  
+
+ system).
+Det datamatbaserede værktøj kan være et regneark, et databasesystem, en  
+
+ ekspertsystemskal eller et logikprogrammeringssprog.
+Kravene til det er, at  
+
+ programmellet er egnet til at illustrere fundamentale datalogiske begreber,  
+
+ og at det findes i en sådan udformning, at et tidkrævende arbejde med at lære  
+
+ betjeningen af programmellet ikke er nødvendigt.
+Samtidig med dette overvejende praktiske forløb skal elevernes egne  
+
+ oplevelser og erfaringer under arbejdsprocessen sættes ind i en større  
+
+ sammenhæng.
+Dette sker, ved at projektarbejdet ses i forhold til nogle af de  
+
+ lovmæssigheder, der gælder for gennemførelse af edb-projekter i stor skala og  
+
+ under realistiske omstændigheder.
+ Programmering:
+ Undervisningen i programmering skal sikre, at eleverne har et operativt  
+
+ kendskab til denne centrale disciplin i faget, og dermed et konkret  
+
+ erfaringsgrundlag, når man i den øvrige undervisning kommer ind på de  
+
+ væsentlige datalogiske begreber.
+For at opnå dette skal der udvælges et særligt egnet programmeringssprog  
+
+ som det gennemgående redskab i undervisningen, og der skal arbejdes så meget  
+
+ med en kerne af det, at eleverne bliver i stand til selv at skrive korrekte  
+
+ og forståelige programmer.
+Gode programmeringsvaner indøves dels ved, at  
+
+ eleverne løbende præsenteres for illustrative eksempler, dels ved at  
+
+ elevernes erfaring øges gennem passende øvelsesopgaver, der giver dem  
+
+ forståelse for det centrale i de generelle teknikker.
+Eleverne skal i denne  
+
+ forbindelse opnå fortrolighed med trinvis forfining.
+Begrebet  
+
+ programmel-hierarki skal afspejles i undervisningen, og kan eksempelvis  
+
+ realiseres vha. lag af rutinebiblioteker.
+Eleverne skal blive i stand til  
+
+ selv at oprette/udbygge sådanne biblioteker.
+Udover de nævnte generelle programmeringsteknikker skal elevene kende  
+
+ nogle grundlæggende datastrukturer og algoritmer.
+Det er poster, tabeller,  
+
+ lister, træer, eksempler på algoritmer til gennemløb og manipulation af  
+
+ datastrukturerne samt enkelte algoritmer til søgning og sortering.
+Programmeringssproget skal støtte de ovenfor omtalte generelle teknikker  
+
+ (trinvis forfining, hierarkier), lige som det skal være bekvemt at realisere  
+
+ de grundlæggende datastrukturer og algoritmer i det.
+Undervisningen i det  
+
+ konkrete sprog begrænses til sprogets fundamentale dele.
+For sædvanlige  
+
+ imperative sprog er det programstrukturerne: tildeling, sekvens, iteration,  
+
+ selektion (rekursive) procedurer og funktioner, samt en kerne af sprogets  
+
+ typebegreb og eventuelle procesbegreb.
+Svarende til det valgte programmeringssprog skal der benyttes et  
+
+ programudviklingssystem med omgivelser, som gør elevernes arbejde ved  
+
+ fremstilling og afprøvning af programmer lettest muligt, dvs. brugervenlige  
+
+ redigerings-, overvågnings- og fejlfindingsfaciliteter o.l.
+Det må anbefales,  
+
+ at redigeringsfaciliteten indeholder syntaksstyring.
+Der skal lægges vægt på den enkelte elevs selvstændige arbejde med  
+
+ programmering.
+Det kan foregå ved individuel løsning af mindre  
+
+ øvelsesopgaver, og det kan ske gennem bidrag til gruppearbejder, hvor  
+
+ eleverne sammen udarbejder lidt større programmer.
+Den indledende undervisning kan med fordel baseres på programbiblioteker,  
+
+ der indeholder et lille udvalg af gode, veldokumenterede rutiner til  
+
+ tekstbehandling, grafik eller lignende.
+Det indebærer den pædagogiske fordel,  
+
+ at selv små elevfremstillede programmer kan udrette noget ikke-trivielt, og  
+
+ det er således med til at øge elevernes motivation til selv at udvikle  
+
+ sådanne biblioteker.
+Når programmeringssproget/programudviklingssystemet opfylder  
+
+ undervisningens krav om hensigtsmæssighed, vil det normalt rumme faciliteter,  
+
+ som rækker langt ud over den valgte kerne.
+Tiden tillader ikke, at der  
+
+ undervises i alle sådanne ekstra faciliteter, ligesom det ikke er nødvendigt,  
+
+ at eleverne behersker alle mulige varianter af samme grundlæggende struktur  
+
+ som f.eks. kontrolstrukturerne for repetition.
+ Datamatens struktur:
+Undervisningen i dette område skal give eleverne forståelse af, hvordan  
+
+ det i princippet går til, at en datamat kan fungere.
+Eleverne skal  
+
+ præsenteres for den basale model for datamater, og det skal gøres klart for  
+
+ dem, at dens princip er universelt i den forstand, at alle datamater - lige  
+
+ fra regnecentrenes største superdatamater til de simpleste mikrodatamater i  
+
+ legetøj - kan simuleres af denne simple mekanisme.
+ Undervisningen skal endvidere behandle samspillet mellem programmel og  
+
+ maskinel, dvs. fortrinsvis arten af datamatens systemprogrammel og dets  
+
+ samspil med det traditionelle maskinsprogsniveau.
+ Undervisningen kan tage udgangspunkt i det traditionelle  
+
+ maskinsprogsniveau, dvs. at den indledes med det postulat, at teknikere kan  
+
+ bygge elektriske kredsløb, der fortolker symbolfølger som kommandoer og data  
+
+ i overensstemmelse med fastlagte regler.
+Den fundamentale model for datamater (Babbage, von Neumann) præsenteres.  
+
+ Modellen kan med fordel illustreres ved simulering af en simpel  
+
+ maskinarkitektur på skolens datamater.
+Simulation er tilstrækkelig til at  
+
+ belyse de grundlæggende principper, og det giver samtidig let adgang til en  
+
+ overskuelig arkitektur, der er velegnet i forbindelse med konkrete øvelser i  
+
+ maskinsprogsprogrammering.
+Eleverne skal prøve at skrive simple programmer på  
+
+ maskinsprogsniveau, og de skal opnå en sikker forståelse af dualiteten mellem  
+
+ program og data, således som den manifesterer sig på dette  
+
+ programmeringsniveau.
+Men det er ikke meningen, at eleverne skal lære at  
+
+ beherske programmering i symbolsk maskinsprog.
+Dernæst skal den fundamentale hierarkiide (som går igen fra område 2.  
+
+ Programmering) belyses vha. datamatens forskellige niveauer.
+Eleverne skal  
+
+ lære, hvilken rolle forskellige typer af (system)programmer spiller i den  
+
+ samlede arkitektur, og de skal vide, hvilke opgaver programmerne varetager,  
+
+ samt hvordan de i princippet fungerer.
+Følgende typer af programmel skal  
+
+ behandles: startprogram (booter), operativsystem, oversætter/fortolker,  
+
+ værktøjsprogrammel.
+Man kan også her basere undervisningen på en model af en  
+
+ simpel maskinarkitektur, hvortil der er udviklet modeller af de pågældende  
+
+ systemprogrammer.
+Sådanne findes til forskellige typer datamater i skolen.
+ Programmer og sprog:
+ Det overordnede indhold i dette område angår nogle af de principielle  
+
+ og/eller praktiske muligheder og begrænsninger for anvendelse af datamater.  
+
+ Undervisningen skal give eleverne baggrund for at deltage i diskussioner  
+
+ herom ud fra et datalogisk synspunkt.
+Undervisningen kan tage udgangspunkt i spørgsmålet om formalisering af  
+
+ naturlige sprog, f.eks. med henblik på at få maskiner til at  
+
+ »forstå« naturligt sprog, herunder at oversætte fra et sprog til et  
+
+ andet.
+Her behandles fundamentale problemer omkring tvetydighed, betydningens  
+
+ afhængighed af den givne sammenhæng (kontekst) o.l.
+Vanskeligheden ved at formalisere naturligt sprog står i skarp kontrast  
+
+ til programmeringssprog, hvor såvel syntaks som semantik er formaliseret.  
+
+ Eleverne skal i undervisningen stifte bekendtskab med formelle grammatikker,  
+
+ og det skal fremgå, hvilken rolle disse spiller for oversættere og  
+
+ fortolkere.
+Principperne kan f.eks. illustreres ved at gennemgå, hvordan  
+
+ karakteristiske konstruktioner i højere programmeringssprog kan oversættes  
+
+ til konstruktioner på et lavere niveau.
+Semantisk definition af programmeringssprog behandles på det intuitive  
+
+ plan, men undervisningen skal understrege, at netop fastlæggelsen af  
+
+ semantikken er grundlaget for at få præcise svar på spørgsmål om korrekthed  
+
+ og effektivitet af programmer.
+Simple teknikker til at ræsonnere om  
+
+ programmer præsenteres.
+Det er velkendt for eleverne (bl.a. fra område 3. Datamatens struktur), at  
+
+ en datamat kun kan løse opgaver, der kan formaliseres, dvs. reduceres til et  
+
+ spørgsmål om symbolmanipulationer.
+Selv om man indskrænker sig til at se på  
+
+ formaliserbare problemer, er der imidlertid mange, der ikke kan løses af  
+
+ datamater, hverken principielt eller i praksis.
+Undervisningen skal komme ind  
+
+ på denne problematik, og der skal gives eksempler på problemer, som er  
+
+ algoritmisk uløselige eller praktisk uoverkommelige.
+Undervisningen skal gøre det klart for eleverne, at der findes mange  
+
+ forskellige programmeringssprog, som hver især udmærker sig ved at være gode  
+
+ til bestemte ting, men som også er ækvivalente i den forstand, at man i  
+
+ princippet kan realisere de samme algoritmer i dem alle.
+Dette kan  
+
+ illustreres med passende valgte eksempler.
+ Valgfrit emne:
+Arbejdet med det valgfrie emne kan organiseres som et forløb, hvor holdet  
+
+ samlet behandler et udvalgt emne.
+Arbejdet kan også forløbe med eleverne delt  
+
+ op i grupper.
+Såfremt der arbejdes i grupper kan gruppernes arbejde være led  
+
+ i et fælles overordnet emne, eller emnerne kan være forskellige fra gruppe  
+
+ til gruppe.
+Det skal være et led i forberedelsen af arbejdet med det valgfrie emne, at  
+
+ der sker en afgrænsning af emnet for at sikre en rimelig fordybelse.
+I denne  
+
+ forbindelse skal man være opmærksom på, at et ambitiøst emnevalg ofte vil  
+
+ resultere i en alt for bred og dermed overfladisk emnebehandling.
+Emnets  
+
+ forbindelse med den obligatoriske undervisning skal belyses.
+Elevernes valg  
+
+ af emne skal godkendes af læreren.
+Hvis arbejdet med det valgfrie emne organiseres som gruppearbejder, kan  
+
+ elever med fælles fag danne grupper med henblik på tværfagligt samarbejde.  
+
+ Der er således gode muligheder for at samarbejde om konkrete emner af  
+
+ overvejende teknisk art med de matematisk naturvidenskabelige fag.
+Der er  
+
+ tilsvarende gode muligheder for at samarbejde om behandlingen af forskellige  
+
+ datalogiske anvendelsesmuligheder med de humanistiske og/eller  
+
+ samfundsvidenskabelige fag.
+Almindelige bestemmelser Undervisningens tilrettelæggelse:
+ Undervisningen omfatter følgende fem områder:
+1. Problembeskrivelse og formalisering (ca. 15%) 2. Programmering (ca. 35%) 3. Datamatens struktur (ca. 15%) 4. Programmer og sprog (ca. 15%) 5. Valgfrit emne (ca. 20%) Procentangivelserne i parentes angiver de enkelte om råders omtrentlige  
+
+ vægt i undervisningen.
+Nummereringen angiver ikke nødvendigvis kronologien i undervisningen.
+For  
+
+ at markere og udnytte datalogiundervisningens forbindelse med den  
+
+ obligatoriske edb-undervisning skal område 1. Problembeskrivelse og  
+
+ formalisering dog behandles først.
+ Hvis man vælger at tilrettelægge undervisningen med områderne i den  
+
+ anførte nummerorden, kan man med fordel bygge videre på den sammenhæng mellem  
+
+ områderne, som er omtalt under »Generelle bemærkninger« tidligere i  
+
+ denne vejledning.
+ Elevforudsætninger:
+ Undervisningen i datalogi skal ses i sammenhæng med den obligatoriske  
+
+ edb-undervisning, specielt fælleskurset, og bygge videre på de  
+
+ forudsætninger, som eleverne møder op med herfra.
+Det stiller særlige krav til undervisningen, når holdet består af elever  
+
+ med meget forskellige forudsætninger fra undervisningen i de øvrige fag i  
+
+ gymnasiet, f.eks. fra sproglig og matematisk linie og eventuelt også fra både  
+
+ 2. og 3.g.
+Endelig kræves der en særlig bevidst indsats fra lærerens side for  
+
+ at sikre, at undervisningen giver lige muligheder for piger og drenge -  
+
+ specielt i de sammenhænge, hvor undervisningen involverer arbejde ved  
+
+ datamater.
+Undervisningen skal tilrettelægges således, at emnevalg, indfaldsvinkler,  
+
+ undervisningsmateriale og undervisningsformer tager ligeligt hensyn til  
+
+ elevernes forudsætninger.
+Interesser hos en gruppe af elever med specielt  
+
+ kendskab til datamater og/eller programmering må ikke ensidigt præge  
+
+ undervisningen.
+ Arbejdsformer:
+Undervisningen skal overvejende bestå af konstruktivt og konkret arbejde  
+
+ med løsning af ikke-trivielle problemer.
+Faget er karakteriseret ved, at det  
+
+ er let at give eleverne erfaringer med at gennemføre alle problemløsningens  
+
+ faser og selv kontrollere, at det færdige resultat løser den stillede opgave.  
+
+ Valg af vekslende arbejdsformer skal især tilgodese elevernes muligheder for  
+
+ at udfolde denne form for kreativitet.
+Udover de faglige hensyn skal der ved valg af arbejdsformer tages hensyn  
+
+ til sammensætningen af det enkelte hold.
+Når et hold består af både sproglige  
+
+ og matematiske elever, skal læreren sikre, at elever fra begge linier kommer  
+
+ til orde.
+Det sker naturligt i klasseundervisningen, men det må også  
+
+ tilstræbes i vejledningen under gruppearbejder.
+Ved etableringen af grupper  
+
+ kan det undertiden være hensigtsmæssigt at anbefale en gruppesammensætning  
+
+ med sproglige elever i grupper for sig og matematiske elever i grupper for  
+
+ sig.
+Dette må imidlertid ikke opfattes som en generel regel, idet der vil  
+
+ være en række emner, hvor eleverne med den forskellige baggrund i de to  
+
+ linier kan styrke indlæringen i en frugtbar vekselvirkning.
+Læreren kan  
+
+ medvirke hertil ved at nedprioritere de traditionelt matematiske  
+
+ indfaldsvinkler til faget og i stedet satse på mere generelle aspekter  
+
+ (f.eks. ved i programmeringsundervisningen at beskæftige sig med analyse og  
+
+ bearbejdning af tekst frem for løsning af ligninger).
+ Klasseundervisning er naturligt i de sammenhænge, hvor nye emneområder  
+
+ skal gennemgås, generelle problemer udredes eller typiske træk i udarbejdede  
+
+ løsninger drøftes.
+ Ved siden af denne klasseundervisning er arbejde i mindre grupper den  
+
+ dominerende arbejdsform.
+ I nogle typer af gruppearbejde er arbejdet ved datamaterne  
+
+ hovedbeskæftigelsen. 1 sådanne tilfælde må det stærkt anbefales, at holdet  
+
+ deles i grupper bestående af to elever (undtagelsesvis tre), så hver enkelt  
+
+ elev får tilstrækkelig mulighed for at arbejde med datamaten.
+Lidt større grupper er hensigtsmæssigt i forbindelse med større  
+
+ projektopgaver.
+Arbejdet må her tilrettelægges, så man undgår, at en meget  
+
+ aktiv elev overtager arbejdet ved datamaten, og de øvrige elever i gruppen  
+
+ henvises til en passiv rolle.
+Arbejdet i disse grupper skal i almindelighed  
+
+ bestå af mere og andet end arbejde med maskinen, og det er her vigtigt at få  
+
+ gruppens arbejde struktureret.
+Det er et af formålene med undervisningen, at eleverne bliver i stand til  
+
+ at formulere sig skriftligt og mundtligt om datalogiske emner.
+Den skriftlige  
+
+ formulering bliver indlært f.eks. i forbindelse med rapportarbejdet.
+For at  
+
+ støtte færdighederne i mundtlig fremstilling kan man lade elevforedrag indgå  
+
+ i undervisningen.
+Det kan f.eks. ske ved at eleverne fremlægger resultater  
+
+ fra et gruppearbejde for holdet.
+I alle faglige sammenhænge, skriftlige såvel  
+
+ som mundtlige, skal man forsøge at præge elevernes arbejdsform med samme krav  
+
+ til klarhed, struktur og disciplin, som eleverne selv oplever i deres arbejde  
+
+ med datamaten.
+ Studieteknik:
+På et tidligt tidspunkt i forløbet skal eleverne gøres opmærksom på,  
+
+ hvorledes de mest hensigtsmæssigt deltager i undervisningen, og hvor  
+
+ tilegnelsen af viden og færdigheder er speciel for netop dette fag.
+Der skal  
+
+ gives råd om hjemmeforberedelsen, herunder teorilæsning og besvarelse af  
+
+ skriftlige opgaver - såvel øvelsesopgaver som rapportopgaver.
+En særlig  
+
+ indsats er påkrævet i forbindelse med den udstrakte anvendelse af leksikalsk  
+
+ litteratur som brugervejledninger til både maskinel og programmel.
+ Kontakt mellem undervisningen og arbejdslivet:
+Datamater og dermed datalogi optræder i et stort antal forskellige  
+
+ anvendelser, som berører de fleste menneskelige aktiviteter.
+Begge dele går  
+
+ ofte under fællesbetegnelsen edb, og når man blot er opmærksom på, at denne  
+
+ forskel i sprogbrug ofte er rent formel, er det let at identificere  
+
+ datalogiske anvendelsesområder i arbejdslivet.
+Det er bl.a. i »Vejledning til §7 edb-undervisning« omtalt,  
+
+ hvorledes de anvendelsesmæssige aspekter af datalogien kan behandles i  
+
+ undervisningen.
+Edb-relaterede virksomheds- og institutionsbesøg har her fået  
+
+ en særlig dybtgående omtale.
+Også i Direktoratets Tema-hefte nr. 8: »Praktik og andre  
+
+ kontaktformer mellem gymnasiet/HF og arbejdslivet.
+En vejledning.(1987)»  
+
+ kan man finde inspiration og praktiske anvisninger på sådanne aktiviteter.
+ Skriftligt arbejde:
+ Det konstruktive og kreative element har stor betydning overalt i  
+
+ undervisningen, og det skal specielt dyrkes i forbindelse med det skriftlige  
+
+ arbejde, såvel besvarelse af simple øvelsesopgaver som besvarelse af rapport  
+
+ opgaver.
+ En del af elevernes skriftlige arbejde skal udføres ved hjælp af skolens  
+
+ datamater eller dertil svarende udstyr.
+Rapporter Rapporterne er resultatet af dokumentationen af elevernes selvstændige  
+
+ arbejde med konkrete problemstillinger i en undervisningsperiode.
+Arbejdet  
+
+ med hver rapport skal være af et omfang svarende til 1-2 ugers  
+
+ undervisningstid, og rapportopgaver må altså ikke opfattes som  
+
+ »specialer«.
+Det betyder, at kravene til eleverne gradvis kan øges  
+
+ i takt med progressionen i undervisningen, så omfanget af rapportarbejdet med  
+
+ problemløsning og dokumentation gennemgående svarer til arbejdsbyrden i 1-2  
+
+ ugers undervisning i faget incl. forberedelse.
+I perioder med rapportarbejde  
+
+ skal eleverne altså ikke belastes med andet hjemmearbejde eller  
+
+ øvelsesopgaver.
+ Nogle af rapportopgaverne kan passende besvares af grupper på 3-4 elever.  
+
+ Især ved grupperapporter er en fyldestgørende dokumentation helt nødvendig  
+
+ for, at den enkelte deltager i gruppen kan sikres overblik over opgavens  
+
+ samlede løsning.
+En rapport udarbejdes i et integreret forløb, hvor dokumentationen  
+
+ udfærdiges samtidig med at arbejdet med løsningen skrider frem, således at  
+
+ arbejdets produkt i princippet foreligger, når løsningen er nået.
+Kun på  
+
+ denne måde får eleverne indblik i en rationel rapporteringsform og  
+
+ dokumentationsudarbejdelse.
+Eleverne skal i hvert enkelt tilfælde have  
+
+ præcise retningslinier for rapportens ind hold og opbygning, afhængigt af de  
+
+ krav, den stillede opgave lægger op til.
+Rapportopgaver skal have en  
+
+ sværhedsgrad, der er tilpasset det pågældende trin i undervisningen.
+Man kan  
+
+ - især ved de første opgaver - hjælpe eleverne godt på vej ved at udlevere en  
+
+ skitse af det mulige forløb med råd, vejledning og specifikation af kravene  
+
+ til dokumentation.
+Når en gruppe udarbejder en rapport, vil det ofte indebære, at gruppens  
+
+ deltagere udarbejder særskilte dele af den samlede rapport.
+Såfremt en sådan  
+
+ grupperapport indgår i eksamensopgivelserne, opgiver alle gruppedeltagerne  
+
+ den samlede rapport.
+Øvelsesopgaver Der udarbejdes skriftlige øvelsesopgaver i tilknytning til det gennemgåede  
+
+ stof.
+De udarbejdes normalt i klassen, og de kan variere i omfang og  
+
+ sværhedsgrad.
+ Eksamen:
+Eksamensopgivelserne Det præcise antal opgivne sider vil afhænge af de anvendte  
+
+ undervisningsmaterialer, f.eks. fremstillingens sværhedsgrad og bredde.  
+
+ Leksikalsk litteratur må kun indgå i begrænset omfang.
+Programtekster skal  
+
+ foreligge udskrevet på papir og kan endvidere foreligge i en form, som er  
+
+ elektronisk læsbar vha. de af skolens datamater, som er benyttet i  
+
+ undervisningen.
+Materialer, som eleverne selv har fremstillet, og som har  
+
+ indgået i undervisningen, kan også indgå i opgivelserne.
+Den mundtlige prøve Der skal være en datamat til rådighed såvel i forberedelsestiden som under  
+
+ eksaminationen, og det skal være af den type, som har været anvendt af  
+
+ eleverne i undervisningen.
+Hvis datamaterne indgår i et netværk, må netværket  
+
+ ikke benyttes af uvedkommende samtidigt med forberedelsestiden/eksaminationen  
+
+ i faget.
+Eksamensspørgsmålene skal dække det opgivne pensum.
+Hvert enkelt spørgsmål  
+
+ skal være udformet på en sådan måde, at det tydeligt fremgår, hvilket  
+
+ stofområde der er grundlag for eksaminationen.
+Hvert spørgsmål kan være  
+
+ udformet som angivelse af et relativt bredt emneområde efterfulgt af nogle  
+
+ stikord og forslag til fremgangsmåde.
+Sådanne stikord og forslag er  
+
+ imidlertid kun vejledende, og de er ikke bindende for eksaminanden.
+Materiale i form af tekster, figurer, diagrammer, programtekster eller  
+
+ dele heraf, eksempler o.l. kan vedlægges som bilag til spørgsmålet, men det  
+
+ skal klart fremgå, om materialet vil blive inddraget ved eksaminationen,  
+
+ eller om det står eksaminanden frit for at benytte det.
+Bilagene må ikke være  
+
+ udformet på en sådan måde, at eksaminanden finder anledning til at benytte  
+
+ forberedelsestiden til egentlig opgaveregning.
+ Såvel eksaminand som eksaminator kan inddrage datamaten i eksaminationen.  
+
+ Selve brugen af datamaten må dog kun optage en mindre del af  
+
+ eksaminationstiden.

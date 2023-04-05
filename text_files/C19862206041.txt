@@ -1,0 +1,94 @@
+ Studieplanen har virkning fra den 1. august 1986.
+ P.d.v.
+ e.b.
+Erik Nexelmann underv.insp.
+1. Modulets formål Valget af navnet »oversætterteknik« siger noget om intentionen  
+
+ med kurset:
+- kurset kunne ikke hedde »oversættere«, da dets hovedanliggende  
+
+ ikke er at informere om eksisterende oversættere - kurset kunne ikke hedde »oversætterkonstruktion«, da det ikke  
+
+ giver en sammenhængende opskrift på denne proces - kurset kunne ikke hedde »basisprogrammel«, da det ikke i  
+
+ særlig høj grad beskæftiger sig med de ydre betingelser, oversættere er  
+
+ underkastet Kurset hedder »oversætterteknik« fordi det focuserer på nogle  
+
+ karakteristiske teknikker og principper , man ofte benytter sig af i  
+
+ oversættere.
+Det er jo nok de færreste, der aktivt kommer til at beskæftige sig med at  
+
+ konstruere oversættere i ordets traditionelle betydning.
+Begrundelsen for at  
+
+ se på disse principper er derfor ikke så meget, at de findes i oversættere,  
+
+ men mere at de også er interessante i andre og mere generelle sammenhænge.
+ Her tænkes specielt på flg.:
+- udviklingen tyder på, at der fremover på mange områder vil blive stillet  
+
+ stadigt større krav til dialogkvalitet i retning af mere eller mindre  
+
+ »naturligt sprog« - der er tendens til en udbredelse af formelle værktøjer, der i større  
+
+ grad muliggør en præcis beskrivelse af data og databehandling Formålet med kurset er derfor primært at se på en række teknikker og  
+
+ principper, som har generelle anvendelsesmuligheder, og sekundært at se på,  
+
+ hvordan en oversætter fungerer.
+2. Hovedemner Kurset omfatter flg. hovedemner:
+1. Sprog 2. Grammatik 3. Leksikalsk analyse 4. Syntaksananlyse 5. Semantisk analyse 6. Fejlbehandling I det følgende beskrives disse hovedemner kort:
+2.1 Sprog Programmeringssprog kan designes efter mange og ofte indbyrdes  
+
+ modstridende kriterier, f.eks.: generalitet, effektivitet, læselighed,  
+
+ enkelhed o.s.v.
+ Den studerende skal sættes i stand til at forstå disse sammenhænge så  
+
+ vidt, at de vigtigste konsekvenser af et bestemt designvalg kan overskues.
+2.2 Grammatik Det vigtigste redskab til beskrivelse af et programmeringssprogs syntaks  
+
+ er grammatikken.
+Grammatikker kan inddeles i forskellige typer efter præcise  
+
+ kriterier, typen er afgørende for kompleksiteten af sproggenkendelsen.
+ Den studerende skal gøres fortrolig med grammatik-begrebet og sættes i  
+
+ stand til at typebestemme konkrete regulære, kontekstfri og kontekstfølsomme  
+
+ grammatikker.
+2.3 Leksikalsk analyse Et program består af en række »ord«, hvert af disse består igen  
+
+ af en række tegn.
+Den leksikalske analyse går ud på at genkende  
+
+ sammensætningen af tegn til ord.
+ Den studerende skal forstå og indøve de vigtigste metoder til leksikalsk  
+
+ analyse: deterministiske/nondeterministiske tilstandsautomater.
+2.4 Syntaksanalyse Den syntaktiske analyse går ud på at genkende ordenes sammensætning til et  
+
+ program.
+Der findes mange metoder til realisering af den syntaktiske analyse,  
+
+ disse kan groft inddeles i top-down- og bottom-up-metoder.
+ Den studerende skal forstå mindst en top-down- og en bottom-up-metode, og  
+
+ indøve mindst en af disse.
+2.5 Semantisk analyse Den semantiske analyse er genkendelsen af programmets betydning og  
+
+ realiseringen af denne betydning ved en oversættelse til noget kendt.
+ Den studerende skal sættes i stand til at integrere semantiske aktioner i  
+
+ grammatikken og til at vælge disse både med henblik på fortolkning og  
+
+ oversættelse.
+2.6 Fejlbehandling De tre nævnte analyser kan afsløre fejl, og herudover kan afsløres fejl  
+
+ når det oversatte program udføres.
+Problemet er at reagere hensigtsmæssigt på  
+
+ disse fejl, da de sjældent er entydige.
+ Den studerende skal forstå mindst 2 metoder til fejlbehandling.

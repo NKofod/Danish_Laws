@@ -1,0 +1,1176 @@
+Bekendtgørelse  
+
+ om Lægemiddelstyrelsens register over  
+
+  
+
+ Personlige Elektroniske Medicinprofiler (Medicinprofilen) I medfør af § 7 i, stk. 6 og § 30 a, stk. 3,  
+
+ i lov om offentlig sygesikring, jf. lovbekendtgørelse nr. 509 af 1. juli  
+
+ 1998,  
+
+ som ændret bl.a. ved lov nr. 378 af 28. maj 2003  
+
+ og lov nr. 1431 af 22. december 2004, fastsættes:
+ § 1.  
+
+  
+
+ Lægemiddelstyrelsen  
+
+ fører et elektronisk register over oplysninger over de enkelte  
+
+ medicinbrugeres  
+
+ køb m.v. af lægemidler og hertil knyttede oplysninger (Personlige  
+
+ Elektroniske  
+
+ Medicinprofiler), jf. sygesikringslovens § 7 i.
+ Stk. 2.  
+
+  
+
+ Registeret  
+
+ indeholder oplysninger om følgende typer lægemidler:
+1)  
+
+ 	  
+
+ lægemidler ordineret  
+
+ på recept (receptserver), 2)  
+
+ 	  
+
+ lægemidler udleveret  
+
+ efter recept på apotek, 3)  
+
+ 	  
+
+ lægemidler udleveret  
+
+ på sygehus eller ambulatorium, og 4)  
+
+ 	  
+
+ andre lægemidler  
+
+ (medicinskab).
+Registerets opbygning § 2.  
+
+  
+
+ Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler indeholder oplysninger  
+
+ om  
+
+ personer, der 1)  
+
+ 	  
+
+ inden for de seneste  
+
+ 24 måneder har fået ordineret lægemidler på recept, 2)  
+
+ 	  
+
+ inden for de seneste 24 måneder har  
+
+ købt eller fået udleveret lægemidler efter recept på et apotek, 3)  
+
+ 	  
+
+ inden for de seneste  
+
+ 24 måneder har fået udleveret lægemidler på et sygehus eller ambulatorium, 4)  
+
+ 	  
+
+ er omfattet af en  
+
+ læges indberetning af cave som nævnt i stk. 5, og 5)  
+
+ 	  
+
+ har indberettet  
+
+ oplysninger i sit medicinskab, jf. § 12.
+ Stk. 2.  
+
+  
+
+ Registeret  
+
+ må indeholde oplysninger om lægers ordination på recept af lægemidler til  
+
+ personer  
+
+ omfattet af stk. 1, nr. 1.
+ Stk. 3.  
+
+  
+
+ Registeret  
+
+ må indeholde følgende oplysninger om apotekers ekspedition af lægemidler til  
+
+ personer omfattet af stk. 1, nr. 2:
+ 1)  
+
+ 	  
+
+ Ekspeditionsstedets  
+
+ P-nummer.
+ 2)  
+
+ 	  
+
+ Ekspeditionsnummer  
+
+ (gældende for den enkelte recept) og ordinationsnummer (gældende for den  
+
+ enkelte ordination).
+ 3)  
+
+ 	  
+
+ Ekspeditionstidspunkt,  
+
+ jf. § 9, stk. 1.
+ 4)  
+
+ 	  
+
+ Personens CPR-nummer  
+
+ eller et entydigt identifikationsnummer og fødselsdato, jf. stk. 8.
+ 5)  
+
+ 	  
+
+ Ekspedientens  
+
+ brugeridentifikation.
+ 6)  
+
+ 	  
+
+ Lægens ydernummer.
+ 7)  
+
+ 	  
+
+ Lægens  
+
+ autorisationsidentifikator.
+ 8)  
+
+ 	  
+
+ Varenummer og antal af  
+
+ det pågældende varenummer.
+ 9)  
+
+ 	  
+
+ Fritekst, der er  
+
+ relevant i forbindelse med ekspedition af recepten og udlevering af  
+
+ lægemidlet.
+ 10)  
+
+ 	  
+
+ Ordinationens  
+
+ doseringskode.
+ 11)  
+
+ 	  
+
+ Ordinationens  
+
+ doseringstekst.
+ 12)  
+
+ 	  
+
+ Ordinationens  
+
+ indikationskode.
+ 13)  
+
+ 	  
+
+ Ordinationens indikationstekst.
+ 14)  
+
+ 	  
+
+ Ekspeditionstype.
+ 15)  
+
+ 	  
+
+ Tilbagetræk af  
+
+ ekspedition.
+ Stk. 4.  
+
+  
+
+ Registeret  
+
+ må indeholde følgende oplysninger om sygehuses og ambulatoriers udlevering af  
+
+ lægemidler til personer omfattet af stk. 1, nr. 3:
+ 1)  
+
+ 	  
+
+ Udførende enheds-ID.
+ 2)  
+
+ 	  
+
+ Indberetningstidspunkt.
+ 3)  
+
+ 	  
+
+ Personens CPR-nummer  
+
+ eller et entydigt identifikationsnummer.
+ 4)  
+
+ 	  
+
+ Drug-ID.
+ 5)  
+
+ 	  
+
+ Dosismængde og  
+
+ enhed.
+ 6)  
+
+ 	  
+
+ Tidspunktet for  
+
+ påbegyndelse og afslutning af behandling med det pågældende drug-ID.
+ Stk. 5.  
+
+  
+
+ Registeret  
+
+ må indeholde følgende oplysninger om lægers indberetning af cave for personer  
+
+ omfattet af stk. 1, nr. 4:
+ 1)  
+
+ 	  
+
+ Lægens ID  
+
+ (autorisationsidentifikator eller CPR-nummer).
+ 2)  
+
+ 	  
+
+ Personens CPR-nummer.
+ 3)  
+
+ 	  
+
+ Drug-ID.
+ 4)  
+
+ 	  
+
+ ATC-kodeniveau.
+ 5)  
+
+ 	  
+
+ Fritekst om cave.
+ 6)  
+
+ 	  
+
+ Indberetningstidspunkt.
+ 7)  
+
+ 	  
+
+ Status for cave (aktiv/inaktiv).
+ Stk. 6.  
+
+  
+
+ Registeret  
+
+ må indeholde følgende oplysninger om personer  
+
+ i hvis medicinskab, der er indberettet oplysninger, jf.  
+
+ stk. 1, nr. 5, og  
+
+ § 12:
+ 1)  
+
+ 	  
+
+ Personens CPR-nummer.
+ 2)  
+
+ 	  
+
+ Identifikation af  
+
+ lægemidlet - Drug-ID/fritekst.
+ 3)  
+
+ 	  
+
+ Fritekst.
+ 4)  
+
+ 	  
+
+ Indberetningstidspunkt.
+ 5)  
+
+ 	  
+
+ Indberetter.
+ Stk. 7.  
+
+  
+
+ Registeret  
+
+ må indeholde følgende oplysninger om personer, hvor den kommunale  
+
+ hjemmesygepleje,  
+
+ herunder plejehjem, har indberettet bemærkninger om personens  
+
+ lægemiddelanvendelse:
+ 1)  
+
+ 	  
+
+ Personens CPR-nr.
+ 2)  
+
+ 	  
+
+ Fritekst.
+ 3)  
+
+ 	  
+
+ Indberetningstidspunkt.
+ Stk. 8.  
+
+  
+
+ Hvis en  
+
+ person, der er omfattet af sygesikringsloven, ikke har et CPR-nummer,  
+
+ erstattes  
+
+ CPR-nummeret med et entydigt identifikationsnummer, der tildeles automatisk.
+ Stk. 9.  
+
+  
+
+ Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler indeholder oplysninger  
+
+ om  
+
+ alle anvendelser af oplysningerne (logning).
+ § 3.  
+
+  
+
+ Følgende  
+
+ har adgang til at indlægge oplysninger i registeret:
+1)  
+
+ 	  
+
+ apotekere og fagligt  
+
+ uddannet personale på apoteket, 2)  
+
+ 	  
+
+ sygehuse og  
+
+ ambulatorier, 3)  
+
+ 	  
+
+ læger, der har  
+
+ patienten i behandling, 4)  
+
+ 	  
+
+ den kommunale  
+
+ hjemmesygepleje, herunder plejehjem, når betingelserne i § 4a er  
+
+ opfyldt.
+5)  
+
+ 	  
+
+ den registrerede  
+
+ selv, og 6)  
+
+ 	  
+
+ Lægemiddelstyrelsen.
+Adgang til registeret § 4.  
+
+  
+
+ Lægen  
+
+ har adgang til de i § 2, stk. 2 - 5, nævnte oplysninger, for  
+
+ patienter, som lægen aktuelt har i behandling, og hvor oplysningerne er  
+
+ nødvendige af hensyn til behandlingen.
+Oplysningerne må alene anvendes med  
+
+ henblik på at sikre kvaliteten, sikkerheden og effekten af medicinbrugerens  
+
+ lægemiddelanvendelse.
+Lægen kan delegere adgangsretten til sin medhjælp.
+§ 4a.  
+
+  
+
+ Den kommunale hjemmesygepleje, herunder plejehjem, har adgang til de i  
+
+ § 2, stk. 2-7, nævnte oplysninger, når patienten 1)  
+
+ 	  
+
+ har givet  
+
+ udtrykkeligt samtykke hertil, jf. § 5, stk. 3, 2)  
+
+ 	  
+
+ er visiteret til  
+
+ hjemmesygepleje, herunder plejehjem, i den pågældende kommune, og 3)  
+
+ 	  
+
+ adgangen er relevant  
+
+ i forhold til behandling eller pleje af patienten.
+§ 5.  
+
+  
+
+ Apotekeren har adgang til de i  
+
+ § 2, stk. 2, nævnte oplysninger, når adgangen er nødvendig for  
+
+ ekspedition af en ordination.
+Apotekeren kan delegere adgangsretten til  
+
+ fagligt  
+
+ uddannet personale på apoteket.
+Stk. 2.  
+
+  
+
+ Apotekeren  
+
+ har adgang til de i § 2, stk. 3 - 7, nævnte oplysninger, når  
+
+ medicinbrugeren har givet udtrykkeligt samtykke hertil, og adgangen er  
+
+ relevant  
+
+ i forhold til vejledningen af den pågældende medicinbruger.
+Oplysningerne må  
+
+ alene anvendes med henblik på at sikre kvaliteten, sikkerheden og effekten af  
+
+ medicinbrugerens lægemiddelanvendelse.
+Apotekeren kan delegere adgangsretten  
+
+ til fagligt uddannet personale på apoteket.
+ Stk. 3.  
+
+  
+
+ Ved  
+
+ udtrykkeligt samtykke forstås enhver frivillig, specifik og informeret  
+
+ viljestilkendegivelse, hvorved den registrerede indvilger i, at oplysninger,  
+
+ der vedrører den pågældende selv, gøres til genstand for behandling.  
+
+ Samtykket  
+
+ kan til enhver tid trækkes tilbage.
+ § 6.  
+
+  
+
+ Den  
+
+ registrerede har direkte elektronisk adgang til de i § 2, stk. 2-7,  
+
+ nævnte oplysninger, der er registreret om vedkommende og til den maskinelle  
+
+ registrering (logning) af alle anvendelser af de registrerede oplysninger jf.  
+
+ § 2,  
+
+ stk. 9, i overensstemmelse med reglerne i lov om personoplysninger.
+§ 7.  
+
+  
+
+ Lægemiddelstyrelsen  
+
+ og en eventuel operatør, der på Lægemiddelstyrelsens vegne fører  
+
+ Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler, har adgang til alle  
+
+ oplysninger  
+
+ i registeret, når dette er påkrævet af driftstekniske grunde eller følger af  
+
+ Lægemiddelstyrelsens forpligtelser m.v. som dataansvarlig.
+Oplysningerne må  
+
+ kun  
+
+ anvendes med henblik på at sikre registerets drift og datakvalitet.
+Stk. 2.  
+
+  
+
+ Lægemiddelstyrelsen  
+
+ overvåger løbende, at registerets oplysninger opdateres korrekt med de  
+
+ oplysninger, der indberettes fra apotekerne, lægerne, medicinbrugeren samt  
+
+ sygehusene og ambulatorierne.
+Lægemiddelstyrelsen sikrer løbende, at  
+
+ oplysningerne  
+
+ slettes i overensstemmelse med § 14.
+ Stk. 3.  
+
+  
+
+ Lægemiddelstyrelsen  
+
+ kontrollerer, at apotekerne samt sygehusene og ambulatorierne indberetter i  
+
+ overensstemmelse med § 9 og § 10.
+ § 8.  
+
+  
+
+ Ingen  
+
+ ud over de i §§ 4 - 7 nævnte har adgang til oplysningerne i  
+
+ Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler.
+Indberetning til registeret § 9.  
+
+  
+
+ Apoteket  
+
+ har pligt til at indberette de i § 2, stk. 3, nævnte oplysninger på  
+
+ det tidspunkt, hvor apoteket udleverer eller sender lægemidlet til  
+
+ medicinbrugeren.
+ Stk. 2.  
+
+  
+
+ Apoteket  
+
+ har pligt til at indberette de i § 2, stk. 2, nævnte oplysninger på  
+
+ det tidspunkt, hvor apoteket ekspederer recepten, hvis oplysningerne fremgår  
+
+ af  
+
+ en papir-, telefon- eller telefaxrecept.
+ Stk. 3.  
+
+  
+
+ Apoteket skal på opfordring fra personer,  
+
+ som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler, foretage nødvendige  
+
+ rettelser i Lægemiddelstyrelsens register over Personlige Elektroniske  
+
+ Medicinprofiler eller henvise personen til  
+
+ indberetteren eller  
+
+ Lægemiddelstyrelsen i de tilfælde, hvor  
+
+ apoteket ikke selv har den fornødne adgang til at foretage rettelserne.  
+
+ Apoteket har alene mulighed for at rette i oplysninger, som det pågældende  
+
+ apotek selv har indberettet.
+ Stk. 4.  
+
+  
+
+ Indberetning  
+
+ til Lægemiddelstyrelsens register over Personlige Elektroniske  
+
+ Medicinprofiler  
+
+ skal ske i overensstemmelse med de i bilag 1 fastsatte tekniske forskrifter.
+ § 10.  
+
+  
+
+ Sygehuset  
+
+ eller ambulatoriet har pligt til at indberette de i § 2, stk. 4,  
+
+ nævnte oplysninger senest på det tidspunkt, hvor medicinbrugeren udskrives  
+
+ fra  
+
+ sygehuset eller  
+
+ efter afslutning af  
+
+ hvert enkelt  
+
+ ambulatoriebesøg.
+Stk. 2.  
+
+  
+
+ Sygehuset  
+
+ eller ambulatoriet skal på opfordring fra personer, som har konstateret fejl  
+
+ i  
+
+ oplysninger om egen person i Lægemiddelstyrelsens register over Personlige  
+
+ Elektroniske Medicinprofiler, foretage nødvendige rettelser i  
+
+ Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler eller henvise personen  
+
+ til  
+
+ indberetteren eller  
+
+ Lægemiddelstyrelsen i de tilfælde, hvor sygehuset ikke selv har den fornødne  
+
+ adgang til at foretage rettelserne.
+Sygehuset eller ambulatoriet har alene  
+
+ mulighed for at rette i oplysninger, som det pågældende sygehus eller  
+
+ ambulatorium  
+
+ selv har indberettet.
+ Stk. 3.  
+
+  
+
+ Indberetning  
+
+ til Lægemiddelstyrelsens register over Personlige Elektroniske  
+
+ Medicinprofiler  
+
+ skal ske i overensstemmelse med de i bilag 2 fastsatte tekniske forskrifter.
+ § 11.  
+
+  
+
+ Lægen  
+
+ skal indberette de i § 2, stk. 2, nævnte oplysninger, når lægen  
+
+ udfærdiger en elektronisk recept.
+ Stk. 2.  
+
+  
+
+ Lægen kan  
+
+ indberette de i § 2, stk. 5, nævnte oplysninger (cave) samt  
+
+ ændringer  
+
+ heri.
+ § 11 a.  
+
+  
+
+ Den  
+
+ kommunale hjemmesygepleje, herunder plejehjem, kan indberette de i § 2,  
+
+ stk. 7, nævnte oplysninger samt ændringer heri.
+ Stk.  
+
+  
+
+    
+
+  
+
+ 2.  
+
+  
+
+ Den  
+
+ kommunale hjemmesygepleje, herunder plejehjem, skal på opfordring fra  
+
+ personer,  
+
+ som har konstateret fejl i oplysninger om egen person i Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler, foretage nødvendige  
+
+ rettelser i Lægemiddelstyrelsens register over Personlige Elektroniske  
+
+ Medicinprofiler eller henvise personen til Lægemiddelstyrelsen i de tilfælde,  
+
+ hvor den kommunale hjemmesygepleje, herunder plejehjem, ikke selv har den  
+
+ fornødne adgang til at foretage rettelserne.
+ § 12.  
+
+  
+
+ Medicinbrugeren  
+
+ og den kommunale hjemmesygepleje, herunder  
+
+ plejehjem,  
+
+ kan indberette de i § 2, stk. 6, nævnte oplysninger  
+
+ (medicinskab).
+ Stk. 2.  
+
+  
+
+ Medicinbrugeren kan til enhver tid slette foretagne indberetninger.
+ Samkøring, sletning mv.
+ § 13.  
+
+  
+
+ Oplysninger  
+
+ i Lægemiddelstyrelsens register over Personlige Elektroniske Medicinprofiler  
+
+ må  
+
+ ikke samkøres med oplysninger i andre offentlige eller private registre.
+ § 14.  
+
+  
+
+ Oplysninger  
+
+ i Lægemiddelstyrelsens register over Personlige Elektroniske Medicinprofiler,  
+
+ der er registreret om ordination af lægemiddel på recept til person, jf.  
+
+ § 2, stk. 2, skal slettes 2 år efter indberetningen til  
+
+ Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler.
+ Stk. 2.  
+
+  
+
+ Oplysninger  
+
+ i Lægemiddelstyrelsens register over Personlige Elektroniske Medicinprofiler,  
+
+ der er registreret om en persons enkelte lægemiddelkøb, jf. § 2,  
+
+ stk. 3, skal, med undtagelse af oplysningerne i § 2, stk. 3,  
+
+ nr.  
+
+ 4, slettes 2 år efter indberetningen til Lægemiddelstyrelsens register over  
+
+ Personlige Elektroniske Medicinprofiler, jf. dog stk. 1 og stk. 3 -  
+
+ 8.
+ Stk. 3.  
+
+  
+
+ Oplysningerne  
+
+ i § 2, stk. 3, nr. 4, der er registeret om en persons  
+
+ lægemiddelkøb,  
+
+ skal slettes 2 år efter det seneste registrerede lægemiddelkøb, der er  
+
+ indberettet til Lægemiddelstyrelsens register over Personlige Elektroniske  
+
+ Medicinprofiler, jf. dog stk. 1  2 og stk. 4 - 8.
+ Stk. 4.  
+
+  
+
+ Oplysninger  
+
+ i Lægemiddelstyrelsen Personlige Elektroniske Medicinprofiler, der er  
+
+ registreret  
+
+ om udlevering af lægemidler på et sygehus eller ambulatorium til en person,  
+
+ jf.  
+
+ § 2, stk. 4, skal med undtagelse af oplysningerne i § 2,  
+
+ stk. 4,  
+
+ nr. 3, slettes 2 år efter indberetningen til Lægemiddelstyrelsens register  
+
+ over  
+
+ Personlige Elektroniske Medicinprofiler.
+ Stk. 5.  
+
+  
+
+ Oplysningerne i § 2, stk. 4, nr. 3, der er registreret om  
+
+ udlevering  
+
+ af lægemidler på et sygehus eller ambulatorium, skal slettes 2 år efter den  
+
+ seneste udlevering af lægemidler, der er indberettet til Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler, jf. dog stk. 1  
+
+  4  
+
+ og stk. 6 - 8.
+ Stk. 6.  
+
+  
+
+ Oplysninger  
+
+ registreret i overensstemmelse med § 2, stk. 5, (cave), skal  
+
+ slettes  
+
+ senest 2 år efter, medicinbrugeren er afgået ved døden.
+ Stk. 7.  
+
+  
+
+ Oplysninger  
+
+ registreret i overensstemmelse med § 2, stk. 6, (medicinbrugerens  
+
+ medicinskab), skal slettes senest 2 år efter, medicinbrugeren er afgået ved  
+
+ døden, jf. dog § 12, stk. 2.
+ Stk. 8.  
+
+  
+
+ Oplysninger  
+
+ registreret i overensstemmelse med § 2, stk. 8, (logning), skal  
+
+ slettes 2 år efter, de er registreret i Lægemiddelstyrelsen Personlige  
+
+ Elektroniske Medicinprofiler.
+Straf § 15.  
+
+  
+
+ Medmindre  
+
+ højere straf er forskyldt efter anden lovgivning, straffes med bøde:
+1)  
+
+ 	  
+
+ den, der uberettiget  
+
+ indhenter, videregiver eller udnytter oplysninger i Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler efter §§ 4,  
+
+ 4a,  
+
+ 5 eller 7, 2)  
+
+ 	  
+
+ apotekere, der  
+
+ undlader at indberette oplysninger til Lægemiddelstyrelsens register over  
+
+ Personlige  
+
+ Elektroniske Medicinprofiler efter § 9, stk. 1, 3)  
+
+ 	  
+
+ apotekere, der  
+
+ undlader at korrigere urigtige oplysninger i Lægemiddelstyrelsens register  
+
+ over  
+
+ Personlige Elektroniske Medicinprofiler efter § 9, stk. 2, 4)  
+
+ 	  
+
+ sygehuse eller  
+
+ ambulatorier, der undlader at indberette oplysninger til Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler efter § 10,  
+
+ stk. 1, 5)  
+
+ 	  
+
+ sygehuse eller  
+
+ ambulatorier, der undlader at korrigere urigtige oplysninger i  
+
+ Lægemiddelstyrelsens  
+
+ register over Personlige Elektroniske Medicinprofiler efter § 10,  
+
+ stk. 2, 6)  
+
+ 	  
+
+ læger, der undlader  
+
+ at korrigere urigtige oplysninger i Lægemiddelstyrelsens register over  
+
+ Personlige  
+
+ Elektroniske Medicinprofiler efter § 11, stk. 2, og 7)  
+
+ 	  
+
+ den kommunale  
+
+ hjemmesygepleje, herunder plejehjem, der undlader at korrigere urigtige  
+
+ oplysninger  
+
+ i Lægemiddelstyrelsens register over Personlige Elektroniske Medicinprofiler  
+
+ efter  
+
+ § 11a, stk. 2.
+ Stk. 2.  
+
+  
+
+ Der kan  
+
+ pålægges selskaber mv. (juridiske personer) strafansvar efter reglerne i  
+
+ straffelovens 5. kapitel.
+Ikrafttræden § 16.  
+
+  
+
+ Bekendtgørelsen  
+
+ træder i kraft den 16. oktober 2006.
+ Stk. 2.  
+
+  
+
+ Sygehuse og  
+
+ ambulatorier kan indberette i medfør af § 10, men har først pligt til at  
+
+ indberette pr. 1. januar 2007.
+ Stk. 3.  
+
+  
+
+ Bekendtgørelse  
+
+ nr. 378 af 25. maj 2005 om Lægemiddelstyrelsens register over Personlige  
+
+ Elektroniske  
+
+ Medicinprofiler (PEM) ophæves.
+Indenrigs- og Sundhedsministeriet, den 2.  
+
+ oktober 2006 Lars Løkke Rasmussen /Paul Schüder Bilag 1 Feltoversigt: Apotekeres indberetning til  
+
+ Medicinprofilen Nr.
+Beskrivelse Type/længde Typiske værdimængder/ Validering/ Bemærkninger 1.
+ CPR-nr.
+Tekststreng, på 10 karakterer Personnummer 2.
+Fiktivt CPR-nr. (entydigt identifikationsnummer for personer  
+
+ uden CPR-nr.) Tekststreng på 10 karakterer Fiktivt Cpr-nr.
+ 3.
+Fødselsdato hvis fiktivt CPR-nr.
+Dato YYYY-MM-DD 4.
+Ekspeditionsstedets P-nummer 10 heltal mellem 0 og 9 5.
+Ekspeditionsnummer Numerisk værdi mellem 0 og  
+
+ 999999999999 6.
+Ordinationsnummer N2 Numerisk værdi mellem 0 og  
+
+ 999999999999999 7.
+Apotekstidsstempel N14 Dato og tidspunkt Dato og tidspunkt for udleveringen udtrykt på formen YYYY-MM-DDTTT:MM:SS Eksempel:
+1999-05-31T13:20:00 læses: 31. maj 1999 kl. 13.20 8.
+Ekspedientens brugeridentifikation AN8 Tekststreng på 1-10 karakterer Udfyldes med brugeridentifikation på den person, der udfører  
+
+ den funktion, der medfører indberetning af transaktionen.
+ 9.
+Ydernummer Tekststreng på 1-17 karakterer Feltet kan udfyldes på forskellig vis med ydernummer, erstatningskode  
+
+ eller sygehus/ afdelingskode.
+ 10.
+Autorisations- identifikator Tekststreg på 1-8 karakterer Lægens autorisationsnummer 11.
+Varenummer Numerisk værdi Varenummer på den solgte vare = Varenummer til Lægemiddelstatistik.
+Mellem 1 og  
+
+ 999999 12.
+Antal pakninger Heltal, minimum 1 Hvis indberetningen vedrører dosisdispensering, udfyldes  
+
+ antal pakninger med antal enheder.
+ 13.
+ Fritekst, der er relevant i forbindelse med ekspedition  
+
+ af recepten og udlevering af lægemidlet..
+Tekststreng på maksimum 245 karakterer 14.
+Doseringskode Tekststreng på 1-8 karakterer Feltet udfyldes med kode for dosering, når denne fremgår  
+
+ af recepten.
+ 15.
+Doseringstekst fra elektronisk recept Tekststreng på 1-70 karakterer 16.
+Indikationskode Tekststreng på 1-17 karakterer Feltet udfyldes med kode for indikation, når denne  
+
+ fremgår af recepten.
+ 17.
+Indikationstekst fra elektronisk recept Tekststreng på 1-70 karakterer 18.
+Ekspeditionstype Tekststreng på 2 karakterer Udfyldes med ekspeditionstype svarende til den ekspeditionstype,  
+
+ som apoteket indberetter til Lægemiddelstatistik Bilag 2 Feltoversigt: Sygehuses og ambulatoriers  
+
+ indberetning til Medicinprofilen Nr.
+Beskrivelse Type/længde N = Numerisk AN = Alfanumerisk Typiske værdimængder/ Validering/ Bemærkninger 1.
+ CPR nr.
+N10 CPR-nr. på den person indberetningen vedrører.
+Angives  
+
+ uden bindestreg.
+ 2.
+SKS kode for indberettende enhed AN20 Kode for den sygehusafdeling indberetningen stammer fra.
+ 3.
+Udtræks tidspunkt N14 Det tidspunkt oplysningerne er beregnet i EPJ systemet.
+YYYYMMDDTTMMSS 4.
+Rettet fra ID Ved ændring af en eksisterende indberetning angives ID  
+
+ for indberetningen der skal korrigeres.
+ Ellers tomt.
+ 5.
+Drug ID N11 Identifikation af det lægemiddel indberetningen omhandler.
+ 6.
+Total dosis mængde N20 Mængde af lægemidlet patienten har modtaget.
+ 7.
+Dosis enhed AN10 Enheden som den totale dosis mængde er angivet i.
+ 8.
+Behandlings start N14 Behandlingens starttidspunkt.
+YYYYMMDDTTMMSS 9.
+Behandlings slut N14 Behandlingens sluttidspunkt YYYYMMDDTTMMSS 10.
+ Erstatnings CPR nr.
+N10 Erstatnings CPR nr. hvorunder der tidligere er indberettet.
+xLLLnnnnnn, hvor x er 4, LLL en landekode og nnnnnn et  
+
+ løbenummer.
+Det fiktive CPR-nr. er modulus-11 korrekt.
+ 11.
+SKS kode for indberettende enhed AN20 Kode for den sygehusafdeling som ønsker at ændre  
+
+ erstatnings CPR nr. til et rigtigt CPR nr.
+Bilag 3 Visning af oplysninger om indberettet cave Nr.
+Beskrivelse 1.
+Indberetters navn og organisation 2.
+Dato for indberetning 3.
+Lægemiddel 4.
+ATC-kode og tekst for lægemiddel 5.
+Reaktion 6.
+Beskrivelse 7.
+Dato for sletning 8.
+Navn og organisation, der har slettet Bilag 4 Visning af oplysninger i borgerens medicinskab Nr.
+Beskrivelse 1.
+Dato 2.
+Præparat navn, form og styrke 3.

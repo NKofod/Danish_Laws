@@ -1,0 +1,1352 @@
+Cirkulære om statslige myndigheders aflevering af  
+
+  
+
+ elektroniske arkivsystemer til Statens Arkiver (til samtlige ministerier) I medfør af § 5, stk. 4-5, og § 12  
+
+ stk. 1 i bekendtgørelse nr. 554 af 31. maj 2001 om offentlige arkivalier  
+
+ og offentlige arkivers virksomhed fastsættes:
+Område § 1.  
+
+  
+
+ Bestemmelserne i dette cirkulære gælder for statslige myndigheder og  
+
+ domstolene.
+ Stk. 2.  
+
+  
+
+ Bestemmelserne i dette cirkulære gælder for aflevering af  
+
+ arkiveringsversioner  
+
+ af elektroniske arkivsystemer, herunder databaser, registre, elektroniske  
+
+ journalsystemer, elektroniske sags- og dokumenthåndteringssystemer  
+
+ (ESDH-systemer) samt elektroniske dokumenthåndteringssystemer (EDH-systemer).
+Arkiveringsmodel § 2.  
+
+  
+
+ Arkiveringsversioner skal afleveres med faste mellemrum efter en  
+
+ arkiveringsmodel,  
+
+ som fastsættes af Statens Arkiver, jf. bilag 1.
+Afleveringsmedie § 3.  
+
+  
+
+ Aflevering  
+
+ af arkiveringsversioner af elektroniske arkivsystemer til Statens Arkiver  
+
+ skal  
+
+ ske på CD-R-medie.
+ Stk. 2.  
+
+  
+
+ Enhver  
+
+ arkiveringsversion skal bestå af to sæt af CD-Rer med identisk  
+
+ dataindhold og  
+
+ navngivning, jf. stk.6.
+Stk. 3.  
+
+  
+
+ Disse to  
+
+ sæt af CD-Rer skal 1)  
+
+ 	  
+
+    
+
+ stamme fra  
+
+ forskellige produktionsserier, for så vidt der er tale om samme producent,  
+
+ eller 2)  
+
+ 	  
+
+    
+
+ stamme fra  
+
+ forskellige producenter.
+ Stk. 4.  
+
+  
+
+ CD-R, der  
+
+ anvendes til aflevering, skal være af god kvalitet, jf. bilag 2. CD-R skal  
+
+ brændes efter standarden ISO 9660:1988 level 1, jf. bilag 2. Data skal  
+
+ brændes  
+
+ som én session (singlesession CD-R).
+ Stk. 5.  
+
+  
+
+ CD-R  
+
+ emballeres i en klar plastkassette med uigennemsigtig bagside.
+Stk. 6.  
+
+  
+
+ CD-R  
+
+ navngives ved brænding med navn, bestående af 8 cifre, efter Statens Arkivers  
+
+ anvisning.
+Navnet skal desuden påtrykkes eller påføres hvert sæt af identiske  
+
+ CD-R med vandfast sort farve.
+Der må ikke anvendes mærkater, labels mv.
+Afleveringsdokumentation § 4.  
+
+  
+
+ Enhver arkiveringsversion skal indeholde generel information om det  
+
+ elektroniske arkivsystem, jf. bilag 3.
+Arkiveringsversion § 5.  
+
+  
+
+ Elektroniske  
+
+ arkivsystemer skal konverteres til systemuafhængige arkiveringsversioner i  
+
+ forbindelse med aflevering.
+Stk. 2.  
+
+  
+
+ Arkiveringsversionens tabeller og metadata skal benytte tegnsættet ifølge  
+
+ standarden ISO 8859-1:1987, Latin 1, jf. bilag 4 Stk. 3.  
+
+  
+
+ Arkiveringsversionens tabeller skal beskrives med datatyper som anført i  
+
+ standarden ISO 6093:1985 for datatyperne num, real, string og exp og som  
+
+ anført  
+
+ i standarden ISO 8601:1993 for datatyperne date, time og timestamp, jf. bilag  
+
+ 5.
+ Stk. 4.  
+
+  
+
+ Elektroniske  
+
+ dokumenter skal lagres i det grafiske bitmapformat TIFF, version 6.0, jf.  
+
+ bilag  
+
+ 6.
+ Stk. 5.  
+
+  
+
+ Egenproducerede og indkomne OCR-behandlede dokumenter skal, udover det i  
+
+ stk. 4 nævnte, lagres i en tekstversion efter standarden ISO  
+
+ 8859-1:1987,  
+
+ Latin 1, jf. bilag 4.
+ Stk. 6.  
+
+  
+
+ Lyd-sekvenser skal lagres efter standarden MP3 ISO 11172-3, jf. bilag 6.  
+
+ Videosekvenser skal lagres efter standarden MPEG2 ISO 13818-2, jf. bilag 6.
+ § 6.  
+
+  
+
+ I  
+
+ enhver arkiveringsversion skal indgå følgende:
+1)  
+
+ 	  
+
+    
+
+ hjælpetabeller 2)  
+
+ 	  
+
+    
+
+ generel information 3)  
+
+ 	  
+
+    
+
+ metadata 4)  
+
+ 	  
+
+    
+
+ arkivsystemets  
+
+ tabeller 5)  
+
+ 	  
+
+    
+
+ for så vidt angår  
+
+ EDH- og ESDH-systemer, dokumenter.
+ De enkelte dele skal navngives, placeres og lagres efter  
+
+ bestemmelserne i §§ 7-12, jf. i øvrigt anvisningerne i bilag 7.
+ § 7.  
+
+  
+
+ Den  
+
+ enkelte tabel i en arkiveringsversion lagres på én af følgende måder:
+1)  
+
+ 	  
+
+    
+
+ med fast længde på  
+
+ felter uden separatortegn af nogen art, idet længden angives i metadata, jf.  
+
+ bilag 9 eller 2)  
+
+ 	  
+
+    
+
+ med variabel længde  
+
+ på felter, idet længden af felter angives i en header og headerens længde  
+
+ angives i metadata jf. bilag 9.
+ Stk. 2.  
+
+  
+
+ Inden for  
+
+ den enkelte tabel må kun én af de i stk. 1 angivne former anvendes.
+ Stk. 3.  
+
+  
+
+ Feltlængden  
+
+ må ikke overstige 2048 tegn, jf. bilag 8.
+ § 8.  
+
+  
+
+ En  
+
+ arkiveringsversion må ikke indeholde krypteret information.
+ § 9.  
+
+  
+
+ En  
+
+ arkiveringsversion må ikke indeholde komprimeret information, jf. dog  
+
+ stk. 2.
+ Stk. 2.  
+
+  
+
+ Dokumenter,  
+
+ der lagres i TIFF, skal komprimeres, jf. anvisninger i bilag 6.
+ § 10.  
+
+  
+
+ En  
+
+ arkiveringsversion skal indeholde elektronisk dokumentation af arkivsystemets  
+
+ tabeller og relationer (metadata). Metadata skal genereres efter  
+
+ anvisningerne  
+
+ i bilag 9.
+ Stk. 2.  
+
+  
+
+ Der skal  
+
+ opmærkes særlige oplysninger for elektroniske journaler, EDH- og  
+
+ ESDH-systemer,  
+
+ jf. bilag 9.
+ § 11.  
+
+  
+
+ Arkiveringsversionens tabeller skal lagres som separate filer svarende til de  
+
+ enkelte tabeller i en relationel databasestruktur på 1. normalform eller  
+
+ højere, jf. dog stk. 2.
+ Stk. 2.  
+
+  
+
+ Arkiveringsversioner af hierarkiske databaser, der ikke umiddelbart lader sig  
+
+ omsætte i relationel form, fremstilles efter Statens Arkivers nærmere  
+
+ anvisning.
+§ 12.  
+
+  
+
+ Metadata  
+
+ for arkiveringsversioner af elektroniske journalsystemer, EDH- og  
+
+ ESDH-systemer  
+
+ skal indeholde søgestier (SQL-forespørgsler). Søgestierne skal genereres ud  
+
+ fra  
+
+ myndighedens anvendelse af det arkivsystem, der ligger til grund for  
+
+ arkiveringsversionen.
+Søgestierne skal beskrives ifølge anvisningerne i bilag  
+
+ 10.
+§ 13.  
+
+  
+
+ I  
+
+ en arkiveringsversion af et elektronisk arkivsystem skal alle nøglefelter  
+
+ have  
+
+ en entydig identifikator.
+Der må ikke forekomme situationer, hvor det er  
+
+ nødvendigt at uddrage dele af nøgler/felter for at forstå arkivsystemets  
+
+ indhold eller funktion.
+ § 14.  
+
+  
+
+ I  
+
+ en arkiveringsversion af et EDH- eller ESDH-system skal hvert dokument have  
+
+ en  
+
+ entydig identifikator.
+ Stk. 2.  
+
+  
+
+ Såfremt  
+
+ dokumenterne i et EDH- eller ESDH-system er lagret i en betydningsbærende  
+
+ struktur, skal denne struktur i arkiveringsversionen omdannes til en eller  
+
+ flere  
+
+ tabeller.
+ Stk. 3.  
+
+  
+
+ Systemets  
+
+ funktion til at sammenholde sagligt sammenhørende dokumenter skal overføres  
+
+ til  
+
+ arkiveringsversionen efter Statens Arkivers nærmere anvisning.
+§ 15.  
+
+  
+
+ Arkiveringsversioner af elektroniske arkivsystemer skal godkendes af Statens  
+
+ Arkiver.
+Data, der indgår i en arkiveringsversion, må ikke slettes hos  
+
+ myndigheden, før Statens Arkiver har godkendt arkiveringsversionen.
+Ikrafttrædelse § 16.  
+
+  
+
+ Cirkulæret  
+
+ træder i kraft den 15. marts 2002.
+ Stk. 2.  
+
+  
+
+ Cirkulære  
+
+ nr. 4 af 14. januar 2000 ophæves.
+Rigsarkivet, den 8. marts 2002 Johan Peter Noack Bilag 1 Arkiveringsmodeller Arkiveringsmodel for e-journaler, EDH- og  
+
+ ESDH-systemer Ved udløbet af arkivperioden skal der produceres en  
+
+ arkiveringsversion.
+For EDH- og ESDH-systemer omfatter denne også de  
+
+ elektroniske dokumenter.
+ Tabellen ARKVER.TAB skal i feltet AflType have værdien A,  
+
+ jf. bilag 7.
+ Hvis arkivperioderne forudses at være længere end 5 år, skal  
+
+ der træffes særlig aftale med Statens Arkiver om tidspunktet og måden for  
+
+ produktion  
+
+ af arkiveringsversion.
+Arkiveringsmodeller for registre Registre skal afleveres efter én af følgende modeller:
+Arkiveringsmodel 1 - engangsaflevering Gælder for registre,  
+
+ hvor der ikke længere rettes i eller tilføjes data.
+ I ARKVER.TAB skal  
+
+ feltet AflType have værdien 1, jf. bilag 7.
+Arkiveringsmodel 2 - fortløbende aflevering Gælder for registre,  
+
+ der har været periodeopdelt, typisk på årsbasis, og hvor der ikke rettes i  
+
+ eller tilføjes data.
+ Tabellen ARKVER.TAB  
+
+ skal i feltet AflType have værdien 2, jf. bilag 7.
+Arkiveringsmodel 3 - akkumulerende aflevering -  
+
+ øjebliksbillede Gælder for registre,  
+
+ der ikke kan periodeopdeles, og hvor der i stedet med jævne mellemrum  
+
+ afleveres  
+
+ et øjebliksbillede af hele registret.
+ Tabellen ARKVER.TAB  
+
+ skal i feltet AflType have værdien 3, jf. bilag 7.
+Bilag 2 CD-R 1. CD-R-kvalitet De nærmere anvisninger for god CD-R-kvalitet fremgår af  
+
+ Statens Arkivers hjemmeside www.sa.dk.
+2. Tilladt tegnsæt til navngivnin  
+
+  
+
+ g  
+
+  
+
+ af filer og biblioteker D-characters anvendt i ISO 9660:1988 level 1 (udsnit af  
+
+ DS/ISO 8859-1:1987):
+De tilladte tegn fremgår af de hvide felter Bilag 3 Afleveringsdokumentation Administrativ beskrivelse af systemet Dvs. elektroniske dokumenter som kan belyse:
+Hvorfor systemet er  
+
+ blevet oprettet.
+Det kan være fx lov, bekendtgørelse eller cirkulære.
+Hvordan systemet er  
+
+ blevet brugt.
+Det kan fx være eksempel på skema (med vejledning), der  
+
+ indtastes  
+
+ i systemet, administrativ vejledning i brug af systemet, fx journalvejledning  
+
+ eller instruks, eksempel på udskrift fra systemet fx standardbrev.
+Afleveringsbestemmelse Elektronisk version af Statens Arkivers  
+
+ afleveringsbestemmelse.
+Systemdokumentation Elektroniske dokumenter som kan belyse systemets struktur og  
+
+ funktionalitet.
+Fx:
+ Brugerhåndbog  
+
+  
+
+ (kaldes også brugervejledning eller  
+
+ brugermanual), der giver et samlet overblik over systemet og dets funktioner  
+
+ og  
+
+ i detaljer beskriver, hvordan brugeren skal anvende systemet.
+ Systemdiagrammer  
+
+  
+
+ som fx ER-diagrammer (Entitets- og  
+
+ relationsdiagrammer).
+ Skærmbilleder  
+
+  
+
+ (et udsnit af de væsentligste).
+Nogle af disse dokumenter er blevet til i forbindelse med  
+
+ udviklingen af systemet.
+Statens Arkiver er kun interesseret i dokumenter,  
+
+ som  
+
+ afspejler det færdigudviklede system.
+ Disse dokumenter skal lagres i TIFF format, som anført i § 5  
+
+ stk. 4. Hvis dokumenterne ikke indeholder grafik, kan de dog istedet lagres  
+
+ som  
+
+ tekstversion, som anført i § 5, stk. 5.
+Bilag 4 Tegnsæt DS/ISO 8859-1:1987 (Latin 1) De tilladte tegn fremgår af de hvide felter.
+Metadata og tekstversioner af dokumenter må desuden indeholde  
+
+ tegnene/styrekoderne CR, LF og TAB.
+Følgende byteværdier (decimalværdier)  
+
+ skal  
+
+ benyttes til disse kontroltegn:
+CR LF TAB 13 10 09 Bilag 5 Datatyper Talrepræsentation skal følge ISO standard 6093:1985,  
+
+ "Information processing - Representation of numerical values in  
+
+ character  
+
+ strings for information interchange".
+ Dato, time og timestamp repræsentationen skal følge DS/ISO  
+
+ standard 8601:1993, "Dataelementer og udvekslingsformater -  
+
+ Informationsudveksling  
+
+ - Angivelse af dato og tid".
+Repræsen-tation Navn Kort beskrivelse NUM Heltal Repræsentation af et heltal med eller uden fortegn i henhold  
+
+ til DS/ISO 6093:1985 (NR1) standard.
+REAL Decimaltal Repræsentation af et decimaltal med eller uden fortegn i  
+
+ henhold til DS/ISO 6093:1985 (NR2) standard.
+EXP Eksponentiel tal Repræsentation af et decimaltal i eksponentiel form i  
+
+ henhold til DS/ISO 6093:1985 (NR3) standard.
+STRING Tekststreng En streng er en sammenhængende følge af tegn, hvor et  
+
+ tegn er defineret i henhold til ISO 8859-1:1987 standard. (se bilag 4) DATE Kalender dato Angivelse af kalender dato i henhold til DS/ISO 8601:1993  
+
+ standard.
+TIME Tidsstempel Angivelse af tidspunkt i henhold til DS/ISO 8601:1993  
+
+ standard.
+TIMESTAMP Tidsstempel Angivelse af dato og tidspunkt i henhold til DS/ISO  
+
+ 8601:1993 standard.
+NUM Heltalstype er defineret efter NR1 fra  
+
+ ISO 6093:1985 standarden.
+NUM ::= NR1 NR1 ::= {mellemrum} | ( {mellemrum} [fortegn] ciffer) {ciffer} ) mellemrum ::= SPACE ciffer ::= "0" | "1" | "2" |  
+
+ "3" | "4" | "5" | "6" | "7"  
+
+ | "8" | "9" fortegn ::= "+" | "-" REAL Decimaltalstype er defineret efter NR2 ISO 6093:1985  
+
+ standarden.
+REAL ::= NR2 NR2 ::= fortegnsløs-NR2 | fortegns-NR2 fortegnsløs-NR2 ::= {mellemrum} ciffer {ciffer} decimalmærke {ciffer} |  
+
+{mellemrum} {ciffer} decimalmærke ciffer {ciffer} fortegns-NR2 ::= {mellemrum} [fortegn] ciffer {ciffer} decimalmærke  
+
+{ciffer} | {mellemrum} [fortegn] {ciffer} decimalmærke ciffer {ciffer} mellemrum ::= SPACE ciffer ::= "0" | "1" | "2" |  
+
+ "3" | "4" | "5" | "6" | "7"  
+
+ | "8" | "9" decimalmærke ::= "," | "." fortegn ::= "+" | "-" EXP Decimaltalstype er defineret efter NR3 fra ISO 6093:1985  
+
+ standarden for eksponentiel notation.
+EXP ::= NR3 NR3 ::= fortegnsløs-NR3 | fortegns-NR3 fortegnsløs-NR3 ::= {mellemrum} mantisse eksponent-markering karakteristika fortegns-NR3 ::= {mellemrum} [fortegn] mantisse eksponent-markering  
+
+ karakteristika mantisse ::= (ciffer {ciffer}  
+
+ decimaltegn {ciffer}) | ({ciffer} decimaltegn ciffer {ciffer}) karakteristika ::= [fortegn] ciffer  
+
+{ciffer} mellemrum ::= SPACE ciffer ::= "0" | "1" | "2" |  
+
+ "3" | "4" | "5" | "6" | "7"  
+
+ | "8" | "9" fortegn ::= "+" | "-" decimaltegn ::= "," | "." eksponent-markering ::= "E" |  
+
+    
+
+ "e" STRING En streng er en sammenhængende følge af tegn, hvor tegnene  
+
+ er defineret i henhold til standarden  
+
+    
+
+ ISO  
+
+    
+
+ 8859-1:1987,  
+
+ "Information processing - 8-bit single-byte coded graphic character sets  
+
+ -  
+
+ Part 1: Latin alphabet No. 1". Teksten skal være venstrestillet DATE Kalenderdato angives i henhold til DS/ISO 8601:1993  
+
+ standarden som følger:
+DATE ::= CC YY MM DD CC ::= ciffer ciffer YY ::= ciffer ciffer MM ::= ciffer ciffer DD ::= ciffer ciffer ciffer ::= "0" | "1" | "2" |  
+
+ "3" | "4" | "5" | "6" | "7"  
+
+ | "8" | "9" CCYYMMDD (hvor CC = århundrede, YY = år, MM = måned og DD =  
+
+ dag.) TIME Time angives i henhold til DS/ISO 8601:1993 standarden som  
+
+ følger:
+TIME ::= HH MM SS KOMMA BRØKDEL HH ::= ciffer ciffer MM ::= ciffer ciffer SS ::= ciffer ciffer KOMMA ::= , BRØKDEL ::= ciffer {ciffer} ciffer ::= "0" | "1" | "2" |  
+
+ "3" | "4" | "5" | "6" | "7"  
+
+ | "8" | "9" HHMMSS,S (Hvor HH=timer, MM=minutter, SS=sekunder, adskilt  
+
+ af , (komma), S=tiendedele sekunder).
+TIMESTAMP Timestamp angives i henhold til  
+
+ DS/ISO 8601:1993 standarden som følger:
+TIMESTAMP ::= DATE SEPARATOR TIME DATE ::= Se EBNF for DATE SEPARATOR ::= T TIME ::= Se EBNF for TIME CCYYMMDDTHHMMSS (Hvor CC=århundrede,YY=år, MM=måned, DD=dag,  
+
+ adskilt af T, HH=timer, MM=minutter og SS=sekunder.) EBNF-syntaks for datatyper:
+::= defineret som.
+( ) angiver en gruppering som skal udføres samlet.
+[ ] angiver mulighed (0 eller 1).
+{ } angiver mulig gentagelse (0 eller flere).
+| angiver et valg (enten eller).
+Bilag 6 Formater for lagring af grafiske dokumenter, lyd og  
+
+ video Grafisk repræsentation af dokumenter Det gældende standardformat for dokumenter, er det grafiske  
+
+ bitmapformat TIFF version 6.0 baseline, komprimeret med LZW eller CCITT/TSS  
+
+ (gruppe 4 fax).
+ Sort/hvide dokumenter kan gemmes som:
+Single page LZW Single page  
+
+ CCITT/TSS grp. 4 Multiple page CCITT/TSS  
+
+ grp. 4 Dokumenter med gråtoner eller farver skal altid  
+
+ gemmes som:
+Single page LZW Lyd og video I forbindelse med generering af arkiveringsversion må der  
+
+ ikke ske en kvalitetsmæssig forringelse af lyd- eller video-formatet.
+ Det gældende standardformat for lyd-sekvenser er MP3 DS/EN  
+
+ ISO/IEC 11172-3.
+Det gældende standardformat for video-sekvenser er MPEG-2  
+
+ DS/EN ISO/IEC 13818-2 Bilag 7 Lagring, placering og navngivning af filer Generelt om navngivning af filer og biblioteker, jf.  
+
+ bilag 2.
+ Filnavne må højst  
+
+ være på 8 tegn med et suffix (ekstension) på højst 3 tegn (DOS-navngivning).
+ Biblioteksnavne må  
+
+ højst være 8 tegn lange.
+Placering og navngivning af hjælpetabeller Arkiveringsversionens  
+
+ hjælpetabeller skal - med undtagelse af  
+
+  
+
+ ARKVER.TAB  
+
+  
+
+ - altid ligge på første CD-R, og placeres i arkiveringsversionens  
+
+ rodbibliotek  
+
+ navngivet med unikt arkiveringsversionsnr.
+ Hjælpetabeller skal  
+
+ lagres med fast feltlængde og benytte datatyper, som angivet i § 5, stk. 3,  
+
+ samt overholde tegnsætstandarden, jf. § 5, stk. 2.
+Registrering af arkiveringsversion I roden på ethvert elektronisk medie, som afleveres til  
+
+ Statens Arkiver, skal der ligge en tabel -  
+
+    
+
+  
+
+ ARKVER.TAB  
+
+  
+
+ - som angiver  
+
+ hvilken eller hvilke arkiveringsversion(er), der ligger på det pågældende  
+
+ medie.
+ ARKVER.TAB  
+
+  
+
+ skal bestå af følgende 7 kolonner (kolonnens bredde er angivet i parentes):
+ArkivID(8) AflType(1) MedieID(8) TidligereAfl (8) Systemnavn (256) Startdato(8) Slutdato(8) Arkiveringsversionsnr. på den eller de arkiveringsversioner,  
+
+ som dette medie rummer.
+Kode, som angiver arkiverings-type: A, 1, 2, eller 3 Unikt navn på det medie, som rummer arkiveringsversionens  
+
+ metadata og hjælpetabeller.
+Danner indgang til  
+
+ arkiverings-versionen.
+ Arkiveringsversionsnr. på tidligere aflevering.
+ Det officielle navn på systemet, hvor alle forkortelser  
+
+ er opløst.
+ Startdato for de afleverede data.
+ Format:
+ccyymmdd Slutdato for de afleverede data.
+ Format:
+ccyymmdd Placering og navngivning af arkiveringsversionens  
+
+ rodbibliotek Arkiveringsversionens  
+
+ forskellige elementer skal gemmes i rodbibliotek(er) navngivet med et unikt  
+
+ arkiveringsversionsnr., som vil blive udleveret forud for  
+
+ afleveringstidspunktet.
+ Kravet om lagring i  
+
+ bibliotek navngivet efter arkiveringsversionsnr. gælder også for  
+
+ arkiveringsversioner, som fylder mere end én CD-R.
+Generering af hjælpetabel om arkivskaber Der skal skabes en hjælpetabel (SKABER.TAB), som skal  
+
+ indeholde navnene på arkivskabere, samt start og slutdato for, hvornår hver  
+
+ enkelt arkivskaber er startet og sluttet med at taste data ind i systemet.
+ SKABER.TAB  
+
+  
+
+ skal bestå af følgende 3 kolonner (fast længde på kolonne angivet i  
+
+ parentes):
+Skaber(256) Startdato(8) Slutdato(8) Navn på alle selvstændige myndigheder, som har indtastet  
+
+ data i systemet.
+Hvis en myndigheds organisatoriske enheder ikke alle har  
+
+ brugt systemet eller ikke har taget systemet i brug på én gang, anføres de  
+
+ relevante organisatoriske enheder som arkivskabere.
+En organisatorisk enhed  
+
+ kan være en sektion, et kontor, en afdeling eller lignende.
+ Det tidspunkt, hvor arkivskaberen er begyndt at taste  
+
+ data ind i systemet.
+Format: ccyymmdd Det tidspunkt hvor arkivskaberen er ophørt med at taste  
+
+ data ind i systemet.
+Format: ccyymmdd Placering og navngivning af generelle informationer Arkiveringsversionens  
+
+ generelle informationer skal placeres i biblioteker (på samme niveau) i  
+
+ arkiveringsversionens rodbibliotek.
+Det er op til myndigheden selv at  
+
+ navngive  
+
+ biblioteker med generelle informationer.
+Disse bibliotekers navne og indhold  
+
+ skal registreres i  
+
+  
+
+ GENINFO.TAB GENINFO.TAB  
+
+  
+
+ skal bestå af følgende 3 kolonner (fast længde på kolonne angivet i  
+
+ parentes):
+MedieID(8) DokBib(8) Beskrivelse(256) Unikt navn på det medie, hvorpå biblioteket ligger.
+ Navn på det bibliotek, der rummer det pågældende dokument.
+ Beskrivelse af hvert enkelt dokument med generel information.
+ Hvert bibliotek må  
+
+ kun indeholde ét dokument.
+Hvis et dokument er  
+
+ lagret som en multiplepage TIFF-fil eller én enkelt single page TIFF-fil, kan  
+
+ myndigheden selv bestemme navnet på filen.
+Der skal dog altid anvendes  
+
+ ekstension TIF.
+Hvis et dokument  
+
+ består af mere end én singlepage TIFF-fil, skal filerne navngives med  
+
+ fortløbende nummerering samt ekstensionTIF.
+Eks: 00000001.TIF, 00000002.TIF  
+
+ osv.
+Hvis et dokument er lagret som tekstversion, kan myndigheden  
+
+ selv bestemme navnet på filen.
+Der skal dog altid anvendes ekstension TXT  
+
+.
+Placering og navngivning af arkivsystemets tabeller Arkivsystemets  
+
+ tabeller skal placeres i et rodbibliotek navngivet med unikt  
+
+ arkiveringsversionsnr.
+ Filnavnenes ekstension  
+
+ skal være ARK.
+ Myndigheden kan selv  
+
+ bestemme navnene på arkivsystemets tabeller.
+Placering og navngivning af metadata Metadatafilen skal  
+
+ placeres i arkiveringsversionens rodbibliotek på første CD-R.
+ Metadatafilen, som  
+
+ beskriver arkiveringsversionens tabeller samt deres relationer, skal  
+
+ navngives  
+
+ med det unikke arkiveringsversionsnr. med ekstension XML  
+
+.
+TIFF-dokumenters placering og navngivning (kun EDH-  
+
+ og ESDH-systemer) Et dokuments TIFF  
+
+ filer (en eller flere) navngives fortløbende med ekstension TIF.
+ TIFF-filerne lægges  
+
+ i et dokumentbibliotek, som navngives efter dokumentets dokumentID.
+ Dokumentbibliotekerne  
+
+ placeres i et eller flere dokumentsamlingsbiblioteker.
+ Dokumentsamlingsbibliotekerne  
+
+    
+
+ navngives entydigt inden for hele  
+
+ arkiveringsversionen og placeres i arkiveringsversionens rodbibliotek.
+ Der må højst ligge  
+
+ 5000 dokumentbiblioteker i hvert dokumentsamlingsbibliotek.
+ Der skal skabes en  
+
+ hjælpetabel  
+
+  
+
+ (DOKMAP.TAB)  
+
+  
+
+ , som danner  
+
+ forbindelsen mellem hvert dokument og dets placering på de lagringsmedier,  
+
+ som  
+
+ afleveres til Statens Arkiver.
+ DOKMAP.TAB  
+
+  
+
+ skal bestå af følgende 3 kolonner (kolonnens bredde er angivet i parentes):
+DokID(8) MedieID(8) UnderDir(8) Navn eller id, som entydigt udpeger det enkelte dokument.
+ Navn på det lagringsmedie, som dokumenterne rent faktisk  
+
+ ligger på.
+ Underbibliotek, som dokumenterne ligger i.
+Placering og navngivning af tekstversioner af  
+
+ dokumenter Tekstudgaver af  
+
+ dokumenter skal placeres i bibliotek(er) med navnet TXTVER.
+ Disse tekstudgaver  
+
+ skal navngives efter de dokumenter de er skabt ud fra (samme navn som  
+
+ dokumentbiblioteket).
+ Ekstension TXT skal  
+
+ benyttes.
+Registrering af arkiveringsversionens filer Samtlige tabeller,  
+
+ der indgår i arkiveringsversionen, incl. hjælpetabellerne GENINFO.TAB,  
+
+ SKABER.TAB og DOKMAP.TAB, samt metadatafilen, skal registreres i  
+
+ hjælpetabellen  
+
+ FILMAP.TAB.
+ Biblioteker med  
+
+ tekstversioner af dokumenter skal ligeledes registreres i FILMAP.TAB, og skal  
+
+ altid navngives TXTVER.
+ Denne tabel skal  
+
+ altid placeres på arkiveringsversionens første CD-R.
+ FILMAP.TAB  
+
+  
+
+ skal bestå af følgende 2 kolonner (kolonnens bredde er angivet i parentes):
+Fil(12) MedieID(8) Fil- eller biblioteksnavn Unikt navn på det medie, hvorpå filen eller biblioteket  
+
+ ligger.
+Tabeller over flere CD-R Det er tilladt at opdele tabeller således, at de ligger over  
+
+ flere CD-R, hvis følgende overholdes:
+ Opdeling af  
+
+ tabelfiler skal ske ved afslutningen af en post, og de opdelte filer  
+
+ navngives  
+
+ fortløbende med ekstension 001, 002, 003 etc.
+Filerne skal  
+
+ registreres i hjælpetabellen  
+
+  
+
+ FILMAP.TAB Filerne skal  
+
+ placeres i et rodbibliotek(er) navngivet med unikt arkiveringsversionsnr.
+ Metadatafilen som  
+
+ beskriver tabeller og relationer, hjælpetabeller og de enkelte dokumentfiler  
+
+ (f.eks. en TIFF-fil), må ikke opdeles.
+Dokumentfiler over flere CD-R Dokumenter kan  
+
+ fordeles på flere CD-R, hvis deres placering registreres i hjælpetabellen  
+
+  
+
+ DOKMAP.TAB  
+
+  
+
+ og i øvrigt overholder krav  
+
+ til filstruktur.
+ Biblioteker med  
+
+ tekstudgaver af dokumenter kan fordeles på flere CD-R, hvis disse registreres  
+
+ i  
+
+ hjælpetabellen  
+
+  
+
+ FILMAP.TAB,  
+
+  
+
+ navngives  
+
+ TXTVER og i øvrigt overholder krav til filstruktur.
+Illustration af arkiveringsversionens biblioteks- og  
+
+ filstruktur Bilag 8 Feltlængde Hvis et felt er længere end 2048 tegn, betragtes feltet som  
+
+ et dokument og skal derfor registreres og lagres som et selvstændigt  
+
+ dokument.
+ Hvis et felt, som overstiger 2048 tegn, udelukkende består  
+
+ af klartekst, er det tilladt at opdele det lange felt i flere på hinanden  
+
+ følgende felter, når der skal skabes en arkiveringsversion.
+Bilag 9 Metadata Metadata skal overholde standarden for XML version 1.0 og  
+
+ den notation, som beskrives med metasproget EBNF, jf. figur 1. SQL-søgestier  
+
+ skal være opmærket i metadata for e-journaler, EDH- og ESDH-systemer, jf.  
+
+ § 10.
+Figur 1. EBNF for metadata ::= defineret som.
+( ) angiver en gruppering som skal udføres samlet.
+[ ] angiver mulighed (0 eller 1).
+{ } angiver mulig gentagelse (0 eller flere).
+| angiver et valg (enten eller).
+!! angiver en beskrivende forklaring på alm. dansk.
+DATABASE::= HOVED TABEL {TABEL} {SAQ} </arkiveringsversion> HOVED::= <?xml  
+
+ version=»1.0« encoding=»ISO-8859-1«?> <arkiveringsversion  
+
+ xmlns=»SA_metadata« xmlns:xsi=»http://www.w3.org/2001/XMLSchema-instance«  
+
+ xsi:schemaLocation=»SA_metadata sa_md_11.xsd« sa_version=»1.1»>  
+
+  TABEL::= <tabel> TABELTITEL POSTTYPE TABELINDHOLD  
+
+ TABELINFORMATION </tabel> TABELTITEL::= <titel> (D-TEGN) {D-TEGN} </titel> TITEL::= <titel> (BOGSTAV | CIFFER) {BOGSTAV | CIFFER |  
+
+ _} </titel> BOGSTAV::= A | B | ... | Z | a |  
+
+ b | ... | z CIFFER::= 0 | 1 | 2 | 3 | 4  
+
+ | 5 | 6 | 7 | 8 |  
+
+ 9 POSTTYPE::= <posttype> (fast | variabel)  
+
+ </posttype> TABELINDHOLD::= FELTDEFINITION | NØGLEDEFINITION | KODEDEFINITION {FELTDEFINITION | NØGLEDEFINITION | KODEDEFINITION} FELTDEFINITION::= <feltdef> TITEL DATATYPE FELTBREDDE  
+
+ FELTINFORMATION [FELTFUNKTION] </feltdef> DATATYPE::= <datatype> (num | real |  
+
+ exp | string |  
+
+ date | time | timestamp)  
+
+ </datatype> FELTBREDDE::= <bredde> CIFFER {CIFFER} </bredde> FELTINFORMATION::= <feltinfo> TEGN {TEGN} </feltinfo> TEGN::= !! se bilag 4  DS/ISO 8859-1:1987 D-TEGN::= !! se bilag 2  D-characters i ISO 9660:1988 level 1 FELTFUNKTION::= <feltfunk> (sagsidentifikation |  
+
+ lagringsform  
+
+ | dokumentidentifikation | sagstitel |  
+
+ afleveret | dokumenttitel |  
+
+ dokumentdato | afsender/modtager |  
+
+ myndighedsidentifikation)</feltfunk> NØGLEDEFINITION::= PRIMÆRNØGLE | FREMMEDNØGLE PRIMÆRNØGLE::= <pn> ORDNETLISTE </pn> ORDNETLISTE::= TITEL {TITEL} FREMMEDNØGLE::= <fn> ORDNETLISTE RELATION KARDINALITET  
+
+ KARDINALITET </fn> RELATION::= <fremmedtabel> TABELTITEL ORDNETLISTE  
+
+ </fremmedtabel> KARDINALITET::= <kardinalitet> (CIFFER | m)  
+
+ </kardinalitet> KODEDEFINITION::= <kodedef> TITEL KODE KODE {KODE KODE }  
+
+ </kodedef> KODE::= <kode> TEGN {TEGN} </kode> TABELINFORMATION::= <tabelinfo> TEGN {TEGN} </tabelinfo> SAQ::= <saq> SAQINFORMATION SAQDATA »</saq>« SAQINFORMATION::= <saqinfo> TEGN {TEGN} </saqinfo> SAQDATA::= <saqdata> SAQDEFINITION »</saqdata>« SAQDEFINITION::= se særskilt EBNF for SAQDEFINITION Specifikation og præcisering af EBNF for metadata:
+Det yderste niveau  
+
+ af anførselstegn   skal ikke med i metadata.
+De angiver tekst,  
+
+ som skal  
+
+ skrives uden fortolkning, herunder anførselstegn inden for det yderste  
+
+ niveau.
+ Da tabelnavn bruges  
+
+ til at angive første del af filnavn efter ISO 9660:1988 level 1, må det kun  
+
+ fylde 8 tegn.
+ Produktionen  
+
+ ORDNETLISTE forudsætter en entydig ordning.
+ Hvis der er tale om  
+
+ sammensatte nøgler, skal rækkefølgen af felttitler i  
+
+  
+
+ <pn>  
+
+  
+
+ og  
+
+  
+
+ <fn>  
+
+  
+
+ være identiske.
+ Bemærk, at af hensyn  
+
+ til XML må tegnet < udelukkende benyttes til opmærkning.  
+
+ Tegnet <  
+
+ forstået som mindre end inden for en opmærkning skal  
+
+ repræsenteres som  
+
+ &lt;  
+
+  
+
+ Tilsvarende må tegnet & forstået som og ikke  
+
+ benyttes, men skal  
+
+ repræsenteres som &amp;.
+ Af hensyn til  
+
+ XML-standarden er det tilladt at benytte følgende alternative  
+
+ repræsentationer  
+
+ i den opmærkede tekst.
+Tegn Repræsentation > &gt; ' &apos; « &quot; Metadata for koder (kodedefinition) Når værdierne i et felt er en kode, som repræsentation for  
+
+ en fast og entydig værdi, skal koderne forklares.
+Det skal ske ved at benytte  
+
+ kodemarkeringen  
+
+  
+
+ <kodedef>  
+
+                                                                         .  
+
+                                                                            Bla  
+
+ Blanktegn må ikke bruges til kodedefinition.
+Opmærkning af særlige oplysninger (feltfunktion) For elektroniske arkivsystemer med dokumenter skal felter,  
+
+ der indeholder særlige informationer, opmærkes.
+Disse særlige informationer  
+
+ skal identificeres via feltet  
+
+  
+
+ Feltfunktion  
+
+  
+
+ i metadata, jf. figur 2 og 3. De særlige oplysninger, der er angivet i figur  
+
+ 4,  
+
+ skal opmærkes i det omfang, at de er registreret i systemet.
+Hvis  
+
+ oplysningerne  
+
+ i figur 4 ikke findes registreret i systemet, skal der i forbindelse med  
+
+ afleveringen aftales eventuelle alternative opmærkninger, der sikrer  
+
+ identifikation af sagligt sammenhørende dokumenter, jf. gældende bestemmelser  
+
+ herom.
+Figur 2. Identifikation af faste oplysninger i  
+
+ elektroniske journal-, EDH- og ESDH-systemer, der deles af flere myndigheder Oplysning Beskrivelse Værdi Myndighedsidentifikation Bruges til at angive det/de felter i arkivsystemet, som  
+
+ indeholder oplysninger om hvilken myndighed, der har registreret sagen eller  
+
+ dokumentet.
+Figur 3. Identifikation af faste oplysninger i EDH-  
+
+ og ESDH-systemer Oplysning Beskrivelse Værdi Dokumentidentifikation Bruges til at angive det/de felter i arkivsystemet, som  
+
+ beskriver dokumenternes entydige identifikation Lagringsform Bruges til at angive det/de felter i arkivsystemet, som  
+
+ beskriver, om dokumentet er lagret elektronisk, på papir eller delvist på  
+
+ papir.
+Elektronisk = 1, papir = 2, delvist på papir = 3 Hvis nedenstående oplysninger kan identificeres i det  
+
+ pågældende system, skal disse opmærkes.
+Figur 4. Identifikation af oplysninger i  
+
+ elektroniske journal-, EDH- og ESDH-systemer Oplysning Beskrivelse Værdi Sagsidentifikation Bruges til at angive det/de felter i arkivsystemet, som  
+
+ beskriver sagernes entydige identifikation i arkiveringsversionen.
+Sagstitel Bruges til at angive det/de felter i arkivsystemet, som  
+
+ indeholder sagernes titler.
+Dokumenttitel Bruges til at angive det/de felter i arkivsystemet, som  
+
+ indeholder dokumenternes titler/beskrivelser.
+Dokumentdato Bruges til at angive det/de felter i arkivsystemet, som  
+
+ indeholder oplysninger om et dokuments modtagelses-, afsendelses- eller  
+
+ registreringsdato.
+Afsender/modtager Bruges til at angive det/de felter i arkivsystemet, som  
+
+ indeholder oplysninger om et dokuments afsender eller modtager.
+Bilag 10 Søgestier for e-journaler og ESDH-systemer Ud fra myndighedens anvendelse af systemet skal der for de  
+
+ 1-10 mest anvendte søgninger (eller tilsvarende indgange til data) dannes en  
+
+ række forespørgsler i SQL tilpasset arkiveringsversionens tabeller.
+Disse  
+
+ SQL-søgestier skal angives i metadata.
+ Til forespørgslerne i SQL anvendes  
+
+ et uddrag af standarden SQL‑92 ('Information technology ‑  
+
+ Database  
+
+ languages ‑ SQL')  
+
+    
+
+ ‑ ISO/IEC  
+
+ 9075:1992 (E). Jf. figur 1  Metadata EBNF for SQL-søgestier'.
+ Fordansket EBNF tilpasset XML version 1.0 til uddrag af  
+
+ SQL-92 med dækning af kommandoerne CREATE TABLE, INSERT, SELECT, og DROP  
+
+ TABLE;  
+
+ herefter forkortet til SA-SQL-92-EBNF.
+::= defineret som.
+STORE BOGSTAVER angiver et reserveret ord i SQL.
+{ } angiver en gruppering.
+[ ] angiver valgfrie ord eller sætninger i en definition.
+| angivet et valg mellem ord eller sætninger i en  
+
+ definition.
+ ...
+angiver ord eller sætning som kan gentages.
+Placeres lige  
+
+ efter det, som kan gentages.
+!! angiver en beskrivende forklaring på alm. dansk.
+Figur 1. SA-SQL-92-EBNF adskiller  
+
+    
+
+ ::= {kommentar|mellemrum|nylinie} boolskfaktor  
+
+    
+
+ ::= [NOT] boolsktest boolskprimær ::= udsagn | (søgebetingelse) boolskterm ::= boolsfaktor | boolskterm AND boolskfaktor boolsktest ::= boolskprimær [ IS [NOT] sandværdi ] ciffer ::= 0|1|2|3|4|5|6|7|8|9 dagsværdi ::= fortegnsløstheltal !! formen DD anvendes datatype ::= CHAR [(længde)] | VARCHAR (længde) | DECIMAL [(  
+
+ præcision  
+
+    
+
+[, scale ] )  
+
+    
+
+ ] | FLOAT [ ( præcision) ]  
+
+    
+
+ | INTEGER | DATE datoliteral ::= DATE 'datoværdi' datotidfaktor ::= datotidprimær datotidliteral ::= datoliteral datotidprimær ::= værdiudtrykprimær|datotidværdifunktion datotidterm ::= datotidfaktor datotidværdifunktion ::= !! funktionerne CURRENT_DATE, CURRENT_TIME,  
+
+ CURRENT_TIMESTAMP datotidværdiudtryk ::= datotidterm datoværdi ::= årværdi-månedsværdi-dagsværdi eksaktnumeriskliteral ::= fortegnsløstheltal [.[fortegnsløstheltal]] |  
+
+ .fortegnsløstheltal eksponent ::= fortegnsheltal enkeltlatinsktegn ::= enkeltlatinsktegnstor|enkeltlatinsktegnlille enkeltlatinsktegnlille ::= a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z enkeltlatinsktegnstor ::= A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z faktor ::= {+|-} numeriskprimær findesudsagn ::= EXISTS tabelunderforespørgsel forbindelsesbetingelse  
+
+    
+
+ ::= ON søgebetingelse forbindelsesspecifikation ::= forbindelsesbetingelse|navngivetkolonneforbindelse forbindelsestype ::= INNER | {{LEFT|RIGHT|FULL} [OUTER]} | UNION forbundettabel ::= krydsforbindelse|mængdeforbindelse|(forbundettabel) forespørgselsprimær ::= ikkeforbundetforespørgselsprimær |forbundettabel forespørgselsspecifikation  
+
+    
+
+ ::= SELECT [sætmængde] udvælgelsesliste tabeludtryk forespørgselsterm ::= ikkeforbundetforespørgselsterm|forbundettabel forespørgselsudtryk ::= ikkeforbundetforespørgselsudtryk| forbundettabel fortegnsheltal ::= {+ | -} ciffer fortegnsløsliteral ::= fortegnsløsnumeriskliteral | generelliteral fortegnsløsnumeriskliteral ::= eksaktnumeriskliteral | omtrentlignumeriskliteral fortegnsløstheltal ::= ciffer...
+fortegnsløsværdiangivelse ::= fortegnsløsliteral frasætning ::= FROM tabelrefence [{, tabelreference}...] generelliteral ::= tegnstrengsliteral | datotidliteral !! NB, se bemærkning  
+
+ om tegnsæt generelsætfunktion:= sætfunktiontype ( [sætmængde] værdiudtryk) gruppersætning ::= GROUP BY kolonnereference [{,kolonnereference}...] havendesætning ::= HAVING søgebetingelse hvorsætning ::= WHERE søgebetingelse ikkeforbundetforespørgselsudtryk ::= ikkeforbundetforespørgselsterm | forespørgselsudtryk  
+
+{UNION|EXCEPT} [ALL] [tilsvarendespec] forespørgselsterm ikkeforbundetforespørgselsprimær ::= simpeltabel | (ikkeforbundetforespørgselsudtryk ) ikkeforbundetforespørgselsterm ::= ikkeforbundetforespørgselsprimær |forespørgselsterm  
+
+ INTERSECT [ALL] [tilsvarendespec] forespørgselsprimær indsættelseskommando ::= INSERT INTO tabelnavn [ (kolonnenavnliste)] tabelværdiskaber iudsagn ::= rækkeværdiskaber [NOT] IN iudsagnværdi iudsagnværdi ::= tabelunderforespørgsel | (iværdiliste) iværdiliste ::= værdiudtryk {,værdiudtryk}...
+kolonnedefinition ::= kolonnenavn datatype kolonnenavn ::= !! lovligt navn for en kolonne -bør højst være på 18 tegn kolonnenavnliste ::= kolonnenavn [{,kolonnenavn}...] kolonnereference  
+
+    
+
+ ::= [{tabelnavn|modstykkenavn}.]kolonnenavn kommentar ::= --[-...] [ tegn| ' ] nylinie krydsforbindelse ::= tabelreference CROSS JOIN tabelreference lignendeudsagn ::= tegnværdiudtryk [NOT] LIKE tegnværdiudtryk [ESCAPE  
+
+ tegnværdiudtryk] længde ::= fortegnsløstheltal mantisse ::= eksaktnumeriskliteral mellemrum ::= !! mellemrumstegn i det anvendes tegnsæt -  
+
+    
+
+ her ISO 8859-1 mellemudsagn ::= rækkeværdiskaber [NOT] BETWEEN rækkeværdiskaber AND  
+
+ rækkeværdiskaber modstykkenavn ::= !! lovligt alias for en tabel - bør højst være på 18 tegn mængdeforbindelse ::= tabelreference [NATURAL] [forbindelsestype] JOIN tabelreference  
+
+[forbindelsesspecifikation] mængdesammenligningsudtryk ::= rækkeværdiskaber {= | != | &lt; | > | &lt; = |  
+
+ &lt; > | >= } ALL | {ANY | SOME} tabelunderforespørgsel månedsværdi ::= fortegnsløstheltal !! formen MM anvendes navngivetkolonneforbindelse ::= USING (kolonnenavnliste) normalangivelse ::= DEFAULT nulangivelse ::= NULL nuludsagn ::= rækkeværdiskaber IS [NOT] NULL numeriskprimær ::= værdiudtrykprimær | numeriskværdifunktion numeriskværdifunktion ::= !! funktionerne POSITION IN , EXTRACT, CHAR_LENGTH numeriskværdiudtryk ::= term | {numeriskværdiudtryk {+|-} term } nylinie ::= nyliniekode - her byteværdi 10 omtrentlignumeriskliteral ::= mantisse E eksponent præcision ::= fortegnsløstheltal rækkeunderforespørgsel ::= underforespørgsel rækkeværdiskaber ::= rækkeværdiskaberelement | ( rækkeværdiskaberliste) | rækkeunderforespørgsel rækkeværdiskaberelement ::= værdiudtryk | nulangivelse| normalangivelse rækkeværdskaberliste ::= rækkeværdiskaberelement [ {,rækkeværdiskaberelement}...] sammenlignudsagn ::= rækkeværdiskaber {= | != | &lt; | > | &lt; = |  
+
+ &lt; > | > = } rækkeværdiskaber sammenlægning ::= tegnværdiudtryk sammenlægningssymbol tegnfaktor sammenlægningssymbol ::= || !! konflikt med det anvendte <eller> tegn i  
+
+ denne EBNF sandværdi ::= TRUE | FALSE | UNKNOWN saqdefinition ::= tabeloprettelseskommando indsættelseskommando forespørgelsesspecifikation  
+
+ tabelslettelsesudtryk scale ::= fortegnsløstheltal simpeltabel ::= forespørgselsspecifikation| tabelværdiskaber|udtrykttabel skalarunderforespørgsel  
+
+    
+
+ ::= underforespørgsel SQL-sprog-tegn ::= enkeltlatinsktegn | ciffer | SQLspecialtegn SQLspecialtegn ::= mellemrum | !! en lang række andre tegn, se standarden, der er tale  
+
+ om angivelse af tegn for mellemrum, venstre parantes, procent, komma, kolon  
+
+ etc.

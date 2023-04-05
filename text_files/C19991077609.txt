@@ -1,0 +1,374 @@
+Kundgørelse om forskrifter for  
+
+ centralregisteret for parkeringsafgifter Justitsministeriet har den 28. december 1979 i henhold til  
+
+ §§ 4, stk. 2 og 29, stk. 2, i lov nr. 294 af 8. juni 1978 om offentlige  
+
+ myndigheders registre fastsat forskrifter for centralregisteret for  
+
+ parkeringsafgifter.
+Kapitel 1 Registerets navn og formål § 1. Registerets navn er centralregisteret for  
+
+ parkeringsafgifter.
+ Stk. 2. Rigspolitichefen er registeransvarlig  
+
+ myndighed.
+ § 2. Registerets formål er at opkræve  
+
+ og føre kontrol med betaling af pålagte afgifter for  
+
+ standsnings- og parkeringsforseelser.
+ § 3. Registeret føres på I/S  
+
+ Datacentralen af 1959.
+Kapitel 2 Registerets indhold, anvendelse og sletning § 4. Registeret indeholder oplysninger om de personer,  
+
+ der som registrerede brugere af køretøjer er pålagt  
+
+ afgift for standsnings- og parkeringsforseelser.
+ § 5. Registeret indeholder de oplysninger, der er  
+
+ nævnt i bilag 1 til forskrifterne.
+ § 6. Oplysningerne tilvejebringes på  
+
+ følgende måde:
+ § 7. Ved indsættelse af oplysninger i  
+
+ registeret via dataskærmterminaler foretages maskinel kontrol af, at  
+
+ indsættelsen kun sker fra terminaler, der er godkendt hertil.  
+
+ Rigspolitichefen fastsætter, hvilke skærmterminaler der skal have  
+
+ adgang til indsættelse af oplysninger i registeret.
+ Stk. 2. Der foretages i øvrigt kontrol til  
+
+ sikring af, at der ikke sker registreringer, som er urigtige eller  
+
+ vildledende eller som ikke har hjemmel i nærværende forskrifter.  
+
+ Oplysninger, der viser sig urigtige eller vildledende, skal snarest muligt  
+
+ berigtiges eller slettes.
+ § 8. Registeret ajourføres en gang om dagen  
+
+ med de fra dataskærmterminaler opsamlede oplysninger om pålagte  
+
+ afgifter, ændringer heraf, omposteringer og henstande med betaling samt  
+
+ indbetalinger til rigspolitichefen.
+ Stk. 2. Registeret ajourføres en gang om  
+
+ ugen med de i den forløbne uge foretagne indbetalinger til  
+
+ postvæsenet, jfr. § 6, nr. 4.
+§ 9. Databehandling består i  
+
+ ajourføring af de oplysninger, der må findes i registeret, jfr.  
+
+ § 5, samt bearbejdning af disse oplysninger med henblik på  
+
+ frembringelse af de i § 12 nævnte uddata.
+Registeret kan dog også  
+
+ tjene som grundlag for politiets efterforskningsmæssige virksomhed.
+ § 10. Centralregisteret for parkeringsafgifter  
+
+ opbevares på I/S Datacentralen af 1959.
+ § 11. Registrerede oplysninger skal slettes senest  
+
+ 3 måneder efter, at afgiftsforholdet er registreret som afsluttet.  
+
+ Sletningen sker ved den ugentlige ajourføring af registeret, jfr. 8,  
+
+ stk. 2.
+ § 12. Fra registeret må kun udskrives de i  
+
+ bilag 2*) nævnte uddata samt uddata, der tjener til brug for politiets  
+
+ efterforskningsmæssige virksomhed.
+ § 13. Udskrivning af uddata finder sted på  
+
+ I/S Datacentralen af 1959 eller hos rigspolitichefen.
+Kapitel 3 Sikkerhedsforanstaltninger § 14. Rigspolitichefen skal fastsætte  
+
+ nærmere regler om sikkerhedsforanstaltninger i rigspolitichefens  
+
+ afdelinger til uddybning af de regler, der er fastsat i kapitel 3-8.  
+
+ Politimesteren (politidirektøren i København) skal  
+
+ fastsætte tilsvarende regler for den enkelte politikreds.  
+
+ Sikkerhedsforanstaltningerne skal navnlig indeholde en beskrivelse af  
+
+ tilrettelæggelsen af sikkerhedsarbejdet, bestemmelse om tilsynet med  
+
+ overholdelsen af de fastsatte regler samt en angivelse af, hvem der må  
+
+ rette forespørgsler til registeret.
+Rigspolitichefen skal tillige  
+
+ fastsætte nærmere regler om registrering af oplysninger.
+ Stk. 2. Rigspolitichefen er ansvarlig for  
+
+ iværksættelsen af og tilsynet med sikkerhedsforanstaltningerne i  
+
+ rigspolitichefens afdelinger.
+ Stk. 3. Politimesteren (politidirektøren i  
+
+ København) er ansvarlig for iværksættelsen af og tilsynet  
+
+ med sikkerhedsforanstaltninger i den enkelte politikreds.
+ Stk. 4. De i stk. 1 nævnte uddybende regler  
+
+ skal indsendes til registertilsynet.
+ § 15. Kun de i politiet ansatte, for hvem det er  
+
+ nødvendigt at betjene terminaler i forbindelse med udførelsen  
+
+ af deres arbejdsopgaver, skal have adgang til at rette forespørgsler  
+
+ til registeret.
+ § 16. Til hver terminal skal knyttes en fortrolig  
+
+ autorisationskode, der skal indtastes ved hver åbning af terminalen  
+
+ (log on).
+ Stk. 2. Kun de i § 15 nævnte ansatte i  
+
+ politiet må have kendskab til autorisationskoderne for de terminaler,  
+
+ de skal kunne betjene.
+Stk. 3. Autorisationskoden skal angive, hvorvidt  
+
+ der er a. forespørgselsadgang b. adgang til at registrere oplysninger.
+§ 17. Der skal foretages registrering (logning) af  
+
+ alle forespørgsler, registreringer og korrektioner af registrerede  
+
+ oplysninger.
+Registreringen skal mindst indeholde oplysning om tidspunkt,  
+
+ terminal, transaktionstype og angivelse af det køretøj,  
+
+ oplysningerne vedrører.
+ Stk. 2. I/S Datacentralen af 1959 skal efter  
+
+ anmodning fremsende udskrift heraf til rigspolitichefen.
+§ 18. Kendeord skal indtastes ikke-læsbart  
+
+ for skærmterminaler.
+Når en terminal forlades, skal der  
+
+ træffes sådanne foranstaltninger (log off), at fornyet opkald vil  
+
+ kræve indtastning af kendeord (log on).
+ § 19. Kendeord skal udskiftes efter nærmere  
+
+ fastsatte procedurer, dog mindst en gang årlig.
+ Stk. 2. Rigspolitichefen foranlediger udskiftning  
+
+ af kendeord.
+ § 20. Udskrifter, der indeholder oplysninger, som  
+
+ kan henføres til bestemte personer, må kun anvendes og opbevares  
+
+ hos politiet efter reglerne i § 21, medmindre udskrifterne udgør en  
+
+ del af en konkret sag i forvaltningen om enkelte registrerede personer.
+ § 21. Udskrifter skal opbevares aflåst,  
+
+ når de ikke benyttes.
+ Stk. 2. Udskrifter må opbevares i 5 år,  
+
+ hvorefter de skal tilintetgøres.
+Kapitel 4 Øvrige sikkerhedsforanstaltninger § 22. I/S Datacentralen af 1959 skal iagttage de  
+
+ sikkerhedsforanstaltninger, der er anført i bilag A og B*) til  
+
+ forskrifterne.
+Bilag B er ikke offentligt tilgængeligt.
+§ 23. Udskrivning fra registeret, der ikke sker  
+
+ gennem anvendelse af ebd-systemets terminaldel, skal ske ifølge en  
+
+ driftsplan.
+Denne skal angive tidspunkter for aflevering af inddatamateriale,  
+
+ kørselsdag og aflevering af uddatamateriale fra I/S Datacentralen.  
+
+ Driftsplanen fastsættes af I/S Datacentralen og sendes til  
+
+ rigspolitichefen.
+Stk. 2. Udskrivning, der ikke sker i henhold til  
+
+ driftsplanen, må kun ske efter skriftlig anmodning fra en af  
+
+ rigspolitichefen bemyndiget person.
+I/S Datacentralen skal gøres  
+
+ bekendt med, hvem der er berettiget til at rekvirere udskrivning.
+Stk. 3. I undtagelsestilfælde kan anmodning  
+
+ som nævnt i stk. 2 fremsættes telefonisk.
+Forinden udskrivning og  
+
+ fremsendelse til politiet iværksættes, skal I/S Datacentralen  
+
+ foretage kontrolopringning til en af de i stk. 2 nævnte personer.
+I/S  
+
+ Datacentralen skal påse, at skriftlig anmodning som nævnt i stk.  
+
+ 2 er I/S Datacentralen i hænde senest 3 hverdage efter, at telefonisk  
+
+ anmodning er fremsat.
+Stk. 4. I/S Datacentralen skal adressere  
+
+ forsendelser til de personer, der i medfør af stk. 2 er berettiget til  
+
+ at rekvirere udskrifter.
+Det kan dog bestemmes, at opkrævning af afgift  
+
+ samt eventuelle erindringsmeddelelser om manglende betaling heraf kan sendes  
+
+ direkte til adressaten.
+Kapitel 5 Registrerede personers adgang til oplysninger om sig selv § 24. Fremsætter en registreret person  
+
+ begæring herom, skal rigspolitichefen snarest muligt give den  
+
+ registrerede meddelelse om de oplysninger, der er registreret i registeret om  
+
+ ham.
+I begæringen skal være angivet registreringsnummer for det  
+
+ køretøj, som henvendelsen vedrører.
+Stk. 2. Udlevering af oplysninger kan kun finde  
+
+ sted, når vedkommende har legitimeret sig behørigt, eller  
+
+ når der på anden måde er skabt sikkerhed for, at den, der  
+
+ fremsætter begæringen, er identisk med den person, oplysningen  
+
+ vedrører.
+Fremsættes begæringen af en anden end den  
+
+ registrerede, skal den registeransvarlige myndighed sikre sig, at den  
+
+ pågældende er berettiget til at handle på den registreredes  
+
+ vegne.
+ Stk. 3. Meddelelser i henhold til stk. 1 skal  
+
+ på forlangende gives skriftligt.
+ Stk. 4 En registreret person, der har fået  
+
+ meddelelse efter stk. 1, har ikke krav på ny meddelelse før 12  
+
+ måneder efter sidste meddelelse, medmindre han kan godtgøre en  
+
+ særlig interesse heri.
+ § 25. Rigspolitichefens beslutning med hensyn til  
+
+ meddelelse af oplysninger efter § 24 kan indbringes for Registertilsynet.  
+
+ Tilsynets afgørelse kan ikke indbringes for anden administrativ  
+
+ myndighed.
+Kapitel 6 Videregivelse af oplysninger til private § 26. Oplysninger, som kan henføres til  
+
+ bestemte personer, må ikke videregives til private personer og  
+
+ virksomheder, medmindre dette følger af §§ 27 og 28.
+ § 27. Oplysninger må videregives,  
+
+ såfremt den registrerede eller den, der handler på hans vegne,  
+
+ har meddelt samtykke hertil.
+ Stk. 2. Samtykke skal meddeles skriftligt og skal  
+
+ indeholde oplysning om:
+ Stk. 3. Samtykke bortfalder senest efter et  
+
+ års forløb.
+§ 28. Til brug i konkrete retsforhold kan  
+
+ rigspolitichefen på begæring videregive enkeltstående  
+
+ oplysninger til private personer og virksomheder, som kan godtgøre at  
+
+ have retlig interesse i at få de pågældende oplysninger,  
+
+ som klart overstiger hensynet til hemmeligholdelse.
+Dette gælder dog  
+
+ ikke oplysninger, om hvilke der ved lov er fastsat særlige  
+
+ tavshedsforskrifter.
+§ 29. For udlevering af oplysninger fra registeret  
+
+ betales et gebyr på 10 kr. pr. køretøj.
+Gebyret  
+
+ erlægges i stempelmærker.
+Kapitel 7 Videregivelse af oplysninger til forskningsbrug § 30. Oplysninger, som kan henføres til  
+
+ bestemte personer, kan af rigspoltichefen videregives til brug ved konkrete  
+
+ forskningsprojekter på nærmere fastsatte vilkår.
+Kapitel 8 Videregivelse af oplysninger til offentlige  
+
+ myndigheder § 31. Oplysninger, der kan henføres til  
+
+ bestemte personer, må kun videregives til andre offentlige myndigheder  
+
+ i det omfang, som er fastsat i §§ 32 og 33, samt hvor de  
+
+ pågældende myndigheder i henhold til lov har adgang til at  
+
+ få oplysningerne.
+ § 32. Oplysningerne må videregives til:
+ 1) Justitsministeriet.
+ 2) Udenlandsk politi og anden offentlig myndighed til brug  
+
+ ved opkrævning af afgifter.
+§ 33. Til brug i konkrete retsforhold må der  
+
+ videregives enkeltstående oplysninger til andre offentlige myndigheder,  
+
+ som kan godtgøre at have retlig interesse i at få de  
+
+ pågældende oplysninger, der klart overstiger hensynet til  
+
+ oplysningernes hemmeligholdelse.
+Dette gælder dog ikke oplysninger, om  
+
+ hvilke der ved lov er fastsat særlige tavshedsforskrifter.
+Kapitel 9 Straf og ikrafttræden § 34. Overtrædelse af § 22, jfr. bilag A og  
+
+ B, og § 23 straffes med bøde, medmindre højere straf er  
+
+ forskyldt efter lovgivningen i øvrigt.
+§ 35. Forskrifterne træder i kraft den 1.  
+
+ januar 1980, bortset fra §§ 14-23, der træder i kraft den 1. juli  
+
+ 1980.« Rigspolitichefen, den 13. maj 1981 Boye /G.
+Sundblad Bilag 1 Udover koder, der kun har betydning for edb-behandlinger,  
+
+ kan følgende typer af oplysninger registreres:
+ Afgiftens løbenummer.
+ Køretøjets registreringsnummer.
+ Registreret brugers navn og adresse.
+ Køretøjets nationalitet.
+ Forseelsens type.
+ Forseelsessted og -tidspunkt.
+ Politikreds.
+ Retskreds.
+ Afgiftsbeløb.
+ Indbetalt beløb.
+ Indbetalingsdato.
+Bilag 2 Bilaget udeladt.
+Bilag A & B Bilagene udeladt.

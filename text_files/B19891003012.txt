@@ -1,0 +1,33 @@
+1. FORMÅL Denne prøvningsmetode kan benyttes til at bestemme en vægts funktion under  
+
+ korttids netspændingsafbrydelser og -reduktioner.
+2. HENVISNING TIL MÅLETEKNISKE BESTEMMELSER TDIR 24.11.1-02, udg. 1 af 01.10.1979, punkt 4.2.2.2. 3.
+FORUDSÆTNINGER Generelt vedrørende måleudstyr, prøvningsbetingelser, prøvningsmiljø,  
+
+ forkonditionering m.v. henvises til MDIR 04.11-10.
+4. PRØVNING Prøvningen gennemføres med følgende prøvelaster:
+1. Initiallast 2. Min.
+ 3. Max.
+ og ved følgende påvirkninger:
+A. 100% spændingsreduktion i 10 ms, 10 gange med 10 s interval B. 50% spændingsreduktion i 20 ms, 10 gange med 10 s interval C. 20% spændingsreduktion i 50 ms, 10 gange med 10 s interval De ovenanførte prøvninger udføres på følgende måde:
+Vægten belastes med prøvelast 1. (initiallast) og fejlen bestemmes ved  
+
+ vippepunktsmetoden.
+Med testgeneratoren frembringes den ønskede påvirkning.  
+
+ Det undersøges om vægtens visning ændres.
+Vægtens belastning øges med prøvelast 2. (Min.) og proceduren gentages  
+
+ uden/med samme påvirkning.
+Vægten aflastes til initiallast, prøvelast 3.  
+
+ (Max) pålægges og proceduren gentages uden/med samme påvirkning.
+ Vægten aflastes til initiallast og hele proceduren gentages for de 2  
+
+ øvrige påvirkninger.
+5. KRAV Ved netspændingsafbrydelse skal vægten - enten helt hindre resultatafgivelse - eller vise resultat på en sådan måde, at der ikke kan ske forveksling  
+
+ med et sandt resultat.
+ Ved netspændingsreduktion må vægten ikke vise vejeresultater med større  
+
+ fejl end den tolerance, der gælder for pågældende belastning.

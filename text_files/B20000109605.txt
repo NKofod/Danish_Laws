@@ -1,0 +1,26 @@
+Bekendtgørelse om ændring af  
+
+ bekendtgørelse om affald § 1 I bekendtgørelse nr. 619 af 27. juni 2000 om affald foretages  
+
+ følgende ændringer:
+ 1. Bilag 12, figur 3, affattes som bilag 1 til denne  
+
+ bekendtgørelse.
+ 2. Teksten til bilag 12, figur 3, affattes således:
+» DATA-delen skal opbygges præcist som DEFINITION-delen, blot skal  
+
+ erklæringerne naturligvis udskiftes med aktuel information.
+Hvor der i  
+
+ DEFINITION eksempelvis står  FIELD 00001392  skal der på den  
+
+ tilsvarende plads i DATA (lige efter linien med  GROUP 00000000 ) stå  
+
+ den oplysning, der hører til feltet   her virksomhedens CVR-nummer.  
+
+ Bemærk, at der i DATA-delen ikke længere skal stå  DAT  
+
+  efter linierne med  GROUP .« 3. Bilag 13 affattes som bilag 2 til denne  
+
+ bekendtgørelse.
+§ 2 Bekendtgørelsen træder i kraft den 1. januar 2001.

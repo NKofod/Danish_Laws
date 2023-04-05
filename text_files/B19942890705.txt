@@ -1,0 +1,290 @@
+Gyldighedsområde Disse tekniske bestemmelser specificerer de tekniske krav og tilhørende  
+
+ prøvningsforskrifter, som trådløst mikrofonudstyr (mikrofon med tilhørende  
+
+ sender og modtager) skal overholde for at kunne typegodkendes til brug i  
+
+ frekvensbåndet 31,7 - 41,0 MHz.
+ Bestemmelserne gælder for trådløst mikrofonudstyr såvel med udvendig  
+
+ antennestik som for udstyr uden udvendigt antennestik (integreret antenne).  
+
+ Trådløst mikrofonudstyr med integreret antenne skal af hensyn til prøvningen  
+
+ være forsynet med en eventuel midlertidigt monteret 50 Omega tilslutning.
+ Hjemmelsgrundlaget for disse tekniske bestemmelser fremgår af § 4 i  
+
+ Ministeriet for Kommunikation og Turismes bekendtgørelse nr. 126 af 18. marts  
+
+ 1993 om radioanlæg i forbindelse med landmobile og andre landbaserede  
+
+ radiotjenester.
+Ikrafttræden Disse tekniske bestemmelser træder i kraft 1. april 1994 Typegodkendelse Fremgangsmåden for opnåelse af typegodkendelse fremgår af § 5 i  
+
+ Ministeriet for Kommunikation og Turismes bekendtgørelse nr. 126 af 18. marts  
+
+ 1993 om radioanlæg i forbindelse med landmobile og andre landbaserede  
+
+ radiotjenester.
+ Tekniske krav og prøvningsforskrifter.
+1. PRØVNINGSBETINGELSER 1.1 Antenne til udstyr med udvendigt antennestik For trådløst mikrofonudstyr med udvendigt antennestik foretages prøvningen  
+
+ af senderens effektivt udstrålede effekt med den eller de antennetyper som  
+
+ angives af fabrikanten af udstyret.
+1.2 Normale og særlige prøvningsbetingelser Prøvningsmålingerne foretages under normale samt, hvor det er nævnt, under  
+
+ særlige prøvningsbetingelser pkt. 1.4 1.3 Spændingsforsyning Under prøvningen forsynes udstyret fra en udvendig spændingskilde, der kan  
+
+ levere forsyningsspændinger som beskrevet i pkt. 1.3.2. Spændingsforsyningens  
+
+ impedans skal være så lav, at dens indflydelse på måleresultaterne er uden  
+
+ betydning.
+ Ved udstyr for indbyggede batterier tilsluttes spændingskilden så tæt som  
+
+ muligt ved batteriklemmerne.
+ Under prøvningen holdes forsyningsspændingen inden for +/-3% af den  
+
+ nominelle værdi.
+ Fabrikanten opgiver de nominelle forsyningsspændinger, udstyret er  
+
+ beregnet for.
+1.4 Normale prøvningsbetingelser 1.4.1 Normal temperatur og fugtighed Prøvning under normale prøvningsbetingelser foretages i et almindeligt  
+
+ laboratorium uden særlig kontrol af temperatur og fugtighed, d.v.s. ved  
+
+ temperaturer mellem +15 grader C og +35 grader C og relative fugtigheder  
+
+ mellem 20% og 75%.
+1.4.2 Forsyningsspændinger ved prøvning under normale  
+
+ prøvningsbetingelser 1.4.2.1 Forsyning fra nettet Ved prøvning under normale prøvningsbetingelser tilføres udstyr beregnet  
+
+ for til-slutning til det almindelige forsyningsnet en forsyningsspænding lig  
+
+ forsyningsnettets nominelle spænding med frekvensen 50 +/-1 Hz.
+1.4.2.2 Andre forsyningsspændinger For udstyr, der benytter andre typer spændingsforsyninger, f.eks.  
+
+ primærbatterier (ikke-genopladelige batterier), opgives prøvningsspændingen  
+
+ af fabrikanten.
+1.5 Særlige prøvningsbetingelser 1.5.1 Temperaturer ved prøvning under særlige betingelser Ved prøvning under særlige betingelser foretages målingerne i  
+
+ overensstemmelse med pkt. 3.5 ved temperaturerne -10 grader C og +55 grader  
+
+ C.
+1.6 Temperaturprøver 1.6.1 Fremgangsmåde Før hver prøvning påbegyndes, sørges for, at udstyret er i termisk  
+
+ ligevægt ved den ønskede temperatur i klimakammeret, idet den termiske  
+
+ ligevægt sikres opnået enten gennem konstatering ved målinger eller ved, at  
+
+ der forløber mindst 1 time, før prøvningen indledes.
+Senderen holdes afbrudt,  
+
+ indtil den termiske ligevægt er opnået.
+ Når prøvningen foretages ved høj temperatur, skal mikrofon med tilhørende  
+
+ sender være tændt i 1 minut, hvorefter de specificerede krav skal kunne  
+
+ overholdes.
+ Under prøvning ved lav temperatur skal mikrofon med tilhørende sender  
+
+ efter opnåelse af termisk ligevægt tændes i 1 minut, hvorefter de  
+
+ specificerede krav til udstyret skal kunne overholdes.
+2. SENDER 2.1 Frekvenser Kun nedennævnte bærebølgefrekvenser må benyttes:
+2.2 Modulationsarter Udstyret skal være indrettet for frekvens- eller fasemodulation, sendetype  
+
+ F3E eller GÅ.
+2.3 Frekvens 2.3.1 Definition Senderens frekvens er differensen mellem den målte bærebølgefrekvens og  
+
+ dennes nominelle værdi.
+2.3.2 Målemetode Bærebølgefrekvensen måles med senderen umoduleret og tilsluttet en fre  
+
+ kvenstæller gennem et passende dæmpeled.
+ Målingerne foretages under normale samt under særlige prøvningsbetingelser  
+
+ (pkt. 1.3).
+2.3.3 Krav Senderens frekvens må ikke være større end +/- 10 kHz fra nominel  
+
+ frekvens.
+2.4 Maximalt frekvenssving 2.4.1 Definition Det maximale frekvensving er den maximale frekvens mellem den modulerede  
+
+ trådløse mikrofons øjebliksfrekvens og den umodulerde mikrofons  
+
+ bærebølgefrekvens.
+2.4.2 Målemetode Mikrofon med tilhørende sender påtrykkes et akustisk signal med frekvensen  
+
+ 1000 Hz og et lydtryk på 104 dBA.
+Senderens antennestik forbindes gennem et  
+
+ passende dæmpeled til et spidsvisende modulationsmeter.
+2.4.3 Krav Det maximale frekvenssving må ikke overstige 75 kHz.
+2.5 Senderens effektivt udstrålede effekt (ERP) 2.5.1 Definition Som mål for senderens bærebølgeeffekt anvendes her den effekt, som skal  
+
+ tilføres en halvbølgedipol for at få samme feltstyrke i den retning, hvor  
+
+ feltstyrken fra senderen er størst under nærmere specificerede  
+
+ målebetingelser.
+2.5.2 Målemetode Den effektivt udstrålede effekt fra senderen med tilhørende antenne eller  
+
+ antenner måles efter metoden beskrevet i afsnit 4.
+2.5.3 Krav Senderens effektivt udstrålede effekt må ikke overstige 5 mW.
+2.6 Uønsket udstråling fra sendere med integreret antenne 2.6.1 Definition Den uønskede udstråling fra senderen bestemmes som den effektivt  
+
+ udstrålede effekt, der udsendes fra den modulerede sender på frekvenser uden  
+
+ for et frekvensbånd på 400 kHz centreret omkring bærebølgefrekvensen.
+Der  
+
+ måles over frekvensområdet 25 MHz - 2000 MHz.
+2.6.2 Målemetode Senderen moduleres som beskrevet i 2.5.2 og den effektivt udstrålede  
+
+ effekt fra senderen efter metoden beskrevet i afsnit 4.
+2.6.3 Krav Den effektivt udstrålede effekt i de enkelte uønskede signaler må ikke på  
+
+ nogen frekvens overstige 4 nW.
+2.7 Uønsket udstråling fra sendere med udvendigt antennestik 2.7.1 Definition Den uønskede udstråling fra senderen bestemmes som den effekt, der  
+
+ udsendes fra den modulerede sender på frekvenser uden for et frekvensbånd på  
+
+ 400 kHz centreret omkring bærebølgefrekvensen.
+Der måles over frekvensområdet  
+
+ 100 kHz - 2000 MHz.
+2.7.2 Målemetode Senderen forbindes gennem et passende dæmpeled til et selektivt voltmeter  
+
+ eller en spektrumanalysator.
+Senderen moduleres som beskrevet i afsnit 2.5.2.  
+
+ Effekten af de enkelte uønskede komposanter måles.
+2.7.3 Krav Effekten af de enkelte uønskede signaler må ikke på nogen frekvens  
+
+ overstige 4 nW.
+3. MODTAGER 3.1 Uønsket udstråling fra modtageren 3.1.1 Definition Al udstråling over antenneklemmerne eller fra den fast monterede antenne  
+
+ og fra kabinettet er, uanset frekvens, uønsket udstråling.
+3.1.2 Målemetode for modtagere med integreret antenne Den effektivt udstrålede effekt fra modtageren måles efter metoden  
+
+ beskrevet i afsnit 4. Der måles over frekvensområdet 25 MHz - 2000 MHz.
+3.1.3 Målemetode for modtagere med udvendigt antennestik Der måles efter metoden beskrevet i afsnit 2.7.2. Der måles over  
+
+ frekvensområdet 100 kHz - 2000 MHz.
+3.1.4 Krav Effekten fra den uønskede udstråling fra modtageren må ikke overstige 2  
+
+ nW.
+4 MÅLEMETODE TIL MÅLING AF EFFEKTIVT UDSTRÅLET EFFEKT 4.1 Måleplads og måleopstilling Målepladsen skal være beliggende på et rimeligt plant areal.
+På  
+
+ måle-pladsen skal der findes et ledende jordnet med en diameter på mindst 5  
+
+ meter, i hvis midtpunkt der anbringes en understøtning, hvorpå måleobjektet  
+
+ placeres.
+Understøtningen består af et plastrør fyldt med en  
+
+ saltvandsopløsning (9 g NaC1 pr. liter vand). Plastrøret har en højde på 1,5  
+
+ meter, og den inderste diameter skal være 10 +/- 0,5 cm.
+Den øverste ende af  
+
+ røret er lukket med en metalplade på 15 cm. i diameter, og metalpladen er i  
+
+ kontakt med vandet.
+Målepladsen skal være så stor, at det er muligt at  
+
+ anbringe en måleantenne i en afstand på en halv bølgelængde af målefrekvensen  
+
+ eller 3 meter, hvad der måtte være størst, fra centeret af jordnettet.
+Det  
+
+ skal sikres, at refleksioner fra uvedkommende genstande på målepladsen ikke  
+
+ generer målingerne.
+4.2 Måleantenne og målemodtager Måleantennen benyttes til at måle udstråling fra såvel udstyret under  
+
+ måling som fra substitutionsantennen.
+ Måleantennen, der skal kunne orienteres såvel vandret som lodret,  
+
+ anbringes på en mast, hvor dens højde over jordplanet kan varieres mellem 1  
+
+ og 4 meter.
+ Målemodtageren behøver ikke at være absolut kalibreret, men skal være i  
+
+ stand til at måle relative signalniveauer.
+4.3 Substitutionsantennen Substitutionsantennen skal bestå af en halvbølgedipol afstemt til  
+
+ målefrekvensen.
+Dipolen placeres normalt således, at dens midtpunkt er  
+
+ sammenfaldende med det sted på måleobjektet, hvor antennen er forbundet til  
+
+ kabinettet.
+ Ved måling på frekvenser, hvor en sådan placering ikke er mulig, eller  
+
+ hvor afstanden mellem substitutionsantennens ydre ende og jorden ville blive  
+
+ mindre end 30 cm ved lodret polarisation, hæves den lodret polariserede  
+
+ substitutionsantenne dog således, at en afstand på 30 cm opnås.
+ Substitutionsantennen forbindes til en målesender under anvendelse af  
+
+ egnede impedanstilpasnings- og balanceringsled.
+4.4 Målemetode Under måling skal måleobjektet placeres på understøtningen med antennen  
+
+ lodret opad, som omtalt under 4.1.
+Senderen skal være umoduleret.
+Målemodtageren afstemmes til senderens  
+
+ frekvens, og måleantennen indstilles til vertikal polarisation.
+Ved variation  
+
+ af måleantennens højde mellem 1 og 4 meter opsøges den højde, hvor størst  
+
+ signal opnås.
+Understøtningen og udstyret, hvorpå der måles, erstattes med den under  
+
+ pkt. 4.3 omtalte substitutionsantenne, og højden af modtageantennen varieres  
+
+ for igen at sikre maksimalt signal.
+Signalniveauet på substitutionsantennens  
+
+ klemmer justeres, indtil samme udslag som tidligere, subsidiært et udslag,  
+
+ der står i et kendt forhold til dette opnås.
+ Den udstrålede effekt er da lig rådighedseffekten på substitutionsantenens  
+
+ klemmer og/eller rådighedseffekten korrigeret med ovennævnte kendte forhold.
+5 KRAV TIL MÅLEUDSTYRETS NØJAGTIGHED Tolerancer på måleudstyrets nøjagtighed er anført nedenfor:
+ Rekvirering af love, bekendtgørelser, standarder m.v.
+ Love, bekendtgørelser og tekniske bestemmelser som er nævnt i denne TB kan  
+
+ fås uden beregning, (hvis ikke andet er angivet ved TB'en i oversigten), ved  
+
+ henvendelse til Telestyrelsen, Holsteinsgade 63, 2100 København Ø, tlf:  
+
+ 35430333, fax: 35431434.
+ETSI dokumenter ((I-)ETS'er og TBR'er samt NET-standarder) kan købes hos  
+
+ Telestyrelsen, ITU rekommandationer m.v. kan købes direkte hos ITU, Place des Nations,  
+
+ CH-1211 Geneve 20, tlf.: +41 22 730 5111, fax: +41 22 730 5194 eller +41 22  
+
+ 733 7256 eller eventuelt gennem Telestyrelsen.
+ Radiorelaterede rekommandationer herunder, ERC Decisons,  
+
+ Radiocommunication Reports, Report Forms og Application Forms,  
+
+ Recommendations on Radiocommunications kan købes hos: ERO, European  
+
+ Radiocommunications Office, Midtermolen 1, 2100 København Ø, tlf: 35250300,  
+
+ fax: 35250330. For yderligere infor-mation henvises til ERO53s hjemmeside på  
+
+ internettet (www.ero.dk).
+ ISO/CEN/CENELEC/IEC/DS standarder kan købes hos Dansk Standard,  
+
+ Kollegievej 6, 2920 Charlottenlund, tlf: 39966101, fax: 39966102.

@@ -1,0 +1,1298 @@
+At-vejledning  
+
+ B.1.4 - Automatisk styrede maskinanlæg, inklusive  
+
+  
+
+ industrirobotanlæg  
+
+  
+
+ Februar 2005 Erstatter At-anvisning nr. 2.2.0.3 af november 1995 Indledning Denne vejledning knytter sig  
+
+ til kapitel 3 i Arbejdstilsynets bekendtgørelse nr. 561 af 24. juni 1994 om  
+
+ indretning af tekniske hjælpemidler.
+Bekendtgørelsen indeholder bl.a. krav  
+
+ om,  
+
+ at tekniske hjælpemidler skal konstrueres og udstyres mv. således, at farer  
+
+ ved  
+
+ hjælpemidlet er imødegået, og at betjening, reparation, rengøring mv. kan ske  
+
+ sikkerheds- og sundhedsmæssigt forsvarligt.
+I § 27 findes nogle særlige krav  
+
+ til automatisk drevne, styrede eller overvågede tekniske hjælpemidler.
+ Denne vejledning giver  
+
+ nærmere retningslinjer for, hvorledes nævnte krav kan opfyldes for automatisk  
+
+ styrede maskinanlæg, inklusive industrirobotanlæg.
+Vejledningen gælder dog ikke,  
+
+ hvis anlægget omfattes af kapitel 2 i nævnte bekendtgørelse.
+I så fald finder  
+
+ alene bestemmelserne i dette kapitel samt bekendtgørelsens bilag I  
+
+ anvendelse,  
+
+ og anlægget skal være CE-mærket efter reglerne i bilag III.
+Afgørende for, om  
+
+ dette er tilfældet, vil normalt være, om anlægget som nyt er leveret til brug  
+
+ efter den 31. december 1994. Er anlægget leveret efter denne dato, vil det  
+
+ normalt være omfattet af kapitel 2.
+ I At-vejledning B.1.3,  
+
+ Maskiner og maskinanlæg, er nærmere redegjort for anvendelsesområdet for  
+
+ kapitel 3 og kapitel 2 i nævnte bekendtgørelse, og der henvises herom til  
+
+ denne  
+
+ At-vejledning.
+ Vejledningen omhandler  
+
+ endvidere krav til brugen af omhandlede maskinanlæg i Arbejdstilsynets  
+
+ bekendtgørelse om anvendelse af tekniske hjælpemidler, herunder krav  
+
+ vedrørende  
+
+ opstilling, eftersyn/vedligeholdelse og instruktion.
+Arbejdstilsynet kræver, at  
+
+ automatisk styrede maskinanlæg er indrettet og opstillet i overensstemmelse  
+
+ med  
+
+ vejledningen eller på anden lige så forsvarlig måde.
+Hvor konkrete  
+
+ omstændigheder gør det nødvendigt, kan Arbejdstilsynet dog stille yderligere  
+
+ krav.
+ Hvor der i vejledningen ikke  
+
+ er overensstemmelse med harmoniserede A- og B-standarders tekniske  
+
+ sikkerhedsniveau, kan de harmoniserede standarder anvendes i stedet for  
+
+ vejledningen.
+ Indholdet i At-vejledningen  
+
+ svarer til retningslinjerne i At-anvisningen fra 1995.
+1. Område Denne vejledning gælder for  
+
+ automatisk styrede maskinanlæg, hvor styreenheden indeholder en programmerbar  
+
+ elektroteknisk/elektronisk styring.
+ Dette indbefatter fx  
+
+ industrirobotter, førerløse truck, CNC-maskiner og andre elstyrede  
+
+ maskinanlæg  
+
+ til bl.a. svejsning, bearbejdning, montering og transport.
+Hvis sådanne maskinanlæg er  
+
+ omfattet af kapitel 2 i bekendtgørelse nr. 561 af 24. juni 1994 om indretning  
+
+ at tekniske hjælpemidler, finder vejledningen ikke anvendelse, jf.  
+
+ indledningen.
+2. Almene bestemmelser Automatiske maskinanlæg,  
+
+ herunder de enkelte enheder, skal være således indrettet, at de kan  
+
+ transporteres, installeres, anvendes og vedligeholdes sikkerheds- og  
+
+ sundhedsmæssigt fuldt forsvarligt.
+2. Indhegnet automatisk maskine.
+Døren skal være  
+
+ elektrisk overvåget.
+Bemærk de forskellige områders benævnelser.
+Dette krav kan opfyldes ved -  
+
+ 	  
+
+ konstruktive  
+
+ foranstaltninger -  
+
+ 	  
+
+ anvendelse af  
+
+ sikkerhedsudstyr som indkapslinger og afskærmninger -  
+
+ 	  
+
+ andre sikringsformer,  
+
+ som garanterer samme sikkerhedsniveau.
+ Hver enkelt enhed skal kunne  
+
+ afbrydes på sikker måde.
+ Nærmere retningslinjer for,  
+
+ hvorledes nævnte krav i almindelighed kan opfyldes for maskiner og  
+
+ maskinanlæg,  
+
+ er givet i At-vejledning om tekniske hjælpemidler  B.1.3. Den gælder  
+
+ også for  
+
+ automatisk styrede maskinanlæg, men herudover skal sådanne maskinanlæg  
+
+ indrettes og anvendes i overensstemmelse med nedenstående pkt. 3 til 7.
+ Indgår der i et anlæg  
+
+ maskintyper, for hvilke der gælder særlige regler, skal også de følges.
+3. Konstruktion og udstyr 3.1. Styring 3.1.1. Generelle krav 3.1.1.1.  
+
+ Bortfald samt tilbagekomst af energi må ikke kunne  
+
+ føre til farlig funktion.
+ 3.1.1.2.  
+
+ Ydre forstyrrelser, fx elektriske og magnetiske  
+
+ felter, lys, temperatur, fugt, lufttryk, støv og forureninger, må ikke kunne  
+
+ påvirke styringens sikkerhedsfunktioner.
+ 3.1.1.3.  
+
+ Anlægget skal indeholde en indikeringsanordning, som  
+
+ ved farlig fejlfunktion viser, hvor fejlen er opstået.
+ 3.1.1.4.  
+
+ Styresignal fra en sikkerhedsanordning må ikke kunne  
+
+ påvirkes af styringer fra andre anordninger og skal være overordnet de  
+
+ styresignaler, som fremkommer fra såvel enkelte enheder som fra den  
+
+ styreudrustning, der styrer hele anlægget.
+3.1.2. Sikkerhedsstyrekredse 3.1.2.1.  
+
+ Alle sikkerhedsfunktioner, som har med  
+
+ personsikkerhed at gøre, pkt. 3.1.2.2., skal indgå i en sikkerhedsstyrekreds,  
+
+ som skal være indrettet således, at anlægget i tilfælde af fejl indtager en  
+
+ sikker tilstand.
+ 3.1.2.1. Eksempel på en styring til et nødstop.  
+
+ Styringen indeholder dublering og overvågning og er indrettet med flere  
+
+ adskilte udgange (to-kanalsystem).
+Dette kan fx gøres ved dublering  
+
+ og overvågning af de i sikkerhedsstyrekredsen anvendte komponenter og  
+
+ signalføringer.
+Dublering betyder her, at hvis en fejl opstår, vil  
+
+ beskyttelsesfunktionen opretholdes af den tilbageværende, ikke fejlramte  
+
+ funktion.
+Overvågning betyder, at en opstået fejl detekteres og bevirker, at  
+
+ næste arbejdscyklus ikke kan igangsættes.
+Overvågning af en komponent skal  
+
+ ske  
+
+ lige så ofte, som komponenten arbejder.
+ Kontaktorer og relæer skal  
+
+ normalt være tvangsførte, dvs. at en sluttekontakt og en brydekontakt aldrig  
+
+ kan være sluttet samtidigt.
+ Endestopkontakter skal være  
+
+ tvangsbrydende, dvs. at et stopsignal gives via en direkte mekanisk  
+
+ forbindelse  
+
+ til endestopkontaktens brydefunktion.
+ En maskines, fx en  
+
+ industrirobots, egen styring er også omfattet af kravene om  
+
+ sikkerhedsstyrekredse  
+
+ i de tilfælde, hvor der er tale om personsikkerhed, fx ved stop (afbremsning)  
+
+ af farlige maskinbevægelser.
+3.1.2.2.  
+
+ Sikkerhedsfunktioner, som har med personsikkerhed at  
+
+ gøre, er især -  
+
+ 	  
+
+ nødstopudstyr -  
+
+ 	  
+
+ stopfunktion som begrænser  
+
+ bevægelsesområdet -  
+
+ 	  
+
+ stopfunktion fra ydre  
+
+ beskyttelsesanordninger, fx dørovervågning, lysgitter, lysstråler,  
+
+ kontaktplader,  
+
+ trædemåtter, følelister mv.
+ -  
+
+ 	  
+
+ stopfunktion fra  
+
+ holdekontakt, samtykkekontakt mv.
+ -  
+
+ 	  
+
+ reduceret hastighed og  
+
+ kraft.
+ 3.1.2.3.  
+
+ Sikkerhedsstyrekredse indeholdende stopfunktioner  
+
+ skal være indrettet efter et af følgende konstruktionsprincipper:
+ a) Relæstyring.
+ Overordnet, dubleret og  
+
+ overvåget sikkerhedsstyring i kontaktor/relæteknik, som på sikker måde  
+
+ direkte  
+
+ kan styre de farlige maskinbevægelser, således at den elektroniske styring er  
+
+ fritaget for sikkerhedsansvar.
+3.1.2.3.a.
+Sikkerhedssystemet til automatiske  
+
+ maskinanlæg.
+Styringen foregår via en programmerbar elektronisk styring  
+
+ (PES),  
+
+ og sikkerheden varetages af en dubleret og overvåget relæstyring  
+
+ (sikkerhedsmodul).
+ b) Elektronisk styring.
+ Dubleret elektronisk styring  
+
+ med gensidig fejlsikker overvågning.
+ Herved skal følgende  
+
+ fejlmuligheder være udelukket:
+At en enkelt fejl (1. fejl)  
+
+ kan medføre personfare At en fejl forbliver i  
+
+ systemet og sammen med næste fejl (2. fejl) kan medføre personfare.
+ Der ses bort fra en samtidig  
+
+ indtræden af to uafhængige fejl.
+3.1.2.3.b.
+Dubleret og overvåget programmerbart  
+
+ elektronisk styresystem (PES), som er indrettet til også at varetage  
+
+ personsikkerheden.
+ c) Andet.
+ Andre foranstaltninger som  
+
+ giver den samme sikkerhed.
+ 3.1.2.4.  
+
+ Sikkerhedsfunktionerne reduceret hastighed og kraft,  
+
+ som bl.a. anvendes ved programmering, skal ved elektroniske styringer være  
+
+ indrettet med:
+a) Kontaktomskifter  
+
+ (transformatoromkobling o.l.) eller b) En kombination af flest  
+
+ mulige enkeltforanstaltninger af software- og hardwareteknisk art, således at  
+
+ samme sikkerhedsniveau som under a) opnås.
+Sådanne foranstaltninger kan  
+
+ fx bestå i -  
+
+ 	  
+
+ overvågning af  
+
+ hastigheder, accelerationer, elektrisk slip (beregnede og faktiske  
+
+ størrelser) -  
+
+ 	  
+
+ computerovervågning  
+
+ (watch-dog) -  
+
+ 	  
+
+ hukommelsesovervågning  
+
+ (cyklisk RAM og PROM-check) -  
+
+ 	  
+
+ vej- eller  
+
+ vinkelgiverovervågning målekredsovervågning (ledningsbrud,  
+
+ kortslutning) -  
+
+ 	  
+
+ tachogeneratorovervågning -  
+
+ 	  
+
+ spændingsovervågning  
+
+ for strømforsyning til computer -  
+
+ 	  
+
+ strømovervågning for  
+
+ strømforsyning til computer -  
+
+ 	  
+
+ spændingsovervågning  
+
+ for driveffektenheder -  
+
+ 	  
+
+ strømovervågning for  
+
+ driveffektenheder -  
+
+ 	  
+
+ temperaturovervågning  
+
+ for computer og effektenheder.
+ 3.1.2.5.  
+
+ Ved hydrauliske og pneumatiske sikkerhedsstyrekredse  
+
+ skal der, ud over hvad der er nævnt i 3.1.2.1., anvendes følgende  
+
+ foranstaltninger for at opnå en sikker tilstand:
+-  
+
+ 	  
+
+ Overvågning af  
+
+ driftstrykket -  
+
+ 	  
+
+ Korrekt driftstryk som  
+
+ en startforudsætning -  
+
+ 	  
+
+ Igangsætning af  
+
+ hydraulisk og pneumatisk styrede energibevægelser må kun finde sted, når  
+
+ anden  
+
+ nødvendig energiforsyning er etableret -  
+
+ 	  
+
+ Efter  
+
+ trykuregelmæssigheder i pneumatisk drevne enheder skal egnede styreelementer  
+
+ bevirke langsom igangsætning -  
+
+ 	  
+
+ Hurtigudluftningsventiler  
+
+ på bevægelsescylindre til brug ved nødstop -  
+
+ 	  
+
+ Kontraventiler på  
+
+ løftecylindre -  
+
+ 	  
+
+ Stopanordninger på  
+
+ alle aksler, som kan bevæges af tyngdekraften -  
+
+ 	  
+
+ Andre  
+
+ foranstaltninger, som garanterer en sikker tilstand.
+3.1.3. Stopanordninger Personsikkerhed og produktion  
+
+ skal koordineres for at øge sikkerheden i anlægget.
+Dette betyder, at de  
+
+ anvendte sikkerhedsfunktioner skal produktionstilpasses, således at  
+
+ produktionen efter et stop kan genstartes på en enkel og sikker måde.
+Dette  
+
+ er  
+
+ både et produktions- og et sikkerhedskrav, idet en besværlig genstart kan  
+
+ give  
+
+ anledning til omgåelse af sikkerhedsforanstaltningerne.
+ Et automatisk maskinanlæg  
+
+ skal således indeholde følgende stopmuligheder:
+ 3.1.3. Principiel indkobling af stopfunktioner i et  
+
+ programmerbart elektronisk styresystem (PES). Principskitse.
+ 3.1.3.1.  
+
+ Produktionstilpasset stop.
+ Et programstop, beregnet til  
+
+ stop af produktionsprocessen i et for arbejdsoperationen naturligt leje, og  
+
+ således  
+
+ at genstart kan ske uden andet indgreb end at give nyt startsignal.
+ Produktionstilpasset stop  
+
+ skal overgå til sikkerhedsstop, hvis en person går ind i farezonen.
+3.1.3.1. Produktionstilpasset stop.
+Et programstop som  
+
+ stopper processen i et for operationen passende leje.
+3.1.3.2.  
+
+ Sikkerhedsstop Stopsignal fra  
+
+ sikkerhedsanordning, når operatøren, efter påvirkning af programstoppet,  
+
+ bevæger sig ind i farezonen og derved påvirker lågekontakt, lysgitter,  
+
+ trædemåtte eller andet.
+Ved genstart kan arbejdet fortsættes fra stoppunktet.
+3.1.3.2. Sikkerhedsstop.
+Signal fra en  
+
+ sikkerhedsanordning, som bevirker, at maskinen går i sikkert stop, når lågen  
+
+ åbnes.
+Det betyder, at utilsigtet start af farlig maskinbevægelse er  
+
+ forhindret, uanset en fejl i styringen.
+3.1.3.3.  
+
+ Nødstop Maskinanlæg og enheder heraf  
+
+ skal let, hurtigt og sikkert kunne stoppes med nødstopanordning, hvis  
+
+ ukontrollerede farlige situationer opstår i anlægget.
+Nødstop skal fungere  
+
+ ved  
+
+ alle driftsmåder, også når en del af anlægget er frakoblet.
+ Nødstopanordningen skal blive  
+
+ i stopstilling, indtil manuel tilbagestilling foretages.
+ Nødstopanordninger skal være  
+
+ fast monterede.
+3.1.3.3. Nødstop.
+Den tredje stopmulighed.
+Skal  
+
+ anvendes i farlige situationer.
+Nødstoppet skal hurtigt og sikkert stoppe  
+
+ alle  
+
+ farlige maskinbevægelser.
+3.1.3.4.  
+
+ Ved sikkerheds- og nødstop skal farlige  
+
+ efterløbsbevægelser standses ved -  
+
+ 	  
+
+ bremsning og/ eller -  
+
+ 	  
+
+ konstrastyring -  
+
+ 	  
+
+ mekanisk spærring og automatiske  
+
+ fikseringsanordninger (gribere) skal bevare deres holdefunktion.
+3.1.4. Omstilling af driftsmetode Omstilling af driftsmetode må  
+
+ ikke medføre farlig funktion.
+Ved omstilling skal samtidig den dertil  
+
+ nødvendige beskyttelsesfunktion automatisk indkobles.
+ Indretning til omstilling af  
+
+ driftsmetode skal være aflåselig og udført således, at det tydeligt fremgår,  
+
+ hvilken driftsform der vælges.
+Driftsmetoder er især -  
+
+ 	  
+
+ automatik -  
+
+ opstilling, herunder programmering og indstilling -  
+
+ 	  
+
+ afprøvning.
+3.1.5. Programmeringsenhed Programmeringsenheder, fx  
+
+ bærbare håndprogrammeringsenheder (HPE), skal -  
+
+ 	  
+
+ være ergonomisk  
+
+ korrekt udformet.
+Håndapparater skal kunne holdes i betjeningsposition med én  
+
+ hånd eller med en holderem -  
+
+ 	  
+
+ være forsynet med  
+
+ nødstop -  
+
+ 	  
+
+ for  
+
+ bevægelsesfunktioner have holdekontakter, fx joystick, med  
+
+ dødmandskontaktfunktion,  
+
+ som er logisk tilpasset bevægelsesretningerne -  
+
+ 	  
+
+ indeholde en  
+
+ holdekontaktanordning (samtykkekontakt), som skal påvirkes samtidig med  
+
+ bevægelsesfunktionskontakten.
+ Ved anvendelse af  
+
+ programmeringsenhed må farlige bevægelser ikke samtidig kunne igangsættes fra  
+
+ anden kommandoanordning, fx på styreskabet.
+3.2. Beskyttelsesanordninger 3.2.1. Generelle krav Automatiske maskinanlæg skal  
+
+ have en personbeskyttelse, som er tilpasset stoptid og bremselængde for  
+
+ anlægget samt for enheder heraf.
+Beskyttelsesanordningen skal forhindre, at  
+
+ en  
+
+ person kan komme ind i farezonen, samt at materiale og værktøj kastes ud og  
+
+ derved kan forårsage personskade.
+Berøringsfrie  
+
+ beskyttelsesanordninger og trædemåtter giver ingen beskyttelse mod  
+
+ udslyngning  
+
+ af materialer og værktøjer.
+Specielle anordninger til fastholdelse, fx gribe-  
+
+ og holdeanordninger indrettet med fjedre, kan derfor være nødvendige.
+3.2.1.1.  
+
+ Hvis det ved automatdrift er absolut nødvendigt, at  
+
+ en person befinder sig inde i det område, der er afgrænset af  
+
+ sikkerhedsudstyret, skal der være en beskyttelsesanordning, som automatisk  
+
+ stopper farlig maskinbevægelse, inden personskade opstår.
+Hvis dette ikke er  
+
+ muligt, skal farlig maskinbevægelse kunne iagttages, og let, hurtigt og  
+
+ sikkert  
+
+ kunne stoppes via en speciel holdekontakt eller anden anordning med samme  
+
+ sikkerhed.
+Dette kan fx være en trepositionsholdekontakt, som stopper farlig  
+
+ maskinbevægelse, både når kontakten trykkes i bund, og når den slippes.
+3.2.2. Genstart Genstart efter stop fra  
+
+ beskyttelsesanordning må kun kunne ske manuelt med den normale startanordning  
+
+ efter påvirkning af en tilbagestillingskontakt (reset), som skal være  
+
+ placeret  
+
+ således, at den ikke kan nås af en person, der befinder sig i fareområdet.
+ Hvis beskyttelsesanordningen  
+
+ påvirkes konstant, mens en person befinder sig i fareområdet, kræves ingen  
+
+ speciel tilbagestillingsanordning.
+ Genstart, efter at driften er  
+
+ stoppet af en beskyttelsesanordning, der også anvendes som  
+
+ betjeningsanordning,  
+
+ må kun ske automatisk, hvis stoppet er en planlagt del af arbejdsprocessen,  
+
+ og  
+
+ hvis beskyttelsesanordningen er påvirket, så længe en person befinder sig i  
+
+ fareområdet.
+3.2.3. Mekaniske afspærringsanordninger,  
+
+ fx indhegninger og kabiner Sikkerhedsafstande, fastgørelse  
+
+ og overvågning skal være i overensstemmelse med Arbejdstilsynets vejledning  
+
+ B.1.3 om maskiner og maskinanlæg.
+Der skal ved konstruktionen træffes de  
+
+ fornødne foranstaltninger imod faren for, at emner og værktøjer kan slynges  
+
+ ud,  
+
+ samt imod blænding, stråling, vandstrålebearbejdning og støj mv.
+Ved  
+
+ robotanlæg  
+
+ betyder dette normalt en indhegningshøjde på 1,8 m.
+3.2.3. Mekanisk afskærmet automatisk styret maskine.  
+
+ Dørene skal være elektrisk overvågede.
+Ved robotanlæg skal indhegningshøjden  
+
+ normalt være 1,8 m, hvis der er fare for fx udslyngning.
+Mellem gulv og  
+
+ indhegning kan være en friåbning på 0,3 m.
+3.2.4. Sikkerhedsudstyr, der reagerer,  
+
+ når en person nærmer sig farezonen Sådant udstyr, fx  
+
+ berøringsløst udstyr (optisk, elektromagnetisk), trædemåtter, kontaktplader,  
+
+ kontaktlister  
+
+ m.m., skal suppleres med afskærmning o.l., hvis der er fare for, at dele kan  
+
+ slynges ud.
+3.2.4.a.
+Industrirobot med drejebord indrettet med  
+
+ lysbomme, advarselslysstråle, tilbagestillingsfunktion, kontaktmåtte og  
+
+ trepositionskontakt.
+3.2.4.b.
+Eksempel på sammenkobling af styreenheder  
+
+ (sikkerhedsmoduler) til sikkerhedsstop på henholdsvis robot og hjælpeudstyr.  
+
+ Kontakt 1 laver en parallelforbindelse over lysbommen i ca. 5 sekunder, mens  
+
+ denne passeres med holdekontakten.
+Kontakt 2 laver en parallelforbindelse  
+
+ over  
+
+ holdekontakten, når denne er anbragt i sin holder.
+3.2.4.1.  
+
+ Anvendes lysstråler, fotocelleanlæg med enkeltstrålet  
+
+ lyssender og -modtager (lysbom), skal normalt anvendes 2 eller 3  
+
+ lysstråleanlæg.
+Ved 2 lysstråleanlæg skal afstandene over gulv være 0,4 m og  
+
+ 1,0 m.
+Ved 3 lysstråleanlæg skal afstanden være 0,3 m, 0,7 m og 1,1 m over  
+
+ gulv.
+Sikkerhedsafstanden mellem en lysstråle og en farezone skal normalt  
+
+ være  
+
+ indrettet efter følgende:
+S = 850 + v(tm  
+
+ + t1  
+
+ ) hvor S = sikkerhedsafstand i mm v = personens  
+
+ bevægelseshastighed i m/s (normalt 1,6 m/s) tm  
+
+ = maskinens  
+
+ stoptid i ms t1  
+
+ =  
+
+ lysstråleanordningens reaktionstid i ms Stoptiden skal kunne opgives  
+
+ af leverandøren.
+ 3.2.4.2.  
+
+ Lysgitter (fotocelleværn) skal opfylde gældende  
+
+ bestemmelser.
+3.2.4.3.  
+
+ Trædemåtter og kontaktplader Trædemåtter og kontaktplader  
+
+ skal placeres foran og i fareområdet således, at man ikke kan passere uden om  
+
+ dem eller skræve over dem.
+Til sikkerhedsafstanden skal tillægges en  
+
+ skridtafstand  
+
+ på 0,6 m.
+3.2.5. To-håndsbetjening To-håndsbetjening skal  
+
+ opfylde gældende bestemmelser.
+ 3.3. Placering af udstyr mv.
+3.3.1. Styreskabe Fordeler- og styreskabe skal  
+
+ så vidt muligt placeres uden for det af sikkerhedsudstyret afgrænsede område.  
+
+ Kan dette ikke teknisk lade sig gøre, skal opstillingsstedet vælges således,  
+
+ at  
+
+ betjenings- og vedligeholdelsespersonalet ikke udsættes for klemningsrisici  
+
+ mellem faststående skabe og bevægelige enheder.
+3.3.1. Robotinstallation sikret med lysgitter, lysbom,  
+
+ advarselslysstråle og kontaktmåtte.
+De forskellige sikkerhedsanordninger skal  
+
+ placeres i en sikkerhedsafstand fra farezonen, som er afhængig af maskinens  
+
+ stoptid, min. 850 mm.
+Placering af styreskabe mv. skal foretages således, at  
+
+ der ikke opstår klemningsrisici mellem faste og bevægelige dele.
+3.3.2. Startordning Anordning til opstart af  
+
+ automatisk drift skal være placeret uden for det område, som er sikret ved  
+
+ sikkerhedsudstyr.
+3.3.3. Begrænsning af anlæggets  
+
+ bevægelsesområde Farlige bevægelsesområder, fx  
+
+ ved en industrirobot, skal om nødvendigt begrænses, fx på grund af -  
+
+ 	  
+
+ begrænset plads i  
+
+ installationen -  
+
+ 	  
+
+ behov for et  
+
+ observationsområde, hvorfra bevægelser i farezonen kan overvåges -  
+
+ 	  
+
+ behov for et  
+
+ observationsområde, hvorfra farlige bevægelser kan styres med håndbåret  
+
+ holdekontakt  
+
+ eller programmeringsenhed.
+Begrænsninger af  
+
+ bevægelsesområdet kan udføres ved -  
+
+ 	  
+
+ mekanisk stop -  
+
+ 	  
+
+ tvangspåvirkede  
+
+ endestopkontakter, som indgår i sikkerhedsstyringen.
+ Observationsområde, som under  
+
+ specielle omstændigheder kan anvendes til brug under afprøvning og  
+
+ overvågning  
+
+ ved arbejdshastighed, skal etableres ved indstillelige stopanslag.
+3.4. Tilførsel og udtagning af emner Tilførsel og udtagning af  
+
+ emner skal, når dette foretages af personer, være indrettet således, a) at det ikke er muligt at  
+
+ komme i berøring med farlige maskinbevægelser, eller b) at farlige  
+
+ maskinbevægelser er direkte styret af sikkerhedsstyringen inden for det  
+
+ område,  
+
+ der er adgang til eller kan indgribes i.
+Styringen skal ske via en  
+
+ sikkerhedsanordning.
+ Kravene i a og b er fx  
+
+ opfyldt ved anvendelse af adskillende afskærmning/ indhegning i forbindelse  
+
+ med  
+
+ følgende anordninger:
+for a) -  
+
+ 	  
+
+ drejeborde,  
+
+ tilførselsvogne eller andre mekaniske anordninger, som tilfører eller udtager  
+
+ emner fra farezonen for b) -  
+
+ 	  
+
+ bevægelige, overvågede  
+
+ skærme, låger m.m.
+ -  
+
+ 	  
+
+ sikkerhedsudstyr, der  
+
+ virker uden berøring, fx lysgitter, lysbomme mv.
+-  
+
+ 	  
+
+ kontaktplader og  
+
+ trædemåtter -  
+
+ 	  
+
+ to-håndsstyresystemer.
+3.4. Robotinstallation med vekslende arbejdspladser.  
+
+ Dørene er elektrisk overvågede.
+Skydedøre og de to endestopkontakter (1 og 2)  
+
+ er således indrettet, at robotten stoppes, hvis den forsøger at komme ind i  
+
+ et  
+
+ område med åben skydedør.
+4. Drift 4.1. Automatisk drift 4.1.1. Opstartbetingelser Automatisk drift må først  
+
+ indledes, når -  
+
+ 	  
+
+ sikkerhedsudstyrets  
+
+ beskyttende funktion er effektiv -  
+
+ 	  
+
+ der ikke opholder sig  
+
+ personer inden for det af sikkerhedsudstyret afgrænsede område.
+ 4.1.2. Fejlfinding, overvågning mv.
+Er det absolut nødvendigt, at  
+
+ der, fx i forbindelse med fejlfinding, skal ske en overvågning af  
+
+ arbejdsforløbet  
+
+ under automatisk drift inden for det område, der er afgrænset af  
+
+ sikkerhedsudstyr, er dette kun tilladt, når -  
+
+ 	  
+
+ ingen andre tekniske  
+
+ foranstaltninger er mulige -  
+
+ 	  
+
+ døre på  
+
+ sikkerhedsafskærmningen altid let kan åbnes udad, samt at a) personen er bundet til  
+
+ observationsområde (pkt. 3.3.3.) i afskærmet område ved fast monteret  
+
+ sikkerhedsudstyr, eller b) der til den enkelte person  
+
+ i observationsområde forefindes en transportabel speciel  
+
+ sikkerhedsholdekontakt  
+
+ (trepositionsholdekontakt) med sikker hedsstop, eller c) andre lige så sikre  
+
+ foranstaltninger.
+4.2. Opstilling 4.2.1. Generelle krav Indstillings- og  
+
+ programmeringsarbejde skal enten foretages med effektivt sikkerhedsudstyr fra  
+
+ pladser, som ligger uden for det afskærmede område, eller som angivet i pkt.  
+
+ 4.2.2., 4.2.3. eller 4.2.4.
+4.2.2. Programmering med HPE Programmering med  
+
+ håndprogrammeringsenhed (HPE) inden for det af sikkerhedssystemet afgrænsede  
+
+ område kan finde sted, når følgende betingelser er opfyldt:
+-  
+
+ 	  
+
+ De farlige  
+
+ maskinbevægelser må kun kunne styres via holdekontakter med  
+
+ dødmandskontaktfunktion  
+
+ på HPE (fx samtykkekontakt og joystick) -  
+
+ 	  
+
+ Hastigheden er  
+
+ reduceret til ca. 250-300 mm/sek.
+4.2.3. Testning ved arbejdshastighed Skal der i  
+
+ undtagelsestilfælde køres testprogrammer ved arbejdshastighed med en person  
+
+ inden for afgrænset område, kan dette foregå fra observationsområde (pkt.  
+
+ 3.3.3.) under følgende betingelser:
+-  
+
+ 	  
+
+ Ophævelse af den  
+
+ reducerede hastighed skal ske ved speciel kontaktanordning -  
+
+ 	  
+
+ Anvendelse af  
+
+ trepositionsholdekontakt for hver person.
+4.2.4. Programmering uden HPE Programmering uden  
+
+ håndprogrammeringsenhed, fx ved manuel styring af robotarm eller via  
+
+ erstatningsapparat,  
+
+ kan fx indrettes efter følgende:
+-  
+
+ 	  
+
+ Afbalanceret robotarm -  
+
+ 	  
+
+ Reduceret hastighed -  
+
+ 	  
+
+ Anvendelse af  
+
+ trepositionsholdekontakt.
+4.2.5. Lysmarkering Ved anvendelse af  
+
+ lysmarkering skal anlæggets øjeblikkelige driftsform markeres med farvet lys  
+
+ efter følgende kode:
+-  
+
+ 	  
+
+ Normaldrift - HVID -  
+
+ 	  
+
+ Driftsforstyrrelser/stop  
+
+ - RØD -  
+
+ 	  
+
+ Opstilling,  
+
+ reparation, vedligeholdelse - GUL -  
+
+ 	  
+
+ Startklar - GRØN.
+5. Frigørelse af fastklemt person Anlægget skal være udført  
+
+ således, at en person, som er fastklemt, kan frigøres hurtigt og sikkert.
+ Følgende metoder kan  
+
+ anvendes:
+-  
+
+ 	  
+
+ Direkte manuel styring  
+
+ af energistyrede ventiler og drivanordninger -  
+
+ 	  
+
+ Omkobling fra  
+
+ automatik til manuel styring -  
+
+ 	  
+
+ Anordning, som kan  
+
+ igangsatte en sikker returbevægelse -  
+
+ 	  
+
+ Manuel frigørelse af  
+
+ energipåvirkede bremser under forudsætning af, at en vægtafbalancering  
+
+ forefindes.
+6. Mærkeplade Anlægget med enheder skal  
+
+ være mærket med fabrikantens og leverandørens navn og adresse, samt -  
+
+ 	  
+
+ type, fabrikationsår,  
+
+ maskinnr.
+-  
+
+ 	  
+
+ energitilslutning -  
+
+ 	  
+
+ egenvægt 7. Brugsanvisning 7.1. Fabrikant og importør/leverandør Ifølge bekendtgørelsen om  
+
+ tekniske hjælpemidlers indretning skal fabrikanten eller  
+
+ importøren/leverandøren  
+
+ af enheder af anlægget medlevere en brugsanvisning med alle sikkerhedsmæssige  
+
+ oplysninger om installation, opstilling, drift og vedligeholdelse.
+7.2. Projekterende og installatør Den, der har projekteret  
+
+ eller installeret anlægget, skal udarbejde en brugsanvisning for det samlede  
+
+ maskinanlæg, som bl.a. giver oplysning om sikker og fagmæssig korrekt drift.
+7.3. Indhold Brugsanvisningen skal være på  
+
+ dansk og bl.a. indeholde forskrifter for -  
+
+ 	  
+
+ automatisk drift -  
+
+ 	  
+
+ opstilling  
+
+ (programmering, indstilling og afprøvning) -  
+
+ 	  
+
+ vedligeholdelse  
+
+ (reparation, rengøring mv.), samt oplysninger om -  
+
+ 	  
+
+ sikkerhedstekniske  
+
+ krav -  
+
+ 	  
+
+ farlige  
+
+ driftstilstande, og hvordan disse undgås -  
+
+ 	  
+
+ afhjælpning af  
+
+ fejlbehæftede driftstilstande -  
+
+ 	  
+
+ hvordan en fastklemt  
+
+ person frigøres -  
+
+ 	  
+
+ risici ved montering,  
+
+ afmontering og vedligeholdelse, fx ved akkumulerede energier til  
+
+ vægtudligning,  
+
+ afmontering af bremser mv.
+ -  
+
+ 	  
+
+ sikkerhedstekniske  
+
+ indretninger, herunder udformning, tilkobling mv.
+-  
+
+ 	  
+
+ indstilling af  
+
+ begrænsninger for de enkelte aksebevægelser -  
+
+ 	  
+
+ regelmæssig kontrol og  
+
+ afprøvning af sikkerhedsudstyr og andre sikkerhedsrelevante dele -  
+
+ 	  
+
+ stoptiden for de  
+
+ enkelte maskinenheder, fx industrirobotten -  
+
+ 	  
+
+ den nødvendige  
+
+ uddannelse og instruktion for personale, som betjener, programmerer og  
+
+ vedligeholder  
+
+ anlæg eller dele heraf.
+ Som eksempler på uddannelses-  
+
+ og instruktionskrav for de aktuelle personer kan bl.a. nævnes:
+-  
+
+ 	  
+
+ Hvordan farlige  
+
+ operationer kan undgås -  
+
+ 	  
+
+ Hvordan man  
+
+ programmerer, således at fejlagtige funktioner opdages eller fører til stop -  
+
+ 	  
+
+ Hvordan en udformning,  
+
+ tilslutning, påvirkning og overvågning af beskyttelsesanordninger foretages,  
+
+ specielt når flere samkørende indretninger er involveret -  
+
+ 	  
+
+ Hvordan justering af  
+
+ mekaniske stop med hensyn til operatørens arbejdssituation og  
+
+ bevægelsesområde  
+
+ foretages.
+Arbejdstilsynet, den 1. februar 2005 DirektørJens Jensen Læs også Arbejdstilsynets vejledninger om:
+(1) Indretning af fjernstyring  
+
+ til tekniske hjælpemidler (2) CE-mærkede maskiner (3) Maskiner og maskinanlæg Læs også branchearbejdsmiljørådenes vejledninger mv.

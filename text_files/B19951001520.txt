@@ -1,0 +1,71 @@
+(MDIR 04.11-28) 1. FORMÅL Denne prøvningsmetode kan benyttes til at undersøge nøjagtigheden af  
+
+ digitale vægtes prisudregningsfunktion (1).
+---------- ---------- 2. HENVISNING TIL MÅLETEKNISKE BESTEMMELSER MDIR  
+
+ 34.11-01, udg. 3 af 26.01.1987, pkt. 9.3 EN 45501:1992/AC:1993, pkt. 4.16 3. FORUDSÆTNINGER Generelt vedrørende måleudstyr, prøvningsbetingelser, prøvningsmiljø,  
+
+ forkonditionering m.v. henvises til MDIR 04.11-10.
+4. PRØVNING Der foretages en undersøgelse af, om en ændring i det viste vejeresultat  
+
+ følges af en samtidig ændring i prisen.
+Dette kan udføres med en  
+
+ vippepunktsprøve med passende valgt enhedspris.
+ Note: Til udførelse af disse specielle vippepunktsprøver er det ikke  
+
+ nødvendigt at benytte kalibrerede lodder. (Som små lodder kan anvendes hagl,  
+
+ sesamfrø, clips ect.).
+Note: Enhedspris skal vælges "passende", så vareprisen  
+
+ "vipper" samtidig med den viste vægt.
+På grund af afrundingen kunne  
+
+ der være en forskel, og netop afrundingen må ikke kunne give en sådan  
+
+ forskel.
+ Dette gentages for 3 belastninger jævnt fordelt fra Min til Max.
+5. KRAV For hver aflæsning skal følgende prøvekrav være opfyldt:
+ 1. Hvis der er tilknyttet en udskrivningsenhed (fx  
+
+ etiketter eller kassebon) skal de trykte værdier være identiske med de viste.
+ 2. Beregnes vareprisen (korrekt afrundet til hele  
+
+ ører), som den viste vægt ganget med den viste enhedspris, skal man komme til  
+
+ netop den af vægten viste og/eller udskrevne varepris.
+ Note: Fx hvis e = d =1g vil en enhedspris på 25 øre/kg omkring d min = 20g  
+
+ medføre, at W = 19g skal give en pris på 0 øre (19g * (25øre/kg) = 0,475 øre)  
+
+ og W = 20g skal give en pris på 1 øre (20g* (25 øre/kg) = 0,5 øre, som skal  
+
+ rundes op til 1 øre). W = 21g skal også give 1 øre i salgspris.
+Note: Et eksempel er automatisk udskrevne (selvklæbende) prisetiketter i  
+
+ supermarkeder, hvor de 3 størrelser er angivet samtidigt.
+Kravet "skal  
+
+ være rigtigt" betyder i dette tilfælde, at de 3 tal altid skal stemme  
+
+ regneteknisk overens.
+Note: Afrunding af salgsprisen skal ske ved oprunding når cifre, der skal  
+
+ fjernes ved afrunding, udgør mindst halvdelen af delingsværdien af  
+
+ salgsprisen.
+I modsat fald skal rundes ned.
+Dette er ensbetydende med, at  
+
+ hvis det "næste" ciffer er 0, 1, 2, 3 eller 4 så bortkastes dette  
+
+ og de efterfølgende cifre (der rundes ned). Hvis det "næste" ciffer  
+
+ er 5, 6, 7, 8 eller 9 rundes der op.
+Således runder 0,475 øre ned til 0 øre,  
+
+ medens 0,5 øre rundes op til 1 øre.
+Herved bliver angivelsen korrekt på en 1  
+
+ øre.

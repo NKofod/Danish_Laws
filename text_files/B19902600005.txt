@@ -1,0 +1,128 @@
+1. Indledning 1.1 Nærværende bestemmelser specificerer de tekniske krav og de tilhørende  
+
+ prøvningsforskrifter, som en analog, trådløs telefon skal overholde for at  
+
+ kunne godkendes til brug i Danmark.
+ 1.2 Vilkår for typegodkendelse, mærkning af udstyr m.v. fremgår af  
+
+ »Bestemmelser om typegodkendelse og andre former for godkendelse af  
+
+ teleterminaludstyr, radiokommunikationsudstyr og fællesantennemateriel«,  
+
+ juli 1989, som kan fås ved henvendelse til Teleinspektionen.
+2. Referencer Nærværende tekniske bestemmelser og prøvningsforskrifter er baseret på  
+
+ CEPT Recommendation T/R 24-03, 1987 (CEPT) samt Cirkulære nr. 27A, december  
+
+ 1981 (C27A) fra Statens Teleråd og »Tekniske bestemmelser for  
+
+ telefonapparater«, september 1989 (TBTA).
+3. Opbygning og tilslutning af en trådløs telefon 3.1 En trådløs telefon består af en bærbar og en stationær del.
+Den stationære del tilsluttes det offentlige telefonnet, og transmissionen  
+
+ mellem de to dele foregår via en radioforbindelse.
+3.2 Den stationære del skal enten indeholde en telefonapparatfunktion  
+
+ eller kunne gennemstille et tilsluttet telefonapparat til telefonnettet.
+Gennemstilling til telefonnettet kan enten ske passivt eller aktivt.
+I sidstnævnte tilfælde styrer den stationære del  
+
+ strømforsyning og/eller signalering til telefonapparatet.
+4. Radiotekniske krav 4.1 En trådløs telefon skal med hensyn til radiotekniske egenskaber opfylde kravene i CEPT ANNEX: Technical characteristics, test conditions and methods of measurements for radioaspects of cordless telephones, operating in the paired bands 914-915 MHz and 959-960 MHz.
+ 4.2 Kravene i annexets afsnit 6 vedrørende transmissionsegenskaber i  
+
+ talefrekvensområdet udgår jf. pkt. 5.3.
+5. Generelle telefontekniske krav 5.1 Prøvning af de telefontekniske egenskaber af en trådløs telefon skal  
+
+ foretages med en afstand på 0,5-2 m mellem bærbar og stationær del.
+ 5.2 En trådløs telefon skal med hensyn til telefontekniske egenskaber og  
+
+ funktioner opfylde kravene, der er angivet i CEPT ANNEX afsnit 1, for så vidt  
+
+ de ikke strider mod bestemmelserne i efterfølgende pkt. 7.2 og afsnit 8  
+
+ vedrørende omkobling og intercom.
+ 5.3 En trådløs telefon skal endvidere opfylde kravene i TBTA, når den  
+
+ virker som telefonapparat, dvs. når den ikke gennemstiller til et andet  
+
+ apparat.
+ Ved taletransmission fra den bærbare del gælder dog, at  
+
+ frekvenskarakteristikkerne for sending og modtagning skal ligge inden for de  
+
+ grænser, som er angivet i fig. 5.3a og 5.3b samt, at kravet i pkt. 2.6.3.2  
+
+ kun skal være opfyldt for en udstyring på 1.8 V i frekvensområdet 500 til  
+
+ 1500 Hz og for en udstyring på (1.8V)*(1500 Hz)/f i frekvensområdet 1500 til  
+
+ 2500 Hz.
+ Hvis den trådløse telefon er udstyret med både compander og forbetoning,  
+
+ skal kravet i pkt. 2.6.3.2 i frekvensområdet 1500 til 2500 Hz kun være  
+
+ opfyldt for en udstyring på (1,8V)*(1500 Hz/f)2.
+ 5.4 Kravne i TBTA, afsnit 4, vedrørende elektrisk emission skal for en  
+
+ trådløs telefon kun være opfyldt, for så vidt de ikke strider mod de  
+
+ radiotekniske krav, som er anført foran i pkt. 4.1.
+6. Telefontekniske krav til gennemstilling i stationær  
+
+ del 6.1 Ved passiv gennemstilling, jf. pkt. 3.2, fra telefonnet til  
+
+ telefonapparat skal de telefontekniske egenskaber af den stationære del  
+
+ opfylde kravene i C27A, pkt. 2.1, 2.5 og 4.3.
+ Prøvning foretages med måleopstillinger som vist i C27A, fig. 2.5 og 4.3,  
+
+ dog med jævnstrømsfødning med begge polariteter.
+ 6.2 Ved aktiv gennemstilling, jf. pkt. 3.2, fra telefonnet til  
+
+ telefonapparat skal de telefontekniske egenskaber af den stationære del  
+
+ opfylde samme krav som anført i pkt. 6.1 og desuden kravene i C27A afsnit X.
+7. Omkoblinger i den trådløse telefon 7.1 Ved overtagelse fra eller overdragelse til den bærbare del af en  
+
+ telefonforbindelse skal kravene i C27A, pkt. 2.4.1 og 2.4.2 være opfyldt.
+Prøvning foretages med en måleopstilling som vist i TBTA, fig.
+M.2.1.6.
+7.2 Ved overdragelse - efter ankommende eller afgående opkald - af en  
+
+ telefonforbindelse mellem stationær og bærbar del må der føres lokalsamtale i  
+
+ op til 60 s.
+Herunder holdes telefonforbindelsen ved hjælp af et særligt  
+
+ holdekredsløb eller som part i en trepartsforbindelse med stationær og bærbar  
+
+ del.
+Den trådløse telefon skal under sådanne forhold opfylde kravene i C27A,  
+
+ pkt. 4.1.2.
+Prøvning foretages med en måleopstilling som vist i TBTA, fig.
+M.2.2.4 -  
+
+ dog med den angivne referenceimpedans erstattet af 600 ohm.
+8. Intercom Mellem stationær og bærbar del tillades lokalsamtale (intercom) af  
+
+ varighed op til 60 s.
+Under lokalsamtale skal ankommende opkald indikeres af  
+
+ den stationære del.
+Den trådløse telefon skal under sådanne forhold opfylde  
+
+ kravene i TBTA pkt. 2.1.4.
+Prøvning foretages med en måleopstilling som vist i TBTA fig.
+M.2.1.4.1 og  
+
+ M.2.1.4.2.
+ Fig. 5.3a: Relative grænser for frekvenskarakteristik for sending fra  
+
+ bærbar del af trådløs telefon.
+ Koordinator (f/Hz, x/dB) for karakteristiske punkter for grænserne.
+ Fig. 5.3b: Relative grænser for frekvenskarakteristik for modtagning fra  
+
+ bærbar del af trådløs telefon.
+ Koordinater (f/Hz, x/dB) for karakteristiske punkter for grænserne.

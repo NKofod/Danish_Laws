@@ -1,0 +1,58 @@
+Bilag 1 Bilag 2 Vejledning om verifikation af OIML R51 x-vægte (Checkvejere). Måleteknisk Vejledning (MV 04.31-11, udg. 1).
+ Baggrund:
+De første danske typegodkendelser af checkvejere er udstedt efter MDIR 34.41 (+ krav til elektronik). OIML R51-19961) er den første egentlige version af R51, som der er udstedt danske typegodkendelser efter.
+Der er ikke udstedt danske typegodkendelser efter 2006 udgaven.
+Alle checkvejere på det danske marked, som ikke er typegodkendt og verificeret efter MID, skal således verificeres efter version 1996.
+ Prøvningsomfang i forbindelse med verifikation:
+Prøvning skal altid udføres i overensstemmelse med anvisningerne i typegodkendelsen/typeafprøvningsattesten.
+I det omfang denne henviser til OIML R51 eller 2006/MID kan prøvningerne udføres som angivet i OIML R51-2006 bortset fra de punkter, hvor der efterfølgende i denne vejledning er anført andet.
+ En oversigt over samtlige prøvninger er vist i bilag 2.
+ Supplerende mærkning:
+ Den grundlæggende mærkning som vægten er udstyret med fra fabrikanten skal forblive uændret på vægten.
+ Efter verifikation (også re-verifikation) forsynes vægten med yderligere mærkning om brugsområdet.
+ Mærkningen skal omfatte information om: Produktet / emballagetypen, Nettovægt, Max afprøvet Tara og Hastighed, Nøjagtighedsklasse (hvis nedklassificeret).
+Eksempel på skilt med supplerende mærkning Prøveemner:
+ Verifikation skal kun udføres med den eller de typer og størrelser af færdigpakninger som vejes på vægten i normal drift.
+ Hvis vægten i normal drift, anvendes til vejning af færdigpakninger med flere forskellige nominelle nettoindhold, udvælges op til fire forskellige testbelastninger efter følgende:
+a) Største og mindste nettoindhold b) Nettoindhold ved kritiske belastninger (toleranceskift) Er pakningerne ikke vejeteknisk identiske, opdeles de først i grupper, og vægten prøves med alle grupper af emner, ved testbelastninger valgt efter ovenstående.
+ Prøves vægten med to eller flere emner, kan vægten anvendes til vejning af andre pakninger, inden for området der afgrænses af det letteste og tungeste prøveemne, såfremt de er vejeteknisk identiske.
+ Såfremt vægten kun prøves med et emne, vil det kun være muligt at veje emner med samme masse, såfremt de er vejeteknisk identiske.
+ Vejeteknisk identiske pakninger:
+ Eksempler på kategorier af vejeteknisk identiske pakninger.
+ Produktkategorier er:
+ let granulat i pose (ex. chips, skumbamser)  småkornet granulat i pose (ex. ris)  storkornet granulat i pose (ex. løsfrosne fiskefileter)  væske i pose (ex. frugtgrød)  let granulat i æske/kasse  granulat i æske/kasse  fast emne (ex. ost i film) Antal testvejninger:
+ Det er prøveemnets brutto masse, der er afgørende for fastlæggelse af antallet af testvejninger i en prøveserie.
+ Tara:
+ R51 opererer med 3 former for tara:
+1. Indtastet tara.
+Dette er blot en regnemaskine-funktion.
+ 2. Statisk Tara. (OIML R51-1:2006, punkt A.5.6.2).
+ 3. Dynamisk tara (OIML R51-1:2006, punkt A.5.6.2).
+ Alle former for taraindretninger skal prøves:
+  For 2 og 3 bestemmes indstillingsnøjagtigheden af tara.
+  For 1, 2 og 3 bestemmes vejenøjagtigheden ved Max tara (eller ved den i pågældende tilfælde maksimale tilgængelige tara). Oplysningerne om tara udtrykkes ved at oplyse Max afprøvet tara i den supplerende mærkning.
+Excentrisk belastning Prøvning af excentrisk last skal udføres, såfremt vægten ikke er forsynet med styr, som kan styre pakningernes placering sideværts på vejebåndet.
+Prøvningen udføres ved hjælp af den/de færdigpakninger som blev anvendt til vejeprøven.
+Der anvendes den pakning som kommer tættest på kravet om at prøve vægten ved 1/3 af maksimum.
+Hvis vejeprøven kun er udført med en pakningsstørrelse, anvendes denne.
+ Tolerancer:
+ Det er færdigpakningens nettoindhold, som er afgørende for fastlæggelse af verifikationstolerancen (MPE og MPS).
+ Det er derfor nødvendigt, at inspektøren råder over alle nødvendige oplysninger om de producerede færdigpakningers nettoindhold i masseenheder, inden prøvning foretages.
+DANAK, den 18. januar 2010 Jesper Høy / P.
+Claudi Johansen Bilag 1 Eksempler:
+For at der er verifikationspligt for vægten, skal den anvendes til kontrolvejning af det nominelle nettoindhold som den endelige færdigpakning skal indeholde.
+Vægten kan således godt anvendes til kontrolvejning af emner uden emballage, så længe at emnet udgør en enhed, altså bliver til en enkelt færdigpakning.
+Som eksempel kan nævnes en plade chokolade, som efter vejningen flowpakkes alene og bliver til en enkelt færdigpakning med angivet netto.
+ A) Færdigpakninger mærket med nominel netto i masse enheder.
+Tolerancetrin vælges ud fra vægtejerens oplysninger om nominelt nettoindhold i pakningen.
+Nettoindholdet er normalt angivet på færdigpakningen.
+ B) Færdigpakninger mærket med nominel netto i volumen enheder.
+ Tolerancetrin vælges ud fra vægtejerens oplysninger om nominelt nettoindhold i masseenheder, udregnet på baggrund af vægtejerens egen densitetsbestemmelse.
+Vægte kan være opstillet i pakkelinien som hjælpeudstyr, og er således ikke verifikationspligtigt.
+Der skal således findes en anden verifikationspligtig vægt til kontrol af færdigpakningens nettoindhold.
+ Den verificerede vægt kan være automatisk eller ikke-automatisk, men alle pakninger skal kontrolvejes hvis der ikke anvendes e-mærkning i.h.t. bekendtgørelse nr. 997 af 10.10.2008).
+ Eksempel:
+ Et glas med sild vejes inden påfyldning af lage og låg.
+Såfremt denne vægt ønskes verificeret, selv om der ikke er pligt til dette, vælges tolerancetrin ud fra vægtejerens oplysninger om tilsigtet gennemsnitlig masse på produktet i glasset (den drænede vægt), på tidspunktet for kontrolvejningen under normal drift.
+Den drænede vægt er normalt angivet på den endelige færdigpakning.
+Bilag 2 1) Der findes en udgave fra 1984, men den er aldrig brugt i DK.

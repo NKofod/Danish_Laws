@@ -1,0 +1,21 @@
+Bekendtgørelse om digital kommunikation m.v. i sager om sygedagpenge og dagpenge efter barselloven I medfør af § 32 a i forvaltningsloven, jf. lovbekendtgørelse nr. 988 af 9. oktober 2012, § 69 i lov om sygedagpenge, jf. lovbekendtgørelse nr. 653 af 26. juni 2012, og § 3, stk. 3 og 6, og § 5, stk. 2, i lov om digital indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven, jf. lovbekendtgørelse nr. 1069 af 14. november 2012, fastsættes efter forhandling med KL:
+Kapitel 1 Digital kommunikation mellem den digitale indberetningsløsning til brug for anmeldelse af sygefravær samt anmodning om refusion af sygedagpenge og dagpenge efter barselloven (SDPI-løsningen) og arbejdsgiver, selvstændige erhvervsdrivende og arbejdsløshedskassen § 1. Arbejdsgivere skal anmelde sygefravær, samt anmode om refusion af sygedagpenge eller dagpenge efter barselloven via SDPI-løsningen.
+ Stk. 2. Selvstændige erhvervsdrivende med et CVR-nummer, skal anmelde sygefravær samt anmode om sygedagpenge eller dagpenge efter barselloven via SDPI-løsningen.
+ Stk. 3. Arbejdsløshedskassen skal anmelde sygefravær og afgive oplysninger til brug for kommunens behandling af den lediges sag om sygedagpenge og afgive oplysninger til brug for Udbetaling Danmarks behandling af den lediges sag om dagpenge efter barselloven via SDPI-løsningen.
+ Stk. 4. Tidspunktet for anmeldelsen af sygefraværet, afgivelse af oplysninger, eller anmodningen om sygedagpenge eller dagpenge efter barselloven, er det tidspunkt, hvor arbejdsgiveren, den selvstændige erhvervsdrivende eller arbejdsløshedskassen har signeret indberetningen i SDPI-løsningen.
+Kapitel 2 Digital kommunikation mellem SDPI-løsningen og kommunen eller Udbetaling Danmark § 2. Kommunen og Udbetaling Danmark skal afhente indberetning og dokumentation fra SDPI-løsningen i OIOXML-meddelelsesformat til automatisk indlægning i egne systemer.
+ Stk. 2. Kommunen og Udbetaling Danmark skal kvittere til SDPI-løsningen ved afhentelse af indberetning og dokumentation.
+ Stk. 3. Data i OIOXML-meddelelsesformat skal til enhver tid overholde de krav og standarder, der er publiceret i Digitaliser.dk.
+§ 3. Kommunen og Udbetaling Danmark skal aflevere sagsbehandlingsresultatet, herunder angivelse af det udbetalte beløb eller afslagsårsagen, til SDPI-løsningen.
+Dette skal ske i OIOXML-meddelelsesformat.
+Kapitel 3 Tekniske krav til kommunikation til SDPI-løsningen og til systemet for Validering af Atypisk Sygefravær (VAS) § 4. Arbejdsgiveren, den selvstændige erhvervsdrivende, arbejdsløshedskassen, kommunen og Udbetaling Danmark skal anvende OCES digital signatur ved indberetning og afhentning af oplysninger fra SDPI-løsningen.
+ § 5. Der skal bruges stærk kryptering og autentificering, når der kommunikeres med SDPI-løsning.
+ Stk. 2. Det er ikke et krav, at der skal ske kryptering, hvis kommunikationen ikke omfatter personoplysninger af fortrolig karakter.
+§ 6. Arbejdsmarkedsstyrelsen er ansvarlig for, at 1) VAS er tilstrækkelig sikker og indeholder nødvendige og tilstrækkelige sikkerhedsprocedurer til at afhente, modtage, behandle og videresende elektroniske meddelelser, 2) VAS i øvrigt følger denne bekendtgørelses regler til behandling af elektroniske meddelelser, 3) Arbejdsmarkedsstyrelsens forretningsgange på dette område sker under iagttagelse af persondataloven, 4) borgerne og virksomhederne er oplyst om VAS, herunder om konkrete registreringer i VAS i fornødent omfang, og 5) der er sket anmeldelse til Datatilsynet i det omfang, det er påkrævet.
+Kapitel 4 Dokumentation, opbevaring og kontrol § 7. Kommunen og Udbetaling Danmark skal opbevare den elektroniske indberetning og dokumentation i samme periode som i dag, svarende til gældende kassationsregler.
+§ 8. Kommunen skal hver måned udtage 10 indberetninger, der foretages igennem SDPI-løsningen til stikprøvekontrol.
+Stikprøverne kan alene foretages på sager, som ikke er udpeget til skærpet kontrol af VAS.
+ Stk. 2. Kommunen skal sende oplysning til VAS om, hvilke sager, der er udtaget til stikprøvekontrol.
+ Ikrafttræden m.v.
+ § 9. Bekendtgørelsen træder i kraft den 1. december 2012.
+ Stk. 2. Bekendtgørelse nr. 643 af 11. juni 2010 om digital kommunikation m.v. i sager om sygedagpenge og dagpenge efter barselloven ophæves.
